@@ -1,21 +1,21 @@
 {
-  "name": "tech-doc-hugo",
+  "name": "buddhavacana",
   "version": "0.0.1",
-  "description": "Hugo theme for technical documentation.",
+  "description": "My study notes for the Word of the Buddha.",
   "main": "none.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/google/docsy-example.git"
+    "url": "git+https://github.com/ChristineTham/buddhavacana.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/google/docsy-example/issues"
+    "url": "https://github.com/ChristineTham/buddhavacana/issues"
   },
-  "homepage": "https://github.com/google/docsy-example#readme",
+  "homepage": "https://github.com/ChristineTham/buddhavacana#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.0",
     "postcss": "^8.3.7",
