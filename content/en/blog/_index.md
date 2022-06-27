@@ -1,5 +1,5 @@
 ---
-title: "Docsy Blog"
+title: "buddhavacana Blog"
 linkTitle: "Blog"
 menu:
   main:
