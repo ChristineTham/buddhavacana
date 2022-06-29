@@ -22,8 +22,8 @@ stateDiagram-v2
   taṇhā --> upādānaṁ
   upādānaṁ --> bhavo
   bhavo --> jāti
-  jāti --> jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti
-  jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti --> [*]
+  jāti --> jarāmaraṇaṁ_sokaparidevadukkhadomanassupāyāsā_sambhavanti
+  jarāmaraṇaṁ_sokaparidevadukkhadomanassupāyāsā_sambhavanti --> [*]
 ```
 
 ## Reference

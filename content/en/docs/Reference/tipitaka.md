@@ -19,6 +19,12 @@ description: >
 [Tipitaka.app](https://tipitaka.app)
 : Tipitaka.app is a free software built and distributed as a Dhamma donation. It will always be free and a property of the Buddhist World.
 
+[Digital Pali Reader](https://www.digitalpalireader.online)
+: The Digital Pali Reader provides a database of the Tipiṭaka in romanised script with a search facility and the inbuilt dictionaries allow for instant lookup of any word
+
+[Tipiṭaka Pāḷi Projector](https://americanmonk.org/tipitaka-pali-projector/)
+: TPP is a software program to help one navigate the vast amounts of Pāḷi texts. It includes, 21 English Ebooks that can be displayed side by side with the Pāḷi texts. The Dictionaries and Search functions are where TPP separates itself from the other Pāḷi readers. It is very fast and totally off-line. It works on Windows as an installable Exe or MacOS DMG file too. The project can also run on any operating system that supports FireFox Web Browser. This application was created at Pa-Auk Forest Monastery in Maymyo. The FireFox version supports Sinhala, Myanmar, Thai and Devanagiri Scripts.
+
 [Access to Insight](https://www.accesstoinsight.org)
 : Access to Insight is an HTML website dedicated to providing accurate, reliable, and useful information concerning the practice and study of Theravada Buddhism, as it has been handed down to us through both the written word of the Pali canon and the living example of the Sangha.
 

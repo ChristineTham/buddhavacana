@@ -1,49 +1,15 @@
 ---
 categories: ["Sutta"]
-tags: ["cattāro satipaṭṭhānā"]
-title: "cattāro satipaṭṭhānā"
-linkTitle: "cattāro satipaṭṭhānā"
-date: 2017-01-05
+tags: ["cattāro satipaṭṭhānā", "Kāyānupassanāānāpānapabba"]
+title: "Kāyānupassanāānāpānapabba"
+linkTitle: "Kāyānupassanāānāpānapabba"
+date: 2022-01-01
+weight: 2
 description: >
-  the four kinds of mindfulness meditation
+  breathing
 markmap:
   maxWidth: 300
 ---
-
-
-## cattāri ariyasaccāni
-
-viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ (keen, aware, and mindful, rid of desire and aversion for the world)
-
-```markmap
-# cattāri ariyasaccāni
-## kāye kāyānupassī
-- body
-## vedanāsu vedanānupassī
-- feelings
-## citte cittānupassī
-- mind
-## dhammesu dhammānupassī
-- principles
-```
-
-### Kāyānupassanā
-
-```markmap
-# kāyānupassanā
-## Kāyānupassanāānāpānapabba
-- Mindfulness of Breathing
-## Kāyānupassanāiriyāpathapabba
-- The Postures
-## Kāyānupassanāsampajānapabba
-- Situational Awareness
-## Kāyānupassanāpaṭikūlamanasikārapabba
-- Focusing on the Repulsive
-## Kāyānupassanādhātumanasikārapabba
-- Focusing on the Elements
-## Kāyānupassanānavasivathikapabba
-- The Charnel Ground Contemplations
-```
 
 #### Kāyānupassanāānāpānapabba
 

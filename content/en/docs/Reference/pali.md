@@ -1,11 +1,14 @@
 ---
-title: "Pali"
-linkTitle: "Pali"
+title: "Pāli"
+linkTitle: "Pāli"
 date: 2022-01-01
 weight: 10
 description: >
-  Resources for learning Pali.
+  Resources for learning Pāli.
 ---
+
+[Resources for Learning Pali](http://pali.pratyeka.org)
+: The classical, literary language of Theravada Buddhism, with special reference to problems of indigenous orthography and phonology by Eisel Mazard (大影)
 
 [LEARN PALI LANGUAGE](https://palistudies.blogspot.com)
 : Pali language grammar tutorials. Learn to read the Pali language for yourself. This blog is to help those wishing to make a first stab at translating the Pāli language & scriptures.
@@ -18,3 +21,6 @@ description: >
 
 [OCBS Courses](https://ocbs-courses.org)
 : Online Courses from the Oxford Centre for Buddhist Studies
+
+[Pali-English Dictionary](https://dsal.uchicago.edu/dictionaries/pali/)
+: Online version of The Pali Text Society's Pali-English dictionary
