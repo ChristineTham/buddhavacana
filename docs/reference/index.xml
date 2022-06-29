@@ -1,5 +1,7 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – Reference</title><link>https://ChristineTham.github.io/buddhavacana/docs/reference/</link><description>Recent content in Reference on buddhavacana</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://ChristineTham.github.io/buddhavacana/docs/reference/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Pali</title><link>https://ChristineTham.github.io/buddhavacana/docs/reference/pali/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ChristineTham.github.io/buddhavacana/docs/reference/pali/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – Reference</title><link>https://ChristineTham.github.io/buddhavacana/docs/reference/</link><description>Recent content in Reference on buddhavacana</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://ChristineTham.github.io/buddhavacana/docs/reference/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Pāli</title><link>https://ChristineTham.github.io/buddhavacana/docs/reference/pali/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ChristineTham.github.io/buddhavacana/docs/reference/pali/</guid><description>
 &lt;dl>
+&lt;dt>&lt;a href="http://pali.pratyeka.org">Resources for Learning Pali&lt;/a>&lt;/dt>
+&lt;dd>The classical, literary language of Theravada Buddhism, with special reference to problems of indigenous orthography and phonology by Eisel Mazard (大影)&lt;/dd>
 &lt;dt>&lt;a href="https://palistudies.blogspot.com">LEARN PALI LANGUAGE&lt;/a>&lt;/dt>
 &lt;dd>Pali language grammar tutorials. Learn to read the Pali language for yourself. This blog is to help those wishing to make a first stab at translating the Pāli language &amp;amp; scriptures.&lt;/dd>
 &lt;dt>&lt;a href="https://www.baus.org/en/teaching/learning-pali/">Learning Pali – Buddha’s Language&lt;/a>&lt;/dt>
@@ -8,6 +10,8 @@
 &lt;dd>This course is designed to help you to learn the basics of Pali grammar and vocabulary through direct study of selections from the Buddha’s discourses. It thus aims to enable you to read the Buddha’s discourses in the original as quickly as possible. The textbook for the course is A New Course in Reading Pali: Entering the Word of the Buddha by James Gair and W.S. Karunatilleke (1998, Motilal Banarsidass Publishers, Delhi, India. ISBN 81-208-1440-1). The Pali grammatical tables were designed by Bhikkhu Nyanatusita.&lt;/dd>
 &lt;dt>&lt;a href="https://ocbs-courses.org">OCBS Courses&lt;/a>&lt;/dt>
 &lt;dd>Online Courses from the Oxford Centre for Buddhist Studies&lt;/dd>
+&lt;dt>&lt;a href="https://dsal.uchicago.edu/dictionaries/pali/">Pali-English Dictionary&lt;/a>&lt;/dt>
+&lt;dd>Online version of The Pali Text Society&amp;rsquo;s Pali-English dictionary&lt;/dd>
 &lt;/dl></description></item><item><title>Docs: Tipitaka</title><link>https://ChristineTham.github.io/buddhavacana/docs/reference/tipitaka/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ChristineTham.github.io/buddhavacana/docs/reference/tipitaka/</guid><description>
 &lt;dl>
 &lt;dt>&lt;a href="https://suttacentral.net">SuttaCentral&lt;/a>&lt;/dt>
@@ -18,6 +22,10 @@
 &lt;dd>This web site is based on the Chaṭṭha Saṅgāyana CD published by the Vipassana Research Institute. Based at Dhamma Giri, Igatpuri, near Mumbai, India, the Vipassana Research Institute also publishes literature &amp;amp; disseminates information related to Vipassana Meditation Technique as taught by S.N.Goenka in the tradition of Sayagyi U Ba Khin.&lt;/dd>
 &lt;dt>&lt;a href="https://tipitaka.app">Tipitaka.app&lt;/a>&lt;/dt>
 &lt;dd>Tipitaka.app is a free software built and distributed as a Dhamma donation. It will always be free and a property of the Buddhist World.&lt;/dd>
+&lt;dt>&lt;a href="https://www.digitalpalireader.online">Digital Pali Reader&lt;/a>&lt;/dt>
+&lt;dd>The Digital Pali Reader provides a database of the Tipiṭaka in romanised script with a search facility and the inbuilt dictionaries allow for instant lookup of any word&lt;/dd>
+&lt;dt>&lt;a href="https://americanmonk.org/tipitaka-pali-projector/">Tipiṭaka Pāḷi Projector&lt;/a>&lt;/dt>
+&lt;dd>TPP is a software program to help one navigate the vast amounts of Pāḷi texts. It includes, 21 English Ebooks that can be displayed side by side with the Pāḷi texts. The Dictionaries and Search functions are where TPP separates itself from the other Pāḷi readers. It is very fast and totally off-line. It works on Windows as an installable Exe or MacOS DMG file too. The project can also run on any operating system that supports FireFox Web Browser. This application was created at Pa-Auk Forest Monastery in Maymyo. The FireFox version supports Sinhala, Myanmar, Thai and Devanagiri Scripts.&lt;/dd>
 &lt;dt>&lt;a href="https://www.accesstoinsight.org">Access to Insight&lt;/a>&lt;/dt>
 &lt;dd>Access to Insight is an HTML website dedicated to providing accurate, reliable, and useful information concerning the practice and study of Theravada Buddhism, as it has been handed down to us through both the written word of the Pali canon and the living example of the Sangha.&lt;/dd>
 &lt;dt>&lt;a href="https://www.accesstoinsight.org/tipitaka/sltp/index.html">Sri Lanka Tripitaka Project&lt;/a>&lt;/dt>
@@ -60,4 +68,54 @@
 &lt;dd>Established in 1990 as a nonprofit 501(c)(3) educational organization, The Tricycle Foundation is dedicated to making Buddhist teachings and practices broadly available. In 1991 the Foundation launched Tricycle: The Buddhist Review, the first magazine intended to present Buddhist perspectives to a Western readership. Tricycle soon became the leading independent journal of Buddhism in the West, where it continues to be the most inclusive and widely read vehicle for the dissemination of Buddhist views and values. Our readership includes longtime practitioners, those who are curious about Buddhism or meditation, and those who do not identify as Buddhist but value the teachings of wisdom and compassion that Buddhism has to offer.&lt;/dd>
 &lt;dt>&lt;a href="https://blogs.dickinson.edu/buddhistethics/">Journal of Buddhist Ethics&lt;/a>&lt;/dt>
 &lt;dd>The Journal of Buddhist Ethics is the first academic journal dedicated entirely to Buddhist ethics. We promote the study of Buddhist ethics through the publication of research and book reviews and by hosting occasional online conferences.&lt;/dd>
-&lt;/dl></description></item></channel></rss>
+&lt;/dl></description></item><item><title>Docs: How to type Pāli characters on a macOS keyboard</title><link>https://ChristineTham.github.io/buddhavacana/docs/reference/keyboard/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ChristineTham.github.io/buddhavacana/docs/reference/keyboard/</guid><description>
+&lt;p>This post is based on a helpful article written in Vietnamese: &lt;a href="https://theravada.vn/danh-pali-va-sanskrit-tren-may-macos/">Gõ chữ Pāḷi và Sanskrit trên máy tính MacOS &amp;amp; Windows&lt;/a> by Dhamma Nanda.&lt;/p>
+&lt;p>First of all, install the &amp;ldquo;ABC Extended input source in macOS. Open &lt;strong>System Preferences&lt;/strong>, then click on &lt;strong>Language &amp;amp; Region&lt;/strong> icon, then select the &lt;strong>Keyboard Preferences&lt;/strong> button at the bottom. Click on the &lt;strong>Input Sources&lt;/strong> tab, then click on the &lt;strong>+&lt;/strong> button to add a new input source.&lt;/p>
+&lt;p>Select the &lt;strong>ABC Extended&lt;/strong> Input source for the English language as per the following screenshot:&lt;/p>
+&lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 665px">
+&lt;img class="card-img-top" src="https://ChristineTham.github.io/buddhavacana/buddhavacana/docs/reference/keyboard/ABC-extended_hu6cf70a86a6e423ee20f2e5a7e86d53ce_476079_655x591_fit_catmullrom_3.png" width="655" height="591">
+&lt;div class="card-body px-0 pt-2 pb-0">
+&lt;p class="card-text">
+ABC Extended input source
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;p>Make sure &lt;strong>ABC Extended&lt;/strong> is the selected (or default) input source when you want to enter Pāli characters.&lt;/p>
+&lt;p>If you wish to enter a specific diacritic mark with a character, prefix the character with one of the following keystrokes (letter together with Opt/Alt/⌥ key):&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">Diacritic&lt;/th>
+&lt;th style="text-align:center">Prefix&lt;/th>
+&lt;th style="text-align:center">Example&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">¯&lt;/td>
+&lt;td style="text-align:center">⌥+a&lt;/td>
+&lt;td style="text-align:center">ā&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">.&lt;/td>
+&lt;td style="text-align:center">⌥+x&lt;/td>
+&lt;td style="text-align:center">ṭ&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">˙&lt;/td>
+&lt;td style="text-align:center">⌥+w&lt;/td>
+&lt;td style="text-align:center">ṫ&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">˜&lt;/td>
+&lt;td style="text-align:center">⌥+n&lt;/td>
+&lt;td style="text-align:center">ñ&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">´&lt;/td>
+&lt;td style="text-align:center">⌥+e&lt;/td>
+&lt;td style="text-align:center">ś&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>The ŋ (eng) character is entered as Opt+Shift+&lt;code>;&lt;/code> followed by &lt;code>n&lt;/code>. Other phonetic symbols are available when other keys are used together with Opt+Shift+&lt;code>.&lt;/code> or Opt+Shift+&lt;code>;&lt;/code>.&lt;/p></description></item></channel></rss>
