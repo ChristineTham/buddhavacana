@@ -2,40 +2,42 @@
 &lt;h2 id="alphabet-order">Alphabet Order&lt;/h2>
 &lt;p>Pāli consists of 8 vowels (sara) and 33 consonants (vyañjana), arranged in the following order (the letters in round brackets are unused in the dictionary):&lt;/p>
 &lt;blockquote>
-&lt;p>Vowels: a, ā, i, ī, u, ū&lt;br>
-Dipthongs: e, o&lt;br>
-Nasals: (ṃ&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>)&lt;br>
-Gutturals: k, kh, g, gh, (ṅ)&lt;br>
-Palatals: c, ch, j, jh, ñ&lt;br>
-Cerebrals: ṭ, ṭh, ḍ, (ḍh), (ṇ)&lt;br>
-Dentals: t, th, d, dh, n&lt;br>
-Labials: p, ph, b, bh, m&lt;br>
-Semivowels: y, r, l, (ḷ), (ḷh), v&lt;br>
-Sibilants: s&lt;br>
-Aspirate: h&lt;/p>
+&lt;p>sara: a, ā, i, ī, u, ū&lt;br>
+kaṇṭhatāluja: e&lt;br>
+kaṇṭhoṭṭhaja: o&lt;br>
+niggahīta: (ṃ&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>)&lt;br>
+kavagga: k, kh, g, gh, (ṅ)&lt;br>
+cavagga: c, ch, j, jh, ñ&lt;br>
+ṭavagga: ṭ, ṭh, ḍ, (ḍh), (ṇ)&lt;br>
+tavagga: t, th, d, dh, n&lt;br>
+pavagga: p, ph, b, bh, m&lt;br>
+antaṭṭha: y, r, l, (ḷ), (ḷh)&lt;br>
+dantoṭṭhaja: v&lt;br>
+sakāra: s&lt;br>
+hakāra: h&lt;/p>
 &lt;/blockquote>
 &lt;h2 id="alphabet-groups">Alphabet Groups&lt;/h2>
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>Articulation Group&lt;/th>
-&lt;th style="text-align:center">Short Vowel&lt;/th>
-&lt;th style="text-align:center">Long Vowel&lt;/th>
-&lt;th style="text-align:center">Diphthong Vowel&lt;/th>
-&lt;th style="text-align:center">niggahīta&lt;/th>
-&lt;th style="text-align:center">Voiceless Nonaspirate&lt;/th>
-&lt;th style="text-align:center">Voiceless Aspirate&lt;/th>
-&lt;th style="text-align:center">Voiced Nonaspirate&lt;/th>
-&lt;th style="text-align:center">Voiced Aspirate&lt;/th>
-&lt;th style="text-align:center">Nasal&lt;/th>
-&lt;th style="text-align:center">Liquids&lt;/th>
-&lt;th style="text-align:center">Spirant&lt;/th>
-&lt;th style="text-align:center">Sibilant&lt;/th>
+&lt;th>Articulation Place&lt;/th>
+&lt;th style="text-align:center">rassa&lt;/th>
+&lt;th style="text-align:center">dīgha&lt;/th>
+&lt;th style="text-align:center">kaṇṭhatāluja kaṇṭhoṭṭhaja&lt;/th>
+&lt;th style="text-align:center">anunāsika&lt;/th>
+&lt;th style="text-align:center">aghosa sithila&lt;/th>
+&lt;th style="text-align:center">aghosa dhanita&lt;/th>
+&lt;th style="text-align:center">ghosa sithila&lt;/th>
+&lt;th style="text-align:center">ghosa dhanita&lt;/th>
+&lt;th style="text-align:center">nāsika&lt;/th>
+&lt;th style="text-align:center">antaṭṭha&lt;/th>
+&lt;th style="text-align:center">hakāra&lt;/th>
+&lt;th style="text-align:center">sakāra&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>Gutturals&lt;/td>
+&lt;td>kaṇṭhaja&lt;/td>
 &lt;td style="text-align:center">a&lt;/td>
 &lt;td style="text-align:center">ā&lt;/td>
 &lt;td style="text-align:center">&lt;/td>
@@ -50,7 +52,7 @@ Aspirate: h&lt;/p>
 &lt;td style="text-align:center">&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Palatals&lt;/td>
+&lt;td>tāluja&lt;/td>
 &lt;td style="text-align:center">i&lt;/td>
 &lt;td style="text-align:center">ī&lt;/td>
 &lt;td style="text-align:center">e&lt;/td>
@@ -65,7 +67,7 @@ Aspirate: h&lt;/p>
 &lt;td style="text-align:center">&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Cerebrals&lt;/td>
+&lt;td>muḍḍhaja&lt;/td>
 &lt;td style="text-align:center">&lt;/td>
 &lt;td style="text-align:center">&lt;/td>
 &lt;td style="text-align:center">o&lt;/td>
@@ -80,7 +82,7 @@ Aspirate: h&lt;/p>
 &lt;td style="text-align:center">&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Dentals&lt;/td>
+&lt;td>dantaja&lt;/td>
 &lt;td style="text-align:center">&lt;/td>
 &lt;td style="text-align:center">&lt;/td>
 &lt;td style="text-align:center">&lt;/td>
@@ -95,7 +97,7 @@ Aspirate: h&lt;/p>
 &lt;td style="text-align:center">s&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Labials&lt;/td>
+&lt;td>oṭṭhaja&lt;/td>
 &lt;td style="text-align:center">u&lt;/td>
 &lt;td style="text-align:center">ū&lt;/td>
 &lt;td style="text-align:center">&lt;/td>
@@ -115,68 +117,84 @@ Aspirate: h&lt;/p>
 &lt;table>
 &lt;thead>
 &lt;tr>
+&lt;th>vagga&lt;/th>
 &lt;th>Group&lt;/th>
 &lt;th>Sound&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
+&lt;td>kaṇṭhaja&lt;/td>
 &lt;td>Gutturals&lt;/td>
 &lt;td>pronounced in the throat&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>tāluja&lt;/td>
 &lt;td>Palatals&lt;/td>
 &lt;td>pressing the tongue on the front-palate&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>muḍḍhaja&lt;/td>
 &lt;td>Linguals (Cerebrals, Retroflex)&lt;/td>
 &lt;td>bringing the up-turned tip of the tongue in contact with the back of the palate&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>dantaja&lt;/td>
 &lt;td>Dentals&lt;/td>
 &lt;td>pronounced with the aid of the teeth&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>oṭṭhaja&lt;/td>
 &lt;td>Labials&lt;/td>
 &lt;td>formed by means of the lips&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>hakāra&lt;/td>
 &lt;td>Spirant&lt;/td>
 &lt;td>a strong aspirated breathing&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>sakāra&lt;/td>
 &lt;td>Sibilant&lt;/td>
 &lt;td>has a hissing sound&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>niggahīta&lt;/td>
+&lt;td>anunāsika&lt;/td>
+&lt;td>Nasal&lt;/td>
 &lt;td>nasal breathing found only after the short vowels: aṃ, iṃ, uṃ&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>aghosa&lt;/td>
 &lt;td>Voiceless (Surds, stops)&lt;/td>
 &lt;td>hard, flat, and toneless&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>ghosa&lt;/td>
 &lt;td>Voiced (Sonants)&lt;/td>
 &lt;td>soft and uttered with a checked tone&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>dhanita&lt;/td>
 &lt;td>Aspirates&lt;/td>
 &lt;td>pronounced with a strong breathing or h sound added to them&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>sithila&lt;/td>
 &lt;td>Nonaspirates&lt;/td>
 &lt;td>pronounced naturally, without effort and without the h sound&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>nāsika&lt;/td>
 &lt;td>Nasals&lt;/td>
 &lt;td>sounded through the nose&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>antaṭṭha&lt;/td>
 &lt;td>Liquids (Resonants, semi-vowels)&lt;/td>
 &lt;td>readily combine with other consonants: (except, perhaps, ḷ)&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>-&lt;/td>
 &lt;td>Mutes (Nonsurds)&lt;/td>
 &lt;td>not being readily pronounced without the aid of a vowel&lt;/td>
 &lt;/tr>
