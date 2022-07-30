@@ -1,7 +1,8 @@
 ---
 title: "The Pāli Alphabet"
-linkTitle: "The Pāli Alphabet"
+linkTitle: "Alphabet"
 date: 2022-01-01
+weight: 10
 description: >
   Concise summary of the romanised Pāli Alphabet
 ---
@@ -10,49 +11,51 @@ description: >
 
 Pāli consists of 8 vowels (sara) and 33 consonants (vyañjana), arranged in the following order (the letters in round brackets are unused in the dictionary):
 
->Vowels: a, ā, i, ī, u, ū  
->Dipthongs: e, o  
->Nasals: (ṃ[^1])  
->Gutturals: k, kh, g, gh, (ṅ)  
->Palatals: c, ch, j, jh, ñ  
->Cerebrals: ṭ, ṭh, ḍ, (ḍh), (ṇ)  
->Dentals: t, th, d, dh, n  
->Labials: p, ph, b, bh, m  
->Semivowels: y, r, l, (ḷ), (ḷh), v  
->Sibilants: s  
->Aspirate: h
+>sara: a, ā, i, ī, u, ū  
+>kaṇṭhatāluja: e  
+>kaṇṭhoṭṭhaja: o  
+>niggahīta: (ṃ[^1])  
+>kavagga: k, kh, g, gh, (ṅ)  
+>cavagga: c, ch, j, jh, ñ  
+>ṭavagga: ṭ, ṭh, ḍ, (ḍh), (ṇ)  
+>tavagga: t, th, d, dh, n  
+>pavagga: p, ph, b, bh, m  
+>antaṭṭha: y, r, l, (ḷ), (ḷh)  
+>dantoṭṭhaja: v  
+>sakāra: s  
+>hakāra: h
 
 [^1]: ṃ (niggahīta) can be written η, ṁ or ṃ
 
 ## Alphabet Groups
 
-|Articulation Group|Short Vowel|Long Vowel|Diphthong Vowel|niggahīta|Voiceless Nonaspirate|Voiceless Aspirate|Voiced Nonaspirate|Voiced Aspirate|Nasal|Liquids|Spirant|Sibilant|
+|Articulation Place|rassa|dīgha|kaṇṭhatāluja kaṇṭhoṭṭhaja|anunāsika|aghosa sithila|aghosa dhanita|ghosa sithila|ghosa dhanita|nāsika|antaṭṭha|hakāra|sakāra|
 |---------|:---:|:--:|:-------:|:-------:|:---------:|:------:|:---------:|:------:|:---:|:-----:|:-----:|:------:|
-|Gutturals|  a  |  ā |         |         |     k     |   kh   |     g     |    gh  |  ṅ  |       |    h  |        |
-|Palatals |  i  |  ī |    e    |         |     c     |   ch   |     j     |    jh  |  ñ  |   y   |       |        |
-|Cerebrals|     |    |    o    |    ṃ    |     ṭ     |   ṭh   |     ḍ     |    ḍh  |  ṇ  |  r ḷ  |       |        |
-|Dentals  |     |    |         |         |     t     |   th   |     d     |    dh  |  n  |  v l  |       |    s   |
-|Labials  |  u  |  ū |         |         |     p     |   ph   |     b     |    bh  |  m  |       |       |        |
+|kaṇṭhaja |  a  |  ā |         |         |     k     |   kh   |     g     |    gh  |  ṅ  |       |    h  |        |
+|tāluja   |  i  |  ī |    e    |         |     c     |   ch   |     j     |    jh  |  ñ  |   y   |       |        |
+|muḍḍhaja |     |    |    o    |    ṃ    |     ṭ     |   ṭh   |     ḍ     |    ḍh  |  ṇ  |  r ḷ  |       |        |
+|dantaja  |     |    |         |         |     t     |   th   |     d     |    dh  |  n  |  v l  |       |    s   |
+|oṭṭhaja  |  u  |  ū |         |         |     p     |   ph   |     b     |    bh  |  m  |       |       |        |
 
 ## How to form sounds
 
-|Group|Sound|
-|-----|-----|
-|Gutturals|pronounced in the throat|
-|Palatals|pressing the tongue on the front-palate|
-|Linguals (Cerebrals, Retroflex)|bringing the up-turned tip of the tongue in contact with the back of the palate|
-|Dentals|pronounced with the aid of the teeth|
-|Labials|formed by means of the lips|
-|Spirant|a strong aspirated breathing|
-|Sibilant|has a hissing sound|
-|niggahīta|nasal breathing found only after the short vowels: aṃ, iṃ, uṃ|
-|Voiceless (Surds, stops)|hard, flat, and toneless|
-|Voiced (Sonants)|soft and uttered with a checked tone|
-|Aspirates|pronounced with a strong breathing or h sound added to them|
-|Nonaspirates|pronounced naturally, without effort and without the h sound|
-|Nasals|sounded through the nose|
-|Liquids (Resonants, semi-vowels)|readily combine with other consonants: (except, perhaps, ḷ)|
-|Mutes (Nonsurds)|not being readily pronounced without the aid of a vowel|
+|vagga|Group|Sound|
+|-----|-----|-----|
+|kaṇṭhaja|Gutturals|pronounced in the throat|
+|tāluja|Palatals|pressing the tongue on the front-palate|
+|muḍḍhaja|Linguals (Cerebrals, Retroflex)|bringing the up-turned tip of the tongue in contact with the back of the palate|
+|dantaja|Dentals|pronounced with the aid of the teeth|
+|oṭṭhaja|Labials|formed by means of the lips|
+|hakāra|Spirant|a strong aspirated breathing|
+|sakāra|Sibilant|has a hissing sound|
+|anunāsika|Nasal|nasal breathing found only after the short vowels: aṃ, iṃ, uṃ|
+|aghosa|Voiceless (Surds, stops)|hard, flat, and toneless|
+|ghosa|Voiced (Sonants)|soft and uttered with a checked tone|
+|dhanita|Aspirates|pronounced with a strong breathing or h sound added to them|
+|sithila|Nonaspirates|pronounced naturally, without effort and without the h sound|
+|nāsika|Nasals|sounded through the nose|
+|antaṭṭha|Liquids (Resonants, semi-vowels)|readily combine with other consonants: (except, perhaps, ḷ)|
+|-|Mutes (Nonsurds)|not being readily pronounced without the aid of a vowel|
 
 ## Pronunciation
 
