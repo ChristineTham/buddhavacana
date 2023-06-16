@@ -1,6 +1,6 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – Kāyānupassanāānāpānapabba</title><link>https://christham.net/buddhavacana/tags/k%C4%81y%C4%81nupassan%C4%81%C4%81n%C4%81p%C4%81napabba/</link><description>Recent content in Kāyānupassanāānāpānapabba on buddhavacana</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://christham.net/buddhavacana/tags/k%C4%81y%C4%81nupassan%C4%81%C4%81n%C4%81p%C4%81napabba/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Kāyānupassanāānāpānapabba</title><link>https://christham.net/buddhavacana/docs/sutta/4meditation/breathing/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/4meditation/breathing/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – Kāyānupassanāānāpānapabba</title><link>https://christham.net/buddhavacana/tags/k%C4%81y%C4%81nupassan%C4%81%C4%81n%C4%81p%C4%81napabba/</link><description>Recent content in Kāyānupassanāānāpānapabba on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://christham.net/buddhavacana/tags/k%C4%81y%C4%81nupassan%C4%81%C4%81n%C4%81p%C4%81napabba/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Kāyānupassanāānāpānapabba</title><link>https://christham.net/buddhavacana/docs/sutta/4meditation/breathing/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/4meditation/breathing/</guid><description>
 &lt;h4 id="kāyānupassanāānāpānapabba">Kāyānupassanāānāpānapabba&lt;/h4>
-&lt;pre tabindex="0">&lt;code class="language-mermaid" data-lang="mermaid">stateDiagram-v2
+&lt;pre class="mermaid">stateDiagram-v2
 state bhikkhu &amp;lt;&amp;lt;choice&amp;gt;&amp;gt;
 [*] --&amp;gt; bhikkhu
 bhikkhu --&amp;gt; araññagato
@@ -11,8 +11,8 @@ rukkhamūlagato --&amp;gt; nisīdati_pallaṅkaṁ
 suññāgāragato --&amp;gt; nisīdati_pallaṅkaṁ
 nisīdati_pallaṅkaṁ --&amp;gt; ābhujitvā_ujuṁ
 ābhujitvā_ujuṁ --&amp;gt; parimukhaṁ_satiṁ_upaṭṭhapetvā
-parimukhaṁ_satiṁ_upaṭṭhapetvā --&amp;gt; [*]
-&lt;/code>&lt;/pre>&lt;h2 id="reference">Reference&lt;/h2>
+parimukhaṁ_satiṁ_upaṭṭhapetvā --&amp;gt; [*]&lt;/pre>
+&lt;h2 id="reference">Reference&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://suttacentral.net/dn22">Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315 PT SC&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.ancient-buddhist-texts.net/Buddhist-Texts/D22-Mahasatipatthana/index.htm">Mahāsatipaṭṭhānasuttaṁ (DN 22) ABT&lt;/a>&lt;/li>

@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – Reference</title><link>https://christham.net/buddhavacana/docs/reference/</link><description>Recent content in Reference on buddhavacana</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://christham.net/buddhavacana/docs/reference/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Pāli</title><link>https://christham.net/buddhavacana/docs/reference/pali/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/reference/pali/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – Reference</title><link>https://christham.net/buddhavacana/docs/reference/</link><description>Recent content in Reference on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://christham.net/buddhavacana/docs/reference/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Pāli</title><link>https://christham.net/buddhavacana/docs/reference/pali/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/reference/pali/</guid><description>
 &lt;dl>
 &lt;dt>&lt;a href="http://pali.pratyeka.org">Resources for Learning Pali&lt;/a>&lt;/dt>
 &lt;dd>The classical, literary language of Theravada Buddhism, with special reference to problems of indigenous orthography and phonology by Eisel Mazard (大影)&lt;/dd>
@@ -72,14 +72,14 @@
 &lt;p>This post is based on a helpful article written in Vietnamese: &lt;a href="https://theravada.vn/danh-pali-va-sanskrit-tren-may-macos/">Gõ chữ Pāḷi và Sanskrit trên máy tính MacOS &amp;amp; Windows&lt;/a> by Dhamma Nanda.&lt;/p>
 &lt;p>First of all, install the &amp;ldquo;ABC Extended input source in macOS. Open &lt;strong>System Preferences&lt;/strong>, then click on &lt;strong>Language &amp;amp; Region&lt;/strong> icon, then select the &lt;strong>Keyboard Preferences&lt;/strong> button at the bottom. Click on the &lt;strong>Input Sources&lt;/strong> tab, then click on the &lt;strong>+&lt;/strong> button to add a new input source.&lt;/p>
 &lt;p>Select the &lt;strong>ABC Extended&lt;/strong> Input source for the English language as per the following screenshot:&lt;/p>
-&lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 665px">
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 665px">
 &lt;img class="card-img-top" src="https://christham.net/buddhavacana/buddhavacana/docs/reference/keyboard/ABC-extended_hu6cf70a86a6e423ee20f2e5a7e86d53ce_476079_655x591_fit_catmullrom_3.png" width="655" height="591">
-&lt;div class="card-body px-0 pt-2 pb-0">
+&lt;figcaption class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 ABC Extended input source
 &lt;/p>
-&lt;/div>
-&lt;/div>
+&lt;/figcaption>
+&lt;/figure>
 &lt;p>Make sure &lt;strong>ABC Extended&lt;/strong> is the selected (or default) input source when you want to enter Pāli characters.&lt;/p>
 &lt;p>If you wish to enter a specific diacritic mark with a character, prefix the character with one of the following keystrokes (letter together with Opt/Alt/⌥ key):&lt;/p>
 &lt;table>

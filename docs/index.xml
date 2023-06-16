@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – Documentation</title><link>https://christham.net/buddhavacana/docs/</link><description>Recent content in Documentation on buddhavacana</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://christham.net/buddhavacana/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: dukkhaṁ ariyasaccaṁ</title><link>https://christham.net/buddhavacana/docs/sutta/4truths/suffering/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/4truths/suffering/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – Documentation</title><link>https://christham.net/buddhavacana/docs/</link><description>Recent content in Documentation on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://christham.net/buddhavacana/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: dukkhaṁ ariyasaccaṁ</title><link>https://christham.net/buddhavacana/docs/sutta/4truths/suffering/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/4truths/suffering/</guid><description>
 &lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap"># dukkhā
 ## jāti
 - (re)birth
@@ -108,7 +108,7 @@
 &lt;li>&lt;a href="https://suttacentral.net/pli-tv-kd1">Mahākhandhaka Pli Tv Kd 1 PTS 1.1–1.100 P&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Docs: Kāyānupassanāānāpānapabba</title><link>https://christham.net/buddhavacana/docs/sutta/4meditation/breathing/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/4meditation/breathing/</guid><description>
 &lt;h4 id="kāyānupassanāānāpānapabba">Kāyānupassanāānāpānapabba&lt;/h4>
-&lt;pre tabindex="0">&lt;code class="language-mermaid" data-lang="mermaid">stateDiagram-v2
+&lt;pre class="mermaid">stateDiagram-v2
 state bhikkhu &amp;lt;&amp;lt;choice&amp;gt;&amp;gt;
 [*] --&amp;gt; bhikkhu
 bhikkhu --&amp;gt; araññagato
@@ -119,8 +119,8 @@ rukkhamūlagato --&amp;gt; nisīdati_pallaṅkaṁ
 suññāgāragato --&amp;gt; nisīdati_pallaṅkaṁ
 nisīdati_pallaṅkaṁ --&amp;gt; ābhujitvā_ujuṁ
 ābhujitvā_ujuṁ --&amp;gt; parimukhaṁ_satiṁ_upaṭṭhapetvā
-parimukhaṁ_satiṁ_upaṭṭhapetvā --&amp;gt; [*]
-&lt;/code>&lt;/pre>&lt;h2 id="reference">Reference&lt;/h2>
+parimukhaṁ_satiṁ_upaṭṭhapetvā --&amp;gt; [*]&lt;/pre>
+&lt;h2 id="reference">Reference&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://suttacentral.net/dn22">Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315 PT SC&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.ancient-buddhist-texts.net/Buddhist-Texts/D22-Mahasatipatthana/index.htm">Mahāsatipaṭṭhānasuttaṁ (DN 22) ABT&lt;/a>&lt;/li>
@@ -599,7 +599,7 @@ hakāra: h&lt;/p>
 &lt;li>&lt;a href="https://suttacentral.net/mn141">Saccavibhaṅgasutta MN 141 PTS 3.248–3.252&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://suttacentral.net/pli-tv-kd1">Mahākhandhaka Pli Tv Kd 1 PTS 1.1–1.100 P&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Docs: paṭiccasamuppādaṁ</title><link>https://christham.net/buddhavacana/docs/sutta/pa%E1%B9%ADiccasamupp%C4%81da%E1%B9%81/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/pa%E1%B9%ADiccasamupp%C4%81da%E1%B9%81/</guid><description>
-&lt;pre tabindex="0">&lt;code class="language-mermaid" data-lang="mermaid">stateDiagram-v2
+&lt;pre class="mermaid">stateDiagram-v2
 [*] --&amp;gt; avijjā
 avijjā --&amp;gt; saṅkhārā
 saṅkhārā --&amp;gt; viññāṇaṁ
@@ -612,8 +612,8 @@ taṇhā --&amp;gt; upādānaṁ
 upādānaṁ --&amp;gt; bhavo
 bhavo --&amp;gt; jāti
 jāti --&amp;gt; jarāmaraṇaṁ_sokaparidevadukkhadomanassupāyāsā_sambhavanti
-jarāmaraṇaṁ_sokaparidevadukkhadomanassupāyāsā_sambhavanti --&amp;gt; [*]
-&lt;/code>&lt;/pre>&lt;h2 id="reference">Reference&lt;/h2>
+jarāmaraṇaṁ_sokaparidevadukkhadomanassupāyāsā_sambhavanti --&amp;gt; [*]&lt;/pre>
+&lt;h2 id="reference">Reference&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://suttacentral.net/dn22">Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315 PT&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://suttacentral.net/mn141">Saccavibhaṅgasutta MN 141 PTS 3.248–3.252&lt;/a>&lt;/li>
