@@ -14,6 +14,11 @@ markmap:
 ## ariyo aṭṭhaṅgiko maggo (noble eightfold path)
 
 ```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
 # ariyo aṭṭhaṅgiko maggo
 ## sammādiṭṭhi
 - right belief

@@ -12,6 +12,11 @@ markmap:
 ---
 
 ```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
 # dukkhanirodhaṁ ariyasaccaṁ
 ## yo tassāyeva taṇhāya asesavirāganirodho
 - full fading away and ending of all craving

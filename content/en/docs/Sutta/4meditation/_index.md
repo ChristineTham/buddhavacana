@@ -16,6 +16,11 @@ markmap:
 viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ (keen, aware, and mindful, rid of desire and aversion for the world)
 
 ```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
 # cattāri ariyasaccāni
 ## kāye kāyānupassī
 - body

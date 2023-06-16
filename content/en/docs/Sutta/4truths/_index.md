@@ -16,6 +16,11 @@ dukkham samudayo nirodho magga
 ## cattāri ariyasaccāni
 
 ```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
 # cattāri ariyasaccāni
 ## idam dukkham
 - pain

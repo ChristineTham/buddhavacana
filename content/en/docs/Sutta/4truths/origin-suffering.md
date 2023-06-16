@@ -12,6 +12,11 @@ markmap:
 ---
 
 ```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
 # dukkhasamudayaṁ ariyasaccaṁ
 ## yāyaṁ taṇhā ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī
 - the craving that leads to rebirth, that comes with delight and sensual desire, ever delighting in this and that

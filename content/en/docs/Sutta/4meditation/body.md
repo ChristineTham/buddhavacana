@@ -14,6 +14,11 @@ markmap:
 #### Kāyānupassanāānāpānapabba
 
 ```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
 # kāyānupassanā
 ## Kāyānupassanāānāpānapabba
 - Mindfulness of Breathing

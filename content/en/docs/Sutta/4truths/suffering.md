@@ -12,6 +12,11 @@ markmap:
 ---
 
 ```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
 # dukkhā
 ## jāti
 - (re)birth
@@ -33,6 +38,11 @@ markmap:
 ## jāti
 
 ```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
 ## jāti
 ### jāti
 - rebirth
@@ -51,6 +61,11 @@ markmap:
 ## jarā
 
 ```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
 ## jarā
 ### jarā
 - old age
@@ -71,6 +86,11 @@ markmap:
 ## maraṇaṁ
 
 ```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
 ## maraṇaṁ
 ### cuti
 - passing away

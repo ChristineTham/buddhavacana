@@ -11,6 +11,11 @@ markmap:
 ---
 
 ```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
 # pañcupādānakkhandhā
 ## rūpupādānakkhandho
 - form
