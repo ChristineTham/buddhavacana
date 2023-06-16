@@ -1,5 +1,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – sutta</title><link>https://christham.net/buddhavacana/categories/sutta/</link><description>Recent content in sutta on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://christham.net/buddhavacana/categories/sutta/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: dukkhaṁ ariyasaccaṁ</title><link>https://christham.net/buddhavacana/docs/sutta/4truths/suffering/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/4truths/suffering/</guid><description>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap"># dukkhā
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# dukkhā
 ## jāti
 - (re)birth
 ## jarā
@@ -16,7 +21,12 @@
 ## pañcupādānakkhandhā
 - five grasping aggregates
 &lt;/code>&lt;/pre>&lt;h2 id="jāti">jāti&lt;/h2>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">## jāti
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+## jāti
 ### jāti
 - rebirth
 ### sañjāti
@@ -30,7 +40,12 @@
 ### āyatanānaṁ paṭilābho
 - acquisition of the sense fields
 &lt;/code>&lt;/pre>&lt;h2 id="jarā">jarā&lt;/h2>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">## jarā
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+## jarā
 ### jarā
 - old age
 ### jīraṇatā
@@ -46,7 +61,12 @@
 ### indriyānaṁ paripāko
 - failing faculties
 &lt;/code>&lt;/pre>&lt;h2 id="maraṇaṁ">maraṇaṁ&lt;/h2>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">## maraṇaṁ
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+## maraṇaṁ
 ### cuti
 - passing away
 - perishing
@@ -72,7 +92,12 @@
 &lt;li>&lt;a href="https://suttacentral.net/pli-tv-kd1">Mahākhandhaka Pli Tv Kd 1 PTS 1.1–1.100 P&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Docs: Kāyānupassanā</title><link>https://christham.net/buddhavacana/docs/sutta/4meditation/body/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/4meditation/body/</guid><description>
 &lt;h4 id="kāyānupassanāānāpānapabba">Kāyānupassanāānāpānapabba&lt;/h4>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap"># kāyānupassanā
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# kāyānupassanā
 ## Kāyānupassanāānāpānapabba
 - Mindfulness of Breathing
 ## Kāyānupassanāiriyāpathapabba
@@ -92,7 +117,12 @@
 &lt;li>&lt;a href="https://suttacentral.net/mn141">Saccavibhaṅgasutta MN 141 PTS 3.248–3.252&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://suttacentral.net/pli-tv-kd1">Mahākhandhaka Pli Tv Kd 1 PTS 1.1–1.100 P&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Docs: dukkhasamudayaṁ ariyasaccaṁ</title><link>https://christham.net/buddhavacana/docs/sutta/4truths/origin-suffering/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/4truths/origin-suffering/</guid><description>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap"># dukkhasamudayaṁ ariyasaccaṁ
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# dukkhasamudayaṁ ariyasaccaṁ
 ## yāyaṁ taṇhā ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī
 - the craving that leads to rebirth, that comes with delight and sensual desire, ever delighting in this and that
 ## kāmataṇhā
@@ -127,7 +157,12 @@ parimukhaṁ_satiṁ_upaṭṭhapetvā --&amp;gt; [*]&lt;/pre>
 &lt;li>&lt;a href="https://suttacentral.net/mn141">Saccavibhaṅgasutta MN 141 PTS 3.248–3.252&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://suttacentral.net/pli-tv-kd1">Mahākhandhaka Pli Tv Kd 1 PTS 1.1–1.100 P&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Docs: dukkhanirodhaṁ ariyasaccaṁ</title><link>https://christham.net/buddhavacana/docs/sutta/4truths/cessation-suffering/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/4truths/cessation-suffering/</guid><description>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap"># dukkhanirodhaṁ ariyasaccaṁ
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# dukkhanirodhaṁ ariyasaccaṁ
 ## yo tassāyeva taṇhāya asesavirāganirodho
 - full fading away and ending of all craving
 ## cāgo
@@ -145,7 +180,12 @@ parimukhaṁ_satiṁ_upaṭṭhapetvā --&amp;gt; [*]&lt;/pre>
 &lt;li>&lt;a href="https://suttacentral.net/pli-tv-kd1">Mahākhandhaka Pli Tv Kd 1 PTS 1.1–1.100 P&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Docs: dukkhanirodhagāminī paṭipadā ariyasaccaṁ</title><link>https://christham.net/buddhavacana/docs/sutta/4truths/8path/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/4truths/8path/</guid><description>
 &lt;h2 id="ariyo-aṭṭhaṅgiko-maggo-noble-eightfold-path">ariyo aṭṭhaṅgiko maggo (noble eightfold path)&lt;/h2>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap"># ariyo aṭṭhaṅgiko maggo
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# ariyo aṭṭhaṅgiko maggo
 ## sammādiṭṭhi
 - right belief
 ## sammāsaṅkappo
@@ -170,7 +210,12 @@ parimukhaṁ_satiṁ_upaṭṭhapetvā --&amp;gt; [*]&lt;/pre>
 &lt;/ul></description></item><item><title>Docs: cattāri ariyasaccāni</title><link>https://christham.net/buddhavacana/docs/sutta/4truths/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/4truths/</guid><description>
 &lt;p>dukkham samudayo nirodho magga&lt;/p>
 &lt;h2 id="cattāri-ariyasaccāni">cattāri ariyasaccāni&lt;/h2>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap"># cattāri ariyasaccāni
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# cattāri ariyasaccāni
 ## idam dukkham
 - pain
 - incapable of suffering
@@ -194,7 +239,12 @@ evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.&lt;/p>
 &lt;/ul></description></item><item><title>Docs: Sutta Piṭaka</title><link>https://christham.net/buddhavacana/docs/sutta/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/</guid><description/></item><item><title>Docs: cattāro satipaṭṭhānā</title><link>https://christham.net/buddhavacana/docs/sutta/4meditation/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/4meditation/</guid><description>
 &lt;h2 id="cattāri-ariyasaccāni">cattāri ariyasaccāni&lt;/h2>
 &lt;p>viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ (keen, aware, and mindful, rid of desire and aversion for the world)&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap"># cattāri ariyasaccāni
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# cattāri ariyasaccāni
 ## kāye kāyānupassī
 - body
 ## vedanāsu vedanānupassī
@@ -210,7 +260,12 @@ evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.&lt;/p>
 &lt;li>&lt;a href="https://suttacentral.net/mn141">Saccavibhaṅgasutta MN 141 PTS 3.248–3.252&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://suttacentral.net/pli-tv-kd1">Mahākhandhaka Pli Tv Kd 1 PTS 1.1–1.100 P&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Docs: pañcupādānakkhandhā</title><link>https://christham.net/buddhavacana/docs/sutta/5aggregates/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/5aggregates/</guid><description>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap"># pañcupādānakkhandhā
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# pañcupādānakkhandhā
 ## rūpupādānakkhandho
 - form
 ## vedanupādānakkhandho

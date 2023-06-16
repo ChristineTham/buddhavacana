@@ -1,6 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – ariyo aṭṭhaṅgiko maggo</title><link>https://christham.net/buddhavacana/tags/ariyo-a%E1%B9%AD%E1%B9%ADha%E1%B9%85giko-maggo/</link><description>Recent content in ariyo aṭṭhaṅgiko maggo on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://christham.net/buddhavacana/tags/ariyo-a%E1%B9%AD%E1%B9%ADha%E1%B9%85giko-maggo/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: dukkhanirodhagāminī paṭipadā ariyasaccaṁ</title><link>https://christham.net/buddhavacana/docs/sutta/4truths/8path/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/4truths/8path/</guid><description>
 &lt;h2 id="ariyo-aṭṭhaṅgiko-maggo-noble-eightfold-path">ariyo aṭṭhaṅgiko maggo (noble eightfold path)&lt;/h2>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap"># ariyo aṭṭhaṅgiko maggo
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# ariyo aṭṭhaṅgiko maggo
 ## sammādiṭṭhi
 - right belief
 ## sammāsaṅkappo

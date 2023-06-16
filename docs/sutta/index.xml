@@ -1,7 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – Sutta Piṭaka</title><link>https://christham.net/buddhavacana/docs/sutta/</link><description>Recent content in Sutta Piṭaka on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://christham.net/buddhavacana/docs/sutta/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: cattāri ariyasaccāni</title><link>https://christham.net/buddhavacana/docs/sutta/4truths/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/4truths/</guid><description>
 &lt;p>dukkham samudayo nirodho magga&lt;/p>
 &lt;h2 id="cattāri-ariyasaccāni">cattāri ariyasaccāni&lt;/h2>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap"># cattāri ariyasaccāni
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# cattāri ariyasaccāni
 ## idam dukkham
 - pain
 - incapable of suffering
@@ -25,7 +30,12 @@ evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.&lt;/p>
 &lt;/ul></description></item><item><title>Docs: cattāro satipaṭṭhānā</title><link>https://christham.net/buddhavacana/docs/sutta/4meditation/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/4meditation/</guid><description>
 &lt;h2 id="cattāri-ariyasaccāni">cattāri ariyasaccāni&lt;/h2>
 &lt;p>viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ (keen, aware, and mindful, rid of desire and aversion for the world)&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap"># cattāri ariyasaccāni
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# cattāri ariyasaccāni
 ## kāye kāyānupassī
 - body
 ## vedanāsu vedanānupassī
@@ -41,7 +51,12 @@ evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.&lt;/p>
 &lt;li>&lt;a href="https://suttacentral.net/mn141">Saccavibhaṅgasutta MN 141 PTS 3.248–3.252&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://suttacentral.net/pli-tv-kd1">Mahākhandhaka Pli Tv Kd 1 PTS 1.1–1.100 P&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Docs: pañcupādānakkhandhā</title><link>https://christham.net/buddhavacana/docs/sutta/5aggregates/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/5aggregates/</guid><description>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap"># pañcupādānakkhandhā
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# pañcupādānakkhandhā
 ## rūpupādānakkhandho
 - form
 ## vedanupādānakkhandho

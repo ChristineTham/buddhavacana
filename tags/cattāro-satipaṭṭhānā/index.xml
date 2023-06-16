@@ -1,6 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – cattāro satipaṭṭhānā</title><link>https://christham.net/buddhavacana/tags/catt%C4%81ro-satipa%E1%B9%AD%E1%B9%ADh%C4%81n%C4%81/</link><description>Recent content in cattāro satipaṭṭhānā on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://christham.net/buddhavacana/tags/catt%C4%81ro-satipa%E1%B9%AD%E1%B9%ADh%C4%81n%C4%81/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Kāyānupassanā</title><link>https://christham.net/buddhavacana/docs/sutta/4meditation/body/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/4meditation/body/</guid><description>
 &lt;h4 id="kāyānupassanāānāpānapabba">Kāyānupassanāānāpānapabba&lt;/h4>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap"># kāyānupassanā
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# kāyānupassanā
 ## Kāyānupassanāānāpānapabba
 - Mindfulness of Breathing
 ## Kāyānupassanāiriyāpathapabba
@@ -42,7 +47,12 @@ parimukhaṁ_satiṁ_upaṭṭhapetvā --&amp;gt; [*]&lt;/pre>
 &lt;/ul></description></item><item><title>Docs: cattāro satipaṭṭhānā</title><link>https://christham.net/buddhavacana/docs/sutta/4meditation/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/4meditation/</guid><description>
 &lt;h2 id="cattāri-ariyasaccāni">cattāri ariyasaccāni&lt;/h2>
 &lt;p>viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ (keen, aware, and mindful, rid of desire and aversion for the world)&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap"># cattāri ariyasaccāni
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# cattāri ariyasaccāni
 ## kāye kāyānupassī
 - body
 ## vedanāsu vedanānupassī
