@@ -18,7 +18,7 @@ menu:
 
 {{< /blocks/cover >}}
 
-{{< blocks/section type="section" type="section" >}}
+{{< blocks/section type="section" type="section" color="light" >}}
 
 <div class="col-12">
 <h2 class="text-center">About Me</h2>
