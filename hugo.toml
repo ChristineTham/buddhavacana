@@ -200,6 +200,8 @@ enable = true
 [params.mermaid]
 enable = true
 
+[params.plantuml]
+enable = true
 # hugo module configuration
 
 [module]
