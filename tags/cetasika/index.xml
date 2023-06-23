@@ -1,0 +1,274 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – cetasika</title><link>https://christham.net/buddhavacana/tags/cetasika/</link><description>Recent content in cetasika on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 23 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://christham.net/buddhavacana/tags/cetasika/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Catudhā Paramattha</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/catudha-paramattha/</link><pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/catudha-paramattha/</guid><description>
+&lt;blockquote>
+&lt;p>Tattha vutt’ábhidhammatthá&lt;br>
+Catudhá paramatthato&lt;br>
+Cittaí cetasikaí rúpaí&lt;br>
+Nibbánam iti sabbathá.&lt;/p>
+&lt;/blockquote>
+&lt;pre class="mermaid">C4Context
+title catudhá paramattha
+Enterprise_Boundary(b0, &amp;#34;Abhidhamma&amp;#34;) {
+System(citta, &amp;#34;citta&amp;#34;, &amp;#34;consciousness&amp;#34;)
+System(cetasika, &amp;#34;cetasika&amp;#34;, &amp;#34;mental factors&amp;#34;)
+System(rupa, &amp;#34;rūpa&amp;#34;, &amp;#34;matter&amp;#34;)
+System(nibbana, &amp;#34;Nibbāna&amp;#34;, &amp;#34;Nirvana&amp;#34;)
+}&lt;/pre></description></item><item><title>Docs: Cetasikasangahavibhāga</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/cetasika/</link><pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/cetasika/</guid><description>
+&lt;p>Ekuppāda-nirodhā ca ekālambana-vatthukā&lt;br>
+Cetoyuttā dvipaññāsa dhammā cetasikā matā.&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startmindmap
+*:==aññasamānacetasika
+----
+Ethically Variable Factors;
+**:===sabbacittasādhāraṇa
+----
+Universals;
+***_ 1. Contact (phassa)
+***_ 2. Feeling (vedanā)
+***_ 3. Perception (saññā)
+***_ 4. Volition (cetanā)
+***_ 5. One-pointedness (ekaggatā)
+***_ 6. Mental life faculty (jīvitindriya)
+***_ 7. Attention (manasikāra)
+**:===pakiṇṇaka
+----
+Occasionals;
+***_ 8. Initial application (vitakka)
+***_ 9. Sustained application (vicāra)
+***_ 10. Decision (adhimokkha)
+***_ 11. Energy (viriya)
+***_ 12. Zest (pīti)
+***_ 13. Desire (chanda)
+*:==akusalacetasika
+----
+Unwholesome Factors;
+**:===sabbacittasādhāraṇa
+----
+Universals;
+***_ 14. Delusion (moha)
+***_ 15. Shamelessness (ahirika)
+***_ 16. fearlessness of wrongdoing (anottappa)
+***_ 17. Restlessness (uddhacca)
+**:===pakiṇṇaka
+----
+Occasionals;
+***_ 18. Greed (lobha)
+***_ 19. Wrong view (diṭṭhi)
+***_ 20. Conceit (māna)
+***_ 21. Hatred (dosa)
+***_ 22. Envy (issā)
+***_ 23. Avarice (macchariya)
+***_ 24. Worry (kukkucca)
+***_ 25. Sloth (thīna)
+***_ 26. Torpor (middha)
+***_ 27. Doubt (vicikicchā)
+*:==sobhanacetasika
+----
+Beautiful Factors;
+**:===sobhanasādhāraṇa
+----
+Universals;
+***_ 28. Faith (saddhā)
+***_ 29. Mindfulness (sati)
+***_ 30. Shame (hiri)
+***_ 31. fear of wrongdoing (ottappa)
+***_ 32. Non-greed (alobha)
+***_ 33. Non-hatred (adosa)
+***_ 34. Neutrality of mind (tatramajjhattatā)
+***_ 35. Tranquillity of the (mental) body (kāyapassaddhi)
+***_ 36. Tranquillity of consciousness (cittapassaddhi)
+***_ 37. Lightness of the (mental) body (kāyalahutā)
+***_ 38. Lightness of consciousness (cittalahutā)
+***_ 39. Malleability of the (mental) body (kāyamudutā)
+***_ 40. Malleability of consciousness (cittamudutā)
+***_ 41. Wieldiness of the (mental) body (kāyakammaññatā)
+***_ 42. Wieldiness of consciousness (cittakammaññatā)
+***_ 43. Proficiency of the (mental) body (kāyapāguññatā)
+***_ 44. Proficiency of consciousness (cittapāguññatā)
+***_ 45. Rectitude of the (mental) body (kāyujjukatā)
+***_ 46. Rectitude of consciousness (cittujjukatā)
+**:===virati
+----
+Abstinences;
+***_ 47. Right speech (sammāvācā)
+***_ 48. Right action (sammākammanta)
+***_ 49. Right livelihood (sammā-ājīva)
+**:===appamaññā
+----
+Illimitables;
+***_ 50. Compassion (karuṇā)
+***_ 51. Appreciative joy (muditā)
+**:===amoha
+----
+Non-Delusion;
+***_ 52. wisdom faculty (paññā)
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class appamaññā {
+Illimitables
+}
+class brahmavihāra {
+divine abodes
+sublime states
+}
+class tatramajjhattatā {
+neutrality of mind
+}
+class upekkhā {
+equanimity
+}
+adosa &amp;lt;|-- mettā
+tatramajjhattatā &amp;lt;|-- upekkhā
+appamaññā &amp;lt;|-- upekkhā
+appamaññā &amp;lt;|-- mettā
+appamaññā &amp;lt;|-- karuṇā
+appamaññā &amp;lt;|-- muditā
+brahmavihāra &amp;lt;--&amp;gt; appamaññā
+class mettā {
+loving-kindness
+}
+class karuṇā {
+compassion
+}
+class muditā {
+appreciative joy
+}
+class dosa {
+hatred
+}
+class adosa {
+non-hatred
+}
+dosa &amp;lt;-&amp;gt; adosa
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class moha {
+delusion
+}
+class amoha {
+nondelusion
+}
+class ñāna {
+knowledge
+}
+class paññā {
+wisdom
+}
+moha &amp;lt;-&amp;gt; amoha
+amoha &amp;lt;|-- ñāna
+amoha &amp;lt;|-- paññā
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class ahiri {
+shamelessness
+}
+class hiri {
+shame
+}
+ahiri &amp;lt;-&amp;gt; hiri
+class anottappa {
+fearlessness of wrongdoing
+}
+class ottappa {
+fear of wrongdoing
+}
+anottappa &amp;lt;-&amp;gt; ottappa
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class lobha {
+greed
+}
+class alobha {
+non-greed
+}
+alobha &amp;lt;-&amp;gt; lobha
+class vicikicchā {
+doubt
+}
+class saddhā {
+faith
+}
+vicikicchā &amp;lt;-&amp;gt; saddhā
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class viriya {
+energy
+}
+class lahutā {
+lightness
+}
+class thīna {
+sloth
+}
+class middha {
+torpor
+}
+viriya &amp;lt;-&amp;gt; thīna
+thīna &amp;lt;-&amp;gt; lahutā
+lahutā &amp;lt;-&amp;gt; middha
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class uddhacca {
+restlessness
+}
+class kukkucca {
+worry
+}
+class passaddhi {
+tranquility
+}
+uddhacca &amp;lt;-&amp;gt; passaddhi
+passaddhi &amp;lt;-&amp;gt; kukkucca
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class diṭṭhi {
+wrong view
+}
+class māna {
+conceit
+}
+class mudutā {
+malleability
+}
+diṭṭhi &amp;lt;-&amp;gt; mudutā
+mudutā &amp;lt;-&amp;gt; māna
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class virati {
+abstinences
+}
+class sampattavirati {
+natural abstinence
+}
+class samādānavirati {
+abstinence by undertaking precepts
+}
+class sammucchedavirati {
+abstinence by eradication
+}
+virati *-- sampattavirati
+virati *-- samādānavirati
+virati *-- sammucchedavirati
+@enduml
+&lt;/code>&lt;/pre></description></item><item><title>Docs: Citta-Cetasika</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta-cetasika/</link><pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta-cetasika/</guid><description>
+&lt;ul>
+&lt;li>cetasikasampayoganaya (Association of Mental Factors)&lt;/li>
+&lt;li>cetasikasangahanaya (Combinations of Mental Factors)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://christham.net/buddhavacana/buddhavacana/svg/citta-cetasika.svg" alt="Table">&lt;/p>
+&lt;p>&lt;img src="https://christham.net/buddhavacana/buddhavacana/svg/ccsankey.svg" alt="Sankey Diagram">&lt;/p></description></item></channel></rss>

@@ -621,7 +621,670 @@ hakāra: h&lt;/p>
 &lt;dd>Established in 1990 as a nonprofit 501(c)(3) educational organization, The Tricycle Foundation is dedicated to making Buddhist teachings and practices broadly available. In 1991 the Foundation launched Tricycle: The Buddhist Review, the first magazine intended to present Buddhist perspectives to a Western readership. Tricycle soon became the leading independent journal of Buddhism in the West, where it continues to be the most inclusive and widely read vehicle for the dissemination of Buddhist views and values. Our readership includes longtime practitioners, those who are curious about Buddhism or meditation, and those who do not identify as Buddhist but value the teachings of wisdom and compassion that Buddhism has to offer.&lt;/dd>
 &lt;dt>&lt;a href="https://blogs.dickinson.edu/buddhistethics/">Journal of Buddhist Ethics&lt;/a>&lt;/dt>
 &lt;dd>The Journal of Buddhist Ethics is the first academic journal dedicated entirely to Buddhist ethics. We promote the study of Buddhist ethics through the publication of research and book reviews and by hosting occasional online conferences.&lt;/dd>
-&lt;/dl></description></item><item><title>Docs: pañcupādānakkhandhā</title><link>https://christham.net/buddhavacana/docs/sutta/5aggregates/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/5aggregates/</guid><description>
+&lt;/dl></description></item><item><title>Docs: Catudhā Paramattha</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/catudha-paramattha/</link><pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/catudha-paramattha/</guid><description>
+&lt;blockquote>
+&lt;p>Tattha vutt’ábhidhammatthá&lt;br>
+Catudhá paramatthato&lt;br>
+Cittaí cetasikaí rúpaí&lt;br>
+Nibbánam iti sabbathá.&lt;/p>
+&lt;/blockquote>
+&lt;pre class="mermaid">C4Context
+title catudhá paramattha
+Enterprise_Boundary(b0, &amp;#34;Abhidhamma&amp;#34;) {
+System(citta, &amp;#34;citta&amp;#34;, &amp;#34;consciousness&amp;#34;)
+System(cetasika, &amp;#34;cetasika&amp;#34;, &amp;#34;mental factors&amp;#34;)
+System(rupa, &amp;#34;rūpa&amp;#34;, &amp;#34;matter&amp;#34;)
+System(nibbana, &amp;#34;Nibbāna&amp;#34;, &amp;#34;Nirvana&amp;#34;)
+}&lt;/pre></description></item><item><title>Docs: Cittasangahavibhāga</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta/</link><pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta/</guid><description>
+&lt;p>Tattha cittaṁ tāva catubbidhaṁ hoti:&lt;/p>
+&lt;ol>
+&lt;li>kāmāvacaraṁ;&lt;/li>
+&lt;li>rūpā-vacaraṁ;&lt;/li>
+&lt;li>arūpāvacaraṁ;&lt;/li>
+&lt;li>lokuttarañ cā ti.&lt;/li>
+&lt;/ol>
+&lt;dl>
+&lt;dt>lakkhaṇa (salient quality)&lt;/dt>
+&lt;dd>vijānana (knowing of an object)&lt;/dd>
+&lt;dt>rasa (function), kicca (performance of a concrete task), sampatti (achievement of a goal)&lt;/dt>
+&lt;dd>pubbangama (forerunner of mental factors)&lt;/dd>
+&lt;dt>paccupaṭṭhāna (manifestation)&lt;/dt>
+&lt;dd>sandhāna (continuity of process)&lt;/dd>
+&lt;dt>padaṭṭhāna (proximate cause)&lt;/dt>
+&lt;dd>nāmarūpa (mind and matter)&lt;/dd>
+&lt;/dl>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+package &amp;#34;jāti (nature)&amp;#34; as jati {
+class kusala {
+Karmically wholesome
+}
+class akusala {
+Karmically unwholesome
+}
+package avyākata {
+class vipāka {
+Karmic resultant
+}
+class kiriya {
+Functional
+}
+}
+}
+package &amp;#34;kāmāvacara (Sense Sphere)&amp;#34; as kamavacara {
+class sobhana {
+Beautiful
+..
+#kusala/vipāka/kiriya
+#somanassa/upekkhā
+#+/- ñāṇa
+#asaṁkhārika/sasaṁkhārika
+}
+class kusalavipāka &amp;lt;&amp;lt;enum&amp;gt;&amp;gt; {
+Wholesome-Resultant
+..
+cakkhuviññāṇa + upekkhā (eye)
+sotaviññāṇa + upekkhā (ear)
+ghānaviññāṇa + upekkhā (nose)
+jivhāviññāṇa + upekkhā (tongue)
+kāyaviññāṇa + sukkha (body)
+sampaṭicchanacitta + upekkhā (receiving)
+santīraṇacitta + somanassa (investigating)
+santīraṇacitta + upekkhā (investigating)
+}
+class dosa {
+Hatred
+..
++domanassa
++paṭigha
+#asaṁkhārika/sasaṁkhārika
+}
+class lobha {
+Greed
+..
+#somanassa/upekkhā
+#+/- diṭṭhigata
+#asaṁkhārika/sasaṁkhārika
+}
+class moha {
+Delusion
+..
+#upekkhā
++vicikicchā/uddhacca
+}
+class akusalavipāka &amp;lt;&amp;lt;enum&amp;gt;&amp;gt; {
+Unwholesome-Resultant
+..
+cakkhuviññāṇa + upekkhā (eye)
+sotaviññāṇa + upekkhā (ear)
+ghānaviññāṇa + upekkhā (nose)
+jivhāviññāṇa + upekkhā (tongue)
+kāyaviññāṇa + dukkha (body)
+sampaṭicchanacitta + upekkhā (receiving)
+santīraṇacitta + upekkhā (investigating)
+}
+class ahetukakiriya &amp;lt;&amp;lt;enum&amp;gt;&amp;gt; {
+Functional
+..
+pañcadvārāvajjanacitta + upekkhā (sense door)
+manodvārāvajjanacitta + upekkhā (mind door)
+hasituppādacitta + somanassa (smile producing)
+}
+}
+class domanassa {
+displeasure
+}
+class paṭigha {
+aversion
+}
+class somanassa {
+joy
+}
+class upekkhā {
+equanimity
+}
+class sukkha {
+pleasure
+}
+class dukkha {
+pain
+}
+class ñāṇa {
+knowledge
+}
+class diṭṭhigata {
+wrong view
+}
+class vicikicchā {
+doubt
+}
+class uddhacca {
+restlessness
+}
+kiriya *-- &amp;#34;3&amp;#34; ahetukakiriya
+kiriya *-- &amp;#34;8&amp;#34; sobhana
+vipāka *-- &amp;#34;7&amp;#34; akusalavipāka
+vipāka *-- &amp;#34;8&amp;#34; kusalavipāka
+vipāka *-- &amp;#34;8&amp;#34; sobhana
+kusala *-- &amp;#34;8&amp;#34; sobhana : mūla
+kusala *-- &amp;#34;8&amp;#34; kusalavipāka : ahetuka
+akusala *-- &amp;#34;7&amp;#34; akusalavipāka : ahetuka
+akusalavipāka --&amp;gt; upekkhā : sahagata
+akusalavipāka --&amp;gt; dukkha : sahagata
+kusalavipāka --&amp;gt; upekkhā : sahagata
+kusalavipāka --&amp;gt; sukkha : sahagata
+kusalavipāka --&amp;gt; somanassa : sahagata
+sobhana --&amp;gt; somanassa : sahagata
+sobhana --&amp;gt; upekkhā : sahagata
+sobhana --+ ñāṇa : sampayutta
+akusala *-- &amp;#34;8&amp;#34; lobha : mūla
+akusala *-- &amp;#34;2&amp;#34; dosa : mūla
+akusala *-- &amp;#34;2&amp;#34; moha : mūla
+dosa --&amp;gt; domanassa : sahagata
+dosa --+ paṭigha : sampayutta
+lobha --+ diṭṭhigata : sampayutta
+lobha --&amp;gt; somanassa : sahagata
+lobha --&amp;gt; upekkhā : sahagata
+moha --+ vicikicchā : sampayutta
+moha --+ uddhacca : sampayutta
+moha --&amp;gt; upekkhā : sahagata
+@enduml
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+package &amp;#34;jāti (nature)&amp;#34; as jati {
+class kusala {
+Karmically wholesome
+}
+class akusala {
+Karmically unwholesome
+}
+package avyākata {
+class vipāka {
+Karmic resultant
+}
+class kiriya {
+Functional
+}
+}
+}
+package &amp;#34;rūpāvacara (Fine Material Sphere)&amp;#34; as rupavacara {
+class rūpāvacaracitta {
+Fine Material
+..
+#kusala/vipāka/kiriya
+1. Vitakka-vicāra-pīti-sukh’-ekaggatā-sahitaṁ paṭhamajjhāna
+2. Vicāra-pīti-sukh’-ekaggatā-sahitaṁ dutiyajjhāna
+3. Pīti-sukh’-ekaggatā-sahitaṁ tatiyajjhāna
+4. Sukh’-ekaggatā-sahitaṁ catutthajjhāna
+5. Upekkh’-ekaggatā-sahitaṁ pañcamajjhāna
+}
+}
+class vitakka {
+Initial application
+}
+class vicāra {
+Sustained application
+}
+class pīti {
+zest
+}
+class sukkha {
+happiness
+}
+class upekkhā {
+equanimity
+}
+class ekaggatā {
+one-pointedness
+}
+kusala *-- &amp;#34;5&amp;#34; rūpāvacaracitta
+vipāka *-- &amp;#34;5&amp;#34; rūpāvacaracitta
+kiriya *-- &amp;#34;5&amp;#34; rūpāvacaracitta
+rūpāvacaracitta --&amp;gt; vitakka
+rūpāvacaracitta --&amp;gt; vicāra
+rūpāvacaracitta --&amp;gt; pīti
+rūpāvacaracitta --&amp;gt; sukkha
+rūpāvacaracitta --&amp;gt; upekkhā
+rūpāvacaracitta --&amp;gt; ekaggatā
+package &amp;#34;arūpāvacara (Immaterial Sphere)&amp;#34; as arupavacara {
+class arūpāvacaracitta {
+Immaterial
+..
+#kusala/vipāka/kiriya
+1. Ākāsānañcāyatana
+2. Viññāṇañcāyatana
+3. Ākiñcaññāyatana
+4. N’evasaññān’āsaññāyatana
+}
+}
+class Ākāsānañcāyatana {
+Infinity of Space
+}
+class Viññāṇañcāyatana {
+Infinity of Consciousness
+}
+class Ākiñcaññāyatana {
+Nothingness
+}
+class &amp;#34;N’evasaññān’āsaññāyatana&amp;#34; {
+Neither perception nor non perception
+}
+kusala *-- &amp;#34;4&amp;#34; arūpāvacaracitta
+vipāka *-- &amp;#34;4&amp;#34; arūpāvacaracitta
+kiriya *-- &amp;#34;4&amp;#34; arūpāvacaracitta
+arūpāvacaracitta --&amp;gt; Ākāsānañcāyatana
+arūpāvacaracitta --&amp;gt; Viññāṇañcāyatana
+arūpāvacaracitta --&amp;gt; Ākiñcaññāyatana
+arūpāvacaracitta --&amp;gt; &amp;#34;N’evasaññān’āsaññāyatana&amp;#34;
+package &amp;#34;lokuttarañ (Supramundane)&amp;#34; as lokuttaran {
+class lokuttaracitta {
+Supra Mundane
+..
+#magga/phala
+#jhána (5)
+1. Sotāpatti
+2. Sakadāgāmī
+3. Anāgāmī
+4. Arahatta
+}
+}
+class sotāpatti {
+stream entry
+}
+class sakadāgāmī {
+once returning
+}
+class anāgāmī {
+non-returning
+}
+class arahatta {
+arahantship
+}
+kusala *-- &amp;#34;4 (x5)&amp;#34; lokuttaracitta
+vipāka *-- &amp;#34;4 (x5)&amp;#34; lokuttaracitta
+lokuttaracitta --&amp;gt; sotāpatti
+lokuttaracitta --&amp;gt; sakadāgāmī
+lokuttaracitta --&amp;gt; anāgāmī
+lokuttaracitta --&amp;gt; arahatta
+@enduml
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startmindmap
+* =Citta
+** ==kāmāvacara
+*** ===akusalacittāni
+**** ====lobhamūlacittāni
+*****_ 1. Somanassasahagataṁ diṭṭhigatasampayuttaṁ asaṁkhārikam ekaṁ
+*****_ 2. Somanassasahagataṁ diṭṭhigatasampayuttaṁ sasaṁkhārikam ekaṁ
+*****_ 3. Somanassasahagataṁ diṭṭhigatavippayuttaṁ asaṁkhārikam ekaṁ
+*****_ 4. Somanassasahagataṁ diṭṭhigatavippayuttaṁ sasaṁkhārikam ekaṁ
+*****_ 5. Upekkhāsahagataṁ diṭṭhigatasampayuttaṁ asaṁkhārikam ekaṁ
+*****_ 6. Upekkhāsahagataṁ diṭṭhigatasampayuttaṁ sasaṁkhārikam ekaṁ
+*****_ 7. Upekkhāsahagataṁ diṭṭhigatavippayuttaṁ asaṁkhārikam ekaṁ
+*****_ 8. Upekkhāsahagataṁ diṭṭhigatavippayuttaṁ sasaṁkhārikam ekaṁ
+**** ====dosamūlacittāni
+*****_ 9. Domanassasahagataṁ paṭighasampayuttaṁ asaṁkhārikam ekaṁ
+*****_ 10. Domanassasahagataṁ paṭighasampayuttaṁ sasaṁkhārikam ekaṁ
+**** ====mohamūlacittāni
+*****_ 11. Upekkhāsahagataṁ vicikicchāsampayuttam ekaṁ
+*****_ 12. Upekkhāsahagataṁ uddhaccasampayuttam ekaṁ
+*** ===ahetukacittāni
+**** ====akusalavipākacittāni
+*****_ 13. Upekkhāsahagataṁ cakkhuviññāṇaṁ
+*****_ 14. Upekkhāsahagataṁ sotaviññāṇaṁ
+*****_ 15. Upekkhāsahagataṁ ghānaviññāṇaṁ
+*****_ 16. Upekkhāsahagataṁ jivhāviññāṇaṁ
+*****_ 17. Dukkhasahagataṁ kāyaviññāṇaṁ
+*****_ 18. Upekkhāsahagataṁ sampaṭicchanacittaṁ
+*****_ 19. Upekkhāsahagataṁ santīraṇacittaṁ
+**** ====kusalavipāka-ahetukacittāni
+*****_ 20. Upekkhāsahagataṁ cakkhuviññāṇaṁ
+*****_ 21. Upekkhāsahagataṁ sotaviññāṇaṁ
+*****_ 22. Upekkhāsahagataṁ ghānaviññāṇaṁ
+*****_ 23. Upekkhāsahagataṁ jivhāviññāṇaṁ
+*****_ 24. Sukhasahagataṁ kāyaviññāṇaṁ
+*****_ 25. Upekkhāsahagataṁ sampaṭicchanacittaṁ
+*****_ 26. Somanassasahagataṁ santīraṇacittaṁ
+*****_ 27. Upekkhāsahagataṁ santīraṇacittaṁ
+**** ====ahetukakiriya-cittāni
+*****_ 28. Upekkhāsahagataṁ pañcadvārāvajjanacittaṁ
+*****_ 29. Upekkhāsahagataṁ manodvārāvajjanacittaṁ
+*****_ 30. Somanassasahagataṁ hasituppādacittaṁ
+*** ===sobhanacittāni
+**** ====kusalacittāni
+*****_ 31. Somanassasahagataṁ ñāṇasampayuttaṁ asaṁkhārikam ekaṁ
+*****_ 32. Somanassasahagataṁ ñāṇasampayuttaṁ sasaṁkhārikam ekaṁ
+*****_ 33. Somanassasahagataṁ ñāṇavippayuttaṁ asaṁkhārikam ekaṁ
+*****_ 34. Somanassasahagataṁ ñāṇavippayuttaṁ sasaṁkhārikam ekaṁ
+*****_ 35. Upekkhāsahagataṁ ñāṇasampayuttaṁ asaṁkhārikam ekaṁ
+*****_ 36. Upekkhāsahagataṁ ñāṇasampayuttaṁ sasaṁkhārikam ekaṁ
+*****_ 37. Upekkhāsahagataṁ ñāṇavippayuttaṁ asaṁkhārikam ekaṁ
+*****_ 38. Upekkhāsahagataṁ ñāṇavippayuttaṁ sasaṁkhārikam ekaṁ
+**** ====vipākacittāni
+*****_ 99. Somanassasahagataṁ ñāṇasampayuttaṁ asaṁkhārikam ekaṁ
+*****_ 40. Somanassasahagataṁ ñāṇasampayuttaṁ sasaṁkhārikam ekaṁ
+*****_ 41. Somanassasahagataṁ ñāṇavippayuttaṁ asaṁkhārikam ekaṁ
+*****_ 42. Somanassasahagataṁ ñāṇavippayuttaṁ sasaṁkhārikam ekaṁ
+*****_ 43. Upekkhāsahagataṁ ñāṇasampayuttaṁ asaṁkhārikam ekaṁ
+*****_ 44. Upekkhāsahagataṁ ñāṇasampayuttaṁ sasaṁkhārikam ekaṁ
+*****_ 45. Upekkhāsahagataṁ ñāṇavippayuttaṁ asaṁkhārikam ekaṁ
+*****_ 46. Upekkhāsahagataṁ ñāṇavippayuttaṁ sasaṁkhārikam ekaṁ
+**** ====kriyācittāni
+*****_ 47. Somanassasahagataṁ ñāṇasampayuttaṁ asaṁkhārikam ekaṁ
+*****_ 48. Somanassasahagataṁ ñāṇasampayuttaṁ sasaṁkhārikam ekaṁ
+*****_ 49. Somanassasahagataṁ ñāṇavippayuttaṁ asaṁkhārikam ekaṁ
+*****_ 50. Somanassasahagataṁ ñāṇavippayuttaṁ sasaṁkhārikam ekaṁ
+*****_ 51. Upekkhāsahagataṁ ñāṇasampayuttaṁ asaṁkhārikam ekaṁ
+*****_ 52. Upekkhāsahagataṁ ñāṇasampayuttaṁ sasaṁkhārikam ekaṁ
+*****_ 53. Upekkhāsahagataṁ ñāṇavippayuttaṁ asaṁkhārikam ekaṁ
+*****_ 54. Upekkhāsahagataṁ ñāṇavippayuttaṁ sasaṁkhārikam ekaṁ
+** ==rūpāvacara
+*** ===kusalacittāni
+****_ 55. Vitakka-vicāra-pīti-sukh’-ekaggatā-sahitaṁ paṭhamajjhāna-kusalacittaṁ
+****_ 56. Vicāra-pīti-sukh’-ekaggatā-sahitaṁ dutiyajjhāna-kusalacittaṁ
+****_ 57. Pīti-sukh’-ekaggatā-sahitaṁ tatiyajjhāna-kusalacittaṁ
+****_ 58. Sukh’-ekaggatā-sahitaṁ catutthajjhāna-kusalacittaṁ
+****_ 59. Upekkh’-ekaggatā-sahitaṁ pañcamajjhāna-kusalacittaṁ
+*** ===vipākacittāni
+****_ 60. Vitakka-vicāra-pīti-sukh’-ekaggatā-sahitaṁ paṭhamajjhāna-vipākacittaṁ
+****_ 61. Vicāra-pīti-sukh’-ekaggatā-sahitaṁ dutiyajjhāna-vipākacittaṁ
+****_ 62. Pīti-sukh’-ekaggatā-sahitaṁ tatiyajjhāna-vipākacittaṁ
+****_ 63. Sukh’-ekaggatā-sahitaṁ catutthajjhāna-vipākacittaṁ
+****_ 64. Upekkh’-ekaggatā-sahitaṁ pañcamajjhāna-vipākacittaṁ
+*** ===kriyācittāni
+****_ 65. Vitakka-vicāra-pīti-sukh’-ekaggatā-sahitaṁ paṭhamajjhāna-kriyācittaṁ
+****_ 66. Vicāra-pīti-sukh’-ekaggatā-sahitaṁ dutiyajjhāna-kriyācittaṁ
+****_ 67. Pīti-sukh’-ekaggatā-sahitaṁ tatiyajjhāna-kriyācittaṁ
+****_ 68. Sukh’-ekaggatā-sahitaṁ catutthajjhāna-kriyācittaṁ
+****_ 69. Upekkh’-ekaggatā-sahitaṁ pañcamajjhāna-kriyācittaṁ
+** ==arūpāvacara
+*** ===kusalacittāni
+****_ 70. Ākāsānañcāyatana-kusalacittaṁ
+****_ 71. Viññāṇañcāyatana-kusalacittaṁ
+****_ 72. Ākiñcaññāyatana-kusalacittaṁ
+****_ 73. N’evasaññān’āsaññāyatana-kusalacittaṁ
+*** ===vipākacittāni
+****_ 74. Ākāsānañcāyatana-vipākacittaṁ
+****_ 75. Viññāṇañcāyatana-vipākacittaṁ
+****_ 76. Ākiñcaññāyatana-vipākacittaṁ
+****_ 77. N’evasaññān’āsaññāyatana-vipākacittaṁ
+*** ===kriyācittāni
+****_ 78. Ākāsānañcāyatana-kriyācittaṁ
+****_ 79. Viññāṇañcāyatana-kriyācittaṁ
+****_ 80. Ākiñcaññāyatana-kriyācittaṁ
+****_ 81. N’evasaññān’āsaññāyatana-kriyācittaṁ
+** ==lokuttara
+*** ===kusalacittāni
+****_ 82. Sotāpatti-maggacittaṁ
+****_ 83. Sakadāgāmi-maggacittaṁ
+****_ 84. Anāgāmi-maggacittaṁ
+****_ 85. Arahatta-maggacittaṁ
+*** ===vipākacittāni
+****_ 86. Sotāpatti-phalacittaṁ
+****_ 87. Sakadāgāmi-phalacittaṁ
+****_ 88. Anāgāmi-phalacittaṁ
+****_ 89. Arahatta-phalacittaṁ
+@endmindmap
+&lt;/code>&lt;/pre></description></item><item><title>Docs: Cetasikasangahavibhāga</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/cetasika/</link><pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/cetasika/</guid><description>
+&lt;p>Ekuppāda-nirodhā ca ekālambana-vatthukā&lt;br>
+Cetoyuttā dvipaññāsa dhammā cetasikā matā.&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startmindmap
+*:==aññasamānacetasika
+----
+Ethically Variable Factors;
+**:===sabbacittasādhāraṇa
+----
+Universals;
+***_ 1. Contact (phassa)
+***_ 2. Feeling (vedanā)
+***_ 3. Perception (saññā)
+***_ 4. Volition (cetanā)
+***_ 5. One-pointedness (ekaggatā)
+***_ 6. Mental life faculty (jīvitindriya)
+***_ 7. Attention (manasikāra)
+**:===pakiṇṇaka
+----
+Occasionals;
+***_ 8. Initial application (vitakka)
+***_ 9. Sustained application (vicāra)
+***_ 10. Decision (adhimokkha)
+***_ 11. Energy (viriya)
+***_ 12. Zest (pīti)
+***_ 13. Desire (chanda)
+*:==akusalacetasika
+----
+Unwholesome Factors;
+**:===sabbacittasādhāraṇa
+----
+Universals;
+***_ 14. Delusion (moha)
+***_ 15. Shamelessness (ahirika)
+***_ 16. fearlessness of wrongdoing (anottappa)
+***_ 17. Restlessness (uddhacca)
+**:===pakiṇṇaka
+----
+Occasionals;
+***_ 18. Greed (lobha)
+***_ 19. Wrong view (diṭṭhi)
+***_ 20. Conceit (māna)
+***_ 21. Hatred (dosa)
+***_ 22. Envy (issā)
+***_ 23. Avarice (macchariya)
+***_ 24. Worry (kukkucca)
+***_ 25. Sloth (thīna)
+***_ 26. Torpor (middha)
+***_ 27. Doubt (vicikicchā)
+*:==sobhanacetasika
+----
+Beautiful Factors;
+**:===sobhanasādhāraṇa
+----
+Universals;
+***_ 28. Faith (saddhā)
+***_ 29. Mindfulness (sati)
+***_ 30. Shame (hiri)
+***_ 31. fear of wrongdoing (ottappa)
+***_ 32. Non-greed (alobha)
+***_ 33. Non-hatred (adosa)
+***_ 34. Neutrality of mind (tatramajjhattatā)
+***_ 35. Tranquillity of the (mental) body (kāyapassaddhi)
+***_ 36. Tranquillity of consciousness (cittapassaddhi)
+***_ 37. Lightness of the (mental) body (kāyalahutā)
+***_ 38. Lightness of consciousness (cittalahutā)
+***_ 39. Malleability of the (mental) body (kāyamudutā)
+***_ 40. Malleability of consciousness (cittamudutā)
+***_ 41. Wieldiness of the (mental) body (kāyakammaññatā)
+***_ 42. Wieldiness of consciousness (cittakammaññatā)
+***_ 43. Proficiency of the (mental) body (kāyapāguññatā)
+***_ 44. Proficiency of consciousness (cittapāguññatā)
+***_ 45. Rectitude of the (mental) body (kāyujjukatā)
+***_ 46. Rectitude of consciousness (cittujjukatā)
+**:===virati
+----
+Abstinences;
+***_ 47. Right speech (sammāvācā)
+***_ 48. Right action (sammākammanta)
+***_ 49. Right livelihood (sammā-ājīva)
+**:===appamaññā
+----
+Illimitables;
+***_ 50. Compassion (karuṇā)
+***_ 51. Appreciative joy (muditā)
+**:===amoha
+----
+Non-Delusion;
+***_ 52. wisdom faculty (paññā)
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class appamaññā {
+Illimitables
+}
+class brahmavihāra {
+divine abodes
+sublime states
+}
+class tatramajjhattatā {
+neutrality of mind
+}
+class upekkhā {
+equanimity
+}
+adosa &amp;lt;|-- mettā
+tatramajjhattatā &amp;lt;|-- upekkhā
+appamaññā &amp;lt;|-- upekkhā
+appamaññā &amp;lt;|-- mettā
+appamaññā &amp;lt;|-- karuṇā
+appamaññā &amp;lt;|-- muditā
+brahmavihāra &amp;lt;--&amp;gt; appamaññā
+class mettā {
+loving-kindness
+}
+class karuṇā {
+compassion
+}
+class muditā {
+appreciative joy
+}
+class dosa {
+hatred
+}
+class adosa {
+non-hatred
+}
+dosa &amp;lt;-&amp;gt; adosa
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class moha {
+delusion
+}
+class amoha {
+nondelusion
+}
+class ñāna {
+knowledge
+}
+class paññā {
+wisdom
+}
+moha &amp;lt;-&amp;gt; amoha
+amoha &amp;lt;|-- ñāna
+amoha &amp;lt;|-- paññā
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class ahiri {
+shamelessness
+}
+class hiri {
+shame
+}
+ahiri &amp;lt;-&amp;gt; hiri
+class anottappa {
+fearlessness of wrongdoing
+}
+class ottappa {
+fear of wrongdoing
+}
+anottappa &amp;lt;-&amp;gt; ottappa
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class lobha {
+greed
+}
+class alobha {
+non-greed
+}
+alobha &amp;lt;-&amp;gt; lobha
+class vicikicchā {
+doubt
+}
+class saddhā {
+faith
+}
+vicikicchā &amp;lt;-&amp;gt; saddhā
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class viriya {
+energy
+}
+class lahutā {
+lightness
+}
+class thīna {
+sloth
+}
+class middha {
+torpor
+}
+viriya &amp;lt;-&amp;gt; thīna
+thīna &amp;lt;-&amp;gt; lahutā
+lahutā &amp;lt;-&amp;gt; middha
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class uddhacca {
+restlessness
+}
+class kukkucca {
+worry
+}
+class passaddhi {
+tranquility
+}
+uddhacca &amp;lt;-&amp;gt; passaddhi
+passaddhi &amp;lt;-&amp;gt; kukkucca
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class diṭṭhi {
+wrong view
+}
+class māna {
+conceit
+}
+class mudutā {
+malleability
+}
+diṭṭhi &amp;lt;-&amp;gt; mudutā
+mudutā &amp;lt;-&amp;gt; māna
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class virati {
+abstinences
+}
+class sampattavirati {
+natural abstinence
+}
+class samādānavirati {
+abstinence by undertaking precepts
+}
+class sammucchedavirati {
+abstinence by eradication
+}
+virati *-- sampattavirati
+virati *-- samādānavirati
+virati *-- sammucchedavirati
+@enduml
+&lt;/code>&lt;/pre></description></item><item><title>Docs: Citta-Cetasika</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta-cetasika/</link><pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta-cetasika/</guid><description>
+&lt;ul>
+&lt;li>cetasikasampayoganaya (Association of Mental Factors)&lt;/li>
+&lt;li>cetasikasangahanaya (Combinations of Mental Factors)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://christham.net/buddhavacana/buddhavacana/svg/citta-cetasika.svg" alt="Table">&lt;/p>
+&lt;p>&lt;img src="https://christham.net/buddhavacana/buddhavacana/svg/ccsankey.svg" alt="Sankey Diagram">&lt;/p></description></item><item><title>Docs: pañcupādānakkhandhā</title><link>https://christham.net/buddhavacana/docs/sutta/5aggregates/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/5aggregates/</guid><description>
 &lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
 markmap:
 zoom: false

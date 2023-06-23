@@ -1,0 +1,15 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – rūpa</title><link>https://christham.net/buddhavacana/tags/r%C5%ABpa/</link><description>Recent content in rūpa on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://christham.net/buddhavacana/tags/r%C5%ABpa/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Catudhā Paramattha</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/catudha-paramattha/</link><pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/catudha-paramattha/</guid><description>
+&lt;blockquote>
+&lt;p>Tattha vutt’ábhidhammatthá&lt;br>
+Catudhá paramatthato&lt;br>
+Cittaí cetasikaí rúpaí&lt;br>
+Nibbánam iti sabbathá.&lt;/p>
+&lt;/blockquote>
+&lt;pre class="mermaid">C4Context
+title catudhá paramattha
+Enterprise_Boundary(b0, &amp;#34;Abhidhamma&amp;#34;) {
+System(citta, &amp;#34;citta&amp;#34;, &amp;#34;consciousness&amp;#34;)
+System(cetasika, &amp;#34;cetasika&amp;#34;, &amp;#34;mental factors&amp;#34;)
+System(rupa, &amp;#34;rūpa&amp;#34;, &amp;#34;matter&amp;#34;)
+System(nibbana, &amp;#34;Nibbāna&amp;#34;, &amp;#34;Nirvana&amp;#34;)
+}&lt;/pre></description></item></channel></rss>
