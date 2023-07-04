@@ -1,0 +1,38 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – kicca</title><link>https://christham.net/buddhavacana/tags/kicca/</link><description>Recent content in kicca on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 04 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://christham.net/buddhavacana/tags/kicca/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: kiccasangaha</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/kicca/</link><pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/kicca/</guid><description>
+&lt;pre class="mermaid">stateDiagram-v2
+direction TB
+classDef notMoving fill:white
+classDef movement font-style:italic
+classDef badBadEvent fill:#f00,color:white,font-weight:bold,stroke-width:2px,stroke:yellow
+paṭisandhi --&amp;gt; bhavanga
+bhavanga --&amp;gt; bhavanga
+bhavanga --&amp;gt; pañcadvāravīthi
+State pañcadvāravīthi {
+bhavangacalana: bhavanga-calana
+bhavangupaccheda: bhavang’-upaccheda
+javana: javana x7
+tadārammaṇa: tadārammaṇa x2
+bhavangacalana --&amp;gt; bhavangupaccheda
+bhavangupaccheda --&amp;gt; pañcadvārāvajjana
+state fork_state &amp;lt;&amp;lt;fork&amp;gt;&amp;gt;
+pañcadvārāvajjana --&amp;gt; fork_state
+fork_state --&amp;gt; cakkhuviññāṇaṁ
+fork_state --&amp;gt; sotaviññāṇaṁ
+fork_state --&amp;gt; ghānaviññāṇaṁ
+fork_state --&amp;gt; jivhāviññāṇaṁ
+fork_state --&amp;gt; kāyaviññāṇaṁ
+state join_state &amp;lt;&amp;lt;join&amp;gt;&amp;gt;
+cakkhuviññāṇaṁ --&amp;gt; join_state
+sotaviññāṇaṁ --&amp;gt; join_state
+ghānaviññāṇaṁ --&amp;gt; join_state
+jivhāviññāṇaṁ --&amp;gt; join_state
+kāyaviññāṇaṁ --&amp;gt; join_state
+join_state --&amp;gt; sampaṭicchana
+sampaṭicchana --&amp;gt; santīraṇa
+santīraṇa --&amp;gt; votthapana
+votthapana --&amp;gt; javana
+javana --&amp;gt; tadārammaṇa
+}
+pañcadvāravīthi --&amp;gt; bhavanga
+bhavanga--&amp;gt; cuti
+cuti --&amp;gt; paṭisandhi&lt;/pre></description></item></channel></rss>

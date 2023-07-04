@@ -286,123 +286,33 @@ lokuttaracitta --&amp;gt; sakadāgāmī
 lokuttaracitta --&amp;gt; anāgāmī
 lokuttaracitta --&amp;gt; arahatta
 @enduml
-&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startmindmap
-* =Citta
-** ==kāmāvacara
-*** ===akusalacittāni
-**** ====lobhamūlacittāni
-*****_ 1. Somanassasahagataṁ diṭṭhigatasampayuttaṁ asaṁkhārikam ekaṁ
-*****_ 2. Somanassasahagataṁ diṭṭhigatasampayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 3. Somanassasahagataṁ diṭṭhigatavippayuttaṁ asaṁkhārikam ekaṁ
-*****_ 4. Somanassasahagataṁ diṭṭhigatavippayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 5. Upekkhāsahagataṁ diṭṭhigatasampayuttaṁ asaṁkhārikam ekaṁ
-*****_ 6. Upekkhāsahagataṁ diṭṭhigatasampayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 7. Upekkhāsahagataṁ diṭṭhigatavippayuttaṁ asaṁkhārikam ekaṁ
-*****_ 8. Upekkhāsahagataṁ diṭṭhigatavippayuttaṁ sasaṁkhārikam ekaṁ
-**** ====dosamūlacittāni
-*****_ 9. Domanassasahagataṁ paṭighasampayuttaṁ asaṁkhārikam ekaṁ
-*****_ 10. Domanassasahagataṁ paṭighasampayuttaṁ sasaṁkhārikam ekaṁ
-**** ====mohamūlacittāni
-*****_ 11. Upekkhāsahagataṁ vicikicchāsampayuttam ekaṁ
-*****_ 12. Upekkhāsahagataṁ uddhaccasampayuttam ekaṁ
-*** ===ahetukacittāni
-**** ====akusalavipākacittāni
-*****_ 13. Upekkhāsahagataṁ cakkhuviññāṇaṁ
-*****_ 14. Upekkhāsahagataṁ sotaviññāṇaṁ
-*****_ 15. Upekkhāsahagataṁ ghānaviññāṇaṁ
-*****_ 16. Upekkhāsahagataṁ jivhāviññāṇaṁ
-*****_ 17. Dukkhasahagataṁ kāyaviññāṇaṁ
-*****_ 18. Upekkhāsahagataṁ sampaṭicchanacittaṁ
-*****_ 19. Upekkhāsahagataṁ santīraṇacittaṁ
-**** ====kusalavipāka-ahetukacittāni
-*****_ 20. Upekkhāsahagataṁ cakkhuviññāṇaṁ
-*****_ 21. Upekkhāsahagataṁ sotaviññāṇaṁ
-*****_ 22. Upekkhāsahagataṁ ghānaviññāṇaṁ
-*****_ 23. Upekkhāsahagataṁ jivhāviññāṇaṁ
-*****_ 24. Sukhasahagataṁ kāyaviññāṇaṁ
-*****_ 25. Upekkhāsahagataṁ sampaṭicchanacittaṁ
-*****_ 26. Somanassasahagataṁ santīraṇacittaṁ
-*****_ 27. Upekkhāsahagataṁ santīraṇacittaṁ
-**** ====ahetukakiriya-cittāni
-*****_ 28. Upekkhāsahagataṁ pañcadvārāvajjanacittaṁ
-*****_ 29. Upekkhāsahagataṁ manodvārāvajjanacittaṁ
-*****_ 30. Somanassasahagataṁ hasituppādacittaṁ
-*** ===sobhanacittāni
-**** ====kusalacittāni
-*****_ 31. Somanassasahagataṁ ñāṇasampayuttaṁ asaṁkhārikam ekaṁ
-*****_ 32. Somanassasahagataṁ ñāṇasampayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 33. Somanassasahagataṁ ñāṇavippayuttaṁ asaṁkhārikam ekaṁ
-*****_ 34. Somanassasahagataṁ ñāṇavippayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 35. Upekkhāsahagataṁ ñāṇasampayuttaṁ asaṁkhārikam ekaṁ
-*****_ 36. Upekkhāsahagataṁ ñāṇasampayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 37. Upekkhāsahagataṁ ñāṇavippayuttaṁ asaṁkhārikam ekaṁ
-*****_ 38. Upekkhāsahagataṁ ñāṇavippayuttaṁ sasaṁkhārikam ekaṁ
-**** ====vipākacittāni
-*****_ 99. Somanassasahagataṁ ñāṇasampayuttaṁ asaṁkhārikam ekaṁ
-*****_ 40. Somanassasahagataṁ ñāṇasampayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 41. Somanassasahagataṁ ñāṇavippayuttaṁ asaṁkhārikam ekaṁ
-*****_ 42. Somanassasahagataṁ ñāṇavippayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 43. Upekkhāsahagataṁ ñāṇasampayuttaṁ asaṁkhārikam ekaṁ
-*****_ 44. Upekkhāsahagataṁ ñāṇasampayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 45. Upekkhāsahagataṁ ñāṇavippayuttaṁ asaṁkhārikam ekaṁ
-*****_ 46. Upekkhāsahagataṁ ñāṇavippayuttaṁ sasaṁkhārikam ekaṁ
-**** ====kriyācittāni
-*****_ 47. Somanassasahagataṁ ñāṇasampayuttaṁ asaṁkhārikam ekaṁ
-*****_ 48. Somanassasahagataṁ ñāṇasampayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 49. Somanassasahagataṁ ñāṇavippayuttaṁ asaṁkhārikam ekaṁ
-*****_ 50. Somanassasahagataṁ ñāṇavippayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 51. Upekkhāsahagataṁ ñāṇasampayuttaṁ asaṁkhārikam ekaṁ
-*****_ 52. Upekkhāsahagataṁ ñāṇasampayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 53. Upekkhāsahagataṁ ñāṇavippayuttaṁ asaṁkhārikam ekaṁ
-*****_ 54. Upekkhāsahagataṁ ñāṇavippayuttaṁ sasaṁkhārikam ekaṁ
-** ==rūpāvacara
-*** ===kusalacittāni
-****_ 55. Vitakka-vicāra-pīti-sukh’-ekaggatā-sahitaṁ paṭhamajjhāna-kusalacittaṁ
-****_ 56. Vicāra-pīti-sukh’-ekaggatā-sahitaṁ dutiyajjhāna-kusalacittaṁ
-****_ 57. Pīti-sukh’-ekaggatā-sahitaṁ tatiyajjhāna-kusalacittaṁ
-****_ 58. Sukh’-ekaggatā-sahitaṁ catutthajjhāna-kusalacittaṁ
-****_ 59. Upekkh’-ekaggatā-sahitaṁ pañcamajjhāna-kusalacittaṁ
-*** ===vipākacittāni
-****_ 60. Vitakka-vicāra-pīti-sukh’-ekaggatā-sahitaṁ paṭhamajjhāna-vipākacittaṁ
-****_ 61. Vicāra-pīti-sukh’-ekaggatā-sahitaṁ dutiyajjhāna-vipākacittaṁ
-****_ 62. Pīti-sukh’-ekaggatā-sahitaṁ tatiyajjhāna-vipākacittaṁ
-****_ 63. Sukh’-ekaggatā-sahitaṁ catutthajjhāna-vipākacittaṁ
-****_ 64. Upekkh’-ekaggatā-sahitaṁ pañcamajjhāna-vipākacittaṁ
-*** ===kriyācittāni
-****_ 65. Vitakka-vicāra-pīti-sukh’-ekaggatā-sahitaṁ paṭhamajjhāna-kriyācittaṁ
-****_ 66. Vicāra-pīti-sukh’-ekaggatā-sahitaṁ dutiyajjhāna-kriyācittaṁ
-****_ 67. Pīti-sukh’-ekaggatā-sahitaṁ tatiyajjhāna-kriyācittaṁ
-****_ 68. Sukh’-ekaggatā-sahitaṁ catutthajjhāna-kriyācittaṁ
-****_ 69. Upekkh’-ekaggatā-sahitaṁ pañcamajjhāna-kriyācittaṁ
-** ==arūpāvacara
-*** ===kusalacittāni
-****_ 70. Ākāsānañcāyatana-kusalacittaṁ
-****_ 71. Viññāṇañcāyatana-kusalacittaṁ
-****_ 72. Ākiñcaññāyatana-kusalacittaṁ
-****_ 73. N’evasaññān’āsaññāyatana-kusalacittaṁ
-*** ===vipākacittāni
-****_ 74. Ākāsānañcāyatana-vipākacittaṁ
-****_ 75. Viññāṇañcāyatana-vipākacittaṁ
-****_ 76. Ākiñcaññāyatana-vipākacittaṁ
-****_ 77. N’evasaññān’āsaññāyatana-vipākacittaṁ
-*** ===kriyācittāni
-****_ 78. Ākāsānañcāyatana-kriyācittaṁ
-****_ 79. Viññāṇañcāyatana-kriyācittaṁ
-****_ 80. Ākiñcaññāyatana-kriyācittaṁ
-****_ 81. N’evasaññān’āsaññāyatana-kriyācittaṁ
-** ==lokuttara
-*** ===kusalacittāni
-****_ 82. Sotāpatti-maggacittaṁ
-****_ 83. Sakadāgāmi-maggacittaṁ
-****_ 84. Anāgāmi-maggacittaṁ
-****_ 85. Arahatta-maggacittaṁ
-*** ===vipākacittāni
-****_ 86. Sotāpatti-phalacittaṁ
-****_ 87. Sakadāgāmi-phalacittaṁ
-****_ 88. Anāgāmi-phalacittaṁ
-****_ 89. Arahatta-phalacittaṁ
-@endmindmap
-&lt;/code>&lt;/pre></description></item><item><title>Docs: Cetasikasangahavibhāga</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/cetasika/</link><pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/cetasika/</guid><description>
+&lt;/code>&lt;/pre>&lt;h2 id="cittasangahavibhāga-89">cittasangahavibhāga 89&lt;/h2>
+&lt;div id="observablehq-sunburst-05b62c03">&lt;/div>
+&lt;div id="observablehq-hierarchy-05b62c03">&lt;/div>
+&lt;div id="observablehq-icicle-05b62c03">&lt;/div>
+&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+&lt;script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/6a38e27b43175761@163.js?v=3";
+new Runtime().module(define, name => {
+if (name === "sunburst") return new Inspector(document.querySelector("#observablehq-sunburst-05b62c03"));
+if (name === "hierarchy") return new Inspector(document.querySelector("#observablehq-hierarchy-05b62c03"));
+if (name === "icicle") return new Inspector(document.querySelector("#observablehq-icicle-05b62c03"));
+});
+&lt;/script>
+&lt;h2 id="cittasangahavibhāga-121">cittasangahavibhāga 121&lt;/h2>
+&lt;div id="observablehq-sunburst-1ca97e32">&lt;/div>
+&lt;div id="observablehq-hierarchy-1ca97e32">&lt;/div>
+&lt;div id="observablehq-icicle-1ca97e32">&lt;/div>
+&lt;script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/fcdbb41494ddc64e@126.js?v=3";
+new Runtime().module(define, name => {
+if (name === "sunburst") return new Inspector(document.querySelector("#observablehq-sunburst-1ca97e32"));
+if (name === "hierarchy") return new Inspector(document.querySelector("#observablehq-hierarchy-1ca97e32"));
+if (name === "icicle") return new Inspector(document.querySelector("#observablehq-icicle-1ca97e32"));
+});
+&lt;/script></description></item><item><title>Docs: Cetasikasangahavibhāga</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/cetasika/</link><pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/cetasika/</guid><description>
 &lt;p>Ekuppāda-nirodhā ca ekālambana-vatthukā&lt;br>
 Cetoyuttā dvipaññāsa dhammā cetasikā matā.&lt;/p>
 &lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startmindmap
@@ -655,10 +565,80 @@ virati *-- sampattavirati
 virati *-- samādānavirati
 virati *-- sammucchedavirati
 @enduml
-&lt;/code>&lt;/pre></description></item><item><title>Docs: Citta-Cetasika</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta-cetasika/</link><pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta-cetasika/</guid><description>
+&lt;/code>&lt;/pre>&lt;div id="observablehq-sunburst-eb65fb96">&lt;/div>
+&lt;div id="observablehq-hierarchy-eb65fb96">&lt;/div>
+&lt;div id="observablehq-icicle-eb65fb96">&lt;/div>
+&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+&lt;script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/ba3e05233de6427b@144.js?v=3";
+new Runtime().module(define, name => {
+if (name === "sunburst") return new Inspector(document.querySelector("#observablehq-sunburst-eb65fb96"));
+if (name === "hierarchy") return new Inspector(document.querySelector("#observablehq-hierarchy-eb65fb96"));
+if (name === "icicle") return new Inspector(document.querySelector("#observablehq-icicle-eb65fb96"));
+});
+&lt;/script></description></item><item><title>Docs: Citta-Cetasika</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta-cetasika/</link><pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta-cetasika/</guid><description>
 &lt;ul>
 &lt;li>cetasikasampayoganaya (Association of Mental Factors)&lt;/li>
 &lt;li>cetasikasangahanaya (Combinations of Mental Factors)&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="https://christham.net/buddhavacana/buddhavacana/svg/citta-cetasika.svg" alt="Table">&lt;/p>
-&lt;p>&lt;img src="https://christham.net/buddhavacana/buddhavacana/svg/ccsankey.svg" alt="Sankey Diagram">&lt;/p></description></item></channel></rss>
+&lt;div id="observablehq-scatter-dc43f51f">&lt;/div>
+&lt;div id="observablehq-viewof-linkColor-dc43f51f">&lt;/div>
+&lt;div id="observablehq-viewof-nodeAlign-dc43f51f">&lt;/div>
+&lt;div id="observablehq-chart-dc43f51f">&lt;/div>
+&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+&lt;script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/4922cbb38cfb4fda@235.js?v=3";
+new Runtime().module(define, name => {
+if (name === "scatter") return new Inspector(document.querySelector("#observablehq-scatter-dc43f51f"));
+if (name === "viewof linkColor") return new Inspector(document.querySelector("#observablehq-viewof-linkColor-dc43f51f"));
+if (name === "viewof nodeAlign") return new Inspector(document.querySelector("#observablehq-viewof-nodeAlign-dc43f51f"));
+if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-dc43f51f"));
+});
+&lt;/script>
+&lt;div id="observablehq-chart-e0b8e564">&lt;/div>
+&lt;script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/0e0e7e12ffc669a7.js?v=3";
+new Runtime().module(define, name => {
+if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-e0b8e564"));
+});
+&lt;/script></description></item><item><title>Docs: kiccasangaha</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/kicca/</link><pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/kicca/</guid><description>
+&lt;pre class="mermaid">stateDiagram-v2
+direction TB
+classDef notMoving fill:white
+classDef movement font-style:italic
+classDef badBadEvent fill:#f00,color:white,font-weight:bold,stroke-width:2px,stroke:yellow
+paṭisandhi --&amp;gt; bhavanga
+bhavanga --&amp;gt; bhavanga
+bhavanga --&amp;gt; pañcadvāravīthi
+State pañcadvāravīthi {
+bhavangacalana: bhavanga-calana
+bhavangupaccheda: bhavang’-upaccheda
+javana: javana x7
+tadārammaṇa: tadārammaṇa x2
+bhavangacalana --&amp;gt; bhavangupaccheda
+bhavangupaccheda --&amp;gt; pañcadvārāvajjana
+state fork_state &amp;lt;&amp;lt;fork&amp;gt;&amp;gt;
+pañcadvārāvajjana --&amp;gt; fork_state
+fork_state --&amp;gt; cakkhuviññāṇaṁ
+fork_state --&amp;gt; sotaviññāṇaṁ
+fork_state --&amp;gt; ghānaviññāṇaṁ
+fork_state --&amp;gt; jivhāviññāṇaṁ
+fork_state --&amp;gt; kāyaviññāṇaṁ
+state join_state &amp;lt;&amp;lt;join&amp;gt;&amp;gt;
+cakkhuviññāṇaṁ --&amp;gt; join_state
+sotaviññāṇaṁ --&amp;gt; join_state
+ghānaviññāṇaṁ --&amp;gt; join_state
+jivhāviññāṇaṁ --&amp;gt; join_state
+kāyaviññāṇaṁ --&amp;gt; join_state
+join_state --&amp;gt; sampaṭicchana
+sampaṭicchana --&amp;gt; santīraṇa
+santīraṇa --&amp;gt; votthapana
+votthapana --&amp;gt; javana
+javana --&amp;gt; tadārammaṇa
+}
+pañcadvāravīthi --&amp;gt; bhavanga
+bhavanga--&amp;gt; cuti
+cuti --&amp;gt; paṭisandhi&lt;/pre></description></item></channel></rss>

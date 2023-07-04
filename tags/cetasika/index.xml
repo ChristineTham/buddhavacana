@@ -265,10 +265,43 @@ virati *-- sampattavirati
 virati *-- samādānavirati
 virati *-- sammucchedavirati
 @enduml
-&lt;/code>&lt;/pre></description></item><item><title>Docs: Citta-Cetasika</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta-cetasika/</link><pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta-cetasika/</guid><description>
+&lt;/code>&lt;/pre>&lt;div id="observablehq-sunburst-eb65fb96">&lt;/div>
+&lt;div id="observablehq-hierarchy-eb65fb96">&lt;/div>
+&lt;div id="observablehq-icicle-eb65fb96">&lt;/div>
+&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+&lt;script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/ba3e05233de6427b@144.js?v=3";
+new Runtime().module(define, name => {
+if (name === "sunburst") return new Inspector(document.querySelector("#observablehq-sunburst-eb65fb96"));
+if (name === "hierarchy") return new Inspector(document.querySelector("#observablehq-hierarchy-eb65fb96"));
+if (name === "icicle") return new Inspector(document.querySelector("#observablehq-icicle-eb65fb96"));
+});
+&lt;/script></description></item><item><title>Docs: Citta-Cetasika</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta-cetasika/</link><pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta-cetasika/</guid><description>
 &lt;ul>
 &lt;li>cetasikasampayoganaya (Association of Mental Factors)&lt;/li>
 &lt;li>cetasikasangahanaya (Combinations of Mental Factors)&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="https://christham.net/buddhavacana/buddhavacana/svg/citta-cetasika.svg" alt="Table">&lt;/p>
-&lt;p>&lt;img src="https://christham.net/buddhavacana/buddhavacana/svg/ccsankey.svg" alt="Sankey Diagram">&lt;/p></description></item></channel></rss>
+&lt;div id="observablehq-scatter-dc43f51f">&lt;/div>
+&lt;div id="observablehq-viewof-linkColor-dc43f51f">&lt;/div>
+&lt;div id="observablehq-viewof-nodeAlign-dc43f51f">&lt;/div>
+&lt;div id="observablehq-chart-dc43f51f">&lt;/div>
+&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+&lt;script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/4922cbb38cfb4fda@235.js?v=3";
+new Runtime().module(define, name => {
+if (name === "scatter") return new Inspector(document.querySelector("#observablehq-scatter-dc43f51f"));
+if (name === "viewof linkColor") return new Inspector(document.querySelector("#observablehq-viewof-linkColor-dc43f51f"));
+if (name === "viewof nodeAlign") return new Inspector(document.querySelector("#observablehq-viewof-nodeAlign-dc43f51f"));
+if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-dc43f51f"));
+});
+&lt;/script>
+&lt;div id="observablehq-chart-e0b8e564">&lt;/div>
+&lt;script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/0e0e7e12ffc669a7.js?v=3";
+new Runtime().module(define, name => {
+if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-e0b8e564"));
+});
+&lt;/script></description></item></channel></rss>
