@@ -296,3 +296,18 @@ virati *-- samādānavirati
 virati *-- sammucchedavirati
 @enduml
 ```
+
+<div id="observablehq-sunburst-eb65fb96"></div>
+<div id="observablehq-hierarchy-eb65fb96"></div>
+<div id="observablehq-icicle-eb65fb96"></div>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/ba3e05233de6427b@144.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "sunburst") return new Inspector(document.querySelector("#observablehq-sunburst-eb65fb96"));
+  if (name === "hierarchy") return new Inspector(document.querySelector("#observablehq-hierarchy-eb65fb96"));
+  if (name === "icicle") return new Inspector(document.querySelector("#observablehq-icicle-eb65fb96"));
+});
+</script>

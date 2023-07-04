@@ -296,121 +296,35 @@ lokuttaracitta --> arahatta
 @enduml
 ```
 
-```plantuml
-@startmindmap
-* =Citta
-** ==kāmāvacara
-*** ===akusalacittāni
-**** ====lobhamūlacittāni
-*****_ 1. Somanassasahagataṁ diṭṭhigatasampayuttaṁ asaṁkhārikam ekaṁ
-*****_ 2. Somanassasahagataṁ diṭṭhigatasampayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 3. Somanassasahagataṁ diṭṭhigatavippayuttaṁ asaṁkhārikam ekaṁ
-*****_ 4. Somanassasahagataṁ diṭṭhigatavippayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 5. Upekkhāsahagataṁ diṭṭhigatasampayuttaṁ asaṁkhārikam ekaṁ
-*****_ 6. Upekkhāsahagataṁ diṭṭhigatasampayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 7. Upekkhāsahagataṁ diṭṭhigatavippayuttaṁ asaṁkhārikam ekaṁ
-*****_ 8. Upekkhāsahagataṁ diṭṭhigatavippayuttaṁ sasaṁkhārikam ekaṁ
-**** ====dosamūlacittāni
-*****_ 9. Domanassasahagataṁ paṭighasampayuttaṁ asaṁkhārikam ekaṁ
-*****_ 10. Domanassasahagataṁ paṭighasampayuttaṁ sasaṁkhārikam ekaṁ
-**** ====mohamūlacittāni
-*****_ 11. Upekkhāsahagataṁ vicikicchāsampayuttam ekaṁ
-*****_ 12. Upekkhāsahagataṁ uddhaccasampayuttam ekaṁ
-*** ===ahetukacittāni
-**** ====akusalavipākacittāni
-*****_ 13. Upekkhāsahagataṁ cakkhuviññāṇaṁ
-*****_ 14. Upekkhāsahagataṁ sotaviññāṇaṁ
-*****_ 15. Upekkhāsahagataṁ ghānaviññāṇaṁ
-*****_ 16. Upekkhāsahagataṁ jivhāviññāṇaṁ
-*****_ 17. Dukkhasahagataṁ kāyaviññāṇaṁ
-*****_ 18. Upekkhāsahagataṁ sampaṭicchanacittaṁ
-*****_ 19. Upekkhāsahagataṁ santīraṇacittaṁ
-**** ====kusalavipāka-ahetukacittāni
-*****_ 20. Upekkhāsahagataṁ cakkhuviññāṇaṁ
-*****_ 21. Upekkhāsahagataṁ sotaviññāṇaṁ
-*****_ 22. Upekkhāsahagataṁ ghānaviññāṇaṁ
-*****_ 23. Upekkhāsahagataṁ jivhāviññāṇaṁ
-*****_ 24. Sukhasahagataṁ kāyaviññāṇaṁ
-*****_ 25. Upekkhāsahagataṁ sampaṭicchanacittaṁ
-*****_ 26. Somanassasahagataṁ santīraṇacittaṁ
-*****_ 27. Upekkhāsahagataṁ santīraṇacittaṁ
-**** ====ahetukakiriya-cittāni
-*****_ 28. Upekkhāsahagataṁ pañcadvārāvajjanacittaṁ
-*****_ 29. Upekkhāsahagataṁ manodvārāvajjanacittaṁ
-*****_ 30. Somanassasahagataṁ hasituppādacittaṁ
-*** ===sobhanacittāni
-**** ====kusalacittāni
-*****_ 31. Somanassasahagataṁ ñāṇasampayuttaṁ asaṁkhārikam ekaṁ
-*****_ 32. Somanassasahagataṁ ñāṇasampayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 33. Somanassasahagataṁ ñāṇavippayuttaṁ asaṁkhārikam ekaṁ
-*****_ 34. Somanassasahagataṁ ñāṇavippayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 35. Upekkhāsahagataṁ ñāṇasampayuttaṁ asaṁkhārikam ekaṁ
-*****_ 36. Upekkhāsahagataṁ ñāṇasampayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 37. Upekkhāsahagataṁ ñāṇavippayuttaṁ asaṁkhārikam ekaṁ
-*****_ 38. Upekkhāsahagataṁ ñāṇavippayuttaṁ sasaṁkhārikam ekaṁ
-**** ====vipākacittāni
-*****_ 99. Somanassasahagataṁ ñāṇasampayuttaṁ asaṁkhārikam ekaṁ
-*****_ 40. Somanassasahagataṁ ñāṇasampayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 41. Somanassasahagataṁ ñāṇavippayuttaṁ asaṁkhārikam ekaṁ
-*****_ 42. Somanassasahagataṁ ñāṇavippayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 43. Upekkhāsahagataṁ ñāṇasampayuttaṁ asaṁkhārikam ekaṁ
-*****_ 44. Upekkhāsahagataṁ ñāṇasampayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 45. Upekkhāsahagataṁ ñāṇavippayuttaṁ asaṁkhārikam ekaṁ
-*****_ 46. Upekkhāsahagataṁ ñāṇavippayuttaṁ sasaṁkhārikam ekaṁ
-**** ====kriyācittāni
-*****_ 47. Somanassasahagataṁ ñāṇasampayuttaṁ asaṁkhārikam ekaṁ
-*****_ 48. Somanassasahagataṁ ñāṇasampayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 49. Somanassasahagataṁ ñāṇavippayuttaṁ asaṁkhārikam ekaṁ
-*****_ 50. Somanassasahagataṁ ñāṇavippayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 51. Upekkhāsahagataṁ ñāṇasampayuttaṁ asaṁkhārikam ekaṁ
-*****_ 52. Upekkhāsahagataṁ ñāṇasampayuttaṁ sasaṁkhārikam ekaṁ
-*****_ 53. Upekkhāsahagataṁ ñāṇavippayuttaṁ asaṁkhārikam ekaṁ
-*****_ 54. Upekkhāsahagataṁ ñāṇavippayuttaṁ sasaṁkhārikam ekaṁ
-** ==rūpāvacara
-*** ===kusalacittāni
-****_ 55. Vitakka-vicāra-pīti-sukh’-ekaggatā-sahitaṁ paṭhamajjhāna-kusalacittaṁ
-****_ 56. Vicāra-pīti-sukh’-ekaggatā-sahitaṁ dutiyajjhāna-kusalacittaṁ
-****_ 57. Pīti-sukh’-ekaggatā-sahitaṁ tatiyajjhāna-kusalacittaṁ
-****_ 58. Sukh’-ekaggatā-sahitaṁ catutthajjhāna-kusalacittaṁ
-****_ 59. Upekkh’-ekaggatā-sahitaṁ pañcamajjhāna-kusalacittaṁ
-*** ===vipākacittāni
-****_ 60. Vitakka-vicāra-pīti-sukh’-ekaggatā-sahitaṁ paṭhamajjhāna-vipākacittaṁ
-****_ 61. Vicāra-pīti-sukh’-ekaggatā-sahitaṁ dutiyajjhāna-vipākacittaṁ
-****_ 62. Pīti-sukh’-ekaggatā-sahitaṁ tatiyajjhāna-vipākacittaṁ
-****_ 63. Sukh’-ekaggatā-sahitaṁ catutthajjhāna-vipākacittaṁ
-****_ 64. Upekkh’-ekaggatā-sahitaṁ pañcamajjhāna-vipākacittaṁ
-*** ===kriyācittāni
-****_ 65. Vitakka-vicāra-pīti-sukh’-ekaggatā-sahitaṁ paṭhamajjhāna-kriyācittaṁ
-****_ 66. Vicāra-pīti-sukh’-ekaggatā-sahitaṁ dutiyajjhāna-kriyācittaṁ
-****_ 67. Pīti-sukh’-ekaggatā-sahitaṁ tatiyajjhāna-kriyācittaṁ
-****_ 68. Sukh’-ekaggatā-sahitaṁ catutthajjhāna-kriyācittaṁ
-****_ 69. Upekkh’-ekaggatā-sahitaṁ pañcamajjhāna-kriyācittaṁ
-** ==arūpāvacara
-*** ===kusalacittāni
-****_ 70. Ākāsānañcāyatana-kusalacittaṁ
-****_ 71. Viññāṇañcāyatana-kusalacittaṁ
-****_ 72. Ākiñcaññāyatana-kusalacittaṁ
-****_ 73. N’evasaññān’āsaññāyatana-kusalacittaṁ
-*** ===vipākacittāni
-****_ 74. Ākāsānañcāyatana-vipākacittaṁ
-****_ 75. Viññāṇañcāyatana-vipākacittaṁ
-****_ 76. Ākiñcaññāyatana-vipākacittaṁ
-****_ 77. N’evasaññān’āsaññāyatana-vipākacittaṁ
-*** ===kriyācittāni
-****_ 78. Ākāsānañcāyatana-kriyācittaṁ
-****_ 79. Viññāṇañcāyatana-kriyācittaṁ
-****_ 80. Ākiñcaññāyatana-kriyācittaṁ
-****_ 81. N’evasaññān’āsaññāyatana-kriyācittaṁ
-** ==lokuttara
-*** ===kusalacittāni
-****_ 82. Sotāpatti-maggacittaṁ
-****_ 83. Sakadāgāmi-maggacittaṁ
-****_ 84. Anāgāmi-maggacittaṁ
-****_ 85. Arahatta-maggacittaṁ
-*** ===vipākacittāni
-****_ 86. Sotāpatti-phalacittaṁ
-****_ 87. Sakadāgāmi-phalacittaṁ
-****_ 88. Anāgāmi-phalacittaṁ
-****_ 89. Arahatta-phalacittaṁ
-@endmindmap
-```
+## cittasangahavibhāga 89
+
+<div id="observablehq-sunburst-05b62c03"></div>
+<div id="observablehq-hierarchy-05b62c03"></div>
+<div id="observablehq-icicle-05b62c03"></div>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/6a38e27b43175761@163.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "sunburst") return new Inspector(document.querySelector("#observablehq-sunburst-05b62c03"));
+  if (name === "hierarchy") return new Inspector(document.querySelector("#observablehq-hierarchy-05b62c03"));
+  if (name === "icicle") return new Inspector(document.querySelector("#observablehq-icicle-05b62c03"));
+});
+</script>
+
+## cittasangahavibhāga 121
+
+<div id="observablehq-sunburst-1ca97e32"></div>
+<div id="observablehq-hierarchy-1ca97e32"></div>
+<div id="observablehq-icicle-1ca97e32"></div>
+
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/fcdbb41494ddc64e@126.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "sunburst") return new Inspector(document.querySelector("#observablehq-sunburst-1ca97e32"));
+  if (name === "hierarchy") return new Inspector(document.querySelector("#observablehq-hierarchy-1ca97e32"));
+  if (name === "icicle") return new Inspector(document.querySelector("#observablehq-icicle-1ca97e32"));
+});
+</script>

@@ -1,0 +1,243 @@
+{
+    "id": "6a38e27b43175761",
+    "type": "notebook",
+    "slug": null,
+    "trashed": false,
+    "description": "",
+    "likes": 0,
+    "publish_level": "live",
+    "forks": 0,
+    "fork_of": {
+        "id": "fcdbb41494ddc64e",
+        "slug": null,
+        "title": "Cittasangahavibhāga 121",
+        "owner": {
+            "id": "5d95bf25af5ba590",
+            "avatar_url": "https://avatars.observableusercontent.com/avatar/804677017ba52d9f4923d91aa8983b49aeafc7b84153d49cb447161e93a600e2",
+            "login": "hellotham",
+            "name": "Hello Tham",
+            "bio": "",
+            "home_url": "https://hellotham.com",
+            "type": "team",
+            "tier": "public",
+            "following_count": 0,
+            "followers_count": 0,
+            "following": false
+        },
+        "version": 108
+    },
+    "has_importers": false,
+    "update_time": "2023-06-27T23:53:55.567Z",
+    "first_public_version": 108,
+    "paused_version": null,
+    "publish_time": null,
+    "publish_version": 159,
+    "latest_version": 159,
+    "thumbnail": null,
+    "default_thumbnail": null,
+    "roles": [],
+    "sharing": null,
+    "tags": [],
+    "owner": {
+        "id": "5d95bf25af5ba590",
+        "avatar_url": "https://avatars.observableusercontent.com/avatar/804677017ba52d9f4923d91aa8983b49aeafc7b84153d49cb447161e93a600e2",
+        "login": "hellotham",
+        "name": "Hello Tham",
+        "bio": "",
+        "home_url": "https://hellotham.com",
+        "type": "team",
+        "tier": "public",
+        "following_count": 0,
+        "followers_count": 0,
+        "following": false
+    },
+    "creator": {
+        "id": "c5e530799364f270",
+        "github_login": "ChristineTham",
+        "avatar_url": "https://avatars.observableusercontent.com/avatar/afd22cec398bf4239e987ca734c900df2f93a9623a9dcbc73dd8982677685ff0",
+        "login": "christinetham",
+        "name": "Christine Tham",
+        "bio": "",
+        "home_url": "",
+        "tier": "public",
+        "following_count": 2,
+        "followers_count": 0,
+        "following": false
+    },
+    "authors": [
+        {
+            "id": "c5e530799364f270",
+            "avatar_url": "https://avatars.observableusercontent.com/avatar/afd22cec398bf4239e987ca734c900df2f93a9623a9dcbc73dd8982677685ff0",
+            "name": "Christine Tham",
+            "login": "christinetham",
+            "bio": "",
+            "home_url": "",
+            "github_login": "ChristineTham",
+            "tier": "public",
+            "approved": true,
+            "description": "",
+            "following_count": 2,
+            "followers_count": 0,
+            "following": false
+        }
+    ],
+    "collections": [
+        {
+            "id": "9a874bd23947034e",
+            "type": "public",
+            "slug": "buddhism",
+            "title": "Buddhism",
+            "description": "Buddhism Charts",
+            "update_time": "2023-06-21T23:44:41.205Z",
+            "pinned": false,
+            "ordered": false,
+            "custom_thumbnail": null,
+            "default_thumbnail": "65356d8b80dedf3bff5c462a37bd635cb3d582eb485e7e114b6c95ba57c7d04f",
+            "thumbnail": "65356d8b80dedf3bff5c462a37bd635cb3d582eb485e7e114b6c95ba57c7d04f",
+            "listing_count": 3,
+            "parent_collection_count": 0,
+            "owner": {
+                "id": "5d95bf25af5ba590",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/804677017ba52d9f4923d91aa8983b49aeafc7b84153d49cb447161e93a600e2",
+                "login": "hellotham",
+                "name": "Hello Tham",
+                "bio": "",
+                "home_url": "https://hellotham.com",
+                "type": "team",
+                "tier": "public",
+                "following_count": 0,
+                "followers_count": 0,
+                "following": false
+            }
+        }
+    ],
+    "files": [
+        {
+            "id": "8d122522850bd7f180c5402ca0590f856153b640bc89180f6711c8af1b88c2897aca3fd81e85f1ac8a562d66f8d47587b3cc0e7bf2a6a44ef32cec2b1d5edfcb",
+            "url": "https://static.observableusercontent.com/files/8d122522850bd7f180c5402ca0590f856153b640bc89180f6711c8af1b88c2897aca3fd81e85f1ac8a562d66f8d47587b3cc0e7bf2a6a44ef32cec2b1d5edfcb",
+            "download_url": "https://static.observableusercontent.com/files/8d122522850bd7f180c5402ca0590f856153b640bc89180f6711c8af1b88c2897aca3fd81e85f1ac8a562d66f8d47587b3cc0e7bf2a6a44ef32cec2b1d5edfcb?response-content-disposition=attachment%3Bfilename*%3DUTF-8%27%27citta89%25408.csv",
+            "name": "citta89@8.csv",
+            "create_time": "2023-06-27T23:53:56.585Z",
+            "mime_type": "text/csv",
+            "status": "public",
+            "size": 8276,
+            "content_encoding": "gzip",
+            "private_bucket_id": null
+        }
+    ],
+    "comments": [],
+    "commenting_lock": null,
+    "suggestion_from": null,
+    "suggestions_to": [],
+    "version": 159,
+    "title": "cittasangahavibhāga 89",
+    "license": null,
+    "copyright": "",
+    "nodes": [
+        {
+            "id": 0,
+            "name": "",
+            "value": "# cittasangahavibhāga 89\n\nCompendium of Consciousness into 89 types, classified into:\n\n- vacara (Sphere)\n- hetu (root)\n- jati (nature)",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 45,
+            "name": null,
+            "value": "import {Sunburst} from \"@d3/sunburst\"",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 35,
+            "name": null,
+            "value": "import {Icicle} from \"@d3/icicle\"",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": "6e0ba210-391e-4d04-ad63-fa8906a57dee",
+            "name": "",
+            "value": "citta=d3.csv('./citta89.csv')",
+            "mode": "js",
+            "outputs": []
+        },
+        {
+            "id": 44,
+            "name": null,
+            "value": "Sunburst(tree, {width: 1000, height: 1000, margin:150, label: d => d.id.split('/').pop()})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 7,
+            "name": null,
+            "value": "Plot.plot({\n  axis: null,\n  margin: 20,\n  marginRight: 400,\n  width: 1200,\n  height: 1500,\n  marks: [\n    Plot.tree(paths)\n  ]\n})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 55,
+            "name": null,
+            "value": "Icicle(tree, {width: 1650, height: 1200, label: d => d.id.split('/').pop()})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 102,
+            "name": null,
+            "value": "Plot.plot({\n  grid: true,\n  symbol: {legend: true},\n  aspectRatio: 1,\n  width: 1200,\n  height: 600,\n  marginLeft: 120,\n  marginBottom: 400,\n  x: {tickRotate: 90},\n  color: {legend: true},\n  marks: [\n    Plot.dot(citta, {x: \"citta\", channels: {no: \"no\"}, y: \"jati\", sort: {x: \"no\"}, stroke: \"hetu\", symbol: \"vacara\", tip: true}),\n  ]\n})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 64,
+            "name": null,
+            "value": "tree=d3.stratify().path((d) => d)(paths)",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        },
+        {
+            "id": 13,
+            "name": null,
+            "value": "paths=citta.map(c => ('citta/' + c.vacara + '/' + c.hetu + '/' + c.jati + '/' + c.citta))",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "outputs": []
+        }
+    ],
+    "resolutions": [
+        {
+            "type": "notebook",
+            "specifier": "@d3/icicle",
+            "value": "b08c339a90d5846f@323"
+        },
+        {
+            "type": "notebook",
+            "specifier": "@d3/example-components",
+            "value": "7a9e12f9fb3d8e06@498"
+        },
+        {
+            "type": "notebook",
+            "specifier": "@d3/sunburst",
+            "value": "a601aba88046a626@339"
+        }
+    ]
+}
