@@ -48,3 +48,18 @@ description: >
 
 [BuddhaDust](https://obo.genaud.net/index.htm)
 : The site is intended to be adopted by those interested in making the Dhamma their theme for meditation and for Dhamma researchers of all stripes. It is intended as a pattern, to be used as a basis for a personal desktop work environment or as a basis for promoting some view on the web, and should be seen as incomplete, needing correction, revision and improvement in all departments.
+
+[Open Buddhist University](https://buddhistuniversity.net/)
+: Rigorous academics and thorough content coverage, the University offers a comprehensive foundation in Buddhist studies.
+
+[Ancient Buddhist Texts](https://www.ancient-buddhist-texts.net/index.htm)
+: Materials from the early and medieval Buddhist tradition covering texts in Pāli and Sanskrit; line by line (interlinear) texts and translations; translations in English only; studies of grammar, prosody and compilation; maps, reference works and audio files.
+
+[Vipassana Research Institute](https://www.vridhamma.org)
+: Vipassana Research Institute (VRI), a non-profit-making body, was established in 1985 with the principal aim of conducting scientific research into the sources and applications of the Vipassana Meditation Technique.
+
+[interactive Dhamma Guide](https://www.idhamma.org)
+: The core of the early Buddhist teachings
+
+[Sutta and the City](https://www.suttaandthecity.com)
+: We are a group of Buddhists, Mindfulness practitioners, secularists, and spiritual seekers.  We cling to no particular tradition or doctrine.  Our primary purpose is to examine the teachings of the historical Buddha and see how they may help us navigate the complexities of modern life.  Join us, and see what you can discover.

@@ -22,16 +22,16 @@ markmap:
   pan: false
 ---
 # cattāri ariyasaccāni
-## idam dukkham
+## dukkham
 - pain
 - incapable of suffering
-## ayam dukkha-samudayo
+## dukkha-samudayo
 - origin
 - arising
-## ayam dukkha-nirodha
+## dukkha-nirodha
 - cease
 - suppress
-## ayam dukkha-nirodha-gamini patipada
+## dukkha-nirodha-gamini patipada
 - leading to
 - path, way
 ```

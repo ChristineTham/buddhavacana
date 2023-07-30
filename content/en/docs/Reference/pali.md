@@ -24,3 +24,12 @@ description: >
 
 [Pali-English Dictionary](https://dsal.uchicago.edu/dictionaries/pali/)
 : Online version of The Pali Text Society's Pali-English dictionary
+
+[Wisdom and Wonders Introduction to Pali](https://wiswo.org/itp/)
+: This course, Introduction to Pali by Ajahn Brahmali, is separated into 24 parts. There are approximately 20 hours of material, including lessons and exercises. The course is intended for those who wish to read content from the Pali canon, rather than those who wish to read, write and construct terms in Pali. The course uses Introduction to Pali by A. K. Warder as the core text, and covers the first 16 chapters.
+
+[Open Buddhist University: The Pāli Language: Level 1](https://buddhistuniversity.net/courses/pali-primer)
+: This course doesn’t assume any prior knowledge of linguistics or classical languages, and so serves as a suitable introduction for anyone. Note that the examples will not be drawn directly from the Pāli Canon.
+
+[Grammar and Prosody](https://www.ancient-buddhist-texts.net/Textual-Studies/TS-index.htm)
+: This section contains studies of the grammar and prosody of Buddhist texts, with original texts in Pāli and Sanskrit (together with extensive annotation).

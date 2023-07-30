@@ -18,7 +18,7 @@ markmap:
   pan: false
 ---
 # dukkhanirodhaṁ ariyasaccaṁ
-## yo tassāyeva taṇhāya asesavirāganirodho
+## taṇhāya asesavirāganirodho
 - full fading away and ending of all craving
 ## cāgo
 - giving it up
