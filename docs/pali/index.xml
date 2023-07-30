@@ -342,4 +342,142 @@ hakāra: h&lt;/p>
 &lt;p>ṃ (niggahīta) can be written η, ṁ or ṃ&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item></channel></rss>
+&lt;/div></description></item><item><title>Docs: Grammar (vyākaraṇa)</title><link>https://christham.net/buddhavacana/docs/pali/grammar/</link><pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/pali/grammar/</guid><description>
+&lt;h2 id="pada">pada&lt;/h2>
+&lt;p>Word&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# pada
+## liṅga (stem)
+### dhātu (root)
+### paccaya (suffix)
+## vibhatti (inflectional ending)
+&lt;/code>&lt;/pre>&lt;h2 id="padajāti">padajāti&lt;/h2>
+&lt;p>The four parts of speech&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# padajāti
+## nāma
+- noun
+## ākhyāta
+- verb
+## upasagga
+- prefix
+## nipāta
+- particle
+- indeclinable
+&lt;/code>&lt;/pre>&lt;h2 id="nāma">nāma&lt;/h2>
+&lt;p>Noun&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# nāma
+## saṅkhyā (number)
+### ekavacana (singular)
+### bahuvacana (plural)
+## liṅga (gender)
+### pulliṅga (masculine)
+### itthiliṅga (feminine)
+### napuṁsakaliṅga (neuter)
+## kāraka (case)
+### pathamāvacana, paccattavacana – nominative case (paṭhamā: first)
+### upayogavacana, kammavacana – accusative (dutiyā: second)
+### karaṇavacana – instrumental (tatiyā: third)
+### sampadānavacana – dative (catutthī: fourth)
+### apādānavacana, avadhi – ablative (pañcamī: fifth)
+### sāmivacana, sambandha – genitive (chaṭṭhī: sixth)
+### bhummavacana, okāsa, ādhāra, sambodhana – locative case (sattamī: seventh)
+### āmantaṇavacana, ālapanavacana – vocative
+&lt;/code>&lt;/pre>&lt;h2 id="ākhyāta">ākhyāta&lt;/h2>
+&lt;p>Verb&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# ākhyāta
+## lakāra (tense)
+### vattamāna (present indicative)
+### pañcamī (imperative) [mood]
+### ajjatanī (aorist) [past]
+### sattamī (optative) [mood]
+### anāgatakāla (future)
+### kālātipatti (conditional)
+### kārita (causative)
+## purisa (person)
+### paṭhamapurisa (third person)
+### majjhimapurisa (second person)
+### uttamapurisa (first person)
+## saṅkhyā (number)
+### ekavacana (singular)
+### bahuvacana (plural)
+&lt;/code>&lt;/pre>&lt;h2 id="vākya">vākya&lt;/h2>
+&lt;p>sentence&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# vākya
+## kiriyā
+- action
+- verb
+## kattar
+- agent
+- noun
+## kamma
+- patient
+- noun
+&lt;/code>&lt;/pre>&lt;pre class="mermaid">classDiagram
+class `loko vivaṭṭhati` {
+&amp;lt;&amp;lt;sentence&amp;gt;&amp;gt;
+english(the world evolves)
+}
+class loko {
+&amp;lt;&amp;lt;noun&amp;gt;&amp;gt;
+pulliṅga [masculine]
+paṭhamā: paccattavacana [nominative]
+ekavacana [singular]
+english(world)
+}
+class lok {
+&amp;lt;&amp;lt;root&amp;gt;&amp;gt;
+english(see)
+}
+class loka {
+&amp;lt;&amp;lt;stem&amp;gt;&amp;gt;
+}
+class vivaṭṭhati {
+&amp;lt;&amp;lt;verb&amp;gt;&amp;gt;
+vattamānakāla [present indicative]
+parassapada [active]
+paṭhamapurisa [3rd person]
+ekavacana [singular]
+english(evolves)
+}
+class vi {
+&amp;lt;&amp;lt;prefix&amp;gt;&amp;gt;
+english(apart, asunder)
+}
+class vaṭṭ {
+&amp;lt;&amp;lt;root&amp;gt;&amp;gt;
+english(turn, roll, circle)
+}
+class vaṭṭa {
+&amp;lt;&amp;lt;stem&amp;gt;&amp;gt;
+}
+`loko vivaṭṭhati` *-- loko : kiriyā
+loko *-- loka : rūpa
+loka *-- lok : dhātu
+vaṭṭa *-- vaṭṭ : dhātu
+vivaṭṭhati *-- vi : upasagga
+vivaṭṭhati *-- vaṭṭa : rūpa
+`loko vivaṭṭhati` *-- vivaṭṭhati : kattar&lt;/pre></description></item></channel></rss>
