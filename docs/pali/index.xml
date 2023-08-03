@@ -345,34 +345,39 @@ hakāra: h&lt;/p>
 &lt;/div></description></item><item><title>Docs: Grammar (vyākaraṇa)</title><link>https://christham.net/buddhavacana/docs/pali/grammar/</link><pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/pali/grammar/</guid><description>
 &lt;h2 id="pada">pada&lt;/h2>
 &lt;p>Word&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
-markmap:
-zoom: false
-pan: false
----
-# pada
-## liṅga (stem)
-### dhātu (root)
-### paccaya (suffix)
-## vibhatti (inflectional ending)
-&lt;/code>&lt;/pre>&lt;h2 id="padajāti">padajāti&lt;/h2>
+&lt;pre class="mermaid">stateDiagram-v2
+direction LR
+liṅga : liṅga (stem)
+state liṅga {
+direction LR
+dhātu : dhātu (root)
+dhātu --&amp;gt; paccaya
+paccaya : paccaya (suffix)
+}
+liṅga --&amp;gt; vibhatti
+vibhatti : vibhatti (inflectional ending)&lt;/pre>
+&lt;h2 id="padajāti">padajāti&lt;/h2>
 &lt;p>The four parts of speech&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
-markmap:
-zoom: false
-pan: false
----
-# padajāti
-## nāma
-- noun
-## ākhyāta
-- verb
-## upasagga
-- prefix
-## nipāta
-- particle
-- indeclinable
-&lt;/code>&lt;/pre>&lt;h2 id="nāma">nāma&lt;/h2>
+&lt;pre class="mermaid">mindmap
+id((padajāti))
+nāma
+id(noun)
+guṇanāma
+id(adjective)
+sabbanāma
+id(pronoun)
+niyamita
+id(demonstrative)
+aniyamita
+id(relative)
+ākhyāta
+id(verb)
+upasagga
+id(prefix)
+nipāta
+id(particle)
+id(indeclinable)&lt;/pre>
+&lt;h2 id="nāma">nāma&lt;/h2>
 &lt;p>Noun&lt;/p>
 &lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
 markmap:
@@ -385,18 +390,216 @@ pan: false
 ### bahuvacana (plural)
 ## liṅga (gender)
 ### pulliṅga (masculine)
+- ♂︎
 ### itthiliṅga (feminine)
+- ♀︎
 ### napuṁsakaliṅga (neuter)
+- ⚲
 ## kāraka (case)
-### pathamāvacana, paccattavacana – nominative case (paṭhamā: first)
-### upayogavacana, kammavacana – accusative (dutiyā: second)
+### paccattavacana – nominative case (paṭhamā: first)
+### upayogavacana – accusative (dutiyā: second)
 ### karaṇavacana – instrumental (tatiyā: third)
-### sampadānavacana – dative (catutthī: fourth)
+### sampadānavacana – dative (catutthī: fourth) -
 ### apādānavacana, avadhi – ablative (pañcamī: fifth)
 ### sāmivacana, sambandha – genitive (chaṭṭhī: sixth)
 ### bhummavacana, okāsa, ādhāra, sambodhana – locative case (sattamī: seventh)
-### āmantaṇavacana, ālapanavacana – vocative
-&lt;/code>&lt;/pre>&lt;h2 id="ākhyāta">ākhyāta&lt;/h2>
+### āmantaṇavacana, ālapanavacana – vocative (aṭṭhamī: sixth)
+&lt;/code>&lt;/pre>&lt;h3 id="1-paccattavacana">1. paccattavacana&lt;/h3>
+&lt;p>Nominative:&lt;/p>
+&lt;ul>
+&lt;li>used for agent (or &amp;ldquo;subject&amp;rdquo;) of an active sentence (or &amp;ldquo;subject&amp;rdquo; of an active verb)
+&lt;ul>
+&lt;li>brāhmaṇo passati&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>used for attribute of an agent in the nominative, including one &amp;ldquo;predicated&amp;rdquo; of it by means of a verb meaning &amp;ldquo;to be&amp;rdquo; (usually follows the agent)
+&lt;ul>
+&lt;li>brāhmaṇo mahāmatto hoti&lt;/li>
+&lt;li>eso samaṇo&lt;/li>
+&lt;li>brāhmaṇo mahāmatto passati&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>used with certain indeclinables relating it to the action
+&lt;ul>
+&lt;li>yena gāmo … upasaṃkamati&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>used when a word is quoted or cited
+&lt;ul>
+&lt;li>kāyo ti&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="2-upayogavacana">2. upayogavacana&lt;/h3>
+&lt;p>Accusative:&lt;/p>
+&lt;ul>
+&lt;li>&amp;ldquo;patient&amp;rdquo; (kamma) which undergoes the action of an active verb (the &amp;ldquo;direct object&amp;rdquo;)
+&lt;ul>
+&lt;li>purisaṃ bandhati&lt;/li>
+&lt;li>samaṇaṃ vadati&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>express the goal of motion
+&lt;ul>
+&lt;li>gāmaṃ pavisati&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>express the (extent of) space traversed
+&lt;ul>
+&lt;li>maggaṃ paṭipajjati&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>used for an attribute of another accusative
+&lt;ul>
+&lt;li>khattiyo brahmaṅaṃ mahāmattaṃ passati&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>used to express the pure duration of time
+&lt;ul>
+&lt;li>aḍḍhamāsaṃ āgacchati&lt;/li>
+&lt;li>ekaṃ samayaṃ&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>singular neuter form of some adjectives is used as an &amp;ldquo;adverb&amp;rdquo;
+&lt;ul>
+&lt;li>rassaṃ passasāmi&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="3-karaṇavacana">3. karaṇavacana&lt;/h3>
+&lt;p>Instrumental:&lt;/p>
+&lt;ul>
+&lt;li>used to express the instrument by means of which an action is done&lt;/li>
+&lt;li>embraces a wide range of idioms, including &amp;ldquo;covered with dust&amp;rdquo;, &amp;ldquo;… with clothes (dressing)&amp;rdquo;, &amp;ldquo;pleased with&amp;rdquo; or &amp;ldquo;by a saying&amp;rdquo; or &amp;ldquo;by seeing&amp;rdquo;, and a series of special uses&lt;/li>
+&lt;/ul>
+&lt;h3 id="4-sampadānavacana">4. sampadānavacana&lt;/h3>
+&lt;p>Dative case:&lt;/p>
+&lt;ul>
+&lt;li>used to express the purpose for which an action is done and the person to whom something is given (&amp;ldquo;indirect object&amp;rdquo;)
+&lt;ul>
+&lt;li>gāmaṃ piṇḍāya pāvisi&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>express the person for whom something is done or to whom something which happens is advantageous (&amp;ldquo;dative of advantage&amp;rdquo;)&lt;/li>
+&lt;li>the verb (k)kham meaning &amp;ldquo;to please&amp;rdquo; (someone = dative)&lt;/li>
+&lt;li>the same verb when it means &amp;ldquo;to forgive&amp;rdquo; (someone = dative, something = accusative).&lt;/li>
+&lt;li>the verb (p)paṭi-(s)su meaning &amp;ldquo;to assent to (someone)&amp;rdquo; takes the dative.&lt;/li>
+&lt;li>the verb upa-(ṭ)ṭhā, meaning to serve, attend on/to someone or something (dative)&lt;/li>
+&lt;li>the verb dhar in the sense of &amp;ldquo;hold for/over&amp;rdquo; takes the dative of the person sheltered, and in the sense of &amp;ldquo;owe&amp;rdquo; it takes the dative of the person to whom something is owed.&lt;/li>
+&lt;li>the verb ā-ruc (&amp;ldquo;to inform&amp;rdquo;) takes the dative of the person informed (whereas ā-mant takes the accusative).&lt;/li>
+&lt;li>Verbs meaning to be angry at (kup, etc.), to curse (sap), to long for (pih), and to be clear to ((p)pa-(k)khā: visible, apparent), to appear to (pātu(r)-bhū: manifest) take the dative.&lt;/li>
+&lt;li>The adjective (of verbal import) piya, &amp;ldquo;dear&amp;rdquo;, takes the dative of the person to whom.&lt;/li>
+&lt;li>&amp;ldquo;For the sake of&amp;rdquo; ( = dative of purpose, above) is expressed by atthāya preceded by the genitive of the person or object of the endeavour.&lt;/li>
+&lt;li>The indeclinable alaṃ (&amp;ldquo;sufficient&amp;rdquo;, &amp;ldquo;enough&amp;rdquo;, &amp;ldquo;adequate&amp;rdquo;, &amp;ldquo;perfected&amp;rdquo;) takes the dative. Besides the ordinary sense of &amp;ldquo;sufficient&amp;rdquo; (for any purpose) it has the idiomatic meaning of a refusal or objection (&amp;ldquo;enough!&amp;rdquo; = &amp;ldquo;stop!&amp;rdquo;, &amp;ldquo;I won&amp;rsquo;t!&amp;rdquo;, etc.) with dative of the person for whom it is sufficient or superfluous (&amp;ldquo;I won&amp;rsquo;t&amp;rdquo; = alaṃ me ; &amp;ldquo;it is sufficient for you&amp;rdquo; = alaṃ vo).&lt;/li>
+&lt;li>The negative participle abhabba, which functions as an adjective meaning &amp;ldquo;unable&amp;rdquo;, &amp;ldquo;incapable&amp;rdquo;, takes the dative of the action which cannot be done, if the latter is expressed by a noun (&amp;ldquo;action noun&amp;rdquo;).&lt;/li>
+&lt;li>When wishes (good wishes) are expressed, the dative is used for the person for whom they are expressed: &amp;ldquo;may there be (hotu) long life for him&amp;rdquo;; &amp;ldquo;good luck to you&amp;rdquo; (bhaddaṃ bhavato hotu);&lt;/li>
+&lt;li>&amp;ldquo;welcome to you&amp;rdquo; (svāgataṃ bhavato hotu). Like svāgataṃ (&amp;ldquo;welcome!&amp;rdquo;),&lt;/li>
+&lt;li>the indeclinables sotthi &amp;ldquo;safety&amp;rdquo;, &amp;ldquo;safely&amp;rdquo;) and namo (&amp;ldquo;hail!&amp;rdquo;) take the dative.&lt;/li>
+&lt;li>It should be borne in mind that the infinitive of verbs overlaps in meaning with the dative of purpose.&lt;/li>
+&lt;li>A very important idiomatic construction with the dative case refers to the proper time for something, the opportunity for something. Thus etassa kālo means &amp;ldquo;it is the time for this&amp;rdquo;, &amp;ldquo;it is the right time for this&amp;rdquo;;&lt;/li>
+&lt;li>akālo … yācanāya means &amp;ldquo;it is not the right time for asking&amp;rdquo;;&lt;/li>
+&lt;li>yassa dāni kālaṃ maññasi means literally &amp;ldquo;for which you think it is now (dāni) the right time&amp;rdquo;.&lt;/li>
+&lt;li>The last expression is extremely common in saying (formally) goodbye (spoken by the host, not the guest - who for his part has made the excuse of pressure of work), being roughly equivalent to &amp;ldquo;well, if you really must go … &amp;quot; It is used also by servants reporting to their master that preparations are completed, implying &amp;ldquo;you can start whenever you wish&amp;rdquo;, etc.&lt;/li>
+&lt;/ul>
+&lt;h3 id="6-sāmivacana">6. sāmivacana&lt;/h3>
+&lt;p>Genitive case:&lt;/p>
+&lt;ul>
+&lt;li>may often be translated by &amp;ldquo;of&amp;rdquo;, and serves as a &amp;ldquo;possessive&amp;rdquo; case&lt;/li>
+&lt;li>denoting the &amp;ldquo;possessor&amp;rdquo; (sāmin)&lt;/li>
+&lt;li>the whole of which the related word denotes a part (avayava)&lt;/li>
+&lt;li>immediately precedes the word to which it relates
+&lt;ul>
+&lt;li>rañño thūpo&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>A construction with a possessive genitive is very often equivalent to an English construction with the verb &amp;ldquo;to have&amp;rdquo;
+&lt;ul>
+&lt;li>idaṃ assa hoti&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&amp;ldquo;of him thus it is &amp;hellip;&amp;rdquo; (or was, etc.), &amp;ldquo;he has this thought &amp;hellip;&amp;rdquo;, &amp;ldquo;he thinks thus &amp;hellip;&amp;rdquo;
+&lt;ul>
+&lt;li>tassa evaṃ hoti&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>an idiom consisting of the genitive of the word denoting the period + accayena expresses the time after which (or through the passage of which) something is done:
+&lt;ul>
+&lt;li>sattāhassa accayena … pabbajissāma&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&amp;ldquo;after I have passed away&amp;rdquo;, &amp;ldquo;after my death/parinibbāna&amp;rdquo;
+&lt;ul>
+&lt;li>mama + accayena = &amp;ldquo;after me&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>agent-genitive (&amp;ldquo;subjective genitive&amp;rdquo;):
+&lt;ul>
+&lt;li>brāhmaṇassa pūjito (Soṇadaṇḍo)&lt;/li>
+&lt;li>&amp;ldquo;(Soṇadaṇḍo was) honoured of (= by) the priest&amp;rdquo;&lt;/li>
+&lt;li>yesaṃ &amp;hellip; devā &amp;hellip;adiṭṭhā&lt;/li>
+&lt;li>&amp;ldquo;those &amp;hellip; who have not seen &amp;hellip; the gods (negative participle: a-)&amp;rdquo;&lt;/li>
+&lt;li>(&amp;ldquo;of (= by) whom the gods are unseen&amp;rdquo;; Commentary explains yesaṃ by yehi)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>patient-genitive (&amp;ldquo;objective genitive&amp;rdquo;):
+&lt;ul>
+&lt;li>ahaṃ … tassa yaññassa yājetā&lt;/li>
+&lt;li>&amp;ldquo;I &amp;hellip; (was) the performer of that sacrifice&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>substitute for the instrumental
+&lt;ul>
+&lt;li>kumbhiṃ &amp;hellip; pūraṃ &amp;hellip; suvaṇṇassa&lt;/li>
+&lt;li>&amp;ldquo;pot &amp;hellip; full &amp;hellip; of gold&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>used with certain indeclinables, such as:
+&lt;ul>
+&lt;li>piṭṭhito - &amp;ldquo;behind&amp;rdquo;
+purato - &amp;ldquo;before&amp;rdquo;, &amp;ldquo;in front of&amp;rdquo;
+antarena - &amp;ldquo;between&amp;rdquo;
+me purato - &amp;ldquo;in front of me&amp;rdquo;
+kāyānam antarena - &amp;ldquo;between the bodies&amp;rdquo;&lt;/li>
+&lt;li>uttaraṃ nagarassa - &amp;ldquo;north of the city&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>The &amp;ldquo;genitive absolute&amp;rdquo; consists of a noun (or pronoun) followed by a participle, both inflected in the genitive. This nexus stands apart from the other words of the sentence and means &amp;ldquo;while (the noun was doing the participle)&amp;rdquo;
+&lt;ul>
+&lt;li>special sense of disregarding: &amp;ldquo;despite (the noun doing the participle)&amp;rdquo;, &amp;ldquo;under their very noses,&amp;rdquo; as when the participle means &amp;ldquo;seeing&amp;rdquo;, &amp;ldquo;looking on&amp;rdquo;&lt;/li>
+&lt;li>telassa jhāyamānassa &amp;ldquo;as (while) the oil is burning&amp;rdquo;&lt;/li>
+&lt;li>mātāpitunnaṃ … rudantānaṃ … pabbajito &amp;ldquo;though his parents were weeping, he went forth&amp;rdquo; (i.e. &amp;ldquo;despite their weeping&amp;rdquo;)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>useful for constructing a sentence with two agents, but the similarly constructed locative absolute (Lesson 16) is much more frequently used&lt;/li>
+&lt;/ul>
+&lt;h3 id="8-āmantaṇavacana-ālapanavacana">8. āmantaṇavacana, ālapanavacana&lt;/h3>
+&lt;p>Vocative:&lt;/p>
+&lt;ul>
+&lt;li>used &amp;ldquo;enclitically&amp;rdquo;, i.e. it does not stand at the beginning of a sentence&lt;/li>
+&lt;/ul>
+&lt;h2 id="guṇanāma">guṇanāma&lt;/h2>
+&lt;p>Adjective:&lt;/p>
+&lt;ul>
+&lt;li>When an adjective is common to two or more nouns it may agree with the sum of these (and be plural) or with the nearest. Thirdly the qualified words may be taken as collective and singular and the adjective be singular. Where the genders conflict, the masculine takes precedence over the feminine, the neuter over both.&lt;/li>
+&lt;li>An adjective usually precedes the noun it qualifies, but when there are several adjectives with one noun very often only one adjective precedes and the rest follow the noun.&lt;/li>
+&lt;li>A demonstrative pronoun relating to the same noun will precede the whole group.&lt;/li>
+&lt;li>When an adjective, or (all the) adjectives, follows its noun this usually indicates that it is being &amp;ldquo;predicated&amp;rdquo; of the noun, or in other words that the attribute in question is being emphasized.&lt;/li>
+&lt;/ul>
+&lt;h2 id="sabbanāma">sabbanāma&lt;/h2>
+&lt;p>Pronouns&lt;/p>
+&lt;h3 id="niyamita">niyamita&lt;/h3>
+&lt;p>Personal and Demonstrative (incomplete TBD)&lt;/p>
+&lt;ul>
+&lt;li>Although the person is expressed by the inflection of the verb, the pronouns of the first and second persons are frequently used, giving a slight emphasis to the subject. The third person pronoun is less often used in this way.&lt;/li>
+&lt;li>The third personal pronoun is used also as a demonstrative, meaning &amp;ldquo;that&amp;rdquo;, &amp;ldquo;it&amp;rdquo;, in three genders.&lt;/li>
+&lt;li>It is generally used as what is known as an &amp;ldquo;anaphoric &amp;quot; pronoun, that is to say it refers back to someone or something previously mentioned in a narrative.&lt;/li>
+&lt;li>As opposed to the use in conversation and other direct speech of &amp;ldquo;pronouns of presence&amp;rdquo; referring to someone or something present (&amp;ldquo;this man&amp;rdquo;, &amp;ldquo;that jar&amp;rdquo;), these pronouns are called &amp;ldquo;pronouns of absence&amp;rdquo; because it is most often used to speak of someone or something in a story and therefore not present to the listeners.&lt;/li>
+&lt;li>It may serve to connect the sentences of a narrative into a continuous paragraph or longer section. It is used also as an emphatic pronoun (in combination with another pronoun or occasionally with 1st person, for example in the expression so &amp;lsquo;haṃ &amp;ldquo;I&amp;rdquo; (literally &amp;ldquo;that I&amp;rdquo;).&lt;/li>
+&lt;li>In combination with a noun it is again emphatic and may sometimes be translated &amp;ldquo;the&amp;rdquo;&lt;/li>
+&lt;li>There being no &amp;ldquo;definite article&amp;rdquo; in Pali the demonstrative pronouns are sometimes used where English would use the definite article, and may sometimes be translated &amp;ldquo;the&amp;rdquo; rather than &amp;ldquo;he&amp;rdquo;, &amp;ldquo;that&amp;rdquo;, &amp;ldquo;this&amp;rdquo;, etc.&lt;/li>
+&lt;li>Demonstrative pronouns must agree in number and gender (and case) with the nouns to which they refer.&lt;/li>
+&lt;/ul>
+&lt;h2 id="ākhyāta">ākhyāta&lt;/h2>
 &lt;p>Verb&lt;/p>
 &lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
 markmap:
@@ -419,7 +622,179 @@ pan: false
 ## saṅkhyā (number)
 ### ekavacana (singular)
 ### bahuvacana (plural)
-&lt;/code>&lt;/pre>&lt;h2 id="vākya">vākya&lt;/h2>
+&lt;/code>&lt;/pre>&lt;h3 id="kammaka">kammaka&lt;/h3>
+&lt;p>Transitivity:&lt;/p>
+&lt;ul>
+&lt;li>akammaka – intransitive&lt;/li>
+&lt;li>sakammaka – transitive&lt;/li>
+&lt;li>dvikammaka – bitransitive
+&lt;ul>
+&lt;li>include verbs meaning to call, tell, or ask (someone something), and to take or bring (something somewhere)&lt;/li>
+&lt;li>samaṅaṃ atthaṃ pucchāmi&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="kammapada">kammapada&lt;/h3>
+&lt;p>Passive sentence:&lt;/p>
+&lt;ul>
+&lt;li>agent is expressed by the instrumental case&lt;/li>
+&lt;li>past participle used as an impersonal (bhāva) passive verb and inflected in the nominative singular neuter as sentence-verb
+&lt;ul>
+&lt;li>evaṃ me sutaṃ&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>If there is a patient, and the action is expressed by a past participle, the patient will be in the nominative case and the participle will agree with it in gender, case, and number, as if it were an adjective
+&lt;ul>
+&lt;li>mayā ime sattā nimmitā&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Passive verbs are not very common in Pali, which has a strong preference for the active except in certain favoured expressions with past participles.&lt;/li>
+&lt;li>An aorist passive is sometimes formed by adding the aorist inflections to the passive stem
+&lt;ul>
+&lt;li>haññiṃsu, &amp;ldquo;they were killed.&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>A present participle passive is formed by adding the suffix māna to the passive stem and inflecting as a participle
+&lt;ul>
+&lt;li>kayiramāna, &amp;ldquo;being done.&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="gaṇa">gaṇa&lt;/h3>
+&lt;p>Verb conjugation groups&lt;/p>
+&lt;pre class="mermaid">mindmap
+gaṇa
+bhūvādigaṇa
+first conjugation
+bhū
+rudhādigaṇa
+second conjugation
+rudh
+divādigaṇa
+third conjugation
+div
+suvādigaṇa
+fourth conjugation
+su
+kiyādigaṇa
+fifth conjugation
+ki
+tanādigaṇa
+sixth conjugation
+tan
+curādigaṇa
+seventh conjugation
+cur&lt;/pre>
+&lt;h3 id="vattamāna">vattamāna&lt;/h3>
+&lt;p>Present tense:&lt;/p>
+&lt;ul>
+&lt;li>present (paccuppanna) time (kāla)&lt;/li>
+&lt;li>indefinite time (timeless statements such as &amp;ldquo;eternal truths&amp;rdquo;)&lt;/li>
+&lt;li>immediate future (which may include a shade of &amp;ldquo;imperative&amp;rdquo; sense ; cf. English &amp;ldquo;I&amp;rsquo;m going&amp;rdquo;)&lt;/li>
+&lt;li>past (&amp;ldquo;historic present&amp;rdquo;)&lt;/li>
+&lt;li>express the duration of an action &amp;ldquo;until&amp;rdquo;, a fixed future time (a vivid future visualized as present) &amp;ldquo;when&amp;rdquo;, and in certain other constructions&lt;/li>
+&lt;/ul>
+&lt;h3 id="pañcamī">pañcamī&lt;/h3>
+&lt;p>Imperative:&lt;/p>
+&lt;ul>
+&lt;li>expresses commands and prohibitions, but also invitations and wishes&lt;/li>
+&lt;li>In the second person the sense is usually that of a command&lt;/li>
+&lt;li>3rd person imperative used with the title or name of the person addressed, or the polite pronoun, expresses a polite invitation&lt;/li>
+&lt;li>ettha tiṭṭha, &amp;ldquo;wait here&amp;rdquo; (&amp;ldquo;let it be&amp;rdquo;, &amp;ldquo;never mind&amp;rdquo;, &amp;ldquo;let him not&amp;rdquo;, &amp;ldquo;don&amp;rsquo;t trouble&amp;rdquo;)&lt;/li>
+&lt;li>tiṭṭhatha tumhe, &amp;ldquo;don&amp;rsquo;t you bother.&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;h3 id="ajjatanī">ajjatanī&lt;/h3>
+&lt;p>&amp;ldquo;Aorist&amp;rdquo; (past tense), used for all kinds of past actions:&lt;/p>
+&lt;ul>
+&lt;li>&amp;ldquo;historical&amp;rdquo; or &amp;ldquo;narrative&amp;rdquo; past&lt;/li>
+&lt;li>(present-) perfect
+&lt;ul>
+&lt;li>desesiṃ (I have taught)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="atītakiriya">atītakiriya&lt;/h3>
+&lt;p>Past Participle:&lt;/p>
+&lt;ul>
+&lt;li>normally passive (kammapada) in meaning, but past participles of intransitive verbs (and even of some transitive verbs used intransitively), especially of those meaning &amp;ldquo;go&amp;rdquo;, &amp;ldquo;move&amp;rdquo;, &amp;ldquo;go forth&amp;rdquo;, are sometimes constructed as active&lt;/li>
+&lt;li>equivalent to a (normally passive) finite verb in the past tense&lt;/li>
+&lt;li>indicates the &amp;ldquo;present-perfect&amp;rdquo;, as in conversation
+&lt;ul>
+&lt;li>mayaṃ &amp;hellip; upasaṃkantā&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>may be accompanied (usually followed) by the present tense of verbs meaning &amp;ldquo;to be&amp;rdquo;, stressing the &amp;ldquo;present-perfect&amp;rdquo; sense&lt;/li>
+&lt;li>some used as nouns (e.g. bhāsitaṃ may mean &amp;ldquo;what was spoken&amp;rdquo;, &amp;ldquo;speech&amp;rdquo;, &amp;ldquo;saying&amp;rdquo;)&lt;/li>
+&lt;li>all of them may be used as &amp;ldquo;adjectives&amp;rdquo; (e.g. kupita = &amp;ldquo;angry&amp;rdquo;)&lt;/li>
+&lt;/ul>
+&lt;h3 id="missakiriya">missakiriya&lt;/h3>
+&lt;p>Present participle:&lt;/p>
+&lt;ul>
+&lt;li>indicate an action which takes place simultaneously with (missa) the main action of the sentence&lt;/li>
+&lt;li>used like &amp;ldquo;adjectives&amp;rdquo; (as past participles may be) &amp;ldquo;qualifying&amp;rdquo; nouns, with which they agree in gender, case, and number.&lt;/li>
+&lt;/ul>
+&lt;h3 id="pubbakiriyā">pubbakiriyā&lt;/h3>
+&lt;p>Gerund (Absolutive):&lt;/p>
+&lt;ul>
+&lt;li>indeclinable participle&lt;/li>
+&lt;li>used to express an action preceding (pubba) the action of the main verb of a sentence&lt;/li>
+&lt;li>conclude a subordinate clause&lt;/li>
+&lt;li>agent of the gerund is the same as that of the main action&lt;/li>
+&lt;/ul>
+&lt;h3 id="bhavissanti">bhavissanti&lt;/h3>
+&lt;p>Future Tense:&lt;/p>
+&lt;ul>
+&lt;li>expression of the probable (bhavissati in particular often has this sense)&lt;/li>
+&lt;li>hypothetical future&lt;/li>
+&lt;li>certainty&lt;/li>
+&lt;li>(in the 1st person) determination or decision
+&lt;ul>
+&lt;li>sace ahaṃ … labhissāmi, saṃvibhajissāmi…&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Obedience to a law of nature
+&lt;ul>
+&lt;li>all living beings (must/will) die = … nikkhipissanti, literally &amp;ldquo;will throw down, put down&amp;rdquo; (the body).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>habit (innate or acquired) may also be expressed by the future&lt;/li>
+&lt;li>more emphatic than the use of the present tense to express an &amp;ldquo;eternal truth&amp;rdquo;: they will do this&lt;/li>
+&lt;li>express the emotional colour of regret or disapproval&lt;/li>
+&lt;li>Indignation (or disapproval)
+&lt;ul>
+&lt;li>kathaṃ hi nāma …,&amp;ldquo;for how could (&amp;lsquo;will&amp;rsquo;) he …&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>perplexity, surprise, and wonder
+&lt;ul>
+&lt;li>kim ev&amp;rsquo; idaṃ bhavissati, &amp;ldquo;what can this be?&amp;rdquo;, &amp;ldquo;what is this (stuff)?&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="upasagga">upasagga&lt;/h2>
+&lt;p>Prefixes:&lt;/p>
+&lt;ul>
+&lt;li>ati – on, further, towards, over, beyond, past, intensifier&lt;/li>
+&lt;li>adhi – on, towards, by, up to, here, intensifier&lt;/li>
+&lt;li>anu – along, after, towards, on, at, to, according to, second, low, each, every&lt;/li>
+&lt;li>apa – off, away from&lt;/li>
+&lt;li>api – on, to, towards&lt;/li>
+&lt;li>abhi – towards, against, over, on, intensifier&lt;/li>
+&lt;li>ava, o – low, down, away, negative&lt;/li>
+&lt;li>ā – nearness, out, forth, to, at, on&lt;/li>
+&lt;li>u – up, put, forth, onto&lt;/li>
+&lt;li>upa – on, up, by, diminutive&lt;/li>
+&lt;li>du – difficult, hard, bad, poor&lt;/li>
+&lt;li>ni, nī – down, into, back, out, away, without&lt;/li>
+&lt;li>pa – out, on, before, intensifier&lt;/li>
+&lt;li>paṭi, pati – back, against, again away, to&lt;/li>
+&lt;li>parā – onto, over, through&lt;/li>
+&lt;li>pari – around, completely, too much, away, off&lt;/li>
+&lt;li>vi – over, about, away, down, reverses meaning, intensifier&lt;/li>
+&lt;li>saṁ – near, together&lt;/li>
+&lt;li>su – well, happily, thoroughly, intensifier&lt;/li>
+&lt;/ul>
+&lt;h2 id="vākya">vākya&lt;/h2>
 &lt;p>sentence&lt;/p>
 &lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
 markmap:
