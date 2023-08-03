@@ -5,8 +5,8 @@ devDependencies:
     specifier: ^10.4.14
     version: 10.4.14(postcss@8.4.27)
   hugo-extended:
-    specifier: ^0.113.0
-    version: 0.113.0
+    specifier: ^0.115.4
+    version: 0.115.4
   postcss-cli:
     specifier: ^10.1.0
     version: 10.1.0(postcss@8.4.27)
@@ -587,8 +587,8 @@ packages:
       resolve-alpn: 1.2.1
     dev: true
 
-  /hugo-extended@0.113.0:
-    resolution: {integrity: sha512-pJajuImK4MeWutwAlduEmtvn3qW35hjd4cyHc/9Tcr/4AFZQTDAT2vERka0ynUrEDRTknbJ7l0lbcgfoQuv4jw==}
+  /hugo-extended@0.115.4:
+    resolution: {integrity: sha512-sZQ+melq3ZDUeKhOoz/ElpS/5LA77F2z8RllGPsi/OPt3otexMSucunTvZzjLuoebaHW/g11DgMmlx1CPgYvLA==}
     engines: {node: '>=14.14'}
     hasBin: true
     requiresBuild: true
