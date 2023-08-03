@@ -80,7 +80,7 @@ markmap:
 ### apādānavacana, avadhi – ablative (pañcamī: fifth)
 ### sāmivacana, sambandha – genitive (chaṭṭhī: sixth)
 ### bhummavacana, okāsa, ādhāra, sambodhana – locative case (sattamī: seventh)
-### āmantaṇavacana, ālapanavacana – vocative (aṭṭhamī: sixth)
+### āmantaṇavacana, ālapanavacana – vocative
 ```
 
 ### 1. paccattavacana
