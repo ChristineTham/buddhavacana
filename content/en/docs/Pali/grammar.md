@@ -38,12 +38,22 @@ mindmap
         id(adjective)
       sabbanāma
         id(pronoun)
-        niyamita
+        puggalanāma
+          id(personal)
+        nidassananāma
           id(demonstrative)
-        aniyamita
+        anvayīnāma
           id(relative)
+        pucchānāma
+          id(interrogative)
    ākhyāta
       id(verb)
+      parassapada
+        id(active voice)
+      attanopada
+        id(middle or reflexive voice)
+      kammapada
+        id(passive)
    upasagga
       id(prefix)
    nipāta
@@ -87,21 +97,38 @@ markmap:
 
 Nominative:
 
-- used for agent (or "subject") of an active sentence (or "subject" of an active verb)
+```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
+# paccattavacana
+- `kattar` or agent ("subject" of an active sentence or verb)
   - brāhmaṇo passati
-- used for attribute of an agent in the nominative, including one "predicated" of it by means of a verb meaning "to be" (usually follows the agent)
-  - brāhmaṇo mahāmatto hoti
+- attribute of an agent in the nominative
+  - "predicated" by means of a verb meaning "to be"
+    - usually follows the agent
+    - brāhmaṇo mahāmatto hoti
   - eso samaṇo
   - brāhmaṇo mahāmatto passati
 - used with certain indeclinables relating it to the action
   - yena gāmo … upasaṃkamati
-- used when a word is quoted or cited
+- when a word is quoted or cited
   - kāyo ti
+```
 
 ### 2. upayogavacana
 
 Accusative:
 
+```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
+# upayogavacana
 - "patient" (kamma) which undergoes the action of an active verb (the "direct object")
   - purisaṃ bandhati
   - samaṇaṃ vadati
@@ -116,40 +143,202 @@ Accusative:
   - ekaṃ samayaṃ
 - singular neuter form of some adjectives is used as an "adverb"
   - rassaṃ passasāmi
+```
 
 ### 3. karaṇavacana
 
 Instrumental:
 
-- used to express the instrument by means of which an action is done
-- embraces a wide range of idioms, including "covered with dust", "… with clothes (dressing)", "pleased with" or "by a saying" or "by seeing", and a series of special uses
+- instrument by means of which an action is done
+  - kāyena phusati
+  - tuṇhī bhāvena
+- accompaniment
+  - brāhmaṇena saddhim
+  - "Talking”, “discussing” (`mant`) with a person need not take saddhim
+- possession (endowment)
+  - sīlehi samannāgato
+- "filled" ("with water/happiness/noise/...”)
+  - saddena
+- cause
+  - but in scientific/philosophical discourse the ablative case is used to express causal connections
+  - bhagavatā vādena kupito
+    - “angry at (with) the fortunate one’s statement ”
+  - cīvarena santuṭṭho
+    - "satisfied with the robe ”
+  - atthena
+    - "because of that business/matter"
+  - karaniyena
+    - “(engaged in some) business”
+  - iminā p' aṅgena
+    - "(you shouldn’t go) for this reason”
+    - aṅgaṃ = "limb”, "characteristic”, ”factor”
+      - used in “because of this” (”endowment”)
+- equality
+  - samasamo vannena
+    - "quite equal in beauty”
+- comparison
+  - generally and indefinitely
+    - purisena purisam
+      - “(comparing) a man with a man”
+  - for a specific, conclusive comparison, “this is better than that" the ablative case is used
+  - price
+    - sahassena
+      - “for a thousand”
+      - (i.e. sell for 1,000 kahāpaṇas, the standard silver coin)
+- way (which way, direction)
+  - “by one way”
+  - “by another way“
+  - dvārena
+    - “by the gate” (entering, leaving)
+- direction, orientation
+  - “from West to East“ (both in instrumental) and each followed by the indeclinable ca
+  - from North to South
+- manner
+  - iminā
+    - “in this way”
+  - iminā pariyāyena
+    - “through this course (procedure)"
+    - “in this manner”
+  - kāyena paṭisaṃvedeti
+    - “he experiences through his body”
+  - santena
+    - “calmly“ (used like “adverbs of manner”)
+  - “ on his right side ” (manner of lying)
+  - kicchena adhigntaṃ
+    - “understood with difficulty”
+  - “he sat practising a certain kind of meditation“
+  - (instrumental, as if “ manner ” of sitting)
+  - adjacent to the ordinary “instrument” sense
+    - serving with actions (kammena), whether physical or mental, or with speech
+    - honouring, entertaining, etc., with music, dancing, garlands, etc.
+- means of livelihood, means of explanation or description (cf. instrument)
+  - means of acquiring goodness, puññaṃ
+    - dānena
+      - “by giving”
+    - expiating past deeds (kammaṃ)
+- vehicle
+  - yānena gacchati
+    - “he goes in (by) a carriage”
+  - nāgena
+    - “by elephant”
+- motive
+  - gāravena
+    - “through respect” (he did not speak)
+- time
+  - by means of which (at the end of which)
+    - aparena samayena
+      - “after some time”
+      - “in due course”
+  - particular time at which
+    - tena samayena
+      - “at that time”
+  - accayena
+    - “through (after) the passage/passing away”
+    - (of time or of a person: specified in the genitive case)
+- age at which
+- measure (cf. the ablative case)
+  - dvādasayojanāni ahosi āyāmena
+    - “it (a city) was twelve leagues in length”
+  - sattayojanāni vitthārena
+    - “seven leagues in breadth”
+  - compounds ending in the word matta meaning “ measure ”
+    - jannumattena
+      - ”knee deep”
+- classification
+  - birth, clan, family, kind, and similar relations
+    - Gotamo gottena
+      - "a Gotama by clan”
+  - jalivadena
+    - "in respect of class (station by birth)”
+- dissociation (cf. accompaniment)
+  - adaṇḍena
+    - “without force” (negative prefix a-)
+  - instrumental used with the indeclinable aññatra
+    - "except for”
+    - aññatra brahmanena
+      - “ except for the priest"
+    - “apart from”
+- other idioms with the instrumental
+  - āsanena nimanteti
+    - "he invites to sit down”
+    - "he offers a seat”
+  - kalena kālaṃ
+    - "from time to time”
+    - ”regularly”
+  - lābhena lābhaṃ
+    - “from gain to gain”
+    - (wishing always for more gain, with one gain on to another)
+  - aññena aññnaṃ
+    - ”one with another”
+      - literally “other with other”
+    - "irrelevantly”
+  - sabbena sabbaṃ
+    - “all with all", i.e. "completely”
+    - "absolutely thoroughly” (as in knowing some doctrine)
 
 ### 4. sampadānavacana
 
 Dative case:
 
-- used to express the purpose for which an action is done and the person to whom something is given ("indirect object")
+- the purpose for which an action is done
   - gāmaṃ piṇḍāya pāvisi
-- express the person for whom something is done or to whom something which happens is advantageous ("dative of advantage")
-- the verb (k)kham meaning "to please" (someone = dative)
-- the same verb when it means "to forgive" (someone = dative, something = accusative).
-- the verb (p)paṭi-(s)su meaning "to assent to (someone)" takes the dative.
-- the verb upa-(ṭ)ṭhā, meaning to serve, attend on/to someone or something (dative)
-- the verb dhar in the sense of "hold for/over" takes the dative of the person sheltered, and in the sense of "owe" it takes the dative of the person to whom something is owed.
-- the verb ā-ruc ("to inform") takes the dative of the person informed (whereas ā-mant takes the accusative).
-- Verbs meaning to be angry at (kup, etc.), to curse (sap), to long for (pih), and to be clear to ((p)pa-(k)khā: visible, apparent), to appear to (pātu(r)-bhū: manifest) take the dative.
-- The adjective (of verbal import) piya, "dear", takes the dative of the person to whom.
-- "For the sake of" ( = dative of purpose, above) is expressed by atthāya preceded by the genitive of the person or object of the endeavour.
-- The indeclinable alaṃ ("sufficient", "enough", "adequate", "perfected") takes the dative. Besides the ordinary sense of "sufficient" (for any purpose) it has the idiomatic meaning of a refusal or objection ("enough!" = "stop!", "I won't!", etc.) with dative of the person for whom it is sufficient or superfluous ("I won't" = alaṃ me ; "it is sufficient for you" = alaṃ vo).
-- The negative participle abhabba, which functions as an adjective meaning "unable", "incapable", takes the dative of the action which cannot be done, if the latter is expressed by a noun ("action noun").
-- When wishes (good wishes) are expressed, the dative is used for the person for whom they are expressed: "may there be (hotu) long life for him"; "good luck to you" (bhaddaṃ bhavato hotu);
-- "welcome to you" (svāgataṃ bhavato hotu). Like svāgataṃ ("welcome!"),
-- the indeclinables sotthi "safety", "safely") and namo ("hail!") take the dative.
-- It should be borne in mind that the infinitive of verbs overlaps in meaning with the dative of purpose.
-- A very important idiomatic construction with the dative case refers to the proper time for something, the opportunity for something. Thus etassa kālo means "it is the time for this", "it is the right time for this";
-- akālo … yācanāya means "it is not the right time for asking";
-- yassa dāni kālaṃ maññasi means literally "for which you think it is now (dāni) the right time".
-- The last expression is extremely common in saying (formally) goodbye (spoken by the host, not the guest - who for his part has made the excuse of pressure of work), being roughly equivalent to "well, if you really must go … " It is used also by servants reporting to their master that preparations are completed, implying "you can start whenever you wish", etc.
+- the person to whom something is given ("indirect object")
+- "dative of advantage"
+  - the person for whom something is done or to whom something which happens is advantageous
+- used with verbs
+  - (k)kham
+    - "to please" (someone = dative)
+    - "to forgive" (someone = dative, something = accusative)
+  - (p)paṭi-(s)su
+    - "to assent to (someone = dative)"
+  - upa-(ṭ)ṭhā
+    - to serve, attend on/to someone or something (dative)
+  - dhar
+    - "hold for/over" person sheltered (dative)
+    - "owe" person (dative)
+  - ā-ruc
+    - "to inform" person informed (dative)
+  - to be angry at
+    - (kup, etc.)
+  - sap
+    - to curse
+  - pih
+    - to long for
+  - (p)pa-(k)khā: visible, apparent
+    - to be clear to  
+  - pātu(r)-bhū: manifest
+    - to appear to
+- adjective (of verbal import) piya, "dear", takes the dative of the person to whom.
+- "For the sake of" ( = dative of purpose, above)
+  - atthāya preceded by the genitive of the person or object of the endeavour.
+- indeclinable alaṃ ("sufficient", "enough", "adequate", "perfected") takes the dative.
+  - the idiomatic meaning of a refusal or objection
+    - ("enough!" = "stop!", "I won't!", etc.)
+    - with dative of the person for whom it is sufficient or superfluous
+      - "I won't" = alaṃ me
+      - "it is sufficient for you" = alaṃ vo
+- The negative participle abhabba
+  - adjective meaning "unable", "incapable"
+  - dative of the action which cannot be done, if the latter is expressed by a noun ("action noun").
+- When wishes (good wishes) are expressed
+- dative is used for the person for whom they are expressed
+  - "may there be (hotu) long life for him"
+  - "good luck to you"
+    - bhaddaṃ bhavato hotu
+- "welcome to you"
+  - svāgataṃ bhavato hotu
+  - svāgataṃ ("welcome!")
+- indeclinables sotthi "safety", "safely" and namo ("hail!")
+- infinitive of verbs overlaps in meaning with the dative of purpose.
+- idiomatic construction: proper time for something, the opportunity for something
+  - etassa kālo
+    - "it is the time for this", "it is the right time for this"
+- akālo … yācanāya
+  - "it is not the right time for asking"
+- yassa dāni kālaṃ maññasi
+  - "for which you think it is now (dāni) the right time"
+  - extremely common in saying (formally) goodbye (spoken by the host, not the guest - who for his part has made the excuse of pressure of work), being roughly equivalent to "well, if you really must go … "
+  - used also by servants reporting to their master that preparations are completed, implying "you can start whenever you wish", etc
 
 ### 6. sāmivacana
 
@@ -257,26 +446,56 @@ markmap:
 
 Transitivity:
 
-- akammaka – intransitive
-- sakammaka – transitive
-- dvikammaka – bitransitive
-  - include verbs meaning to call, tell, or ask (someone something), and to take or bring (something somewhere)
+```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
+# kammaka
+- akammaka
+  – intransitive
+- sakammaka
+  – transitive
+- dvikammaka
+  – bitransitive
+  - verbs
+    - to call
+    - to tell
+    - to ask (someone something)
+    - to take or bring (something somewhere)
   - samaṅaṃ atthaṃ pucchāmi
+```
 
 ### kammapada
 
 Passive sentence:
 
+```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
+# kammapada
 - agent is expressed by the instrumental case
-- past participle used as an impersonal (bhāva) passive verb and inflected in the nominative singular neuter as sentence-verb
+- past participle used as an impersonal (bhāva) passive verb
+  - inflected in the nominative singular neuter as sentence-verb
   - evaṃ me sutaṃ 
-- If there is a patient, and the action is expressed by a past participle, the patient will be in the nominative case and the participle will agree with it in gender, case, and number, as if it were an adjective
+- If there is a patient, and the action is expressed by a past participle
+  - patient will be in the nominative case
+  - the participle will agree with it in gender, case, and number
+    (as if it were an adjective)
   - mayā ime sattā nimmitā
-- Passive verbs are not very common in Pali, which has a strong preference for the active except in certain favoured expressions with past participles.
-- An aorist passive is sometimes formed by adding the aorist inflections to the passive stem
+- Passive verbs are not very common in Pali
+- aorist passive
+  - add the aorist inflections to the passive stem
   - haññiṃsu, "they were killed."
-- A present participle passive is formed by adding the suffix māna to the passive stem and inflecting as a participle
+- A present participle passive
+  - adding suffix māna to the passive stem
+  - inflecting as a participle
   - kayiramāna, "being done."
+```
 
 ### gaṇa
 
@@ -310,78 +529,159 @@ mindmap
 
 ### vattamāna
 
-Present tense:
+Present tense
 
+```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
+# vattamāna
 - present (paccuppanna) time (kāla)
-- indefinite time (timeless statements such as "eternal truths")
-- immediate future (which may include a shade of "imperative" sense ; cf. English "I'm going")
-- past ("historic present")
-- express the duration of an action "until", a fixed future time (a vivid future visualized as present) "when", and in certain other constructions
+- indefinite time
+  - timeless statements such as "eternal truths"
+- immediate future
+  - may include a shade of "imperative" sense
+  - cf.English "I'm going"
+- past
+  - "historic present"
+- duration of an action "until" a fixed future time
+  - (a vivid future visualized as present)
+  - "when"
+```
 
 ### pañcamī
 
 Imperative:
 
+```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
+# pañcamī
 - expresses commands and prohibitions, but also invitations and wishes
-- In the second person the sense is usually that of a command
-- 3rd person imperative used with the title or name of the person addressed, or the polite pronoun, expresses a polite invitation
-- ettha tiṭṭha, "wait here" ("let it be", "never mind", "let him not", "don't trouble")
-- tiṭṭhatha tumhe, "don't you bother."
+- (majjhimapurisa)
+  - the sense is usually that of a command
+- (paṭhamapurisa)
+  - used with the title or name of the person addressed, or the polite pronoun
+  - expresses a polite invitation
+- ettha tiṭṭha
+  - "wait here"
+  - ("let it be", "never mind", "let him not", "don't trouble")
+- tiṭṭhatha tumhe
+  - "don't you bother"
+```
 
 ### ajjatanī
 
 "Aorist" (past tense), used for all kinds of past actions:
 
+```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
+# ajjatanī
 - "historical" or "narrative" past
 - (present-) perfect
   - desesiṃ (I have taught)
+```
 
 ### atītakiriya
 
 Past Participle:
 
-- normally passive (kammapada) in meaning, but past participles of intransitive verbs (and even of some transitive verbs used intransitively), especially of those meaning "go", "move", "go forth", are sometimes constructed as active
+```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
+# atītakiriya
+- normally passive (kammapada) in meaning
+- past participles of intransitive verbs sometimes active
+  - including some transitive verbs used intransitively
+  - "go"
+  - "move"
+  - "go forth"
 - equivalent to a (normally passive) finite verb in the past tense
 - indicates the "present-perfect", as in conversation
   - mayaṃ ... upasaṃkantā
-- may be accompanied (usually followed) by the present tense of verbs meaning "to be", stressing the "present-perfect" sense
-- some used as nouns (e.g. bhāsitaṃ may mean "what was spoken", "speech", "saying")
-- all of them may be used as "adjectives" (e.g. kupita = "angry")
+- may be accompanied (usually followed) by the present tense of verbs meaning "to be"
+  - stressing the "present-perfect" sense
+- some used as nouns
+  - bhāsitaṃ may mean 
+  - "what was spoken", "speech", "saying"
+- may be used as "adjectives"
+  - kupita
+    - "angry")
+```
 
 ### missakiriya
 
 Present participle:
 
+```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
+# missakiriya
 - indicate an action which takes place simultaneously with (missa) the main action of the sentence
 - used like "adjectives" (as past participles may be) "qualifying" nouns, with which they agree in gender, case, and number.
+```
 
 ### pubbakiriyā
 
 Gerund (Absolutive):
 
+```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
+# pubbakiriyā
 - indeclinable participle
 - used to express an action preceding (pubba) the action of the main verb of a sentence
 - conclude a subordinate clause
 - agent of the gerund is the same as that of the main action
+```
 
 ### bhavissanti
 
 Future Tense:
 
+```markmap
+---
+markmap:
+  zoom: false
+  pan: false
+---
+# bhavissanti
 - expression of the probable (bhavissati in particular often has this sense) 
 - hypothetical future
 - certainty
 - (in the 1st person) determination or decision
   - sace ahaṃ … labhissāmi, saṃvibhajissāmi…
 - Obedience to a law of nature
-  - all living beings (must/will) die = … nikkhipissanti, literally "will throw down, put down" (the body).
+  - … nikkhipissanti
+    - literally "will throw down, put down" (the body).
+    - all living beings (must/will) die
 - habit (innate or acquired) may also be expressed by the future
-- more emphatic than the use of the present tense to express an "eternal truth": they will do this
+- more emphatic than the use of the present tense to express an "eternal truth"
+  - they will do this
 - express the emotional colour of regret or disapproval
 - Indignation (or disapproval)
   - kathaṃ hi nāma …,"for how could ('will') he …"
 - perplexity, surprise, and wonder
   - kim ev' idaṃ bhavissati, "what can this be?", "what is this (stuff)?"
+```
 
 ## upasagga
 
