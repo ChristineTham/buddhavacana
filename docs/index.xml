@@ -695,11 +695,8 @@ pan: false
 ### bahuvacana (plural)
 ## liṅga (gender)
 ### pulliṅga (masculine)
-- ♂︎
 ### itthiliṅga (feminine)
-- ♀︎
 ### napuṁsakaliṅga (neuter)
-- ⚲
 ## kāraka (case)
 ### paccattavacana – nominative case (paṭhamā: first)
 ### upayogavacana – accusative (dutiyā: second)
@@ -1601,7 +1598,163 @@ loka *-- lok : dhātu
 vaṭṭa *-- vaṭṭ : dhātu
 vivaṭṭhati *-- vi : upasagga
 vivaṭṭhati *-- vaṭṭa : rūpa
-`loko vivaṭṭhati` *-- vivaṭṭhati : kattar&lt;/pre></description></item><item><title>Docs: Catudhā Paramattha</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/catudha-paramattha/</link><pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/catudha-paramattha/</guid><description>
+`loko vivaṭṭhati` *-- vivaṭṭhati : kattar&lt;/pre></description></item><item><title>Docs: Sentence examples (padamañjarī)</title><link>https://christham.net/buddhavacana/docs/pali/sentences/</link><pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/pali/sentences/</guid><description>
+&lt;h2 id="legend">Legend&lt;/h2>
+&lt;pre class="mermaid">mindmap
+id((padajāti))
+nāma
+id(noun)
+saṅkhyā: number
+ekavacana: singular
+id(👤)
+bahuvacana: plural
+id(👥)
+liṅga: gender
+pulliṅga: masculine
+id(🚹)
+itthiliṅga: feminine
+id(🚺)
+napuṁsakaliṅga: neuter
+id(🚻)
+kāraka: case
+paccattavacana: nominative
+id(1️⃣)
+upayogavacana: accusative
+id(2️⃣)
+karaṇavacana: instrumental
+id(3️⃣)
+sampadānavacana: dative
+id(4️⃣)
+apādānavacana: ablative
+id(5️⃣)
+sāmivacana: genitive
+id(6️⃣)
+bhummavacana: locative case
+id(7️⃣)
+āmantaṇavacana: vocative
+id(0️⃣)
+ākhyāta
+id(verb)
+purisa (person)
+paṭhamapurisa: third person
+id(🤟)
+majjhimapurisa: second person
+id(🤘)
+uttamapurisa: first person
+id(👆)
+saṅkhyā: number
+ekavacana: singular
+id(👤)
+bahuvacana: plural
+id(👥)
+upasagga
+id(prefix)
+nipāta
+id(particle)&lt;/pre>
+&lt;h3 id="equational">Equational&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;devo amanusso hoti&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(The deva is not human)
+}
+class devo {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(deity)
+}
+class amanusso {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(not human)
+}
+class hoti {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟vattamāna
+english(is)
+}
+sentence *-- devo : kattar
+sentence *-- amanusso : vāccaliṅga
+sentence *-- hoti: kiriya&lt;/pre>
+&lt;h3 id="intransitive-agent-action">Intransitive (agent-action)&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;devo cavati&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(The god dies)
+}
+class devo {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(deity)
+}
+class cavati {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟vattamāna
+english(dies)
+}
+sentence *-- devo : kattar
+sentence *-- cavati: kiriya&lt;/pre>
+&lt;h3 id="transitive-agent-patient-action">Transitive (agent-patient-action)&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;upāsako pattaṃ āharati&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(The lay disciple brings the bowl)
+}
+class upāsako {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(lay disciple)
+}
+class pattaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(bowl)
+}
+class āharati {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟vattamāna
+english(brings)
+}
+sentence *-- upāsako : kattar
+sentence *-- pattaṃ : kamma
+sentence *-- āharati: kiriya&lt;/pre>
+&lt;h3 id="yena--tena">&lt;code>yena&lt;/code> &amp;hellip; &lt;code>tena&lt;/code>&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;yena mahāmatto tena upasaṃkamanti&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(By where the minister [is], by there [they] approach)
+}
+namespace yenatena {
+class yena {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+3️⃣
+english(by where)
+}
+class mahāmatto {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(minister)
+}
+class tena {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+3️⃣
+english(by there)
+}
+}
+class upasaṃkamanti {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👥🤟vattamāna
+english(approach)
+}
+sentence *-- yena
+sentence *-- mahāmatto
+yena &amp;lt;-- mahāmatto : kattar
+yena --&amp;gt; tena
+sentence *-- tena : kamma
+sentence *-- upasaṃkamanti: kiriya&lt;/pre>
+&lt;pre class="mermaid">sequenceDiagram
+they -&amp;gt;&amp;gt; place : approach
+place -&amp;gt;&amp;gt; minister : by where
+minister -&amp;gt;&amp;gt; place : by there&lt;/pre></description></item><item><title>Docs: Catudhā Paramattha</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/catudha-paramattha/</link><pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/catudha-paramattha/</guid><description>
 &lt;blockquote>
 &lt;p>Tattha vutt’ábhidhammatthá&lt;br>
 Catudhá paramatthato&lt;br>
