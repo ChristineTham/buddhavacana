@@ -77,11 +77,8 @@ markmap:
 ### bahuvacana (plural)
 ## liṅga (gender)
 ### pulliṅga (masculine)
-- ♂︎
 ### itthiliṅga (feminine)
-- ♀︎
 ### napuṁsakaliṅga (neuter)
-- ⚲
 ## kāraka (case)
 ### paccattavacana – nominative case (paṭhamā: first)
 ### upayogavacana – accusative (dutiyā: second)
