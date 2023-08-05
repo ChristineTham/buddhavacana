@@ -765,11 +765,11 @@ classDiagram
   class vaṭṭa {
     <<stem>>
   }
-  `loko vivaṭṭhati` *-- loko : kiriyā
+  `loko vivaṭṭhati` *-- loko : kattar
   loko *-- loka : rūpa
   loka *-- lok : dhātu
   vaṭṭa *-- vaṭṭ : dhātu
   vivaṭṭhati *-- vi : upasagga
   vivaṭṭhati *-- vaṭṭa : rūpa
-  `loko vivaṭṭhati` *-- vivaṭṭhati : kattar
+  `loko vivaṭṭhati` *-- vivaṭṭhati : kiriyā
 ```
