@@ -766,10 +766,10 @@ classDiagram
     <<stem>>
   }
   `loko vivaṭṭhati` *-- loko : kattar
-  loko *-- loka : rūpa
-  loka *-- lok : dhātu
-  vaṭṭa *-- vaṭṭ : dhātu
-  vivaṭṭhati *-- vi : upasagga
-  vivaṭṭhati *-- vaṭṭa : rūpa
+  loko --|> loka : rūpa
+  loka --|> lok : dhātu
+  vaṭṭa --|> vaṭṭ : dhātu
+  vivaṭṭhati --|> vi : upasagga
+  vivaṭṭhati --|> vaṭṭa : rūpa
   `loko vivaṭṭhati` *-- vivaṭṭhati : kiriyā
 ```
