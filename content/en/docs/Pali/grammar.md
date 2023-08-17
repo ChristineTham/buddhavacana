@@ -2,7 +2,7 @@
 title: "Grammar (vyākaraṇa)"
 linkTitle: "Grammar"
 date: 2023-07-30
-weight: 100
+weight: 200
 description: >
   Grammar guide (evolving) based on Warder "Introduction to Pali"
 ---

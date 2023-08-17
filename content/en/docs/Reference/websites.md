@@ -63,3 +63,6 @@ description: >
 
 [Sutta and the City](https://www.suttaandthecity.com)
 : We are a group of Buddhists, Mindfulness practitioners, secularists, and spiritual seekers.  We cling to no particular tradition or doctrine.  Our primary purpose is to examine the teachings of the historical Buddha and see how they may help us navigate the complexities of modern life.  Join us, and see what you can discover.
+
+[Hamburg Buddhist Studies](https://www.buddhismuskunde.uni-hamburg.de/en/publikationen/hamburg-buddhist-studies.html)
+: Buddhism has enjoyed a prominent place in the study of Asian religious ideas at Hamburg University for almost 100 years. With the publication series Hamburg Buddhist Studies the Numata Center for Buddhist Studies aims to honor this long-standing commitment to research and share the results of this tradition with the community of scholars and the wider public.
