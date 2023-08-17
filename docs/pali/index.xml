@@ -961,63 +961,209 @@ vivaṭṭhati --|&amp;gt; vi : upasagga
 vivaṭṭhati --|&amp;gt; vaṭṭa : rūpa
 `loko vivaṭṭhati` *-- vivaṭṭhati : kiriyā&lt;/pre></description></item><item><title>Docs: Sentence examples (padamañjarī)</title><link>https://christham.net/buddhavacana/docs/pali/sentences/</link><pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/pali/sentences/</guid><description>
 &lt;h2 id="legend">Legend&lt;/h2>
-&lt;pre class="mermaid">mindmap
-id((padajāti))
-nāma
-id(noun)
-saṅkhyā: number
-ekavacana: singular
-id(👤)
-bahuvacana: plural
-id(👥)
-liṅga: gender
-pulliṅga: masculine
-id(🚹)
-itthiliṅga: feminine
-id(🚺)
-napuṁsakaliṅga: neuter
-id(🚻)
-kāraka: case
-paccattavacana: nominative
-id(1️⃣)
-upayogavacana: accusative
-id(2️⃣)
-karaṇavacana: instrumental
-id(3️⃣)
-sampadānavacana: dative
-id(4️⃣)
-apādānavacana: ablative
-id(5️⃣)
-sāmivacana: genitive
-id(6️⃣)
-bhummavacana: locative case
-id(7️⃣)
-āmantaṇavacana: vocative
-id(0️⃣)
-ākhyāta
-id(verb)
-purisa (person)
-paṭhamapurisa: third person
-id(🤟)
-majjhimapurisa: second person
-id(🤘)
-uttamapurisa: first person
-id(👆)
-saṅkhyā: number
-ekavacana: singular
-id(👤)
-bahuvacana: plural
-id(👥)
-upasagga
-id(prefix)
-nipāta
-id(particle)&lt;/pre>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>symbol&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;th>explanation&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>vākya&lt;/code>&lt;/td>
+&lt;td>sentence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>pada&lt;/code>, &lt;code>vacana&lt;/code>&lt;/td>
+&lt;td>word&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>nāma&lt;/code>&lt;/td>
+&lt;td>noun&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>ākhyāta&lt;/code>&lt;/td>
+&lt;td>verb&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🚹&lt;/td>
+&lt;td>&lt;code>pulliṅga&lt;/code>&lt;/td>
+&lt;td>major (masculine) gender&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🚻&lt;/td>
+&lt;td>&lt;code>napuṁsakaliṅga&lt;/code>&lt;/td>
+&lt;td>special (neuter) gender&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🚺&lt;/td>
+&lt;td>&lt;code>itthiliṅga&lt;/code>&lt;/td>
+&lt;td>minor (feminine) gender&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👤&lt;/td>
+&lt;td>&lt;code>ekavacana&lt;/code>&lt;/td>
+&lt;td>singular&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👥&lt;/td>
+&lt;td>&lt;code>bahuvacana&lt;/code>&lt;/td>
+&lt;td>plural&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🟢&lt;/td>
+&lt;td>&lt;code>parassapada&lt;/code>&lt;/td>
+&lt;td>active voice&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔵&lt;/td>
+&lt;td>&lt;code>attanopada&lt;/code>&lt;/td>
+&lt;td>middle voice - impersonal&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔴&lt;/td>
+&lt;td>&lt;code>kammapada&lt;/code>&lt;/td>
+&lt;td>passive&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👤&lt;/td>
+&lt;td>&lt;code>ekavacana&lt;/code>&lt;/td>
+&lt;td>singular&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👥&lt;/td>
+&lt;td>&lt;code>bahuvacana&lt;/code>&lt;/td>
+&lt;td>plural&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🤟&lt;/td>
+&lt;td>&lt;code>paṭhama purisa&lt;/code>&lt;/td>
+&lt;td>first person, equivalent to &amp;rsquo;third person&amp;rsquo; in English&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🤘&lt;/td>
+&lt;td>&lt;code>majjima purisa&lt;/code>&lt;/td>
+&lt;td>middle person, equivalent to &amp;lsquo;second person&amp;rsquo; in English&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👆&lt;/td>
+&lt;td>&lt;code>uttama purisa&lt;/code>&lt;/td>
+&lt;td>primary person, equivalent to &amp;lsquo;first person&amp;rsquo; in English&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>0️⃣&lt;/td>
+&lt;td>&lt;code>ālapana&lt;/code>&lt;/td>
+&lt;td>vocative&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1️⃣&lt;/td>
+&lt;td>&lt;code>paṭhamā&lt;/code>&lt;/td>
+&lt;td>first case (nominative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2️⃣&lt;/td>
+&lt;td>&lt;code>dutiyā&lt;/code>&lt;/td>
+&lt;td>second case (accusative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3️⃣&lt;/td>
+&lt;td>&lt;code>tatiyā&lt;/code>&lt;/td>
+&lt;td>third case (instrumental)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4️⃣&lt;/td>
+&lt;td>&lt;code>catutthī&lt;/code>&lt;/td>
+&lt;td>fourth case (dative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>5️⃣&lt;/td>
+&lt;td>&lt;code>pañcamī&lt;/code>&lt;/td>
+&lt;td>fifth case (ablative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>6️⃣&lt;/td>
+&lt;td>&lt;code>chaṭṭhī&lt;/code>&lt;/td>
+&lt;td>sixth case (genitive)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>7️⃣&lt;/td>
+&lt;td>&lt;code>sattamī&lt;/code>&lt;/td>
+&lt;td>seventh case (locative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏏️&lt;/td>
+&lt;td>&lt;code>nipāta&lt;/code>&lt;/td>
+&lt;td>particle&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔼&lt;/td>
+&lt;td>&lt;code>upasagga&lt;/code>&lt;/td>
+&lt;td>prefix&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🆎&lt;/td>
+&lt;td>&lt;code>samāsa&lt;/code>&lt;/td>
+&lt;td>compound noun&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔽&lt;/td>
+&lt;td>&lt;code>taddhita&lt;/code>&lt;/td>
+&lt;td>affix&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>▶️&lt;/td>
+&lt;td>&lt;code>vattamāna&lt;/code>&lt;/td>
+&lt;td>present&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏹&lt;/td>
+&lt;td>&lt;code>piñcamī&lt;/code>&lt;/td>
+&lt;td>imperative&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏯&lt;/td>
+&lt;td>&lt;code>sattamī&lt;/code>&lt;/td>
+&lt;td>potential&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔄&lt;/td>
+&lt;td>&lt;code>parokkhā&lt;/code>&lt;/td>
+&lt;td>perfect&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>↩️&lt;/td>
+&lt;td>&lt;code>hiyyattanī&lt;/code>&lt;/td>
+&lt;td>imperfect&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏮&lt;/td>
+&lt;td>&lt;code>ajjatanī&lt;/code>&lt;/td>
+&lt;td>aorist&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏭&lt;/td>
+&lt;td>&lt;code>bhavissanti&lt;/code>&lt;/td>
+&lt;td>future&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔀&lt;/td>
+&lt;td>&lt;code>kālātipatti&lt;/code>&lt;/td>
+&lt;td>conditional&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
 &lt;h3 id="equational">Equational&lt;/h3>
 &lt;pre class="mermaid">classDiagram
 class sentence[&amp;#34;devo amanusso hoti&amp;#34;] {
 &amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
 english(The deva is not human)
 }
+namespace equational {
 class devo {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
 🚹👤1️⃣
@@ -1028,9 +1174,10 @@ class amanusso {
 🚹👤1️⃣
 english(not human)
 }
+}
 class hoti {
 &amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤🤟vattamāna
+👤🤟▶️
 english(is)
 }
 sentence *-- devo : kattar
@@ -1049,7 +1196,7 @@ english(deity)
 }
 class cavati {
 &amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤🤟vattamāna
+👤🤟▶️
 english(dies)
 }
 sentence *-- devo : kattar
@@ -1072,12 +1219,36 @@ english(bowl)
 }
 class āharati {
 &amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤🤟vattamāna
+👤🤟▶️
 english(brings)
 }
 sentence *-- upāsako : kattar
 sentence *-- pattaṃ : kamma
 sentence *-- āharati: kiriya&lt;/pre>
+&lt;h3 id="bi-transitive-patient-x-patient-y-action">Bi-transitive (patient x-patient y-action)&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;upāsakaṃ brāhmānaṃ dhāreti&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english([He] accepts the priest as a lay disciple)
+}
+class upāsakaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(lay disciple)
+}
+class brāhmānaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(brahmin)
+}
+class dhāreti {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟▶️
+english(accepts)
+}
+sentence *-- upāsakaṃ : kamma x
+sentence *-- brāhmānaṃ : kamma y
+sentence *-- dhāreti: kiriya&lt;/pre>
 &lt;h3 id="yena--tena">&lt;code>yena&lt;/code> &amp;hellip; &lt;code>tena&lt;/code>&lt;/h3>
 &lt;pre class="mermaid">classDiagram
 class sentence[&amp;#34;yena mahāmatto tena upasaṃkamanti&amp;#34;] {
@@ -1103,7 +1274,7 @@ english(by there)
 }
 class upasaṃkamanti {
 &amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👥🤟vattamāna
+👥🤟▶️
 english(approach)
 }
 sentence *-- yena

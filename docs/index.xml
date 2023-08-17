@@ -411,7 +411,7 @@ tonality. Modern day Pali pronunciation is based on how the Buddhist Pali canon
 is chanted in various countries including Sri Lanka, Myanmar and Thailand.&lt;/p>
 &lt;div class="alert alert-light" role="alert">
 &lt;h4 class="alert-heading">Reference&lt;/h4>
-&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/alphabet/">&lt;strong>A: The Pāli Alphabet&lt;/strong>&lt;/a>
+&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/alphabet/">&lt;strong>B: The Pāli Alphabet&lt;/strong>&lt;/a>
 &lt;/div>
 &lt;h2 id="sandhi-word-transformations">&lt;code>sandhi&lt;/code> (word transformations)&lt;/h2>
 &lt;p>As Pali is a spoken language, when words are combined to form a sentence,
@@ -447,7 +447,7 @@ and more sentences in Pali, these changes will become easier to recognise.&lt;/p
 &lt;div class="alert alert-light" role="alert">
 &lt;h4 class="alert-heading">Reference&lt;/h4>
 For a summary of the rules, please refer to
-&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/sandhi/">&lt;strong>B: &lt;code>sandhi&lt;/code> Rules&lt;/strong>&lt;/a>
+&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/sandhi/">&lt;strong>D: &lt;code>sandhi&lt;/code> Rules&lt;/strong>&lt;/a>
 {12}-{51}
 &lt;/div>
 &lt;h2 id="nāmā-nouns-52">&lt;code>nāmā&lt;/code> (nouns) {52}&lt;/h2>
@@ -1377,7 +1377,7 @@ together with various &lt;code>upasagga&lt;/code> prefixes and the &lt;code>ṇa
 &lt;h4 class="alert-heading">Reference&lt;/h4>
 For a listing of the detailed meanings that are associated with &lt;code>upasagga&lt;/code>,
 please refer to
-&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/upasagga/">&lt;strong>D: &lt;code>upasagga&lt;/code> meanings&lt;/strong>&lt;/a>
+&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/upasagga/">&lt;strong>F: &lt;code>upasagga &lt;/code> meanings&lt;/strong>&lt;/a>
 &lt;/div>
 &lt;h2 id="-samāsa-compound-nouns-316-343">🆎 &lt;code>samāsa&lt;/code> (compound nouns) {316}-{343}&lt;/h2>
 &lt;p>Like German, Pali often combines many nouns to form a compound noun. (TBD)&lt;/p>
@@ -1907,7 +1907,2844 @@ teacher and preceptor / lesson / takes / pupil&lt;br>
 &lt;dd>Established in 1990 as a nonprofit 501(c)(3) educational organization, The Tricycle Foundation is dedicated to making Buddhist teachings and practices broadly available. In 1991 the Foundation launched Tricycle: The Buddhist Review, the first magazine intended to present Buddhist perspectives to a Western readership. Tricycle soon became the leading independent journal of Buddhism in the West, where it continues to be the most inclusive and widely read vehicle for the dissemination of Buddhist views and values. Our readership includes longtime practitioners, those who are curious about Buddhism or meditation, and those who do not identify as Buddhist but value the teachings of wisdom and compassion that Buddhism has to offer.&lt;/dd>
 &lt;dt>&lt;a href="https://blogs.dickinson.edu/buddhistethics/">Journal of Buddhist Ethics&lt;/a>&lt;/dt>
 &lt;dd>The Journal of Buddhist Ethics is the first academic journal dedicated entirely to Buddhist ethics. We promote the study of Buddhist ethics through the publication of research and book reviews and by hosting occasional online conferences.&lt;/dd>
-&lt;/dl></description></item><item><title>Docs: A: The Pali Alphabet</title><link>https://christham.net/buddhavacana/docs/palibook/alphabet/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/alphabet/</guid><description>
+&lt;/dl></description></item><item><title>Docs: Grammar (vyākaraṇa)</title><link>https://christham.net/buddhavacana/docs/pali/grammar/</link><pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/pali/grammar/</guid><description>
+&lt;h2 id="pada">pada&lt;/h2>
+&lt;p>Word&lt;/p>
+&lt;pre class="mermaid">stateDiagram-v2
+direction LR
+liṅga : liṅga (stem)
+state liṅga {
+direction LR
+dhātu : dhātu (root)
+dhātu --&amp;gt; paccaya
+paccaya : paccaya (suffix)
+}
+liṅga --&amp;gt; vibhatti
+vibhatti : vibhatti (inflectional ending)&lt;/pre>
+&lt;h2 id="padajāti">padajāti&lt;/h2>
+&lt;p>The four parts of speech&lt;/p>
+&lt;pre class="mermaid">mindmap
+id((padajāti))
+nāma
+id(noun)
+guṇanāma
+id(adjective)
+sabbanāma
+id(pronoun)
+puggalanāma
+id(personal)
+nidassananāma
+id(demonstrative)
+anvayīnāma
+id(relative)
+pucchānāma
+id(interrogative)
+ākhyāta
+id(verb)
+parassapada
+id(active voice)
+attanopada
+id(middle or reflexive voice)
+kammapada
+id(passive)
+upasagga
+id(prefix)
+nipāta
+id(particle)
+id(indeclinable)&lt;/pre>
+&lt;h2 id="nāma">nāma&lt;/h2>
+&lt;p>Noun&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# nāma
+## saṅkhyā (number)
+### ekavacana (singular)
+### bahuvacana (plural)
+## liṅga (gender)
+### pulliṅga (masculine)
+### itthiliṅga (feminine)
+### napuṁsakaliṅga (neuter)
+## kāraka (case)
+### paccattavacana – nominative case (paṭhamā: first)
+### upayogavacana – accusative (dutiyā: second)
+### karaṇavacana – instrumental (tatiyā: third)
+### sampadānavacana – dative (catutthī: fourth) -
+### apādānavacana, avadhi – ablative (pañcamī: fifth)
+### sāmivacana, sambandha – genitive (chaṭṭhī: sixth)
+### bhummavacana, okāsa, ādhāra, sambodhana – locative case (sattamī: seventh)
+### āmantaṇavacana, ālapanavacana – vocative
+&lt;/code>&lt;/pre>&lt;h3 id="1-paccattavacana">1. paccattavacana&lt;/h3>
+&lt;p>Nominative:&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# paccattavacana
+- `kattar` or agent (&amp;#34;subject&amp;#34; of an active sentence or verb)
+- brāhmaṇo passati
+- attribute of an agent in the nominative
+- &amp;#34;predicated&amp;#34; by means of a verb meaning &amp;#34;to be&amp;#34;
+- usually follows the agent
+- brāhmaṇo mahāmatto hoti
+- eso samaṇo
+- brāhmaṇo mahāmatto passati
+- used with certain indeclinables relating it to the action
+- yena gāmo … upasaṃkamati
+- when a word is quoted or cited
+- kāyo ti
+&lt;/code>&lt;/pre>&lt;h3 id="2-upayogavacana">2. upayogavacana&lt;/h3>
+&lt;p>Accusative:&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# upayogavacana
+- &amp;#34;patient&amp;#34; (kamma) which undergoes the action of an active verb (the &amp;#34;direct object&amp;#34;)
+- purisaṃ bandhati
+- samaṇaṃ vadati
+- express the goal of motion
+- gāmaṃ pavisati
+- express the (extent of) space traversed
+- maggaṃ paṭipajjati
+- used for an attribute of another accusative
+- khattiyo brahmaṅaṃ mahāmattaṃ passati
+- used to express the pure duration of time
+- aḍḍhamāsaṃ āgacchati
+- ekaṃ samayaṃ
+- singular neuter form of some adjectives is used as an &amp;#34;adverb&amp;#34;
+- rassaṃ passasāmi
+&lt;/code>&lt;/pre>&lt;h3 id="3-karaṇavacana">3. karaṇavacana&lt;/h3>
+&lt;p>Instrumental:&lt;/p>
+&lt;ul>
+&lt;li>instrument by means of which an action is done
+&lt;ul>
+&lt;li>kāyena phusati&lt;/li>
+&lt;li>tuṇhī bhāvena&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>accompaniment
+&lt;ul>
+&lt;li>brāhmaṇena saddhim&lt;/li>
+&lt;li>&amp;ldquo;Talking”, “discussing” (&lt;code>mant&lt;/code>) with a person need not take saddhim&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>possession (endowment)
+&lt;ul>
+&lt;li>sīlehi samannāgato&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&amp;ldquo;filled&amp;rdquo; (&amp;ldquo;with water/happiness/noise/&amp;hellip;”)
+&lt;ul>
+&lt;li>saddena&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>cause
+&lt;ul>
+&lt;li>but in scientific/philosophical discourse the ablative case is used to express causal connections&lt;/li>
+&lt;li>bhagavatā vādena kupito
+&lt;ul>
+&lt;li>“angry at (with) the fortunate one’s statement ”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>cīvarena santuṭṭho
+&lt;ul>
+&lt;li>&amp;ldquo;satisfied with the robe ”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>atthena
+&lt;ul>
+&lt;li>&amp;ldquo;because of that business/matter&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>karaniyena
+&lt;ul>
+&lt;li>“(engaged in some) business”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>iminā p&amp;rsquo; aṅgena
+&lt;ul>
+&lt;li>&amp;ldquo;(you shouldn’t go) for this reason”&lt;/li>
+&lt;li>aṅgaṃ = &amp;ldquo;limb”, &amp;ldquo;characteristic”, ”factor”
+&lt;ul>
+&lt;li>used in “because of this” (”endowment”)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>equality
+&lt;ul>
+&lt;li>samasamo vannena
+&lt;ul>
+&lt;li>&amp;ldquo;quite equal in beauty”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>comparison
+&lt;ul>
+&lt;li>generally and indefinitely
+&lt;ul>
+&lt;li>purisena purisam
+&lt;ul>
+&lt;li>“(comparing) a man with a man”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>for a specific, conclusive comparison, “this is better than that&amp;rdquo; the ablative case is used&lt;/li>
+&lt;li>price
+&lt;ul>
+&lt;li>sahassena
+&lt;ul>
+&lt;li>“for a thousand”&lt;/li>
+&lt;li>(i.e. sell for 1,000 kahāpaṇas, the standard silver coin)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>way (which way, direction)
+&lt;ul>
+&lt;li>“by one way”&lt;/li>
+&lt;li>“by another way“&lt;/li>
+&lt;li>dvārena
+&lt;ul>
+&lt;li>“by the gate” (entering, leaving)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>direction, orientation
+&lt;ul>
+&lt;li>“from West to East“ (both in instrumental) and each followed by the indeclinable ca&lt;/li>
+&lt;li>from North to South&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>manner
+&lt;ul>
+&lt;li>iminā
+&lt;ul>
+&lt;li>“in this way”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>iminā pariyāyena
+&lt;ul>
+&lt;li>“through this course (procedure)&amp;rdquo;&lt;/li>
+&lt;li>“in this manner”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>kāyena paṭisaṃvedeti
+&lt;ul>
+&lt;li>“he experiences through his body”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>santena
+&lt;ul>
+&lt;li>“calmly“ (used like “adverbs of manner”)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>“ on his right side ” (manner of lying)&lt;/li>
+&lt;li>kicchena adhigntaṃ
+&lt;ul>
+&lt;li>“understood with difficulty”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>“he sat practising a certain kind of meditation“&lt;/li>
+&lt;li>(instrumental, as if “ manner ” of sitting)&lt;/li>
+&lt;li>adjacent to the ordinary “instrument” sense
+&lt;ul>
+&lt;li>serving with actions (kammena), whether physical or mental, or with speech&lt;/li>
+&lt;li>honouring, entertaining, etc., with music, dancing, garlands, etc.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>means of livelihood, means of explanation or description (cf. instrument)
+&lt;ul>
+&lt;li>means of acquiring goodness, puññaṃ
+&lt;ul>
+&lt;li>dānena
+&lt;ul>
+&lt;li>“by giving”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>expiating past deeds (kammaṃ)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>vehicle
+&lt;ul>
+&lt;li>yānena gacchati
+&lt;ul>
+&lt;li>“he goes in (by) a carriage”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>nāgena
+&lt;ul>
+&lt;li>“by elephant”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>motive
+&lt;ul>
+&lt;li>gāravena
+&lt;ul>
+&lt;li>“through respect” (he did not speak)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>time
+&lt;ul>
+&lt;li>by means of which (at the end of which)
+&lt;ul>
+&lt;li>aparena samayena
+&lt;ul>
+&lt;li>“after some time”&lt;/li>
+&lt;li>“in due course”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>particular time at which
+&lt;ul>
+&lt;li>tena samayena
+&lt;ul>
+&lt;li>“at that time”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>accayena
+&lt;ul>
+&lt;li>“through (after) the passage/passing away”&lt;/li>
+&lt;li>(of time or of a person: specified in the genitive case)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>age at which&lt;/li>
+&lt;li>measure (cf. the ablative case)
+&lt;ul>
+&lt;li>dvādasayojanāni ahosi āyāmena
+&lt;ul>
+&lt;li>“it (a city) was twelve leagues in length”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>sattayojanāni vitthārena
+&lt;ul>
+&lt;li>“seven leagues in breadth”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>compounds ending in the word matta meaning “ measure ”
+&lt;ul>
+&lt;li>jannumattena
+&lt;ul>
+&lt;li>”knee deep”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>classification
+&lt;ul>
+&lt;li>birth, clan, family, kind, and similar relations
+&lt;ul>
+&lt;li>Gotamo gottena
+&lt;ul>
+&lt;li>&amp;ldquo;a Gotama by clan”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>jalivadena
+&lt;ul>
+&lt;li>&amp;ldquo;in respect of class (station by birth)”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>dissociation (cf. accompaniment)
+&lt;ul>
+&lt;li>adaṇḍena
+&lt;ul>
+&lt;li>“without force” (negative prefix a-)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>instrumental used with the indeclinable aññatra
+&lt;ul>
+&lt;li>&amp;ldquo;except for”&lt;/li>
+&lt;li>aññatra brahmanena
+&lt;ul>
+&lt;li>“ except for the priest&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>“apart from”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>other idioms with the instrumental
+&lt;ul>
+&lt;li>āsanena nimanteti
+&lt;ul>
+&lt;li>&amp;ldquo;he invites to sit down”&lt;/li>
+&lt;li>&amp;ldquo;he offers a seat”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>kalena kālaṃ
+&lt;ul>
+&lt;li>&amp;ldquo;from time to time”&lt;/li>
+&lt;li>”regularly”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>lābhena lābhaṃ
+&lt;ul>
+&lt;li>“from gain to gain”&lt;/li>
+&lt;li>(wishing always for more gain, with one gain on to another)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>aññena aññnaṃ
+&lt;ul>
+&lt;li>”one with another”
+&lt;ul>
+&lt;li>literally “other with other”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&amp;ldquo;irrelevantly”&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>sabbena sabbaṃ
+&lt;ul>
+&lt;li>“all with all&amp;rdquo;, i.e. &amp;ldquo;completely”&lt;/li>
+&lt;li>&amp;ldquo;absolutely thoroughly” (as in knowing some doctrine)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="4-sampadānavacana">4. sampadānavacana&lt;/h3>
+&lt;p>Dative case:&lt;/p>
+&lt;ul>
+&lt;li>the purpose for which an action is done
+&lt;ul>
+&lt;li>gāmaṃ piṇḍāya pāvisi&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>the person to whom something is given (&amp;ldquo;indirect object&amp;rdquo;)&lt;/li>
+&lt;li>&amp;ldquo;dative of advantage&amp;rdquo;
+&lt;ul>
+&lt;li>the person for whom something is done or to whom something which happens is advantageous&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>used with verbs
+&lt;ul>
+&lt;li>(k)kham
+&lt;ul>
+&lt;li>&amp;ldquo;to please&amp;rdquo; (someone = dative)&lt;/li>
+&lt;li>&amp;ldquo;to forgive&amp;rdquo; (someone = dative, something = accusative)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>(p)paṭi-(s)su
+&lt;ul>
+&lt;li>&amp;ldquo;to assent to (someone = dative)&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>upa-(ṭ)ṭhā
+&lt;ul>
+&lt;li>to serve, attend on/to someone or something (dative)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>dhar
+&lt;ul>
+&lt;li>&amp;ldquo;hold for/over&amp;rdquo; person sheltered (dative)&lt;/li>
+&lt;li>&amp;ldquo;owe&amp;rdquo; person (dative)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>ā-ruc
+&lt;ul>
+&lt;li>&amp;ldquo;to inform&amp;rdquo; person informed (dative)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>to be angry at
+&lt;ul>
+&lt;li>(kup, etc.)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>sap
+&lt;ul>
+&lt;li>to curse&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>pih
+&lt;ul>
+&lt;li>to long for&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>(p)pa-(k)khā: visible, apparent
+&lt;ul>
+&lt;li>to be clear to&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>pātu(r)-bhū: manifest
+&lt;ul>
+&lt;li>to appear to&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>adjective (of verbal import) piya, &amp;ldquo;dear&amp;rdquo;, takes the dative of the person to whom.&lt;/li>
+&lt;li>&amp;ldquo;For the sake of&amp;rdquo; ( = dative of purpose, above)
+&lt;ul>
+&lt;li>atthāya preceded by the genitive of the person or object of the endeavour.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>indeclinable alaṃ (&amp;ldquo;sufficient&amp;rdquo;, &amp;ldquo;enough&amp;rdquo;, &amp;ldquo;adequate&amp;rdquo;, &amp;ldquo;perfected&amp;rdquo;) takes the dative.
+&lt;ul>
+&lt;li>the idiomatic meaning of a refusal or objection
+&lt;ul>
+&lt;li>(&amp;ldquo;enough!&amp;rdquo; = &amp;ldquo;stop!&amp;rdquo;, &amp;ldquo;I won&amp;rsquo;t!&amp;rdquo;, etc.)&lt;/li>
+&lt;li>with dative of the person for whom it is sufficient or superfluous
+&lt;ul>
+&lt;li>&amp;ldquo;I won&amp;rsquo;t&amp;rdquo; = alaṃ me&lt;/li>
+&lt;li>&amp;ldquo;it is sufficient for you&amp;rdquo; = alaṃ vo&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>The negative participle abhabba
+&lt;ul>
+&lt;li>adjective meaning &amp;ldquo;unable&amp;rdquo;, &amp;ldquo;incapable&amp;rdquo;&lt;/li>
+&lt;li>dative of the action which cannot be done, if the latter is expressed by a noun (&amp;ldquo;action noun&amp;rdquo;).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>When wishes (good wishes) are expressed&lt;/li>
+&lt;li>dative is used for the person for whom they are expressed
+&lt;ul>
+&lt;li>&amp;ldquo;may there be (hotu) long life for him&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;good luck to you&amp;rdquo;
+&lt;ul>
+&lt;li>bhaddaṃ bhavato hotu&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&amp;ldquo;welcome to you&amp;rdquo;
+&lt;ul>
+&lt;li>svāgataṃ bhavato hotu&lt;/li>
+&lt;li>svāgataṃ (&amp;ldquo;welcome!&amp;rdquo;)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>indeclinables sotthi &amp;ldquo;safety&amp;rdquo;, &amp;ldquo;safely&amp;rdquo; and namo (&amp;ldquo;hail!&amp;rdquo;)&lt;/li>
+&lt;li>infinitive of verbs overlaps in meaning with the dative of purpose.&lt;/li>
+&lt;li>idiomatic construction: proper time for something, the opportunity for something
+&lt;ul>
+&lt;li>etassa kālo
+&lt;ul>
+&lt;li>&amp;ldquo;it is the time for this&amp;rdquo;, &amp;ldquo;it is the right time for this&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>akālo … yācanāya
+&lt;ul>
+&lt;li>&amp;ldquo;it is not the right time for asking&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>yassa dāni kālaṃ maññasi
+&lt;ul>
+&lt;li>&amp;ldquo;for which you think it is now (dāni) the right time&amp;rdquo;&lt;/li>
+&lt;li>extremely common in saying (formally) goodbye (spoken by the host, not the guest - who for his part has made the excuse of pressure of work), being roughly equivalent to &amp;ldquo;well, if you really must go … &amp;quot;&lt;/li>
+&lt;li>used also by servants reporting to their master that preparations are completed, implying &amp;ldquo;you can start whenever you wish&amp;rdquo;, etc&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="6-sāmivacana">6. sāmivacana&lt;/h3>
+&lt;p>Genitive case:&lt;/p>
+&lt;ul>
+&lt;li>may often be translated by &amp;ldquo;of&amp;rdquo;, and serves as a &amp;ldquo;possessive&amp;rdquo; case&lt;/li>
+&lt;li>denoting the &amp;ldquo;possessor&amp;rdquo; (sāmin)&lt;/li>
+&lt;li>the whole of which the related word denotes a part (avayava)&lt;/li>
+&lt;li>immediately precedes the word to which it relates
+&lt;ul>
+&lt;li>rañño thūpo&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>A construction with a possessive genitive is very often equivalent to an English construction with the verb &amp;ldquo;to have&amp;rdquo;
+&lt;ul>
+&lt;li>idaṃ assa hoti&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&amp;ldquo;of him thus it is &amp;hellip;&amp;rdquo; (or was, etc.), &amp;ldquo;he has this thought &amp;hellip;&amp;rdquo;, &amp;ldquo;he thinks thus &amp;hellip;&amp;rdquo;
+&lt;ul>
+&lt;li>tassa evaṃ hoti&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>an idiom consisting of the genitive of the word denoting the period + accayena expresses the time after which (or through the passage of which) something is done:
+&lt;ul>
+&lt;li>sattāhassa accayena … pabbajissāma&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&amp;ldquo;after I have passed away&amp;rdquo;, &amp;ldquo;after my death/parinibbāna&amp;rdquo;
+&lt;ul>
+&lt;li>mama + accayena = &amp;ldquo;after me&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>agent-genitive (&amp;ldquo;subjective genitive&amp;rdquo;):
+&lt;ul>
+&lt;li>brāhmaṇassa pūjito (Soṇadaṇḍo)&lt;/li>
+&lt;li>&amp;ldquo;(Soṇadaṇḍo was) honoured of (= by) the priest&amp;rdquo;&lt;/li>
+&lt;li>yesaṃ &amp;hellip; devā &amp;hellip;adiṭṭhā&lt;/li>
+&lt;li>&amp;ldquo;those &amp;hellip; who have not seen &amp;hellip; the gods (negative participle: a-)&amp;rdquo;&lt;/li>
+&lt;li>(&amp;ldquo;of (= by) whom the gods are unseen&amp;rdquo;; Commentary explains yesaṃ by yehi)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>patient-genitive (&amp;ldquo;objective genitive&amp;rdquo;):
+&lt;ul>
+&lt;li>ahaṃ … tassa yaññassa yājetā&lt;/li>
+&lt;li>&amp;ldquo;I &amp;hellip; (was) the performer of that sacrifice&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>substitute for the instrumental
+&lt;ul>
+&lt;li>kumbhiṃ &amp;hellip; pūraṃ &amp;hellip; suvaṇṇassa&lt;/li>
+&lt;li>&amp;ldquo;pot &amp;hellip; full &amp;hellip; of gold&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>used with certain indeclinables, such as:
+&lt;ul>
+&lt;li>piṭṭhito - &amp;ldquo;behind&amp;rdquo;
+purato - &amp;ldquo;before&amp;rdquo;, &amp;ldquo;in front of&amp;rdquo;
+antarena - &amp;ldquo;between&amp;rdquo;
+me purato - &amp;ldquo;in front of me&amp;rdquo;
+kāyānam antarena - &amp;ldquo;between the bodies&amp;rdquo;&lt;/li>
+&lt;li>uttaraṃ nagarassa - &amp;ldquo;north of the city&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>The &amp;ldquo;genitive absolute&amp;rdquo; consists of a noun (or pronoun) followed by a participle, both inflected in the genitive. This nexus stands apart from the other words of the sentence and means &amp;ldquo;while (the noun was doing the participle)&amp;rdquo;
+&lt;ul>
+&lt;li>special sense of disregarding: &amp;ldquo;despite (the noun doing the participle)&amp;rdquo;, &amp;ldquo;under their very noses,&amp;rdquo; as when the participle means &amp;ldquo;seeing&amp;rdquo;, &amp;ldquo;looking on&amp;rdquo;&lt;/li>
+&lt;li>telassa jhāyamānassa &amp;ldquo;as (while) the oil is burning&amp;rdquo;&lt;/li>
+&lt;li>mātāpitunnaṃ … rudantānaṃ … pabbajito &amp;ldquo;though his parents were weeping, he went forth&amp;rdquo; (i.e. &amp;ldquo;despite their weeping&amp;rdquo;)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>useful for constructing a sentence with two agents, but the similarly constructed locative absolute (Lesson 16) is much more frequently used&lt;/li>
+&lt;/ul>
+&lt;h3 id="8-āmantaṇavacana-ālapanavacana">8. āmantaṇavacana, ālapanavacana&lt;/h3>
+&lt;p>Vocative:&lt;/p>
+&lt;ul>
+&lt;li>used &amp;ldquo;enclitically&amp;rdquo;, i.e. it does not stand at the beginning of a sentence&lt;/li>
+&lt;/ul>
+&lt;h2 id="guṇanāma">guṇanāma&lt;/h2>
+&lt;p>Adjective:&lt;/p>
+&lt;ul>
+&lt;li>When an adjective is common to two or more nouns it may agree with the sum of these (and be plural) or with the nearest. Thirdly the qualified words may be taken as collective and singular and the adjective be singular. Where the genders conflict, the masculine takes precedence over the feminine, the neuter over both.&lt;/li>
+&lt;li>An adjective usually precedes the noun it qualifies, but when there are several adjectives with one noun very often only one adjective precedes and the rest follow the noun.&lt;/li>
+&lt;li>A demonstrative pronoun relating to the same noun will precede the whole group.&lt;/li>
+&lt;li>When an adjective, or (all the) adjectives, follows its noun this usually indicates that it is being &amp;ldquo;predicated&amp;rdquo; of the noun, or in other words that the attribute in question is being emphasized.&lt;/li>
+&lt;/ul>
+&lt;h2 id="sabbanāma">sabbanāma&lt;/h2>
+&lt;p>Pronouns&lt;/p>
+&lt;h3 id="niyamita">niyamita&lt;/h3>
+&lt;p>Personal and Demonstrative (incomplete TBD)&lt;/p>
+&lt;ul>
+&lt;li>Although the person is expressed by the inflection of the verb, the pronouns of the first and second persons are frequently used, giving a slight emphasis to the subject. The third person pronoun is less often used in this way.&lt;/li>
+&lt;li>The third personal pronoun is used also as a demonstrative, meaning &amp;ldquo;that&amp;rdquo;, &amp;ldquo;it&amp;rdquo;, in three genders.&lt;/li>
+&lt;li>It is generally used as what is known as an &amp;ldquo;anaphoric &amp;quot; pronoun, that is to say it refers back to someone or something previously mentioned in a narrative.&lt;/li>
+&lt;li>As opposed to the use in conversation and other direct speech of &amp;ldquo;pronouns of presence&amp;rdquo; referring to someone or something present (&amp;ldquo;this man&amp;rdquo;, &amp;ldquo;that jar&amp;rdquo;), these pronouns are called &amp;ldquo;pronouns of absence&amp;rdquo; because it is most often used to speak of someone or something in a story and therefore not present to the listeners.&lt;/li>
+&lt;li>It may serve to connect the sentences of a narrative into a continuous paragraph or longer section. It is used also as an emphatic pronoun (in combination with another pronoun or occasionally with 1st person, for example in the expression so &amp;lsquo;haṃ &amp;ldquo;I&amp;rdquo; (literally &amp;ldquo;that I&amp;rdquo;).&lt;/li>
+&lt;li>In combination with a noun it is again emphatic and may sometimes be translated &amp;ldquo;the&amp;rdquo;&lt;/li>
+&lt;li>There being no &amp;ldquo;definite article&amp;rdquo; in Pali the demonstrative pronouns are sometimes used where English would use the definite article, and may sometimes be translated &amp;ldquo;the&amp;rdquo; rather than &amp;ldquo;he&amp;rdquo;, &amp;ldquo;that&amp;rdquo;, &amp;ldquo;this&amp;rdquo;, etc.&lt;/li>
+&lt;li>Demonstrative pronouns must agree in number and gender (and case) with the nouns to which they refer.&lt;/li>
+&lt;/ul>
+&lt;h2 id="ākhyāta">ākhyāta&lt;/h2>
+&lt;p>Verb&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# ākhyāta
+## lakāra (tense)
+### vattamāna (present indicative)
+### pañcamī (imperative) [mood]
+### ajjatanī (aorist) [past]
+### sattamī (optative) [mood]
+### anāgatakāla (future)
+### kālātipatti (conditional)
+### kārita (causative)
+## purisa (person)
+### paṭhamapurisa (third person)
+### majjhimapurisa (second person)
+### uttamapurisa (first person)
+## saṅkhyā (number)
+### ekavacana (singular)
+### bahuvacana (plural)
+&lt;/code>&lt;/pre>&lt;h3 id="kammaka">kammaka&lt;/h3>
+&lt;p>Transitivity:&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# kammaka
+- akammaka
+– intransitive
+- sakammaka
+– transitive
+- dvikammaka
+– bitransitive
+- verbs
+- to call
+- to tell
+- to ask (someone something)
+- to take or bring (something somewhere)
+- samaṅaṃ atthaṃ pucchāmi
+&lt;/code>&lt;/pre>&lt;h3 id="kammapada">kammapada&lt;/h3>
+&lt;p>Passive sentence:&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# kammapada
+- agent is expressed by the instrumental case
+- past participle used as an impersonal (bhāva) passive verb
+- inflected in the nominative singular neuter as sentence-verb
+- evaṃ me sutaṃ
+- If there is a patient, and the action is expressed by a past participle
+- patient will be in the nominative case
+- the participle will agree with it in gender, case, and number
+(as if it were an adjective)
+- mayā ime sattā nimmitā
+- Passive verbs are not very common in Pali
+- aorist passive
+- add the aorist inflections to the passive stem
+- haññiṃsu, &amp;#34;they were killed.&amp;#34;
+- A present participle passive
+- adding suffix māna to the passive stem
+- inflecting as a participle
+- kayiramāna, &amp;#34;being done.&amp;#34;
+&lt;/code>&lt;/pre>&lt;h3 id="gaṇa">gaṇa&lt;/h3>
+&lt;p>Verb conjugation groups&lt;/p>
+&lt;pre class="mermaid">mindmap
+gaṇa
+bhūvādigaṇa
+first conjugation
+bhū
+rudhādigaṇa
+second conjugation
+rudh
+divādigaṇa
+third conjugation
+div
+suvādigaṇa
+fourth conjugation
+su
+kiyādigaṇa
+fifth conjugation
+ki
+tanādigaṇa
+sixth conjugation
+tan
+curādigaṇa
+seventh conjugation
+cur&lt;/pre>
+&lt;h3 id="vattamāna">vattamāna&lt;/h3>
+&lt;p>Present tense&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# vattamāna
+- present (paccuppanna) time (kāla)
+- indefinite time
+- timeless statements such as &amp;#34;eternal truths&amp;#34;
+- immediate future
+- may include a shade of &amp;#34;imperative&amp;#34; sense
+- cf.English &amp;#34;I&amp;#39;m going&amp;#34;
+- past
+- &amp;#34;historic present&amp;#34;
+- duration of an action &amp;#34;until&amp;#34; a fixed future time
+- (a vivid future visualized as present)
+- &amp;#34;when&amp;#34;
+&lt;/code>&lt;/pre>&lt;h3 id="pañcamī">pañcamī&lt;/h3>
+&lt;p>Imperative:&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# pañcamī
+- expresses commands and prohibitions, but also invitations and wishes
+- (majjhimapurisa)
+- the sense is usually that of a command
+- (paṭhamapurisa)
+- used with the title or name of the person addressed, or the polite pronoun
+- expresses a polite invitation
+- ettha tiṭṭha
+- &amp;#34;wait here&amp;#34;
+- (&amp;#34;let it be&amp;#34;, &amp;#34;never mind&amp;#34;, &amp;#34;let him not&amp;#34;, &amp;#34;don&amp;#39;t trouble&amp;#34;)
+- tiṭṭhatha tumhe
+- &amp;#34;don&amp;#39;t you bother&amp;#34;
+&lt;/code>&lt;/pre>&lt;h3 id="ajjatanī">ajjatanī&lt;/h3>
+&lt;p>&amp;ldquo;Aorist&amp;rdquo; (past tense), used for all kinds of past actions:&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# ajjatanī
+- &amp;#34;historical&amp;#34; or &amp;#34;narrative&amp;#34; past
+- (present-) perfect
+- desesiṃ (I have taught)
+&lt;/code>&lt;/pre>&lt;h3 id="atītakiriya">atītakiriya&lt;/h3>
+&lt;p>Past Participle:&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# atītakiriya
+- normally passive (kammapada) in meaning
+- past participles of intransitive verbs sometimes active
+- including some transitive verbs used intransitively
+- &amp;#34;go&amp;#34;
+- &amp;#34;move&amp;#34;
+- &amp;#34;go forth&amp;#34;
+- equivalent to a (normally passive) finite verb in the past tense
+- indicates the &amp;#34;present-perfect&amp;#34;, as in conversation
+- mayaṃ ... upasaṃkantā
+- may be accompanied (usually followed) by the present tense of verbs meaning &amp;#34;to be&amp;#34;
+- stressing the &amp;#34;present-perfect&amp;#34; sense
+- some used as nouns
+- bhāsitaṃ may mean
+- &amp;#34;what was spoken&amp;#34;, &amp;#34;speech&amp;#34;, &amp;#34;saying&amp;#34;
+- may be used as &amp;#34;adjectives&amp;#34;
+- kupita
+- &amp;#34;angry&amp;#34;)
+&lt;/code>&lt;/pre>&lt;h3 id="missakiriya">missakiriya&lt;/h3>
+&lt;p>Present participle:&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# missakiriya
+- indicate an action which takes place simultaneously with (missa) the main action of the sentence
+- used like &amp;#34;adjectives&amp;#34; (as past participles may be) &amp;#34;qualifying&amp;#34; nouns, with which they agree in gender, case, and number.
+&lt;/code>&lt;/pre>&lt;h3 id="pubbakiriyā">pubbakiriyā&lt;/h3>
+&lt;p>Gerund (Absolutive):&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# pubbakiriyā
+- indeclinable participle
+- used to express an action preceding (pubba) the action of the main verb of a sentence
+- conclude a subordinate clause
+- agent of the gerund is the same as that of the main action
+&lt;/code>&lt;/pre>&lt;h3 id="bhavissanti">bhavissanti&lt;/h3>
+&lt;p>Future Tense:&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# bhavissanti
+- expression of the probable (bhavissati in particular often has this sense)
+- hypothetical future
+- certainty
+- (in the 1st person) determination or decision
+- sace ahaṃ … labhissāmi, saṃvibhajissāmi…
+- Obedience to a law of nature
+- … nikkhipissanti
+- literally &amp;#34;will throw down, put down&amp;#34; (the body).
+- all living beings (must/will) die
+- habit (innate or acquired) may also be expressed by the future
+- more emphatic than the use of the present tense to express an &amp;#34;eternal truth&amp;#34;
+- they will do this
+- express the emotional colour of regret or disapproval
+- Indignation (or disapproval)
+- kathaṃ hi nāma …,&amp;#34;for how could (&amp;#39;will&amp;#39;) he …&amp;#34;
+- perplexity, surprise, and wonder
+- kim ev&amp;#39; idaṃ bhavissati, &amp;#34;what can this be?&amp;#34;, &amp;#34;what is this (stuff)?&amp;#34;
+&lt;/code>&lt;/pre>&lt;h2 id="upasagga">upasagga&lt;/h2>
+&lt;p>Prefixes:&lt;/p>
+&lt;ul>
+&lt;li>ati – on, further, towards, over, beyond, past, intensifier&lt;/li>
+&lt;li>adhi – on, towards, by, up to, here, intensifier&lt;/li>
+&lt;li>anu – along, after, towards, on, at, to, according to, second, low, each, every&lt;/li>
+&lt;li>apa – off, away from&lt;/li>
+&lt;li>api – on, to, towards&lt;/li>
+&lt;li>abhi – towards, against, over, on, intensifier&lt;/li>
+&lt;li>ava, o – low, down, away, negative&lt;/li>
+&lt;li>ā – nearness, out, forth, to, at, on&lt;/li>
+&lt;li>u – up, put, forth, onto&lt;/li>
+&lt;li>upa – on, up, by, diminutive&lt;/li>
+&lt;li>du – difficult, hard, bad, poor&lt;/li>
+&lt;li>ni, nī – down, into, back, out, away, without&lt;/li>
+&lt;li>pa – out, on, before, intensifier&lt;/li>
+&lt;li>paṭi, pati – back, against, again away, to&lt;/li>
+&lt;li>parā – onto, over, through&lt;/li>
+&lt;li>pari – around, completely, too much, away, off&lt;/li>
+&lt;li>vi – over, about, away, down, reverses meaning, intensifier&lt;/li>
+&lt;li>saṁ – near, together&lt;/li>
+&lt;li>su – well, happily, thoroughly, intensifier&lt;/li>
+&lt;/ul>
+&lt;h2 id="vākya">vākya&lt;/h2>
+&lt;p>sentence&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+zoom: false
+pan: false
+---
+# vākya
+## kiriyā
+- action
+- verb
+## kattar
+- agent
+- noun
+## kamma
+- patient
+- noun
+&lt;/code>&lt;/pre>&lt;pre class="mermaid">classDiagram
+class `loko vivaṭṭhati` {
+&amp;lt;&amp;lt;sentence&amp;gt;&amp;gt;
+english(the world evolves)
+}
+class loko {
+&amp;lt;&amp;lt;noun&amp;gt;&amp;gt;
+pulliṅga [masculine]
+paṭhamā: paccattavacana [nominative]
+ekavacana [singular]
+english(world)
+}
+class lok {
+&amp;lt;&amp;lt;root&amp;gt;&amp;gt;
+english(see)
+}
+class loka {
+&amp;lt;&amp;lt;stem&amp;gt;&amp;gt;
+}
+class vivaṭṭhati {
+&amp;lt;&amp;lt;verb&amp;gt;&amp;gt;
+vattamānakāla [present indicative]
+parassapada [active]
+paṭhamapurisa [3rd person]
+ekavacana [singular]
+english(evolves)
+}
+class vi {
+&amp;lt;&amp;lt;prefix&amp;gt;&amp;gt;
+english(apart, asunder)
+}
+class vaṭṭ {
+&amp;lt;&amp;lt;root&amp;gt;&amp;gt;
+english(turn, roll, circle)
+}
+class vaṭṭa {
+&amp;lt;&amp;lt;stem&amp;gt;&amp;gt;
+}
+`loko vivaṭṭhati` *-- loko : kattar
+loko --|&amp;gt; loka : rūpa
+loka --|&amp;gt; lok : dhātu
+vaṭṭa --|&amp;gt; vaṭṭ : dhātu
+vivaṭṭhati --|&amp;gt; vi : upasagga
+vivaṭṭhati --|&amp;gt; vaṭṭa : rūpa
+`loko vivaṭṭhati` *-- vivaṭṭhati : kiriyā&lt;/pre></description></item><item><title>Docs: Sentence examples (padamañjarī)</title><link>https://christham.net/buddhavacana/docs/pali/sentences/</link><pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/pali/sentences/</guid><description>
+&lt;h2 id="legend">Legend&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>symbol&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;th>explanation&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>vākya&lt;/code>&lt;/td>
+&lt;td>sentence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>pada&lt;/code>, &lt;code>vacana&lt;/code>&lt;/td>
+&lt;td>word&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>nāma&lt;/code>&lt;/td>
+&lt;td>noun&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>ākhyāta&lt;/code>&lt;/td>
+&lt;td>verb&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🚹&lt;/td>
+&lt;td>&lt;code>pulliṅga&lt;/code>&lt;/td>
+&lt;td>major (masculine) gender&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🚻&lt;/td>
+&lt;td>&lt;code>napuṁsakaliṅga&lt;/code>&lt;/td>
+&lt;td>special (neuter) gender&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🚺&lt;/td>
+&lt;td>&lt;code>itthiliṅga&lt;/code>&lt;/td>
+&lt;td>minor (feminine) gender&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👤&lt;/td>
+&lt;td>&lt;code>ekavacana&lt;/code>&lt;/td>
+&lt;td>singular&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👥&lt;/td>
+&lt;td>&lt;code>bahuvacana&lt;/code>&lt;/td>
+&lt;td>plural&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🟢&lt;/td>
+&lt;td>&lt;code>parassapada&lt;/code>&lt;/td>
+&lt;td>active voice&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔵&lt;/td>
+&lt;td>&lt;code>attanopada&lt;/code>&lt;/td>
+&lt;td>middle voice - impersonal&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔴&lt;/td>
+&lt;td>&lt;code>kammapada&lt;/code>&lt;/td>
+&lt;td>passive&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👤&lt;/td>
+&lt;td>&lt;code>ekavacana&lt;/code>&lt;/td>
+&lt;td>singular&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👥&lt;/td>
+&lt;td>&lt;code>bahuvacana&lt;/code>&lt;/td>
+&lt;td>plural&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🤟&lt;/td>
+&lt;td>&lt;code>paṭhama purisa&lt;/code>&lt;/td>
+&lt;td>first person, equivalent to &amp;rsquo;third person&amp;rsquo; in English&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🤘&lt;/td>
+&lt;td>&lt;code>majjima purisa&lt;/code>&lt;/td>
+&lt;td>middle person, equivalent to &amp;lsquo;second person&amp;rsquo; in English&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👆&lt;/td>
+&lt;td>&lt;code>uttama purisa&lt;/code>&lt;/td>
+&lt;td>primary person, equivalent to &amp;lsquo;first person&amp;rsquo; in English&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>0️⃣&lt;/td>
+&lt;td>&lt;code>ālapana&lt;/code>&lt;/td>
+&lt;td>vocative&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1️⃣&lt;/td>
+&lt;td>&lt;code>paṭhamā&lt;/code>&lt;/td>
+&lt;td>first case (nominative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2️⃣&lt;/td>
+&lt;td>&lt;code>dutiyā&lt;/code>&lt;/td>
+&lt;td>second case (accusative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3️⃣&lt;/td>
+&lt;td>&lt;code>tatiyā&lt;/code>&lt;/td>
+&lt;td>third case (instrumental)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4️⃣&lt;/td>
+&lt;td>&lt;code>catutthī&lt;/code>&lt;/td>
+&lt;td>fourth case (dative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>5️⃣&lt;/td>
+&lt;td>&lt;code>pañcamī&lt;/code>&lt;/td>
+&lt;td>fifth case (ablative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>6️⃣&lt;/td>
+&lt;td>&lt;code>chaṭṭhī&lt;/code>&lt;/td>
+&lt;td>sixth case (genitive)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>7️⃣&lt;/td>
+&lt;td>&lt;code>sattamī&lt;/code>&lt;/td>
+&lt;td>seventh case (locative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏏️&lt;/td>
+&lt;td>&lt;code>nipāta&lt;/code>&lt;/td>
+&lt;td>particle&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔼&lt;/td>
+&lt;td>&lt;code>upasagga&lt;/code>&lt;/td>
+&lt;td>prefix&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🆎&lt;/td>
+&lt;td>&lt;code>samāsa&lt;/code>&lt;/td>
+&lt;td>compound noun&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔽&lt;/td>
+&lt;td>&lt;code>taddhita&lt;/code>&lt;/td>
+&lt;td>affix&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>▶️&lt;/td>
+&lt;td>&lt;code>vattamāna&lt;/code>&lt;/td>
+&lt;td>present&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏹&lt;/td>
+&lt;td>&lt;code>piñcamī&lt;/code>&lt;/td>
+&lt;td>imperative&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏯&lt;/td>
+&lt;td>&lt;code>sattamī&lt;/code>&lt;/td>
+&lt;td>potential&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔄&lt;/td>
+&lt;td>&lt;code>parokkhā&lt;/code>&lt;/td>
+&lt;td>perfect&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>↩️&lt;/td>
+&lt;td>&lt;code>hiyyattanī&lt;/code>&lt;/td>
+&lt;td>imperfect&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏮&lt;/td>
+&lt;td>&lt;code>ajjatanī&lt;/code>&lt;/td>
+&lt;td>aorist&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏭&lt;/td>
+&lt;td>&lt;code>bhavissanti&lt;/code>&lt;/td>
+&lt;td>future&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔀&lt;/td>
+&lt;td>&lt;code>kālātipatti&lt;/code>&lt;/td>
+&lt;td>conditional&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="equational">Equational&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;devo amanusso hoti&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(The deva is not human)
+}
+namespace equational {
+class devo {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(deity)
+}
+class amanusso {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(not human)
+}
+}
+class hoti {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟▶️
+english(is)
+}
+sentence *-- devo : kattar
+sentence *-- amanusso : vāccaliṅga
+sentence *-- hoti: kiriya&lt;/pre>
+&lt;h3 id="intransitive-agent-action">Intransitive (agent-action)&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;devo cavati&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(The god dies)
+}
+class devo {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(deity)
+}
+class cavati {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟▶️
+english(dies)
+}
+sentence *-- devo : kattar
+sentence *-- cavati: kiriya&lt;/pre>
+&lt;h3 id="transitive-agent-patient-action">Transitive (agent-patient-action)&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;upāsako pattaṃ āharati&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(The lay disciple brings the bowl)
+}
+class upāsako {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(lay disciple)
+}
+class pattaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(bowl)
+}
+class āharati {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟▶️
+english(brings)
+}
+sentence *-- upāsako : kattar
+sentence *-- pattaṃ : kamma
+sentence *-- āharati: kiriya&lt;/pre>
+&lt;h3 id="bi-transitive-patient-x-patient-y-action">Bi-transitive (patient x-patient y-action)&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;upāsakaṃ brāhmānaṃ dhāreti&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english([He] accepts the priest as a lay disciple)
+}
+class upāsakaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(lay disciple)
+}
+class brāhmānaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(brahmin)
+}
+class dhāreti {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟▶️
+english(accepts)
+}
+sentence *-- upāsakaṃ : kamma x
+sentence *-- brāhmānaṃ : kamma y
+sentence *-- dhāreti: kiriya&lt;/pre>
+&lt;h3 id="yena--tena">&lt;code>yena&lt;/code> &amp;hellip; &lt;code>tena&lt;/code>&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;yena mahāmatto tena upasaṃkamanti&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(By where the minister [is], by there [they] approach)
+}
+namespace yenatena {
+class yena {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+3️⃣
+english(by where)
+}
+class mahāmatto {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(minister)
+}
+class tena {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+3️⃣
+english(by there)
+}
+}
+class upasaṃkamanti {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👥🤟▶️
+english(approach)
+}
+sentence *-- yena
+sentence *-- mahāmatto
+yena &amp;lt;-- mahāmatto : kattar
+yena --&amp;gt; tena
+sentence *-- tena : kamma
+sentence *-- upasaṃkamanti: kiriya&lt;/pre>
+&lt;pre class="mermaid">sequenceDiagram
+they -&amp;gt;&amp;gt; place : approach
+place -&amp;gt;&amp;gt; minister : by where
+minister -&amp;gt;&amp;gt; place : by there&lt;/pre></description></item><item><title>Docs: Catudhā Paramattha</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/catudha-paramattha/</link><pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/catudha-paramattha/</guid><description>
+&lt;blockquote>
+&lt;p>Tattha vutt’ábhidhammatthá&lt;br>
+Catudhá paramatthato&lt;br>
+Cittaí cetasikaí rúpaí&lt;br>
+Nibbánam iti sabbathá.&lt;/p>
+&lt;/blockquote>
+&lt;pre class="mermaid">C4Context
+title catudhá paramattha
+Enterprise_Boundary(b0, &amp;#34;Abhidhamma&amp;#34;) {
+System(citta, &amp;#34;citta&amp;#34;, &amp;#34;consciousness&amp;#34;)
+System(cetasika, &amp;#34;cetasika&amp;#34;, &amp;#34;mental factors&amp;#34;)
+System(rupa, &amp;#34;rūpa&amp;#34;, &amp;#34;matter&amp;#34;)
+System(nibbana, &amp;#34;Nibbāna&amp;#34;, &amp;#34;Nirvana&amp;#34;)
+}&lt;/pre></description></item><item><title>Docs: adantavaggo</title><link>https://christham.net/buddhavacana/docs/sutta/a%E1%B9%85guttaranik%C4%81yo/ekakanip%C4%81tap%C4%81%E1%B8%B7i/adantavaggo/</link><pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/a%E1%B9%85guttaranik%C4%81yo/ekakanip%C4%81tap%C4%81%E1%B8%B7i/adantavaggo/</guid><description>
+&lt;p>AN 1.4 31-40:&lt;/p>
+&lt;blockquote>
+&lt;ol start="31">
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ adantaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, adantaṃ mahato anatthāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ dantaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, dantaṃ mahato atthāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ aguttaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, aguttaṃ mahato anatthāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ guttaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, guttaṃ mahato atthāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ arakkhitaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, arakkhitaṃ mahato anatthāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ rakkhitaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, rakkhitaṃ mahato atthāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ asaṃvutaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, asaṃvutaṃ mahato anatthāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ saṃvutaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, saṃvutaṃ mahato atthāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ adantaṃ aguttaṃ arakkhitaṃ asaṃvutaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, adantaṃ aguttaṃ arakkhitaṃ asaṃvutaṃ mahato anatthāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ dantaṃ guttaṃ rakkhitaṃ saṃvutaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, dantaṃ guttaṃ rakkhitaṃ saṃvutaṃ mahato atthāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;/ol>
+&lt;/blockquote>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ adantaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(I don&amp;#39;t perceive, bhikkhus, yet another thing which untrained leads to great harm as this, bhikkhus, the mind.)
+}
+class na {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(not)
+}
+class ahaṃ {
+&amp;lt;&amp;lt;puggalanāma&amp;gt;&amp;gt;
+english(I)
+}
+class bhikkhave {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👥0️⃣
+}
+class aññaṃ {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(other)
+}
+class ekadhammaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(one thing)
+}
+class pi {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(too)
+}
+class samanupassāmi {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤👆vattamāna
+english(I perceive)
+}
+class yaṃ {
+&amp;lt;&amp;lt;anvayīnāma&amp;gt;&amp;gt;
+🚻👤2️⃣
+english(which)
+}
+class evaṃ {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(thus)
+}
+namespace adjective {
+class adantaṃ {
+&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
+👤2️⃣
+english(unrestrained)
+}
+}
+class mahato {
+&amp;lt;&amp;lt;guṇanāma&amp;gt;&amp;gt;
+👤6️⃣
+english(of great)
+}
+namespace result {
+class anatthāya {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤6️⃣
+english(of harm)
+}
+}
+class saṃvattati {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟vattamāna
+english(leads to)
+}
+class yatha {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(as)
+}
+class idaṃ {
+&amp;lt;&amp;lt;puggalanāma&amp;gt;&amp;gt;
+🚻👤2️⃣
+english(this)
+}
+class cittaṃ {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+🚻👤1️⃣
+english(mind)
+}
+sentence *-- na
+sentence *-- ahaṃ : kattar
+sentence *-- bhikkhave
+sentence *-- aññaṃ
+sentence *-- ekadhammaṃ
+sentence *-- pi
+sentence *-- samanupassāmi : kiriyā
+sentence *-- yaṃ
+sentence *-- evaṃ
+sentence *-- adantaṃ
+sentence *-- mahato
+sentence *-- anatthāya
+sentence *-- saṃvattati
+sentence *-- yatha
+sentence *-- idaṃ
+sentence *-- cittaṃ
+na -- samanupassāmi
+anatthāya &amp;lt;-- mahato
+anatthāya &amp;lt;-- saṃvattati
+aññaṃ .. ekadhammaṃ
+ahaṃ --&amp;gt; samanupassāmi : kattar
+ekadhammaṃ --&amp;gt; samanupassāmi : kamma
+ekadhammaṃ .. idaṃ
+evaṃ .. yaṃ
+yaṃ ..&amp;gt; adantaṃ
+pi .. ekadhammaṃ
+yaṃ &amp;lt;.. ekadhammaṃ
+adantaṃ -- cittaṃ
+yatha .. idaṃ
+idaṃ .. cittaṃ
+cittaṃ --&amp;gt; saṃvattati&lt;/pre>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;cittaṃ, bhikkhave, adantaṃ mahato anatthāya saṃvattatī&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(The mind, bhikkhus, untrained, leads to great harm.)
+}
+class cittaṃ {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+🚻👤1️⃣
+english(mind)
+}
+class bhikkhave {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👥0️⃣
+}
+namespace adjective {
+class adantaṃ {
+&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
+👤2️⃣
+english(unrestrained)
+}
+}
+class mahato {
+&amp;lt;&amp;lt;guṇanāma&amp;gt;&amp;gt;
+👤6️⃣
+english(of great)
+}
+namespace result {
+class anatthāya {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤6️⃣
+english(of harm)
+}
+}
+class saṃvattati {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟vattamāna
+english(leads to)
+}
+sentence *-- cittaṃ
+sentence *-- bhikkhave
+sentence *-- adantaṃ
+sentence *-- mahato
+sentence *-- anatthāya
+sentence *-- saṃvattati
+anatthāya &amp;lt;-- mahato
+anatthāya &amp;lt;-- saṃvattati
+adantaṃ -- cittaṃ
+cittaṃ --&amp;gt; saṃvattati&lt;/pre>
+&lt;pre class="mermaid">classDiagram
+namespace adjective {
+class adantaṃ {
+&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
+👤2️⃣
+english(unrestrained)
+}
+class dantaṃ {
+&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
+👤2️⃣
+english(restrained)
+}
+class aguttaṃ {
+&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
+👤2️⃣
+english(unguarded)
+}
+class guttaṃ {
+&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
+👤2️⃣
+english(guarded)
+}
+class arakkhitaṃ {
+&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
+👤2️⃣
+english(unprotected)
+}
+class rakkhitaṃ {
+&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
+👤2️⃣
+english(protected)
+}
+}
+namespace result {
+class anatthāya {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤6️⃣
+english(of harm)
+}
+class atthāya {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤6️⃣
+english(of benefit)
+}
+}
+adantaṃ .. anatthāya
+aguttaṃ .. anatthāya
+arakkhitaṃ .. anatthāya
+dantaṃ .. atthāya
+guttaṃ .. atthāya
+rakkhitaṃ .. atthāya&lt;/pre>
+&lt;pre class="mermaid">sequenceDiagram
+participant ahaṃ as (ahaṃ)
+participant citta
+participant harm as mahato anatthāya
+participant benefit as mahato atthāya
+ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
+citta -&amp;gt;&amp;gt; harm : adantaṃ saṃvattati
+ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
+citta -&amp;gt;&amp;gt; benefit : dantaṃ saṃvattati
+ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
+citta -&amp;gt;&amp;gt; harm : aguttaṃ saṃvattati
+ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
+citta -&amp;gt;&amp;gt; benefit : guttaṃ saṃvattati
+ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
+citta -&amp;gt;&amp;gt; harm : arakkhitaṃ saṃvattati
+ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
+citta -&amp;gt;&amp;gt; benefit : rakkhitaṃ saṃvattati
+ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
+citta -&amp;gt;&amp;gt; harm : adantaṃ aguttaṃ arakkhitaṃ saṃvattati
+ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
+citta -&amp;gt;&amp;gt; benefit : dantaṃ guttaṃ rakkhitaṃ saṃvattati&lt;/pre>
+&lt;pre class="mermaid">stateDiagram-v2
+state fork1 &amp;lt;&amp;lt;fork&amp;gt;&amp;gt;
+state join1 &amp;lt;&amp;lt;join&amp;gt;&amp;gt;
+state fork2 &amp;lt;&amp;lt;fork&amp;gt;&amp;gt;
+state join2 &amp;lt;&amp;lt;join&amp;gt;&amp;gt;
+state &amp;#34;mahato anatthāya&amp;#34; as harm
+state &amp;#34;mahato atthāya&amp;#34; as benefit
+[*] --&amp;gt; fork1 : citta
+fork1 --&amp;gt; adantaṃ
+fork1 --&amp;gt; aguttaṃ
+fork1 --&amp;gt; arakkhitaṃ
+adantaṃ --&amp;gt; join1
+aguttaṃ --&amp;gt; join1
+arakkhitaṃ --&amp;gt; join1
+join1 --&amp;gt; harm : saṃvattati
+[*] --&amp;gt; fork2 : citta
+fork2 --&amp;gt; dantaṃ
+fork2 --&amp;gt; guttaṃ
+fork2 --&amp;gt; rakkhitaṃ
+dantaṃ --&amp;gt; join2
+guttaṃ --&amp;gt; join2
+rakkhitaṃ --&amp;gt; join2
+join2 --&amp;gt; benefit : saṃvattati&lt;/pre></description></item><item><title>Docs: nīvaraṇappahānavaggo</title><link>https://christham.net/buddhavacana/docs/sutta/a%E1%B9%85guttaranik%C4%81yo/ekakanip%C4%81tap%C4%81%E1%B8%B7i/n%C4%ABvara%E1%B9%87appah%C4%81navaggo/</link><pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/a%E1%B9%85guttaranik%C4%81yo/ekakanip%C4%81tap%C4%81%E1%B8%B7i/n%C4%ABvara%E1%B9%87appah%C4%81navaggo/</guid><description>
+&lt;p>AN 1.2 11-20:&lt;/p>
+&lt;blockquote>
+&lt;ol start="11">
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā kāmacchando uppajjati uppanno vā kāmacchando bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, subhanimittaṃ. subhanimittaṃ, bhikkhave, ayoniso manasi karoto anuppanno ceva kāmacchando uppajjati uppanno ca kāmacchando bhiyyobhāvāya vepullāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā byāpādo uppajjati uppanno vā byāpādo bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, paṭighanimittaṃ. paṭighanimittaṃ, bhikkhave, ayoniso manasi karoto anuppanno ceva byāpādo uppajjati uppanno ca byāpādo bhiyyobhāvāya vepullāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannaṃ vā thinamiddhaṃ uppajjati uppannaṃ vā thinamiddhaṃ bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, arati tandī vijambhitā bhattasammado cetaso ca līnattaṃ. līnacittassa, bhikkhave, anuppannañceva thinamiddhaṃ uppajjati uppannañca thinamiddhaṃ bhiyyobhāvāya vepullāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannaṃ vā uddhaccakukkuccaṃ uppajjati uppannaṃ vā uddhaccakukkuccaṃ bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, cetaso avūpasamo. avūpasantacittassa, bhikkhave, anuppannañceva uddhaccakukkuccaṃ uppajjati uppannañca uddhaccakukkuccaṃ bhiyyobhāvāya vepullāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannā vā vicikicchā uppajjati uppannā vā vicikicchā bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, ayonisomanasikāro. ayoniso, bhikkhave, manasi karoto anuppannā ceva vicikicchā uppajjati uppannā ca vicikicchā bhiyyobhāvāya vepullāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā kāmacchando nuppajjati uppanno vā kāmacchando pahīyati yathayidaṃ, bhikkhave, asubhanimittaṃ. asubhanimittaṃ, bhikkhave, yoniso manasi karoto anuppanno ceva kāmacchando nuppajjati uppanno ca kāmacchando pahīyatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā byāpādo nuppajjati uppanno vā byāpādo pahīyati yathayidaṃ, bhikkhave, mettā cetovimutti. mettaṃ, bhikkhave, cetovimuttiṃ yoniso manasi karoto anuppanno ceva byāpādo nuppajjati uppanno ca byāpādo pahīyatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannaṃ vā thinamiddhaṃ nuppajjati uppannaṃ vā thinamiddhaṃ pahīyati yathayidaṃ, bhikkhave, ārambhadhātu nikkamadhātu parakkamadhātu. āraddhavīriyassa, bhikkhave, anuppannañceva thinamiddhaṃ nuppajjati uppannañca thinamiddhaṃ pahīyatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannaṃ vā uddhaccakukkuccaṃ nuppajjati uppannaṃ vā uddhaccakukkuccaṃ pahīyati yathayidaṃ, bhikkhave, cetaso vūpasamo. vūpasantacittassa, bhikkhave, anuppannañceva uddhaccakukkuccaṃ nuppajjati uppannañca uddhaccakukkuccaṃ pahīyatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannā vā vicikicchā nuppajjati uppannā vā vicikicchā pahīyati yathayidaṃ, bhikkhave, yonisomanasikāro. yoniso, bhikkhave, manasi karoto anuppannā ceva vicikicchā nuppajjati uppannā ca vicikicchā pahīyatī&amp;quot;ti.&lt;/li>
+&lt;/ol>
+&lt;/blockquote>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā kāmacchando uppajjati [n&amp;#39;] uppanno vā kāmacchando [bhiyyobhāvāya vepullāya/pahīyati] saṃvattati yathayidaṃ, bhikkhave, [subhanimittaṃ/asubhanimittaṃ]&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(I don&amp;#39;t perceive, bhikkhus, yet another thing which [does not] leads to sensual desire arising [from nonexistence] when it appears, or sensual desire [increasing when it grows/ceasing], as this, bhikkhus, [beauty/repulsiveness].)
+}
+class na {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(not)
+}
+class ahaṃ {
+&amp;lt;&amp;lt;puggalanāma&amp;gt;&amp;gt;
+english(I)
+}
+class bhikkhave {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👥0️⃣
+}
+class aññaṃ {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(other)
+}
+class ekadhammaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(one thing)
+}
+class pi {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(too)
+}
+class samanupassāmi {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤👆vattamāna
+english(I perceive)
+}
+class yena {
+&amp;lt;&amp;lt;anvayīnāma&amp;gt;&amp;gt;
+🚻👤2️⃣
+english(by when)
+}
+namespace result {
+class kāmacchando {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(sensual desire)
+}
+}
+namespace alternates {
+class vā {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(or)
+}
+class anuppanno {
+&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(nonexistent)
+}
+class uppajjati {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟vattamāna
+english(arises)
+}
+class uppanno {
+&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(appeared)
+}
+class bhiyyobhāvāya {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤4️⃣
+english(increase of)
+}
+class vepullāya {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚻👤4️⃣
+english(growth of)
+}
+}
+class saṃvattati {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟vattamāna
+english(leads to)
+}
+class yatha {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(as)
+}
+class idaṃ {
+&amp;lt;&amp;lt;puggalanāma&amp;gt;&amp;gt;
+🚻👤2️⃣
+english(this)
+}
+namespace trigger {
+class subhanimittaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚻👤2️⃣
+english(beauty)
+}
+class asubhanimittaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚻👤1️⃣
+english(repulsiveness)
+}
+}
+sentence *-- na
+sentence *-- ahaṃ : kattar
+sentence *-- bhikkhave
+sentence *-- aññaṃ
+sentence *-- ekadhammaṃ
+sentence *-- pi
+sentence *-- samanupassāmi : kiriyā
+sentence *-- yena
+sentence *-- vā
+sentence *-- anuppanno
+sentence *-- kāmacchando
+sentence *-- uppajjati
+sentence *-- uppanno
+sentence *-- bhiyyobhāvāya
+sentence *-- vepullāya
+sentence *-- saṃvattati
+sentence *-- yatha
+sentence *-- idaṃ
+sentence *-- subhanimittaṃ
+na -- samanupassāmi
+aññaṃ .. ekadhammaṃ
+ahaṃ --&amp;gt; samanupassāmi : kattar
+ekadhammaṃ --&amp;gt; samanupassāmi : kamma
+ekadhammaṃ .. idaṃ
+pi .. ekadhammaṃ
+yena &amp;lt;.. ekadhammaṃ
+yena ..&amp;gt; anuppanno
+yatha .. idaṃ
+kāmacchando --&amp;gt; uppajjati : kattar
+kāmacchando --&amp;gt; bhiyyobhāvāya
+uppajjati --&amp;gt; uppanno
+bhiyyobhāvāya --&amp;gt; vepullāya
+anuppanno &amp;lt;-- saṃvattati
+uppanno &amp;lt;-- saṃvattati
+vepullāya &amp;lt;-- saṃvattati
+idaṃ -- subhanimittaṃ
+subhanimittaṃ --&amp;gt; saṃvattati&lt;/pre>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;[subhanimittaṃ/asubhanimittaṃ], bhikkhave, ayoniso manasi karoto anuppanno ceva kāmacchando [n&amp;#39;] uppajjati uppanno ca kāmacchando [bhiyyobhāvāya vepullāya/pahīyati] saṃvattatī&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english([Beauty/Repulsiveness], bhikkhus, when [a person] dwells on it imprudently, [does not] leads to sensual desire arising [from nonexistence] when it appears, and sensual desire [increasing when it grows/ceasing].)
+}
+namespace trigger {
+class subhanimittaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚻👤1️⃣
+english(beauty)
+}
+}
+class bhikkhave {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👥0️⃣
+}
+class ayoniso {
+&amp;lt;&amp;lt;kriyā&amp;gt;&amp;gt;
+english(imprudently)
+}
+class manasi {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(mind)
+}
+class karoto {
+&amp;lt;&amp;lt;missakiriya&amp;gt;&amp;gt;
+👤1️⃣
+english(doing)
+}
+namespace result {
+class kāmacchando {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(sensual desire)
+}
+}
+class ceva {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(but then)
+}
+namespace conjunction {
+class ca {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(and)
+}
+class anuppanno {
+&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(nonexistent)
+}
+class uppajjati {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟vattamāna
+english(arises)
+}
+class uppanno {
+&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(appeared)
+}
+class bhiyyobhāvāya {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤4️⃣
+english(increase of)
+}
+class vepullāya {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚻👤4️⃣
+english(growth of)
+}
+}
+class saṃvattati {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟vattamāna
+english(leads to)
+}
+sentence *-- subhanimittaṃ
+sentence *-- bhikkhave
+sentence *-- ayoniso
+sentence *-- manasi
+sentence *-- karoto
+sentence *-- ceva
+sentence *-- ca
+sentence *-- anuppanno
+sentence *-- kāmacchando
+sentence *-- uppajjati
+sentence *-- uppanno
+sentence *-- bhiyyobhāvāya
+sentence *-- vepullāya
+sentence *-- saṃvattati
+ayoniso --&amp;gt; karoto
+manasi --&amp;gt; karoto
+karoto ..&amp;gt; ceva
+ceva ..&amp;gt; anuppanno
+kāmacchando --&amp;gt; uppajjati : kattar
+kāmacchando --&amp;gt; bhiyyobhāvāya
+uppajjati --&amp;gt; uppanno
+bhiyyobhāvāya --&amp;gt; vepullāya
+anuppanno &amp;lt;-- saṃvattati
+uppanno &amp;lt;-- saṃvattati
+vepullāya &amp;lt;-- saṃvattati
+subhanimittaṃ --&amp;gt; saṃvattati
+subhanimittaṃ --&amp;gt; karoto&lt;/pre>
+&lt;pre class="mermaid">classDiagram
+class līnacitta[&amp;#34;arati tandī vijambhitā bhattasammado cetaso ca līnattaṃ&amp;#34;] {
+&amp;lt;&amp;lt;pada&amp;gt;&amp;gt;
+english(thoughts of boredom, laziness, sleepiness, food coma and sluggishness)
+}
+class avūpasantacitta[&amp;#34;cetaso avūpasamo&amp;#34;] {
+&amp;lt;&amp;lt;pada&amp;gt;&amp;gt;
+english(thoughts of agitation)
+}
+class ayonisomanasikāro {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(imprudent use of mind)
+}
+namespace trigger {
+class subhanimittaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚻👤1️⃣
+english(beauty)
+}
+class paṭighanimittaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚻👤1️⃣
+english(dislike)
+}
+class līnacittassa {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚻👤6️⃣
+english(of sluggish mind)
+}
+class avūpasantacittassa {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚻👤6️⃣
+english(of agitated mind)
+}
+class ayoniso {
+&amp;lt;&amp;lt;kriyā&amp;gt;&amp;gt;
+english(imprudently)
+}
+}
+namespace result {
+class kāmacchando {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(sensual desire)
+}
+class byāpādo {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(ill will)
+}
+class thinamiddhaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚻👤1️⃣
+english(sloth and torpor)
+}
+class uddhaccakukkuccaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚻👤1️⃣
+english(restlessness and fidgetiness)
+}
+class vicikicchā {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚺👤1️⃣
+english(doubt)
+}
+}
+namespace nontrigger {
+class asubhanimittaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚻👤1️⃣
+english(repulsiveness)
+}
+class mettaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚻👤1️⃣
+english(benevolence)
+}
+class āraddhavīriyassa {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚻👤6️⃣
+english(who is energetic)
+}
+class vūpasantacittassa {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚻👤6️⃣
+english(of calm mind)
+}
+class yoniso {
+&amp;lt;&amp;lt;kriyā&amp;gt;&amp;gt;
+english(prudently)
+}
+}
+subhanimittaṃ .. kāmacchando
+kāmacchando .. asubhanimittaṃ
+paṭighanimittaṃ .. byāpādo
+byāpādo .. mettaṃ
+līnacitta .. līnacittassa
+līnacittassa .. thinamiddhaṃ
+thinamiddhaṃ .. āraddhavīriyassa
+avūpasantacitta .. avūpasantacittassa
+avūpasantacittassa .. uddhaccakukkuccaṃ
+uddhaccakukkuccaṃ .. vūpasantacittassa
+ayonisomanasikāro .. ayoniso
+ayoniso .. vicikicchā
+vicikicchā .. yoniso&lt;/pre></description></item><item><title>Docs: Cittasangahavibhāga</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta/</link><pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta/</guid><description>
+&lt;p>Tattha cittaṁ tāva catubbidhaṁ hoti:&lt;/p>
+&lt;ol>
+&lt;li>kāmāvacaraṁ;&lt;/li>
+&lt;li>rūpā-vacaraṁ;&lt;/li>
+&lt;li>arūpāvacaraṁ;&lt;/li>
+&lt;li>lokuttarañ cā ti.&lt;/li>
+&lt;/ol>
+&lt;dl>
+&lt;dt>lakkhaṇa (salient quality)&lt;/dt>
+&lt;dd>vijānana (knowing of an object)&lt;/dd>
+&lt;dt>rasa (function), kicca (performance of a concrete task), sampatti (achievement of a goal)&lt;/dt>
+&lt;dd>pubbangama (forerunner of mental factors)&lt;/dd>
+&lt;dt>paccupaṭṭhāna (manifestation)&lt;/dt>
+&lt;dd>sandhāna (continuity of process)&lt;/dd>
+&lt;dt>padaṭṭhāna (proximate cause)&lt;/dt>
+&lt;dd>nāmarūpa (mind and matter)&lt;/dd>
+&lt;/dl>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+package &amp;#34;jāti (nature)&amp;#34; as jati {
+class kusala {
+Karmically wholesome
+}
+class akusala {
+Karmically unwholesome
+}
+package avyākata {
+class vipāka {
+Karmic resultant
+}
+class kiriya {
+Functional
+}
+}
+}
+package &amp;#34;kāmāvacara (Sense Sphere)&amp;#34; as kamavacara {
+class sobhana {
+Beautiful
+..
+#kusala/vipāka/kiriya
+#somanassa/upekkhā
+#+/- ñāṇa
+#asaṁkhārika/sasaṁkhārika
+}
+class kusalavipāka &amp;lt;&amp;lt;enum&amp;gt;&amp;gt; {
+Wholesome-Resultant
+..
+cakkhuviññāṇa + upekkhā (eye)
+sotaviññāṇa + upekkhā (ear)
+ghānaviññāṇa + upekkhā (nose)
+jivhāviññāṇa + upekkhā (tongue)
+kāyaviññāṇa + sukkha (body)
+sampaṭicchanacitta + upekkhā (receiving)
+santīraṇacitta + somanassa (investigating)
+santīraṇacitta + upekkhā (investigating)
+}
+class dosa {
+Hatred
+..
++domanassa
++paṭigha
+#asaṁkhārika/sasaṁkhārika
+}
+class lobha {
+Greed
+..
+#somanassa/upekkhā
+#+/- diṭṭhigata
+#asaṁkhārika/sasaṁkhārika
+}
+class moha {
+Delusion
+..
+#upekkhā
++vicikicchā/uddhacca
+}
+class akusalavipāka &amp;lt;&amp;lt;enum&amp;gt;&amp;gt; {
+Unwholesome-Resultant
+..
+cakkhuviññāṇa + upekkhā (eye)
+sotaviññāṇa + upekkhā (ear)
+ghānaviññāṇa + upekkhā (nose)
+jivhāviññāṇa + upekkhā (tongue)
+kāyaviññāṇa + dukkha (body)
+sampaṭicchanacitta + upekkhā (receiving)
+santīraṇacitta + upekkhā (investigating)
+}
+class ahetukakiriya &amp;lt;&amp;lt;enum&amp;gt;&amp;gt; {
+Functional
+..
+pañcadvārāvajjanacitta + upekkhā (sense door)
+manodvārāvajjanacitta + upekkhā (mind door)
+hasituppādacitta + somanassa (smile producing)
+}
+}
+class domanassa {
+displeasure
+}
+class paṭigha {
+aversion
+}
+class somanassa {
+joy
+}
+class upekkhā {
+equanimity
+}
+class sukkha {
+pleasure
+}
+class dukkha {
+pain
+}
+class ñāṇa {
+knowledge
+}
+class diṭṭhigata {
+wrong view
+}
+class vicikicchā {
+doubt
+}
+class uddhacca {
+restlessness
+}
+kiriya *-- &amp;#34;3&amp;#34; ahetukakiriya
+kiriya *-- &amp;#34;8&amp;#34; sobhana
+vipāka *-- &amp;#34;7&amp;#34; akusalavipāka
+vipāka *-- &amp;#34;8&amp;#34; kusalavipāka
+vipāka *-- &amp;#34;8&amp;#34; sobhana
+kusala *-- &amp;#34;8&amp;#34; sobhana : mūla
+kusala *-- &amp;#34;8&amp;#34; kusalavipāka : ahetuka
+akusala *-- &amp;#34;7&amp;#34; akusalavipāka : ahetuka
+akusalavipāka --&amp;gt; upekkhā : sahagata
+akusalavipāka --&amp;gt; dukkha : sahagata
+kusalavipāka --&amp;gt; upekkhā : sahagata
+kusalavipāka --&amp;gt; sukkha : sahagata
+kusalavipāka --&amp;gt; somanassa : sahagata
+sobhana --&amp;gt; somanassa : sahagata
+sobhana --&amp;gt; upekkhā : sahagata
+sobhana --+ ñāṇa : sampayutta
+akusala *-- &amp;#34;8&amp;#34; lobha : mūla
+akusala *-- &amp;#34;2&amp;#34; dosa : mūla
+akusala *-- &amp;#34;2&amp;#34; moha : mūla
+dosa --&amp;gt; domanassa : sahagata
+dosa --+ paṭigha : sampayutta
+lobha --+ diṭṭhigata : sampayutta
+lobha --&amp;gt; somanassa : sahagata
+lobha --&amp;gt; upekkhā : sahagata
+moha --+ vicikicchā : sampayutta
+moha --+ uddhacca : sampayutta
+moha --&amp;gt; upekkhā : sahagata
+@enduml
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+package &amp;#34;jāti (nature)&amp;#34; as jati {
+class kusala {
+Karmically wholesome
+}
+class akusala {
+Karmically unwholesome
+}
+package avyākata {
+class vipāka {
+Karmic resultant
+}
+class kiriya {
+Functional
+}
+}
+}
+package &amp;#34;rūpāvacara (Fine Material Sphere)&amp;#34; as rupavacara {
+class rūpāvacaracitta {
+Fine Material
+..
+#kusala/vipāka/kiriya
+1. Vitakka-vicāra-pīti-sukh’-ekaggatā-sahitaṁ paṭhamajjhāna
+2. Vicāra-pīti-sukh’-ekaggatā-sahitaṁ dutiyajjhāna
+3. Pīti-sukh’-ekaggatā-sahitaṁ tatiyajjhāna
+4. Sukh’-ekaggatā-sahitaṁ catutthajjhāna
+5. Upekkh’-ekaggatā-sahitaṁ pañcamajjhāna
+}
+}
+class vitakka {
+Initial application
+}
+class vicāra {
+Sustained application
+}
+class pīti {
+zest
+}
+class sukkha {
+happiness
+}
+class upekkhā {
+equanimity
+}
+class ekaggatā {
+one-pointedness
+}
+kusala *-- &amp;#34;5&amp;#34; rūpāvacaracitta
+vipāka *-- &amp;#34;5&amp;#34; rūpāvacaracitta
+kiriya *-- &amp;#34;5&amp;#34; rūpāvacaracitta
+rūpāvacaracitta --&amp;gt; vitakka
+rūpāvacaracitta --&amp;gt; vicāra
+rūpāvacaracitta --&amp;gt; pīti
+rūpāvacaracitta --&amp;gt; sukkha
+rūpāvacaracitta --&amp;gt; upekkhā
+rūpāvacaracitta --&amp;gt; ekaggatā
+package &amp;#34;arūpāvacara (Immaterial Sphere)&amp;#34; as arupavacara {
+class arūpāvacaracitta {
+Immaterial
+..
+#kusala/vipāka/kiriya
+1. Ākāsānañcāyatana
+2. Viññāṇañcāyatana
+3. Ākiñcaññāyatana
+4. N’evasaññān’āsaññāyatana
+}
+}
+class Ākāsānañcāyatana {
+Infinity of Space
+}
+class Viññāṇañcāyatana {
+Infinity of Consciousness
+}
+class Ākiñcaññāyatana {
+Nothingness
+}
+class &amp;#34;N’evasaññān’āsaññāyatana&amp;#34; {
+Neither perception nor non perception
+}
+kusala *-- &amp;#34;4&amp;#34; arūpāvacaracitta
+vipāka *-- &amp;#34;4&amp;#34; arūpāvacaracitta
+kiriya *-- &amp;#34;4&amp;#34; arūpāvacaracitta
+arūpāvacaracitta --&amp;gt; Ākāsānañcāyatana
+arūpāvacaracitta --&amp;gt; Viññāṇañcāyatana
+arūpāvacaracitta --&amp;gt; Ākiñcaññāyatana
+arūpāvacaracitta --&amp;gt; &amp;#34;N’evasaññān’āsaññāyatana&amp;#34;
+package &amp;#34;lokuttarañ (Supramundane)&amp;#34; as lokuttaran {
+class lokuttaracitta {
+Supra Mundane
+..
+#magga/phala
+#jhána (5)
+1. Sotāpatti
+2. Sakadāgāmī
+3. Anāgāmī
+4. Arahatta
+}
+}
+class sotāpatti {
+stream entry
+}
+class sakadāgāmī {
+once returning
+}
+class anāgāmī {
+non-returning
+}
+class arahatta {
+arahantship
+}
+kusala *-- &amp;#34;4 (x5)&amp;#34; lokuttaracitta
+vipāka *-- &amp;#34;4 (x5)&amp;#34; lokuttaracitta
+lokuttaracitta --&amp;gt; sotāpatti
+lokuttaracitta --&amp;gt; sakadāgāmī
+lokuttaracitta --&amp;gt; anāgāmī
+lokuttaracitta --&amp;gt; arahatta
+@enduml
+&lt;/code>&lt;/pre>&lt;h2 id="cittasangahavibhāga-89">cittasangahavibhāga 89&lt;/h2>
+&lt;div id="observablehq-sunburst-05b62c03">&lt;/div>
+&lt;div id="observablehq-hierarchy-05b62c03">&lt;/div>
+&lt;div id="observablehq-icicle-05b62c03">&lt;/div>
+&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+&lt;script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/6a38e27b43175761@163.js?v=3";
+new Runtime().module(define, name => {
+if (name === "sunburst") return new Inspector(document.querySelector("#observablehq-sunburst-05b62c03"));
+if (name === "hierarchy") return new Inspector(document.querySelector("#observablehq-hierarchy-05b62c03"));
+if (name === "icicle") return new Inspector(document.querySelector("#observablehq-icicle-05b62c03"));
+});
+&lt;/script>
+&lt;h2 id="cittasangahavibhāga-121">cittasangahavibhāga 121&lt;/h2>
+&lt;div id="observablehq-sunburst-1ca97e32">&lt;/div>
+&lt;div id="observablehq-hierarchy-1ca97e32">&lt;/div>
+&lt;div id="observablehq-icicle-1ca97e32">&lt;/div>
+&lt;script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/fcdbb41494ddc64e@126.js?v=3";
+new Runtime().module(define, name => {
+if (name === "sunburst") return new Inspector(document.querySelector("#observablehq-sunburst-1ca97e32"));
+if (name === "hierarchy") return new Inspector(document.querySelector("#observablehq-hierarchy-1ca97e32"));
+if (name === "icicle") return new Inspector(document.querySelector("#observablehq-icicle-1ca97e32"));
+});
+&lt;/script></description></item><item><title>Docs: Cetasikasangahavibhāga</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/cetasika/</link><pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/cetasika/</guid><description>
+&lt;p>Ekuppāda-nirodhā ca ekālambana-vatthukā&lt;br>
+Cetoyuttā dvipaññāsa dhammā cetasikā matā.&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startmindmap
+*:==aññasamānacetasika
+----
+Ethically Variable Factors;
+**:===sabbacittasādhāraṇa
+----
+Universals;
+***_ 1. Contact (phassa)
+***_ 2. Feeling (vedanā)
+***_ 3. Perception (saññā)
+***_ 4. Volition (cetanā)
+***_ 5. One-pointedness (ekaggatā)
+***_ 6. Mental life faculty (jīvitindriya)
+***_ 7. Attention (manasikāra)
+**:===pakiṇṇaka
+----
+Occasionals;
+***_ 8. Initial application (vitakka)
+***_ 9. Sustained application (vicāra)
+***_ 10. Decision (adhimokkha)
+***_ 11. Energy (viriya)
+***_ 12. Zest (pīti)
+***_ 13. Desire (chanda)
+*:==akusalacetasika
+----
+Unwholesome Factors;
+**:===sabbacittasādhāraṇa
+----
+Universals;
+***_ 14. Delusion (moha)
+***_ 15. Shamelessness (ahirika)
+***_ 16. fearlessness of wrongdoing (anottappa)
+***_ 17. Restlessness (uddhacca)
+**:===pakiṇṇaka
+----
+Occasionals;
+***_ 18. Greed (lobha)
+***_ 19. Wrong view (diṭṭhi)
+***_ 20. Conceit (māna)
+***_ 21. Hatred (dosa)
+***_ 22. Envy (issā)
+***_ 23. Avarice (macchariya)
+***_ 24. Worry (kukkucca)
+***_ 25. Sloth (thīna)
+***_ 26. Torpor (middha)
+***_ 27. Doubt (vicikicchā)
+*:==sobhanacetasika
+----
+Beautiful Factors;
+**:===sobhanasādhāraṇa
+----
+Universals;
+***_ 28. Faith (saddhā)
+***_ 29. Mindfulness (sati)
+***_ 30. Shame (hiri)
+***_ 31. fear of wrongdoing (ottappa)
+***_ 32. Non-greed (alobha)
+***_ 33. Non-hatred (adosa)
+***_ 34. Neutrality of mind (tatramajjhattatā)
+***_ 35. Tranquillity of the (mental) body (kāyapassaddhi)
+***_ 36. Tranquillity of consciousness (cittapassaddhi)
+***_ 37. Lightness of the (mental) body (kāyalahutā)
+***_ 38. Lightness of consciousness (cittalahutā)
+***_ 39. Malleability of the (mental) body (kāyamudutā)
+***_ 40. Malleability of consciousness (cittamudutā)
+***_ 41. Wieldiness of the (mental) body (kāyakammaññatā)
+***_ 42. Wieldiness of consciousness (cittakammaññatā)
+***_ 43. Proficiency of the (mental) body (kāyapāguññatā)
+***_ 44. Proficiency of consciousness (cittapāguññatā)
+***_ 45. Rectitude of the (mental) body (kāyujjukatā)
+***_ 46. Rectitude of consciousness (cittujjukatā)
+**:===virati
+----
+Abstinences;
+***_ 47. Right speech (sammāvācā)
+***_ 48. Right action (sammākammanta)
+***_ 49. Right livelihood (sammā-ājīva)
+**:===appamaññā
+----
+Illimitables;
+***_ 50. Compassion (karuṇā)
+***_ 51. Appreciative joy (muditā)
+**:===amoha
+----
+Non-Delusion;
+***_ 52. wisdom faculty (paññā)
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class appamaññā {
+Illimitables
+}
+class brahmavihāra {
+divine abodes
+sublime states
+}
+class tatramajjhattatā {
+neutrality of mind
+}
+class upekkhā {
+equanimity
+}
+adosa &amp;lt;|-- mettā
+tatramajjhattatā &amp;lt;|-- upekkhā
+appamaññā &amp;lt;|-- upekkhā
+appamaññā &amp;lt;|-- mettā
+appamaññā &amp;lt;|-- karuṇā
+appamaññā &amp;lt;|-- muditā
+brahmavihāra &amp;lt;--&amp;gt; appamaññā
+class mettā {
+loving-kindness
+}
+class karuṇā {
+compassion
+}
+class muditā {
+appreciative joy
+}
+class dosa {
+hatred
+}
+class adosa {
+non-hatred
+}
+dosa &amp;lt;-&amp;gt; adosa
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class moha {
+delusion
+}
+class amoha {
+nondelusion
+}
+class ñāna {
+knowledge
+}
+class paññā {
+wisdom
+}
+moha &amp;lt;-&amp;gt; amoha
+amoha &amp;lt;|-- ñāna
+amoha &amp;lt;|-- paññā
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class ahiri {
+shamelessness
+}
+class hiri {
+shame
+}
+ahiri &amp;lt;-&amp;gt; hiri
+class anottappa {
+fearlessness of wrongdoing
+}
+class ottappa {
+fear of wrongdoing
+}
+anottappa &amp;lt;-&amp;gt; ottappa
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class lobha {
+greed
+}
+class alobha {
+non-greed
+}
+alobha &amp;lt;-&amp;gt; lobha
+class vicikicchā {
+doubt
+}
+class saddhā {
+faith
+}
+vicikicchā &amp;lt;-&amp;gt; saddhā
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class viriya {
+energy
+}
+class lahutā {
+lightness
+}
+class thīna {
+sloth
+}
+class middha {
+torpor
+}
+viriya &amp;lt;-&amp;gt; thīna
+thīna &amp;lt;-&amp;gt; lahutā
+lahutā &amp;lt;-&amp;gt; middha
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class uddhacca {
+restlessness
+}
+class kukkucca {
+worry
+}
+class passaddhi {
+tranquility
+}
+uddhacca &amp;lt;-&amp;gt; passaddhi
+passaddhi &amp;lt;-&amp;gt; kukkucca
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class diṭṭhi {
+wrong view
+}
+class māna {
+conceit
+}
+class mudutā {
+malleability
+}
+diṭṭhi &amp;lt;-&amp;gt; mudutā
+mudutā &amp;lt;-&amp;gt; māna
+@endmindmap
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
+hide circle
+hide empty members
+class virati {
+abstinences
+}
+class sampattavirati {
+natural abstinence
+}
+class samādānavirati {
+abstinence by undertaking precepts
+}
+class sammucchedavirati {
+abstinence by eradication
+}
+virati *-- sampattavirati
+virati *-- samādānavirati
+virati *-- sammucchedavirati
+@enduml
+&lt;/code>&lt;/pre>&lt;div id="observablehq-sunburst-eb65fb96">&lt;/div>
+&lt;div id="observablehq-hierarchy-eb65fb96">&lt;/div>
+&lt;div id="observablehq-icicle-eb65fb96">&lt;/div>
+&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+&lt;script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/ba3e05233de6427b@144.js?v=3";
+new Runtime().module(define, name => {
+if (name === "sunburst") return new Inspector(document.querySelector("#observablehq-sunburst-eb65fb96"));
+if (name === "hierarchy") return new Inspector(document.querySelector("#observablehq-hierarchy-eb65fb96"));
+if (name === "icicle") return new Inspector(document.querySelector("#observablehq-icicle-eb65fb96"));
+});
+&lt;/script></description></item><item><title>Docs: Citta-Cetasika</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta-cetasika/</link><pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta-cetasika/</guid><description>
+&lt;ul>
+&lt;li>cetasikasampayoganaya (Association of Mental Factors)&lt;/li>
+&lt;li>cetasikasangahanaya (Combinations of Mental Factors)&lt;/li>
+&lt;/ul>
+&lt;div id="observablehq-scatter-dc43f51f">&lt;/div>
+&lt;div id="observablehq-viewof-linkColor-dc43f51f">&lt;/div>
+&lt;div id="observablehq-viewof-nodeAlign-dc43f51f">&lt;/div>
+&lt;div id="observablehq-chart-dc43f51f">&lt;/div>
+&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+&lt;script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/4922cbb38cfb4fda@235.js?v=3";
+new Runtime().module(define, name => {
+if (name === "scatter") return new Inspector(document.querySelector("#observablehq-scatter-dc43f51f"));
+if (name === "viewof linkColor") return new Inspector(document.querySelector("#observablehq-viewof-linkColor-dc43f51f"));
+if (name === "viewof nodeAlign") return new Inspector(document.querySelector("#observablehq-viewof-nodeAlign-dc43f51f"));
+if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-dc43f51f"));
+});
+&lt;/script>
+&lt;div id="observablehq-chart-e0b8e564">&lt;/div>
+&lt;script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/0e0e7e12ffc669a7.js?v=3";
+new Runtime().module(define, name => {
+if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-e0b8e564"));
+});
+&lt;/script></description></item><item><title>Docs: kiccasangaha</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/kicca/</link><pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/kicca/</guid><description>
+&lt;pre class="mermaid">stateDiagram-v2
+direction TB
+classDef notMoving fill:white
+classDef movement font-style:italic
+classDef badBadEvent fill:#f00,color:white,font-weight:bold,stroke-width:2px,stroke:yellow
+paṭisandhi --&amp;gt; bhavanga
+bhavanga --&amp;gt; bhavanga
+bhavanga --&amp;gt; pañcadvāravīthi
+State pañcadvāravīthi {
+bhavangacalana: bhavanga-calana
+bhavangupaccheda: bhavang’-upaccheda
+javana: javana x7
+tadārammaṇa: tadārammaṇa x2
+bhavangacalana --&amp;gt; bhavangupaccheda
+bhavangupaccheda --&amp;gt; pañcadvārāvajjana
+state fork_state &amp;lt;&amp;lt;fork&amp;gt;&amp;gt;
+pañcadvārāvajjana --&amp;gt; fork_state
+fork_state --&amp;gt; cakkhuviññāṇaṁ
+fork_state --&amp;gt; sotaviññāṇaṁ
+fork_state --&amp;gt; ghānaviññāṇaṁ
+fork_state --&amp;gt; jivhāviññāṇaṁ
+fork_state --&amp;gt; kāyaviññāṇaṁ
+state join_state &amp;lt;&amp;lt;join&amp;gt;&amp;gt;
+cakkhuviññāṇaṁ --&amp;gt; join_state
+sotaviññāṇaṁ --&amp;gt; join_state
+ghānaviññāṇaṁ --&amp;gt; join_state
+jivhāviññāṇaṁ --&amp;gt; join_state
+kāyaviññāṇaṁ --&amp;gt; join_state
+join_state --&amp;gt; sampaṭicchana
+sampaṭicchana --&amp;gt; santīraṇa
+santīraṇa --&amp;gt; votthapana
+votthapana --&amp;gt; javana
+javana --&amp;gt; tadārammaṇa
+}
+pañcadvāravīthi --&amp;gt; bhavanga
+bhavanga--&amp;gt; cuti
+cuti --&amp;gt; paṭisandhi&lt;/pre></description></item><item><title>Docs: saraṇattaya</title><link>https://christham.net/buddhavacana/docs/sutta/khuddaka/khuddakanik%C4%81ya/khuddakap%C4%81%E1%B9%ADha/sara%E1%B9%87attaya/</link><pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/khuddaka/khuddakanik%C4%81ya/khuddakap%C4%81%E1%B9%ADha/sara%E1%B9%87attaya/</guid><description>
+&lt;p>Khp. 1:&lt;/p>
+&lt;blockquote>
+&lt;p>buddhaṃ saraṇaṃ gacchāmi,&lt;br>
+dhammaṃ saraṇaṃ gacchāmi,&lt;br>
+saṅghaṃ saraṇaṃ gacchāmi.&lt;br>
+dutiyampi buddhaṃ saraṇaṃ gacchāmi,&lt;br>
+dutiyampi dhammaṃ saraṇaṃ gacchāmi,&lt;br>
+dutiyampi saṅghaṃ saraṇaṃ gacchāmi.&lt;br>
+tatiyampi buddhaṃ saraṇaṃ gacchāmi,&lt;br>
+tatiyampi dhammaṃ saraṇaṃ gacchāmi,&lt;br>
+tatiyampi saṅghaṃ saraṇaṃ gacchāmi.&lt;/p>
+&lt;/blockquote>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;dutiyampi/tatiyampi buddhaṃ/dhammaṃ/saṅghaṃ saraṇaṃ gacchāmi&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english((For the second/third time) I go to the Buddha/Dhamma/Sangha as refuge)
+}
+namespace saṅkhyāpūraṇa {
+class dutiyaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+2️⃣
+english(second time)
+}
+class tatiyaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+2️⃣
+english(third time)
+}
+}
+class pi {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(too)
+}
+namespace saraṇa {
+class buddhaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+}
+class dhammaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+}
+class saṅghaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+}
+}
+class saraṇaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(as refuge)
+}
+class gacchāmi {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤👆vattamāna
+english(I go)
+}
+sentence *-- dutiyaṃ
+sentence *-- tatiyaṃ
+sentence *-- pi
+sentence *-- buddhaṃ : kamma
+sentence *-- dhammaṃ : kamma
+sentence *-- saṅghaṃ : kamma
+sentence *-- saraṇaṃ : kamma
+sentence *-- gacchāmi: kiriya
+buddhaṃ .. saraṇaṃ
+dhammaṃ .. saraṇaṃ
+saṅghaṃ .. saraṇaṃ&lt;/pre>
+&lt;pre class="mermaid">sequenceDiagram
+participant ahaṃ as (ahaṃ)
+participant buddhaṃ
+participant dhammaṃ
+participant saṅghaṃ
+loop (paṭhama), dutiyampi, tatiyampi
+ahaṃ -&amp;gt;&amp;gt; buddhaṃ : gacchāmi
+buddhaṃ -&amp;gt;&amp;gt; saraṇaṃ : (hoti)
+ahaṃ -&amp;gt;&amp;gt; dhammaṃ : gacchāmi
+dhammaṃ -&amp;gt;&amp;gt; saraṇaṃ : (hoti)
+ahaṃ -&amp;gt;&amp;gt; saṅghaṃ : gacchāmi
+saṅghaṃ -&amp;gt;&amp;gt; saraṇaṃ : (hoti)
+end&lt;/pre>
+&lt;pre class="mermaid">stateDiagram-v2
+state fork_state &amp;lt;&amp;lt;fork&amp;gt;&amp;gt;
+state join_state &amp;lt;&amp;lt;join&amp;gt;&amp;gt;
+[*] --&amp;gt; fork_state : gacchāmi
+fork_state --&amp;gt; buddhaṃ
+fork_state --&amp;gt; dhammaṃ
+fork_state --&amp;gt; saṅghaṃ
+buddhaṃ --&amp;gt; join_state
+dhammaṃ --&amp;gt; join_state
+saṅghaṃ --&amp;gt; join_state
+join_state --&amp;gt; saraṇaṃ
+saraṇaṃ --&amp;gt; fork_state : dutiyampi, tatiyampi&lt;/pre></description></item><item><title>Docs: A: Symbols used in this Book</title><link>https://christham.net/buddhavacana/docs/palibook/symbols/</link><pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/symbols/</guid><description>
+&lt;div class="alert alert-primary" role="alert">
+Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
+&lt;/div>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>symbol&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;th>explanation&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>🚹&lt;/td>
+&lt;td>&lt;code>pulliṅga&lt;/code>&lt;/td>
+&lt;td>major (masculine) gender&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🚻&lt;/td>
+&lt;td>&lt;code>napuṁsakaliṅga&lt;/code>&lt;/td>
+&lt;td>special (neuter) gender&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🚺&lt;/td>
+&lt;td>&lt;code>itthiliṅga&lt;/code>&lt;/td>
+&lt;td>minor (feminine) gender&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👤&lt;/td>
+&lt;td>&lt;code>ekavacana&lt;/code>&lt;/td>
+&lt;td>singular&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👥&lt;/td>
+&lt;td>&lt;code>bahuvacana&lt;/code>&lt;/td>
+&lt;td>plural&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🟢&lt;/td>
+&lt;td>&lt;code>parassapada&lt;/code>&lt;/td>
+&lt;td>active voice&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔵&lt;/td>
+&lt;td>&lt;code>attanopada&lt;/code>&lt;/td>
+&lt;td>middle voice - impersonal&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👤&lt;/td>
+&lt;td>&lt;code>ekavacana&lt;/code>&lt;/td>
+&lt;td>singular&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👥&lt;/td>
+&lt;td>&lt;code>bahuvacana&lt;/code>&lt;/td>
+&lt;td>plural&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🤟&lt;/td>
+&lt;td>&lt;code>paṭhama purisa&lt;/code>&lt;/td>
+&lt;td>first person, equivalent to &amp;rsquo;third person&amp;rsquo; in English&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🤘&lt;/td>
+&lt;td>&lt;code>majjima purisa&lt;/code>&lt;/td>
+&lt;td>middle person, equivalent to &amp;lsquo;second person&amp;rsquo; in English&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👆&lt;/td>
+&lt;td>&lt;code>uttama purisa&lt;/code>&lt;/td>
+&lt;td>primary person, equivalent to &amp;lsquo;first person&amp;rsquo; in English&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>0️⃣&lt;/td>
+&lt;td>&lt;code>ālapana&lt;/code>&lt;/td>
+&lt;td>vocative&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1️⃣&lt;/td>
+&lt;td>&lt;code>paṭhamā&lt;/code>&lt;/td>
+&lt;td>first case (nominative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2️⃣&lt;/td>
+&lt;td>&lt;code>dutiyā&lt;/code>&lt;/td>
+&lt;td>second case (accusative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3️⃣&lt;/td>
+&lt;td>&lt;code>tatiyā&lt;/code>&lt;/td>
+&lt;td>third case (instrumental)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4️⃣&lt;/td>
+&lt;td>&lt;code>catutthī&lt;/code>&lt;/td>
+&lt;td>fourth case (dative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>5️⃣&lt;/td>
+&lt;td>&lt;code>pañcamī&lt;/code>&lt;/td>
+&lt;td>fifth case (ablative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>6️⃣&lt;/td>
+&lt;td>&lt;code>chaṭṭhī&lt;/code>&lt;/td>
+&lt;td>sixth case (genitive)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>7️⃣&lt;/td>
+&lt;td>&lt;code>sattamī&lt;/code>&lt;/td>
+&lt;td>seventh case (locative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏏️&lt;/td>
+&lt;td>&lt;code>nipāta&lt;/code>&lt;/td>
+&lt;td>particle&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔼&lt;/td>
+&lt;td>&lt;code>upasagga&lt;/code>&lt;/td>
+&lt;td>prefix&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🆎&lt;/td>
+&lt;td>&lt;code>samāsa&lt;/code>&lt;/td>
+&lt;td>compound noun&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔽&lt;/td>
+&lt;td>&lt;code>taddhita&lt;/code>&lt;/td>
+&lt;td>affix&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>▶️&lt;/td>
+&lt;td>&lt;code>vattamāna&lt;/code>&lt;/td>
+&lt;td>present&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏹&lt;/td>
+&lt;td>&lt;code>piñcamī&lt;/code>&lt;/td>
+&lt;td>imperative&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏯&lt;/td>
+&lt;td>&lt;code>sattamī&lt;/code>&lt;/td>
+&lt;td>potential&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔄&lt;/td>
+&lt;td>&lt;code>parokkhā&lt;/code>&lt;/td>
+&lt;td>perfect&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>↩️&lt;/td>
+&lt;td>&lt;code>hiyyattanī&lt;/code>&lt;/td>
+&lt;td>imperfect&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏮&lt;/td>
+&lt;td>&lt;code>ajjatanī&lt;/code>&lt;/td>
+&lt;td>aorist&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏭&lt;/td>
+&lt;td>&lt;code>bhavissanti&lt;/code>&lt;/td>
+&lt;td>future&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔀&lt;/td>
+&lt;td>&lt;code>kālātipatti&lt;/code>&lt;/td>
+&lt;td>conditional&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Docs: A: The Pali Alphabet</title><link>https://christham.net/buddhavacana/docs/palibook/alphabet/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/alphabet/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/div>
@@ -2254,7 +5091,7 @@ hakāra: h&lt;/p>
 &lt;p>ṃ (niggahīta) can be written η, ṁ or ṃ&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>Docs: B: `sandhi` Rules</title><link>https://christham.net/buddhavacana/docs/palibook/sandhi/</link><pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/sandhi/</guid><description>
+&lt;/div></description></item><item><title>Docs: D: `sandhi` Rules</title><link>https://christham.net/buddhavacana/docs/palibook/sandhi/</link><pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/sandhi/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/div>
@@ -2507,10 +5344,10 @@ Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>(TBD: incomplete)&lt;/p></description></item><item><title>Docs: C: `vibhatti` Rules</title><link>https://christham.net/buddhavacana/docs/palibook/vibhatti/</link><pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/vibhatti/</guid><description>
+&lt;p>(TBD: incomplete)&lt;/p></description></item><item><title>Docs: E: `vibhatti` Rules</title><link>https://christham.net/buddhavacana/docs/palibook/vibhatti/</link><pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/vibhatti/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
-&lt;/div></description></item><item><title>Docs: D: `upasagga` meanings</title><link>https://christham.net/buddhavacana/docs/palibook/upasagga/</link><pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/upasagga/</guid><description>
+&lt;/div></description></item><item><title>Docs: F: `upasagga ` meanings</title><link>https://christham.net/buddhavacana/docs/palibook/upasagga/</link><pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/upasagga/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/div>
@@ -4498,2499 +7335,7 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>* &lt;em>(&lt;code>ṁ&lt;/code> becomes &lt;code>m&lt;/code> as it precedes &lt;code>p&lt;/code>)&lt;/em>&lt;/p></description></item><item><title>Docs: Grammar (vyākaraṇa)</title><link>https://christham.net/buddhavacana/docs/pali/grammar/</link><pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/pali/grammar/</guid><description>
-&lt;h2 id="pada">pada&lt;/h2>
-&lt;p>Word&lt;/p>
-&lt;pre class="mermaid">stateDiagram-v2
-direction LR
-liṅga : liṅga (stem)
-state liṅga {
-direction LR
-dhātu : dhātu (root)
-dhātu --&amp;gt; paccaya
-paccaya : paccaya (suffix)
-}
-liṅga --&amp;gt; vibhatti
-vibhatti : vibhatti (inflectional ending)&lt;/pre>
-&lt;h2 id="padajāti">padajāti&lt;/h2>
-&lt;p>The four parts of speech&lt;/p>
-&lt;pre class="mermaid">mindmap
-id((padajāti))
-nāma
-id(noun)
-guṇanāma
-id(adjective)
-sabbanāma
-id(pronoun)
-puggalanāma
-id(personal)
-nidassananāma
-id(demonstrative)
-anvayīnāma
-id(relative)
-pucchānāma
-id(interrogative)
-ākhyāta
-id(verb)
-parassapada
-id(active voice)
-attanopada
-id(middle or reflexive voice)
-kammapada
-id(passive)
-upasagga
-id(prefix)
-nipāta
-id(particle)
-id(indeclinable)&lt;/pre>
-&lt;h2 id="nāma">nāma&lt;/h2>
-&lt;p>Noun&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
-markmap:
-zoom: false
-pan: false
----
-# nāma
-## saṅkhyā (number)
-### ekavacana (singular)
-### bahuvacana (plural)
-## liṅga (gender)
-### pulliṅga (masculine)
-### itthiliṅga (feminine)
-### napuṁsakaliṅga (neuter)
-## kāraka (case)
-### paccattavacana – nominative case (paṭhamā: first)
-### upayogavacana – accusative (dutiyā: second)
-### karaṇavacana – instrumental (tatiyā: third)
-### sampadānavacana – dative (catutthī: fourth) -
-### apādānavacana, avadhi – ablative (pañcamī: fifth)
-### sāmivacana, sambandha – genitive (chaṭṭhī: sixth)
-### bhummavacana, okāsa, ādhāra, sambodhana – locative case (sattamī: seventh)
-### āmantaṇavacana, ālapanavacana – vocative
-&lt;/code>&lt;/pre>&lt;h3 id="1-paccattavacana">1. paccattavacana&lt;/h3>
-&lt;p>Nominative:&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
-markmap:
-zoom: false
-pan: false
----
-# paccattavacana
-- `kattar` or agent (&amp;#34;subject&amp;#34; of an active sentence or verb)
-- brāhmaṇo passati
-- attribute of an agent in the nominative
-- &amp;#34;predicated&amp;#34; by means of a verb meaning &amp;#34;to be&amp;#34;
-- usually follows the agent
-- brāhmaṇo mahāmatto hoti
-- eso samaṇo
-- brāhmaṇo mahāmatto passati
-- used with certain indeclinables relating it to the action
-- yena gāmo … upasaṃkamati
-- when a word is quoted or cited
-- kāyo ti
-&lt;/code>&lt;/pre>&lt;h3 id="2-upayogavacana">2. upayogavacana&lt;/h3>
-&lt;p>Accusative:&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
-markmap:
-zoom: false
-pan: false
----
-# upayogavacana
-- &amp;#34;patient&amp;#34; (kamma) which undergoes the action of an active verb (the &amp;#34;direct object&amp;#34;)
-- purisaṃ bandhati
-- samaṇaṃ vadati
-- express the goal of motion
-- gāmaṃ pavisati
-- express the (extent of) space traversed
-- maggaṃ paṭipajjati
-- used for an attribute of another accusative
-- khattiyo brahmaṅaṃ mahāmattaṃ passati
-- used to express the pure duration of time
-- aḍḍhamāsaṃ āgacchati
-- ekaṃ samayaṃ
-- singular neuter form of some adjectives is used as an &amp;#34;adverb&amp;#34;
-- rassaṃ passasāmi
-&lt;/code>&lt;/pre>&lt;h3 id="3-karaṇavacana">3. karaṇavacana&lt;/h3>
-&lt;p>Instrumental:&lt;/p>
-&lt;ul>
-&lt;li>instrument by means of which an action is done
-&lt;ul>
-&lt;li>kāyena phusati&lt;/li>
-&lt;li>tuṇhī bhāvena&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>accompaniment
-&lt;ul>
-&lt;li>brāhmaṇena saddhim&lt;/li>
-&lt;li>&amp;ldquo;Talking”, “discussing” (&lt;code>mant&lt;/code>) with a person need not take saddhim&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>possession (endowment)
-&lt;ul>
-&lt;li>sīlehi samannāgato&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&amp;ldquo;filled&amp;rdquo; (&amp;ldquo;with water/happiness/noise/&amp;hellip;”)
-&lt;ul>
-&lt;li>saddena&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>cause
-&lt;ul>
-&lt;li>but in scientific/philosophical discourse the ablative case is used to express causal connections&lt;/li>
-&lt;li>bhagavatā vādena kupito
-&lt;ul>
-&lt;li>“angry at (with) the fortunate one’s statement ”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>cīvarena santuṭṭho
-&lt;ul>
-&lt;li>&amp;ldquo;satisfied with the robe ”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>atthena
-&lt;ul>
-&lt;li>&amp;ldquo;because of that business/matter&amp;rdquo;&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>karaniyena
-&lt;ul>
-&lt;li>“(engaged in some) business”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>iminā p&amp;rsquo; aṅgena
-&lt;ul>
-&lt;li>&amp;ldquo;(you shouldn’t go) for this reason”&lt;/li>
-&lt;li>aṅgaṃ = &amp;ldquo;limb”, &amp;ldquo;characteristic”, ”factor”
-&lt;ul>
-&lt;li>used in “because of this” (”endowment”)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>equality
-&lt;ul>
-&lt;li>samasamo vannena
-&lt;ul>
-&lt;li>&amp;ldquo;quite equal in beauty”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>comparison
-&lt;ul>
-&lt;li>generally and indefinitely
-&lt;ul>
-&lt;li>purisena purisam
-&lt;ul>
-&lt;li>“(comparing) a man with a man”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>for a specific, conclusive comparison, “this is better than that&amp;rdquo; the ablative case is used&lt;/li>
-&lt;li>price
-&lt;ul>
-&lt;li>sahassena
-&lt;ul>
-&lt;li>“for a thousand”&lt;/li>
-&lt;li>(i.e. sell for 1,000 kahāpaṇas, the standard silver coin)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>way (which way, direction)
-&lt;ul>
-&lt;li>“by one way”&lt;/li>
-&lt;li>“by another way“&lt;/li>
-&lt;li>dvārena
-&lt;ul>
-&lt;li>“by the gate” (entering, leaving)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>direction, orientation
-&lt;ul>
-&lt;li>“from West to East“ (both in instrumental) and each followed by the indeclinable ca&lt;/li>
-&lt;li>from North to South&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>manner
-&lt;ul>
-&lt;li>iminā
-&lt;ul>
-&lt;li>“in this way”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>iminā pariyāyena
-&lt;ul>
-&lt;li>“through this course (procedure)&amp;rdquo;&lt;/li>
-&lt;li>“in this manner”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>kāyena paṭisaṃvedeti
-&lt;ul>
-&lt;li>“he experiences through his body”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>santena
-&lt;ul>
-&lt;li>“calmly“ (used like “adverbs of manner”)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>“ on his right side ” (manner of lying)&lt;/li>
-&lt;li>kicchena adhigntaṃ
-&lt;ul>
-&lt;li>“understood with difficulty”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>“he sat practising a certain kind of meditation“&lt;/li>
-&lt;li>(instrumental, as if “ manner ” of sitting)&lt;/li>
-&lt;li>adjacent to the ordinary “instrument” sense
-&lt;ul>
-&lt;li>serving with actions (kammena), whether physical or mental, or with speech&lt;/li>
-&lt;li>honouring, entertaining, etc., with music, dancing, garlands, etc.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>means of livelihood, means of explanation or description (cf. instrument)
-&lt;ul>
-&lt;li>means of acquiring goodness, puññaṃ
-&lt;ul>
-&lt;li>dānena
-&lt;ul>
-&lt;li>“by giving”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>expiating past deeds (kammaṃ)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>vehicle
-&lt;ul>
-&lt;li>yānena gacchati
-&lt;ul>
-&lt;li>“he goes in (by) a carriage”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>nāgena
-&lt;ul>
-&lt;li>“by elephant”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>motive
-&lt;ul>
-&lt;li>gāravena
-&lt;ul>
-&lt;li>“through respect” (he did not speak)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>time
-&lt;ul>
-&lt;li>by means of which (at the end of which)
-&lt;ul>
-&lt;li>aparena samayena
-&lt;ul>
-&lt;li>“after some time”&lt;/li>
-&lt;li>“in due course”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>particular time at which
-&lt;ul>
-&lt;li>tena samayena
-&lt;ul>
-&lt;li>“at that time”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>accayena
-&lt;ul>
-&lt;li>“through (after) the passage/passing away”&lt;/li>
-&lt;li>(of time or of a person: specified in the genitive case)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>age at which&lt;/li>
-&lt;li>measure (cf. the ablative case)
-&lt;ul>
-&lt;li>dvādasayojanāni ahosi āyāmena
-&lt;ul>
-&lt;li>“it (a city) was twelve leagues in length”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>sattayojanāni vitthārena
-&lt;ul>
-&lt;li>“seven leagues in breadth”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>compounds ending in the word matta meaning “ measure ”
-&lt;ul>
-&lt;li>jannumattena
-&lt;ul>
-&lt;li>”knee deep”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>classification
-&lt;ul>
-&lt;li>birth, clan, family, kind, and similar relations
-&lt;ul>
-&lt;li>Gotamo gottena
-&lt;ul>
-&lt;li>&amp;ldquo;a Gotama by clan”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>jalivadena
-&lt;ul>
-&lt;li>&amp;ldquo;in respect of class (station by birth)”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>dissociation (cf. accompaniment)
-&lt;ul>
-&lt;li>adaṇḍena
-&lt;ul>
-&lt;li>“without force” (negative prefix a-)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>instrumental used with the indeclinable aññatra
-&lt;ul>
-&lt;li>&amp;ldquo;except for”&lt;/li>
-&lt;li>aññatra brahmanena
-&lt;ul>
-&lt;li>“ except for the priest&amp;rdquo;&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>“apart from”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>other idioms with the instrumental
-&lt;ul>
-&lt;li>āsanena nimanteti
-&lt;ul>
-&lt;li>&amp;ldquo;he invites to sit down”&lt;/li>
-&lt;li>&amp;ldquo;he offers a seat”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>kalena kālaṃ
-&lt;ul>
-&lt;li>&amp;ldquo;from time to time”&lt;/li>
-&lt;li>”regularly”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>lābhena lābhaṃ
-&lt;ul>
-&lt;li>“from gain to gain”&lt;/li>
-&lt;li>(wishing always for more gain, with one gain on to another)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>aññena aññnaṃ
-&lt;ul>
-&lt;li>”one with another”
-&lt;ul>
-&lt;li>literally “other with other”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&amp;ldquo;irrelevantly”&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>sabbena sabbaṃ
-&lt;ul>
-&lt;li>“all with all&amp;rdquo;, i.e. &amp;ldquo;completely”&lt;/li>
-&lt;li>&amp;ldquo;absolutely thoroughly” (as in knowing some doctrine)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h3 id="4-sampadānavacana">4. sampadānavacana&lt;/h3>
-&lt;p>Dative case:&lt;/p>
-&lt;ul>
-&lt;li>the purpose for which an action is done
-&lt;ul>
-&lt;li>gāmaṃ piṇḍāya pāvisi&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>the person to whom something is given (&amp;ldquo;indirect object&amp;rdquo;)&lt;/li>
-&lt;li>&amp;ldquo;dative of advantage&amp;rdquo;
-&lt;ul>
-&lt;li>the person for whom something is done or to whom something which happens is advantageous&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>used with verbs
-&lt;ul>
-&lt;li>(k)kham
-&lt;ul>
-&lt;li>&amp;ldquo;to please&amp;rdquo; (someone = dative)&lt;/li>
-&lt;li>&amp;ldquo;to forgive&amp;rdquo; (someone = dative, something = accusative)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>(p)paṭi-(s)su
-&lt;ul>
-&lt;li>&amp;ldquo;to assent to (someone = dative)&amp;rdquo;&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>upa-(ṭ)ṭhā
-&lt;ul>
-&lt;li>to serve, attend on/to someone or something (dative)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>dhar
-&lt;ul>
-&lt;li>&amp;ldquo;hold for/over&amp;rdquo; person sheltered (dative)&lt;/li>
-&lt;li>&amp;ldquo;owe&amp;rdquo; person (dative)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>ā-ruc
-&lt;ul>
-&lt;li>&amp;ldquo;to inform&amp;rdquo; person informed (dative)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>to be angry at
-&lt;ul>
-&lt;li>(kup, etc.)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>sap
-&lt;ul>
-&lt;li>to curse&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>pih
-&lt;ul>
-&lt;li>to long for&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>(p)pa-(k)khā: visible, apparent
-&lt;ul>
-&lt;li>to be clear to&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>pātu(r)-bhū: manifest
-&lt;ul>
-&lt;li>to appear to&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>adjective (of verbal import) piya, &amp;ldquo;dear&amp;rdquo;, takes the dative of the person to whom.&lt;/li>
-&lt;li>&amp;ldquo;For the sake of&amp;rdquo; ( = dative of purpose, above)
-&lt;ul>
-&lt;li>atthāya preceded by the genitive of the person or object of the endeavour.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>indeclinable alaṃ (&amp;ldquo;sufficient&amp;rdquo;, &amp;ldquo;enough&amp;rdquo;, &amp;ldquo;adequate&amp;rdquo;, &amp;ldquo;perfected&amp;rdquo;) takes the dative.
-&lt;ul>
-&lt;li>the idiomatic meaning of a refusal or objection
-&lt;ul>
-&lt;li>(&amp;ldquo;enough!&amp;rdquo; = &amp;ldquo;stop!&amp;rdquo;, &amp;ldquo;I won&amp;rsquo;t!&amp;rdquo;, etc.)&lt;/li>
-&lt;li>with dative of the person for whom it is sufficient or superfluous
-&lt;ul>
-&lt;li>&amp;ldquo;I won&amp;rsquo;t&amp;rdquo; = alaṃ me&lt;/li>
-&lt;li>&amp;ldquo;it is sufficient for you&amp;rdquo; = alaṃ vo&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>The negative participle abhabba
-&lt;ul>
-&lt;li>adjective meaning &amp;ldquo;unable&amp;rdquo;, &amp;ldquo;incapable&amp;rdquo;&lt;/li>
-&lt;li>dative of the action which cannot be done, if the latter is expressed by a noun (&amp;ldquo;action noun&amp;rdquo;).&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>When wishes (good wishes) are expressed&lt;/li>
-&lt;li>dative is used for the person for whom they are expressed
-&lt;ul>
-&lt;li>&amp;ldquo;may there be (hotu) long life for him&amp;rdquo;&lt;/li>
-&lt;li>&amp;ldquo;good luck to you&amp;rdquo;
-&lt;ul>
-&lt;li>bhaddaṃ bhavato hotu&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&amp;ldquo;welcome to you&amp;rdquo;
-&lt;ul>
-&lt;li>svāgataṃ bhavato hotu&lt;/li>
-&lt;li>svāgataṃ (&amp;ldquo;welcome!&amp;rdquo;)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>indeclinables sotthi &amp;ldquo;safety&amp;rdquo;, &amp;ldquo;safely&amp;rdquo; and namo (&amp;ldquo;hail!&amp;rdquo;)&lt;/li>
-&lt;li>infinitive of verbs overlaps in meaning with the dative of purpose.&lt;/li>
-&lt;li>idiomatic construction: proper time for something, the opportunity for something
-&lt;ul>
-&lt;li>etassa kālo
-&lt;ul>
-&lt;li>&amp;ldquo;it is the time for this&amp;rdquo;, &amp;ldquo;it is the right time for this&amp;rdquo;&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>akālo … yācanāya
-&lt;ul>
-&lt;li>&amp;ldquo;it is not the right time for asking&amp;rdquo;&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>yassa dāni kālaṃ maññasi
-&lt;ul>
-&lt;li>&amp;ldquo;for which you think it is now (dāni) the right time&amp;rdquo;&lt;/li>
-&lt;li>extremely common in saying (formally) goodbye (spoken by the host, not the guest - who for his part has made the excuse of pressure of work), being roughly equivalent to &amp;ldquo;well, if you really must go … &amp;quot;&lt;/li>
-&lt;li>used also by servants reporting to their master that preparations are completed, implying &amp;ldquo;you can start whenever you wish&amp;rdquo;, etc&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h3 id="6-sāmivacana">6. sāmivacana&lt;/h3>
-&lt;p>Genitive case:&lt;/p>
-&lt;ul>
-&lt;li>may often be translated by &amp;ldquo;of&amp;rdquo;, and serves as a &amp;ldquo;possessive&amp;rdquo; case&lt;/li>
-&lt;li>denoting the &amp;ldquo;possessor&amp;rdquo; (sāmin)&lt;/li>
-&lt;li>the whole of which the related word denotes a part (avayava)&lt;/li>
-&lt;li>immediately precedes the word to which it relates
-&lt;ul>
-&lt;li>rañño thūpo&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>A construction with a possessive genitive is very often equivalent to an English construction with the verb &amp;ldquo;to have&amp;rdquo;
-&lt;ul>
-&lt;li>idaṃ assa hoti&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&amp;ldquo;of him thus it is &amp;hellip;&amp;rdquo; (or was, etc.), &amp;ldquo;he has this thought &amp;hellip;&amp;rdquo;, &amp;ldquo;he thinks thus &amp;hellip;&amp;rdquo;
-&lt;ul>
-&lt;li>tassa evaṃ hoti&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>an idiom consisting of the genitive of the word denoting the period + accayena expresses the time after which (or through the passage of which) something is done:
-&lt;ul>
-&lt;li>sattāhassa accayena … pabbajissāma&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&amp;ldquo;after I have passed away&amp;rdquo;, &amp;ldquo;after my death/parinibbāna&amp;rdquo;
-&lt;ul>
-&lt;li>mama + accayena = &amp;ldquo;after me&amp;rdquo;&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>agent-genitive (&amp;ldquo;subjective genitive&amp;rdquo;):
-&lt;ul>
-&lt;li>brāhmaṇassa pūjito (Soṇadaṇḍo)&lt;/li>
-&lt;li>&amp;ldquo;(Soṇadaṇḍo was) honoured of (= by) the priest&amp;rdquo;&lt;/li>
-&lt;li>yesaṃ &amp;hellip; devā &amp;hellip;adiṭṭhā&lt;/li>
-&lt;li>&amp;ldquo;those &amp;hellip; who have not seen &amp;hellip; the gods (negative participle: a-)&amp;rdquo;&lt;/li>
-&lt;li>(&amp;ldquo;of (= by) whom the gods are unseen&amp;rdquo;; Commentary explains yesaṃ by yehi)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>patient-genitive (&amp;ldquo;objective genitive&amp;rdquo;):
-&lt;ul>
-&lt;li>ahaṃ … tassa yaññassa yājetā&lt;/li>
-&lt;li>&amp;ldquo;I &amp;hellip; (was) the performer of that sacrifice&amp;rdquo;&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>substitute for the instrumental
-&lt;ul>
-&lt;li>kumbhiṃ &amp;hellip; pūraṃ &amp;hellip; suvaṇṇassa&lt;/li>
-&lt;li>&amp;ldquo;pot &amp;hellip; full &amp;hellip; of gold&amp;rdquo;&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>used with certain indeclinables, such as:
-&lt;ul>
-&lt;li>piṭṭhito - &amp;ldquo;behind&amp;rdquo;
-purato - &amp;ldquo;before&amp;rdquo;, &amp;ldquo;in front of&amp;rdquo;
-antarena - &amp;ldquo;between&amp;rdquo;
-me purato - &amp;ldquo;in front of me&amp;rdquo;
-kāyānam antarena - &amp;ldquo;between the bodies&amp;rdquo;&lt;/li>
-&lt;li>uttaraṃ nagarassa - &amp;ldquo;north of the city&amp;rdquo;&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>The &amp;ldquo;genitive absolute&amp;rdquo; consists of a noun (or pronoun) followed by a participle, both inflected in the genitive. This nexus stands apart from the other words of the sentence and means &amp;ldquo;while (the noun was doing the participle)&amp;rdquo;
-&lt;ul>
-&lt;li>special sense of disregarding: &amp;ldquo;despite (the noun doing the participle)&amp;rdquo;, &amp;ldquo;under their very noses,&amp;rdquo; as when the participle means &amp;ldquo;seeing&amp;rdquo;, &amp;ldquo;looking on&amp;rdquo;&lt;/li>
-&lt;li>telassa jhāyamānassa &amp;ldquo;as (while) the oil is burning&amp;rdquo;&lt;/li>
-&lt;li>mātāpitunnaṃ … rudantānaṃ … pabbajito &amp;ldquo;though his parents were weeping, he went forth&amp;rdquo; (i.e. &amp;ldquo;despite their weeping&amp;rdquo;)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>useful for constructing a sentence with two agents, but the similarly constructed locative absolute (Lesson 16) is much more frequently used&lt;/li>
-&lt;/ul>
-&lt;h3 id="8-āmantaṇavacana-ālapanavacana">8. āmantaṇavacana, ālapanavacana&lt;/h3>
-&lt;p>Vocative:&lt;/p>
-&lt;ul>
-&lt;li>used &amp;ldquo;enclitically&amp;rdquo;, i.e. it does not stand at the beginning of a sentence&lt;/li>
-&lt;/ul>
-&lt;h2 id="guṇanāma">guṇanāma&lt;/h2>
-&lt;p>Adjective:&lt;/p>
-&lt;ul>
-&lt;li>When an adjective is common to two or more nouns it may agree with the sum of these (and be plural) or with the nearest. Thirdly the qualified words may be taken as collective and singular and the adjective be singular. Where the genders conflict, the masculine takes precedence over the feminine, the neuter over both.&lt;/li>
-&lt;li>An adjective usually precedes the noun it qualifies, but when there are several adjectives with one noun very often only one adjective precedes and the rest follow the noun.&lt;/li>
-&lt;li>A demonstrative pronoun relating to the same noun will precede the whole group.&lt;/li>
-&lt;li>When an adjective, or (all the) adjectives, follows its noun this usually indicates that it is being &amp;ldquo;predicated&amp;rdquo; of the noun, or in other words that the attribute in question is being emphasized.&lt;/li>
-&lt;/ul>
-&lt;h2 id="sabbanāma">sabbanāma&lt;/h2>
-&lt;p>Pronouns&lt;/p>
-&lt;h3 id="niyamita">niyamita&lt;/h3>
-&lt;p>Personal and Demonstrative (incomplete TBD)&lt;/p>
-&lt;ul>
-&lt;li>Although the person is expressed by the inflection of the verb, the pronouns of the first and second persons are frequently used, giving a slight emphasis to the subject. The third person pronoun is less often used in this way.&lt;/li>
-&lt;li>The third personal pronoun is used also as a demonstrative, meaning &amp;ldquo;that&amp;rdquo;, &amp;ldquo;it&amp;rdquo;, in three genders.&lt;/li>
-&lt;li>It is generally used as what is known as an &amp;ldquo;anaphoric &amp;quot; pronoun, that is to say it refers back to someone or something previously mentioned in a narrative.&lt;/li>
-&lt;li>As opposed to the use in conversation and other direct speech of &amp;ldquo;pronouns of presence&amp;rdquo; referring to someone or something present (&amp;ldquo;this man&amp;rdquo;, &amp;ldquo;that jar&amp;rdquo;), these pronouns are called &amp;ldquo;pronouns of absence&amp;rdquo; because it is most often used to speak of someone or something in a story and therefore not present to the listeners.&lt;/li>
-&lt;li>It may serve to connect the sentences of a narrative into a continuous paragraph or longer section. It is used also as an emphatic pronoun (in combination with another pronoun or occasionally with 1st person, for example in the expression so &amp;lsquo;haṃ &amp;ldquo;I&amp;rdquo; (literally &amp;ldquo;that I&amp;rdquo;).&lt;/li>
-&lt;li>In combination with a noun it is again emphatic and may sometimes be translated &amp;ldquo;the&amp;rdquo;&lt;/li>
-&lt;li>There being no &amp;ldquo;definite article&amp;rdquo; in Pali the demonstrative pronouns are sometimes used where English would use the definite article, and may sometimes be translated &amp;ldquo;the&amp;rdquo; rather than &amp;ldquo;he&amp;rdquo;, &amp;ldquo;that&amp;rdquo;, &amp;ldquo;this&amp;rdquo;, etc.&lt;/li>
-&lt;li>Demonstrative pronouns must agree in number and gender (and case) with the nouns to which they refer.&lt;/li>
-&lt;/ul>
-&lt;h2 id="ākhyāta">ākhyāta&lt;/h2>
-&lt;p>Verb&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
-markmap:
-zoom: false
-pan: false
----
-# ākhyāta
-## lakāra (tense)
-### vattamāna (present indicative)
-### pañcamī (imperative) [mood]
-### ajjatanī (aorist) [past]
-### sattamī (optative) [mood]
-### anāgatakāla (future)
-### kālātipatti (conditional)
-### kārita (causative)
-## purisa (person)
-### paṭhamapurisa (third person)
-### majjhimapurisa (second person)
-### uttamapurisa (first person)
-## saṅkhyā (number)
-### ekavacana (singular)
-### bahuvacana (plural)
-&lt;/code>&lt;/pre>&lt;h3 id="kammaka">kammaka&lt;/h3>
-&lt;p>Transitivity:&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
-markmap:
-zoom: false
-pan: false
----
-# kammaka
-- akammaka
-– intransitive
-- sakammaka
-– transitive
-- dvikammaka
-– bitransitive
-- verbs
-- to call
-- to tell
-- to ask (someone something)
-- to take or bring (something somewhere)
-- samaṅaṃ atthaṃ pucchāmi
-&lt;/code>&lt;/pre>&lt;h3 id="kammapada">kammapada&lt;/h3>
-&lt;p>Passive sentence:&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
-markmap:
-zoom: false
-pan: false
----
-# kammapada
-- agent is expressed by the instrumental case
-- past participle used as an impersonal (bhāva) passive verb
-- inflected in the nominative singular neuter as sentence-verb
-- evaṃ me sutaṃ
-- If there is a patient, and the action is expressed by a past participle
-- patient will be in the nominative case
-- the participle will agree with it in gender, case, and number
-(as if it were an adjective)
-- mayā ime sattā nimmitā
-- Passive verbs are not very common in Pali
-- aorist passive
-- add the aorist inflections to the passive stem
-- haññiṃsu, &amp;#34;they were killed.&amp;#34;
-- A present participle passive
-- adding suffix māna to the passive stem
-- inflecting as a participle
-- kayiramāna, &amp;#34;being done.&amp;#34;
-&lt;/code>&lt;/pre>&lt;h3 id="gaṇa">gaṇa&lt;/h3>
-&lt;p>Verb conjugation groups&lt;/p>
-&lt;pre class="mermaid">mindmap
-gaṇa
-bhūvādigaṇa
-first conjugation
-bhū
-rudhādigaṇa
-second conjugation
-rudh
-divādigaṇa
-third conjugation
-div
-suvādigaṇa
-fourth conjugation
-su
-kiyādigaṇa
-fifth conjugation
-ki
-tanādigaṇa
-sixth conjugation
-tan
-curādigaṇa
-seventh conjugation
-cur&lt;/pre>
-&lt;h3 id="vattamāna">vattamāna&lt;/h3>
-&lt;p>Present tense&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
-markmap:
-zoom: false
-pan: false
----
-# vattamāna
-- present (paccuppanna) time (kāla)
-- indefinite time
-- timeless statements such as &amp;#34;eternal truths&amp;#34;
-- immediate future
-- may include a shade of &amp;#34;imperative&amp;#34; sense
-- cf.English &amp;#34;I&amp;#39;m going&amp;#34;
-- past
-- &amp;#34;historic present&amp;#34;
-- duration of an action &amp;#34;until&amp;#34; a fixed future time
-- (a vivid future visualized as present)
-- &amp;#34;when&amp;#34;
-&lt;/code>&lt;/pre>&lt;h3 id="pañcamī">pañcamī&lt;/h3>
-&lt;p>Imperative:&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
-markmap:
-zoom: false
-pan: false
----
-# pañcamī
-- expresses commands and prohibitions, but also invitations and wishes
-- (majjhimapurisa)
-- the sense is usually that of a command
-- (paṭhamapurisa)
-- used with the title or name of the person addressed, or the polite pronoun
-- expresses a polite invitation
-- ettha tiṭṭha
-- &amp;#34;wait here&amp;#34;
-- (&amp;#34;let it be&amp;#34;, &amp;#34;never mind&amp;#34;, &amp;#34;let him not&amp;#34;, &amp;#34;don&amp;#39;t trouble&amp;#34;)
-- tiṭṭhatha tumhe
-- &amp;#34;don&amp;#39;t you bother&amp;#34;
-&lt;/code>&lt;/pre>&lt;h3 id="ajjatanī">ajjatanī&lt;/h3>
-&lt;p>&amp;ldquo;Aorist&amp;rdquo; (past tense), used for all kinds of past actions:&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
-markmap:
-zoom: false
-pan: false
----
-# ajjatanī
-- &amp;#34;historical&amp;#34; or &amp;#34;narrative&amp;#34; past
-- (present-) perfect
-- desesiṃ (I have taught)
-&lt;/code>&lt;/pre>&lt;h3 id="atītakiriya">atītakiriya&lt;/h3>
-&lt;p>Past Participle:&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
-markmap:
-zoom: false
-pan: false
----
-# atītakiriya
-- normally passive (kammapada) in meaning
-- past participles of intransitive verbs sometimes active
-- including some transitive verbs used intransitively
-- &amp;#34;go&amp;#34;
-- &amp;#34;move&amp;#34;
-- &amp;#34;go forth&amp;#34;
-- equivalent to a (normally passive) finite verb in the past tense
-- indicates the &amp;#34;present-perfect&amp;#34;, as in conversation
-- mayaṃ ... upasaṃkantā
-- may be accompanied (usually followed) by the present tense of verbs meaning &amp;#34;to be&amp;#34;
-- stressing the &amp;#34;present-perfect&amp;#34; sense
-- some used as nouns
-- bhāsitaṃ may mean
-- &amp;#34;what was spoken&amp;#34;, &amp;#34;speech&amp;#34;, &amp;#34;saying&amp;#34;
-- may be used as &amp;#34;adjectives&amp;#34;
-- kupita
-- &amp;#34;angry&amp;#34;)
-&lt;/code>&lt;/pre>&lt;h3 id="missakiriya">missakiriya&lt;/h3>
-&lt;p>Present participle:&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
-markmap:
-zoom: false
-pan: false
----
-# missakiriya
-- indicate an action which takes place simultaneously with (missa) the main action of the sentence
-- used like &amp;#34;adjectives&amp;#34; (as past participles may be) &amp;#34;qualifying&amp;#34; nouns, with which they agree in gender, case, and number.
-&lt;/code>&lt;/pre>&lt;h3 id="pubbakiriyā">pubbakiriyā&lt;/h3>
-&lt;p>Gerund (Absolutive):&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
-markmap:
-zoom: false
-pan: false
----
-# pubbakiriyā
-- indeclinable participle
-- used to express an action preceding (pubba) the action of the main verb of a sentence
-- conclude a subordinate clause
-- agent of the gerund is the same as that of the main action
-&lt;/code>&lt;/pre>&lt;h3 id="bhavissanti">bhavissanti&lt;/h3>
-&lt;p>Future Tense:&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
-markmap:
-zoom: false
-pan: false
----
-# bhavissanti
-- expression of the probable (bhavissati in particular often has this sense)
-- hypothetical future
-- certainty
-- (in the 1st person) determination or decision
-- sace ahaṃ … labhissāmi, saṃvibhajissāmi…
-- Obedience to a law of nature
-- … nikkhipissanti
-- literally &amp;#34;will throw down, put down&amp;#34; (the body).
-- all living beings (must/will) die
-- habit (innate or acquired) may also be expressed by the future
-- more emphatic than the use of the present tense to express an &amp;#34;eternal truth&amp;#34;
-- they will do this
-- express the emotional colour of regret or disapproval
-- Indignation (or disapproval)
-- kathaṃ hi nāma …,&amp;#34;for how could (&amp;#39;will&amp;#39;) he …&amp;#34;
-- perplexity, surprise, and wonder
-- kim ev&amp;#39; idaṃ bhavissati, &amp;#34;what can this be?&amp;#34;, &amp;#34;what is this (stuff)?&amp;#34;
-&lt;/code>&lt;/pre>&lt;h2 id="upasagga">upasagga&lt;/h2>
-&lt;p>Prefixes:&lt;/p>
-&lt;ul>
-&lt;li>ati – on, further, towards, over, beyond, past, intensifier&lt;/li>
-&lt;li>adhi – on, towards, by, up to, here, intensifier&lt;/li>
-&lt;li>anu – along, after, towards, on, at, to, according to, second, low, each, every&lt;/li>
-&lt;li>apa – off, away from&lt;/li>
-&lt;li>api – on, to, towards&lt;/li>
-&lt;li>abhi – towards, against, over, on, intensifier&lt;/li>
-&lt;li>ava, o – low, down, away, negative&lt;/li>
-&lt;li>ā – nearness, out, forth, to, at, on&lt;/li>
-&lt;li>u – up, put, forth, onto&lt;/li>
-&lt;li>upa – on, up, by, diminutive&lt;/li>
-&lt;li>du – difficult, hard, bad, poor&lt;/li>
-&lt;li>ni, nī – down, into, back, out, away, without&lt;/li>
-&lt;li>pa – out, on, before, intensifier&lt;/li>
-&lt;li>paṭi, pati – back, against, again away, to&lt;/li>
-&lt;li>parā – onto, over, through&lt;/li>
-&lt;li>pari – around, completely, too much, away, off&lt;/li>
-&lt;li>vi – over, about, away, down, reverses meaning, intensifier&lt;/li>
-&lt;li>saṁ – near, together&lt;/li>
-&lt;li>su – well, happily, thoroughly, intensifier&lt;/li>
-&lt;/ul>
-&lt;h2 id="vākya">vākya&lt;/h2>
-&lt;p>sentence&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
-markmap:
-zoom: false
-pan: false
----
-# vākya
-## kiriyā
-- action
-- verb
-## kattar
-- agent
-- noun
-## kamma
-- patient
-- noun
-&lt;/code>&lt;/pre>&lt;pre class="mermaid">classDiagram
-class `loko vivaṭṭhati` {
-&amp;lt;&amp;lt;sentence&amp;gt;&amp;gt;
-english(the world evolves)
-}
-class loko {
-&amp;lt;&amp;lt;noun&amp;gt;&amp;gt;
-pulliṅga [masculine]
-paṭhamā: paccattavacana [nominative]
-ekavacana [singular]
-english(world)
-}
-class lok {
-&amp;lt;&amp;lt;root&amp;gt;&amp;gt;
-english(see)
-}
-class loka {
-&amp;lt;&amp;lt;stem&amp;gt;&amp;gt;
-}
-class vivaṭṭhati {
-&amp;lt;&amp;lt;verb&amp;gt;&amp;gt;
-vattamānakāla [present indicative]
-parassapada [active]
-paṭhamapurisa [3rd person]
-ekavacana [singular]
-english(evolves)
-}
-class vi {
-&amp;lt;&amp;lt;prefix&amp;gt;&amp;gt;
-english(apart, asunder)
-}
-class vaṭṭ {
-&amp;lt;&amp;lt;root&amp;gt;&amp;gt;
-english(turn, roll, circle)
-}
-class vaṭṭa {
-&amp;lt;&amp;lt;stem&amp;gt;&amp;gt;
-}
-`loko vivaṭṭhati` *-- loko : kattar
-loko --|&amp;gt; loka : rūpa
-loka --|&amp;gt; lok : dhātu
-vaṭṭa --|&amp;gt; vaṭṭ : dhātu
-vivaṭṭhati --|&amp;gt; vi : upasagga
-vivaṭṭhati --|&amp;gt; vaṭṭa : rūpa
-`loko vivaṭṭhati` *-- vivaṭṭhati : kiriyā&lt;/pre></description></item><item><title>Docs: Sentence examples (padamañjarī)</title><link>https://christham.net/buddhavacana/docs/pali/sentences/</link><pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/pali/sentences/</guid><description>
-&lt;h2 id="legend">Legend&lt;/h2>
-&lt;pre class="mermaid">mindmap
-id((padajāti))
-nāma
-id(noun)
-saṅkhyā: number
-ekavacana: singular
-id(👤)
-bahuvacana: plural
-id(👥)
-liṅga: gender
-pulliṅga: masculine
-id(🚹)
-itthiliṅga: feminine
-id(🚺)
-napuṁsakaliṅga: neuter
-id(🚻)
-kāraka: case
-paccattavacana: nominative
-id(1️⃣)
-upayogavacana: accusative
-id(2️⃣)
-karaṇavacana: instrumental
-id(3️⃣)
-sampadānavacana: dative
-id(4️⃣)
-apādānavacana: ablative
-id(5️⃣)
-sāmivacana: genitive
-id(6️⃣)
-bhummavacana: locative case
-id(7️⃣)
-āmantaṇavacana: vocative
-id(0️⃣)
-ākhyāta
-id(verb)
-purisa (person)
-paṭhamapurisa: third person
-id(🤟)
-majjhimapurisa: second person
-id(🤘)
-uttamapurisa: first person
-id(👆)
-saṅkhyā: number
-ekavacana: singular
-id(👤)
-bahuvacana: plural
-id(👥)
-upasagga
-id(prefix)
-nipāta
-id(particle)&lt;/pre>
-&lt;h3 id="equational">Equational&lt;/h3>
-&lt;pre class="mermaid">classDiagram
-class sentence[&amp;#34;devo amanusso hoti&amp;#34;] {
-&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
-english(The deva is not human)
-}
-class devo {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤1️⃣
-english(deity)
-}
-class amanusso {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤1️⃣
-english(not human)
-}
-class hoti {
-&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤🤟vattamāna
-english(is)
-}
-sentence *-- devo : kattar
-sentence *-- amanusso : vāccaliṅga
-sentence *-- hoti: kiriya&lt;/pre>
-&lt;h3 id="intransitive-agent-action">Intransitive (agent-action)&lt;/h3>
-&lt;pre class="mermaid">classDiagram
-class sentence[&amp;#34;devo cavati&amp;#34;] {
-&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
-english(The god dies)
-}
-class devo {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤1️⃣
-english(deity)
-}
-class cavati {
-&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤🤟vattamāna
-english(dies)
-}
-sentence *-- devo : kattar
-sentence *-- cavati: kiriya&lt;/pre>
-&lt;h3 id="transitive-agent-patient-action">Transitive (agent-patient-action)&lt;/h3>
-&lt;pre class="mermaid">classDiagram
-class sentence[&amp;#34;upāsako pattaṃ āharati&amp;#34;] {
-&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
-english(The lay disciple brings the bowl)
-}
-class upāsako {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤1️⃣
-english(lay disciple)
-}
-class pattaṃ {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤2️⃣
-english(bowl)
-}
-class āharati {
-&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤🤟vattamāna
-english(brings)
-}
-sentence *-- upāsako : kattar
-sentence *-- pattaṃ : kamma
-sentence *-- āharati: kiriya&lt;/pre>
-&lt;h3 id="yena--tena">&lt;code>yena&lt;/code> &amp;hellip; &lt;code>tena&lt;/code>&lt;/h3>
-&lt;pre class="mermaid">classDiagram
-class sentence[&amp;#34;yena mahāmatto tena upasaṃkamanti&amp;#34;] {
-&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
-english(By where the minister [is], by there [they] approach)
-}
-namespace yenatena {
-class yena {
-&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
-3️⃣
-english(by where)
-}
-class mahāmatto {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤1️⃣
-english(minister)
-}
-class tena {
-&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
-3️⃣
-english(by there)
-}
-}
-class upasaṃkamanti {
-&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👥🤟vattamāna
-english(approach)
-}
-sentence *-- yena
-sentence *-- mahāmatto
-yena &amp;lt;-- mahāmatto : kattar
-yena --&amp;gt; tena
-sentence *-- tena : kamma
-sentence *-- upasaṃkamanti: kiriya&lt;/pre>
-&lt;pre class="mermaid">sequenceDiagram
-they -&amp;gt;&amp;gt; place : approach
-place -&amp;gt;&amp;gt; minister : by where
-minister -&amp;gt;&amp;gt; place : by there&lt;/pre></description></item><item><title>Docs: Catudhā Paramattha</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/catudha-paramattha/</link><pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/catudha-paramattha/</guid><description>
-&lt;blockquote>
-&lt;p>Tattha vutt’ábhidhammatthá&lt;br>
-Catudhá paramatthato&lt;br>
-Cittaí cetasikaí rúpaí&lt;br>
-Nibbánam iti sabbathá.&lt;/p>
-&lt;/blockquote>
-&lt;pre class="mermaid">C4Context
-title catudhá paramattha
-Enterprise_Boundary(b0, &amp;#34;Abhidhamma&amp;#34;) {
-System(citta, &amp;#34;citta&amp;#34;, &amp;#34;consciousness&amp;#34;)
-System(cetasika, &amp;#34;cetasika&amp;#34;, &amp;#34;mental factors&amp;#34;)
-System(rupa, &amp;#34;rūpa&amp;#34;, &amp;#34;matter&amp;#34;)
-System(nibbana, &amp;#34;Nibbāna&amp;#34;, &amp;#34;Nirvana&amp;#34;)
-}&lt;/pre></description></item><item><title>Docs: adantavaggo</title><link>https://christham.net/buddhavacana/docs/sutta/a%E1%B9%85guttaranik%C4%81yo/ekakanip%C4%81tap%C4%81%E1%B8%B7i/adantavaggo/</link><pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/a%E1%B9%85guttaranik%C4%81yo/ekakanip%C4%81tap%C4%81%E1%B8%B7i/adantavaggo/</guid><description>
-&lt;p>AN 1.4 31-40:&lt;/p>
-&lt;blockquote>
-&lt;ol start="31">
-&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ adantaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, adantaṃ mahato anatthāya saṃvattatī&amp;quot;ti.&lt;/li>
-&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ dantaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, dantaṃ mahato atthāya saṃvattatī&amp;quot;ti.&lt;/li>
-&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ aguttaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, aguttaṃ mahato anatthāya saṃvattatī&amp;quot;ti.&lt;/li>
-&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ guttaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, guttaṃ mahato atthāya saṃvattatī&amp;quot;ti.&lt;/li>
-&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ arakkhitaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, arakkhitaṃ mahato anatthāya saṃvattatī&amp;quot;ti.&lt;/li>
-&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ rakkhitaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, rakkhitaṃ mahato atthāya saṃvattatī&amp;quot;ti.&lt;/li>
-&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ asaṃvutaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, asaṃvutaṃ mahato anatthāya saṃvattatī&amp;quot;ti.&lt;/li>
-&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ saṃvutaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, saṃvutaṃ mahato atthāya saṃvattatī&amp;quot;ti.&lt;/li>
-&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ adantaṃ aguttaṃ arakkhitaṃ asaṃvutaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, adantaṃ aguttaṃ arakkhitaṃ asaṃvutaṃ mahato anatthāya saṃvattatī&amp;quot;ti.&lt;/li>
-&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ dantaṃ guttaṃ rakkhitaṃ saṃvutaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, dantaṃ guttaṃ rakkhitaṃ saṃvutaṃ mahato atthāya saṃvattatī&amp;quot;ti.&lt;/li>
-&lt;/ol>
-&lt;/blockquote>
-&lt;pre class="mermaid">classDiagram
-class sentence[&amp;#34;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ adantaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ&amp;#34;] {
-&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
-english(I don&amp;#39;t perceive, bhikkhus, yet another thing which untrained leads to great harm as this, bhikkhus, the mind.)
-}
-class na {
-&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
-english(not)
-}
-class ahaṃ {
-&amp;lt;&amp;lt;puggalanāma&amp;gt;&amp;gt;
-english(I)
-}
-class bhikkhave {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👥0️⃣
-}
-class aññaṃ {
-&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
-🚹👤2️⃣
-english(other)
-}
-class ekadhammaṃ {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤2️⃣
-english(one thing)
-}
-class pi {
-&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
-english(too)
-}
-class samanupassāmi {
-&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤👆vattamāna
-english(I perceive)
-}
-class yaṃ {
-&amp;lt;&amp;lt;anvayīnāma&amp;gt;&amp;gt;
-🚻👤2️⃣
-english(which)
-}
-class evaṃ {
-&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
-english(thus)
-}
-namespace adjective {
-class adantaṃ {
-&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-👤2️⃣
-english(unrestrained)
-}
-}
-class mahato {
-&amp;lt;&amp;lt;guṇanāma&amp;gt;&amp;gt;
-👤6️⃣
-english(of great)
-}
-namespace result {
-class anatthāya {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤6️⃣
-english(of harm)
-}
-}
-class saṃvattati {
-&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤🤟vattamāna
-english(leads to)
-}
-class yatha {
-&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
-english(as)
-}
-class idaṃ {
-&amp;lt;&amp;lt;puggalanāma&amp;gt;&amp;gt;
-🚻👤2️⃣
-english(this)
-}
-class cittaṃ {
-&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
-🚻👤1️⃣
-english(mind)
-}
-sentence *-- na
-sentence *-- ahaṃ : kattar
-sentence *-- bhikkhave
-sentence *-- aññaṃ
-sentence *-- ekadhammaṃ
-sentence *-- pi
-sentence *-- samanupassāmi : kiriyā
-sentence *-- yaṃ
-sentence *-- evaṃ
-sentence *-- adantaṃ
-sentence *-- mahato
-sentence *-- anatthāya
-sentence *-- saṃvattati
-sentence *-- yatha
-sentence *-- idaṃ
-sentence *-- cittaṃ
-na -- samanupassāmi
-anatthāya &amp;lt;-- mahato
-anatthāya &amp;lt;-- saṃvattati
-aññaṃ .. ekadhammaṃ
-ahaṃ --&amp;gt; samanupassāmi : kattar
-ekadhammaṃ --&amp;gt; samanupassāmi : kamma
-ekadhammaṃ .. idaṃ
-evaṃ .. yaṃ
-yaṃ ..&amp;gt; adantaṃ
-pi .. ekadhammaṃ
-yaṃ &amp;lt;.. ekadhammaṃ
-adantaṃ -- cittaṃ
-yatha .. idaṃ
-idaṃ .. cittaṃ
-cittaṃ --&amp;gt; saṃvattati&lt;/pre>
-&lt;pre class="mermaid">classDiagram
-class sentence[&amp;#34;cittaṃ, bhikkhave, adantaṃ mahato anatthāya saṃvattatī&amp;#34;] {
-&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
-english(The mind, bhikkhus, untrained, leads to great harm.)
-}
-class cittaṃ {
-&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
-🚻👤1️⃣
-english(mind)
-}
-class bhikkhave {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👥0️⃣
-}
-namespace adjective {
-class adantaṃ {
-&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-👤2️⃣
-english(unrestrained)
-}
-}
-class mahato {
-&amp;lt;&amp;lt;guṇanāma&amp;gt;&amp;gt;
-👤6️⃣
-english(of great)
-}
-namespace result {
-class anatthāya {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤6️⃣
-english(of harm)
-}
-}
-class saṃvattati {
-&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤🤟vattamāna
-english(leads to)
-}
-sentence *-- cittaṃ
-sentence *-- bhikkhave
-sentence *-- adantaṃ
-sentence *-- mahato
-sentence *-- anatthāya
-sentence *-- saṃvattati
-anatthāya &amp;lt;-- mahato
-anatthāya &amp;lt;-- saṃvattati
-adantaṃ -- cittaṃ
-cittaṃ --&amp;gt; saṃvattati&lt;/pre>
-&lt;pre class="mermaid">classDiagram
-namespace adjective {
-class adantaṃ {
-&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-👤2️⃣
-english(unrestrained)
-}
-class dantaṃ {
-&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-👤2️⃣
-english(restrained)
-}
-class aguttaṃ {
-&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-👤2️⃣
-english(unguarded)
-}
-class guttaṃ {
-&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-👤2️⃣
-english(guarded)
-}
-class arakkhitaṃ {
-&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-👤2️⃣
-english(unprotected)
-}
-class rakkhitaṃ {
-&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-👤2️⃣
-english(protected)
-}
-}
-namespace result {
-class anatthāya {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤6️⃣
-english(of harm)
-}
-class atthāya {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤6️⃣
-english(of benefit)
-}
-}
-adantaṃ .. anatthāya
-aguttaṃ .. anatthāya
-arakkhitaṃ .. anatthāya
-dantaṃ .. atthāya
-guttaṃ .. atthāya
-rakkhitaṃ .. atthāya&lt;/pre>
-&lt;pre class="mermaid">sequenceDiagram
-participant ahaṃ as (ahaṃ)
-participant citta
-participant harm as mahato anatthāya
-participant benefit as mahato atthāya
-ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
-citta -&amp;gt;&amp;gt; harm : adantaṃ saṃvattati
-ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
-citta -&amp;gt;&amp;gt; benefit : dantaṃ saṃvattati
-ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
-citta -&amp;gt;&amp;gt; harm : aguttaṃ saṃvattati
-ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
-citta -&amp;gt;&amp;gt; benefit : guttaṃ saṃvattati
-ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
-citta -&amp;gt;&amp;gt; harm : arakkhitaṃ saṃvattati
-ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
-citta -&amp;gt;&amp;gt; benefit : rakkhitaṃ saṃvattati
-ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
-citta -&amp;gt;&amp;gt; harm : adantaṃ aguttaṃ arakkhitaṃ saṃvattati
-ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
-citta -&amp;gt;&amp;gt; benefit : dantaṃ guttaṃ rakkhitaṃ saṃvattati&lt;/pre>
-&lt;pre class="mermaid">stateDiagram-v2
-state fork1 &amp;lt;&amp;lt;fork&amp;gt;&amp;gt;
-state join1 &amp;lt;&amp;lt;join&amp;gt;&amp;gt;
-state fork2 &amp;lt;&amp;lt;fork&amp;gt;&amp;gt;
-state join2 &amp;lt;&amp;lt;join&amp;gt;&amp;gt;
-state &amp;#34;mahato anatthāya&amp;#34; as harm
-state &amp;#34;mahato atthāya&amp;#34; as benefit
-[*] --&amp;gt; fork1 : citta
-fork1 --&amp;gt; adantaṃ
-fork1 --&amp;gt; aguttaṃ
-fork1 --&amp;gt; arakkhitaṃ
-adantaṃ --&amp;gt; join1
-aguttaṃ --&amp;gt; join1
-arakkhitaṃ --&amp;gt; join1
-join1 --&amp;gt; harm : saṃvattati
-[*] --&amp;gt; fork2 : citta
-fork2 --&amp;gt; dantaṃ
-fork2 --&amp;gt; guttaṃ
-fork2 --&amp;gt; rakkhitaṃ
-dantaṃ --&amp;gt; join2
-guttaṃ --&amp;gt; join2
-rakkhitaṃ --&amp;gt; join2
-join2 --&amp;gt; benefit : saṃvattati&lt;/pre></description></item><item><title>Docs: nīvaraṇappahānavaggo</title><link>https://christham.net/buddhavacana/docs/sutta/a%E1%B9%85guttaranik%C4%81yo/ekakanip%C4%81tap%C4%81%E1%B8%B7i/n%C4%ABvara%E1%B9%87appah%C4%81navaggo/</link><pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/a%E1%B9%85guttaranik%C4%81yo/ekakanip%C4%81tap%C4%81%E1%B8%B7i/n%C4%ABvara%E1%B9%87appah%C4%81navaggo/</guid><description>
-&lt;p>AN 1.2 11-20:&lt;/p>
-&lt;blockquote>
-&lt;ol start="11">
-&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā kāmacchando uppajjati uppanno vā kāmacchando bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, subhanimittaṃ. subhanimittaṃ, bhikkhave, ayoniso manasi karoto anuppanno ceva kāmacchando uppajjati uppanno ca kāmacchando bhiyyobhāvāya vepullāya saṃvattatī&amp;quot;ti.&lt;/li>
-&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā byāpādo uppajjati uppanno vā byāpādo bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, paṭighanimittaṃ. paṭighanimittaṃ, bhikkhave, ayoniso manasi karoto anuppanno ceva byāpādo uppajjati uppanno ca byāpādo bhiyyobhāvāya vepullāya saṃvattatī&amp;quot;ti.&lt;/li>
-&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannaṃ vā thinamiddhaṃ uppajjati uppannaṃ vā thinamiddhaṃ bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, arati tandī vijambhitā bhattasammado cetaso ca līnattaṃ. līnacittassa, bhikkhave, anuppannañceva thinamiddhaṃ uppajjati uppannañca thinamiddhaṃ bhiyyobhāvāya vepullāya saṃvattatī&amp;quot;ti.&lt;/li>
-&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannaṃ vā uddhaccakukkuccaṃ uppajjati uppannaṃ vā uddhaccakukkuccaṃ bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, cetaso avūpasamo. avūpasantacittassa, bhikkhave, anuppannañceva uddhaccakukkuccaṃ uppajjati uppannañca uddhaccakukkuccaṃ bhiyyobhāvāya vepullāya saṃvattatī&amp;quot;ti.&lt;/li>
-&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannā vā vicikicchā uppajjati uppannā vā vicikicchā bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, ayonisomanasikāro. ayoniso, bhikkhave, manasi karoto anuppannā ceva vicikicchā uppajjati uppannā ca vicikicchā bhiyyobhāvāya vepullāya saṃvattatī&amp;quot;ti.&lt;/li>
-&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā kāmacchando nuppajjati uppanno vā kāmacchando pahīyati yathayidaṃ, bhikkhave, asubhanimittaṃ. asubhanimittaṃ, bhikkhave, yoniso manasi karoto anuppanno ceva kāmacchando nuppajjati uppanno ca kāmacchando pahīyatī&amp;quot;ti.&lt;/li>
-&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā byāpādo nuppajjati uppanno vā byāpādo pahīyati yathayidaṃ, bhikkhave, mettā cetovimutti. mettaṃ, bhikkhave, cetovimuttiṃ yoniso manasi karoto anuppanno ceva byāpādo nuppajjati uppanno ca byāpādo pahīyatī&amp;quot;ti.&lt;/li>
-&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannaṃ vā thinamiddhaṃ nuppajjati uppannaṃ vā thinamiddhaṃ pahīyati yathayidaṃ, bhikkhave, ārambhadhātu nikkamadhātu parakkamadhātu. āraddhavīriyassa, bhikkhave, anuppannañceva thinamiddhaṃ nuppajjati uppannañca thinamiddhaṃ pahīyatī&amp;quot;ti.&lt;/li>
-&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannaṃ vā uddhaccakukkuccaṃ nuppajjati uppannaṃ vā uddhaccakukkuccaṃ pahīyati yathayidaṃ, bhikkhave, cetaso vūpasamo. vūpasantacittassa, bhikkhave, anuppannañceva uddhaccakukkuccaṃ nuppajjati uppannañca uddhaccakukkuccaṃ pahīyatī&amp;quot;ti.&lt;/li>
-&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannā vā vicikicchā nuppajjati uppannā vā vicikicchā pahīyati yathayidaṃ, bhikkhave, yonisomanasikāro. yoniso, bhikkhave, manasi karoto anuppannā ceva vicikicchā nuppajjati uppannā ca vicikicchā pahīyatī&amp;quot;ti.&lt;/li>
-&lt;/ol>
-&lt;/blockquote>
-&lt;pre class="mermaid">classDiagram
-class sentence[&amp;#34;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā kāmacchando uppajjati [n&amp;#39;] uppanno vā kāmacchando [bhiyyobhāvāya vepullāya/pahīyati] saṃvattati yathayidaṃ, bhikkhave, [subhanimittaṃ/asubhanimittaṃ]&amp;#34;] {
-&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
-english(I don&amp;#39;t perceive, bhikkhus, yet another thing which [does not] leads to sensual desire arising [from nonexistence] when it appears, or sensual desire [increasing when it grows/ceasing], as this, bhikkhus, [beauty/repulsiveness].)
-}
-class na {
-&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
-english(not)
-}
-class ahaṃ {
-&amp;lt;&amp;lt;puggalanāma&amp;gt;&amp;gt;
-english(I)
-}
-class bhikkhave {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👥0️⃣
-}
-class aññaṃ {
-&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
-🚹👤2️⃣
-english(other)
-}
-class ekadhammaṃ {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤2️⃣
-english(one thing)
-}
-class pi {
-&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
-english(too)
-}
-class samanupassāmi {
-&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤👆vattamāna
-english(I perceive)
-}
-class yena {
-&amp;lt;&amp;lt;anvayīnāma&amp;gt;&amp;gt;
-🚻👤2️⃣
-english(by when)
-}
-namespace result {
-class kāmacchando {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤1️⃣
-english(sensual desire)
-}
-}
-namespace alternates {
-class vā {
-&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
-english(or)
-}
-class anuppanno {
-&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-🚹👤1️⃣
-english(nonexistent)
-}
-class uppajjati {
-&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤🤟vattamāna
-english(arises)
-}
-class uppanno {
-&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-🚹👤1️⃣
-english(appeared)
-}
-class bhiyyobhāvāya {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤4️⃣
-english(increase of)
-}
-class vepullāya {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤4️⃣
-english(growth of)
-}
-}
-class saṃvattati {
-&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤🤟vattamāna
-english(leads to)
-}
-class yatha {
-&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
-english(as)
-}
-class idaṃ {
-&amp;lt;&amp;lt;puggalanāma&amp;gt;&amp;gt;
-🚻👤2️⃣
-english(this)
-}
-namespace trigger {
-class subhanimittaṃ {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤2️⃣
-english(beauty)
-}
-class asubhanimittaṃ {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤1️⃣
-english(repulsiveness)
-}
-}
-sentence *-- na
-sentence *-- ahaṃ : kattar
-sentence *-- bhikkhave
-sentence *-- aññaṃ
-sentence *-- ekadhammaṃ
-sentence *-- pi
-sentence *-- samanupassāmi : kiriyā
-sentence *-- yena
-sentence *-- vā
-sentence *-- anuppanno
-sentence *-- kāmacchando
-sentence *-- uppajjati
-sentence *-- uppanno
-sentence *-- bhiyyobhāvāya
-sentence *-- vepullāya
-sentence *-- saṃvattati
-sentence *-- yatha
-sentence *-- idaṃ
-sentence *-- subhanimittaṃ
-na -- samanupassāmi
-aññaṃ .. ekadhammaṃ
-ahaṃ --&amp;gt; samanupassāmi : kattar
-ekadhammaṃ --&amp;gt; samanupassāmi : kamma
-ekadhammaṃ .. idaṃ
-pi .. ekadhammaṃ
-yena &amp;lt;.. ekadhammaṃ
-yena ..&amp;gt; anuppanno
-yatha .. idaṃ
-kāmacchando --&amp;gt; uppajjati : kattar
-kāmacchando --&amp;gt; bhiyyobhāvāya
-uppajjati --&amp;gt; uppanno
-bhiyyobhāvāya --&amp;gt; vepullāya
-anuppanno &amp;lt;-- saṃvattati
-uppanno &amp;lt;-- saṃvattati
-vepullāya &amp;lt;-- saṃvattati
-idaṃ -- subhanimittaṃ
-subhanimittaṃ --&amp;gt; saṃvattati&lt;/pre>
-&lt;pre class="mermaid">classDiagram
-class sentence[&amp;#34;[subhanimittaṃ/asubhanimittaṃ], bhikkhave, ayoniso manasi karoto anuppanno ceva kāmacchando [n&amp;#39;] uppajjati uppanno ca kāmacchando [bhiyyobhāvāya vepullāya/pahīyati] saṃvattatī&amp;#34;] {
-&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
-english([Beauty/Repulsiveness], bhikkhus, when [a person] dwells on it imprudently, [does not] leads to sensual desire arising [from nonexistence] when it appears, and sensual desire [increasing when it grows/ceasing].)
-}
-namespace trigger {
-class subhanimittaṃ {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤1️⃣
-english(beauty)
-}
-}
-class bhikkhave {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👥0️⃣
-}
-class ayoniso {
-&amp;lt;&amp;lt;kriyā&amp;gt;&amp;gt;
-english(imprudently)
-}
-class manasi {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤1️⃣
-english(mind)
-}
-class karoto {
-&amp;lt;&amp;lt;missakiriya&amp;gt;&amp;gt;
-👤1️⃣
-english(doing)
-}
-namespace result {
-class kāmacchando {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤1️⃣
-english(sensual desire)
-}
-}
-class ceva {
-&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
-english(but then)
-}
-namespace conjunction {
-class ca {
-&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
-english(and)
-}
-class anuppanno {
-&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-🚹👤1️⃣
-english(nonexistent)
-}
-class uppajjati {
-&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤🤟vattamāna
-english(arises)
-}
-class uppanno {
-&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-🚹👤1️⃣
-english(appeared)
-}
-class bhiyyobhāvāya {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤4️⃣
-english(increase of)
-}
-class vepullāya {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤4️⃣
-english(growth of)
-}
-}
-class saṃvattati {
-&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤🤟vattamāna
-english(leads to)
-}
-sentence *-- subhanimittaṃ
-sentence *-- bhikkhave
-sentence *-- ayoniso
-sentence *-- manasi
-sentence *-- karoto
-sentence *-- ceva
-sentence *-- ca
-sentence *-- anuppanno
-sentence *-- kāmacchando
-sentence *-- uppajjati
-sentence *-- uppanno
-sentence *-- bhiyyobhāvāya
-sentence *-- vepullāya
-sentence *-- saṃvattati
-ayoniso --&amp;gt; karoto
-manasi --&amp;gt; karoto
-karoto ..&amp;gt; ceva
-ceva ..&amp;gt; anuppanno
-kāmacchando --&amp;gt; uppajjati : kattar
-kāmacchando --&amp;gt; bhiyyobhāvāya
-uppajjati --&amp;gt; uppanno
-bhiyyobhāvāya --&amp;gt; vepullāya
-anuppanno &amp;lt;-- saṃvattati
-uppanno &amp;lt;-- saṃvattati
-vepullāya &amp;lt;-- saṃvattati
-subhanimittaṃ --&amp;gt; saṃvattati
-subhanimittaṃ --&amp;gt; karoto&lt;/pre>
-&lt;pre class="mermaid">classDiagram
-class līnacitta[&amp;#34;arati tandī vijambhitā bhattasammado cetaso ca līnattaṃ&amp;#34;] {
-&amp;lt;&amp;lt;pada&amp;gt;&amp;gt;
-english(thoughts of boredom, laziness, sleepiness, food coma and sluggishness)
-}
-class avūpasantacitta[&amp;#34;cetaso avūpasamo&amp;#34;] {
-&amp;lt;&amp;lt;pada&amp;gt;&amp;gt;
-english(thoughts of agitation)
-}
-class ayonisomanasikāro {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤1️⃣
-english(imprudent use of mind)
-}
-namespace trigger {
-class subhanimittaṃ {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤1️⃣
-english(beauty)
-}
-class paṭighanimittaṃ {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤1️⃣
-english(dislike)
-}
-class līnacittassa {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤6️⃣
-english(of sluggish mind)
-}
-class avūpasantacittassa {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤6️⃣
-english(of agitated mind)
-}
-class ayoniso {
-&amp;lt;&amp;lt;kriyā&amp;gt;&amp;gt;
-english(imprudently)
-}
-}
-namespace result {
-class kāmacchando {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤1️⃣
-english(sensual desire)
-}
-class byāpādo {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤1️⃣
-english(ill will)
-}
-class thinamiddhaṃ {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤1️⃣
-english(sloth and torpor)
-}
-class uddhaccakukkuccaṃ {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤1️⃣
-english(restlessness and fidgetiness)
-}
-class vicikicchā {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚺👤1️⃣
-english(doubt)
-}
-}
-namespace nontrigger {
-class asubhanimittaṃ {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤1️⃣
-english(repulsiveness)
-}
-class mettaṃ {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤1️⃣
-english(benevolence)
-}
-class āraddhavīriyassa {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤6️⃣
-english(who is energetic)
-}
-class vūpasantacittassa {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤6️⃣
-english(of calm mind)
-}
-class yoniso {
-&amp;lt;&amp;lt;kriyā&amp;gt;&amp;gt;
-english(prudently)
-}
-}
-subhanimittaṃ .. kāmacchando
-kāmacchando .. asubhanimittaṃ
-paṭighanimittaṃ .. byāpādo
-byāpādo .. mettaṃ
-līnacitta .. līnacittassa
-līnacittassa .. thinamiddhaṃ
-thinamiddhaṃ .. āraddhavīriyassa
-avūpasantacitta .. avūpasantacittassa
-avūpasantacittassa .. uddhaccakukkuccaṃ
-uddhaccakukkuccaṃ .. vūpasantacittassa
-ayonisomanasikāro .. ayoniso
-ayoniso .. vicikicchā
-vicikicchā .. yoniso&lt;/pre></description></item><item><title>Docs: Cittasangahavibhāga</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta/</link><pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta/</guid><description>
-&lt;p>Tattha cittaṁ tāva catubbidhaṁ hoti:&lt;/p>
-&lt;ol>
-&lt;li>kāmāvacaraṁ;&lt;/li>
-&lt;li>rūpā-vacaraṁ;&lt;/li>
-&lt;li>arūpāvacaraṁ;&lt;/li>
-&lt;li>lokuttarañ cā ti.&lt;/li>
-&lt;/ol>
-&lt;dl>
-&lt;dt>lakkhaṇa (salient quality)&lt;/dt>
-&lt;dd>vijānana (knowing of an object)&lt;/dd>
-&lt;dt>rasa (function), kicca (performance of a concrete task), sampatti (achievement of a goal)&lt;/dt>
-&lt;dd>pubbangama (forerunner of mental factors)&lt;/dd>
-&lt;dt>paccupaṭṭhāna (manifestation)&lt;/dt>
-&lt;dd>sandhāna (continuity of process)&lt;/dd>
-&lt;dt>padaṭṭhāna (proximate cause)&lt;/dt>
-&lt;dd>nāmarūpa (mind and matter)&lt;/dd>
-&lt;/dl>
-&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
-hide circle
-hide empty members
-package &amp;#34;jāti (nature)&amp;#34; as jati {
-class kusala {
-Karmically wholesome
-}
-class akusala {
-Karmically unwholesome
-}
-package avyākata {
-class vipāka {
-Karmic resultant
-}
-class kiriya {
-Functional
-}
-}
-}
-package &amp;#34;kāmāvacara (Sense Sphere)&amp;#34; as kamavacara {
-class sobhana {
-Beautiful
-..
-#kusala/vipāka/kiriya
-#somanassa/upekkhā
-#+/- ñāṇa
-#asaṁkhārika/sasaṁkhārika
-}
-class kusalavipāka &amp;lt;&amp;lt;enum&amp;gt;&amp;gt; {
-Wholesome-Resultant
-..
-cakkhuviññāṇa + upekkhā (eye)
-sotaviññāṇa + upekkhā (ear)
-ghānaviññāṇa + upekkhā (nose)
-jivhāviññāṇa + upekkhā (tongue)
-kāyaviññāṇa + sukkha (body)
-sampaṭicchanacitta + upekkhā (receiving)
-santīraṇacitta + somanassa (investigating)
-santīraṇacitta + upekkhā (investigating)
-}
-class dosa {
-Hatred
-..
-+domanassa
-+paṭigha
-#asaṁkhārika/sasaṁkhārika
-}
-class lobha {
-Greed
-..
-#somanassa/upekkhā
-#+/- diṭṭhigata
-#asaṁkhārika/sasaṁkhārika
-}
-class moha {
-Delusion
-..
-#upekkhā
-+vicikicchā/uddhacca
-}
-class akusalavipāka &amp;lt;&amp;lt;enum&amp;gt;&amp;gt; {
-Unwholesome-Resultant
-..
-cakkhuviññāṇa + upekkhā (eye)
-sotaviññāṇa + upekkhā (ear)
-ghānaviññāṇa + upekkhā (nose)
-jivhāviññāṇa + upekkhā (tongue)
-kāyaviññāṇa + dukkha (body)
-sampaṭicchanacitta + upekkhā (receiving)
-santīraṇacitta + upekkhā (investigating)
-}
-class ahetukakiriya &amp;lt;&amp;lt;enum&amp;gt;&amp;gt; {
-Functional
-..
-pañcadvārāvajjanacitta + upekkhā (sense door)
-manodvārāvajjanacitta + upekkhā (mind door)
-hasituppādacitta + somanassa (smile producing)
-}
-}
-class domanassa {
-displeasure
-}
-class paṭigha {
-aversion
-}
-class somanassa {
-joy
-}
-class upekkhā {
-equanimity
-}
-class sukkha {
-pleasure
-}
-class dukkha {
-pain
-}
-class ñāṇa {
-knowledge
-}
-class diṭṭhigata {
-wrong view
-}
-class vicikicchā {
-doubt
-}
-class uddhacca {
-restlessness
-}
-kiriya *-- &amp;#34;3&amp;#34; ahetukakiriya
-kiriya *-- &amp;#34;8&amp;#34; sobhana
-vipāka *-- &amp;#34;7&amp;#34; akusalavipāka
-vipāka *-- &amp;#34;8&amp;#34; kusalavipāka
-vipāka *-- &amp;#34;8&amp;#34; sobhana
-kusala *-- &amp;#34;8&amp;#34; sobhana : mūla
-kusala *-- &amp;#34;8&amp;#34; kusalavipāka : ahetuka
-akusala *-- &amp;#34;7&amp;#34; akusalavipāka : ahetuka
-akusalavipāka --&amp;gt; upekkhā : sahagata
-akusalavipāka --&amp;gt; dukkha : sahagata
-kusalavipāka --&amp;gt; upekkhā : sahagata
-kusalavipāka --&amp;gt; sukkha : sahagata
-kusalavipāka --&amp;gt; somanassa : sahagata
-sobhana --&amp;gt; somanassa : sahagata
-sobhana --&amp;gt; upekkhā : sahagata
-sobhana --+ ñāṇa : sampayutta
-akusala *-- &amp;#34;8&amp;#34; lobha : mūla
-akusala *-- &amp;#34;2&amp;#34; dosa : mūla
-akusala *-- &amp;#34;2&amp;#34; moha : mūla
-dosa --&amp;gt; domanassa : sahagata
-dosa --+ paṭigha : sampayutta
-lobha --+ diṭṭhigata : sampayutta
-lobha --&amp;gt; somanassa : sahagata
-lobha --&amp;gt; upekkhā : sahagata
-moha --+ vicikicchā : sampayutta
-moha --+ uddhacca : sampayutta
-moha --&amp;gt; upekkhā : sahagata
-@enduml
-&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
-hide circle
-hide empty members
-package &amp;#34;jāti (nature)&amp;#34; as jati {
-class kusala {
-Karmically wholesome
-}
-class akusala {
-Karmically unwholesome
-}
-package avyākata {
-class vipāka {
-Karmic resultant
-}
-class kiriya {
-Functional
-}
-}
-}
-package &amp;#34;rūpāvacara (Fine Material Sphere)&amp;#34; as rupavacara {
-class rūpāvacaracitta {
-Fine Material
-..
-#kusala/vipāka/kiriya
-1. Vitakka-vicāra-pīti-sukh’-ekaggatā-sahitaṁ paṭhamajjhāna
-2. Vicāra-pīti-sukh’-ekaggatā-sahitaṁ dutiyajjhāna
-3. Pīti-sukh’-ekaggatā-sahitaṁ tatiyajjhāna
-4. Sukh’-ekaggatā-sahitaṁ catutthajjhāna
-5. Upekkh’-ekaggatā-sahitaṁ pañcamajjhāna
-}
-}
-class vitakka {
-Initial application
-}
-class vicāra {
-Sustained application
-}
-class pīti {
-zest
-}
-class sukkha {
-happiness
-}
-class upekkhā {
-equanimity
-}
-class ekaggatā {
-one-pointedness
-}
-kusala *-- &amp;#34;5&amp;#34; rūpāvacaracitta
-vipāka *-- &amp;#34;5&amp;#34; rūpāvacaracitta
-kiriya *-- &amp;#34;5&amp;#34; rūpāvacaracitta
-rūpāvacaracitta --&amp;gt; vitakka
-rūpāvacaracitta --&amp;gt; vicāra
-rūpāvacaracitta --&amp;gt; pīti
-rūpāvacaracitta --&amp;gt; sukkha
-rūpāvacaracitta --&amp;gt; upekkhā
-rūpāvacaracitta --&amp;gt; ekaggatā
-package &amp;#34;arūpāvacara (Immaterial Sphere)&amp;#34; as arupavacara {
-class arūpāvacaracitta {
-Immaterial
-..
-#kusala/vipāka/kiriya
-1. Ākāsānañcāyatana
-2. Viññāṇañcāyatana
-3. Ākiñcaññāyatana
-4. N’evasaññān’āsaññāyatana
-}
-}
-class Ākāsānañcāyatana {
-Infinity of Space
-}
-class Viññāṇañcāyatana {
-Infinity of Consciousness
-}
-class Ākiñcaññāyatana {
-Nothingness
-}
-class &amp;#34;N’evasaññān’āsaññāyatana&amp;#34; {
-Neither perception nor non perception
-}
-kusala *-- &amp;#34;4&amp;#34; arūpāvacaracitta
-vipāka *-- &amp;#34;4&amp;#34; arūpāvacaracitta
-kiriya *-- &amp;#34;4&amp;#34; arūpāvacaracitta
-arūpāvacaracitta --&amp;gt; Ākāsānañcāyatana
-arūpāvacaracitta --&amp;gt; Viññāṇañcāyatana
-arūpāvacaracitta --&amp;gt; Ākiñcaññāyatana
-arūpāvacaracitta --&amp;gt; &amp;#34;N’evasaññān’āsaññāyatana&amp;#34;
-package &amp;#34;lokuttarañ (Supramundane)&amp;#34; as lokuttaran {
-class lokuttaracitta {
-Supra Mundane
-..
-#magga/phala
-#jhána (5)
-1. Sotāpatti
-2. Sakadāgāmī
-3. Anāgāmī
-4. Arahatta
-}
-}
-class sotāpatti {
-stream entry
-}
-class sakadāgāmī {
-once returning
-}
-class anāgāmī {
-non-returning
-}
-class arahatta {
-arahantship
-}
-kusala *-- &amp;#34;4 (x5)&amp;#34; lokuttaracitta
-vipāka *-- &amp;#34;4 (x5)&amp;#34; lokuttaracitta
-lokuttaracitta --&amp;gt; sotāpatti
-lokuttaracitta --&amp;gt; sakadāgāmī
-lokuttaracitta --&amp;gt; anāgāmī
-lokuttaracitta --&amp;gt; arahatta
-@enduml
-&lt;/code>&lt;/pre>&lt;h2 id="cittasangahavibhāga-89">cittasangahavibhāga 89&lt;/h2>
-&lt;div id="observablehq-sunburst-05b62c03">&lt;/div>
-&lt;div id="observablehq-hierarchy-05b62c03">&lt;/div>
-&lt;div id="observablehq-icicle-05b62c03">&lt;/div>
-&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
-&lt;script type="module">
-import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-import define from "https://api.observablehq.com/d/6a38e27b43175761@163.js?v=3";
-new Runtime().module(define, name => {
-if (name === "sunburst") return new Inspector(document.querySelector("#observablehq-sunburst-05b62c03"));
-if (name === "hierarchy") return new Inspector(document.querySelector("#observablehq-hierarchy-05b62c03"));
-if (name === "icicle") return new Inspector(document.querySelector("#observablehq-icicle-05b62c03"));
-});
-&lt;/script>
-&lt;h2 id="cittasangahavibhāga-121">cittasangahavibhāga 121&lt;/h2>
-&lt;div id="observablehq-sunburst-1ca97e32">&lt;/div>
-&lt;div id="observablehq-hierarchy-1ca97e32">&lt;/div>
-&lt;div id="observablehq-icicle-1ca97e32">&lt;/div>
-&lt;script type="module">
-import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-import define from "https://api.observablehq.com/d/fcdbb41494ddc64e@126.js?v=3";
-new Runtime().module(define, name => {
-if (name === "sunburst") return new Inspector(document.querySelector("#observablehq-sunburst-1ca97e32"));
-if (name === "hierarchy") return new Inspector(document.querySelector("#observablehq-hierarchy-1ca97e32"));
-if (name === "icicle") return new Inspector(document.querySelector("#observablehq-icicle-1ca97e32"));
-});
-&lt;/script></description></item><item><title>Docs: Cetasikasangahavibhāga</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/cetasika/</link><pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/cetasika/</guid><description>
-&lt;p>Ekuppāda-nirodhā ca ekālambana-vatthukā&lt;br>
-Cetoyuttā dvipaññāsa dhammā cetasikā matā.&lt;/p>
-&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startmindmap
-*:==aññasamānacetasika
-----
-Ethically Variable Factors;
-**:===sabbacittasādhāraṇa
-----
-Universals;
-***_ 1. Contact (phassa)
-***_ 2. Feeling (vedanā)
-***_ 3. Perception (saññā)
-***_ 4. Volition (cetanā)
-***_ 5. One-pointedness (ekaggatā)
-***_ 6. Mental life faculty (jīvitindriya)
-***_ 7. Attention (manasikāra)
-**:===pakiṇṇaka
-----
-Occasionals;
-***_ 8. Initial application (vitakka)
-***_ 9. Sustained application (vicāra)
-***_ 10. Decision (adhimokkha)
-***_ 11. Energy (viriya)
-***_ 12. Zest (pīti)
-***_ 13. Desire (chanda)
-*:==akusalacetasika
-----
-Unwholesome Factors;
-**:===sabbacittasādhāraṇa
-----
-Universals;
-***_ 14. Delusion (moha)
-***_ 15. Shamelessness (ahirika)
-***_ 16. fearlessness of wrongdoing (anottappa)
-***_ 17. Restlessness (uddhacca)
-**:===pakiṇṇaka
-----
-Occasionals;
-***_ 18. Greed (lobha)
-***_ 19. Wrong view (diṭṭhi)
-***_ 20. Conceit (māna)
-***_ 21. Hatred (dosa)
-***_ 22. Envy (issā)
-***_ 23. Avarice (macchariya)
-***_ 24. Worry (kukkucca)
-***_ 25. Sloth (thīna)
-***_ 26. Torpor (middha)
-***_ 27. Doubt (vicikicchā)
-*:==sobhanacetasika
-----
-Beautiful Factors;
-**:===sobhanasādhāraṇa
-----
-Universals;
-***_ 28. Faith (saddhā)
-***_ 29. Mindfulness (sati)
-***_ 30. Shame (hiri)
-***_ 31. fear of wrongdoing (ottappa)
-***_ 32. Non-greed (alobha)
-***_ 33. Non-hatred (adosa)
-***_ 34. Neutrality of mind (tatramajjhattatā)
-***_ 35. Tranquillity of the (mental) body (kāyapassaddhi)
-***_ 36. Tranquillity of consciousness (cittapassaddhi)
-***_ 37. Lightness of the (mental) body (kāyalahutā)
-***_ 38. Lightness of consciousness (cittalahutā)
-***_ 39. Malleability of the (mental) body (kāyamudutā)
-***_ 40. Malleability of consciousness (cittamudutā)
-***_ 41. Wieldiness of the (mental) body (kāyakammaññatā)
-***_ 42. Wieldiness of consciousness (cittakammaññatā)
-***_ 43. Proficiency of the (mental) body (kāyapāguññatā)
-***_ 44. Proficiency of consciousness (cittapāguññatā)
-***_ 45. Rectitude of the (mental) body (kāyujjukatā)
-***_ 46. Rectitude of consciousness (cittujjukatā)
-**:===virati
-----
-Abstinences;
-***_ 47. Right speech (sammāvācā)
-***_ 48. Right action (sammākammanta)
-***_ 49. Right livelihood (sammā-ājīva)
-**:===appamaññā
-----
-Illimitables;
-***_ 50. Compassion (karuṇā)
-***_ 51. Appreciative joy (muditā)
-**:===amoha
-----
-Non-Delusion;
-***_ 52. wisdom faculty (paññā)
-@endmindmap
-&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
-hide circle
-hide empty members
-class appamaññā {
-Illimitables
-}
-class brahmavihāra {
-divine abodes
-sublime states
-}
-class tatramajjhattatā {
-neutrality of mind
-}
-class upekkhā {
-equanimity
-}
-adosa &amp;lt;|-- mettā
-tatramajjhattatā &amp;lt;|-- upekkhā
-appamaññā &amp;lt;|-- upekkhā
-appamaññā &amp;lt;|-- mettā
-appamaññā &amp;lt;|-- karuṇā
-appamaññā &amp;lt;|-- muditā
-brahmavihāra &amp;lt;--&amp;gt; appamaññā
-class mettā {
-loving-kindness
-}
-class karuṇā {
-compassion
-}
-class muditā {
-appreciative joy
-}
-class dosa {
-hatred
-}
-class adosa {
-non-hatred
-}
-dosa &amp;lt;-&amp;gt; adosa
-@endmindmap
-&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
-hide circle
-hide empty members
-class moha {
-delusion
-}
-class amoha {
-nondelusion
-}
-class ñāna {
-knowledge
-}
-class paññā {
-wisdom
-}
-moha &amp;lt;-&amp;gt; amoha
-amoha &amp;lt;|-- ñāna
-amoha &amp;lt;|-- paññā
-@endmindmap
-&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
-hide circle
-hide empty members
-class ahiri {
-shamelessness
-}
-class hiri {
-shame
-}
-ahiri &amp;lt;-&amp;gt; hiri
-class anottappa {
-fearlessness of wrongdoing
-}
-class ottappa {
-fear of wrongdoing
-}
-anottappa &amp;lt;-&amp;gt; ottappa
-@endmindmap
-&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
-hide circle
-hide empty members
-class lobha {
-greed
-}
-class alobha {
-non-greed
-}
-alobha &amp;lt;-&amp;gt; lobha
-class vicikicchā {
-doubt
-}
-class saddhā {
-faith
-}
-vicikicchā &amp;lt;-&amp;gt; saddhā
-@endmindmap
-&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
-hide circle
-hide empty members
-class viriya {
-energy
-}
-class lahutā {
-lightness
-}
-class thīna {
-sloth
-}
-class middha {
-torpor
-}
-viriya &amp;lt;-&amp;gt; thīna
-thīna &amp;lt;-&amp;gt; lahutā
-lahutā &amp;lt;-&amp;gt; middha
-@endmindmap
-&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
-hide circle
-hide empty members
-class uddhacca {
-restlessness
-}
-class kukkucca {
-worry
-}
-class passaddhi {
-tranquility
-}
-uddhacca &amp;lt;-&amp;gt; passaddhi
-passaddhi &amp;lt;-&amp;gt; kukkucca
-@endmindmap
-&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
-hide circle
-hide empty members
-class diṭṭhi {
-wrong view
-}
-class māna {
-conceit
-}
-class mudutā {
-malleability
-}
-diṭṭhi &amp;lt;-&amp;gt; mudutā
-mudutā &amp;lt;-&amp;gt; māna
-@endmindmap
-&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startuml
-hide circle
-hide empty members
-class virati {
-abstinences
-}
-class sampattavirati {
-natural abstinence
-}
-class samādānavirati {
-abstinence by undertaking precepts
-}
-class sammucchedavirati {
-abstinence by eradication
-}
-virati *-- sampattavirati
-virati *-- samādānavirati
-virati *-- sammucchedavirati
-@enduml
-&lt;/code>&lt;/pre>&lt;div id="observablehq-sunburst-eb65fb96">&lt;/div>
-&lt;div id="observablehq-hierarchy-eb65fb96">&lt;/div>
-&lt;div id="observablehq-icicle-eb65fb96">&lt;/div>
-&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
-&lt;script type="module">
-import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-import define from "https://api.observablehq.com/d/ba3e05233de6427b@144.js?v=3";
-new Runtime().module(define, name => {
-if (name === "sunburst") return new Inspector(document.querySelector("#observablehq-sunburst-eb65fb96"));
-if (name === "hierarchy") return new Inspector(document.querySelector("#observablehq-hierarchy-eb65fb96"));
-if (name === "icicle") return new Inspector(document.querySelector("#observablehq-icicle-eb65fb96"));
-});
-&lt;/script></description></item><item><title>Docs: Citta-Cetasika</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta-cetasika/</link><pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/citta-cetasika/</guid><description>
-&lt;ul>
-&lt;li>cetasikasampayoganaya (Association of Mental Factors)&lt;/li>
-&lt;li>cetasikasangahanaya (Combinations of Mental Factors)&lt;/li>
-&lt;/ul>
-&lt;div id="observablehq-scatter-dc43f51f">&lt;/div>
-&lt;div id="observablehq-viewof-linkColor-dc43f51f">&lt;/div>
-&lt;div id="observablehq-viewof-nodeAlign-dc43f51f">&lt;/div>
-&lt;div id="observablehq-chart-dc43f51f">&lt;/div>
-&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
-&lt;script type="module">
-import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-import define from "https://api.observablehq.com/d/4922cbb38cfb4fda@235.js?v=3";
-new Runtime().module(define, name => {
-if (name === "scatter") return new Inspector(document.querySelector("#observablehq-scatter-dc43f51f"));
-if (name === "viewof linkColor") return new Inspector(document.querySelector("#observablehq-viewof-linkColor-dc43f51f"));
-if (name === "viewof nodeAlign") return new Inspector(document.querySelector("#observablehq-viewof-nodeAlign-dc43f51f"));
-if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-dc43f51f"));
-});
-&lt;/script>
-&lt;div id="observablehq-chart-e0b8e564">&lt;/div>
-&lt;script type="module">
-import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-import define from "https://api.observablehq.com/d/0e0e7e12ffc669a7.js?v=3";
-new Runtime().module(define, name => {
-if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-e0b8e564"));
-});
-&lt;/script></description></item><item><title>Docs: kiccasangaha</title><link>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/kicca/</link><pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/abhidhamma/sangaha/kicca/</guid><description>
-&lt;pre class="mermaid">stateDiagram-v2
-direction TB
-classDef notMoving fill:white
-classDef movement font-style:italic
-classDef badBadEvent fill:#f00,color:white,font-weight:bold,stroke-width:2px,stroke:yellow
-paṭisandhi --&amp;gt; bhavanga
-bhavanga --&amp;gt; bhavanga
-bhavanga --&amp;gt; pañcadvāravīthi
-State pañcadvāravīthi {
-bhavangacalana: bhavanga-calana
-bhavangupaccheda: bhavang’-upaccheda
-javana: javana x7
-tadārammaṇa: tadārammaṇa x2
-bhavangacalana --&amp;gt; bhavangupaccheda
-bhavangupaccheda --&amp;gt; pañcadvārāvajjana
-state fork_state &amp;lt;&amp;lt;fork&amp;gt;&amp;gt;
-pañcadvārāvajjana --&amp;gt; fork_state
-fork_state --&amp;gt; cakkhuviññāṇaṁ
-fork_state --&amp;gt; sotaviññāṇaṁ
-fork_state --&amp;gt; ghānaviññāṇaṁ
-fork_state --&amp;gt; jivhāviññāṇaṁ
-fork_state --&amp;gt; kāyaviññāṇaṁ
-state join_state &amp;lt;&amp;lt;join&amp;gt;&amp;gt;
-cakkhuviññāṇaṁ --&amp;gt; join_state
-sotaviññāṇaṁ --&amp;gt; join_state
-ghānaviññāṇaṁ --&amp;gt; join_state
-jivhāviññāṇaṁ --&amp;gt; join_state
-kāyaviññāṇaṁ --&amp;gt; join_state
-join_state --&amp;gt; sampaṭicchana
-sampaṭicchana --&amp;gt; santīraṇa
-santīraṇa --&amp;gt; votthapana
-votthapana --&amp;gt; javana
-javana --&amp;gt; tadārammaṇa
-}
-pañcadvāravīthi --&amp;gt; bhavanga
-bhavanga--&amp;gt; cuti
-cuti --&amp;gt; paṭisandhi&lt;/pre></description></item><item><title>Docs: saraṇattaya</title><link>https://christham.net/buddhavacana/docs/sutta/khuddaka/khuddakanik%C4%81ya/khuddakap%C4%81%E1%B9%ADha/sara%E1%B9%87attaya/</link><pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/khuddaka/khuddakanik%C4%81ya/khuddakap%C4%81%E1%B9%ADha/sara%E1%B9%87attaya/</guid><description>
-&lt;p>Khp. 1:&lt;/p>
-&lt;blockquote>
-&lt;p>buddhaṃ saraṇaṃ gacchāmi,&lt;br>
-dhammaṃ saraṇaṃ gacchāmi,&lt;br>
-saṅghaṃ saraṇaṃ gacchāmi.&lt;br>
-dutiyampi buddhaṃ saraṇaṃ gacchāmi,&lt;br>
-dutiyampi dhammaṃ saraṇaṃ gacchāmi,&lt;br>
-dutiyampi saṅghaṃ saraṇaṃ gacchāmi.&lt;br>
-tatiyampi buddhaṃ saraṇaṃ gacchāmi,&lt;br>
-tatiyampi dhammaṃ saraṇaṃ gacchāmi,&lt;br>
-tatiyampi saṅghaṃ saraṇaṃ gacchāmi.&lt;/p>
-&lt;/blockquote>
-&lt;pre class="mermaid">classDiagram
-class sentence[&amp;#34;dutiyampi/tatiyampi buddhaṃ/dhammaṃ/saṅghaṃ saraṇaṃ gacchāmi&amp;#34;] {
-&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
-english((For the second/third time) I go to the Buddha/Dhamma/Sangha as refuge)
-}
-namespace saṅkhyāpūraṇa {
-class dutiyaṃ {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-2️⃣
-english(second time)
-}
-class tatiyaṃ {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-2️⃣
-english(third time)
-}
-}
-class pi {
-&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
-english(too)
-}
-namespace saraṇa {
-class buddhaṃ {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤2️⃣
-}
-class dhammaṃ {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤2️⃣
-}
-class saṅghaṃ {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤2️⃣
-}
-}
-class saraṇaṃ {
-&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤2️⃣
-english(as refuge)
-}
-class gacchāmi {
-&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤👆vattamāna
-english(I go)
-}
-sentence *-- dutiyaṃ
-sentence *-- tatiyaṃ
-sentence *-- pi
-sentence *-- buddhaṃ : kamma
-sentence *-- dhammaṃ : kamma
-sentence *-- saṅghaṃ : kamma
-sentence *-- saraṇaṃ : kamma
-sentence *-- gacchāmi: kiriya
-buddhaṃ .. saraṇaṃ
-dhammaṃ .. saraṇaṃ
-saṅghaṃ .. saraṇaṃ&lt;/pre>
-&lt;pre class="mermaid">sequenceDiagram
-participant ahaṃ as (ahaṃ)
-participant buddhaṃ
-participant dhammaṃ
-participant saṅghaṃ
-loop (paṭhama), dutiyampi, tatiyampi
-ahaṃ -&amp;gt;&amp;gt; buddhaṃ : gacchāmi
-buddhaṃ -&amp;gt;&amp;gt; saraṇaṃ : (hoti)
-ahaṃ -&amp;gt;&amp;gt; dhammaṃ : gacchāmi
-dhammaṃ -&amp;gt;&amp;gt; saraṇaṃ : (hoti)
-ahaṃ -&amp;gt;&amp;gt; saṅghaṃ : gacchāmi
-saṅghaṃ -&amp;gt;&amp;gt; saraṇaṃ : (hoti)
-end&lt;/pre>
-&lt;pre class="mermaid">stateDiagram-v2
-state fork_state &amp;lt;&amp;lt;fork&amp;gt;&amp;gt;
-state join_state &amp;lt;&amp;lt;join&amp;gt;&amp;gt;
-[*] --&amp;gt; fork_state : gacchāmi
-fork_state --&amp;gt; buddhaṃ
-fork_state --&amp;gt; dhammaṃ
-fork_state --&amp;gt; saṅghaṃ
-buddhaṃ --&amp;gt; join_state
-dhammaṃ --&amp;gt; join_state
-saṅghaṃ --&amp;gt; join_state
-join_state --&amp;gt; saraṇaṃ
-saraṇaṃ --&amp;gt; fork_state : dutiyampi, tatiyampi&lt;/pre></description></item><item><title>Docs: pañcupādānakkhandhā</title><link>https://christham.net/buddhavacana/docs/sutta/5aggregates/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/5aggregates/</guid><description>
+&lt;p>* &lt;em>(&lt;code>ṁ&lt;/code> becomes &lt;code>m&lt;/code> as it precedes &lt;code>p&lt;/code>)&lt;/em>&lt;/p></description></item><item><title>Docs: pañcupādānakkhandhā</title><link>https://christham.net/buddhavacana/docs/sutta/5aggregates/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/5aggregates/</guid><description>
 &lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
 markmap:
 zoom: false

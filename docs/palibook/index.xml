@@ -182,7 +182,7 @@ tonality. Modern day Pali pronunciation is based on how the Buddhist Pali canon
 is chanted in various countries including Sri Lanka, Myanmar and Thailand.&lt;/p>
 &lt;div class="alert alert-light" role="alert">
 &lt;h4 class="alert-heading">Reference&lt;/h4>
-&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/alphabet/">&lt;strong>A: The Pāli Alphabet&lt;/strong>&lt;/a>
+&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/alphabet/">&lt;strong>B: The Pāli Alphabet&lt;/strong>&lt;/a>
 &lt;/div>
 &lt;h2 id="sandhi-word-transformations">&lt;code>sandhi&lt;/code> (word transformations)&lt;/h2>
 &lt;p>As Pali is a spoken language, when words are combined to form a sentence,
@@ -218,7 +218,7 @@ and more sentences in Pali, these changes will become easier to recognise.&lt;/p
 &lt;div class="alert alert-light" role="alert">
 &lt;h4 class="alert-heading">Reference&lt;/h4>
 For a summary of the rules, please refer to
-&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/sandhi/">&lt;strong>B: &lt;code>sandhi&lt;/code> Rules&lt;/strong>&lt;/a>
+&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/sandhi/">&lt;strong>D: &lt;code>sandhi&lt;/code> Rules&lt;/strong>&lt;/a>
 {12}-{51}
 &lt;/div>
 &lt;h2 id="nāmā-nouns-52">&lt;code>nāmā&lt;/code> (nouns) {52}&lt;/h2>
@@ -1148,7 +1148,7 @@ together with various &lt;code>upasagga&lt;/code> prefixes and the &lt;code>ṇa
 &lt;h4 class="alert-heading">Reference&lt;/h4>
 For a listing of the detailed meanings that are associated with &lt;code>upasagga&lt;/code>,
 please refer to
-&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/upasagga/">&lt;strong>D: &lt;code>upasagga&lt;/code> meanings&lt;/strong>&lt;/a>
+&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/upasagga/">&lt;strong>F: &lt;code>upasagga &lt;/code> meanings&lt;/strong>&lt;/a>
 &lt;/div>
 &lt;h2 id="-samāsa-compound-nouns-316-343">🆎 &lt;code>samāsa&lt;/code> (compound nouns) {316}-{343}&lt;/h2>
 &lt;p>Like German, Pali often combines many nouns to form a compound noun. (TBD)&lt;/p>
@@ -1610,7 +1610,181 @@ from thief / fear / arises&lt;br>
 &lt;p>🚹👤5️⃣🆎(ācariya+upajjhāya) 🚺👤2️⃣(sikkhaṁ) 👤(🟢🤟▶️(gaṇhāti) 🚹1️⃣(sisso))&lt;br>
 teacher and preceptor / lesson / takes / pupil&lt;br>
 &lt;em>The pupil takes lesson from the teacher/preceptor.&lt;/em>&lt;/p>
-&lt;p>(TBD: incomplete)&lt;/p></description></item><item><title>Docs: A: The Pali Alphabet</title><link>https://christham.net/buddhavacana/docs/palibook/alphabet/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/alphabet/</guid><description>
+&lt;p>(TBD: incomplete)&lt;/p></description></item><item><title>Docs: A: Symbols used in this Book</title><link>https://christham.net/buddhavacana/docs/palibook/symbols/</link><pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/symbols/</guid><description>
+&lt;div class="alert alert-primary" role="alert">
+Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
+&lt;/div>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>symbol&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;th>explanation&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>🚹&lt;/td>
+&lt;td>&lt;code>pulliṅga&lt;/code>&lt;/td>
+&lt;td>major (masculine) gender&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🚻&lt;/td>
+&lt;td>&lt;code>napuṁsakaliṅga&lt;/code>&lt;/td>
+&lt;td>special (neuter) gender&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🚺&lt;/td>
+&lt;td>&lt;code>itthiliṅga&lt;/code>&lt;/td>
+&lt;td>minor (feminine) gender&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👤&lt;/td>
+&lt;td>&lt;code>ekavacana&lt;/code>&lt;/td>
+&lt;td>singular&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👥&lt;/td>
+&lt;td>&lt;code>bahuvacana&lt;/code>&lt;/td>
+&lt;td>plural&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🟢&lt;/td>
+&lt;td>&lt;code>parassapada&lt;/code>&lt;/td>
+&lt;td>active voice&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔵&lt;/td>
+&lt;td>&lt;code>attanopada&lt;/code>&lt;/td>
+&lt;td>middle voice - impersonal&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👤&lt;/td>
+&lt;td>&lt;code>ekavacana&lt;/code>&lt;/td>
+&lt;td>singular&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👥&lt;/td>
+&lt;td>&lt;code>bahuvacana&lt;/code>&lt;/td>
+&lt;td>plural&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🤟&lt;/td>
+&lt;td>&lt;code>paṭhama purisa&lt;/code>&lt;/td>
+&lt;td>first person, equivalent to &amp;rsquo;third person&amp;rsquo; in English&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🤘&lt;/td>
+&lt;td>&lt;code>majjima purisa&lt;/code>&lt;/td>
+&lt;td>middle person, equivalent to &amp;lsquo;second person&amp;rsquo; in English&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👆&lt;/td>
+&lt;td>&lt;code>uttama purisa&lt;/code>&lt;/td>
+&lt;td>primary person, equivalent to &amp;lsquo;first person&amp;rsquo; in English&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>0️⃣&lt;/td>
+&lt;td>&lt;code>ālapana&lt;/code>&lt;/td>
+&lt;td>vocative&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1️⃣&lt;/td>
+&lt;td>&lt;code>paṭhamā&lt;/code>&lt;/td>
+&lt;td>first case (nominative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2️⃣&lt;/td>
+&lt;td>&lt;code>dutiyā&lt;/code>&lt;/td>
+&lt;td>second case (accusative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3️⃣&lt;/td>
+&lt;td>&lt;code>tatiyā&lt;/code>&lt;/td>
+&lt;td>third case (instrumental)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4️⃣&lt;/td>
+&lt;td>&lt;code>catutthī&lt;/code>&lt;/td>
+&lt;td>fourth case (dative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>5️⃣&lt;/td>
+&lt;td>&lt;code>pañcamī&lt;/code>&lt;/td>
+&lt;td>fifth case (ablative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>6️⃣&lt;/td>
+&lt;td>&lt;code>chaṭṭhī&lt;/code>&lt;/td>
+&lt;td>sixth case (genitive)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>7️⃣&lt;/td>
+&lt;td>&lt;code>sattamī&lt;/code>&lt;/td>
+&lt;td>seventh case (locative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏏️&lt;/td>
+&lt;td>&lt;code>nipāta&lt;/code>&lt;/td>
+&lt;td>particle&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔼&lt;/td>
+&lt;td>&lt;code>upasagga&lt;/code>&lt;/td>
+&lt;td>prefix&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🆎&lt;/td>
+&lt;td>&lt;code>samāsa&lt;/code>&lt;/td>
+&lt;td>compound noun&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔽&lt;/td>
+&lt;td>&lt;code>taddhita&lt;/code>&lt;/td>
+&lt;td>affix&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>▶️&lt;/td>
+&lt;td>&lt;code>vattamāna&lt;/code>&lt;/td>
+&lt;td>present&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏹&lt;/td>
+&lt;td>&lt;code>piñcamī&lt;/code>&lt;/td>
+&lt;td>imperative&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏯&lt;/td>
+&lt;td>&lt;code>sattamī&lt;/code>&lt;/td>
+&lt;td>potential&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔄&lt;/td>
+&lt;td>&lt;code>parokkhā&lt;/code>&lt;/td>
+&lt;td>perfect&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>↩️&lt;/td>
+&lt;td>&lt;code>hiyyattanī&lt;/code>&lt;/td>
+&lt;td>imperfect&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏮&lt;/td>
+&lt;td>&lt;code>ajjatanī&lt;/code>&lt;/td>
+&lt;td>aorist&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏭&lt;/td>
+&lt;td>&lt;code>bhavissanti&lt;/code>&lt;/td>
+&lt;td>future&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔀&lt;/td>
+&lt;td>&lt;code>kālātipatti&lt;/code>&lt;/td>
+&lt;td>conditional&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Docs: A: The Pali Alphabet</title><link>https://christham.net/buddhavacana/docs/palibook/alphabet/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/alphabet/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/div>
@@ -1957,7 +2131,7 @@ hakāra: h&lt;/p>
 &lt;p>ṃ (niggahīta) can be written η, ṁ or ṃ&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>Docs: B: `sandhi` Rules</title><link>https://christham.net/buddhavacana/docs/palibook/sandhi/</link><pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/sandhi/</guid><description>
+&lt;/div></description></item><item><title>Docs: D: `sandhi` Rules</title><link>https://christham.net/buddhavacana/docs/palibook/sandhi/</link><pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/sandhi/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/div>
@@ -2210,10 +2384,10 @@ Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>(TBD: incomplete)&lt;/p></description></item><item><title>Docs: C: `vibhatti` Rules</title><link>https://christham.net/buddhavacana/docs/palibook/vibhatti/</link><pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/vibhatti/</guid><description>
+&lt;p>(TBD: incomplete)&lt;/p></description></item><item><title>Docs: E: `vibhatti` Rules</title><link>https://christham.net/buddhavacana/docs/palibook/vibhatti/</link><pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/vibhatti/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
-&lt;/div></description></item><item><title>Docs: D: `upasagga` meanings</title><link>https://christham.net/buddhavacana/docs/palibook/upasagga/</link><pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/upasagga/</guid><description>
+&lt;/div></description></item><item><title>Docs: F: `upasagga ` meanings</title><link>https://christham.net/buddhavacana/docs/palibook/upasagga/</link><pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/upasagga/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/div>

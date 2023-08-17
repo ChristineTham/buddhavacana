@@ -1,0 +1,175 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – symbols</title><link>https://christham.net/buddhavacana/tags/symbols/</link><description>Recent content in symbols on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://christham.net/buddhavacana/tags/symbols/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: A: Symbols used in this Book</title><link>https://christham.net/buddhavacana/docs/palibook/symbols/</link><pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/symbols/</guid><description>
+&lt;div class="alert alert-primary" role="alert">
+Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
+&lt;/div>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>symbol&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;th>explanation&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>🚹&lt;/td>
+&lt;td>&lt;code>pulliṅga&lt;/code>&lt;/td>
+&lt;td>major (masculine) gender&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🚻&lt;/td>
+&lt;td>&lt;code>napuṁsakaliṅga&lt;/code>&lt;/td>
+&lt;td>special (neuter) gender&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🚺&lt;/td>
+&lt;td>&lt;code>itthiliṅga&lt;/code>&lt;/td>
+&lt;td>minor (feminine) gender&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👤&lt;/td>
+&lt;td>&lt;code>ekavacana&lt;/code>&lt;/td>
+&lt;td>singular&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👥&lt;/td>
+&lt;td>&lt;code>bahuvacana&lt;/code>&lt;/td>
+&lt;td>plural&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🟢&lt;/td>
+&lt;td>&lt;code>parassapada&lt;/code>&lt;/td>
+&lt;td>active voice&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔵&lt;/td>
+&lt;td>&lt;code>attanopada&lt;/code>&lt;/td>
+&lt;td>middle voice - impersonal&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👤&lt;/td>
+&lt;td>&lt;code>ekavacana&lt;/code>&lt;/td>
+&lt;td>singular&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👥&lt;/td>
+&lt;td>&lt;code>bahuvacana&lt;/code>&lt;/td>
+&lt;td>plural&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🤟&lt;/td>
+&lt;td>&lt;code>paṭhama purisa&lt;/code>&lt;/td>
+&lt;td>first person, equivalent to &amp;rsquo;third person&amp;rsquo; in English&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🤘&lt;/td>
+&lt;td>&lt;code>majjima purisa&lt;/code>&lt;/td>
+&lt;td>middle person, equivalent to &amp;lsquo;second person&amp;rsquo; in English&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>👆&lt;/td>
+&lt;td>&lt;code>uttama purisa&lt;/code>&lt;/td>
+&lt;td>primary person, equivalent to &amp;lsquo;first person&amp;rsquo; in English&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>0️⃣&lt;/td>
+&lt;td>&lt;code>ālapana&lt;/code>&lt;/td>
+&lt;td>vocative&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1️⃣&lt;/td>
+&lt;td>&lt;code>paṭhamā&lt;/code>&lt;/td>
+&lt;td>first case (nominative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2️⃣&lt;/td>
+&lt;td>&lt;code>dutiyā&lt;/code>&lt;/td>
+&lt;td>second case (accusative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3️⃣&lt;/td>
+&lt;td>&lt;code>tatiyā&lt;/code>&lt;/td>
+&lt;td>third case (instrumental)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4️⃣&lt;/td>
+&lt;td>&lt;code>catutthī&lt;/code>&lt;/td>
+&lt;td>fourth case (dative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>5️⃣&lt;/td>
+&lt;td>&lt;code>pañcamī&lt;/code>&lt;/td>
+&lt;td>fifth case (ablative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>6️⃣&lt;/td>
+&lt;td>&lt;code>chaṭṭhī&lt;/code>&lt;/td>
+&lt;td>sixth case (genitive)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>7️⃣&lt;/td>
+&lt;td>&lt;code>sattamī&lt;/code>&lt;/td>
+&lt;td>seventh case (locative)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏏️&lt;/td>
+&lt;td>&lt;code>nipāta&lt;/code>&lt;/td>
+&lt;td>particle&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔼&lt;/td>
+&lt;td>&lt;code>upasagga&lt;/code>&lt;/td>
+&lt;td>prefix&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🆎&lt;/td>
+&lt;td>&lt;code>samāsa&lt;/code>&lt;/td>
+&lt;td>compound noun&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔽&lt;/td>
+&lt;td>&lt;code>taddhita&lt;/code>&lt;/td>
+&lt;td>affix&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>▶️&lt;/td>
+&lt;td>&lt;code>vattamāna&lt;/code>&lt;/td>
+&lt;td>present&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏹&lt;/td>
+&lt;td>&lt;code>piñcamī&lt;/code>&lt;/td>
+&lt;td>imperative&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏯&lt;/td>
+&lt;td>&lt;code>sattamī&lt;/code>&lt;/td>
+&lt;td>potential&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔄&lt;/td>
+&lt;td>&lt;code>parokkhā&lt;/code>&lt;/td>
+&lt;td>perfect&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>↩️&lt;/td>
+&lt;td>&lt;code>hiyyattanī&lt;/code>&lt;/td>
+&lt;td>imperfect&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏮&lt;/td>
+&lt;td>&lt;code>ajjatanī&lt;/code>&lt;/td>
+&lt;td>aorist&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏭&lt;/td>
+&lt;td>&lt;code>bhavissanti&lt;/code>&lt;/td>
+&lt;td>future&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🔀&lt;/td>
+&lt;td>&lt;code>kālātipatti&lt;/code>&lt;/td>
+&lt;td>conditional&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>
