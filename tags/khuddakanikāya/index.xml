@@ -1,0 +1,94 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – khuddakanikāya</title><link>https://christham.net/buddhavacana/tags/khuddakanik%C4%81ya/</link><description>Recent content in khuddakanikāya on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://christham.net/buddhavacana/tags/khuddakanik%C4%81ya/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: saraṇattaya</title><link>https://christham.net/buddhavacana/docs/sutta/khuddaka/khuddakanik%C4%81ya/khuddakap%C4%81%E1%B9%ADha/sara%E1%B9%87attaya/</link><pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/khuddaka/khuddakanik%C4%81ya/khuddakap%C4%81%E1%B9%ADha/sara%E1%B9%87attaya/</guid><description>
+&lt;p>Khp. 1:&lt;/p>
+&lt;blockquote>
+&lt;p>buddhaṃ saraṇaṃ gacchāmi,&lt;br>
+dhammaṃ saraṇaṃ gacchāmi,&lt;br>
+saṅghaṃ saraṇaṃ gacchāmi.&lt;br>
+dutiyampi buddhaṃ saraṇaṃ gacchāmi,&lt;br>
+dutiyampi dhammaṃ saraṇaṃ gacchāmi,&lt;br>
+dutiyampi saṅghaṃ saraṇaṃ gacchāmi.&lt;br>
+tatiyampi buddhaṃ saraṇaṃ gacchāmi,&lt;br>
+tatiyampi dhammaṃ saraṇaṃ gacchāmi,&lt;br>
+tatiyampi saṅghaṃ saraṇaṃ gacchāmi.&lt;/p>
+&lt;/blockquote>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;dutiyampi/tatiyampi buddhaṃ/dhammaṃ/saṅghaṃ saraṇaṃ gacchāmi&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english((For the second/third time) I go to the Buddha/Dhamma/Sangha as refuge)
+}
+namespace saṅkhyāpūraṇa {
+class dutiyaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+2️⃣
+english(second time)
+}
+class tatiyaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+2️⃣
+english(third time)
+}
+}
+class pi {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(too)
+}
+namespace saraṇa {
+class buddhaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+}
+class dhammaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+}
+class saṅghaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+}
+}
+class saraṇaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(as refuge)
+}
+class gacchāmi {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤👆vattamāna
+english(I go)
+}
+sentence *-- dutiyaṃ
+sentence *-- tatiyaṃ
+sentence *-- pi
+sentence *-- buddhaṃ : kamma
+sentence *-- dhammaṃ : kamma
+sentence *-- saṅghaṃ : kamma
+sentence *-- saraṇaṃ : kamma
+sentence *-- gacchāmi: kiriya
+buddhaṃ .. saraṇaṃ
+dhammaṃ .. saraṇaṃ
+saṅghaṃ .. saraṇaṃ&lt;/pre>
+&lt;pre class="mermaid">sequenceDiagram
+participant ahaṃ as (ahaṃ)
+participant buddhaṃ
+participant dhammaṃ
+participant saṅghaṃ
+loop (paṭhama), dutiyampi, tatiyampi
+ahaṃ -&amp;gt;&amp;gt; buddhaṃ : gacchāmi
+buddhaṃ -&amp;gt;&amp;gt; saraṇaṃ : (hoti)
+ahaṃ -&amp;gt;&amp;gt; dhammaṃ : gacchāmi
+dhammaṃ -&amp;gt;&amp;gt; saraṇaṃ : (hoti)
+ahaṃ -&amp;gt;&amp;gt; saṅghaṃ : gacchāmi
+saṅghaṃ -&amp;gt;&amp;gt; saraṇaṃ : (hoti)
+end&lt;/pre>
+&lt;pre class="mermaid">stateDiagram-v2
+state fork_state &amp;lt;&amp;lt;fork&amp;gt;&amp;gt;
+state join_state &amp;lt;&amp;lt;join&amp;gt;&amp;gt;
+[*] --&amp;gt; fork_state : gacchāmi
+fork_state --&amp;gt; buddhaṃ
+fork_state --&amp;gt; dhammaṃ
+fork_state --&amp;gt; saṅghaṃ
+buddhaṃ --&amp;gt; join_state
+dhammaṃ --&amp;gt; join_state
+saṅghaṃ --&amp;gt; join_state
+join_state --&amp;gt; saraṇaṃ
+saraṇaṃ --&amp;gt; fork_state : dutiyampi, tatiyampi&lt;/pre></description></item></channel></rss>

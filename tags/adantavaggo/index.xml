@@ -1,0 +1,273 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – adantavaggo</title><link>https://christham.net/buddhavacana/tags/adantavaggo/</link><description>Recent content in adantavaggo on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://christham.net/buddhavacana/tags/adantavaggo/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: adantavaggo</title><link>https://christham.net/buddhavacana/docs/sutta/a%E1%B9%85guttaranik%C4%81yo/ekakanip%C4%81tap%C4%81%E1%B8%B7i/adantavaggo/</link><pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/a%E1%B9%85guttaranik%C4%81yo/ekakanip%C4%81tap%C4%81%E1%B8%B7i/adantavaggo/</guid><description>
+&lt;p>AN 1.4 31-40:&lt;/p>
+&lt;blockquote>
+&lt;ol start="31">
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ adantaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, adantaṃ mahato anatthāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ dantaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, dantaṃ mahato atthāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ aguttaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, aguttaṃ mahato anatthāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ guttaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, guttaṃ mahato atthāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ arakkhitaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, arakkhitaṃ mahato anatthāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ rakkhitaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, rakkhitaṃ mahato atthāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ asaṃvutaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, asaṃvutaṃ mahato anatthāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ saṃvutaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, saṃvutaṃ mahato atthāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ adantaṃ aguttaṃ arakkhitaṃ asaṃvutaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, adantaṃ aguttaṃ arakkhitaṃ asaṃvutaṃ mahato anatthāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;li>&amp;ldquo;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ dantaṃ guttaṃ rakkhitaṃ saṃvutaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, dantaṃ guttaṃ rakkhitaṃ saṃvutaṃ mahato atthāya saṃvattatī&amp;quot;ti.&lt;/li>
+&lt;/ol>
+&lt;/blockquote>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ adantaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(I don&amp;#39;t perceive, bhikkhus, yet another thing which untrained leads to great harm as this, bhikkhus, the mind.)
+}
+class na {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(not)
+}
+class ahaṃ {
+&amp;lt;&amp;lt;puggalanāma&amp;gt;&amp;gt;
+english(I)
+}
+class bhikkhave {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👥0️⃣
+}
+class aññaṃ {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(other)
+}
+class ekadhammaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(one thing)
+}
+class pi {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(too)
+}
+class samanupassāmi {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤👆vattamāna
+english(I perceive)
+}
+class yaṃ {
+&amp;lt;&amp;lt;anvayīnāma&amp;gt;&amp;gt;
+🚻👤2️⃣
+english(which)
+}
+class evaṃ {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(thus)
+}
+namespace adjective {
+class adantaṃ {
+&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
+👤2️⃣
+english(unrestrained)
+}
+}
+class mahato {
+&amp;lt;&amp;lt;guṇanāma&amp;gt;&amp;gt;
+👤6️⃣
+english(of great)
+}
+namespace result {
+class anatthāya {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤6️⃣
+english(of harm)
+}
+}
+class saṃvattati {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟vattamāna
+english(leads to)
+}
+class yatha {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(as)
+}
+class idaṃ {
+&amp;lt;&amp;lt;puggalanāma&amp;gt;&amp;gt;
+🚻👤2️⃣
+english(this)
+}
+class cittaṃ {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+🚻👤1️⃣
+english(mind)
+}
+sentence *-- na
+sentence *-- ahaṃ : kattar
+sentence *-- bhikkhave
+sentence *-- aññaṃ
+sentence *-- ekadhammaṃ
+sentence *-- pi
+sentence *-- samanupassāmi : kiriyā
+sentence *-- yaṃ
+sentence *-- evaṃ
+sentence *-- adantaṃ
+sentence *-- mahato
+sentence *-- anatthāya
+sentence *-- saṃvattati
+sentence *-- yatha
+sentence *-- idaṃ
+sentence *-- cittaṃ
+na -- samanupassāmi
+anatthāya &amp;lt;-- mahato
+anatthāya &amp;lt;-- saṃvattati
+aññaṃ .. ekadhammaṃ
+ahaṃ --&amp;gt; samanupassāmi : kattar
+ekadhammaṃ --&amp;gt; samanupassāmi : kamma
+ekadhammaṃ .. idaṃ
+evaṃ .. yaṃ
+yaṃ ..&amp;gt; adantaṃ
+pi .. ekadhammaṃ
+yaṃ &amp;lt;.. ekadhammaṃ
+adantaṃ -- cittaṃ
+yatha .. idaṃ
+idaṃ .. cittaṃ
+cittaṃ --&amp;gt; saṃvattati&lt;/pre>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;cittaṃ, bhikkhave, adantaṃ mahato anatthāya saṃvattatī&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(The mind, bhikkhus, untrained, leads to great harm.)
+}
+class cittaṃ {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+🚻👤1️⃣
+english(mind)
+}
+class bhikkhave {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👥0️⃣
+}
+namespace adjective {
+class adantaṃ {
+&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
+👤2️⃣
+english(unrestrained)
+}
+}
+class mahato {
+&amp;lt;&amp;lt;guṇanāma&amp;gt;&amp;gt;
+👤6️⃣
+english(of great)
+}
+namespace result {
+class anatthāya {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤6️⃣
+english(of harm)
+}
+}
+class saṃvattati {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟vattamāna
+english(leads to)
+}
+sentence *-- cittaṃ
+sentence *-- bhikkhave
+sentence *-- adantaṃ
+sentence *-- mahato
+sentence *-- anatthāya
+sentence *-- saṃvattati
+anatthāya &amp;lt;-- mahato
+anatthāya &amp;lt;-- saṃvattati
+adantaṃ -- cittaṃ
+cittaṃ --&amp;gt; saṃvattati&lt;/pre>
+&lt;pre class="mermaid">classDiagram
+namespace adjective {
+class adantaṃ {
+&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
+👤2️⃣
+english(unrestrained)
+}
+class dantaṃ {
+&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
+👤2️⃣
+english(restrained)
+}
+class aguttaṃ {
+&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
+👤2️⃣
+english(unguarded)
+}
+class guttaṃ {
+&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
+👤2️⃣
+english(guarded)
+}
+class arakkhitaṃ {
+&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
+👤2️⃣
+english(unprotected)
+}
+class rakkhitaṃ {
+&amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
+👤2️⃣
+english(protected)
+}
+}
+namespace result {
+class anatthāya {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤6️⃣
+english(of harm)
+}
+class atthāya {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤6️⃣
+english(of benefit)
+}
+}
+adantaṃ .. anatthāya
+aguttaṃ .. anatthāya
+arakkhitaṃ .. anatthāya
+dantaṃ .. atthāya
+guttaṃ .. atthāya
+rakkhitaṃ .. atthāya&lt;/pre>
+&lt;pre class="mermaid">sequenceDiagram
+participant ahaṃ as (ahaṃ)
+participant citta
+participant harm as mahato anatthāya
+participant benefit as mahato atthāya
+ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
+citta -&amp;gt;&amp;gt; harm : adantaṃ saṃvattati
+ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
+citta -&amp;gt;&amp;gt; benefit : dantaṃ saṃvattati
+ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
+citta -&amp;gt;&amp;gt; harm : aguttaṃ saṃvattati
+ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
+citta -&amp;gt;&amp;gt; benefit : guttaṃ saṃvattati
+ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
+citta -&amp;gt;&amp;gt; harm : arakkhitaṃ saṃvattati
+ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
+citta -&amp;gt;&amp;gt; benefit : rakkhitaṃ saṃvattati
+ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
+citta -&amp;gt;&amp;gt; harm : adantaṃ aguttaṃ arakkhitaṃ saṃvattati
+ahaṃ -&amp;gt;&amp;gt; citta : (na) aññaṃ ekadhammampi samanupassāmi
+citta -&amp;gt;&amp;gt; benefit : dantaṃ guttaṃ rakkhitaṃ saṃvattati&lt;/pre>
+&lt;pre class="mermaid">stateDiagram-v2
+state fork1 &amp;lt;&amp;lt;fork&amp;gt;&amp;gt;
+state join1 &amp;lt;&amp;lt;join&amp;gt;&amp;gt;
+state fork2 &amp;lt;&amp;lt;fork&amp;gt;&amp;gt;
+state join2 &amp;lt;&amp;lt;join&amp;gt;&amp;gt;
+state &amp;#34;mahato anatthāya&amp;#34; as harm
+state &amp;#34;mahato atthāya&amp;#34; as benefit
+[*] --&amp;gt; fork1 : citta
+fork1 --&amp;gt; adantaṃ
+fork1 --&amp;gt; aguttaṃ
+fork1 --&amp;gt; arakkhitaṃ
+adantaṃ --&amp;gt; join1
+aguttaṃ --&amp;gt; join1
+arakkhitaṃ --&amp;gt; join1
+join1 --&amp;gt; harm : saṃvattati
+[*] --&amp;gt; fork2 : citta
+fork2 --&amp;gt; dantaṃ
+fork2 --&amp;gt; guttaṃ
+fork2 --&amp;gt; rakkhitaṃ
+dantaṃ --&amp;gt; join2
+guttaṃ --&amp;gt; join2
+rakkhitaṃ --&amp;gt; join2
+join2 --&amp;gt; benefit : saṃvattati&lt;/pre></description></item></channel></rss>

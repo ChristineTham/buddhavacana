@@ -1,0 +1,4204 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – A Beginner (Non-Linguist) Guide to Learning Pali</title><link>https://christham.net/buddhavacana/docs/palibook/</link><description>Recent content in A Beginner (Non-Linguist) Guide to Learning Pali on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://christham.net/buddhavacana/docs/palibook/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: 0: Introduction</title><link>https://christham.net/buddhavacana/docs/palibook/intro/</link><pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/intro/</guid><description>
+&lt;div class="alert alert-primary" role="alert">
+Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
+&lt;/div>
+&lt;p>I am a relative beginner in learning Pali. I started learning the language in
+earnest on 30 June 2023. This is my conceited attempt at thinking I can author my own Pali textbook,
+based on what I have learnt so far.&lt;/p>
+&lt;h2 id="motivation">Motivation&lt;/h2>
+&lt;p>Why write my own book when there are so many excellent textbooks already on
+Pali?&lt;/p>
+&lt;p>The first, and best answer, is that I don&amp;rsquo;t learn until I am able to explain
+it to someone else, even if that someone else is an imaginary reader. There is
+nothing more conducive to solidifying knowledge than to have to distill it and
+explain it in language a &amp;ldquo;golden retriever can understand&amp;rdquo; (to paraphrase a
+line from the film &lt;em>Margin Call&lt;/em>).&lt;/p>
+&lt;p>Secondly, I find other Pali textbooks, particularly the ones written by
+English (or European) linguists confusing and somewhat frustrating. They use
+highly technical linguistic terms, which I don&amp;rsquo;t understand well. Their
+grammatical explanations can often be over complicated and obtuse. I am not
+saying every book is like this, there are many examples of books that appear to
+be clearly written. Perhaps the one who is obtuse is me.&lt;/p>
+&lt;p>I find I learn a language best &amp;ldquo;natively&amp;rdquo;, ie. by its own terms and gradually
+&amp;ldquo;bootstrapping&amp;rdquo; myself until I achieve a minimum viable level of competency to
+start reading text. As children, this is how we learn a language, by osmosis
+from hearing others, until we are confident enough to form our own words.
+We then improve by reading, which broadens our knowledge and proficiency
+further.&lt;/p>
+&lt;p>There are no native speakers of Pali, but fortunately there are books
+describing the Pali language written by ancient Pali speakers. The earliest,
+and probably most well known is the &lt;strong>Kaccāyana Pali Vyākaraṇam&lt;/strong>. This was
+probably written in the 5th-6th century CE, and the author has been ascribed
+to the Arahat Mahākaccāyana.&lt;/p>
+&lt;p>There are, of course, other Pali grammars, including those written by
+Moggalāna (circa 11-12 AD), Saddanīti (circa 1157 AD) and Rūpasiddhi (circa
+13 AD). However, to avoid confusion from multiple sources, I have decided to
+primarily derive my textbook from Kaccāyana. Also, there is an excellent
+translation of Kaccāyana into English (which I am heavily reliant on)
+by A. Thitzana which can be downloaded for free from
+&lt;a href="https://store.pariyatti.org/kaccayana-pali-grammar-vol1-2">Kaccāyana Pāli Grammar Volumes 1 - 2&lt;/a>.&lt;/p>
+&lt;p>In authoring this textbook, I have decided to avoid using linguistic technical
+terms as much as possible (such as conjugation, declension, nominative, etc.)
+but use &amp;ldquo;ordinary&amp;rdquo; English words to describe elements of the Pali language. I
+will use Pali terminology to describe aspects of the Pali language as much as I
+can, and only resort to English to describe what they mean.&lt;/p>
+&lt;p>So you will find my textbook do not use the same terms as you will find in
+other Pali textbooks and grammar books. I apologise in advance if this leads
+to confusion and frustration. I will attempt to point out the equivalent
+terms used in other textbooks whenever possible, to help readers in drawing
+comparisons if they wish.&lt;/p>
+&lt;p>Again, I do so because I feel strongly that it is best to learn Pali on it&amp;rsquo;s
+own terms, and not impose an external linguistic framework on it. Such
+frameworks may be useful to linguists, but they tend to confuse beginners like
+me.&lt;/p>
+&lt;h2 id="goal-and-structure">Goal and Structure&lt;/h2>
+&lt;p>The aim of this textbook is to get the reader to a level where they can
+tackle the texts in the &lt;code>Tipiṭaka&lt;/code> (the Three Baskets of the Buddhist canon) as
+quickly as possible. Less emphasis is placed on the ability to listen, speak
+or write.&lt;/p>
+&lt;p>Most Pali textbooks gently introduce the various features of the language over
+a number of chapters, so significant progress needs to be made before a reader
+is able to understand moderately complex sentences, let alone entire &lt;code>sutta&lt;/code>s
+from the &lt;code>Tipiṭaka&lt;/code>. For example, A.K. Warder&amp;rsquo;s &amp;ldquo;Introduction to Pali&amp;rdquo; covers
+the basics of Pali grammar over 16 lessons. Assuming a reader will cover 1-2
+lessons per week, this means a reader is not ready to read the &lt;code>Tipiṭaka&lt;/code> until
+2-4 months later.&lt;/p>
+&lt;p>By contrast, this textbook gives an overview of all the essential features of
+the Pali language in the first chapter, so the reader in theory should have
+the key knowledge to read the &lt;code>Tipiṭaka&lt;/code> in days, or weeks, rather than months,
+or years.&lt;/p>
+&lt;p>I am speaking from experience. I started studying Pali in late June,
+and by mid July I was already starting to read my first &lt;code>sutta&lt;/code>.&lt;/p>
+&lt;p>How is this achieved? All the complex production rules with regards to &lt;code>sandhi&lt;/code>
+and word endings are moved to appendices. The goal is to enable the reader to
+be able to read Pali, not necessarily to be able to write or speak it. So
+the reader can study the production rules based on their own needs and priority
+rather than being forced to apply them from the beginning.&lt;/p>
+&lt;p>Also, unlike other textbooks, this textbook does not focus on teaching
+vocabulary, nor does it require the reader to memorise long lists of words.
+Vocabulary is introduced only when necessary, and just before it is required.
+The reader is encouraged to develop their own vocabulary based on the material
+they choose to read, and therefore they only need to learn the words that are
+important to them.&lt;/p>
+&lt;p>After the initial overview of the Pali language, the textbook alternates from
+diving deeper into aspects of the Pali language, to exercises involving
+reading, understanding and translating extracts from the &lt;code>Tipiṭaka&lt;/code>. The
+reader is encouraged not to necessarily follow the textbook linearly but
+tackle chapters in their own order of preference, or to embark on their own
+reading journey and read whatever parts of the &lt;code>Tipiṭaka&lt;/code> they wish to,
+using the textbook merely as a reference and light guidance.&lt;/p>
+&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
+&lt;p>This textbook does not require prior familiarity with either the Pali
+language or the Buddhist Pali canon. It does, however, require the reader
+to have a strong interest in both and willing to focus their efforts in
+learning.&lt;/p>
+&lt;p>Knowledge of multiple languages (including computer languages) and prior
+experience in learning a foreign language can be advantageous, but not
+required.&lt;/p>
+&lt;p>This textbook takes advantage of modern technology. It is not written in
+paper but available as hyperlinked pages on a website. It also assumes the
+reader has access to and is familiar with modern tools such as the
+&lt;a href="https://digitalpalidictionary.github.io/">Digital Pali Dictionary&lt;/a> or the
+online version of The Pali Text Society&amp;rsquo;s
+&lt;a href="https://dsal.uchicago.edu/dictionaries/pali/">Pali-English Dictionary&lt;/a> so the
+reader can easily look up any words they are encountering for the first time.&lt;/p>
+&lt;p>In particular, the Digital Pali Dictionary can look up words in inflected form
+and has advanced features like &lt;code>sandhi&lt;/code> splitting and compound word
+deconstruction, which further reduces the need to learn how to do those.&lt;/p>
+&lt;p>Finally, the textbook also assumes the reader is familiar with electronic
+editions of the &lt;code>Tipiṭaka&lt;/code>, including:&lt;/p>
+&lt;dl>
+&lt;dt>&lt;a href="https://suttacentral.net">SuttaCentral&lt;/a>&lt;/dt>
+&lt;dd>SuttaCentral contains early Buddhist texts, known as the Tipiṭaka or “Three Baskets”. This is a large collection of teachings attributed to the Buddha or his earliest disciples, who were teaching in India around 2500 years ago. They are regarded as sacred canon in all schools of Buddhism.&lt;/dd>
+&lt;dt>&lt;a href="https://www.ancient-buddhist-texts.net">Ancient Buddhist Texts&lt;/a>&lt;/dt>
+&lt;dd>Materials from the early and medieval Buddhist tradition covering texts in Pāli and Sanskrit; line by line (interlinear) texts and translations; translations in English only; studies of grammar, prosody and compilation; maps, reference works and audio files.&lt;/dd>
+&lt;dt>&lt;a href="https://tipitaka.org">Pali Tipitaka&lt;/a>&lt;/dt>
+&lt;dd>This web site is based on the Chaṭṭha Saṅgāyana CD published by the Vipassana Research Institute. Based at Dhamma Giri, Igatpuri, near Mumbai, India, the Vipassana Research Institute also publishes literature &amp;amp; disseminates information related to Vipassana Meditation Technique as taught by S.N.Goenka in the tradition of Sayagyi U Ba Khin.&lt;/dd>
+&lt;dt>&lt;a href="https://tipitaka.app">Tipitaka.app&lt;/a>&lt;/dt>
+&lt;dd>Tipitaka.app is a free software built and distributed as a Dhamma donation. It will always be free and a property of the Buddhist World.&lt;/dd>
+&lt;dt>&lt;a href="https://www.digitalpalireader.online">Digital Pali Reader&lt;/a>&lt;/dt>
+&lt;dd>The Digital Pali Reader provides a database of the Tipiṭaka in romanised script with a search facility and the inbuilt dictionaries allow for instant lookup of any word&lt;/dd>
+&lt;dt>&lt;a href="https://americanmonk.org/tipitaka-pali-projector/">Tipiṭaka Pāḷi Projector&lt;/a>&lt;/dt>
+&lt;dd>TPP is a software program to help one navigate the vast amounts of Pāḷi texts. It includes, 21 English Ebooks that can be displayed side by side with the Pāḷi texts. The Dictionaries and Search functions are where TPP separates itself from the other Pāḷi readers. It is very fast and totally off-line. It works on Windows as an installable Exe or MacOS DMG file too. The project can also run on any operating system that supports FireFox Web Browser. This application was created at Pa-Auk Forest Monastery in Maymyo. The FireFox version supports Sinhala, Myanmar, Thai and Devanagiri Scripts.&lt;/dd>
+&lt;dt>&lt;a href="https://www.accesstoinsight.org">Access to Insight&lt;/a>&lt;/dt>
+&lt;dd>Access to Insight is an HTML website dedicated to providing accurate, reliable, and useful information concerning the practice and study of Theravada Buddhism, as it has been handed down to us through both the written word of the Pali canon and the living example of the Sangha.&lt;/dd>
+&lt;dt>&lt;a href="https://www.accesstoinsight.org/tipitaka/sltp/index.html">Sri Lanka Tripitaka Project&lt;/a>&lt;/dt>
+&lt;dd>The Sri Lanka Tripitaka Project is a public domain electronic version of the Pali Canon.&lt;/dd>
+&lt;/dl>
+&lt;div class="alert alert-secondary" role="alert">
+&lt;h4 class="alert-heading">Note&lt;/h4>
+&lt;p>Every writer&amp;rsquo;s style is influenced by their background and personal interests.
+My interests in music and photography have influenced my approach to
+structuring this textbook. In particular, I think of constructing Pali word
+endings as similar to music composition, applying the rules of harmony
+and I refer to the noun genders as &amp;ldquo;major&amp;rdquo; and &amp;ldquo;minor&amp;rdquo;. I also have a tendency
+to shift viewpoints and zoom in and out of specific topics much like a
+photographer would. I do apologise if you are not used to my way of thinking.&lt;/p>
+&lt;p>Familiarity with software development and even a cursory knowledge of
+computer languages will also be advantageous. I believe computer literacy
+should be regarded as a fundamental aspect of basic literacy, and the ability
+to &amp;ldquo;program&amp;rdquo; or &amp;ldquo;code&amp;rdquo; is as important as reading, writing, and &amp;lsquo;rithmetic.&lt;/p>
+&lt;p>Having said that, even prior exposure to writing web pages or the most basic
+knowledge of HTML and CSS is probably enough of an advantage. I use a notation
+similar to functional programming to label word endings, and sometimes
+illustrate a sentence&amp;rsquo;s meaning using pseudo UML diagrams. Even if the reader
+has no prior experience of either, hopefully the notation should be
+self-evident.&lt;/p>
+&lt;/div>
+&lt;p>So, without further ado, let&amp;rsquo;s begin!&lt;/p>
+&lt;div class="alert alert-light" role="alert">
+&lt;h4 class="alert-heading">Next Chapter&lt;/h4>
+&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/basics/">&lt;strong>1: The Pali Language Basics&lt;/strong>&lt;/a>
+&lt;/div></description></item><item><title>Docs: 1: The Pali Language Basics</title><link>https://christham.net/buddhavacana/docs/palibook/basics/</link><pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/basics/</guid><description>
+&lt;div class="alert alert-primary" role="alert">
+Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
+&lt;/div>
+&lt;div class="alert alert-secondary" role="alert">
+&lt;h4 class="alert-heading">Note&lt;/h4>
+In this book, references to Kaccāyana are denoted by eg. {8} (8th &lt;code>sutta&lt;/code> or
+&amp;ldquo;grammatical rule&amp;rdquo;). Altogether there are 675 suttas, which shows how compact
+Kaccāyana is.
+&lt;/div>
+&lt;p>Pali, like most other Indo-Aryan languages, is an oral language spoken as
+&lt;code>vākya&lt;/code> (sentences) made up of &lt;code>vacana&lt;/code> (words) which are a combination of
+&lt;code>akkhara&lt;/code> (&amp;ldquo;sounds&amp;rdquo;, or &amp;ldquo;letters from an &amp;ldquo;alphabet&amp;rdquo;). {1}&lt;/p>
+&lt;p>There are debates about the origin of Pali, whether it was in fact a real language
+actually spoken by people, as opposed to an &amp;ldquo;invented&amp;rdquo; language specifically
+for the purposes of recording Buddhist doctrine. The term &amp;ldquo;Pali&amp;rdquo; actually
+just means &amp;ldquo;text&amp;rdquo;, and today &amp;ldquo;Pali&amp;rdquo; is used primarily for Buddhist literature.&lt;/p>
+&lt;h2 id="pali-alphabet-and-pronunciation-2-9">Pali Alphabet and pronunciation {2}-{9}&lt;/h2>
+&lt;p>The Buddha may have spoken a language similar to Pali, and when he died his
+sayings were collected and systematised so they can be transmitted orally
+generation to generation using memorisation techniques such as chanting.&lt;/p>
+&lt;p>As such, there is no &amp;ldquo;official&amp;rdquo; Pali alphabet or writing. Pali can be transcribed
+fairly faithfully in a number of alphabets, including Roman letters (with the
+addition of a few diacritical marks or accented characters similar to other
+European languages).&lt;/p>
+&lt;p>For this textbook, I will use Roman letters as the basis for the Pali alphabet
+since I am used to that.&lt;/p>
+&lt;p>Of course, no one knows for sure how Pali words would have been pronounced,
+and how Pali sentences would have been spoken, particularly with regards to
+tonality. Modern day Pali pronunciation is based on how the Buddhist Pali canon
+is chanted in various countries including Sri Lanka, Myanmar and Thailand.&lt;/p>
+&lt;div class="alert alert-light" role="alert">
+&lt;h4 class="alert-heading">Reference&lt;/h4>
+&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/alphabet/">&lt;strong>A: The Pāli Alphabet&lt;/strong>&lt;/a>
+&lt;/div>
+&lt;h2 id="sandhi-word-transformations">&lt;code>sandhi&lt;/code> (word transformations)&lt;/h2>
+&lt;p>As Pali is a spoken language, when words are combined to form a sentence,
+changes may occur between words (or sometimes even within a word) to make
+the sentence &amp;ldquo;flow&amp;rdquo; or &amp;ldquo;sound&amp;rdquo; better.&lt;/p>
+&lt;p>In English, we often shorten words like &amp;ldquo;can not&amp;rdquo; to &amp;ldquo;can&amp;rsquo;t&amp;rdquo;, or &amp;ldquo;I will&amp;rdquo; to
+&amp;ldquo;I&amp;rsquo;ll&amp;rdquo;. This happens very frequently in Pali, especially when two vowels become
+adjacent to each other from two words next to each other, and there are complex
+rules governing how such transformations occur.&lt;/p>
+&lt;p>As a example {10} (don&amp;rsquo;t worry about the meaning of the words for now):&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;code>tatra&lt;/code> + &lt;code>ayaṁ&lt;/code> + &lt;code>ādi&lt;/code>&lt;br>
+= tatr&lt;del>a&lt;/del> + &lt;del>a&lt;/del>ā ya&lt;del>ṁ&lt;/del>m + ādi&lt;br>
+= &lt;code>tatrā’ya’mādi&lt;/code>&lt;br>
+= &lt;code>tatrāyamādi&lt;/code>&lt;/p>
+&lt;/blockquote>
+&lt;p>As you can see, when there are two adjacent vowels when we join two or more
+words together, &lt;code>sandhi&lt;/code> typically involves deleting one of the vowels, and
+then either retaining, lengthening or changing the remaining vowel. Sometimes
+the consonant next to the vowel may also be changed.&lt;/p>
+&lt;p>The overall effect is to make the words easier to say as a group.&lt;/p>
+&lt;p>Another example {11}&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;code>tatra&lt;/code> + &lt;code>abhiratiṁ&lt;/code> + &lt;code>iccheyya&lt;/code>&lt;br>
+= tatr&lt;del>a&lt;/del> + &lt;del>a&lt;/del>ā bhirati&lt;del>ṁ&lt;/del>m + iccheyya&lt;br>
+= &lt;code>tatrā’bhirati’miccheyya&lt;/code>&lt;br>
+= &lt;code>tatrābhiratimiccheyya&lt;/code>&lt;br>
+&amp;ldquo;&amp;hellip; should prefer enjoying at that &amp;hellip;&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;p>For the time being, we are not going to go into detail on these rules but
+be aware that words may change in a sentence. Eventually, as you read more
+and more sentences in Pali, these changes will become easier to recognise.&lt;/p>
+&lt;div class="alert alert-light" role="alert">
+&lt;h4 class="alert-heading">Reference&lt;/h4>
+For a summary of the rules, please refer to
+&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/sandhi/">&lt;strong>B: &lt;code>sandhi&lt;/code> Rules&lt;/strong>&lt;/a>
+{12}-{51}
+&lt;/div>
+&lt;h2 id="nāmā-nouns-52">&lt;code>nāmā&lt;/code> (nouns) {52}&lt;/h2>
+&lt;p>&lt;code>nāmā&lt;/code> are the most common type of words in Pali, and roughly (but not exactly)
+correspond to the term &amp;ldquo;noun&amp;rdquo; in English. &lt;code>nāmā&lt;/code> also means &amp;ldquo;name&amp;rdquo;, so these
+words represent things that we can &amp;ldquo;name&amp;rdquo; - including people, places, things,
+numbers, feelings and many other objects or concepts.&lt;/p>
+&lt;h3 id="example-53">Example {53}&lt;/h3>
+&lt;p>Here is a simple sentence, consisting of 3 &lt;code>nāma&lt;/code>:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>eso no satthā&lt;/strong>&lt;/p>
+&lt;/blockquote>
+&lt;p>which translates as:&lt;/p>
+&lt;blockquote>
+&lt;p>that person/being / our / teacher&lt;br>
+&lt;em>That person [is] our teacher.&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>Instead of &lt;code>satthā&lt;/code> other examples may be:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>brahmā&lt;/code> (God)&lt;/li>
+&lt;li>&lt;code>attā&lt;/code> (self)&lt;/li>
+&lt;li>&lt;code>sakhā&lt;/code> (friend)&lt;/li>
+&lt;li>&lt;code>rājā&lt;/code> (King)&lt;/li>
+&lt;/ul>
+&lt;h3 id="liṅga-gender-53">&lt;code>liṅga&lt;/code> (gender) {53}&lt;/h3>
+&lt;p>&lt;code>nāma&lt;/code> can be classified into 3 different types or &lt;code>liṅga&lt;/code>. The word &lt;code>liṅga&lt;/code>
+actually means &amp;ldquo;gender&amp;rdquo;, and traditionally each &lt;code>nāma&lt;/code> is assigned a gender. The
+&lt;code>liṅga&lt;/code> represents an &amp;ldquo;intrinsic property&amp;rdquo; of the &lt;code>nāma&lt;/code>.&lt;/p>
+&lt;p>The notion of a Pali gender is similar to (but not quite the same as) genders
+in some European languages. However, there are differences that it&amp;rsquo;s best to
+regard &lt;code>liṅga&lt;/code> as a classification scheme or grammatical construct rather than
+what we may think of as &amp;ldquo;gender&amp;rdquo;. I like to think of it this way:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>pulliṅga&lt;/code> - the &amp;ldquo;major&amp;rdquo; or &amp;ldquo;default&amp;rdquo; type. Most nouns fall into this category.
+Generally associated with masculinity or masculine persons (but not always)&lt;/li>
+&lt;li>&lt;code>napuṁsakaliṅga&lt;/code> - the &amp;ldquo;special&amp;rdquo; type. Tend to be used for nouns that don&amp;rsquo;t
+quite fit with the notions of masculinity or feminity, or represent abstract
+concepts.&lt;/li>
+&lt;li>&lt;code>itthiliṅga&lt;/code> - the &amp;ldquo;minor&amp;rdquo; type, comparatively rare with respect to the
+other two types. Generally associated with feminity or feminine persons.&lt;/li>
+&lt;/ul>
+&lt;p>Note that for the remainder of this book, we may refer to the above &lt;code>liṅga&lt;/code>
+by the following symbols for brevity:&lt;/p>
+&lt;ul>
+&lt;li>🚹 = &lt;code>pulliṅga&lt;/code>&lt;/li>
+&lt;li>🚻 = &lt;code>napuṁsakaliṅga&lt;/code>&lt;/li>
+&lt;li>🚺 = &lt;code>itthiliṅga&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;p>Ancient India was a patriachal society, and men were regarded as the &amp;ldquo;major&amp;rdquo;
+component of society, doing activities considered important, hence the
+tendency is to associate important words to &lt;code>pulliṅga&lt;/code>.&lt;/p>
+&lt;h3 id="number">Number&lt;/h3>
+&lt;p>Like in English, Pali words are slightly different depending on whether they are
+used to refer to one thing vs many things.&lt;/p>
+&lt;ul>
+&lt;li>👤 = &lt;code>ekavacana&lt;/code> (singular)&lt;/li>
+&lt;li>👥 = &lt;code>bahuvacana&lt;/code> (plural)&lt;/li>
+&lt;/ul>
+&lt;p>There used to be also a &amp;ldquo;dual&amp;rdquo; form but that is now largely obsolete and
+encountered in very rare instances.&lt;/p>
+&lt;h3 id="vibhatti-case-endings-54">&lt;code>vibhatti&lt;/code> (case endings) {54}&lt;/h3>
+&lt;p>Unlike English, words need to be &amp;ldquo;transformed&amp;rdquo; before they are used in a
+sentence. This is done by adding endings or &amp;ldquo;suffixes&amp;rdquo; to the word (&lt;code>vibhatti&lt;/code>).&lt;/p>
+&lt;p>Altogether there are seven types of &lt;code>vibhatti&lt;/code>, and they are
+conveniently numbered 1 to 7 {55}:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">symbol&lt;/th>
+&lt;th style="text-align:center">👤&lt;/th>
+&lt;th style="text-align:center">👥&lt;/th>
+&lt;th>vibhatti&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">1️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>si&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>yo&lt;/code>&lt;/td>
+&lt;td>&lt;code>paṭhamā&lt;/code> (&amp;ldquo;first&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">2️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>aṁ&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>yo&lt;/code>&lt;/td>
+&lt;td>&lt;code>dutiyā&lt;/code> (&amp;ldquo;second&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">3️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>nā&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>hi&lt;/code>&lt;/td>
+&lt;td>&lt;code>tatiyā&lt;/code> (&amp;ldquo;third&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">4️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>sa&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>naṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>catutthī&lt;/code> (&amp;ldquo;fourth&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">5️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>smā&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>hi&lt;/code>&lt;/td>
+&lt;td>&lt;code>pañcamī&lt;/code> (&amp;ldquo;fifth&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">6️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>sa&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>naṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>chaṭṭhī&lt;/code> (&amp;ldquo;sixth&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>smiṁ&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>su&lt;/code>&lt;/td>
+&lt;td>&lt;code>sattamī&lt;/code> (&amp;ldquo;seventh&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>You may note the 4th and 6th case endings are the same, which means in practice
+we can only tell which case is being used by context (more later). Notice also
+the plural endings for some of the cases are the same. Again, which case is
+being used can only be determined by context.&lt;/p>
+&lt;p>Let&amp;rsquo;s start with an example. Suppose we have the word 🚹&lt;code>purisa&lt;/code> (&amp;ldquo;man&amp;rdquo;) and we
+want to use it in a sentence in singular form, and we wish to transform it using
+the 1st case ending (&lt;code>paṭhamāvibhatti&lt;/code>). If we look up the above table, we
+should add the &lt;code>si&lt;/code> ending:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;code>purisa&lt;/code> + &lt;code>si&lt;/code> = &lt;code>puriso&lt;/code>&lt;/p>
+&lt;/blockquote>
+&lt;p>Wait, what happened? Why does the transformation not result in &lt;code>purisasi&lt;/code>?&lt;/p>
+&lt;p>This is where additional rules comes into play. By rule of {104}, any
+word ending in &lt;code>a&lt;/code> will be transformed into the 1st case by deleting
+the &lt;code>a&lt;/code> and replacing the &lt;code>si&lt;/code> with &lt;code>o&lt;/code>. Kaccāyana has a whole chapter of such
+rules.&lt;/p>
+&lt;p>So the transformation becomes:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;code>purisa&lt;/code> + &lt;code>si&lt;/code> = puris&lt;del>a&lt;/del> + &lt;del>si&lt;/del>o = &lt;code>puriso&lt;/code>&lt;/p>
+&lt;/blockquote>
+&lt;p>This does make things interesting, because the transformation result for every
+word then depends on:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>kāra’nta&lt;/code> (word ending)&lt;/li>
+&lt;li>&lt;code>liṅga&lt;/code> (gender)&lt;/li>
+&lt;li>&lt;code>ekavacana&lt;/code> (singular) vs. &lt;code>bahuvacana&lt;/code> (plural)&lt;/li>
+&lt;li>&lt;code>vibhatti&lt;/code> (desired case ending)&lt;/li>
+&lt;/ul>
+&lt;p>Here is a table of &lt;code>purisa&lt;/code> transformed in all the 7 cases and
+singular vs plural.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">number&lt;/th>
+&lt;th style="text-align:center">vibhatti&lt;/th>
+&lt;th style="text-align:center">ending&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th>sutta&lt;/th>
+&lt;th>result&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">1️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>si&lt;/code>&lt;/td>
+&lt;td>puris&lt;del>a&lt;/del> + &lt;del>si&lt;/del>o&lt;/td>
+&lt;td>{104}&lt;/td>
+&lt;td>&lt;code>puriso&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">1️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>yo&lt;/code>&lt;/td>
+&lt;td>puris&lt;del>a&lt;/del> + &lt;del>yo&lt;/del>ā&lt;/td>
+&lt;td>{107}&lt;/td>
+&lt;td>&lt;code>purisā&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">2️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>aṁ&lt;/code>&lt;/td>
+&lt;td>puris&lt;del>a&lt;/del> + aṁ&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>purisaṁ&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">2️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>yo&lt;/code>&lt;/td>
+&lt;td>puris&lt;del>a&lt;/del> + &lt;del>yo&lt;/del>e&lt;/td>
+&lt;td>{107}&lt;/td>
+&lt;td>&lt;code>purise&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">3️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>nā&lt;/code>&lt;/td>
+&lt;td>puris&lt;del>a&lt;/del> + ena&lt;/td>
+&lt;td>{103}&lt;/td>
+&lt;td>&lt;code>purisena&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">3️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>hi&lt;/code>&lt;/td>
+&lt;td>puris&lt;del>a&lt;/del>e + hi&lt;/td>
+&lt;td>{101}&lt;/td>
+&lt;td>&lt;code>purisehi&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">3️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>hi&lt;/code>&lt;/td>
+&lt;td>puris&lt;del>a&lt;/del>e + bhi&lt;/td>
+&lt;td>{99}-{101}&lt;/td>
+&lt;td>&lt;code>purisebhi&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">4️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>sa&lt;/code>&lt;/td>
+&lt;td>purisa + ssa&lt;/td>
+&lt;td>{61}&lt;/td>
+&lt;td>&lt;code>purisassa&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">4️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>naṁ&lt;/code>&lt;/td>
+&lt;td>puris&lt;del>a&lt;/del>ā + naṁ&lt;/td>
+&lt;td>{89}&lt;/td>
+&lt;td>&lt;code>purisānaṁ&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">5️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>smā&lt;/code>&lt;/td>
+&lt;td>purisa + smā&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>purisasmā&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">5️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>smā&lt;/code>&lt;/td>
+&lt;td>purisa + mhā&lt;/td>
+&lt;td>{99}&lt;/td>
+&lt;td>&lt;code>purisamhā&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">5️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>smā&lt;/code>&lt;/td>
+&lt;td>puris&lt;del>a&lt;/del>ā&lt;/td>
+&lt;td>{108}&lt;/td>
+&lt;td>&lt;code>purisā&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">5️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>hi&lt;/code>&lt;/td>
+&lt;td>puris&lt;del>a&lt;/del>e + hi&lt;/td>
+&lt;td>{101}&lt;/td>
+&lt;td>&lt;code>purisehi&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">5️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>hi&lt;/code>&lt;/td>
+&lt;td>puris&lt;del>a&lt;/del>e + bhi&lt;/td>
+&lt;td>{99}-{101}&lt;/td>
+&lt;td>&lt;code>purisebhi&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">6️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>sa&lt;/code>&lt;/td>
+&lt;td>puris&lt;del>a&lt;/del> + ssa&lt;/td>
+&lt;td>{61}&lt;/td>
+&lt;td>&lt;code>purisassa&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">6️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>naṁ&lt;/code>&lt;/td>
+&lt;td>puris&lt;del>a&lt;/del>ā + naṁ&lt;/td>
+&lt;td>{89}&lt;/td>
+&lt;td>&lt;code>purisānaṁ&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">7️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>smiṁ&lt;/code>&lt;/td>
+&lt;td>purisa + smiṁ&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>purisasmiṁ&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">7️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>smiṁ&lt;/code>&lt;/td>
+&lt;td>purisa + mhi&lt;/td>
+&lt;td>{99}&lt;/td>
+&lt;td>&lt;code>purisamhi&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">7️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>smiṁ&lt;/code>&lt;/td>
+&lt;td>puris&lt;del>a&lt;/del>e&lt;/td>
+&lt;td>{108}&lt;/td>
+&lt;td>&lt;code>purise&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">7️⃣&lt;/td>
+&lt;td style="text-align:center">&lt;code>su&lt;/code>&lt;/td>
+&lt;td>puris&lt;del>a&lt;/del>e + su&lt;/td>
+&lt;td>{101}&lt;/td>
+&lt;td>&lt;code>purisesu&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>You will note that in some of the cases, there are multiple ways the word can
+be transformed. For example, singular &lt;code>purisa&lt;/code> can be transformed in the 3rd
+case into either &lt;code>purisehi&lt;/code> or &lt;code>purisebhi&lt;/code>. Both are acceptable. Which should we
+use for a given sentence? It depends on the &amp;ldquo;sound&amp;rdquo; - a native speaker would
+have chosen the version that sounded the most pleasing, depending on surrounding
+words.&lt;/p>
+&lt;p>The rules can be quite complicated, so let&amp;rsquo;s not worry about them for now.
+In practice, you can rely on looking up a relevant table to determine the
+appropriate transformation (TBD). If you are just reading Pali, then with
+practice you will learn to recognise the various endings which will become
+familiar to you. A summary of the rules is provided in (TBD) {58}-{270}&lt;/p>
+&lt;p>A much more important question to answer at this point is &amp;hellip;&lt;/p>
+&lt;h3 id="why-do-we-need-vibhatti-endings-and-what-is-their-purpose">Why do we need &lt;code>vibhatti&lt;/code> endings and what is their purpose?&lt;/h3>
+&lt;p>In English, when we see a sentence like&lt;/p>
+&lt;blockquote>
+&lt;p>The quick brown fox jumped over the lazy dog.&lt;/p>
+&lt;/blockquote>
+&lt;p>We know that words &amp;ldquo;quick&amp;rdquo; and &amp;ldquo;brown&amp;rdquo; refers to the &amp;ldquo;fox&amp;rdquo;, which is the
+&amp;ldquo;subject&amp;rdquo; of the sentence, and &amp;ldquo;lazy&amp;rdquo; refers to the dog, which is the &amp;ldquo;object&amp;rdquo;
+of the sentence. The verb &amp;ldquo;jumped over&amp;rdquo; separates the subject and the object.
+Our brain automatically &amp;ldquo;collects&amp;rdquo; and &amp;ldquo;groups&amp;rdquo; the words, so we read the
+sentence as:&lt;/p>
+&lt;blockquote>
+&lt;p>(The quick brown fox) jumped over (the lazy dog).&lt;/p>
+&lt;/blockquote>
+&lt;p>In English, as we can see, word order is important. If we mixed the words up,
+the sentence becomes far harder to read:&lt;/p>
+&lt;blockquote>
+&lt;p>Over the quick lazy brown fox the dog jumped.&lt;/p>
+&lt;/blockquote>
+&lt;p>This sentence would imply quite a different meaning.&lt;/p>
+&lt;p>In Pali, all words with the same gender and the same case ending should be
+grouped together, and that&amp;rsquo;s how we distinguish which words belong to which
+entity. So the word order becomes far less important, we could mix the words
+up and the sentence would still have the same meaning!&lt;/p>
+&lt;p>In practice, the 1st case is usually reserved for the &amp;ldquo;most important&amp;rdquo; entity
+in a sentence, the 2nd for the &amp;ldquo;second most important&amp;rdquo; and so on.&lt;/p>
+&lt;p>So, in the above English sentence, were it to be translated the Pali, &amp;ldquo;the
+quick brown fox&amp;rdquo; would all be in the 1st case, and &amp;ldquo;the lazy dog&amp;rdquo; would all be
+in the 2nd case. If there are more entities, they would take the 3rd, 4th
+cases and so on.&lt;/p>
+&lt;p>In many sentences, the 1st case would usually refer to the entity or actor
+&amp;ldquo;performing&amp;rdquo; or &amp;ldquo;doing&amp;rdquo; the action (or, the &amp;ldquo;subject&amp;rdquo; of the sentence), and
+the 2nd case refers to the entity being impacted by the action (the &amp;ldquo;object&amp;rdquo;)
+of the sentence. Although this is a very common pattern, it is by no means
+rigid, and in theory any case ending can be used for any purpose. There are
+many examples in the Pali canon where the cases are used in unconventional
+ways. (TBD: need to include examples)&lt;/p>
+&lt;h3 id="vibhatti-usage-typical-meanings-271-315">Vibhatti usage typical meanings {271}-{315}&lt;/h3>
+&lt;p>The following meanings are usually associated with each
+case. However, as noted above, these are conventions only, and the author of a
+sentence may choose to adopt an unconventional approach of assigning words to
+cases (perhaps for emphatic or stylistic reasons).&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">vibhatti&lt;/th>
+&lt;th style="text-align:center">number&lt;/th>
+&lt;th>role&lt;/th>
+&lt;th>usage&lt;/th>
+&lt;th>Pali term&lt;/th>
+&lt;th style="text-align:center">sutta&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">1️⃣&lt;/td>
+&lt;td style="text-align:center">👤/👥&lt;/td>
+&lt;td>subject (active)&lt;/td>
+&lt;td>subject, doer&lt;/td>
+&lt;td>&lt;code>kattu&lt;/code>/&lt;code>kattā&lt;/code>&lt;/td>
+&lt;td style="text-align:center">{284}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">1️⃣&lt;/td>
+&lt;td style="text-align:center">👤/👥&lt;/td>
+&lt;td>address&lt;/td>
+&lt;td>to address, to call&lt;/td>
+&lt;td>&lt;code>ālapana&lt;/code>&lt;/td>
+&lt;td style="text-align:center">{285}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">2️⃣&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td>to (object)&lt;/td>
+&lt;td>object&lt;/td>
+&lt;td>&lt;code>kamma&lt;/code>&lt;/td>
+&lt;td style="text-align:center">{297}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">2️⃣&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td>till&lt;/td>
+&lt;td>continuity for a certain period or distance&lt;/td>
+&lt;td>&lt;code>accantasaṁyoga&lt;/code>&lt;/td>
+&lt;td style="text-align:center">{298}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">3️⃣&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td>by (subject) (passive)&lt;/td>
+&lt;td>subject&lt;/td>
+&lt;td>&lt;code>kattu&lt;/code>/&lt;code>kattā&lt;/code>&lt;/td>
+&lt;td style="text-align:center">{288}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">3️⃣&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td>by/with&lt;/td>
+&lt;td>supporting cause&lt;/td>
+&lt;td>&lt;code>karaṇa&lt;/code>&lt;/td>
+&lt;td style="text-align:center">{286}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">3️⃣&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td>with/together&lt;/td>
+&lt;td>company&lt;/td>
+&lt;td>&lt;code>sahayoga&lt;/code>&lt;/td>
+&lt;td style="text-align:center">{287}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">3️⃣&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td>by means of/in regard of&lt;/td>
+&lt;td>aspect or adjective&lt;/td>
+&lt;td>&lt;code>visesana&lt;/code>&lt;/td>
+&lt;td style="text-align:center">{292}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">3️⃣&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td>due to/for&lt;/td>
+&lt;td>reason&lt;/td>
+&lt;td>&lt;code>kāraṇa&lt;/code>&lt;/td>
+&lt;td style="text-align:center">{289}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">4️⃣&lt;/td>
+&lt;td style="text-align:center">👤/👥&lt;/td>
+&lt;td>receivership/purpose&lt;/td>
+&lt;td>recipient of action&lt;/td>
+&lt;td>&lt;code>sampadāna&lt;/code>&lt;/td>
+&lt;td style="text-align:center">{293}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">5️⃣&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td>from&lt;/td>
+&lt;td>source from which it occurs&lt;/td>
+&lt;td>&lt;code>apādāna&lt;/code>&lt;/td>
+&lt;td style="text-align:center">{295}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">5️⃣&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td>for/due to&lt;/td>
+&lt;td>reason&lt;/td>
+&lt;td>&lt;code>kāraṇa&lt;/code>&lt;/td>
+&lt;td style="text-align:center">{296}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">6️⃣&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td>(possessive) of&lt;/td>
+&lt;td>owner&lt;/td>
+&lt;td>&lt;code>sāmi&lt;/code>&lt;/td>
+&lt;td style="text-align:center">{301}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">6️⃣&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td>among/out of&lt;/td>
+&lt;td>selection for comparison&lt;/td>
+&lt;td>&lt;code>niddhāraṇa&lt;/code>&lt;/td>
+&lt;td style="text-align:center">{304}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">6️⃣&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td>while/despite&lt;/td>
+&lt;td>two concurrent actions&lt;/td>
+&lt;td>&lt;code>anādara&lt;/code>&lt;/td>
+&lt;td style="text-align:center">{305}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7️⃣&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td>at, in, on&lt;/td>
+&lt;td>location/position&lt;/td>
+&lt;td>&lt;code>adhikaraṇa&lt;/code>/&lt;code>okāsa&lt;/code>&lt;/td>
+&lt;td style="text-align:center">{302}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7️⃣&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td>among/out of&lt;/td>
+&lt;td>selection for comparison&lt;/td>
+&lt;td>&lt;code>niddhāraṇa&lt;/code>&lt;/td>
+&lt;td style="text-align:center">{304}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7️⃣&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td>for/due to&lt;/td>
+&lt;td>cause&lt;/td>
+&lt;td>&lt;code>nimitta&lt;/code>&lt;/td>
+&lt;td style="text-align:center">{310}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7️⃣&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td>while/when&lt;/td>
+&lt;td>two concurrent actions&lt;/td>
+&lt;td>&lt;code>lakkhaṇa&lt;/code>&lt;/td>
+&lt;td style="text-align:center">{313}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7️⃣&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td>despite/while&lt;/td>
+&lt;td>two concurrent actions&lt;/td>
+&lt;td>&lt;code>anādara&lt;/code>&lt;/td>
+&lt;td style="text-align:center">{305}&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;div class="alert alert-light" role="alert">
+&lt;h4 class="alert-heading">Reference&lt;/h4>
+&lt;p>For a detailed explanation of the various meanings associated with each case
+ending, please refer to the next chapter:&lt;/p>
+&lt;p>&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/cases/">&lt;strong>2: &lt;code>kāraka&lt;/code> (word ending) meanings&lt;/strong>&lt;/a>
+{271}-{315}&lt;/p>
+&lt;/div>
+&lt;div class="alert alert-secondary" role="alert">
+&lt;h4 class="alert-heading">Note&lt;/h4>
+&lt;p>You may find in Pali grammar books written in English the following nomenclature
+for the cases:&lt;/p>
+&lt;ul>
+&lt;li>1️⃣ = &amp;ldquo;nominative&amp;rdquo;&lt;/li>
+&lt;li>2️⃣ = &amp;ldquo;accusative&amp;rdquo;&lt;/li>
+&lt;li>3️⃣ = &amp;ldquo;instrumental&amp;rdquo;&lt;/li>
+&lt;li>4️⃣ = &amp;ldquo;dative&amp;rdquo;&lt;/li>
+&lt;li>5️⃣ = &amp;ldquo;ablative&amp;rdquo;&lt;/li>
+&lt;li>6️⃣ = &amp;ldquo;genitive&amp;rdquo;&lt;/li>
+&lt;li>7️⃣ = &amp;ldquo;locative&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;p>Note that these terms only partially reflect the possible meanings and roles
+associated with each case, so I would discourage using these terms. They can
+lead to confusion. However, these terms are common in Pali-English dictionaries
+so I encourage you to substitute the case number when you see these terms.&lt;/p>
+&lt;/div>
+&lt;h2 id="0-ālapana-vocative-57">0️⃣ &lt;code>ālapana&lt;/code> (vocative) {57}&lt;/h2>
+&lt;p>English Pali textbooks often refer to a &amp;ldquo;vocative&amp;rdquo; case, but this is not
+recognised as a separate case but a variant of the 1st case. The usual case
+ending &lt;code>si&lt;/code> (for 1st case singular) is instead called &lt;code>ga&lt;/code> but the
+transformation rules are similar to &lt;code>si&lt;/code>.&lt;/p>
+&lt;p>Examples:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;code>bhoti ayye&lt;/code>! (Oh madam!)&lt;br>
+&lt;code>bhoti kaññe&lt;/code>! (Oh girl!)&lt;br>
+&lt;code>bhoti kharādiye&lt;/code>! (Oh the girl named Kharādiya!)&lt;/p>
+&lt;/blockquote>
+&lt;p>Contrast this to the normal 1st case form of &lt;code>ayyā&lt;/code> (🚺👤1️⃣):&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;code>sā ayyā&lt;/code> (that lady)&lt;/p>
+&lt;/blockquote>
+&lt;p>In plural:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;code>bhotiyo ayyāyo&lt;/code> (Oh Madams!)&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="-nipāta-particles">⏏️ &lt;code>nipāta&lt;/code> (particles)&lt;/h2>
+&lt;p>&lt;code>nipāta&lt;/code> means &amp;ldquo;to fall. i.e. to be placed anywhere&amp;rdquo;, and refer to words
+that can be found placed in the beginning, in the middle or at the end of
+sentences and words, but not as prefixes (see below) of the roots.&lt;/p>
+&lt;p>Generally, the &lt;code>vibhatti&lt;/code> endings of &lt;code>nipāta&lt;/code> words are elided as these words
+are not related to other words in the sentence and therefore do not need to
+be matched with them. {221}&lt;/p>
+&lt;p>However, in some instances, the &lt;code>vibhatti&lt;/code> endings may be retained, if the
+&lt;code>nipāta&lt;/code> word play a role in the sentence meaning.&lt;/p>
+&lt;h3 id="examples">Examples&lt;/h3>
+&lt;blockquote>
+&lt;p>tvaṁ &lt;strong>panā’vuso&lt;/strong>! tumhe &lt;strong>panā’vuso&lt;/strong>!&lt;/p>
+&lt;/blockquote>
+&lt;p>you / (no specific meaning) / friend&lt;br>
+you (plural) / (no specific meaning) / friend&lt;br>
+&lt;em>How about you, my friend? And the rest of you (plural)?&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>padaso&lt;/strong> dhammaṁ vāceyya&lt;/p>
+&lt;/blockquote>
+&lt;p>by word / dhamma / teach (causative, optative)&lt;br>
+&lt;em>(He) should teach and say Dhamma word by word.&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>vihāraṁ • &lt;strong>sve&lt;/strong> upagaccheyya&lt;/p>
+&lt;/blockquote>
+&lt;p>to temple / tomorrow / should approach (optative)&lt;br>
+&lt;em>(He) should come to the temple tomorrow.&lt;/em>&lt;/p>
+&lt;p>The following is a brief descriptive list of some nipāta words. Some are plain
+nipātas without any affix, while some are with indeclinable affixes. Some may
+even have a sort of vibhatti-ending in them or may still have traces of
+vibhattis. Please note that the implied meaning of elided vibhatti still remains
+in effect for some nipāta words such as &lt;code>yathā&lt;/code>, &lt;code>tathā&lt;/code> and &lt;code>evaṁ&lt;/code> etc.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;code>nipāta&lt;/code>&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;th>note&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;code>yathā&lt;/code>, &lt;code>tathā&lt;/code>&lt;/td>
+&lt;td>in a manner that, in such a way as&lt;/td>
+&lt;td>combination of &lt;code>sabbanāma&lt;/code> &lt;code>ya&lt;/code> &lt;code>ta&lt;/code> with indeclinable affix &lt;code>thā&lt;/code>. The affix itself is ex- pressive of manner or mood.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>evaṁ&lt;/code>&lt;/td>
+&lt;td>thus, in this way, true as it is said, yes (many meanings)&lt;/td>
+&lt;td>dutiyāvibhatti, very frequently used in Pāli texts&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>khalu&lt;/td>
+&lt;td>used mostly in a reported narrative&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>kho&lt;/code>&lt;/td>
+&lt;td>mostly meaningless, but sometimes it may mean “only, really”&lt;/td>
+&lt;td>a plain nipāta, found often in main Buddhist texts. Used together with &lt;code>atha&lt;/code> &lt;code>evaṁ&lt;/code> &lt;code>taṁ&lt;/code> etc.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>tatra&lt;/code>&lt;/td>
+&lt;td>there&lt;/td>
+&lt;td>a combination of &lt;code>sabbanāma&lt;/code> &lt;code>ta&lt;/code> with indeclinable affix &lt;code>tra&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>atho&lt;/code>&lt;/td>
+&lt;td>in addition, besides&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>atha&lt;/code>&lt;/td>
+&lt;td>now, then, later on, if&lt;/td>
+&lt;td>Sometimes used in the beginning of a chapter or an episode, as an introductory or initiating word&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>hi&lt;/code>&lt;/td>
+&lt;td>really, for, only&lt;/td>
+&lt;td>Sometimes a meaningless particle&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>tu&lt;/code>&lt;/td>
+&lt;td>in addition, only&lt;/td>
+&lt;td>Also an expletive without meaning, sometimes added to be more emphatic in a statement&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>ca&lt;/code>&lt;/td>
+&lt;td>also, too&lt;/td>
+&lt;td>It is used to express some additional meaning in grammatical texts. Sometimes meaningless. Sometimes it has a lot of meanings when used after other nipāta particles&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>vā&lt;/code>&lt;/td>
+&lt;td>similar to either or, in other ways&lt;/td>
+&lt;td>In grammatical texts, sometimes it is used to express other option or method or inconsistency of a function. Sometimes with no particular meaning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>vo&lt;/code>&lt;/td>
+&lt;td>you&lt;/td>
+&lt;td>It is sometimes a meaningless expletive&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>haṁ&lt;/code>, &lt;code>ahaṁ&lt;/code>&lt;/td>
+&lt;td>I&lt;/td>
+&lt;td>the use of these two nipāta are seldom found in texts unless it means “I”&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>alaṁ&lt;/code>&lt;/td>
+&lt;td>(a) enough, (b) suitable, (c) worthiness, (d) appropriateness, (e) ability&lt;/td>
+&lt;td>Also, (f) sometimes used as a prohibition or rejection, usually used in combination with (1) a noun in instrumental case, or (2) tuṁ-infinitive Kita verbs or (3) an āya-infinitive in dative case nouns&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>eva&lt;/code>&lt;/td>
+&lt;td>equal to “only”&lt;/td>
+&lt;td>used next to the word it want to modify or restrict or confirm in its implied meaning. A plain nipāta.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>ho!&lt;/code>, &lt;code>aho!&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>these are expression of interjection or surprise. No vibhatti&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>he!&lt;/code>, &lt;code>ahe!&lt;/code>, &lt;code>re!&lt;/code>, &lt;code>are!&lt;/code>&lt;/td>
+&lt;td>“hey”&lt;/td>
+&lt;td>Vocative nipāta particles, similar to “hey” in English. Usually vocative case vibhatti is applicable, but to be elided&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="nipāta-as-prefixes">&lt;code>nipāta&lt;/code> as prefixes&lt;/h3>
+&lt;p>However, there are quite a few &lt;code>nipāta&lt;/code> that can be placed before some verbs or
+&lt;code>kita&lt;/code>-affixed nouns and used in a way resembling prefixes.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>combined&lt;/th>
+&lt;th>&lt;code>nipāta&lt;/code>&lt;/th>
+&lt;th>word&lt;/th>
+&lt;th>combined meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;code>antaradhāyati&lt;/code>&lt;/td>
+&lt;td>&lt;code>antara&lt;/code>&lt;/td>
+&lt;td>&lt;code>dhāyati&lt;/code>&lt;/td>
+&lt;td>(he) disappears&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>āvikaroti&lt;/code>&lt;/td>
+&lt;td>&lt;code>āvi&lt;/code>&lt;/td>
+&lt;td>&lt;code>karoti&lt;/code>&lt;/td>
+&lt;td>(he) makes it openly, displays clearly&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>pātubhavati&lt;/code>&lt;/td>
+&lt;td>&lt;code>pātu&lt;/code>&lt;/td>
+&lt;td>&lt;code>bhavati&lt;/code>&lt;/td>
+&lt;td>(it) arises visibly, i.e. appears&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>sacchikaroti&lt;/code>&lt;/td>
+&lt;td>&lt;code>sacchi&lt;/code>&lt;/td>
+&lt;td>&lt;code>karoti&lt;/code>&lt;/td>
+&lt;td>(he) realizes, i.e. attains&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>vinābhāvo&lt;/code>&lt;/td>
+&lt;td>&lt;code>vinā&lt;/code>&lt;/td>
+&lt;td>&lt;code>bhāvo&lt;/code>&lt;/td>
+&lt;td>separation, being apart&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>sahacārī&lt;/code>&lt;/td>
+&lt;td>&lt;code>saha&lt;/code>&lt;/td>
+&lt;td>&lt;code>cārī&lt;/code>&lt;/td>
+&lt;td>the one who used be together, a friend&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>punabbhavo&lt;/code>&lt;/td>
+&lt;td>&lt;code>puna&lt;/code>&lt;/td>
+&lt;td>&lt;code>bhavo&lt;/code>&lt;/td>
+&lt;td>being born again, rebirth&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="-upasagga-prefixes">🔼 &lt;code>upasagga&lt;/code> (prefixes)&lt;/h2>
+&lt;p>There are 20 &lt;code>upasagga&lt;/code> words which are usually applied as prefixes to
+&lt;code>ākhyāta&lt;/code> (verbs) and &lt;code>kita&lt;/code>-affixed nouns (see below). Like &lt;code>nipāta&lt;/code>,
+&lt;code>upasagga&lt;/code> words also have their &lt;code>vibhatti&lt;/code> endings elided, but in some cases
+where they are functioning as independent words (not attached to a verb or
+noun), they may retain their &lt;code>vibhatti&lt;/code> endings.&lt;/p>
+&lt;p>There are three kinds of &lt;code>upasagga&lt;/code>:&lt;/p>
+&lt;ol>
+&lt;li>&lt;code>dhātva’tthā’nuvattaka&lt;/code> - those that follow the meaning of the root, without affecting its original meaning.&lt;/li>
+&lt;li>&lt;code>dhātva’tthabādhaka&lt;/code> - those that absolutely mean opposite of the root. These categorically change the original meaning of the root.&lt;/li>
+&lt;li>&lt;code>dhātva’tthavisesaka&lt;/code> - those that enhance the original meaning of the root by adding more specific meaning and flavour to it.&lt;/li>
+&lt;/ol>
+&lt;p>Example:&lt;/p>
+&lt;blockquote>
+&lt;p>parābhavo&lt;/p>
+&lt;/blockquote>
+&lt;p>🔼(parā) 🚹👤1️⃣(bhava)&lt;br>
+opposite / to be, being
+&lt;em>loss, ruin&lt;/em>&lt;/p>
+&lt;p>Here are various words that can be formed from the word &lt;code>hara&lt;/code> (&amp;ldquo;carrying&amp;rdquo;)
+together with various &lt;code>upasagga&lt;/code> prefixes and the &lt;code>ṇa&lt;/code>-suffix:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>example&lt;/th>
+&lt;th>&lt;code>upasagga&lt;/code>&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;th>combined meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;code>pahāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code>&lt;/td>
+&lt;td>specially&lt;/td>
+&lt;td>carrying (instruments of harm) specially, i.e. beating, striking&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>nihāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>ni&lt;/code>&lt;/td>
+&lt;td>out&lt;/td>
+&lt;td>taking out, evicting&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>nīhāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>nī&lt;/code>&lt;/td>
+&lt;td>out&lt;/td>
+&lt;td>taking out, evicting (same as above)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>uhāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>u&lt;/code>&lt;/td>
+&lt;td>up&lt;/td>
+&lt;td>carrying up&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>duhāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>du&lt;/code>&lt;/td>
+&lt;td>bad&lt;/td>
+&lt;td>carrying badly&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>saṁhāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>saṁ&lt;/code>&lt;/td>
+&lt;td>well&lt;/td>
+&lt;td>carrying well&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>vihāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>vi&lt;/code>&lt;/td>
+&lt;td>specially&lt;/td>
+&lt;td>carrying one’s body specially, staying, i.e. act of staying at a place using alternating bodily modes&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>avahāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>ava&lt;/code>&lt;/td>
+&lt;td>lowly,contemptuous, mean&lt;/td>
+&lt;td>carrying in a mean manner, i.e. stealing&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>anuhāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code>&lt;/td>
+&lt;td>following, subsequent&lt;/td>
+&lt;td>carrying accordingly&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>parihāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>pari&lt;/code>&lt;/td>
+&lt;td>all around&lt;/td>
+&lt;td>carrying from all around&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>adhihāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>adhi&lt;/code>&lt;/td>
+&lt;td>specially, nicely&lt;/td>
+&lt;td>carrying nicely&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>abhihāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>abhi&lt;/code>&lt;/td>
+&lt;td>toward&lt;/td>
+&lt;td>carrying toward&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>patihāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code>&lt;/td>
+&lt;td>again&lt;/td>
+&lt;td>carrying again&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>suhāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>su&lt;/code>&lt;/td>
+&lt;td>well&lt;/td>
+&lt;td>carrying well&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>āhāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>ā&lt;/code>&lt;/td>
+&lt;td>toward&lt;/td>
+&lt;td>carrying toward, food or meal&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>atihāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>ati&lt;/code>&lt;/td>
+&lt;td>beyond, excessive&lt;/td>
+&lt;td>carrying beyond or excessively&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>apihāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>api&lt;/code>&lt;/td>
+&lt;td>downward&lt;/td>
+&lt;td>carrying down&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>apahāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>api&lt;/code>&lt;/td>
+&lt;td>out&lt;/td>
+&lt;td>carrying outward, i.e. removing&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>upahāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>upa&lt;/code>&lt;/td>
+&lt;td>near, close to&lt;/td>
+&lt;td>carrying toward proximity, bringing up closer, carrying complementary gift etc.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;div class="alert alert-light" role="alert">
+&lt;h4 class="alert-heading">Reference&lt;/h4>
+For a listing of the detailed meanings that are associated with &lt;code>upasagga&lt;/code>,
+please refer to
+&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/upasagga/">&lt;strong>D: &lt;code>upasagga&lt;/code> meanings&lt;/strong>&lt;/a>
+&lt;/div>
+&lt;h2 id="-samāsa-compound-nouns-316-343">🆎 &lt;code>samāsa&lt;/code> (compound nouns) {316}-{343}&lt;/h2>
+&lt;p>Like German, Pali often combines many nouns to form a compound noun. (TBD)&lt;/p>
+&lt;h2 id="taddhita-affixes-344-405">🔽&lt;code>taddhita&lt;/code> (affixes) {344}-{405}&lt;/h2>
+&lt;p>Various affixes can be added to a noun to create additional words. (TBD)&lt;/p>
+&lt;h2 id="ākhyāta-verbs">&lt;code>ākhyāta&lt;/code> (verbs)&lt;/h2>
+&lt;p>Like nouns, verbs also have &lt;code>vibhatti&lt;/code> endings affixed to them when used in
+sentences, but the endings are different from those of nouns. These endings
+depend on:&lt;/p>
+&lt;ul>
+&lt;li>voice
+&lt;ul>
+&lt;li>🟢 = &lt;code>parassapada&lt;/code> (active)&lt;/li>
+&lt;li>🔵 = &lt;code>attanopada&lt;/code> (middle) - passive, impersonal&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>number
+&lt;ul>
+&lt;li>👤 = &lt;code>ekavacana&lt;/code> (singular)&lt;/li>
+&lt;li>👥 = &lt;code>bahuvacana&lt;/code> (plural)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>person
+&lt;ul>
+&lt;li>🤟 = &lt;code>paṭhama purisa&lt;/code> (first person, equivalent to &amp;rsquo;third person&amp;rsquo; in English)&lt;/li>
+&lt;li>🤘 = &lt;code>majjima purisa&lt;/code> (middle person, equivalent to &amp;lsquo;second person&amp;rsquo; in English)&lt;/li>
+&lt;li>👆 = &lt;code>uttama purisa&lt;/code> (primary person, equivalent to &amp;lsquo;first person&amp;rsquo; in English)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>tense/mood
+&lt;ul>
+&lt;li>▶️ = &lt;code>vattamāna&lt;/code> (present)&lt;/li>
+&lt;li>⏹ = &lt;code>piñcamī&lt;/code> (imperative)&lt;/li>
+&lt;li>⏯ = &lt;code>sattamī&lt;/code> (potential)&lt;/li>
+&lt;li>🔄 = &lt;code>parokkhā&lt;/code> (perfect)&lt;/li>
+&lt;li>↩️ = &lt;code>hiyyattanī&lt;/code> (imperfect)&lt;/li>
+&lt;li>⏮ = &lt;code>ajjatanī&lt;/code>(aorist)&lt;/li>
+&lt;li>⏭ = &lt;code>bhavissanti&lt;/code> (future)&lt;/li>
+&lt;li>🔀 = &lt;code>kālātipatti&lt;/code> (conditional)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="verb-terminations">verb terminations&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;/th>
+&lt;th style="text-align:center">🟢&lt;/th>
+&lt;th style="text-align:center">🟢&lt;/th>
+&lt;th style="text-align:center">🟢&lt;/th>
+&lt;th style="text-align:center">🟢&lt;/th>
+&lt;th style="text-align:center">🟢&lt;/th>
+&lt;th style="text-align:center">🟢&lt;/th>
+&lt;th style="text-align:center">🔵&lt;/th>
+&lt;th style="text-align:center">🔵&lt;/th>
+&lt;th style="text-align:center">🔵&lt;/th>
+&lt;th style="text-align:center">🔵&lt;/th>
+&lt;th style="text-align:center">🔵&lt;/th>
+&lt;th style="text-align:center">🔵&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">▶️&lt;/td>
+&lt;td style="text-align:center">&lt;code>ti&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>anti&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>si&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>hta&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>mi&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ma&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>te&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ante&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>se&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>vhe&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>e&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>mhe&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">⏹&lt;/td>
+&lt;td style="text-align:center">&lt;code>tu&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>antu&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>hi&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>tha&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>mi&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ma&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>taṁ&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>antaṁ&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssu&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>vho&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>e&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>āmase&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">⏯&lt;/td>
+&lt;td style="text-align:center">&lt;code>eyya&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>eyyuṁ&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>eyyāsi&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>eyyātha&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>eyyāmi&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>eyyāma&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>etha&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>eraṁ&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>etho&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>eyyāvho&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>eyaṁ&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>eyaṁhe&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔄&lt;/td>
+&lt;td style="text-align:center">&lt;code>a&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>u&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>e&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ttha&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>aṁ&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>mha&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ttha&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>re&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ttho&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>vho&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>iṁ&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>mhe&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">↩️&lt;/td>
+&lt;td style="text-align:center">&lt;code>ā&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ū&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>o&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ttha&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>aṁ&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>mhā&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ttha&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>tthuṁ&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>se&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>vhaṁ&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>iṁ&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>mhase&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">⏮&lt;/td>
+&lt;td style="text-align:center">&lt;code>ī&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>uṁ&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>o&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ttha&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>iṁ&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>mhā&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ā&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ū&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>se&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>vhaṁ&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>aṁ&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>mhe&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssati&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssanti&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssasi&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssatha&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssaṁi&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssāma&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssate&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssante&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssase&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssavhe&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssaṁ&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssāmhe&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔀&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssā&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssaṁsu&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>sse&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssatha&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssaṁ&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssāmha&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssatha&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssiṁsu&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssase&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssavhe&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssaṁ&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssāmhase&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>(TBD: incomplete)&lt;/p>
+&lt;h2 id="-kibbidhāna-kita-affixed-nouns-524-623">🔽 &lt;code>kibbidhāna&lt;/code> (&lt;code>kita&lt;/code>-affixed nouns) {524}-{623}&lt;/h2>
+&lt;p>This is a class of words which are verbs transformed into nouns through the
+addition of suffixes and typically
+used as adjectives of the preceeding noun (called the &lt;code>saddūpapada&lt;/code> and usually
+in the 2nd case).&lt;/p>
+&lt;p>These &amp;ldquo;verb nouns&amp;rdquo; are nouns, and have noun &lt;code>vibhatti&lt;/code> endings applied to them,
+but can function like verbs in a sentence, or as auxiliary verbs such as the
+absolutive (also called gerund), the present participle and past participle.&lt;/p>
+&lt;p>TBD&lt;/p>
+&lt;h2 id="-uṇādi-uṇādi-affixed-nouns-624-673">🔽 &lt;code>uṇādi&lt;/code> (&lt;code>uṇādi&lt;/code>-affixed nouns) {624}-{673}&lt;/h2>
+&lt;p>These are also &amp;ldquo;verb nouns&amp;rdquo; that can behave like verbs or auxiliary verbs or
+future participles.&lt;/p>
+&lt;p>TBD&lt;/p>
+&lt;h2 id="exercise">Exercise&lt;/h2>
+&lt;p>Our first exercise, and also a celebration for finishing this chapter, is to
+translate the &lt;a href="https://suttacentral.net/kp1/pli">&lt;strong>Saraṇattaya&lt;/strong> Kp 1 PTS 1&lt;/a>.
+This is a very well known &lt;code>sutta&lt;/code> commonly referred to as the &lt;strong>Three Jewels&lt;/strong>
+(also known as the &lt;strong>Triple Gem&lt;/strong> or &lt;strong>Three Refuges&lt;/strong>) and traditionally
+recited by disciples of the Buddha as part of a ceremony by which one
+formally declares oneself a Buddhist.&lt;/p>
+&lt;blockquote>
+&lt;p>Buddhaṁ saraṇaṁ gacchāmi&lt;br>
+Dhammaṁ saraṇaṁ gacchāmi&lt;br>
+Saṅghaṁ saraṇaṁ gacchāmi&lt;br>
+Dutiyampi buddhaṁ saraṇaṁ gacchāmi&lt;br>
+Dutiyampi dhammaṁ saraṇaṁ gacchāmi&lt;br>
+Dutiyampi saṅghaṁ saraṇaṁ gacchāmi&lt;br>
+Tatiyampi buddhaṁ saraṇaṁ gacchāmi&lt;br>
+Tatiyampi dhammaṁ saraṇaṁ gacchāmi&lt;br>
+Tatiyampi saṅghaṁ saraṇaṁ gacchāmi&lt;/p>
+&lt;/blockquote>
+&lt;p>Let&amp;rsquo;s start by examining only the first line. Analysing each word by
+identifying the form of the &lt;code>vibhatti&lt;/code> ending yields:&lt;/p>
+&lt;blockquote>
+&lt;p>🚹👤2️⃣(buddhaṁ saraṇaṁ) 🟢👤🤟▶️(gacchāmi)&lt;/p>
+&lt;/blockquote>
+&lt;div class="alert alert-secondary" role="alert">
+&lt;h4 class="alert-heading">Note&lt;/h4>
+The notation used here is inspired by functional programming conventions.
+In mathematics, we refer to \(f(x)\) as the function \(f\) applying on the
+variable \(x\), so 🚹👤2️⃣(&lt;code>x&lt;/code>) means all words in &lt;code>x&lt;/code> are in the 2nd
+case, singular (&lt;code>ekavacana&lt;/code>) and &lt;code>pulliṅga&lt;/code> in gender.
+Similarly, 🟢👤🤟▶️(&lt;code>y&lt;/code>) means all
+words in &lt;code>y&lt;/code> are present indicative (&lt;code>vattamāna&lt;/code>) active (&lt;code>parassapada&lt;/code>) verbs
+in the singular (&lt;code>ekavacana&lt;/code>), &amp;ldquo;first person&amp;rdquo; (in English, &amp;ldquo;third person&amp;rdquo;)
+form (&lt;code>paṭhama purisa&lt;/code>).
+&lt;/div>
+&lt;p>Translating each word into English yields:&lt;/p>
+&lt;blockquote>
+&lt;p>Buddha / refuge / (I) go&lt;/p>
+&lt;/blockquote>
+&lt;p>Note that in Pali, all words in the same case refer to the same entity, so
+both &amp;ldquo;Buddha&amp;rdquo; and &amp;ldquo;refuge&amp;rdquo; refer to the same entity. In other words, the Buddha
+is the refuge and the refuge is the Buddha. In English, we can regard the
+equality as &amp;ldquo;Buddha as refuge&amp;rdquo;.&lt;/p>
+&lt;p>So, rearranging the words into a more idiomatic English sentence, we get:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>I go to the Buddha as refuge.&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>For the exercise, translate the remainder of the &lt;code>sutta&lt;/code>. It&amp;rsquo;s okay to leave
+words like &amp;ldquo;dhamma&amp;rdquo; and &amp;ldquo;sangha&amp;rdquo; untranslated (and use non-accented characters)
+as these are well known terms to Buddhists.&lt;/p>
+&lt;h2 id="answer">Answer&lt;/h2>
+&lt;blockquote>
+&lt;p>&lt;em>I go to the Buddha as refuge.&lt;br>
+I go to the Dhamma as refuge.&lt;br>
+I go to the Sangha as refuge.&lt;br>
+For the second time too, I go to the Buddha as refuge.&lt;br>
+For the second time too, I go to the Dhamma as refuge.&lt;br>
+For the second time too, I go to the Sangha as refuge.&lt;br>
+For the third time too, I go to the Buddha as refuge.&lt;br>
+For the third time too, I go to the Dhamma as refuge.&lt;br>
+For the third time too, I go to the Sangha as refuge.&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>Note that &lt;code>dutiyaṃ&lt;/code> and &lt;code>tatiyaṃ&lt;/code> are being used as &lt;code>nipāta&lt;/code>. &lt;code>pi&lt;/code>is a &lt;code>nipāta&lt;/code>
+meaning &amp;ldquo;too&amp;rdquo; or &amp;ldquo;also&amp;rdquo;.&lt;/p>
+&lt;p>The sentence structure of this &lt;code>sutta&lt;/code> can also be represented as a pseudo
+UML class diagram:&lt;/p>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;dutiyampi/tatiyampi buddhaṃ/dhammaṃ/saṅghaṃ saraṇaṃ gacchāmi&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english((For the second/third time) I go to the Buddha/Dhamma/Sangha as refuge)
+}
+namespace saṅkhyāpūraṇa {
+class dutiyaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+2️⃣
+english(second time)
+}
+class tatiyaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+2️⃣
+english(third time)
+}
+}
+class pi {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(too)
+}
+namespace saraṇa {
+class buddhaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+}
+class dhammaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+}
+class saṅghaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+}
+}
+class saraṇaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(as refuge)
+}
+class gacchāmi {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+🟢👤🤟▶️
+english(I go)
+}
+sentence *-- dutiyaṃ
+sentence *-- tatiyaṃ
+sentence *-- pi
+sentence *-- buddhaṃ : kamma
+sentence *-- dhammaṃ : kamma
+sentence *-- saṅghaṃ : kamma
+sentence *-- saraṇaṃ : kamma
+sentence *-- gacchāmi: kiriya
+buddhaṃ .. saraṇaṃ
+dhammaṃ .. saraṇaṃ
+saṅghaṃ .. saraṇaṃ&lt;/pre>
+&lt;p>We can also model the successive actions as a pseudo UML sequence diagram:&lt;/p>
+&lt;pre class="mermaid">sequenceDiagram
+participant ahaṃ as (ahaṃ)
+participant buddhaṃ
+participant dhammaṃ
+participant saṅghaṃ
+loop (paṭhama), dutiyampi, tatiyampi
+ahaṃ -&amp;gt;&amp;gt; buddhaṃ : gacchāmi
+buddhaṃ -&amp;gt;&amp;gt; saraṇaṃ : (hoti)
+ahaṃ -&amp;gt;&amp;gt; dhammaṃ : gacchāmi
+dhammaṃ -&amp;gt;&amp;gt; saraṇaṃ : (hoti)
+ahaṃ -&amp;gt;&amp;gt; saṅghaṃ : gacchāmi
+saṅghaṃ -&amp;gt;&amp;gt; saraṇaṃ : (hoti)
+end&lt;/pre>
+&lt;p>Finally, the different states of the refuges can be modelled as a pseudo
+UML state diagram:&lt;/p>
+&lt;pre class="mermaid">stateDiagram-v2
+state fork_state &amp;lt;&amp;lt;fork&amp;gt;&amp;gt;
+state join_state &amp;lt;&amp;lt;join&amp;gt;&amp;gt;
+[*] --&amp;gt; fork_state : gacchāmi
+fork_state --&amp;gt; buddhaṃ
+fork_state --&amp;gt; dhammaṃ
+fork_state --&amp;gt; saṅghaṃ
+buddhaṃ --&amp;gt; join_state
+dhammaṃ --&amp;gt; join_state
+saṅghaṃ --&amp;gt; join_state
+join_state --&amp;gt; saraṇaṃ
+saraṇaṃ --&amp;gt; fork_state : dutiyampi, tatiyampi&lt;/pre>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>Congratulations on finishing this chapter! It is compact and dense, and not
+every feature of Pali explained here will sink in initially. It may be
+worthwhile revisiting this chapter from time to time to check your understanding
+as you progress in your journey in learning Pali.&lt;/p>
+&lt;p>The good news is you now know enough of the basics of Pali to start reading
+the &lt;code>Tipiṭaka&lt;/code> with the aid of a good dictionary, and looking up every word
+as you go along. You may encounter sentences that you can&amp;rsquo;t interpret very
+well, but that&amp;rsquo;s okay. Leave it for now, and study the next chapters, which
+will help you build confidence and skill in your ability to analyse sentences
+and deduce the correct meaning.&lt;/p>
+&lt;p>Remember, the sentences in the &lt;code>Tipiṭaka&lt;/code> are often repetitive and used in
+similar forms again and again. They are intentionally structured this way
+to assist in memorisation and chanting. So, once you have learnt how to
+correctly interpret a complex sentence, you may encounter it again and again
+and reading will become easier and easier over time.&lt;/p>
+&lt;div class="alert alert-light" role="alert">
+&lt;h4 class="alert-heading">Next Chapter&lt;/h4>
+&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/cases/">&lt;strong>2: &lt;code>kāraka&lt;/code> (word ending) meanings&lt;/strong>&lt;/a>
+&lt;/div></description></item><item><title>Docs: 2: `kāraka` (word ending) meanings</title><link>https://christham.net/buddhavacana/docs/palibook/cases/</link><pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/cases/</guid><description>
+&lt;div class="alert alert-primary" role="alert">
+Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
+&lt;/div>
+&lt;h2 id="apādāna">apādāna&lt;/h2>
+&lt;h3 id="place-or-source-271">Place or source {271}&lt;/h3>
+&lt;ul>
+&lt;li>The place or source from which someone left or something originated&lt;/li>
+&lt;li>The source from which fear arises&lt;/li>
+&lt;li>The one from which one learns.&lt;/li>
+&lt;/ul>
+&lt;h4 id="example">Example&lt;/h4>
+&lt;blockquote>
+&lt;p>&lt;strong>gāmā&lt;/strong> apenti munayo&lt;/p>
+&lt;/blockquote>
+&lt;p>🚹👤5️⃣(gāmā) 👥(🟢🤟▶️(apenti) 🚹1️⃣(munayo))&lt;br>
+from village / depart / sages&lt;br>
+&lt;em>The sages depart from the village.&lt;/em>&lt;/p>
+&lt;h4 id="exercises">Exercises&lt;/h4>
+&lt;p>Translate the following from Pali to English. Look up the words in a dictionary,
+perform necessary sandhi and compound word deconstruction, and take note of
+the &lt;code>vibhatti&lt;/code> endings to deduce the meaning of the sentence.&lt;/p>
+&lt;div class="alert alert-success" role="alert">
+&lt;h4 class="alert-heading">Hint&lt;/h4>
+You may find the &lt;a href="https://digitalpalidictionary.github.io/">Digital Pali Dictionary&lt;/a>
+useful for looking up words, as well as doing the sandhi and compound word
+deconstruction.
+&lt;/div>
+&lt;ol>
+&lt;li>nagarā niggato rājā&lt;/li>
+&lt;li>corā bhayaṁ jāyate&lt;/li>
+&lt;li>ācariyu’pajjhāyehi sikkhaṁ gaṇhāti sisso&lt;/li>
+&lt;/ol>
+&lt;h4 id="answers">Answers&lt;/h4>
+&lt;p>&lt;em>Note: please do the exercises first before checking the answers.&lt;/em>&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;blockquote>
+&lt;p>nagarā niggato rājā&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;/ol>
+&lt;p>🚻👤5️⃣(nagarā) 👤1️⃣(🔽(ta)(niggato) 🚹(rājā))&lt;br>
+from city / departed (past participle) / king&lt;br>
+&lt;em>The departed king [is] from the city.&lt;/em>&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;blockquote>
+&lt;p>corā bhayaṁ jāyate&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;/ol>
+&lt;p>🚹👤5️⃣(corā) 👤(🚻1️⃣(bhayaṁ) 🔵🤟▶️(jāyate))&lt;br>
+from thief / fear / arises&lt;br>
+&lt;em>Fear arises from the thief.&lt;/em>&lt;/p>
+&lt;ol start="2">
+&lt;li>
+&lt;blockquote>
+&lt;p>ācariyu’pajjhāyehi sikkhaṁ gaṇhāti sisso&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;/ol>
+&lt;p>🚹👤5️⃣🆎(ācariya+upajjhāya) 🚺👤2️⃣(sikkhaṁ) 👤(🟢🤟▶️(gaṇhāti) 🚹1️⃣(sisso))&lt;br>
+teacher and preceptor / lesson / takes / pupil&lt;br>
+&lt;em>The pupil takes lesson from the teacher/preceptor.&lt;/em>&lt;/p>
+&lt;p>(TBD: incomplete)&lt;/p></description></item><item><title>Docs: A: The Pali Alphabet</title><link>https://christham.net/buddhavacana/docs/palibook/alphabet/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/alphabet/</guid><description>
+&lt;div class="alert alert-primary" role="alert">
+Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
+&lt;/div>
+&lt;h2 id="alphabet-order">Alphabet Order&lt;/h2>
+&lt;p>Pali consists of 8 vowels (sara) and 33 consonants (vyañjana), arranged in the following order (the letters in round brackets are unused in the dictionary):&lt;/p>
+&lt;blockquote>
+&lt;p>sara: a, ā, i, ī, u, ū&lt;br>
+kaṇṭhatāluja: e&lt;br>
+kaṇṭhoṭṭhaja: o&lt;br>
+niggahīta: (ṃ&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>)&lt;br>
+kavagga: k, kh, g, gh, (ṅ)&lt;br>
+cavagga: c, ch, j, jh, ñ&lt;br>
+ṭavagga: ṭ, ṭh, ḍ, (ḍh), (ṇ)&lt;br>
+tavagga: t, th, d, dh, n&lt;br>
+pavagga: p, ph, b, bh, m&lt;br>
+antaṭṭha: y, r, l, (ḷ), (ḷh)&lt;br>
+dantoṭṭhaja: v&lt;br>
+sakāra: s&lt;br>
+hakāra: h&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="alphabet-groups">Alphabet Groups&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Articulation Place&lt;/th>
+&lt;th style="text-align:center">rassa&lt;/th>
+&lt;th style="text-align:center">dīgha&lt;/th>
+&lt;th style="text-align:center">kaṇṭhatāluja kaṇṭhoṭṭhaja&lt;/th>
+&lt;th style="text-align:center">anunāsika&lt;/th>
+&lt;th style="text-align:center">aghosa sithila&lt;/th>
+&lt;th style="text-align:center">aghosa dhanita&lt;/th>
+&lt;th style="text-align:center">ghosa sithila&lt;/th>
+&lt;th style="text-align:center">ghosa dhanita&lt;/th>
+&lt;th style="text-align:center">nāsika&lt;/th>
+&lt;th style="text-align:center">antaṭṭha&lt;/th>
+&lt;th style="text-align:center">hakāra&lt;/th>
+&lt;th style="text-align:center">sakāra&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>kaṇṭhaja&lt;/td>
+&lt;td style="text-align:center">a&lt;/td>
+&lt;td style="text-align:center">ā&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td style="text-align:center">k&lt;/td>
+&lt;td style="text-align:center">kh&lt;/td>
+&lt;td style="text-align:center">g&lt;/td>
+&lt;td style="text-align:center">gh&lt;/td>
+&lt;td style="text-align:center">ṅ&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td style="text-align:center">h&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>tāluja&lt;/td>
+&lt;td style="text-align:center">i&lt;/td>
+&lt;td style="text-align:center">ī&lt;/td>
+&lt;td style="text-align:center">e&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td style="text-align:center">c&lt;/td>
+&lt;td style="text-align:center">ch&lt;/td>
+&lt;td style="text-align:center">j&lt;/td>
+&lt;td style="text-align:center">jh&lt;/td>
+&lt;td style="text-align:center">ñ&lt;/td>
+&lt;td style="text-align:center">y&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>muḍḍhaja&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td style="text-align:center">o&lt;/td>
+&lt;td style="text-align:center">ṃ&lt;/td>
+&lt;td style="text-align:center">ṭ&lt;/td>
+&lt;td style="text-align:center">ṭh&lt;/td>
+&lt;td style="text-align:center">ḍ&lt;/td>
+&lt;td style="text-align:center">ḍh&lt;/td>
+&lt;td style="text-align:center">ṇ&lt;/td>
+&lt;td style="text-align:center">r ḷ&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>dantaja&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td style="text-align:center">t&lt;/td>
+&lt;td style="text-align:center">th&lt;/td>
+&lt;td style="text-align:center">d&lt;/td>
+&lt;td style="text-align:center">dh&lt;/td>
+&lt;td style="text-align:center">n&lt;/td>
+&lt;td style="text-align:center">v l&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td style="text-align:center">s&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>oṭṭhaja&lt;/td>
+&lt;td style="text-align:center">u&lt;/td>
+&lt;td style="text-align:center">ū&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td style="text-align:center">p&lt;/td>
+&lt;td style="text-align:center">ph&lt;/td>
+&lt;td style="text-align:center">b&lt;/td>
+&lt;td style="text-align:center">bh&lt;/td>
+&lt;td style="text-align:center">m&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="how-to-form-sounds">How to form sounds&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>vagga&lt;/th>
+&lt;th>Group&lt;/th>
+&lt;th>Sound&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>kaṇṭhaja&lt;/td>
+&lt;td>Gutturals&lt;/td>
+&lt;td>pronounced in the throat&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>tāluja&lt;/td>
+&lt;td>Palatals&lt;/td>
+&lt;td>pressing the tongue on the front-palate&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>muḍḍhaja&lt;/td>
+&lt;td>Linguals (Cerebrals, Retroflex)&lt;/td>
+&lt;td>bringing the up-turned tip of the tongue in contact with the back of the palate&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>dantaja&lt;/td>
+&lt;td>Dentals&lt;/td>
+&lt;td>pronounced with the aid of the teeth&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>oṭṭhaja&lt;/td>
+&lt;td>Labials&lt;/td>
+&lt;td>formed by means of the lips&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>hakāra&lt;/td>
+&lt;td>Spirant&lt;/td>
+&lt;td>a strong aspirated breathing&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>sakāra&lt;/td>
+&lt;td>Sibilant&lt;/td>
+&lt;td>has a hissing sound&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>anunāsika&lt;/td>
+&lt;td>Nasal&lt;/td>
+&lt;td>nasal breathing found only after the short vowels: aṃ, iṃ, uṃ&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>aghosa&lt;/td>
+&lt;td>Voiceless (Surds, stops)&lt;/td>
+&lt;td>hard, flat, and toneless&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ghosa&lt;/td>
+&lt;td>Voiced (Sonants)&lt;/td>
+&lt;td>soft and uttered with a checked tone&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>dhanita&lt;/td>
+&lt;td>Aspirates&lt;/td>
+&lt;td>pronounced with a strong breathing or h sound added to them&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>sithila&lt;/td>
+&lt;td>Nonaspirates&lt;/td>
+&lt;td>pronounced naturally, without effort and without the h sound&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>nāsika&lt;/td>
+&lt;td>Nasals&lt;/td>
+&lt;td>sounded through the nose&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>antaṭṭha&lt;/td>
+&lt;td>Liquids (Resonants, semi-vowels)&lt;/td>
+&lt;td>readily combine with other consonants: (except, perhaps, ḷ)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>-&lt;/td>
+&lt;td>Mutes (Nonsurds)&lt;/td>
+&lt;td>not being readily pronounced without the aid of a vowel&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="pronunciation">Pronunciation&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">Letter&lt;/th>
+&lt;th style="text-align:center">Pronunciation&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">a&lt;/td>
+&lt;td style="text-align:center">b&lt;u>u&lt;/u>t, c&lt;u>u&lt;/u>t&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ā&lt;/td>
+&lt;td style="text-align:center">&lt;u>a&lt;/u>rt, f&lt;u>a&lt;/u>ther&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">i&lt;/td>
+&lt;td style="text-align:center">m&lt;u>i&lt;/u>ll, p&lt;u>i&lt;/u>n&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ī&lt;/td>
+&lt;td style="text-align:center">b&lt;u>ee&lt;/u>, mach&lt;u>i&lt;/u>ne&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">u&lt;/td>
+&lt;td style="text-align:center">p&lt;u>u&lt;/u>t&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ū&lt;/td>
+&lt;td style="text-align:center">c&lt;u>oo&lt;/u>l, r&lt;u>u&lt;/u>le&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">e&lt;/td>
+&lt;td style="text-align:center">t&lt;u>e&lt;/u>n, f&lt;u>a&lt;/u>te&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">o&lt;/td>
+&lt;td style="text-align:center">h&lt;u>o&lt;/u>t, n&lt;u>o&lt;/u>te&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">k&lt;/td>
+&lt;td style="text-align:center">&lt;u>k&lt;/u>ey, &lt;u>k&lt;/u>ite&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">g&lt;/td>
+&lt;td style="text-align:center">&lt;u>g&lt;/u>et, &lt;u>g&lt;/u>ood&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ṅ&lt;/td>
+&lt;td style="text-align:center">ri&lt;u>ng&lt;/u>, si&lt;u>ng&lt;/u>er&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">c&lt;/td>
+&lt;td style="text-align:center">&lt;u>ch&lt;/u>urch, ri&lt;u>ch&lt;/u>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">j&lt;/td>
+&lt;td style="text-align:center">&lt;u>j&lt;/u>am, &lt;u>j&lt;/u>ug&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ñ&lt;/td>
+&lt;td style="text-align:center">si&lt;u>gn&lt;/u>or&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ṭ&lt;/td>
+&lt;td style="text-align:center">ha&lt;u>t&lt;/u>, no&lt;u>t&lt;/u>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ḍ&lt;/td>
+&lt;td style="text-align:center">goo&lt;u>d&lt;/u>, hi&lt;u>d&lt;/u>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ṇ&lt;/td>
+&lt;td style="text-align:center">hi&lt;u>n&lt;/u>t, &lt;u>n&lt;/u>ow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">t&lt;/td>
+&lt;td style="text-align:center">&lt;u>th&lt;/u>umb&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">d&lt;/td>
+&lt;td style="text-align:center">&lt;u>th&lt;/u>ey&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">n&lt;/td>
+&lt;td style="text-align:center">&lt;u>n&lt;/u>ow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">p&lt;/td>
+&lt;td style="text-align:center">li&lt;u>p&lt;/u>, &lt;u>p&lt;/u>ut&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">b&lt;/td>
+&lt;td style="text-align:center">&lt;u>b&lt;/u>ut, ri&lt;u>b&lt;/u>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">m&lt;/td>
+&lt;td style="text-align:center">hi&lt;u>m&lt;/u>, &lt;u>m&lt;/u>ind&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">y&lt;/td>
+&lt;td style="text-align:center">&lt;u>y&lt;/u>ard, &lt;u>y&lt;/u>es&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">r&lt;/td>
+&lt;td style="text-align:center">&lt;u>r&lt;/u>at, &lt;u>r&lt;/u>ight&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">l&lt;/td>
+&lt;td style="text-align:center">&lt;u>l&lt;/u>ight, se&lt;u>ll&lt;/u>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">v&lt;/td>
+&lt;td style="text-align:center">&lt;u>v&lt;/u>ile, &lt;u>v&lt;/u>ine&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">s&lt;/td>
+&lt;td style="text-align:center">&lt;u>s&lt;/u>ing, &lt;u>s&lt;/u>it&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">h&lt;/td>
+&lt;td style="text-align:center">&lt;u>h&lt;/u>ot, &lt;u>h&lt;/u>ut&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ḷ&lt;/td>
+&lt;td style="text-align:center">fe&lt;u>l&lt;/u>t, &lt;u>l&lt;/u>ight&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ṃ&lt;/td>
+&lt;td style="text-align:center">si&lt;u>ng&lt;/u>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>ṃ (niggahīta) can be written η, ṁ or ṃ&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>Docs: B: `sandhi` Rules</title><link>https://christham.net/buddhavacana/docs/palibook/sandhi/</link><pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/sandhi/</guid><description>
+&lt;div class="alert alert-primary" role="alert">
+Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
+&lt;/div>
+&lt;h2 id="key">Key&lt;/h2>
+&lt;ul>
+&lt;li>→ = “becomes,” “changes into,” “results in.” ⎯ → ∅ = elision.&lt;/li>
+&lt;li>∅ → = insertion.&lt;/li>
+&lt;li>/ = “in the environment of.”&lt;/li>
+&lt;li>
+&lt;ul>
+&lt;li>= meeting.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;code>#&lt;/code> = word boundary.&lt;/li>
+&lt;li>[] = optionality (only after symbols).&lt;/li>
+&lt;li>(V̆ ) = short vowel.&lt;/li>
+&lt;li>(V̄ ) = long vowel.&lt;/li>
+&lt;li>(C) = consonant.&lt;/li>
+&lt;li>(CC) = double consonant.&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>“vowel → (V̄ ) [usually] / __ vowel [same class]”&lt;/p>
+&lt;/blockquote>
+&lt;p>says that any vowel (vowel) in the environment before another vowel (/ __ vowel) of the same class is usually lengthened (→ (V̄ ) [usually]).&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">sutta&lt;/th>
+&lt;th>rule&lt;/th>
+&lt;th>before&lt;/th>
+&lt;th>after&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">{12}&lt;/td>
+&lt;td>Vowel → ∅ / __ vowel&lt;/td>
+&lt;td>yassa+indriyāni&lt;/td>
+&lt;td>yass’indriyāni samathaṅ’gatāni&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>hi+etaṁ&lt;/td>
+&lt;td>no he’taṁ bhante&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>sametu+āyasmā&lt;/td>
+&lt;td>sametā’yasmā saṁghena&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{13}&lt;/td>
+&lt;td>Vowel / __ dissimilar vowel, dissimilar vowel → ∅&lt;/td>
+&lt;td>cattāro+ime&lt;/td>
+&lt;td>cattāro’me bhikkhave dhammā&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>kinnu+imā+eva&lt;/td>
+&lt;td>kinʼnu’mā’va samaṇiyo&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>(exception)&lt;/td>
+&lt;td>pañca+indriyāni&lt;/td>
+&lt;td>pañci’ndriyāni&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>(exception)&lt;/td>
+&lt;td>tayo+assu&lt;/td>
+&lt;td>taya’ssu dhammā jahitā bhavanti&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{14}&lt;/td>
+&lt;td>a or ā→∅ [occasionally] / __ i or ī,i or ī→e&lt;/td>
+&lt;td>bandhussa+iva&lt;/td>
+&lt;td>bandhusse’va samāgamo&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{14}&lt;/td>
+&lt;td>a or ā→∅ [occasionally] / __ u or ū,u or ū→o&lt;/td>
+&lt;td>na+upeti&lt;/td>
+&lt;td>saṅkhyaṁ • no’peti vedagū&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>(exception)&lt;/td>
+&lt;td>yassa+indriyāni&lt;/td>
+&lt;td>yassi’ndriyāni&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>(exception)&lt;/td>
+&lt;td>tathā+upamaṁ&lt;/td>
+&lt;td>tathū’pamaṁ dhammavaraṁ adesayi&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{15}&lt;/td>
+&lt;td>Vowel → ∅ [occasionally] / __ vowel, vowel → (V̄)&lt;/td>
+&lt;td>saddhā+idha&lt;/td>
+&lt;td>saddhī’dha vittaṁ purisassa seṭṭhaṁ&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>ca+ubhayaṁ&lt;/td>
+&lt;td>anāgārehi •cū’bhayaṁ&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>(exception)&lt;/td>
+&lt;td>pañcahi+upāli&lt;/td>
+&lt;td>pañcahu’pāli aṅgehi samannāgato&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>(exception)&lt;/td>
+&lt;td>natthi+aññaṁ kiñci&lt;/td>
+&lt;td>nattha’ññaṁ kiñci&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{16}&lt;/td>
+&lt;td>Vowel (V̆) → (V̄) [occasionally] / __ vowel, vowel → ∅&lt;/td>
+&lt;td>kiṁsu+idha&lt;/td>
+&lt;td>kiṁsū’dha vittaṁ purisassa seṭṭhaṁ&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>sādhu+iti&lt;/td>
+&lt;td>sādhū’ti paṭissuṇitvā&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>(exception)&lt;/td>
+&lt;td>iti+assa muhuttaṁ+api&lt;/td>
+&lt;td>iti’ssa muhuttam’pi&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{17}&lt;/td>
+&lt;td>e[of me,te,ke,ye etc.]→y /__a followed by (CC) / __ vowel, vowel → ∅&lt;/td>
+&lt;td>te+assa&lt;/td>
+&lt;td>tyā’ssa pahīnā honti&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{17}&lt;/td>
+&lt;td>e[of me,te,ke,ye etc.]→y / __ a followed by (C), a → (V̄) / __ vowel, vowel → ∅&lt;/td>
+&lt;td>me+ayaṁ&lt;/td>
+&lt;td>adhigato kho • myā’yaṁ dhammo&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>te+ahaṁ&lt;/td>
+&lt;td>yā’haṁ evaṁ vadeyyaṁ&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>(exception)&lt;/td>
+&lt;td>ne+anāgatā&lt;/td>
+&lt;td>ne’nāgatā&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>(exception)&lt;/td>
+&lt;td>na+ettha&lt;/td>
+&lt;td>iti ne’ttha&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>(exception)&lt;/td>
+&lt;td>na+ettha&lt;/td>
+&lt;td>iti ne’ttha&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{18}&lt;/td>
+&lt;td>o → v [occasionally] / __ dissimilar vowel&lt;/td>
+&lt;td>kho+assa&lt;/td>
+&lt;td>atha • khva’ssa&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>so+assa&lt;/td>
+&lt;td>sva’ssa hoti&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>(exception)&lt;/td>
+&lt;td>cattāro+ime&lt;/td>
+&lt;td>cattāro’me bhikkhave dhammā&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{18}&lt;/td>
+&lt;td>u → v [occasionally] / __ dissimilar vowel&lt;/td>
+&lt;td>bahu+ābādho&lt;/td>
+&lt;td>bahvā’bādho&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>vatthu+ettha&lt;/td>
+&lt;td>vatthve’ttha vihitaṁ niccaṁ&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>cakkhu+āpāthaṁ+āgacchati&lt;/td>
+&lt;td>cakkhvā’pātha’māgacchati&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>(exception)&lt;/td>
+&lt;td>kinnu+imā’va&lt;/td>
+&lt;td>kinnumā’va samaṇiyo&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{19}&lt;/td>
+&lt;td>ti → c [occasionally], c → cc&lt;/td>
+&lt;td>iti+etaṁ&lt;/td>
+&lt;td>icce’taṁ kusalaṁ&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>iti+assa&lt;/td>
+&lt;td>icca’ssa vacanīyaṁ&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>pati+uttaritvā&lt;/td>
+&lt;td>paccu’ttaritvā&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>pati+āharati&lt;/td>
+&lt;td>paccā’harati&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>(exception)&lt;/td>
+&lt;td>iti+assa muhuttaṁ+api&lt;/td>
+&lt;td>iti’ssa muhuttam’pi&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>(TBD: incomplete)&lt;/p></description></item><item><title>Docs: C: `vibhatti` Rules</title><link>https://christham.net/buddhavacana/docs/palibook/vibhatti/</link><pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/vibhatti/</guid><description>
+&lt;div class="alert alert-primary" role="alert">
+Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
+&lt;/div></description></item><item><title>Docs: D: `upasagga` meanings</title><link>https://christham.net/buddhavacana/docs/palibook/upasagga/</link><pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/upasagga/</guid><description>
+&lt;div class="alert alert-primary" role="alert">
+Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
+&lt;/div>
+&lt;div class="alert alert-secondary" role="alert">
+&lt;h4 class="alert-heading">Note&lt;/h4>
+Sometimes, certain &lt;code>upasagga&lt;/code> words shown by the ◊ mark can also be used independently in sentences in addition to being used as prefixes.
+&lt;/div>
+&lt;h2 id="pa">&lt;code>pa&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>meaning&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>combination&lt;/th>
+&lt;th>example meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>specifically, specially, in various ways&lt;/td>
+&lt;td>&lt;code>pajānāti&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>jānāti&lt;/code>&lt;/td>
+&lt;td>(he) knows specifically, in various ways&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>paññā&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>ñā&lt;/code>&lt;/td>
+&lt;td>knowing specifically, in various ways, i.e. wisdom, knowledge&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>up&lt;/td>
+&lt;td>&lt;code>paggaṇhāti&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>gaṇhāti&lt;/code>&lt;/td>
+&lt;td>(He) takes up, lifts up by praise and support etc.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>paggāho&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>gāho&lt;/code>&lt;/td>
+&lt;td>such an act&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>away, abroad, far away&lt;/td>
+&lt;td>&lt;code>pakkamati&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>kamati&lt;/code>&lt;/td>
+&lt;td>(He) goes away&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>pakkanto&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>kanto&lt;/code>&lt;/td>
+&lt;td>gone away&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>pavāsaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>vāsaṁ&lt;/code>&lt;/td>
+&lt;td>living abroad, the distant place&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>pavāsī&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>vāsī&lt;/code>&lt;/td>
+&lt;td>lresident abroad, one who lives at a distant region or country&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>the source&lt;/td>
+&lt;td>&lt;code>pabhavati&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>bhavati&lt;/code>&lt;/td>
+&lt;td>(It) originates. i.e. it starts to happen&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>pabhavo&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>bhavo&lt;/code>&lt;/td>
+&lt;td>origin&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>successively&lt;/td>
+&lt;td>&lt;code>papitāmaho&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>pitāmaho&lt;/code>&lt;/td>
+&lt;td>great-grandfather&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>panattā&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>nattā&lt;/code>&lt;/td>
+&lt;td>great-grandchildren&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>pācariyā&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>ācariyā&lt;/code>&lt;/td>
+&lt;td>successive generation of preceding teachers&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>chief, noble&lt;/td>
+&lt;td>&lt;code>padhānaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>dhānaṁ&lt;/code>&lt;/td>
+&lt;td>chief, principal&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>pāvacanaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>vacanaṁ&lt;/code>&lt;/td>
+&lt;td>the noble words of Buddha, i.e. canonical texts&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>paṇītaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>nītaṁ&lt;/code>&lt;/td>
+&lt;td>noble, the best&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>being clear and clean&lt;/td>
+&lt;td>&lt;code>pasīdati&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>sīdati&lt;/code>&lt;/td>
+&lt;td>(It) settles clear (as the mind being clear with joy and faith)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>pasanno&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>sanno&lt;/code>&lt;/td>
+&lt;td>being joyous or pleased with joy etc.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>inside&lt;/td>
+&lt;td>&lt;code>pakkhipati&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>khipati&lt;/code>&lt;/td>
+&lt;td>(He) puts inside&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>pakkhitto&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>khitto&lt;/code>&lt;/td>
+&lt;td>having put inside&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>pasassati&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>sassati&lt;/code>&lt;/td>
+&lt;td>(He) breathes in&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>passāso&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>ssāso&lt;/code>&lt;/td>
+&lt;td>inhalation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>intensifier&lt;/td>
+&lt;td>&lt;code>padahati&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>dahati&lt;/code>&lt;/td>
+&lt;td>(He) puts inside&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>padhānaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>khitto&lt;/code>&lt;/td>
+&lt;td>Effort in meditation practice or in any pursuit&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>pavassati&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>vassati&lt;/code>&lt;/td>
+&lt;td>(It) rains heavily&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>pavanaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>vanaṁ&lt;/code>&lt;/td>
+&lt;td>thick forest&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="parā">&lt;code>parā&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>meaning&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>combination&lt;/th>
+&lt;th>example meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>opposite of&lt;/td>
+&lt;td>&lt;code>parājayati&lt;/code>&lt;/td>
+&lt;td>&lt;code>parā&lt;/code> + &lt;code>jayati&lt;/code>&lt;/td>
+&lt;td>(He) fails or is defeated&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>parājayo&lt;/code>&lt;/td>
+&lt;td>&lt;code>parā&lt;/code> + &lt;code>jayo&lt;/code>&lt;/td>
+&lt;td>defeat, failure (compare with &lt;code>jayati&lt;/code> - conquers)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>parābhavati&lt;/code>&lt;/td>
+&lt;td>&lt;code>parā&lt;/code> + &lt;code>bhavati&lt;/code>&lt;/td>
+&lt;td>(He) loses&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>parābhavo&lt;/code>&lt;/td>
+&lt;td>&lt;code>parā&lt;/code> + &lt;code>bhavo&lt;/code>&lt;/td>
+&lt;td>loss, ruin (compare with &lt;code>bhavati&lt;/code> - happens, arises)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>again and again, continuously&lt;/td>
+&lt;td>&lt;code>parakkamati&lt;/code>&lt;/td>
+&lt;td>&lt;code>parā&lt;/code> + &lt;code>kamati&lt;/code>&lt;/td>
+&lt;td>(He) makes effort again and again&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>parakkamo&lt;/code>&lt;/td>
+&lt;td>&lt;code>parā&lt;/code> + &lt;code>kamo&lt;/code>&lt;/td>
+&lt;td>continuous, successive effort&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>wrongly&lt;/td>
+&lt;td>&lt;code>parāmasati&lt;/code>&lt;/td>
+&lt;td>&lt;code>parā&lt;/code> + &lt;code>āmasati&lt;/code>&lt;/td>
+&lt;td>(He) touches it wrongly, takes it in wrong way&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>parāmāso&lt;/code>&lt;/td>
+&lt;td>&lt;code>parā&lt;/code> + &lt;code>āmāso&lt;/code>&lt;/td>
+&lt;td>touching wrongly, wrong view&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="ni">&lt;code>ni&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>meaning&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>combination&lt;/th>
+&lt;th>example meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>out, away&lt;/td>
+&lt;td>&lt;code>nikkhamati&lt;/code>&lt;/td>
+&lt;td>&lt;code>ni&lt;/code> + &lt;code>kamati&lt;/code>&lt;/td>
+&lt;td>(He) comes out&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>niggato&lt;/code>&lt;/td>
+&lt;td>&lt;code>ni&lt;/code> + &lt;code>gato&lt;/code>&lt;/td>
+&lt;td>gone out, left&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>down, into&lt;/td>
+&lt;td>&lt;code>nidahati&lt;/code>&lt;/td>
+&lt;td>&lt;code>ni&lt;/code> + &lt;code>dahati&lt;/code>&lt;/td>
+&lt;td>(He) keeps underneath, stores (as of precious things by burying) or takes it deeply&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>nidhānaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>ni&lt;/code> + &lt;code>dhānaṁ&lt;/code>&lt;/td>
+&lt;td>such an act&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>nihito&lt;/code>&lt;/td>
+&lt;td>&lt;code>ni&lt;/code> + &lt;code>hito&lt;/code>&lt;/td>
+&lt;td>having kept down&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>nikkhipati&lt;/code>&lt;/td>
+&lt;td>&lt;code>ni&lt;/code> + &lt;code>khipati&lt;/code>&lt;/td>
+&lt;td>(He) drops down&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>nikkhitto&lt;/code>&lt;/td>
+&lt;td>&lt;code>ni&lt;/code> + &lt;code>khitto&lt;/code>&lt;/td>
+&lt;td>having dropped&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>nisīdati&lt;/code>&lt;/td>
+&lt;td>&lt;code>ni&lt;/code> + &lt;code>sīdati&lt;/code>&lt;/td>
+&lt;td>(He) settles down. i.e. sits&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>nisinno&lt;/code>&lt;/td>
+&lt;td>&lt;code>ni&lt;/code> + &lt;code>sinno&lt;/code>&lt;/td>
+&lt;td>having sat&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>niggaṇhāti&lt;/code>&lt;/td>
+&lt;td>&lt;code>ni&lt;/code> + &lt;code>gaṇhāti&lt;/code>&lt;/td>
+&lt;td>(he) takes down, i.e. censures (compare &lt;code>paggaṇhāti&lt;/code> - lifts up by praise etc.)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>niggaha&lt;/code>&lt;/td>
+&lt;td>&lt;code>ni&lt;/code> + &lt;code>gaha&lt;/code>&lt;/td>
+&lt;td>censure (compare &lt;code>paggaha&lt;/code> - encouragement and support)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>back down, as in going or in an action, opposite of&lt;/td>
+&lt;td>&lt;code>nivattati&lt;/code>&lt;/td>
+&lt;td>&lt;code>ni&lt;/code> + &lt;code>vattati&lt;/code>&lt;/td>
+&lt;td>backs down or gives up&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>nivattanaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>ni&lt;/code> + &lt;code>vattanaṁ&lt;/code>&lt;/td>
+&lt;td>returning or act of giving up&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>without, lack of&lt;/td>
+&lt;td>&lt;code>nidukkho&lt;/code>&lt;/td>
+&lt;td>&lt;code>ni&lt;/code> + &lt;code>dukkho&lt;/code>&lt;/td>
+&lt;td>without suffering&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>nirogo&lt;/code>&lt;/td>
+&lt;td>&lt;code>ni&lt;/code> + &lt;code>rogo&lt;/code>&lt;/td>
+&lt;td>without disease, healthy&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>nillajjo&lt;/code>&lt;/td>
+&lt;td>&lt;code>ni&lt;/code> + &lt;code>lajjo&lt;/code>&lt;/td>
+&lt;td>without shame, shameless&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="nī">&lt;code>nī&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>meaning&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>combination&lt;/th>
+&lt;th>example meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>out, off, to remove&lt;/td>
+&lt;td>&lt;code>nīharati&lt;/code>&lt;/td>
+&lt;td>&lt;code>nī&lt;/code> + &lt;code>harati&lt;/code>&lt;/td>
+&lt;td>(He) takes out, removes&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>nīharaṇaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>nī&lt;/code> + &lt;code>haraṇaṁ&lt;/code>&lt;/td>
+&lt;td>act of taking out, removal&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;div class="alert alert-secondary" role="alert">
+&lt;h4 class="alert-heading">Note&lt;/h4>
+Both Ni and Nī are not different from each other except the fact that one is a lengthened-form of upasagga.
+&lt;/div>
+&lt;h2 id="u">&lt;code>u&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>meaning&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>combination&lt;/th>
+&lt;th>example meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>up, upward&lt;/td>
+&lt;td>&lt;code>uggacchati&lt;/code>&lt;/td>
+&lt;td>&lt;code>u&lt;/code> + &lt;code>gacchati&lt;/code>&lt;/td>
+&lt;td>(It) goes upward&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>uggamanaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>u&lt;/code> + &lt;code>gamanaṁ&lt;/code>&lt;/td>
+&lt;td>act of going up&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>uṇṇamati&lt;/code>&lt;/td>
+&lt;td>&lt;code>u&lt;/code> + &lt;code>namati&lt;/code>&lt;/td>
+&lt;td>(It) leans up (as a young shoot of tree or like a person being arrogant)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>uṇṇamanaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>u&lt;/code> + &lt;code>namanaṁ&lt;/code>&lt;/td>
+&lt;td>act of leaning up, arrogance, pride&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>uggaṇhāti&lt;/code>&lt;/td>
+&lt;td>&lt;code>u&lt;/code> + &lt;code>gaṇhāti&lt;/code>&lt;/td>
+&lt;td>takes upward, i.e. learns&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>wrong, opposite of&lt;/td>
+&lt;td>&lt;code>ummaggo&lt;/code>&lt;/td>
+&lt;td>&lt;code>u&lt;/code> + &lt;code>maggo&lt;/code>&lt;/td>
+&lt;td>the wrong path&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>uddhammaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>u&lt;/code> + &lt;code>dhammaṁ&lt;/code>&lt;/td>
+&lt;td>wrong Dhamma&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>ubbinayaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>u&lt;/code> + &lt;code>vinayaṁ&lt;/code>&lt;/td>
+&lt;td>wrong Vinaya (discipline)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>intensifier&lt;/td>
+&lt;td>&lt;code>uyyuñjanti&lt;/code>&lt;/td>
+&lt;td>&lt;code>u&lt;/code> + &lt;code>yuñjanti&lt;/code>&lt;/td>
+&lt;td>to make intensive effort&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>ubbādhati&lt;/code>&lt;/td>
+&lt;td>&lt;code>u&lt;/code> + &lt;code>bādhati&lt;/code>&lt;/td>
+&lt;td>(It) stresses out intensely, exhausts&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>ubbādhanaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>u&lt;/code> + &lt;code>bādhanaṁ&lt;/code>&lt;/td>
+&lt;td>such a condition&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="du">&lt;code>du&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>meaning&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>combination&lt;/th>
+&lt;th>example meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>bad, unwholesome, poor in nature&lt;/td>
+&lt;td>&lt;code>duccarati&lt;/code>&lt;/td>
+&lt;td>&lt;code>du&lt;/code> + &lt;code>carati&lt;/code>&lt;/td>
+&lt;td>(He) acts badly or unethically&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>dukkaṭaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>du&lt;/code> + &lt;code>kataṁ&lt;/code>&lt;/td>
+&lt;td>bad deed&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>duggati&lt;/code>&lt;/td>
+&lt;td>&lt;code>du&lt;/code> + &lt;code>gati&lt;/code>&lt;/td>
+&lt;td>bad rebirth, bad destiny&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ill, inauspicious&lt;/td>
+&lt;td>&lt;code>dumaṅgalaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>du&lt;/code> + &lt;code>maṅgalaṁ&lt;/code>&lt;/td>
+&lt;td>inauspiciousness&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>dunnimittaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>du&lt;/code> + &lt;code>nimittaṁ&lt;/code>&lt;/td>
+&lt;td>bad omen&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>without, lack of&lt;/td>
+&lt;td>&lt;code>dubbhikkhaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>du&lt;/code> + &lt;code>bhikhaṁ&lt;/code>&lt;/td>
+&lt;td>without food, famine&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>dussīlo&lt;/code>&lt;/td>
+&lt;td>&lt;code>du&lt;/code> + &lt;code>sīlo&lt;/code>&lt;/td>
+&lt;td>without morality&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>duppañño&lt;/code>&lt;/td>
+&lt;td>&lt;code>du&lt;/code> + &lt;code>pañño&lt;/code>&lt;/td>
+&lt;td>without wisdom, ignorant&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>dusassaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>du&lt;/code> + &lt;code>sassaṁ&lt;/code>&lt;/td>
+&lt;td>lack of paddy, having poor crops of rice due to draught or pests etc.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>being difficult of&lt;/td>
+&lt;td>&lt;code>dukkaraṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>du&lt;/code> + &lt;code>karaṁ&lt;/code>&lt;/td>
+&lt;td>hard to do&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>dullabhaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>du&lt;/code> + &lt;code>labhaṁ&lt;/code>&lt;/td>
+&lt;td>hard to get&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>dujjānaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>du&lt;/code> + &lt;code>jānaṁ&lt;/code>&lt;/td>
+&lt;td>hard to know&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="saṁ">&lt;code>saṁ&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>meaning&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>combination&lt;/th>
+&lt;th>example meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>together, in union&lt;/td>
+&lt;td>&lt;code>saṁvasati&lt;/code>&lt;/td>
+&lt;td>&lt;code>saṁ&lt;/code> + &lt;code>vasati&lt;/code>&lt;/td>
+&lt;td>(He) lives together&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>saṁvāso&lt;/code>&lt;/td>
+&lt;td>&lt;code>saṁ&lt;/code> + &lt;code>vāso&lt;/code>&lt;/td>
+&lt;td>act of being together, co-habitation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>saṁyujjati&lt;/code>&lt;/td>
+&lt;td>&lt;code>saṁ&lt;/code> + &lt;code>yujjati&lt;/code>&lt;/td>
+&lt;td>(It) joins together&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>saṁyogo&lt;/code>&lt;/td>
+&lt;td>&lt;code>saṁ&lt;/code> + &lt;code>yogo&lt;/code>&lt;/td>
+&lt;td>act of joining together&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>well, unitedly&lt;/td>
+&lt;td>&lt;code>saṅgāyati&lt;/code>&lt;/td>
+&lt;td>&lt;code>saṁ&lt;/code> + &lt;code>gāyati&lt;/code>&lt;/td>
+&lt;td>(He) sings or chants together&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>saṅgīti&lt;/code>&lt;/td>
+&lt;td>&lt;code>saṁ&lt;/code> + &lt;code>gīti&lt;/code>&lt;/td>
+&lt;td>act of singing together&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>saṅkharoti&lt;/code>&lt;/td>
+&lt;td>&lt;code>saṁ&lt;/code> + &lt;code>karoti&lt;/code>&lt;/td>
+&lt;td>act of singing together&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>saṅkhāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>saṁ&lt;/code> + &lt;code>karo&lt;/code>&lt;/td>
+&lt;td>such an act or state, i.e. conditioned things&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>saṅgahṇāti&lt;/code>&lt;/td>
+&lt;td>&lt;code>saṁ&lt;/code> + &lt;code>gaṇhāti&lt;/code>&lt;/td>
+&lt;td>(He) takes well, such as by means of praise, support etc.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>saṅgaho&lt;/code>&lt;/td>
+&lt;td>&lt;code>saṁ&lt;/code> + &lt;code>gaho&lt;/code>&lt;/td>
+&lt;td>such an act&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>self, oneself&lt;/td>
+&lt;td>&lt;code>sambhujjhati&lt;/code>&lt;/td>
+&lt;td>&lt;code>saṁ&lt;/code> + &lt;code>bhujjhati&lt;/code>&lt;/td>
+&lt;td>(He) knows by himself (without any outside help)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>sambuddho&lt;/code>&lt;/td>
+&lt;td>&lt;code>saṁ&lt;/code> + &lt;code>bhuddho&lt;/code>&lt;/td>
+&lt;td>the one who knows by himself, i.e. a Buddha&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>sandiṭṭhiko&lt;/code>&lt;/td>
+&lt;td>&lt;code>saṁ&lt;/code> + &lt;code>diṭṭhiko&lt;/code>&lt;/td>
+&lt;td>seen by oneself&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>again and again&lt;/td>
+&lt;td>&lt;code>sandhāvati&lt;/code>&lt;/td>
+&lt;td>&lt;code>saṁ&lt;/code> + &lt;code>dhāvati&lt;/code>&lt;/td>
+&lt;td>(It) runs again and again (from one life to another etc)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>saṁsarati&lt;/code>&lt;/td>
+&lt;td>&lt;code>saṁ&lt;/code> + &lt;code>sarati&lt;/code>&lt;/td>
+&lt;td>(It) happens again and again&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>intense, intensifier&lt;/td>
+&lt;td>&lt;code>sāratto&lt;/code>&lt;/td>
+&lt;td>&lt;code>saṁ&lt;/code> + &lt;code>ratto&lt;/code>&lt;/td>
+&lt;td>attached with strong lust or attachment (Note: “saṁ” becomes “sā” here)&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;div class="alert alert-secondary" role="alert">
+&lt;h4 class="alert-heading">Note&lt;/h4>
+“ṁ” becomes “ṅ” as it precedes “kh” or “g” in the words above.&lt;br>
+“ṁ” becomes “m” as it precedes “bh”.&lt;br>
+“ṁ” becomes “n” as it precedes &amp;ldquo;dh&amp;rdquo;, “d”.
+&lt;/div>
+&lt;h2 id="vi">&lt;code>vi&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>meaning&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>combination&lt;/th>
+&lt;th>example meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>specially&lt;/td>
+&lt;td>&lt;code>vipassati&lt;/code>&lt;/td>
+&lt;td>&lt;code>vi&lt;/code> + &lt;code>passati&lt;/code>&lt;/td>
+&lt;td>(He) sees specially&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>vipassanā&lt;/code>&lt;/td>
+&lt;td>&lt;code>vi&lt;/code> + &lt;code>passanā&lt;/code>&lt;/td>
+&lt;td>act of seeing in a special way. i.e. insight meditation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>transformed&lt;/td>
+&lt;td>&lt;code>vikaroti&lt;/code>&lt;/td>
+&lt;td>&lt;code>vi&lt;/code> + &lt;code>karoti&lt;/code>&lt;/td>
+&lt;td>(He) makes so that it becomes something else&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>vikati&lt;/code>&lt;/td>
+&lt;td>&lt;code>vi&lt;/code> + &lt;code>kati&lt;/code>&lt;/td>
+&lt;td>such an act, a non-natural state (Compare &lt;code>pakati&lt;/code> &amp;ldquo;natural&amp;rdquo; with &lt;code>vikati&lt;/code> &amp;ldquo;non-natural&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>vimukho&lt;/code>&lt;/td>
+&lt;td>&lt;code>vi&lt;/code> + &lt;code>mukho&lt;/code>&lt;/td>
+&lt;td>face being changed, the changed face due to unhappiness or anger etc.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>vipatisāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>vi&lt;/code> + &lt;code>patisāro&lt;/code>&lt;/td>
+&lt;td>thinking with guilt, regret&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>variously, in different ways&lt;/td>
+&lt;td>&lt;code>vimati&lt;/code>&lt;/td>
+&lt;td>&lt;code>vi&lt;/code> + &lt;code>mati&lt;/code>&lt;/td>
+&lt;td>various thought, different view, doubt&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>opposite of, against&lt;/td>
+&lt;td>&lt;code>vivadati&lt;/code>&lt;/td>
+&lt;td>&lt;code>vi&lt;/code> + &lt;code>vadati&lt;/code>&lt;/td>
+&lt;td>(He) speaks against, disputes or quarrels&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>vivādo&lt;/code>&lt;/td>
+&lt;td>&lt;code>vi&lt;/code> + &lt;code>vādo&lt;/code>&lt;/td>
+&lt;td>dispute, bickering, conflicting talk&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>vya’sanaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>vi&lt;/code> + &lt;code>asanaṁ&lt;/code>&lt;/td>
+&lt;td>ruin, loss&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>without, out&lt;/td>
+&lt;td>&lt;code>virajjati&lt;/code>&lt;/td>
+&lt;td>&lt;code>vi&lt;/code> + &lt;code>rajjati&lt;/code>&lt;/td>
+&lt;td>(He) does not crave, detaches&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>virāgo&lt;/code>&lt;/td>
+&lt;td>&lt;code>vi&lt;/code> + &lt;code>rāgo&lt;/code>&lt;/td>
+&lt;td>such an act, detachment&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>being off, separated, being apart&lt;/td>
+&lt;td>&lt;code>viyujjati&lt;/code>&lt;/td>
+&lt;td>&lt;code>vi&lt;/code> + &lt;code>yujjati&lt;/code>&lt;/td>
+&lt;td>(It) does not join, disjoins&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>viyogo&lt;/code>&lt;/td>
+&lt;td>&lt;code>vi&lt;/code> + &lt;code>yogo&lt;/code>&lt;/td>
+&lt;td>such an act&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>vippayutto&lt;/code>&lt;/td>
+&lt;td>&lt;code>vi&lt;/code> + &lt;code>pa&lt;/code> + &lt;code>yutto&lt;/code>&lt;/td>
+&lt;td>disjoined&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>vigacchati&lt;/code>&lt;/td>
+&lt;td>&lt;code>vi&lt;/code> + &lt;code>gacchati&lt;/code>&lt;/td>
+&lt;td>(It) goes off, disappears&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>vigamo&lt;/code>&lt;/td>
+&lt;td>&lt;code>vi&lt;/code> + &lt;code>gamo&lt;/code>&lt;/td>
+&lt;td>such an act&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="ava">&lt;code>ava&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>meaning&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>combination&lt;/th>
+&lt;th>example meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>down, inside&lt;/td>
+&lt;td>&lt;code>avagacchati&lt;/code>, &lt;code>oggacchati&lt;/code>&lt;/td>
+&lt;td>&lt;code>ava&lt;/code> + &lt;code>gacchati&lt;/code>&lt;/td>
+&lt;td>(It) goes down&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>avagamanaṁ&lt;/code>, &lt;code>oggamanaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>ava&lt;/code> + &lt;code>gamanaṁ&lt;/code>&lt;/td>
+&lt;td>such an act&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>avagaṇhāti&lt;/code>, &lt;code>oggaṇhāti&lt;/code>&lt;/td>
+&lt;td>&lt;code>ava&lt;/code> + &lt;code>gaṇhāti&lt;/code>&lt;/td>
+&lt;td>(It) submerges, goes down into water etc. or looks into the problem, ponders upon (figuratively used)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>avagāho&lt;/code>&lt;/td>
+&lt;td>&lt;code>ava&lt;/code> + &lt;code>gāho&lt;/code>&lt;/td>
+&lt;td>such an act&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>osarati&lt;/code>&lt;/td>
+&lt;td>&lt;code>ava&lt;/code> + &lt;code>sarati&lt;/code>&lt;/td>
+&lt;td>(He) goes down into water etc.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>contemptuously, mean&lt;/td>
+&lt;td>&lt;code>avajānāti&lt;/code>&lt;/td>
+&lt;td>&lt;code>ava&lt;/code> + &lt;code>jānāti&lt;/code>&lt;/td>
+&lt;td>(He) knows contemptuously, looks down&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>avamāno&lt;/code>&lt;/td>
+&lt;td>&lt;code>ava&lt;/code> + &lt;code>māno&lt;/code>&lt;/td>
+&lt;td>such an act, disdain&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>avaharati&lt;/code>&lt;/td>
+&lt;td>&lt;code>ava&lt;/code> + &lt;code>harati&lt;/code>&lt;/td>
+&lt;td>(He) takes it in a mean manner, i.e. steals&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>avahāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>ava&lt;/code> + &lt;code>hāro&lt;/code>&lt;/td>
+&lt;td>such an act, stealing&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;div class="alert alert-secondary" role="alert">
+&lt;h4 class="alert-heading">Note&lt;/h4>
+Note: “Ava” and “O” are two interchangeable upasagga words.
+&lt;/div>
+&lt;h2 id="-anu">◊ &lt;code>anu&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>meaning&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>combination&lt;/th>
+&lt;th>example meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>at every frequency of time, occurring at certain times, repeatedly*&lt;/td>
+&lt;td>&lt;code>anumāsaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>māsaṁ&lt;/code>&lt;/td>
+&lt;td>every month&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anvaddhamāsaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>addhamāsaṁ&lt;/code>&lt;/td>
+&lt;td>every half month&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anudinaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>dinaṁ&lt;/code>&lt;/td>
+&lt;td>every day&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anusaṁvaccharaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>saṁvaccharaṁ&lt;/code>&lt;/td>
+&lt;td>every year&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>following, after&lt;/td>
+&lt;td>&lt;code>anugacchati&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>gacchati&lt;/code>&lt;/td>
+&lt;td>(He) goes following, accompanies&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anve’ti&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>eti&lt;/code>&lt;/td>
+&lt;td>(same meaning)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anugati&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>gati&lt;/code>&lt;/td>
+&lt;td>such an act&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anujānāti&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>jānāti&lt;/code>&lt;/td>
+&lt;td>(He) knows accordingly as requested, i.e. permits&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anuññā&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>ñā&lt;/code>&lt;/td>
+&lt;td>permission&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anuññāto&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>ñāto&lt;/code>&lt;/td>
+&lt;td>allowed, permitted&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anukūlaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>kūlaṁ&lt;/code>&lt;/td>
+&lt;td>suitable, appropriate, following the course of a person’s action&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>again and again, repeatedly&lt;/td>
+&lt;td>&lt;code>anuyuñjati&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>yuñjati&lt;/code>&lt;/td>
+&lt;td>(He) engages again and again, i.e. makes repeated effort, interrogates&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anuyogo&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>yogo&lt;/code>&lt;/td>
+&lt;td>such an act, questioning repeatedly, sustained effort&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anussarati&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>sarati&lt;/code>&lt;/td>
+&lt;td>(He) remembers repeatedly&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anumodati&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>modati&lt;/code>&lt;/td>
+&lt;td>(He) rejoices repeatedly&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anumodanaṁ&lt;/code>, &lt;code>anumodo&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>modati&lt;/code>&lt;/td>
+&lt;td>such an act&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anusaṁvaṇṇeti&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>saṁ&lt;/code> + &lt;code>vaṇṇeti&lt;/code>&lt;/td>
+&lt;td>explains again and again, re-explains&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anusaṁvaṇṇanā&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>saṁ&lt;/code> + &lt;code>vaṇṇanā&lt;/code>&lt;/td>
+&lt;td>re-explanation, sub-commentary&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>behind&lt;/td>
+&lt;td>&lt;code>anurathaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>rathaṁ&lt;/code>&lt;/td>
+&lt;td>behind chariot or vehicle&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>alongside, in imitation of&lt;/td>
+&lt;td>&lt;code>soto nadiṁ anusandati&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>sandati&lt;/code>&lt;/td>
+&lt;td>the current flows along the river&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>bhagavantaṁ anupavajjiṁsu&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>pavajjiṁsu&lt;/code>&lt;/td>
+&lt;td>(Young Sakyan princes too) ordained in imitating the Buddha&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>Sisso ācariyaṁ anugacchati ca anuvattati ca&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>gacchati&lt;/code> / &lt;code>vattati&lt;/code>&lt;/td>
+&lt;td>The pupil follows teacher and imitates too&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>inferior or lower in rank, sub-standard&lt;/td>
+&lt;td>&lt;code>anutherā&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>therā&lt;/code>&lt;/td>
+&lt;td>those below senior monks, i.e. less-senior monks&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anunāyakā&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>nāyakā&lt;/code>&lt;/td>
+&lt;td>those below senior leaders, i.e. less-senior leaders&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>in compliance with, suitable, being appropriate, favorable, agreeable, according to&lt;/td>
+&lt;td>&lt;code>anurūpaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>rūpaṁ&lt;/code>&lt;/td>
+&lt;td>suitable, appropriate (compare &lt;code>patirūpaṁ&lt;/code> &amp;ldquo;suitable&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anukūlaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>kūlaṁ&lt;/code>&lt;/td>
+&lt;td>suitable, agreeable. following (the bank of a river etc. a figurative expression, compare &lt;code>paṭikūlaṁ&lt;/code> &amp;ldquo;disagreeable, unlikable&amp;rdquo; - also a figurative expression)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anulomaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>lomaṁ&lt;/code>&lt;/td>
+&lt;td>in sequential order (&amp;ldquo;following the hair&amp;rdquo;, a figurative expression, compare &lt;code>paṭilomaṁ&lt;/code> &amp;ldquo;in reverse order&amp;rdquo;, also a figurative expression)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anurujjhati&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>rujjhati&lt;/code>&lt;/td>
+&lt;td>(he) favors, likes&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anurodho&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>rodho&lt;/code>&lt;/td>
+&lt;td>favour, agreement (compare &lt;code>virodho&lt;/code> &amp;ldquo;disfavor, dislike&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>small, in detail&lt;/td>
+&lt;td>&lt;code>anubyañjanaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>byañjanaṁ&lt;/code>&lt;/td>
+&lt;td>small bodily marks or parts and figure&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>anusaṁvaṇṇeti&lt;/code>&lt;/td>
+&lt;td>&lt;code>anu&lt;/code> + &lt;code>saṁ&lt;/code> + &lt;code>vaṇṇeti&lt;/code>&lt;/td>
+&lt;td>explains in detail&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>* &lt;em>(followed by descriptive word of time such as &lt;code>māsa&lt;/code> &amp;ldquo;month&amp;rdquo;, &lt;code>addhamāsa&lt;/code> &amp;ldquo;half month&amp;rdquo;, &lt;code>dina&lt;/code> &amp;ldquo;day&amp;rdquo; or &lt;code>saṁvacchara&lt;/code> &amp;ldquo;year&amp;rdquo; etc.)&lt;/em>&lt;/p>
+&lt;h2 id="pari">&lt;code>pari&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>meaning&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>combination&lt;/th>
+&lt;th>example meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>from all around, round and round, being surrounded&lt;/td>
+&lt;td>&lt;code>parikkharitvā&lt;/code>&lt;/td>
+&lt;td>&lt;code>pari&lt;/code> + &lt;code>karitvā&lt;/code>&lt;/td>
+&lt;td>having surrounded&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>parikkhāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>pari&lt;/code> + &lt;code>karo&lt;/code>&lt;/td>
+&lt;td>accessory, personal effects&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>paribhāsati&lt;/code>&lt;/td>
+&lt;td>&lt;code>pari&lt;/code> + &lt;code>bhāsati&lt;/code>&lt;/td>
+&lt;td>(He) says condescendingly (as in giving instructions or yelling abusive language)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>paribhāsā&lt;/code>&lt;/td>
+&lt;td>&lt;code>pari&lt;/code> + &lt;code>bhāsā&lt;/code>&lt;/td>
+&lt;td>such an act as a directive or a revilement&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>paricchedati&lt;/code>&lt;/td>
+&lt;td>&lt;code>pari&lt;/code> + &lt;code>chedati&lt;/code>&lt;/td>
+&lt;td>(He) cuts from all around, sets the limits&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>paricchedo&lt;/code>&lt;/td>
+&lt;td>&lt;code>pari&lt;/code> + &lt;code>chedo&lt;/code>&lt;/td>
+&lt;td>such an act, limitation, section, chapter&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>parikhā&lt;/code>&lt;/td>
+&lt;td>&lt;code>pari&lt;/code> + &lt;code>khā&lt;/code>&lt;/td>
+&lt;td>moat, dug around the palace premises in ancient times&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>overall&lt;/td>
+&lt;td>&lt;code>parijānāti&lt;/code>&lt;/td>
+&lt;td>&lt;code>pari&lt;/code> + &lt;code>jānāti&lt;/code>&lt;/td>
+&lt;td>(He) knows overall&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>pariññā&lt;/code>&lt;/td>
+&lt;td>&lt;code>pari&lt;/code> + &lt;code>ñā&lt;/code>&lt;/td>
+&lt;td>overall knowledge&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>being dominant&lt;/td>
+&lt;td>&lt;code>paribhavati&lt;/code>&lt;/td>
+&lt;td>&lt;code>pari&lt;/code> + &lt;code>bhavati&lt;/code>&lt;/td>
+&lt;td>(He) is from all around, dominates, bullies&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>Paribhavo&lt;/code>&lt;/td>
+&lt;td>&lt;code>pari&lt;/code> + &lt;code>bhavo&lt;/code>&lt;/td>
+&lt;td>such an act&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="-adhi">◊ &lt;code>adhi&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>meaning&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>combination&lt;/th>
+&lt;th>example meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>up, above, over&lt;/td>
+&lt;td>&lt;code>adhivāseti&lt;/code>&lt;/td>
+&lt;td>&lt;code>adhi&lt;/code> + &lt;code>vāseti&lt;/code>&lt;/td>
+&lt;td>(He) lets it on him, i.e. accepts or enjoys without resisting&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>adhivāsanā&lt;/code>&lt;/td>
+&lt;td>&lt;code>adhi&lt;/code> + &lt;code>vāsanā&lt;/code>&lt;/td>
+&lt;td>such an act, acceptance of a request or desire etc.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>adhiṭṭhāti&lt;/code>&lt;/td>
+&lt;td>&lt;code>adhi&lt;/code> + &lt;code>ṭhāti&lt;/code>&lt;/td>
+&lt;td>(It) firmly stands, i.e. firmly resolves in mind&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>adhiṭṭhānaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>adhi&lt;/code> + &lt;code>ṭhānaṁ&lt;/code>&lt;/td>
+&lt;td>firm mental resolve, strong decision&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>specially, superior, supreme&lt;/td>
+&lt;td>&lt;code>adhisīlaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>adhi&lt;/code> + &lt;code>sīlaṁ&lt;/code>&lt;/td>
+&lt;td>superior Sīla&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>adhirājā&lt;/code>&lt;/td>
+&lt;td>&lt;code>adhi&lt;/code> + &lt;code>rājā&lt;/code>&lt;/td>
+&lt;td>the supreme king&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>adhidevatā&lt;/code>&lt;/td>
+&lt;td>&lt;code>adhi&lt;/code> + &lt;code>devatā&lt;/code>&lt;/td>
+&lt;td>the supreme deity&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>being dominant of, the lord over (usually followed by a noun in 7th case when it means being “the lord over” as an independently used word)&lt;/td>
+&lt;td>&lt;code>Adhi devesu Buddho&lt;/code>&lt;/td>
+&lt;td>&lt;code>adhi&lt;/code>&lt;/td>
+&lt;td>The Buddha is supreme lord of deities&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>adhigahṇāti&lt;/code>&lt;/td>
+&lt;td>&lt;code>adhi&lt;/code> + &lt;code>gahṇāti&lt;/code>&lt;/td>
+&lt;td>(It) takes up all, i.e. exceeds (as a prefix to a verb)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>adhipati&lt;/code>&lt;/td>
+&lt;td>&lt;code>adhi&lt;/code> + &lt;code>pati&lt;/code>&lt;/td>
+&lt;td>lord&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>ajjhāvasati&lt;/code>&lt;/td>
+&lt;td>&lt;code>adhi&lt;/code> + &lt;code>ā&lt;/code> + &lt;code>vasati&lt;/code>&lt;/td>
+&lt;td>(He) lives as a lord or being dominant, reigns. (as a king or chief authority of a location)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>ajjhāvāso&lt;/code>&lt;/td>
+&lt;td>&lt;code>adhi&lt;/code> + &lt;code>ā&lt;/code> + &lt;code>vāso&lt;/code>&lt;/td>
+&lt;td>such an act&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>attain, reach&lt;/td>
+&lt;td>&lt;code>adhigacchati&lt;/code>&lt;/td>
+&lt;td>&lt;code>adhi&lt;/code> + &lt;code>gacchati&lt;/code>&lt;/td>
+&lt;td>realizes, knows, attains&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>adhigamo&lt;/code>&lt;/td>
+&lt;td>&lt;code>adhi&lt;/code> + &lt;code>gamo&lt;/code>&lt;/td>
+&lt;td>such an act&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>deeply&lt;/td>
+&lt;td>&lt;code>adhimuccati&lt;/code>&lt;/td>
+&lt;td>&lt;code>adhi&lt;/code> + &lt;code>muccati&lt;/code>&lt;/td>
+&lt;td>(One) keeps in depth (such as tendencies, thoughts etc.)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>adhimutti&lt;/code>&lt;/td>
+&lt;td>&lt;code>adhi&lt;/code> + &lt;code>mutti&lt;/code>&lt;/td>
+&lt;td>such a mental condition, inner tendency or preferences&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>excessively, very much&lt;/td>
+&lt;td>&lt;code>adhimaññati&lt;/code>&lt;/td>
+&lt;td>&lt;code>adhi&lt;/code> + &lt;code>maññati&lt;/code>&lt;/td>
+&lt;td>(He) thinks highly&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>adhimāno&lt;/code>&lt;/td>
+&lt;td>&lt;code>adhi&lt;/code> + &lt;code>māno&lt;/code>&lt;/td>
+&lt;td>viewing oneself highly, extreme self-pride, such as thinking oneself that one has attained a higher state of spiritual progress which is not true&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>with regard to, relating to, in connection with&lt;/td>
+&lt;td>&lt;code>adhikicca&lt;/code>&lt;/td>
+&lt;td>&lt;code>adhi&lt;/code> + &lt;code>kicca&lt;/code>&lt;/td>
+&lt;td>concerning, in respect of&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="abhi">&lt;code>abhi&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>meaning&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>combination&lt;/th>
+&lt;th>example meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>specially, being special, distinctive&lt;/td>
+&lt;td>&lt;code>abhijānāti&lt;/code>&lt;/td>
+&lt;td>&lt;code>abhi&lt;/code> + &lt;code>jānāti&lt;/code>&lt;/td>
+&lt;td>(One) knows in a special manner&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>abhiññā&lt;/code>&lt;/td>
+&lt;td>&lt;code>abhi&lt;/code> + &lt;code>ñā&lt;/code>&lt;/td>
+&lt;td>special knowledge, psychic powers etc.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>abhidhammo&lt;/code>&lt;/td>
+&lt;td>&lt;code>abhi&lt;/code> + &lt;code>dhamma&lt;/code>&lt;/td>
+&lt;td>special Dhamma&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>beyond&lt;/td>
+&lt;td>&lt;code>abhikkamati&lt;/code>&lt;/td>
+&lt;td>&lt;code>abhi&lt;/code> + &lt;code>kamati&lt;/code>&lt;/td>
+&lt;td>(It) goes beyond, proceeds, pleased&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>abhikkanto&lt;/code>&lt;/td>
+&lt;td>&lt;code>abhi&lt;/code> + &lt;code>kanto&lt;/code>&lt;/td>
+&lt;td>gone ahead, pleased&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>very much, predominantly&lt;/td>
+&lt;td>&lt;code>abhicchati&lt;/code>&lt;/td>
+&lt;td>&lt;code>abhi&lt;/code> + &lt;code>icchati&lt;/code>&lt;/td>
+&lt;td>(He) wants it very much&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>abhibhavati&lt;/code>&lt;/td>
+&lt;td>&lt;code>abhi&lt;/code> + &lt;code>bhavati&lt;/code>&lt;/td>
+&lt;td>(It) dominates&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>abhibhūto&lt;/code>&lt;/td>
+&lt;td>&lt;code>abhi&lt;/code> + &lt;code>bhūto&lt;/code>&lt;/td>
+&lt;td>being overwhelmed&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>abhirūpo&lt;/code>&lt;/td>
+&lt;td>&lt;code>abhi&lt;/code> + &lt;code>rūpo&lt;/code>&lt;/td>
+&lt;td>very beautiful&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>abhinandati&lt;/code>&lt;/td>
+&lt;td>&lt;code>abhi&lt;/code> + &lt;code>nandati&lt;/code>&lt;/td>
+&lt;td>(He) enjoys or likes very much&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>abhiniggaṇhāti&lt;/code>&lt;/td>
+&lt;td>&lt;code>abhi&lt;/code> + &lt;code>ni&lt;/code> + &lt;code>gaṇhāti&lt;/code>&lt;/td>
+&lt;td>(It) represses very much, restrains&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>abhijjhā&lt;/code>&lt;/td>
+&lt;td>&lt;code>abhi&lt;/code> + &lt;code>jhā&lt;/code>&lt;/td>
+&lt;td>looking beyond, i.e. covetousness&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>towards&lt;/td>
+&lt;td>&lt;code>abhimukhaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>abhi&lt;/code> + &lt;code>mukhaṁ&lt;/code>&lt;/td>
+&lt;td>face-ward, toward oneself&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>opposite, recklessly, wrongly&lt;/td>
+&lt;td>&lt;code>abbhācikkhati&lt;/code>&lt;/td>
+&lt;td>&lt;code>abhi&lt;/code> + &lt;code>ācikkhati&lt;/code>&lt;/td>
+&lt;td>(he) wrongly accuses, says the opposite&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>up, above, upward&lt;/td>
+&lt;td>&lt;code>Abhiruhati&lt;/code>&lt;/td>
+&lt;td>&lt;code>abhi&lt;/code> + &lt;code>ruhati&lt;/code>&lt;/td>
+&lt;td>(It) climbs up, grows up (as a tree)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>abhisiñjati&lt;/code>&lt;/td>
+&lt;td>&lt;code>abhi&lt;/code> + &lt;code>siñjati&lt;/code>&lt;/td>
+&lt;td>(It) pours on, sprinkles on (as on a tree or on the hand or head)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>abhiseko&lt;/code>&lt;/td>
+&lt;td>&lt;code>abhi&lt;/code> + &lt;code>seko&lt;/code>&lt;/td>
+&lt;td>such an act of sprinkling, in times of coronation of kings in ancient times, coronation itself is called &lt;code>abhiseka&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="-pati">◊ &lt;code>pati&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>meaning&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>combination&lt;/th>
+&lt;th>example meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>again&lt;/td>
+&lt;td>&lt;code>paccāgacchati&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>ā&lt;/code> + &lt;code>gacchati&lt;/code>&lt;/td>
+&lt;td>(He) comes back, returns&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>paccāgamanaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>ā&lt;/code> + &lt;code>gamanaṁ&lt;/code>&lt;/td>
+&lt;td>such an act, coming back (Note: Refer to {19} for Pacca-function)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>patikaroti&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>karoti&lt;/code>&lt;/td>
+&lt;td>(It) acts back, reacts, cures as with medicine&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>in response to&lt;/td>
+&lt;td>&lt;code>patijānāti&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>jānāti&lt;/code>&lt;/td>
+&lt;td>(He) knows back, admits&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>paṭiññā&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>ñā&lt;/code>&lt;/td>
+&lt;td>such an act, confession, promise&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>pativadati&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>vadati&lt;/code>&lt;/td>
+&lt;td>replies or responds&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>patikaroti&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>karoti&lt;/code>&lt;/td>
+&lt;td>reacts, heals (an offence or a disease), repays a gratitude&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>patisuṇāti&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>suṇāti&lt;/code>&lt;/td>
+&lt;td>listens or responds&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>pativacanaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>vacanaṁ&lt;/code>&lt;/td>
+&lt;td>reply word, response&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>instead of, in exchange for*&lt;/td>
+&lt;td>&lt;code>telasmā pati ghataṁ dadāti&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code>&lt;/td>
+&lt;td>Instead of sesame oil, (he) gives ghee&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>tilehi pati māse dadāti&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code>&lt;/td>
+&lt;td>Instead of sesame, (he) gives beans&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>opposite of, against, contrary to&lt;/td>
+&lt;td>&lt;code>pativirujjhati&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>virujjhati&lt;/code>&lt;/td>
+&lt;td>(It) counteracts. opposes&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>pativirodho&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>virodho&lt;/code>&lt;/td>
+&lt;td>opposition, disfavor&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>patipakkho&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>pakkho&lt;/code>&lt;/td>
+&lt;td>opposite party&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>patimukhaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>mukhaṁ&lt;/code>&lt;/td>
+&lt;td>facing against, face to face&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>patisotaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>sotaṁ&lt;/code>&lt;/td>
+&lt;td>against current, upstream&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>pativātaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>vātaṁ&lt;/code>&lt;/td>
+&lt;td>against the direction of the wind&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>patikūlaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>kūlaṁ&lt;/code>&lt;/td>
+&lt;td>disagreeable, unfavorable&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>back, backward&lt;/td>
+&lt;td>&lt;code>patikkamati&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>kamati&lt;/code>&lt;/td>
+&lt;td>(He) moves back, returns&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>patikkante&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>kante&lt;/code>&lt;/td>
+&lt;td>when returned&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>patilomaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>lomaṁ&lt;/code> (&amp;ldquo;hair&amp;rdquo;)&lt;/td>
+&lt;td>backward order, reversely&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>patikkhipati&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>khipati&lt;/code>&lt;/td>
+&lt;td>(He) throws back, rejects&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>patikkhitto&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>khitto&lt;/code>&lt;/td>
+&lt;td>having thrown back, being rejected, given up on&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>representing, on behalf of*&lt;/td>
+&lt;td>&lt;code>Buddhasmā pati sāriputto dhammaṁ deseti&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code>&lt;/td>
+&lt;td>Representing Lord Buddha, Venerable Sāriputta teaches the Dhamma&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>similar to, an imitation of (a fake), being suitable&lt;/td>
+&lt;td>&lt;code>patirūpaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>rūpaṁ&lt;/code>&lt;/td>
+&lt;td>image, suitable&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>minor parts or limbs of the body such as fingers etc.&lt;/td>
+&lt;td>&lt;code>paccaṅgāni&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>aṅgāni&lt;/code>&lt;/td>
+&lt;td>minor parts of the body&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>intensifier&lt;/td>
+&lt;td>&lt;code>patihaññati&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>haññati&lt;/code>&lt;/td>
+&lt;td>(he) feels hurt, stresses out&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>patigho&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>gho&lt;/code>&lt;/td>
+&lt;td>anger, stress&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>pativijjhati&lt;/code>&lt;/td>
+&lt;td>&lt;code>pati&lt;/code> + &lt;code>vijjhati&lt;/code>&lt;/td>
+&lt;td>knows penetratingly, enlightened&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>* &lt;em>(usually preceded by a word to be represented in the ablative case, used as independent word)&lt;/em>&lt;/p>
+&lt;h2 id="su">&lt;code>su&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>meaning&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>combination&lt;/th>
+&lt;th>example meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>well, good&lt;/td>
+&lt;td>&lt;code>sucaritaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>su&lt;/code> + &lt;code>caritaṁ&lt;/code>&lt;/td>
+&lt;td>good conduct or action&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>sugandho&lt;/code>&lt;/td>
+&lt;td>&lt;code>su&lt;/code> + &lt;code>gandho&lt;/code>&lt;/td>
+&lt;td>good smell&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>Sujano&lt;/code>&lt;/td>
+&lt;td>&lt;code>su&lt;/code> + &lt;code>jano&lt;/code>&lt;/td>
+&lt;td>good person&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>sugati&lt;/code>&lt;/td>
+&lt;td>&lt;code>su&lt;/code> + &lt;code>gati&lt;/code>&lt;/td>
+&lt;td>good rebirth&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>auspicious&lt;/td>
+&lt;td>&lt;code>sukhaṇo&lt;/code>&lt;/td>
+&lt;td>&lt;code>su&lt;/code> + &lt;code>khaṇo&lt;/code>&lt;/td>
+&lt;td>auspicious moment&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>svāgataṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>su&lt;/code> + &lt;code>ā&lt;/code> + &lt;code>gataṁ&lt;/code>&lt;/td>
+&lt;td>auspicious coming, good coming. i.e. Welcome!&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>being easy of&lt;/td>
+&lt;td>&lt;code>sukaraṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>su&lt;/code> + &lt;code>karaṁ&lt;/code>&lt;/td>
+&lt;td>easy to do&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>sulabhaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>su&lt;/code> + &lt;code>labhaṁ&lt;/code>&lt;/td>
+&lt;td>easy to obtain&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>sujjānaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>su&lt;/code> + &lt;code>jānaṁ&lt;/code>&lt;/td>
+&lt;td>easy to know&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>abundance&lt;/td>
+&lt;td>&lt;code>sukaraṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>su&lt;/code> + &lt;code>bhikkhaṁ&lt;/code>&lt;/td>
+&lt;td>abundance of food&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="-ā">◊ &lt;code>ā&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>meaning&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>combination&lt;/th>
+&lt;th>example meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>till, up to (used as an independent word in a sentence)&lt;/td>
+&lt;td>&lt;code>ā bhavaggā&lt;/code>&lt;/td>
+&lt;td>&lt;code>ā&lt;/code>&lt;/td>
+&lt;td>till the uppermost heaven&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>ā Brahmalokā&lt;/code>&lt;/td>
+&lt;td>&lt;code>ā&lt;/code>&lt;/td>
+&lt;td>till the world of Gods&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>modifier affecting opposite meaning of the root it prefixed, in reverse of&lt;/td>
+&lt;td>&lt;code>āgacchati&lt;/code>&lt;/td>
+&lt;td>&lt;code>ā&lt;/code> + &lt;code>gacchati&lt;/code>&lt;/td>
+&lt;td>(He) comes (compare &lt;code>gacchati&lt;/code> &amp;ldquo;(he) goes&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>āgamanaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>ā&lt;/code> + &lt;code>gamanaṁ&lt;/code>&lt;/td>
+&lt;td>coming (compare &lt;code>gamanaṁ&lt;/code> &amp;ldquo;going&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>āyāti&lt;/code>&lt;/td>
+&lt;td>&lt;code>ā&lt;/code> + &lt;code>yāti&lt;/code>&lt;/td>
+&lt;td>(He) comes (compare &lt;code>yāti&lt;/code> &amp;ldquo;(he) goes&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>ādāti&lt;/code>&lt;/td>
+&lt;td>&lt;code>ā&lt;/code> + &lt;code>dāti&lt;/code>&lt;/td>
+&lt;td>(He) takes (compare &lt;code>dāti&lt;/code> &amp;ldquo;(he) gives&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>ādānaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>ā&lt;/code> + &lt;code>dānaṁ&lt;/code>&lt;/td>
+&lt;td>taking (compare &lt;code>dānaṁ&lt;/code> &amp;ldquo;giving&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>āneti&lt;/code>&lt;/td>
+&lt;td>&lt;code>ā&lt;/code> + &lt;code>neti&lt;/code>&lt;/td>
+&lt;td>(He) brings (compare &lt;code>neti&lt;/code> &amp;ldquo;(he) carries&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>upward&lt;/td>
+&lt;td>&lt;code>āruhati&lt;/code>&lt;/td>
+&lt;td>&lt;code>ā&lt;/code> + &lt;code>ruhati&lt;/code>&lt;/td>
+&lt;td>(He) climbs up&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>intensely, firmly, intensifier&lt;/td>
+&lt;td>&lt;code>ādānaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>ā&lt;/code> + &lt;code>dānaṁ&lt;/code>&lt;/td>
+&lt;td>intensely grabbing, clinging&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>intensely, firmly, intensifier&lt;/td>
+&lt;td>&lt;code>āhaññati&lt;/code>&lt;/td>
+&lt;td>&lt;code>ā&lt;/code> + &lt;code>haññati&lt;/code>&lt;/td>
+&lt;td>(It) hurts intensely&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>āghāto&lt;/code>&lt;/td>
+&lt;td>&lt;code>ā&lt;/code> + &lt;code>ghāto&lt;/code>&lt;/td>
+&lt;td>hurt feelings, grudge&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="ati">&lt;code>ati&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>meaning&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>combination&lt;/th>
+&lt;th>example meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>over, very much, excessively&lt;/td>
+&lt;td>&lt;code>aticchati&lt;/code>&lt;/td>
+&lt;td>&lt;code>ati&lt;/code> + &lt;code>icchati&lt;/code>&lt;/td>
+&lt;td>(He) wants it very much&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>aticchā&lt;/code>&lt;/td>
+&lt;td>&lt;code>ati&lt;/code> + &lt;code>icchā&lt;/code>&lt;/td>
+&lt;td>such an act&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>atirocati&lt;/code>&lt;/td>
+&lt;td>&lt;code>ati&lt;/code> + &lt;code>rocati&lt;/code>&lt;/td>
+&lt;td>(It) looks very much beautiful&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>atipaṇītaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>ati&lt;/code> + &lt;code>paṇītaṁ&lt;/code>&lt;/td>
+&lt;td>very noble, the best.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>beyond, transgress, across&lt;/td>
+&lt;td>&lt;code>atikkamati&lt;/code>&lt;/td>
+&lt;td>&lt;code>ati&lt;/code> + &lt;code>kamati&lt;/code>&lt;/td>
+&lt;td>(He) moves beyond, transgress&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>atikkanto&lt;/code>&lt;/td>
+&lt;td>&lt;code>ati&lt;/code> + &lt;code>kanto&lt;/code>&lt;/td>
+&lt;td>gone beyond&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>accayo&lt;/code>&lt;/td>
+&lt;td>&lt;code>ati&lt;/code> + &lt;code>ayo&lt;/code>&lt;/td>
+&lt;td>act of going beyond, i.e. offense, fault&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="-api">◊ &lt;code>api&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>meaning&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>combination&lt;/th>
+&lt;th>example meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>also, too&lt;/td>
+&lt;td>&lt;code>Dhammaṁ api&lt;/code>&lt;/td>
+&lt;td>&lt;code>api&lt;/code>&lt;/td>
+&lt;td>to the Dhamma also&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>even though, although, even if, despite&lt;/td>
+&lt;td>&lt;code>Api dibbesu kāmesu-even in divine pleasures&lt;/code>&lt;/td>
+&lt;td>&lt;code>api&lt;/code>&lt;/td>
+&lt;td>he does not enjoy&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>introducing a question&lt;/td>
+&lt;td>&lt;code>Api bhante bhikkham labhittha?&lt;/code>&lt;/td>
+&lt;td>&lt;code>api&lt;/code>&lt;/td>
+&lt;td>Have you got food&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Venerable Sir?&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>above, cover up, close on (used as prefix)&lt;/td>
+&lt;td>&lt;code>pidahati&lt;/code>&lt;/td>
+&lt;td>&lt;code>api&lt;/code> + &lt;code>dahati&lt;/code>&lt;/td>
+&lt;td>(He) closes, covers (Here, &lt;code>a&lt;/code> is to be elided always)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>apidhānaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>api&lt;/code> + &lt;code>dhānaṁ&lt;/code>&lt;/td>
+&lt;td>cover of a pot etc.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="-apa">◊ &lt;code>apa&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>meaning&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>combination&lt;/th>
+&lt;th>example meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>away from, off&lt;/td>
+&lt;td>&lt;code>apakkamati&lt;/code>&lt;/td>
+&lt;td>&lt;code>apa&lt;/code> + &lt;code>kamati&lt;/code>&lt;/td>
+&lt;td>(He) moves away&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>apagacchati&lt;/code>&lt;/td>
+&lt;td>&lt;code>apa&lt;/code> + &lt;code>gacchati&lt;/code>&lt;/td>
+&lt;td>(It) moves away, disappears&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>apeti&lt;/code>&lt;/td>
+&lt;td>&lt;code>apa&lt;/code> + &lt;code>i&lt;/code> + &lt;code>ti&lt;/code>&lt;/td>
+&lt;td>(same meaning)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>do away with, negatively, wrongly&lt;/td>
+&lt;td>&lt;code>apavadati&lt;/code>&lt;/td>
+&lt;td>&lt;code>apa&lt;/code> + &lt;code>vadati&lt;/code>&lt;/td>
+&lt;td>(he) negatively says, rejects&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>apavādo&lt;/code>&lt;/td>
+&lt;td>&lt;code>apa&lt;/code> + &lt;code>vādo&lt;/code>&lt;/td>
+&lt;td>verbal rejection of something&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>apakaroti&lt;/code>&lt;/td>
+&lt;td>&lt;code>apa&lt;/code> + &lt;code>karoti&lt;/code>&lt;/td>
+&lt;td>(He) does ungratefully or does away with other&amp;rsquo;s good deed, ignores good-deed received from friends&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>apakāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>apa&lt;/code> + &lt;code>karo&lt;/code>&lt;/td>
+&lt;td>improper deed, wrong action, act of ingratitude&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>aparajjhati&lt;/code>&lt;/td>
+&lt;td>&lt;code>apa&lt;/code> + &lt;code>rajjhati&lt;/code>&lt;/td>
+&lt;td>(He) offends, or sometimes (it) fails to hit the target&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>aparādho&lt;/code>&lt;/td>
+&lt;td>&lt;code>apa&lt;/code> + &lt;code>rādho&lt;/code>&lt;/td>
+&lt;td>Fault, offense, failure&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="upa">&lt;code>upa&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>meaning&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>combination&lt;/th>
+&lt;th>example meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>near to, close by, towards&lt;/td>
+&lt;td>&lt;code>upanisīdati&lt;/code>&lt;/td>
+&lt;td>&lt;code>upa&lt;/code> + &lt;code>ni&lt;/code> + &lt;code>sīdati&lt;/code>&lt;/td>
+&lt;td>(He) sits near&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>upanisinno&lt;/code>&lt;/td>
+&lt;td>&lt;code>upa&lt;/code> + &lt;code>ni&lt;/code> + &lt;code>sinno&lt;/code>&lt;/td>
+&lt;td>having sat closely&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>upanagaraṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>upa&lt;/code> + &lt;code>nagaraṁ&lt;/code>&lt;/td>
+&lt;td>near the city&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>upagacchati&lt;/code>&lt;/td>
+&lt;td>&lt;code>upa&lt;/code> + &lt;code>gacchati&lt;/code>&lt;/td>
+&lt;td>approaches, i.e. goes near, toward&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>upapajjati&lt;/code>&lt;/td>
+&lt;td>&lt;code>upa&lt;/code> + &lt;code>pajjati&lt;/code>&lt;/td>
+&lt;td>closely happens, i.e. conceives or born&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>Upapatti&lt;/code>&lt;/td>
+&lt;td>&lt;code>upa&lt;/code> + &lt;code>patti&lt;/code>&lt;/td>
+&lt;td>conception or birth&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>firmly, intensifier&lt;/td>
+&lt;td>&lt;code>upādānaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>upa&lt;/code> + &lt;code>ā&lt;/code> + &lt;code>dānaṁ&lt;/code>&lt;/td>
+&lt;td>clinging&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>up, high (as in good-willed act, attaining a high condition etc.)&lt;/td>
+&lt;td>&lt;code>upakaroti&lt;/code>&lt;/td>
+&lt;td>&lt;code>upa&lt;/code> + &lt;code>karoti&lt;/code>&lt;/td>
+&lt;td>highly acts, i.e. helps&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>upakāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>upa&lt;/code> + &lt;code>karo&lt;/code>&lt;/td>
+&lt;td>such an act, a good-willed help (done usually by parents, good friends etc.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>upasampajjati&lt;/code>*&lt;/td>
+&lt;td>&lt;code>upa&lt;/code> + &lt;code>saṁ&lt;/code> + &lt;code>pajjati&lt;/code>&lt;/td>
+&lt;td>attains higher state&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>upasampanno&lt;/code>*&lt;/td>
+&lt;td>&lt;code>upa&lt;/code> + &lt;code>saṁ&lt;/code> + &lt;code>panno&lt;/code>&lt;/td>
+&lt;td>having attained a higher state&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>allegation&lt;/td>
+&lt;td>&lt;code>upavadati&lt;/code>&lt;/td>
+&lt;td>&lt;code>upa&lt;/code> + &lt;code>vadati&lt;/code>&lt;/td>
+&lt;td>(He) speaks closely, i.e. accuses&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>upavādo&lt;/code>&lt;/td>
+&lt;td>&lt;code>upa&lt;/code> + &lt;code>vado&lt;/code>&lt;/td>
+&lt;td>accusation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>deputy or assistant or the second in rank, subordinate&lt;/td>
+&lt;td>&lt;code>uparājā&lt;/code>&lt;/td>
+&lt;td>&lt;code>upa&lt;/code> + &lt;code>rājā&lt;/code>&lt;/td>
+&lt;td>the crown prince&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>ppaukkaṭho&lt;/code>&lt;/td>
+&lt;td>&lt;code>upa&lt;/code> + &lt;code>ukkaṭho&lt;/code>&lt;/td>
+&lt;td>vice-chairman&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>over, exceeds (usually followed by a locative word in its context denoting the lesser amount or value)&lt;/td>
+&lt;td>&lt;code>Upa khāriyaṁ doṇo&lt;/code>&lt;/td>
+&lt;td>&lt;code>upa&lt;/code>&lt;/td>
+&lt;td>A measure of “doṇa&lt;code>is in excess of a&lt;/code>khāri`&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>* &lt;em>(&lt;code>ṁ&lt;/code> becomes &lt;code>m&lt;/code> as it precedes &lt;code>p&lt;/code>)&lt;/em>&lt;/p></description></item></channel></rss>
