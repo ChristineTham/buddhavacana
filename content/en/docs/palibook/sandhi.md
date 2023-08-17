@@ -1,8 +1,8 @@
 ---
-title: "B: `sandhi` Rules"
-linkTitle: "B: `sandhi`"
+title: "D: `sandhi` Rules"
+linkTitle: "D: `sandhi`"
 date: 2023-08-11
-weight: 110
+weight: 940
 description: >
   `sandhi` rules from Kaccāyana {12}-{51}
 categories: ["palibook"]

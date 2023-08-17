@@ -1,8 +1,8 @@
 ---
 title: "A: The Pali Alphabet"
-linkTitle: "A: Alphabet"
+linkTitle: "B: Alphabet"
 date: 2022-01-01
-weight: 100
+weight: 910
 description: >
   Concise summary of the romanised Pali Alphabet
 ---

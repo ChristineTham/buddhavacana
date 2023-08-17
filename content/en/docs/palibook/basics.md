@@ -62,7 +62,7 @@ tonality. Modern day Pali pronunciation is based on how the Buddhist Pali canon
 is chanted in various countries including Sri Lanka, Myanmar and Thailand.
 
 {{< alert title="Reference" color="light">}}
-[**A: The Pāli Alphabet**]({{< relref "alphabet" >}})
+[**B: The Pāli Alphabet**]({{< relref "alphabet" >}})
 {{< /alert >}}
 
 ## `sandhi` (word transformations)
@@ -104,7 +104,7 @@ and more sentences in Pali, these changes will become easier to recognise.
 
 {{< alert title="Reference" color="light">}}
 For a summary of the rules, please refer to 
-[**B: `sandhi` Rules**]({{< relref "sandhi" >}})
+[**D: `sandhi` Rules**]({{< relref "sandhi" >}})
 {12}-{51}
 {{< /alert >}}
 
@@ -506,7 +506,7 @@ together with various `upasagga` prefixes and the `ṇa`-suffix:
 {{< alert title="Reference" color="light">}}
 For a listing of the detailed meanings that are associated with `upasagga`,
 please refer to
-[**D: `upasagga` meanings**]({{< relref "upasagga" >}})
+[**F: `upasagga ` meanings**]({{< relref "upasagga" >}})
 {{< /alert >}}
 
 ## 🆎 `samāsa` (compound nouns) {316}-{343}

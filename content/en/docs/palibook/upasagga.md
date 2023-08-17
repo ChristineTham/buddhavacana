@@ -1,8 +1,8 @@
 ---
-title: "D: `upasagga` meanings"
-linkTitle: "D: `upasagga`"
+title: "F: `upasagga ` meanings"
+linkTitle: "F: `upasagga `"
 date: 2023-08-13
-weight: 130
+weight: 960
 description: >
   Detailed Meanings of `upasagga` Particles
 categories: ["palibook"]

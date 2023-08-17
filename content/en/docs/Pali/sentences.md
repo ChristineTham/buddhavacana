@@ -9,59 +9,45 @@ description: >
 
 ## Legend
 
-```mermaid
-mindmap
-  id((padajāti))
-    nāma
-      id(noun)
-        saṅkhyā: number
-          ekavacana: singular
-            id(👤)
-          bahuvacana: plural
-            id(👥)
-          liṅga: gender
-            pulliṅga: masculine
-              id(🚹)
-            itthiliṅga: feminine
-              id(🚺)
-            napuṁsakaliṅga: neuter
-              id(🚻)
-            kāraka: case
-              paccattavacana: nominative
-                id(1️⃣)
-              upayogavacana: accusative
-                id(2️⃣)
-              karaṇavacana: instrumental
-                id(3️⃣)
-              sampadānavacana: dative
-                id(4️⃣)
-              apādānavacana: ablative
-                id(5️⃣)
-              sāmivacana: genitive
-                id(6️⃣)
-              bhummavacana: locative case
-                id(7️⃣)
-              āmantaṇavacana: vocative
-                id(0️⃣)
-    ākhyāta
-      id(verb)
-        purisa (person)
-          paṭhamapurisa: third person
-            id(🤟)
-          majjhimapurisa: second person
-            id(🤘)
-          uttamapurisa: first person
-            id(👆)
-        saṅkhyā: number
-          ekavacana: singular
-            id(👤)
-          bahuvacana: plural
-            id(👥)
-    upasagga
-      id(prefix)
-    nipāta
-      id(particle)
-```
+| symbol | meaning | explanation |
+| --- | --- | --- |
+|  | `vākya` | sentence |
+|  | `pada`, `vacana` | word |
+|  | `nāma` | noun |
+|  | `ākhyāta` | verb |
+| 🚹 | `pulliṅga` | major (masculine) gender |
+| 🚻 | `napuṁsakaliṅga` | special (neuter) gender |
+| 🚺 | `itthiliṅga` | minor (feminine) gender |
+| 👤 | `ekavacana` | singular |
+| 👥 | `bahuvacana` | plural |
+| 🟢 | `parassapada` | active voice
+| 🔵 | `attanopada` | middle voice - impersonal |
+| 🔴 | `kammapada` | passive
+| 👤 | `ekavacana` | singular |
+| 👥 | `bahuvacana` | plural |
+| 🤟 | `paṭhama purisa` | first person, equivalent to 'third person' in English |
+| 🤘 | `majjima purisa` | middle person, equivalent to 'second person' in English |
+| 👆 | `uttama purisa` | primary person, equivalent to 'first person' in English |
+| 0️⃣ | `ālapana` | vocative |
+| 1️⃣ | `paṭhamā` | first case (nominative) |
+| 2️⃣ | `dutiyā` | second case (accusative) |
+| 3️⃣ | `tatiyā` | third case (instrumental) |
+| 4️⃣ | `catutthī` | fourth case (dative) |
+| 5️⃣ | `pañcamī` | fifth case (ablative) |
+| 6️⃣ | `chaṭṭhī` | sixth case (genitive) |
+| 7️⃣ | `sattamī` | seventh case (locative) |
+| ⏏️ | `nipāta` | particle |
+| 🔼 | `upasagga` |prefix |
+| 🆎 | `samāsa` | compound noun |
+| 🔽 | `taddhita` | affix |
+| ▶️ | `vattamāna` | present |
+| ⏹ | `piñcamī` | imperative |
+| ⏯ | `sattamī` | potential |
+| 🔄 | `parokkhā` | perfect |
+| ↩️ | `hiyyattanī` | imperfect |
+| ⏮ | `ajjatanī`| aorist |
+| ⏭ | `bhavissanti` | future |
+| 🔀 | `kālātipatti` | conditional |
 
 ### Equational
 
@@ -71,19 +57,21 @@ classDiagram
     <<vākya>>
     english(The deva is not human)
   }
-  class devo {
-    <<nāma>>
-    🚹👤1️⃣
-    english(deity)
-  }
-  class amanusso {
-    <<nāma>>
-     🚹👤1️⃣
-    english(not human)
+  namespace equational {
+    class devo {
+      <<nāma>>
+      🚹👤1️⃣
+      english(deity)
+    }
+    class amanusso {
+      <<nāma>>
+      🚹👤1️⃣
+      english(not human)
+    }
   }
   class hoti {
     <<ākhyāta>>
-     👤🤟vattamāna
+     👤🤟▶️
     english(is)
   }
   sentence *-- devo : kattar
@@ -106,7 +94,7 @@ classDiagram
   }
   class cavati {
     <<ākhyāta>>
-     👤🤟vattamāna
+     👤🤟▶️
     english(dies)
   }
   sentence *-- devo : kattar
@@ -133,12 +121,40 @@ classDiagram
   }
   class āharati {
     <<ākhyāta>>
-     👤🤟vattamāna
+     👤🤟▶️
     english(brings)
   }
   sentence *-- upāsako : kattar
   sentence *-- pattaṃ : kamma
   sentence *-- āharati: kiriya
+```
+
+### Bi-transitive (patient x-patient y-action)
+
+```mermaid
+classDiagram
+  class sentence["upāsakaṃ brāhmānaṃ dhāreti"] {
+    <<vākya>>
+    english([He] accepts the priest as a lay disciple)
+  }
+  class upāsakaṃ {
+    <<nāma>>
+    🚹👤2️⃣
+    english(lay disciple)
+  }
+  class brāhmānaṃ {
+    <<nāma>>
+    🚹👤2️⃣
+    english(brahmin)
+  }
+  class dhāreti {
+    <<ākhyāta>>
+     👤🤟▶️
+    english(accepts)
+  }
+  sentence *-- upāsakaṃ : kamma x
+  sentence *-- brāhmānaṃ : kamma y
+  sentence *-- dhāreti: kiriya
 ```
 
 ### `yena` ... `tena`
@@ -168,7 +184,7 @@ classDiagram
   }
   class upasaṃkamanti {
     <<ākhyāta>>
-     👥🤟vattamāna
+     👥🤟▶️
     english(approach)
   }
   sentence *-- yena
