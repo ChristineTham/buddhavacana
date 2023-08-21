@@ -1,5 +1,5 @@
 ---
-title: "A: The Pali Alphabet"
+title: "B: The Pali Alphabet"
 linkTitle: "B: Alphabet"
 date: 2022-01-01
 weight: 910

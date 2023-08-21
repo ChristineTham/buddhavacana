@@ -2,7 +2,7 @@
 title: "2: `kāraka` (word ending) meanings"
 linkTitle: "2: `kāraka`"
 date: 2023-08-12
-weight: 30
+weight: 200
 description: >
   Various meanings and usage-rules of word endings in sentences after `vibhatti` has been applied {271}-{315}
 categories: ["palibook"]

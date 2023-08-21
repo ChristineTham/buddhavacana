@@ -129,7 +129,7 @@ classDiagram
   sentence *-- āharati: kiriya
 ```
 
-### Bi-transitive (patient x-patient y-action)
+### Bi-transitive (patient y-patient x-action)
 
 ```mermaid
 classDiagram
@@ -150,10 +150,10 @@ classDiagram
   class dhāreti {
     <<ākhyāta>>
      👤🤟▶️
-    english(accepts)
+    english(accepts X as Y)
   }
-  sentence *-- upāsakaṃ : kamma x
-  sentence *-- brāhmānaṃ : kamma y
+  sentence *-- upāsakaṃ : kamma y
+  sentence *-- brāhmānaṃ : kamma x
   sentence *-- dhāreti: kiriya
 ```
 

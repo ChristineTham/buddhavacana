@@ -66,3 +66,12 @@ description: >
 
 [Hamburg Buddhist Studies](https://www.buddhismuskunde.uni-hamburg.de/en/publikationen/hamburg-buddhist-studies.html)
 : Buddhism has enjoyed a prominent place in the study of Asian religious ideas at Hamburg University for almost 100 years. With the publication series Hamburg Buddhist Studies the Numata Center for Buddhist Studies aims to honor this long-standing commitment to research and share the results of this tradition with the community of scholars and the wider public.
+
+[The Buddhist Channel](https://buddhistchannel.tv)
+: Using the web and app technologies on content publication, the BC remains one of the world's few dedicated Buddhist news services, providing daily updates and in-depth coverage.
+
+[Dharma Wangi](https://www.dharma-wangi.space/)
+: Welcome to Dharma Wangi, a space dedicated to exploring Buddhist philosophy and teachings. "Dharma Wangi" is a Malay term meaning "Fragrance (wangi) of the Dharma". In the Dhammapada V 56, the Buddha said, "Faint is the fragrance of tagara and sandal (names of incense), but excellent is the fragrance of the virtuous, wafting even amongst the gods." Here I document my thoughts and ideas on the subjects relating to issues in Buddhist teachings and its relevance (or irrelevance).
+
+[NORBU | Buddhist AI Friend](https://norbu-ai.org)
+: Svasti. Namo Buddhaya, how can I help you today?

@@ -1,8 +1,8 @@
 ---
-title: "E: `vibhatti` Rules"
-linkTitle: "E: `vibhatti`"
+title: "G: `vibhatti` Rules"
+linkTitle: "G: `vibhatti`"
 date: 2023-08-13
-weight: 950
+weight: 970
 description: >
   `vibhatti` rules from Kaccāyana
 categories: ["palibook"]

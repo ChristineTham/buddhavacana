@@ -46,7 +46,9 @@ just means "text", and today "Pali" is used primarily for Buddhist literature.
 
 The Buddha may have spoken a language similar to Pali, and when he died his
 sayings were collected and systematised so they can be transmitted orally
-generation to generation using memorisation techniques such as chanting.
+generation to generation using memorisation techniques such as chanting. The
+Pali canon was not written down until hundreds of years after the Buddha has
+passed away.
 
 As such, there is no "official" Pali alphabet or writing. Pali can be transcribed
 fairly faithfully in a number of alphabets, including Roman letters (with the
@@ -64,6 +66,82 @@ is chanted in various countries including Sri Lanka, Myanmar and Thailand.
 {{< alert title="Reference" color="light">}}
 [**B: The Pāli Alphabet**]({{< relref "alphabet" >}})
 {{< /alert >}}
+
+## Pali sentence structure
+
+A Pali sentence (`vākya`) or Pali text (`pali`) is generally composed of
+multiple words (`pada` or `vacana`). Since Pali was an oral language,
+punctuation mark and upper/lower case conventions are typically not used,
+although modern editors have sometimes added these to aid reading.
+
+Words also do not need to be separated by spaces, although modern Pali editions
+of text do add spaces, to aid reading. Later on, we will find out Pali
+has compound words, which consist of multiple words joined together to create a
+composite word.
+
+To be able to distinguish words in a sentence, Pali relies
+heavily on `paccaya` (affixes to roots or word stems) to create distinctive
+word endings. Fluent Pali listeners will no doubt listen to the sound of these
+endings to distinguish the words. These endings also give additional meaning
+to the words and indicate how the words are used in a sentence.
+
+Because of this, the word order in a Pali sentence is less important than many
+other languages, however there are conventions for how to arrange words in a
+typical sentence. Speakers can unconventionally reorder words, typically to
+give emphasis to certain words or to augment or add nuance to a sentence's
+emotional meaning.
+
+This is similar to our reaction when we hear "Yoda" speak in the "Star Wars"
+series of films. We appreciate who Yoda is as a personality, and we pay more
+attention to his words simply because of the different order.
+
+## `dhātu` (roots)
+
+Fundamentally, all words in Pali are said to be derived from one or more `dhātu`
+(roots). These roots are similar to Sanskrit roots. Pali can be regarded as
+a simplified version of Sanskrit, however some of the roots may have different
+meanings, or nuances. There are some that say Sanskrit was a "holy" language
+reserved for priests and members of the holy caste, whereas Pali, along with
+many other Indian languages, was spoken by the common people. The Buddha may
+have spoken in Pali because he wanted to convey his teachings to ordinary
+people, not just privileged members of a particular caste.
+
+`dhātu` can have 1-3 syllables:
+
+| type | example | meaning |
+| --- | --- | --- |
+| single stem or one-syllable roots | `vā` | to move |
+|| `yā` | to go |
+|| `pā` | to drink
+|| `ji` | to conquer |
+|| `nī` | to carry |
+|| `su` |to flow |
+|| `bhū` | to be |
+| dual-word roots | `gamu` | to go |
+|| `paca` | to cook |
+|| `vada` |to speak |
+| multiple-stem or three syllable roots | `vāyama` | to attempt |
+|| `araha` | to deserve|
+|| `kilisa` | to torment |
+
+A series
+of transformations convert a root into a word by adding `paccaya` (affixes).
+Words can also be formed by combining a root with one or more `upasagga`
+(prefixes). Multiple `upasagga` and different forms of `paccaya` can be applied
+to a root before it becomes a word, thus creating multi-syllabic
+words. The result is a word that can be used in a sentence.
+
+Altogether there are around 1700 roots in Pali. However, many many words can
+be made from them by attaching `upasagga` (prefixes) and various affixes
+(`paccaya`). In theory, fresh words can be formed by new combinations of roots
+with different prefixes so the adventurous Pali student can attempt to create
+Pali words for "modern" terms such as "computer" or "phone".
+
+It is not really necessary to memorise the 1700 roots, although it will be
+very useful if the reader chooses to do so. Knowing all the roots and the
+various prefixes and affixes will allow the reader to sometimes (not always)
+"guess" the meaning of a word not previously encountered, and will also help
+when applying the various transformation rules (see below).
 
 ## `sandhi` (word transformations)
 
@@ -88,7 +166,11 @@ words together, `sandhi` typically involves deleting one of the vowels, and
 then either retaining, lengthening or changing the remaining vowel. Sometimes
 the consonant next to the vowel may also be changed.
 
-The overall effect is to make the words easier to say as a group.
+The overall effect is to make the words easier to say as a group. Although
+`tatrāyamādi` may seem like a single word because of `sandhi`, a listener
+should still regard them as separate words when trying to understand a
+sentence. However, some `sandhi` combinations of common words are so often
+encountered they have acquired distinctive meaning as combined words.
 
 Another example {11}
 
@@ -104,7 +186,7 @@ and more sentences in Pali, these changes will become easier to recognise.
 
 {{< alert title="Reference" color="light">}}
 For a summary of the rules, please refer to 
-[**D: `sandhi` Rules**]({{< relref "sandhi" >}})
+[**E: `sandhi` Rules**]({{< relref "sandhi" >}})
 {12}-{51}
 {{< /alert >}}
 
@@ -362,7 +444,7 @@ lead to confusion. However, these terms are common in Pali-English dictionaries
 so I encourage you to substitute the case number when you see these terms.
 {{< /alert >}}
 
-## 0️⃣ `ālapana` (vocative) {57}
+### 0️⃣ `ālapana` (vocative) {57}
 
 English Pali textbooks often refer to a "vocative" case, but this is not
 recognised as a separate case but a variant of the 1st case. The usual case
@@ -387,7 +469,7 @@ In plural:
 
 `nipāta` means "to fall. i.e. to be placed anywhere", and refer to words
 that can be found placed in the beginning, in the middle or at the end of
-sentences and words, but not as prefixes (see below) of the roots.
+sentences and words, but not usually regarded as prefixes (see below).
 
 Generally, the `vibhatti` endings of `nipāta` words are elided as these words
 are not related to other words in the sentence and therefore do not need to
@@ -515,41 +597,66 @@ Like German, Pali often combines many nouns to form a compound noun. (TBD)
 
 ## 🔽`taddhita` (affixes) {344}-{405}
 
-Various affixes can be added to a noun to create additional words. (TBD)
+Various affixes can be added to a noun to alter the meaning of words. These
+affixes typically start with `ṇ` and can be `ṇa`, `ṇāyana`, `ṇāna`, `ṇeyya`,
+`ṇi`, `ṇava`, `ṇera`, `ṇika` etc. However, during the transformation, the `ṇ`
+is typically elided so what's left are the remainder of the letters, and after
+that the typical noun `vibhatti` endings are applied.
 
-## `ākhyāta` (verbs)
+Compare and contrast with English use of affixes such as "-al", "-ly", "-er",
+"-or" etc. For example, "topic" vs "topical", "true" vs "truly".
+
+In English, "navigate" is a verb, whereas "navigator" (with an "-or" affix) is
+a profession. Similarly, in Pali, `nāvā` is "boat", `nāvā` with `ṇika` as an
+affix becomes `nāviko` ("traveller by boat", or "sailor").
+
+Words with `taddhita` affixes are sometimes not recognised by Pali-English
+dictionaries, since most Pali textbooks do not teach them, and most Pali
+grammars written in English neglect to mention them as well. So it is probably
+worthwhile learning how to recognise `taddhita` affixed words and the associated
+meanings.
+
+{{< alert title="Reference" color="light">}}
+For a summary of the `taddhita` affixes and associated meanings, please refer to
+[**H: `taddhita` (affixes)**]({{< relref "taddhita" >}})
+{344}-{405}
+{{< /alert >}}
+
+## `ākhyāta` (verbs) {406}-{523}
 
 Like nouns, verbs also have `vibhatti` endings affixed to them when used in
 sentences, but the endings are different from those of nouns. These endings
 depend on:
 
-* voice
+* voice {406}-{407}
   * 🟢 = `parassapada` (active)
-  * 🔵 = `attanopada` (middle) - passive, impersonal
+  * 🔵 = `attanopada` (middle) - impersonal
 * number
   * 👤 = `ekavacana` (singular)
   * 👥 = `bahuvacana` (plural)
-* person
+* person {408}-{412} (if more than one, the last applies)
   * 🤟 = `paṭhama purisa` (first person, equivalent to 'third person' in English)
   * 🤘 = `majjima purisa` (middle person, equivalent to 'second person' in English)
   * 👆 = `uttama purisa` (primary person, equivalent to 'first person' in English)
-* tense/mood
-  * ▶️ = `vattamāna` (present)
-  * ⏹ = `piñcamī` (imperative)
-  * ⏯ = `sattamī` (potential)
-  * 🔄 = `parokkhā` (perfect)
-  * ↩️ = `hiyyattanī` (imperfect)
+* tense/mood {413}-{422}
+  * ▶️ = `vattamāna` (present)*
+  * ⏹ = `piñcamī` (imperative) - (used to express) āṇatti (command), āsīsa (wish) at a non-specific time-frame mode (anuttakāla)*
+  * ⏯ = `sattamī` (potential/optative)*
+  * 🔄 = `parokkhā` (past perfect)
+  * ↩️ = `hiyyattanī` (past imperfect)*
   * ⏮ = `ajjatanī`(aorist)
   * ⏭ = `bhavissanti` (future)
   * 🔀 = `kālātipatti` (conditional)
 
-### verb terminations
+\* collectively referred to as `sabbadhātuka vibhatti`
+
+### verb terminations {423}-{430}
 
 | | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | | 🤟 | 🤟 | 🤘 | 🤘 | 👆 | 👆 | 🤟 | 🤟 | 🤘 | 🤘 | 👆 | 👆 |
 | | 👤 | 👥 | 👤 | 👥 | 👤 | 👥 | 👤 | 👥 | 👤 | 👥 | 👤 | 👥 |
-| ▶️ | `ti` | `anti` | `si` | `hta` | `mi` | `ma` | `te` | `ante` | `se` | `vhe` | `e` | `mhe` |
+| ▶️ | `ti` | `anti` | `si` | `tha` | `mi` | `ma` | `te` | `ante` | `se` | `vhe` | `e` | `mhe` |
 | ⏹ | `tu` | `antu` | `hi` | `tha` | `mi` | `ma` | `taṁ` | `antaṁ` | `ssu` | `vho` | `e` | `āmase` |
 | ⏯ | `eyya` | `eyyuṁ` | `eyyāsi` | `eyyātha` | `eyyāmi` | `eyyāma` | `etha` | `eraṁ` | `etho` | `eyyāvho` | `eyaṁ` | `eyaṁhe` |
 | 🔄 | `a` | `u` | `e` | `ttha` | `aṁ` | `mha` | `ttha` | `re` | `ttho` | `vho` | `iṁ` | `mhe` |
@@ -558,7 +665,285 @@ depend on:
 | ⏭ | `ssati` | `ssanti` | `ssasi` | `ssatha` | `ssaṁi` | `ssāma` | `ssate` | `ssante` | `ssase` | `ssavhe` | `ssaṁ` | `ssāmhe` |
 | 🔀 | `ssā` | `ssaṁsu` | `sse` | `ssatha` | `ssaṁ` | `ssāmha` | `ssatha` | `ssiṁsu` | `ssase` | `ssavhe` | `ssaṁ` | `ssāmhase` |
 
-(TBD: incomplete)
+Here is an example of the root `gamu` (to go) with all the verb endings applied.
+A number of transformations need to happen prior to affixing the `vibhatti`:
+
+gamu  
+=> gam~~u~~ (elision of final vowel per rule {521})  
+=> gam~~m~~(cch) (m-->cch per rule {476})  
+= gacch
+
+| voice | number | person | tense | ending | transformation | rule | result | irregulars |
+| :-: | :-: | :-: | :-: | :-: | --- | :-: | --- | --- |
+| 🟢 | 🤟 | 👤 | ▶️ | `ti` | gacch + a + ti | {445} | `gacchati` | `gacche` |
+| 🟢 | 🤟 | 👥 | ▶️ | `anti` | gacch + anti |  | `gacchanti` | `gacchare` |
+| 🟢 | 🤘 | 👤 | ▶️ | `si` | gacch + a + si | {445} | `gacchasi` | |
+| 🟢 | 🤘 | 👥 | ▶️ | `tha` | gacch + a + tha | {445} | `gacchatha` | |
+| 🟢 | 👆 | 👤 | ▶️ | `mi` | gacch + ā + mi | {478} | `gacchāmi` | `gacche` |
+| 🟢 | 👆 | 👥 | ▶️ | `ma` | gacch + ā + ma | {478} | `gacchāma` | |
+| 🔵 | 🤟 | 👤 | ▶️ | `te` | gacch + a + te | {445} | `gacchate` | |
+| 🔵 | 🤟 | 👥 | ▶️ | `ante` | gacch + ante |  | `gacchante` | `gacchare` |
+| 🔵 | 🤘 | 👤 | ▶️ | `se` | gacch + a + se | {445} | `gacchase` | |
+| 🔵 | 🤘 | 👥 | ▶️ | `vhe` | gacch + a + vhe | {445} | `gacchavhe` | |
+| 🔵 | 👆 | 👤 | ▶️ | `e` | gacch + e |  | `gacche` | |
+| 🔵 | 👆 | 👥 | ▶️ | `mhe` | gacch + ā + mhe | {478} | `gacchāmhe` | |
+| 🟢 | 🤟 | 👤 | ⏹ | `tu` | gacch + a + tu | {445} | `gacchatu` | `gacche` |
+| 🟢 | 🤟 | 👥 | ⏹ | `antu` | gacch + antu |  | `gacchantu` | |
+| 🟢 | 🤘 | 👤 | ⏹ | `hi` | gacch + ā + hi | {478} | `gacchāhi` | `gaccha` {479}, `gacchassu` {571} |
+| 🟢 | 🤘 | 👥 | ⏹ | `tha` | gacch + a + tha | {445} | `gacchatha` | |
+| 🟢 | 👆 | 👤 | ⏹ | `mi` | gacch + ā + mi | {478} | `gacchāmi` | `gacche` |
+| 🟢 | 👆 | 👥 | ⏹ | `ma` | gacch + ā + ma | {478} | `gacchāma` | |
+| 🔵 | 🤟 | 👤 | ⏹ | `taṁ` | gacch + a + taṁ | {445} | `gacchataṁ` | |
+| 🔵 | 🤟 | 👥 | ⏹ | `antaṁ` | gacch + antaṁ |  | `gacchantaṁ` | |
+| 🔵 | 🤘 | 👤 | ⏹ | `etha` | gacch + a + ssu | {445} | `gacchassu` | |
+| 🔵 | 🤘 | 👥 | ⏹ | `vho` | gacch + a + vho | {445} | `gacchavho` | |
+| 🔵 | 👆 | 👤 | ⏹ | `e` | gacch + e |  | `gacche` | |
+| 🔵 | 👆 | 👥 | ⏹ | `āmase` | gacch + āmase |  | `gacchāmase` | |
+| 🟢 | 🤟 | 👤 | ⏯ | `eyya` | gacch + eyya |  | `gaccheyya` | `gacche` |
+| 🟢 | 🤟 | 👥 | ⏯ | `eyyuṁ` | gacch + eyyuṁ |  | `gaccheyyuṁ` | |
+| 🟢 | 🤘 | 👤 | ⏯ | `eyyāsi` | gacch + eyyāsi |  | `gaccheyyāsi` | `gacche` |
+| 🟢 | 🤘 | 👥 | ⏯ | `eyyātha` | gacch + eyyātha |  | `gaccheyyātha` | |
+| 🟢 | 👆 | 👤 | ⏯ | `eyyāmi` | gacch + eyyāmi |  | `gaccheyyāmi` | `gacche` |
+| 🟢 | 👆 | 👥 | ⏯ | `eyyāma` | gacch + eyyāma |  | `gaccheyyāma` | |
+| 🔵 | 🤟 | 👤 | ⏯ | `etha` | gacch + etha |  | `gacchetha` | |
+| 🔵 | 🤟 | 👥 | ⏯ | `eraṁ` | gacch + eraṁ |  | `gaccheraṁ` | |
+| 🔵 | 🤘 | 👤 | ⏯ | `etho` | gacch + etho |  | `gacchetho` | |
+| 🔵 | 🤘 | 👥 | ⏯ | `eyyāvho` | gacch + eyyāvho |  | `gaccheyyāvho` | |
+| 🔵 | 👆 | 👤 | ⏯ | `eyaṁ` | gacch + eyaṁ |  | `gaccheyaṁ` | `gacche` |
+| 🔵 | 👆 | 👥 | ⏯ | `eyaṁhe` | gacch + eyaṁhe |  | `gaccheyaṁhe` | |
+| 🟢 | 🤟 | 👤 | 🔄 | `a` | gacch + a | | `gaccha` |
+| 🟢 | 🤟 | 👥 | 🔄 | `u` | gacch + u |  | `gacchu` |
+| 🟢 | 🤘 | 👤 | 🔄 | `e` | gacch + e |  | `gacche` |
+| 🟢 | 🤘 | 👥 | 🔄 | `ttha` | gacch + a + ttha | {445} | `gacchattha` |
+| 🟢 | 👆 | 👤 | 🔄 | `aṁ` | gacch + aṁ | | `gacchaṁ` |
+| 🟢 | 👆 | 👥 | 🔄 | `mha` | gacch + ā + mha | {478} | `gacchāmha` |
+| 🔵 | 🤟 | 👤 | 🔄 | `ttha` | gacch + a + ttha | {445} | `gacchattha` |
+| 🔵 | 🤟 | 👥 | 🔄 | `re` | gacch + a + re | {445} | `gacchare` |
+| 🔵 | 🤘 | 👤 | 🔄 | `ttho` | gacch + a + ttho | {445} | `gacchattho` |
+| 🔵 | 🤘 | 👥 | 🔄 | `vho` | gacch + a + vho | {445} | `gacchavho` |
+| 🔵 | 👆 | 👤 | 🔄 | `iṁ` | gacch + iṁ |  | `gacchiṁ` |
+| 🔵 | 👆 | 👥 | 🔄 | `mhe` | gacch + ā + mhe | {478} | `gacchāmhe` |
+| 🟢 | 🤟 | 👤 | ↩️ | `ā` | a + gacch + ā | {519} | `agacchā` |
+| 🟢 | 🤟 | 👥 | ↩️ | `ū` | a + gacch + ū | {519} | `agacchū` |
+| 🟢 | 🤘 | 👤 | ↩️ | `o` | gacch + o |  | `gaccho` |
+| 🟢 | 🤘 | 👥 | ↩️ | `ttha` | gacch + a + ttha | {445} | `gacchattha` |
+| 🟢 | 👆 | 👤 | ↩️ | `iṁ` | gacch + iṁ | | `gacchiṁ` | `agacchiṁ` |
+| 🟢 | 👆 | 👥 | ↩️ | `mhā` | gacch + ā + mhā | {478} | `gacchāmhā` |
+| 🔵 | 🤟 | 👤 | ↩️ | `ttha` | gacch + a + ttha | {445} | `gacchattha` |
+| 🔵 | 🤟 | 👥 | ↩️ | `tthuṁ` | gacch + a + tthuṁ | {445} | `gacchatthuṁ` |
+| 🔵 | 🤘 | 👤 | ↩️ | `se` | gacch + a + se | {445} | `gacchase` |
+| 🔵 | 🤘 | 👥 | ↩️ | `vhaṁ` | gacch + a + vhaṁ | {445} | `gacchavhaṁ` |
+| 🔵 | 👆 | 👤 | ↩️ | `iṁ` | gacch + iṁ |  | `gacchiṁ` |
+| 🔵 | 👆 | 👥 | ↩️ | `mhase` | gacch + ā + mhase | {478} | `gacchāmhase` |
+| 🟢 | 🤟 | 👤 | ⏮ | `ī` | a + gacch + ī | {519} | `agacchī` | `gacchī`, `agacchi`, `gacchi` |
+| 🟢 | 🤟 | 👥 | ⏮ | `uṁ` | gacch + uṁ | | `agacchuṁ` | `gacchuṁ`, `agacchiṁsu`, `gacchiṁsu` |
+| 🟢 | 🤘 | 👤 | ⏮ | `o` | gacch + o |  | `gaccho` | `agaccho`, `agaccha`, `gaccha`, `agacchi`, `gacchi` |
+| 🟢 | 🤘 | 👥 | ⏮ | `ttha` | gacch + a + ttha | {445} | `gacchattha` | `agacchattha` |
+| 🟢 | 👆 | 👤 | ⏮ | `iṁ` | gacch + iṁ |  | `gacchiṁ` | `agacchiṁ` |
+| 🟢 | 👆 | 👥 | ⏮ | `mhā` | gacch + ā + mhā | {478} | `gacchāmhā` |
+| 🔵 | 🤟 | 👤 | ⏮ | `ā` | a + gacch + ā | {519} | `agacchā` |
+| 🔵 | 🤟 | 👥 | ⏮ | `ū` | a + gacch + ū | {519} | `agacchū` |
+| 🔵 | 🤘 | 👤 | ⏮ | `se` | gacch + a + se | {445} | `gacchase` |
+| 🔵 | 🤘 | 👥 | ⏮ | `vhaṁ` | gacch + a + vhaṁ | {445} | `gacchavhaṁ` |
+| 🔵 | 👆 | 👤 | ⏮ | `aṁ` | gacch + aṁ | | `gacchaṁ` |
+| 🔵 | 👆 | 👥 | ⏮ | `mhe` | gacch + ā + mhe | {478} | `gacchāmhe` |
+| 🟢 | 🤟 | 👤 | ⏭ | `ssati` | gacch + a + ssati | {445} | `gacchassati` |
+| 🟢 | 🤟 | 👥 | ⏭ | `ssanti` | gacch + a + ssanti | {445} | `gacchassanti` |
+| 🟢 | 🤘 | 👤 | ⏭ | `ssasi` | gacch + a + ssasi | {445} | `gacchassasi` |
+| 🟢 | 🤘 | 👥 | ⏭ | `ssatha` | gacch + a + ssatha | {445} | `gacchassatha` |
+| 🟢 | 👆 | 👤 | ⏭ | `ssāmi` | gacch + a + ssāmi | {445} | `gacchassāmi` |
+| 🟢 | 👆 | 👥 | ⏭ | `ssāma` | gacch + a + ssāma | {445} | `gacchassāma` |
+| 🔵 | 🤟 | 👤 | ⏭ | `ssate` | gacch + a + ssate | {445} | `gacchassate` |
+| 🔵 | 🤟 | 👥 | ⏭ | `ssante` | gacch + a + ssante | {445} | `gacchassante` |
+| 🔵 | 🤘 | 👤 | ⏭ | `ssase` | gacch + a + ssase | {445} | `gacchassase` |
+| 🔵 | 🤘 | 👥 | ⏭ | `ssavhe` | gacch + a + ssavhe | {445} | `gacchassavhe` |
+| 🔵 | 👆 | 👤 | ⏭ | `ssaṁ` | gacch + a + ssaṁ | {445} | `gacchassaṁ` |
+| 🔵 | 👆 | 👥 | ⏭ | `ssāmhe` | gacch + a + ssāmhe | {445} | `gacchassāmhe` |
+| 🟢 | 🤟 | 👤 | ⏭ | `ssā` | gacch + a + ssā | {445} | `gacchassā` |
+| 🟢 | 🤟 | 👥 | ⏭ | `ssaṁsu` | gacch + a + ssaṁsu | {445} | `gacchassaṁsu` |
+| 🟢 | 🤘 | 👤 | ⏭ | `sse` | gacch + a + ssase | {445} | `gacchassase` |
+| 🟢 | 🤘 | 👥 | ⏭ | `ssatha` | gacch + a + ssatha | {445} | `gacchassatha` |
+| 🟢 | 👆 | 👤 | ⏭ | `ssaṁ` | gacch + a + ssaṁ | {445} | `gacchassaṁ` |
+| 🟢 | 👆 | 👥 | ⏭ | `ssāmhā` | gacch + a + ssāmhā | {445} | `gacchassāmhā` |
+| 🔵 | 🤟 | 👤 | ⏭ | `ssata` | gacch + a + ssata | {445} | `gacchassata` |
+| 🔵 | 🤟 | 👥 | ⏭ | `ssiṁsu` | gacch + a + ssiṁsu | {445} | `gacchassiṁsu` |
+| 🔵 | 🤘 | 👤 | ⏭ | `ssase` | gacch + a + ssase | {445} | `gacchassase` |
+| 🔵 | 🤘 | 👥 | ⏭ | `ssavhe` | gacch + a + ssavhe | {445} | `gacchassavhe` |
+| 🔵 | 👆 | 👤 | ⏭ | `ssaṁ` | gacch + a + ssaṁ | {445} | `gacchassaṁ` |
+| 🔵 | 👆 | 👥 | ⏭ | `ssāmhase` | gacch + a + ssāmhase | {445} | `gacchassāmhase` |
+
+Note that some of the terminations are the same so in practice we will need
+to distinguish which tense is being used from context. Note also the irregular
+forms, particularly the aorist ones. The irregular aorists tend to be more
+commonly used than the regular forms.
+
+### Voices
+
+Like Sanskrit, Pali supports 3 different ways of expressing sentences, based on
+the "voice":
+
+1. the active voice (`kattu`)
+2. the passive voice (`kamma`)
+3. the impersonal voice (`bhāva`)
+
+However, in Pali literature, `bhāva` (middle, or impersonal, voice) is seldom
+used, probably because most of the literature is based on the Buddha (or a
+disciple) "speaking" to a group of monks, which has then been transformed into
+a structure suitable for memorisation and chanting.
+
+### `ākhyāta` examples
+
+#### ▶️ `vattamāna` {414}
+
+(used to express actions or events which occur) at the present
+
+> `pāṭaliputtaṁ gacchati`
+
+Pāṭaliputta (city) / he goes  
+*He goes to Pāṭaliputta.**
+
+> `sāvatthiṁ pavisati`
+
+Sāvatthi (city) / he enters  
+*He enters Sāvatthi.*
+
+#### ⏹ `piñcamī` {415}
+
+(used to express)
+
+* `āṇatti` (command)
+* `āsīsa` (wish)
+
+at a non-specific time-frame mode (`anuttakāla`)
+
+> `karotu kusalaṁ`
+
+do / meritorious deed  
+*(Please) do meritorious deed.*
+
+> `sukhaṁ te hotu`
+
+happiness / for you / be  
+*May you be happy.*
+
+#### ⏯ `sattamī` {416}
+
+(to express)
+
+* `anumati` (permission)
+* `parikappa` (thought)
+
+at a non-specific time (`anuttakāla`).
+
+> `tvaṁ gaccheyyāsi`
+you / can go
+*You can go.*
+
+> `kima’haṁ kareyyāmi`  
+what I (`kiṁ` + `ahaṁ`) / shoud do  
+*What should I do?*
+
+#### 🔄 `parokkhā` {417}
+
+{{< alert title="Note" color="secondary">}}
+`paro’kkhā` = `para` + `akkha`  
+beyond (ie. past) / physical senses
+{{< /alert >}}
+
+(to be applied to express things happened in one’s absence, in a situation where
+the speaker is not a witness to) at a past time-frame mode (`atīta` - past).
+
+> `supine kila’māha`
+
+in the dream / apparently / (he) said (`kila` + `āha`)  
+*(He is supposed to have) said.*
+
+> `evaṁ kila porāṇā’hu`
+
+thus / apparently / ancient sages / said (`porāṇā` + `āhu`)   
+*Ancient sages are supposed to have said thus.*
+
+{{< alert title="Note" color="secondary">}}
+`kila` is a `nipāta` (particle) used in indirect hearsay where the speaker is
+uncertain of the truthfulness of what he heard or not a witness to the actual
+event occurred. Sometimes it means an asseveration or an emphasis.
+{{< /alert >}}
+
+#### ↩️ `hiyyattanī` {418}
+
+(used to express events that took place) in past time (yesterday or before),
+either being witnessed or not witnessed (by the speaker)
+
+> `so agamā maggaṁ`
+
+he / went / road  
+*He went along the road.*
+
+> `te agamū maggaṁ`
+
+they / went / road  
+*They went along the road.*
+
+{{< alert title="Note" color="secondary">}}
+`mā` is a `nipāta` (particle) used to indicate negation, and is typically
+associated with verbs with `hiyyattanī` endings, but the verb is not associated
+with the past (or any other) tense. {420}
+
+> mā gamā
+
+do not / gone  
+*Do not go.*
+
+> mā vacā
+
+do not / said  
+*Do not say.*
+{{< /alert >}}
+
+#### ⏮ `ajjatanī` {419}
+
+(used to express things happened) in the near past starting from today, either
+being witnessed or not witnessed (by the speaker)
+
+> so maggaṁ agamī
+
+he / road / gone  
+*He has (just) gone along the road.*
+
+> te maggaṁ agamuṁ
+they / road / gone  
+*They have (just) gone along the road.*
+
+#### ⏭ `bhavissanti` {421}
+
+(to be used) in the (ex- pression of) future
+
+> so gacchissati, karissati
+
+he / will go / will do  
+*He will go, will do.*
+
+> te gacchissanti, karissanti
+
+they / will go / will do  
+*They will go, will do.*
+
+#### 🔀 `kālātipatti` {422}
+
+(to be used) in (the expression of) an action that was past (without being
+materialised due to adverse conditions or lack of the supporting causes)
+
+> so ce taṁ yānaṁ alabhissā, agacchissā
+
+he / if / that / vehicle / should have got / might have gone already  
+*If he had gotten that vehicle, he might have gone already.*
+
+> te ce taṁ yānaṁ alabhissaṁsu, agacchissaṁsu
+
+they / if / that / vehicle / should have got / might have gone already  
+*If they had gotten that vehicle, they might have gone already.*
+
+TBD
 
 ## 🔽 `kibbidhāna` (`kita`-affixed nouns) {524}-{623}
 
