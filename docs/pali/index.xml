@@ -1225,7 +1225,7 @@ english(brings)
 sentence *-- upāsako : kattar
 sentence *-- pattaṃ : kamma
 sentence *-- āharati: kiriya&lt;/pre>
-&lt;h3 id="bi-transitive-patient-x-patient-y-action">Bi-transitive (patient x-patient y-action)&lt;/h3>
+&lt;h3 id="bi-transitive-patient-y-patient-x-action">Bi-transitive (patient y-patient x-action)&lt;/h3>
 &lt;pre class="mermaid">classDiagram
 class sentence[&amp;#34;upāsakaṃ brāhmānaṃ dhāreti&amp;#34;] {
 &amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
@@ -1244,10 +1244,10 @@ english(brahmin)
 class dhāreti {
 &amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
 👤🤟▶️
-english(accepts)
+english(accepts X as Y)
 }
-sentence *-- upāsakaṃ : kamma x
-sentence *-- brāhmānaṃ : kamma y
+sentence *-- upāsakaṃ : kamma y
+sentence *-- brāhmānaṃ : kamma x
 sentence *-- dhāreti: kiriya&lt;/pre>
 &lt;h3 id="yena--tena">&lt;code>yena&lt;/code> &amp;hellip; &lt;code>tena&lt;/code>&lt;/h3>
 &lt;pre class="mermaid">classDiagram

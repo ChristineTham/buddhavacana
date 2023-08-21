@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – palibook</title><link>https://christham.net/buddhavacana/categories/palibook/</link><description>Recent content in palibook on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://christham.net/buddhavacana/categories/palibook/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: 0: Introduction</title><link>https://christham.net/buddhavacana/docs/palibook/intro/</link><pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/intro/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – palibook</title><link>https://christham.net/buddhavacana/categories/palibook/</link><description>Recent content in palibook on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 18 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://christham.net/buddhavacana/categories/palibook/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: 0: Introduction</title><link>https://christham.net/buddhavacana/docs/palibook/intro/</link><pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/intro/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/div>
@@ -169,7 +169,9 @@ just means &amp;ldquo;text&amp;rdquo;, and today &amp;ldquo;Pali&amp;rdquo; is u
 &lt;h2 id="pali-alphabet-and-pronunciation-2-9">Pali Alphabet and pronunciation {2}-{9}&lt;/h2>
 &lt;p>The Buddha may have spoken a language similar to Pali, and when he died his
 sayings were collected and systematised so they can be transmitted orally
-generation to generation using memorisation techniques such as chanting.&lt;/p>
+generation to generation using memorisation techniques such as chanting. The
+Pali canon was not written down until hundreds of years after the Buddha has
+passed away.&lt;/p>
 &lt;p>As such, there is no &amp;ldquo;official&amp;rdquo; Pali alphabet or writing. Pali can be transcribed
 fairly faithfully in a number of alphabets, including Roman letters (with the
 addition of a few diacritical marks or accented characters similar to other
@@ -184,6 +186,130 @@ is chanted in various countries including Sri Lanka, Myanmar and Thailand.&lt;/p
 &lt;h4 class="alert-heading">Reference&lt;/h4>
 &lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/alphabet/">&lt;strong>B: The Pāli Alphabet&lt;/strong>&lt;/a>
 &lt;/div>
+&lt;h2 id="pali-sentence-structure">Pali sentence structure&lt;/h2>
+&lt;p>A Pali sentence (&lt;code>vākya&lt;/code>) or Pali text (&lt;code>pali&lt;/code>) is generally composed of
+multiple words (&lt;code>pada&lt;/code> or &lt;code>vacana&lt;/code>). Since Pali was an oral language,
+punctuation mark and upper/lower case conventions are typically not used,
+although modern editors have sometimes added these to aid reading.&lt;/p>
+&lt;p>Words also do not need to be separated by spaces, although modern Pali editions
+of text do add spaces, to aid reading. Later on, we will find out Pali
+has compound words, which consist of multiple words joined together to create a
+composite word.&lt;/p>
+&lt;p>To be able to distinguish words in a sentence, Pali relies
+heavily on &lt;code>paccaya&lt;/code> (affixes to roots or word stems) to create distinctive
+word endings. Fluent Pali listeners will no doubt listen to the sound of these
+endings to distinguish the words. These endings also give additional meaning
+to the words and indicate how the words are used in a sentence.&lt;/p>
+&lt;p>Because of this, the word order in a Pali sentence is less important than many
+other languages, however there are conventions for how to arrange words in a
+typical sentence. Speakers can unconventionally reorder words, typically to
+give emphasis to certain words or to augment or add nuance to a sentence&amp;rsquo;s
+emotional meaning.&lt;/p>
+&lt;p>This is similar to our reaction when we hear &amp;ldquo;Yoda&amp;rdquo; speak in the &amp;ldquo;Star Wars&amp;rdquo;
+series of films. We appreciate who Yoda is as a personality, and we pay more
+attention to his words simply because of the different order.&lt;/p>
+&lt;h2 id="dhātu-roots">&lt;code>dhātu&lt;/code> (roots)&lt;/h2>
+&lt;p>Fundamentally, all words in Pali are said to be derived from one or more &lt;code>dhātu&lt;/code>
+(roots). These roots are similar to Sanskrit roots. Pali can be regarded as
+a simplified version of Sanskrit, however some of the roots may have different
+meanings, or nuances. There are some that say Sanskrit was a &amp;ldquo;holy&amp;rdquo; language
+reserved for priests and members of the holy caste, whereas Pali, along with
+many other Indian languages, was spoken by the common people. The Buddha may
+have spoken in Pali because he wanted to convey his teachings to ordinary
+people, not just privileged members of a particular caste.&lt;/p>
+&lt;p>&lt;code>dhātu&lt;/code> can have 1-3 syllables:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>type&lt;/th>
+&lt;th>example&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>single stem or one-syllable roots&lt;/td>
+&lt;td>&lt;code>vā&lt;/code>&lt;/td>
+&lt;td>to move&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>yā&lt;/code>&lt;/td>
+&lt;td>to go&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>pā&lt;/code>&lt;/td>
+&lt;td>to drink&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>ji&lt;/code>&lt;/td>
+&lt;td>to conquer&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>nī&lt;/code>&lt;/td>
+&lt;td>to carry&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>su&lt;/code>&lt;/td>
+&lt;td>to flow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>bhū&lt;/code>&lt;/td>
+&lt;td>to be&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>dual-word roots&lt;/td>
+&lt;td>&lt;code>gamu&lt;/code>&lt;/td>
+&lt;td>to go&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>paca&lt;/code>&lt;/td>
+&lt;td>to cook&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>vada&lt;/code>&lt;/td>
+&lt;td>to speak&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>multiple-stem or three syllable roots&lt;/td>
+&lt;td>&lt;code>vāyama&lt;/code>&lt;/td>
+&lt;td>to attempt&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>araha&lt;/code>&lt;/td>
+&lt;td>to deserve&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;code>kilisa&lt;/code>&lt;/td>
+&lt;td>to torment&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>A series
+of transformations convert a root into a word by adding &lt;code>paccaya&lt;/code> (affixes).
+Words can also be formed by combining a root with one or more &lt;code>upasagga&lt;/code>
+(prefixes). Multiple &lt;code>upasagga&lt;/code> and different forms of &lt;code>paccaya&lt;/code> can be applied
+to a root before it becomes a word, thus creating multi-syllabic
+words. The result is a word that can be used in a sentence.&lt;/p>
+&lt;p>Altogether there are around 1700 roots in Pali. However, many many words can
+be made from them by attaching &lt;code>upasagga&lt;/code> (prefixes) and various affixes
+(&lt;code>paccaya&lt;/code>). In theory, fresh words can be formed by new combinations of roots
+with different prefixes so the adventurous Pali student can attempt to create
+Pali words for &amp;ldquo;modern&amp;rdquo; terms such as &amp;ldquo;computer&amp;rdquo; or &amp;ldquo;phone&amp;rdquo;.&lt;/p>
+&lt;p>It is not really necessary to memorise the 1700 roots, although it will be
+very useful if the reader chooses to do so. Knowing all the roots and the
+various prefixes and affixes will allow the reader to sometimes (not always)
+&amp;ldquo;guess&amp;rdquo; the meaning of a word not previously encountered, and will also help
+when applying the various transformation rules (see below).&lt;/p>
 &lt;h2 id="sandhi-word-transformations">&lt;code>sandhi&lt;/code> (word transformations)&lt;/h2>
 &lt;p>As Pali is a spoken language, when words are combined to form a sentence,
 changes may occur between words (or sometimes even within a word) to make
@@ -203,7 +329,11 @@ rules governing how such transformations occur.&lt;/p>
 words together, &lt;code>sandhi&lt;/code> typically involves deleting one of the vowels, and
 then either retaining, lengthening or changing the remaining vowel. Sometimes
 the consonant next to the vowel may also be changed.&lt;/p>
-&lt;p>The overall effect is to make the words easier to say as a group.&lt;/p>
+&lt;p>The overall effect is to make the words easier to say as a group. Although
+&lt;code>tatrāyamādi&lt;/code> may seem like a single word because of &lt;code>sandhi&lt;/code>, a listener
+should still regard them as separate words when trying to understand a
+sentence. However, some &lt;code>sandhi&lt;/code> combinations of common words are so often
+encountered they have acquired distinctive meaning as combined words.&lt;/p>
 &lt;p>Another example {11}&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;code>tatra&lt;/code> + &lt;code>abhiratiṁ&lt;/code> + &lt;code>iccheyya&lt;/code>&lt;br>
@@ -218,7 +348,7 @@ and more sentences in Pali, these changes will become easier to recognise.&lt;/p
 &lt;div class="alert alert-light" role="alert">
 &lt;h4 class="alert-heading">Reference&lt;/h4>
 For a summary of the rules, please refer to
-&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/sandhi/">&lt;strong>D: &lt;code>sandhi&lt;/code> Rules&lt;/strong>&lt;/a>
+&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/sandhi/">&lt;strong>E: &lt;code>sandhi&lt;/code> Rules&lt;/strong>&lt;/a>
 {12}-{51}
 &lt;/div>
 &lt;h2 id="nāmā-nouns-52">&lt;code>nāmā&lt;/code> (nouns) {52}&lt;/h2>
@@ -794,7 +924,7 @@ associated with each case, so I would discourage using these terms. They can
 lead to confusion. However, these terms are common in Pali-English dictionaries
 so I encourage you to substitute the case number when you see these terms.&lt;/p>
 &lt;/div>
-&lt;h2 id="0-ālapana-vocative-57">0️⃣ &lt;code>ālapana&lt;/code> (vocative) {57}&lt;/h2>
+&lt;h3 id="0-ālapana-vocative-57">0️⃣ &lt;code>ālapana&lt;/code> (vocative) {57}&lt;/h3>
 &lt;p>English Pali textbooks often refer to a &amp;ldquo;vocative&amp;rdquo; case, but this is not
 recognised as a separate case but a variant of the 1st case. The usual case
 ending &lt;code>si&lt;/code> (for 1st case singular) is instead called &lt;code>ga&lt;/code> but the
@@ -816,7 +946,7 @@ transformation rules are similar to &lt;code>si&lt;/code>.&lt;/p>
 &lt;h2 id="-nipāta-particles">⏏️ &lt;code>nipāta&lt;/code> (particles)&lt;/h2>
 &lt;p>&lt;code>nipāta&lt;/code> means &amp;ldquo;to fall. i.e. to be placed anywhere&amp;rdquo;, and refer to words
 that can be found placed in the beginning, in the middle or at the end of
-sentences and words, but not as prefixes (see below) of the roots.&lt;/p>
+sentences and words, but not usually regarded as prefixes (see below).&lt;/p>
 &lt;p>Generally, the &lt;code>vibhatti&lt;/code> endings of &lt;code>nipāta&lt;/code> words are elided as these words
 are not related to other words in the sentence and therefore do not need to
 be matched with them. {221}&lt;/p>
@@ -1153,16 +1283,36 @@ please refer to
 &lt;h2 id="-samāsa-compound-nouns-316-343">🆎 &lt;code>samāsa&lt;/code> (compound nouns) {316}-{343}&lt;/h2>
 &lt;p>Like German, Pali often combines many nouns to form a compound noun. (TBD)&lt;/p>
 &lt;h2 id="taddhita-affixes-344-405">🔽&lt;code>taddhita&lt;/code> (affixes) {344}-{405}&lt;/h2>
-&lt;p>Various affixes can be added to a noun to create additional words. (TBD)&lt;/p>
-&lt;h2 id="ākhyāta-verbs">&lt;code>ākhyāta&lt;/code> (verbs)&lt;/h2>
+&lt;p>Various affixes can be added to a noun to alter the meaning of words. These
+affixes typically start with &lt;code>ṇ&lt;/code> and can be &lt;code>ṇa&lt;/code>, &lt;code>ṇāyana&lt;/code>, &lt;code>ṇāna&lt;/code>, &lt;code>ṇeyya&lt;/code>,
+&lt;code>ṇi&lt;/code>, &lt;code>ṇava&lt;/code>, &lt;code>ṇera&lt;/code>, &lt;code>ṇika&lt;/code> etc. However, during the transformation, the &lt;code>ṇ&lt;/code>
+is typically elided so what&amp;rsquo;s left are the remainder of the letters, and after
+that the typical noun &lt;code>vibhatti&lt;/code> endings are applied.&lt;/p>
+&lt;p>Compare and contrast with English use of affixes such as &amp;ldquo;-al&amp;rdquo;, &amp;ldquo;-ly&amp;rdquo;, &amp;ldquo;-er&amp;rdquo;,
+&amp;ldquo;-or&amp;rdquo; etc. For example, &amp;ldquo;topic&amp;rdquo; vs &amp;ldquo;topical&amp;rdquo;, &amp;ldquo;true&amp;rdquo; vs &amp;ldquo;truly&amp;rdquo;.&lt;/p>
+&lt;p>In English, &amp;ldquo;navigate&amp;rdquo; is a verb, whereas &amp;ldquo;navigator&amp;rdquo; (with an &amp;ldquo;-or&amp;rdquo; affix) is
+a profession. Similarly, in Pali, &lt;code>nāvā&lt;/code> is &amp;ldquo;boat&amp;rdquo;, &lt;code>nāvā&lt;/code> with &lt;code>ṇika&lt;/code> as an
+affix becomes &lt;code>nāviko&lt;/code> (&amp;ldquo;traveller by boat&amp;rdquo;, or &amp;ldquo;sailor&amp;rdquo;).&lt;/p>
+&lt;p>Words with &lt;code>taddhita&lt;/code> affixes are sometimes not recognised by Pali-English
+dictionaries, since most Pali textbooks do not teach them, and most Pali
+grammars written in English neglect to mention them as well. So it is probably
+worthwhile learning how to recognise &lt;code>taddhita&lt;/code> affixed words and the associated
+meanings.&lt;/p>
+&lt;div class="alert alert-light" role="alert">
+&lt;h4 class="alert-heading">Reference&lt;/h4>
+For a summary of the &lt;code>taddhita&lt;/code> affixes and associated meanings, please refer to
+&lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/taddhita/">&lt;strong>H: &lt;code>taddhita&lt;/code> (affixes)&lt;/strong>&lt;/a>
+{344}-{405}
+&lt;/div>
+&lt;h2 id="ākhyāta-verbs-406-523">&lt;code>ākhyāta&lt;/code> (verbs) {406}-{523}&lt;/h2>
 &lt;p>Like nouns, verbs also have &lt;code>vibhatti&lt;/code> endings affixed to them when used in
 sentences, but the endings are different from those of nouns. These endings
 depend on:&lt;/p>
 &lt;ul>
-&lt;li>voice
+&lt;li>voice {406}-{407}
 &lt;ul>
 &lt;li>🟢 = &lt;code>parassapada&lt;/code> (active)&lt;/li>
-&lt;li>🔵 = &lt;code>attanopada&lt;/code> (middle) - passive, impersonal&lt;/li>
+&lt;li>🔵 = &lt;code>attanopada&lt;/code> (middle) - impersonal&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>number
@@ -1171,27 +1321,28 @@ depend on:&lt;/p>
 &lt;li>👥 = &lt;code>bahuvacana&lt;/code> (plural)&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>person
+&lt;li>person {408}-{412} (if more than one, the last applies)
 &lt;ul>
 &lt;li>🤟 = &lt;code>paṭhama purisa&lt;/code> (first person, equivalent to &amp;rsquo;third person&amp;rsquo; in English)&lt;/li>
 &lt;li>🤘 = &lt;code>majjima purisa&lt;/code> (middle person, equivalent to &amp;lsquo;second person&amp;rsquo; in English)&lt;/li>
 &lt;li>👆 = &lt;code>uttama purisa&lt;/code> (primary person, equivalent to &amp;lsquo;first person&amp;rsquo; in English)&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>tense/mood
+&lt;li>tense/mood {413}-{422}
 &lt;ul>
-&lt;li>▶️ = &lt;code>vattamāna&lt;/code> (present)&lt;/li>
-&lt;li>⏹ = &lt;code>piñcamī&lt;/code> (imperative)&lt;/li>
-&lt;li>⏯ = &lt;code>sattamī&lt;/code> (potential)&lt;/li>
-&lt;li>🔄 = &lt;code>parokkhā&lt;/code> (perfect)&lt;/li>
-&lt;li>↩️ = &lt;code>hiyyattanī&lt;/code> (imperfect)&lt;/li>
+&lt;li>▶️ = &lt;code>vattamāna&lt;/code> (present)*&lt;/li>
+&lt;li>⏹ = &lt;code>piñcamī&lt;/code> (imperative) - (used to express) āṇatti (command), āsīsa (wish) at a non-specific time-frame mode (anuttakāla)*&lt;/li>
+&lt;li>⏯ = &lt;code>sattamī&lt;/code> (potential/optative)*&lt;/li>
+&lt;li>🔄 = &lt;code>parokkhā&lt;/code> (past perfect)&lt;/li>
+&lt;li>↩️ = &lt;code>hiyyattanī&lt;/code> (past imperfect)*&lt;/li>
 &lt;li>⏮ = &lt;code>ajjatanī&lt;/code>(aorist)&lt;/li>
 &lt;li>⏭ = &lt;code>bhavissanti&lt;/code> (future)&lt;/li>
 &lt;li>🔀 = &lt;code>kālātipatti&lt;/code> (conditional)&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h3 id="verb-terminations">verb terminations&lt;/h3>
+&lt;p>* collectively referred to as &lt;code>sabbadhātuka vibhatti&lt;/code>&lt;/p>
+&lt;h3 id="verb-terminations-423-430">verb terminations {423}-{430}&lt;/h3>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -1246,7 +1397,7 @@ depend on:&lt;/p>
 &lt;td style="text-align:center">&lt;code>ti&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>anti&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>si&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>hta&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>tha&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>mi&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ma&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>te&lt;/code>&lt;/td>
@@ -1363,7 +1514,1240 @@ depend on:&lt;/p>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>(TBD: incomplete)&lt;/p>
+&lt;p>Here is an example of the root &lt;code>gamu&lt;/code> (to go) with all the verb endings applied.
+A number of transformations need to happen prior to affixing the &lt;code>vibhatti&lt;/code>:&lt;/p>
+&lt;p>gamu&lt;br>
+=&amp;gt; gam&lt;del>u&lt;/del> (elision of final vowel per rule {521})&lt;br>
+=&amp;gt; gam&lt;del>m&lt;/del>(cch) (m&amp;ndash;&amp;gt;cch per rule {476})&lt;br>
+= gacch&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">voice&lt;/th>
+&lt;th style="text-align:center">number&lt;/th>
+&lt;th style="text-align:center">person&lt;/th>
+&lt;th style="text-align:center">tense&lt;/th>
+&lt;th style="text-align:center">ending&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th style="text-align:center">rule&lt;/th>
+&lt;th>result&lt;/th>
+&lt;th>irregulars&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">▶️&lt;/td>
+&lt;td style="text-align:center">&lt;code>ti&lt;/code>&lt;/td>
+&lt;td>gacch + a + ti&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchati&lt;/code>&lt;/td>
+&lt;td>&lt;code>gacche&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">▶️&lt;/td>
+&lt;td style="text-align:center">&lt;code>anti&lt;/code>&lt;/td>
+&lt;td>gacch + anti&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gacchanti&lt;/code>&lt;/td>
+&lt;td>&lt;code>gacchare&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">▶️&lt;/td>
+&lt;td style="text-align:center">&lt;code>si&lt;/code>&lt;/td>
+&lt;td>gacch + a + si&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchasi&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">▶️&lt;/td>
+&lt;td style="text-align:center">&lt;code>tha&lt;/code>&lt;/td>
+&lt;td>gacch + a + tha&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchatha&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">▶️&lt;/td>
+&lt;td style="text-align:center">&lt;code>mi&lt;/code>&lt;/td>
+&lt;td>gacch + ā + mi&lt;/td>
+&lt;td style="text-align:center">{478}&lt;/td>
+&lt;td>&lt;code>gacchāmi&lt;/code>&lt;/td>
+&lt;td>&lt;code>gacche&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">▶️&lt;/td>
+&lt;td style="text-align:center">&lt;code>ma&lt;/code>&lt;/td>
+&lt;td>gacch + ā + ma&lt;/td>
+&lt;td style="text-align:center">{478}&lt;/td>
+&lt;td>&lt;code>gacchāma&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">▶️&lt;/td>
+&lt;td style="text-align:center">&lt;code>te&lt;/code>&lt;/td>
+&lt;td>gacch + a + te&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchate&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">▶️&lt;/td>
+&lt;td style="text-align:center">&lt;code>ante&lt;/code>&lt;/td>
+&lt;td>gacch + ante&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gacchante&lt;/code>&lt;/td>
+&lt;td>&lt;code>gacchare&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">▶️&lt;/td>
+&lt;td style="text-align:center">&lt;code>se&lt;/code>&lt;/td>
+&lt;td>gacch + a + se&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchase&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">▶️&lt;/td>
+&lt;td style="text-align:center">&lt;code>vhe&lt;/code>&lt;/td>
+&lt;td>gacch + a + vhe&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchavhe&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">▶️&lt;/td>
+&lt;td style="text-align:center">&lt;code>e&lt;/code>&lt;/td>
+&lt;td>gacch + e&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gacche&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">▶️&lt;/td>
+&lt;td style="text-align:center">&lt;code>mhe&lt;/code>&lt;/td>
+&lt;td>gacch + ā + mhe&lt;/td>
+&lt;td style="text-align:center">{478}&lt;/td>
+&lt;td>&lt;code>gacchāmhe&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏹&lt;/td>
+&lt;td style="text-align:center">&lt;code>tu&lt;/code>&lt;/td>
+&lt;td>gacch + a + tu&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchatu&lt;/code>&lt;/td>
+&lt;td>&lt;code>gacche&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏹&lt;/td>
+&lt;td style="text-align:center">&lt;code>antu&lt;/code>&lt;/td>
+&lt;td>gacch + antu&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gacchantu&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏹&lt;/td>
+&lt;td style="text-align:center">&lt;code>hi&lt;/code>&lt;/td>
+&lt;td>gacch + ā + hi&lt;/td>
+&lt;td style="text-align:center">{478}&lt;/td>
+&lt;td>&lt;code>gacchāhi&lt;/code>&lt;/td>
+&lt;td>&lt;code>gaccha&lt;/code> {479}, &lt;code>gacchassu&lt;/code> {571}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏹&lt;/td>
+&lt;td style="text-align:center">&lt;code>tha&lt;/code>&lt;/td>
+&lt;td>gacch + a + tha&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchatha&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏹&lt;/td>
+&lt;td style="text-align:center">&lt;code>mi&lt;/code>&lt;/td>
+&lt;td>gacch + ā + mi&lt;/td>
+&lt;td style="text-align:center">{478}&lt;/td>
+&lt;td>&lt;code>gacchāmi&lt;/code>&lt;/td>
+&lt;td>&lt;code>gacche&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏹&lt;/td>
+&lt;td style="text-align:center">&lt;code>ma&lt;/code>&lt;/td>
+&lt;td>gacch + ā + ma&lt;/td>
+&lt;td style="text-align:center">{478}&lt;/td>
+&lt;td>&lt;code>gacchāma&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏹&lt;/td>
+&lt;td style="text-align:center">&lt;code>taṁ&lt;/code>&lt;/td>
+&lt;td>gacch + a + taṁ&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchataṁ&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏹&lt;/td>
+&lt;td style="text-align:center">&lt;code>antaṁ&lt;/code>&lt;/td>
+&lt;td>gacch + antaṁ&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gacchantaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏹&lt;/td>
+&lt;td style="text-align:center">&lt;code>etha&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssu&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassu&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏹&lt;/td>
+&lt;td style="text-align:center">&lt;code>vho&lt;/code>&lt;/td>
+&lt;td>gacch + a + vho&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchavho&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏹&lt;/td>
+&lt;td style="text-align:center">&lt;code>e&lt;/code>&lt;/td>
+&lt;td>gacch + e&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gacche&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏹&lt;/td>
+&lt;td style="text-align:center">&lt;code>āmase&lt;/code>&lt;/td>
+&lt;td>gacch + āmase&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gacchāmase&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏯&lt;/td>
+&lt;td style="text-align:center">&lt;code>eyya&lt;/code>&lt;/td>
+&lt;td>gacch + eyya&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gaccheyya&lt;/code>&lt;/td>
+&lt;td>&lt;code>gacche&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏯&lt;/td>
+&lt;td style="text-align:center">&lt;code>eyyuṁ&lt;/code>&lt;/td>
+&lt;td>gacch + eyyuṁ&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gaccheyyuṁ&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏯&lt;/td>
+&lt;td style="text-align:center">&lt;code>eyyāsi&lt;/code>&lt;/td>
+&lt;td>gacch + eyyāsi&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gaccheyyāsi&lt;/code>&lt;/td>
+&lt;td>&lt;code>gacche&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏯&lt;/td>
+&lt;td style="text-align:center">&lt;code>eyyātha&lt;/code>&lt;/td>
+&lt;td>gacch + eyyātha&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gaccheyyātha&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏯&lt;/td>
+&lt;td style="text-align:center">&lt;code>eyyāmi&lt;/code>&lt;/td>
+&lt;td>gacch + eyyāmi&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gaccheyyāmi&lt;/code>&lt;/td>
+&lt;td>&lt;code>gacche&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏯&lt;/td>
+&lt;td style="text-align:center">&lt;code>eyyāma&lt;/code>&lt;/td>
+&lt;td>gacch + eyyāma&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gaccheyyāma&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏯&lt;/td>
+&lt;td style="text-align:center">&lt;code>etha&lt;/code>&lt;/td>
+&lt;td>gacch + etha&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gacchetha&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏯&lt;/td>
+&lt;td style="text-align:center">&lt;code>eraṁ&lt;/code>&lt;/td>
+&lt;td>gacch + eraṁ&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gaccheraṁ&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏯&lt;/td>
+&lt;td style="text-align:center">&lt;code>etho&lt;/code>&lt;/td>
+&lt;td>gacch + etho&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gacchetho&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏯&lt;/td>
+&lt;td style="text-align:center">&lt;code>eyyāvho&lt;/code>&lt;/td>
+&lt;td>gacch + eyyāvho&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gaccheyyāvho&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏯&lt;/td>
+&lt;td style="text-align:center">&lt;code>eyaṁ&lt;/code>&lt;/td>
+&lt;td>gacch + eyaṁ&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gaccheyaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>gacche&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏯&lt;/td>
+&lt;td style="text-align:center">&lt;code>eyaṁhe&lt;/code>&lt;/td>
+&lt;td>gacch + eyaṁhe&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gaccheyaṁhe&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">🔄&lt;/td>
+&lt;td style="text-align:center">&lt;code>a&lt;/code>&lt;/td>
+&lt;td>gacch + a&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gaccha&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">🔄&lt;/td>
+&lt;td style="text-align:center">&lt;code>u&lt;/code>&lt;/td>
+&lt;td>gacch + u&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gacchu&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">🔄&lt;/td>
+&lt;td style="text-align:center">&lt;code>e&lt;/code>&lt;/td>
+&lt;td>gacch + e&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gacche&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">🔄&lt;/td>
+&lt;td style="text-align:center">&lt;code>ttha&lt;/code>&lt;/td>
+&lt;td>gacch + a + ttha&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchattha&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">🔄&lt;/td>
+&lt;td style="text-align:center">&lt;code>aṁ&lt;/code>&lt;/td>
+&lt;td>gacch + aṁ&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gacchaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">🔄&lt;/td>
+&lt;td style="text-align:center">&lt;code>mha&lt;/code>&lt;/td>
+&lt;td>gacch + ā + mha&lt;/td>
+&lt;td style="text-align:center">{478}&lt;/td>
+&lt;td>&lt;code>gacchāmha&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">🔄&lt;/td>
+&lt;td style="text-align:center">&lt;code>ttha&lt;/code>&lt;/td>
+&lt;td>gacch + a + ttha&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchattha&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">🔄&lt;/td>
+&lt;td style="text-align:center">&lt;code>re&lt;/code>&lt;/td>
+&lt;td>gacch + a + re&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchare&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">🔄&lt;/td>
+&lt;td style="text-align:center">&lt;code>ttho&lt;/code>&lt;/td>
+&lt;td>gacch + a + ttho&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchattho&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">🔄&lt;/td>
+&lt;td style="text-align:center">&lt;code>vho&lt;/code>&lt;/td>
+&lt;td>gacch + a + vho&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchavho&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">🔄&lt;/td>
+&lt;td style="text-align:center">&lt;code>iṁ&lt;/code>&lt;/td>
+&lt;td>gacch + iṁ&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gacchiṁ&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">🔄&lt;/td>
+&lt;td style="text-align:center">&lt;code>mhe&lt;/code>&lt;/td>
+&lt;td>gacch + ā + mhe&lt;/td>
+&lt;td style="text-align:center">{478}&lt;/td>
+&lt;td>&lt;code>gacchāmhe&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">↩️&lt;/td>
+&lt;td style="text-align:center">&lt;code>ā&lt;/code>&lt;/td>
+&lt;td>a + gacch + ā&lt;/td>
+&lt;td style="text-align:center">{519}&lt;/td>
+&lt;td>&lt;code>agacchā&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">↩️&lt;/td>
+&lt;td style="text-align:center">&lt;code>ū&lt;/code>&lt;/td>
+&lt;td>a + gacch + ū&lt;/td>
+&lt;td style="text-align:center">{519}&lt;/td>
+&lt;td>&lt;code>agacchū&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">↩️&lt;/td>
+&lt;td style="text-align:center">&lt;code>o&lt;/code>&lt;/td>
+&lt;td>gacch + o&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gaccho&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">↩️&lt;/td>
+&lt;td style="text-align:center">&lt;code>ttha&lt;/code>&lt;/td>
+&lt;td>gacch + a + ttha&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchattha&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">↩️&lt;/td>
+&lt;td style="text-align:center">&lt;code>iṁ&lt;/code>&lt;/td>
+&lt;td>gacch + iṁ&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gacchiṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>agacchiṁ&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">↩️&lt;/td>
+&lt;td style="text-align:center">&lt;code>mhā&lt;/code>&lt;/td>
+&lt;td>gacch + ā + mhā&lt;/td>
+&lt;td style="text-align:center">{478}&lt;/td>
+&lt;td>&lt;code>gacchāmhā&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">↩️&lt;/td>
+&lt;td style="text-align:center">&lt;code>ttha&lt;/code>&lt;/td>
+&lt;td>gacch + a + ttha&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchattha&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">↩️&lt;/td>
+&lt;td style="text-align:center">&lt;code>tthuṁ&lt;/code>&lt;/td>
+&lt;td>gacch + a + tthuṁ&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchatthuṁ&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">↩️&lt;/td>
+&lt;td style="text-align:center">&lt;code>se&lt;/code>&lt;/td>
+&lt;td>gacch + a + se&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchase&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">↩️&lt;/td>
+&lt;td style="text-align:center">&lt;code>vhaṁ&lt;/code>&lt;/td>
+&lt;td>gacch + a + vhaṁ&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchavhaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">↩️&lt;/td>
+&lt;td style="text-align:center">&lt;code>iṁ&lt;/code>&lt;/td>
+&lt;td>gacch + iṁ&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gacchiṁ&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">↩️&lt;/td>
+&lt;td style="text-align:center">&lt;code>mhase&lt;/code>&lt;/td>
+&lt;td>gacch + ā + mhase&lt;/td>
+&lt;td style="text-align:center">{478}&lt;/td>
+&lt;td>&lt;code>gacchāmhase&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏮&lt;/td>
+&lt;td style="text-align:center">&lt;code>ī&lt;/code>&lt;/td>
+&lt;td>a + gacch + ī&lt;/td>
+&lt;td style="text-align:center">{519}&lt;/td>
+&lt;td>&lt;code>agacchī&lt;/code>&lt;/td>
+&lt;td>&lt;code>gacchī&lt;/code>, &lt;code>agacchi&lt;/code>, &lt;code>gacchi&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏮&lt;/td>
+&lt;td style="text-align:center">&lt;code>uṁ&lt;/code>&lt;/td>
+&lt;td>gacch + uṁ&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>agacchuṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>gacchuṁ&lt;/code>, &lt;code>agacchiṁsu&lt;/code>, &lt;code>gacchiṁsu&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏮&lt;/td>
+&lt;td style="text-align:center">&lt;code>o&lt;/code>&lt;/td>
+&lt;td>gacch + o&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gaccho&lt;/code>&lt;/td>
+&lt;td>&lt;code>agaccho&lt;/code>, &lt;code>agaccha&lt;/code>, &lt;code>gaccha&lt;/code>, &lt;code>agacchi&lt;/code>, &lt;code>gacchi&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏮&lt;/td>
+&lt;td style="text-align:center">&lt;code>ttha&lt;/code>&lt;/td>
+&lt;td>gacch + a + ttha&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchattha&lt;/code>&lt;/td>
+&lt;td>&lt;code>agacchattha&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏮&lt;/td>
+&lt;td style="text-align:center">&lt;code>iṁ&lt;/code>&lt;/td>
+&lt;td>gacch + iṁ&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gacchiṁ&lt;/code>&lt;/td>
+&lt;td>&lt;code>agacchiṁ&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏮&lt;/td>
+&lt;td style="text-align:center">&lt;code>mhā&lt;/code>&lt;/td>
+&lt;td>gacch + ā + mhā&lt;/td>
+&lt;td style="text-align:center">{478}&lt;/td>
+&lt;td>&lt;code>gacchāmhā&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏮&lt;/td>
+&lt;td style="text-align:center">&lt;code>ā&lt;/code>&lt;/td>
+&lt;td>a + gacch + ā&lt;/td>
+&lt;td style="text-align:center">{519}&lt;/td>
+&lt;td>&lt;code>agacchā&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏮&lt;/td>
+&lt;td style="text-align:center">&lt;code>ū&lt;/code>&lt;/td>
+&lt;td>a + gacch + ū&lt;/td>
+&lt;td style="text-align:center">{519}&lt;/td>
+&lt;td>&lt;code>agacchū&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏮&lt;/td>
+&lt;td style="text-align:center">&lt;code>se&lt;/code>&lt;/td>
+&lt;td>gacch + a + se&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchase&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏮&lt;/td>
+&lt;td style="text-align:center">&lt;code>vhaṁ&lt;/code>&lt;/td>
+&lt;td>gacch + a + vhaṁ&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchavhaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏮&lt;/td>
+&lt;td style="text-align:center">&lt;code>aṁ&lt;/code>&lt;/td>
+&lt;td>gacch + aṁ&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>gacchaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏮&lt;/td>
+&lt;td style="text-align:center">&lt;code>mhe&lt;/code>&lt;/td>
+&lt;td>gacch + ā + mhe&lt;/td>
+&lt;td style="text-align:center">{478}&lt;/td>
+&lt;td>&lt;code>gacchāmhe&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssati&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssati&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassati&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssanti&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssanti&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassanti&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssasi&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssasi&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassasi&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssatha&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssatha&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassatha&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssāmi&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssāmi&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassāmi&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssāma&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssāma&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassāma&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssate&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssate&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassate&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssante&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssante&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassante&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssase&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssase&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassase&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssavhe&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssavhe&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassavhe&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssaṁ&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssaṁ&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssāmhe&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssāmhe&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassāmhe&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssā&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssā&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassā&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssaṁsu&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssaṁsu&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassaṁsu&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>sse&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssase&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassase&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssatha&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssatha&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassatha&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssaṁ&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssaṁ&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🟢&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssāmhā&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssāmhā&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassāmhā&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssata&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssata&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassata&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤟&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssiṁsu&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssiṁsu&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassiṁsu&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssase&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssase&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassase&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">🤘&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssavhe&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssavhe&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassavhe&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssaṁ&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssaṁ&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassaṁ&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">🔵&lt;/td>
+&lt;td style="text-align:center">👆&lt;/td>
+&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⏭&lt;/td>
+&lt;td style="text-align:center">&lt;code>ssāmhase&lt;/code>&lt;/td>
+&lt;td>gacch + a + ssāmhase&lt;/td>
+&lt;td style="text-align:center">{445}&lt;/td>
+&lt;td>&lt;code>gacchassāmhase&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Note that some of the terminations are the same so in practice we will need
+to distinguish which tense is being used from context. Note also the irregular
+forms, particularly the aorist ones. The irregular aorists tend to be more
+commonly used than the regular forms.&lt;/p>
+&lt;h3 id="voices">Voices&lt;/h3>
+&lt;p>Like Sanskrit, Pali supports 3 different ways of expressing sentences, based on
+the &amp;ldquo;voice&amp;rdquo;:&lt;/p>
+&lt;ol>
+&lt;li>the active voice (&lt;code>kattu&lt;/code>)&lt;/li>
+&lt;li>the passive voice (&lt;code>kamma&lt;/code>)&lt;/li>
+&lt;li>the impersonal voice (&lt;code>bhāva&lt;/code>)&lt;/li>
+&lt;/ol>
+&lt;p>However, in Pali literature, &lt;code>bhāva&lt;/code> (middle, or impersonal, voice) is seldom
+used, probably because most of the literature is based on the Buddha (or a
+disciple) &amp;ldquo;speaking&amp;rdquo; to a group of monks, which has then been transformed into
+a structure suitable for memorisation and chanting.&lt;/p>
+&lt;h3 id="ākhyāta-examples">&lt;code>ākhyāta&lt;/code> examples&lt;/h3>
+&lt;h4 id="-vattamāna-414">▶️ &lt;code>vattamāna&lt;/code> {414}&lt;/h4>
+&lt;p>(used to express actions or events which occur) at the present&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;code>pāṭaliputtaṁ gacchati&lt;/code>&lt;/p>
+&lt;/blockquote>
+&lt;p>Pāṭaliputta (city) / he goes&lt;br>
+&lt;em>He goes to Pāṭaliputta.&lt;/em>*&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;code>sāvatthiṁ pavisati&lt;/code>&lt;/p>
+&lt;/blockquote>
+&lt;p>Sāvatthi (city) / he enters&lt;br>
+&lt;em>He enters Sāvatthi.&lt;/em>&lt;/p>
+&lt;h4 id="-piñcamī-415">⏹ &lt;code>piñcamī&lt;/code> {415}&lt;/h4>
+&lt;p>(used to express)&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>āṇatti&lt;/code> (command)&lt;/li>
+&lt;li>&lt;code>āsīsa&lt;/code> (wish)&lt;/li>
+&lt;/ul>
+&lt;p>at a non-specific time-frame mode (&lt;code>anuttakāla&lt;/code>)&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;code>karotu kusalaṁ&lt;/code>&lt;/p>
+&lt;/blockquote>
+&lt;p>do / meritorious deed&lt;br>
+&lt;em>(Please) do meritorious deed.&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;code>sukhaṁ te hotu&lt;/code>&lt;/p>
+&lt;/blockquote>
+&lt;p>happiness / for you / be&lt;br>
+&lt;em>May you be happy.&lt;/em>&lt;/p>
+&lt;h4 id="-sattamī-416">⏯ &lt;code>sattamī&lt;/code> {416}&lt;/h4>
+&lt;p>(to express)&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>anumati&lt;/code> (permission)&lt;/li>
+&lt;li>&lt;code>parikappa&lt;/code> (thought)&lt;/li>
+&lt;/ul>
+&lt;p>at a non-specific time (&lt;code>anuttakāla&lt;/code>).&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;code>tvaṁ gaccheyyāsi&lt;/code>
+you / can go
+&lt;em>You can go.&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;code>kima’haṁ kareyyāmi&lt;/code>&lt;br>
+what I (&lt;code>kiṁ&lt;/code> + &lt;code>ahaṁ&lt;/code>) / shoud do&lt;br>
+&lt;em>What should I do?&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="-parokkhā-417">🔄 &lt;code>parokkhā&lt;/code> {417}&lt;/h4>
+&lt;div class="alert alert-secondary" role="alert">
+&lt;h4 class="alert-heading">Note&lt;/h4>
+&lt;code>paro’kkhā&lt;/code> = &lt;code>para&lt;/code> + &lt;code>akkha&lt;/code>&lt;br>
+beyond (ie. past) / physical senses
+&lt;/div>
+&lt;p>(to be applied to express things happened in one’s absence, in a situation where
+the speaker is not a witness to) at a past time-frame mode (&lt;code>atīta&lt;/code> - past).&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;code>supine kila’māha&lt;/code>&lt;/p>
+&lt;/blockquote>
+&lt;p>in the dream / apparently / (he) said (&lt;code>kila&lt;/code> + &lt;code>āha&lt;/code>)&lt;br>
+&lt;em>(He is supposed to have) said.&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;code>evaṁ kila porāṇā’hu&lt;/code>&lt;/p>
+&lt;/blockquote>
+&lt;p>thus / apparently / ancient sages / said (&lt;code>porāṇā&lt;/code> + &lt;code>āhu&lt;/code>)&lt;br>
+&lt;em>Ancient sages are supposed to have said thus.&lt;/em>&lt;/p>
+&lt;div class="alert alert-secondary" role="alert">
+&lt;h4 class="alert-heading">Note&lt;/h4>
+&lt;code>kila&lt;/code> is a &lt;code>nipāta&lt;/code> (particle) used in indirect hearsay where the speaker is
+uncertain of the truthfulness of what he heard or not a witness to the actual
+event occurred. Sometimes it means an asseveration or an emphasis.
+&lt;/div>
+&lt;h4 id="-hiyyattanī-418">↩️ &lt;code>hiyyattanī&lt;/code> {418}&lt;/h4>
+&lt;p>(used to express events that took place) in past time (yesterday or before),
+either being witnessed or not witnessed (by the speaker)&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;code>so agamā maggaṁ&lt;/code>&lt;/p>
+&lt;/blockquote>
+&lt;p>he / went / road&lt;br>
+&lt;em>He went along the road.&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;code>te agamū maggaṁ&lt;/code>&lt;/p>
+&lt;/blockquote>
+&lt;p>they / went / road&lt;br>
+&lt;em>They went along the road.&lt;/em>&lt;/p>
+&lt;div class="alert alert-secondary" role="alert">
+&lt;h4 class="alert-heading">Note&lt;/h4>
+&lt;p>&lt;code>mā&lt;/code> is a &lt;code>nipāta&lt;/code> (particle) used to indicate negation, and is typically
+associated with verbs with &lt;code>hiyyattanī&lt;/code> endings, but the verb is not associated
+with the past (or any other) tense. {420}&lt;/p>
+&lt;blockquote>
+&lt;p>mā gamā&lt;/p>
+&lt;/blockquote>
+&lt;p>do not / gone&lt;br>
+&lt;em>Do not go.&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>mā vacā&lt;/p>
+&lt;/blockquote>
+&lt;p>do not / said&lt;br>
+&lt;em>Do not say.&lt;/em>&lt;/p>
+&lt;/div>
+&lt;h4 id="-ajjatanī-419">⏮ &lt;code>ajjatanī&lt;/code> {419}&lt;/h4>
+&lt;p>(used to express things happened) in the near past starting from today, either
+being witnessed or not witnessed (by the speaker)&lt;/p>
+&lt;blockquote>
+&lt;p>so maggaṁ agamī&lt;/p>
+&lt;/blockquote>
+&lt;p>he / road / gone&lt;br>
+&lt;em>He has (just) gone along the road.&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>te maggaṁ agamuṁ
+they / road / gone&lt;br>
+&lt;em>They have (just) gone along the road.&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="-bhavissanti-421">⏭ &lt;code>bhavissanti&lt;/code> {421}&lt;/h4>
+&lt;p>(to be used) in the (ex- pression of) future&lt;/p>
+&lt;blockquote>
+&lt;p>so gacchissati, karissati&lt;/p>
+&lt;/blockquote>
+&lt;p>he / will go / will do&lt;br>
+&lt;em>He will go, will do.&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>te gacchissanti, karissanti&lt;/p>
+&lt;/blockquote>
+&lt;p>they / will go / will do&lt;br>
+&lt;em>They will go, will do.&lt;/em>&lt;/p>
+&lt;h4 id="-kālātipatti-422">🔀 &lt;code>kālātipatti&lt;/code> {422}&lt;/h4>
+&lt;p>(to be used) in (the expression of) an action that was past (without being
+materialised due to adverse conditions or lack of the supporting causes)&lt;/p>
+&lt;blockquote>
+&lt;p>so ce taṁ yānaṁ alabhissā, agacchissā&lt;/p>
+&lt;/blockquote>
+&lt;p>he / if / that / vehicle / should have got / might have gone already&lt;br>
+&lt;em>If he had gotten that vehicle, he might have gone already.&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>te ce taṁ yānaṁ alabhissaṁsu, agacchissaṁsu&lt;/p>
+&lt;/blockquote>
+&lt;p>they / if / that / vehicle / should have got / might have gone already&lt;br>
+&lt;em>If they had gotten that vehicle, they might have gone already.&lt;/em>&lt;/p>
+&lt;p>TBD&lt;/p>
 &lt;h2 id="-kibbidhāna-kita-affixed-nouns-524-623">🔽 &lt;code>kibbidhāna&lt;/code> (&lt;code>kita&lt;/code>-affixed nouns) {524}-{623}&lt;/h2>
 &lt;p>This is a class of words which are verbs transformed into nouns through the
 addition of suffixes and typically
@@ -1610,7 +2994,61 @@ from thief / fear / arises&lt;br>
 &lt;p>🚹👤5️⃣🆎(ācariya+upajjhāya) 🚺👤2️⃣(sikkhaṁ) 👤(🟢🤟▶️(gaṇhāti) 🚹1️⃣(sisso))&lt;br>
 teacher and preceptor / lesson / takes / pupil&lt;br>
 &lt;em>The pupil takes lesson from the teacher/preceptor.&lt;/em>&lt;/p>
-&lt;p>(TBD: incomplete)&lt;/p></description></item><item><title>Docs: A: Symbols used in this Book</title><link>https://christham.net/buddhavacana/docs/palibook/symbols/</link><pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/symbols/</guid><description>
+&lt;p>(TBD: incomplete)&lt;/p></description></item><item><title>Docs: 3: Awakening</title><link>https://christham.net/buddhavacana/docs/palibook/awakening/</link><pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/awakening/</guid><description>
+&lt;div class="alert alert-primary" role="alert">
+Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
+&lt;/div>
+&lt;h2 id="paṭhamabodhisutta">Paṭhamabodhisutta&lt;/h2>
+&lt;blockquote>
+&lt;p>Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā uruvelāyaṁ viharati najjā nerañjarāya tīre bodhirukkhamūle paṭhamābhisambuddho. Tena kho pana samayena bhagavā sattāhaṁ ekapallaṅkena nisinno hoti vimuttisukhapaṭisaṁvedī. Atha kho bhagavā tassa sattāhassa accayena tamhā samādhimhā vuṭṭhahitvā rattiyā paṭhamaṁ yāmaṁ paṭiccasamuppādaṁ anulomaṁ sādhukaṁ manasākāsi:&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>“Iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati, yadidaṁ— avijjāpaccayā saṅkhārā, saṅkhārapaccayā viññāṇaṁ, viññāṇapaccayā nāmarūpaṁ, nāmarūpapaccayā saḷāyatanaṁ, saḷāyatanapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṁ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti. Evametassa kevalassa dukkhakkhandhassa samudayo hotī”ti.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi:&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>“Yadā have pātubhavanti dhammā,&lt;br>
+Ātāpino jhāyato brāhmaṇassa;&lt;br>
+Athassa kaṅkhā vapayanti sabbā,&lt;br>
+Yato pajānāti sahetudhamman”ti.&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="dutiyabodhisutta">Dutiyabodhisutta&lt;/h2>
+&lt;blockquote>
+&lt;p>Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā uruvelāyaṁ viharati najjā nerañjarāya tīre bodhirukkhamūle paṭhamābhisambuddho. Tena kho pana samayena bhagavā sattāhaṁ ekapallaṅkena nisinno hoti vimuttisukhapaṭisaṁvedī. Atha kho bhagavā tassa sattāhassa accayena tamhā samādhimhā vuṭṭhahitvā rattiyā majjhimaṁ yāmaṁ paṭiccasamuppādaṁ paṭilomaṁ sādhukaṁ manasākāsi:&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>“Iti imasmiṁ asati idaṁ na hoti, imassa nirodhā idaṁ nirujjhati, yadidaṁ— avijjānirodhā saṅkhāranirodho, saṅkhāranirodhā viññāṇanirodho, viññāṇanirodhā nāmarūpanirodho, nāmarūpanirodhā saḷāyatananirodho, saḷāyatananirodhā phassanirodho, phassanirodhā vedanānirodho, vedanānirodhā taṇhānirodho, taṇhānirodhā upādānanirodho, upādānanirodhā bhavanirodho, bhavanirodhā jātinirodho, jātinirodhā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā nirujjhanti. Evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi:&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>“Yadā have pātubhavanti dhammā,&lt;br>
+Ātāpino jhāyato brāhmaṇassa;&lt;br>
+Athassa kaṅkhā vapayanti sabbā,&lt;br>
+Yato khayaṁ paccayānaṁ avedī”ti.&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="tatiyabodhisutta">Tatiyabodhisutta&lt;/h2>
+&lt;blockquote>
+&lt;p>Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā uruvelāyaṁ viharati najjā nerañjarāya tīre bodhirukkhamūle paṭhamābhisambuddho. Tena kho pana samayena bhagavā sattāhaṁ ekapallaṅkena nisinno hoti vimuttisukhapaṭisaṁvedī. Atha kho bhagavā tassa sattāhassa accayena tamhā samādhimhā vuṭṭhahitvā rattiyā pacchimaṁ yāmaṁ paṭiccasamuppādaṁ anulomapaṭilomaṁ sādhukaṁ manasākāsi:&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>“Iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati, imasmiṁ asati idaṁ na hoti, imassa nirodhā idaṁ nirujjhati; yadidaṁ— avijjāpaccayā saṅkhārā, saṅkhārapaccayā viññāṇaṁ, viññāṇapaccayā nāmarūpaṁ, nāmarūpapaccayā saḷāyatanaṁ, saḷāyatanapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṁ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti. Evametassa kevalassa dukkhakkhandhassa samudayo hoti.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Avijjāya tveva asesavirāganirodhā saṅkhāranirodho, saṅkhāranirodhā viññāṇanirodho, viññāṇanirodhā nāmarūpanirodho, nāmarūpanirodhā saḷāyatananirodho, saḷāyatananirodhā phassanirodho, phassanirodhā vedanānirodho, vedanānirodhā taṇhānirodho, taṇhānirodhā upādānanirodho, upādānanirodhā bhavanirodho, bhavanirodhā jātinirodho, jātinirodhā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā nirujjhanti. Evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi:&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>“Yadā have pātubhavanti dhammā,&lt;br>
+Ātāpino jhāyato brāhmaṇassa;&lt;br>
+Vidhūpayaṁ tiṭṭhati mārasenaṁ,&lt;br>
+Sūriyova obhāsayamantalikkhan”ti.&lt;/p>
+&lt;/blockquote></description></item><item><title>Docs: A: Symbols used in this Book</title><link>https://christham.net/buddhavacana/docs/palibook/symbols/</link><pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/symbols/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/div>
@@ -1784,7 +3222,20 @@ Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;td>conditional&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item><item><title>Docs: D: `sandhi` Rules</title><link>https://christham.net/buddhavacana/docs/palibook/sandhi/</link><pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/sandhi/</guid><description>
+&lt;/table></description></item><item><title>Docs: C: Pali Grammar Specification</title><link>https://christham.net/buddhavacana/docs/palibook/grammar/</link><pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/grammar/</guid><description>
+&lt;div class="alert alert-primary" role="alert">
+Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
+&lt;/div>
+&lt;pre class="mermaid">stateDiagram-v2
+direction LR
+[*] --&amp;gt; upasagga
+[*] --&amp;gt; dhātu
+upasagga --&amp;gt; upasagga
+upasagga --&amp;gt; dhātu
+dhātu --&amp;gt; paccaya&lt;/pre></description></item><item><title>Docs: D: `dhātu` (roots)</title><link>https://christham.net/buddhavacana/docs/palibook/roots/</link><pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/roots/</guid><description>
+&lt;div class="alert alert-primary" role="alert">
+Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
+&lt;/div></description></item><item><title>Docs: E: `sandhi` Rules</title><link>https://christham.net/buddhavacana/docs/palibook/sandhi/</link><pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/sandhi/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/div>
@@ -2037,10 +3488,7 @@ Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>(TBD: incomplete)&lt;/p></description></item><item><title>Docs: E: `vibhatti` Rules</title><link>https://christham.net/buddhavacana/docs/palibook/vibhatti/</link><pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/vibhatti/</guid><description>
-&lt;div class="alert alert-primary" role="alert">
-Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
-&lt;/div></description></item><item><title>Docs: F: `upasagga ` meanings</title><link>https://christham.net/buddhavacana/docs/palibook/upasagga/</link><pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/upasagga/</guid><description>
+&lt;p>(TBD: incomplete)&lt;/p></description></item><item><title>Docs: F: `upasagga ` meanings</title><link>https://christham.net/buddhavacana/docs/palibook/upasagga/</link><pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/upasagga/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/div>
@@ -4028,4 +5476,328 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>* &lt;em>(&lt;code>ṁ&lt;/code> becomes &lt;code>m&lt;/code> as it precedes &lt;code>p&lt;/code>)&lt;/em>&lt;/p></description></item></channel></rss>
+&lt;p>* &lt;em>(&lt;code>ṁ&lt;/code> becomes &lt;code>m&lt;/code> as it precedes &lt;code>p&lt;/code>)&lt;/em>&lt;/p></description></item><item><title>Docs: G: `vibhatti` Rules</title><link>https://christham.net/buddhavacana/docs/palibook/vibhatti/</link><pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/vibhatti/</guid><description>
+&lt;div class="alert alert-primary" role="alert">
+Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
+&lt;/div></description></item><item><title>Docs: H: `taddhita` (affixes)</title><link>https://christham.net/buddhavacana/docs/palibook/taddhita/</link><pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/taddhita/</guid><description>
+&lt;div class="alert alert-primary" role="alert">
+Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
+&lt;/div>
+&lt;h2 id="tassāpacca-the-son-or-descendant-of-someone">&lt;code>tassā’pacca&lt;/code> (&amp;ldquo;the son or descendant of someone&amp;rdquo;)&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>sutta&lt;/th>
+&lt;th>phrase&lt;/th>
+&lt;th>word&lt;/th>
+&lt;th>affix&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th>🚹&lt;/th>
+&lt;th>🚺&lt;/th>
+&lt;th>🚻&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>{344}&lt;/td>
+&lt;td>vasiṭṭhassa apaccaṁ vā&lt;/td>
+&lt;td>vasiṭṭha&lt;/td>
+&lt;td>ṇa&lt;/td>
+&lt;td>vasiṭṭh&lt;del>a&lt;/del> + &lt;del>ṇ&lt;/del>a + &lt;del>si&lt;/del> [o/ī/aṁ]&lt;/td>
+&lt;td>vāsiṭṭho&lt;/td>
+&lt;td>vāsiṭṭhī&lt;/td>
+&lt;td>vāsiṭṭhaṁ&lt;/td>
+&lt;td>Vasiṭṭha&amp;rsquo;s son/daughter/clan&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>{345}&lt;/td>
+&lt;td>vacchassa apaccaṁ vā&lt;/td>
+&lt;td>vaccha&lt;/td>
+&lt;td>ṇāyana&lt;/td>
+&lt;td>vasiṭṭh&lt;del>a&lt;/del> + &lt;del>ṇ&lt;/del>āyana + &lt;del>si&lt;/del> [o/ī/aṁ]&lt;/td>
+&lt;td>vacchāyano&lt;/td>
+&lt;td>vacchāyanī&lt;/td>
+&lt;td>vacchāyanaṁ&lt;/td>
+&lt;td>Vaccha&amp;rsquo;s son/daughter/clan&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>{345}&lt;/td>
+&lt;td>vacchassa apaccaṁ vā&lt;/td>
+&lt;td>vaccha&lt;/td>
+&lt;td>ṇāna&lt;/td>
+&lt;td>vasiṭṭh&lt;del>a&lt;/del> + &lt;del>ṇ&lt;/del>āna + &lt;del>si&lt;/del> [o/ī/aṁ]&lt;/td>
+&lt;td>vacchāno&lt;/td>
+&lt;td>vacchānī&lt;/td>
+&lt;td>vacchānaṁ&lt;/td>
+&lt;td>Vaccha&amp;rsquo;s son/daughter/clan&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>sutta&lt;/th>
+&lt;th>phrase&lt;/th>
+&lt;th>word&lt;/th>
+&lt;th>affix&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th>🚹&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>{346}&lt;/td>
+&lt;td>kattikāya apaccaṁ vā&lt;/td>
+&lt;td>kattikā&lt;/td>
+&lt;td>ṇeyya&lt;/td>
+&lt;td>kattik&lt;del>ā&lt;/del> + &lt;del>ṇ&lt;/del>eyya + &lt;del>si&lt;/del> (o)&lt;/td>
+&lt;td>kattikeyyo&lt;/td>
+&lt;td>(a woman) Kattikā&amp;rsquo;s son or descendant&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>{347}&lt;/td>
+&lt;td>dakkhassa apaccaṁ vā&lt;/td>
+&lt;td>dakkha&lt;/td>
+&lt;td>ṇi&lt;/td>
+&lt;td>dakkh&lt;del>a&lt;/del> + &lt;del>ṇ&lt;/del>i + &lt;del>si&lt;/del> (o)&lt;/td>
+&lt;td>dakkhi&lt;/td>
+&lt;td>Dakkha&amp;rsquo;s son or descendant&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>{347}&lt;/td>
+&lt;td>sakyaputtassa apaccaṁ&lt;/td>
+&lt;td>sakyaputta&lt;/td>
+&lt;td>ṇika&lt;/td>
+&lt;td>sakyaputta&lt;del>a&lt;/del> + &lt;del>ṇ&lt;/del>ika + &lt;del>si&lt;/del> (o)&lt;/td>
+&lt;td>sakyaputtiko&lt;/td>
+&lt;td>Sakyaputta&amp;rsquo;s son or descendant&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>{348}&lt;/td>
+&lt;td>upakussa apaccaṁ vā&lt;/td>
+&lt;td>upaku&lt;/td>
+&lt;td>ṇava&lt;/td>
+&lt;td>&lt;del>u&lt;/del>(o)paku&lt;del>a&lt;/del> + &lt;del>ṇ&lt;/del>ava + &lt;del>si&lt;/del> (o)&lt;/td>
+&lt;td>opakavo (u&amp;gt;o vuddhi)&lt;/td>
+&lt;td>Upaku&amp;rsquo;s son or descendant&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>{349}&lt;/td>
+&lt;td>vidhavāya apaccaṁ vā&lt;/td>
+&lt;td>vidhavā&lt;/td>
+&lt;td>ṇera&lt;/td>
+&lt;td>v&lt;del>i&lt;/del>(e)dhav&lt;del>ā&lt;/del> + &lt;del>ṇ&lt;/del>era + &lt;del>si&lt;/del> (o)&lt;/td>
+&lt;td>vedhavero (i&amp;gt;e vuddhi)&lt;/td>
+&lt;td>widow&amp;rsquo;s son or descendant&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="anekattha-nouns-in-affixes-expressive-of-various-meanings">&lt;code>ane’ka’ttha&lt;/code> (Nouns in affixes expressive of various meanings)&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>sutta&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;th>meaning (english)&lt;/th>
+&lt;th>phrase&lt;/th>
+&lt;th>word&lt;/th>
+&lt;th>affix&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th>🚹&lt;/th>
+&lt;th>phrase (english)&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>{350}&lt;/td>
+&lt;td>tilena saṁsaṭṭhaṁ vā&lt;/td>
+&lt;td>“being mixed in as an ingredient”&lt;/td>
+&lt;td>tilena saṁsaṭṭhaṁ bhojanaṁ&lt;/td>
+&lt;td>tila&lt;/td>
+&lt;td>ṇika&lt;/td>
+&lt;td>t&lt;del>i&lt;/del>(e)l&lt;del>a&lt;/del> + &lt;del>ṇ&lt;/del>ika + &lt;del>si&lt;/del> (ṁ)&lt;/td>
+&lt;td>telikaṁ (i&amp;gt;e vuddhi)&lt;/td>
+&lt;td>food mixed with sesame&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>{350}&lt;/td>
+&lt;td>nāvāya tarati vā&lt;/td>
+&lt;td>“mode of crossing a river etc.”&lt;/td>
+&lt;td>nāvāya taratī’ti&lt;/td>
+&lt;td>nāvā&lt;/td>
+&lt;td>ṇika&lt;/td>
+&lt;td>nāv&lt;del>ā&lt;/del> + &lt;del>ṇ&lt;/del>ika + &lt;del>si&lt;/del> (ṁ)&lt;/td>
+&lt;td>nāviko&lt;/td>
+&lt;td>traveler by boat&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>{350}&lt;/td>
+&lt;td>sakaṭena carati vā&lt;/td>
+&lt;td>“mode of travel or practice”&lt;/td>
+&lt;td>sakaṭena caratī’ti&lt;/td>
+&lt;td>nāvā&lt;/td>
+&lt;td>ṇika&lt;/td>
+&lt;td>sakaṭ&lt;del>a&lt;/del> + &lt;del>ṇ&lt;/del>ika + &lt;del>si&lt;/del> (ṁ)&lt;/td>
+&lt;td>sākaṭiko&lt;/td>
+&lt;td>bullock-cart-traveler&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>{350}&lt;/td>
+&lt;td>sīsena vahati vā&lt;/td>
+&lt;td>“mode of carriage”&lt;/td>
+&lt;td>sīsena vahatī’ti&lt;/td>
+&lt;td>sīsa&lt;/td>
+&lt;td>ṇika&lt;/td>
+&lt;td>sīs&lt;del>a&lt;/del> + &lt;del>ṇ&lt;/del>ika + &lt;del>si&lt;/del> (ṁ)&lt;/td>
+&lt;td>sīsiko&lt;/td>
+&lt;td>one who carries (something) on head&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>{350}&lt;/td>
+&lt;td>rājagahe vasati vā&lt;/td>
+&lt;td>other meanings&lt;/td>
+&lt;td>rājagahe vasatī’ti&lt;/td>
+&lt;td>rājagaha&lt;/td>
+&lt;td>ṇika&lt;/td>
+&lt;td>rājagah&lt;del>a&lt;/del> + &lt;del>ṇ&lt;/del>ika + &lt;del>si&lt;/del> (ṁ)&lt;/td>
+&lt;td>rājagahiko&lt;/td>
+&lt;td>resident/native of Rājagaha city&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>{351}&lt;/td>
+&lt;td>vinaya’madhīte vā&lt;/td>
+&lt;td>“learning or subject of study”&lt;/td>
+&lt;td>rvinaya’madhīte&lt;/td>
+&lt;td>vinaya&lt;/td>
+&lt;td>ṇika&lt;/td>
+&lt;td>v&lt;del>i&lt;/del>(e)nay&lt;del>a&lt;/del> + &lt;del>ṇ&lt;/del>ika + &lt;del>si&lt;/del> (ṁ)&lt;/td>
+&lt;td>venayiko (i&amp;gt;e vuddhi)&lt;/td>
+&lt;td>Vinaya-learner. i.e. the student of Vinaya texts&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>{351}&lt;/td>
+&lt;td>kāyena kataṁ kammaṁ vā&lt;/td>
+&lt;td>“modes of action”&lt;/td>
+&lt;td>kāyena kataṁ kammaṁ&lt;/td>
+&lt;td>kāya&lt;/td>
+&lt;td>ṇika&lt;/td>
+&lt;td>kāy&lt;del>a&lt;/del> + &lt;del>ṇ&lt;/del>ika + &lt;del>si&lt;/del> (ṁ)&lt;/td>
+&lt;td>kāyikaṁ&lt;/td>
+&lt;td>bodily action&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>{351}&lt;/td>
+&lt;td>sarīre sannidhānā vā&lt;/td>
+&lt;td>“originated in”&lt;/td>
+&lt;td>sarīre sannidhānā vedanā&lt;/td>
+&lt;td>sarīra&lt;/td>
+&lt;td>ṇika&lt;/td>
+&lt;td>sarīr&lt;del>a&lt;/del> + &lt;del>ṇ&lt;/del>ika + &lt;del>si&lt;/del> (ṁ)&lt;/td>
+&lt;td>sārīrikā&lt;/td>
+&lt;td>the bodily feeling. i.e. bodily pain etc.&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>{351}&lt;/td>
+&lt;td>dvāre niyutto vā&lt;/td>
+&lt;td>“being involved in or related to”&lt;/td>
+&lt;td>dvāre niyutto&lt;/td>
+&lt;td>dvāra&lt;/td>
+&lt;td>ṇika&lt;/td>
+&lt;td>d(o)vār&lt;del>a&lt;/del> + &lt;del>ṇ&lt;/del>ika + &lt;del>si&lt;/del> (ṁ)&lt;/td>
+&lt;td>dovāriko&lt;/td>
+&lt;td>the door-keeper, guard&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>{351}&lt;/td>
+&lt;td>vīṇā assa sippaṁ vā&lt;/td>
+&lt;td>“profession or knowledge”&lt;/td>
+&lt;td>vīṇā assa sippaṁ&lt;/td>
+&lt;td>vīṇā&lt;/td>
+&lt;td>ṇika&lt;/td>
+&lt;td>v&lt;del>ī&lt;/del>(e)ṇ&lt;del>ā&lt;/del> + &lt;del>ṇ&lt;/del>ika + &lt;del>si&lt;/del> (ṁ)&lt;/td>
+&lt;td>veṇiko (i&amp;gt;e vuddhi)&lt;/td>
+&lt;td>the harp-professional, the harpist&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>{351}&lt;/td>
+&lt;td>gandho assa bhaṇḍaṁ vā&lt;/td>
+&lt;td>“merchandise”&lt;/td>
+&lt;td>gandho assa bhaṇḍaṁ&lt;/td>
+&lt;td>gandha&lt;/td>
+&lt;td>ṇika&lt;/td>
+&lt;td>gandh&lt;del>a&lt;/del> + &lt;del>ṇ&lt;/del>ika + &lt;del>si&lt;/del> (ṁ)&lt;/td>
+&lt;td>gandhiko&lt;/td>
+&lt;td>the perfume-trader, perfumer&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>{351}&lt;/td>
+&lt;td>urabbhaṁ hantvā jīvati vā&lt;/td>
+&lt;td>“livelihood”&lt;/td>
+&lt;td>urabbhaṁ hantvā jīvatī’ti&lt;/td>
+&lt;td>urabbha&lt;/td>
+&lt;td>ṇika&lt;/td>
+&lt;td>&lt;del>u&lt;/del>(o)rabbh&lt;del>a&lt;/del> + &lt;del>ṇ&lt;/del>ika + &lt;del>si&lt;/del> (ṁ)&lt;/td>
+&lt;td>orabbhiko (u&amp;gt;o vuddhi)&lt;/td>
+&lt;td>sheep-butcher&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>{351}&lt;/td>
+&lt;td>jālena hato vā&lt;/td>
+&lt;td>&amp;ldquo;mode of killing for a living&amp;rdquo;&lt;/td>
+&lt;td>jālena hato&lt;/td>
+&lt;td>jāla&lt;/td>
+&lt;td>ṇika&lt;/td>
+&lt;td>jāl&lt;del>a&lt;/del> + &lt;del>ṇ&lt;/del>ika + &lt;del>si&lt;/del> (ṁ)&lt;/td>
+&lt;td>jāliko&lt;/td>
+&lt;td>fisherman&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Docs: I: `ākhyāta` (verb endings)</title><link>https://christham.net/buddhavacana/docs/palibook/verbs/</link><pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/verbs/</guid><description>
+&lt;div class="alert alert-primary" role="alert">
+Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
+&lt;/div></description></item><item><title>Docs: J: `kibbidhāna` (`kita` affixes)</title><link>https://christham.net/buddhavacana/docs/palibook/kita/</link><pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/kita/</guid><description>
+&lt;div class="alert alert-primary" role="alert">
+Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
+&lt;/div></description></item></channel></rss>
