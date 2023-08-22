@@ -738,9 +738,9 @@ gamu
 | 🟢 | 🤟 | 👤 | ⏮ | `ī` | a + gacch + ī | {519} | `agacchī` | `gacchī`, `agacchi`, `gacchi` |
 | 🟢 | 🤟 | 👥 | ⏮ | `uṁ` | gacch + uṁ | | `agacchuṁ` | `gacchuṁ`, `agacchiṁsu`, `gacchiṁsu` |
 | 🟢 | 🤘 | 👤 | ⏮ | `o` | gacch + o |  | `gaccho` | `agaccho`, `agaccha`, `gaccha`, `agacchi`, `gacchi` |
-| 🟢 | 🤘 | 👥 | ⏮ | `ttha` | gacch + a + ttha | {445} | `gacchattha` | `agacchattha` |
+| 🟢 | 🤘 | 👥 | ⏮ | `ttha` | gacch + i + ttha | {445} | `gacchittha` | `agacchittha` |
 | 🟢 | 👆 | 👤 | ⏮ | `iṁ` | gacch + iṁ |  | `gacchiṁ` | `agacchiṁ` |
-| 🟢 | 👆 | 👥 | ⏮ | `mhā` | gacch + ā + mhā | {478} | `gacchāmhā` |
+| 🟢 | 👆 | 👥 | ⏮ | `mhā` | gacch + i + mhā | {?} | `gacchimhā` | `agacchimhā`, `gacchimha`, `agacchimha` |
 | 🔵 | 🤟 | 👤 | ⏮ | `ā` | a + gacch + ā | {519} | `agacchā` |
 | 🔵 | 🤟 | 👥 | ⏮ | `ū` | a + gacch + ū | {519} | `agacchū` |
 | 🔵 | 🤘 | 👤 | ⏮ | `se` | gacch + a + se | {445} | `gacchase` |
