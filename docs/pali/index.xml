@@ -862,9 +862,9 @@ pan: false
 - hypothetical future
 - certainty
 - (in the 1st person) determination or decision
-- sace ahaṃ … labhissāmi, saṃvibhajissāmi…
+- `sace ahaṃ … labhissāmi, saṃvibhajissāmi…`
 - Obedience to a law of nature
-- … nikkhipissanti
+- `… nikkhipissanti`
 - literally &amp;#34;will throw down, put down&amp;#34; (the body).
 - all living beings (must/will) die
 - habit (innate or acquired) may also be expressed by the future
@@ -1004,6 +1004,11 @@ vivaṭṭhati --|&amp;gt; vaṭṭa : rūpa
 &lt;td>🚺&lt;/td>
 &lt;td>&lt;code>itthiliṅga&lt;/code>&lt;/td>
 &lt;td>minor (feminine) gender&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⚧&lt;/td>
+&lt;td>&lt;code>sabbaliṅga&lt;/code>&lt;/td>
+&lt;td>all genders&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>👤&lt;/td>
@@ -1155,6 +1160,26 @@ vivaṭṭhati --|&amp;gt; vaṭṭa : rūpa
 &lt;td>&lt;code>kālātipatti&lt;/code>&lt;/td>
 &lt;td>conditional&lt;/td>
 &lt;/tr>
+&lt;tr>
+&lt;td>⏪&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>past participle&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏬&lt;/td>
+&lt;td>&lt;code>missakiriyā&lt;/code>&lt;/td>
+&lt;td>present participle&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏩&lt;/td>
+&lt;td>&lt;code>kicca&lt;/code>&lt;/td>
+&lt;td>future participle&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>⏫&lt;/td>
+&lt;td>&lt;code>pubbakiriyā&lt;/code>&lt;/td>
+&lt;td>gerund (absolutive)&lt;/td>
+&lt;/tr>
 &lt;/tbody>
 &lt;/table>
 &lt;h3 id="equational">Equational&lt;/h3>
@@ -1163,7 +1188,7 @@ class sentence[&amp;#34;devo amanusso hoti&amp;#34;] {
 &amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
 english(The deva is not human)
 }
-namespace equational {
+namespace kattar {
 class devo {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
 🚹👤1️⃣
@@ -1200,7 +1225,7 @@ class cavati {
 english(dies)
 }
 sentence *-- devo : kattar
-sentence *-- cavati: kiriya&lt;/pre>
+sentence *-- cavati: akammaka&lt;/pre>
 &lt;h3 id="transitive-agent-patient-action">Transitive (agent-patient-action)&lt;/h3>
 &lt;pre class="mermaid">classDiagram
 class sentence[&amp;#34;upāsako pattaṃ āharati&amp;#34;] {
@@ -1224,7 +1249,7 @@ english(brings)
 }
 sentence *-- upāsako : kattar
 sentence *-- pattaṃ : kamma
-sentence *-- āharati: kiriya&lt;/pre>
+sentence *-- āharati: sakammaka&lt;/pre>
 &lt;h3 id="bi-transitive-patient-y-patient-x-action">Bi-transitive (patient y-patient x-action)&lt;/h3>
 &lt;pre class="mermaid">classDiagram
 class sentence[&amp;#34;upāsakaṃ brāhmānaṃ dhāreti&amp;#34;] {
@@ -1248,7 +1273,7 @@ english(accepts X as Y)
 }
 sentence *-- upāsakaṃ : kamma y
 sentence *-- brāhmānaṃ : kamma x
-sentence *-- dhāreti: kiriya&lt;/pre>
+sentence *-- dhāreti: dvikammaka&lt;/pre>
 &lt;h3 id="yena--tena">&lt;code>yena&lt;/code> &amp;hellip; &lt;code>tena&lt;/code>&lt;/h3>
 &lt;pre class="mermaid">classDiagram
 class sentence[&amp;#34;yena mahāmatto tena upasaṃkamanti&amp;#34;] {
@@ -1286,4 +1311,1122 @@ sentence *-- upasaṃkamanti: kiriya&lt;/pre>
 &lt;pre class="mermaid">sequenceDiagram
 they -&amp;gt;&amp;gt; place : approach
 place -&amp;gt;&amp;gt; minister : by where
-minister -&amp;gt;&amp;gt; place : by there&lt;/pre></description></item></channel></rss>
+minister -&amp;gt;&amp;gt; place : by there&lt;/pre>
+&lt;h3 id="past-aorist">Past (Aorist)&lt;/h3>
+&lt;p>Historical or &amp;ldquo;narrative&amp;rdquo; past&lt;/p>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;dhammaṃ desesiṃ&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english([I] taught the dhamma)
+}
+class dhammaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(the dhamma)
+}
+class desesiṃ {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤👆⏮
+english([I] taught)
+}
+sentence *-- dhammaṃ : kamma
+sentence *-- desesiṃ: ajjatanī&lt;/pre>
+&lt;h3 id="personal-names">Personal Names&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;Uttaro nāma putto ahosi&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english([There] was a son by name Uttara)
+}
+namespace kamma {
+class Uttaro {
+&amp;lt;&amp;lt;nāmanāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(Uttara)
+}
+class nāma {
+&amp;lt;&amp;lt;avyaya&amp;gt;&amp;gt;
+english(by name)
+}
+class putto {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(son)
+}
+}
+class ahosi {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟⏮
+english(was)
+}
+Uttaro --&amp;gt; nāma
+sentence *-- Uttaro : nāmanāma
+sentence *-- nāma : guṇanāma
+sentence *-- putto : kamma
+sentence *-- ahosi: ajjatanī&lt;/pre>
+&lt;h3 id="agreement-of-verb-and-agent">Agreement of Verb and Agent&lt;/h3>
+&lt;p>When a verb has two or more agents, it usually agrees with the sum of the agents
+and is plural.&lt;/p>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;Reṇu ca rājaputto Jotipālo ca mānavo sahāyā ahesuṃ&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(Prince Reṇu and Jotipāla the Mānava [young priest, descendant of Mānu] were friends)
+}
+namespace kattar1 {
+class Reṇu {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(Reṇu)
+}
+class ca1[&amp;#34;ca&amp;#34;] {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(and)
+}
+class rājaputto {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(prince)
+}
+}
+namespace kattar2 {
+class Jotipālo {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(Jotipāla)
+}
+class ca2[&amp;#34;ca&amp;#34;] {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(and)
+}
+class mānavo {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(mānava)
+}
+}
+class sahāyā {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👥2️⃣
+english(friends)
+}
+class ahesuṃ {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👥🤟⏮
+english(were)
+}
+sentence *-- Reṇu : nāmanāma
+sentence *-- ca1 : samuccaya
+sentence *-- rājaputto : kattar
+sentence *-- Jotipālo : nāmanāma
+sentence *-- ca2 : samuccaya
+sentence *-- mānavo : kattar
+sentence *-- sahāyā : kamma
+sentence *-- ahesuṃ: kiriya&lt;/pre>
+&lt;h3 id="personal-pronouns">Personal pronouns&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;ahaṃ asmi brahmā issaro&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(I am the Lord God)
+}
+class ahaṃ {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+⚧👤1️⃣👆
+english(I)
+}
+class asmi {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤👆▶️
+english([I] am)
+}
+namespace kamma {
+class brahmā {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(God)
+}
+class issaro {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(Lord)
+}
+}
+sentence *-- ahaṃ : kattar
+sentence *-- asmi: kiriya
+sentence *-- brahmā : kamma
+sentence *-- issaro : kamma&lt;/pre>
+&lt;h3 id="anaphoric-demonstrative-pronoun">&amp;ldquo;Anaphoric&amp;rdquo; demonstrative pronoun&lt;/h3>
+&lt;p>&amp;ldquo;that&amp;rdquo;, &amp;ldquo;it&amp;rdquo;: Refers back to someone or something previously mentioned in a
+narrative.&lt;/p>
+&lt;p>Pronoun of absence: speak of someone or something in a story and therefore not
+present to the listeners.&lt;/p>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;mayaṃ taṃ bhagavantaṃ avocuṃha&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(We said that to the Blessed One)
+}
+class mayaṃ {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+⚧👥1️⃣👆
+english(We)
+}
+class taṃ {
+&amp;lt;&amp;lt;niyamita&amp;gt;&amp;gt;
+⚧👤🤟2️⃣
+english(that)
+}
+class bhagavantaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(Blessed One)
+}
+class avocuṃha {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👥👆⏮
+english(said)
+}
+sentence *-- mayaṃ : kattar
+sentence *-- taṃ : niyamita
+sentence *-- bhagavantaṃ : kamma
+sentence *-- avocuṃha: dvikammaka&lt;/pre>
+&lt;h3 id="diectic-demonstrative-pronoun">&amp;ldquo;Diectic&amp;rdquo; demonstrative pronoun&lt;/h3>
+&lt;p>&amp;ldquo;this&amp;rdquo;, &amp;ldquo;it&amp;rdquo;: Refers to present object or person.&lt;/p>
+&lt;p>Pronoun of presence: referring to someone or something present&lt;/p>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;eso Mahārāja Bhagavā&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(Mahārāja, this is the Bhagavā [Blessed One])
+}
+class eso {
+&amp;lt;&amp;lt;niyamita&amp;gt;&amp;gt;
+🚹👤🤟1️⃣
+english(this)
+}
+class Mahārāja {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤0️⃣
+english(that)
+}
+class Bhagavā {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(Blessed One)
+}
+sentence *-- eso : niyamita
+sentence *-- Mahārāja : ālapana
+sentence *-- Bhagavā : kattar&lt;/pre>
+&lt;p>Emphasise a nearer object&lt;/p>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;idaṃ avoca Bhagavā&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(The Bhagavā said this)
+}
+class idaṃ {
+&amp;lt;&amp;lt;niyamita&amp;gt;&amp;gt;
+🚻👤🤟2️⃣
+english(this)
+}
+class avoca {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟⏮
+english(said)
+}
+class Bhagavā {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(Blessed One)
+}
+sentence *-- idaṃ : niyamita
+sentence *-- avoca : ākhyāta
+sentence *-- Bhagavā : kattar&lt;/pre>
+&lt;h3 id="emphatic-assertion">Emphatic assertion&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;atthi kayo&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(There is a body)
+}
+class atthi {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟▶️
+english(There is)
+}
+class kayo {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(body)
+}
+sentence *-- atthi: ākhyāta
+sentence *-- kayo : kattar&lt;/pre>
+&lt;h3 id="negation">Negation&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;tvaṃ na passasi&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(You do not see)
+}
+class tvaṃ {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+⚧👤🤘1️⃣
+english(You)
+}
+class na {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(not)
+}
+class passasi {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤘▶️
+english(see)
+}
+sentence *-- tvaṃ : kattar
+sentence *-- na : nipāta
+sentence *-- passasi: ākhyāta&lt;/pre>
+&lt;h3 id="prohibition-or-negative-injunction">Prohibition or negative injunction&lt;/h3>
+&lt;p>Used with second person in aorist tense (but loses time reference and can apply
+to present or future)&lt;/p>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;mā paridevesi&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(Don&amp;#39;t grieve)
+}
+class mā {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(do not)
+}
+class paridevesi {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤘⏮
+english(grieved)
+}
+sentence *-- mā : nipāta
+sentence *-- paridevesi: ākhyāta&lt;/pre>
+&lt;h3 id="wish">Wish&lt;/h3>
+&lt;p>Used with third person in aorist tense - appears regularly in polite address&lt;/p>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;mā h&amp;#39;eva rājā kālam akāsi&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(May the king not die)
+}
+class mā[&amp;#34;mā h&amp;#39;eva&amp;#34;] {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(do not)
+}
+class rājā {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(king)
+}
+class kālam {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(time)
+}
+class akāsi {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟⏮
+english(made)
+}
+sentence *-- mā : nipāta
+sentence *-- rājā : kattar
+sentence *-- kālam : kamma
+sentence *-- akāsi: ākhyāta&lt;/pre>
+&lt;h3 id="double-negation">Double Negation&lt;/h3>
+&lt;p>Equivalent to a strong affirmation&lt;/p>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;mā h&amp;#39;eva kho kumāro na rajjaṃ kāresi&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(Don&amp;#39;t let the prince not rule the kingdom)
+}
+class mā[&amp;#34;mā h&amp;#39;eva&amp;#34;] {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(do not)
+}
+class kho {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(indeed)
+}
+class kumāro {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(prince)
+}
+class na {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(not)
+}
+class rajjaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(kingdom)
+}
+class kāresi {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟⏮
+english(rule)
+}
+sentence *-- mā : nipāta
+sentence *-- kho : nipāta
+sentence *-- kumāro : kattar
+sentence *-- na : nipāta
+sentence *-- rajjaṃ : kamma
+sentence *-- kāresi: ākhyāta&lt;/pre>
+&lt;h3 id="vocative">Vocative&lt;/h3>
+&lt;p>Nominative of address, used enclitically&lt;/p>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;na tvaṃ deva vañcemi&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(I don&amp;#39;t deceive you, O King)
+}
+class na {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(not)
+}
+class tvaṃ {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+⚧👤🤘1️⃣
+english(you)
+}
+class deva {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤0️⃣
+english(O King)
+}
+class vañcemi {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤👆⏮
+english([I] deceived)
+}
+sentence *-- na : nipāta
+sentence *-- tvaṃ : kattar
+sentence *-- deva : ālapana
+sentence *-- vañcemi: ākhyāta&lt;/pre>
+&lt;h3 id="imperative-command">Imperative (command)&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;ehi tvaṃ purisa&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(You must go, man)
+}
+class ehi {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤👆⏹
+english([must] go)
+}
+class tvaṃ {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+⚧👤🤘1️⃣
+english(you)
+}
+class purisa {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤0️⃣
+english(man)
+}
+sentence *-- ehi: piñcamī
+sentence *-- tvaṃ : kattar
+sentence *-- purisa : ālapana&lt;/pre>
+&lt;h3 id="imperative-invitation-or-wish">Imperative (invitation or wish)&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;etu bhagavā&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(Let the Blessed One come)
+}
+class etu {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤👆⏹
+english([must] come)
+}
+class bhagavā {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(Blessed One)
+}
+sentence *-- etu: piñcamī
+sentence *-- bhagavā : kattar&lt;/pre>
+&lt;h3 id="imperative-dont-bother">Imperative (don&amp;rsquo;t bother)&lt;/h3>
+&lt;p>Let it be, never mind, let him not, don&amp;rsquo;t trouble&lt;/p>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;tiṭṭhatha tumhe&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(Don&amp;#39;t you bother)
+}
+class tiṭṭhatha {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👥🤟⏹
+english(wait/remain)
+}
+class tumhe {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+⚧👥🤟1️⃣
+english(you)
+}
+sentence *-- tiṭṭhatha: piñcamī
+sentence *-- tumhe : kattar&lt;/pre>
+&lt;h3 id="respectful-address">Respectful address&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;nisidatu bhagavā&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(Let the Fortunate One sit down)
+}
+class nisidatu {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤👆⏹
+english([must] sit)
+}
+class bhagavā {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(Blessed One)
+}
+sentence *-- nisidatu: piñcamī
+sentence *-- bhagavā : kattar&lt;/pre>
+&lt;h3 id="quotation">Quotation&lt;/h3>
+&lt;p>Short vowel preceeding &lt;code>ti&lt;/code> is lengthened, and &lt;code>ṃ&lt;/code> changed to &lt;code>n&lt;/code>&lt;/p>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;evaṃ devā ti&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(&amp;#39;[It is] so, O King&amp;#39;)
+}
+namespace quotation {
+class evaṃ {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(thus)
+}
+class deva {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤0️⃣
+english(O King)
+}
+}
+class ti {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+marker(quotation)
+}
+sentence *-- evaṃ: nipāta
+sentence *-- deva : ālapana
+sentence *-- ti: nipāta&lt;/pre>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;n&amp;#39;eso n&amp;#39;atthi ti vadāmi&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(I don&amp;#39;t say &amp;#34;This doesn&amp;#39;t exist&amp;#34;)
+}
+class na1[&amp;#34;na&amp;#34;] {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(not)
+}
+namespace quotation {
+class eso {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+🚻👤🤟1️⃣
+english(this)
+}
+class na2[&amp;#34;na&amp;#34;] {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(not)
+}
+class atthi {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟▶️
+english(exist)
+}
+}
+class ti {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+marker(quotation)
+}
+class vadāmi {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+⚧👆▶️
+english([I] say)
+}
+sentence *-- na1: nipāta
+sentence *-- eso: kattar
+sentence *-- na2: nipāta
+sentence *-- atthi : kiriya
+sentence *-- ti: nipāta
+sentence *-- vadāmi : kiriya&lt;/pre>
+&lt;h3 id="past-participle-present-perfect">Past participle (present perfect)&lt;/h3>
+&lt;p>periphrastic: past participle followed by &amp;ldquo;to be&amp;rdquo; verb&lt;/p>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;paribbājako santuṭṭho hoti&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(The wanderer is contented)
+}
+class paribbājako {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(wanderer)
+}
+class santuṭṭho {
+&amp;lt;&amp;lt;past participle&amp;gt;&amp;gt;
+⏪🚹👤1️⃣
+english(contented)
+}
+class hoti {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟▶️
+english(is)
+}
+sentence *-- paribbājako : kattar
+sentence *-- santuṭṭho : past participle
+sentence *-- hoti: kiriya&lt;/pre>
+&lt;h3 id="instrumental-case">Instrumental case&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;kāyena phusati&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english([He] touches with body)
+}
+class kāyena {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤3️⃣
+english([with] body)
+}
+class phusati {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟▶️
+english(touch)
+}
+sentence *-- kāyena : karaṇa
+sentence *-- phusati: kiriya&lt;/pre>
+&lt;h3 id="impersonal-bhāva-past-participle">Impersonal (&lt;code>bhāva&lt;/code>) Past Participle&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;evaṃ me sutaṃ&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(Thus [it] was heard by me)
+}
+class evaṃ {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(thus)
+}
+class me {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+⚧👤👆3️⃣
+english([by] me)
+}
+class sutaṃ {
+&amp;lt;&amp;lt;past participle&amp;gt;&amp;gt;
+🔵⏪🚹👤1️⃣
+english(heard)
+}
+sentence *-- evaṃ : nipāta
+sentence *-- me : karaṇa
+sentence *-- sutaṃ: past participle&lt;/pre>
+&lt;h3 id="passive-kammapada-past-participle">Passive (&lt;code>kammapada&lt;/code>) Past Participle&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;mayā ime sattā nimmitā&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(By me these beings [were/have been] created)
+}
+class mayā {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+⚧👤👆3️⃣
+english([by] me)
+}
+class ime {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+🚹👥1️⃣
+english(these)
+}
+class sattā {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+🚹👥1️⃣
+english(beings)
+}
+class nimmitā {
+&amp;lt;&amp;lt;past participle&amp;gt;&amp;gt;
+🔴⏪🚹👥1️⃣
+english(created)
+}
+sentence *-- mayā : karaṇa
+sentence *-- ime : kamma
+sentence *-- sattā : kamma
+sentence *-- nimmitā: past participle&lt;/pre>
+&lt;h3 id="active-past-participle">Active Past Participle&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;sujātā nāma bhante upāsikā kālakatā&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(Venerable Sir, the female lay disciple named Sujātā has died)
+}
+namespace kattar {
+class sujātā {
+&amp;lt;&amp;lt;nāmanāma&amp;gt;&amp;gt;
+🚺👤1️⃣
+english(Sujātā)
+}
+class nāma {
+&amp;lt;&amp;lt;avyaya&amp;gt;&amp;gt;
+english(named)
+}
+class upāsikā {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚺👤1️⃣
+english(food)
+}
+}
+class bhante {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤0️⃣
+english(Venerable Sir)
+}
+class kālakatā {
+&amp;lt;&amp;lt;past participle&amp;gt;&amp;gt;
+🟢⏪🚺👤1️⃣
+english(created)
+}
+sujātā --&amp;gt; nāma
+sentence *-- sujātā : kattar
+sentence *-- nāma : guṇanāma
+sentence *-- bhante : ālapana
+sentence *-- upāsikā : kattar
+sentence *-- kālakatā: past participle&lt;/pre>
+&lt;h3 id="time-by-means-of-which">Time by means of which&lt;/h3>
+&lt;dl>
+&lt;dt>&lt;code>aparena samayena&lt;/code>&lt;/dt>
+&lt;dd>after some time, in due course&lt;/dd>
+&lt;dt>&lt;code>tena samayena&lt;/code>&lt;/dt>
+&lt;dd>at that time&lt;/dd>
+&lt;dt>&lt;code>accayena&lt;/code>&lt;/dt>
+&lt;dd>through (after) the passage/passing away [of time/person]&lt;/dd>
+&lt;/dl>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;ahaṃ tena samayena rājā Mahāsudassano ahosiṃ&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(At that time I was King Mahāsudassana)
+}
+class tena {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+⚧👤🤟3️⃣
+english(that)
+}
+class samayena {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤3️⃣
+english(at time)
+}
+namespace kattar {
+class ahaṃ {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+⚧👤👆1️⃣
+english([by] me)
+}
+class rājā {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(king)
+}
+class Mahāsudassano {
+&amp;lt;&amp;lt;nāmanāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(Mahāsudassana)
+}
+}
+class ahosiṃ {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤👆⏮
+english(was)
+}
+sentence *-- ahaṃ : kattar
+sentence *-- tena : karaṇa
+sentence *-- samayena : karaṇa
+sentence *-- rājā : kattar
+sentence *-- Mahāsudassano : kattar
+sentence *-- ahosiṃ: ajjatanī&lt;/pre>
+&lt;h3 id="present-participle">Present participle&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;gacchaṃ passati&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(As [he] is going [he] sees)
+}
+class gacchaṃ {
+&amp;lt;&amp;lt;missakiriyā&amp;gt;&amp;gt;
+⏬🚹👤1️⃣
+english(created)
+}
+class passati {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟▶️
+english(touch)
+}
+sentence *-- gacchaṃ : missakiriyā
+sentence *-- passati: kiriya&lt;/pre>
+&lt;h3 id="gerund-absolutive">Gerund (absolutive)&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;disvā evaṃ avocumha&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(Having seen, [we] said thus)
+}
+class disvā {
+&amp;lt;&amp;lt;pubbakiriyā&amp;gt;&amp;gt;
+⏫
+english(having seen)
+}
+class evaṃ {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(thus)
+}
+class avocumha {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👥👆⏮
+english([We] said)
+}
+sentence *-- disvā : pubbakiriyā
+sentence *-- evaṃ : nipāta
+sentence *-- avocumha: kiriya&lt;/pre>
+&lt;h3 id="passive-kammapada">Passive (&lt;code>kammapada&lt;/code>)&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;bhojanaṃ diyati&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(Food is given)
+}
+class bhojanaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(food)
+}
+class diyati {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+🔴👤🤟▶️
+english(is given)
+}
+sentence *-- bhojanaṃ : kamma
+sentence *-- diyati: kammapada&lt;/pre>
+&lt;h3 id="interrogative-saccaṃ">Interrogative (&lt;code>saccaṃ&lt;/code>)&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;saccaṃ Nigrodha bhāsitā te esā vācā&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(Is it true, Nigrodha, [that] this speech has been spoken by you?)
+}
+class saccaṃ {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(is it true that ...)
+}
+class Nigrodha {
+&amp;lt;&amp;lt;nāmanāma&amp;gt;&amp;gt;
+🚹👤0️⃣
+english(Nigrodha)
+}
+class bhāsitā {
+&amp;lt;&amp;lt;past participle&amp;gt;&amp;gt;
+🔴⏪🚺👤1️⃣
+english(is spoken)
+}
+class esā {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+🚺👤🤟1️⃣
+english(this)
+}
+class vācā {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚺👤1️⃣
+english(speech)
+}
+class te {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+⚧👤🤘3️⃣
+english(by you)
+}
+sentence *-- saccaṃ : nipāta
+sentence *-- Nigrodha : ālapana
+sentence *-- bhāsitā : past participle
+sentence *-- te : kattar
+sentence *-- esā : kamma
+sentence *-- vācā : kamma&lt;/pre>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;saccaṃ bhante bhāsitā me esā vācā&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(It is true, Venerable Sir, (that) this speech has been spoken by me)
+}
+class saccaṃ {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(it is true that ...)
+}
+class bhante {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤0️⃣
+english(Venerable Sir)
+}
+class bhāsitā {
+&amp;lt;&amp;lt;past participle&amp;gt;&amp;gt;
+🔴⏪🚺👤1️⃣
+english(is spoken)
+}
+class esā {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+🚺👤🤟1️⃣
+english(this)
+}
+class vācā {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚺👤1️⃣
+english(speech)
+}
+class me {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+⚧👤👆3️⃣
+english(by me)
+}
+sentence *-- saccaṃ : nipāta
+sentence *-- bhante : ālapana
+sentence *-- bhāsitā : past participle
+sentence *-- me : kattar
+sentence *-- esā : kamma
+sentence *-- vācā : kamma&lt;/pre>
+&lt;h3 id="or-either-vā">Or, either (&lt;code>vā&lt;/code>)&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;idaṃ vuccati cittan ti vā viññāṇan ti vā&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(This is called &amp;#39;mind&amp;#39; or &amp;#39;consciousness&amp;#39;)
+}
+class idaṃ {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+🚺👤🤟1️⃣
+english(this)
+}
+class vuccati {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+🔴👤🤟▶️
+english(is called)
+}
+namespace kamma1 {
+class cittaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚻👤1️⃣
+english(mind)
+}
+class ti1[&amp;#34;ti&amp;#34;] {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+marker(quotation)
+}
+class vā1[&amp;#34;vā&amp;#34;] {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(or)
+}
+}
+namespace kamma2 {
+class viññāṇaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚻👤1️⃣
+english(consciousness)
+}
+class ti2[&amp;#34;ti&amp;#34;] {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+marker(quotation)
+}
+class vā2[&amp;#34;vā&amp;#34;] {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(or)
+}
+}
+sentence *-- idaṃ : kamma
+sentence *-- vuccati : kammapada
+sentence *-- cittaṃ: kattar
+sentence *-- ti1: nipāta
+sentence *-- vā1: nipāta
+sentence *-- viññāṇaṃ: kattar
+sentence *-- ti2: nipāta
+sentence *-- vā2: nipāta&lt;/pre>
+&lt;h3 id="future-tense">Future tense&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;na ciraṃ tathāgatassa parinibbānaṃ bhavissati&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(The extinction of the Tathāgata will be soon)
+}
+class na {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(not)
+}
+class ciraṃ {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(for a long time, after a long time)
+}
+namespace kattar {
+class tathāgatassa {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤6️⃣
+english(Tathāgata&amp;#39;s)
+}
+class parinibbānaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚻👤1️⃣
+english(extinction)
+}
+}
+class bhavissati {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟⏭
+english(will be)
+}
+tathāgatassa &amp;lt;-- parinibbānaṃ
+sentence *-- na : nipāta
+sentence *-- ciraṃ : nipāta
+sentence *-- tathāgatassa : chaṭṭhī
+sentence *-- parinibbānaṃ : kattar
+sentence *-- bhavissati: bhavissanti&lt;/pre>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;imassa jayo bhavissati&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(Victory will be his)
+}
+namespace kattar {
+class imassa {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+⚧👤🤟6️⃣
+english(his)
+}
+class jayo {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(victory)
+}
+}
+class bhavissati {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟⏭
+english(will be)
+}
+imassa &amp;lt;-- jayo
+sentence *-- imassa : chaṭṭhī
+sentence *-- jayo : kattar
+sentence *-- bhavissati: bhavissanti&lt;/pre>
+&lt;h3 id="genitive">Genitive&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;ayaṃ imassa bhāsitassa attho&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(This is the meaning of this saying)
+}
+namespace kattar {
+class ayaṃ {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+⚧👤🤟1️⃣
+english(his)
+}
+class imassa {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+⚧👤🤟6️⃣
+english(of this)
+}
+class bhāsitassa {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤6️⃣
+english(of speech)
+}
+class attho {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(meaning)
+}
+}
+imassa &amp;lt;-- bhāsitassa
+bhāsitassa &amp;lt;-- attho
+sentence *-- ayaṃ : kattar
+sentence *-- imassa : chaṭṭhī
+sentence *-- bhāsitassa : chaṭṭhī
+sentence *-- attho : kattar&lt;/pre>
+&lt;h3 id="agent-genitive-subjective-genitive">Agent-Genitive (&amp;ldquo;Subjective Genitive&amp;rdquo;)&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;brāhmaṇassa pūjito (Soṇadaṇḍo)&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english([Soṇadaṇḍo was] honoured of [by] the priest)
+}
+namespace kattar {
+class s[&amp;#34;Soṇadaṇḍo&amp;#34;] {
+&amp;lt;&amp;lt;nāmanāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(Soṇadaṇḍa)
+}
+class brāhmaṇassa {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤6️⃣
+english(of the brāhmaṇ)
+}
+class pūjito {
+&amp;lt;&amp;lt;past participle&amp;gt;&amp;gt;
+⏪🚹👤1️⃣
+english(honoured)
+}
+}
+brāhmaṇassa &amp;lt;-- pūjito
+sentence *-- s : kattar
+sentence *-- brāhmaṇassa : chaṭṭhī
+sentence *-- pūjito : kattar&lt;/pre>
+&lt;h3 id="patient-genitive-objective-genitive">Patient-Genitive (&amp;ldquo;Objective Genitive&amp;rdquo;)&lt;/h3>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;ahaṃ … tassa yaññassa yājetā&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(I ... (was) the performer of that sacrifice)
+}
+namespace kattar {
+class ahaṃ {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+⚧👤👆1️⃣
+english(I)
+}
+class tassa {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+🚹👤🤟6️⃣
+english(of that)
+}
+class yaññassa {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤6️⃣
+english(of sacrifice)
+}
+class yājetā {
+&amp;lt;&amp;lt;past participle&amp;gt;&amp;gt;
+⏪🚹👤1️⃣
+english(sacrificer (performer))
+}
+}
+tassa &amp;lt;-- yaññassa
+yaññassa &amp;lt;-- yājetā
+sentence *-- ahaṃ : kattar
+sentence *-- tassa : chaṭṭhī
+sentence *-- yaññassa : chaṭṭhī
+sentence *-- yājetā : kattar&lt;/pre>
+&lt;h3 id="genitive-absolute">Genitive Absolute&lt;/h3>
+&lt;p>The &amp;ldquo;genitive absolute&amp;rdquo; consists of a noun (or pronoun) followed by a participle, both inflected in the genitive. This nexus stands apart from the other words of the sentence and means &amp;ldquo;while (the noun was doing the participle)&amp;rdquo;. Often the genitive absolute has the special sense of disregarding: &amp;ldquo;despite (the noun doing the participle)&amp;rdquo;, &amp;ldquo;under their very noses,&amp;rdquo; as when the participle means &amp;ldquo;seeing&amp;rdquo;, &amp;ldquo;looking on&amp;rdquo;. The genitive absolute is useful for constructing a sentence with two agents,&lt;/p>
+&lt;pre class="mermaid">classDiagram
+class sentence[&amp;#34;kammaṃ kho pana me karontassa kāyo kilamissati&amp;#34;] {
+&amp;lt;&amp;lt;vākya&amp;gt;&amp;gt;
+english(However, while I am doing the work, (my) body will become tired)
+}
+namespace genitive_absolute {
+class kammaṃ {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤2️⃣
+english(work)
+}
+class kho {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(indeed)
+}
+class pana {
+&amp;lt;&amp;lt;nipāta&amp;gt;&amp;gt;
+english(however)
+}
+class me {
+&amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
+⚧👤👆6️⃣
+english(of I)
+}
+class karontassa {
+&amp;lt;&amp;lt;past participle&amp;gt;&amp;gt;
+⏪🚹👤6️⃣
+english(of doing)
+}
+}
+class kāyo {
+&amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
+🚹👤1️⃣
+english(body)
+}
+class kilamissati {
+&amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
+👤🤟⏭
+english(will be tired)
+}
+kammaṃ --&amp;gt; karontassa : kamma
+me &amp;lt;-- karontassa : chaṭṭhī
+sentence *-- kammaṃ
+sentence *-- kho
+sentence *-- pana
+sentence *-- me : genitive absolute
+sentence *-- karontassa : genitive absolute
+sentence *-- kāyo : katar
+sentence *-- kilamissati : bhavissanti&lt;/pre></description></item></channel></rss>

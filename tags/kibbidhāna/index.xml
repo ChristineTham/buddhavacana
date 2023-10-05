@@ -4684,4 +4684,194 @@ and reading will become easier and easier over time.&lt;/p>
 &lt;/div></description></item><item><title>Docs: J: `kibbidhāna` (`kita` affixes)</title><link>https://christham.net/buddhavacana/docs/palibook/kita/</link><pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/kita/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
-&lt;/div></description></item></channel></rss>
+&lt;/div>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">rule&lt;/th>
+&lt;th>notes&lt;/th>
+&lt;th style="text-align:center">affix&lt;/th>
+&lt;th>production&lt;/th>
+&lt;th style="text-align:center">example&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">{524}&lt;/td>
+&lt;td>Kita’ntogadha dutiyā Tappurisa&lt;/td>
+&lt;td style="text-align:center">&lt;code>ṇa&lt;/code>&lt;/td>
+&lt;td>&lt;code>saddūpapada&lt;/code> (&lt;code>kamma&lt;/code>) + &lt;code>dhātu&lt;/code> (&lt;code>kara&lt;/code>) + &lt;code>ṇa&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>kammakāro&lt;/code>&lt;/td>
+&lt;td>&lt;code>kammaṁ karotī’ti&lt;/code> (&amp;ldquo;the one who does work&amp;rdquo;. ie &amp;ldquo;worker&amp;rdquo;, &amp;ldquo;laborer&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{524}&lt;/td>
+&lt;td>ditto&lt;/td>
+&lt;td style="text-align:center">&lt;code>ṇa&lt;/code>&lt;/td>
+&lt;td>&lt;code>patta&lt;/code> + &lt;code>gaha&lt;/code> + &lt;code>ṇa&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>pattaggāho&lt;/code>&lt;/td>
+&lt;td>&amp;ldquo;the one who holds bowl&amp;rdquo;&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{525}, {537}&lt;/td>
+&lt;td>Personal name&lt;/td>
+&lt;td style="text-align:center">&lt;code>nu&lt;/code>, &lt;code>a&lt;/code>&lt;/td>
+&lt;td>&lt;code>saddūpapada&lt;/code> (&lt;code>ari&lt;/code>) + &lt;code>nu&lt;/code> + &lt;code>dhātu&lt;/code> (&lt;code>damu&lt;/code>) + &lt;code>a&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>arindamo&lt;/code>&lt;/td>
+&lt;td>&lt;code>ariṁ dametī’ti&lt;/code> (&amp;ldquo;the one who subdues enemies&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{525}&lt;/td>
+&lt;td>ditto&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;code>taṇha&lt;/code> + &lt;code>ṇa&lt;/code> + &lt;code>kara&lt;/code> + &lt;code>a&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>taṇhaṅkaro&lt;/code>&lt;/td>
+&lt;td>&lt;code>taṇhaṁ karotī’ti&lt;/code> &amp;ldquo;the one who overcomes craving&amp;rdquo;&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{526}&lt;/td>
+&lt;td>&lt;/td>
+&lt;td style="text-align:center">&lt;code>a&lt;/code>&lt;/td>
+&lt;td>&lt;code>saddūpapada&lt;/code> (&lt;code>pura&lt;/code>) + &lt;code>dada&lt;/code> + &lt;code>a&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>purindado&lt;/code>&lt;/td>
+&lt;td>&lt;code>pure dānaṁ adāsī’ti&lt;/code> (&amp;ldquo;the one who gave alms in the previous past lives&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{527}&lt;/td>
+&lt;td>&lt;/td>
+&lt;td style="text-align:center">&lt;code>a&lt;/code>&lt;/td>
+&lt;td>[&lt;code>saddūpapada&lt;/code> (&lt;code>ta&lt;/code>)] + &lt;code>kara&lt;/code> + &lt;code>a&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>takkaro&lt;/code>&lt;/td>
+&lt;td>&lt;code>taṁ karotī’ti&lt;/code> (&amp;ldquo;the one who does that deed&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{527}&lt;/td>
+&lt;td>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ṇvu&lt;/code>&lt;/td>
+&lt;td>[&lt;code>saddūpapada&lt;/code> (&lt;code>ratha&lt;/code>)] + &lt;code>kara&lt;/code> + &lt;code>ṇvu&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>rathakārako&lt;/code>&lt;/td>
+&lt;td>&lt;code>rathaṁ karotī’ti&lt;/code> (&amp;ldquo;the one who makes chariot, the chariot-maker&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{527}&lt;/td>
+&lt;td>&lt;/td>
+&lt;td style="text-align:center">&lt;code>tu&lt;/code>&lt;/td>
+&lt;td>[&lt;code>saddūpapada&lt;/code> (&lt;code>bhojana&lt;/code>)] + &lt;code>dā&lt;/code> + &lt;code>tu&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>bhojanadātā&lt;/code>&lt;/td>
+&lt;td>&lt;code>bhojanaṁ dadātī’ti&lt;/code> (&amp;ldquo;the one who gives food, the food-giver&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{527}&lt;/td>
+&lt;td>&lt;/td>
+&lt;td style="text-align:center">&lt;code>āvī&lt;/code>&lt;/td>
+&lt;td>[&lt;code>saddūpapada&lt;/code> (&lt;code>bhaya&lt;/code>)] + &lt;code>dissa&lt;/code> + &lt;code>āvī&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>bhayadassāvī&lt;/code>&lt;/td>
+&lt;td>&lt;code>bhayaṁ passatī’ti&lt;/code> (&amp;ldquo;the one who sees danger&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{528}&lt;/td>
+&lt;td>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ṇa&lt;/code>&lt;/td>
+&lt;td>&lt;code>pa&lt;/code> + &lt;code>visa&lt;/code> + &lt;code>ṇa&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>paveso&lt;/code>&lt;/td>
+&lt;td>&lt;code>pavisatī’ti&lt;/code> (&amp;ldquo;the one who enters&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{528}&lt;/td>
+&lt;td>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ṇa&lt;/code>&lt;/td>
+&lt;td>&lt;code>ruja&lt;/code> + &lt;code>ṇa&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>rogo&lt;/code>&lt;/td>
+&lt;td>&lt;code>rujatī’ti&lt;/code> (&amp;ldquo;that which afflicts, pain or disease&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{528}&lt;/td>
+&lt;td>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ṇa&lt;/code>&lt;/td>
+&lt;td>&lt;code>u&lt;/code> + &lt;code>pada&lt;/code> + &lt;code>ṇa&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>uppādo&lt;/code>&lt;/td>
+&lt;td>&lt;code>uppajjatī’ti&lt;/code> (&amp;ldquo;that which arises, the process of arising&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{529}&lt;/td>
+&lt;td>bhāva (action)&lt;/td>
+&lt;td style="text-align:center">&lt;code>ṇa&lt;/code>&lt;/td>
+&lt;td>&lt;code>paca&lt;/code> + &lt;code>ṇa&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>pāko&lt;/code>&lt;/td>
+&lt;td>&lt;code>paccate, pacanaṁ vā&lt;/code> (&amp;ldquo;act of cooking&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{530}&lt;/td>
+&lt;td>&lt;/td>
+&lt;td style="text-align:center">&lt;code>kvi&lt;/code>&lt;/td>
+&lt;td>&lt;code>saṁ&lt;/code> + &lt;code>bhū&lt;/code> + &lt;code>kvi&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>sambhū&lt;/code>&lt;/td>
+&lt;td>&lt;code>sambhavatī’ti&lt;/code> (&amp;ldquo;the one which happens or arises well&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{531}&lt;/td>
+&lt;td>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ramma&lt;/code>&lt;/td>
+&lt;td>&lt;code>dhara&lt;/code> + &lt;code>ramma&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>dhammo&lt;/code>&lt;/td>
+&lt;td>&lt;code>dharati tenā’ti&lt;/code> (&amp;ldquo;the wholesome righteous Dhamma by which good-result are carried&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{532}&lt;/td>
+&lt;td>&lt;code>tassīla&lt;/code> &amp;ldquo;habitual pattern etc.&amp;rdquo; (&lt;code>taddhamma&lt;/code> &amp;ldquo;an ingrained nature&amp;rdquo; or &lt;code>tassādhukārī&lt;/code> &amp;ldquo;a dedicated habit of doing things well&amp;rdquo;)&lt;/td>
+&lt;td style="text-align:center">&lt;code>ṇī&lt;/code>&lt;/td>
+&lt;td>&lt;code>saddūpapada&lt;/code> (&lt;code>piya&lt;/code>) + &lt;code>pa&lt;/code> + &lt;code>saṁsa&lt;/code> + &lt;code>ṇī&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>piyapasaṁsī&lt;/code>&lt;/td>
+&lt;td>&lt;code>piyaṁ pasaṁsituṁ sīlaṁ yassa rañño, so hoti rājā&lt;/code> (&amp;ldquo;The king whose habit is only to praise the loved one, that (type of) king&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{532}&lt;/td>
+&lt;td>ditto&lt;/td>
+&lt;td style="text-align:center">&lt;code>tu&lt;/code>&lt;/td>
+&lt;td>&lt;code>saddūpapada&lt;/code> (&lt;code>pasayha&lt;/code>) + &lt;code>pa&lt;/code> + &lt;code>vatu&lt;/code> + &lt;code>tu&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>pasayhapavattā&lt;/code>&lt;/td>
+&lt;td>&lt;code>pasayha pavattituṁ sīlaṁ yassa rañño, so hoti rājā&lt;/code> (&amp;ldquo;the king who used to behave overbearingly&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{532}&lt;/td>
+&lt;td>ditto&lt;/td>
+&lt;td style="text-align:center">&lt;code>āvī&lt;/code>&lt;/td>
+&lt;td>&lt;code>saddūpapada&lt;/code> (&lt;code>bhaya&lt;/code>) + &lt;code>disa&lt;/code> + &lt;code>āvī&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>bhayadassāvī&lt;/code>&lt;/td>
+&lt;td>&lt;code>bhayaṁ passituṁ sīlaṁ yassa samaṇassa so hoti samaṇo&lt;/code> (&amp;ldquo;the monk who used to see dangers (of unwholesome actions)&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{533}&lt;/td>
+&lt;td>ditto&lt;/td>
+&lt;td style="text-align:center">&lt;code>yu&lt;/code>&lt;/td>
+&lt;td>&lt;code>ghusa&lt;/code> + &lt;code>yu&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ghosano&lt;/code>&lt;/td>
+&lt;td>&lt;code>ghosanasīlo&lt;/code> (&amp;ldquo;the one whose habit is to be vocal, the vocal one, noisy talker&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{534}&lt;/td>
+&lt;td>ditto&lt;/td>
+&lt;td style="text-align:center">&lt;code>rū&lt;/code>&lt;/td>
+&lt;td>&lt;code>saddūpapada&lt;/code> (&lt;code>bhavapāra&lt;/code>) + &lt;code>gamu&lt;/code> + &lt;code>rū&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>bhavapāragū&lt;/code>&lt;/td>
+&lt;td>&lt;code>bhavapāraṁ gantuṁ sīlaṁ yassa purisassa, so hoti puriso&lt;/code> (&amp;ldquo;the man whose habit is to go the other shore of life, i.e. an enlightened Arahanta monk&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{535}&lt;/td>
+&lt;td>ditto&lt;/td>
+&lt;td style="text-align:center">&lt;code>rū&lt;/code>&lt;/td>
+&lt;td>&lt;code>bhikkha&lt;/code> + &lt;code>rū&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>bhikkhu&lt;/code>&lt;/td>
+&lt;td>&lt;code>bhikkhanasīlo yācanasīlo&lt;/code> (&amp;ldquo;the one used to begging&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{536}&lt;/td>
+&lt;td>ditto&lt;/td>
+&lt;td style="text-align:center">&lt;code>ṇuka&lt;/code>&lt;/td>
+&lt;td>&lt;code>ā&lt;/code> + &lt;code>hana&lt;/code> + &lt;code>ṇuka&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>āghātuko&lt;/code>&lt;/td>
+&lt;td>&lt;code>āhananasīlo&lt;/code> (&amp;ldquo;the executioner, killer&amp;rdquo;)&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>
