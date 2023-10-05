@@ -665,9 +665,9 @@ markmap:
 - hypothetical future
 - certainty
 - (in the 1st person) determination or decision
-  - sace ahaṃ … labhissāmi, saṃvibhajissāmi…
+  - `sace ahaṃ … labhissāmi, saṃvibhajissāmi…`
 - Obedience to a law of nature
-  - … nikkhipissanti
+  - `… nikkhipissanti`
     - literally "will throw down, put down" (the body).
     - all living beings (must/will) die
 - habit (innate or acquired) may also be expressed by the future
