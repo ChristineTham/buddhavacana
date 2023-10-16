@@ -1,0 +1,398 @@
+,lesson,page,word,type,english
+0,0,7,evaṃ,nipāta,thus
+1,0,7,yena,nipāta,towards
+2,1,11,bandhati,vattamāna,he binds
+3,1,11,bhavati,vattamāna,"he is, there exists"
+4,1,11,bhāsati,vattamāna,"he says, he speaks"
+5,1,11,cavati,vattamāna,"he falls (from a form of existence), he dies"
+6,1,11,harati,vattamāna,he takes
+7,1,11,hoti,vattamāna,"he is, there is"
+8,1,11,jīvati,vattamāna,"he lives (is alive, makes a living)"
+9,1,11,nisīdati,vattamāna,he sits (down)
+10,1,11,pakkamati,vattamāna,he goes away
+11,1,11,passati,vattamāna,he sees
+12,1,11,pucchati,vattamāna,he asks
+13,1,11,upasaṃkamati,vattamāna,"he goes to, he approaches"
+14,1,11,vadati,vattamāna,he says
+15,1,11,āharati,vattamāna,he brings
+16,1,13,amanusso,pulliṅga,"non-human being (i.e. a god, etc.) (negative prefix a)"
+17,1,13,brāhmaṇo,pulliṅga,"priest, brahmin (member of the hereditary priesthood)"
+18,1,13,devo,pulliṅga,"god (usual meaning), king (as term of respectful address)"
+19,1,13,gāmo,pulliṅga,village
+20,1,13,khattiyo,pulliṅga,"warrior, noble (member of the military-aristocratic class)"
+21,1,13,kāyo,pulliṅga,"body, substance"
+22,1,13,loko,pulliṅga,"world, people, universe"
+23,1,13,maggo,pulliṅga,"road, way"
+24,1,13,mahāmatto,pulliṅga,minister
+25,1,13,manusso,pulliṅga,"human being, person"
+26,1,13,puriso,pulliṅga,"man, person"
+27,1,13,putto,pulliṅga,son
+28,1,13,samayo,pulliṅga,"a time, occasion (any time, time of an event)"
+29,1,13,samaṇo,pulliṅga,"ascetic, wanderer, philosopher"
+30,1,13,tathāgato,pulliṅga,thus-gone (from worldliness to a state of calm: epithet of the Buddha (usually) or of others like him)
+31,1,13,upāsako,pulliṅga,"lay disciple, the lay disciple, a lay disciple"
+32,2,16,dadāti,vattamāna,he gives
+33,2,16,deti,vattamāna,he gives
+34,2,16,eti,vattamāna,"he goes, come"
+35,2,16,gacchati,vattamāna,he goes
+36,2,16,icchati,vattamāna,"he wishes, he desires"
+37,2,16,jhāyati,vattamāna,"he meditates, burns"
+38,2,16,pabbajati,vattamāna,"he goes forth, sent away"
+39,2,16,pajahati,vattamāna,"he gives up, renounce"
+40,2,16,pavisati,vattamāna,he enters
+41,2,16,phusati,vattamāna,"he touches, reaches, attains"
+42,2,16,tiṭṭhati,vattamāna,"he stands, remains, stays"
+43,2,16,āgacchati,vattamāna,he comes
+44,2,17,upeti,vattamāna,he goes to
+45,2,19,aggo,pulliṅga,top
+46,2,19,attho,pulliṅga,"goal, prosperity, wealth, welfare, purpose, meaning, subject-matter"
+47,2,19,bhavo,pulliṅga,"existence, good fortune"
+48,2,19,dhammo,pulliṅga,"(true, natural) doctrine, natural element, natural substance, natural phenomenon"
+49,2,19,pamādo,pulliṅga,"heedless, negligence, pastime"
+50,2,19,patto,pulliṅga,bowl
+51,2,19,piṇḍo,pulliṅga,alms
+52,2,19,saddo,pulliṅga,"noise, report"
+53,2,19,satto,pulliṅga,"being, creature"
+54,2,19,sugato,pulliṅga,well-gone (title of the Buddha)
+55,2,19,vādo,pulliṅga,"doctrine, debate, argument, statement"
+56,3,20,bhagavant,pulliṅga,"""the fortunate"", ""the bountiful"", ""the Master"" (translations vary: ""the blessed one"", ""the exalted one"", etc.)"
+57,3,20,brahman,pulliṅga,"""God"" (the supreme being and creator in the Brahmanical religion of the hereditary priesthood of India)"
+58,3,20,rājan,pulliṅga,king
+59,3,21,chaḍḍeti,vattamāna,"he throws away, he abandons"
+60,3,21,deseti,vattamāna,he teaches
+61,3,21,dhāreti,vattamāna,"he holds, he wears, he has, he accepts (with two patients /accusatives: x as y), he remembers"
+62,3,21,katheti,vattamāna,"he relates, he tells"
+63,3,21,kāmeti,vattamāna,he loves
+64,3,21,manteti,vattamāna,"he takes counsel, he discusses (confidentially)"
+65,3,21,paññāpeti,vattamāna,"he prepares, he declares"
+66,3,22,abhivādeti,vattamāna,"he salutes, he greets, he takes leave"
+67,3,22,bhāro,pulliṅga,"burden, load"
+68,3,22,hattho,pulliṅga,hand
+69,3,22,kālo,pulliṅga,"time, opportunity, proper time (appropriate time)"
+70,3,22,lābho,pulliṅga,gain
+71,3,22,nibbeṭheti,vattamāna,"he untwists, he unravels, he explains, he rebuts"
+72,3,22,nivāseti,vattamāna,he dresses
+73,3,22,paccayo,pulliṅga,"condition, cause"
+74,3,22,paṭisaṃvedeti,vattamāna,"he feels, he experiences (something to be something)"
+75,3,22,vañceti,vattamāna,he deceives
+76,3,22,vihāro,pulliṅga,"life, way of life, dwelling (also used figuratively of a mental state, e.g., of happiness)"
+77,3,22,vipāko,pulliṅga,result
+78,3,22,āmanteti,vattamāna,he addresses
+79,4,24,abhāsi,ajjatanī,he said
+80,4,24,bandhi,ajjatanī,he bound
+81,4,24,jhāyi,ajjatanī,he meditated
+82,4,24,nisīdi,ajjatanī,he sat down
+83,4,24,pabbaji,ajjatanī,he went forth
+84,4,24,pakkāmi,ajjatanī,he went away
+85,4,24,pucchi,ajjatanī,he asked
+86,4,24,pāvisi,ajjatanī,"he entered, he went"
+87,4,24,upasaṃkami,ajjatanī,he approached
+88,4,24,āsi,ajjatanī,"he was, it was"
+89,4,25,akāsi,ajjatanī,he made
+90,4,25,desesi,ajjatanī,he taught
+91,4,25,kathesi,ajjatanī,"he related, he told"
+92,4,25,paridevesi,ajjatanī,"he lamented, he grieved"
+93,4,25,āmantesi,ajjatanī,he addressed
+94,4,26,adāsi,ajjatanī,he gave
+95,4,26,ahosi,ajjatanī,"he was, there was"
+96,4,26,atha,nipāta,"then (atha kho combined mean ""then"", moreover"", ""rather"")"
+97,4,26,aṭṭhāsi,ajjatanī,"he stood, he remained"
+98,4,26,ettha,nipāta,here
+99,4,26,pahāsi,ajjatanī,he renounced
+100,4,27,bhūtapubbaṃ,nipāta,"formerly, once upon a time"
+101,4,27,ca,nipāta,"and (always follows the word it connects, or the first word of a phrase it connects called therefore an ""enclitic"" or ""postpositive"""
+102,4,27,kho,nipāta,indeed (slight emphasis)
+103,4,27,kumāro,pulliṅga,"boy, prince"
+104,4,27,māṇavo,pulliṅga,"boy, young priest"
+105,4,27,nāma,nipāta,"by name (used after the name) (sometimes merely emphatic, ""indeed"")"
+106,4,27,purohito,pulliṅga,"high priest, (approx.) prime minister (the priest who is chief adviser to the king, ""instructing"": anu-sās, him in both secular matters and religious duties)"
+107,4,27,rājaputto,pulliṅga,prince
+108,4,27,sace,nipāta,if
+109,4,27,sahāyo,pulliṅga,friend
+110,4,27,tadā,nipāta,then
+111,5,30,atthi,vattamāna,to be
+112,5,31,ma,nipāta,don't
+113,5,31,na,nipāta,not
+114,5,32,apeti,vattamāna,"he goes from, he goes away (poetic)"
+115,5,32,avoca,ajjatanī,he said
+116,5,32,ha,nipāta,indeed
+117,5,32,pi,nipāta,"also, too (like ca this follows the word, or the first word of the phrase, connected by it)"
+118,5,32,tena,nipāta,"this way, that way"
+119,5,32,tuṇhī,nipāta,"silent, silently"
+120,5,33,issaro,pulliṅga,"lord, god"
+121,5,33,mahārājā,pulliṅga,"great king, king (nom. sg. as rājan-, but rest follows a declension on stem -rāja-, e.g.: acc. mahārājaṃ. The nom. pl. may be written either ~ā or ~āno)"
+122,5,33,nirodho,pulliṅga,"cessation (of unhappiness and of perception, sensation and mental states), peace of mind, calm"
+123,5,33,paribbājako,pulliṅga,wanderer
+124,6,34,bhavatu,pañcamī,be!
+125,6,35,atthu,vattamāna,"it may be, may it be, it shall be."
+126,6,35,ehi,pañcamī,go! - you must go.
+127,6,35,hohi,pañcamī,be!
+128,6,35,jīvāhi,pañcamī,live! - make your living!
+129,6,35,ti,nipāta,end quote
+130,6,35,vadehi,pañcamī,say! - speak!
+131,6,36,karoti,vattamāna,he makes
+132,6,36,karotu,pañcamī,make!
+133,6,36,pappoti,vattamāna,"he attains, he arrives (a rare, ""poetic"" verb; cf. in ordinary speech phusati and upasaṃkamati)"
+134,6,36,sakkoti,vattamāna,"he can, he is able to"
+135,6,36,tanoti,vattamāna,"it expands, it stretches"
+136,6,36,vyākaroti,vattamāna,he explains
+137,6,37,abhikkamati,vattamāna,"he goes forward, he advances"
+138,6,37,anusāsati,vattamāna,"he advises, he instructs (used especially of ministers of a king, also figuratively of a teacher)"
+139,6,37,eti,vattamāna,"he comes (the vowels combine: only the context can decide whether the meaning is ""goes"" or ""comes"")"
+140,6,37,khādati,vattamāna,"he eats, he bites, he chews"
+141,6,37,okāso,pulliṅga,opportunity
+142,6,37,pahoti,vattamāna,he can (more emphatic than sakkoti)
+143,6,37,pariyāyo,pulliṅga,"course (lit, and fig., including discourse and manner of doing something)"
+144,6,37,pivati,vattamāna,he drinks 
+145,6,37,thūpo,pulliṅga,"monument, pagoda"
+146,6,37,vaṇṇo,pulliṅga,"colour, beauty, praise, class"
+147,6,38,bhavaṃ,nipāta,"good fortune! , best wishes!"
+148,6,38,sajjhāyo,pulliṅga,"learning, studying, study"
+149,6,38,saṅkho,pulliṅga,conch (trumpet)
+150,7,39,adhigata,atītakiriya,understood
+151,7,39,chaḍḍita,atītakiriya,"thrown away, abandoned"
+152,7,39,desita,atītakiriya,taught
+153,7,39,gata,atītakiriya,gone
+154,7,39,kata,atītakiriya,done
+155,7,39,kilanta,atītakiriya,tired
+156,7,39,kupita,atītakiriya,angered
+157,7,39,niggahīta,atītakiriya,refuted
+158,7,39,pakkanta,atītakiriya,"gone away, left"
+159,7,39,paññatta,atītakiriya,"declared, prepared"
+160,7,39,samannāgata,atītakiriya,"endowed, acquired"
+161,7,39,santuṭṭha,atītakiriya,"contented, satisfied"
+162,7,39,āgata,atītakiriya,come
+163,7,39,ṭhita,atītakiriya,"stood, stayed"
+164,7,40,baddha,atītakiriya,bound
+165,7,40,bhāsita,atītakiriya,spoken
+166,7,40,bhūta,atītakiriya,been
+167,7,40,diṭṭha,atītakiriya,seen
+168,7,40,nimmita,atītakiriya,created
+169,7,40,niruddha,atītakiriya,"stopped, ceased, ended"
+170,7,40,pabbajita,atītakiriya,gone forth
+171,7,40,puṭṭha,atītakiriya,asked
+172,7,40,santa,atītakiriya,calmed
+173,7,40,suta,atītakiriya,heard
+174,7,40,vimutta,atītakiriya,freed
+175,7,40,vutta,atītakiriya,said
+176,7,41,yānaṃ,napuṁsakaliṅga,carriage
+177,7,42,kammaṃ,napuṁsakaliṅga,work
+178,7,42,āsanaṃ,napuṁsakaliṅga,seat
+179,7,43,cīvaraṃ,napuṁsakaliṅga,robe
+180,7,43,dhanaṃ,napuṁsakaliṅga,"money, wealth"
+181,7,43,dukkhaṃ,napuṁsakaliṅga,"unhappiness, misery, suffering"
+182,7,43,dvāraṃ,napuṁsakaliṅga,"door, gate"
+183,7,43,dānaṃ,napuṁsakaliṅga,"gift, donation, alms"
+184,7,43,gehaṃ,napuṁsakaliṅga,"house, building"
+185,7,43,gottaṃ,napuṁsakaliṅga,clan
+186,7,43,kicchaṃ,napuṁsakaliṅga,difficulty
+187,7,43,maraṇaṃ,napuṁsakaliṅga,death
+188,7,43,puññaṃ,napuṁsakaliṅga,"merit, good, goodness, meritorious action"
+189,7,43,sahassaṃ,napuṁsakaliṅga,thousand
+190,7,43,sukhaṃ,napuṁsakaliṅga,happiness
+191,7,43,sīlaṃ,napuṁsakaliṅga,"virtue, good conduct"
+192,7,43,yojanaṃ,napuṁsakaliṅga,league (actually about 4.5 miles)
+193,7,43,āma,nipāta,yes
+194,8,46,bhavanmāno,missakiriya,being
+195,8,46,bhavanto,missakiriya,being
+196,8,46,gaccham,missakiriya,going
+197,8,47,karonto,missakiriya,doing
+198,8,47,paññapento,missakiriya,declaring
+199,8,48,abhivādetvā ,pubbakiriyā,having greeted
+200,8,48,chinditvā,pubbakiriyā,having cut
+201,8,48,disvā,pubbakiriyā,having seen
+202,8,48,gahetvā,pubbakiriyā,having taken
+203,8,48,gantvā,pubbakiriyā,having gone
+204,8,48,katvā,pubbakiriyā,having done; karitvā is also used
+205,8,48,nivāsetvā ,pubbakiriyā,having dressed
+206,8,48,pavisitvā,pubbakiriyā,having entered
+207,8,48,sutvā,pubbakiriyā,having heard
+208,8,48,upasaṃkamitvā ,pubbakiriyā,having approached
+209,8,48,uṭṭhāya,pubbakiriyā,having stood up
+210,8,48,vatvā,pubbakiriyā,having said
+211,8,48,vivicca,pubbakiriyā,"having become separated from, having become isolated"
+212,8,48,ādāya,pubbakiriyā,"having taken (often equivalent to simply ""taking"" in English)"
+213,8,49,agāraṃ,napuṁsakaliṅga,"house, home"
+214,8,49,annaṃ,napuṁsakaliṅga,food
+215,8,49,bhojanaṃ,napuṁsakaliṅga,"meal, food"
+216,8,49,bhāsitaṃ,napuṁsakaliṅga,"speaking, saying (p.p. of bhās used as a noun)"
+217,8,49,bhūto,pulliṅga,living being (p.p. of bhū used as a noun)
+218,8,49,cittaṃ,napuṁsakaliṅga,"thought, mind, heart (figuratively)"
+219,8,49,daṇḍo,pulliṅga,"stick, force, punishment"
+220,8,49,gāravo,pulliṅga,respect
+221,8,49,hutvā,pubbakiriyā,having been
+222,8,49,jayati,vattamāna,"he conquers, he wins, he defeats"
+223,8,49,jhānaṃ,napuṁsakaliṅga,meditation
+224,8,49,jīvitaṃ,napuṁsakaliṅga,life
+225,8,49,labhati,vattamāna,"he obtains, he gets"
+226,8,49,nagaraṃ,napuṁsakaliṅga,city
+227,8,49,"nibbānaṃ, parinibbānaṃ",napuṁsakaliṅga,"extinction (of existence), liberation (from existence), Nirvāṇa1"
+228,8,49,nāgo,pulliṅga,elephant
+229,8,49,pahāya,pubbakiriyā,having renounced
+230,8,49,pasavati,vattamāna,he generates
+231,8,49,paṇho,pulliṅga,question
+232,8,49,paṭissutvā,pubbakiriyā,"having agreed, having assented"
+233,8,49,pānaṃ,napuṁsakaliṅga,drink
+234,8,49,vatthaṃ,napuṁsakaliṅga,"garment (plural: clothes, dress)"
+235,8,49,vitthāro,pulliṅga,breadth
+236,8,49,āyāmo,pulliṅga,length
+237,8,49,ṭhānaṃ,napuṁsakaliṅga,place
+238,8,50,diṭṭhā,nipāta,"excellent, splendid!, it's lucky, it's wonderful"
+239,8,50,handa,nipāta,well!
+240,8,50,saraṇaṃ,napuṁsakaliṅga,"protection, refuge"
+241,8,50,senāsanaṃ,napuṁsakaliṅga,"abode, resting place"
+242,8,50,vata,nipāta,"surely, indeed! (strong emphasis or mild expletive, expressing a wish, regret, reproach or surprise: cf. ""alas!"", ""I say!"")"
+243,8,50,veraṃ,napuṁsakaliṅga,hatred
+244,8,50,viññāṇaṃ,napuṁsakaliṅga,consciousness
+245,8,51,pahiyati,pubbakiriyā,it is given up
+246,9,52,avijjā,itthiliṅga,ignorance
+247,9,52,dissati,kammapada,he is seen
+248,9,52,dīyati,kammapada,it is given
+249,9,52,haññati,kammapada,he is killed
+250,9,52,kariyati,kammapada,it is done (the i may be long or short; another spelling is kayirati)
+251,9,52,kathā,itthiliṅga,"talk, story"
+252,9,52,paññāyati,kammapada,it is understood
+253,9,52,taṇhā,itthiliṅga,"desire, ""thirst"""
+254,9,52,upāsikā,itthiliṅga,female lay disciple
+255,9,52,vuccati,kammapada,"it is said, it is called (cf. the past participle: vutta)"
+256,9,53,ajo,pulliṅga,goat
+257,9,53,apakkamati,vattamāna,"he goes off, he withdraws"
+258,9,53,bhante,nipāta,sir! (polite address to a Buddhist monk)
+259,9,53,devatā,itthiliṅga,"deity, divine being, spirit"
+260,9,53,mālā,itthiliṅga,garland
+261,9,53,parisā,itthiliṅga,assembly
+262,9,53,paññā,itthiliṅga,"understanding, wisdom"
+263,9,53,saccaṃ,nipāta,"it is true that, is it true that? (whether this is interrogative can appear only from the context and intonation)"
+264,9,53,saññā,itthiliṅga,perception
+265,9,53,sālā,itthiliṅga,hall
+266,9,53,vedanā,itthiliṅga,sensation
+267,9,53,vijjā,itthiliṅga,"science, knowledge"
+268,9,53,vā,nipāta,"or, either (enclitic, used like ca in Vocabulary section of Part 4)"
+269,9,53,vācā,itthiliṅga,speech
+270,9,54,bhavissati,bhavissantī,"he will be, there will be"
+271,9,54,desessati,bhavissantī,he will teach
+272,9,54,gamissati,bhavissantī,he will go
+273,9,54,labhissati,bhavissantī,he will get
+274,9,54,saṃvibhajissati,bhavissantī,he will share
+275,9,55,pahīyissati,bhavissantī,it will be given up
+276,10,58,arahati,vattamāna,"he deserves, he must, he ought"
+277,10,58,kilamati,vattamāna,he becomes tired
+278,10,59,antarena,nipāta,between (with genitive)
+279,10,59,anto,pulliṅga,"side, end, extreme"
+280,10,59,aropita,nipāta,"before, in front of (with genitive)"
+281,10,59,bhayaṃ,napuṁsakaliṅga,danger
+282,10,59,bhāgo,pulliṅga,share
+283,10,59,ciraṃ,nipāta,"for a long time, after a long time"
+284,10,59,dāso,pulliṅga,slave
+285,10,59,jayo,pulliṅga,victory
+286,10,59,pana (enclitic),nipāta,"but, however"
+287,10,59,piṭṭhito,nipāta,behind (with genitive)
+288,10,59,pūjeti,vattamāna,he honours
+289,10,59,ratanaṃ,napuṁsakaliṅga,"gem, precious thing"
+290,10,59,rudati,vattamāna,he weeps
+291,10,59,sarīraṃ,napuṁsakaliṅga,"body (of a man or animal: kāyo has this sense but also the wider meanings of ""substance"", ""particle""), the plural sarīrāni is used to mean ""(bodily) relics"" (of the Buddha after his cremation)"
+292,10,59,sobhati,vattamāna,he makes it clear (intransitive)
+293,10,59,suvaṇṇaṃ ,napuṁsakaliṅga,gold
+294,10,59,telaṃ,napuṁsakaliṅga,oil (sesame oil)
+295,10,59,veṭheti,vattamāna,he wraps
+296,10,59,vījati,vattamāna,he fans
+297,10,59,yañño,pulliṅga,sacrifice (ritual)
+298,10,59,āropita,atītakiriya,disproved
+299,11,61,akusala,guṇanāma,"bad, unwholesome"
+300,11,61,ananta,guṇanāma,"infinite, borderless, boundless"
+301,11,61,atīta,guṇanāma,past
+302,11,61,dakkhiṇa,guṇanāma,"right (hand), southern"
+303,11,61,dhuva,guṇanāma,fixed
+304,11,61,iddha,guṇanāma,"powerful, prosperous"
+305,11,61,kalyāṇa,guṇanāma,"beautiful, good"
+306,11,61,kanta (p.p. kam) ,guṇanāma,"agreeable, lovely"
+307,11,61,kusala,guṇanāma,"good, wholesome"
+308,11,61,nicca,guṇanāma,"permanent, regular"
+309,11,61,pacchima,guṇanāma,"last, western"
+310,11,61,pahūta,guṇanāma,"much, many"
+311,11,61,phīta,guṇanāma,prosperous
+312,11,61,piya,guṇanāma,dear
+313,11,62,chijjati,vattamāna,he cuts (down)
+314,11,62,jāyati,vattamāna,he is born (intransitive verb; stem irregularly formed)
+315,11,62,maññati,vattamāna,he thinks
+316,11,62,sassata,guṇanāma,eternal
+317,11,62,sukara,guṇanāma,easy
+318,11,62,sukha,guṇanāma,happy
+319,11,62,vāma,guṇanāma,left
+320,11,62,ādiyati,vattamāna,"he takes (irregular elision of root vowel, cf. passive conjugation; here i)"
+321,11,62,āpajjati,vattamāna,"he acquires, he produces, he gets, he has (intransitive in the latter meaning)"
+322,11,63,nipajjati,vattamāna,he lies down
+323,11,63,nirujjhati,vattamāna,"it stops, it ceases"
+324,11,63,paṭipajjati,vattamāna,"he engages in, he follows, he practises, he behaves (habitually)"
+325,11,63,upapajjati,vattamāna,"he transmigrates, he is reborn"
+326,11,63,upasampajjati,vattamāna,he enters into
+327,11,63,uppajjati,vattamāna,"it happens, it arises, it becomes"
+328,11,63,vijjati,vattamāna,"it is, it occurs, it is found (to be the case)"
+329,11,63,vimuccati,vattamāna,he is freed
+330,11,64,addasā,ajjatanī,he saw
+331,11,64,agamāsi,ajjatanī,he went
+332,11,64,bhinna,atītakiriya,"divided, split"
+333,11,64,chinna,atītakiriya,cut off
+334,11,64,dinna,atītakiriya,given
+335,11,64,hīna,atītakiriya,"diminished, eliminated"
+336,11,64,nisinna,atītakiriya,seated
+337,11,64,paṭipanna,atītakiriya,"engaged in, following, practising"
+338,11,64,sampanna,atītakiriya,"endowed with, having"
+339,11,64,upapanna,atītakiriya,"transmigrated, reborn, arisen, come into existence"
+340,11,64,uppanna,atītakiriya,"happened, arisen"
+341,11,64,āpanna,atītakiriya,"possessing, having"
+342,11,65,abbhukkirati,vattamāna,he sprinkles
+343,11,65,bhiṅkāro,pulliṅga,"vase, ceremonial water vessel"
+344,11,65,cakkaṃ,napuṁsakaliṅga,wheel
+345,11,65,cuta,atītakiriya,"fallen, passed away"
+346,11,65,disā,itthiliṅga,direction
+347,11,65,idha,nipāta,"here, in this connection"
+348,11,65,kuto pana,nipāta,"(whence then? - rhetorical question): much less, let alone"
+349,11,65,kārako,pulliṅga,doer
+350,11,65,micchā,nipāta,"wrongly, badly"
+351,11,65,pāmujjaṃ,napuṁsakaliṅga,"gladness, joy"
+352,11,65,rukkho,pulliṅga,tree
+353,11,65,samaññā,itthiliṅga,"designation, agreed usage"
+354,11,65,sammā,nipāta,"rightly, perfectly"
+355,11,65,saṃvaro,pulliṅga,restraint
+356,11,65,tato,nipāta,"thence, then, from there, from that"
+357,11,65,vipariṇata,atītakiriya,changed
+358,11,65,ābādho,pulliṅga,illness
+359,11,65,āvuso,nipāta,"sir! (polite address between equals, also to juniors)"
+360,11,70,asso,assosi,he heard
+361,11,74,khamati,vattamāna,"it pleases, it suits, he approves, he likes (dative of person)"
+362,11,74,ākaṅkhati,vattamāna,he wishes
+363,11,75,nikkhamati,vattamāna,"he goes out, he leaves "
+364,11,75,sannipatanti,vattamāna,they assemble
+365,11,75,upaḷāseti,vattamāna,"he plays, he sounds"
+366,12,68,abhabba,nipāta,"unable, incapable"
+367,12,68,alaṃ,nipāta,"sufficient, enough, adequate, perfected"
+368,12,68,namo,nipāta,hail!
+369,12,68,sotthi,nipāta,"safety, safely"
+370,12,68,svāgataṃ,nipāta,welcome
+371,12,72,yada,nipāta,when
+372,12,72,yadi,nipāta,if
+373,12,72,yatha,nipāta,as
+374,12,72,yato,nipāta,"whence, because, since"
+375,12,72,yattha,nipāta,where
+376,12,74,apara,guṇanāma,another (pronominal)
+377,12,74,añña,guṇanāma,other (pronominal)
+378,12,74,aññatara,guṇanāma,"a certain, a (pronominal)"
+379,12,74,para,guṇanāma,"other, another (pronominal)"
+380,12,74,sabba,guṇanāma,"all, entire (pronominal)"
+381,12,75,ajja,nipāta,to-day
+382,12,75,ambho,nipāta,sir! (not very respectful)
+383,12,75,dassanaṃ ,napuṁsakaliṅga,seeing
+384,12,75,janapado,pulliṅga,country
+385,12,75,jīvo,pulliṅga,"life-principle, soul"
+386,12,75,kamanīya,guṇanāma,lovely
+387,12,75,madanīya,guṇanāma,intoxicating
+388,12,75,nu,nipāta,"? (enclitic: an interrogative particle reinforcing an interrogative pronoun or combined with another indeclinable to make it interrogative: nanu,""(is) not?""; or by itself = ""does?"")"
+389,12,75,paccantajo ,pulliṅga,"borderer, foreigner"
+390,12,75,paccantima,guṇanāma,"bordering, foreign"
+391,12,75,phalaṃ,napuṁsakaliṅga,fruit
+392,12,75,rajanīya,guṇanāma,exciting
+393,12,75,saṅkhadhamo ,napuṁsakaliṅga,conch blower
+394,12,75,taṃ,nipāta,"then, so, now (accusative of ta(d) used adverbially)"
+395,12,75,upasamo,pulliṅga,calm
+396,12,75,yathā,nipāta,"as, how"
