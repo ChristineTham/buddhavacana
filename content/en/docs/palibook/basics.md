@@ -708,7 +708,7 @@ The rules for constructing a `tadhitta` affixed noun can be rather daunting:
 
 | type | name | affix | rule | `liṅga` | notes |
 | :-: | :-: | :-: | :-: | :-: | --- |
-| `Apacca` | Patronymic | `ṇa` | {344} | 🚹 (but can be variable) | |
+| `apacca` | patronymic | `ṇa` | {344} | 🚹 (but can be variable) | |
 | | | `ṇāyana`, `ṇāna` | {345} | 🚹 (but can be variable) | |
 | | | `ṇeya` | {346} | 🚹 (but can be variable) | |
 | | | `ṇi` | {347} | 🚹 | |
@@ -720,18 +720,18 @@ The rules for constructing a `tadhitta` affixed noun can be rather daunting:
 | | | `ima`, `iya` | {353} | 🚹 (but can be variable) | |
 | | | `ima`, `iya`, `ika` | by `ādi` of {353} | 🚹 (but can be variable) | |
 | | | `kiya` | by `ca` of {353} | 🚹 (but can be variable) | |
-| `samūha` | various meanings | `kaṇ`, `ṇa` | {354} | 🚹 | |
+| `samūha` | collective grouping | `kaṇ`, `ṇa` | {354} | 🚹 | |
 | | | `tā` | {355} | 🚺 | |
-| `taʼdassathāna` | various meanings | `iya` | {356} | 🚻 (but can be variable) | |
-| `upamā` | various meanings | `āyitatta` | {357} | 🚻 | |
-| `tanʼnissitattha` | various meanings | `la` | {358} | 🚻 (mostly) | |
-| `bahula` | various meanings | `ālu` | {359} | variable | `ka` is added sometimes. eg. `dayāluko` |
-| `bhāva` | Abstract conditions | `ṇya`, `tta` | {360} | 🚻 | |
+| `taʼdassathāna` | the source or the cause | `iya` | {356} | 🚻 (but can be variable) | |
+| `upamā` | analogous similitude | `āyitatta` | {357} | 🚻 | |
+| `tanʼnissitattha` | dependent nature and source | `la` | {358} | 🚻 (mostly) | |
+| `bahula` | prominent nature | `ālu` | {359} | variable | `ka` is added sometimes. eg. `dayāluko` |
+| `bhāva` | abstract conditions | `ṇya`, `tta` | {360} | 🚻 | |
 | | | `ttana` | by `tu` of {340} | 🚻 | |
 | | | `tā` | {360} | 🚺 | |
 | | | `ṇa` | {361} | 🚻 | |
-| `visesa` | Comparisons | `tara`, `tama`, `isika`, `iya`, `iṭṭha` | {363} | variable | |
-| `taʼdassaʼtthi` | various meanings | `vī` | {364} | 🚹 (but can be variable) | |
+| `visesa` | comparisons | `tara`, `tama`, `isika`, `iya`, `iṭṭha` | {363} | variable | |
+| `taʼdassaʼtthi` | possessed quality or inherent nature | `vī` | {364} | 🚹 (but can be variable) | |
 | | | `so` | by `ca` of {364} | 🚹 (but can be variable) | |
 | | | `sī` | {365} | 🚹 (but can be variable) | |
 | | | `ika`, `ī` | {366} | 🚹 (but can be variable) | |
@@ -739,10 +739,10 @@ The rules for constructing a `tadhitta` affixed noun can be rather daunting:
 | | | `vantu` | {368} | 🚹 (but can be variable) | |
 | | | `mantu` | {369} | 🚹 (but can be variable) | |
 | | | `ṇa` | {370} | 🚹 (but can be variable) | |
-| `tappakati` | various meanings | `maya` | {372} | variable | |
+| `tappakati` | made up of something | `maya` | {372} | variable | |
 
 Words with `taddhita` affixes are sometimes not recognised by Pali-English
-dictionaries, since most Pali textbooks do not cover the full range of possible
+dictionaries, since these dictionaries may not cover the full range of possible
 affixes and their meanings. So it is probably
 worthwhile learning how to recognise `taddhita` affixed words and the associated
 meanings.

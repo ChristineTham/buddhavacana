@@ -1,10 +1,10 @@
 ---
 title: "Sentence examples (padamañjarī)"
 linkTitle: "Sentences"
-date: 2023-08-05
+date: 2023-10-18
 weight: 300
 description: >
-  Sentence examples (evolving) based on Warder "Introduction to Pali" exercises
+  Sentence examples (evolving) based on Warder "Introduction to Pali" exercises. Contains sample sentences from Lessons 1-12
 ---
 
 ## Legend
@@ -339,7 +339,7 @@ classDiagram
     english(I am the Lord God)
   }
   class ahaṃ {
-    <<sabbanāma>>
+    <<puggalanāma>>
     ⚧👤1️⃣👆
     english(I)
   }
@@ -381,12 +381,12 @@ classDiagram
     english(We said that to the Blessed One)
   }
   class mayaṃ {
-    <<sabbanāma>>
+    <<puggalanāma>>
     ⚧👥1️⃣👆
     english(We)
   }
   class taṃ {
-    <<niyamita>>
+    <<nidassananāma>>
     ⚧👤🤟2️⃣
     english(that)
   }
@@ -401,8 +401,8 @@ classDiagram
     english(said)
   }
   sentence *-- mayaṃ : kattar
-  sentence *-- taṃ : niyamita
-  sentence *-- bhagavantaṃ : kamma
+  sentence *-- taṃ : kamma 1
+  sentence *-- bhagavantaṃ : kamma 2
   sentence *-- avocuṃha: dvikammaka
 ```
 
@@ -419,7 +419,7 @@ classDiagram
     english(Mahārāja, this is the Bhagavā [Blessed One])
   }
   class eso {
-    <<niyamita>>
+    <<nidassananāma>>
     🚹👤🤟1️⃣
     english(this)
   }
@@ -433,7 +433,7 @@ classDiagram
     🚹👤1️⃣
     english(Blessed One)
   }
-  sentence *-- eso : niyamita
+  sentence *-- eso : kattar
   sentence *-- Mahārāja : ālapana
   sentence *-- Bhagavā : kattar
 ```
@@ -448,7 +448,7 @@ classDiagram
     english(The Bhagavā said this)
   }
   class idaṃ {
-    <<niyamita>>
+    <<nidassananāma>>
     🚻👤🤟2️⃣
     english(this)
   }
@@ -462,7 +462,7 @@ classDiagram
     🚹👤1️⃣
     english(Blessed One)
   }
-  sentence *-- idaṃ : niyamita
+  sentence *-- idaṃ : kamma
   sentence *-- avoca : ākhyāta
   sentence *-- Bhagavā : kattar
 ```
@@ -498,7 +498,7 @@ classDiagram
     english(You do not see)
   }
   class tvaṃ {
-    <<sabbanāma>>
+    <<puggalanāma>>
     ⚧👤🤘1️⃣
     english(You)
   }
@@ -635,7 +635,7 @@ classDiagram
     english(not)
   }
   class tvaṃ {
-    <<sabbanāma>>
+    <<puggalanāma>>
     ⚧👤🤘1️⃣
     english(you)
   }
@@ -669,7 +669,7 @@ classDiagram
     english([must] go)
   }
   class tvaṃ {
-    <<sabbanāma>>
+    <<puggalanāma>>
     ⚧👤🤘1️⃣
     english(you)
   }
@@ -997,7 +997,7 @@ classDiagram
     english(At that time I was King Mahāsudassana)
   }
   class tena {
-    <<sabbanāma>>
+    <<nidassananāma>>
     ⚧👤🤟3️⃣
     english(that)
   }
@@ -1333,12 +1333,12 @@ classDiagram
   }
   namespace kattar {
     class ayaṃ {
-      <<sabbanāma>>
+      <<nidassananāma>>
       ⚧👤🤟1️⃣
-      english(his)
+      english(this)
     }
     class imassa {
-      <<sabbanāma>>
+      <<nidassananāma>>
       ⚧👤🤟6️⃣
       english(of this)
     }
@@ -1402,12 +1402,12 @@ classDiagram
   }
   namespace kattar {
     class ahaṃ {
-      <<sabbanāma>>
+      <<puggalanāma>>
       ⚧👤👆1️⃣
       english(I)
     }
     class tassa {
-      <<sabbanāma>>
+      <<nidassananāma>>
       🚹👤🤟6️⃣
       english(of that)
     }
@@ -1455,7 +1455,7 @@ classDiagram
       english(however)
     }
     class me {
-      <<sabbanāma>>
+      <<puggalanāma>>
       ⚧👤👆6️⃣
       english(of I)
     }
@@ -1484,4 +1484,612 @@ classDiagram
   sentence *-- karontassa : genitive absolute
   sentence *-- kāyo : katar
   sentence *-- kilamissati : bhavissanti
+```
+
+### Adjective (junction)
+
+```mermaid
+classDiagram
+  class sentence["sassato loko"] {
+    <<vākya>>
+    english(The world [is] eternal)
+  }
+  class sassato {
+    <<guṇanāma>>
+    🚹👤1️⃣
+    english(eternal)
+  }
+  class loko {
+    <<nāma>>
+    🚹👤1️⃣
+    english(world)
+  }
+  sentence *-- sassato : guṇanāma
+  sentence *-- loko: kattar
+```
+
+### Adjective (nexus)
+
+"who is/which is"
+
+```mermaid
+classDiagram
+  class sentence["vācā kantā"] {
+    <<vākya>>
+    english(The speech [which is] agreeable)
+  }
+  class vācā {
+    <<nāma>>
+    🚹👤1️⃣
+    english(speech)
+  }
+  class kantā {
+    <<guṇanāma>>
+    🚹👤1️⃣
+    english(agreeable)
+  }
+  sentence *-- vācā: kattar
+  sentence *-- kantā : guṇanāma
+```
+
+### Possibility of an event (or inference)
+
+```mermaid
+classDiagram
+  class sentence["ṭhānaṃ etaṃ vijjati ..."] {
+    <<vākya>>
+    english(this/it is possible ...)
+  }
+  class ṭhānaṃ {
+    <<nipāta>>
+    english(it is possible)
+  }
+  class etaṃ {
+    <<nidassananāma>>
+    ⚧👤🤟1️⃣
+    english(this)
+  }
+  class vijjati {
+    <<ākhyāta>>
+     👤🤟▶️
+    english(it occurs)
+  }
+  sentence *-- ṭhānaṃ: nipāta
+  sentence *-- etaṃ: kattar
+  sentence *-- vijjati : ākhyāta
+```
+
+```mermaid
+classDiagram
+  class sentence["n' etaṃ ṭhānaṃ vijjati ..."] {
+    <<vākya>>
+    english(this is impossible .../It is not the case ...)
+  }
+  class na {
+    <<nipāta>>
+    english(not)
+  }
+  class etaṃ {
+    <<nidassananāma>>
+    ⚧👤🤟1️⃣
+    english(this)
+  }
+  class ṭhānaṃ {
+    <<nipāta>>
+    english(it is possible)
+  }
+  class vijjati {
+    <<ākhyāta>>
+     👤🤟▶️
+    english(it occurs)
+  }
+  sentence *-- na: nipāta
+  sentence *-- etaṃ: kattar
+  sentence *-- ṭhānaṃ: nipāta
+  sentence *-- vijjati : ākhyāta
+```
+
+### Dative (purpose)
+
+```mermaid
+classDiagram
+  class sentence["gāmaṃ piṇḍāya pāvisi"] {
+    <<vākya>>
+    english(He entered the village for alms)
+  }
+  class gāmaṃ {
+    <<nāma>>
+    🚹👤1️⃣
+    english(village)
+  }
+  class piṇḍāya {
+    <<nāma>>
+    🚹👤4️⃣
+    english(alms)
+  }
+  class pāvisi {
+    <<ākhyāta>>
+     👤🤟⏮
+    english([he] entered)
+  }
+  sentence *-- gāmaṃ: kattar
+  sentence *-- piṇḍāya: sampadāna
+  sentence *-- pāvisi : ākhyāta
+```
+
+### proper time for something, the opportunity for something
+
+```mermaid
+classDiagram
+  class sentence["etassa kālo ..."] {
+    <<vākya>>
+    english(it is the time for this / it is the right time for this)
+  }
+  class etassa {
+    <<nidassananāma>>
+    ⚧👤4️⃣
+    english(for this)
+  }
+  class kālo {
+    <<nāma>>
+    🚹👤1️⃣
+    english(time)
+  }
+  sentence *-- etassa: sampadāna
+  sentence *-- kālo: kattar
+```
+
+### not the right time
+
+```mermaid
+classDiagram
+  class sentence["akālo … yācanāya"] {
+    <<vākya>>
+    english(it is not the right time for asking)
+  }
+  class akālo {
+    <<nāma>>
+    🚹👤1️⃣
+    english(not the time for)
+  }
+  class yācanāya {
+    <<nidassananāma>>
+    🚻👤4️⃣
+    english(asking)
+  }
+  sentence *-- akālo: kattar
+  sentence *-- yācanāya: sampadāna
+```
+
+### for which you think it is now the right time
+
+The last expression is extremely common in saying (formally) goodbye (spoken by
+the host, not the guest - who for his part has made the excuse of pressure of
+work). It is used also by servants reporting to their master that preparations
+are completed, implying "you can start whenever you wish", etc.
+
+```mermaid
+classDiagram
+  class sentence["yassa dāni kālaṃ maññasi"] {
+    <<vākya>>
+    english(for which you think it is now the right time)
+  }
+  class yassa {
+    <<anvayīnāma>>
+    ⚧👤4️⃣
+    english(for which)
+  }
+  class dāni {
+    <<nipāta>>
+    english(now)
+  }
+  class kālaṃ {
+    <<nāma>>
+    🚹👤1️⃣
+    english(time)
+  }
+  class maññasi {
+    <<ākhyāta>>
+     👤🤘▶️
+    english([you] think)
+  }
+  sentence *-- yassa: sampadāna
+  sentence *-- dāni: nipāta
+  sentence *-- kālaṃ: kattar
+  sentence *-- maññasi: ākhyāta
+```
+
+### relative clause
+
+```mermaid
+classDiagram
+  class sentence["atha kho ye icchiṃsu te akaṃsu"] {
+    <<vākya>>
+    english(then [indeed] those who wished, they worked)
+  }
+  class atha {
+    <<nipāta>>
+    english(then)
+  }
+  class kho {
+    <<nipāta>>
+    english(now)
+  }
+  namespace relative {
+    class ye {
+      <<anvayīnāma>>
+      ⚧👥1️⃣
+      english(those who)
+    }
+    class icchiṃsu {
+      <<ākhyāta>>
+      👥🤟⏮
+      english([they] wished)
+    }
+  }
+  namespace main {
+    class te {
+      <<puggalanāma>>
+      ⚧👥1️⃣
+      english(they)
+    }
+    class akaṃsu {
+      <<ākhyāta>>
+      👥🤟⏮
+      english([they] worked)
+    }
+  }
+  sentence *-- atha: nipāta
+  sentence *-- kho: nipāta
+  sentence *-- ye: aniyamuddesa
+  sentence *-- icchiṃsu: ajjatanī
+  sentence *-- te: kattar
+  sentence *-- akaṃsu: ajjatanī
+```
+
+```mermaid
+classDiagram
+  class sentence["yena dvārena nikkhami taṃ Gotamadvāraṃ nāma ahosi"] {
+    <<vākya>>
+    english(the gate by which he left was called Gotama Gate)
+  }
+  namespace relative {
+    class yena {
+      <<anvayīnāma>>
+      ⚧👤4️⃣
+      english(by which)
+    }
+    class dvārena {
+      <<nāma>>
+      🚹👤4️⃣
+      english(by gate)
+    }
+    class nikkhami {
+      <<ākhyāta>>
+      👤🤟⏮
+      english([he] left)
+    }
+  }
+  namespace main {
+    class taṃ {
+      <<puggalanāma>>
+      ⚧👤1️⃣
+      english(that)
+    }
+    class Gotamadvāraṃ {
+      <<nāmanāma>>
+      🚹👤2️⃣
+      english(Gotamadvāro)
+    }
+    class nāma {
+      <<avyaya>>
+      english(name)
+    }
+    class ahosi {
+      <<ākhyāta>>
+      👤🤟⏮
+      english([it] was)
+    }
+  }
+  sentence *-- yena: aniyamuddesa
+  sentence *-- dvārena: karaṇa
+  sentence *-- nikkhami: ajjatanī
+  sentence *-- taṃ: kattar
+  sentence *-- Gotamadvāraṃ: kattar
+  sentence *-- nāma: avyaya
+  sentence *-- ahosi: ajjatanī
+```
+
+### pronominal adjective
+
+```mermaid
+classDiagram
+  class sentence["ye … ahesuṃ, … sabbe … bhakkhesi"] {
+    <<vākya>>
+    english(those … who were there, … he devoured (bhakkh) them all)
+  }
+  namespace relative {
+    class ye {
+      <<anvayīnāma>>
+      ⚧👥1️⃣
+      english(those who)
+    }
+    class ahesuṃ {
+      <<ākhyāta>>
+      👥🤟⏮
+      english([they] were)
+    }
+  }
+  namespace main {
+    class sabbe {
+      <<sabbanāma>>
+      ⚧👥2️⃣
+      english(them all)
+    }
+    class bhakkhesi {
+      <<ākhyāta>>
+      👤🤟▶️
+      english(devour)
+    }
+  }
+  sentence *-- ye: aniyamuddesa
+  sentence *-- ahesuṃ: ajjatanī
+  sentence *-- sabbe: kamma
+  sentence *-- bhakkhesi: ākhyāta
+```
+
+### universal relative pronoun
+
+```mermaid
+classDiagram
+  class sentence["yo yo … ādiyissati tassa tassa … anuppadassāmi"] {
+    <<vākya>>
+    english(whoever will take … to him I will grant …)
+  }
+  namespace relative {
+    class yo["yo yo"] {
+      <<anīyamanāma>>
+      ⚧👤1️⃣
+      english(whoever)
+    }
+    class ādiyissati {
+      <<ākhyāta>>
+      👤🤟⏭
+      english(will take)
+    }
+  }
+  namespace main {
+    class tassa["tassa tassa"] {
+      <<puggalanāma>>
+      ⚧👤4️⃣
+      english(to him)
+    }
+    class anuppadassāmi {
+      <<ākhyāta>>
+      👤🤟⏭
+      english([I] will grant)
+    }
+  }
+  sentence *-- yo: aniyamuddesa
+  sentence *-- ādiyissati: bhavissanti
+  sentence *-- tassa: sampadāna
+  sentence *-- anuppadassāmi: bhavissanti
+```
+
+```mermaid
+classDiagram
+  class sentence["yena yena gacchati"] {
+    <<vākya>>
+    english(wherever he goes)
+  }
+  class yena["yena yena"] {
+    <<anīyamanāma>>
+    ⚧👤6️⃣
+    english(wherever)
+  }
+  class gacchati {
+    <<ākhyāta>>
+    👤🤟▶️
+    english([he] goes)
+  }
+  sentence *-- yena: anīyamanāma
+  sentence *-- gacchati : ākhyāta
+```
+
+### emphatic demonstrative pronoun
+
+```mermaid
+classDiagram
+  class sentence["yo so satto paṭhamaṃ upapanno, tassa evaṃ hoti: ahaṃ asmi brahmā"] {
+    <<vākya>>
+    english(that being who has come into existence first (in the evolution of the universe) thinks he is God)
+  }
+  namespace relative {
+    class yoso["yo so"] {
+      <<anvayīnāma>>
+      ⚧👤1️⃣
+      english(he who)
+    }
+    class satto {
+      <<nāma>>
+      🚹👤1️⃣
+      english(being)
+    }
+    class paṭhamaṃ {
+      <<nipāta>>
+      english(firstly)
+    }
+    class upapanno {
+      <<past participle>>
+      ⏪🚹👤1️⃣
+      english(arose)
+    }
+  }
+  namespace idiom {
+    class tassa {
+      <<puggalanāma>>
+      ⚧👥4️⃣
+      english(to him)
+    }
+    class evaṃ {
+      <<nipāta>>
+      english(thus)
+    }
+    class hoti {
+      <<ākhyāta>>
+      👤🤟▶️
+      english(is)
+    }
+  }
+  namespace thought {
+    class ahaṃ {
+      <<puggalanāma>>
+      ⚧👤1️⃣👆
+      english(I)
+    }
+    class asmi {
+      <<ākhyāta>>
+      👤🤟▶️
+      english([I] am)
+    }
+    class brahmā {
+      <<nāma>>
+      🚹👤2️⃣
+      english(God)
+    }
+  }
+  sentence *-- yoso: nidassananāma
+  sentence *-- satto: kattar
+  sentence *-- paṭhamaṃ: nipāta
+  sentence *-- upapanno: kattar
+  sentence *-- tassa: sampadāna
+  sentence *-- evaṃ: nipāta
+  sentence *-- hoti: ākhyāta
+  sentence *-- ahaṃ: kattar
+  sentence *-- asmi: ākhyāta
+  sentence *-- brahmā: kattar
+```
+
+### Relative Indeclinable
+
+relative clause follows main clause = elevated speech emphasising main clause
+
+```mermaid
+classDiagram
+  class sentence["hoti kho so samayo yaṃ … ayaṃ loko vivaṭṭati"] {
+    <<vākya>>
+    english(there is indeed the (so) time that (i.e. when) ... this world evolves)
+  }
+  namespace main {
+    class hoti {
+      <<ākhyāta>>
+      👤🤟▶️
+      english(is)
+    }
+    class kho {
+      <<nipāta>>
+      english(indeed)
+    }
+    class so {
+      <<pucchānāma>>
+      🚹👤🤟
+      english(that)
+    }
+    class samayo {
+      <<nāma>>
+      🚹👤1️⃣
+      english(time)
+    }
+  }
+  namespace relative {
+    class yaṃ {
+      <<anvayīnāma>>
+      ⚧👤1️⃣
+      english(when)
+    }
+    class ayaṃ {
+      <<nidassananāma>>
+      ⚧👤🤟1️⃣
+      english(this)
+    }
+    class loko {
+      <<nāma>>
+      🚹👤1️⃣
+      english(world)
+    }
+    class vivaṭṭati {
+      <<ākhyāta>>
+      👤🤘▶️
+      english(revolves)
+    }
+  }
+  sentence *-- hoti : ākhyāta
+  sentence *-- kho: nipāta
+  sentence *-- so: kattar
+  sentence *-- samayo: kattar
+  sentence *-- yaṃ: aniyamuddesa
+  sentence *-- ayaṃ: nidassananāma
+  sentence *-- loko: kattar
+  sentence *-- vivaṭṭati: ākhyāta
+```
+
+### Interrogative
+
+```mermaid
+classDiagram
+  class sentence["ko 'si tvaṃ āvuso"] {
+    <<vākya>>
+    english(Who are you, friend?)
+  }
+  class ko {
+    <<pucchānāma>>
+    🚹👤🤟
+    english(who?)
+  }
+  class asi {
+    <<ākhyāta>>
+     👤🤘▶️
+    english([you] are)
+  }
+  class tvaṃ {
+    <<puggalanāma>>
+    ⚧👤🤘1️⃣
+    english(you)
+  }
+  class āvuso {
+    <<nāma>>
+    🚹👤1️⃣
+    english(friend)
+  }
+  sentence *-- ko: pucchānāma
+  sentence *-- asi : ākhyāta
+  sentence *-- tvaṃ: kattar
+  sentence *-- āvuso: kattar
+```
+
+### Interrogative (indeclinable)
+
+```mermaid
+classDiagram
+  class sentence["kiṃ saddaṃ assosi"] {
+    <<vākya>>
+    english(Did he hear the noise?)
+  }
+  class kiṃ {
+    <<nipāta>>
+    english(who?)
+  }
+  class saddaṃ {
+    <<nāma>>
+    🚹👤1️⃣
+    english(noise)
+  }
+  class assosi {
+    <<ākhyāta>>
+     👤🤟⏮
+    english([he] heard)
+  }
+  sentence *-- kiṃ: nipāta
+  sentence *-- saddaṃ: kattar
+  sentence *-- assosi : ākhyāta
 ```
