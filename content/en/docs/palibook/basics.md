@@ -706,40 +706,42 @@ The rules for constructing a `tadhitta` affixed noun can be rather daunting:
 → `vāsiṭṭh`~~`a`~~ + `o` {83}  
 → `vāsiṭṭho`
 
-| type | name | affix | rule | `liṅga` | notes |
-| :-: | :-: | :-: | :-: | :-: | --- |
-| `apacca` | patronymic | `ṇa` | {344} | 🚹 (but can be variable) | |
-| | | `ṇāyana`, `ṇāna` | {345} | 🚹 (but can be variable) | |
-| | | `ṇeya` | {346} | 🚹 (but can be variable) | |
-| | | `ṇi` | {347} | 🚹 | |
-| | | `ṇika` | by `vā` of {347} | 🚹 (but can be variable) | |
-| | | `ṇava` | {348} | 🚹 (but can be variable) | |
-| | | `ṇera` | {349} | 🚹 (but can be variable) | |
-| `Aneʼkattha` | various meanings | `ṇika` | {350}-{351} | 🚹 (but can be variable) | |
-| | | `ṇa` | {352} | 🚹 (but can be variable) | |
-| | | `ima`, `iya` | {353} | 🚹 (but can be variable) | |
-| | | `ima`, `iya`, `ika` | by `ādi` of {353} | 🚹 (but can be variable) | |
-| | | `kiya` | by `ca` of {353} | 🚹 (but can be variable) | |
-| `samūha` | collective grouping | `kaṇ`, `ṇa` | {354} | 🚹 | |
-| | | `tā` | {355} | 🚺 | |
-| `taʼdassathāna` | the source or the cause | `iya` | {356} | 🚻 (but can be variable) | |
-| `upamā` | analogous similitude | `āyitatta` | {357} | 🚻 | |
-| `tanʼnissitattha` | dependent nature and source | `la` | {358} | 🚻 (mostly) | |
-| `bahula` | prominent nature | `ālu` | {359} | variable | `ka` is added sometimes. eg. `dayāluko` |
-| `bhāva` | abstract conditions | `ṇya`, `tta` | {360} | 🚻 | |
-| | | `ttana` | by `tu` of {340} | 🚻 | |
-| | | `tā` | {360} | 🚺 | |
-| | | `ṇa` | {361} | 🚻 | |
-| `visesa` | comparisons | `tara`, `tama`, `isika`, `iya`, `iṭṭha` | {363} | variable | |
-| `taʼdassaʼtthi` | possessed quality or inherent nature | `vī` | {364} | 🚹 (but can be variable) | |
-| | | `so` | by `ca` of {364} | 🚹 (but can be variable) | |
-| | | `sī` | {365} | 🚹 (but can be variable) | |
-| | | `ika`, `ī` | {366} | 🚹 (but can be variable) | |
-| | | `ra` | {367} | 🚹 (but can be variable) | |
-| | | `vantu` | {368} | 🚹 (but can be variable) | |
-| | | `mantu` | {369} | 🚹 (but can be variable) | |
-| | | `ṇa` | {370} | 🚹 (but can be variable) | |
-| `tappakati` | made up of something | `maya` | {372} | variable | |
+| type | meaning | affix | rule | `liṅga` |
+| :-: | :-: | :-: | :-: | :-: |
+| `apacca` | patronymic | `ṇa` | {344} | 🚹 (but can be variable) |
+| | | `ṇāyana`, `ṇāna` | {345} | 🚹 (but can be variable) |
+| | | `ṇeya` | {346} | 🚹 (but can be variable) |
+| | | `ṇi` | {347} | 🚹 |
+| | | `ṇika` | by `vā` of {347} | 🚹 (but can be variable) |
+| | | `ṇava` | {348} | 🚹 (but can be variable) |
+| | | `ṇera` | {349} | 🚹 (but can be variable) |
+| `Aneʼkattha` | various meanings | `ṇika` | {350}-{351} | 🚹 (but can be variable) |
+| | | `ṇa` | {352} | 🚹 (but can be variable) |
+| | | `ima`, `iya` | {353} | 🚹 (but can be variable) |
+| | | `ima`, `iya`, `ika` | by `ādi` of {353} | 🚹 (but can be variable) |
+| | | `kiya` | by `ca` of {353} | 🚹 (but can be variable) |
+| `samūha` | collective grouping | `kaṇ`, `ṇa` | {354} | 🚹 |
+| | | `tā` | {355} | 🚺 |
+| `taʼdassathāna` | the source or the cause | `iya` | {356} | 🚻 (but can be variable) |
+| `upamā` | analogous similitude | `āyitatta` | {357} | 🚻 |
+| `tanʼnissitattha` | dependent nature and source | `la` | {358} | 🚻 (mostly) |
+| `bahula` | prominent nature | `ālu`* | {359} | variable |
+| `bhāva` | abstract conditions | `ṇya`, `tta` | {360} | 🚻 |
+| | | `ttana` | by `tu` of {340} | 🚻 |
+| | | `tā` | {360} | 🚺 |
+| | | `ṇa` | {361} | 🚻 |
+| `visesa` | comparisons | `tara`, `tama`, `isika`, `iya`, `iṭṭha` | {363} | variable |
+| `taʼdassaʼtthi` | possessed quality or inherent nature | `vī` | {364} | 🚹 (but can be variable) |
+| | | `so` | by `ca` of {364} | 🚹 (but can be variable) |
+| | | `sī` | {365} | 🚹 (but can be variable) |
+| | | `ika`, `ī` | {366} | 🚹 (but can be variable) |
+| | | `ra` | {367} | 🚹 (but can be variable) |
+| | | `vantu` | {368} | 🚹 (but can be variable) |
+| | | `mantu` | {369} | 🚹 (but can be variable) |
+| | | `ṇa` | {370} | 🚹 (but can be variable) |
+| `tappakati` | made up of something | `maya` | {372} | variable |
+
+*`ka` is added sometimes. eg. `dayāluko`
 
 Words with `taddhita` affixes are sometimes not recognised by Pali-English
 dictionaries, since these dictionaries may not cover the full range of possible
@@ -1284,7 +1286,7 @@ they / road / gone
 
 #### ⏭ `bhavissanti` {421}
 
-(to be used) in the (ex- pression of) future
+(to be used) in the (expression of) future
 
 > so gacchissati, karissati
 

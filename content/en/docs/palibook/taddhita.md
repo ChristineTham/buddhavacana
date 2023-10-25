@@ -1,7 +1,7 @@
 ---
 title: "H: `taddhita` (affixes)"
 linkTitle: "H: `taddhita`"
-date: 2023-08-18
+date: 2023-10-25
 weight: 980
 description: >
   `taddhita` affixes and their meanings
@@ -13,59 +13,59 @@ tags: ["taddhita"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 {{< /alert >}}
 
+This appendix contains a subset of the examples provided in
+Kaccāyana - consult the book for a full set of examples.
+
 ## `tassā’pacca` ("the son or descendant of someone")
 
-| sutta | phrase | word | affix | transformation | 🚹 | 🚺 | 🚻 | meaning |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| {344} | vasiṭṭhassa apaccaṁ vā | vasiṭṭha | ṇa | vasiṭṭh~~a~~ + ~~ṇ~~a + ~~si~~ [o/ī/aṁ] | vāsiṭṭho | vāsiṭṭhī | vāsiṭṭhaṁ | Vasiṭṭha's son/daughter/clan |
-| {345} | vacchassa apaccaṁ vā | vaccha | ṇāyana | vasiṭṭh~~a~~ + ~~ṇ~~āyana + ~~si~~ [o/ī/aṁ] | vacchāyano | vacchāyanī | vacchāyanaṁ | Vaccha's son/daughter/clan |
-| {345} | vacchassa apaccaṁ vā | vaccha | ṇāna | vasiṭṭh~~a~~ + ~~ṇ~~āna + ~~si~~ [o/ī/aṁ] | vacchāno | vacchānī | vacchānaṁ | Vaccha's son/daughter/clan |
-
-| sutta | phrase | word | affix | transformation | 🚹 | meaning |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| sutta | phrase | base | affix | transformation | word | meaning |
+| --- | --- | --- | --- | --- | --- | --- |
+| {344} | vasiṭṭhassa apaccaṁ vā | vasiṭṭha | ṇa | vasiṭṭh~~a~~ + ~~ṇ~~a + ~~si~~ [o/ī/aṁ] | vāsiṭṭho(🚹) vāsiṭṭhī(🚺) vāsiṭṭhaṁ(🚻) | Vasiṭṭha's son/daughter/clan |
+| {345} | vacchassa apaccaṁ vā | vaccha | ṇāyana | vasiṭṭh~~a~~ + ~~ṇ~~āyana + ~~si~~ [o/ī/aṁ] | vacchāyano(🚹) vacchāyanī(🚺) vacchāyanaṁ(🚻) | Vaccha's son/daughter/clan |
+| {345} | vacchassa apaccaṁ vā | vaccha | ṇāna | vasiṭṭh~~a~~ + ~~ṇ~~āna + ~~si~~ [o/ī/aṁ] | vacchāno(🚹) vacchānī(🚺) vacchānaṁ(🚻) | Vaccha's son/daughter/clan |
 | {346} | kattikāya apaccaṁ vā | kattikā | ṇeyya | kattik~~ā~~ + ~~ṇ~~eyya + ~~si~~ (o) | kattikeyyo | (a woman) Kattikā's son or descendant |
 | {347} | dakkhassa apaccaṁ vā | dakkha | ṇi | dakkh~~a~~ + ~~ṇ~~i + ~~si~~ (o) | dakkhi | Dakkha's son or descendant |
 | {347} | sakyaputtassa apaccaṁ | sakyaputta | ṇika | sakyaputta~~a~~ + ~~ṇ~~ika + ~~si~~ (o) | sakyaputtiko | Sakyaputta's son or descendant |
-| {348} | upakussa apaccaṁ vā | upaku | ṇava | ~~u~~(o)paku~~a~~ + ~~ṇ~~ava + ~~si~~ (o) | opakavo (u>o vuddhi) | Upaku's son or descendant |
-| {349} | vidhavāya apaccaṁ vā | vidhavā | ṇera | v~~i~~(e)dhav~~ā~~ + ~~ṇ~~era + ~~si~~ (o) | vedhavero (i>e vuddhi) | widow's son or descendant |
+| {348} | upakussa apaccaṁ vā | upaku | ṇava | ~~u~~(o)paku~~a~~ + ~~ṇ~~ava + ~~si~~ (o) | opakavo | Upaku's son or descendant |
+| {349} | vidhavāya apaccaṁ vā | vidhavā | ṇera | v~~i~~(e)dhav~~ā~~ + ~~ṇ~~era + ~~si~~ (o) | vedhavero | widow's son or descendant |
 
 ## `ane’ka’ttha` (various meanings)
 
 | sutta | expression | phrase | base | affix | transformation | word | meaning |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| {350} | “being mixed in as an ingredient” | tilena saṁsaṭṭhaṁ bhojanaṁ | tila | ṇika | t~~i~~(e)l~~a~~ + ~~ṇ~~ika + ~~si~~ (ṁ) | telikaṁ (i>e vuddhi) | food mixed with sesame |
-| {350} | “mode of crossing a river etc.” | nāvāya taratī’ti | nāvā | ṇika | nāv~~ā~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | nāviko | traveler by boat |
-| {350} | “mode of travel or practice” | sakaṭena caratī’ti | nāvā | ṇika | sakaṭ~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | sākaṭiko | bullock-cart-traveler |
-| {350} | “mode of carriage” | sīsena vahatī’ti | sīsa | ṇika | sīs~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | sīsiko | one who carries (something) on head |
-| {350} | other meanings | rājagahe vasatī’ti | rājagaha | ṇika | rājagah~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | rājagahiko | resident/native of Rājagaha city |
-| {351} | “learning or subject of study” | rvinaya’madhīte | vinaya | ṇika | v~~i~~(e)nay~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | venayiko (i>e vuddhi) | Vinaya-learner. i.e. the student of Vinaya texts |
-| {351} | “modes of action” | kāyena kataṁ kammaṁ | kāya | ṇika | kāy~~a~~ + ~~ṇ~~ika + ~~si~~ (ṁ) | kāyikaṁ | bodily action |
-| {351} | “originated in” | sarīre sannidhānā vedanā | sarīra | ṇika | sarīr~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (ā) | sārīrikā | the bodily feeling. i.e. bodily pain etc. |
-| {351} | “being involved in or related to” | dvāre niyutto | dvāra | ṇika | d(o)vār~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | dovāriko | the door-keeper, guard |
-| {351} | “profession or knowledge” | vīṇā assa sippaṁ | vīṇā | ṇika | v~~ī~~(e)ṇ~~ā~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | veṇiko (i>e vuddhi) | the harp-professional, the harpist |
-| {351} | “merchandise” | gandho assa bhaṇḍaṁ | gandha | ṇika | gandh~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | gandhiko | the perfume-trader, perfumer |
-| {351} | “livelihood” | urabbhaṁ hantvā jīvatī’ti | urabbha | ṇika | ~~u~~(o)rabbh~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | orabbhiko (u>o vuddhi) | sheep-butcher |
-| {351} | "mode of killing for a living" | jālena hato | jāla | ṇika | jāl~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | jāliko | fisherman |
-| {351} | "weapon" | cāpo assa āvudho | cāpa | ṇika | cāp~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | cāpiko | archer |
-| {351} | "disease or pain" | vāto assa ābādho | vāta | ṇika | vāt~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | vātiko | gas-pain sufferer |
-| {351} | "being pleased with or being devoted to" | buddhe pasanno | buddha | ṇika | buddh~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | buddhiko | the one who is pleased in Buddha. i.e. a devotee of Buddha |
-| {351} | "possession, being owned by" | buddhassa santakaṁ | buddha | ṇika | buddh~~a~~ + ~~ṇ~~ika + ~~si~~ (ṁ) | buddhikaṁ | Buddha’s possession such as funds meant for shrine-renovation etc. |
-| {351} | "mode of purchase, being bartered with" | vatthena kītaṁ bhaṇḍaṁ | vattha | ṇika | vatth~~a~~ + ~~ṇ~~ika + ~~si~~ (ṁ) | vatthikaṁ | the thing bought by means of bartering with cloth |
-| {351} | "measurement" | kumbho assa parimāṇaṁ | kumbha | ṇika | kumbh~~a~~ + ~~ṇ~~ika + ~~si~~ (ṁ) | kumbhikaṁ | a thing of one Kumbha measure of grain |
-| {351} | "heap" | kumbhassa rāsi | kumbha | ṇika | kumbh~~a~~ + ~~ṇ~~ika + ~~si~~ (ṁ) | kumbhikaṁ | one-kumbha-measured heap of grains |
-| {351} | "deserve" | kumbhaṁ arahatī’ti | kumbha | ṇika | kumbh~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | kumbhiko | someone deserving one-Kumbha of grains |
-| {351} | "to play a game of luck" | akkhena dibbatī’ti | akkha | ṇika | akkh~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | akkhiko | dice-player, gambler |
-| {352} | "dye" | kasāvena rattaṁ vatthaṁ | kasāva | ṇa | kasāv~~a~~ + ~~ṇ~~a + ~~si~~ (ṁ) | kāsāvaṁ | yellow-colored robe |
-| {352} | "(this) belongs to" | sūkarassa idaṁ maṁsaṁ | sūkara | ṇa | s~~ū~~(o)kar~~a~~ + ~~ṇ~~a + ~~si~~ (ṁ) | sokaraṁ | pig’s meat, i.e. pork |
-| {352} | "not far off, in proximity" | udumbarassa avidūre pavattaṁ vimānaṁ | udumbara | ṇa | udumbar~~a~~ + ~~ṇ~~a + ~~si~~ (ṁ) | odumbaraṁ | the mansion near fig tree |
-| {352} | "native" | mathurāya jāto | mathurā | ṇa | mathur~~ā~~ + ~~ṇa~~ + ~~si~~ (o) | māthuro | the native of Mathurā |
-| {352} | "comer" | mathurāya āgato | mathurā | ṇa | mathur~~ā~~ + ~~ṇa~~ + ~~si~~ (o) | māthuro | the person coming from the city of Mathurā |
-| {352} | "being related to or with" | mattikāya niyutto māso | kattikā | ṇa | kattik~~ā~~ + ~~ṇa~~ + ~~si~~ (o) | kattiko | the month when the star named “Kattikā (Kṛittika)” is prominent |
-| {352} | "collective grouping" | sikkhānaṁ samūho | sikkhā | ṇa | sikkh~~ā~~ + ~~ṇa~~ + ~~si~~ (o) | sikkho | the collection of the precepts |
-| {352} | "being devoted like a deity" | buddho assa devatā | buddha | ṇa | buddh~~a~~ + ~~ṇa~~ + ~~si~~ (o) | buddho | the one who devotes Buddha like a deity |
+| {350} | `saṁsaṭṭha` “being mixed in as an ingredient” | tilena saṁsaṭṭhaṁ bhojanaṁ | tila | ṇika | t~~i~~(e)l~~a~~ + ~~ṇ~~ika + ~~si~~ (ṁ) | telikaṁ | food mixed with sesame |
+| {350} | `tarati` “mode of crossing a river etc.” | nāvāya taratī’ti | nāvā | ṇika | nāv~~ā~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | nāviko | traveler by boat |
+| {350} | `carati` “mode of travel or practice” | sakaṭena caratī’ti | nāvā | ṇika | sakaṭ~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | sākaṭiko | bullock-cart-traveler |
+| {350} | `vahati` “mode of carriage” | sīsena vahatī’ti | sīsa | ṇika | sīs~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | sīsiko | one who carries (something) on head |
+| {350} | `vasatī` "residency" | rājagahe vasatī’ti | rājagaha | ṇika | rājagah~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | rājagahiko | resident/native of Rājagaha city |
+| {351} | `adhīte` “learning or subject of study” | rvinaya’madhīte | vinaya | ṇika | v~~i~~(e)nay~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | venayiko (i>e vuddhi) | Vinaya-learner. i.e. the student of Vinaya texts |
+| {351} | `tena kataṁ` “modes of action” | kāyena kataṁ kammaṁ | kāya | ṇika | kāy~~a~~ + ~~ṇ~~ika + ~~si~~ (ṁ) | kāyikaṁ | bodily action |
+| {351} | `sannidhāna` “originated in” | sarīre sannidhānā vedanā | sarīra | ṇika | sarīr~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (ā) | sārīrikā | the bodily feeling. i.e. bodily pain etc. |
+| {351} | `niyutta` “being involved in or related to” | dvāre niyutto | dvāra | ṇika | d(o)vār~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | dovāriko | the door-keeper, guard |
+| {351} | `sippa` “profession or knowledge” | vīṇā assa sippaṁ | vīṇā | ṇika | v~~ī~~(e)ṇ~~ā~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | veṇiko (i>e vuddhi) | the harp-professional, the harpist |
+| {351} | `bhaṇḍaṁ` “merchandise” | gandho assa bhaṇḍaṁ | gandha | ṇika | gandh~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | gandhiko | the perfume-trader, perfumer |
+| {351} | `jīvika` “livelihood” | urabbhaṁ hantvā jīvatī’ti | urabbha | ṇika | ~~u~~(o)rabbh~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | orabbhiko (u>o vuddhi) | sheep-butcher |
+| {351} | `hata` "mode of killing for a living" | jālena hato | jāla | ṇika | jāl~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | jāliko | fisherman |
+| {351} | `āvudha` "weapon" | cāpo assa āvudho | cāpa | ṇika | cāp~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | cāpiko | archer |
+| {351} | `ābādha` "disease or pain" | vāto assa ābādho | vāta | ṇika | vāt~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | vātiko | gas-pain sufferer |
+| {351} | `pasanna` "being pleased with or being devoted to" | buddhe pasanno | buddha | ṇika | buddh~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | buddhiko | the one who is pleased in Buddha. i.e. a devotee of Buddha |
+| {351} | `santakaṁ` "possession, being owned by" | buddhassa santakaṁ | buddha | ṇika | buddh~~a~~ + ~~ṇ~~ika + ~~si~~ (ṁ) | buddhikaṁ | Buddha’s possession such as funds meant for shrine-renovation etc. |
+| {351} | `kītaṁ` "mode of purchase, being bartered with" | vatthena kītaṁ bhaṇḍaṁ | vattha | ṇika | vatth~~a~~ + ~~ṇ~~ika + ~~si~~ (ṁ) | vatthikaṁ | the thing bought by means of bartering with cloth |
+| {351} | `parimāṇa` "measurement" | kumbho assa parimāṇaṁ | kumbha | ṇika | kumbh~~a~~ + ~~ṇ~~ika + ~~si~~ (ṁ) | kumbhikaṁ | a thing of one Kumbha measure of grain |
+| {351} | `rāsi` "heap" | kumbhassa rāsi | kumbha | ṇika | kumbh~~a~~ + ~~ṇ~~ika + ~~si~~ (ṁ) | kumbhikaṁ | one-kumbha-measured heap of grains |
+| {351} | `arahati` "deserve" | kumbhaṁ arahatī’ti | kumbha | ṇika | kumbh~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | kumbhiko | someone deserving one-Kumbha of grains |
+| {351} | `dibbati` "to play a game of luck" | akkhena dibbatī’ti | akkha | ṇika | akkh~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | akkhiko | dice-player, gambler |
+| {352} | `rāga` "dye" | kasāvena rattaṁ vatthaṁ | kasāva | ṇa | kasāv~~a~~ + ~~ṇ~~a + ~~si~~ (ṁ) | kāsāvaṁ | yellow-colored robe |
+| {352} | `idaṁ` "(this) belongs to" | sūkarassa idaṁ maṁsaṁ | sūkara | ṇa | s~~ū~~(o)kar~~a~~ + ~~ṇ~~a + ~~si~~ (ṁ) | sokaraṁ | pig’s meat, i.e. pork |
+| {352} | `avidūra` "not far off, in proximity" | udumbarassa avidūre pavattaṁ vimānaṁ | udumbara | ṇa | udumbar~~a~~ + ~~ṇ~~a + ~~si~~ (ṁ) | odumbaraṁ | the mansion near fig tree |
+| {352} | `jāta` "native" | mathurāya jāto | mathurā | ṇa | mathur~~ā~~ + ~~ṇa~~ + ~~si~~ (o) | māthuro | the native of Mathurā |
+| {352} | `āgata` "comer" | mathurāya āgato | mathurā | ṇa | mathur~~ā~~ + ~~ṇa~~ + ~~si~~ (o) | māthuro | the person coming from the city of Mathurā |
+| {352} | `niyutta` "being related to or with" | mattikāya niyutto māso | kattikā | ṇa | kattik~~ā~~ + ~~ṇa~~ + ~~si~~ (o) | kattiko | the month when the star named “Kattikā (Kṛittika)” is prominent |
+| {352} | `samūha` "collective grouping" | sikkhānaṁ samūho | sikkhā | ṇa | sikkh~~ā~~ + ~~ṇa~~ + ~~si~~ (o) | sikkho | the collection of the precepts |
+| {352} | `devatā` "being devoted like a deity" | buddho assa devatā | buddha | ṇa | buddh~~a~~ + ~~ṇa~~ + ~~si~~ (o) | buddho | the one who devotes Buddha like a deity |
 | {352} | "being related for a certain period such as a year etc." | saṁvacchara’madhīte | saṁvacchara | ṇa | saṁvacchar~~a~~ + ~~ṇa~~ + ~~si~~ (o) | saṁvaccharo | annual learner, yearly student |
 | {352} | "being related to a skill of knowledge" | vyākaraṇa’madhīte | vyākaraṇa | ṇa | vyākaraṇ~~a~~ + ~~ṇa~~ + ~~si~~ (o) | veyyākaraṇo | the one who studies grammar, the grammar-student |
-| {352} | "domain or a specifically reserved place etc." | vasādānaṁ visayo deso | vasāda | ṇa | v~~a~~(ā)sād~~a~~ + ~~ṇa~~ + ~~si~~ (o) | vāsādo | the lion’s den |
+| {352} | `visaya` "domain or a specifically reserved place etc." | vasādānaṁ visayo deso | vasāda | ṇa | v~~a~~(ā)sād~~a~~ + ~~ṇa~~ + ~~si~~ (o) | vāsādo | the lion’s den |
 | {352} | different meaning from above | sāgarehi nibbatto | sāgara | ṇa | sāgar~~a~~ + ~~ṇa~~ + ~~si~~ (o) | sāgaro | the place made by Sāgara, i.e. ocean |
 | {352} | "being resident and chief" | sāgala’massa nivāso | sāgala | ṇa | sāgal~~a~~ + ~~ṇa~~ + ~~si~~ (o) | sāgalo | the resident of Sāgala |
 | {353} | "when and where it happens" | pacchā jāto | pacchā | ima | pacch~~ā~~ + im~~a~~ + ~~si~~ (o) | pacchimo | that which happens later, the latter, the last |
@@ -80,7 +80,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | {354} | rājaputtānaṁ samūho | rājaputta | ṇa | rājaputta + ~~ṇa~~ + ~~si~~ (o) | rājaputto | the collective group of princes |
 | {354} | rājaputtānaṁ samūho | rājaputta | kaṇ | rājaputta + k~~aṇ~~ + ~~si~~ (o) | rājaputtako | the collective group of princes |
-| {355} | gāmānaṁ samūho | gāma | tā | gāma + t~~ā~~ + ~~si~~ (ā) | gāmatā | the collective group of villages |
+| {355} | gāmānaṁ samūho | gāma, jana, bandhu, sahāya | tā | gāma + t~~ā~~ + ~~si~~ (ā) | gāmatā | the collective group of villages |
 
 ## `ta’dassaṭhāna` (the source or the cause)
 
@@ -137,11 +137,11 @@ a comparative comparison for the superlative
 
 | sutta | expression | phrase | base | affix | transformation | word | meaning |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| {363} | positive | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | tara | pāpa + tar~~a~~ + ~~si~~ (o) | pāpataro | specially bad among the bad. i.e. especially bad of the bad |
-| {363} | superlative | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | tama | pāpa + tam~~a~~ + ~~si~~ (o) | pāpatamo | the most bad, the worst |
-| {363} | positive | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | isika | pāp~~a~~ + isik~~a~~ + ~~si~~ (o) | pāpisiko | specially bad |
-| {363} | comparative | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | iya | pāp~~a~~ + iy~~a~~ + ~~si~~ (o) | pāpiyo | more bad |
-| {363} | superlative | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | iṭṭha | pāp~~a~~ + iṭṭh~~a~~ + ~~si~~ (o) | pāpiṭṭho | more bad |
+| {363} | 1. positive | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | tara | pāpa + tar~~a~~ + ~~si~~ (o) | pāpataro | specially bad among the bad. i.e. especially bad of the bad |
+| {363} | 1. superlative | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | tama | pāpa + tam~~a~~ + ~~si~~ (o) | pāpatamo | the most bad, the worst |
+| {363} | 2. positive | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | isika | pāp~~a~~ + isik~~a~~ + ~~si~~ (o) | pāpisiko | specially bad |
+| {363} | 2. comparative | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | iya | pāp~~a~~ + iy~~a~~ + ~~si~~ (o) | pāpiyo | more bad |
+| {363} | 2. superlative | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | iṭṭha | pāp~~a~~ + iṭṭh~~a~~ + ~~si~~ (o) | pāpiṭṭho | more bad |
 
 ## `ta’dassa’tthi` (possessed quality or inherent nature)
 
