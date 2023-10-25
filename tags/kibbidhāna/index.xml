@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – kibbidhāna</title><link>https://christham.net/buddhavacana/tags/kibbidh%C4%81na/</link><description>Recent content in kibbidhāna on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 18 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://christham.net/buddhavacana/tags/kibbidh%C4%81na/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: 1: The Pali Language Basics</title><link>https://christham.net/buddhavacana/docs/palibook/basics/</link><pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/basics/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – kibbidhāna</title><link>https://christham.net/buddhavacana/tags/kibbidh%C4%81na/</link><description>Recent content in kibbidhāna on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://christham.net/buddhavacana/tags/kibbidh%C4%81na/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: 1: The Pali Language Basics</title><link>https://christham.net/buddhavacana/docs/palibook/basics/</link><pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/basics/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/div>
@@ -1318,11 +1318,10 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;thead>
 &lt;tr>
 &lt;th style="text-align:center">type&lt;/th>
-&lt;th style="text-align:center">name&lt;/th>
+&lt;th style="text-align:center">meaning&lt;/th>
 &lt;th style="text-align:center">affix&lt;/th>
 &lt;th style="text-align:center">rule&lt;/th>
 &lt;th style="text-align:center">&lt;code>liṅga&lt;/code>&lt;/th>
-&lt;th>notes&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
@@ -1332,7 +1331,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>ṇa&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{344}&lt;/td>
 &lt;td style="text-align:center">🚹 (but can be variable)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1340,7 +1338,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>ṇāyana&lt;/code>, &lt;code>ṇāna&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{345}&lt;/td>
 &lt;td style="text-align:center">🚹 (but can be variable)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1348,7 +1345,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>ṇeya&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{346}&lt;/td>
 &lt;td style="text-align:center">🚹 (but can be variable)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1356,7 +1352,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>ṇi&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{347}&lt;/td>
 &lt;td style="text-align:center">🚹&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1364,7 +1359,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>ṇika&lt;/code>&lt;/td>
 &lt;td style="text-align:center">by &lt;code>vā&lt;/code> of {347}&lt;/td>
 &lt;td style="text-align:center">🚹 (but can be variable)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1372,7 +1366,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>ṇava&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{348}&lt;/td>
 &lt;td style="text-align:center">🚹 (but can be variable)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1380,7 +1373,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>ṇera&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{349}&lt;/td>
 &lt;td style="text-align:center">🚹 (but can be variable)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;code>Aneʼkattha&lt;/code>&lt;/td>
@@ -1388,7 +1380,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>ṇika&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{350}-{351}&lt;/td>
 &lt;td style="text-align:center">🚹 (but can be variable)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1396,7 +1387,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>ṇa&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{352}&lt;/td>
 &lt;td style="text-align:center">🚹 (but can be variable)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1404,7 +1394,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>ima&lt;/code>, &lt;code>iya&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{353}&lt;/td>
 &lt;td style="text-align:center">🚹 (but can be variable)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1412,7 +1401,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>ima&lt;/code>, &lt;code>iya&lt;/code>, &lt;code>ika&lt;/code>&lt;/td>
 &lt;td style="text-align:center">by &lt;code>ādi&lt;/code> of {353}&lt;/td>
 &lt;td style="text-align:center">🚹 (but can be variable)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1420,7 +1408,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>kiya&lt;/code>&lt;/td>
 &lt;td style="text-align:center">by &lt;code>ca&lt;/code> of {353}&lt;/td>
 &lt;td style="text-align:center">🚹 (but can be variable)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;code>samūha&lt;/code>&lt;/td>
@@ -1428,7 +1415,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>kaṇ&lt;/code>, &lt;code>ṇa&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{354}&lt;/td>
 &lt;td style="text-align:center">🚹&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1436,7 +1422,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>tā&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{355}&lt;/td>
 &lt;td style="text-align:center">🚺&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;code>taʼdassathāna&lt;/code>&lt;/td>
@@ -1444,7 +1429,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>iya&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{356}&lt;/td>
 &lt;td style="text-align:center">🚻 (but can be variable)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;code>upamā&lt;/code>&lt;/td>
@@ -1452,7 +1436,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>āyitatta&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{357}&lt;/td>
 &lt;td style="text-align:center">🚻&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;code>tanʼnissitattha&lt;/code>&lt;/td>
@@ -1460,15 +1443,13 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>la&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{358}&lt;/td>
 &lt;td style="text-align:center">🚻 (mostly)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;code>bahula&lt;/code>&lt;/td>
 &lt;td style="text-align:center">prominent nature&lt;/td>
-&lt;td style="text-align:center">&lt;code>ālu&lt;/code>&lt;/td>
+&lt;td style="text-align:center">&lt;code>ālu&lt;/code>*&lt;/td>
 &lt;td style="text-align:center">{359}&lt;/td>
 &lt;td style="text-align:center">variable&lt;/td>
-&lt;td>&lt;code>ka&lt;/code> is added sometimes. eg. &lt;code>dayāluko&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;code>bhāva&lt;/code>&lt;/td>
@@ -1476,7 +1457,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>ṇya&lt;/code>, &lt;code>tta&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{360}&lt;/td>
 &lt;td style="text-align:center">🚻&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1484,7 +1464,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>ttana&lt;/code>&lt;/td>
 &lt;td style="text-align:center">by &lt;code>tu&lt;/code> of {340}&lt;/td>
 &lt;td style="text-align:center">🚻&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1492,7 +1471,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>tā&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{360}&lt;/td>
 &lt;td style="text-align:center">🚺&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1500,7 +1478,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>ṇa&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{361}&lt;/td>
 &lt;td style="text-align:center">🚻&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;code>visesa&lt;/code>&lt;/td>
@@ -1508,7 +1485,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>tara&lt;/code>, &lt;code>tama&lt;/code>, &lt;code>isika&lt;/code>, &lt;code>iya&lt;/code>, &lt;code>iṭṭha&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{363}&lt;/td>
 &lt;td style="text-align:center">variable&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;code>taʼdassaʼtthi&lt;/code>&lt;/td>
@@ -1516,7 +1492,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>vī&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{364}&lt;/td>
 &lt;td style="text-align:center">🚹 (but can be variable)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1524,7 +1499,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>so&lt;/code>&lt;/td>
 &lt;td style="text-align:center">by &lt;code>ca&lt;/code> of {364}&lt;/td>
 &lt;td style="text-align:center">🚹 (but can be variable)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1532,7 +1506,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>sī&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{365}&lt;/td>
 &lt;td style="text-align:center">🚹 (but can be variable)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1540,7 +1513,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>ika&lt;/code>, &lt;code>ī&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{366}&lt;/td>
 &lt;td style="text-align:center">🚹 (but can be variable)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1548,7 +1520,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>ra&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{367}&lt;/td>
 &lt;td style="text-align:center">🚹 (but can be variable)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1556,7 +1527,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>vantu&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{368}&lt;/td>
 &lt;td style="text-align:center">🚹 (but can be variable)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1564,7 +1534,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>mantu&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{369}&lt;/td>
 &lt;td style="text-align:center">🚹 (but can be variable)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
@@ -1572,7 +1541,6 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>ṇa&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{370}&lt;/td>
 &lt;td style="text-align:center">🚹 (but can be variable)&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;code>tappakati&lt;/code>&lt;/td>
@@ -1580,10 +1548,10 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 &lt;td style="text-align:center">&lt;code>maya&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{372}&lt;/td>
 &lt;td style="text-align:center">variable&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
+&lt;p>*&lt;code>ka&lt;/code> is added sometimes. eg. &lt;code>dayāluko&lt;/code>&lt;/p>
 &lt;p>Words with &lt;code>taddhita&lt;/code> affixes are sometimes not recognised by Pali-English
 dictionaries, since these dictionaries may not cover the full range of possible
 affixes and their meanings. So it is probably
@@ -3880,7 +3848,7 @@ they / road / gone&lt;br>
 &lt;em>They have (just) gone along the road.&lt;/em>&lt;/p>
 &lt;/blockquote>
 &lt;h4 id="-bhavissanti-421">⏭ &lt;code>bhavissanti&lt;/code> {421}&lt;/h4>
-&lt;p>(to be used) in the (ex- pression of) future&lt;/p>
+&lt;p>(to be used) in the (expression of) future&lt;/p>
 &lt;blockquote>
 &lt;p>so gacchissati, karissati&lt;/p>
 &lt;/blockquote>
@@ -4681,197 +4649,1093 @@ and reading will become easier and easier over time.&lt;/p>
 &lt;div class="alert alert-light" role="alert">
 &lt;h4 class="alert-heading">Next Chapter&lt;/h4>
 &lt;a href="https://christham.net/buddhavacana/buddhavacana/docs/palibook/cases/">&lt;strong>2: &lt;code>kāraka&lt;/code> (word ending) meanings&lt;/strong>&lt;/a>
-&lt;/div></description></item><item><title>Docs: J: `kibbidhāna` (`kita` affixes)</title><link>https://christham.net/buddhavacana/docs/palibook/kita/</link><pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/kita/</guid><description>
+&lt;/div></description></item><item><title>Docs: J: `kibbidhāna` (`kita` affixes)</title><link>https://christham.net/buddhavacana/docs/palibook/kita/</link><pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/kita/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/div>
+&lt;p>&lt;code>kita&lt;/code> affixed nouns {546} usually have a sense of a &amp;ldquo;doer&amp;rdquo; (someone who does
+something). This appendix contains a subset of the examples provided in
+Kaccāyana - consult the book for a full set of examples.&lt;/p>
+&lt;h2 id="kitantogadha-dutiyā-tappurisa">Kita’ntogadha dutiyā Tappurisa&lt;/h2>
+&lt;p>&lt;code>saddūpapada&lt;/code> 2️⃣
+(nearby noun eg. &lt;code>kamma&lt;/code>-work, &lt;code>kumbha&lt;/code>-pot, &lt;code>mālā&lt;/code>-flower) +
+&lt;code>dhātu&lt;/code> (eg. &lt;code>kara&lt;/code>, &lt;code>gaha&lt;/code>) + affix (eg. &lt;code>ṇa&lt;/code>)&lt;/p>
 &lt;table>
 &lt;thead>
 &lt;tr>
 &lt;th style="text-align:center">rule&lt;/th>
-&lt;th>notes&lt;/th>
+&lt;th>phrase&lt;/th>
+&lt;th style="text-align:center">saddūpapada&lt;/th>
+&lt;th style="text-align:center">dhātu&lt;/th>
 &lt;th style="text-align:center">affix&lt;/th>
-&lt;th>production&lt;/th>
-&lt;th style="text-align:center">example&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th style="text-align:center">word&lt;/th>
 &lt;th>meaning&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
 &lt;td style="text-align:center">{524}&lt;/td>
-&lt;td>Kita’ntogadha dutiyā Tappurisa&lt;/td>
-&lt;td style="text-align:center">&lt;code>ṇa&lt;/code>&lt;/td>
-&lt;td>&lt;code>saddūpapada&lt;/code> (&lt;code>kamma&lt;/code>) + &lt;code>dhātu&lt;/code> (&lt;code>kara&lt;/code>) + &lt;code>ṇa&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>kammakāro&lt;/code>&lt;/td>
-&lt;td>&lt;code>kammaṁ karotī’ti&lt;/code> (&amp;ldquo;the one who does work&amp;rdquo;. ie &amp;ldquo;worker&amp;rdquo;, &amp;ldquo;laborer&amp;rdquo;)&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">{524}&lt;/td>
-&lt;td>ditto&lt;/td>
-&lt;td style="text-align:center">&lt;code>ṇa&lt;/code>&lt;/td>
-&lt;td>&lt;code>patta&lt;/code> + &lt;code>gaha&lt;/code> + &lt;code>ṇa&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>pattaggāho&lt;/code>&lt;/td>
-&lt;td>&amp;ldquo;the one who holds bowl&amp;rdquo;&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">{525}, {537}&lt;/td>
-&lt;td>Personal name&lt;/td>
-&lt;td style="text-align:center">&lt;code>nu&lt;/code>, &lt;code>a&lt;/code>&lt;/td>
-&lt;td>&lt;code>saddūpapada&lt;/code> (&lt;code>ari&lt;/code>) + &lt;code>nu&lt;/code> + &lt;code>dhātu&lt;/code> (&lt;code>damu&lt;/code>) + &lt;code>a&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>arindamo&lt;/code>&lt;/td>
-&lt;td>&lt;code>ariṁ dametī’ti&lt;/code> (&amp;ldquo;the one who subdues enemies&amp;rdquo;)&lt;/td>
+&lt;td>kammaṁ karotī’ti&lt;/td>
+&lt;td style="text-align:center">kamma&lt;/td>
+&lt;td style="text-align:center">kara&lt;/td>
+&lt;td style="text-align:center">ṇa&lt;/td>
+&lt;td>kamma + kar&lt;del>a&lt;/del> + &lt;del>ṇa&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">kammakāro&lt;/td>
+&lt;td>the one who does work ie. &amp;ldquo;worker&amp;rdquo;, &amp;ldquo;laborer&amp;rdquo;&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">{525}&lt;/td>
-&lt;td>ditto&lt;/td>
-&lt;td style="text-align:center">&lt;/td>
-&lt;td>&lt;code>taṇha&lt;/code> + &lt;code>ṇa&lt;/code> + &lt;code>kara&lt;/code> + &lt;code>a&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>taṇhaṅkaro&lt;/code>&lt;/td>
-&lt;td>&lt;code>taṇhaṁ karotī’ti&lt;/code> &amp;ldquo;the one who overcomes craving&amp;rdquo;&lt;/td>
+&lt;td>ariṁ dametī’ti&lt;/td>
+&lt;td style="text-align:center">ari&lt;/td>
+&lt;td style="text-align:center">damu&lt;/td>
+&lt;td style="text-align:center">a&lt;/td>
+&lt;td>ari(n) + dam&lt;del>u&lt;/del> + &lt;del>a&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">arindamo&lt;/td>
+&lt;td>the one who subdues enemies (eg. rājā)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{525}&lt;/td>
+&lt;td>taṇhaṁ karotī’ti&lt;/td>
+&lt;td style="text-align:center">taṇhā&lt;/td>
+&lt;td style="text-align:center">kara&lt;/td>
+&lt;td style="text-align:center">a&lt;/td>
+&lt;td>taṇh&lt;del>ā&lt;/del>(an) + kar&lt;del>a&lt;/del> + &lt;del>a&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">taṇhaṅkaro&lt;/td>
+&lt;td>the one who overcomes cravings (eg. bhagavā)&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">{526}&lt;/td>
-&lt;td>&lt;/td>
-&lt;td style="text-align:center">&lt;code>a&lt;/code>&lt;/td>
-&lt;td>&lt;code>saddūpapada&lt;/code> (&lt;code>pura&lt;/code>) + &lt;code>dada&lt;/code> + &lt;code>a&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>purindado&lt;/code>&lt;/td>
-&lt;td>&lt;code>pure dānaṁ adāsī’ti&lt;/code> (&amp;ldquo;the one who gave alms in the previous past lives&amp;rdquo;)&lt;/td>
+&lt;td>pure dānaṁ adāsī’ti&lt;/td>
+&lt;td style="text-align:center">pura&lt;/td>
+&lt;td style="text-align:center">dada&lt;/td>
+&lt;td style="text-align:center">a&lt;/td>
+&lt;td>pur&lt;del>a&lt;/del>(in) + dad&lt;del>a&lt;/del> + &lt;del>a&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">purindado&lt;/td>
+&lt;td>the one who gave alms in the previous past lives (eg. devarājā)&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">{527}&lt;/td>
-&lt;td>&lt;/td>
-&lt;td style="text-align:center">&lt;code>a&lt;/code>&lt;/td>
-&lt;td>[&lt;code>saddūpapada&lt;/code> (&lt;code>ta&lt;/code>)] + &lt;code>kara&lt;/code> + &lt;code>a&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>takkaro&lt;/code>&lt;/td>
-&lt;td>&lt;code>taṁ karotī’ti&lt;/code> (&amp;ldquo;the one who does that deed&amp;rdquo;)&lt;/td>
+&lt;td>taṁ karotī’ti&lt;/td>
+&lt;td style="text-align:center">ta&lt;/td>
+&lt;td style="text-align:center">kara&lt;/td>
+&lt;td style="text-align:center">a&lt;/td>
+&lt;td>ta(k) + kar&lt;del>a&lt;/del> + &lt;del>a&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">takkaro&lt;/td>
+&lt;td>the one who does that deed&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">{527}&lt;/td>
-&lt;td>&lt;/td>
-&lt;td style="text-align:center">&lt;code>ṇvu&lt;/code>&lt;/td>
-&lt;td>[&lt;code>saddūpapada&lt;/code> (&lt;code>ratha&lt;/code>)] + &lt;code>kara&lt;/code> + &lt;code>ṇvu&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>rathakārako&lt;/code>&lt;/td>
-&lt;td>&lt;code>rathaṁ karotī’ti&lt;/code> (&amp;ldquo;the one who makes chariot, the chariot-maker&amp;rdquo;)&lt;/td>
+&lt;td>rathaṁ karotī’ti&lt;/td>
+&lt;td style="text-align:center">ratha&lt;/td>
+&lt;td style="text-align:center">kara&lt;/td>
+&lt;td style="text-align:center">ṇvu&lt;/td>
+&lt;td>ratha + k&lt;del>a&lt;/del>(ā)ra(k) + &lt;del>ṇvu&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">rathakārako&lt;/td>
+&lt;td>the one who makes chariot, the chariot-maker&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">{527}&lt;/td>
-&lt;td>&lt;/td>
-&lt;td style="text-align:center">&lt;code>tu&lt;/code>&lt;/td>
-&lt;td>[&lt;code>saddūpapada&lt;/code> (&lt;code>bhojana&lt;/code>)] + &lt;code>dā&lt;/code> + &lt;code>tu&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>bhojanadātā&lt;/code>&lt;/td>
-&lt;td>&lt;code>bhojanaṁ dadātī’ti&lt;/code> (&amp;ldquo;the one who gives food, the food-giver&amp;rdquo;)&lt;/td>
+&lt;td>taṁ karotī’ti&lt;/td>
+&lt;td style="text-align:center">ta&lt;/td>
+&lt;td style="text-align:center">kara&lt;/td>
+&lt;td style="text-align:center">tu&lt;/td>
+&lt;td>ta(k) + ka&lt;del>ra&lt;/del>(t) + t&lt;del>u&lt;/del> (ā)&lt;/td>
+&lt;td style="text-align:center">takkattā&lt;/td>
+&lt;td>the one who does that deed&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">{527}&lt;/td>
-&lt;td>&lt;/td>
-&lt;td style="text-align:center">&lt;code>āvī&lt;/code>&lt;/td>
-&lt;td>[&lt;code>saddūpapada&lt;/code> (&lt;code>bhaya&lt;/code>)] + &lt;code>dissa&lt;/code> + &lt;code>āvī&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>bhayadassāvī&lt;/code>&lt;/td>
-&lt;td>&lt;code>bhayaṁ passatī’ti&lt;/code> (&amp;ldquo;the one who sees danger&amp;rdquo;)&lt;/td>
+&lt;td>bhayaṁ passatī’ti&lt;/td>
+&lt;td style="text-align:center">bhaya&lt;/td>
+&lt;td style="text-align:center">disa&lt;/td>
+&lt;td style="text-align:center">āvī&lt;/td>
+&lt;td>bhaya + d&lt;del>isa&lt;/del>(ass) + āvī&lt;/td>
+&lt;td style="text-align:center">bhayadassāvī&lt;/td>
+&lt;td>the one who sees danger&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="miscellaneous">Miscellaneous&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">rule&lt;/th>
+&lt;th>phrase&lt;/th>
+&lt;th style="text-align:center">dhātu&lt;/th>
+&lt;th style="text-align:center">affix&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th style="text-align:center">word&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">{528}&lt;/td>
+&lt;td>pavisatī’ti&lt;/td>
+&lt;td style="text-align:center">visa&lt;/td>
+&lt;td style="text-align:center">ṇa&lt;/td>
+&lt;td>pa + v&lt;del>i&lt;/del>(e)s&lt;del>a&lt;/del> + &lt;del>ṇa&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">paveso&lt;/td>
+&lt;td>the one who enters&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">{528}&lt;/td>
-&lt;td>&lt;/td>
-&lt;td style="text-align:center">&lt;code>ṇa&lt;/code>&lt;/td>
-&lt;td>&lt;code>pa&lt;/code> + &lt;code>visa&lt;/code> + &lt;code>ṇa&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>paveso&lt;/code>&lt;/td>
-&lt;td>&lt;code>pavisatī’ti&lt;/code> (&amp;ldquo;the one who enters&amp;rdquo;)&lt;/td>
+&lt;td>rujatī’ti&lt;/td>
+&lt;td style="text-align:center">ruja&lt;/td>
+&lt;td style="text-align:center">ṇa&lt;/td>
+&lt;td>r&lt;del>uja&lt;/del>(og) + + &lt;del>ṇa&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">rogo&lt;/td>
+&lt;td>that which afflicts, pain or disease&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">{528}&lt;/td>
-&lt;td>&lt;/td>
-&lt;td style="text-align:center">&lt;code>ṇa&lt;/code>&lt;/td>
-&lt;td>&lt;code>ruja&lt;/code> + &lt;code>ṇa&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>rogo&lt;/code>&lt;/td>
-&lt;td>&lt;code>rujatī’ti&lt;/code> (&amp;ldquo;that which afflicts, pain or disease&amp;rdquo;)&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">{528}&lt;/td>
-&lt;td>&lt;/td>
-&lt;td style="text-align:center">&lt;code>ṇa&lt;/code>&lt;/td>
-&lt;td>&lt;code>u&lt;/code> + &lt;code>pada&lt;/code> + &lt;code>ṇa&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>uppādo&lt;/code>&lt;/td>
-&lt;td>&lt;code>uppajjatī’ti&lt;/code> (&amp;ldquo;that which arises, the process of arising&amp;rdquo;)&lt;/td>
+&lt;td>uppajjatī’ti&lt;/td>
+&lt;td style="text-align:center">pada&lt;/td>
+&lt;td style="text-align:center">ṇa&lt;/td>
+&lt;td>u + (p)p&lt;del>a&lt;/del>(ā)d&lt;del>a&lt;/del> + + &lt;del>ṇa&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">uppādo&lt;/td>
+&lt;td>that which arises, the process of arising&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">{529}&lt;/td>
-&lt;td>bhāva (action)&lt;/td>
-&lt;td style="text-align:center">&lt;code>ṇa&lt;/code>&lt;/td>
-&lt;td>&lt;code>paca&lt;/code> + &lt;code>ṇa&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>pāko&lt;/code>&lt;/td>
-&lt;td>&lt;code>paccate, pacanaṁ vā&lt;/code> (&amp;ldquo;act of cooking&amp;rdquo;)&lt;/td>
+&lt;td>paccate, pacanaṁ vā&lt;/td>
+&lt;td style="text-align:center">paca&lt;/td>
+&lt;td style="text-align:center">ṇa&lt;/td>
+&lt;td>pa&lt;del>ca&lt;/del>(k) + + &lt;del>ṇa&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">pāko&lt;/td>
+&lt;td>act of cooking (bhāva)&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">{530}&lt;/td>
-&lt;td>&lt;/td>
-&lt;td style="text-align:center">&lt;code>kvi&lt;/code>&lt;/td>
-&lt;td>&lt;code>saṁ&lt;/code> + &lt;code>bhū&lt;/code> + &lt;code>kvi&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>sambhū&lt;/code>&lt;/td>
-&lt;td>&lt;code>sambhavatī’ti&lt;/code> (&amp;ldquo;the one which happens or arises well&amp;rdquo;)&lt;/td>
+&lt;td>sambhavatī’ti&lt;/td>
+&lt;td style="text-align:center">bhū&lt;/td>
+&lt;td style="text-align:center">kvi&lt;/td>
+&lt;td>saṁ + bhū + &lt;del>kvi&lt;/del>&lt;/td>
+&lt;td style="text-align:center">sambhū&lt;/td>
+&lt;td>the one which happens or arises well&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">{531}&lt;/td>
-&lt;td>&lt;/td>
-&lt;td style="text-align:center">&lt;code>ramma&lt;/code>&lt;/td>
-&lt;td>&lt;code>dhara&lt;/code> + &lt;code>ramma&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>dhammo&lt;/code>&lt;/td>
-&lt;td>&lt;code>dharati tenā’ti&lt;/code> (&amp;ldquo;the wholesome righteous Dhamma by which good-result are carried&amp;rdquo;)&lt;/td>
+&lt;td>dharati tenā’ti&lt;/td>
+&lt;td style="text-align:center">dhara&lt;/td>
+&lt;td style="text-align:center">ramma&lt;/td>
+&lt;td>dha&lt;del>ra&lt;/del> + &lt;del>ra&lt;/del>mm&lt;del>a&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">dhammo&lt;/td>
+&lt;td>the wholesome righteous Dhamma by which good-result are carried&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{538}&lt;/td>
+&lt;td>samaggaṁ kammaṁ sa’mupagacchatī’ti&lt;/td>
+&lt;td style="text-align:center">hana&lt;/td>
+&lt;td style="text-align:center">ra&lt;/td>
+&lt;td>saṁ + &lt;del>hana&lt;/del>gh + &lt;del>ra&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">saṁgho&lt;/td>
+&lt;td>the community of brethren who congregates to (conduct) the sacred activities unitedly&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="tassīlā-habitual-pattern">&lt;code>tassīlā&lt;/code> (habitual pattern)&lt;/h2>
+&lt;ul>
+&lt;li>a habit, habitual pattern, a consistent character (&lt;code>tassīlā&lt;/code>)&lt;/li>
+&lt;li>an ingrained nature (&lt;code>taddhamma&lt;/code>)&lt;/li>
+&lt;li>a dedicated habit of doing things well (&lt;code>tassādhukārī&lt;/code>)&lt;/li>
+&lt;/ul>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">rule&lt;/th>
+&lt;th>phrase&lt;/th>
+&lt;th style="text-align:center">saddūpapada&lt;/th>
+&lt;th style="text-align:center">dhātu&lt;/th>
+&lt;th style="text-align:center">affix&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th style="text-align:center">word&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">{532}&lt;/td>
+&lt;td>piyaṁ pasaṁsituṁ sīlaṁ yassa rañño, so hoti rājā&lt;/td>
+&lt;td style="text-align:center">piya&lt;/td>
+&lt;td style="text-align:center">saṁsa&lt;/td>
+&lt;td style="text-align:center">ṇī&lt;/td>
+&lt;td>piya + pa + saṁs&lt;del>a&lt;/del> + &lt;del>ṇ&lt;/del>ī&lt;/td>
+&lt;td style="text-align:center">piyapasaṁsī&lt;/td>
+&lt;td>the king who used to praise the loved ones&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">{532}&lt;/td>
-&lt;td>&lt;code>tassīla&lt;/code> &amp;ldquo;habitual pattern etc.&amp;rdquo; (&lt;code>taddhamma&lt;/code> &amp;ldquo;an ingrained nature&amp;rdquo; or &lt;code>tassādhukārī&lt;/code> &amp;ldquo;a dedicated habit of doing things well&amp;rdquo;)&lt;/td>
-&lt;td style="text-align:center">&lt;code>ṇī&lt;/code>&lt;/td>
-&lt;td>&lt;code>saddūpapada&lt;/code> (&lt;code>piya&lt;/code>) + &lt;code>pa&lt;/code> + &lt;code>saṁsa&lt;/code> + &lt;code>ṇī&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>piyapasaṁsī&lt;/code>&lt;/td>
-&lt;td>&lt;code>piyaṁ pasaṁsituṁ sīlaṁ yassa rañño, so hoti rājā&lt;/code> (&amp;ldquo;The king whose habit is only to praise the loved one, that (type of) king&amp;rdquo;)&lt;/td>
+&lt;td>pasayha pavattituṁ sīlaṁ yassa rañño, so hoti rājā&lt;/td>
+&lt;td style="text-align:center">pasayha&lt;/td>
+&lt;td style="text-align:center">vatu&lt;/td>
+&lt;td style="text-align:center">tu&lt;/td>
+&lt;td>pasayha + pa + vat&lt;del>u&lt;/del> + t&lt;del>u&lt;/del> (ā)&lt;/td>
+&lt;td style="text-align:center">pasayhapavattā&lt;/td>
+&lt;td>the king who used to behave overbearingly&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">{532}&lt;/td>
-&lt;td>ditto&lt;/td>
-&lt;td style="text-align:center">&lt;code>tu&lt;/code>&lt;/td>
-&lt;td>&lt;code>saddūpapada&lt;/code> (&lt;code>pasayha&lt;/code>) + &lt;code>pa&lt;/code> + &lt;code>vatu&lt;/code> + &lt;code>tu&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>pasayhapavattā&lt;/code>&lt;/td>
-&lt;td>&lt;code>pasayha pavattituṁ sīlaṁ yassa rañño, so hoti rājā&lt;/code> (&amp;ldquo;the king who used to behave overbearingly&amp;rdquo;)&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">{532}&lt;/td>
-&lt;td>ditto&lt;/td>
-&lt;td style="text-align:center">&lt;code>āvī&lt;/code>&lt;/td>
-&lt;td>&lt;code>saddūpapada&lt;/code> (&lt;code>bhaya&lt;/code>) + &lt;code>disa&lt;/code> + &lt;code>āvī&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>bhayadassāvī&lt;/code>&lt;/td>
-&lt;td>&lt;code>bhayaṁ passituṁ sīlaṁ yassa samaṇassa so hoti samaṇo&lt;/code> (&amp;ldquo;the monk who used to see dangers (of unwholesome actions)&amp;rdquo;)&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">{533}&lt;/td>
-&lt;td>ditto&lt;/td>
-&lt;td style="text-align:center">&lt;code>yu&lt;/code>&lt;/td>
-&lt;td>&lt;code>ghusa&lt;/code> + &lt;code>yu&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>ghosano&lt;/code>&lt;/td>
-&lt;td>&lt;code>ghosanasīlo&lt;/code> (&amp;ldquo;the one whose habit is to be vocal, the vocal one, noisy talker&amp;rdquo;)&lt;/td>
+&lt;td>bhayaṁ passituṁ sīlaṁ yassa samaṇassa so hoti samaṇo&lt;/td>
+&lt;td style="text-align:center">bhaya&lt;/td>
+&lt;td style="text-align:center">disa&lt;/td>
+&lt;td style="text-align:center">āvī&lt;/td>
+&lt;td>bhaya + d&lt;del>i&lt;/del>(as)s&lt;del>a&lt;/del> + āvī&lt;/td>
+&lt;td style="text-align:center">bhayadassāvī&lt;/td>
+&lt;td>the monk who used to see dangers (of unwholesome actions)&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">{534}&lt;/td>
-&lt;td>ditto&lt;/td>
-&lt;td style="text-align:center">&lt;code>rū&lt;/code>&lt;/td>
-&lt;td>&lt;code>saddūpapada&lt;/code> (&lt;code>bhavapāra&lt;/code>) + &lt;code>gamu&lt;/code> + &lt;code>rū&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>bhavapāragū&lt;/code>&lt;/td>
-&lt;td>&lt;code>bhavapāraṁ gantuṁ sīlaṁ yassa purisassa, so hoti puriso&lt;/code> (&amp;ldquo;the man whose habit is to go the other shore of life, i.e. an enlightened Arahanta monk&amp;rdquo;)&lt;/td>
+&lt;td>bhavapāraṁ gantuṁ sīlaṁ yassa purisassa, so hoti puriso&lt;/td>
+&lt;td style="text-align:center">pāra&lt;/td>
+&lt;td style="text-align:center">gamu&lt;/td>
+&lt;td style="text-align:center">rū&lt;/td>
+&lt;td>bhavapāra + g&lt;del>amu&lt;/del> + &lt;del>r&lt;/del>ū&lt;/td>
+&lt;td style="text-align:center">bhavapāragū&lt;/td>
+&lt;td>the man whose habit is to go the other shore of life, i.e. an enlightened Arahanta monk&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">rule&lt;/th>
+&lt;th>phrase&lt;/th>
+&lt;th style="text-align:center">dhātu&lt;/th>
+&lt;th style="text-align:center">affix&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th style="text-align:center">word&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">{533}&lt;/td>
+&lt;td>ghosanasīlo&lt;/td>
+&lt;td style="text-align:center">sadda, kudha, cala, maṇḍa, ruca, ghusa&lt;/td>
+&lt;td style="text-align:center">yu&lt;/td>
+&lt;td>gh&lt;del>u&lt;/del>(o)sa + &lt;del>yu&lt;/del> (no)&lt;/td>
+&lt;td style="text-align:center">ghosano&lt;/td>
+&lt;td>the one whose habit is to be vocal, the vocal one, noisy talker&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">{535}&lt;/td>
-&lt;td>ditto&lt;/td>
-&lt;td style="text-align:center">&lt;code>rū&lt;/code>&lt;/td>
-&lt;td>&lt;code>bhikkha&lt;/code> + &lt;code>rū&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>bhikkhu&lt;/code>&lt;/td>
-&lt;td>&lt;code>bhikkhanasīlo yācanasīlo&lt;/code> (&amp;ldquo;the one used to begging&amp;rdquo;)&lt;/td>
+&lt;td style="text-align:center">{533}&lt;/td>
+&lt;td>bhikkhanasīlo yācanasīlo&lt;/td>
+&lt;td style="text-align:center">bhikkha&lt;/td>
+&lt;td style="text-align:center">rū&lt;/td>
+&lt;td>bhikkh&lt;del>a&lt;/del> + &lt;del>rū&lt;/del> (u)&lt;/td>
+&lt;td style="text-align:center">bhikkhu&lt;/td>
+&lt;td>the one used to begging&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">{536}&lt;/td>
-&lt;td>ditto&lt;/td>
-&lt;td style="text-align:center">&lt;code>ṇuka&lt;/code>&lt;/td>
-&lt;td>&lt;code>ā&lt;/code> + &lt;code>hana&lt;/code> + &lt;code>ṇuka&lt;/code>&lt;/td>
-&lt;td style="text-align:center">&lt;code>āghātuko&lt;/code>&lt;/td>
-&lt;td>&lt;code>āhananasīlo&lt;/code> (&amp;ldquo;the executioner, killer&amp;rdquo;)&lt;/td>
+&lt;td style="text-align:center">{533}&lt;/td>
+&lt;td>āhananasīlo&lt;/td>
+&lt;td style="text-align:center">hana&lt;/td>
+&lt;td style="text-align:center">ṇuka&lt;/td>
+&lt;td>ā + (gh)&lt;del>hana&lt;/del>(ā) + (t)&lt;del>ṇ&lt;/del>uk&lt;del>a&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">āghātuko&lt;/td>
+&lt;td>the executioner, killer&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="kicca-affixes-545">&lt;code>kicca&lt;/code> affixes {545}&lt;/h2>
+&lt;p>These affixes are associated with passive-voice (&lt;code>kamma&lt;/code>) verbal nouns or
+middle-voice (&lt;code>bhāva&lt;/code>) verbs. Some Pali grammar books refer to them as &amp;ldquo;future
+passive particles&amp;rdquo; but this only describes the &lt;code>kamma&lt;/code> sense of these words.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">rule&lt;/th>
+&lt;th>phrase&lt;/th>
+&lt;th style="text-align:center">dhātu&lt;/th>
+&lt;th style="text-align:center">affix&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th style="text-align:center">word&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">{540}&lt;/td>
+&lt;td>bhavitabbaṁ&lt;/td>
+&lt;td style="text-align:center">bhū&lt;/td>
+&lt;td style="text-align:center">anīya&lt;/td>
+&lt;td>bh&lt;del>ū&lt;/del>(av) + anīya (ṁ)&lt;/td>
+&lt;td style="text-align:center">bhavanīyaṁ&lt;/td>
+&lt;td>(It) should be (Kamma sense), or the state of being (Bhāva sense)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{541}&lt;/td>
+&lt;td>kattabbaṁ&lt;/td>
+&lt;td style="text-align:center">kara&lt;/td>
+&lt;td style="text-align:center">ṇya&lt;/td>
+&lt;td>kar&lt;del>a&lt;/del>(i) + &lt;del>ṇ&lt;/del>ya (ṁ)&lt;/td>
+&lt;td style="text-align:center">kāriyaṁ&lt;/td>
+&lt;td>(It) should be done (kamma) or act of doing, an act (bhāva)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{541}&lt;/td>
+&lt;td>ñātabbaṁ&lt;/td>
+&lt;td style="text-align:center">ñā&lt;/td>
+&lt;td style="text-align:center">teyya&lt;/td>
+&lt;td>ñā + teyya (ṁ)&lt;/td>
+&lt;td style="text-align:center">ñāteyyaṁ&lt;/td>
+&lt;td>it should be known (kamma) or act of knowing (bhāva)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{542}&lt;/td>
+&lt;td>kattabbaṁ&lt;/td>
+&lt;td style="text-align:center">kara&lt;/td>
+&lt;td style="text-align:center">ricca&lt;/td>
+&lt;td>k&lt;del>ara&lt;/del> + &lt;del>r&lt;/del>icca (ṁ)&lt;/td>
+&lt;td style="text-align:center">kiccaṁ&lt;/td>
+&lt;td>something that should be done, i.e. a matter or a case or a duty to do&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{543}&lt;/td>
+&lt;td>bhavitabbo&lt;/td>
+&lt;td style="text-align:center">bhū&lt;/td>
+&lt;td style="text-align:center">ṇya&lt;/td>
+&lt;td>bh&lt;del>ū&lt;/del> + &lt;del>ṇya&lt;/del>(abb&lt;del>a&lt;/del>) (o)&lt;/td>
+&lt;td style="text-align:center">bhabbo&lt;/td>
+&lt;td>likely to happen, likely to occur&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="yu-affix-sādhana">&lt;code>yu&lt;/code> affix (&lt;code>sādhana&lt;/code>)&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">rule&lt;/th>
+&lt;th style="text-align:center">sense&lt;/th>
+&lt;th>phrase&lt;/th>
+&lt;th style="text-align:center">dhātu&lt;/th>
+&lt;th style="text-align:center">affix&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th style="text-align:center">word&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">{547}&lt;/td>
+&lt;td style="text-align:center">bhāva&lt;/td>
+&lt;td>nandīyate&lt;/td>
+&lt;td style="text-align:center">nanda&lt;/td>
+&lt;td style="text-align:center">yu&lt;/td>
+&lt;td>nanda + &lt;del>yu&lt;/del>(na) (ṁ)&lt;/td>
+&lt;td style="text-align:center">nandanaṁ&lt;/td>
+&lt;td>act of liking, the pleasure&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{547}&lt;/td>
+&lt;td style="text-align:center">kamma&lt;/td>
+&lt;td>nanditabbaṁ&lt;/td>
+&lt;td style="text-align:center">nanda&lt;/td>
+&lt;td style="text-align:center">yu&lt;/td>
+&lt;td>nanda + &lt;del>yu&lt;/del>(na) (ṁ)&lt;/td>
+&lt;td style="text-align:center">nandanaṁ&lt;/td>
+&lt;td>something which should be pleased with, being pleasant or such a thing&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{548}&lt;/td>
+&lt;td style="text-align:center">kattu&lt;/td>
+&lt;td>rajaṁ haratī’ti&lt;/td>
+&lt;td style="text-align:center">hara&lt;/td>
+&lt;td style="text-align:center">yu&lt;/td>
+&lt;td>raj&lt;del>a&lt;/del>(o) + hara + &lt;del>yu&lt;/del>(na) (ṁ)&lt;/td>
+&lt;td style="text-align:center">rajoharaṇaṁ&lt;/td>
+&lt;td>the dust-remover&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{548}&lt;/td>
+&lt;td style="text-align:center">karaṇa&lt;/td>
+&lt;td>karoti tenā’ti&lt;/td>
+&lt;td style="text-align:center">kara&lt;/td>
+&lt;td style="text-align:center">yu&lt;/td>
+&lt;td>kara + &lt;del>yu&lt;/del>(na) (ṁ)&lt;/td>
+&lt;td style="text-align:center">karaṇaṁ&lt;/td>
+&lt;td>a supporting cause, a means or an instrument by which actions are accomplished&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{548}&lt;/td>
+&lt;td style="text-align:center">padesa&lt;/td>
+&lt;td>tiṭṭhanti tasmin’ti&lt;/td>
+&lt;td style="text-align:center">ṭhā&lt;/td>
+&lt;td style="text-align:center">yu&lt;/td>
+&lt;td>ṭhā + &lt;del>yu&lt;/del>(na) (ṁ)&lt;/td>
+&lt;td style="text-align:center">ṭhānaṁ&lt;/td>
+&lt;td>point or location on which things stand or exist&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="sañña--i">&lt;code>sañña&lt;/code> + &lt;code>i&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">rule&lt;/th>
+&lt;th style="text-align:center">sense&lt;/th>
+&lt;th>phrase&lt;/th>
+&lt;th style="text-align:center">dhātu&lt;/th>
+&lt;th style="text-align:center">affix&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th style="text-align:center">word&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">{551}&lt;/td>
+&lt;td style="text-align:center">kamma&lt;/td>
+&lt;td>paṭhamaṁ ādīyatī’ti&lt;/td>
+&lt;td style="text-align:center">dā&lt;/td>
+&lt;td style="text-align:center">i&lt;/td>
+&lt;td>ā + d&lt;del>ā&lt;/del> + i&lt;/td>
+&lt;td style="text-align:center">ādi&lt;/td>
+&lt;td>something taken initially, a beginning, an inception, a starting point&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{551}&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>udakaṁ dadhātī’ti&lt;/td>
+&lt;td style="text-align:center">dhā&lt;/td>
+&lt;td style="text-align:center">i&lt;/td>
+&lt;td>uda&lt;del>ka&lt;/del> + dh&lt;del>ā&lt;/del> + i&lt;/td>
+&lt;td style="text-align:center">udadhi&lt;/td>
+&lt;td>that which carries water, an ocean&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{551}&lt;/td>
+&lt;td style="text-align:center">kattu&lt;/td>
+&lt;td>maho’dakāni dadhātī’ti&lt;/td>
+&lt;td style="text-align:center">dhā&lt;/td>
+&lt;td style="text-align:center">i&lt;/td>
+&lt;td>mahoda&lt;del>ka&lt;/del> + dh&lt;del>ā&lt;/del> + i&lt;/td>
+&lt;td style="text-align:center">mahodadhi&lt;/td>
+&lt;td>that which carries great (amount of) water, an ocean&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{551}&lt;/td>
+&lt;td style="text-align:center">adhikaraṇa&lt;/td>
+&lt;td>vālāni dadhāti tasmin’ti&lt;/td>
+&lt;td style="text-align:center">dhā&lt;/td>
+&lt;td style="text-align:center">i&lt;/td>
+&lt;td>vāla + dh&lt;del>ā&lt;/del> + i&lt;/td>
+&lt;td style="text-align:center">vāladhi&lt;/td>
+&lt;td>that which carries great (amount of) water, an ocean&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{551}&lt;/td>
+&lt;td style="text-align:center">kamma&lt;/td>
+&lt;td>sammā dhīyatī’ti&lt;/td>
+&lt;td style="text-align:center">dhā&lt;/td>
+&lt;td style="text-align:center">i&lt;/td>
+&lt;td>sa&lt;del>ṁ&lt;/del>(n) + dh&lt;del>ā&lt;/del> + i&lt;/td>
+&lt;td style="text-align:center">sandhi&lt;/td>
+&lt;td>act of combining well&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="sañña-well-wishes">&lt;code>sañña&lt;/code> (well wishes)&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">rule&lt;/th>
+&lt;th>phrase&lt;/th>
+&lt;th style="text-align:center">dhātu&lt;/th>
+&lt;th style="text-align:center">affix&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th style="text-align:center">word&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">{552}&lt;/td>
+&lt;td>jino enaṁ bujjhatū’ti&lt;/td>
+&lt;td style="text-align:center">budha&lt;/td>
+&lt;td style="text-align:center">ti&lt;/td>
+&lt;td>jina + bud(d)h&lt;del>a&lt;/del> + &lt;del>t&lt;/del>i&lt;/td>
+&lt;td style="text-align:center">jinabuddhi&lt;/td>
+&lt;td>may the Buddha know him&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{552}&lt;/td>
+&lt;td>dhanaṁ assa bhavatū’ti&lt;/td>
+&lt;td style="text-align:center">bhū&lt;/td>
+&lt;td style="text-align:center">ti&lt;/td>
+&lt;td>dhana + bhū + ti&lt;/td>
+&lt;td style="text-align:center">dhanabhūti&lt;/td>
+&lt;td>may he be prosperous or wealthy&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{552}&lt;/td>
+&lt;td>bhavatū’ti&lt;/td>
+&lt;td style="text-align:center">bhū&lt;/td>
+&lt;td style="text-align:center">ta&lt;/td>
+&lt;td>bhū + t&lt;del>a&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">bhūto&lt;/td>
+&lt;td>may be, i.e. grow&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{552}&lt;/td>
+&lt;td>bhavatū’ti&lt;/td>
+&lt;td style="text-align:center">bhū&lt;/td>
+&lt;td style="text-align:center">ṇa&lt;/td>
+&lt;td>bh&lt;del>ū&lt;/del>(a) + &lt;del>ṇa&lt;/del>(v) (o)&lt;/td>
+&lt;td style="text-align:center">bhāvo&lt;/td>
+&lt;td>bhāvo&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{552}&lt;/td>
+&lt;td>dhammo enaṁ dadātū’ti&lt;/td>
+&lt;td style="text-align:center">dā&lt;/td>
+&lt;td style="text-align:center">ta&lt;/td>
+&lt;td>dhamma + d&lt;del>ā&lt;/del>(i) + &lt;del>ta&lt;/del>(nn) (o)&lt;/td>
+&lt;td style="text-align:center">dhammadinno&lt;/td>
+&lt;td>may the Dhamma give him (happiness)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{552}&lt;/td>
+&lt;td>vaḍḍhatū’ti&lt;/td>
+&lt;td style="text-align:center">vaḍḍha&lt;/td>
+&lt;td style="text-align:center">māna&lt;/td>
+&lt;td>vaḍḍha + mān&lt;del>a&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">vaḍḍhamāno&lt;/td>
+&lt;td>prosperous&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="itthi">&lt;code>itthi&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">rule&lt;/th>
+&lt;th>phrase&lt;/th>
+&lt;th style="text-align:center">dhātu&lt;/th>
+&lt;th style="text-align:center">affix&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th style="text-align:center">word&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">{553}&lt;/td>
+&lt;td>jīratī’ti&lt;/td>
+&lt;td style="text-align:center">jara&lt;/td>
+&lt;td style="text-align:center">a&lt;/td>
+&lt;td>jar&lt;del>a&lt;/del> + &lt;del>a&lt;/del> (ā)&lt;/td>
+&lt;td style="text-align:center">jarā&lt;/td>
+&lt;td>that which degenerates, decaying, the old-age&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{553}&lt;/td>
+&lt;td>maññatī’ti&lt;/td>
+&lt;td style="text-align:center">mana&lt;/td>
+&lt;td style="text-align:center">ti&lt;/td>
+&lt;td>ma&lt;del>na&lt;/del> + ti&lt;/td>
+&lt;td style="text-align:center">mati&lt;/td>
+&lt;td>that which thinks, thought, view, opinion&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{553}&lt;/td>
+&lt;td>cetayatī’ti&lt;/td>
+&lt;td style="text-align:center">citi&lt;/td>
+&lt;td style="text-align:center">yu&lt;/td>
+&lt;td>c&lt;del>i(e)t&lt;/del>i~~(a) + &lt;del>yu&lt;/del>n (ā)&lt;/td>
+&lt;td style="text-align:center">cetanā&lt;/td>
+&lt;td>that which motivates, motive, volition, intent&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{553}&lt;/td>
+&lt;td>vedayatī’ti&lt;/td>
+&lt;td style="text-align:center">vida&lt;/td>
+&lt;td style="text-align:center">yu&lt;/td>
+&lt;td>v&lt;del>i&lt;/del>(e)da + &lt;del>yu&lt;/del>n (ā)&lt;/td>
+&lt;td style="text-align:center">vedanā&lt;/td>
+&lt;td>that which feels, feeling&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="kara--ririya">&lt;code>kara&lt;/code> + &lt;code>ririya&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">rule&lt;/th>
+&lt;th>phrase&lt;/th>
+&lt;th style="text-align:center">dhātu&lt;/th>
+&lt;th style="text-align:center">affix&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th style="text-align:center">word&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">{554}&lt;/td>
+&lt;td>kattabbā&lt;/td>
+&lt;td style="text-align:center">kara&lt;/td>
+&lt;td style="text-align:center">ririya&lt;/td>
+&lt;td>k&lt;del>ara&lt;/del> + &lt;del>r&lt;/del>iriy&lt;del>a&lt;/del> (ā)&lt;/td>
+&lt;td style="text-align:center">kiriyā(🚺)&lt;/td>
+&lt;td>an action&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{554}&lt;/td>
+&lt;td>karaṇīyaṁ&lt;/td>
+&lt;td style="text-align:center">kara&lt;/td>
+&lt;td style="text-align:center">ririya&lt;/td>
+&lt;td>k&lt;del>ara&lt;/del> + &lt;del>r&lt;/del>iriya (ṁ)&lt;/td>
+&lt;td style="text-align:center">kiriyaṁ(🚻)&lt;/td>
+&lt;td>an action&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="atīta-past">&lt;code>Atīta&lt;/code> (past)&lt;/h2>
+&lt;p>past perfect verbs and verbal nouns (also referred to as past participles)&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">rule&lt;/th>
+&lt;th style="text-align:center">dhātu&lt;/th>
+&lt;th style="text-align:center">affix&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th style="text-align:center">word&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">{555}&lt;/td>
+&lt;td style="text-align:center">hu&lt;/td>
+&lt;td style="text-align:center">ta&lt;/td>
+&lt;td>hu + t&lt;del>a&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">huto&lt;/td>
+&lt;td>given, sacrificed&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{555}&lt;/td>
+&lt;td style="text-align:center">hu&lt;/td>
+&lt;td style="text-align:center">tavantu&lt;/td>
+&lt;td>hu + tav&lt;del>antu&lt;/del> (ā)&lt;/td>
+&lt;td style="text-align:center">hutavā&lt;/td>
+&lt;td>given, sacrificed&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{555}&lt;/td>
+&lt;td style="text-align:center">hu&lt;/td>
+&lt;td style="text-align:center">tāvī&lt;/td>
+&lt;td>hu + tāvī&lt;/td>
+&lt;td style="text-align:center">hutāvī&lt;/td>
+&lt;td>given, sacrificed&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="ta-affix-voice">&lt;code>ta&lt;/code> affix (voice)&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">rule&lt;/th>
+&lt;th style="text-align:center">sense&lt;/th>
+&lt;th>phrase&lt;/th>
+&lt;th style="text-align:center">dhātu&lt;/th>
+&lt;th style="text-align:center">affix&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th style="text-align:center">word&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">{556}&lt;/td>
+&lt;td style="text-align:center">bhāva&lt;/td>
+&lt;td>tassa&lt;/td>
+&lt;td style="text-align:center">ge&lt;/td>
+&lt;td style="text-align:center">ta&lt;/td>
+&lt;td>g&lt;del>e&lt;/del>(ī) + t&lt;del>a&lt;/del> + (ṁ)&lt;/td>
+&lt;td style="text-align:center">gītaṁ&lt;/td>
+&lt;td>singing, i.e. The singing act of that person&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{556}&lt;/td>
+&lt;td style="text-align:center">kamma&lt;/td>
+&lt;td>tena&lt;/td>
+&lt;td style="text-align:center">bhāsa&lt;/td>
+&lt;td style="text-align:center">ta&lt;/td>
+&lt;td>bhās&lt;del>a&lt;/del>(i) + ta + (ṁ)&lt;/td>
+&lt;td style="text-align:center">bhāsitaṁ&lt;/td>
+&lt;td>is said, i.e. said by that person&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{557}&lt;/td>
+&lt;td style="text-align:center">kattā&lt;/td>
+&lt;td>sabbe saṅkhatā’saṅkhate dhamme bujjhati, abujjhi, bujjhissatī’ti&lt;/td>
+&lt;td style="text-align:center">budha&lt;/td>
+&lt;td style="text-align:center">ta&lt;/td>
+&lt;td>bud(d)h&lt;del>a&lt;/del> + t&lt;del>a&lt;/del> + (o)&lt;/td>
+&lt;td style="text-align:center">buddho&lt;/td>
+&lt;td>the one who knows, who knew and who will know all conditioned and uncondi- tioned phenomena, the Buddha&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="ina-affix">&lt;code>ina&lt;/code> affix&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">rule&lt;/th>
+&lt;th style="text-align:center">sense&lt;/th>
+&lt;th>phrase&lt;/th>
+&lt;th style="text-align:center">dhātu&lt;/th>
+&lt;th style="text-align:center">affix&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th style="text-align:center">word&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">{558}&lt;/td>
+&lt;td style="text-align:center">kattā&lt;/td>
+&lt;td>pāpake akusale dhamme jināti, ajini, jinissatī’ti&lt;/td>
+&lt;td style="text-align:center">ji&lt;/td>
+&lt;td style="text-align:center">ina&lt;/td>
+&lt;td>ji + &lt;del>i&lt;/del>n&lt;del>a&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">jino&lt;/td>
+&lt;td>the one who subjugates, subjugated and will subjugate the evil, bad, unwholesome mental states, Buddha, the victor of evil&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{559}&lt;/td>
+&lt;td style="text-align:center">kattā&lt;/td>
+&lt;td>supatī’ti&lt;/td>
+&lt;td style="text-align:center">supa&lt;/td>
+&lt;td style="text-align:center">ina&lt;/td>
+&lt;td>sup&lt;del>a&lt;/del> + ina (ṁ)&lt;/td>
+&lt;td style="text-align:center">supinaṁ&lt;/td>
+&lt;td>dream, (seen while sleeping)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{559}&lt;/td>
+&lt;td style="text-align:center">bhāva&lt;/td>
+&lt;td>supīyate&lt;/td>
+&lt;td style="text-align:center">supa&lt;/td>
+&lt;td style="text-align:center">ina&lt;/td>
+&lt;td>sup&lt;del>a&lt;/del> + ina (ṁ)&lt;/td>
+&lt;td style="text-align:center">supinaṁ&lt;/td>
+&lt;td>sleep&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="īsaṁ-du-su--kha">&lt;code>īsaṁ&lt;/code>, &lt;code>du&lt;/code>, &lt;code>su&lt;/code> + &lt;code>kha&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">rule&lt;/th>
+&lt;th style="text-align:center">dhātu&lt;/th>
+&lt;th style="text-align:center">affix&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th style="text-align:center">word&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">{560}&lt;/td>
+&lt;td style="text-align:center">si&lt;/td>
+&lt;td style="text-align:center">a&lt;/td>
+&lt;td>īsa&lt;del>ṁ&lt;/del>(s) + s&lt;del>i&lt;/del> + a (yo)&lt;/td>
+&lt;td style="text-align:center">īsassayo&lt;/td>
+&lt;td>little-sleeping, a nap (bhavatā)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{560}&lt;/td>
+&lt;td style="text-align:center">si&lt;/td>
+&lt;td style="text-align:center">a&lt;/td>
+&lt;td>du(s) + s&lt;del>i&lt;/del> + a (yo)&lt;/td>
+&lt;td style="text-align:center">dussayo&lt;/td>
+&lt;td>badly-sleeping, bad sleep (bhavatā)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{560}&lt;/td>
+&lt;td style="text-align:center">si&lt;/td>
+&lt;td style="text-align:center">a&lt;/td>
+&lt;td>su(s) + s&lt;del>i&lt;/del> + a (yo)&lt;/td>
+&lt;td style="text-align:center">sussayo&lt;/td>
+&lt;td>well-sleeping sleep (bhavatā)&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="tuṁ-affix">&lt;code>tuṁ&lt;/code> affix&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">rule&lt;/th>
+&lt;th style="text-align:center">meaning&lt;/th>
+&lt;th>phrase&lt;/th>
+&lt;th style="text-align:center">dhātu&lt;/th>
+&lt;th style="text-align:center">affix&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th style="text-align:center">word&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">{561}&lt;/td>
+&lt;td style="text-align:center">“wish” or “purpose”*&lt;/td>
+&lt;td>puññāni&lt;/td>
+&lt;td style="text-align:center">kara&lt;/td>
+&lt;td style="text-align:center">tave&lt;/td>
+&lt;td>ka&lt;del>ra&lt;/del> + tave&lt;/td>
+&lt;td style="text-align:center">kātave&lt;/td>
+&lt;td>to do, i.e. for the purpose of doing meritorious deeds&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{561}&lt;/td>
+&lt;td style="text-align:center">“wish” or “purpose”*&lt;/td>
+&lt;td>saddhammaṁ&lt;/td>
+&lt;td style="text-align:center">su&lt;/td>
+&lt;td style="text-align:center">tuṁ&lt;/td>
+&lt;td>s&lt;del>u&lt;/del>(o) + tuṁ&lt;/td>
+&lt;td style="text-align:center">sotu’micchati&lt;/td>
+&lt;td>He wants to listen to the Dhamma&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{562}&lt;/td>
+&lt;td style="text-align:center">worthiness and ability&lt;/td>
+&lt;td>saddhammaṁ&lt;/td>
+&lt;td style="text-align:center">ninda&lt;/td>
+&lt;td style="text-align:center">tuṁ&lt;/td>
+&lt;td>nind&lt;del>a&lt;/del>(i) + tuṁ&lt;/td>
+&lt;td style="text-align:center">ninditum’arahati&lt;/td>
+&lt;td>Who deserves to blame that person?&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{563}&lt;/td>
+&lt;td style="text-align:center">“appropriateness” to do something&lt;/td>
+&lt;td>ala’meva dānāni&lt;/td>
+&lt;td style="text-align:center">dā&lt;/td>
+&lt;td style="text-align:center">tuṁ&lt;/td>
+&lt;td>dā + tuṁ&lt;/td>
+&lt;td style="text-align:center">dātuṁ&lt;/td>
+&lt;td>to offer, i.e. It is only appropriate to offer alms (as it can enrich one in many ways)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{563}&lt;/td>
+&lt;td style="text-align:center">“appropriateness” to do something&lt;/td>
+&lt;td>ala’meva puññāni&lt;/td>
+&lt;td style="text-align:center">kara&lt;/td>
+&lt;td style="text-align:center">tuṁ&lt;/td>
+&lt;td>ka&lt;del>ra&lt;/del> + tuṁ&lt;/td>
+&lt;td style="text-align:center">kātuṁ&lt;/td>
+&lt;td>to do, i.e. It is fitting or suitable to do meritorious deeds (as it can lead to wholesome results)&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>*in a sentence having one same Kattā (subject)&lt;/p>
+&lt;h2 id="tuna-tvāna-tvā-gerund-or-absolutive">&lt;code>tuna&lt;/code>, &lt;code>tvāna&lt;/code>, &lt;code>tvā&lt;/code> (gerund or absolutive)&lt;/h2>
+&lt;p>To express concurrent actions of a single doer, one being a
+preceding action and the other being next subsequent action.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">rule&lt;/th>
+&lt;th>phrase&lt;/th>
+&lt;th style="text-align:center">dhātu&lt;/th>
+&lt;th style="text-align:center">affix&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th style="text-align:center">word&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">{564}&lt;/td>
+&lt;td>kātuna kammaṁ gacchati&lt;/td>
+&lt;td style="text-align:center">kara&lt;/td>
+&lt;td style="text-align:center">tuna&lt;/td>
+&lt;td>k&lt;del>ara&lt;/del>(ā) + tuna&lt;/td>
+&lt;td style="text-align:center">kātuna&lt;/td>
+&lt;td>He goes (after) having done work&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{564}&lt;/td>
+&lt;td>akātuna puññaṁ kilissanti&lt;/td>
+&lt;td style="text-align:center">kara&lt;/td>
+&lt;td style="text-align:center">tuna&lt;/td>
+&lt;td>na + k&lt;del>ara&lt;/del>(ā) + tuna&lt;/td>
+&lt;td style="text-align:center">kātuna&lt;/td>
+&lt;td>(He) will suffer for not having done meritorious deeds&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{564}&lt;/td>
+&lt;td>sattā sutvāna dhammaṁ modanti&lt;/td>
+&lt;td style="text-align:center">su&lt;/td>
+&lt;td style="text-align:center">tvāna&lt;/td>
+&lt;td>su + tvāna&lt;/td>
+&lt;td style="text-align:center">sutvāna&lt;/td>
+&lt;td>having heard Dhamma, the living beings are delighted&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{564}&lt;/td>
+&lt;td>jitvāna vasati&lt;/td>
+&lt;td style="text-align:center">ji&lt;/td>
+&lt;td style="text-align:center">tvāna&lt;/td>
+&lt;td>ji + tvāna&lt;/td>
+&lt;td style="text-align:center">jitvāna&lt;/td>
+&lt;td>Having conquered the enemy (&lt;code>ripuṁ&lt;/code>), (he) lives&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{564}&lt;/td>
+&lt;td>sutvāna’ssa eta’dahosi&lt;/td>
+&lt;td style="text-align:center">su&lt;/td>
+&lt;td style="text-align:center">tvāna&lt;/td>
+&lt;td>su + tvāna&lt;/td>
+&lt;td style="text-align:center">sutvāna&lt;/td>
+&lt;td>having heard Dhamma, this thought arose in him (in his mind)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{564}&lt;/td>
+&lt;td>sutvāna amutra kathayanti&lt;/td>
+&lt;td style="text-align:center">su&lt;/td>
+&lt;td style="text-align:center">tuna&lt;/td>
+&lt;td>su + tvāna&lt;/td>
+&lt;td style="text-align:center">sutvāna&lt;/td>
+&lt;td>having heard here, they say there (what they heard)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{564}&lt;/td>
+&lt;td>sutvā jānissāma&lt;/td>
+&lt;td style="text-align:center">su&lt;/td>
+&lt;td style="text-align:center">tvā&lt;/td>
+&lt;td>su + tvā&lt;/td>
+&lt;td style="text-align:center">sutvā&lt;/td>
+&lt;td>We must know (how to respond) (only after) having heard (from you)&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="māna-anta-present-participle">&lt;code>māna&lt;/code>, &lt;code>anta&lt;/code> (present participle)&lt;/h2>
+&lt;p>To express an on-going action being done or still taking place at present,
+(i.e. as yet unfinished action).&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">rule&lt;/th>
+&lt;th>phrase&lt;/th>
+&lt;th style="text-align:center">dhātu&lt;/th>
+&lt;th style="text-align:center">affix&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th style="text-align:center">word&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">{565}&lt;/td>
+&lt;td>saramāno rodati&lt;/td>
+&lt;td style="text-align:center">sara&lt;/td>
+&lt;td style="text-align:center">māna&lt;/td>
+&lt;td>sar&lt;del>a&lt;/del> + a + mān&lt;del>a&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">saramāno&lt;/td>
+&lt;td>(he) cries while remembering&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{565}&lt;/td>
+&lt;td>gacchanto gaṇhāti&lt;/td>
+&lt;td style="text-align:center">gamu&lt;/td>
+&lt;td style="text-align:center">anta&lt;/td>
+&lt;td>ga&lt;del>mu&lt;/del>(cch) + ant&lt;del>a&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">gacchanto&lt;/td>
+&lt;td>(he) takes or grabs while going&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="ritu-ratthu-rātu-tuka-ika">&lt;code>ritu&lt;/code>, &lt;code>ratthu&lt;/code>, &lt;code>rātu&lt;/code>, &lt;code>tuka&lt;/code>, &lt;code>ika&lt;/code>&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">rule&lt;/th>
+&lt;th>phrase&lt;/th>
+&lt;th style="text-align:center">dhātu&lt;/th>
+&lt;th style="text-align:center">affix&lt;/th>
+&lt;th>transformation&lt;/th>
+&lt;th style="text-align:center">word&lt;/th>
+&lt;th>meaning&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">{566}&lt;/td>
+&lt;td>sāsatī’ti&lt;/td>
+&lt;td style="text-align:center">sāsa&lt;/td>
+&lt;td style="text-align:center">ratthu&lt;/td>
+&lt;td>sā&lt;del>sa&lt;/del> + &lt;del>ra&lt;/del>tth&lt;del>u&lt;/del> (ā)&lt;/td>
+&lt;td style="text-align:center">satthā&lt;/td>
+&lt;td>the one who teaches, the teacher&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{566}&lt;/td>
+&lt;td>sāsati hiṁsatī’ti vā&lt;/td>
+&lt;td style="text-align:center">sāsa&lt;/td>
+&lt;td style="text-align:center">ratthu&lt;/td>
+&lt;td>sā&lt;del>sa&lt;/del> + &lt;del>ra&lt;/del>tth&lt;del>u&lt;/del> (ā)&lt;/td>
+&lt;td style="text-align:center">satthā&lt;/td>
+&lt;td>the one who hurts the defilements, Buddha who hurts defilements&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{567}&lt;/td>
+&lt;td>pāti puttan’ti&lt;/td>
+&lt;td style="text-align:center">pā&lt;/td>
+&lt;td style="text-align:center">ritu&lt;/td>
+&lt;td>p&lt;del>ā&lt;/del> + &lt;del>r&lt;/del>it&lt;del>u&lt;/del> (ā)&lt;/td>
+&lt;td style="text-align:center">pitā&lt;/td>
+&lt;td>the one who protects one’s offspring, the father&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{568}&lt;/td>
+&lt;td>dhammena puttaṁ mānetī’ti&lt;/td>
+&lt;td style="text-align:center">māna&lt;/td>
+&lt;td style="text-align:center">rātu&lt;/td>
+&lt;td>mā&lt;del>na&lt;/del> + &lt;del>rā&lt;/del>t&lt;del>u&lt;/del> (ā)&lt;/td>
+&lt;td style="text-align:center">mātā&lt;/td>
+&lt;td>the one who justly adores (her) offspring, the mother&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{568}&lt;/td>
+&lt;td>pubbe bhāsatī’ti&lt;/td>
+&lt;td style="text-align:center">bhāsa&lt;/td>
+&lt;td style="text-align:center">rātu&lt;/td>
+&lt;td>bhā&lt;del>sa&lt;/del> + &lt;del>rā&lt;/del>t&lt;del>u&lt;/del> (ā)&lt;/td>
+&lt;td style="text-align:center">bhātā&lt;/td>
+&lt;td>the one who speaks (first before other young siblings) i.e. Brother.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{568}&lt;/td>
+&lt;td>mātāpitūhi dhārīyatī’ti&lt;/td>
+&lt;td style="text-align:center">dhara&lt;/td>
+&lt;td style="text-align:center">ritu&lt;/td>
+&lt;td>dh&lt;del>ara&lt;/del> + &lt;del>ri&lt;/del>(ī)t&lt;del>u&lt;/del> (ā)&lt;/td>
+&lt;td style="text-align:center">dhītā&lt;/td>
+&lt;td>the one who speaks (first before other young siblings) i.e. Brother&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{569}&lt;/td>
+&lt;td>āgacchatī’ti&lt;/td>
+&lt;td style="text-align:center">gamu&lt;/td>
+&lt;td style="text-align:center">tuka&lt;/td>
+&lt;td>ā + ga&lt;del>mu&lt;/del>(n) + tuk&lt;del>a&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">āgantuko&lt;/td>
+&lt;td>the one who comes (to visit) (bhikkhu)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">{570}&lt;/td>
+&lt;td>gamissati, gantuṁ bhabbo’ti&lt;/td>
+&lt;td style="text-align:center">gamu&lt;/td>
+&lt;td style="text-align:center">ika&lt;/td>
+&lt;td>gam&lt;del>u&lt;/del> + ik&lt;del>a&lt;/del> (o)&lt;/td>
+&lt;td style="text-align:center">gamiko&lt;/td>
+&lt;td>the one who will go or who is likely (be going on a trip). the would-be-traveler, the tourist (bhikkhu)&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table></description></item></channel></rss>
