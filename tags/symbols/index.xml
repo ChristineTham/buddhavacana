@@ -38,23 +38,23 @@ Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/tr>
 &lt;tr>
 &lt;td>🟢&lt;/td>
-&lt;td>&lt;code>parassapada&lt;/code>&lt;/td>
+&lt;td>&lt;code>parassapada&lt;/code>, &lt;code>kattu&lt;/code>&lt;/td>
 &lt;td>active voice&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>🔵&lt;/td>
-&lt;td>&lt;code>attanopada&lt;/code>&lt;/td>
+&lt;td>&lt;code>attanopada&lt;/code>, &lt;code>bhāva&lt;/code>&lt;/td>
 &lt;td>middle voice - impersonal&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>👤&lt;/td>
-&lt;td>&lt;code>ekavacana&lt;/code>&lt;/td>
-&lt;td>singular&lt;/td>
+&lt;td>🔴&lt;/td>
+&lt;td>&lt;code>kamma&lt;/code>&lt;/td>
+&lt;td>passive voice&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>👥&lt;/td>
-&lt;td>&lt;code>bahuvacana&lt;/code>&lt;/td>
-&lt;td>plural&lt;/td>
+&lt;td>🟠&lt;/td>
+&lt;td>&lt;code>kārita&lt;/code>&lt;/td>
+&lt;td>causative&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>🤟&lt;/td>
@@ -130,6 +130,11 @@ Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;td>🔽&lt;/td>
 &lt;td>&lt;code>taddhita&lt;/code>&lt;/td>
 &lt;td>affix&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>*️⃣&lt;/td>
+&lt;td>&lt;code>sabbanāma&lt;/code>&lt;/td>
+&lt;td>pronoun&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>▶️&lt;/td>
