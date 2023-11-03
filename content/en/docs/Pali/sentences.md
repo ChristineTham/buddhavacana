@@ -49,7 +49,7 @@ description: >
 | ⏮ | `ajjatanī`| aorist |
 | ⏭ | `bhavissanti` | future |
 | 🔀 | `kālātipatti` | conditional |
-| ⏪ | | past participle |
+| ⏪ | `atītakiriyā` | past participle |
 | ⏬ | `missakiriyā` | present participle |
 | ⏩ | `kicca` | future participle |
 | ⏫ | `pubbakiriyā` | gerund (absolutive) |

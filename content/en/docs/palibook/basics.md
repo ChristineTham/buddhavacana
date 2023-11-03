@@ -1,7 +1,7 @@
 ---
 title: "1: The Pali Language Basics"
 linkTitle: "1: Basics"
-date: 2023-08-10
+date: 2023-10-27
 weight: 20
 description: >
   A concise overview of the Pali language covering key features
@@ -486,7 +486,7 @@ In plural:
 
 > `bhotiyo ayyāyo` (Oh Madams!)
 
-### `sabbanāma` (pronouns)
+### *️⃣ `sabbanāma` (pronouns)
 
 `sabba` means "all" so `sabbanāma` are "common" or "generic" nouns that can
 apply in "all' situations.

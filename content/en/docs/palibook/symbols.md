@@ -20,10 +20,10 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 | 🚺 | `itthiliṅga` | minor (feminine) gender |
 | 👤 | `ekavacana` | singular |
 | 👥 | `bahuvacana` | plural |
-| 🟢 | `parassapada` | active voice
-| 🔵 | `attanopada` | middle voice - impersonal |
-| 👤 | `ekavacana` | singular |
-| 👥 | `bahuvacana` | plural |
+| 🟢 | `parassapada`, `kattu` | active voice |
+| 🔵 | `attanopada`, `bhāva` | middle voice - impersonal |
+| 🔴 | `kamma` | passive voice |
+| 🟠 | `kārita` | causative |
 | 🤟 | `paṭhama purisa` | first person, equivalent to 'third person' in English |
 | 🤘 | `majjima purisa` | middle person, equivalent to 'second person' in English |
 | 👆 | `uttama purisa` | primary person, equivalent to 'first person' in English |
@@ -39,6 +39,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 | 🔼 | `upasagga` |prefix |
 | 🆎 | `samāsa` | compound noun |
 | 🔽 | `taddhita` | affix |
+| *️⃣ | `sabbanāma` | pronoun |
 | ▶️ | `vattamāna` | present |
 | ⏹ | `piñcamī` | imperative |
 | ⏯ | `sattamī` | potential |
