@@ -28,11 +28,12 @@ further.&lt;/p>
 &lt;p>There are no native speakers of Pali, but fortunately there are books
 describing the Pali language written by ancient Pali speakers. The earliest,
 and probably most well known is the &lt;strong>Kaccāyana Pali Vyākaraṇam&lt;/strong>. This was
-probably written in the 5th-6th century CE, and the author has been ascribed
-to the Arahat Mahākaccāyana.&lt;/p>
-&lt;p>There are, of course, other Pali grammars, including those written by
-Moggalāna (circa 11-12 AD), Saddanīti (circa 1157 AD) and Rūpasiddhi (circa
-13 AD). However, to avoid confusion from multiple sources, I have decided to
+probably written in the 5th-6th century CE in India, and the author has been
+ascribed to the Arahat Mahākaccāyana (but this is disputed).&lt;/p>
+&lt;p>There are, of course, other Classical Pali grammars, including those written by
+Moggalāna (circa 11-12 AD), and Saddanīti by Aggavaṃsa (circa 1157 AD).
+Rūpasiddhi (circa 13 AD) updated and reorganised the content of Kaccayana.
+However, to avoid confusion from multiple sources, I have decided to
 primarily derive my textbook from Kaccāyana. Also, there is an excellent
 translation of Kaccāyana into English (which I am heavily reliant on)
 by A. Thitzana which can be downloaded for free from
@@ -404,8 +405,8 @@ tendency is to associate important words to &lt;code>pulliṅga&lt;/code>.&lt;/p
 &lt;p>Like in English, Pali words are slightly different depending on whether they are
 used to refer to one thing vs many things.&lt;/p>
 &lt;ul>
-&lt;li>👤 = &lt;code>ekavacana&lt;/code> (singular)&lt;/li>
-&lt;li>👥 = &lt;code>bahuvacana&lt;/code> (plural)&lt;/li>
+&lt;li>⨀ = &lt;code>ekavacana&lt;/code> (singular)&lt;/li>
+&lt;li>⨂ = &lt;code>bahuvacana&lt;/code> (plural)&lt;/li>
 &lt;/ul>
 &lt;p>There used to be also a &amp;ldquo;dual&amp;rdquo; form but that is now largely obsolete and
 encountered in very rare instances. Examples include:&lt;/p>
@@ -423,50 +424,50 @@ conveniently numbered 1 to 7 {55}:&lt;/p>
 &lt;thead>
 &lt;tr>
 &lt;th style="text-align:center">symbol&lt;/th>
-&lt;th style="text-align:center">👤&lt;/th>
-&lt;th style="text-align:center">👥&lt;/th>
+&lt;th style="text-align:center">⨀&lt;/th>
+&lt;th style="text-align:center">⨂&lt;/th>
 &lt;th>vibhatti&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td style="text-align:center">1️⃣&lt;/td>
+&lt;td style="text-align:center">①&lt;/td>
 &lt;td style="text-align:center">&lt;code>si&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>yo&lt;/code>&lt;/td>
 &lt;td>&lt;code>paṭhamā&lt;/code> (&amp;ldquo;first&amp;rdquo;)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">2️⃣&lt;/td>
+&lt;td style="text-align:center">②&lt;/td>
 &lt;td style="text-align:center">&lt;code>aṁ&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>yo&lt;/code>&lt;/td>
 &lt;td>&lt;code>dutiyā&lt;/code> (&amp;ldquo;second&amp;rdquo;)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">3️⃣&lt;/td>
+&lt;td style="text-align:center">③&lt;/td>
 &lt;td style="text-align:center">&lt;code>nā&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>hi&lt;/code>&lt;/td>
 &lt;td>&lt;code>tatiyā&lt;/code> (&amp;ldquo;third&amp;rdquo;)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">4️⃣&lt;/td>
+&lt;td style="text-align:center">④&lt;/td>
 &lt;td style="text-align:center">&lt;code>sa&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>naṁ&lt;/code>&lt;/td>
 &lt;td>&lt;code>catutthī&lt;/code> (&amp;ldquo;fourth&amp;rdquo;)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">5️⃣&lt;/td>
+&lt;td style="text-align:center">⑤&lt;/td>
 &lt;td style="text-align:center">&lt;code>smā&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>hi&lt;/code>&lt;/td>
 &lt;td>&lt;code>pañcamī&lt;/code> (&amp;ldquo;fifth&amp;rdquo;)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">6️⃣&lt;/td>
+&lt;td style="text-align:center">⑥&lt;/td>
 &lt;td style="text-align:center">&lt;code>sa&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>naṁ&lt;/code>&lt;/td>
 &lt;td>&lt;code>chaṭṭhī&lt;/code> (&amp;ldquo;sixth&amp;rdquo;)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">7️⃣&lt;/td>
+&lt;td style="text-align:center">⑦&lt;/td>
 &lt;td style="text-align:center">&lt;code>smiṁ&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>su&lt;/code>&lt;/td>
 &lt;td>&lt;code>sattamī&lt;/code> (&amp;ldquo;seventh&amp;rdquo;)&lt;/td>
@@ -477,10 +478,10 @@ conveniently numbered 1 to 7 {55}:&lt;/p>
 we can only tell which case is being used by context (more later). Notice also
 the plural endings for some of the cases are the same. Again, which case is
 being used can only be determined by context.&lt;/p>
-&lt;p>Let&amp;rsquo;s start with an example. Suppose we have the word 🚹&lt;code>purisa&lt;/code> (&amp;ldquo;man&amp;rdquo;) and we
+&lt;p>Let&amp;rsquo;s start with an example. Suppose we have the word &lt;code>purisa&lt;/code> (&amp;ldquo;man&amp;rdquo;, in the masculine gender or 🚹) and we
 want to use it in a sentence in singular form, and we wish to transform it using
 the 1st case ending (&lt;code>paṭhamāvibhatti&lt;/code>). If we look up the above table, we
-should add the &lt;code>si&lt;/code> ending:&lt;/p>
+should add the &lt;code>si&lt;/code> ending (using rule of {55}):&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;code>purisa&lt;/code> + &lt;code>si&lt;/code> → &lt;code>puriso&lt;/code>&lt;/p>
 &lt;/blockquote>
@@ -522,160 +523,160 @@ singular vs plural.&lt;/p>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td style="text-align:center">👤&lt;/td>
-&lt;td style="text-align:center">1️⃣&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
+&lt;td style="text-align:center">①&lt;/td>
 &lt;td style="text-align:center">&lt;code>si&lt;/code>&lt;/td>
 &lt;td>puris&lt;del>a&lt;/del> + &lt;del>si&lt;/del>o&lt;/td>
 &lt;td>{104}&lt;/td>
 &lt;td>&lt;code>puriso&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">👥&lt;/td>
-&lt;td style="text-align:center">1️⃣&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
+&lt;td style="text-align:center">①&lt;/td>
 &lt;td style="text-align:center">&lt;code>yo&lt;/code>&lt;/td>
 &lt;td>puris&lt;del>a&lt;/del> + &lt;del>yo&lt;/del>ā&lt;/td>
 &lt;td>{107}&lt;/td>
 &lt;td>&lt;code>purisā&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">👤&lt;/td>
-&lt;td style="text-align:center">2️⃣&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
+&lt;td style="text-align:center">②&lt;/td>
 &lt;td style="text-align:center">&lt;code>aṁ&lt;/code>&lt;/td>
 &lt;td>puris&lt;del>a&lt;/del> + aṁ&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;code>purisaṁ&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">👥&lt;/td>
-&lt;td style="text-align:center">2️⃣&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
+&lt;td style="text-align:center">②&lt;/td>
 &lt;td style="text-align:center">&lt;code>yo&lt;/code>&lt;/td>
 &lt;td>puris&lt;del>a&lt;/del> + &lt;del>yo&lt;/del>e&lt;/td>
 &lt;td>{107}&lt;/td>
 &lt;td>&lt;code>purise&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">👤&lt;/td>
-&lt;td style="text-align:center">3️⃣&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
+&lt;td style="text-align:center">③&lt;/td>
 &lt;td style="text-align:center">&lt;code>nā&lt;/code>&lt;/td>
 &lt;td>puris&lt;del>a&lt;/del> + ena&lt;/td>
 &lt;td>{103}&lt;/td>
 &lt;td>&lt;code>purisena&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">👥&lt;/td>
-&lt;td style="text-align:center">3️⃣&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
+&lt;td style="text-align:center">③&lt;/td>
 &lt;td style="text-align:center">&lt;code>hi&lt;/code>&lt;/td>
 &lt;td>puris&lt;del>a&lt;/del>e + hi&lt;/td>
 &lt;td>{101}&lt;/td>
 &lt;td>&lt;code>purisehi&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">👥&lt;/td>
-&lt;td style="text-align:center">3️⃣&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
+&lt;td style="text-align:center">③&lt;/td>
 &lt;td style="text-align:center">&lt;code>hi&lt;/code>&lt;/td>
 &lt;td>puris&lt;del>a&lt;/del>e + bhi&lt;/td>
 &lt;td>{99}-{101}&lt;/td>
 &lt;td>&lt;code>purisebhi&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">👤&lt;/td>
-&lt;td style="text-align:center">4️⃣&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
+&lt;td style="text-align:center">④&lt;/td>
 &lt;td style="text-align:center">&lt;code>sa&lt;/code>&lt;/td>
 &lt;td>purisa + ssa&lt;/td>
 &lt;td>{61}&lt;/td>
 &lt;td>&lt;code>purisassa&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">👥&lt;/td>
-&lt;td style="text-align:center">4️⃣&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
+&lt;td style="text-align:center">④&lt;/td>
 &lt;td style="text-align:center">&lt;code>naṁ&lt;/code>&lt;/td>
 &lt;td>puris&lt;del>a&lt;/del>ā + naṁ&lt;/td>
 &lt;td>{89}&lt;/td>
 &lt;td>&lt;code>purisānaṁ&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">👤&lt;/td>
-&lt;td style="text-align:center">5️⃣&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
+&lt;td style="text-align:center">⑤&lt;/td>
 &lt;td style="text-align:center">&lt;code>smā&lt;/code>&lt;/td>
 &lt;td>purisa + smā&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;code>purisasmā&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">👤&lt;/td>
-&lt;td style="text-align:center">5️⃣&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
+&lt;td style="text-align:center">⑤&lt;/td>
 &lt;td style="text-align:center">&lt;code>smā&lt;/code>&lt;/td>
 &lt;td>purisa + mhā&lt;/td>
 &lt;td>{99}&lt;/td>
 &lt;td>&lt;code>purisamhā&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">👤&lt;/td>
-&lt;td style="text-align:center">5️⃣&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
+&lt;td style="text-align:center">⑤&lt;/td>
 &lt;td style="text-align:center">&lt;code>smā&lt;/code>&lt;/td>
 &lt;td>puris&lt;del>a&lt;/del>ā&lt;/td>
 &lt;td>{108}&lt;/td>
 &lt;td>&lt;code>purisā&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">👥&lt;/td>
-&lt;td style="text-align:center">5️⃣&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
+&lt;td style="text-align:center">⑤&lt;/td>
 &lt;td style="text-align:center">&lt;code>hi&lt;/code>&lt;/td>
 &lt;td>puris&lt;del>a&lt;/del>e + hi&lt;/td>
 &lt;td>{101}&lt;/td>
 &lt;td>&lt;code>purisehi&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">👥&lt;/td>
-&lt;td style="text-align:center">5️⃣&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
+&lt;td style="text-align:center">⑤&lt;/td>
 &lt;td style="text-align:center">&lt;code>hi&lt;/code>&lt;/td>
 &lt;td>puris&lt;del>a&lt;/del>e + bhi&lt;/td>
 &lt;td>{99}-{101}&lt;/td>
 &lt;td>&lt;code>purisebhi&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">👤&lt;/td>
-&lt;td style="text-align:center">6️⃣&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
+&lt;td style="text-align:center">⑥&lt;/td>
 &lt;td style="text-align:center">&lt;code>sa&lt;/code>&lt;/td>
 &lt;td>puris&lt;del>a&lt;/del> + ssa&lt;/td>
 &lt;td>{61}&lt;/td>
 &lt;td>&lt;code>purisassa&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">👥&lt;/td>
-&lt;td style="text-align:center">6️⃣&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
+&lt;td style="text-align:center">⑥&lt;/td>
 &lt;td style="text-align:center">&lt;code>naṁ&lt;/code>&lt;/td>
 &lt;td>puris&lt;del>a&lt;/del>ā + naṁ&lt;/td>
 &lt;td>{89}&lt;/td>
 &lt;td>&lt;code>purisānaṁ&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">👤&lt;/td>
-&lt;td style="text-align:center">7️⃣&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
+&lt;td style="text-align:center">⑦&lt;/td>
 &lt;td style="text-align:center">&lt;code>smiṁ&lt;/code>&lt;/td>
 &lt;td>purisa + smiṁ&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>&lt;code>purisasmiṁ&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">👤&lt;/td>
-&lt;td style="text-align:center">7️⃣&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
+&lt;td style="text-align:center">⑦&lt;/td>
 &lt;td style="text-align:center">&lt;code>smiṁ&lt;/code>&lt;/td>
 &lt;td>purisa + mhi&lt;/td>
 &lt;td>{99}&lt;/td>
 &lt;td>&lt;code>purisamhi&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">👤&lt;/td>
-&lt;td style="text-align:center">7️⃣&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
+&lt;td style="text-align:center">⑦&lt;/td>
 &lt;td style="text-align:center">&lt;code>smiṁ&lt;/code>&lt;/td>
 &lt;td>puris&lt;del>a&lt;/del>e&lt;/td>
 &lt;td>{108}&lt;/td>
 &lt;td>&lt;code>purise&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">👥&lt;/td>
-&lt;td style="text-align:center">7️⃣&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
+&lt;td style="text-align:center">⑦&lt;/td>
 &lt;td style="text-align:center">&lt;code>su&lt;/code>&lt;/td>
 &lt;td>puris&lt;del>a&lt;/del>e + su&lt;/td>
 &lt;td>{101}&lt;/td>
@@ -754,160 +755,160 @@ cases (perhaps for emphatic or stylistic reasons).&lt;/p>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td style="text-align:center">1️⃣&lt;/td>
-&lt;td style="text-align:center">👤/👥&lt;/td>
+&lt;td style="text-align:center">①&lt;/td>
+&lt;td style="text-align:center">⨀/⨂&lt;/td>
 &lt;td>subject (active)&lt;/td>
 &lt;td>subject, doer&lt;/td>
 &lt;td>&lt;code>kattu&lt;/code>/&lt;code>kattā&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{284}&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">1️⃣&lt;/td>
-&lt;td style="text-align:center">👤/👥&lt;/td>
+&lt;td style="text-align:center">①&lt;/td>
+&lt;td style="text-align:center">⨀/⨂&lt;/td>
 &lt;td>address&lt;/td>
 &lt;td>to address, to call&lt;/td>
 &lt;td>&lt;code>ālapana&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{285}&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">2️⃣&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">②&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td>to (object)&lt;/td>
 &lt;td>object&lt;/td>
 &lt;td>&lt;code>kamma&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{297}&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">2️⃣&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">②&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td>till&lt;/td>
 &lt;td>continuity for a certain period or distance&lt;/td>
 &lt;td>&lt;code>accantasaṁyoga&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{298}&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">3️⃣&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">③&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td>by (subject) (passive)&lt;/td>
 &lt;td>subject&lt;/td>
 &lt;td>&lt;code>kattu&lt;/code>/&lt;code>kattā&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{288}&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">3️⃣&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">③&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td>by/with&lt;/td>
 &lt;td>supporting cause&lt;/td>
 &lt;td>&lt;code>karaṇa&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{286}&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">3️⃣&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">③&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td>with/together&lt;/td>
 &lt;td>company&lt;/td>
 &lt;td>&lt;code>sahayoga&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{287}&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">3️⃣&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">③&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td>by means of/in regard of&lt;/td>
 &lt;td>aspect or adjective&lt;/td>
 &lt;td>&lt;code>visesana&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{292}&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">3️⃣&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">③&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td>due to/for&lt;/td>
 &lt;td>reason&lt;/td>
 &lt;td>&lt;code>kāraṇa&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{289}&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">4️⃣&lt;/td>
-&lt;td style="text-align:center">👤/👥&lt;/td>
+&lt;td style="text-align:center">④&lt;/td>
+&lt;td style="text-align:center">⨀/⨂&lt;/td>
 &lt;td>receivership/purpose&lt;/td>
 &lt;td>recipient of action&lt;/td>
 &lt;td>&lt;code>sampadāna&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{293}&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">5️⃣&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⑤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td>from&lt;/td>
 &lt;td>source from which it occurs&lt;/td>
 &lt;td>&lt;code>apādāna&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{295}&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">5️⃣&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⑤&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td>for/due to&lt;/td>
 &lt;td>reason&lt;/td>
 &lt;td>&lt;code>kāraṇa&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{296}&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">6️⃣&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⑥&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td>(possessive) of&lt;/td>
 &lt;td>owner&lt;/td>
 &lt;td>&lt;code>sāmi&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{301}&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">6️⃣&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⑥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td>among/out of&lt;/td>
 &lt;td>selection for comparison&lt;/td>
 &lt;td>&lt;code>niddhāraṇa&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{304}&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">6️⃣&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⑥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td>while/despite&lt;/td>
 &lt;td>two concurrent actions&lt;/td>
 &lt;td>&lt;code>anādara&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{305}&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">7️⃣&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⑦&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td>at, in, on&lt;/td>
 &lt;td>location/position&lt;/td>
 &lt;td>&lt;code>adhikaraṇa&lt;/code>/&lt;code>okāsa&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{302}&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">7️⃣&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⑦&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td>among/out of&lt;/td>
 &lt;td>selection for comparison&lt;/td>
 &lt;td>&lt;code>niddhāraṇa&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{304}&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">7️⃣&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⑦&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td>for/due to&lt;/td>
 &lt;td>cause&lt;/td>
 &lt;td>&lt;code>nimitta&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{310}&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">7️⃣&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⑦&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td>while/when&lt;/td>
 &lt;td>two concurrent actions&lt;/td>
 &lt;td>&lt;code>lakkhaṇa&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{313}&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">7️⃣&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⑦&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td>despite/while&lt;/td>
 &lt;td>two concurrent actions&lt;/td>
 &lt;td>&lt;code>anādara&lt;/code>&lt;/td>
@@ -927,20 +928,20 @@ ending, please refer to the next chapter:&lt;/p>
 &lt;p>You may find in Pali grammar books written in English the following nomenclature
 for the cases:&lt;/p>
 &lt;ul>
-&lt;li>1️⃣ = &amp;ldquo;nominative&amp;rdquo;&lt;/li>
-&lt;li>2️⃣ = &amp;ldquo;accusative&amp;rdquo;&lt;/li>
-&lt;li>3️⃣ = &amp;ldquo;instrumental&amp;rdquo;&lt;/li>
-&lt;li>4️⃣ = &amp;ldquo;dative&amp;rdquo;&lt;/li>
-&lt;li>5️⃣ = &amp;ldquo;ablative&amp;rdquo;&lt;/li>
-&lt;li>6️⃣ = &amp;ldquo;genitive&amp;rdquo;&lt;/li>
-&lt;li>7️⃣ = &amp;ldquo;locative&amp;rdquo;&lt;/li>
+&lt;li>① = &amp;ldquo;nominative&amp;rdquo;&lt;/li>
+&lt;li>② = &amp;ldquo;accusative&amp;rdquo;&lt;/li>
+&lt;li>③ = &amp;ldquo;instrumental&amp;rdquo;&lt;/li>
+&lt;li>④ = &amp;ldquo;dative&amp;rdquo;&lt;/li>
+&lt;li>⑤ = &amp;ldquo;ablative&amp;rdquo;&lt;/li>
+&lt;li>⑥ = &amp;ldquo;genitive&amp;rdquo;&lt;/li>
+&lt;li>⑦ = &amp;ldquo;locative&amp;rdquo;&lt;/li>
 &lt;/ul>
 &lt;p>Note that these terms only partially reflect the possible meanings and roles
 associated with each case, so I would discourage using these terms. They can
 lead to confusion. However, these terms are common in Pali-English dictionaries
 so I encourage you to substitute the case number when you see these terms.&lt;/p>
 &lt;/div>
-&lt;h3 id="0-ālapana-vocative-57">0️⃣ &lt;code>ālapana&lt;/code> (vocative) {57}&lt;/h3>
+&lt;h3 id="-ālapana-vocative-57">⓪ &lt;code>ālapana&lt;/code> (vocative) {57}&lt;/h3>
 &lt;p>English Pali textbooks often refer to a &amp;ldquo;vocative&amp;rdquo; case, but this is not
 recognised as a separate case but a variant of the 1st case. The usual case
 ending &lt;code>si&lt;/code> (for 1st case singular) is instead called &lt;code>ga&lt;/code> but the
@@ -951,7 +952,7 @@ transformation rules are similar to &lt;code>si&lt;/code>.&lt;/p>
 &lt;code>bhoti kaññe&lt;/code>! (Oh girl!)&lt;br>
 &lt;code>bhoti kharādiye&lt;/code>! (Oh the girl named Kharādiya!)&lt;/p>
 &lt;/blockquote>
-&lt;p>Contrast this to the normal 1st case form of &lt;code>ayyā&lt;/code> (🚺👤1️⃣):&lt;/p>
+&lt;p>Contrast this to the normal 1st case form of &lt;code>ayyā&lt;/code> (🚺⨀①):&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;code>sā ayyā&lt;/code> (that lady)&lt;/p>
 &lt;/blockquote>
@@ -974,8 +975,8 @@ as adjectives, adverbs, honorifics and interrogatives.&lt;/p>
 &lt;tr>
 &lt;th style="text-align:center">Sabbanāma&lt;/th>
 &lt;th style="text-align:center">meaning&lt;/th>
-&lt;th style="text-align:center">4️⃣&lt;/th>
-&lt;th style="text-align:center">6️⃣&lt;/th>
+&lt;th style="text-align:center">④&lt;/th>
+&lt;th style="text-align:center">⑥&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
@@ -1223,7 +1224,7 @@ noun), they may retain their &lt;code>vibhatti&lt;/code> endings.&lt;/p>
 &lt;blockquote>
 &lt;p>parābhavo&lt;/p>
 &lt;/blockquote>
-&lt;p>🔼(parā) 🚹👤1️⃣(bhava)&lt;br>
+&lt;p>🔼(parā) 🚹⨀①(bhava)&lt;br>
 opposite / to be, being
 &lt;em>loss, ruin&lt;/em>&lt;/p>
 &lt;p>Here are various words that can be formed from the word &lt;code>hara&lt;/code> (&amp;ldquo;carrying&amp;rdquo;)
@@ -1392,7 +1393,7 @@ please refer to
 &lt;tr>
 &lt;td style="text-align:center">&lt;code>digu&lt;/code>&lt;/td>
 &lt;td style="text-align:center">Numeral Appositional&lt;/td>
-&lt;td style="text-align:center">🚻 (usually 👤 but can be 👥)&lt;/td>
+&lt;td style="text-align:center">🚻 (usually ⨀ but can be ⨂)&lt;/td>
 &lt;td>&lt;code>digusseʼkattaṁ&lt;/code>&lt;/td>
 &lt;td style="text-align:center">{321}&lt;/td>
 &lt;/tr>
@@ -1421,14 +1422,14 @@ please refer to
 &lt;/table>
 &lt;p>The rules for constructing a &lt;code>samāsa&lt;/code> can be complex:&lt;/p>
 &lt;p>&lt;code>rāja&lt;/code> + &lt;code>putta&lt;/code> (the King&amp;rsquo;s son)&lt;br>
-→ &lt;code>rāja&lt;/code> + &lt;code>sa&lt;/code> + &lt;code>putta&lt;/code> (👤6️⃣)&lt;br>
-→ &lt;code>rāja&lt;/code> + &lt;code>sa&lt;/code> + &lt;code>putta&lt;/code> + &lt;code>si&lt;/code> (👤1️⃣)&lt;br>
+→ &lt;code>rāja&lt;/code> + &lt;code>sa&lt;/code> + &lt;code>putta&lt;/code> (⨀⑥)&lt;br>
+→ &lt;code>rāja&lt;/code> + &lt;code>sa&lt;/code> + &lt;code>putta&lt;/code> + &lt;code>si&lt;/code> (⨀①)&lt;br>
 → &lt;code>rā&lt;/code>&lt;del>&lt;code>ja&lt;/code>&lt;/del>(&lt;code>ññ&lt;/code>) + &lt;del>&lt;code>sa&lt;/code>&lt;/del>(&lt;code>o&lt;/code>) + &lt;code>putta&lt;/code> + &lt;code>si&lt;/code> {135}&lt;br>
 → &lt;code>rāñño&lt;/code> + &lt;code>putt&lt;/code>&lt;del>&lt;code>a&lt;/code>&lt;/del> + &lt;del>&lt;code>si&lt;/code>&lt;/del>(&lt;code>o&lt;/code>) {83}&lt;br>
 → &lt;code>rāñño&lt;/code> + &lt;code>putto&lt;/code>&lt;br>
 → &lt;code>rā&lt;/code>&lt;del>&lt;code>ñño&lt;/code>&lt;/del>(&lt;code>ja&lt;/code>) + &lt;code>putt&lt;/code>&lt;del>&lt;code>o&lt;/code>&lt;/del>(&lt;code>a&lt;/code>) {317}&lt;br>
 → &lt;code>rājaputta&lt;/code> {318}&lt;br>
-→ &lt;code>rājaputta&lt;/code> + &lt;code>si&lt;/code> (👤1️⃣)&lt;br>
+→ &lt;code>rājaputta&lt;/code> + &lt;code>si&lt;/code> (⨀①)&lt;br>
 → &lt;code>rājaputta&lt;/code> + &lt;del>&lt;code>si&lt;/code>&lt;/del>(&lt;code>o&lt;/code>) {104}&lt;br>
 → &lt;code>rājaputt&lt;/code>&lt;del>&lt;code>a&lt;/code>&lt;/del> + &lt;code>o&lt;/code> {83}&lt;br>
 → &lt;code>rājaputto&lt;/code>&lt;/p>
@@ -1445,12 +1446,12 @@ learn the complex rules associated with them.&lt;/p>
 a profession. Similarly, in Pali, &lt;code>nāvā&lt;/code> is &amp;ldquo;boat&amp;rdquo;, &lt;code>nāvā&lt;/code> with &lt;code>ṇika&lt;/code> as an
 affix becomes &lt;code>nāviko&lt;/code> (&amp;ldquo;traveller by boat&amp;rdquo;, or &amp;ldquo;sailor&amp;rdquo;). Note that the last
 vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the noun is given the
-🚹👤1️⃣ vibhatti ending.&lt;/p>
+🚹⨀① vibhatti ending.&lt;/p>
 &lt;p>The rules for constructing a &lt;code>tadhitta&lt;/code> affixed noun can be rather daunting:&lt;/p>
 &lt;p>&lt;code>vasiṭṭha&lt;/code> + &lt;code>apacca&lt;/code> (Vasiṭṭha’s son)&lt;br>
-→ &lt;code>vasiṭṭha&lt;/code> + &lt;code>sa&lt;/code> (👤6️⃣) + &lt;code>apacca&lt;/code>&lt;br>
+→ &lt;code>vasiṭṭha&lt;/code> + &lt;code>sa&lt;/code> (⨀⑥) + &lt;code>apacca&lt;/code>&lt;br>
 → &lt;code>vasiṭṭha&lt;/code> + &lt;code>s&lt;/code> + &lt;code>sa&lt;/code> + &lt;code>apacca&lt;/code> {61}&lt;br>
-→ &lt;code>vasiṭṭhassa&lt;/code> + &lt;code>apacca&lt;/code> + &lt;code>si&lt;/code> (👤1️⃣)&lt;br>
+→ &lt;code>vasiṭṭhassa&lt;/code> + &lt;code>apacca&lt;/code> + &lt;code>si&lt;/code> (⨀①)&lt;br>
 → &lt;code>vasiṭṭhassa&lt;/code> + &lt;code>apacca&lt;/code> + &lt;del>&lt;code>si&lt;/code>&lt;/del>(&lt;code>aṁ&lt;/code>) {219}&lt;br>
 → &lt;code>vasiṭṭhassa&lt;/code> + &lt;code>apacc&lt;/code>&lt;del>&lt;code>a&lt;/code>&lt;/del> + &lt;code>aṁ&lt;/code> {83}&lt;br>
 → &lt;code>vasiṭṭhassa&lt;/code> + &lt;code>apaccaṁ&lt;/code> (of Vasiṭṭha / son)&lt;br>
@@ -1461,7 +1462,7 @@ vowel of the root and the &lt;code>ṇ&lt;/code> are both elided, and then the n
 → &lt;code>v&lt;/code>&lt;del>&lt;code>a&lt;/code>&lt;/del>(&lt;code>ā&lt;/code>)&lt;code>siṭṭha&lt;/code> + &lt;code>a&lt;/code> {400}&lt;br>
 → &lt;code>vāsiṭṭha&lt;/code> + &lt;del>&lt;code>a&lt;/code>&lt;/del> {83}&lt;br>
 → &lt;code>vāsiṭṭha&lt;/code> {601}&lt;br>
-→ &lt;code>vāsiṭṭha&lt;/code> + &lt;code>si&lt;/code> (👤1️⃣)&lt;br>
+→ &lt;code>vāsiṭṭha&lt;/code> + &lt;code>si&lt;/code> (⨀①)&lt;br>
 → &lt;code>vāsiṭṭha&lt;/code> + &lt;del>&lt;code>si&lt;/code>&lt;/del>(&lt;code>o&lt;/code>) {104}&lt;br>
 → &lt;code>vāsiṭṭh&lt;/code>&lt;del>&lt;code>a&lt;/code>&lt;/del> + &lt;code>o&lt;/code> {83}&lt;br>
 → &lt;code>vāsiṭṭho&lt;/code>&lt;/p>
@@ -1871,7 +1872,7 @@ adjectives.&lt;/p>
 &lt;/table>
 &lt;h3 id="abyaya-affixes-applied-after-sabbanāma-nouns">Abyaya affixes applied after Sabbanāma-nouns&lt;/h3>
 &lt;p>These are often used as a substitute or replacement for case endings
-(particularly 5️⃣ and 7️⃣), since they are indeclinable. They also have no
+(particularly ⑤ and ⑦), since they are indeclinable. They also have no
 &lt;code>liṅga&lt;/code> (gender).&lt;/p>
 &lt;table>
 &lt;thead>
@@ -1947,8 +1948,8 @@ depend on:&lt;/p>
 &lt;/li>
 &lt;li>number
 &lt;ul>
-&lt;li>👤 = &lt;code>ekavacana&lt;/code> (singular)&lt;/li>
-&lt;li>👥 = &lt;code>bahuvacana&lt;/code> (plural)&lt;/li>
+&lt;li>⨀ = &lt;code>ekavacana&lt;/code> (singular)&lt;/li>
+&lt;li>⨂ = &lt;code>bahuvacana&lt;/code> (plural)&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>person {408}-{412} (if more than one, the last applies)
@@ -2017,18 +2018,18 @@ will be described later in this chapter.
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">▶️&lt;/td>
@@ -2159,13 +2160,13 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 → &lt;code>gam&lt;/code>&lt;del>&lt;code>m&lt;/code>&lt;/del>(&lt;code>cch&lt;/code>) (m→cch per rule {476})&lt;br>
 → &lt;code>gacch&lt;/code>&lt;/p>
 &lt;p>Here is an example for transforming into the &lt;code>parassapada&lt;/code> (🟢), &lt;code>ekavacana&lt;/code>
-(👤), &lt;code>paṭhama purisa&lt;/code> (🤟), &lt;code>vattamāna&lt;/code> (▶️) form:&lt;/p>
+(⨀), &lt;code>paṭhama purisa&lt;/code> (🤟), &lt;code>vattamāna&lt;/code> (▶️) form:&lt;/p>
 &lt;p>&lt;code>gamu&lt;/code> + &lt;code>ti&lt;/code> {414}&lt;br>
 → &lt;code>gam&lt;/code>&lt;del>&lt;code>u&lt;/code>&lt;/del> + &lt;code>ti&lt;/code> {521}&lt;br>
 → &lt;code>gam&lt;/code> + &lt;code>a&lt;/code> + &lt;code>ti&lt;/code> {445}&lt;br>
 → &lt;code>ga&lt;/code>&lt;del>&lt;code>m&lt;/code>&lt;/del>(&lt;code>cch&lt;/code>) + &lt;code>a&lt;/code> + &lt;code>ti&lt;/code> {476}&lt;br>
 → &lt;code>gacchati&lt;/code>&lt;/p>
-&lt;p>The plural form &lt;code>bahuvacana&lt;/code> (👥) undergoes a similar transformation:&lt;/p>
+&lt;p>The plural form &lt;code>bahuvacana&lt;/code> (⨂) undergoes a similar transformation:&lt;/p>
 &lt;p>&lt;code>gamu&lt;/code> + &lt;code>anti&lt;/code> {414}&lt;br>
 → &lt;code>gam&lt;/code>&lt;del>&lt;code>u&lt;/code>&lt;/del> + &lt;code>anti&lt;/code> {521}&lt;br>
 → &lt;code>gam&lt;/code> + a + &lt;code>anti&lt;/code> {445}&lt;br>
@@ -2190,7 +2191,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ti&lt;/code>&lt;/td>
 &lt;td>gacch + a + ti&lt;/td>
@@ -2201,7 +2202,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>anti&lt;/code>&lt;/td>
 &lt;td>gacch + anti&lt;/td>
@@ -2212,7 +2213,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>si&lt;/code>&lt;/td>
 &lt;td>gacch + a + si&lt;/td>
@@ -2223,7 +2224,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>tha&lt;/code>&lt;/td>
 &lt;td>gacch + a + tha&lt;/td>
@@ -2234,7 +2235,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>mi&lt;/code>&lt;/td>
 &lt;td>gacch + ā + mi&lt;/td>
@@ -2245,7 +2246,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ma&lt;/code>&lt;/td>
 &lt;td>gacch + ā + ma&lt;/td>
@@ -2256,7 +2257,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>te&lt;/code>&lt;/td>
 &lt;td>gacch + a + te&lt;/td>
@@ -2267,7 +2268,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ante&lt;/code>&lt;/td>
 &lt;td>gacch + ante&lt;/td>
@@ -2278,7 +2279,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>se&lt;/code>&lt;/td>
 &lt;td>gacch + a + se&lt;/td>
@@ -2289,7 +2290,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>vhe&lt;/code>&lt;/td>
 &lt;td>gacch + a + vhe&lt;/td>
@@ -2300,7 +2301,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>e&lt;/code>&lt;/td>
 &lt;td>gacch + e&lt;/td>
@@ -2311,7 +2312,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>mhe&lt;/code>&lt;/td>
 &lt;td>gacch + ā + mhe&lt;/td>
@@ -2322,7 +2323,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏹&lt;/td>
 &lt;td style="text-align:center">&lt;code>tu&lt;/code>&lt;/td>
 &lt;td>gacch + a + tu&lt;/td>
@@ -2333,7 +2334,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏹&lt;/td>
 &lt;td style="text-align:center">&lt;code>antu&lt;/code>&lt;/td>
 &lt;td>gacch + antu&lt;/td>
@@ -2344,7 +2345,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏹&lt;/td>
 &lt;td style="text-align:center">&lt;code>hi&lt;/code>&lt;/td>
 &lt;td>gacch + ā + hi&lt;/td>
@@ -2355,7 +2356,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏹&lt;/td>
 &lt;td style="text-align:center">&lt;code>tha&lt;/code>&lt;/td>
 &lt;td>gacch + a + tha&lt;/td>
@@ -2366,7 +2367,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏹&lt;/td>
 &lt;td style="text-align:center">&lt;code>mi&lt;/code>&lt;/td>
 &lt;td>gacch + ā + mi&lt;/td>
@@ -2377,7 +2378,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏹&lt;/td>
 &lt;td style="text-align:center">&lt;code>ma&lt;/code>&lt;/td>
 &lt;td>gacch + ā + ma&lt;/td>
@@ -2388,7 +2389,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏹&lt;/td>
 &lt;td style="text-align:center">&lt;code>taṁ&lt;/code>&lt;/td>
 &lt;td>gacch + a + taṁ&lt;/td>
@@ -2399,7 +2400,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏹&lt;/td>
 &lt;td style="text-align:center">&lt;code>antaṁ&lt;/code>&lt;/td>
 &lt;td>gacch + antaṁ&lt;/td>
@@ -2410,7 +2411,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏹&lt;/td>
 &lt;td style="text-align:center">&lt;code>etha&lt;/code>&lt;/td>
 &lt;td>gacch + a + ssu&lt;/td>
@@ -2421,7 +2422,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏹&lt;/td>
 &lt;td style="text-align:center">&lt;code>vho&lt;/code>&lt;/td>
 &lt;td>gacch + a + vho&lt;/td>
@@ -2432,7 +2433,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏹&lt;/td>
 &lt;td style="text-align:center">&lt;code>e&lt;/code>&lt;/td>
 &lt;td>gacch + e&lt;/td>
@@ -2443,7 +2444,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏹&lt;/td>
 &lt;td style="text-align:center">&lt;code>āmase&lt;/code>&lt;/td>
 &lt;td>gacch + āmase&lt;/td>
@@ -2454,7 +2455,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏯&lt;/td>
 &lt;td style="text-align:center">&lt;code>eyya&lt;/code>&lt;/td>
 &lt;td>gacch + eyya&lt;/td>
@@ -2465,7 +2466,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏯&lt;/td>
 &lt;td style="text-align:center">&lt;code>eyyuṁ&lt;/code>&lt;/td>
 &lt;td>gacch + eyyuṁ&lt;/td>
@@ -2476,7 +2477,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏯&lt;/td>
 &lt;td style="text-align:center">&lt;code>eyyāsi&lt;/code>&lt;/td>
 &lt;td>gacch + eyyāsi&lt;/td>
@@ -2487,7 +2488,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏯&lt;/td>
 &lt;td style="text-align:center">&lt;code>eyyātha&lt;/code>&lt;/td>
 &lt;td>gacch + eyyātha&lt;/td>
@@ -2498,7 +2499,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏯&lt;/td>
 &lt;td style="text-align:center">&lt;code>eyyāmi&lt;/code>&lt;/td>
 &lt;td>gacch + eyyāmi&lt;/td>
@@ -2509,7 +2510,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏯&lt;/td>
 &lt;td style="text-align:center">&lt;code>eyyāma&lt;/code>&lt;/td>
 &lt;td>gacch + eyyāma&lt;/td>
@@ -2520,7 +2521,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏯&lt;/td>
 &lt;td style="text-align:center">&lt;code>etha&lt;/code>&lt;/td>
 &lt;td>gacch + etha&lt;/td>
@@ -2531,7 +2532,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏯&lt;/td>
 &lt;td style="text-align:center">&lt;code>eraṁ&lt;/code>&lt;/td>
 &lt;td>gacch + eraṁ&lt;/td>
@@ -2542,7 +2543,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏯&lt;/td>
 &lt;td style="text-align:center">&lt;code>etho&lt;/code>&lt;/td>
 &lt;td>gacch + etho&lt;/td>
@@ -2553,7 +2554,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏯&lt;/td>
 &lt;td style="text-align:center">&lt;code>eyyāvho&lt;/code>&lt;/td>
 &lt;td>gacch + eyyāvho&lt;/td>
@@ -2564,7 +2565,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏯&lt;/td>
 &lt;td style="text-align:center">&lt;code>eyaṁ&lt;/code>&lt;/td>
 &lt;td>gacch + eyaṁ&lt;/td>
@@ -2575,7 +2576,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏯&lt;/td>
 &lt;td style="text-align:center">&lt;code>eyaṁhe&lt;/code>&lt;/td>
 &lt;td>gacch + eyaṁhe&lt;/td>
@@ -2586,7 +2587,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">🔄&lt;/td>
 &lt;td style="text-align:center">&lt;code>a&lt;/code>&lt;/td>
 &lt;td>jagam&lt;del>u&lt;/del> + a&lt;/td>
@@ -2597,7 +2598,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">🔄&lt;/td>
 &lt;td style="text-align:center">&lt;code>u&lt;/code>&lt;/td>
 &lt;td>jagam&lt;del>u&lt;/del> + u&lt;/td>
@@ -2608,7 +2609,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">🔄&lt;/td>
 &lt;td style="text-align:center">&lt;code>e&lt;/code>&lt;/td>
 &lt;td>jagam&lt;del>u&lt;/del> + e&lt;/td>
@@ -2619,7 +2620,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">🔄&lt;/td>
 &lt;td style="text-align:center">&lt;code>ttha&lt;/code>&lt;/td>
 &lt;td>jagam&lt;del>u&lt;/del> + i + ttha&lt;/td>
@@ -2630,7 +2631,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">🔄&lt;/td>
 &lt;td style="text-align:center">&lt;code>aṁ&lt;/code>&lt;/td>
 &lt;td>jagam&lt;del>u&lt;/del> + aṁ&lt;/td>
@@ -2641,7 +2642,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">🔄&lt;/td>
 &lt;td style="text-align:center">&lt;code>mha&lt;/code>&lt;/td>
 &lt;td>jagam&lt;del>u&lt;/del> + ā + mha&lt;/td>
@@ -2652,7 +2653,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">🔄&lt;/td>
 &lt;td style="text-align:center">&lt;code>ttha&lt;/code>&lt;/td>
 &lt;td>jagam&lt;del>u&lt;/del> + i + ttha&lt;/td>
@@ -2663,7 +2664,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">🔄&lt;/td>
 &lt;td style="text-align:center">&lt;code>re&lt;/code>&lt;/td>
 &lt;td>jagam&lt;del>u&lt;/del> + i + re&lt;/td>
@@ -2674,7 +2675,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">🔄&lt;/td>
 &lt;td style="text-align:center">&lt;code>ttho&lt;/code>&lt;/td>
 &lt;td>jagam&lt;del>u&lt;/del> + i + ttho&lt;/td>
@@ -2685,7 +2686,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">🔄&lt;/td>
 &lt;td style="text-align:center">&lt;code>vho&lt;/code>&lt;/td>
 &lt;td>jagam&lt;del>u&lt;/del> + i + vho&lt;/td>
@@ -2696,7 +2697,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">🔄&lt;/td>
 &lt;td style="text-align:center">&lt;code>iṁ&lt;/code>&lt;/td>
 &lt;td>jagam&lt;del>u&lt;/del> + iṁ&lt;/td>
@@ -2707,7 +2708,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">🔄&lt;/td>
 &lt;td style="text-align:center">&lt;code>mhe&lt;/code>&lt;/td>
 &lt;td>jagam&lt;del>u&lt;/del> + i + mhe&lt;/td>
@@ -2718,7 +2719,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">↩️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ā&lt;/code>&lt;/td>
 &lt;td>a + gacch + ā&lt;/td>
@@ -2729,7 +2730,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">↩️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ū&lt;/code>&lt;/td>
 &lt;td>a + gacch + ū&lt;/td>
@@ -2740,7 +2741,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">↩️&lt;/td>
 &lt;td style="text-align:center">&lt;code>o&lt;/code>&lt;/td>
 &lt;td>gacch + o&lt;/td>
@@ -2751,7 +2752,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">↩️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ttha&lt;/code>&lt;/td>
 &lt;td>gacch + a + ttha&lt;/td>
@@ -2762,7 +2763,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">↩️&lt;/td>
 &lt;td style="text-align:center">&lt;code>aṁ&lt;/code>&lt;/td>
 &lt;td>gacch + aṁ&lt;/td>
@@ -2773,7 +2774,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">↩️&lt;/td>
 &lt;td style="text-align:center">&lt;code>mhā&lt;/code>&lt;/td>
 &lt;td>gacch + ā + mhā&lt;/td>
@@ -2784,7 +2785,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">↩️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ttha&lt;/code>&lt;/td>
 &lt;td>gacch + a + ttha&lt;/td>
@@ -2795,7 +2796,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">↩️&lt;/td>
 &lt;td style="text-align:center">&lt;code>tthuṁ&lt;/code>&lt;/td>
 &lt;td>gacch + a + tthuṁ&lt;/td>
@@ -2806,7 +2807,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">↩️&lt;/td>
 &lt;td style="text-align:center">&lt;code>se&lt;/code>&lt;/td>
 &lt;td>gacch + a + se&lt;/td>
@@ -2817,7 +2818,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">↩️&lt;/td>
 &lt;td style="text-align:center">&lt;code>vhaṁ&lt;/code>&lt;/td>
 &lt;td>gacch + a + vhaṁ&lt;/td>
@@ -2828,7 +2829,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">↩️&lt;/td>
 &lt;td style="text-align:center">&lt;code>iṁ&lt;/code>&lt;/td>
 &lt;td>gacch + iṁ&lt;/td>
@@ -2839,7 +2840,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">↩️&lt;/td>
 &lt;td style="text-align:center">&lt;code>mhase&lt;/code>&lt;/td>
 &lt;td>gacch + ā + mhase&lt;/td>
@@ -2850,7 +2851,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏮&lt;/td>
 &lt;td style="text-align:center">&lt;code>ī&lt;/code>&lt;/td>
 &lt;td>a + gacch + ī&lt;/td>
@@ -2861,7 +2862,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏮&lt;/td>
 &lt;td style="text-align:center">&lt;code>uṁ&lt;/code>&lt;/td>
 &lt;td>gacch + uṁ&lt;/td>
@@ -2872,7 +2873,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏮&lt;/td>
 &lt;td style="text-align:center">&lt;code>o&lt;/code>&lt;/td>
 &lt;td>gacch + o&lt;/td>
@@ -2883,7 +2884,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏮&lt;/td>
 &lt;td style="text-align:center">&lt;code>ttha&lt;/code>&lt;/td>
 &lt;td>gacch + i + ttha&lt;/td>
@@ -2894,7 +2895,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏮&lt;/td>
 &lt;td style="text-align:center">&lt;code>iṁ&lt;/code>&lt;/td>
 &lt;td>gacch + iṁ&lt;/td>
@@ -2905,7 +2906,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏮&lt;/td>
 &lt;td style="text-align:center">&lt;code>mhā&lt;/code>&lt;/td>
 &lt;td>gacch + i + mhā&lt;/td>
@@ -2916,7 +2917,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏮&lt;/td>
 &lt;td style="text-align:center">&lt;code>ā&lt;/code>&lt;/td>
 &lt;td>a + gacch + ā&lt;/td>
@@ -2927,7 +2928,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏮&lt;/td>
 &lt;td style="text-align:center">&lt;code>ū&lt;/code>&lt;/td>
 &lt;td>a + gacch + ū&lt;/td>
@@ -2938,7 +2939,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏮&lt;/td>
 &lt;td style="text-align:center">&lt;code>se&lt;/code>&lt;/td>
 &lt;td>gacch + i + se&lt;/td>
@@ -2949,7 +2950,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏮&lt;/td>
 &lt;td style="text-align:center">&lt;code>vhaṁ&lt;/code>&lt;/td>
 &lt;td>gacch + i + vhaṁ&lt;/td>
@@ -2960,7 +2961,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏮&lt;/td>
 &lt;td style="text-align:center">&lt;code>aṁ&lt;/code>&lt;/td>
 &lt;td>gacch + aṁ&lt;/td>
@@ -2971,7 +2972,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏮&lt;/td>
 &lt;td style="text-align:center">&lt;code>mhe&lt;/code>&lt;/td>
 &lt;td>gacch + i + mhe&lt;/td>
@@ -2982,7 +2983,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssati&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssati&lt;/td>
@@ -2993,7 +2994,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssanti&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssanti&lt;/td>
@@ -3004,7 +3005,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssasi&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssasi&lt;/td>
@@ -3015,7 +3016,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssatha&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssatha&lt;/td>
@@ -3026,7 +3027,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssāmi&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssāmi&lt;/td>
@@ -3037,7 +3038,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssāma&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssāma&lt;/td>
@@ -3048,7 +3049,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssate&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssate&lt;/td>
@@ -3059,7 +3060,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssante&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssante&lt;/td>
@@ -3070,7 +3071,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssase&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssase&lt;/td>
@@ -3081,7 +3082,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssavhe&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssavhe&lt;/td>
@@ -3092,7 +3093,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssaṁ&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssaṁ&lt;/td>
@@ -3103,7 +3104,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssāmhe&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssāmhe&lt;/td>
@@ -3114,7 +3115,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssā&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssā&lt;/td>
@@ -3125,7 +3126,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssaṁsu&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssaṁsu&lt;/td>
@@ -3136,7 +3137,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>sse&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssase&lt;/td>
@@ -3147,7 +3148,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssatha&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssatha&lt;/td>
@@ -3158,7 +3159,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssaṁ&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssaṁ&lt;/td>
@@ -3169,7 +3170,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🟢&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssāmhā&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssāmhā&lt;/td>
@@ -3180,7 +3181,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssata&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssata&lt;/td>
@@ -3191,7 +3192,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssiṁsu&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssiṁsu&lt;/td>
@@ -3202,7 +3203,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssase&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssase&lt;/td>
@@ -3213,7 +3214,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssavhe&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssavhe&lt;/td>
@@ -3224,7 +3225,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssaṁ&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssaṁ&lt;/td>
@@ -3235,7 +3236,7 @@ A number of transformations need to happen prior to affixing the &lt;code>vibhat
 &lt;tr>
 &lt;td style="text-align:center">🔵&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">⏭&lt;/td>
 &lt;td style="text-align:center">&lt;code>ssāmhase&lt;/code>&lt;/td>
 &lt;td>gacch + i + ssāmhase&lt;/td>
@@ -3291,7 +3292,7 @@ and cannot be transformed this way.&lt;/p>
 &lt;tr>
 &lt;td style="text-align:center">🔴&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>te&lt;/code>&lt;/td>
 &lt;td>pa&lt;del>ca&lt;/del> + &lt;del>y&lt;/del>(cc)a + te&lt;/td>
@@ -3300,7 +3301,7 @@ and cannot be transformed this way.&lt;/p>
 &lt;tr>
 &lt;td style="text-align:center">🔴&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ante&lt;/code>&lt;/td>
 &lt;td>pa&lt;del>ca&lt;/del> + &lt;del>y&lt;/del>(cc)a + ante&lt;/td>
@@ -3309,7 +3310,7 @@ and cannot be transformed this way.&lt;/p>
 &lt;tr>
 &lt;td style="text-align:center">🔴&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>se&lt;/code>&lt;/td>
 &lt;td>pa&lt;del>ca&lt;/del> + &lt;del>y&lt;/del>(cc)a + se&lt;/td>
@@ -3318,7 +3319,7 @@ and cannot be transformed this way.&lt;/p>
 &lt;tr>
 &lt;td style="text-align:center">🔴&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>vhe&lt;/code>&lt;/td>
 &lt;td>pa&lt;del>ca&lt;/del> + &lt;del>y&lt;/del>(cc)a + vhe&lt;/td>
@@ -3327,7 +3328,7 @@ and cannot be transformed this way.&lt;/p>
 &lt;tr>
 &lt;td style="text-align:center">🔴&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>e&lt;/code>&lt;/td>
 &lt;td>pac&lt;del>ca&lt;/del> + &lt;del>y&lt;/del>(cc)&lt;del>a&lt;/del> + e&lt;/td>
@@ -3336,7 +3337,7 @@ and cannot be transformed this way.&lt;/p>
 &lt;tr>
 &lt;td style="text-align:center">🔴&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>mhe&lt;/code>&lt;/td>
 &lt;td>pacc&lt;del>ca&lt;/del> + &lt;del>y&lt;/del>(cc)&lt;del>a&lt;/del> + ā + mhe&lt;/td>
@@ -3362,7 +3363,7 @@ retransformed into &amp;ldquo;reversed&amp;rdquo; &lt;code>parassapada&lt;/code>
 &lt;tr>
 &lt;td style="text-align:center">🔴&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ti&lt;/code>&lt;/td>
 &lt;td>pacca&lt;del>te&lt;/del> + ti&lt;/td>
@@ -3371,7 +3372,7 @@ retransformed into &amp;ldquo;reversed&amp;rdquo; &lt;code>parassapada&lt;/code>
 &lt;tr>
 &lt;td style="text-align:center">🔴&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>anti&lt;/code>&lt;/td>
 &lt;td>pacc&lt;del>ante&lt;/del> + anti&lt;/td>
@@ -3380,7 +3381,7 @@ retransformed into &amp;ldquo;reversed&amp;rdquo; &lt;code>parassapada&lt;/code>
 &lt;tr>
 &lt;td style="text-align:center">🔴&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>si&lt;/code>&lt;/td>
 &lt;td>pacca&lt;del>se&lt;/del> + si&lt;/td>
@@ -3389,7 +3390,7 @@ retransformed into &amp;ldquo;reversed&amp;rdquo; &lt;code>parassapada&lt;/code>
 &lt;tr>
 &lt;td style="text-align:center">🔴&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>tha&lt;/code>&lt;/td>
 &lt;td>pacca&lt;del>vhe&lt;/del> + tha&lt;/td>
@@ -3398,7 +3399,7 @@ retransformed into &amp;ldquo;reversed&amp;rdquo; &lt;code>parassapada&lt;/code>
 &lt;tr>
 &lt;td style="text-align:center">🔴&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>mi&lt;/code>&lt;/td>
 &lt;td>pacc&lt;del>e&lt;/del> + ā + mi&lt;/td>
@@ -3407,7 +3408,7 @@ retransformed into &amp;ldquo;reversed&amp;rdquo; &lt;code>parassapada&lt;/code>
 &lt;tr>
 &lt;td style="text-align:center">🔴&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ma&lt;/code>&lt;/td>
 &lt;td>pacc&lt;del>āmhe&lt;/del> + ā + ma&lt;/td>
@@ -3472,7 +3473,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ti&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇe&lt;/code>&lt;/td>
@@ -3483,7 +3484,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ti&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇaya&lt;/code>&lt;/td>
@@ -3494,7 +3495,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ti&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇāpe&lt;/code>&lt;/td>
@@ -3505,7 +3506,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ti&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇāpaya&lt;/code>&lt;/td>
@@ -3516,7 +3517,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>anti&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇe&lt;/code>&lt;/td>
@@ -3527,7 +3528,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>anti&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇaya&lt;/code>&lt;/td>
@@ -3538,7 +3539,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>anti&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇāpe&lt;/code>&lt;/td>
@@ -3549,7 +3550,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>anti&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇāpaya&lt;/code>&lt;/td>
@@ -3560,7 +3561,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>si&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇe&lt;/code>&lt;/td>
@@ -3571,7 +3572,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>si&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇaya&lt;/code>&lt;/td>
@@ -3582,7 +3583,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>si&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇāpe&lt;/code>&lt;/td>
@@ -3593,7 +3594,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>si&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇāpaya&lt;/code>&lt;/td>
@@ -3604,7 +3605,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>tha&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇe&lt;/code>&lt;/td>
@@ -3615,7 +3616,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>tha&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇaya&lt;/code>&lt;/td>
@@ -3626,7 +3627,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>tha&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇāpe&lt;/code>&lt;/td>
@@ -3637,7 +3638,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>tha&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇāpaya&lt;/code>&lt;/td>
@@ -3648,7 +3649,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>mi&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇe&lt;/code>&lt;/td>
@@ -3659,7 +3660,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>mi&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇaya&lt;/code>&lt;/td>
@@ -3670,7 +3671,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>mi&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇāpe&lt;/code>&lt;/td>
@@ -3681,7 +3682,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>mi&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇāpaya&lt;/code>&lt;/td>
@@ -3692,7 +3693,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ma&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇe&lt;/code>&lt;/td>
@@ -3703,7 +3704,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ma&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇaya&lt;/code>&lt;/td>
@@ -3714,7 +3715,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ma&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇāpe&lt;/code>&lt;/td>
@@ -3725,7 +3726,7 @@ the root &lt;code>paca&lt;/code> (to cook) using &lt;code>parassapada&lt;/code> 
 &lt;tr>
 &lt;td style="text-align:center">🟠&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ma&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇāpaya&lt;/code>&lt;/td>
@@ -3766,7 +3767,7 @@ affix &lt;code>ṇe&lt;/code> and the passive affix &lt;code>ya&lt;/code>:&lt;/p
 &lt;tr>
 &lt;td style="text-align:center">🟠🔴&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ti&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇe&lt;/code>&lt;/td>
@@ -3776,7 +3777,7 @@ affix &lt;code>ṇe&lt;/code> and the passive affix &lt;code>ya&lt;/code>:&lt;/p
 &lt;tr>
 &lt;td style="text-align:center">🟠🔴&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ti&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇāpe&lt;/code>&lt;/td>
@@ -3786,7 +3787,7 @@ affix &lt;code>ṇe&lt;/code> and the passive affix &lt;code>ya&lt;/code>:&lt;/p
 &lt;tr>
 &lt;td style="text-align:center">🟠🔴&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>anti&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇe&lt;/code>&lt;/td>
@@ -3796,7 +3797,7 @@ affix &lt;code>ṇe&lt;/code> and the passive affix &lt;code>ya&lt;/code>:&lt;/p
 &lt;tr>
 &lt;td style="text-align:center">🟠🔴&lt;/td>
 &lt;td style="text-align:center">🤟&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>anti&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇāpe&lt;/code>&lt;/td>
@@ -3806,7 +3807,7 @@ affix &lt;code>ṇe&lt;/code> and the passive affix &lt;code>ya&lt;/code>:&lt;/p
 &lt;tr>
 &lt;td style="text-align:center">🟠🔴&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>si&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇe&lt;/code>&lt;/td>
@@ -3816,7 +3817,7 @@ affix &lt;code>ṇe&lt;/code> and the passive affix &lt;code>ya&lt;/code>:&lt;/p
 &lt;tr>
 &lt;td style="text-align:center">🟠🔴&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>si&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇāpe&lt;/code>&lt;/td>
@@ -3826,7 +3827,7 @@ affix &lt;code>ṇe&lt;/code> and the passive affix &lt;code>ya&lt;/code>:&lt;/p
 &lt;tr>
 &lt;td style="text-align:center">🟠🔴&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>tha&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇe&lt;/code>&lt;/td>
@@ -3836,7 +3837,7 @@ affix &lt;code>ṇe&lt;/code> and the passive affix &lt;code>ya&lt;/code>:&lt;/p
 &lt;tr>
 &lt;td style="text-align:center">🟠🔴&lt;/td>
 &lt;td style="text-align:center">🤘&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>tha&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇāpe&lt;/code>&lt;/td>
@@ -3846,7 +3847,7 @@ affix &lt;code>ṇe&lt;/code> and the passive affix &lt;code>ya&lt;/code>:&lt;/p
 &lt;tr>
 &lt;td style="text-align:center">🟠🔴&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>mi&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇe&lt;/code>&lt;/td>
@@ -3856,7 +3857,7 @@ affix &lt;code>ṇe&lt;/code> and the passive affix &lt;code>ya&lt;/code>:&lt;/p
 &lt;tr>
 &lt;td style="text-align:center">🟠🔴&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👤&lt;/td>
+&lt;td style="text-align:center">⨀&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>mi&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇāpe&lt;/code>&lt;/td>
@@ -3866,7 +3867,7 @@ affix &lt;code>ṇe&lt;/code> and the passive affix &lt;code>ya&lt;/code>:&lt;/p
 &lt;tr>
 &lt;td style="text-align:center">🟠🔴&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ma&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇe&lt;/code>&lt;/td>
@@ -3876,7 +3877,7 @@ affix &lt;code>ṇe&lt;/code> and the passive affix &lt;code>ya&lt;/code>:&lt;/p
 &lt;tr>
 &lt;td style="text-align:center">🟠🔴&lt;/td>
 &lt;td style="text-align:center">👆&lt;/td>
-&lt;td style="text-align:center">👥&lt;/td>
+&lt;td style="text-align:center">⨂&lt;/td>
 &lt;td style="text-align:center">▶️&lt;/td>
 &lt;td style="text-align:center">&lt;code>ma&lt;/code>&lt;/td>
 &lt;td style="text-align:center">&lt;code>ṇāpe&lt;/code>&lt;/td>
@@ -4028,16 +4029,16 @@ materialised due to adverse conditions or lack of the supporting causes)&lt;/p>
 &lt;p>An active voice sentence is a subject-principal sentence where Kattā (the agent,
 doer subject) is much more dominant.&lt;/p>
 &lt;ol>
-&lt;li>&lt;code>kattu&lt;/code> (subject) - &lt;code>Kathita Kattā&lt;/code> or `Vutta-kattā`` (predominant-subject) must be in 1st case (1️⃣)&lt;/li>
-&lt;li>&lt;code>kamma&lt;/code> (object) - &lt;code>Akathita-kamma&lt;/code> or &lt;code>Avutta-kamma&lt;/code> (non-principal object) must be in 2nd case (2️⃣)&lt;/li>
+&lt;li>&lt;code>kattu&lt;/code> (subject) - &lt;code>Kathita Kattā&lt;/code> or `Vutta-kattā`` (predominant-subject) must be in 1st case (①)&lt;/li>
+&lt;li>&lt;code>kamma&lt;/code> (object) - &lt;code>Akathita-kamma&lt;/code> or &lt;code>Avutta-kamma&lt;/code> (non-principal object) must be in 2nd case (②)&lt;/li>
 &lt;li>The verb must be either in the &lt;code>parassapada&lt;/code> termination (🟢) in most cases or in the &lt;code>attanopada&lt;/code> termination (🔵) with or without an affix of &lt;code>kattu&lt;/code> sense. [Affixes of &lt;code>kamma&lt;/code> sense such as &lt;code>ya&lt;/code>, or &lt;code>kita&lt;/code> affixes eg. &lt;code>tabba&lt;/code>, &lt;code>ta&lt;/code>, etc. cannot be used]&lt;/li>
 &lt;li>The persons (subjects) and verbs should be concordant.&lt;/li>
 &lt;/ol>
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th style="text-align:center">Subject (1️⃣)&lt;/th>
-&lt;th style="text-align:center">Object (2️⃣)&lt;/th>
+&lt;th style="text-align:center">Subject (①)&lt;/th>
+&lt;th style="text-align:center">Object (②)&lt;/th>
 &lt;th style="text-align:center">Verb&lt;/th>
 &lt;th>Meaning&lt;/th>
 &lt;/tr>
@@ -4090,19 +4091,19 @@ doer subject) is much more dominant.&lt;/p>
 &lt;h3 id="kamma-vācaka-vākya-passive-voice-sentences">&lt;code>Kamma-vācaka Vākya&lt;/code> (passive voice sentences)&lt;/h3>
 &lt;p>A passive voice sentence is a object-principal sentence where the Kamma (the
 thing being done, the object) is more visibly dominant by being in the 1st case
-(1️⃣).&lt;/p>
+(①).&lt;/p>
 &lt;p>The rules in a passive voice sentence are:&lt;/p>
 &lt;ol>
-&lt;li>&lt;code>kamma&lt;/code> (object) - &lt;code>Kathita Kamma&lt;/code> or &lt;code>Vutta-kamma&lt;/code> (predominant-object) must be in 1st case (1️⃣)&lt;/li>
-&lt;li>&lt;code>kattā&lt;/code> (subject) - &lt;code>Akathita-kattā&lt;/code> or an &lt;code>Avutta-kattā&lt;/code> (non-principal subject) must be in 3nd case (3️⃣)&lt;/li>
+&lt;li>&lt;code>kamma&lt;/code> (object) - &lt;code>Kathita Kamma&lt;/code> or &lt;code>Vutta-kamma&lt;/code> (predominant-object) must be in 1st case (①)&lt;/li>
+&lt;li>&lt;code>kattā&lt;/code> (subject) - &lt;code>Akathita-kattā&lt;/code> or an &lt;code>Avutta-kattā&lt;/code> (non-principal subject) must be in 3nd case (③)&lt;/li>
 &lt;li>The verb should be mainly in the &lt;code>attanopada&lt;/code> termination (🔵) or it can be in a reversed &lt;code>parassapada&lt;/code> form (🟢) with an affix which has a Kamma-sense only. {440}-{443}.&lt;/li>
 &lt;li>The object (not the subject!) and verb should be in agreement.&lt;/li>
 &lt;/ol>
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th style="text-align:center">Subject (3️⃣)&lt;/th>
-&lt;th style="text-align:center">Object (1️⃣)&lt;/th>
+&lt;th style="text-align:center">Subject (③)&lt;/th>
+&lt;th style="text-align:center">Object (①)&lt;/th>
 &lt;th style="text-align:center">Verb&lt;/th>
 &lt;th>Meaning&lt;/th>
 &lt;/tr>
@@ -4155,12 +4156,12 @@ thing being done, the object) is more visibly dominant by being in the 1st case
 &lt;h3 id="bhāva-impersonal-middle-voice-sentences">&lt;code>bhāva&lt;/code> (impersonal) middle voice sentences&lt;/h3>
 &lt;p>It&amp;rsquo;s like a passive voice sentence except the focus is purely on the action
 and does not focus on either the subject or object. Therefore the verb tends to
-be in 👤 (&lt;code>ekavacana&lt;/code>) 🤟 (&lt;code>paṭhama purisa&lt;/code>) form. If there is a subject, it can
-be (but not always) be in 3rd (3️⃣) or 6th case (6️⃣).&lt;/p>
+be in ⨀ (&lt;code>ekavacana&lt;/code>) 🤟 (&lt;code>paṭhama purisa&lt;/code>) form. If there is a subject, it can
+be (but not always) be in 3rd (③) or 6th case (⑥).&lt;/p>
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th style="text-align:center">Subject (3️⃣)&lt;/th>
+&lt;th style="text-align:center">Subject (③)&lt;/th>
 &lt;th style="text-align:center">Verb&lt;/th>
 &lt;th>Meaning&lt;/th>
 &lt;/tr>
@@ -4196,9 +4197,9 @@ carry), &lt;code>duha&lt;/code> (to milk), then there can be three objects.&lt;/
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th style="text-align:center">Causative Subject (1️⃣)&lt;/th>
-&lt;th style="text-align:center">Subordinate Object (2️⃣)&lt;/th>
-&lt;th style="text-align:center">The root-object (2️⃣)&lt;/th>
+&lt;th style="text-align:center">Causative Subject (①)&lt;/th>
+&lt;th style="text-align:center">Subordinate Object (②)&lt;/th>
+&lt;th style="text-align:center">The root-object (②)&lt;/th>
 &lt;th style="text-align:center">Causative Verb&lt;/th>
 &lt;th>Meaning&lt;/th>
 &lt;/tr>
@@ -4476,7 +4477,7 @@ noun (from &lt;code>caja&lt;/code>, using the &lt;code>ṇa&lt;/code> affix):&lt
 → &lt;code>c&lt;/code>&lt;del>&lt;code>a&lt;/code>&lt;/del>(&lt;code>ā&lt;/code>)&lt;code>ja&lt;/code> (&lt;code>vuddhi&lt;/code>) {483}&lt;br>
 → &lt;code>cā&lt;/code>&lt;del>&lt;code>j&lt;/code>&lt;/del>(&lt;code>g&lt;/code>)&lt;code>a&lt;/code> {623}&lt;br>
 → &lt;code>cāga&lt;/code> (noun) {601}&lt;br>
-→ &lt;code>cāga&lt;/code> + &lt;code>si&lt;/code> (👤1️⃣)&lt;br>
+→ &lt;code>cāga&lt;/code> + &lt;code>si&lt;/code> (⨀①)&lt;br>
 → &lt;code>cāga&lt;/code> + &lt;del>&lt;code>si&lt;/code>&lt;/del>(&lt;code>o&lt;/code>) {104}&lt;br>
 → &lt;code>cāg&lt;/code>&lt;del>&lt;code>a&lt;/code>&lt;/del> + &lt;code>o&lt;/code> {83}&lt;br>
 → &lt;code>cāgo&lt;/code> (&amp;ldquo;charitable giving, sharing&amp;rdquo;)&lt;/p>
@@ -4487,7 +4488,7 @@ noun (from &lt;code>caja&lt;/code>, using the &lt;code>ṇa&lt;/code> affix):&lt
 → &lt;code>budh&lt;/code> + &lt;del>&lt;code>ta&lt;/code>&lt;/del>(&lt;code>dha&lt;/code>) {576}&lt;br>
 → &lt;code>bu&lt;/code>&lt;del>&lt;code>dh&lt;/code>&lt;/del>(&lt;code>d&lt;/code>) + &lt;code>dha&lt;/code> {611}&lt;br>
 → &lt;code>buddha&lt;/code> (noun) {601}&lt;br>
-→ &lt;code>buddha&lt;/code> + &lt;code>si&lt;/code> (👤1️⃣)&lt;br>
+→ &lt;code>buddha&lt;/code> + &lt;code>si&lt;/code> (⨀①)&lt;br>
 → &lt;code>buddha&lt;/code> + &lt;del>&lt;code>si&lt;/code>&lt;/del>(&lt;code>o&lt;/code>) {104}&lt;br>
 → &lt;code>buddh&lt;/code>&lt;del>&lt;code>a&lt;/code>&lt;/del> + &lt;code>o&lt;/code> {83}&lt;br>
 → &lt;code>buddho&lt;/code> (&amp;ldquo;The one who knows truth, who awakened&amp;rdquo;)&lt;/p>
@@ -4503,7 +4504,7 @@ the formation of individual nouns of varying genders.&lt;/p>
 &lt;p>&lt;code>sama&lt;/code> &amp;ldquo;to calm&amp;rdquo;&lt;br>
 → &lt;code>sama&lt;/code> + &lt;code>tha&lt;/code> {628}&lt;br>
 → &lt;code>samatha&lt;/code> {601}&lt;br>
-→ &lt;code>samatha&lt;/code> + &lt;code>si&lt;/code> (👤1️⃣)&lt;br>
+→ &lt;code>samatha&lt;/code> + &lt;code>si&lt;/code> (⨀①)&lt;br>
 → &lt;code>samatha&lt;/code> + &lt;del>&lt;code>si&lt;/code>&lt;/del>(&lt;code>o&lt;/code>) {104}&lt;br>
 → &lt;code>samath&lt;/code>&lt;del>&lt;code>a&lt;/code>&lt;/del> + &lt;code>o&lt;/code> {83}&lt;br>
 → &lt;code>samatho&lt;/code> (&amp;ldquo;that which calms the mind, Samatha meditation&amp;rdquo;)&lt;/p>
@@ -4526,45 +4527,45 @@ carries the &amp;ldquo;action&amp;rdquo; of a sentence.&lt;/p>
 &lt;blockquote>
 &lt;p>dānaṁ dinno devadatto&lt;/p>
 &lt;/blockquote>
-&lt;p>🚻👤2️⃣(dānaṁ) 🚹👤1️⃣(⏬(ta)(dinno) devadatto)&lt;br>
+&lt;p>🚻⨀②(dānaṁ) 🚹⨀①(⏬(ta)(dinno) devadatto)&lt;br>
 alms / gave (past participle) / Devadatta&lt;br>
 &lt;em>Devadatta gave alms.&lt;/em>&lt;/p>
 &lt;blockquote>
 &lt;p>kumaro antepuraṁ gato&lt;/p>
 &lt;/blockquote>
-&lt;p>🚻👤2️⃣(antepuraṁ) 🚹👤1️⃣(kumaro ⏬(ta)(gato))&lt;br>
+&lt;p>🚻⨀②(antepuraṁ) 🚹⨀①(kumaro ⏬(ta)(gato))&lt;br>
 King&amp;rsquo;s palace / prince / went (past participle)&lt;br>
 &lt;em>The prince went into the King&amp;rsquo;s palace.&lt;/em>&lt;/p>
 &lt;blockquote>
 &lt;p>so bhagavā sayam’pi cattāri saccāni buddho&lt;/p>
 &lt;/blockquote>
-&lt;p>🚹👤1️⃣(so bhagavā ⏬(ta)(buddho)) ⏏️(sayam api) 🚻👥2️⃣(cattāri saccāni)&lt;br>
+&lt;p>🚹⨀①(so bhagavā ⏬(ta)(buddho)) ⏏️(sayam api) 🚻⨂②(cattāri saccāni)&lt;br>
 that / Bhagavā / understood (past participle) / by oneself / just / four / truths&lt;br>
 &lt;em>That Bhagavā (Buddha) understood the four truths just by himself.&lt;/em>&lt;/p>
 &lt;h3 id="example-sentences-of-kamma-sādhana-affixed-words">Example sentences of &lt;code>kamma&lt;/code> &lt;code>sādhana&lt;/code>-affixed words&lt;/h3>
 &lt;blockquote>
 &lt;p>buddhena dhammo desito&lt;/p>
 &lt;/blockquote>
-&lt;p>🚹👤3️⃣(buddhena) 🚹👤1️⃣(dhammo ⏬(ta)(desito))&lt;br>
+&lt;p>🚹⨀③(buddhena) 🚹⨀①(dhammo ⏬(ta)(desito))&lt;br>
 by Buddha / dhamma / taught (past participle)&lt;br>
 &lt;em>The Dhamma is taught by the Buddha.&lt;/em>&lt;/p>
 &lt;blockquote>
 &lt;p>bhotabbo odano bhavatā&lt;/p>
 &lt;/blockquote>
-&lt;p>🚹👤1️⃣(⏬(tabba)(bhotabbo) odano) 🚹👤3️⃣(bhavatā)&lt;br>
+&lt;p>🚹⨀①(⏬(tabba)(bhotabbo) odano) 🚹⨀③(bhavatā)&lt;br>
 eaten (future passive participle) / rice / Your Honourable&lt;br>
 &lt;em>That rice is to be eaten by Your Honourable.&lt;/em>&lt;/p>
 &lt;h3 id="example-sentences-of-bhāva-sādhana-affixed-words">Example sentences of &lt;code>bhāva&lt;/code> &lt;code>sādhana&lt;/code>-affixed words&lt;/h3>
 &lt;blockquote>
 &lt;p>tassa gītaṁ&lt;/p>
 &lt;/blockquote>
-&lt;p>🚻👤6️⃣(tassa) 🚻👤1️⃣(🔽(ta)(gītaṁ))&lt;br>
+&lt;p>🚻⨀⑥(tassa) 🚻⨀①(🔽(ta)(gītaṁ))&lt;br>
 of that person / sung (past participle)&lt;br>
 &lt;em>Sung of that person.&lt;/em>&lt;/p>
 &lt;blockquote>
 &lt;p>sayitabbaṁ bhavatā&lt;/p>
 &lt;/blockquote>
-&lt;p>🚻👤1️⃣(⏬(tabba)(sayitabbaṁ)) 🚹👤3️⃣(bhavatā)&lt;br>
+&lt;p>🚻⨀①(⏬(tabba)(sayitabbaṁ)) 🚹⨀③(bhavatā)&lt;br>
 eating (future passive particle) / by Your Honourable&lt;br>
 &lt;em>Eating by Your Honourable.&lt;/em>&lt;/p>
 &lt;h3 id="sādhana-associated-meanings-and-usage">&lt;code>sādhana&lt;/code> associated meanings and usage&lt;/h3>
@@ -4653,15 +4654,15 @@ Tatiyampi saṅghaṁ saraṇaṁ gacchāmi&lt;/p>
 &lt;p>Let&amp;rsquo;s start by examining only the first line. Analysing each word by
 identifying the form of the &lt;code>vibhatti&lt;/code> ending yields:&lt;/p>
 &lt;blockquote>
-&lt;p>🚹👤2️⃣(buddhaṁ saraṇaṁ) 🟢👤🤟▶️(gacchāmi)&lt;/p>
+&lt;p>🚹⨀②(buddhaṁ saraṇaṁ) 🟢⨀🤟▶️(gacchāmi)&lt;/p>
 &lt;/blockquote>
 &lt;div class="alert alert-secondary" role="alert">
 &lt;h4 class="alert-heading">Note&lt;/h4>
 The notation used here is inspired by functional programming conventions.
 In mathematics, we refer to \(f(x)\) as the function \(f\) applying on the
-variable \(x\), so 🚹👤2️⃣(&lt;code>x&lt;/code>) means all words in &lt;code>x&lt;/code> are in the 2nd
+variable \(x\), so 🚹⨀②(&lt;code>x&lt;/code>) means all words in &lt;code>x&lt;/code> are in the 2nd
 case, singular (&lt;code>ekavacana&lt;/code>) and &lt;code>pulliṅga&lt;/code> in gender.
-Similarly, 🟢👤🤟▶️(&lt;code>y&lt;/code>) means all
+Similarly, 🟢⨀🤟▶️(&lt;code>y&lt;/code>) means all
 words in &lt;code>y&lt;/code> are present indicative (&lt;code>vattamāna&lt;/code>) active (&lt;code>parassapada&lt;/code>) verbs
 in the singular (&lt;code>ekavacana&lt;/code>), &amp;ldquo;first person&amp;rdquo; (in English, &amp;ldquo;third person&amp;rdquo;)
 form (&lt;code>paṭhama purisa&lt;/code>).
@@ -4705,12 +4706,12 @@ english((For the second/third time) I go to the Buddha/Dhamma/Sangha as refuge)
 namespace saṅkhyāpūraṇa {
 class dutiyaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-2️⃣
+②
 english(second time)
 }
 class tatiyaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-2️⃣
+②
 english(third time)
 }
 }
@@ -4721,25 +4722,25 @@ english(too)
 namespace saraṇa {
 class buddhaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤2️⃣
+🚹⨀②
 }
 class dhammaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤2️⃣
+🚹⨀②
 }
 class saṅghaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤2️⃣
+🚹⨀②
 }
 }
 class saraṇaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤2️⃣
+🚹⨀②
 english(as refuge)
 }
 class gacchāmi {
 &amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-🟢👤🤟▶️
+🟢⨀🤟▶️
 english(I go)
 }
 sentence *-- dutiyaṃ
@@ -4861,7 +4862,7 @@ Yato khayaṁ paccayānaṁ avedī”ti.&lt;/p>
 Ātāpino jhāyato brāhmaṇassa;&lt;br>
 Vidhūpayaṁ tiṭṭhati mārasenaṁ,&lt;br>
 Sūriyova obhāsayamantalikkhan”ti.&lt;/p>
-&lt;/blockquote></description></item><item><title>Docs: A: Symbols used in this Book</title><link>https://christham.net/buddhavacana/docs/palibook/symbols/</link><pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/symbols/</guid><description>
+&lt;/blockquote></description></item><item><title>Docs: A: Symbols and Glossary of Pali technical terms</title><link>https://christham.net/buddhavacana/docs/palibook/symbols/</link><pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/symbols/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/div>
@@ -4890,12 +4891,12 @@ Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;td>minor (feminine) gender&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>👤&lt;/td>
+&lt;td>⨀&lt;/td>
 &lt;td>&lt;code>ekavacana&lt;/code>&lt;/td>
 &lt;td>singular&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>👥&lt;/td>
+&lt;td>⨂&lt;/td>
 &lt;td>&lt;code>bahuvacana&lt;/code>&lt;/td>
 &lt;td>plural&lt;/td>
 &lt;/tr>
@@ -4935,42 +4936,42 @@ Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;td>primary person, equivalent to &amp;lsquo;first person&amp;rsquo; in English&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>0️⃣&lt;/td>
+&lt;td>⓪&lt;/td>
 &lt;td>&lt;code>ālapana&lt;/code>&lt;/td>
 &lt;td>vocative&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>1️⃣&lt;/td>
+&lt;td>①&lt;/td>
 &lt;td>&lt;code>paṭhamā&lt;/code>&lt;/td>
 &lt;td>first case (nominative)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>2️⃣&lt;/td>
+&lt;td>②&lt;/td>
 &lt;td>&lt;code>dutiyā&lt;/code>&lt;/td>
 &lt;td>second case (accusative)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>3️⃣&lt;/td>
+&lt;td>③&lt;/td>
 &lt;td>&lt;code>tatiyā&lt;/code>&lt;/td>
 &lt;td>third case (instrumental)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>4️⃣&lt;/td>
+&lt;td>④&lt;/td>
 &lt;td>&lt;code>catutthī&lt;/code>&lt;/td>
 &lt;td>fourth case (dative)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>5️⃣&lt;/td>
+&lt;td>⑤&lt;/td>
 &lt;td>&lt;code>pañcamī&lt;/code>&lt;/td>
 &lt;td>fifth case (ablative)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>6️⃣&lt;/td>
+&lt;td>⑥&lt;/td>
 &lt;td>&lt;code>chaṭṭhī&lt;/code>&lt;/td>
 &lt;td>sixth case (genitive)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>7️⃣&lt;/td>
+&lt;td>⑦&lt;/td>
 &lt;td>&lt;code>sattamī&lt;/code>&lt;/td>
 &lt;td>seventh case (locative)&lt;/td>
 &lt;/tr>
@@ -5040,7 +5041,87 @@ Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;td>conditional&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item><item><title>Docs: B: The Pali Alphabet</title><link>https://christham.net/buddhavacana/docs/palibook/alphabet/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/alphabet/</guid><description>
+&lt;/table>
+&lt;h2 id="phonological-terminology">Phonological Terminology&lt;/h2>
+&lt;dl>
+&lt;dt>dīgha&lt;/dt>
+&lt;dd>long&lt;/dd>
+&lt;dt>rassa&lt;/dt>
+&lt;dd>short&lt;/dd>
+&lt;dt>garuka&lt;/dt>
+&lt;dd>metrically long&lt;/dd>
+&lt;dt>lahuka&lt;/dt>
+&lt;dd>metrically short&lt;/dd>
+&lt;dt>sambaddha&lt;/dt>
+&lt;dd>connected utterance&lt;/dd>
+&lt;dt>vavatthita&lt;/dt>
+&lt;dd>disjoint utterance&lt;/dd>
+&lt;dt>sithila&lt;/dt>
+&lt;dd>non-aspirated stops&lt;/dd>
+&lt;dt>dhanita&lt;/dt>
+&lt;dd>aspirated stops&lt;/dd>
+&lt;dt>niggahīta&lt;/dt>
+&lt;dd>nasal&lt;/dd>
+&lt;dt>vimutta&lt;/dt>
+&lt;dd>oral&lt;/dd>
+&lt;/dl>
+&lt;h2 id="case-terminology">Case terminology&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">Symbol&lt;/th>
+&lt;th style="text-align:center">English&lt;/th>
+&lt;th style="text-align:center">Aṭṭhakathā&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">①&lt;/td>
+&lt;td style="text-align:center">nominative&lt;/td>
+&lt;td style="text-align:center">paccatta&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">②&lt;/td>
+&lt;td style="text-align:center">accusative&lt;/td>
+&lt;td style="text-align:center">upayoga&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">③&lt;/td>
+&lt;td style="text-align:center">instrumental&lt;/td>
+&lt;td style="text-align:center">karaṇa&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">④&lt;/td>
+&lt;td style="text-align:center">dative&lt;/td>
+&lt;td style="text-align:center">sampadāna&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">⑤&lt;/td>
+&lt;td style="text-align:center">ablative&lt;/td>
+&lt;td style="text-align:center">nissakka&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">⑥&lt;/td>
+&lt;td style="text-align:center">genitive&lt;/td>
+&lt;td style="text-align:center">sāmi&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">⑦&lt;/td>
+&lt;td style="text-align:center">locative&lt;/td>
+&lt;td style="text-align:center">bhumma&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">⓪&lt;/td>
+&lt;td style="text-align:center">vocative&lt;/td>
+&lt;td style="text-align:center">ālapana&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="types-of-nominals">Types of nominals&lt;/h2>
+&lt;ul>
+&lt;li>Technical Terms and Technique of the Pali and the Sanskrit Grammars, Mahesh
+A Deokar, Central Institute of Higher Tibetan Studies (2008)&lt;/li>
+&lt;/ul></description></item><item><title>Docs: B: The Pali Alphabet</title><link>https://christham.net/buddhavacana/docs/palibook/alphabet/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/alphabet/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/div>
@@ -5387,17 +5468,214 @@ hakāra: h&lt;/p>
 &lt;p>ṃ (niggahīta) can be written η, ṁ or ṃ&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>Docs: C: Pali Grammar Specification</title><link>https://christham.net/buddhavacana/docs/palibook/grammar/</link><pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/grammar/</guid><description>
+&lt;/div></description></item><item><title>Docs: C: Pali Grammar Specification</title><link>https://christham.net/buddhavacana/docs/palibook/grammar/</link><pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/grammar/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/div>
-&lt;pre class="mermaid">stateDiagram-v2
-direction LR
-[*] --&amp;gt; upasagga
-[*] --&amp;gt; dhātu
-upasagga --&amp;gt; upasagga
-upasagga --&amp;gt; dhātu
-dhātu --&amp;gt; paccaya&lt;/pre></description></item><item><title>Docs: D: `dhātu` (roots)</title><link>https://christham.net/buddhavacana/docs/palibook/roots/</link><pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/roots/</guid><description>
+&lt;p>This chapter presents a concise summary of the structure of Pali grammar
+and the technical terms used in Kaccāyana. It is structured using EBNF notation and presented as Syntax Diagrams (also known as &amp;ldquo;Railroad&amp;rdquo; diagrams).&lt;/p>
+&lt;h2 id="the-pali-alphabet-or-orthography-saññā">The Pali Alphabet or Orthography (saññā)&lt;/h2>
+&lt;h3 id="phonemes-2">Phonemes {2}&lt;/h3>
+&lt;p>Pali is an oral language consisting of sounds, but can be transcribed in written form using a combination of phonemes. Overall, there are 41 phonemes, which are grouped as consonants and vowels. These phonemes can be rendered in various scripts, or using Roman letters.&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+title Phonemes (akkharā)
+phoneme = 33 * consonant (* byañjanā *) | 8 * vowel (* sarā *);
+@endebnf
+&lt;/code>&lt;/pre>&lt;h3 id="vowels-3-5">Vowels {3}-{5}&lt;/h3>
+&lt;p>The vowels can be short (1 mora in length) or long (2 morae). Some vowels can be short or long depending of circumstances.&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+title Vowels (sarā)
+vowel =
+short (* rassaṃ, light (lahu), one mora (mattā) in length *) |
+long (* dīghaṃ, heavy (garu), two mattā in length *) |
+variable (* can be long or short *);
+short = &amp;#34;a&amp;#34; | &amp;#34;i&amp;#34; | &amp;#34;u&amp;#34;;
+long = &amp;#34;ā&amp;#34; | &amp;#34;ī&amp;#34; | &amp;#34;ū&amp;#34;;
+variable = &amp;#34;e&amp;#34; | &amp;#34;o&amp;#34;;
+@endebnf
+&lt;/code>&lt;/pre>&lt;h3 id="consonants-6-9">Consonants {6}-{9}&lt;/h3>
+&lt;p>Consonants can be grouped.&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+Title Consonants (byañjanā)
+consonant =
+25 * grouped (* vagga *) |
+7 * ungrouped (* avaggā *) |
+1 * niggahita (* niggahita *) ;
+grouped =
+5 * ka_group (* kavagga, velar (guttural) *) |
+5 * ca_group (* cavagga, palatal *) |
+5 * dot_ta_group (* ṭavagga, retroflex *) |
+5 * ta_group (* tavagga, dental *) |
+5 * pa_group (* pavagga, labial *) ;
+ka_group = &amp;#34;ka&amp;#34; | &amp;#34;kha&amp;#34; | &amp;#34;ga&amp;#34; | &amp;#34;gha&amp;#34; | &amp;#34;ṅa&amp;#34; ;
+ca_group = &amp;#34;ca&amp;#34; | &amp;#34;cha&amp;#34; | &amp;#34;ja&amp;#34; | &amp;#34;jha&amp;#34; | &amp;#34;ña&amp;#34; ;
+dot_ta_group = &amp;#34;ṭa&amp;#34; | &amp;#34;ṭha&amp;#34; | &amp;#34;ḍa&amp;#34; | &amp;#34;ḍha&amp;#34; | &amp;#34;ṇa&amp;#34; ;
+ta_group = &amp;#34;ta&amp;#34; | &amp;#34;tha&amp;#34; | &amp;#34;da&amp;#34; | &amp;#34;dha&amp;#34; | &amp;#34;na&amp;#34; ;
+pa_group = &amp;#34;pa&amp;#34; | &amp;#34;pha&amp;#34; | &amp;#34;ba&amp;#34; | &amp;#34;bha&amp;#34; | &amp;#34;ma&amp;#34; ;
+ungrouped = &amp;#34;ya&amp;#34; | &amp;#34;ra&amp;#34; | &amp;#34;la&amp;#34; | &amp;#34;va&amp;#34; | &amp;#34;sa&amp;#34; | &amp;#34;ha&amp;#34; | &amp;#34;ḷa&amp;#34; ;
+niggahita = &amp;#34;aṃ&amp;#34; ;
+@endebnf
+&lt;/code>&lt;/pre>&lt;h3 id="voicing">Voicing&lt;/h3>
+&lt;p>The grouped consonants can be either voiced or unvoiced.&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+Title Voicing
+grouped =
+7 * voiceless (* aghosā *) |
+25 * voiced (* ghosā *) ;
+voiceless = &amp;#34;ka&amp;#34; | &amp;#34;kha&amp;#34; | &amp;#34;ca&amp;#34; | &amp;#34;cha&amp;#34; | &amp;#34;ṭa&amp;#34; | &amp;#34;ṭha&amp;#34; | &amp;#34;ta&amp;#34; | &amp;#34;tha&amp;#34; | &amp;#34;pa&amp;#34; | &amp;#34;pha&amp;#34; ;
+voiced = &amp;#34;ga&amp;#34; | &amp;#34;gha&amp;#34; | &amp;#34;ṅa&amp;#34; | &amp;#34;ja&amp;#34; | &amp;#34;jha&amp;#34; | &amp;#34;ña&amp;#34; | &amp;#34;ḍa&amp;#34; | &amp;#34;ḍha&amp;#34; | &amp;#34;ṇa&amp;#34; | &amp;#34;da&amp;#34; | &amp;#34;dha&amp;#34; | &amp;#34;na&amp;#34; | &amp;#34;ba&amp;#34; | &amp;#34;bha&amp;#34; | &amp;#34;ma&amp;#34; ;
+@endebnf
+&lt;/code>&lt;/pre>&lt;h2 id="sentence-structure">Sentence structure&lt;/h2>
+&lt;p>Pali text consist of sentences which contain one or more words. Words can be nouns, verbs, prefixes and particles. There is no strictly defined word order in sentences, but is proto-typically subject-object-verb.&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+title Sentence Structure
+text = {sentence (* vakyā *)};
+sentence = {word (* padajāti *)}- ;
+sentence = ?subject?, ?object?, ?verb? ;
+word =
+noun (* nāma *) |
+verb (* ākhyāta *) |
+prefix (* upasagga *) |
+particle (* nipāta *) ;
+@endebnf
+&lt;/code>&lt;/pre>&lt;h2 id="nouns">Nouns&lt;/h2>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+title Noun types
+noun =
+substantive (* nāmanāma *) |
+adjective (* guṇanāma, visesana *) |
+pronoun (* sabbanāma *) |
+numeral (* saṅkhyā *) |
+complex_noun (* vutti *) ;
+substantive =
+common (* sādhārananāma *) |
+proper (* asādhārananāma *) ;
+@endebnf
+&lt;/code>&lt;/pre>&lt;p>Nouns are constructed from a base, or stem. Kaccāyana refers to the nominal base as the &lt;code>liṅga&lt;/code>, but this word is also used to refer to the grammatical gender of nouns. &lt;code>liṅga&lt;/code> technically means defining &amp;ldquo;characteristic&amp;rdquo; or &amp;ldquo;attribute&amp;rdquo; and hence the term is appropriate for both, as the defining characteristic of a noun is the base together with the gender. Other words that can be used to represent the base are &lt;code>pāṭipadika&lt;/code> or &lt;code>sadda&lt;/code>.&lt;/p>
+&lt;p>A fully formed noun-word is constructed by combining the base with optional prefixes, infixes, affixes and suffixes. The final suffix is the inflectional-ending and expresses the syntactic case (relationship of the noun to other parts of a sentence), number (singular or plural) and gender (masculine, feminine, or neuter).&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+title Noun formation
+noun =
+{prefix (* upasagga *)},
+{root (* dhātu *)}-,
+[infix (* āgama *)],
+{affixes}- (* paccaya *) ;
+affixes =
+(primary_affix (* kitapaccaya *) |
+secondary_affix (* taddhitapaccaya *)),
+noun_ending (* vibhatti *) ;
+noun_ending =
+gender (* liṅga*),
+multiplicity (* vacana *),
+syntactic_case (* vibhatti *) ;
+gender =
+?🚹 masculine (pulliṅga)? |
+?🚺 feminine (itthiliṅga)? |
+?🚻 neuter (napuṃsakaliṅga)? ;
+multiplicity =
+?⨀ singular (ekavacana)? |
+?⨂ plural (bahuvacana)? ;
+syntactic_case = case0 | case1 | case2 | case3 | case4 | case5 | case6 | case7 ;
+@endebnf
+&lt;/code>&lt;/pre>&lt;h3 id="semantic-cases">Semantic cases&lt;/h3>
+&lt;p>Semantic cases (kāraka) represent the relationship between words in a sentence (representing various participants) in the context of an action (verb). Pali has 7 different semantic cases, in addition to a vocative case which is sometimes denoted as an 8th case.&lt;/p>
+&lt;p>There is a strong association between semantic cases and syntactic cases, but the association is not an equivalance as a semantic case can be represented by more than one syntactic case, and a syntactic case can be used to represent more than one semantic case.&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+semantic_case =
+vocative (* ālapana *) |
+nominative (* kattar, agent or &amp;#34;doer&amp;#34; of action *) |
+accussative (* kamma, object or &amp;#34;deed&amp;#34; of action *) |
+instrumental (* karaṇa, means or implement of agent *) |
+dative (* sampadāna, beneficiary of action *) |
+ablative (* apādāna, source or cause of action *) |
+genitive (* sāmi, owner of object *) |
+locative (* okāsa, place of action *) ;
+@endebnf
+&lt;/code>&lt;/pre>&lt;h2 id="verbs">Verbs&lt;/h2>
+&lt;p>Technically, verbs in Pali are finite verbs, conjugated by applying verb endings which represent the perspective and voice of the actor, multiplicity, and the mood/tense of the action.&lt;/p>
+&lt;p>Infinitives, participles (past, present, future), absolutives and other forms of words considered as verbs in other languages are technically nouns in Pali - they are created by combining a verbal stem (root) with an affix (&lt;code>kita&lt;/code> or &lt;code>kicca&lt;/code>) and then inflected/declined by adding a noun ending.&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+title Verb types
+verb = Bhuvadi | Rudhadi | Divadi | Svadi | Kiyadi| Tanadi | Curadi;
+voice_affixes = Kattupaccaya | Kammapaccaya | Bhavapaccaya | Hetukattupaccaya | Hetukammapaccaya;
+@endebnf
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+title Verb formation
+verb =
+{prefix (* upasaggo *)},
+{root (* dhātu *)}-,
+[infix (* āgamo *)],
+voice_affixes (* paccaya *),
+verb_ending (* vibhatti *) ;
+verb_ending =
+case_relation (* kāraka *),
+person (* purisa *),
+multiplicity (* vacana *),
+(tense (* kāla *) | mood);
+time =
+past |
+present |
+future ;
+case_relation =
+?Kattukaraka : Active voice? |
+?Kammakaraka : passive? ;
+person =
+third_person (* paṭhamapurisa *) |
+second_person (* majjhimapurisa*) |
+first_person (* uttamapurisa *) ;
+multiplicity =
+?⨀ singular (ekavacanaṃ)? |
+?⨂ plural (bahuvacanaṃ)? ;
+voice =
+?parassapada : active, action favours non-agent? |
+?attanopada : reflective, action favours self/object?;
+mood =
+?pañcamī : Imperative, command or wish? |
+?sattamī : Optative, permission or thought? |
+?kālātipatti : Conditional, should have happened except for ...? ;
+tense =
+?vattamānā : Present tense (paccupannakāla)? |
+?parokkhā : Perfect, actions completed that was not witnessed? |
+?hīyyattanī : Imperfect, past action excluding today? |
+?ajjattanī : Aorist, past action completed today? |
+?bhavissantī : Future tense? ;
+@endebnf
+&lt;/code>&lt;/pre>&lt;h3 id="complex-nouns">Complex nouns&lt;/h3>
+&lt;p>Complex nouns include compounds, verbal derivatives (primary) and nominal derivatives (secondary).&lt;/p>
+&lt;p>Derivatives are nouns formed by combining either a verbal or nominal stem with an affix, and then inflected/declined by applying noun endings.&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+complex_noun =
+compound (* samāsanāma *) |
+noun_derivative (* taddhitanāma *) |
+verb_derivative (* kitanāma *) ;
+compound =
+?avyayībhāva : Adverbial? |
+?kammadhāraya : Apposidonal? |
+?digu : Numerical? |
+?tappurisa : Determinative? |
+?bahubbīhi : Relative? |
+?dvandva : Copulative? ;
+verb_derivative = verb_stem (* liṅga *), primary_affix, noun_ending ;
+noun_derivative = noun_stem (* liṅga *), secondary_affix (* taddhita *), noun_ending ;
+primary_affix = kita | kicca | unadi;
+@endebnf
+&lt;/code>&lt;/pre>&lt;h2 id="prefixes">Prefixes&lt;/h2>
+&lt;p>Prefixes can be used as words in a sentence (in which case they are indeclinable), or embedded in another word (in which case they act as prepositions and form part of the word).&lt;/p>
+&lt;h2 id="particles">Particles&lt;/h2>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+(* avyaya *)
+indeclinable = particle (* nipāta *) | prefix (* upasagga *);
+particle = conjunction | preposition | adverb | indeclinable ;
+@endebnf
+&lt;/code>&lt;/pre>&lt;h2 id="references">References&lt;/h2>
+&lt;p>This appendix is drawn upon information provided in the following sources&lt;/p>
+&lt;ul>
+&lt;li>&lt;em>Kaccāyana Pāli Vyākaraṇaṁ (Kaccāyana Pāli Grammar)&lt;/em>, Vols I and II, A. Thitzana, Pariyatti Press (2018)&lt;/li>
+&lt;li>&lt;em>Technical Terms and Technique of the Pali and the Sanskrit Grammars&lt;/em>, Mahesh A Deokar, Central Institute of Higher Tibetan Studies (2008)&lt;/li>
+&lt;li>&lt;em>RŪPASIDDHI: A study of some aspects&lt;/em>, Phramaha Sriporn Rachiwong, Department Of Sanskrit And Prakrit Languages, University Of Pune (1995)&lt;/li>
+&lt;li>&lt;em>Pāli Grammar and Grammarians from Buddhaghosa to Vajirabuddhi: A Survey&lt;/em>, O.H. Pind, The Journal of the Pali Text Society, Vol. XXXI (2012), pp. 57–124&lt;/li>
+&lt;li>&lt;em>MĀGADHABHĀSĀ (PĀḶI): A Compendious Grammar on the Language of Pāḷi Buddhism&lt;/em>, A. Bhikkhu, Sāsanārakkha Buddhist Sanctuary (SBS), Revised 2nd Edition (2023)&lt;/li>
+&lt;/ul></description></item><item><title>Docs: D: `dhātu` (roots)</title><link>https://christham.net/buddhavacana/docs/palibook/roots/</link><pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/roots/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/div></description></item><item><title>Docs: E: `sandhi` Rules</title><link>https://christham.net/buddhavacana/docs/palibook/sandhi/</link><pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/sandhi/</guid><description>
@@ -8845,7 +9123,7 @@ Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 something). This appendix contains a subset of the examples provided in
 Kaccāyana - consult the book for a full set of examples.&lt;/p>
 &lt;h2 id="kitantogadha-dutiyā-tappurisa">Kita’ntogadha dutiyā Tappurisa&lt;/h2>
-&lt;p>&lt;code>saddūpapada&lt;/code> 2️⃣
+&lt;p>&lt;code>saddūpapada&lt;/code> ②
 (nearby noun eg. &lt;code>kamma&lt;/code>-work, &lt;code>kumbha&lt;/code>-pot, &lt;code>mālā&lt;/code>-flower) +
 &lt;code>dhātu&lt;/code> (eg. &lt;code>kara&lt;/code>, &lt;code>gaha&lt;/code>) + affix (eg. &lt;code>ṇa&lt;/code>)&lt;/p>
 &lt;table>
@@ -10095,38 +10373,38 @@ Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;thead>
 &lt;tr>
 &lt;th style="text-align:center">&lt;code>vibhatti&lt;/code>&lt;/th>
-&lt;th>👤&lt;/th>
-&lt;th>👥&lt;/th>
+&lt;th>⨀&lt;/th>
+&lt;th>⨂&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td style="text-align:center">1️⃣&lt;/td>
+&lt;td style="text-align:center">①&lt;/td>
 &lt;td>ahaṃ (amhi, asmi, mhi)&lt;/td>
 &lt;td>amhā, amhe, mayaṃ, mayhaṃ, no, vayaṃ&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">2️⃣&lt;/td>
+&lt;td style="text-align:center">②&lt;/td>
 &lt;td>maṃ, mamaṃ, mayhaṃ, mām-, me&lt;/td>
 &lt;td>amhākaṃ, amhe, asmākaṃ, asme, no&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">3️⃣&lt;/td>
+&lt;td style="text-align:center">③&lt;/td>
 &lt;td>mayā, me&lt;/td>
 &lt;td>amhebhi, amhehi, asmāhi, asmābhi, no&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">5️⃣&lt;/td>
+&lt;td style="text-align:center">⑤&lt;/td>
 &lt;td>mamato, mayā, me&lt;/td>
 &lt;td>amhebhi, amhehi, asmāhi, asmābhi, no&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">4️⃣6️⃣&lt;/td>
+&lt;td style="text-align:center">④⑥&lt;/td>
 &lt;td>amhaṃ, mama(ṃ), mamā, maṃ, mayha(ṃ), me&lt;/td>
 &lt;td>amhaṃ, amhāka(ṃ), asmākaṃ, no (ne)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">7️⃣&lt;/td>
+&lt;td style="text-align:center">⑦&lt;/td>
 &lt;td>mayi, me&lt;/td>
 &lt;td>amhesu, asmāsu, asmesu&lt;/td>
 &lt;/tr>
@@ -10138,45 +10416,45 @@ Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;thead>
 &lt;tr>
 &lt;th style="text-align:center">&lt;code>vibhatti&lt;/code>&lt;/th>
-&lt;th>👤&lt;/th>
-&lt;th>👥&lt;/th>
+&lt;th>⨀&lt;/th>
+&lt;th>⨂&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td style="text-align:center">1️⃣&lt;/td>
+&lt;td style="text-align:center">①&lt;/td>
 &lt;td>taṃ, tuvaṃ, tvaṃ&lt;/td>
 &lt;td>tumhe, vo&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">2️⃣&lt;/td>
+&lt;td style="text-align:center">②&lt;/td>
 &lt;td>taṃ, tavaṃ, tuvaṃ, tvaṃ, tyaṃ, te&lt;/td>
 &lt;td>tumhākaṃ, tumhe, vaṃ, ve, vo&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">3️⃣&lt;/td>
+&lt;td style="text-align:center">③&lt;/td>
 &lt;td>tayā, te, tvāya&lt;/td>
 &lt;td>tumhebhi, tumhehi, vaṃ, ve, vo&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">5️⃣&lt;/td>
+&lt;td style="text-align:center">⑤&lt;/td>
 &lt;td>tayā, te, tvāya&lt;/td>
 &lt;td>tumhebhi, tumhehi&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">4️⃣6️⃣&lt;/td>
+&lt;td style="text-align:center">④⑥&lt;/td>
 &lt;td>tava(ṃ), tayā, te, tumhaṃ, tuyha(ṃ)&lt;/td>
 &lt;td>tumhaṃ, tumhāka(ṃ), tuyhaṃ (possibly), vaṃ, ve, vo&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">7️⃣&lt;/td>
+&lt;td style="text-align:center">⑦&lt;/td>
 &lt;td>tayi, tvayi&lt;/td>
 &lt;td>tumhesu&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
 &lt;p>This is used as the pronoun for &lt;code>paṭhama purisa&lt;/code> (in English, &amp;ldquo;3rd&amp;rdquo; person)&lt;/p>
-&lt;h3 id="-ekavacana">👤 &lt;code>ekavacana&lt;/code>&lt;/h3>
+&lt;h3 id="-ekavacana">⨀ &lt;code>ekavacana&lt;/code>&lt;/h3>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -10188,44 +10466,44 @@ Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td style="text-align:center">1️⃣&lt;/td>
+&lt;td style="text-align:center">①&lt;/td>
 &lt;td>sa, se, so, sū&lt;/td>
 &lt;td>tad-, tadaṃ, taṃ (naṃ), se&lt;/td>
 &lt;td>sā&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">2️⃣&lt;/td>
+&lt;td style="text-align:center">②&lt;/td>
 &lt;td>taṃ (naṃ), te&lt;/td>
 &lt;td>tad-, taṃ (naṃ), se&lt;/td>
 &lt;td>taṃ&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">3️⃣&lt;/td>
+&lt;td style="text-align:center">③&lt;/td>
 &lt;td>tena (nena)&lt;/td>
 &lt;td>tena (nena)&lt;/td>
 &lt;td>tāya (nāya)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">5️⃣&lt;/td>
+&lt;td style="text-align:center">⑤&lt;/td>
 &lt;td>tamhā, tasmā (nasmā), tato, tāto&lt;/td>
 &lt;td>tamhā, tasmā (nasmā), tato, tāto&lt;/td>
 &lt;td>tāya (nāya)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">4️⃣6️⃣&lt;/td>
-&lt;td>asmā, assa, tassa (nassa), tāya (4️⃣)&lt;/td>
-&lt;td>asmā, assa, tassa (nassa), tāya (4️⃣)&lt;/td>
+&lt;td style="text-align:center">④⑥&lt;/td>
+&lt;td>asmā, assa, tassa (nassa), tāya (④)&lt;/td>
+&lt;td>asmā, assa, tassa (nassa), tāya (④)&lt;/td>
 &lt;td>assā, tassā (nassā), tassāya (nassāya), tāya, tissā, tissāya&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">7️⃣&lt;/td>
+&lt;td style="text-align:center">⑦&lt;/td>
 &lt;td>asmiṃ, tamhi, tamhī, tasmiṃ (nasmiṃ)&lt;/td>
 &lt;td>asmiṃ, tamhi, tamhī, tasmiṃ (nasmiṃ)&lt;/td>
 &lt;td>assaṃ, tassaṃ, tāsaṃ (nassaṃ), tāya(ṃ) (nāyaṃ), tissaṃ&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;h3 id="-bahuvacana">👥 &lt;code>bahuvacana&lt;/code>&lt;/h3>
+&lt;h3 id="-bahuvacana">⨂ &lt;code>bahuvacana&lt;/code>&lt;/h3>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -10237,40 +10515,252 @@ Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td style="text-align:center">1️⃣&lt;/td>
+&lt;td style="text-align:center">①&lt;/td>
 &lt;td>te (ne)&lt;/td>
 &lt;td>tāni&lt;/td>
 &lt;td>tā, tāyo&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">2️⃣&lt;/td>
+&lt;td style="text-align:center">②&lt;/td>
 &lt;td>te (ne)&lt;/td>
 &lt;td>tāni&lt;/td>
 &lt;td>tā (nā), tāyo&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">3️⃣&lt;/td>
+&lt;td style="text-align:center">③&lt;/td>
 &lt;td>tebhi, tehi (nehi)&lt;/td>
 &lt;td>tebhi, tehi (nehi)&lt;/td>
 &lt;td>tābhi, tāhi (nāhi)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">5️⃣&lt;/td>
+&lt;td style="text-align:center">⑤&lt;/td>
 &lt;td>tebhi, tehi (nehi)&lt;/td>
 &lt;td>tebhi, tehi (nehi)&lt;/td>
 &lt;td>tābhi, tāhi (nāhi)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">4️⃣6️⃣&lt;/td>
+&lt;td style="text-align:center">④⑥&lt;/td>
 &lt;td>tesaṃ (nesaṃ), tesānaṃ&lt;/td>
 &lt;td>tesaṃ (nesaṃ), tesānaṃ&lt;/td>
 &lt;td>tāsaṃ (nāsaṃ), tāsānaṃ, sānaṃ&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">7️⃣&lt;/td>
+&lt;td style="text-align:center">⑦&lt;/td>
 &lt;td>tesu (nesu)&lt;/td>
 &lt;td>tesu (nesu)&lt;/td>
 &lt;td>tāsu (nāsu)&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item></channel></rss>
+&lt;/table></description></item><item><title>Docs: M: Overview of Kaccāyana</title><link>https://christham.net/buddhavacana/docs/palibook/kaccayana/</link><pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/kaccayana/</guid><description>
+&lt;div class="alert alert-primary" role="alert">
+Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
+&lt;/div>
+&lt;p>The material in this appendix is mostly drawn from a class called
+&lt;a href="https://theravadastudies.org/rainy-season-research-series/#Classanchor">&lt;strong>A Short Introduction to the Kaccāyana Pali Grammar: Its Background, Techniques and Terminology&lt;/strong>&lt;/a>
+taught by Aleix Ruiz-Falqués, Shan State Buddhist University, Taunggyi, Myanmar in 2020.&lt;/p>
+&lt;h2 id="genesis-of-kaccāyana">Genesis of Kaccāyana&lt;/h2>
+&lt;p>There are actually two components of Kaccāyana:&lt;/p>
+&lt;ul>
+&lt;li>&lt;em>Kaccāyana-byājkarana&lt;/em> (circa 6th century CE) and the author is not known
+(but ascribed to Mahā Kaccāyana Thera) -
+this contains the concisely stated rules (called &lt;code>sutta&lt;/code>) that form the
+basis of Pali grammar; and&lt;/li>
+&lt;li>&lt;em>Kaccāyana-vutti&lt;/em> (circa 8th centure CE) by Saṅghanandin, which represents a
+commentary and explanation of the rules together with examples.&lt;/li>
+&lt;/ul>
+&lt;p>Kaccāyana itself draws from multiple earlier sources such as:&lt;/p>
+&lt;ul>
+&lt;li>Prātiśākya treatises, Vedic phonetics (various authors)&lt;/li>
+&lt;li>Pānini&amp;rsquo;s Aṣṭādhyāyī (&amp;ldquo;Eight Lessons&amp;rdquo;)&lt;/li>
+&lt;li>Kātantravyākarana by Šarvavarman&lt;/li>
+&lt;/ul>
+&lt;p>So, Kaccāyana draws and inherits from a long tradition of Sanskrit grammar
+and technical terms. According to Pind (2012) approximately 215 &lt;code>sutta&lt;/code> from
+Kaccāyana are based on Kātantravyākarana, and approximately 300 &lt;code>sutta&lt;/code> are
+modifications from Panini. However, more than half the &lt;code>sutta&lt;/code>
+in Kaccāyana are not derived from Sanskrit, so the grammar as a whole does
+not reflect Sanskrit usage and vocabulary.&lt;/p>
+&lt;h2 id="kaccāyana-structure">Kaccāyana structure&lt;/h2>
+&lt;pre class="mermaid">mindmap
+Kaccāyana
+I. Sandhi
+i. Definitions
+ii. Vowel sandhi
+iii. Consonant sandhi
+Iiv(&amp;#34;iv. niggahīta (ṃ) sandhi&amp;#34;)
+v. Miscellanea
+II. Nāma
+i. Definitions, Internal sandhis, Default Declensions
+ii. Pronominal declension, an-stems
+iii. Pronominal dec. continued, mano-gaṇa, an-stems, tar-stems.
+iv. an-stems cont., feminine stems, adv. pronouns, nta-stems
+v. Adverbial affixes
+vi. KĀRAKA
+vii. SAMĀSA
+viii. TADDHITA
+III. Ākhyāta
+i. Definitions
+ii. Special stems, causatives, bhāva, vb. classes
+iii. Reduplication, Special stems
+iv. Special affixes and stems
+IV. Kibbidhāna
+i. Definition of kicca and kit affixes
+ii. Use of affixes with tenses, voices, etc.
+iii. niṭṭhā affixes
+iv. Modification of vb. stems in primary derivation
+v. UṆĀDI&lt;/pre>
+&lt;h3 id="types-of-rules-in-kaccāyana">Types of rules in Kaccāyana&lt;/h3>
+&lt;p>Several saññā “technical terms”, within an adhikāra “domain”, following
+paribhāsā “metarules”, will be subject to vidhi “operations” in order to
+derive words or sentences.&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+grammar (* Kaccāyana *) = 675 * rule (* sutta *);
+rule =
+technical_term (* saññā *) |
+domain (* adhikāra *) |
+metarule (* paribhāsā *) |
+operation (* vidhi *) ;
+technical_term =
+meaningful (* anvattha *) |
+artificial (* rūḷhī *) ;
+domain =
+lion_way (* sīhagatika *) |
+frog_way (* maṇḍūkagatika *) |
+progressive (* yathānupubbika *) ;
+metarule =
+meta_definition (* saññaṅga *) |
+meta_operation (* vidhyaṅga *) |
+meta_other (* aññaṅga *) ;
+operation =
+replacement (* ādesa *) |
+insertion (* āgama *) |
+modification (* vikāra *) |
+elision (* lopa *) |
+metathesis (* viparīta *) ;
+@endebnf
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startyaml
+saññā:
+- anvattha
+- rūḷhī
+adhikāra:
+- sīhagatika
+- maṇḍūkagatika
+- yathānupubbika
+paribhāsā:
+- saññaṅga
+- vidhyaṅga
+- aññaṅga
+vidhi:
+- ādesa
+- āgama
+- vikāra
+- lopa
+- viparīta
+@endyaml
+&lt;/code>&lt;/pre>&lt;h3 id="how-does-a-vidhi-operation-work">How does a &lt;code>vidhi&lt;/code> (operation) work&lt;/h3>
+&lt;p>Most vidhi “operational” rules teach paccaya “affixation” or ādesa “replacement” using previous definitions (saññā-s). It is all about adding particles to a base, and then replacing them if/when needed.&lt;/p>
+&lt;p>To understand vidhi-s, we should keep in mind the following code of case endings:&lt;/p>
+&lt;ul>
+&lt;li>ABL. = “after X”&lt;/li>
+&lt;li>GEN. = “instead of X”&lt;/li>
+&lt;li>NOM., ACC. = “X”, ādesa (&amp;ldquo;replacement&amp;rdquo;)&lt;/li>
+&lt;li>LOCATIVE1: “before X”&lt;/li>
+&lt;li>LOCATIVE2: “in the sense of X”&lt;/li>
+&lt;/ul>
+&lt;h4 id="affixation-paccaya">Affixation (&lt;code>paccaya&lt;/code>)&lt;/h4>
+&lt;pre class="mermaid">timeline
+Left : Ablative
+: After X
+A : Nominative
+: Affix A is inserted&lt;/pre>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+affixation = ablative (* After X *), nominative (* A is inserted *);
+ablative =
+(nominal_base (* liṅga *) |
+verbal_base (* dhātu *)), &amp;#34;smā&amp;#34; ;
+@endebnf
+&lt;/code>&lt;/pre>&lt;h4 id="replacement-ādesa">Replacement (&lt;code>ādesa&lt;/code>)&lt;/h4>
+&lt;pre class="mermaid">timeline
+Left : Ablative
+: Ablative
+: Ablative
+: After X
+A : Genitive
+: Nominative
+: Nominative
+: Replace A
+B : Nominative
+: Nominative
+: Accusative
+: With B
+Right : Locative
+: Locative
+: Locative
+: Before Y
+Marker : ca (and)
+: api (also)
+: vā (or)
+: kvaci (sometimes)
+: na (not)
+: niccam (required)
+Semantic : Locative
+: &amp;#34;in the sense of ...&amp;#34;&lt;/pre>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+replacement = [ablative (* After X *)],
+(
+(
+genitive (* Instead of A *),
+nominative (* replace with B *)
+) |
+(
+nominative (* Replace A *),
+nominative (* with B *)
+) |
+(
+nominative (* A *),
+accusative (* becomes B *)
+)
+),
+[locative (* Before Y *)], [marker], [semantic (* &amp;#34;in the sense of&amp;#34; *)];
+marker =
+&amp;#34;ca&amp;#34; (* and *) |
+&amp;#34;api&amp;#34; (* also *) |
+&amp;#34;vā&amp;#34; (* or *) |
+&amp;#34;kvaci&amp;#34; (* sometimes *) |
+&amp;#34;na&amp;#34; (* not *) |
+&amp;#34;niccam&amp;#34; (* required *) ;
+@endebnf
+&lt;/code>&lt;/pre>&lt;h4 id="elision-lopaṃ">Elision (&lt;code>lopaṃ&lt;/code>)&lt;/h4>
+&lt;pre class="mermaid">timeline
+Left : Ablative
+: After X
+A : Nominative
+: Instead of A
+lopaṃ: Accusative
+: elision
+Right : Locative
+: Before Y&lt;/pre>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+elision =
+[ablative (* After X *)],
+genitive (* Instead of A *),
+&amp;#34;lopaṃ&amp;#34; (* elision *),
+[locative (* Before Y *)];
+@endebnf
+&lt;/code>&lt;/pre>&lt;h3 id="structure-of-a-rule-sutta">Structure of a rule (&lt;code>sutta&lt;/code>)&lt;/h3>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+rule =
+aphorism (* sutta *),
+gloss (* vutti *),
+{example} (* udāharaṇa *),
+{counter_example} (* kimudāharaṇa *),
+[application] (* payojana *),
+[result] (* gahaṇaphala *);
+@endebnf
+&lt;/code>&lt;/pre>&lt;pre class="mermaid">stateDiagram-v2
+direction LR
+[*] --&amp;gt; upasagga
+[*] --&amp;gt; dhātu
+upasagga --&amp;gt; upasagga
+upasagga --&amp;gt; dhātu
+dhātu --&amp;gt; paccaya&lt;/pre></description></item></channel></rss>

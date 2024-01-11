@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – symbols</title><link>https://christham.net/buddhavacana/tags/symbols/</link><description>Recent content in symbols on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://christham.net/buddhavacana/tags/symbols/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: A: Symbols used in this Book</title><link>https://christham.net/buddhavacana/docs/palibook/symbols/</link><pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/symbols/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – symbols</title><link>https://christham.net/buddhavacana/tags/symbols/</link><description>Recent content in symbols on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://christham.net/buddhavacana/tags/symbols/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: A: Symbols and Glossary of Pali technical terms</title><link>https://christham.net/buddhavacana/docs/palibook/symbols/</link><pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/symbols/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/div>
@@ -27,12 +27,12 @@ Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;td>minor (feminine) gender&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>👤&lt;/td>
+&lt;td>⨀&lt;/td>
 &lt;td>&lt;code>ekavacana&lt;/code>&lt;/td>
 &lt;td>singular&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>👥&lt;/td>
+&lt;td>⨂&lt;/td>
 &lt;td>&lt;code>bahuvacana&lt;/code>&lt;/td>
 &lt;td>plural&lt;/td>
 &lt;/tr>
@@ -72,42 +72,42 @@ Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;td>primary person, equivalent to &amp;lsquo;first person&amp;rsquo; in English&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>0️⃣&lt;/td>
+&lt;td>⓪&lt;/td>
 &lt;td>&lt;code>ālapana&lt;/code>&lt;/td>
 &lt;td>vocative&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>1️⃣&lt;/td>
+&lt;td>①&lt;/td>
 &lt;td>&lt;code>paṭhamā&lt;/code>&lt;/td>
 &lt;td>first case (nominative)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>2️⃣&lt;/td>
+&lt;td>②&lt;/td>
 &lt;td>&lt;code>dutiyā&lt;/code>&lt;/td>
 &lt;td>second case (accusative)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>3️⃣&lt;/td>
+&lt;td>③&lt;/td>
 &lt;td>&lt;code>tatiyā&lt;/code>&lt;/td>
 &lt;td>third case (instrumental)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>4️⃣&lt;/td>
+&lt;td>④&lt;/td>
 &lt;td>&lt;code>catutthī&lt;/code>&lt;/td>
 &lt;td>fourth case (dative)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>5️⃣&lt;/td>
+&lt;td>⑤&lt;/td>
 &lt;td>&lt;code>pañcamī&lt;/code>&lt;/td>
 &lt;td>fifth case (ablative)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>6️⃣&lt;/td>
+&lt;td>⑥&lt;/td>
 &lt;td>&lt;code>chaṭṭhī&lt;/code>&lt;/td>
 &lt;td>sixth case (genitive)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>7️⃣&lt;/td>
+&lt;td>⑦&lt;/td>
 &lt;td>&lt;code>sattamī&lt;/code>&lt;/td>
 &lt;td>seventh case (locative)&lt;/td>
 &lt;/tr>
@@ -177,4 +177,84 @@ Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;td>conditional&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item></channel></rss>
+&lt;/table>
+&lt;h2 id="phonological-terminology">Phonological Terminology&lt;/h2>
+&lt;dl>
+&lt;dt>dīgha&lt;/dt>
+&lt;dd>long&lt;/dd>
+&lt;dt>rassa&lt;/dt>
+&lt;dd>short&lt;/dd>
+&lt;dt>garuka&lt;/dt>
+&lt;dd>metrically long&lt;/dd>
+&lt;dt>lahuka&lt;/dt>
+&lt;dd>metrically short&lt;/dd>
+&lt;dt>sambaddha&lt;/dt>
+&lt;dd>connected utterance&lt;/dd>
+&lt;dt>vavatthita&lt;/dt>
+&lt;dd>disjoint utterance&lt;/dd>
+&lt;dt>sithila&lt;/dt>
+&lt;dd>non-aspirated stops&lt;/dd>
+&lt;dt>dhanita&lt;/dt>
+&lt;dd>aspirated stops&lt;/dd>
+&lt;dt>niggahīta&lt;/dt>
+&lt;dd>nasal&lt;/dd>
+&lt;dt>vimutta&lt;/dt>
+&lt;dd>oral&lt;/dd>
+&lt;/dl>
+&lt;h2 id="case-terminology">Case terminology&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">Symbol&lt;/th>
+&lt;th style="text-align:center">English&lt;/th>
+&lt;th style="text-align:center">Aṭṭhakathā&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">①&lt;/td>
+&lt;td style="text-align:center">nominative&lt;/td>
+&lt;td style="text-align:center">paccatta&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">②&lt;/td>
+&lt;td style="text-align:center">accusative&lt;/td>
+&lt;td style="text-align:center">upayoga&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">③&lt;/td>
+&lt;td style="text-align:center">instrumental&lt;/td>
+&lt;td style="text-align:center">karaṇa&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">④&lt;/td>
+&lt;td style="text-align:center">dative&lt;/td>
+&lt;td style="text-align:center">sampadāna&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">⑤&lt;/td>
+&lt;td style="text-align:center">ablative&lt;/td>
+&lt;td style="text-align:center">nissakka&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">⑥&lt;/td>
+&lt;td style="text-align:center">genitive&lt;/td>
+&lt;td style="text-align:center">sāmi&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">⑦&lt;/td>
+&lt;td style="text-align:center">locative&lt;/td>
+&lt;td style="text-align:center">bhumma&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">⓪&lt;/td>
+&lt;td style="text-align:center">vocative&lt;/td>
+&lt;td style="text-align:center">ālapana&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="types-of-nominals">Types of nominals&lt;/h2>
+&lt;ul>
+&lt;li>Technical Terms and Technique of the Pali and the Sanskrit Grammars, Mahesh
+A Deokar, Central Institute of Higher Tibetan Studies (2008)&lt;/li>
+&lt;/ul></description></item></channel></rss>

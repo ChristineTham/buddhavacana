@@ -1,12 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – Sutta Piṭaka</title><link>https://christham.net/buddhavacana/docs/sutta/</link><description>Recent content in Sutta Piṭaka on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://christham.net/buddhavacana/docs/sutta/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: cattāri ariyasaccāni</title><link>https://christham.net/buddhavacana/docs/sutta/4truths/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/4truths/</guid><description>
-&lt;p>dukkham samudayo nirodho magga&lt;/p>
+&lt;p>The basic teaching of the four noble truths (&lt;code>dukkham samudayo nirodho magga&lt;/code>) can be expressed as a medical diagnosis (&lt;a href="https://www.buddhismuskunde.uni-hamburg.de/pdf/4-publikationen/hamburg-buddhist-studies/hamburgup-hbs2-analayo-abhidharma.pdf">The Dawn of Abhidharma&lt;/a> p. 113):&lt;/p>
+&lt;ul>
+&lt;li>disease: duḥkha&lt;/li>
+&lt;li>pathogen: craving&lt;/li>
+&lt;li>health: nirvāṇa&lt;/li>
+&lt;li>cure: eightfold path&lt;/li>
+&lt;/ul>
 &lt;h2 id="cattāri-ariyasaccāni">cattāri ariyasaccāni&lt;/h2>
-&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
-markmap:
-zoom: false
-pan: false
----
-# cattāri ariyasaccāni
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap"># cattāri ariyasaccāni
 ## dukkham
 - pain
 - incapable of suffering
@@ -58,16 +59,16 @@ english(I)
 }
 class bhikkhave {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👥0️⃣
+🚹⨂⓪
 }
 class aññaṃ {
 &amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
-🚹👤2️⃣
+🚹⨀②
 english(other)
 }
 class ekadhammaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤2️⃣
+🚹⨀②
 english(one thing)
 }
 class pi {
@@ -76,12 +77,12 @@ english(too)
 }
 class samanupassāmi {
 &amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤👆vattamāna
+⨀👆vattamāna
 english(I perceive)
 }
 class yaṃ {
 &amp;lt;&amp;lt;anvayīnāma&amp;gt;&amp;gt;
-🚻👤2️⃣
+🚻⨀②
 english(which)
 }
 class evaṃ {
@@ -91,25 +92,25 @@ english(thus)
 namespace adjective {
 class adantaṃ {
 &amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-👤2️⃣
+⨀②
 english(unrestrained)
 }
 }
 class mahato {
 &amp;lt;&amp;lt;guṇanāma&amp;gt;&amp;gt;
-👤6️⃣
+⨀⑥
 english(of great)
 }
 namespace result {
 class anatthāya {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤6️⃣
+🚹⨀⑥
 english(of harm)
 }
 }
 class saṃvattati {
 &amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤🤟vattamāna
+⨀🤟vattamāna
 english(leads to)
 }
 class yatha {
@@ -118,12 +119,12 @@ english(as)
 }
 class idaṃ {
 &amp;lt;&amp;lt;puggalanāma&amp;gt;&amp;gt;
-🚻👤2️⃣
+🚻⨀②
 english(this)
 }
 class cittaṃ {
 &amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
-🚻👤1️⃣
+🚻⨀①
 english(mind)
 }
 sentence *-- na
@@ -164,35 +165,35 @@ english(The mind, bhikkhus, untrained, leads to great harm.)
 }
 class cittaṃ {
 &amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
-🚻👤1️⃣
+🚻⨀①
 english(mind)
 }
 class bhikkhave {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👥0️⃣
+🚹⨂⓪
 }
 namespace adjective {
 class adantaṃ {
 &amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-👤2️⃣
+⨀②
 english(unrestrained)
 }
 }
 class mahato {
 &amp;lt;&amp;lt;guṇanāma&amp;gt;&amp;gt;
-👤6️⃣
+⨀⑥
 english(of great)
 }
 namespace result {
 class anatthāya {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤6️⃣
+🚹⨀⑥
 english(of harm)
 }
 }
 class saṃvattati {
 &amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤🤟vattamāna
+⨀🤟vattamāna
 english(leads to)
 }
 sentence *-- cittaṃ
@@ -209,44 +210,44 @@ cittaṃ --&amp;gt; saṃvattati&lt;/pre>
 namespace adjective {
 class adantaṃ {
 &amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-👤2️⃣
+⨀②
 english(unrestrained)
 }
 class dantaṃ {
 &amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-👤2️⃣
+⨀②
 english(restrained)
 }
 class aguttaṃ {
 &amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-👤2️⃣
+⨀②
 english(unguarded)
 }
 class guttaṃ {
 &amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-👤2️⃣
+⨀②
 english(guarded)
 }
 class arakkhitaṃ {
 &amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-👤2️⃣
+⨀②
 english(unprotected)
 }
 class rakkhitaṃ {
 &amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-👤2️⃣
+⨀②
 english(protected)
 }
 }
 namespace result {
 class anatthāya {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤6️⃣
+🚹⨀⑥
 english(of harm)
 }
 class atthāya {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤6️⃣
+🚹⨀⑥
 english(of benefit)
 }
 }
@@ -330,16 +331,16 @@ english(I)
 }
 class bhikkhave {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👥0️⃣
+🚹⨂⓪
 }
 class aññaṃ {
 &amp;lt;&amp;lt;sabbanāma&amp;gt;&amp;gt;
-🚹👤2️⃣
+🚹⨀②
 english(other)
 }
 class ekadhammaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤2️⃣
+🚹⨀②
 english(one thing)
 }
 class pi {
@@ -348,18 +349,18 @@ english(too)
 }
 class samanupassāmi {
 &amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤👆vattamāna
+⨀👆vattamāna
 english(I perceive)
 }
 class yena {
 &amp;lt;&amp;lt;anvayīnāma&amp;gt;&amp;gt;
-🚻👤2️⃣
+🚻⨀②
 english(by when)
 }
 namespace result {
 class kāmacchando {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤1️⃣
+🚹⨀①
 english(sensual desire)
 }
 }
@@ -370,33 +371,33 @@ english(or)
 }
 class anuppanno {
 &amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-🚹👤1️⃣
+🚹⨀①
 english(nonexistent)
 }
 class uppajjati {
 &amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤🤟vattamāna
+⨀🤟vattamāna
 english(arises)
 }
 class uppanno {
 &amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-🚹👤1️⃣
+🚹⨀①
 english(appeared)
 }
 class bhiyyobhāvāya {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤4️⃣
+🚹⨀④
 english(increase of)
 }
 class vepullāya {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤4️⃣
+🚻⨀④
 english(growth of)
 }
 }
 class saṃvattati {
 &amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤🤟vattamāna
+⨀🤟vattamāna
 english(leads to)
 }
 class yatha {
@@ -405,18 +406,18 @@ english(as)
 }
 class idaṃ {
 &amp;lt;&amp;lt;puggalanāma&amp;gt;&amp;gt;
-🚻👤2️⃣
+🚻⨀②
 english(this)
 }
 namespace trigger {
 class subhanimittaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤2️⃣
+🚻⨀②
 english(beauty)
 }
 class asubhanimittaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤1️⃣
+🚻⨀①
 english(repulsiveness)
 }
 }
@@ -465,13 +466,13 @@ english([Beauty/Repulsiveness], bhikkhus, when [a person] dwells on it imprudent
 namespace trigger {
 class subhanimittaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤1️⃣
+🚻⨀①
 english(beauty)
 }
 }
 class bhikkhave {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👥0️⃣
+🚹⨂⓪
 }
 class ayoniso {
 &amp;lt;&amp;lt;kriyā&amp;gt;&amp;gt;
@@ -479,18 +480,18 @@ english(imprudently)
 }
 class manasi {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤1️⃣
+🚹⨀①
 english(mind)
 }
 class karoto {
 &amp;lt;&amp;lt;missakiriya&amp;gt;&amp;gt;
-👤1️⃣
+⨀①
 english(doing)
 }
 namespace result {
 class kāmacchando {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤1️⃣
+🚹⨀①
 english(sensual desire)
 }
 }
@@ -505,33 +506,33 @@ english(and)
 }
 class anuppanno {
 &amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-🚹👤1️⃣
+🚹⨀①
 english(nonexistent)
 }
 class uppajjati {
 &amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤🤟vattamāna
+⨀🤟vattamāna
 english(arises)
 }
 class uppanno {
 &amp;lt;&amp;lt;atītakiriya&amp;gt;&amp;gt;
-🚹👤1️⃣
+🚹⨀①
 english(appeared)
 }
 class bhiyyobhāvāya {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤4️⃣
+🚹⨀④
 english(increase of)
 }
 class vepullāya {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤4️⃣
+🚻⨀④
 english(growth of)
 }
 }
 class saṃvattati {
 &amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤🤟vattamāna
+⨀🤟vattamāna
 english(leads to)
 }
 sentence *-- subhanimittaṃ
@@ -572,28 +573,28 @@ english(thoughts of agitation)
 }
 class ayonisomanasikāro {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤1️⃣
+🚹⨀①
 english(imprudent use of mind)
 }
 namespace trigger {
 class subhanimittaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤1️⃣
+🚻⨀①
 english(beauty)
 }
 class paṭighanimittaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤1️⃣
+🚻⨀①
 english(dislike)
 }
 class līnacittassa {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤6️⃣
+🚻⨀⑥
 english(of sluggish mind)
 }
 class avūpasantacittassa {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤6️⃣
+🚻⨀⑥
 english(of agitated mind)
 }
 class ayoniso {
@@ -604,49 +605,49 @@ english(imprudently)
 namespace result {
 class kāmacchando {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤1️⃣
+🚹⨀①
 english(sensual desire)
 }
 class byāpādo {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤1️⃣
+🚹⨀①
 english(ill will)
 }
 class thinamiddhaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤1️⃣
+🚻⨀①
 english(sloth and torpor)
 }
 class uddhaccakukkuccaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤1️⃣
+🚻⨀①
 english(restlessness and fidgetiness)
 }
 class vicikicchā {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚺👤1️⃣
+🚺⨀①
 english(doubt)
 }
 }
 namespace nontrigger {
 class asubhanimittaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤1️⃣
+🚻⨀①
 english(repulsiveness)
 }
 class mettaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤1️⃣
+🚻⨀①
 english(benevolence)
 }
 class āraddhavīriyassa {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤6️⃣
+🚻⨀⑥
 english(who is energetic)
 }
 class vūpasantacittassa {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚻👤6️⃣
+🚻⨀⑥
 english(of calm mind)
 }
 class yoniso {
@@ -687,12 +688,12 @@ english((For the second/third time) I go to the Buddha/Dhamma/Sangha as refuge)
 namespace saṅkhyāpūraṇa {
 class dutiyaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-2️⃣
+②
 english(second time)
 }
 class tatiyaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-2️⃣
+②
 english(third time)
 }
 }
@@ -703,25 +704,25 @@ english(too)
 namespace saraṇa {
 class buddhaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤2️⃣
+🚹⨀②
 }
 class dhammaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤2️⃣
+🚹⨀②
 }
 class saṅghaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤2️⃣
+🚹⨀②
 }
 }
 class saraṇaṃ {
 &amp;lt;&amp;lt;nāma&amp;gt;&amp;gt;
-🚹👤2️⃣
+🚹⨀②
 english(as refuge)
 }
 class gacchāmi {
 &amp;lt;&amp;lt;ākhyāta&amp;gt;&amp;gt;
-👤👆vattamāna
+⨀👆vattamāna
 english(I go)
 }
 sentence *-- dutiyaṃ
@@ -759,7 +760,425 @@ buddhaṃ --&amp;gt; join_state
 dhammaṃ --&amp;gt; join_state
 saṅghaṃ --&amp;gt; join_state
 join_state --&amp;gt; saraṇaṃ
-saraṇaṃ --&amp;gt; fork_state : dutiyampi, tatiyampi&lt;/pre></description></item><item><title>Docs: cattāro satipaṭṭhānā</title><link>https://christham.net/buddhavacana/docs/sutta/4meditation/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/4meditation/</guid><description>
+saraṇaṃ --&amp;gt; fork_state : dutiyampi, tatiyampi&lt;/pre></description></item><item><title>Docs: saḷāyatanavibhaṅgo</title><link>https://christham.net/buddhavacana/docs/sutta/6senses/</link><pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/6senses/</guid><description>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
+markmap:
+maxWidth: 500
+initialExpandLevel: 2
+---
+# saḷāyatanavibhaṅgo
+## cha ajjhattikāni āyatanāni
+### cakkhāyatanaṁ
+### sotāyatanaṁ
+### ghānāyatanaṁ
+### jivhāyatanaṁ
+### kāyāyatanaṁ
+### manāyatanaṁ
+## cha bāhirāni āyatanāni
+### rūpāyatanaṁ
+### saddāyatanaṁ
+### gandhāyatanaṁ
+### rasāyatanaṁ
+### phoṭṭhabbāyatanaṁ
+### dhammāyatanaṁ
+## cha viññāṇakāyā
+### cakkhuviññāṇaṁ
+### sotaviññāṇaṁ
+### ghānaviññāṇaṁ
+### jivhāviññāṇaṁ
+### kāyaviññāṇaṁ
+### manoviññāṇaṁ
+## cha phassakāyā
+### cakkhusamphasso
+### sotasamphasso
+### ghānasamphasso
+### jivhāsamphasso
+### kāyasamphasso
+### manosamphasso
+## aṭṭhārasa manopavicārā
+### cakkhunā rūpaṁ disvā
+#### somanassaṭṭhānīyaṁ rūpaṁ upavicarati
+#### domanassaṭṭhānīyaṁ rūpaṁ upavicarati
+#### upekkhāṭṭhānīyaṁ rūpaṁ upavicarati
+### Sotena saddaṁ sutvā
+#### somanassaṭṭhānīyaṁ rūpaṁ upavicarati
+#### domanassaṭṭhānīyaṁ rūpaṁ upavicarati
+#### upekkhāṭṭhānīyaṁ rūpaṁ upavicarati
+### ghānena gandhaṁ ghāyitvā
+#### somanassaṭṭhānīyaṁ rūpaṁ upavicarati
+#### domanassaṭṭhānīyaṁ rūpaṁ upavicarati
+#### upekkhāṭṭhānīyaṁ rūpaṁ upavicarati
+### jivhāya rasaṁ sāyitvā
+#### somanassaṭṭhānīyaṁ rūpaṁ upavicarati
+#### domanassaṭṭhānīyaṁ rūpaṁ upavicarati
+#### upekkhāṭṭhānīyaṁ rūpaṁ upavicarati
+### kāyena phoṭṭhabbaṁ phusitvā
+#### somanassaṭṭhānīyaṁ rūpaṁ upavicarati
+#### domanassaṭṭhānīyaṁ rūpaṁ upavicarati
+#### upekkhāṭṭhānīyaṁ rūpaṁ upavicarati
+### manasā dhammaṁ viññāya
+#### somanassaṭṭhānīyaṁ dhammaṁ upavicarati
+#### domanassaṭṭhānīyaṁ dhammaṁ upavicarati
+#### upekkhāṭṭhānīyaṁ dhammaṁ upavicarati
+## chattiṁsa sattapadā
+### cha gehasitāni somanassāni
+- Cakkhuviññeyyānaṁ rūpānaṁ iṭṭhānaṁ kantānaṁ manāpānaṁ manoramānaṁ lokāmisapaṭisaṁyuttānaṁ paṭilābhaṁ vā paṭilābhato samanupassato pubbe vā paṭiladdhapubbaṁ atītaṁ niruddhaṁ vipariṇataṁ samanussarato uppajjati somanassaṁ. Yaṁ evarūpaṁ somanassaṁ idaṁ vuccati nekkhammasitaṁ somanassaṁ.
+- Sotaviññeyyānaṁ saddānaṁ …
+- ghānaviññeyyānaṁ gandhānaṁ …
+- jivhāviññeyyānaṁ rasānaṁ …
+- kāyaviññeyyānaṁ phoṭṭhabbānaṁ …
+- manoviññeyyānaṁ dhammānaṁ …
+### cha nekkhammasitāni somanassāni
+- Rūpānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva rūpā etarahi ca sabbe te rūpā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya passato uppajjati somanassaṁ. Yaṁ evarūpaṁ somanassaṁ idaṁ vuccati nekkhammasitaṁ somanassaṁ
+- Saddānaṁ tveva …
+- gandhānaṁ tveva …
+- rasānaṁ tveva …
+- phoṭṭhabbānaṁ tveva …
+- dhammānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva dhammā etarahi ca sabbe te dhammā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya passato uppajjati somanassaṁ. Yaṁ evarūpaṁ somanassaṁ idaṁ vuccati nekkhammasitaṁ somanassaṁ.
+### cha gehasitāni domanassāni
+- Cakkhuviññeyyānaṁ rūpānaṁ … pe…
+- sotaviññeyyānaṁ saddānaṁ …
+- ghānaviññeyyānaṁ gandhānaṁ …
+- jivhāviññeyyānaṁ rasānaṁ …
+- kāyaviññeyyānaṁ phoṭṭhabbānaṁ …
+- manoviññeyyānaṁ dhammānaṁ iṭṭhānaṁ kantānaṁ manāpānaṁ manoramānaṁ lokāmisapaṭisaṁyuttānaṁ appaṭilābhaṁ vā appaṭilābhato samanupassato pubbe vā appaṭiladdhapubbaṁ atītaṁ niruddhaṁ vipariṇataṁ samanussarato uppajjati domanassaṁ. Yaṁ evarūpaṁ domanassaṁ idaṁ vuccati gehasitaṁ domanassaṁ.
+### cha nekkhammasitāni domanassāni
+- Rūpānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva rūpā etarahi ca sabbe te rūpā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anuttaresu vimokkhesu pihaṁ upaṭṭhāpeti: ‘kudāssu nāmāhaṁ tadāyatanaṁ upasampajja viharissāmi yadariyā etarahi āyatanaṁ upasampajja viharantī’ti iti anuttaresu vimokkhesu pihaṁ upaṭṭhāpayato uppajjati pihapaccayā domanassaṁ. Yaṁ evarūpaṁ domanassaṁ idaṁ vuccati nekkhammasitaṁ domanassaṁ.
+- Saddānaṁ tveva …pe…
+- gandhānaṁ tveva …
+- rasānaṁ tveva …
+- phoṭṭhabbānaṁ tveva …
+- dhammānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva dhammā etarahi ca sabbe te dhammā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anuttaresu vimokkhesu pihaṁ upaṭṭhāpeti: ‘kudāssu nāmāhaṁ tadāyatanaṁ upasampajja viharissāmi yadariyā etarahi āyatanaṁ upasampajja viharantī’ti iti anuttaresu vimokkhesu pihaṁ upaṭṭhāpayato uppajjati pihapaccayā domanassaṁ. Yaṁ evarūpaṁ domanassaṁ idaṁ vuccati nekkhammasitaṁ domanassaṁ.
+### cha gehasitā upekkhā
+- Cakkhunā rūpaṁ disvā uppajjati upekkhā bālassa mūḷhassa puthujjanassa anodhijinassa avipākajinassa anādīnavadassāvino assutavato puthujjanassa. Yā evarūpā upekkhā, rūpaṁ sā nātivattati. Tasmā sā upekkhā ‘gehasitā’ti vuccati.
+- Sotena saddaṁ sutvā …
+- ghānena gandhaṁ ghāyitvā …
+- jivhāya rasaṁ sāyitvā …
+- kāyena phoṭṭhabbaṁ phusitvā …
+- manasā dhammaṁ viññāya uppajjati upekkhā bālassa mūḷhassa puthujjanassa anodhijinassa avipākajinassa anādīnavadassāvino assutavato puthujjanassa. Yā evarūpā upekkhā, dhammaṁ sā nātivattati. Tasmā sā upekkhā ‘gehasitā’ti vuccati.
+### cha nekkhammasitā upekkhā
+- Rūpānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva rūpā etarahi ca sabbe te rūpā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya passato uppajjati upekkhā. Yā evarūpā upekkhā, rūpaṁ sā ativattati. Tasmā sā upekkhā ‘nekkhammasitā’ti vuccati.
+- Saddānaṁ tveva …
+- gandhānaṁ tveva …
+- rasānaṁ tveva …
+- phoṭṭhabbānaṁ tveva …
+- dhammānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva dhammā etarahi ca sabbe te dhammā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya passato uppajjati upekkhā. Yā evarūpā upekkhā, dhammaṁ sā ativattati. Tasmā sā upekkhā ‘nekkhammasitā’ti vuccati.
+&lt;/code>&lt;/pre>&lt;h2 id="reference">Reference&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://suttacentral.net/mn137">Saḷāyatanavibhaṅgasutta MN 137 PTS 3.216–3.222&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Docs: paṭiccasamuppādo</title><link>https://christham.net/buddhavacana/docs/sutta/deporig/</link><pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/deporig/</guid><description>
+&lt;p>(DN15):&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>hetu&lt;/code> (root, cause, reason, condition)&lt;/li>
+&lt;li>&lt;code>nidānaṁ&lt;/code> (cause, ground, underlying and determining factor)&lt;/li>
+&lt;li>&lt;code>samudayo&lt;/code> (rise, origin)&lt;/li>
+&lt;li>&lt;code>paccayo&lt;/code> (support, requirement, reason, cause, ground, motive, means, condition)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;code>kevalassa dukkhakkhandhassa samudayo&lt;/code> (origin of the entire mass of suffering)&lt;/p>
+&lt;h2 id="dvādasaṅga">dvādasaṅga&lt;/h2>
+&lt;p>12 link dependent origination&lt;/p>
+&lt;pre class="mermaid">stateDiagram-v2
+[*] --&amp;gt; avijjā
+state fork_state &amp;lt;&amp;lt;fork&amp;gt;&amp;gt;
+state join_state &amp;lt;&amp;lt;join&amp;gt;&amp;gt;
+avijjā --&amp;gt; saṅkhārā
+saṅkhārā --&amp;gt; viññāṇaṁ
+viññāṇaṁ --&amp;gt; nāmarūpaṁ
+nāmarūpaṁ --&amp;gt; viññāṇaṁ : SN 12.67
+nāmarūpaṁ --&amp;gt; saḷāyatanaṁ
+saḷāyatanaṁ --&amp;gt; phasso
+phasso --&amp;gt; vedanā
+vedanā --&amp;gt; taṇhā
+taṇhā --&amp;gt; upādānaṁ
+upādānaṁ --&amp;gt; bhavo
+bhavo --&amp;gt; jāti
+jāti --&amp;gt; fork_state
+fork_state --&amp;gt; jarāmaraṇaṁ
+fork_state --&amp;gt; sokaparidevadukkhadomanassupāyāsā
+jarāmaraṇaṁ --&amp;gt; join_state
+sokaparidevadukkhadomanassupāyāsā --&amp;gt; join_state
+state jarāmaraṇaṁ {
+[*] --&amp;gt; jarā
+[*] --&amp;gt; maraṇaṁ
+}
+state sokaparidevadukkhadomanassupāyāsā {
+[*] --&amp;gt; soko
+[*] --&amp;gt; paridevo
+[*] --&amp;gt; dukkho
+[*] --&amp;gt; domanassaṃ
+[*] --&amp;gt; upāyāso
+}
+join_state --&amp;gt; [*]&lt;/pre>
+&lt;h2 id="transcendental-dependent-origination">Transcendental Dependent Origination&lt;/h2>
+&lt;pre class="mermaid">flowchart TB
+subgraph paṭiccasamuppādo
+direction LR
+avijjā --&amp;gt; saṅkhārā
+saṅkhārā --&amp;gt; viññāṇaṁ
+viññāṇaṁ --&amp;gt; nāmarūpaṁ
+nāmarūpaṁ --&amp;gt; saḷāyatanaṁ
+saḷāyatanaṁ --&amp;gt; phasso
+phasso --&amp;gt; vedanā
+vedanā --&amp;gt; taṇhā
+taṇhā --&amp;gt; upādānaṁ
+upādānaṁ --&amp;gt; bhavo
+bhavo --&amp;gt; jāti
+end
+subgraph transcendental
+direction LR
+saddho --&amp;gt; pāmojjaṃ
+pāmojjaṃ --&amp;gt; pīti
+pīti --&amp;gt; passaddhi
+passaddhi --&amp;gt; sukho
+sukho --&amp;gt; samādhi
+samādhi --&amp;gt; yathābhūtañāṇadassanaṃ
+yathābhūtañāṇadassanaṃ --&amp;gt; nibbidā
+nibbidā --&amp;gt; virāgo
+virāgo --&amp;gt; vimutti
+vimutti --&amp;gt; khayeñāṇaṁ
+end
+paṭiccasamuppādo --&amp;gt; transcendental&lt;/pre>
+&lt;h2 id="wrong-vs-right-practice-sn-123">Wrong vs Right practice (SN 12.3)&lt;/h2>
+&lt;pre class="mermaid">sequenceDiagram
+alt micchāpaṭipadā
+avijjā-&amp;gt;&amp;gt;saṅkhārā: paccayā
+saṅkhārā -&amp;gt;&amp;gt; viññāṇaṁ: paccayā
+viññāṇaṁ -&amp;gt;&amp;gt; nāmarūpaṁ: paccayā
+nāmarūpaṁ -&amp;gt;&amp;gt; saḷāyatanaṁ: paccayā
+saḷāyatanaṁ -&amp;gt;&amp;gt; phasso: paccayā
+phasso -&amp;gt;&amp;gt; vedanā: paccayā
+vedanā -&amp;gt;&amp;gt; taṇhā: paccayā
+taṇhā -&amp;gt;&amp;gt; upādānaṁ: paccayā
+upādānaṁ -&amp;gt;&amp;gt; bhavo: paccayā
+bhavo -&amp;gt;&amp;gt; jāti: paccayā
+else sammāpaṭipadā
+avijjā-&amp;gt;&amp;gt;saṅkhārā: asesavirāganirodhā
+saṅkhārā -&amp;gt;&amp;gt; viññāṇaṁ: asesavirāganirodhā
+viññāṇaṁ -&amp;gt;&amp;gt; nāmarūpaṁ: asesavirāganirodhā
+nāmarūpaṁ -&amp;gt;&amp;gt; saḷāyatanaṁ: asesavirāganirodhā
+saḷāyatanaṁ -&amp;gt;&amp;gt; phasso: asesavirāganirodhā
+phasso -&amp;gt;&amp;gt; vedanā: asesavirāganirodhā
+vedanā -&amp;gt;&amp;gt; taṇhā: asesavirāganirodhā
+taṇhā -&amp;gt;&amp;gt; upādānaṁ: asesavirāganirodhā
+upādānaṁ -&amp;gt;&amp;gt; bhavo: asesavirāganirodhā
+bhavo -&amp;gt;&amp;gt; jāti: asesavirāganirodhā
+end&lt;/pre>
+&lt;h2 id="analysis-sn-122">Analysis (SN 12.2)&lt;/h2>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap"># paṭiccasamuppādo
+## avijjā
+- dukkhe aññāṇaṁ
+- dukkhasamudaye aññāṇaṁ
+- dukkhanirodhe aññāṇaṁ
+- dukkhanirodhagāminiyā paṭipadāya aññāṇaṁ
+## saṅkhārā
+- kāyasaṅkhāro
+- vacīsaṅkhāro
+- cittasaṅkhāro
+&lt;/code>&lt;/pre>&lt;pre class="mermaid">mindmap
+avijjā
+dukkhe aññāṇaṁ
+dukkhasamudaye aññāṇaṁ
+dukkhanirodhe aññāṇaṁ
+dukkhanirodhagāminiyā paṭipadāya aññāṇaṁ&lt;/pre>
+&lt;pre class="mermaid">mindmap
+saṅkhārā
+kāyasaṅkhāro
+vacīsaṅkhāro
+cittasaṅkhāro&lt;/pre>
+&lt;pre class="mermaid">mindmap
+viññāṇaṁ
+cakkhuviññāṇaṁ
+sotaviññāṇaṁ
+ghānaviññāṇaṁ
+jivhāviññāṇaṁ
+kāyaviññāṇaṁ
+manoviññāṇaṁ&lt;/pre>
+&lt;pre class="mermaid">mindmap
+nāmarūpaṁ
+nāmaṁ
+vedanā
+saññā
+cetanā
+phasso
+manasikāro
+rūpaṁ
+cattāro mahābhūtā
+catunnañ mahābhūtānaṁ upādāyarūpaṁ&lt;/pre>
+&lt;pre class="mermaid">mindmap
+saḷāyatanaṁ
+cakkhāyatanaṁ
+sotāyatanaṁ
+ghānāyatanaṁ
+jivhāyatanaṁ
+kāyāyatanaṁ
+manāyatanaṁ&lt;/pre>
+&lt;pre class="mermaid">mindmap
+phasso
+cakkhusamphasso
+sotasamphasso
+ghānasamphasso
+jivhāsamphasso
+kāyasamphasso
+manosamphasso&lt;/pre>
+&lt;pre class="mermaid">mindmap
+vedanā
+cakkhusamphassajā vedanā
+sotasamphassajā vedanā
+ghānasamphassajā vedanā
+jivhāsamphassajā vedanā
+kāyasamphassajā vedanā
+manosamphassajā vedanā&lt;/pre>
+&lt;pre class="mermaid">mindmap
+taṇhā
+rūpataṇhā
+saddataṇhā
+gandhataṇhā
+rasataṇhā
+phoṭṭhabbataṇhā
+dhammataṇhā&lt;/pre>
+&lt;pre class="mermaid">mindmap
+upādānaṁ
+kāmupādānaṁ
+diṭṭhupādānaṁ
+sīlabbatupādānaṁ
+attavādupādānaṁ&lt;/pre>
+&lt;pre class="mermaid">mindmap
+bhavo
+kāmabhavo
+rūpabhavo
+arūpabhavo&lt;/pre>
+&lt;pre class="mermaid">mindmap
+jāti
+jāti
+sañjāti
+okkanti
+abhinibbatti
+khandhānaṁ pātubhāvo
+āyatanānaṁ paṭilābho&lt;/pre>
+&lt;pre class="mermaid">mindmap
+jarāmaraṇaṁ
+jarā
+jarā
+jīraṇatā
+khaṇḍiccaṁ
+pāliccaṁ
+valittacatā
+āyuno saṁhāni
+indriyānaṁ paripāko
+maraṇaṁ
+cuti
+cavanatā bhedo
+antaradhānaṁ
+maccu
+maraṇaṁ
+kālakiriyā
+khandhānaṁ bhedo
+kaḷevarassa nikkhepo&lt;/pre>
+&lt;pre class="mermaid">mindmap
+āhāro
+kabaḷīkāro āhāro
+oḷāriko
+sukhumo
+phasso
+manosañcetanā
+viññāṇaṁ&lt;/pre>
+&lt;pre class="mermaid">mindmap
+dasabalasamannāgato
+rūpaṁ
+samudayo
+atthaṅgamo
+vedanā
+samudayo
+atthaṅgamo
+saññā
+samudayo
+atthaṅgamo
+saṅkhārā
+samudayo
+atthaṅgamo
+viññāṇaṁ
+samudayo
+atthaṅgamo&lt;/pre>
+&lt;pre class="mermaid">mindmap
+vesārajjaṃ
+imasmiṁ sati idaṁ hoti
+imassuppādā idaṁ uppajjati
+imasmiṁ asati idaṁ na hoti
+imassa nirodhā idaṁ nirujjhati&lt;/pre>
+&lt;h2 id="paṭiccasamuppannā-dhammā-dependent-origination-characteristics-sn-1220">paṭiccasamuppannā dhammā (Dependent origination characteristics) SN 12.20&lt;/h2>
+&lt;p>This sutta is written in a satirical style (similar to that in AN 3.136) where the Buddha uses the formula for dependent origination to refute core Vedic beliefs, including the Vedic creation myth. The satirical text plays on the Vedic preoccupation with &lt;code>dhamma&lt;/code> as regular, invariant natural principles.&lt;/p>
+&lt;p>The parallels between the Dependent Origination links and core Vedic beliefs are explored by Joanna Jurewicz in &lt;strong>Playing with Fire: The pratītyasamutpāda from the perspective of Vedic thought&lt;/strong>, Journal of the Pali Text Society 26 (2000) pp. 77 – 103.&lt;/p>
+&lt;pre class="mermaid">flowchart LR
+paṭiccasamuppādo --&amp;gt; aniccaṁ
+paṭiccasamuppādo --&amp;gt; saṅkhataṁ
+paṭiccasamuppādo --&amp;gt; paṭiccasamuppannaṁ
+paṭiccasamuppādo --&amp;gt; khayadhammaṁ
+paṭiccasamuppādo --&amp;gt; vayadhammaṁ
+paṭiccasamuppādo --&amp;gt; virāgadhammaṁ
+paṭiccasamuppādo --&amp;gt; nirodhadhammaṁ&lt;/pre>
+&lt;h2 id="naḷakalāpīsutta-sn-1267">Naḷakalāpīsutta (SN 12.67)&lt;/h2>
+&lt;pre class="mermaid">flowchart LR
+c1&amp;gt;na sayaṅkataṁ]
+c2&amp;gt;na paraṅkataṁ]
+c3&amp;gt;na sayaṅkatañca paraṅkatañca]
+c4&amp;gt;nāpi asayaṅkāraṁ aparaṅkāraṁ adhiccasamuppannaṁ]
+subgraph paṭiccasamuppādo
+direction TB
+viññāṇaṁ --&amp;gt; nāmarūpaṁ
+nāmarūpaṁ --&amp;gt; saḷāyatanaṁ
+saḷāyatanaṁ --&amp;gt; phasso
+phasso --&amp;gt; vedanā
+vedanā --&amp;gt; taṇhā
+taṇhā --&amp;gt; upādānaṁ
+upādānaṁ --&amp;gt; bhavo
+bhavo --&amp;gt; jāti
+jāti --&amp;gt; jarāmaraṇaṁ
+end
+c1 --&amp;gt; paṭiccasamuppādo
+c2 --&amp;gt; paṭiccasamuppādo
+c3 --&amp;gt; paṭiccasamuppādo
+c4 --&amp;gt; paṭiccasamuppādo
+paṭiccasamuppādo --&amp;gt; bhikkhu
+subgraph bhikkhu
+direction LR
+nibbidāya --&amp;gt; dhammaṁ
+nibbidāya --&amp;gt; paṭipanno
+nibbidāya --&amp;gt; vimutto
+virāgāya --&amp;gt; dhammaṁ
+virāgāya --&amp;gt; paṭipanno
+virāgāya --&amp;gt; vimutto
+nirodhāya --&amp;gt; dhammaṁ
+nirodhāya --&amp;gt; paṭipanno
+nirodhāya --&amp;gt; vimutto
+end&lt;/pre>
+&lt;h2 id="training-sn-1293">Training (SN 12.93)&lt;/h2>
+&lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap"># jarāmaraṇe yathābhūtaṁ ñāṇāya
+- sikkhā karaṇīyā
+- yogo karaṇīyo
+- chando karaṇīyo
+- ussoḷhī karaṇīyā
+- appaṭivānī karaṇīyā
+- ātappaṁ karaṇīyaṁ
+- vīriyaṁ karaṇīyaṁ
+- sātaccaṁ karaṇīyaṁ
+- sati karaṇīyā
+- sampajaññaṁ karaṇīyaṁ
+- appamādo karaṇīyo
+&lt;/code>&lt;/pre>&lt;h2 id="reference">Reference&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://suttacentral.net/dn15">Mahānidānasutta DN 15 PTS 2.55–2.71&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://suttacentral.net/dn22">Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315 PT&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://suttacentral.net/mn141">Saccavibhaṅgasutta MN 141 PTS 3.248–3.252&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://suttacentral.net/pli-tv-kd1">Mahākhandhaka Pli Tv Kd 1 PTS 1.1–1.100 P&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://suttacentral.net/sn12.1">Paṭiccasamuppādasutta SN 12.1 PTS 2.1–2.2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://suttacentral.net/sn12.2">Vibhaṅgasutta SN 12.2 PTS 2.3–2.4&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://suttacentral.net/sn12.3">Paṭipadāsutta SN 12.3 PTS 2.5&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://suttacentral.net/sn12.11">Āhārasutta SN 12.11 PTS 2.12&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://suttacentral.net/sn12.21">Dasabalasutta SN 12.21 PTS 2.28&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://suttacentral.net/sn12.23">Upanisasutta SN 12.23 PTS 2.30–2.32&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://suttacentral.net/sn12.67">Naḷakalāpīsutta SN 12.67 PTS 2.113–2.115&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://suttacentral.net/sn12.93">Sikkhāsuttādipeyyālaekādasaka SN 12.93–213 PTS 2.132–2.133&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Docs: cattāro satipaṭṭhānā</title><link>https://christham.net/buddhavacana/docs/sutta/4meditation/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/4meditation/</guid><description>
 &lt;h2 id="cattāri-ariyasaccāni">cattāri ariyasaccāni&lt;/h2>
 &lt;p>viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ (keen, aware, and mindful, rid of desire and aversion for the world)&lt;/p>
 &lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
@@ -783,6 +1202,13 @@ pan: false
 &lt;li>&lt;a href="https://suttacentral.net/mn141">Saccavibhaṅgasutta MN 141 PTS 3.248–3.252&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://suttacentral.net/pli-tv-kd1">Mahākhandhaka Pli Tv Kd 1 PTS 1.1–1.100 P&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Docs: pañcupādānakkhandhā</title><link>https://christham.net/buddhavacana/docs/sutta/5aggregates/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/5aggregates/</guid><description>
+&lt;pre class="mermaid">mindmap
+pañcupādānakkhandhā
+rūpupādānakkhandho
+vedanupādānakkhandho
+saññupādānakkhandho
+saṅkhārupādānakkhandho
+viññāṇupādānakkhandho&lt;/pre>
 &lt;pre tabindex="0">&lt;code class="language-markmap" data-lang="markmap">---
 markmap:
 zoom: false
@@ -800,26 +1226,6 @@ pan: false
 ## viññāṇupādānakkhandho
 - consciousness
 &lt;/code>&lt;/pre>&lt;h2 id="reference">Reference&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://suttacentral.net/dn22">Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315 PT&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://suttacentral.net/mn141">Saccavibhaṅgasutta MN 141 PTS 3.248–3.252&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://suttacentral.net/pli-tv-kd1">Mahākhandhaka Pli Tv Kd 1 PTS 1.1–1.100 P&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Docs: paṭiccasamuppādaṁ</title><link>https://christham.net/buddhavacana/docs/sutta/pa%E1%B9%ADiccasamupp%C4%81da%E1%B9%81/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/sutta/pa%E1%B9%ADiccasamupp%C4%81da%E1%B9%81/</guid><description>
-&lt;pre class="mermaid">stateDiagram-v2
-[*] --&amp;gt; avijjā
-avijjā --&amp;gt; saṅkhārā
-saṅkhārā --&amp;gt; viññāṇaṁ
-viññāṇaṁ --&amp;gt; nāmarūpaṁ
-nāmarūpaṁ --&amp;gt; saḷāyatanaṁ
-saḷāyatanaṁ --&amp;gt; phasso
-phasso --&amp;gt; vedanā
-vedanā --&amp;gt; taṇhā
-taṇhā --&amp;gt; upādānaṁ
-upādānaṁ --&amp;gt; bhavo
-bhavo --&amp;gt; jāti
-jāti --&amp;gt; jarāmaraṇaṁ_sokaparidevadukkhadomanassupāyāsā_sambhavanti
-jarāmaraṇaṁ_sokaparidevadukkhadomanassupāyāsā_sambhavanti --&amp;gt; [*]&lt;/pre>
-&lt;h2 id="reference">Reference&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://suttacentral.net/dn22">Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315 PT&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://suttacentral.net/mn141">Saccavibhaṅgasutta MN 141 PTS 3.248–3.252&lt;/a>&lt;/li>

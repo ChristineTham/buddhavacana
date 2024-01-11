@@ -1,11 +1,208 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – grammar</title><link>https://christham.net/buddhavacana/tags/grammar/</link><description>Recent content in grammar on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 18 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://christham.net/buddhavacana/tags/grammar/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: C: Pali Grammar Specification</title><link>https://christham.net/buddhavacana/docs/palibook/grammar/</link><pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/grammar/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – grammar</title><link>https://christham.net/buddhavacana/tags/grammar/</link><description>Recent content in grammar on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://christham.net/buddhavacana/tags/grammar/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: C: Pali Grammar Specification</title><link>https://christham.net/buddhavacana/docs/palibook/grammar/</link><pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/palibook/grammar/</guid><description>
 &lt;div class="alert alert-primary" role="alert">
 Part of &amp;ldquo;A Beginner (Non-Linguist) Guide to Learning Pali&amp;rdquo;
 &lt;/div>
-&lt;pre class="mermaid">stateDiagram-v2
-direction LR
-[*] --&amp;gt; upasagga
-[*] --&amp;gt; dhātu
-upasagga --&amp;gt; upasagga
-upasagga --&amp;gt; dhātu
-dhātu --&amp;gt; paccaya&lt;/pre></description></item></channel></rss>
+&lt;p>This chapter presents a concise summary of the structure of Pali grammar
+and the technical terms used in Kaccāyana. It is structured using EBNF notation and presented as Syntax Diagrams (also known as &amp;ldquo;Railroad&amp;rdquo; diagrams).&lt;/p>
+&lt;h2 id="the-pali-alphabet-or-orthography-saññā">The Pali Alphabet or Orthography (saññā)&lt;/h2>
+&lt;h3 id="phonemes-2">Phonemes {2}&lt;/h3>
+&lt;p>Pali is an oral language consisting of sounds, but can be transcribed in written form using a combination of phonemes. Overall, there are 41 phonemes, which are grouped as consonants and vowels. These phonemes can be rendered in various scripts, or using Roman letters.&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+title Phonemes (akkharā)
+phoneme = 33 * consonant (* byañjanā *) | 8 * vowel (* sarā *);
+@endebnf
+&lt;/code>&lt;/pre>&lt;h3 id="vowels-3-5">Vowels {3}-{5}&lt;/h3>
+&lt;p>The vowels can be short (1 mora in length) or long (2 morae). Some vowels can be short or long depending of circumstances.&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+title Vowels (sarā)
+vowel =
+short (* rassaṃ, light (lahu), one mora (mattā) in length *) |
+long (* dīghaṃ, heavy (garu), two mattā in length *) |
+variable (* can be long or short *);
+short = &amp;#34;a&amp;#34; | &amp;#34;i&amp;#34; | &amp;#34;u&amp;#34;;
+long = &amp;#34;ā&amp;#34; | &amp;#34;ī&amp;#34; | &amp;#34;ū&amp;#34;;
+variable = &amp;#34;e&amp;#34; | &amp;#34;o&amp;#34;;
+@endebnf
+&lt;/code>&lt;/pre>&lt;h3 id="consonants-6-9">Consonants {6}-{9}&lt;/h3>
+&lt;p>Consonants can be grouped.&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+Title Consonants (byañjanā)
+consonant =
+25 * grouped (* vagga *) |
+7 * ungrouped (* avaggā *) |
+1 * niggahita (* niggahita *) ;
+grouped =
+5 * ka_group (* kavagga, velar (guttural) *) |
+5 * ca_group (* cavagga, palatal *) |
+5 * dot_ta_group (* ṭavagga, retroflex *) |
+5 * ta_group (* tavagga, dental *) |
+5 * pa_group (* pavagga, labial *) ;
+ka_group = &amp;#34;ka&amp;#34; | &amp;#34;kha&amp;#34; | &amp;#34;ga&amp;#34; | &amp;#34;gha&amp;#34; | &amp;#34;ṅa&amp;#34; ;
+ca_group = &amp;#34;ca&amp;#34; | &amp;#34;cha&amp;#34; | &amp;#34;ja&amp;#34; | &amp;#34;jha&amp;#34; | &amp;#34;ña&amp;#34; ;
+dot_ta_group = &amp;#34;ṭa&amp;#34; | &amp;#34;ṭha&amp;#34; | &amp;#34;ḍa&amp;#34; | &amp;#34;ḍha&amp;#34; | &amp;#34;ṇa&amp;#34; ;
+ta_group = &amp;#34;ta&amp;#34; | &amp;#34;tha&amp;#34; | &amp;#34;da&amp;#34; | &amp;#34;dha&amp;#34; | &amp;#34;na&amp;#34; ;
+pa_group = &amp;#34;pa&amp;#34; | &amp;#34;pha&amp;#34; | &amp;#34;ba&amp;#34; | &amp;#34;bha&amp;#34; | &amp;#34;ma&amp;#34; ;
+ungrouped = &amp;#34;ya&amp;#34; | &amp;#34;ra&amp;#34; | &amp;#34;la&amp;#34; | &amp;#34;va&amp;#34; | &amp;#34;sa&amp;#34; | &amp;#34;ha&amp;#34; | &amp;#34;ḷa&amp;#34; ;
+niggahita = &amp;#34;aṃ&amp;#34; ;
+@endebnf
+&lt;/code>&lt;/pre>&lt;h3 id="voicing">Voicing&lt;/h3>
+&lt;p>The grouped consonants can be either voiced or unvoiced.&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+Title Voicing
+grouped =
+7 * voiceless (* aghosā *) |
+25 * voiced (* ghosā *) ;
+voiceless = &amp;#34;ka&amp;#34; | &amp;#34;kha&amp;#34; | &amp;#34;ca&amp;#34; | &amp;#34;cha&amp;#34; | &amp;#34;ṭa&amp;#34; | &amp;#34;ṭha&amp;#34; | &amp;#34;ta&amp;#34; | &amp;#34;tha&amp;#34; | &amp;#34;pa&amp;#34; | &amp;#34;pha&amp;#34; ;
+voiced = &amp;#34;ga&amp;#34; | &amp;#34;gha&amp;#34; | &amp;#34;ṅa&amp;#34; | &amp;#34;ja&amp;#34; | &amp;#34;jha&amp;#34; | &amp;#34;ña&amp;#34; | &amp;#34;ḍa&amp;#34; | &amp;#34;ḍha&amp;#34; | &amp;#34;ṇa&amp;#34; | &amp;#34;da&amp;#34; | &amp;#34;dha&amp;#34; | &amp;#34;na&amp;#34; | &amp;#34;ba&amp;#34; | &amp;#34;bha&amp;#34; | &amp;#34;ma&amp;#34; ;
+@endebnf
+&lt;/code>&lt;/pre>&lt;h2 id="sentence-structure">Sentence structure&lt;/h2>
+&lt;p>Pali text consist of sentences which contain one or more words. Words can be nouns, verbs, prefixes and particles. There is no strictly defined word order in sentences, but is proto-typically subject-object-verb.&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+title Sentence Structure
+text = {sentence (* vakyā *)};
+sentence = {word (* padajāti *)}- ;
+sentence = ?subject?, ?object?, ?verb? ;
+word =
+noun (* nāma *) |
+verb (* ākhyāta *) |
+prefix (* upasagga *) |
+particle (* nipāta *) ;
+@endebnf
+&lt;/code>&lt;/pre>&lt;h2 id="nouns">Nouns&lt;/h2>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+title Noun types
+noun =
+substantive (* nāmanāma *) |
+adjective (* guṇanāma, visesana *) |
+pronoun (* sabbanāma *) |
+numeral (* saṅkhyā *) |
+complex_noun (* vutti *) ;
+substantive =
+common (* sādhārananāma *) |
+proper (* asādhārananāma *) ;
+@endebnf
+&lt;/code>&lt;/pre>&lt;p>Nouns are constructed from a base, or stem. Kaccāyana refers to the nominal base as the &lt;code>liṅga&lt;/code>, but this word is also used to refer to the grammatical gender of nouns. &lt;code>liṅga&lt;/code> technically means defining &amp;ldquo;characteristic&amp;rdquo; or &amp;ldquo;attribute&amp;rdquo; and hence the term is appropriate for both, as the defining characteristic of a noun is the base together with the gender. Other words that can be used to represent the base are &lt;code>pāṭipadika&lt;/code> or &lt;code>sadda&lt;/code>.&lt;/p>
+&lt;p>A fully formed noun-word is constructed by combining the base with optional prefixes, infixes, affixes and suffixes. The final suffix is the inflectional-ending and expresses the syntactic case (relationship of the noun to other parts of a sentence), number (singular or plural) and gender (masculine, feminine, or neuter).&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+title Noun formation
+noun =
+{prefix (* upasagga *)},
+{root (* dhātu *)}-,
+[infix (* āgama *)],
+{affixes}- (* paccaya *) ;
+affixes =
+(primary_affix (* kitapaccaya *) |
+secondary_affix (* taddhitapaccaya *)),
+noun_ending (* vibhatti *) ;
+noun_ending =
+gender (* liṅga*),
+multiplicity (* vacana *),
+syntactic_case (* vibhatti *) ;
+gender =
+?🚹 masculine (pulliṅga)? |
+?🚺 feminine (itthiliṅga)? |
+?🚻 neuter (napuṃsakaliṅga)? ;
+multiplicity =
+?⨀ singular (ekavacana)? |
+?⨂ plural (bahuvacana)? ;
+syntactic_case = case0 | case1 | case2 | case3 | case4 | case5 | case6 | case7 ;
+@endebnf
+&lt;/code>&lt;/pre>&lt;h3 id="semantic-cases">Semantic cases&lt;/h3>
+&lt;p>Semantic cases (kāraka) represent the relationship between words in a sentence (representing various participants) in the context of an action (verb). Pali has 7 different semantic cases, in addition to a vocative case which is sometimes denoted as an 8th case.&lt;/p>
+&lt;p>There is a strong association between semantic cases and syntactic cases, but the association is not an equivalance as a semantic case can be represented by more than one syntactic case, and a syntactic case can be used to represent more than one semantic case.&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+semantic_case =
+vocative (* ālapana *) |
+nominative (* kattar, agent or &amp;#34;doer&amp;#34; of action *) |
+accussative (* kamma, object or &amp;#34;deed&amp;#34; of action *) |
+instrumental (* karaṇa, means or implement of agent *) |
+dative (* sampadāna, beneficiary of action *) |
+ablative (* apādāna, source or cause of action *) |
+genitive (* sāmi, owner of object *) |
+locative (* okāsa, place of action *) ;
+@endebnf
+&lt;/code>&lt;/pre>&lt;h2 id="verbs">Verbs&lt;/h2>
+&lt;p>Technically, verbs in Pali are finite verbs, conjugated by applying verb endings which represent the perspective and voice of the actor, multiplicity, and the mood/tense of the action.&lt;/p>
+&lt;p>Infinitives, participles (past, present, future), absolutives and other forms of words considered as verbs in other languages are technically nouns in Pali - they are created by combining a verbal stem (root) with an affix (&lt;code>kita&lt;/code> or &lt;code>kicca&lt;/code>) and then inflected/declined by adding a noun ending.&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+title Verb types
+verb = Bhuvadi | Rudhadi | Divadi | Svadi | Kiyadi| Tanadi | Curadi;
+voice_affixes = Kattupaccaya | Kammapaccaya | Bhavapaccaya | Hetukattupaccaya | Hetukammapaccaya;
+@endebnf
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+title Verb formation
+verb =
+{prefix (* upasaggo *)},
+{root (* dhātu *)}-,
+[infix (* āgamo *)],
+voice_affixes (* paccaya *),
+verb_ending (* vibhatti *) ;
+verb_ending =
+case_relation (* kāraka *),
+person (* purisa *),
+multiplicity (* vacana *),
+(tense (* kāla *) | mood);
+time =
+past |
+present |
+future ;
+case_relation =
+?Kattukaraka : Active voice? |
+?Kammakaraka : passive? ;
+person =
+third_person (* paṭhamapurisa *) |
+second_person (* majjhimapurisa*) |
+first_person (* uttamapurisa *) ;
+multiplicity =
+?⨀ singular (ekavacanaṃ)? |
+?⨂ plural (bahuvacanaṃ)? ;
+voice =
+?parassapada : active, action favours non-agent? |
+?attanopada : reflective, action favours self/object?;
+mood =
+?pañcamī : Imperative, command or wish? |
+?sattamī : Optative, permission or thought? |
+?kālātipatti : Conditional, should have happened except for ...? ;
+tense =
+?vattamānā : Present tense (paccupannakāla)? |
+?parokkhā : Perfect, actions completed that was not witnessed? |
+?hīyyattanī : Imperfect, past action excluding today? |
+?ajjattanī : Aorist, past action completed today? |
+?bhavissantī : Future tense? ;
+@endebnf
+&lt;/code>&lt;/pre>&lt;h3 id="complex-nouns">Complex nouns&lt;/h3>
+&lt;p>Complex nouns include compounds, verbal derivatives (primary) and nominal derivatives (secondary).&lt;/p>
+&lt;p>Derivatives are nouns formed by combining either a verbal or nominal stem with an affix, and then inflected/declined by applying noun endings.&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+complex_noun =
+compound (* samāsanāma *) |
+noun_derivative (* taddhitanāma *) |
+verb_derivative (* kitanāma *) ;
+compound =
+?avyayībhāva : Adverbial? |
+?kammadhāraya : Apposidonal? |
+?digu : Numerical? |
+?tappurisa : Determinative? |
+?bahubbīhi : Relative? |
+?dvandva : Copulative? ;
+verb_derivative = verb_stem (* liṅga *), primary_affix, noun_ending ;
+noun_derivative = noun_stem (* liṅga *), secondary_affix (* taddhita *), noun_ending ;
+primary_affix = kita | kicca | unadi;
+@endebnf
+&lt;/code>&lt;/pre>&lt;h2 id="prefixes">Prefixes&lt;/h2>
+&lt;p>Prefixes can be used as words in a sentence (in which case they are indeclinable), or embedded in another word (in which case they act as prepositions and form part of the word).&lt;/p>
+&lt;h2 id="particles">Particles&lt;/h2>
+&lt;pre tabindex="0">&lt;code class="language-plantuml" data-lang="plantuml">@startebnf
+(* avyaya *)
+indeclinable = particle (* nipāta *) | prefix (* upasagga *);
+particle = conjunction | preposition | adverb | indeclinable ;
+@endebnf
+&lt;/code>&lt;/pre>&lt;h2 id="references">References&lt;/h2>
+&lt;p>This appendix is drawn upon information provided in the following sources&lt;/p>
+&lt;ul>
+&lt;li>&lt;em>Kaccāyana Pāli Vyākaraṇaṁ (Kaccāyana Pāli Grammar)&lt;/em>, Vols I and II, A. Thitzana, Pariyatti Press (2018)&lt;/li>
+&lt;li>&lt;em>Technical Terms and Technique of the Pali and the Sanskrit Grammars&lt;/em>, Mahesh A Deokar, Central Institute of Higher Tibetan Studies (2008)&lt;/li>
+&lt;li>&lt;em>RŪPASIDDHI: A study of some aspects&lt;/em>, Phramaha Sriporn Rachiwong, Department Of Sanskrit And Prakrit Languages, University Of Pune (1995)&lt;/li>
+&lt;li>&lt;em>Pāli Grammar and Grammarians from Buddhaghosa to Vajirabuddhi: A Survey&lt;/em>, O.H. Pind, The Journal of the Pali Text Society, Vol. XXXI (2012), pp. 57–124&lt;/li>
+&lt;li>&lt;em>MĀGADHABHĀSĀ (PĀḶI): A Compendious Grammar on the Language of Pāḷi Buddhism&lt;/em>, A. Bhikkhu, Sāsanārakkha Buddhist Sanctuary (SBS), Revised 2nd Edition (2023)&lt;/li>
+&lt;/ul></description></item></channel></rss>
