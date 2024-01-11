@@ -1,22 +1,15 @@
 ---
 categories: ["Sutta"]
-tags: ["cattāri ariyasaccāni", "dukkhanirodhaṁ ariyasaccaṁ"]
+tags: ["4ariyasaccāni", "dukkhanirodhaṁ"]
 title: "dukkhanirodhaṁ ariyasaccaṁ"
-linkTitle: "dukkhanirodhaṁ ariyasaccaṁ"
+linkTitle: "dukkhanirodhaṁ"
 date: 2022-01-01
 weight: 3
 description: >
   noble truth of the cessation of suffering
-markmap:
-  maxWidth: 300
 ---
 
 ```markmap
----
-markmap:
-  zoom: false
-  pan: false
----
 # dukkhanirodhaṁ ariyasaccaṁ
 ## taṇhāya asesavirāganirodho
 - full fading away and ending of all craving

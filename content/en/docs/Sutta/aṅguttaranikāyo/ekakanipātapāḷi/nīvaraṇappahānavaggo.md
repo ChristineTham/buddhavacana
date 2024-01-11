@@ -37,16 +37,16 @@ classDiagram
   }
   class bhikkhave {
     <<nāma>>
-    🚹👥0️⃣
+    🚹⨂⓪
   }
   class aññaṃ {
     <<sabbanāma>>
-    🚹👤2️⃣
+    🚹⨀②
     english(other)
   }
   class ekadhammaṃ {
     <<nāma>>
-    🚹👤2️⃣
+    🚹⨀②
     english(one thing)
   }
   class pi {
@@ -55,18 +55,18 @@ classDiagram
   }
   class samanupassāmi {
     <<ākhyāta>>
-    👤👆vattamāna
+    ⨀👆vattamāna
     english(I perceive)
   }
   class yena {
     <<anvayīnāma>>
-    🚻👤2️⃣
+    🚻⨀②
     english(by when)
   }
   namespace result {
     class kāmacchando {
       <<nāma>>
-      🚹👤1️⃣
+      🚹⨀①
       english(sensual desire)
     }
   }
@@ -77,33 +77,33 @@ classDiagram
     }
     class anuppanno {
       <<atītakiriya>>
-      🚹👤1️⃣
+      🚹⨀①
       english(nonexistent)
     }
     class uppajjati {
       <<ākhyāta>>
-      👤🤟vattamāna
+      ⨀🤟vattamāna
       english(arises)
     }
     class uppanno {
       <<atītakiriya>>
-      🚹👤1️⃣
+      🚹⨀①
       english(appeared)
     }
     class bhiyyobhāvāya {
       <<nāma>>
-      🚹👤4️⃣
+      🚹⨀④
       english(increase of)
     }
     class vepullāya {
       <<nāma>>
-      🚻👤4️⃣
+      🚻⨀④
       english(growth of)
     }
   }
   class saṃvattati {
     <<ākhyāta>>
-    👤🤟vattamāna
+    ⨀🤟vattamāna
     english(leads to)
   }
   class yatha {
@@ -112,18 +112,18 @@ classDiagram
   }
   class idaṃ {
     <<puggalanāma>>
-    🚻👤2️⃣
+    🚻⨀②
     english(this)
   }
   namespace trigger {
     class subhanimittaṃ {
       <<nāma>>
-      🚻👤2️⃣
+      🚻⨀②
       english(beauty)
     }
     class asubhanimittaṃ {
       <<nāma>>
-      🚻👤1️⃣
+      🚻⨀①
       english(repulsiveness)
     }
   }
@@ -175,13 +175,13 @@ classDiagram
   namespace trigger {
     class subhanimittaṃ {
       <<nāma>>
-      🚻👤1️⃣
+      🚻⨀①
       english(beauty)
     }
   }
   class bhikkhave {
     <<nāma>>
-    🚹👥0️⃣
+    🚹⨂⓪
   }
   class ayoniso {
     <<kriyā>>
@@ -189,18 +189,18 @@ classDiagram
   }
   class manasi {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(mind)
   }
   class karoto {
     <<missakiriya>>
-    👤1️⃣
+    ⨀①
     english(doing)
   }
   namespace result {
     class kāmacchando {
       <<nāma>>
-      🚹👤1️⃣
+      🚹⨀①
       english(sensual desire)
     }
   }
@@ -215,33 +215,33 @@ classDiagram
     }
     class anuppanno {
       <<atītakiriya>>
-      🚹👤1️⃣
+      🚹⨀①
       english(nonexistent)
     }
     class uppajjati {
       <<ākhyāta>>
-      👤🤟vattamāna
+      ⨀🤟vattamāna
       english(arises)
     }
     class uppanno {
       <<atītakiriya>>
-      🚹👤1️⃣
+      🚹⨀①
       english(appeared)
     }
     class bhiyyobhāvāya {
       <<nāma>>
-      🚹👤4️⃣
+      🚹⨀④
       english(increase of)
     }
     class vepullāya {
       <<nāma>>
-      🚻👤4️⃣
+      🚻⨀④
       english(growth of)
     }
   }
   class saṃvattati {
     <<ākhyāta>>
-    👤🤟vattamāna
+    ⨀🤟vattamāna
     english(leads to)
   }
   sentence *-- subhanimittaṃ
@@ -285,28 +285,28 @@ classDiagram
   }
   class ayonisomanasikāro {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(imprudent use of mind)
   }
   namespace trigger {
     class subhanimittaṃ {
       <<nāma>>
-      🚻👤1️⃣
+      🚻⨀①
       english(beauty)
     }
     class paṭighanimittaṃ {
       <<nāma>>
-      🚻👤1️⃣
+      🚻⨀①
       english(dislike)
     }
     class līnacittassa {
       <<nāma>>
-      🚻👤6️⃣
+      🚻⨀⑥
       english(of sluggish mind)
     }
     class avūpasantacittassa {
       <<nāma>>
-      🚻👤6️⃣
+      🚻⨀⑥
       english(of agitated mind)
     }
     class ayoniso {
@@ -317,49 +317,49 @@ classDiagram
   namespace result {
     class kāmacchando {
       <<nāma>>
-      🚹👤1️⃣
+      🚹⨀①
       english(sensual desire)
     }
     class byāpādo {
       <<nāma>>
-      🚹👤1️⃣
+      🚹⨀①
       english(ill will)
     }
     class thinamiddhaṃ {
       <<nāma>>
-      🚻👤1️⃣
+      🚻⨀①
       english(sloth and torpor)
     }
     class uddhaccakukkuccaṃ {
       <<nāma>>
-      🚻👤1️⃣
+      🚻⨀①
       english(restlessness and fidgetiness)
     }
     class vicikicchā {
       <<nāma>>
-      🚺👤1️⃣
+      🚺⨀①
       english(doubt)
     }
   }
   namespace nontrigger {
     class asubhanimittaṃ {
       <<nāma>>
-      🚻👤1️⃣
+      🚻⨀①
       english(repulsiveness)
     }
     class mettaṃ {
       <<nāma>>
-      🚻👤1️⃣
+      🚻⨀①
       english(benevolence)
     }
     class āraddhavīriyassa {
       <<nāma>>
-      🚻👤6️⃣
+      🚻⨀⑥
       english(who is energetic)
     }
     class vūpasantacittassa {
       <<nāma>>
-      🚻👤6️⃣
+      🚻⨀⑥
       english(of calm mind)
     }
     class yoniso {

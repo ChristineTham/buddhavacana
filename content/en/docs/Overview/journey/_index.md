@@ -2,6 +2,7 @@
 title: "My Journey along the aṭṭhaṅgiko maggo"
 linkTitle: "My Journey"
 date: 2022-01-01
+weight: 1
 description: >
   Brief history of how I was introduced to Buddhism and my progress to date
 resources:

@@ -2,7 +2,7 @@
 categories: ["Sutta"]
 tags: ["cattāro satipaṭṭhānā"]
 title: "cattāro satipaṭṭhānā"
-linkTitle: "cattāro satipaṭṭhānā"
+linkTitle: "4 satipaṭṭhānā"
 date: 2022-01-01
 description: >
   the four kinds of mindfulness meditation

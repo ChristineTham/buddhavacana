@@ -28,12 +28,12 @@ classDiagram
   namespace saṅkhyāpūraṇa {
     class dutiyaṃ {
       <<nāma>>
-      2️⃣
+      ②
       english(second time)
     }
     class tatiyaṃ {
       <<nāma>>
-      2️⃣
+      ②
       english(third time)
     }
   }
@@ -44,25 +44,25 @@ classDiagram
   namespace saraṇa {
     class buddhaṃ {
       <<nāma>>
-      🚹👤2️⃣
+      🚹⨀②
     }
     class dhammaṃ {
       <<nāma>>
-      🚹👤2️⃣
+      🚹⨀②
     }
     class saṅghaṃ {
       <<nāma>>
-      🚹👤2️⃣
+      🚹⨀②
     }
   }
   class saraṇaṃ {
     <<nāma>>
-     🚹👤2️⃣
+     🚹⨀②
     english(as refuge)
   }
   class gacchāmi {
     <<ākhyāta>>
-     👤👆vattamāna
+     ⨀👆vattamāna
     english(I go)
   }
   sentence *-- dutiyaṃ

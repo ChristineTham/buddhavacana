@@ -1,7 +1,7 @@
 ---
-title: "A: Symbols used in this Book"
+title: "A: Symbols and Glossary of Pali technical terms"
 linkTitle: "A: Symbols"
-date: 2023-08-17
+date: 2023-11-05
 weight: 900
 description: >
   List of symbols used in this book and their meanings
@@ -18,8 +18,8 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 | 🚹 | `pulliṅga` | major (masculine) gender |
 | 🚻 | `napuṁsakaliṅga` | special (neuter) gender |
 | 🚺 | `itthiliṅga` | minor (feminine) gender |
-| 👤 | `ekavacana` | singular |
-| 👥 | `bahuvacana` | plural |
+| ⨀ | `ekavacana` | singular |
+| ⨂ | `bahuvacana` | plural |
 | 🟢 | `parassapada`, `kattu` | active voice |
 | 🔵 | `attanopada`, `bhāva` | middle voice - impersonal |
 | 🔴 | `kamma` | passive voice |
@@ -27,14 +27,14 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 | 🤟 | `paṭhama purisa` | first person, equivalent to 'third person' in English |
 | 🤘 | `majjima purisa` | middle person, equivalent to 'second person' in English |
 | 👆 | `uttama purisa` | primary person, equivalent to 'first person' in English |
-| 0️⃣ | `ālapana` | vocative |
-| 1️⃣ | `paṭhamā` | first case (nominative) |
-| 2️⃣ | `dutiyā` | second case (accusative) |
-| 3️⃣ | `tatiyā` | third case (instrumental) |
-| 4️⃣ | `catutthī` | fourth case (dative) |
-| 5️⃣ | `pañcamī` | fifth case (ablative) |
-| 6️⃣ | `chaṭṭhī` | sixth case (genitive) |
-| 7️⃣ | `sattamī` | seventh case (locative) |
+| ⓪ | `ālapana` | vocative |
+| ① | `paṭhamā` | first case (nominative) |
+| ② | `dutiyā` | second case (accusative) |
+| ③ | `tatiyā` | third case (instrumental) |
+| ④ | `catutthī` | fourth case (dative) |
+| ⑤ | `pañcamī` | fifth case (ablative) |
+| ⑥ | `chaṭṭhī` | sixth case (genitive) |
+| ⑦ | `sattamī` | seventh case (locative) |
 | ⏏️ | `nipāta` | particle |
 | 🔼 | `upasagga` |prefix |
 | 🆎 | `samāsa` | compound noun |
@@ -48,3 +48,54 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 | ⏮ | `ajjatanī`| aorist |
 | ⏭ | `bhavissanti` | future |
 | 🔀 | `kālātipatti` | conditional |
+
+## Phonological Terminology
+
+dīgha
+: long
+
+rassa
+: short
+
+garuka
+: metrically long
+
+lahuka
+: metrically short
+
+sambaddha
+: connected utterance
+
+vavatthita
+: disjoint utterance
+
+sithila
+: non-aspirated stops
+
+dhanita
+: aspirated stops
+
+niggahīta
+: nasal
+
+vimutta
+: oral
+
+## Case terminology
+
+Symbol | English | Aṭṭhakathā
+:-: | :-: | :-:
+① | nominative | paccatta
+② | accusative | upayoga
+③ | instrumental | karaṇa
+④ | dative | sampadāna
+⑤ | ablative | nissakka
+⑥ | genitive | sāmi
+⑦ | locative | bhumma
+⓪ | vocative | ālapana
+
+## Types of nominals
+
+
+* Technical Terms and Technique of the Pali and the Sanskrit Grammars, Mahesh
+  A Deokar, Central Institute of Higher Tibetan Studies (2008)

@@ -58,48 +58,48 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 
 This is used as the pronoun for `uttama purisa` (in English, "1st" person)
 
-| `vibhatti` | 👤 | 👥 |
+| `vibhatti` | ⨀ | ⨂ |
 | :-: | --- | --- |
-| 1️⃣ | ahaṃ (amhi, asmi, mhi) | amhā, amhe, mayaṃ, mayhaṃ, no, vayaṃ |
-| 2️⃣ | maṃ, mamaṃ, mayhaṃ, mām-, me | amhākaṃ, amhe, asmākaṃ, asme, no |
-| 3️⃣ | mayā, me | amhebhi, amhehi, asmāhi, asmābhi, no |
-| 5️⃣ | mamato, mayā, me | amhebhi, amhehi, asmāhi, asmābhi, no |
-| 4️⃣6️⃣ | amhaṃ, mama(ṃ), mamā, maṃ, mayha(ṃ), me | amhaṃ, amhāka(ṃ), asmākaṃ, no (ne) |
-| 7️⃣ | mayi, me | amhesu, asmāsu, asmesu |
+| ① | ahaṃ (amhi, asmi, mhi) | amhā, amhe, mayaṃ, mayhaṃ, no, vayaṃ |
+| ② | maṃ, mamaṃ, mayhaṃ, mām-, me | amhākaṃ, amhe, asmākaṃ, asme, no |
+| ③ | mayā, me | amhebhi, amhehi, asmāhi, asmābhi, no |
+| ⑤ | mamato, mayā, me | amhebhi, amhehi, asmāhi, asmābhi, no |
+| ④⑥ | amhaṃ, mama(ṃ), mamā, maṃ, mayha(ṃ), me | amhaṃ, amhāka(ṃ), asmākaṃ, no (ne) |
+| ⑦ | mayi, me | amhesu, asmāsu, asmesu |
 
 ## `ta(d)`
 
 This is used as the pronoun for `majjima purisa` (in English, "2nd" person)
 
-| `vibhatti` | 👤 | 👥 |
+| `vibhatti` | ⨀ | ⨂ |
 | :-: | --- | --- |
-| 1️⃣ | taṃ, tuvaṃ, tvaṃ | tumhe, vo |
-| 2️⃣ | taṃ, tavaṃ, tuvaṃ, tvaṃ, tyaṃ, te | tumhākaṃ, tumhe, vaṃ, ve, vo |
-| 3️⃣ | tayā, te, tvāya | tumhebhi, tumhehi, vaṃ, ve, vo |
-| 5️⃣ | tayā, te, tvāya | tumhebhi, tumhehi |
-| 4️⃣6️⃣ | tava(ṃ), tayā, te, tumhaṃ, tuyha(ṃ) | tumhaṃ, tumhāka(ṃ), tuyhaṃ (possibly), vaṃ, ve, vo |
-| 7️⃣ | tayi, tvayi | tumhesu |
+| ① | taṃ, tuvaṃ, tvaṃ | tumhe, vo |
+| ② | taṃ, tavaṃ, tuvaṃ, tvaṃ, tyaṃ, te | tumhākaṃ, tumhe, vaṃ, ve, vo |
+| ③ | tayā, te, tvāya | tumhebhi, tumhehi, vaṃ, ve, vo |
+| ⑤ | tayā, te, tvāya | tumhebhi, tumhehi |
+| ④⑥ | tava(ṃ), tayā, te, tumhaṃ, tuyha(ṃ) | tumhaṃ, tumhāka(ṃ), tuyhaṃ (possibly), vaṃ, ve, vo |
+| ⑦ | tayi, tvayi | tumhesu |
 
 This is used as the pronoun for `paṭhama purisa` (in English, "3rd" person)
 
-### 👤 `ekavacana`
+### ⨀ `ekavacana`
 
 | `vibhatti` | 🚹 | 🚻 | 🚺 |
 | :-: | --- | --- | --- |
-| 1️⃣ | sa, se, so, sū | tad-, tadaṃ, taṃ (naṃ), se | sā |
-| 2️⃣ | taṃ (naṃ), te | tad-, taṃ (naṃ), se | taṃ |
-| 3️⃣ | tena (nena) | tena (nena) | tāya (nāya) |
-| 5️⃣ | tamhā, tasmā (nasmā), tato, tāto | tamhā, tasmā (nasmā), tato, tāto | tāya (nāya) |
-| 4️⃣6️⃣ | asmā, assa, tassa (nassa), tāya (4️⃣) | asmā, assa, tassa (nassa), tāya (4️⃣) | assā, tassā (nassā), tassāya (nassāya), tāya, tissā, tissāya |
-| 7️⃣ | asmiṃ, tamhi, tamhī, tasmiṃ (nasmiṃ) | asmiṃ, tamhi, tamhī, tasmiṃ (nasmiṃ) | assaṃ, tassaṃ, tāsaṃ (nassaṃ), tāya(ṃ) (nāyaṃ), tissaṃ |
+| ① | sa, se, so, sū | tad-, tadaṃ, taṃ (naṃ), se | sā |
+| ② | taṃ (naṃ), te | tad-, taṃ (naṃ), se | taṃ |
+| ③ | tena (nena) | tena (nena) | tāya (nāya) |
+| ⑤ | tamhā, tasmā (nasmā), tato, tāto | tamhā, tasmā (nasmā), tato, tāto | tāya (nāya) |
+| ④⑥ | asmā, assa, tassa (nassa), tāya (④) | asmā, assa, tassa (nassa), tāya (④) | assā, tassā (nassā), tassāya (nassāya), tāya, tissā, tissāya |
+| ⑦ | asmiṃ, tamhi, tamhī, tasmiṃ (nasmiṃ) | asmiṃ, tamhi, tamhī, tasmiṃ (nasmiṃ) | assaṃ, tassaṃ, tāsaṃ (nassaṃ), tāya(ṃ) (nāyaṃ), tissaṃ |
 
-### 👥 `bahuvacana`
+### ⨂ `bahuvacana`
 
 | `vibhatti` | 🚹 | 🚻 | 🚺 |
 | :-: | --- | --- | --- |
-| 1️⃣ | te (ne) | tāni | tā, tāyo |
-| 2️⃣ | te (ne) | tāni | tā (nā), tāyo |
-| 3️⃣ | tebhi, tehi (nehi) | tebhi, tehi (nehi) | tābhi, tāhi (nāhi) |
-| 5️⃣ | tebhi, tehi (nehi) | tebhi, tehi (nehi) | tābhi, tāhi (nāhi) |
-| 4️⃣6️⃣ | tesaṃ (nesaṃ), tesānaṃ | tesaṃ (nesaṃ), tesānaṃ | tāsaṃ (nāsaṃ), tāsānaṃ, sānaṃ |
-| 7️⃣ | tesu (nesu) | tesu (nesu) | tāsu (nāsu) |
+| ① | te (ne) | tāni | tā, tāyo |
+| ② | te (ne) | tāni | tā (nā), tāyo |
+| ③ | tebhi, tehi (nehi) | tebhi, tehi (nehi) | tābhi, tāhi (nāhi) |
+| ⑤ | tebhi, tehi (nehi) | tebhi, tehi (nehi) | tābhi, tāhi (nāhi) |
+| ④⑥ | tesaṃ (nesaṃ), tesānaṃ | tesaṃ (nesaṃ), tesānaṃ | tāsaṃ (nāsaṃ), tāsānaṃ, sānaṃ |
+| ⑦ | tesu (nesu) | tesu (nesu) | tāsu (nāsu) |

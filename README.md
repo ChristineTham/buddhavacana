@@ -9,10 +9,10 @@ In this project, the Docsy theme component is pulled in as a Hugo module, togeth
 
 ```bash
 $ hugo mod graph
-github.com/ChristineTham/buddhavacana github.com/google/docsy@v0.7.1
-github.com/ChristineTham/buddhavacana github.com/google/docsy/dependencies@v0.7.1
-github.com/google/docsy/dependencies@v0.7.0 github.com/twbs/bootstrap@v5.2.3+incompatible
-github.com/google/docsy/dependencies@v0.7.0 github.com/FortAwesome/Font-Awesome@v0.0.0-20230327165841-0698449d50f20-20210804190922-7d3d774145ac
+github.com/ChristineTham/buddhavacana github.com/google/docsy@v0.7.2
+github.com/ChristineTham/buddhavacana github.com/google/docsy/dependencies@v0.7.2
+github.com/google/docsy/dependencies@v0.7.2 github.com/twbs/bootstrap@v5.2.3+incompatible
+github.com/google/docsy/dependencies@v0.7.2 github.com/FortAwesome/Font-Awesome@v0.0.0-20230327165841-0698449d50f2
 ```
 
 You can find detailed theme instructions in the [Docsy user guide][https://docsy.dev/docs/].

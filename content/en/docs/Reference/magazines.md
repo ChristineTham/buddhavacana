@@ -15,3 +15,6 @@ description: >
 
 [Journal of Buddhist Ethics](https://blogs.dickinson.edu/buddhistethics/)
 : The Journal of Buddhist Ethics is the first academic journal dedicated entirely to Buddhist ethics. We promote the study of Buddhist ethics through the publication of research and book reviews and by hosting occasional online conferences.
+
+[Institute of Buddhist Studies](https://www.shin-ibs.edu)
+: Over the course of its long history of producing quality Buddhist Studies scholarship, IBS has collected several archives of scholarly journals and completed numerous publication and research projects. Browse some of these projects below.

@@ -19,7 +19,7 @@ Kaccāyana - consult the book for a full set of examples.
 
 ## Kita’ntogadha dutiyā Tappurisa
 
-`saddūpapada` 2️⃣
+`saddūpapada` ②
 (nearby noun eg. `kamma`-work, `kumbha`-pot, `mālā`-flower) +
 `dhātu` (eg. `kara`, `gaha`) + affix (eg. `ṇa`)
 

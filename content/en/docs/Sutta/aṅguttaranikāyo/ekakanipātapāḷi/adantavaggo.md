@@ -37,16 +37,16 @@ classDiagram
   }
   class bhikkhave {
     <<nāma>>
-    🚹👥0️⃣
+    🚹⨂⓪
   }
   class aññaṃ {
     <<sabbanāma>>
-    🚹👤2️⃣
+    🚹⨀②
     english(other)
   }
   class ekadhammaṃ {
     <<nāma>>
-    🚹👤2️⃣
+    🚹⨀②
     english(one thing)
   }
   class pi {
@@ -55,12 +55,12 @@ classDiagram
   }
   class samanupassāmi {
     <<ākhyāta>>
-    👤👆vattamāna
+    ⨀👆vattamāna
     english(I perceive)
   }
   class yaṃ {
     <<anvayīnāma>>
-    🚻👤2️⃣
+    🚻⨀②
     english(which)
   }
   class evaṃ {
@@ -70,25 +70,25 @@ classDiagram
   namespace adjective {
     class adantaṃ {
       <<atītakiriya>>
-      👤2️⃣
+      ⨀②
       english(unrestrained)
     }
   }
   class mahato {
     <<guṇanāma>>
-     👤6️⃣
+     ⨀⑥
     english(of great)
   }
   namespace result {
     class anatthāya {
       <<nāma>>
-      🚹👤6️⃣
+      🚹⨀⑥
       english(of harm)
     }
   }
   class saṃvattati {
     <<ākhyāta>>
-    👤🤟vattamāna
+    ⨀🤟vattamāna
     english(leads to)
   }
   class yatha {
@@ -97,12 +97,12 @@ classDiagram
   }
   class idaṃ {
     <<puggalanāma>>
-    🚻👤2️⃣
+    🚻⨀②
     english(this)
   }
   class cittaṃ {
     <<sabbanāma>>
-    🚻👤1️⃣
+    🚻⨀①
     english(mind)
   }
   sentence *-- na
@@ -146,35 +146,35 @@ classDiagram
   }
   class cittaṃ {
     <<sabbanāma>>
-    🚻👤1️⃣
+    🚻⨀①
     english(mind)
   }
   class bhikkhave {
     <<nāma>>
-    🚹👥0️⃣
+    🚹⨂⓪
   }
   namespace adjective {
     class adantaṃ {
       <<atītakiriya>>
-      👤2️⃣
+      ⨀②
       english(unrestrained)
     }
   }
   class mahato {
     <<guṇanāma>>
-     👤6️⃣
+     ⨀⑥
     english(of great)
   }
   namespace result {
     class anatthāya {
       <<nāma>>
-      🚹👤6️⃣
+      🚹⨀⑥
       english(of harm)
     }
   }
   class saṃvattati {
     <<ākhyāta>>
-    👤🤟vattamāna
+    ⨀🤟vattamāna
     english(leads to)
   }
   sentence *-- cittaṃ
@@ -194,44 +194,44 @@ classDiagram
   namespace adjective {
     class adantaṃ {
       <<atītakiriya>>
-      👤2️⃣
+      ⨀②
       english(unrestrained)
     }
     class dantaṃ {
       <<atītakiriya>>
-      👤2️⃣
+      ⨀②
       english(restrained)
     }
     class aguttaṃ {
       <<atītakiriya>>
-      👤2️⃣
+      ⨀②
       english(unguarded)
     }
     class guttaṃ {
       <<atītakiriya>>
-      👤2️⃣
+      ⨀②
       english(guarded)
     }
     class arakkhitaṃ {
       <<atītakiriya>>
-      👤2️⃣
+      ⨀②
       english(unprotected)
     }
     class rakkhitaṃ {
       <<atītakiriya>>
-      👤2️⃣
+      ⨀②
       english(protected)
     }
   }
   namespace result {
     class anatthāya {
       <<nāma>>
-      🚹👤6️⃣
+      🚹⨀⑥
       english(of harm)
     }
     class atthāya {
       <<nāma>>
-      🚹👤6️⃣
+      🚹⨀⑥
       english(of benefit)
     }
   }

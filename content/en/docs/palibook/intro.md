@@ -44,12 +44,13 @@ further.
 There are no native speakers of Pali, but fortunately there are books
 describing the Pali language written by ancient Pali speakers. The earliest,
 and probably most well known is the **Kaccāyana Pali Vyākaraṇam**. This was
-probably written in the 5th-6th century CE, and the author has been ascribed
-to the Arahat Mahākaccāyana.
+probably written in the 5th-6th century CE in India, and the author has been
+ascribed to the Arahat Mahākaccāyana (but this is disputed).
 
-There are, of course, other Pali grammars, including those written by
-Moggalāna (circa 11-12 AD), Saddanīti (circa 1157 AD) and Rūpasiddhi (circa
-13 AD). However, to avoid confusion from multiple sources, I have decided to
+There are, of course, other Classical Pali grammars, including those written by
+Moggalāna (circa 11-12 AD), and Saddanīti by Aggavaṃsa (circa 1157 AD).
+Rūpasiddhi (circa 13 AD) updated and reorganised the content of Kaccayana.
+However, to avoid confusion from multiple sources, I have decided to
 primarily derive my textbook from Kaccāyana. Also, there is an excellent
 translation of Kaccāyana into English (which I am heavily reliant on)
 by A. Thitzana which can be downloaded for free from

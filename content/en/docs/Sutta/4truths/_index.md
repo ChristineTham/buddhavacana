@@ -1,26 +1,24 @@
 ---
 categories: ["Sutta"]
-tags: ["cattāri ariyasaccāni"]
-title: "cattāri ariyasaccāni"
-linkTitle: "cattāri ariyasaccāni"
+tags: ["4ariyasaccāni"]
+title: cattāri ariyasaccāni
+linkTitle: "4 ariyasaccāni"
 date: 2022-01-01
 weight: 10
 description: >
   The Four Noble Truths.
-markmap:
-  maxWidth: 300
 ---
 
-dukkham samudayo nirodho magga
+The basic teaching of the four noble truths (`dukkham samudayo nirodho magga`) can be expressed as a medical diagnosis ([The Dawn of Abhidharma](https://www.buddhismuskunde.uni-hamburg.de/pdf/4-publikationen/hamburg-buddhist-studies/hamburgup-hbs2-analayo-abhidharma.pdf) p. 113):
+
+* disease: duḥkha
+* pathogen: craving
+* health: nirvāṇa
+* cure: eightfold path
 
 ## cattāri ariyasaccāni
 
 ```markmap
----
-markmap:
-  zoom: false
-  pan: false
----
 # cattāri ariyasaccāni
 ## dukkham
 - pain

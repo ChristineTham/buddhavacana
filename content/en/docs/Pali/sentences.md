@@ -19,24 +19,24 @@ description: >
 | 🚻 | `napuṁsakaliṅga` | special (neuter) gender |
 | 🚺 | `itthiliṅga` | minor (feminine) gender |
 | ⚧ | `sabbaliṅga` | all genders |
-| 👤 | `ekavacana` | singular |
-| 👥 | `bahuvacana` | plural |
+| ⨀ | `ekavacana` | singular |
+| ⨂ | `bahuvacana` | plural |
 | 🟢 | `parassapada` | active voice
 | 🔵 | `attanopada` | middle voice - impersonal |
 | 🔴 | `kammapada` | passive
-| 👤 | `ekavacana` | singular |
-| 👥 | `bahuvacana` | plural |
+| ⨀ | `ekavacana` | singular |
+| ⨂ | `bahuvacana` | plural |
 | 🤟 | `paṭhama purisa` | first person, equivalent to 'third person' in English |
 | 🤘 | `majjima purisa` | middle person, equivalent to 'second person' in English |
 | 👆 | `uttama purisa` | primary person, equivalent to 'first person' in English |
-| 0️⃣ | `ālapana` | vocative |
-| 1️⃣ | `paṭhamā` | first case (nominative) |
-| 2️⃣ | `dutiyā` | second case (accusative) |
-| 3️⃣ | `tatiyā` | third case (instrumental) |
-| 4️⃣ | `catutthī` | fourth case (dative) |
-| 5️⃣ | `pañcamī` | fifth case (ablative) |
-| 6️⃣ | `chaṭṭhī` | sixth case (genitive) |
-| 7️⃣ | `sattamī` | seventh case (locative) |
+| ⓪ | `ālapana` | vocative |
+| ① | `paṭhamā` | first case (nominative) |
+| ② | `dutiyā` | second case (accusative) |
+| ③ | `tatiyā` | third case (instrumental) |
+| ④ | `catutthī` | fourth case (dative) |
+| ⑤ | `pañcamī` | fifth case (ablative) |
+| ⑥ | `chaṭṭhī` | sixth case (genitive) |
+| ⑦ | `sattamī` | seventh case (locative) |
 | ⏏️ | `nipāta` | particle |
 | 🔼 | `upasagga` |prefix |
 | 🆎 | `samāsa` | compound noun |
@@ -65,18 +65,18 @@ classDiagram
   namespace kattar {
     class devo {
       <<nāma>>
-      🚹👤1️⃣
+      🚹⨀①
       english(deity)
     }
     class amanusso {
       <<nāma>>
-      🚹👤1️⃣
+      🚹⨀①
       english(not human)
     }
   }
   class hoti {
     <<ākhyāta>>
-     👤🤟▶️
+     ⨀🤟▶️
     english(is)
   }
   sentence *-- devo : kattar
@@ -94,12 +94,12 @@ classDiagram
   }
   class devo {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(deity)
   }
   class cavati {
     <<ākhyāta>>
-     👤🤟▶️
+     ⨀🤟▶️
     english(dies)
   }
   sentence *-- devo : kattar
@@ -116,17 +116,17 @@ classDiagram
   }
   class upāsako {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(lay disciple)
   }
   class pattaṃ {
     <<nāma>>
-    🚹👤2️⃣
+    🚹⨀②
     english(bowl)
   }
   class āharati {
     <<ākhyāta>>
-     👤🤟▶️
+     ⨀🤟▶️
     english(brings)
   }
   sentence *-- upāsako : kattar
@@ -144,17 +144,17 @@ classDiagram
   }
   class upāsakaṃ {
     <<nāma>>
-    🚹👤2️⃣
+    🚹⨀②
     english(lay disciple)
   }
   class brāhmānaṃ {
     <<nāma>>
-    🚹👤2️⃣
+    🚹⨀②
     english(brahmin)
   }
   class dhāreti {
     <<ākhyāta>>
-     👤🤟▶️
+     ⨀🤟▶️
     english(accepts X as Y)
   }
   sentence *-- upāsakaṃ : kamma y
@@ -173,23 +173,23 @@ classDiagram
   namespace yenatena {
     class yena {
       <<nipāta>>
-      3️⃣
+      ③
       english(by where)
     }
     class mahāmatto {
       <<nāma>>
-      🚹👤1️⃣
+      🚹⨀①
       english(minister)
     }
     class tena {
       <<nipāta>>
-      3️⃣
+      ③
       english(by there)
     }
   }
   class upasaṃkamanti {
     <<ākhyāta>>
-     👥🤟▶️
+     ⨂🤟▶️
     english(approach)
   }
   sentence *-- yena
@@ -219,12 +219,12 @@ classDiagram
   }
   class dhammaṃ {
     <<nāma>>
-    🚹👤2️⃣
+    🚹⨀②
     english(the dhamma)
   }
   class desesiṃ {
     <<ākhyāta>>
-     👤👆⏮
+     ⨀👆⏮
     english([I] taught)
   }
   sentence *-- dhammaṃ : kamma
@@ -242,7 +242,7 @@ classDiagram
   namespace kamma {
     class Uttaro {
       <<nāmanāma>>
-      🚹👤2️⃣
+      🚹⨀②
       english(Uttara)
     }
     class nāma {
@@ -251,13 +251,13 @@ classDiagram
     }
     class putto {
       <<nāma>>
-      🚹👤2️⃣
+      🚹⨀②
       english(son)
     }
   }
   class ahosi {
     <<ākhyāta>>
-     👤🤟⏮
+     ⨀🤟⏮
     english(was)
   }
   Uttaro --> nāma
@@ -281,7 +281,7 @@ classDiagram
   namespace kattar1 {
     class Reṇu {
       <<nāma>>
-      🚹👤1️⃣
+      🚹⨀①
       english(Reṇu)
     }
     class ca1["ca"] {
@@ -290,14 +290,14 @@ classDiagram
     }
     class rājaputto {
       <<nāma>>
-      🚹👤1️⃣
+      🚹⨀①
       english(prince)
     }
   }
   namespace kattar2 {
     class Jotipālo {
       <<nāma>>
-      🚹👤1️⃣
+      🚹⨀①
       english(Jotipāla)
     }
     class ca2["ca"] {
@@ -306,18 +306,18 @@ classDiagram
     }
     class mānavo {
       <<nāma>>
-      🚹👤1️⃣
+      🚹⨀①
       english(mānava)
     }
   }
   class sahāyā {
     <<nāma>>
-    🚹👥2️⃣
+    🚹⨂②
     english(friends)
   }
   class ahesuṃ {
     <<ākhyāta>>
-     👥🤟⏮
+     ⨂🤟⏮
     english(were)
   }
   sentence *-- Reṇu : nāmanāma
@@ -340,23 +340,23 @@ classDiagram
   }
   class ahaṃ {
     <<puggalanāma>>
-    ⚧👤1️⃣👆
+    ⚧⨀①👆
     english(I)
   }
   class asmi {
     <<ākhyāta>>
-     👤👆▶️
+     ⨀👆▶️
     english([I] am)
   }
   namespace kamma {
     class brahmā {
       <<nāma>>
-      🚹👤2️⃣
+      🚹⨀②
       english(God)
     }
     class issaro {
       <<nāma>>
-      🚹👤2️⃣
+      🚹⨀②
       english(Lord)
     }
   }
@@ -382,22 +382,22 @@ classDiagram
   }
   class mayaṃ {
     <<puggalanāma>>
-    ⚧👥1️⃣👆
+    ⚧⨂①👆
     english(We)
   }
   class taṃ {
     <<nidassananāma>>
-    ⚧👤🤟2️⃣
+    ⚧⨀🤟②
     english(that)
   }
   class bhagavantaṃ {
     <<nāma>>
-    🚹👤2️⃣
+    🚹⨀②
     english(Blessed One)
   }
   class avocuṃha {
     <<ākhyāta>>
-     👥👆⏮
+     ⨂👆⏮
     english(said)
   }
   sentence *-- mayaṃ : kattar
@@ -420,17 +420,17 @@ classDiagram
   }
   class eso {
     <<nidassananāma>>
-    🚹👤🤟1️⃣
+    🚹⨀🤟①
     english(this)
   }
   class Mahārāja {
     <<nāma>>
-    🚹👤0️⃣
+    🚹⨀⓪
     english(that)
   }
   class Bhagavā {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(Blessed One)
   }
   sentence *-- eso : kattar
@@ -449,17 +449,17 @@ classDiagram
   }
   class idaṃ {
     <<nidassananāma>>
-    🚻👤🤟2️⃣
+    🚻⨀🤟②
     english(this)
   }
   class avoca {
     <<ākhyāta>>
-    👤🤟⏮
+    ⨀🤟⏮
     english(said)
   }
   class Bhagavā {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(Blessed One)
   }
   sentence *-- idaṃ : kamma
@@ -477,12 +477,12 @@ classDiagram
   }
   class atthi {
     <<ākhyāta>>
-     👤🤟▶️
+     ⨀🤟▶️
     english(There is)
   }
   class kayo {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(body)
   }
   sentence *-- atthi: ākhyāta
@@ -499,7 +499,7 @@ classDiagram
   }
   class tvaṃ {
     <<puggalanāma>>
-    ⚧👤🤘1️⃣
+    ⚧⨀🤘①
     english(You)
   }
   class na {
@@ -508,7 +508,7 @@ classDiagram
   }
   class passasi {
     <<ākhyāta>>
-     👤🤘▶️
+     ⨀🤘▶️
     english(see)
   }
   sentence *-- tvaṃ : kattar
@@ -533,7 +533,7 @@ classDiagram
   }
   class paridevesi {
     <<ākhyāta>>
-     👤🤘⏮
+     ⨀🤘⏮
     english(grieved)
   }
   sentence *-- mā : nipāta
@@ -556,17 +556,17 @@ classDiagram
   }
   class rājā {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(king)
   }
   class kālam {
     <<nāma>>
-    🚹👤2️⃣ 
+    🚹⨀② 
     english(time)
   }
   class akāsi {
     <<ākhyāta>>
-     👤🤟⏮
+     ⨀🤟⏮
     english(made)
   }
   sentence *-- mā : nipāta
@@ -595,7 +595,7 @@ classDiagram
   }
   class kumāro {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(prince)
   }
   class na {
@@ -604,12 +604,12 @@ classDiagram
   }
   class rajjaṃ {
     <<nāma>>
-    🚹👤2️⃣ 
+    🚹⨀② 
     english(kingdom)
   }
   class kāresi {
     <<ākhyāta>>
-     👤🤟⏮
+     ⨀🤟⏮
     english(rule)
   }
   sentence *-- mā : nipāta
@@ -636,17 +636,17 @@ classDiagram
   }
   class tvaṃ {
     <<puggalanāma>>
-    ⚧👤🤘1️⃣
+    ⚧⨀🤘①
     english(you)
   }
   class deva {
     <<nāma>>
-    🚹👤0️⃣
+    🚹⨀⓪
     english(O King)
   }
   class vañcemi {
     <<ākhyāta>>
-     👤👆⏮
+     ⨀👆⏮
     english([I] deceived)
   }
   sentence *-- na : nipāta
@@ -665,17 +665,17 @@ classDiagram
   }
   class ehi {
     <<ākhyāta>>
-     👤👆⏹
+     ⨀👆⏹
     english([must] go)
   }
   class tvaṃ {
     <<puggalanāma>>
-    ⚧👤🤘1️⃣
+    ⚧⨀🤘①
     english(you)
   }
   class purisa {
     <<nāma>>
-    🚹👤0️⃣
+    🚹⨀⓪
     english(man)
   }
   sentence *-- ehi: piñcamī
@@ -693,12 +693,12 @@ classDiagram
   }
   class etu {
     <<ākhyāta>>
-     👤👆⏹
+     ⨀👆⏹
     english([must] come)
   }
   class bhagavā {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(Blessed One)
   }
   sentence *-- etu: piñcamī
@@ -717,12 +717,12 @@ classDiagram
   }
   class tiṭṭhatha {
     <<ākhyāta>>
-     👥🤟⏹
+     ⨂🤟⏹
     english(wait/remain)
   }
   class tumhe {
     <<sabbanāma>>
-    ⚧👥🤟1️⃣
+    ⚧⨂🤟①
     english(you)
   }
   sentence *-- tiṭṭhatha: piñcamī
@@ -739,12 +739,12 @@ classDiagram
   }
   class nisidatu {
     <<ākhyāta>>
-     👤👆⏹
+     ⨀👆⏹
     english([must] sit)
   }
   class bhagavā {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(Blessed One)
   }
   sentence *-- nisidatu: piñcamī
@@ -768,7 +768,7 @@ classDiagram
     }
     class deva {
       <<nāma>>
-      🚹👤0️⃣
+      🚹⨀⓪
       english(O King)
     }
   }
@@ -794,7 +794,7 @@ classDiagram
   namespace quotation {
     class eso {
       <<sabbanāma>>
-      🚻👤🤟1️⃣
+      🚻⨀🤟①
       english(this)
     }
     class na2["na"] {
@@ -803,7 +803,7 @@ classDiagram
     }
     class atthi {
       <<ākhyāta>>
-      👤🤟▶️
+      ⨀🤟▶️
       english(exist)
     }
   }
@@ -836,17 +836,17 @@ classDiagram
   }
   class paribbājako {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(wanderer)
   }
   class santuṭṭho {
     <<past participle>>
-    ⏪🚹👤1️⃣
+    ⏪🚹⨀①
     english(contented)
   }
   class hoti {
     <<ākhyāta>>
-     👤🤟▶️
+     ⨀🤟▶️
     english(is)
   }
   sentence *-- paribbājako : kattar
@@ -864,12 +864,12 @@ classDiagram
   }
   class kāyena {
     <<nāma>>
-    🚹👤3️⃣
+    🚹⨀③
     english([with] body)
   }
   class phusati {
     <<ākhyāta>>
-     👤🤟▶️
+     ⨀🤟▶️
     english(touch)
   }
   sentence *-- kāyena : karaṇa
@@ -890,12 +890,12 @@ classDiagram
   }
   class me {
     <<sabbanāma>>
-    ⚧👤👆3️⃣
+    ⚧⨀👆③
     english([by] me)
   }
   class sutaṃ {
     <<past participle>>
-    🔵⏪🚹👤1️⃣
+    🔵⏪🚹⨀①
     english(heard)
   }
   sentence *-- evaṃ : nipāta
@@ -913,22 +913,22 @@ classDiagram
   }
   class mayā {
     <<sabbanāma>>
-    ⚧👤👆3️⃣
+    ⚧⨀👆③
     english([by] me)
   }
   class ime {
     <<sabbanāma>>
-    🚹👥1️⃣
+    🚹⨂①
     english(these)
   }
   class sattā {
     <<sabbanāma>>
-    🚹👥1️⃣
+    🚹⨂①
     english(beings)
   }
   class nimmitā {
     <<past participle>>
-    🔴⏪🚹👥1️⃣
+    🔴⏪🚹⨂①
     english(created)
   }
   sentence *-- mayā : karaṇa
@@ -948,7 +948,7 @@ classDiagram
   namespace kattar {
     class sujātā {
       <<nāmanāma>>
-      🚺👤1️⃣
+      🚺⨀①
       english(Sujātā)
     }
     class nāma {
@@ -957,18 +957,18 @@ classDiagram
     }
     class upāsikā {
       <<nāma>>
-      🚺👤1️⃣
+      🚺⨀①
       english(food)
     }
   }
   class bhante {
     <<nāma>>
-    🚹👤0️⃣
+    🚹⨀⓪
     english(Venerable Sir)
   }
   class kālakatā {
     <<past participle>>
-    🟢⏪🚺👤1️⃣
+    🟢⏪🚺⨀①
     english(created)
   }
   sujātā --> nāma
@@ -998,34 +998,34 @@ classDiagram
   }
   class tena {
     <<nidassananāma>>
-    ⚧👤🤟3️⃣
+    ⚧⨀🤟③
     english(that)
   }
   class samayena {
     <<nāma>>
-    🚹👤3️⃣
+    🚹⨀③
     english(at time)
   }
   namespace kattar {
     class ahaṃ {
       <<sabbanāma>>
-      ⚧👤👆1️⃣
+      ⚧⨀👆①
       english([by] me)
     }
     class rājā {
       <<nāma>>
-      🚹👤1️⃣
+      🚹⨀①
       english(king)
     }
     class Mahāsudassano {
       <<nāmanāma>>
-      🚹👤1️⃣
+      🚹⨀①
       english(Mahāsudassana)
     }
   }
   class ahosiṃ {
     <<ākhyāta>>
-    👤👆⏮
+    ⨀👆⏮
     english(was)
   }
   sentence *-- ahaṃ : kattar
@@ -1046,12 +1046,12 @@ classDiagram
   }
   class gacchaṃ {
     <<missakiriyā>>
-    ⏬🚹👤1️⃣
+    ⏬🚹⨀①
     english(created)
   }
   class passati {
     <<ākhyāta>>
-     👤🤟▶️
+     ⨀🤟▶️
     english(touch)
   }
   sentence *-- gacchaṃ : missakiriyā
@@ -1077,7 +1077,7 @@ classDiagram
   }
   class avocumha {
     <<ākhyāta>>
-     👥👆⏮
+     ⨂👆⏮
     english([We] said)
   }
   sentence *-- disvā : pubbakiriyā
@@ -1095,12 +1095,12 @@ classDiagram
   }
   class bhojanaṃ {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(food)
   }
   class diyati {
     <<ākhyāta>>
-     🔴👤🤟▶️
+     🔴⨀🤟▶️
     english(is given)
   }
   sentence *-- bhojanaṃ : kamma
@@ -1121,27 +1121,27 @@ classDiagram
   }
   class Nigrodha {
     <<nāmanāma>>
-    🚹👤0️⃣
+    🚹⨀⓪
     english(Nigrodha)
   }
   class bhāsitā {
     <<past participle>>
-    🔴⏪🚺👤1️⃣
+    🔴⏪🚺⨀①
     english(is spoken)
   }
   class esā {
     <<sabbanāma>>
-    🚺👤🤟1️⃣
+    🚺⨀🤟①
     english(this)
   }
   class vācā {
     <<nāma>>
-    🚺👤1️⃣
+    🚺⨀①
     english(speech)
   }
   class te {
     <<sabbanāma>>
-    ⚧👤🤘3️⃣
+    ⚧⨀🤘③
     english(by you)
   }
   sentence *-- saccaṃ : nipāta
@@ -1164,27 +1164,27 @@ classDiagram
   }
   class bhante {
     <<nāma>>
-    🚹👤0️⃣
+    🚹⨀⓪
     english(Venerable Sir)
   }
   class bhāsitā {
     <<past participle>>
-    🔴⏪🚺👤1️⃣
+    🔴⏪🚺⨀①
     english(is spoken)
   }
   class esā {
     <<sabbanāma>>
-    🚺👤🤟1️⃣
+    🚺⨀🤟①
     english(this)
   }
   class vācā {
     <<nāma>>
-    🚺👤1️⃣
+    🚺⨀①
     english(speech)
   }
   class me {
     <<sabbanāma>>
-    ⚧👤👆3️⃣
+    ⚧⨀👆③
     english(by me)
   }
   sentence *-- saccaṃ : nipāta
@@ -1205,18 +1205,18 @@ classDiagram
   }
   class idaṃ {
     <<sabbanāma>>
-    🚺👤🤟1️⃣
+    🚺⨀🤟①
     english(this)
   }
   class vuccati {
     <<ākhyāta>>
-     🔴👤🤟▶️
+     🔴⨀🤟▶️
     english(is called)
   }
   namespace kamma1 {
     class cittaṃ {
       <<nāma>>
-      🚻👤1️⃣
+      🚻⨀①
       english(mind)
     }
     class ti1["ti"] {
@@ -1231,7 +1231,7 @@ classDiagram
   namespace kamma2 {
     class viññāṇaṃ {
       <<nāma>>
-      🚻👤1️⃣
+      🚻⨀①
       english(consciousness)
     }
     class ti2["ti"] {
@@ -1272,18 +1272,18 @@ classDiagram
   namespace kattar {
     class tathāgatassa {
       <<nāma>>
-      🚹👤6️⃣
+      🚹⨀⑥
       english(Tathāgata's)
     }
     class parinibbānaṃ {
       <<nāma>>
-      🚻👤1️⃣
+      🚻⨀①
       english(extinction)
     }
   }
   class bhavissati {
     <<ākhyāta>>
-     👤🤟⏭
+     ⨀🤟⏭
     english(will be)
   }
   tathāgatassa <-- parinibbānaṃ
@@ -1303,18 +1303,18 @@ classDiagram
   namespace kattar {
     class imassa {
       <<sabbanāma>>
-      ⚧👤🤟6️⃣
+      ⚧⨀🤟⑥
       english(his)
     }
     class jayo {
       <<nāma>>
-      🚹👤1️⃣
+      🚹⨀①
       english(victory)
     }
   }
   class bhavissati {
     <<ākhyāta>>
-     👤🤟⏭
+     ⨀🤟⏭
     english(will be)
   }
   imassa <-- jayo
@@ -1334,22 +1334,22 @@ classDiagram
   namespace kattar {
     class ayaṃ {
       <<nidassananāma>>
-      ⚧👤🤟1️⃣
+      ⚧⨀🤟①
       english(this)
     }
     class imassa {
       <<nidassananāma>>
-      ⚧👤🤟6️⃣
+      ⚧⨀🤟⑥
       english(of this)
     }
     class bhāsitassa {
       <<nāma>>
-      🚹👤6️⃣
+      🚹⨀⑥
       english(of speech)
     }
     class attho {
       <<nāma>>
-      🚹👤1️⃣
+      🚹⨀①
       english(meaning)
     }
   }
@@ -1372,17 +1372,17 @@ classDiagram
   namespace kattar {
     class s["Soṇadaṇḍo"] {
       <<nāmanāma>>
-      🚹👤1️⃣
+      🚹⨀①
       english(Soṇadaṇḍa)
     }
     class brāhmaṇassa {
       <<nāma>>
-      🚹👤6️⃣
+      🚹⨀⑥
       english(of the brāhmaṇ)
     }
     class pūjito {
       <<past participle>>
-      ⏪🚹👤1️⃣
+      ⏪🚹⨀①
       english(honoured)
     }
   }
@@ -1403,22 +1403,22 @@ classDiagram
   namespace kattar {
     class ahaṃ {
       <<puggalanāma>>
-      ⚧👤👆1️⃣
+      ⚧⨀👆①
       english(I)
     }
     class tassa {
       <<nidassananāma>>
-      🚹👤🤟6️⃣
+      🚹⨀🤟⑥
       english(of that)
     }
     class yaññassa {
       <<nāma>>
-      🚹👤6️⃣
+      🚹⨀⑥
       english(of sacrifice)
     }
     class yājetā {
       <<past participle>>
-      ⏪🚹👤1️⃣
+      ⏪🚹⨀①
       english(sacrificer (performer))
     }
   }
@@ -1443,7 +1443,7 @@ classDiagram
   namespace genitive_absolute {
     class kammaṃ {
       <<nāma>>
-      🚹👤2️⃣
+      🚹⨀②
       english(work)
     }
     class kho {
@@ -1456,23 +1456,23 @@ classDiagram
     }
     class me {
       <<puggalanāma>>
-      ⚧👤👆6️⃣
+      ⚧⨀👆⑥
       english(of I)
     }
     class karontassa {
       <<past participle>>
-      ⏪🚹👤6️⃣
+      ⏪🚹⨀⑥
       english(of doing)
     }
   }
   class kāyo {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(body)
   }
   class kilamissati {
     <<ākhyāta>>
-     👤🤟⏭
+     ⨀🤟⏭
     english(will be tired)
   }
   kammaṃ --> karontassa : kamma
@@ -1496,12 +1496,12 @@ classDiagram
   }
   class sassato {
     <<guṇanāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(eternal)
   }
   class loko {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(world)
   }
   sentence *-- sassato : guṇanāma
@@ -1520,12 +1520,12 @@ classDiagram
   }
   class vācā {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(speech)
   }
   class kantā {
     <<guṇanāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(agreeable)
   }
   sentence *-- vācā: kattar
@@ -1546,12 +1546,12 @@ classDiagram
   }
   class etaṃ {
     <<nidassananāma>>
-    ⚧👤🤟1️⃣
+    ⚧⨀🤟①
     english(this)
   }
   class vijjati {
     <<ākhyāta>>
-     👤🤟▶️
+     ⨀🤟▶️
     english(it occurs)
   }
   sentence *-- ṭhānaṃ: nipāta
@@ -1571,7 +1571,7 @@ classDiagram
   }
   class etaṃ {
     <<nidassananāma>>
-    ⚧👤🤟1️⃣
+    ⚧⨀🤟①
     english(this)
   }
   class ṭhānaṃ {
@@ -1580,7 +1580,7 @@ classDiagram
   }
   class vijjati {
     <<ākhyāta>>
-     👤🤟▶️
+     ⨀🤟▶️
     english(it occurs)
   }
   sentence *-- na: nipāta
@@ -1599,17 +1599,17 @@ classDiagram
   }
   class gāmaṃ {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(village)
   }
   class piṇḍāya {
     <<nāma>>
-    🚹👤4️⃣
+    🚹⨀④
     english(alms)
   }
   class pāvisi {
     <<ākhyāta>>
-     👤🤟⏮
+     ⨀🤟⏮
     english([he] entered)
   }
   sentence *-- gāmaṃ: kattar
@@ -1627,12 +1627,12 @@ classDiagram
   }
   class etassa {
     <<nidassananāma>>
-    ⚧👤4️⃣
+    ⚧⨀④
     english(for this)
   }
   class kālo {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(time)
   }
   sentence *-- etassa: sampadāna
@@ -1649,12 +1649,12 @@ classDiagram
   }
   class akālo {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(not the time for)
   }
   class yācanāya {
     <<nidassananāma>>
-    🚻👤4️⃣
+    🚻⨀④
     english(asking)
   }
   sentence *-- akālo: kattar
@@ -1676,7 +1676,7 @@ classDiagram
   }
   class yassa {
     <<anvayīnāma>>
-    ⚧👤4️⃣
+    ⚧⨀④
     english(for which)
   }
   class dāni {
@@ -1685,12 +1685,12 @@ classDiagram
   }
   class kālaṃ {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(time)
   }
   class maññasi {
     <<ākhyāta>>
-     👤🤘▶️
+     ⨀🤘▶️
     english([you] think)
   }
   sentence *-- yassa: sampadāna
@@ -1718,24 +1718,24 @@ classDiagram
   namespace relative {
     class ye {
       <<anvayīnāma>>
-      ⚧👥1️⃣
+      ⚧⨂①
       english(those who)
     }
     class icchiṃsu {
       <<ākhyāta>>
-      👥🤟⏮
+      ⨂🤟⏮
       english([they] wished)
     }
   }
   namespace main {
     class te {
       <<puggalanāma>>
-      ⚧👥1️⃣
+      ⚧⨂①
       english(they)
     }
     class akaṃsu {
       <<ākhyāta>>
-      👥🤟⏮
+      ⨂🤟⏮
       english([they] worked)
     }
   }
@@ -1756,29 +1756,29 @@ classDiagram
   namespace relative {
     class yena {
       <<anvayīnāma>>
-      ⚧👤4️⃣
+      ⚧⨀④
       english(by which)
     }
     class dvārena {
       <<nāma>>
-      🚹👤4️⃣
+      🚹⨀④
       english(by gate)
     }
     class nikkhami {
       <<ākhyāta>>
-      👤🤟⏮
+      ⨀🤟⏮
       english([he] left)
     }
   }
   namespace main {
     class taṃ {
       <<puggalanāma>>
-      ⚧👤1️⃣
+      ⚧⨀①
       english(that)
     }
     class Gotamadvāraṃ {
       <<nāmanāma>>
-      🚹👤2️⃣
+      🚹⨀②
       english(Gotamadvāro)
     }
     class nāma {
@@ -1787,7 +1787,7 @@ classDiagram
     }
     class ahosi {
       <<ākhyāta>>
-      👤🤟⏮
+      ⨀🤟⏮
       english([it] was)
     }
   }
@@ -1811,24 +1811,24 @@ classDiagram
   namespace relative {
     class ye {
       <<anvayīnāma>>
-      ⚧👥1️⃣
+      ⚧⨂①
       english(those who)
     }
     class ahesuṃ {
       <<ākhyāta>>
-      👥🤟⏮
+      ⨂🤟⏮
       english([they] were)
     }
   }
   namespace main {
     class sabbe {
       <<sabbanāma>>
-      ⚧👥2️⃣
+      ⚧⨂②
       english(them all)
     }
     class bhakkhesi {
       <<ākhyāta>>
-      👤🤟▶️
+      ⨀🤟▶️
       english(devour)
     }
   }
@@ -1849,24 +1849,24 @@ classDiagram
   namespace relative {
     class yo["yo yo"] {
       <<anīyamanāma>>
-      ⚧👤1️⃣
+      ⚧⨀①
       english(whoever)
     }
     class ādiyissati {
       <<ākhyāta>>
-      👤🤟⏭
+      ⨀🤟⏭
       english(will take)
     }
   }
   namespace main {
     class tassa["tassa tassa"] {
       <<puggalanāma>>
-      ⚧👤4️⃣
+      ⚧⨀④
       english(to him)
     }
     class anuppadassāmi {
       <<ākhyāta>>
-      👤🤟⏭
+      ⨀🤟⏭
       english([I] will grant)
     }
   }
@@ -1884,12 +1884,12 @@ classDiagram
   }
   class yena["yena yena"] {
     <<anīyamanāma>>
-    ⚧👤6️⃣
+    ⚧⨀⑥
     english(wherever)
   }
   class gacchati {
     <<ākhyāta>>
-    👤🤟▶️
+    ⨀🤟▶️
     english([he] goes)
   }
   sentence *-- yena: anīyamanāma
@@ -1907,12 +1907,12 @@ classDiagram
   namespace relative {
     class yoso["yo so"] {
       <<anvayīnāma>>
-      ⚧👤1️⃣
+      ⚧⨀①
       english(he who)
     }
     class satto {
       <<nāma>>
-      🚹👤1️⃣
+      🚹⨀①
       english(being)
     }
     class paṭhamaṃ {
@@ -1921,14 +1921,14 @@ classDiagram
     }
     class upapanno {
       <<past participle>>
-      ⏪🚹👤1️⃣
+      ⏪🚹⨀①
       english(arose)
     }
   }
   namespace idiom {
     class tassa {
       <<puggalanāma>>
-      ⚧👥4️⃣
+      ⚧⨂④
       english(to him)
     }
     class evaṃ {
@@ -1937,24 +1937,24 @@ classDiagram
     }
     class hoti {
       <<ākhyāta>>
-      👤🤟▶️
+      ⨀🤟▶️
       english(is)
     }
   }
   namespace thought {
     class ahaṃ {
       <<puggalanāma>>
-      ⚧👤1️⃣👆
+      ⚧⨀①👆
       english(I)
     }
     class asmi {
       <<ākhyāta>>
-      👤🤟▶️
+      ⨀🤟▶️
       english([I] am)
     }
     class brahmā {
       <<nāma>>
-      🚹👤2️⃣
+      🚹⨀②
       english(God)
     }
   }
@@ -1983,7 +1983,7 @@ classDiagram
   namespace main {
     class hoti {
       <<ākhyāta>>
-      👤🤟▶️
+      ⨀🤟▶️
       english(is)
     }
     class kho {
@@ -1992,34 +1992,34 @@ classDiagram
     }
     class so {
       <<pucchānāma>>
-      🚹👤🤟
+      🚹⨀🤟
       english(that)
     }
     class samayo {
       <<nāma>>
-      🚹👤1️⃣
+      🚹⨀①
       english(time)
     }
   }
   namespace relative {
     class yaṃ {
       <<anvayīnāma>>
-      ⚧👤1️⃣
+      ⚧⨀①
       english(when)
     }
     class ayaṃ {
       <<nidassananāma>>
-      ⚧👤🤟1️⃣
+      ⚧⨀🤟①
       english(this)
     }
     class loko {
       <<nāma>>
-      🚹👤1️⃣
+      🚹⨀①
       english(world)
     }
     class vivaṭṭati {
       <<ākhyāta>>
-      👤🤘▶️
+      ⨀🤘▶️
       english(revolves)
     }
   }
@@ -2043,22 +2043,22 @@ classDiagram
   }
   class ko {
     <<pucchānāma>>
-    🚹👤🤟
+    🚹⨀🤟
     english(who?)
   }
   class asi {
     <<ākhyāta>>
-     👤🤘▶️
+     ⨀🤘▶️
     english([you] are)
   }
   class tvaṃ {
     <<puggalanāma>>
-    ⚧👤🤘1️⃣
+    ⚧⨀🤘①
     english(you)
   }
   class āvuso {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(friend)
   }
   sentence *-- ko: pucchānāma
@@ -2081,12 +2081,12 @@ classDiagram
   }
   class saddaṃ {
     <<nāma>>
-    🚹👤1️⃣
+    🚹⨀①
     english(noise)
   }
   class assosi {
     <<ākhyāta>>
-     👤🤟⏮
+     ⨀🤟⏮
     english([he] heard)
   }
   sentence *-- kiṃ: nipāta

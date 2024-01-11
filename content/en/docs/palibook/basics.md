@@ -252,8 +252,8 @@ tendency is to associate important words to `pulliṅga`.
 Like in English, Pali words are slightly different depending on whether they are
 used to refer to one thing vs many things.
 
-* 👤 = `ekavacana` (singular)
-* 👥 = `bahuvacana` (plural)
+* ⨀ = `ekavacana` (singular)
+* ⨂ = `bahuvacana` (plural)
 
 There used to be also a "dual" form but that is now largely obsolete and
 encountered in very rare instances. Examples include:
@@ -270,25 +270,25 @@ sentence. This is done by adding endings or "suffixes" to the word (`vibhatti`).
 Altogether there are seven types of `vibhatti`, and they are
 conveniently numbered 1 to 7 {55}:
 
-| symbol | 👤 | 👥 | vibhatti |
+| symbol | ⨀ | ⨂ | vibhatti |
 | :-: | :-: | :-: | --- |
-| 1️⃣ | `si` | `yo` | `paṭhamā` ("first") |
-| 2️⃣ | `aṁ` | `yo` | `dutiyā` ("second") |
-| 3️⃣ | `nā` | `hi` | `tatiyā` ("third") |
-| 4️⃣ | `sa` | `naṁ` | `catutthī` ("fourth") |
-| 5️⃣ | `smā` | `hi` | `pañcamī` ("fifth") |
-| 6️⃣ | `sa` | `naṁ` | `chaṭṭhī` ("sixth") |
-| 7️⃣ | `smiṁ` | `su` | `sattamī` ("seventh") |
+| ① | `si` | `yo` | `paṭhamā` ("first") |
+| ② | `aṁ` | `yo` | `dutiyā` ("second") |
+| ③ | `nā` | `hi` | `tatiyā` ("third") |
+| ④ | `sa` | `naṁ` | `catutthī` ("fourth") |
+| ⑤ | `smā` | `hi` | `pañcamī` ("fifth") |
+| ⑥ | `sa` | `naṁ` | `chaṭṭhī` ("sixth") |
+| ⑦ | `smiṁ` | `su` | `sattamī` ("seventh") |
 
 You may note the 4th and 6th case endings are the same, which means in practice
 we can only tell which case is being used by context (more later). Notice also
 the plural endings for some of the cases are the same. Again, which case is
 being used can only be determined by context.
 
-Let's start with an example. Suppose we have the word 🚹`purisa` ("man") and we
+Let's start with an example. Suppose we have the word `purisa` ("man", in the masculine gender or 🚹) and we
 want to use it in a sentence in singular form, and we wish to transform it using
 the 1st case ending (`paṭhamāvibhatti`). If we look up the above table, we
-should add the `si` ending:
+should add the `si` ending (using rule of {55}):
 
 > `purisa` + `si` → `puriso`
 
@@ -326,26 +326,26 @@ singular vs plural.
 
 | number | vibhatti | ending | transformation | sutta | result |
 | :-: | :-: | :-: | --- | --- | --- |
-| 👤 | 1️⃣ | `si` | puris~~a~~ + ~~si~~o | {104} | `puriso` |
-| 👥 | 1️⃣ | `yo` | puris~~a~~ + ~~yo~~ā | {107} | `purisā` |
-| 👤 | 2️⃣ | `aṁ` | puris~~a~~ + aṁ | | `purisaṁ` |
-| 👥 | 2️⃣ | `yo` | puris~~a~~ + ~~yo~~e | {107} | `purise` |
-| 👤 | 3️⃣ | `nā` | puris~~a~~ + ena | {103} | `purisena` |
-| 👥 | 3️⃣ | `hi` | puris~~a~~e + hi | {101} | `purisehi` |
-| 👥 | 3️⃣ | `hi` | puris~~a~~e + bhi | {99}-{101} | `purisebhi` |
-| 👤 | 4️⃣ | `sa` | purisa + ssa | {61} | `purisassa` |
-| 👥 | 4️⃣ | `naṁ` | puris~~a~~ā + naṁ | {89} | `purisānaṁ` |
-| 👤 | 5️⃣ | `smā` | purisa + smā | | `purisasmā` |
-| 👤 | 5️⃣ | `smā` | purisa + mhā | {99} | `purisamhā` |
-| 👤 | 5️⃣ | `smā` | puris~~a~~ā | {108} | `purisā` |
-| 👥 | 5️⃣ | `hi` | puris~~a~~e + hi | {101} | `purisehi` |
-| 👥 | 5️⃣ | `hi` | puris~~a~~e + bhi | {99}-{101} | `purisebhi` |
-| 👤 | 6️⃣ | `sa` | puris~~a~~ + ssa | {61} | `purisassa` |
-| 👥 | 6️⃣ | `naṁ` | puris~~a~~ā + naṁ | {89} | `purisānaṁ` |
-| 👤 | 7️⃣ | `smiṁ` | purisa + smiṁ | | `purisasmiṁ` |
-| 👤 | 7️⃣ | `smiṁ` | purisa + mhi | {99} | `purisamhi` |
-| 👤 | 7️⃣ | `smiṁ` | puris~~a~~e | {108} | `purise` |
-| 👥 | 7️⃣ | `su` | puris~~a~~e + su | {101} | `purisesu` |
+| ⨀ | ① | `si` | puris~~a~~ + ~~si~~o | {104} | `puriso` |
+| ⨂ | ① | `yo` | puris~~a~~ + ~~yo~~ā | {107} | `purisā` |
+| ⨀ | ② | `aṁ` | puris~~a~~ + aṁ | | `purisaṁ` |
+| ⨂ | ② | `yo` | puris~~a~~ + ~~yo~~e | {107} | `purise` |
+| ⨀ | ③ | `nā` | puris~~a~~ + ena | {103} | `purisena` |
+| ⨂ | ③ | `hi` | puris~~a~~e + hi | {101} | `purisehi` |
+| ⨂ | ③ | `hi` | puris~~a~~e + bhi | {99}-{101} | `purisebhi` |
+| ⨀ | ④ | `sa` | purisa + ssa | {61} | `purisassa` |
+| ⨂ | ④ | `naṁ` | puris~~a~~ā + naṁ | {89} | `purisānaṁ` |
+| ⨀ | ⑤ | `smā` | purisa + smā | | `purisasmā` |
+| ⨀ | ⑤ | `smā` | purisa + mhā | {99} | `purisamhā` |
+| ⨀ | ⑤ | `smā` | puris~~a~~ā | {108} | `purisā` |
+| ⨂ | ⑤ | `hi` | puris~~a~~e + hi | {101} | `purisehi` |
+| ⨂ | ⑤ | `hi` | puris~~a~~e + bhi | {99}-{101} | `purisebhi` |
+| ⨀ | ⑥ | `sa` | puris~~a~~ + ssa | {61} | `purisassa` |
+| ⨂ | ⑥ | `naṁ` | puris~~a~~ā + naṁ | {89} | `purisānaṁ` |
+| ⨀ | ⑦ | `smiṁ` | purisa + smiṁ | | `purisasmiṁ` |
+| ⨀ | ⑦ | `smiṁ` | purisa + mhi | {99} | `purisamhi` |
+| ⨀ | ⑦ | `smiṁ` | puris~~a~~e | {108} | `purise` |
+| ⨂ | ⑦ | `su` | puris~~a~~e + su | {101} | `purisesu` |
 
 You will note that in some of the cases, there are multiple ways the word can
 be transformed. For example, singular `purisa` can be transformed in the 3rd
@@ -418,26 +418,26 @@ cases (perhaps for emphatic or stylistic reasons).
 
 | vibhatti | number | role | usage | Pali term | sutta |
 | :-: | :-: | --- | --- | --- | :-: |
-| 1️⃣ | 👤/👥 | subject (active) | subject, doer | `kattu`/`kattā` | {284} |
-| 1️⃣ | 👤/👥 | address | to address, to call | `ālapana` | {285} |
-| 2️⃣ | 👤 | to (object) | object | `kamma` | {297} |
-| 2️⃣ | 👥 | till | continuity for a certain period or distance | `accantasaṁyoga` | {298} |
-| 3️⃣ | 👤 | by (subject) (passive) | subject | `kattu`/`kattā` | {288} |
-| 3️⃣ | 👥 | by/with | supporting cause | `karaṇa` | {286} |
-| 3️⃣ | 👥 | with/together | company | `sahayoga` | {287} |
-| 3️⃣ | 👥 | by means of/in regard of | aspect or adjective | `visesana` | {292} |
-| 3️⃣ | 👥 | due to/for | reason | `kāraṇa` | {289} |
-| 4️⃣ | 👤/👥 | receivership/purpose | recipient of action | `sampadāna` | {293} |
-| 5️⃣ | 👤 | from | source from which it occurs | `apādāna` | {295} |
-| 5️⃣ | 👥 | for/due to | reason | `kāraṇa` | {296} |
-| 6️⃣ | 👤 | (possessive) of | owner | `sāmi` | {301} |
-| 6️⃣ | 👥 | among/out of | selection for comparison | `niddhāraṇa` | {304} |
-| 6️⃣ | 👥 | while/despite | two concurrent actions | `anādara` | {305} |
-| 7️⃣ | 👤 | at, in, on | location/position | `adhikaraṇa`/`okāsa` | {302} |
-| 7️⃣ | 👥 | among/out of | selection for comparison | `niddhāraṇa` | {304} |
-| 7️⃣ | 👥 | for/due to | cause | `nimitta` | {310} |
-| 7️⃣ | 👥 | while/when | two concurrent actions | `lakkhaṇa` | {313} |
-| 7️⃣ | 👥 | despite/while | two concurrent actions | `anādara` | {305} |
+| ① | ⨀/⨂ | subject (active) | subject, doer | `kattu`/`kattā` | {284} |
+| ① | ⨀/⨂ | address | to address, to call | `ālapana` | {285} |
+| ② | ⨀ | to (object) | object | `kamma` | {297} |
+| ② | ⨂ | till | continuity for a certain period or distance | `accantasaṁyoga` | {298} |
+| ③ | ⨀ | by (subject) (passive) | subject | `kattu`/`kattā` | {288} |
+| ③ | ⨂ | by/with | supporting cause | `karaṇa` | {286} |
+| ③ | ⨂ | with/together | company | `sahayoga` | {287} |
+| ③ | ⨂ | by means of/in regard of | aspect or adjective | `visesana` | {292} |
+| ③ | ⨂ | due to/for | reason | `kāraṇa` | {289} |
+| ④ | ⨀/⨂ | receivership/purpose | recipient of action | `sampadāna` | {293} |
+| ⑤ | ⨀ | from | source from which it occurs | `apādāna` | {295} |
+| ⑤ | ⨂ | for/due to | reason | `kāraṇa` | {296} |
+| ⑥ | ⨀ | (possessive) of | owner | `sāmi` | {301} |
+| ⑥ | ⨂ | among/out of | selection for comparison | `niddhāraṇa` | {304} |
+| ⑥ | ⨂ | while/despite | two concurrent actions | `anādara` | {305} |
+| ⑦ | ⨀ | at, in, on | location/position | `adhikaraṇa`/`okāsa` | {302} |
+| ⑦ | ⨂ | among/out of | selection for comparison | `niddhāraṇa` | {304} |
+| ⑦ | ⨂ | for/due to | cause | `nimitta` | {310} |
+| ⑦ | ⨂ | while/when | two concurrent actions | `lakkhaṇa` | {313} |
+| ⑦ | ⨂ | despite/while | two concurrent actions | `anādara` | {305} |
 
 {{< alert title="Reference" color="light">}}
 For a detailed explanation of the various meanings associated with each case
@@ -451,13 +451,13 @@ ending, please refer to the next chapter:
 You may find in Pali grammar books written in English the following nomenclature
 for the cases:
 
-* 1️⃣ = "nominative"
-* 2️⃣ = "accusative"
-* 3️⃣ = "instrumental"
-* 4️⃣ = "dative"
-* 5️⃣ = "ablative"
-* 6️⃣ = "genitive"
-* 7️⃣ = "locative"
+* ① = "nominative"
+* ② = "accusative"
+* ③ = "instrumental"
+* ④ = "dative"
+* ⑤ = "ablative"
+* ⑥ = "genitive"
+* ⑦ = "locative"
 
 Note that these terms only partially reflect the possible meanings and roles
 associated with each case, so I would discourage using these terms. They can
@@ -465,7 +465,7 @@ lead to confusion. However, these terms are common in Pali-English dictionaries
 so I encourage you to substitute the case number when you see these terms.
 {{< /alert >}}
 
-### 0️⃣ `ālapana` (vocative) {57}
+### ⓪ `ālapana` (vocative) {57}
 
 English Pali textbooks often refer to a "vocative" case, but this is not
 recognised as a separate case but a variant of the 1st case. The usual case
@@ -478,7 +478,7 @@ Examples:
 > `bhoti kaññe`! (Oh girl!)  
 > `bhoti kharādiye`!  (Oh the girl named Kharādiya!)
 
-Contrast this to the normal 1st case form of `ayyā` (🚺👤1️⃣):
+Contrast this to the normal 1st case form of `ayyā` (🚺⨀①):
 
 > `sā ayyā` (that lady)
 
@@ -500,7 +500,7 @@ as adjectives, adverbs, honorifics and interrogatives.
 
 Examples:
 
-| Sabbanāma | meaning | 4️⃣ | 6️⃣ |
+| Sabbanāma | meaning | ④ | ⑥ |
 | :-: | :-: | :-: | :-: |
 | `sabba` | all | `sabbesaṁ` | `sabbesānaṁ` |
 | `ya` | which | `yesaṁ` | `yesānaṁ` |
@@ -600,7 +600,7 @@ Example:
 
 > parābhavo
 
-🔼(parā) 🚹👤1️⃣(bhava)  
+🔼(parā) 🚹⨀①(bhava)  
 opposite / to be, being
 *loss, ruin*
 
@@ -646,7 +646,7 @@ The following table summarises the major types of compound nouns, typical
 | :-: | :-: | :-: | --- | :-: |
 | `abyayībhāva` | Adverbial | 🚻 | `so napuṁsakaliṅgo` | {320} |
 | `kammadhāraya` | Appositional | variable, or follow last component | `abhidheyavacano, paraliṅgo ca` | {341} |
-| `digu` | Numeral Appositional | 🚻 (usually 👤 but can be 👥) | `digusseʼkattaṁ` | {321} |
+| `digu` | Numeral Appositional | 🚻 (usually ⨀ but can be ⨂) | `digusseʼkattaṁ` | {321} |
 | `tappurisa` | Determinative | variable | `ayañʼca tappuriso abhidheyavacanaliṅgo` | Rūpasiddhi {351} |
 | `dvanda` | Copulative | Mostly 🚻 but variable in some instances per last component | `samāhāre napuṁsakaṁ` | Moggalāna {20} Chapter 3 |
 | `bahubbīhi` | Attributive | variable per the contextual meaning of the aññapada (the external word of attributive meaning) | `bahubbīhi cāʼyaṁ abhidheyaliṅgavacano` | Rūpasiddhi {352} |
@@ -654,14 +654,14 @@ The following table summarises the major types of compound nouns, typical
 The rules for constructing a `samāsa` can be complex:
 
 `rāja` + `putta` (the King's son)  
-→ `rāja` + `sa` + `putta` (👤6️⃣)  
-→ `rāja` + `sa` + `putta` + `si` (👤1️⃣)  
+→ `rāja` + `sa` + `putta` (⨀⑥)  
+→ `rāja` + `sa` + `putta` + `si` (⨀①)  
 → `rā`~~`ja`~~(`ññ`) + ~~`sa`~~(`o`) + `putta` + `si` {135}  
 → `rāñño` + `putt`~~`a`~~ + ~~`si`~~(`o`) {83}  
 → `rāñño` + `putto`  
 → `rā`~~`ñño`~~(`ja`) + `putt`~~`o`~~(`a`) {317}  
 → `rājaputta` {318}  
-→ `rājaputta` + `si` (👤1️⃣)  
+→ `rājaputta` + `si` (⨀①)  
 → `rājaputta` + ~~`si`~~(`o`) {104}  
 → `rājaputt`~~`a`~~ + `o` {83}  
 → `rājaputto`
@@ -683,14 +683,14 @@ In English, "navigate" is a verb, whereas "navigator" (with an "-or" affix) is
 a profession. Similarly, in Pali, `nāvā` is "boat", `nāvā` with `ṇika` as an
 affix becomes `nāviko` ("traveller by boat", or "sailor"). Note that the last
 vowel of the root and the `ṇ` are both elided, and then the noun is given the
-🚹👤1️⃣ vibhatti ending.
+🚹⨀① vibhatti ending.
 
 The rules for constructing a `tadhitta` affixed noun can be rather daunting:
 
 `vasiṭṭha` + `apacca` (Vasiṭṭha’s son)  
-→ `vasiṭṭha` + `sa` (👤6️⃣) + `apacca`  
+→ `vasiṭṭha` + `sa` (⨀⑥) + `apacca`  
 → `vasiṭṭha` + `s` + `sa` + `apacca` {61}  
-→ `vasiṭṭhassa` + `apacca` + `si` (👤1️⃣)  
+→ `vasiṭṭhassa` + `apacca` + `si` (⨀①)  
 → `vasiṭṭhassa` + `apacca` + ~~`si`~~(`aṁ`) {219}  
 → `vasiṭṭhassa` + `apacc`~~`a`~~ + `aṁ` {83}  
 → `vasiṭṭhassa` + `apaccaṁ` (of Vasiṭṭha / son)  
@@ -701,7 +701,7 @@ The rules for constructing a `tadhitta` affixed noun can be rather daunting:
 → `v`~~`a`~~(`ā`)`siṭṭha` + `a` {400}  
 → `vāsiṭṭha` + ~~`a`~~ {83}  
 → `vāsiṭṭha` {601}  
-→ `vāsiṭṭha` + `si` (👤1️⃣)  
+→ `vāsiṭṭha` + `si` (⨀①)  
 → `vāsiṭṭha` + ~~`si`~~(`o`) {104}  
 → `vāsiṭṭh`~~`a`~~ + `o` {83}  
 → `vāsiṭṭho`
@@ -798,7 +798,7 @@ adjectives.
 ### Abyaya affixes applied after Sabbanāma-nouns
 
 These are often used as a substitute or replacement for case endings
-(particularly 5️⃣ and 7️⃣), since they are indeclinable. They also have no
+(particularly ⑤ and ⑦), since they are indeclinable. They also have no
 `liṅga` (gender).
 
 | use | affix | rule |
@@ -824,8 +824,8 @@ depend on:
   * 🟢 = `parassapada` (active)
   * 🔵 = `attanopada` (middle) - impersonal
 * number
-  * 👤 = `ekavacana` (singular)
-  * 👥 = `bahuvacana` (plural)
+  * ⨀ = `ekavacana` (singular)
+  * ⨂ = `bahuvacana` (plural)
 * person {408}-{412} (if more than one, the last applies)
   * 🤟 = `paṭhama purisa` (first person, equivalent to 'third person' in English)
   * 🤘 = `majjima purisa` (middle person, equivalent to 'second person' in English)
@@ -855,7 +855,7 @@ will be described later in this chapter.
 | | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | | 🤟 | 🤟 | 🤘 | 🤘 | 👆 | 👆 | 🤟 | 🤟 | 🤘 | 🤘 | 👆 | 👆 |
-| | 👤 | 👥 | 👤 | 👥 | 👤 | 👥 | 👤 | 👥 | 👤 | 👥 | 👤 | 👥 |
+| | ⨀ | ⨂ | ⨀ | ⨂ | ⨀ | ⨂ | ⨀ | ⨂ | ⨀ | ⨂ | ⨀ | ⨂ |
 | ▶️ | `ti` | `anti` | `si` | `tha` | `mi` | `ma` | `te` | `ante` | `se` | `vhe` | `e` | `mhe` |
 | ⏹ | `tu` | `antu` | `hi` | `tha` | `mi` | `ma` | `taṁ` | `antaṁ` | `ssu` | `vho` | `e` | `āmase` |
 | ⏯ | `eyya` | `eyyuṁ` | `eyyāsi` | `eyyātha` | `eyyāmi` | `eyyāma` | `etha` | `eraṁ` | `etho` | `eyyāvho` | `eyaṁ` | `eyaṁhe` |
@@ -874,7 +874,7 @@ A number of transformations need to happen prior to affixing the `vibhatti`:
 → `gacch`
 
 Here is an example for transforming into the `parassapada` (🟢), `ekavacana`
-(👤), `paṭhama purisa` (🤟), `vattamāna` (▶️) form:
+(⨀), `paṭhama purisa` (🤟), `vattamāna` (▶️) form:
 
 `gamu` + `ti` {414}  
 → `gam`~~`u`~~ + `ti` {521}  
@@ -882,7 +882,7 @@ Here is an example for transforming into the `parassapada` (🟢), `ekavacana`
 → `ga`~~`m`~~(`cch`) + `a` + `ti` {476}  
 → `gacchati`
 
-The plural form `bahuvacana` (👥) undergoes a similar transformation:
+The plural form `bahuvacana` (⨂) undergoes a similar transformation:
 
 `gamu` + `anti` {414}  
 → `gam`~~`u`~~ + `anti` {521}  
@@ -893,102 +893,102 @@ The plural form `bahuvacana` (👥) undergoes a similar transformation:
 
 | voice | number | person | tense | ending | transformation | rule | result | irregular forms |
 | :-: | :-: | :-: | :-: | :-: | --- | :-: | --- | --- |
-| 🟢 | 🤟 | 👤 | ▶️ | `ti` | gacch + a + ti | {445} | `gacchati` | `gacche` |
-| 🟢 | 🤟 | 👥 | ▶️ | `anti` | gacch + anti |  | `gacchanti` | `gacchare` |
-| 🟢 | 🤘 | 👤 | ▶️ | `si` | gacch + a + si | {445} | `gacchasi` | |
-| 🟢 | 🤘 | 👥 | ▶️ | `tha` | gacch + a + tha | {445} | `gacchatha` | |
-| 🟢 | 👆 | 👤 | ▶️ | `mi` | gacch + ā + mi | {478} | `gacchāmi` | `gacche` |
-| 🟢 | 👆 | 👥 | ▶️ | `ma` | gacch + ā + ma | {478} | `gacchāma` | |
-| 🔵 | 🤟 | 👤 | ▶️ | `te` | gacch + a + te | {445} | `gacchate` | |
-| 🔵 | 🤟 | 👥 | ▶️ | `ante` | gacch + ante |  | `gacchante` | `gacchare` |
-| 🔵 | 🤘 | 👤 | ▶️ | `se` | gacch + a + se | {445} | `gacchase` | |
-| 🔵 | 🤘 | 👥 | ▶️ | `vhe` | gacch + a + vhe | {445} | `gacchavhe` | |
-| 🔵 | 👆 | 👤 | ▶️ | `e` | gacch + e |  | `gacche` | |
-| 🔵 | 👆 | 👥 | ▶️ | `mhe` | gacch + ā + mhe | {478} | `gacchāmhe` | |
-| 🟢 | 🤟 | 👤 | ⏹ | `tu` | gacch + a + tu | {445} | `gacchatu` | `gacche` |
-| 🟢 | 🤟 | 👥 | ⏹ | `antu` | gacch + antu |  | `gacchantu` | |
-| 🟢 | 🤘 | 👤 | ⏹ | `hi` | gacch + ā + hi | {478} | `gacchāhi` | `gaccha` {479}, `gacchassu` {571} |
-| 🟢 | 🤘 | 👥 | ⏹ | `tha` | gacch + a + tha | {445} | `gacchatha` | |
-| 🟢 | 👆 | 👤 | ⏹ | `mi` | gacch + ā + mi | {478} | `gacchāmi` | `gacche` |
-| 🟢 | 👆 | 👥 | ⏹ | `ma` | gacch + ā + ma | {478} | `gacchāma` | |
-| 🔵 | 🤟 | 👤 | ⏹ | `taṁ` | gacch + a + taṁ | {445} | `gacchataṁ` | |
-| 🔵 | 🤟 | 👥 | ⏹ | `antaṁ` | gacch + antaṁ |  | `gacchantaṁ` | |
-| 🔵 | 🤘 | 👤 | ⏹ | `etha` | gacch + a + ssu | {445} | `gacchassu` | |
-| 🔵 | 🤘 | 👥 | ⏹ | `vho` | gacch + a + vho | {445} | `gacchavho` | |
-| 🔵 | 👆 | 👤 | ⏹ | `e` | gacch + e |  | `gacche` | |
-| 🔵 | 👆 | 👥 | ⏹ | `āmase` | gacch + āmase |  | `gacchāmase` | |
-| 🟢 | 🤟 | 👤 | ⏯ | `eyya` | gacch + eyya |  | `gaccheyya` | `gacche` |
-| 🟢 | 🤟 | 👥 | ⏯ | `eyyuṁ` | gacch + eyyuṁ |  | `gaccheyyuṁ` | |
-| 🟢 | 🤘 | 👤 | ⏯ | `eyyāsi` | gacch + eyyāsi |  | `gaccheyyāsi` | `gacche` |
-| 🟢 | 🤘 | 👥 | ⏯ | `eyyātha` | gacch + eyyātha |  | `gaccheyyātha` | |
-| 🟢 | 👆 | 👤 | ⏯ | `eyyāmi` | gacch + eyyāmi |  | `gaccheyyāmi` | `gacche` |
-| 🟢 | 👆 | 👥 | ⏯ | `eyyāma` | gacch + eyyāma |  | `gaccheyyāma` | |
-| 🔵 | 🤟 | 👤 | ⏯ | `etha` | gacch + etha |  | `gacchetha` | |
-| 🔵 | 🤟 | 👥 | ⏯ | `eraṁ` | gacch + eraṁ |  | `gaccheraṁ` | |
-| 🔵 | 🤘 | 👤 | ⏯ | `etho` | gacch + etho |  | `gacchetho` | |
-| 🔵 | 🤘 | 👥 | ⏯ | `eyyāvho` | gacch + eyyāvho |  | `gaccheyyāvho` | |
-| 🔵 | 👆 | 👤 | ⏯ | `eyaṁ` | gacch + eyaṁ |  | `gaccheyaṁ` | `gacche` |
-| 🔵 | 👆 | 👥 | ⏯ | `eyaṁhe` | gacch + eyaṁhe |  | `gaccheyaṁhe` | |
-| 🟢 | 🤟 | 👤 | 🔄 | `a` | jagam~~u~~ + a | {458} | `jagama` | `jagāma` |
-| 🟢 | 🤟 | 👥 | 🔄 | `u` | jagam~~u~~ + u | {458} | `jagamu` | |
-| 🟢 | 🤘 | 👤 | 🔄 | `e` | jagam~~u~~ + e | {458} | `jagame` | |
-| 🟢 | 🤘 | 👥 | 🔄 | `ttha` | jagam~~u~~ + i + ttha | {458},{516}  | `jagamittha` | |
-| 🟢 | 👆 | 👤 | 🔄 | `aṁ` | jagam~~u~~ + aṁ | {458} | `jagamaṁ` | |
-| 🟢 | 👆 | 👥 | 🔄 | `mha` | jagam~~u~~ + ā + mha | {458} | `jagamimha` | |
-| 🔵 | 🤟 | 👤 | 🔄 | `ttha` | jagam~~u~~ + i + ttha | {458},{516} | `jagamittha` |
-| 🔵 | 🤟 | 👥 | 🔄 | `re` | jagam~~u~~ + i + re | {458},{516} | `jagamire` | |
-| 🔵 | 🤘 | 👤 | 🔄 | `ttho` | jagam~~u~~ + i + ttho | {458},{516} | `jagamittho` | |
-| 🔵 | 🤘 | 👥 | 🔄 | `vho` | jagam~~u~~ + i + vho | {458},{516} | `jagamivho` | |
-| 🔵 | 👆 | 👤 | 🔄 | `iṁ` | jagam~~u~~  + iṁ | {458} | `jagamiṁ` | |
-| 🔵 | 👆 | 👥 | 🔄 | `mhe` | jagam~~u~~ + i + mhe | {458},{516} | `jagamimhe` | |
-| 🟢 | 🤟 | 👤 | ↩️ | `ā` | a + gacch + ā | {519} | `agacchā` | `gacchā`, `agaccha`, `gaccha` |
-| 🟢 | 🤟 | 👥 | ↩️ | `ū` | a + gacch + ū | {519} | `agacchū` | `gacchū`, `agacchu`, `gacchu` |
-| 🟢 | 🤘 | 👤 | ↩️ | `o` | gacch + o |  | `gaccho` | `agaccho`, `agaccha`, `gaccha`, `agacchi`, `gacchi` |
-| 🟢 | 🤘 | 👥 | ↩️ | `ttha` | gacch + a + ttha | {445} | `gacchattha` | `agacchattha`, `agacchatha`, `gacchatha` |
-| 🟢 | 👆 | 👤 | ↩️ | `aṁ` | gacch + aṁ | | `gacchaṁ` | `agacchaṁ` |
-| 🟢 | 👆 | 👥 | ↩️ | `mhā` | gacch + ā + mhā | {478} | `gacchāmhā` | `agacchamhā` |
-| 🔵 | 🤟 | 👤 | ↩️ | `ttha` | gacch + a + ttha | {445} | `gacchattha` | `agacchattha` |
-| 🔵 | 🤟 | 👥 | ↩️ | `tthuṁ` | gacch + a + tthuṁ | {445} | `gacchatthuṁ` | `agacchatthuṁ` |
-| 🔵 | 🤘 | 👤 | ↩️ | `se` | gacch + a + se | {445} | `gacchase` | `agacchase` |
-| 🔵 | 🤘 | 👥 | ↩️ | `vhaṁ` | gacch + a + vhaṁ | {445} | `gacchavhaṁ` | `agacchavhaṁ` |
-| 🔵 | 👆 | 👤 | ↩️ | `iṁ` | gacch + iṁ |  | `gacchiṁ` | `agacchiṁ` |
-| 🔵 | 👆 | 👥 | ↩️ | `mhase` | gacch + ā + mhase | {478} | `gacchāmhase` | `agacchamhase` |
-| 🟢 | 🤟 | 👤 | ⏮ | `ī` | a + gacch + ī | {519} | `agacchī` | `gacchī`, `agacchi`, `gacchi` |
-| 🟢 | 🤟 | 👥 | ⏮ | `uṁ` | gacch + uṁ | | `agacchuṁ` | `gacchuṁ`, `agacchiṁsu`, `gacchiṁsu` |
-| 🟢 | 🤘 | 👤 | ⏮ | `o` | gacch + o |  | `gaccho` | `agaccho`, `agaccha`, `gaccha`, `agacchi`, `gacchi` |
-| 🟢 | 🤘 | 👥 | ⏮ | `ttha` | gacch + i + ttha | {445} | `gacchittha` | `agacchittha` |
-| 🟢 | 👆 | 👤 | ⏮ | `iṁ` | gacch + iṁ |  | `gacchiṁ` | `agacchiṁ` |
-| 🟢 | 👆 | 👥 | ⏮ | `mhā` | gacch + i + mhā | {516} | `gacchimhā` | `agacchimhā`, `gacchimha`, `agacchimha` |
-| 🔵 | 🤟 | 👤 | ⏮ | `ā` | a + gacch + ā | {519} | `agacchā` | `gacchā`, `agacchittha`, `gacchittha` |
-| 🔵 | 🤟 | 👥 | ⏮ | `ū` | a + gacch + ū | {519} | `agacchū` | `gacchū` |
-| 🔵 | 🤘 | 👤 | ⏮ | `se` | gacch + i + se | {516} | `gacchise` | `agacchise` |
-| 🔵 | 🤘 | 👥 | ⏮ | `vhaṁ` | gacch + i + vhaṁ | {516} | `gacchivhaṁ` | `agacchivhaṁ` |
-| 🔵 | 👆 | 👤 | ⏮ | `aṁ` | gacch + aṁ | | `gacchaṁ` | `agacchaṁ`, `agaccha`, `gaccha` |
-| 🔵 | 👆 | 👥 | ⏮ | `mhe` | gacch + i + mhe | {516} | `gacchimhe` | `agacchimhe` |
-| 🟢 | 🤟 | 👤 | ⏭ | `ssati` | gacch + i + ssati | {516} | `gacchissati` | |
-| 🟢 | 🤟 | 👥 | ⏭ | `ssanti` | gacch + i + ssanti | {516} | `gacchissanti` | `gacchissare` |
-| 🟢 | 🤘 | 👤 | ⏭ | `ssasi` | gacch + i + ssasi | {516} | `gacchissasi` | |
-| 🟢 | 🤘 | 👥 | ⏭ | `ssatha` | gacch + i + ssatha | {516} | `gacchissatha` | |
-| 🟢 | 👆 | 👤 | ⏭ | `ssāmi` | gacch + i + ssāmi | {516} | `gacchissāmi` | |
-| 🟢 | 👆 | 👥 | ⏭ | `ssāma` | gacch + i + ssāma | {516} | `gacchissāma` | |
-| 🔵 | 🤟 | 👤 | ⏭ | `ssate` | gacch + i + ssate | {516} | `gacchissate` | `gacchissare` |
-| 🔵 | 🤟 | 👥 | ⏭ | `ssante` | gacch + i + ssante | {516} | `gacchissante` | |
-| 🔵 | 🤘 | 👤 | ⏭ | `ssase` | gacch + i + ssase | {516} | `gacchissase` | |
-| 🔵 | 🤘 | 👥 | ⏭ | `ssavhe` | gacch + i + ssavhe | {516} | `gacchissavhe` | |
-| 🔵 | 👆 | 👤 | ⏭ | `ssaṁ` | gacch + i + ssaṁ | {516} | `gacchissaṁ` | |
-| 🔵 | 👆 | 👥 | ⏭ | `ssāmhe` | gacch + i + ssāmhe | {516} | `gacchissāmhe` | |
-| 🟢 | 🤟 | 👤 | ⏭ | `ssā` | gacch + i + ssā | {516} | `gacchissā` | `agacchissā`, `agacchissa`, `gacchissa` |
-| 🟢 | 🤟 | 👥 | ⏭ | `ssaṁsu` | gacch + i + ssaṁsu | {516} | `gacchissaṁsu` | `agacchissaṁsu` |
-| 🟢 | 🤘 | 👤 | ⏭ | `sse` | gacch + i + ssase | {516} | `gacchissase` | `agacchissase`, `agacchissasa`, `gacchissasa` {517} |
-| 🟢 | 🤘 | 👥 | ⏭ | `ssatha` | gacch + i + ssatha | {516} | `gacchissatha` | `agacchissatha` |
-| 🟢 | 👆 | 👤 | ⏭ | `ssaṁ` | gacch + i + ssaṁ | {516} | `gacchissaṁ` | `agacchissaṁ` |
-| 🟢 | 👆 | 👥 | ⏭ | `ssāmhā` | gacch + i + ssāmhā | {516} | `gacchissāmhā` | `agacchissāmhā`, `agacchissāmha`, `gacchissāmha` |
-| 🔵 | 🤟 | 👤 | ⏭ | `ssata` | gacch + i + ssata | {516} | `gacchissata` | `agacchissata` |
-| 🔵 | 🤟 | 👥 | ⏭ | `ssiṁsu` | gacch + i + ssiṁsu | {516} | `gacchissiṁsu` | `agacchissiṁsu` |
-| 🔵 | 🤘 | 👤 | ⏭ | `ssase` | gacch + i + ssase | {516} | `gacchissase` | `agacchissase` |
-| 🔵 | 🤘 | 👥 | ⏭ | `ssavhe` | gacch + i + ssavhe | {516} | `gacchissavhe` | `agacchissavhe` |
-| 🔵 | 👆 | 👤 | ⏭ | `ssaṁ` | gacch + i + ssaṁ | {516} | `gacchissaṁ` | `agacchissaṁ` |
-| 🔵 | 👆 | 👥 | ⏭ | `ssāmhase` | gacch + i + ssāmhase | {516} | `gacchissāmhase` | `agacchissāmhase` |
+| 🟢 | 🤟 | ⨀ | ▶️ | `ti` | gacch + a + ti | {445} | `gacchati` | `gacche` |
+| 🟢 | 🤟 | ⨂ | ▶️ | `anti` | gacch + anti |  | `gacchanti` | `gacchare` |
+| 🟢 | 🤘 | ⨀ | ▶️ | `si` | gacch + a + si | {445} | `gacchasi` | |
+| 🟢 | 🤘 | ⨂ | ▶️ | `tha` | gacch + a + tha | {445} | `gacchatha` | |
+| 🟢 | 👆 | ⨀ | ▶️ | `mi` | gacch + ā + mi | {478} | `gacchāmi` | `gacche` |
+| 🟢 | 👆 | ⨂ | ▶️ | `ma` | gacch + ā + ma | {478} | `gacchāma` | |
+| 🔵 | 🤟 | ⨀ | ▶️ | `te` | gacch + a + te | {445} | `gacchate` | |
+| 🔵 | 🤟 | ⨂ | ▶️ | `ante` | gacch + ante |  | `gacchante` | `gacchare` |
+| 🔵 | 🤘 | ⨀ | ▶️ | `se` | gacch + a + se | {445} | `gacchase` | |
+| 🔵 | 🤘 | ⨂ | ▶️ | `vhe` | gacch + a + vhe | {445} | `gacchavhe` | |
+| 🔵 | 👆 | ⨀ | ▶️ | `e` | gacch + e |  | `gacche` | |
+| 🔵 | 👆 | ⨂ | ▶️ | `mhe` | gacch + ā + mhe | {478} | `gacchāmhe` | |
+| 🟢 | 🤟 | ⨀ | ⏹ | `tu` | gacch + a + tu | {445} | `gacchatu` | `gacche` |
+| 🟢 | 🤟 | ⨂ | ⏹ | `antu` | gacch + antu |  | `gacchantu` | |
+| 🟢 | 🤘 | ⨀ | ⏹ | `hi` | gacch + ā + hi | {478} | `gacchāhi` | `gaccha` {479}, `gacchassu` {571} |
+| 🟢 | 🤘 | ⨂ | ⏹ | `tha` | gacch + a + tha | {445} | `gacchatha` | |
+| 🟢 | 👆 | ⨀ | ⏹ | `mi` | gacch + ā + mi | {478} | `gacchāmi` | `gacche` |
+| 🟢 | 👆 | ⨂ | ⏹ | `ma` | gacch + ā + ma | {478} | `gacchāma` | |
+| 🔵 | 🤟 | ⨀ | ⏹ | `taṁ` | gacch + a + taṁ | {445} | `gacchataṁ` | |
+| 🔵 | 🤟 | ⨂ | ⏹ | `antaṁ` | gacch + antaṁ |  | `gacchantaṁ` | |
+| 🔵 | 🤘 | ⨀ | ⏹ | `etha` | gacch + a + ssu | {445} | `gacchassu` | |
+| 🔵 | 🤘 | ⨂ | ⏹ | `vho` | gacch + a + vho | {445} | `gacchavho` | |
+| 🔵 | 👆 | ⨀ | ⏹ | `e` | gacch + e |  | `gacche` | |
+| 🔵 | 👆 | ⨂ | ⏹ | `āmase` | gacch + āmase |  | `gacchāmase` | |
+| 🟢 | 🤟 | ⨀ | ⏯ | `eyya` | gacch + eyya |  | `gaccheyya` | `gacche` |
+| 🟢 | 🤟 | ⨂ | ⏯ | `eyyuṁ` | gacch + eyyuṁ |  | `gaccheyyuṁ` | |
+| 🟢 | 🤘 | ⨀ | ⏯ | `eyyāsi` | gacch + eyyāsi |  | `gaccheyyāsi` | `gacche` |
+| 🟢 | 🤘 | ⨂ | ⏯ | `eyyātha` | gacch + eyyātha |  | `gaccheyyātha` | |
+| 🟢 | 👆 | ⨀ | ⏯ | `eyyāmi` | gacch + eyyāmi |  | `gaccheyyāmi` | `gacche` |
+| 🟢 | 👆 | ⨂ | ⏯ | `eyyāma` | gacch + eyyāma |  | `gaccheyyāma` | |
+| 🔵 | 🤟 | ⨀ | ⏯ | `etha` | gacch + etha |  | `gacchetha` | |
+| 🔵 | 🤟 | ⨂ | ⏯ | `eraṁ` | gacch + eraṁ |  | `gaccheraṁ` | |
+| 🔵 | 🤘 | ⨀ | ⏯ | `etho` | gacch + etho |  | `gacchetho` | |
+| 🔵 | 🤘 | ⨂ | ⏯ | `eyyāvho` | gacch + eyyāvho |  | `gaccheyyāvho` | |
+| 🔵 | 👆 | ⨀ | ⏯ | `eyaṁ` | gacch + eyaṁ |  | `gaccheyaṁ` | `gacche` |
+| 🔵 | 👆 | ⨂ | ⏯ | `eyaṁhe` | gacch + eyaṁhe |  | `gaccheyaṁhe` | |
+| 🟢 | 🤟 | ⨀ | 🔄 | `a` | jagam~~u~~ + a | {458} | `jagama` | `jagāma` |
+| 🟢 | 🤟 | ⨂ | 🔄 | `u` | jagam~~u~~ + u | {458} | `jagamu` | |
+| 🟢 | 🤘 | ⨀ | 🔄 | `e` | jagam~~u~~ + e | {458} | `jagame` | |
+| 🟢 | 🤘 | ⨂ | 🔄 | `ttha` | jagam~~u~~ + i + ttha | {458},{516}  | `jagamittha` | |
+| 🟢 | 👆 | ⨀ | 🔄 | `aṁ` | jagam~~u~~ + aṁ | {458} | `jagamaṁ` | |
+| 🟢 | 👆 | ⨂ | 🔄 | `mha` | jagam~~u~~ + ā + mha | {458} | `jagamimha` | |
+| 🔵 | 🤟 | ⨀ | 🔄 | `ttha` | jagam~~u~~ + i + ttha | {458},{516} | `jagamittha` |
+| 🔵 | 🤟 | ⨂ | 🔄 | `re` | jagam~~u~~ + i + re | {458},{516} | `jagamire` | |
+| 🔵 | 🤘 | ⨀ | 🔄 | `ttho` | jagam~~u~~ + i + ttho | {458},{516} | `jagamittho` | |
+| 🔵 | 🤘 | ⨂ | 🔄 | `vho` | jagam~~u~~ + i + vho | {458},{516} | `jagamivho` | |
+| 🔵 | 👆 | ⨀ | 🔄 | `iṁ` | jagam~~u~~  + iṁ | {458} | `jagamiṁ` | |
+| 🔵 | 👆 | ⨂ | 🔄 | `mhe` | jagam~~u~~ + i + mhe | {458},{516} | `jagamimhe` | |
+| 🟢 | 🤟 | ⨀ | ↩️ | `ā` | a + gacch + ā | {519} | `agacchā` | `gacchā`, `agaccha`, `gaccha` |
+| 🟢 | 🤟 | ⨂ | ↩️ | `ū` | a + gacch + ū | {519} | `agacchū` | `gacchū`, `agacchu`, `gacchu` |
+| 🟢 | 🤘 | ⨀ | ↩️ | `o` | gacch + o |  | `gaccho` | `agaccho`, `agaccha`, `gaccha`, `agacchi`, `gacchi` |
+| 🟢 | 🤘 | ⨂ | ↩️ | `ttha` | gacch + a + ttha | {445} | `gacchattha` | `agacchattha`, `agacchatha`, `gacchatha` |
+| 🟢 | 👆 | ⨀ | ↩️ | `aṁ` | gacch + aṁ | | `gacchaṁ` | `agacchaṁ` |
+| 🟢 | 👆 | ⨂ | ↩️ | `mhā` | gacch + ā + mhā | {478} | `gacchāmhā` | `agacchamhā` |
+| 🔵 | 🤟 | ⨀ | ↩️ | `ttha` | gacch + a + ttha | {445} | `gacchattha` | `agacchattha` |
+| 🔵 | 🤟 | ⨂ | ↩️ | `tthuṁ` | gacch + a + tthuṁ | {445} | `gacchatthuṁ` | `agacchatthuṁ` |
+| 🔵 | 🤘 | ⨀ | ↩️ | `se` | gacch + a + se | {445} | `gacchase` | `agacchase` |
+| 🔵 | 🤘 | ⨂ | ↩️ | `vhaṁ` | gacch + a + vhaṁ | {445} | `gacchavhaṁ` | `agacchavhaṁ` |
+| 🔵 | 👆 | ⨀ | ↩️ | `iṁ` | gacch + iṁ |  | `gacchiṁ` | `agacchiṁ` |
+| 🔵 | 👆 | ⨂ | ↩️ | `mhase` | gacch + ā + mhase | {478} | `gacchāmhase` | `agacchamhase` |
+| 🟢 | 🤟 | ⨀ | ⏮ | `ī` | a + gacch + ī | {519} | `agacchī` | `gacchī`, `agacchi`, `gacchi` |
+| 🟢 | 🤟 | ⨂ | ⏮ | `uṁ` | gacch + uṁ | | `agacchuṁ` | `gacchuṁ`, `agacchiṁsu`, `gacchiṁsu` |
+| 🟢 | 🤘 | ⨀ | ⏮ | `o` | gacch + o |  | `gaccho` | `agaccho`, `agaccha`, `gaccha`, `agacchi`, `gacchi` |
+| 🟢 | 🤘 | ⨂ | ⏮ | `ttha` | gacch + i + ttha | {445} | `gacchittha` | `agacchittha` |
+| 🟢 | 👆 | ⨀ | ⏮ | `iṁ` | gacch + iṁ |  | `gacchiṁ` | `agacchiṁ` |
+| 🟢 | 👆 | ⨂ | ⏮ | `mhā` | gacch + i + mhā | {516} | `gacchimhā` | `agacchimhā`, `gacchimha`, `agacchimha` |
+| 🔵 | 🤟 | ⨀ | ⏮ | `ā` | a + gacch + ā | {519} | `agacchā` | `gacchā`, `agacchittha`, `gacchittha` |
+| 🔵 | 🤟 | ⨂ | ⏮ | `ū` | a + gacch + ū | {519} | `agacchū` | `gacchū` |
+| 🔵 | 🤘 | ⨀ | ⏮ | `se` | gacch + i + se | {516} | `gacchise` | `agacchise` |
+| 🔵 | 🤘 | ⨂ | ⏮ | `vhaṁ` | gacch + i + vhaṁ | {516} | `gacchivhaṁ` | `agacchivhaṁ` |
+| 🔵 | 👆 | ⨀ | ⏮ | `aṁ` | gacch + aṁ | | `gacchaṁ` | `agacchaṁ`, `agaccha`, `gaccha` |
+| 🔵 | 👆 | ⨂ | ⏮ | `mhe` | gacch + i + mhe | {516} | `gacchimhe` | `agacchimhe` |
+| 🟢 | 🤟 | ⨀ | ⏭ | `ssati` | gacch + i + ssati | {516} | `gacchissati` | |
+| 🟢 | 🤟 | ⨂ | ⏭ | `ssanti` | gacch + i + ssanti | {516} | `gacchissanti` | `gacchissare` |
+| 🟢 | 🤘 | ⨀ | ⏭ | `ssasi` | gacch + i + ssasi | {516} | `gacchissasi` | |
+| 🟢 | 🤘 | ⨂ | ⏭ | `ssatha` | gacch + i + ssatha | {516} | `gacchissatha` | |
+| 🟢 | 👆 | ⨀ | ⏭ | `ssāmi` | gacch + i + ssāmi | {516} | `gacchissāmi` | |
+| 🟢 | 👆 | ⨂ | ⏭ | `ssāma` | gacch + i + ssāma | {516} | `gacchissāma` | |
+| 🔵 | 🤟 | ⨀ | ⏭ | `ssate` | gacch + i + ssate | {516} | `gacchissate` | `gacchissare` |
+| 🔵 | 🤟 | ⨂ | ⏭ | `ssante` | gacch + i + ssante | {516} | `gacchissante` | |
+| 🔵 | 🤘 | ⨀ | ⏭ | `ssase` | gacch + i + ssase | {516} | `gacchissase` | |
+| 🔵 | 🤘 | ⨂ | ⏭ | `ssavhe` | gacch + i + ssavhe | {516} | `gacchissavhe` | |
+| 🔵 | 👆 | ⨀ | ⏭ | `ssaṁ` | gacch + i + ssaṁ | {516} | `gacchissaṁ` | |
+| 🔵 | 👆 | ⨂ | ⏭ | `ssāmhe` | gacch + i + ssāmhe | {516} | `gacchissāmhe` | |
+| 🟢 | 🤟 | ⨀ | ⏭ | `ssā` | gacch + i + ssā | {516} | `gacchissā` | `agacchissā`, `agacchissa`, `gacchissa` |
+| 🟢 | 🤟 | ⨂ | ⏭ | `ssaṁsu` | gacch + i + ssaṁsu | {516} | `gacchissaṁsu` | `agacchissaṁsu` |
+| 🟢 | 🤘 | ⨀ | ⏭ | `sse` | gacch + i + ssase | {516} | `gacchissase` | `agacchissase`, `agacchissasa`, `gacchissasa` {517} |
+| 🟢 | 🤘 | ⨂ | ⏭ | `ssatha` | gacch + i + ssatha | {516} | `gacchissatha` | `agacchissatha` |
+| 🟢 | 👆 | ⨀ | ⏭ | `ssaṁ` | gacch + i + ssaṁ | {516} | `gacchissaṁ` | `agacchissaṁ` |
+| 🟢 | 👆 | ⨂ | ⏭ | `ssāmhā` | gacch + i + ssāmhā | {516} | `gacchissāmhā` | `agacchissāmhā`, `agacchissāmha`, `gacchissāmha` |
+| 🔵 | 🤟 | ⨀ | ⏭ | `ssata` | gacch + i + ssata | {516} | `gacchissata` | `agacchissata` |
+| 🔵 | 🤟 | ⨂ | ⏭ | `ssiṁsu` | gacch + i + ssiṁsu | {516} | `gacchissiṁsu` | `agacchissiṁsu` |
+| 🔵 | 🤘 | ⨀ | ⏭ | `ssase` | gacch + i + ssase | {516} | `gacchissase` | `agacchissase` |
+| 🔵 | 🤘 | ⨂ | ⏭ | `ssavhe` | gacch + i + ssavhe | {516} | `gacchissavhe` | `agacchissavhe` |
+| 🔵 | 👆 | ⨀ | ⏭ | `ssaṁ` | gacch + i + ssaṁ | {516} | `gacchissaṁ` | `agacchissaṁ` |
+| 🔵 | 👆 | ⨂ | ⏭ | `ssāmhase` | gacch + i + ssāmhase | {516} | `gacchissāmhase` | `agacchissāmhase` |
 
 Note that some of the terminations are the same so in practice we will need
 to distinguish which tense is being used from context. Note also the irregular
@@ -1031,24 +1031,24 @@ The full set of `attanopada` (🔵) endings of in the present tense `vattamāna`
 
 | voice | number | person | tense | ending | transformation | result |
 | :-: | :-: | :-: | :-: | :-: | --- | --- |
-| 🔴 | 🤟 | 👤 | ▶️ | `te` | pa~~ca~~  + ~~y~~(cc)a + te | `paccate` |
-| 🔴 | 🤟 | 👥 | ▶️ | `ante` | pa~~ca~~  + ~~y~~(cc)a + ante | `paccante` |
-| 🔴 | 🤘 | 👤 | ▶️ | `se` | pa~~ca~~  + ~~y~~(cc)a + se | `paccase` |
-| 🔴 | 🤘 | 👥 | ▶️ | `vhe` | pa~~ca~~  + ~~y~~(cc)a + vhe | `paccavhe` |
-| 🔴 | 👆 | 👤 | ▶️ | `e` | pac~~ca~~  + ~~y~~(cc)~~a~~ + e | `pacce` |
-| 🔴 | 👆 | 👥 | ▶️ | `mhe` | pacc~~ca~~  + ~~y~~(cc)~~a~~ + ā + mhe | `paccāmhe` |
+| 🔴 | 🤟 | ⨀ | ▶️ | `te` | pa~~ca~~  + ~~y~~(cc)a + te | `paccate` |
+| 🔴 | 🤟 | ⨂ | ▶️ | `ante` | pa~~ca~~  + ~~y~~(cc)a + ante | `paccante` |
+| 🔴 | 🤘 | ⨀ | ▶️ | `se` | pa~~ca~~  + ~~y~~(cc)a + se | `paccase` |
+| 🔴 | 🤘 | ⨂ | ▶️ | `vhe` | pa~~ca~~  + ~~y~~(cc)a + vhe | `paccavhe` |
+| 🔴 | 👆 | ⨀ | ▶️ | `e` | pac~~ca~~  + ~~y~~(cc)~~a~~ + e | `pacce` |
+| 🔴 | 👆 | ⨂ | ▶️ | `mhe` | pacc~~ca~~  + ~~y~~(cc)~~a~~ + ā + mhe | `paccāmhe` |
 
 Because the middle voice is seldom used, rule {518} allows these verbs to be
 retransformed into "reversed" `parassapada` (🟢) endings:
 
 | voice | number | person | tense | ending | transformation | result |
 | :-: | :-: | :-: | :-: | :-: | --- | --- |
-| 🔴 | 🤟 | 👤 | ▶️ | `ti` | pacca~~te~~ + ti | `paccati` |
-| 🔴 | 🤟 | 👥 | ▶️ | `anti` | pacc~~ante~~ + anti | `paccanti` |
-| 🔴 | 🤘 | 👤 | ▶️ | `si` | pacca~~se~~ + si | `paccasi` |
-| 🔴 | 🤘 | 👥 | ▶️ | `tha` | pacca~~vhe~~ + tha | `paccatha` |
-| 🔴 | 👆 | 👤 | ▶️ | `mi` | pacc~~e~~ + ā + mi | `paccāmi` |
-| 🔴 | 👆 | 👥 | ▶️ | `ma` | pacc~~āmhe~~ + ā + ma | `paccāma` |
+| 🔴 | 🤟 | ⨀ | ▶️ | `ti` | pacca~~te~~ + ti | `paccati` |
+| 🔴 | 🤟 | ⨂ | ▶️ | `anti` | pacc~~ante~~ + anti | `paccanti` |
+| 🔴 | 🤘 | ⨀ | ▶️ | `si` | pacca~~se~~ + si | `paccasi` |
+| 🔴 | 🤘 | ⨂ | ▶️ | `tha` | pacca~~vhe~~ + tha | `paccatha` |
+| 🔴 | 👆 | ⨀ | ▶️ | `mi` | pacc~~e~~ + ā + mi | `paccāmi` |
+| 🔴 | 👆 | ⨂ | ▶️ | `ma` | pacc~~āmhe~~ + ā + ma | `paccāma` |
 
 Typically we would use the `parassapada` (🟢) endings for passive verbs.
 
@@ -1102,30 +1102,30 @@ the root `paca` (to cook) using `parassapada` (🟢) endings:
 
 | voice | number | person | tense | ending | causative | transformation | result | irregular forms |
 | :-: | :-: | :-: | :-: | :-: | :-: | --- | --- | --- |
-| 🟠 | 🤟 | 👤 | ▶️ | `ti` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~e + ti | `pāceti` | |
-| 🟠 | 🤟 | 👤 | ▶️ | `ti` | `ṇaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~aya + ti | `pācayati` | |
-| 🟠 | 🤟 | 👤 | ▶️ | `ti` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpe + ti | `pācāpeti` | `pacāpeti` |
-| 🟠 | 🤟 | 👤 | ▶️ | `ti` | `ṇāpaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpaya + ti | `pācāpayati` | `pacāpayati` |
-| 🟠 | 🤟 | 👥 | ▶️ | `anti` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~e + ~~a~~nti | `pācenti` | |
-| 🟠 | 🤟 | 👥 | ▶️ | `anti` | `ṇaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~aya + ~~a~~nti | `pācayanti` | |
-| 🟠 | 🤟 | 👥 | ▶️ | `anti` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpe + ~~a~~nti | `pācāpenti` | `pacāpenti` |
-| 🟠 | 🤟 | 👥 | ▶️ | `anti` | `ṇāpaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpaya + ~~a~~nti | `pācāpayanti` | `pacāpayanti` |
-| 🟠 | 🤘 | 👤 | ▶️ | `si` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~e + si | `pācesi` | |
-| 🟠 | 🤘 | 👤 | ▶️ | `si` | `ṇaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~aya + si | `pācayasi` | |
-| 🟠 | 🤘 | 👤 | ▶️ | `si` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpe + si | `pācāpesi` | `pacāpesi` |
-| 🟠 | 🤘 | 👤 | ▶️ | `si` | `ṇāpaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpaya + si | `pācāpayasi` | `pacāpayasi` |
-| 🟠 | 🤘 | 👥 | ▶️ | `tha` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~e + tha | `pācetha` | |
-| 🟠 | 🤘 | 👥 | ▶️ | `tha` | `ṇaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~aya + tha | `pācayatha` | |
-| 🟠 | 🤘 | 👥 | ▶️ | `tha` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpe + tha | `pācāpetha` | `pacāpetha` |
-| 🟠 | 🤘 | 👥 | ▶️ | `tha` | `ṇāpaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpaya + tha | `pācāpayatha` | `pacāpayatha` |
-| 🟠 | 👆 | 👤 | ▶️ | `mi` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~e + mi | `pācemi` | |
-| 🟠 | 👆 | 👤 | ▶️ | `mi` | `ṇaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~aya + mi | `pācayami` | |
-| 🟠 | 👆 | 👤 | ▶️ | `mi` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpe + mi | `pācāpemi` | `pacāpemi` |
-| 🟠 | 👆 | 👤 | ▶️ | `mi` | `ṇāpaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpaya + mi | `pācāpayami` | `pacāpayāmi` |
-| 🟠 | 👆 | 👥 | ▶️ | `ma` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~e + ma | `pācema` | |
-| 🟠 | 👆 | 👥 | ▶️ | `ma` | `ṇaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~aya + ma | `pācayama` | |
-| 🟠 | 👆 | 👥 | ▶️ | `ma` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpe + ma | `pācāpema` | `pacāpema` |
-| 🟠 | 👆 | 👥 | ▶️ | `ma` | `ṇāpaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpaya + ma | `pācāpayama` | `pacāpayāma` |
+| 🟠 | 🤟 | ⨀ | ▶️ | `ti` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~e + ti | `pāceti` | |
+| 🟠 | 🤟 | ⨀ | ▶️ | `ti` | `ṇaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~aya + ti | `pācayati` | |
+| 🟠 | 🤟 | ⨀ | ▶️ | `ti` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpe + ti | `pācāpeti` | `pacāpeti` |
+| 🟠 | 🤟 | ⨀ | ▶️ | `ti` | `ṇāpaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpaya + ti | `pācāpayati` | `pacāpayati` |
+| 🟠 | 🤟 | ⨂ | ▶️ | `anti` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~e + ~~a~~nti | `pācenti` | |
+| 🟠 | 🤟 | ⨂ | ▶️ | `anti` | `ṇaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~aya + ~~a~~nti | `pācayanti` | |
+| 🟠 | 🤟 | ⨂ | ▶️ | `anti` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpe + ~~a~~nti | `pācāpenti` | `pacāpenti` |
+| 🟠 | 🤟 | ⨂ | ▶️ | `anti` | `ṇāpaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpaya + ~~a~~nti | `pācāpayanti` | `pacāpayanti` |
+| 🟠 | 🤘 | ⨀ | ▶️ | `si` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~e + si | `pācesi` | |
+| 🟠 | 🤘 | ⨀ | ▶️ | `si` | `ṇaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~aya + si | `pācayasi` | |
+| 🟠 | 🤘 | ⨀ | ▶️ | `si` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpe + si | `pācāpesi` | `pacāpesi` |
+| 🟠 | 🤘 | ⨀ | ▶️ | `si` | `ṇāpaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpaya + si | `pācāpayasi` | `pacāpayasi` |
+| 🟠 | 🤘 | ⨂ | ▶️ | `tha` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~e + tha | `pācetha` | |
+| 🟠 | 🤘 | ⨂ | ▶️ | `tha` | `ṇaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~aya + tha | `pācayatha` | |
+| 🟠 | 🤘 | ⨂ | ▶️ | `tha` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpe + tha | `pācāpetha` | `pacāpetha` |
+| 🟠 | 🤘 | ⨂ | ▶️ | `tha` | `ṇāpaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpaya + tha | `pācāpayatha` | `pacāpayatha` |
+| 🟠 | 👆 | ⨀ | ▶️ | `mi` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~e + mi | `pācemi` | |
+| 🟠 | 👆 | ⨀ | ▶️ | `mi` | `ṇaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~aya + mi | `pācayami` | |
+| 🟠 | 👆 | ⨀ | ▶️ | `mi` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpe + mi | `pācāpemi` | `pacāpemi` |
+| 🟠 | 👆 | ⨀ | ▶️ | `mi` | `ṇāpaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpaya + mi | `pācāpayami` | `pacāpayāmi` |
+| 🟠 | 👆 | ⨂ | ▶️ | `ma` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~e + ma | `pācema` | |
+| 🟠 | 👆 | ⨂ | ▶️ | `ma` | `ṇaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~aya + ma | `pācayama` | |
+| 🟠 | 👆 | ⨂ | ▶️ | `ma` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpe + ma | `pācāpema` | `pacāpema` |
+| 🟠 | 👆 | ⨂ | ▶️ | `ma` | `ṇāpaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpaya + ma | `pācāpayama` | `pacāpayāma` |
 
 Note: not all forms of the above are encountered in Pali literature - they
 represent the full theoretical set of causative forms that can be generated.
@@ -1148,18 +1148,18 @@ affix `ṇe` and the passive affix `ya`:
 
 | voice | number | person | tense | ending | causative | transformation | result |
 | :-: | :-: | :-: | :-: | :-: | :-: | --- | --- |
-| 🟠🔴 | 🤟 | 👤 | ▶️ | `ti` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇe~~ + i + ya + ti | `pāciyati` |
-| 🟠🔴 | 🤟 | 👤 | ▶️ | `ti` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āp~~e~~ + i + ya + ti | `pācāpiyati` |
-| 🟠🔴 | 🤟 | 👥 | ▶️ | `anti` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇe~~ + i + ya + ~~a~~nti | `pāciyanti` |
-| 🟠🔴 | 🤟 | 👥 | ▶️ | `anti` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āp~~e~~ + i + ya + ~~a~~nti | `pācāpiyanti` |
-| 🟠🔴 | 🤘 | 👤 | ▶️ | `si` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇe~~ + i + ya + si | `pāciyasi` |
-| 🟠🔴 | 🤘 | 👤 | ▶️ | `si` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āp~~e~~ + i + ya + si | `pācāpiyasi` |
-| 🟠🔴 | 🤘 | 👥 | ▶️ | `tha` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇe~~ + i + ya + tha | `pāciyatha` |
-| 🟠🔴 | 🤘 | 👥 | ▶️ | `tha` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āp~~e~~ + i + ya + tha | `pācāpiyatha` |
-| 🟠🔴 | 👆 | 👤 | ▶️ | `mi` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇe~~ + i + ya + mi | `pāciyāmi` |
-| 🟠🔴 | 👆 | 👤 | ▶️ | `mi` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āp~~e~~ + i + ya + mi | `Pācāpiyāmi` |
-| 🟠🔴 | 👆 | 👥 | ▶️ | `ma` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇe~~ + i + ya + ma | `pāciyāma` |
-| 🟠🔴 | 👆 | 👥 | ▶️ | `ma` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āp~~e~~ + i + ya + ma | `pācāpiyāma` |
+| 🟠🔴 | 🤟 | ⨀ | ▶️ | `ti` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇe~~ + i + ya + ti | `pāciyati` |
+| 🟠🔴 | 🤟 | ⨀ | ▶️ | `ti` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āp~~e~~ + i + ya + ti | `pācāpiyati` |
+| 🟠🔴 | 🤟 | ⨂ | ▶️ | `anti` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇe~~ + i + ya + ~~a~~nti | `pāciyanti` |
+| 🟠🔴 | 🤟 | ⨂ | ▶️ | `anti` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āp~~e~~ + i + ya + ~~a~~nti | `pācāpiyanti` |
+| 🟠🔴 | 🤘 | ⨀ | ▶️ | `si` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇe~~ + i + ya + si | `pāciyasi` |
+| 🟠🔴 | 🤘 | ⨀ | ▶️ | `si` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āp~~e~~ + i + ya + si | `pācāpiyasi` |
+| 🟠🔴 | 🤘 | ⨂ | ▶️ | `tha` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇe~~ + i + ya + tha | `pāciyatha` |
+| 🟠🔴 | 🤘 | ⨂ | ▶️ | `tha` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āp~~e~~ + i + ya + tha | `pācāpiyatha` |
+| 🟠🔴 | 👆 | ⨀ | ▶️ | `mi` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇe~~ + i + ya + mi | `pāciyāmi` |
+| 🟠🔴 | 👆 | ⨀ | ▶️ | `mi` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āp~~e~~ + i + ya + mi | `Pācāpiyāmi` |
+| 🟠🔴 | 👆 | ⨂ | ▶️ | `ma` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇe~~ + i + ya + ma | `pāciyāma` |
+| 🟠🔴 | 👆 | ⨂ | ▶️ | `ma` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āp~~e~~ + i + ya + ma | `pācāpiyāma` |
 
 ### `ākhyāta` examples
 
@@ -1320,12 +1320,12 @@ they / if / that / vehicle / should have got / might have gone already
 An active voice sentence is a subject-principal sentence where Kattā (the agent,
 doer subject) is much more dominant.
 
-1. `kattu` (subject) - `Kathita Kattā` or `Vutta-kattā`` (predominant-subject) must be in 1st case (1️⃣)
-2. `kamma` (object) - `Akathita-kamma` or `Avutta-kamma` (non-principal object)  must be in 2nd case (2️⃣)
+1. `kattu` (subject) - `Kathita Kattā` or `Vutta-kattā`` (predominant-subject) must be in 1st case (①)
+2. `kamma` (object) - `Akathita-kamma` or `Avutta-kamma` (non-principal object)  must be in 2nd case (②)
 3. The verb must be either in the `parassapada` termination (🟢) in most cases or in the `attanopada` termination (🔵) with or without an affix of `kattu` sense. [Affixes of `kamma` sense such as `ya`, or `kita` affixes eg. `tabba`, `ta`, etc. cannot be used]
 4. The persons (subjects) and verbs should be concordant.
 
-| Subject (1️⃣) | Object (2️⃣) | Verb | Meaning |
+| Subject (①) | Object (②) | Verb | Meaning |
 | :-: | :-: | :-: | --- |
 | `Puriso` | `odanaṁ` | `pacati` | Man cooks the rice |
 | `Purisā` | `odanaṁ` | `pacanti` | Men cook the rice |
@@ -1339,16 +1339,16 @@ doer subject) is much more dominant.
 
 A passive voice sentence is a object-principal sentence where the Kamma (the
 thing being done, the object) is more visibly dominant by being in the 1st case
-(1️⃣).
+(①).
 
 The rules in a passive voice sentence are:
 
-1. `kamma` (object) - `Kathita Kamma` or `Vutta-kamma` (predominant-object) must be in 1st case (1️⃣)
-2. `kattā` (subject) - `Akathita-kattā` or an `Avutta-kattā` (non-principal subject)  must be in 3nd case (3️⃣)
+1. `kamma` (object) - `Kathita Kamma` or `Vutta-kamma` (predominant-object) must be in 1st case (①)
+2. `kattā` (subject) - `Akathita-kattā` or an `Avutta-kattā` (non-principal subject)  must be in 3nd case (③)
 3. The verb should be mainly in the `attanopada` termination (🔵) or it can be in a reversed `parassapada` form (🟢) with an affix which has a Kamma-sense only. {440}-{443}.
 4. The object (not the subject!) and verb should be in agreement.
 
-| Subject (3️⃣) | Object (1️⃣) | Verb | Meaning |
+| Subject (③) | Object (①) | Verb | Meaning |
 | :-: | :-: | :-: | --- |
 | `Purisena` | `odano` | `pacīyate` | The rice is cooked by man |
 | `Purisehi` | `odano` | `pacīyate` | The rice is cooked by men |
@@ -1362,10 +1362,10 @@ The rules in a passive voice sentence are:
 
 It's like a passive voice sentence except the focus is purely on the action
 and does not focus on either the subject or object. Therefore the verb tends to
-be in 👤 (`ekavacana`) 🤟 (`paṭhama purisa`) form. If there is a subject, it can
-be (but not always) be in 3rd (3️⃣) or 6th case (6️⃣).
+be in ⨀ (`ekavacana`) 🤟 (`paṭhama purisa`) form. If there is a subject, it can
+be (but not always) be in 3rd (③) or 6th case (⑥).
 
-| Subject (3️⃣) | Verb | Meaning |
+| Subject (③) | Verb | Meaning |
 | :-: | :-: | --- |
 | `Devadattena` | `bhūyate` | Devadatta’s being |
 | `Pabbatena` | `ṭhīyate` | The mountain’s standing |
@@ -1383,7 +1383,7 @@ There are four integral parts in a causative sentence:
 If the root is a dual-kamma-indicative root (`dvikammaka`) such as `nī` (to
 carry), `duha` (to milk), then there can be three objects.
 
-| Causative Subject (1️⃣) | Subordinate Object (2️⃣) | The root-object (2️⃣) | Causative Verb | Meaning |
+| Causative Subject (①) | Subordinate Object (②) | The root-object (②) | Causative Verb | Meaning |
 | :-: | :-: | :-: | :-: | --- |
 | `Puriso` | `purisaṁ` | `odanaṁ` | `pāceti` | Man causes the other man to cook the rice |
 | `Purisā` | `purise` | `odanaṁ` | `pācenti` | Men cause the other men to cook the rice |
@@ -1459,7 +1459,7 @@ noun (from `caja`, using the `ṇa` affix):
 → `c`~~`a`~~(`ā`)`ja` (`vuddhi`) {483}  
 → `cā`~~`j`~~(`g`)`a` {623}  
 → `cāga` (noun) {601}  
-→ `cāga` + `si` (👤1️⃣)  
+→ `cāga` + `si` (⨀①)  
 → `cāga` + ~~`si`~~(`o`) {104}  
 → `cāg`~~`a`~~ + `o` {83}  
 → `cāgo` ("charitable giving, sharing")
@@ -1472,7 +1472,7 @@ Here is another example based on `budha` (to know):
 → `budh` + ~~`ta`~~(`dha`) {576}  
 → `bu`~~`dh`~~(`d`) + `dha` {611}  
 → `buddha` (noun) {601}  
-→ `buddha` + `si` (👤1️⃣)  
+→ `buddha` + `si` (⨀①)  
 → `buddha` + ~~`si`~~(`o`) {104}  
 → `buddh`~~`a`~~ + `o` {83}  
 → `buddho` ("The one who knows truth, who awakened")
@@ -1494,7 +1494,7 @@ Examples:
 `sama` "to calm"  
 → `sama` + `tha` {628}  
 → `samatha` {601}  
-→ `samatha` + `si` (👤1️⃣)  
+→ `samatha` + `si` (⨀①)  
 → `samatha` + ~~`si`~~(`o`) {104}  
 → `samath`~~`a`~~ + `o` {83}  
 → `samatho` ("that which calms the mind, Samatha meditation")
@@ -1522,19 +1522,19 @@ carries the "action" of a sentence.
 
 > dānaṁ dinno devadatto
 
-🚻👤2️⃣(dānaṁ) 🚹👤1️⃣(⏬(ta)(dinno) devadatto)  
+🚻⨀②(dānaṁ) 🚹⨀①(⏬(ta)(dinno) devadatto)  
 alms / gave (past participle) / Devadatta  
 *Devadatta gave alms.*
 
 >kumaro antepuraṁ gato
 
-🚻👤2️⃣(antepuraṁ) 🚹👤1️⃣(kumaro ⏬(ta)(gato))  
+🚻⨀②(antepuraṁ) 🚹⨀①(kumaro ⏬(ta)(gato))  
 King's palace / prince / went (past participle)  
 *The prince went into the King's palace.*
 
 > so bhagavā sayam’pi cattāri saccāni buddho
 
-🚹👤1️⃣(so bhagavā ⏬(ta)(buddho)) ⏏️(sayam api) 🚻👥2️⃣(cattāri saccāni)  
+🚹⨀①(so bhagavā ⏬(ta)(buddho)) ⏏️(sayam api) 🚻⨂②(cattāri saccāni)  
 that / Bhagavā  / understood (past participle) / by oneself / just / four / truths  
 *That Bhagavā (Buddha) understood the four truths just by himself.*
 
@@ -1542,13 +1542,13 @@ that / Bhagavā  / understood (past participle) / by oneself / just / four / tru
 
 > buddhena dhammo desito
 
-🚹👤3️⃣(buddhena) 🚹👤1️⃣(dhammo ⏬(ta)(desito))  
+🚹⨀③(buddhena) 🚹⨀①(dhammo ⏬(ta)(desito))  
 by Buddha / dhamma / taught (past participle)  
 *The Dhamma is taught by the Buddha.*
 
 > bhotabbo odano bhavatā
 
-🚹👤1️⃣(⏬(tabba)(bhotabbo) odano) 🚹👤3️⃣(bhavatā)  
+🚹⨀①(⏬(tabba)(bhotabbo) odano) 🚹⨀③(bhavatā)  
 eaten (future passive participle) / rice / Your Honourable  
 *That rice is to be eaten by Your Honourable.*
 
@@ -1556,13 +1556,13 @@ eaten (future passive participle) / rice / Your Honourable
 
 > tassa gītaṁ
 
-🚻👤6️⃣(tassa) 🚻👤1️⃣(🔽(ta)(gītaṁ))  
+🚻⨀⑥(tassa) 🚻⨀①(🔽(ta)(gītaṁ))  
 of that person / sung (past participle)  
 *Sung of that person.*
 
 > sayitabbaṁ bhavatā
 
-🚻👤1️⃣(⏬(tabba)(sayitabbaṁ)) 🚹👤3️⃣(bhavatā)  
+🚻⨀①(⏬(tabba)(sayitabbaṁ)) 🚹⨀③(bhavatā)  
 eating (future passive particle) / by Your Honourable  
 *Eating by Your Honourable.*
 
@@ -1603,14 +1603,14 @@ formally declares oneself a Buddhist.
 Let's start by examining only the first line. Analysing each word by
 identifying the form of the `vibhatti` ending yields:
 
-> 🚹👤2️⃣(buddhaṁ saraṇaṁ) 🟢👤🤟▶️(gacchāmi)
+> 🚹⨀②(buddhaṁ saraṇaṁ) 🟢⨀🤟▶️(gacchāmi)
 
 {{< alert title="Note" color="secondary">}}
 The notation used here is inspired by functional programming conventions.
 In mathematics, we refer to \\(f(x)\\) as the function \\(f\\) applying on the
-variable \\(x\\), so 🚹👤2️⃣(`x`) means all words in `x` are in the 2nd
+variable \\(x\\), so 🚹⨀②(`x`) means all words in `x` are in the 2nd
 case, singular (`ekavacana`) and `pulliṅga` in gender.
-Similarly, 🟢👤🤟▶️(`y`) means all
+Similarly, 🟢⨀🤟▶️(`y`) means all
 words in `y` are present indicative (`vattamāna`) active (`parassapada`) verbs
 in the singular (`ekavacana`), "first person" (in English, "third person")
 form (`paṭhama purisa`).
@@ -1660,12 +1660,12 @@ classDiagram
   namespace saṅkhyāpūraṇa {
     class dutiyaṃ {
       <<nāma>>
-      2️⃣
+      ②
       english(second time)
     }
     class tatiyaṃ {
       <<nāma>>
-      2️⃣
+      ②
       english(third time)
     }
   }
@@ -1676,25 +1676,25 @@ classDiagram
   namespace saraṇa {
     class buddhaṃ {
       <<nāma>>
-      🚹👤2️⃣
+      🚹⨀②
     }
     class dhammaṃ {
       <<nāma>>
-      🚹👤2️⃣
+      🚹⨀②
     }
     class saṅghaṃ {
       <<nāma>>
-      🚹👤2️⃣
+      🚹⨀②
     }
   }
   class saraṇaṃ {
     <<nāma>>
-     🚹👤2️⃣
+     🚹⨀②
     english(as refuge)
   }
   class gacchāmi {
     <<ākhyāta>>
-     🟢👤🤟▶️
+     🟢⨀🤟▶️
     english(I go)
   }
   sentence *-- dutiyaṃ

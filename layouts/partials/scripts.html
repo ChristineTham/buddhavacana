@@ -16,15 +16,20 @@
 
 {{ if .Site.Params.markmap.enable -}}
 <style>
+.markmap {
+  position: relative;
+}
 .markmap > svg {
   width: 100%;
-  height: 300px;
+  height: 50vh;
+  /* height: 300px; */
 }
 </style>
 <script>
 window.markmap = {
   autoLoader: {
       manual: true,
+      toolbar: true,
       onReady() {
         const { autoLoader, builtInPlugins } = window.markmap;
         autoLoader.transformPlugins = builtInPlugins.filter(plugin => plugin.name !== 'prism');
@@ -101,5 +106,25 @@ window.markmap = {
     crossorigin="anonymous"></script>
 {{ end -}}
 
+{{ if and .Site.Params.search (isset .Site.Params.search "algolia") -}}
+  {{ template "algolia/scripts" .Site.Params.search.algolia -}}
+{{ end -}}
 <script src='{{ "js/tabpane-persist.js" | relURL }}'></script>
 {{ partial "hooks/body-end.html" . -}}
+
+{{ define "algolia/scripts" -}}
+<script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3.5.2"
+  integrity="sha512-LzxWPDNELae1RSIsDRSitKYPJpRtjYo22GbOl+d+xLcjKiZQRRdxSTI3cRRHw7O05e0MbIIu33QnU2rt6ymQ6A=="
+  crossorigin="anonymous" ></script>
+<script type="text/javascript">
+const containers = ['#docsearch-0', '#docsearch-1'];
+for (let c of containers) {
+  docsearch({
+    container: c,
+    appId: {{ .appId | default "R2IYF7ETH7" }},
+    apiKey: {{ .apiKey | default "599cec31baffa4868cae4e79f180729b" }},
+    indexName: {{ .indexName | default "docsearch" }},
+  });
+}
+</script>
+{{ end -}}

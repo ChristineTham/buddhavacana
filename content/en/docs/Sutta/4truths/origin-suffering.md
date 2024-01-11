@@ -1,21 +1,18 @@
 ---
 categories: ["Sutta"]
-tags: ["cattāri ariyasaccāni", "dukkhasamudayaṁ ariyasaccaṁ"]
+tags: ["4ariyasaccāni", "dukkhasamudayaṁ"]
 title: "dukkhasamudayaṁ ariyasaccaṁ"
-linkTitle: "dukkhasamudayaṁ ariyasaccaṁ"
+linkTitle: "dukkhasamudayaṁ"
 date: 2022-01-01
 weight: 2
 description: >
   noble truth of the origin of suffering
-markmap:
-  maxWidth: 300
 ---
 
 ```markmap
 ---
 markmap:
-  zoom: false
-  pan: false
+  maxWidth: 300
 ---
 # dukkhasamudayaṁ ariyasaccaṁ
 ## yāyaṁ taṇhā ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī

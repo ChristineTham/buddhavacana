@@ -10,6 +10,15 @@ markmap:
   maxWidth: 300
 ---
 
+```mermaid
+mindmap
+pañcupādānakkhandhā
+  rūpupādānakkhandho
+  vedanupādānakkhandho
+  saññupādānakkhandho
+  saṅkhārupādānakkhandho
+  viññāṇupādānakkhandho
+```
 ```markmap
 ---
 markmap:

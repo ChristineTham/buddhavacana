@@ -1,22 +1,15 @@
 ---
 categories: ["Sutta"]
-tags: ["cattāri ariyasaccāni", "dukkhaṁ ariyasaccaṁ"]
+tags: ["4ariyasaccāni", "dukkhaṁ"]
 title: "dukkhaṁ ariyasaccaṁ"
-linkTitle: "dukkhaṁ ariyasaccaṁ"
+linkTitle: "dukkhaṁ"
 date: 2022-01-01
 weight: 1
 description: >
   noble truth of suffering
-markmap:
-  maxWidth: 300
 ---
 
 ```markmap
----
-markmap:
-  zoom: false
-  pan: false
----
 # dukkhā
 ## jāti
 - (re)birth
@@ -25,24 +18,24 @@ markmap:
 ## maraṇaṁ
 - death
 ## sokaparidevadukkhadomanassupāyāsā
+### soko
+### paridevo
+### dukkho
+### domanassaṃ
+### upāyāso
 ## appiyehi sampayogo
 - association with dislikes
 ## piyehi vippayogo
 - separation from loved ones
 ## yampicchaṁ na labhati tam
 - not getting what you want
-## pañcupādānakkhandhā
+## [pañcupādānakkhandhā](/buddhavacana/docs/sutta/5aggregates/)
 - five grasping aggregates
 ```
 
 ## jāti
 
 ```markmap
----
-markmap:
-  zoom: false
-  pan: false
----
 ## jāti
 ### jāti
 - rebirth
@@ -61,11 +54,6 @@ markmap:
 ## jarā
 
 ```markmap
----
-markmap:
-  zoom: false
-  pan: false
----
 ## jarā
 ### jarā
 - old age
@@ -86,11 +74,6 @@ markmap:
 ## maraṇaṁ
 
 ```markmap
----
-markmap:
-  zoom: false
-  pan: false
----
 ## maraṇaṁ
 ### cuti
 - passing away
@@ -110,6 +93,65 @@ markmap:
 - laying to rest of the corpse
 ### nikkhepo jīvitindriyassupacchedo
 - cutting off of the life faculty
+```
+
+## soko
+
+```markmap
+# soko
+## aññataraññatarena byasanena samannāgatassa
+## aññataraññatarena dukkhadhammena phuṭṭhassa
+## soko
+## socanā
+## socitattaṁ
+## antosoko
+## antoparisoko
+```
+
+## paridevo
+
+```markmap
+# paridevo
+## aññataraññatarena byasanena samannāgatassa
+## aññataraññatarena dukkhadhammena phuṭṭhassa
+## ādevo
+## paridevo
+## ādevanā
+## paridevanā
+## ādevitattaṁ
+## paridevitattaṁ
+```
+
+## dukkhaṁ
+
+```markmap
+# dukkhaṁ
+## kāyikaṁ dukkhaṁ
+## kāyikaṁ asātaṁ
+## kāyasamphassajaṁ dukkhaṁ asātaṁ vedayitaṁ
+```
+
+## domanassaṁ
+
+```markmap
+# domanassaṁ
+## cetasikaṁ dukkhaṁ
+## cetasikaṁ asātaṁ
+## manosamphassajaṁ dukkhaṁ asātaṁ vedayitaṁ
+```
+
+## upāyāso
+
+```markmap
+# upāyāso
+## aññataraññatarena byasanena samannāgatassa
+## aññataraññatarena dukkhadhammena phuṭṭhassa
+## āyāso upāyāso āyāsitattaṁ upāyāsitattaṁ
+```
+
+##
+
+```markmap
 ```
 
 ## Reference

@@ -47,7 +47,7 @@ $gray-800: #333 !default;
 $gray-900: #222 !default;
 $black: #000 !default;
 
-$code-color: darken($secondary, 20%) !default;
+$code-color: shade-color($secondary, 40%) !default;
 
 // UI element colors
 
@@ -67,18 +67,3 @@ $link-shade-percentage: 30% !default;
 
 $google_font_name: "Noto Sans" !default;
 $google_font_family: "Noto+Sans:300,300i,400,400i,700,700i" !default;
-$web-font-path: "https://fonts.googleapis.com/css?family=#{$google_font_family}&display=swap";
-
-$td-fonts-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-  "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
-  "Segoe UI Symbol";
-
-@if $td-enable-google-fonts {
-  $td-fonts-serif: prepend($td-fonts-serif, "#{$google_font_name}");
-}
-
-$font-family-sans-serif: $td-fonts-serif !default; // TODO: consider moving into UG SCSS or namespace the var (td-)
-
-$font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
-  "Liberation Mono", "Courier New", monospace !default; // TODO: consider moving into UG SCSS or namespace the var (td-)
-$font-family-base: $font-family-sans-serif !default; // TODO: consider moving into UG SCSS or namespace the var (td-)
