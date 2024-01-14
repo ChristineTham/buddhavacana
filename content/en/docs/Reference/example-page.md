@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: ["example"]
 tags: ["example"]
 title: "Example Page"

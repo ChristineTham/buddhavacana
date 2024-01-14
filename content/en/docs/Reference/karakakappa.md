@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "2. Kārakakappa"
 linkTitle: "2. Kāraka"
 date: 2023-11-08

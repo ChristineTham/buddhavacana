@@ -2,7 +2,7 @@
 title: "Sentence examples (padamañjarī)"
 linkTitle: "Sentences"
 date: 2023-10-18
-weight: 300
+weight: 20
 description: >
   Sentence examples (evolving) based on Warder "Introduction to Pali" exercises. Contains sample sentences from Lessons 1-12
 ---
