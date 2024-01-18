@@ -485,13 +485,13 @@ And now, monks, when Prince Vipassī was born, they announced to King Bandhuma: 
 
 Addasā kho, bhikkhave, Bandhumā rājā Vipassikumāraṁ, disvā nemitte brāhmaṇe āmantāpetvā etad avoca: passantu bhonto nemittā brāhmaṇā kumāran ti.  
 ↩️🤟⨀(addasā) 🔼(kho) 🚹⓪⨂(bhikkhu) 🚹①⨂(bandhuma) 🚹①⨀(rāja) 🚹②⨂(Vipassikumāra) , 🔼(disvā) 🚹②⨂(nemitta) 🚹②⨂(brāhmaṇa) 🔼(āmantāpetvā) 🚻②⨀(eta) 🔵⏮🤟⨀(avoca) : ⏹🤟⨂(passati) 🚹⓪⨂(bhavant) 🚹⓪⨀(nemitta) 🚹⓪⨀(brāhmaṇa) 🚹②⨀(kumāra)🔼(ti)  
-saw |💡|  monks | Bandhuma | king | Prince Vipassī , having seen | one who interprets signs or omens | holy man | having summoned | said: he must examine | sir | one who interprets signs or omens | holy man | the young boy | quote  
-Monks, King Bandhuma saw Prince Vipassī. Having seen, and having summoned a holy man who interprets signs and omens, he said: “Venerable holy man who interprets signs and omens, please examine the young boy.”
+saw |💡|  monks | Bandhuma | king | Prince Vipassī , having seen | one who interprets signs or omens | holy men | having summoned | said: he must examine | sir | one who interprets signs or omens | holy men | the young boy | quote  
+Monks, King Bandhuma saw Prince Vipassī. Having seen, and having summoned holy men who interprets signs and omens, he said: “Venerable holy men who interprets signs and omens, please examine the young boy.”
 
 Addasaṁsu kho bhikkhave nemittā brāhmaṇā Vipassikumāraṁ, disvā Bandhumantaṁ rājānaṁ etad avocuṁ: attamano deva hohi, mahesakkho te deva putto uppanno.  
 ⏮🤟⨂(addasa) 🔼(kho) 🚹⓪⨂(bhikkhu) 🚹①⨂(nemitta) 🚹①⨂(brāhmaṇa) 🚹②⨀(Vipassikumāra) , 🔼(disvā) 🚹②⨀(bandhumant) 🚹②⨀(rāja) 🚻②⨀(eta) 🔵⏮🤟⨀(avoca) : 🚹①⨀(attamana) 🚹⓪⨀(deva) ⏹🤘⨀(hoti) , 🚹①⨀(mahesakkha) 🤘④⨀(tvaṃ) 🚹⓪⨀(deva) 🚹①⨀(putta) 🚹①⨀(uppanna)  
 saw | 💡|  monks | one who interprets signs or omens | holy man | Prince Vipassikumāra , having seen | Bandhuma | king | delighted | o Lord | please be , distinguished | for you | son | born  
-The holy man who interprets signs or omens saw Prince Vipassi, and having seen he said to king Bandhuma: “O Lord, may you be delighted, distinguished for you this son has been born.”
+The holy men who interprets signs or omens saw Prince Vipassi, and having seen they said to king Bandhuma: “O Lord, may you be delighted, distinguished for you this son has been born.”
 
 Sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā.  
 🔼(sace) 🚻②⨀(agāra) ▶️🤟⨀(ajjhāvasati) , 🚹①⨀(rāja) ▶️🤟⨀(hoti) 🚹①⨀(cakkavattī) 🚹①⨀(dhammika) 🚹①⨀(dhammarāja)  
@@ -505,8 +505,8 @@ If, however, he renounces from household life to a homeless state, he is entitle
 
 Atha kho bhikkhave Bandhumā rājā nemitte brāhmaṇe ahatehi vatthehi acchādāpetvā sabbakāmehi santappesi.  
 🔼(atha kho) 🚹⓪⨂(bhikkhu) 🚹①⨂(bandhuma) 🚹①⨀(rāja) 🚹②⨂(nemitta) 🚹②⨂(brāhmaṇa) 🚹③⨂(ahata) 🚻③⨂(vattha) 🔼(acchādāpetvā) 🚹⑤⨂(sabbakāma) ⏮🤟⨀(santappesi)  
-after that | monks | Bandhuma | king | one who interprets signs or omens | holy man | with clean | with clothes | having put on | from all desires | fulfilled  
-After that, king Bandhuma, having clothed the holy man who interprets signs or omens with new clothes, fulfilled all his desires.
+after that | monks | Bandhuma | king | one who interprets signs or omens | holy men | with clean | with clothes | having put on | from all desires | fulfilled  
+After that, king Bandhuma, having clothed the holy men who interprets signs or omens with new clothes, and fulfilled all their desires.
 
 Atha kho bhikkhave Bandhumā rājā Vipassissa kumārassa tayo pāsāde kārāpesi, ekaṁ vassikaṁ ekaṁ hemantikaṁ ekaṁ gimhikaṁ; pañca kāmaguṇāni upaṭṭhāpesi.  
 🔼(atha kho) 🚹⓪⨂(bhikkhu) 🚹①⨂(bandhuma) 🚹①⨀(rāja) 🚹④⨀(vipassī) 🚹④⨀(kumāra) 🚹②⨂(ti) 🚹②⨂(pāsāda)⏮🤟⨀(kārāpesi) , 🚻①⨀(eka) 🚻①⨀(vassika) 🚻①⨀(eka) 🚻①⨀(hemantika) 🚻①⨀(eka) 🚻①⨀(gimhika) ; ⚧①⨂(pañca) 🚻①⨂(kāmaguṇa) ⏮🤟⨀(upaṭṭhāpesi)  
