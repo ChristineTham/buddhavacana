@@ -166,7 +166,8 @@ From now, my son the prince, may you follow a path in this world
 
 ahaṃ pana kesamassuṃ, ohāretvā, kāsāyāni vatthāni acchādetvā, agārasmā anagāriyaṃ pabbajissāmi ti.  
 👆①⨀(ahaṃ) 🔼(pana) 🚻②⨀(kesamassu) 🔼(ohāretvā) 🚻②⨂(kāsāya) 🚻②⨂(vattha) 🔼(acchādetvā) 🚻⑤⨀(agāra) 🚺②⨀(anagāriyā) ⏭👆⨀(pabbajati)  
-I / however / hair and beard / haviong shaved off , ochre / robe / having put on ,  from household life / to homeless state / I will renounce I, however, having shaved off hair   and beard, having put on ochre robe, will renounce from household life to homeless state.
+I / however / hair and beard / haviong shaved off , ochre / robe / having put on ,  from household life / to homeless state / I will renounce  
+I, however, having shaved off hair   and beard, having put on ochre robe, will renounce from household life to homeless state.
 
 atha kho rājā Daḷhanemi jeṭṭhaputtaṃ kumāraṃ sādhukaṃ rajje samanusāsitvā, kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā, agārasmā anagāriyaṃ pabbaji.  
 🔼(atha kho) 🚹①⨀(rāja Daḷhanemi) 🚹②⨀(jeṭṭhaputta) 🚹②⨀(kumāra) 🔼(sādhukaṃ) 🚻⑦⨀(rajja) 🔼(samanusāsitvā) 🚻②⨀(kesamassu) 🔼(ohāretvā) 🚻②⨂(kāsāya) 🚻②⨂(vattha) 🔼(acchādetvā) 🚻⑤⨀(agāra) 🚺②⨀(anagāriyā) ⏮🤟⨀(pabbaji)  
@@ -240,13 +241,13 @@ ye ca te tāta vijite samaṇabrāhmaṇā madappamādā paṭiviratā, te kāle
 whoever / and / that / son / religious practitioners / intoxication and heedlessness / abstained from / they / from time to time / having approached / you should ask about : what / venerable sir / skilful / what / unskilful / what / by me / being done / for a long time / of harm / of unpleasant / of this, what / or however / by me / being done / for a long time / of beneficial / of pleasant / of this / quote  
 And, my son, having approached, from time to time, whichever religious practioners that have abstained from intoxication and heedlessness, you should ask them about: “What, Venerable Sir, is skilful? What is unskilful? What have been done by me for a long time that is harmful and unpleasant? Or moreover what have been done by me for a long time that is beneficial and pleasant?”
 
-tesaṃ sutvā yaṃ akusalaṃ taṃ abhinivajjeyyāsi, yaṃ kusalaṃ taṃ samādāya vatteyyāsi. 
-🚹⑥⨂(ta) 🔼(sutvā) 🚻①⨀(ya) 🚻①⨀(akusala) 🚻①⨀(ta) ⏯🤘⨀(abhinivajjeti) 🚻①⨀(ya) 🚻①⨀(kusala) 🚻①⨀(ta) 🔼(samādāya) ⏯🤘⨀(vattati) 🚹⑥⨀(ima) ,  
+tesaṃ sutvā yaṃ akusalaṃ taṃ abhinivajjeyyāsi, yaṃ kusalaṃ taṃ samādāya vatteyyāsi.  
+🚹⑥⨂(ta) 🔼(sutvā) 🚻①⨀(ya) 🚻①⨀(akusala) 🚻①⨀(ta) ⏯🤘⨀(abhinivajjeti) 🚻①⨀(ya) 🚻①⨀(kusala) 🚻①⨀(ta) 🔼(samādāya) ⏯🤘⨀(vattati) 🚹⑥⨀(ima)  
 of that / having heard / whatever / unskilful / that / will be removed / whatever / skilful / that / will be taken up / will be practiced/continued  
 “Having heard that (response), you should remove anything unskilful and continue or take up anything skilful.”
 
 idaṃ kho tāta taṃ ariyaṃ cakkavattivattan ti.  
-🔼(idaṃ kho) 🚹⓪⨀(tāta) 🚻①⨀(ta) 🚻①⨀(ariya) 🚻①⨀(cakkavattivatta)  🔼(ti)  
+🔼(idaṃ kho) 🚹⓪⨀(tāta) 🚻①⨀(ta) 🚻①⨀(ariya) 🚻①⨀(cakkavattivatta) 🔼(ti)  
 here / indeed / my son / that / noble / duty  
 “Here, my son, that is the noble duty.”
 
@@ -261,9 +262,9 @@ while / noble / duty / taking place / celestial / jewelled wheel / manifested
 While (the noble king) was performing the noble duty, the comet manifested.
 
 disvā rañño khattiyassa etad ahosi: sutaṃ kho pana m’etaṃ: yassa rañño khattiyassa dibbaṃ cakkaratanaṃ pātubhavati, so hoti cakkavattī ti.  
-🔼(disvā) 🚹⑥⨀(rāja) 🚹⑥⨀(khattiya) 🚻①⨀(eta) ⏮🤟⨀(ahosi) : 🚹②⨀(suta) 🔼(kho pana) 👆③⨀(ahaṃ) 🚻①⨀(eta) : 🚹④⨀(ya) 🚹④⨀(rāja) 🚹④⨀(khattiya) 🚻①⨀(dibba) 🚻 ①⨀(cakkaratana) ▶️🤟⨀(pātubhavati) 🚹①⨀(ta) ▶️🤟⨀(hoti) 🚹①⨀(cakkavattī)  
-having seen / of king / of noble / this / was: for whichever / for king / for noble / celestial / jewelled wheel / manifests , he / becomes / wheel turning monarch  
-Having seen, the noble king thought: “And so thus have I heard: ‘For whichever noble king the comet manifests, he becomes the wheel turning monarch.’”
+🔼(disvā) 🚹④⨀(rāja) 🚹④⨀(khattiya) 🚻①⨀(eta) ⏮🤟⨀(ahosi) : 🚹②⨀(suta) 🔼(kho pana) 👆③⨀(ahaṃ) 🚻①⨀(eta) : 🚹④⨀(ya) 🚹④⨀(rāja) 🚹④⨀(khattiya) 🚻①⨀(dibba) 🚻 ①⨀(cakkaratana) ▶️🤟⨀(pātubhavati) 🚹①⨀(ta) ▶️🤟⨀(hoti) 🚹①⨀(cakkavattī)  
+having seen / for king / for noble / this / was: for whichever / for king / for noble / celestial / jewelled wheel / manifests , he / becomes / wheel turning monarch  
+Having seen, the thought occured for the noble king: “And so thus have I heard: ‘For whichever noble king the comet manifests, he becomes the wheel turning monarch.’”
 
 assaṃ nu kho ahaṃ rājā cakkavattī ti.  
 🚺⑦⨀(ima) 🔼(nu kho) 👆①⨀(ahaṃ) 🚹①⨀(rāja) 🚹①⨀(cakkavattī) 🔼(ti)  
@@ -332,7 +333,7 @@ ye kho pana uttarāya disāya paṭirājāno, te rañño cakkavattissa anuyuttā
 whoever / and next / from Northern / from direction / other kings / they / for king / for wheel turning / vassals / became  
 And next, whichever other kings from Northern direction became vassals of the wheel turning monarch.
 
-## Translate into English
+## Translate from Pali
 
 1. brāhmaṇo va seṭṭho vaṇṇo (D III 81,10-11)  
   🚹①⨀(brāhmaṇa) 🔼(va) 🚹①⨀(seṭṭha) 🚹①⨀(vaṇṇa)  

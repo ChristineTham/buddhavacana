@@ -250,9 +250,9 @@ that | this |  Venerable | Gotama | for seeing | approached | quote
 They are approaching this Venerable Gotama for seeing.
 
 Atha kho Kūṭadantassa brāhmaṇassa etad ahosi: sutaṁ kho pana m’ etaṁ: samaṇo gotamo tividhayaññasampadaṁ jānātī ti.  
-🔼(atha kho) 🚹⑥⨀(kūṭadanta) 🚹⑥⨀(brāhmaṇa) 🚻①⨀(eta) ⏮🤟⨀(ahosi) : 🚻①⨀(suta) 🔼(kho pana) 👆③⨀(ahaṃ) 🚻①⨀(eta) 🚹①⨀(samaṇa) 🚹①⨀(gotama) 🔼(tividhayaññasampadaṁ) ▶️🤟⨀(jānāti)  🔼(ti)  
-after that | Kūṭadanta | holy man | this | was : heard | indeed | this | ascetic | Gotama | successful execution of the sacrifice in three ways | understands | quote  
-After that, the holy man Kūṭadanta thought this: “Indeed this was heard by me: ‘The ascetic Gotama understands how to perform the three way sacrifice.’”
+🔼(atha kho) 🚹④⨀(kūṭadanta) 🚹④⨀(brāhmaṇa) 🚻①⨀(eta) ⏮🤟⨀(ahosi) : 🚻①⨀(suta) 🔼(kho pana) 👆③⨀(ahaṃ) 🚻①⨀(eta) 🚹①⨀(samaṇa) 🚹①⨀(gotama) 🔼(tividhayaññasampadaṁ) ▶️🤟⨀(jānāti)  🔼(ti)  
+after that | for Kūṭadanta | for holy man | this | was : heard | indeed | this | ascetic | Gotama | successful execution of the sacrifice in three ways | understands | quote  
+After that, the thought occurred for Kūṭadanta the holy man: “Indeed this was heard by me: ‘The ascetic Gotama understands how to perform the three way sacrifice.’”
 
 Na kho panāhaṁ jānāmi tividhaṁyaññasampadaṁ, icchāmi cāhaṁ mahāyaññaṁ yajituṁ.  
 🔼(na kho pana) 👆①⨀(ahaṃ) ▶️👆⨀(jānāti) 🔼(tividhayaññasampadaṁ) ▶️👆⨀(icchati) 🔼(cāhaṃ) 🚹②⨀(mahāyañña) 🔼(yajituṃ)  
