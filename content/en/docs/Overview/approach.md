@@ -42,7 +42,7 @@ My current understanding is based on reading the Tipiṭaka (the Three Baskets o
 * [Buddhist Teaching in India](https://www.academia.edu/3288020/Buddhist_Teaching_in_India), Johannes Bronkhorst, Wisdom Publications, Boston (2009)
 * [Buddhism in the Shadow of Brahmanism](https://ia802903.us.archive.org/8/items/profsaraobooks/KTS.Bronkhorst.Buddhism%20in%20the%20Shadow%20of%20Brahmanism.pdf), Johannes Bronkhorst, Brill, Handbook of Oriental Studies. Section 2, South Asia (2011)
 * [Absorption: Human Nature And Buddhist Liberation](https://ahandfulofleaves.files.wordpress.com/2013/02/absorption-two-studies-of-human-nature_bronkhorst.pdf), Johannes Bronkhorst, UniversityMedia (2012)
-* [Reexamining Jhana Towards a Critical Reconstruction of Early Buddhist Soteriology](https://www.academia.edu/34093551/Reexamining_Jhana_Towards_a_Critical_Reconstruction_of_Early_Buddhist_Soteriology), Grzegorz Polak, Wydawnictwo Uniwersytetu Marii Curie-Skłodowskiej, Lublin (2011)
+* [Reexamining Jhana: Towards a Critical Reconstruction of Early Buddhist Soteriology](https://www.academia.edu/34093551/Reexamining_Jhana_Towards_a_Critical_Reconstruction_of_Early_Buddhist_Soteriology), Grzegorz Polak, Wydawnictwo Uniwersytetu Marii Curie-Skłodowskiej, Lublin (2011)
 * [How Was Liberating Insight Related to the Development of the Four Jhānas](https://www.academia.edu/34093627/How_Was_Liberating_Insight_Related_to_the_Development_of_the_Four_Jhānas_pdf), Grzegorz Polak, JOCBS. 2016(5): 85–112.
 
 I do not completely agree with the contents of the above books, since they represent different opinions and views of the respective authors. However, I do recommend reading them and each of them have influenced me in some way.
@@ -717,13 +717,13 @@ So, what is the path forward? Is there a way to "rediscover" the original intent
 
 In the pages of this website, I hope to document my journey towards my quest to truly understand what the Buddha really taught, and use that as a basis for my own "salvation", or freedom from suffering and craving.
 
-## Why not just read existing translations and interpretations of Buddhists texts
-
 At this point, a question could reasonably be asked: Isn't this a "scorched earth" approach, and ignores all the effort made by others to date? Surely I am not conceited enough to believe I am superior to all present and past teachers, that I am going to discover something that existing research have not already uncovered?
 
 Indeed, it is a good question and one I have asked myself many times. I don't believe I am superior to others, and acknowledge many seem to have far more knowledge and experience than myself. There is an extensive amount of research and translations available today, and yes I have read some of them. Indeed, in preparing this article, I feel I am "standing on the shoulders of giants" and very much relying on the expertise of many people: Walpoul Rahula, Richard Gombrich, Grzegorz Polak, Mark Allon, Johannes Bronkhorst, Bhikkhu Anālayo, Bhikkhu Bodhi, Bhante Sujato amongst others to name a few.
 
-However, I believe it is still valuable to go through this process of rediscovery, mainly because for me to truly realise what the Buddha taught, I need to be able to conceptualise and synthesise what I have read in my own terms.
+Why not just rely on their authority, and also the experience of many well known Buddhist practitioners today? That would be nice, except they don't all agree with each other. Even prominent Buddhist bhikkhus and teachers don't always share the same views, and it is all too easy to find disagreements and debates in various discussion forums on the Internet. And since none of them have declared that they have attained enlightenment (indeed, by Vinaya rules they are not allowed to), then it is impossible to determine who is right and who is ... well ... less right.
+
+Therefore, I believe it is still valuable to go through this process of rediscovery, mainly because for me to truly realise what the Buddha taught, I need to be able to digest, conceptualise and synthesise what I have read in my own terms.
 
 An excerpt from the Foreword of Sujato's book [**A History of Mindfulness**](http://santifm.org/santipada/wp-content/uploads/2012/08/A_History_of_Mindfulness_Bhikkhu_Sujato.pdf) may help clarify my motivation. Note, I have paraphrased the excerpt to make it more applicable to my situation, my replacements are in parentheses:
 
@@ -733,7 +733,13 @@ And therefore the approach:
 
 >Our first step must be to forget all we’ve learnt about (the Buddha's teachings), and to start again from the bottom up. A basic principle of the historical method is that simpler teachings tend to be earlier and hence are likely to be more authentic​ - w​e must start with the bricks before we can build a house. It is the shorter, more basic, passages that are the most fundamental presentation of (the Buddha's teachings). The longer texts are an elaboration. We do not assume that shorter is always earlier, but we take this as a guiding principle whose implications we can follow through.
 
-THe Buddha himself advocated that his disciples should not to accept any teaching merely on a teacher’s authority, but to work things out for themselves and use common sense in [**Kesamuttisutta** AN 3.65 PTS 1.189–1.193](https://suttacentral.net/an3.65):
+Polak further clarifies in [**Reexamining Jhana: Towards a Critical Reconstruction of Early Buddhist Soteriology**](https://www.academia.edu/34093551/Reexamining_Jhana_Towards_a_Critical_Reconstruction_of_Early_Buddhist_Soteriology) p. 216:
+
+>Similarly to Sujato, I too believe that proper justification and motivation for critical studies of early Buddhism can only be provided by a pragmatic and existential  approach.
+>
+>... Buddhism easily stands out as probably  the least dogmatic and the least difficult to harmonize with the scientific worldview. It  possesses some apparent flaws, a dose of internal discrepancies, some question marks  and we can also encounter some problems connected to its history. These problems  certainly would put Buddhism on the edge of being immediately disqualified as the ‘ultimate solution’, were it not for a fascinating perspective of some deeply hidden  nucleus, possibly devoid of these flaws. This perspective is provided by the presence  of some fundamental internal discrepancies within the Buddhist doctrine, which  suggest that some process of evolution of the original doctrine must have occurred,  during which the above-mentioned discrepancies made their way into the Buddhist  writings. In this way, a critical research of this problem becomes a life’s necessity. It  is no longer the case of us trying to find motivation and then justification for this  activity, as the questions ‘why should we?’, and ‘do we have right to?’ get transformed  to ‘how can we allow ourselves not to?’.
+
+The Buddha himself advocated that his disciples should not to accept any teaching merely on a teacher’s authority, but to work things out for themselves and use common sense in [**Kesamuttisutta** AN 3.65 PTS 1.189–1.193](https://suttacentral.net/an3.65):
 
 > ... `mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu,　mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti.`  
 > ... don’t go by oral transmission, don’t go by lineage, don’t go by testament, don’t go by canonical authority, don’t rely on logic, don’t rely on inference, don’t go by reasoned contemplation, don’t go by the acceptance of a view after consideration, don’t go by the appearance of competence, and don’t think ‘The ascetic is our respected teacher.’

@@ -21,7 +21,7 @@ they | that | conch shell | lying on it’s back | placed down
 They placed down that conch shell lying on it’s back.
 
 vadehi bho saṅkha, vadehi bho saṅkhā ti.  
-⏹🤘⨀(vadeti) 🚹⓪⨀(bhavant) 🚹⓪⨀(saṅkha) 🔼(ti)  
+⏹🤘⨀(vadeti) 🚹⓪⨀(bhavant) 🚹⓪⨀(saṅkha) ⏹🤘⨀(vadeti) 🚹⓪⨀(bhavant) 🚹⓪⨀(saṅkha) 🔼(ti)  
 make sound | sir | conch | make sound | sir | conch | quote  
 “Make sound, Sir Conch! Make sound, Sir Conch!”
 
@@ -115,7 +115,7 @@ Whoever will place a garland on top, that will be for their happiness.
 tvaṃ pana samma Jīvaka kiṃ tuṇhī (D I 49,11-12)  
 🤘①⨀(tvaṃ) 🔼(pana) 🔼(samma) 🚹⓪⨀(jīvaka) 🚻①⨀(ka) 🔼(tuṇhī)  
 you | but | friend | Jīvaka | what? | silence  
-but you, friend Jivaka, why silent?
+But why are you silent, friend Jivaka?
 
 kacci maṃ samma Jīvaka na paccatthikānaṃ desi (D I 50,4-5)  
 🔼(kacci) 👆②⨀(ahaṃ) 🔼(samma) 🚹⓪⨀(jīvaka) 🔼(na) 🚹④⨂(paccatthika) ▶️🤘⨀(deti)  
@@ -138,7 +138,7 @@ sīho migarājā pakkami
 
 There are (atthi: the singular verb may be used for the plural also in this sense) other profound, delightful, doctrines which the "thus-gone" makes known. (D I 12,19-22)  
 atthi aññe dhammā gambhīrā paṇītā, ye Tathāgato pavedeti
- 
+
 He develops that thought. (D III 259,10-11)  
 so taṃ cittaṃ bhāveti
 
