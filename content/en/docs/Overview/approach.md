@@ -17,6 +17,11 @@ Specifically, this is not an article intended to guide or teach others. In readi
 
 Translations from Pali quoted in this article are either from the original author that I have sourced the citation from, or my own translation. Over time, I intend to replace all translations so that they are my own.
 
+From [**Mahāparinibbānasutta** DN 16 PTS 2.72–2.168](https://suttacentral.net/dn16):
+
+>2.26.1 `Tasmātihānanda, attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā.`  
+>So Ānanda, live as your own island, your own refuge, with no other refuge. Let the teaching be your island and your refuge, with no other refuge.
+
 ## Sources
 
 My current understanding is based on reading the Tipiṭaka (the Three Baskets of the Buddhist canon) as published in various translations and in Pāli on [SuttaCentral](https://suttacentral.net) and by reading the following books (not necessarily in this order):
@@ -110,7 +115,7 @@ Some people also like the following later discourses:
 * [**Mahāsatipaṭṭhānasutta** MN 10 PTS 1.56–1.63](https://suttacentral.net/mn10): where the Buddha teaches the fundamentals of mindful meditation.
 * [**Mahāparinibbānasutta** DN 16 PTS 2.72–2.168](https://suttacentral.net/dn16): supposedly the longest discourse in the Tipiṭaka, describes the events surrounding the Buddha's final passing away. This discourse contains a summary of many of his core teachings.
 
-Some of you may have noticed I have excluded the [**Dhammapada**](https://suttacentral.net/pitaka/sutta/minor/dharmapadas), a very popular collection of inspirational verses, from the above list. Since I am interested in getting as close as possible to understand what the Buddha actually taught, I find the Dhammapada problematic. First of all, it is a late collection, and almost certainly composed after the Buddha died. It can also be ambiguous in meaning and intent and difficult to parse in parts. There are significant variations in the various versions of Dhammapada or it's equivalents across the canonical collections. And finally, not all of the Dhammapada may have been Buddhist in intent, as some contents appear to be aligned with non-Buddhist text, eg. the Mahabharatha, so it seems likely the Dhammapada is a collection of verse sourced from many places, and may not always reflect the Buddha's teachings. Von Wilhelm Rau has done an analysis of parallels between the Dhammapada and other texts, including non-Buddhist texts, in **Bemerkungenund Nicht-Buddhisti-Schesanskrit-Parallelenzum
+Some of you may have noticed I have excluded the [**Dhammapada**](https://suttacentral.net/pitaka/sutta/minor/dharmapadas), a very popular collection of inspirational verses, from the above list. Since I am interested in getting as close as possible to understanding what the Buddha actually taught, I find the Dhammapada problematic. First of all, it is a late collection, and almost certainly composed after the Buddha died. It can also be ambiguous in meaning and intent and difficult to parse in parts. There are significant variations in the various versions of Dhammapada or it's equivalents across the canonical collections. And finally, not all of the Dhammapada may have been Buddhist in intent, as some contents appear to be aligned with non-Buddhist text, eg. the Mahabharatha, so it seems likely the Dhammapada is a collection of verse sourced from many places, and may not always reflect the Buddha's teachings. Von Wilhelm Rau has done an analysis of parallels between the Dhammapada and other texts, including non-Buddhist texts, in **Bemerkungenund Nicht-Buddhisti-Schesanskrit-Parallelenzum
 Pāli-Dhammapada**, from **Jñānamuktāvalī**, International Academy of Indian Culture, New Dehli (1963).
 
 The awakening of the Buddha, plus the first three discourses, can be summarised into a single diagram:
@@ -218,13 +223,13 @@ We are ignorant (`avijjā`). Ignorant of Life, The Universe, and Everything. We 
 
 Because, or as a result of, our ignorance, we make non optimal decisions and choices (`saṅkhārā`). The accumulation of these decisions and choices result in an emerging consciousness (`viññāṇaṁ`).
 
-Our consciousness is "constructed" - it is created by the results of all the previous choices, decisions, intentions that we've made in the past.
+Our consciousness is "constructed" - it is created (or "caused") by the results of all the previous choices, decisions, intentions that we've made in the past.
 
 Let's examine how this consciousness has been constructed by exploring a cycle or chain of processes. Just like new born babies, all living things start with no awareness and no consciousness.
 
 But we react to our surroundings. Even single celled organisms have receptors that are sensitive to their environment, and can detect changes in temperature, light and nutrient availability. These receptors trigger a series of signalling pathways that can cause the cell to move towards or away from certain stimuli, or change shape or behaviour.
 
-In the same way, we have sense organs that perceive the environment. Gradually we are aware of forms, the form of our own body, and other forms external to the body. We build a virtual representation of forms in our mind, and name them (`nāmarūpaṁ`). By "naming" forms, we conceptualise them and develop symbolic "tokens" of them (and through this, our grasp of language develops). Awareness of our own form give rise to consciousness, and similarly consciousness makes us aware of that which is us, and that which is not us. Hence viññāṇaṁ and nāmarūpaṁ are mutually dependent on each other.
+In the same way, we have sense organs that perceive the environment. Gradually we are aware of forms, the form of our own body, and other forms external to the body. We build a virtual representation of forms in our mind (`saññā`), and name them (`nāmarūpaṁ`). By "naming" forms, we conceptualise them and develop symbolic "tokens" of them (and through this, our grasp of language develops). Awareness of our own form give rise to consciousness, and similarly consciousness makes us aware of that which is us, and that which is not us. Hence viññāṇaṁ and nāmarūpaṁ are mutually dependent on each other.
 
 We perceive forms through our senses (`saḷāyatanaṁ`) and through our senses we experience the world around us (`phasso`). From this experience, we start developing feelings (`vedanā`) - we like some experiences or forms, and we dislike or are indifferent to other experiences or forms. We develop cravings (`taṇhā`) for experiences and forms that we like, and aversions to experiences and forms we don't like, and these cravings and aversions influence or "fuel" future decisions or choices (`upādānaṁ`), that ultimately the "fuel" feed into our consciousness, and so the cycle repeats.
 
@@ -232,21 +237,21 @@ It is a vicious cycle that feeds on itself and will not end unless there is a wa
 
 1. Our conceptualisation of forms is a fuel (`rūpakkhandho`) and drives how we perceive and name forms (`nāmarūpaṁ`). 'Forms' consume us and drive our desire and cravings - our desire to look beautiful and attractive for example drives a multi-billion dollar beauty industry. We also desire to "own" forms, to possess them, to make them part of us and to give us satisfaction.
 2. Similar, our feelings act as fuel (`vedanākkhandho`) - we desire more of what we like and avoid what we don't like (`vedanā`)
-3. Our perceptions (interpretations of what we experience) also act as a fuel (`saññākkhandho`) - for example we want to be popular and liked by others, and we in turn judge others through our senses (`saḷāyatanaṁ`) and our contact with others (`phasso`).
+3. Our perceptions (interpretations and conceptualisations of what we experience, such as the ability to recognise colours) also act as a fuel (`saññākkhandho`) - for example we want to be popular and liked by others, and we in turn judge others through our senses (`saḷāyatanaṁ`) and our contact with others (`phasso`).
 4. Based on our desire and craving for various forms, feelings, and perceptions, we make choices and decisions (`saṅkhārakkhandho`) which directly impact the results or implications of those intentions (`saṅkhārā`). For example, our like and dislike for others influence how we behave with them.
 5. And finally our consciousness itself is a fuel (`viññāṇakkhandho`). Our awareness of our existence leads to our primary craving - a desire to survive and to continue existence, to maintain our form and our consciousness (`viññāṇaṁ`)
 
-Together these Five Masses of Fuel feed a massive and intense fire (caused by desire) that consumes us, every moment of our lives (`sabbaṁādittaṁ`). It drives not only our present existence (`bhavo`), but leads to birth and rebirth (`jāti`) and eventually to old age and death (`jarāmaraṇaṁ`), and so the cycle of existence (`saṃsāra`) ever revolves.
+Together these Five Masses of Fuel feed a massive and intense fire (caused by desire) that consumes us, every moment of our lives (`sabbaṁādittaṁ`). It enflames not only our present existence (`bhavo`), but leads to birth and rebirth (`jāti`) and eventually to old age and death (`jarāmaraṇaṁ`), and so the cycle of existence (`saṃsāra`) ever revolves.
 
 This is clearly unsatisfactory (`dukkhaṁ`). Not only unsatisfactory, but the burning of the five fuels ultimately results in pain and suffering, that lasts throughout the entire cycle of saṃsāra.
 
 Why suffering? Surely there are moments of pleasure, moments of happiness? Maybe, if we indulge in our senses and revel in pleasure and happiness, we can forget about the pain and suffering. But deep inside, we know nothing lasts forever. We cannot sustain happiness and pleasure indefinitely, we all eventually grow old and die.
 
-We eventually realise: nothing we experience is permanent (`aniccaṁ`), and therefore everything is ultimately unsatisfactory. Fundamentally, even our consciousness is impermanent (as it is continuously affected by what we have previously experienced), so there no sense of "self" that is permanent or unchanging (`anatta`).
+We come to the realisation: nothing we experience is permanent (`aniccaṁ`), and therefore everything is ultimately unsatisfactory. Fundamentally, even our consciousness is impermanent (as it is continuously affected by what we have previously experienced), so there no sense of "self" that is permanent or unchanging (`anatta`).
 
 Is there a way out of these vicious cycles (both the vicious cycle caused by the five masses of fuel, and the vicious cycle of saṃsāra)?
 
-Fortunately, the Buddha found a way (`dukkhanirodhagāminīpaṭipadā`), that does not require either indulgence of senses or extreme practices. The way is practical, achievable within one lifetime, and consists of the following eight components (`ariyo aṭṭhaṅgiko maggo`):
+Fortunately, the Buddha found a way (`dukkhanirodhagāminīpaṭipadā`, or the Path of progress towards the End of Suffering), that does not require either indulgence of senses or extreme practices. The way is practical, achievable within one lifetime, and consists of the following eight components (`ariyo aṭṭhaṅgiko maggo`, the Pure Path in eight parts):
 
 1. `sammādiṭṭhi`: The first step is of course to understand what we have just discussed (`cattāri ariyasaccāni`): that everything is unsatisfactory (`dukkhaṁ`), and impermanent, including our sense of self. The origin of this suffering (`dukkhasamudayaṁ`) is our craving which drives the five masses of fuel. In order to end the vicious cycle of suffering, we need to stop fueling the fire (`dukkhanirodhaṁ`). And to stop fueling the fire, we need to engage in the following components of the way.
 2. `sammāsaṅkappo`: Ultimately, we need to abandon our dependence on sensual pleasures (which are impermanent) and focus on ethical and moral conduct, such as good will and well being towards everything. Unwholesome and unskilled actions are sub-optimal and stem from  bad intentions, resulting in harm to ourselves and others. Good intentions and optimal behaviour lead to wholesome actions and a detachment from sensual pleasures.
@@ -255,13 +260,13 @@ Fortunately, the Buddha found a way (`dukkhanirodhagāminīpaṭipadā`), that d
 5. `sammāājīvo`: We should lead an exemplary life, avoiding activities and even thoughts that are unethical or result in further craving and unwholesome thoughts.
 6. `sammāvāyāmo`: We should make all effort to eradicate even the arising of bad or unwholesome thoughts and desires, ensure any bad or unwholesome thoughts that we already harbour are dissipated, and instead promote and maintain wholesome and ethical thoughts.
 7. `sammāsati`: We should be hyper-aware of ourselves, by observing our bodies, our feelings, how we think, our value systems. We are constantly mindful to ensure we are stopping all thoughts and activities leading to fueling our cravings.
-8. `sammāsamādhi`: Finally, we will recognise that once we have successfully abandoned our dependence on sensual cravings, removed unwholesome or unskilled qualities, we will gradually realise our entire disposition and mindset have progressed, over a set of four stages.
+8. `sammāsamādhi`: Finally, we will recognise that once we have successfully abandoned our dependence on sensual cravings, removed unwholesome or unskilled qualities, we will gradually realise our entire outlook, disposition and mindset have progressed, over a set of four stages.
    1. In the first stage, we finally realise the joy and bliss of a calm mind that is free of delusions, cravings, and bad intentions.
-   2. In the second stage, we gain internal clarity as our mind becomes focus and concentrated as it is no longer distracted.
-   3. In the third stage, we become tranquil as we let go even of joy and bliss and become dispassionate and possess equanimity.
+   2. In the second stage, we gain internal clarity as our mind becomes focused and concentrated as it is no longer distracted.
+   3. In the third stage, we become tranquil as we let go even of joy and bliss and become dispassionate and embrace equanimity.
    4. In the fourth stage, we completely let go and realise we are no longer tied to the vicious cycle of saṃsāra. With this realisation, we are finally free, we have broken out of the vicious cycle. Thus we have attained enlightenment or "perfect awakening."
 
-The above represents the "core" of what the Buddha taught, everything else is arguably elaboration and further clarification. The teaching is not only practical but also effective, anecdotally, many individuals attained enlightenment during the Buddha's lifetime and presumably more even after his death. Many people try to follow that teaching today, including myself.
+The above represents the "core" of what the Buddha taught, everything else is arguably elaboration and further clarification. The teaching is not only practical but also effective. Anecdotally, many individuals attained enlightenment during the Buddha's lifetime and presumably more even after his death. Many people try to follow that teaching today, including myself.
 
 ## How do we know the Buddha existed and his teachings are authentic?
 
@@ -302,23 +307,23 @@ Therefore, every sentence in the Tipiṭaka needs to be carefully considered and
 
 This applies even to (supposedly) his earliest discourses. According to [**Mahākhandhaka** Kd 1 PTS 1.1–1.100](https://suttacentral.net/pli-tv-kd1), the five monks that Buddha taught the first and second discourses to all attained enlightenment (presumably immediately afterwards):
 
->`Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsu.`  
+>6.29.4 `Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsu.`  
 >And while this exposition was being spoken to the monks from the group of five, their minds were freed from the corruptions through letting go.
 
 And yet, in [**Pāsarāsisutta** MN 26 PTS 1.161–1.175](https://suttacentral.net/mn26):
 
->`Asakkhiṁ kho ahaṁ, bhikkhave, pañcavaggiye bhikkhū saññāpetuṁ.`  
+>29.1 `Asakkhiṁ kho ahaṁ, bhikkhave, pañcavaggiye bhikkhū saññāpetuṁ.`  
 >I was able to persuade the group of five bhikkhus.  
->`Dvepi sudaṁ, bhikkhave, bhikkhū ovadāmi, tayo bhikkhū piṇḍāya caranti.`  
+>29.2 `Dvepi sudaṁ, bhikkhave, bhikkhū ovadāmi, tayo bhikkhū piṇḍāya caranti.`  
 >Then sometimes I advised two bhikkhus, while the other three went for alms.  
->`Yaṁ tayo bhikkhū piṇḍāya caritvā āharanti tena chabbaggiyā yāpema.`  
+>29.3 `Yaṁ tayo bhikkhū piṇḍāya caritvā āharanti tena chabbaggiyā yāpema.`  
 >Then those three would feed all six of us with what they brought back.  
->`Tayopi sudaṁ, bhikkhave, bhikkhū ovadāmi, dve bhikkhū piṇḍāya caranti.`  
+>29.4 `Tayopi sudaṁ, bhikkhave, bhikkhū ovadāmi, dve bhikkhū piṇḍāya caranti.`  
 >Sometimes I advised three bhikkhus, while the other two went for alms.  
->`Yaṁ dve bhikkhū piṇḍāya caritvā āharanti tena chabbaggiyā yāpema.`  
+>29.5 `Yaṁ dve bhikkhū piṇḍāya caritvā āharanti tena chabbaggiyā yāpema.`  
 >Then those two would feed all six of us with what they brought back.
 
-So it would seem the 5 monks were not enlightened immediately, but it was a process that took some time. Johannes Bronkhorst argues in [**The Two Traditions Of Meditation In Ancient India**](https://archive.org/details/TheTwoTraditionsOfMeditationInAncientIndia) p. 84 that the Buddha's early teachings were probably "personal advice, adjusted to the needs of each person." Both Bronkhorst and Gombrich argues that the Four Pure Truths (`cattāri ariyasaccāni`) are unlikely to constitute "liberating insight" as they do not really describe the specific process of attaining liberation and specific requirements, such as the elimination of effluents or intoxicants. Therefore, it seems likely the exact formulation of the truths are a later synthesis. Similar arguments can be made for the contents of the Second and Third Discourses, and even the formulation of the links to Dependent Origination may have been adjusted and amended over time, given the variance in the number of items in the chain in various suttas.
+So it would seem the 5 monks were not enlightened immediately, but it was a process that took some time. Johannes Bronkhorst argues in [**The Two Traditions Of Meditation In Ancient India**](https://archive.org/details/TheTwoTraditionsOfMeditationInAncientIndia) p. 84 that the Buddha's early teachings were probably "personal advice, adjusted to the needs of each person." Both Bronkhorst and Gombrich argues that the Four Pure Truths (`cattāri ariyasaccāni`) are unlikely to constitute "liberating insight" as they do not really describe the specific process of attaining liberation or articulate the necessary prerequisites, such as the elimination of effluents or intoxicants. Therefore, it seems likely the exact formulation of the truths are a later synthesis. Similar arguments can be made for the contents of the Second and Third Discourses, and even the formulation of the links to Dependent Origination may have been adjusted and amended over time, given the variance in the number of items in the chain in various suttas.
 
 ### Turning `buddhavacana` into `abhidhamma` and `Mahāyāna`
 
@@ -328,7 +333,7 @@ According to Jayarava in [**Why Did Buddhists Abandon Buddhavacana?**](https://j
 
 Why would anyone do this, ie. deliberately replace or augment the Buddha's teachings with related and similar teachings? One answer may lie in the [**Uttaravipattisutta** AN 8.8 PTS 4.162–4.166](https://suttacentral.net/an8.8), where Utarra delivered a seemingly "original" discourse to some monks (presumably sometime after the Buddha had passed away). King Vessavaṇa overheard the discourse, and went to the gods of the Thirty-Three to ask Sakka, lord of the gods, whether this was an "authentic" teaching, one that the Buddha might have taught. Sakka was so concerned by this he appeared in front of Uttara and asked:
 
->`“Kiṁ panidaṁ, bhante, āyasmato uttarassa sakaṁ paṭibhānaṁ, udāhu tassa bhagavato vacanaṁ arahato sammāsambuddhassā”ti?`  
+>5.7 `“Kiṁ panidaṁ, bhante, āyasmato uttarassa sakaṁ paṭibhānaṁ, udāhu tassa bhagavato vacanaṁ arahato sammāsambuddhassā”ti?`  
 >“Sir, did this teaching come to you from your own inspiration, or was it spoken by the Blessed One, the perfected one, the fully awakened Buddha?”
 
 Uttara's reply is interesting. According to Anālayo in [**The Dawn of Abhidharma**](https://www.buddhismuskunde.uni-hamburg.de/pdf/4-publikationen/hamburg-buddhist-studies/hamburgup-hbs2-analayo-abhidharma.pdf) p. 149:
@@ -341,7 +346,7 @@ This illustrates that some of Buddha's disciples felt confident enough they full
 
 Once the first step has been established, it seemed logical to continue and create additional original discourses. For example, the [**Anupadasutta** MN 111 PTS 3.25–3.29](https://suttacentral.net/dn26) is a discourse in the Majjhima-nikāya of the Theravāda tradition of which no parallel is known, hence likely to be pure invention of the Theravādans. There are also discourses in the other canonical collections that are not present in the Tipiṭika.
 
-According to Anālayo in [**The Dawn of Abhidharma**], the Abhidhamma in the Tipiṭaka, which is also unique to Theravāda although other sects have their own versions, evolved from lists of discourse topics (such as the ones found in [**Saṅgītisutta** DN 33 PTS 3.207–3.271](https://suttacentral.net/dn33) and [**Dasuttarasutta** DN 34 PTS 3.272–3.293](https://suttacentral.net/dn34)), central themes, and potentially commentaries on the discourses into the voluminous collection it is today. The Abhidhamma takes an abstract or conceptual perspective on the core teachings and then exhaustively analyses them by attempting to provide a comprehensive inventory of everything connected to these teachings. Presumably at this time the instructions given in the discourses were perceived as somewhat lacking and insufficient - the final results go beyond what early discourses consider necessary for successful practice. Eventually the Abhidhamma, which started out as a commentary "about" the dhamma, became the “superior” or “higher” dhamma, thereby overshadowing in importance the texts on which it originally commented.
+According to Anālayo in [**The Dawn of Abhidharma**], the Abhidhamma in the Tipiṭaka, which is also unique to Theravāda although other sects have their own versions, evolved from lists of discourse topics (such as the ones found in [**Saṅgītisutta** DN 33 PTS 3.207–3.271](https://suttacentral.net/dn33) and [**Dasuttarasutta** DN 34 PTS 3.272–3.293](https://suttacentral.net/dn34)), central themes, and potentially commentaries on the discourses into the voluminous collection it is today. The Abhidhamma takes an abstract or conceptual perspective on the core teachings and then exhaustively analyses them by attempting to provide a comprehensive inventory of everything connected to these teachings. Presumably at this time the instructions given in the discourses were perceived as somewhat lacking and insufficient - the final results go beyond what early discourses consider necessary for successful realisation. Eventually the Abhidhamma, which started out as a commentary "about" the dhamma, became the “superior” or “higher” dhamma, thereby overshadowing in importance the texts on which it originally commented.
 
 Anālayo further points out that from a Mahāyāna viewpoint, "the early discourses are considered as teachings that are “inferior” (`hīna`). The teachings of the Abhidharma in turn are considered by their followers to be “superior” (`abhi-`) in comparison to the early discourses. In this way, the early teachings increasingly tend to fade in importance and are eventually superseded by the new texts, a development that in turn led to the formation of independent textual collections, the **Abhidharma-piṭaka** and the **Bodhisattva-piṭaka**, considered to be superior to the early discourses." The Mahayanists then further argue that Mahāyāna is the word of the Buddha which had been collected by bodhisattvas like Samantabhadra, Mañjuśrī, Maitreya, etc. or originated from the realm of the nāgas, as well as from devas, gandharvas, and rākṣasas. They were not included in the canonical collections because they were beyond the ken of the `śrāvaka`[S]s responsible for collecting the word of the Buddha.
 
@@ -375,7 +380,7 @@ Even the grammar, choice and ordering of words are standardised. As Mark describ
 
 An example is this phrase (in **bold**) from [**Ānandabhaddekarattasutta** MN 132 PTS 3.190–3.191](https://suttacentral.net/mn132):
 
->`Tena kho pana samayena āyasmā ānando upaṭṭhānasālāyaṁ bhikkhūnaṁ dhammiyā kathāya `**`sandasseti samādapeti samuttejeti sampahaṁseti`**`, bhaddekarattassa uddesañca vibhaṅgañca bhāsati.`  
+>2.1 `Tena kho pana samayena āyasmā ānando upaṭṭhānasālāyaṁ bhikkhūnaṁ dhammiyā kathāya `**`sandasseti samādapeti samuttejeti sampahaṁseti`**`, bhaddekarattassa uddesañca vibhaṅgañca bhāsati.`  
 >Now at that time Venerable Ānanda was **educating, encouraging, firing up, and inspiring** the mendicants in the assembly hall with a Dhamma talk on the topic of the recitation passage and analysis of One Fine Night.
 
 Note the use of the four semi-synonymous verbs all starting with `sa` with a syllable pattern of 4+5+5+5. Its unlikely this sort of pattern, with shared sound and metrical similarities, would have occured in "normal" speech.
@@ -434,9 +439,9 @@ Much more seriously, it seems some pericopes may not even represent the original
 
 The last two of the above were dismissed by the Buddha as being non-conducive nor leading to enlightenment, and he identified them as specifically the teachings of Āḷāra Kālāma and Rāma in [**Pāsarāsisutta** MN 26 PTS 1.161–1.175](https://suttacentral.net/mn26).
 
->`‘nāyaṁ dhammo nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati, yāvadeva ākiñcaññāyatanūpapattiyā’ti.`  
+>15.35 `‘nāyaṁ dhammo nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati, yāvadeva ākiñcaññāyatanūpapattiyā’ti.`  
 >‘This teaching doesn’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. It only leads as far as rebirth in the dimension of nothingness.’  
->... `yāvadeva nevasaññānāsaññāyatanūpapattiyā’ti`  
+>16.35 ... `yāvadeva nevasaññānāsaññāyatanūpapattiyā’ti`  
 >It only leads as far as rebirth in the dimension of neither perception nor non-perception.’
 
 Yet, inexplicably, these methods were subsequently inserted into various suttas (for example [**Cūḷasuññatasutta** MN 121 PTS 3.104–3.109](https://suttacentral.net/mn121)), presumably by later disciples.
@@ -451,7 +456,7 @@ Therefore it is not surprising that some followers and practitioners of Buddhism
 
 The Buddha himself warns against the danger of misinterpreting the texts by people who only memorise the words but don't grasp the meaning in [**Alagaddūpamasutta** MN 22 PTS 1.130–1.142](https://suttacentral.net/mn22).
 
-> Idha, bhikkhave, ekacce moghapurisā dhammaṁ pariyāpuṇanti— suttaṁ, geyyaṁ, veyyākaraṇaṁ, gāthaṁ, udānaṁ, itivuttakaṁ, jātakaṁ, abbhutadhammaṁ, vedallaṁ. Te taṁ dhammaṁ pariyāpuṇitvā tesaṁ dhammānaṁ paññāya atthaṁ na upaparikkhanti. Tesaṁ te dhammā paññāya atthaṁ anupaparikkhataṁ na nijjhānaṁ khamanti. Te upārambhānisaṁsā ceva dhammaṁ pariyāpuṇanti itivādappamokkhānisaṁsā ca. Yassa catthāya dhammaṁ pariyāpuṇanti tañcassa atthaṁ nānubhonti. Tesaṁ te dhammā duggahitā dīgharattaṁ ahitāya dukkhāya saṁvattanti. Taṁ kissa hetu? Duggahitattā, bhikkhave, dhammānaṁ.
+>10.1 `Idha, bhikkhave, ekacce moghapurisā dhammaṁ pariyāpuṇanti— suttaṁ, geyyaṁ, veyyākaraṇaṁ, gāthaṁ, udānaṁ, itivuttakaṁ, jātakaṁ, abbhutadhammaṁ, vedallaṁ. Te taṁ dhammaṁ pariyāpuṇitvā tesaṁ dhammānaṁ paññāya atthaṁ na upaparikkhanti. Tesaṁ te dhammā paññāya atthaṁ anupaparikkhataṁ na nijjhānaṁ khamanti. Te upārambhānisaṁsā ceva dhammaṁ pariyāpuṇanti itivādappamokkhānisaṁsā ca. Yassa catthāya dhammaṁ pariyāpuṇanti tañcassa atthaṁ nānubhonti. Tesaṁ te dhammā duggahitā dīgharattaṁ ahitāya dukkhāya saṁvattanti. Taṁ kissa hetu? Duggahitattā, bhikkhave, dhammānaṁ.`
 
 According to Gombrich's translation in [**How Buddhism Began**](https://ahandfulofleaves.files.wordpress.com/2012/02/how-buddhism-began_gombrich.pdf) p. 23:
 
@@ -475,9 +480,9 @@ In some places, the Buddha even adopts a satirical tone by making fun at accepte
 
 Buddhists should know the Buddha has already proclaimed the universe as having no absolute beginning, it's just the cycle of existence. As per [**Tiṇakaṭṭhasutta** SN 15.1 PTS 2.178](https://suttacentral.net/sn15.1):
 
->`Anamataggoyaṁ, bhikkhave, saṁsāro.`  
+>1.7 `Anamataggoyaṁ, bhikkhave, saṁsāro.`  
 >Transmigration has no known beginning.  
->`Pubbā koṭi na paññāyati avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ sandhāvataṁ saṁsarataṁ.`  
+>1.8 `Pubbā koṭi na paññāyati avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ sandhāvataṁ saṁsarataṁ.`  
 >No first point is found of sentient beings roaming and transmigrating, shrouded by ignorance and fettered by craving.
 
 Despite that, according to Gombrich on p. 82:
@@ -542,32 +547,32 @@ This tendency to exalt the Buddha as a consequence of the vacuum created by his 
 
 In [**Pāsarāsisutta** MN 26 PTS 1.161–1.175](https://suttacentral.net/mn26) we find lo and behold the Buddha indeed claimed to know "all":
 
->`‘Sabbābhibhū sabbavidūhamasmi,`  
+>25.6 `‘Sabbābhibhū sabbavidūhamasmi,`  
 >‘I am the champion, the knower of all,  
->`Sabbesu dhammesu anūpalitto;`  
+>25.7 `Sabbesu dhammesu anūpalitto;`  
 >unsullied in the midst of all things.
 
 Furthermore, this was subsequently expanded to anyone who wishes to reach enlightenment, and in fact it is not possible to attain awakening without understanding and fully knowing “all” in [**Sabbapariññāsutta** Iti 7 PTS 4 PTS 4 Verse 7](https://suttacentral.net/iti7):
 
->`“Sabbaṁ, bhikkhave, anabhijānaṁ aparijānaṁ tattha cittaṁ avirājayaṁ appajahaṁ abhabbo dukkhakkhayāya."`  
+>2.1 `“Sabbaṁ, bhikkhave, anabhijānaṁ aparijānaṁ tattha cittaṁ avirājayaṁ appajahaṁ abhabbo dukkhakkhayāya."`  
 >“Mendicants, without directly knowing and completely understanding the all, without dispassion for it and giving it up, you can’t end suffering.
 
 However, these two passages presumably had an original meaning not of omniscience but that an enlightened person truly "saw things as they are". In [**Kāḷakārāmasutta** AN 4.24 PTS 2.25–2.26](https://suttacentral.net/an4.24) this was clarified to:
 
->`Yaṁ, bhikkhave, sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya diṭṭhaṁ sutaṁ mutaṁ viññātaṁ pattaṁ pariyesitaṁ anuvicaritaṁ manasā, tamahaṁ jānāmi.`  
+>2.1 `Yaṁ, bhikkhave, sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya diṭṭhaṁ sutaṁ mutaṁ viññātaṁ pattaṁ pariyesitaṁ anuvicaritaṁ manasā, tamahaṁ jānāmi.`  
 >“In this world—with its gods, Māras and Brahmās, this population with its ascetics and brahmins, its gods and humans—whatever is seen, heard, thought, known, attained, sought, and explored by the mind: that I know.
 
 In fact the Buddha explicitly denied having ever made a claim to omniscience in [**Tevijjavacchasutta** MN 71 PTS 1.482–1.483](https://suttacentral.net/mn71), but this sutta seems to have been omitted in other canons, possibly a sign of censorship.
 
->`“sutaṁ metaṁ, bhante:`  
+>5.1 `“sutaṁ metaṁ, bhante:`  
 >“Sir, I have heard this:  
->`‘samaṇo gotamo sabbaññū sabbadassāvī, aparisesaṁ ñāṇadassanaṁ paṭijānāti,`  
+>5.2 `‘samaṇo gotamo sabbaññū sabbadassāvī, aparisesaṁ ñāṇadassanaṁ paṭijānāti,`  
 >‘The ascetic Gotama claims to be all-knowing and all-seeing, to know and see everything without exception, thus:  
->`carato ca me tiṭṭhato ca suttassa ca jāgarassa ca satataṁ samitaṁ ñāṇadassanaṁ paccupaṭṭhitan’ti.`  
+>5.3 `carato ca me tiṭṭhato ca suttassa ca jāgarassa ca satataṁ samitaṁ ñāṇadassanaṁ paccupaṭṭhitan’ti.`  
 >“Knowledge and vision are constantly and continually present to me, while walking, standing, sleeping, and waking.”’  
->`Ye te, bhante, evamāhaṁsu: ‘samaṇo gotamo sabbaññū sabbadassāvī, aparisesaṁ ñāṇadassanaṁ paṭijānāti, carato ca me tiṭṭhato ca suttassa ca jāgarassa ca satataṁ samitaṁ ñāṇadassanaṁ paccupaṭṭhitan’ti, kacci te, bhante, bhagavato vuttavādino, na ca bhagavantaṁ abhūtena abbhācikkhanti, dhammassa cānudhammaṁ byākaronti, na ca koci sahadhammiko vādānuvādo gārayhaṁ ṭhānaṁ āgacchatī”ti?`  
+>5.4 `Ye te, bhante, evamāhaṁsu: ‘samaṇo gotamo sabbaññū sabbadassāvī, aparisesaṁ ñāṇadassanaṁ paṭijānāti, carato ca me tiṭṭhato ca suttassa ca jāgarassa ca satataṁ samitaṁ ñāṇadassanaṁ paccupaṭṭhitan’ti, kacci te, bhante, bhagavato vuttavādino, na ca bhagavantaṁ abhūtena abbhācikkhanti, dhammassa cānudhammaṁ byākaronti, na ca koci sahadhammiko vādānuvādo gārayhaṁ ṭhānaṁ āgacchatī”ti?`  
 >I trust that those who say this repeat what the Buddha has said, and do not misrepresent him with an untruth? Is their explanation in line with the teaching? Are there any legitimate grounds for rebuke and criticism?”  
->`“Ye te, vaccha, evamāhaṁsu: ‘samaṇo gotamo sabbaññū sabbadassāvī, aparisesaṁ ñāṇadassanaṁ paṭijānāti, carato ca me tiṭṭhato ca suttassa ca jāgarassa ca satataṁ samitaṁ ñāṇadassanaṁ paccupaṭṭhitan’ti, na me te vuttavādino, abbhācikkhanti ca pana maṁ asatā abhūtenā”ti.`  
+>5.5 `“Ye te, vaccha, evamāhaṁsu: ‘samaṇo gotamo sabbaññū sabbadassāvī, aparisesaṁ ñāṇadassanaṁ paṭijānāti, carato ca me tiṭṭhato ca suttassa ca jāgarassa ca satataṁ samitaṁ ñāṇadassanaṁ paccupaṭṭhitan’ti, na me te vuttavādino, abbhācikkhanti ca pana maṁ asatā abhūtenā”ti.`  
 >“Vaccha, those who say this do not repeat what I have said. They misrepresent me with what is false and untrue.”
 
 [**Kaṇṇakatthalasutta** MN 90 PTS 2.126–2.133](https://suttacentral.net/mn90) then seems to soften this:
@@ -643,9 +648,9 @@ Some parts of the teachings were not allowed to be disclosed to the laity, for v
 
 The Buddha's greatest lay benefactor was Anāthapiṇḍika, the wealthy banker. Indeed, many of the Buddha's discourses were given at Anāthapiṇḍika's park (donated to the saṅgha) located at Jeta's Grove (a famous monastery) in Sāvatthī. There are special sermons composed especially for his benefit. When Anāthapiṇḍika was dying, he summoned the Buddha for the last time, and Sāriputta was sent to visit him. Out of compassion, and wishing Anāthapiṇḍika to be reborn in a higher place, Sāriputta revealed a teaching not normally taught to lay people, and Anāthapiṇḍika exclaimed in surprise in [**Anāthapiṇḍikovādasutta** MN 143 PTS 3.258–3.263](https://suttacentral.net/mn143):
 
-> ... `api ca me dīgharattaṁ satthā payirupāsito manobhāvanīyā ca bhikkhū;`  
+>15.5  ... `api ca me dīgharattaṁ satthā payirupāsito manobhāvanīyā ca bhikkhū;`  
 >But for a long time I have paid homage to the Buddha and the esteemed bhikkhus.  
->`na ca me evarūpī dhammī kathā sutapubbā”ti.`  
+>15.6 `na ca me evarūpī dhammī kathā sutapubbā”ti.`  
 >Yet I have never before heard such a Dhamma talk.”
 
 Buddhism spread rapidly across India during Asoka's reign, to Sri Lanka, Burma and eventually to South East Asia. It is remarkable that the structure and lineage of the saṅgha was mostly preserved throughout this process. However, Buddhism also forked into various "sects" and the saṅgha was no longer a unified community. Today, the differences between the sects are such that a reconciliation seems unlikely. Whole books have been written on the reasons and the history of divisions in the way Buddhism is interpreted or practiced that I will not summarise here. Recently, "modern", "humanistic" and "protestant" versions of Buddhism have surfaced, each with their own adherents.
@@ -666,11 +671,11 @@ Today the saṅgha survives but is mainly regarded as monastic communities of (p
 
 It is unfortunate that Buddhism died out in India and today is a minority religion in that country, and usually portrayed as a variant of Hinduism.  Johannes Bronkhorst in [**Buddhism in the Shadow of Brahmanism**](https://ia802903.us.archive.org/8/items/profsaraobooks/KTS.Bronkhorst.Buddhism%20in%20the%20Shadow%20of%20Brahmanism.pdf) Chapter 3 suggests that Buddhism lost political support compared to brahmanism and over time adopted or adapted to brahmanism practices. I venture to suppose that a desire to portray Buddhism in a favourable light compared to brahmanism potentially was one of the main reasons why the texts were altered and expanded as we saw earlier in the article. The main soteriological basis of Buddha's teachings became obscured by passages extolling and exalting the Buddha, emphasising his supernatural skills and powers, and brahmanism practices were incorporated in the texts to demonstrate the Buddhism was at least comparable in stature. The volume of material expanded considerably to demonstrate the depth of Buddha's teachings, even though the core messages were actually relatively concise. Increasinglly, verse was used to convey abstract concepts, again possibly to convey depth and mysticism, even though the Buddha himself advised against using verse. In [**Khuddakavatthukkhandhaka** Kd 15 PTS 2.105–2.145](https://suttacentral.net/pli-tv-kd15/pli/ms#33.1.13) 33.1.13 the Buddha states:
 
->`“na, bhikkhave, buddhavacanaṁ chandaso āropetabbaṁ.`  
+>33.1.13 `“na, bhikkhave, buddhavacanaṁ chandaso āropetabbaṁ.`  
 >“You shouldn’t give metrical form to the word of the Buddha.  
->`Yo āropeyya, āpatti dukkaṭassa.`  
+>33.1.14 `Yo āropeyya, āpatti dukkaṭassa.`  
 >If you do, you commit an offense of wrong conduct.  
->`Anujānāmi, bhikkhave, sakāya niruttiyā buddhavacanaṁ pariyāpuṇitun”ti.`  
+>33.1.15 `Anujānāmi, bhikkhave, sakāya niruttiyā buddhavacanaṁ pariyāpuṇitun”ti.`  
 >You should learn the word of the Buddha using its own expressions.”
 
 [**Dhammapada**](https://suttacentral.net/pitaka/sutta/minor/dharmapadas) became a popular text, as people are drawn by the inherent beauty of the verse and the metaphors, even though the actual content can be rather opaque (and, I mentioned earlier, can reflect non-Buddhist origins). And thus we come full circle: the very practices and beliefs that the Buddha would have refuted have gradually seeped into and have become part of buddhavacana.
@@ -697,14 +702,14 @@ Buddhism is primarily practised by the various sects and groups of monastics (wh
 
 There were issues with quarrels and bad behaviour even during Buddha's lifetime. Take, for example [**Ovādasutta** SN 16.6 PTS 2.204–2.205](https://suttacentral.net/sn16.6), where Kassapa complains to the Buddha that lately monks have become hard to admonish, impatient, and don't take instruction respectfully, requiring an intervention by the Buddha:
 
->`“Dubbacā kho, bhante, etarahi bhikkhū, dovacassakaraṇehi dhammehi samannāgatā, akkhamā, appadakkhiṇaggāhino anusāsaniṁ.`  
+>2.1 `“Dubbacā kho, bhante, etarahi bhikkhū, dovacassakaraṇehi dhammehi samannāgatā, akkhamā, appadakkhiṇaggāhino anusāsaniṁ.`  
 >"Sir, the mendicants these days are hard to admonish, having qualities that make them hard to admonish. They’re impatient, and don’t take instruction respectfully."  
->`Idhāhaṁ, bhante, addasaṁ bhaṇḍañca nāma bhikkhuṁ ānandassa saddhivihāriṁ abhijikañca nāma bhikkhuṁ anuruddhassa saddhivihāriṁ aññamaññaṁ sutena accāvadante:  ‘ehi, bhikkhu, ko bahutaraṁ bhāsissati, ko sundarataraṁ bhāsissati, ko cirataraṁ bhāsissatī’”ti.`  
+>2.2 `Idhāhaṁ, bhante, addasaṁ bhaṇḍañca nāma bhikkhuṁ ānandassa saddhivihāriṁ abhijikañca nāma bhikkhuṁ anuruddhassa saddhivihāriṁ aññamaññaṁ sutena accāvadante:  ‘ehi, bhikkhu, ko bahutaraṁ bhāsissati, ko sundarataraṁ bhāsissati, ko cirataraṁ bhāsissatī’”ti.`  
 >"Come on, monk, who can recite more? Who can recite better? Who can recite longer?"
 
 Even the Buddha noticed that his teachings became less effective over time, due to internal corruption within the Saṅgha. Kassapa asked the Buddha why there are now fewer enlightened beings, but more disciplinary rules. The Buddha replied that the overall quality of members of the community have declined and some don't respect the teachings or the teacher ([**Saddhammappatirūpakasutta** SN 16.13 PTS 2.224–2.225](https://suttacentral.net/sn16.13)):
 
->`Idha, kassapa, bhikkhū bhikkhuniyo upāsakā upāsikāyo satthari agāravā viharanti appatissā, dhamme agāravā viharanti appatissā, saṅghe agāravā viharanti appatissā, sikkhāya agāravā viharanti appatissā, samādhismiṁ agāravā viharanti appatissā`  
+>4.3 `Idha, kassapa, bhikkhū bhikkhuniyo upāsakā upāsikāyo satthari agāravā viharanti appatissā, dhamme agāravā viharanti appatissā, saṅghe agāravā viharanti appatissā, sikkhāya agāravā viharanti appatissā, samādhismiṁ agāravā viharanti appatissā`  
 > It’s when the monks, nuns, laymen, and laywomen lack respect and reverence for the Teacher, the teaching, the Saṅgha, the training, and immersion.
 
 The arch-nemesis during Buddha's lifetime was no doubt Devadatta, who tried to take over the community, caused a formal schism in the Saṅgha, and even tried unsuccessfully to kill the Buddha in [**Saṁghabhedakakkhandhaka** Kd 17 PTS 2.180–2.206](https://suttacentral.net/pli-tv-kd17)
@@ -741,7 +746,7 @@ Polak further clarifies in [**Reexamining Jhana: Towards a Critical Reconstructi
 
 The Buddha himself advocated that his disciples should not to accept any teaching merely on a teacher’s authority, but to work things out for themselves and use common sense in [**Kesamuttisutta** AN 3.65 PTS 1.189–1.193](https://suttacentral.net/an3.65):
 
-> ... `mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu,　mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti.`  
+>4.1 ... `mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu,　mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti.`  
 > ... don’t go by oral transmission, don’t go by lineage, don’t go by testament, don’t go by canonical authority, don’t rely on logic, don’t rely on inference, don’t go by reasoned contemplation, don’t go by the acceptance of a view after consideration, don’t go by the appearance of competence, and don’t think ‘The ascetic is our respected teacher.’
 
 ## Assumptions
@@ -767,6 +772,33 @@ The Buddha himself advocated that his disciples should not to accept any teachin
 In addition, Johannes Bronkhorst proposes a method to arrive at the teaching of the Buddha on the basis of the early canonical texts in **Early Buddhist Meditation**, a paper presented at the conference “Buddhist Meditation from Ancient India to Modern Asia”, Jogye Order International Conference Hall, Seoul, 29 November 2012:
 
 >Put very briefly, the teaching of the Buddha as presented in the early canon contains a number of contradictions. There are views and practices that are sometimes accepted and sometimes rejected. The method I have proposed is based on a study of other religious movements that are known to have existed at the time of the Buddha in the same region of India. It turns out that among the views and practices that are sometimes accepted and sometimes rejected in the Buddhist canon many are also found in those other religious movements. We are therefore entitled to suspect that Buddhism, in the course of its development but before the final redaction of its early canon, underwent the influence of those movements and borrowed some of their views and practices. My proposal is to consider views and practices in the Buddhist canon as borrowings, and therefore as non-authentic, if two criteria are met: (1) they are sometimes accepted and sometimes rejected in the Buddhist canon, and (2) they have their place in the other religious movements of the time. I also submit that the original teaching of the Buddha may have to be looked for among the views and practices that remain after deduction of the borrowings.
+
+Even more importantly, the Buddha himself advised an approach to determine whether a teaching is authentic or not, which he repeated four times in *`Catumahāpadesakathā`* (the four great references) from [**Mahāparinibbānasutta** DN 16 PTS 2.72–2.168](https://suttacentral.net/dn16):
+
+>4.8.1 `“Idha, bhikkhave, bhikkhu evaṁ vadeyya:`  
+>“Take a mendicant who says:  
+>4.8.2 `‘sammukhā metaṁ, āvuso, bhagavato sutaṁ sammukhā paṭiggahitaṁ,`  
+>Friend, I have heard and learned this in the presence of the Buddha:  
+>4.8.3 `ayaṁ dhammo ayaṁ vinayo idaṁ satthusāsanan’ti.`  
+>this is the teaching, this is the training, this is the Teacher’s instruction.’  
+>4.8.4 `Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ.`  
+>You should neither approve nor dismiss that mendicant’s statement.  
+>4.8.5 `Anabhinanditvā appaṭikkositvā tāni padabyañjanāni sādhukaṁ uggahetvā sutte osāretabbāni, vinaye sandassetabbāni.`  
+>Instead, having carefully memorized those words and phrases, you should make sure they fit in the discourse and are exhibited in the training.  
+>4.8.6 `Tāni ce sutte osāriyamānāni vinaye sandassiyamānāni na ceva sutte osaranti, na ca vinaye sandissanti, niṭṭhamettha gantabbaṁ:`  
+>If they do not fit in the discourse and are not exhibited in the training, you should draw the conclusion:  
+>4.8.7 `‘addhā idaṁ na ceva tassa bhagavato vacanaṁ;`  
+>‘Clearly this is not the word of the Buddha.  
+>4.8.8 `imassa ca bhikkhuno duggahitan’ti.`  
+>It has been incorrectly memorized by that mendicant.’  
+>4.8.9 `Iti hetaṁ, bhikkhave, chaḍḍeyyātha.`  
+>And so you should reject it.  
+>4.8.10 `Tāni ce sutte osāriyamānāni vinaye sandassiyamānāni sutte ceva osaranti, vinaye ca sandissanti, niṭṭhamettha gantabbaṁ:`  
+>If they do fit in the discourse and are exhibited in the training, you should draw the conclusion:
+>4.8.11 `‘addhā idaṁ tassa bhagavato vacanaṁ;`  
+>‘Clearly this is the word of the Buddha.  
+>4.8.12 `imassa ca bhikkhuno suggahitan’ti.`  
+>It has been correctly memorized by that mendicant.’
 
 ## Process
 
