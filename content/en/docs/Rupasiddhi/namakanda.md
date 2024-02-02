@@ -10,6 +10,16 @@ categories: ["Padarūpasiddhi"]
 tags: ["Nāmakaṇḍa"]
 ---
 
+Atha nāmikavibhatyāvatāro vuccate.
+
+Atthābhimukhaṃ namanato, attani catthassa nāmanato nāmaṃ, dabbābhidhānaṃ.
+
+Taṃ pana duvidhaṃ anvattharuḷhīvasena, tividhaṃ pumitthinapuṃsakaliṅgavasena. Yathā – rukkho, mālā, dhanaṃ.
+
+Catubbidhaṃ sāmaññaguṇakriyāyadicchāvasena, yathā – rukkho, nīlo, pācako, sirivaḍḍhotiādi.
+
+Aṭṭhavidhaṃ avaṇṇivaṇṇuvaṇṇokāraniggahītantapakatibhedena.
+
 {{< alert >}}
 This is currently work in progress and not suitable for consumption. Please ignore for the time being.
 {{< /alert >}}

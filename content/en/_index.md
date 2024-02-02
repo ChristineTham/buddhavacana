@@ -2,15 +2,15 @@
 title: buddhavacana
 ---
 
-{{< blocks/cover title="buddhavacana: The Word of the Buddha" image_anchor="top" height="full" >}}
+{{< blocks/cover title="𑀩𑀼𑀤𑁆𑀥𑀯𑀘𑀦: The Word of the Buddha" image_anchor="top" height="full" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/buddhavacana/docs/">
   Explore <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/ChristineTham/buddhavacana">
   Source Code <i class="fab fa-github ms-2 "></i>
 </a>
-<p class="lead mt-5">Evaṁ me sutaṁ (Thus have I heard) ...</p>
-<p>This website documents my journey reading and studying Buddhist texts, primarily from the Pāli Canon (Tipiṭaka).</p>
+<p class="lead mt-5">𑀏𑀯𑀫𑁆 𑀫𑁂 𑀲𑀼𑀢𑀫𑁆 (thus heard by me) ...</p>
+<p>This website documents my journey reading and studying Buddhist texts, primarily from the Pāli Canon (Tipiṭaka). It also contains a textbook and other references for learning Pāli, the language that the Tipiṭaka is written in.</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
@@ -20,6 +20,7 @@ We do not know what the Buddha's native language was. Some scholars have specula
 
 I have always wanted to study Buddhism, and in particular the Pāli Canon or Tipiṭaka, in Pāli rather than translated into English. This website summarises what I have learnt. I have tried to use diagrams such as mind maps whenever possible, and link to the actual discourses are available on [SuttaCentral](https://suttacentral.net).
 
+𑀇𑀤𑀫𑀯𑁄𑀘 𑀪𑀕𑀯𑀸𑁇 𑀅𑀢𑁆𑀢𑀫𑀦𑀸 𑀢𑁂 𑀪𑀺𑀓𑁆𑀔𑀽 𑀪𑀕𑀯𑀢𑁄 𑀪𑀸𑀲𑀺𑀢ṁ 𑀅𑀪𑀺𑀦𑀦𑁆𑀤𑀼𑀦𑁆𑀢𑀺𑁇  
 Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.
 {{% /blocks/lead %}}
 

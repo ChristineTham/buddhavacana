@@ -2,7 +2,7 @@
 title: "Enlightenment"
 linkTitle: "Enlightenment"
 date: 2024-01-01
-weight: 3
+weight: 4
 description: >
   My current views on this complex and not well understood goal of Buddhism
 ---

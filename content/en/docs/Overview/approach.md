@@ -776,13 +776,13 @@ In addition, Johannes Bronkhorst proposes a method to arrive at the teaching of 
 Even more importantly, the Buddha himself advised an approach to determine whether a teaching is authentic or not, which he repeated four times in *`Catumahāpadesakathā`* (the four great references) from [**Mahāparinibbānasutta** DN 16 PTS 2.72–2.168](https://suttacentral.net/dn16):
 
 >4.8.1 `“Idha, bhikkhave, bhikkhu evaṁ vadeyya:`  
->“Take a mendicant who says:  
+>“Take a bhikkhu who says:  
 >4.8.2 `‘sammukhā metaṁ, āvuso, bhagavato sutaṁ sammukhā paṭiggahitaṁ,`  
 >Friend, I have heard and learned this in the presence of the Buddha:  
 >4.8.3 `ayaṁ dhammo ayaṁ vinayo idaṁ satthusāsanan’ti.`  
 >this is the teaching, this is the training, this is the Teacher’s instruction.’  
 >4.8.4 `Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ.`  
->You should neither approve nor dismiss that mendicant’s statement.  
+>You should neither approve nor dismiss that bhikkhu's statement.  
 >4.8.5 `Anabhinanditvā appaṭikkositvā tāni padabyañjanāni sādhukaṁ uggahetvā sutte osāretabbāni, vinaye sandassetabbāni.`  
 >Instead, having carefully memorized those words and phrases, you should make sure they fit in the discourse and are exhibited in the training.  
 >4.8.6 `Tāni ce sutte osāriyamānāni vinaye sandassiyamānāni na ceva sutte osaranti, na ca vinaye sandissanti, niṭṭhamettha gantabbaṁ:`  
@@ -790,7 +790,7 @@ Even more importantly, the Buddha himself advised an approach to determine wheth
 >4.8.7 `‘addhā idaṁ na ceva tassa bhagavato vacanaṁ;`  
 >‘Clearly this is not the word of the Buddha.  
 >4.8.8 `imassa ca bhikkhuno duggahitan’ti.`  
->It has been incorrectly memorized by that mendicant.’  
+>It has been incorrectly memorized by that bhikkhu.’  
 >4.8.9 `Iti hetaṁ, bhikkhave, chaḍḍeyyātha.`  
 >And so you should reject it.  
 >4.8.10 `Tāni ce sutte osāriyamānāni vinaye sandassiyamānāni sutte ceva osaranti, vinaye ca sandissanti, niṭṭhamettha gantabbaṁ:`  
@@ -798,7 +798,7 @@ Even more importantly, the Buddha himself advised an approach to determine wheth
 >4.8.11 `‘addhā idaṁ tassa bhagavato vacanaṁ;`  
 >‘Clearly this is the word of the Buddha.  
 >4.8.12 `imassa ca bhikkhuno suggahitan’ti.`  
->It has been correctly memorized by that mendicant.’
+>It has been correctly memorized by that bhikkhu.’
 
 ## Process
 
