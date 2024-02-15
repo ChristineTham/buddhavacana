@@ -1,0 +1,901 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – introduction</title><link>https://christham.net/buddhavacana/categories/introduction/</link><description>Recent content in introduction on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://christham.net/buddhavacana/categories/introduction/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Introduction</title><link>https://christham.net/buddhavacana/docs/kaccayana/0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/kaccayana/0/</guid><description>
+&lt;h2 id="context">Context&lt;/h2>
+&lt;p>&lt;strong>Kaccāyana&lt;/strong> is the oldest extant Pāli grammar, and was composed around the sixth century CE, most probably in India. It is partly based on &lt;strong>Pāṇini&lt;/strong> and &lt;strong>Kātantra&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>Pāṇini, &lt;em>Aṣṭādhyāyī&lt;/em> “Eight Lessons” 5th–4th c. B.C.E. Śalātura Northwest India&lt;/li>
+&lt;li>Śarvavarman, &lt;em>Kātantravyākaraṇa&lt;/em> 2nd c. C.E. South India&lt;/li>
+&lt;/ul>
+&lt;p>The author of &lt;strong>Kaccāyana&lt;/strong> is attributed to Mahā Kaccāyana, but modern scholars believe it is authored by multiple compilers and gradually evolved over time. According to James D’Alwis in &lt;em>An introduction to Kachchāyana&amp;rsquo;s grammar of the Pāli language&lt;/em>:&lt;/p>
+&lt;ul>
+&lt;li>the grammatical aphorisms (&lt;code>sutta&lt;/code>), are ascribed to a certain Kaccāyana,&lt;/li>
+&lt;li>the &amp;ldquo;gloss&amp;rdquo; or explanation (&lt;code>vutti&lt;/code>) is ascribed to a certain Saṅghanandin&lt;/li>
+&lt;li>the examples (&lt;code>payoga&lt;/code>) is ascribed to a certain Brahmadatta&lt;/li>
+&lt;/ul>
+&lt;p>According to the Thai monk Dhammakitti in &lt;em>Saddhammasaṅgaha&lt;/em> (Saddhamma-s IX, 18-20, 35):&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;code>kaccāyano kato yogo saṃghanandi pavuttikā, ṭīkā vimalabodhī ca brahmaputto ca kārakā.&lt;/code>&lt;br>
+&lt;em>(SADDHĀNANDA, 1890: 63)&lt;/em>&lt;br>
+Kaccāyana composed the yoga [“rule”], Saṅghanandin the pavuttikā [“notes”], and Vimalabodhī the ṭīkā [“commentary”], and Brahmaputto the kāraka [“section on factor of action”].&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="the-structure-of-kaccāyana">The structure of Kaccāyana&lt;/h2>
+&lt;p>There are 673 rules (&lt;code>sutta&lt;/code>), depending on the edition, spread across the following chapters and sections:&lt;/p>
+&lt;ol>
+&lt;li>Sandhi
+&lt;ol>
+&lt;li>Definitions&lt;/li>
+&lt;li>Vowel sandhi&lt;/li>
+&lt;li>Consonant sandhi&lt;/li>
+&lt;li>niggahīta (ṃ) sandhi&lt;/li>
+&lt;li>Miscellanea&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>Nāma
+&lt;ol>
+&lt;li>Definitions, Internal sandhis, Default Declensions&lt;/li>
+&lt;li>Pronominal declension, an-stems&lt;/li>
+&lt;li>Pronominal dec. continued, mano-gaṇa, an-stems, tar-stems.&lt;/li>
+&lt;li>an-stems cont., feminine stems, adv. pronouns, nta-stems&lt;/li>
+&lt;li>Adverbial affixes&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>KĀRAKA&lt;/li>
+&lt;li>SAMĀSA&lt;/li>
+&lt;li>TADDHITA&lt;/li>
+&lt;li>Ākhyāta
+&lt;ol>
+&lt;li>Definitions&lt;/li>
+&lt;li>Special stems, causatives, bhāva, vb. classes&lt;/li>
+&lt;li>Reduplication, Special stems&lt;/li>
+&lt;li>Special affixes and stems&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>Kibbidhāna
+&lt;ol>
+&lt;li>Definition of kicca and kit affixes&lt;/li>
+&lt;li>Use of affixes with tenses, voices, etc.&lt;/li>
+&lt;li>niṭṭhā affixes&lt;/li>
+&lt;li>Modification of vb. stems in primary derivation&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>UṆĀDI&lt;/li>
+&lt;/ol>
+&lt;h2 id="the-structure-of-a-sutta">The structure of a sutta&lt;/h2>
+&lt;p>Each &lt;code>sutta&lt;/code> (rule, or grammatical aphorism) is described in a series of subsections or &amp;ldquo;fields&amp;rdquo;. The &lt;code>vutti&lt;/code> is always present, the other fields may be present.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">field&lt;/th>
+&lt;th>function&lt;/th>
+&lt;th>tags&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>vutti&lt;/strong>&lt;/td>
+&lt;td>gloss, or explanation&lt;/td>
+&lt;td>repeats and expands the words from the sutta&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>udāharaṇa&lt;/strong>&lt;/td>
+&lt;td>examples&lt;/td>
+&lt;td>taṃyathā&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>kimudāharaṇa&lt;/strong>&lt;/td>
+&lt;td>counter-examples&lt;/td>
+&lt;td>kasmā / kimatthaṃ&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>payojana&lt;/strong>&lt;/td>
+&lt;td>application/purpose/scope of the rule (&amp;ldquo;where is it used&amp;rdquo;)&lt;/td>
+&lt;td>kvattho / kimpayojanaṃ&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>gahaṇaphala&lt;/strong>&lt;/td>
+&lt;td>result of mentioned words, comments on anuvṛtti, meaning of ca or vā, etc.&lt;/td>
+&lt;td>(xxx)(sadda)ggahaṇena&amp;hellip; eg. rule 35: &lt;code>casaddaggahaṇena iheva makārassa pakāro hoti&lt;/code>.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Example (the first number is the Kaccāyana rule number, the second is the equivalent Padarūpasiddhi rule number):&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>151, 250.Bahuvacanesu vono.&lt;/strong>&lt;br>
+Sabbesaṃ tumhaamhasaddānaṃ savibhattīnaṃ yadā padasmā paresaṃ vonoādesā honti yathāsaṅkhyaṃ tatiyābahuvacanesu paresu.
+Kataṃ vo kammaṃ, kataṃ no kammaṃ.
+Padatoti kimatthaṃ? Tumhehi kataṃ, amhehi kataṃ.
+Bahuvacanaggahaṇena yomhi paṭhame vo noādesā honti. Gāmaṃ vo gaccheyyātha, gāmaṃ no gaccheyyāma.&lt;/p>
+&lt;/blockquote>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">field&lt;/th>
+&lt;th>text&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>no&lt;/strong>&lt;/td>
+&lt;td>151&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>Padarūpasiddhi&lt;/strong>&lt;/td>
+&lt;td>250&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>sutta&lt;/strong>&lt;/td>
+&lt;td>Bahuvacanesu vono.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>vutti&lt;/strong>&lt;/td>
+&lt;td>Sabbesaṃ tumhaamhasaddānaṃ savibhattīnaṃ yadā padasmā paresaṃ vonoādesā honti yathāsaṅkhyaṃ tatiyābahuvacanesu paresu.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>udāharaṇa&lt;/strong>&lt;/td>
+&lt;td>Kataṃ vo kammaṃ, kataṃ no kammaṃ.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>kimudāharaṇa&lt;/strong>&lt;/td>
+&lt;td>Padatoti kimatthaṃ? Tumhehi kataṃ, amhehi kataṃ.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>payojana&lt;/strong>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>gahaṇaphala&lt;/strong>&lt;/td>
+&lt;td>Bahuvacanaggahaṇena yomhi paṭhame vo noādesā honti. Gāmaṃ vo gaccheyyātha, gāmaṃ no gaccheyyāma.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Other examples:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>361, 388.Ṇavisamādīhi.&lt;/strong>&lt;br>
+Ṇapaccayo hoti visamādīhi ‘‘tassa bhāvo’’iccetasmiṃ atthe.
+Visamassa bhāvo vesamaṃ, sucissa bhāvo socaṃ.&lt;/p>
+&lt;/blockquote>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">field&lt;/th>
+&lt;th>text&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>no&lt;/strong>&lt;/td>
+&lt;td>361&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>Padarūpasiddhi&lt;/strong>&lt;/td>
+&lt;td>388&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>sutta&lt;/strong>&lt;/td>
+&lt;td>Ṇavisamādīhi.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>vutti&lt;/strong>&lt;/td>
+&lt;td>Ṇapaccayo hoti visamādīhi ‘‘tassa bhāvo’’iccetasmiṃ atthe.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>udāharaṇa&lt;/strong>&lt;/td>
+&lt;td>Visamassa bhāvo vesamaṃ, sucissa bhāvo socaṃ.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>kimudāharaṇa&lt;/strong>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>payojana&lt;/strong>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>gahaṇaphala&lt;/strong>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;blockquote>
+&lt;p>&lt;strong>364, 398.Tadassatthīti vī ca.&lt;/strong>&lt;br>
+&amp;ldquo;Tadassatthi&amp;quot;iccetasmiṃ atthe vīpaccayo hoti.
+Medhā yassa atthi, tasmiṃ vā vijjatītimedhāvī. Evaṃ māyāvī.
+Caggahaṇena sopaccayo hoti. Sumedhā yassa atthi, tasmiṃ vā vijjatīti sumedhaso.&lt;/p>
+&lt;/blockquote>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">field&lt;/th>
+&lt;th>text&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>no&lt;/strong>&lt;/td>
+&lt;td>364&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>Padarūpasiddhi&lt;/strong>&lt;/td>
+&lt;td>398&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>sutta&lt;/strong>&lt;/td>
+&lt;td>Tadassatthīti vī &lt;strong>ca&lt;/strong>.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>vutti&lt;/strong>&lt;/td>
+&lt;td>&amp;ldquo;Tadassatthi&amp;quot;iccetasmiṃ atthe vīpaccayo hoti.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>udāharaṇa&lt;/strong>&lt;/td>
+&lt;td>Medhā yassa atthi, tasmiṃ vā vijjatītimedhāvī. Evaṃ māyāvī.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>kimudāharaṇa&lt;/strong>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>payojana&lt;/strong>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>gahaṇaphala&lt;/strong>&lt;/td>
+&lt;td>&lt;strong>Ca&lt;/strong>ggahaṇena sopaccayo hoti. Sumedhā yassa atthi, tasmiṃ vā vijjatīti sumedhaso.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;blockquote>
+&lt;p>&lt;strong>59, 182.Te itthikhyā po.&lt;/strong>&lt;br>
+Te ivaṇṇuvaṇṇā yadā itthikhyā, tadā pasaññā honti.
+Rattiyā, itthiyā, dhenuyā, vadhuyā.
+Itthikhyāti kimatthaṃ? Isinā, bhikkhunā.
+Saiccanena kvattho? Pato yā.&lt;/p>
+&lt;/blockquote>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">field&lt;/th>
+&lt;th>text&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>no&lt;/strong>&lt;/td>
+&lt;td>59&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>Padarūpasiddhi&lt;/strong>&lt;/td>
+&lt;td>182&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>sutta&lt;/strong>&lt;/td>
+&lt;td>Te itthikhyā po.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>vutti&lt;/strong>&lt;/td>
+&lt;td>Te ivaṇṇuvaṇṇā yadā itthikhyā, tadā pasaññā honti.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>udāharaṇa&lt;/strong>&lt;/td>
+&lt;td>Rattiyā, itthiyā, dhenuyā, vadhuyā.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>kimudāharaṇa&lt;/strong>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>payojana&lt;/strong>&lt;/td>
+&lt;td>Saiccanena kvattho? Pato yā.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>gahaṇaphala&lt;/strong>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;blockquote>
+&lt;p>&lt;strong>57, 71.Ālapane si ga sañño.&lt;/strong>&lt;br>
+Ālapanatthe si gasañño hoti.
+Bhoti ayye, bhoti kaññe, bhoti kharādiye.
+Ālapaneti kimatthaṃ? Sā ayyā.
+Sīti kimatthaṃ? Bhotiyo ayyāyo.
+Gaiccanena kvattho? Ghate ca.&lt;/p>
+&lt;/blockquote>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">field&lt;/th>
+&lt;th>text&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>no&lt;/strong>&lt;/td>
+&lt;td>57&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>Padarūpasiddhi&lt;/strong>&lt;/td>
+&lt;td>71&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>sutta&lt;/strong>&lt;/td>
+&lt;td>Ālapane si ga sañño.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>vutti&lt;/strong>&lt;/td>
+&lt;td>Ālapanatthe si gasañño hoti.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>udāharaṇa&lt;/strong>&lt;/td>
+&lt;td>Bhoti ayye, bhoti kaññe, bhoti kharādiye.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>kimudāharaṇa&lt;/strong>&lt;/td>
+&lt;td>Ālapaneti kimatthaṃ? Sā ayyā. Sīti kimatthaṃ? Bhotiyo ayyāyo.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>payojana&lt;/strong>&lt;/td>
+&lt;td>Gaiccanena kvattho? Ghate ca.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>gahaṇaphala&lt;/strong>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="types-of-suttas">Types of suttas&lt;/h2>
+&lt;p>The rules can be classified into four categories, and additional subcategories, with examples given below:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>saññā&lt;/code> (technical term)
+&lt;ul>
+&lt;li>&lt;code>anvattha&lt;/code> (meaningful)
+&lt;blockquote>
+&lt;p>&lt;strong>8, 10.Aṃiti niggahitaṃ.&lt;/strong>
+&lt;span class="badge mx-1 text-bg-success">
+saññā
+&lt;/span>
+&lt;span class="badge mx-1 text-bg-success">
+&lt;i>anvattha&lt;/i>
+&lt;/span>
+&lt;br>
+Aṃ iti niggahitaṃ nāma hoti.
+Tena kvattho? Aṃ byañjane niggahitaṃ.&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;li>&lt;code>rūḷhī&lt;/code> (artificial)
+&lt;blockquote>
+&lt;p>&lt;strong>58, 29.Ivaṇṇuvaṇṇā jhalā.&lt;/strong>
+&lt;span class="badge mx-1 text-bg-success">
+saññā
+&lt;/span>
+&lt;span class="badge mx-1 text-bg-success">
+&lt;i>rūḷhī&lt;/i>
+&lt;/span>
+&lt;br>
+Ivaṇṇuvaṇṇāiccete jhalasaññā honti yathāsaṅkhyaṃ.
+Isino , aggino, gahapatino, daṇḍino. Setuno, ketuno, bhikkhuno. Sayambhuno, abhibhuno.
+Jhalaiccanena kvattho? Jhalato sassa no vā.&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;code>adhikāra&lt;/code> (domain)
+&lt;ul>
+&lt;li>&lt;code>sīhagatika&lt;/code> (comprehensive)
+&lt;blockquote>
+&lt;p>&lt;strong>52, 60.Jinavacanayuttaṃhi.&lt;/strong>
+&lt;span class="badge mx-1 text-bg-warning">
+adhikāra
+&lt;/span>
+&lt;span class="badge mx-1 text-bg-warning">
+&lt;i>sīhagatika&lt;/i>
+&lt;/span>
+&lt;br>
+&amp;ldquo;Jinavacanayuttaṃ hi&amp;rdquo; iccetaṃ adhikāratthaṃ veditabbaṃ.&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;li>&lt;code>maṇḍūkagatika&lt;/code> (selective)
+&lt;blockquote>
+&lt;p>&lt;strong>131, 0.Itthipumanapuṃsakasaṅkhyaṃ.&lt;/strong>
+&lt;span class="badge mx-1 text-bg-warning">
+adhikāra
+&lt;/span>
+&lt;span class="badge mx-1 text-bg-warning">
+&lt;i>maṇḍūkagatika&lt;/i>
+&lt;/span>
+&lt;br>
+&amp;ldquo;Itthipumanapuṃsakasaṅkhyaṃ&amp;rdquo; iccetaṃ adhikāratthaṃ veditabbaṃ.&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;li>&lt;code>yathānupubbika&lt;/code> (progressive)
+&lt;blockquote>
+&lt;p>&lt;strong>413, 427.Kāle.&lt;/strong>
+&lt;span class="badge mx-1 text-bg-warning">
+adhikāra
+&lt;/span>
+&lt;span class="badge mx-1 text-bg-warning">
+&lt;i>yathānupubbika&lt;/i>
+&lt;/span>
+&lt;br>
+&amp;ldquo;Kāle&amp;rdquo; iccetaṃ adhikāratthaṃ veditabbaṃ.&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;code>paribhāsā&lt;/code> (metarule)
+&lt;ul>
+&lt;li>&lt;code>saññaṅga&lt;/code> (definition metarule)
+&lt;blockquote>
+&lt;p>&lt;strong>9, 11.Parasamaññā payoge.&lt;/strong>
+&lt;span class="badge mx-1 text-bg-danger">
+paribhāsā
+&lt;/span>
+&lt;span class="badge mx-1 text-bg-danger">
+&lt;i>saññaṅga&lt;/i>
+&lt;/span>
+&lt;br>
+Yā ca pana paresu sakkataganthesu samaññā ghosāti vā aghosāti vā, tā payoge sati etthāpi yujjante.
+Tattha ghosā nāma-ga gha ṅa, ja jha ña, ḍa ḍha ṇa, da dha na, ba bha ma, ya ra la va ha ḷa, iti ghosā nāma. Aghosā nāma-ka kha, ca cha, ṭa ṭha, ta tha, pa pha, sa, iti aghosā nāma.
+Tena kvattho? Vagge ghosāghosānaṃ tatiyapaṭhamā.&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;li>&lt;code>vidhyaṅga&lt;/code> (operational metarule)
+&lt;blockquote>
+&lt;p>&lt;strong>10, 12.Pubbamadhoṭhita massaraṃ sarena viyojaye.&lt;/strong>
+&lt;span class="badge mx-1 text-bg-danger">
+paribhāsā
+&lt;/span>
+&lt;span class="badge mx-1 text-bg-danger">
+&lt;i>vidhyaṅga&lt;/i>
+&lt;/span>
+&lt;br>
+Tattha sandhiṃ kattukāmo pubbabyañjanaṃ adhoṭhitaṃ assaraṃ katvā sarañca upari katvā sarena viyojaye.
+Tatrāyamādi.&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;li>&lt;code>aññaṅga&lt;/code> (other metarule)
+&lt;blockquote>
+&lt;p>&lt;strong>54, 62.Tato ca vibhattiyo.&lt;/strong>
+&lt;span class="badge mx-1 text-bg-danger">
+paribhāsā
+&lt;/span>
+&lt;span class="badge mx-1 text-bg-danger">
+&lt;i>aññaṅga&lt;/i>
+&lt;/span>
+&lt;br>
+Tato jinavacanayuttehi liṅgehi vibhattiyo parā honti.&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;code>vidhi&lt;/code> (operation)
+&lt;ul>
+&lt;li>&lt;code>utsarga&lt;/code> (general rule)
+&lt;blockquote>
+&lt;p>&lt;strong>12, 13.Sarā sare lopaṃ.&lt;/strong>
+&lt;span class="badge mx-1 text-bg-info">
+vidhi
+&lt;/span>
+&lt;span class="badge mx-1 text-bg-info">
+&lt;i>utsarga&lt;/i>
+&lt;/span>
+&lt;br>
+Sarā kho sare pare lopaṃ papponti.
+Yassindriyāni samathaṅgatāni. No hetaṃ bhante sametāyasmā saṅghena.&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;li>&lt;code>apavāda&lt;/code> (exception)
+&lt;blockquote>
+&lt;p>&lt;strong>13, 15.Vā paro asarūpā.&lt;/strong>
+&lt;span class="badge mx-1 text-bg-info">
+vidhi
+&lt;/span>
+&lt;span class="badge mx-1 text-bg-info">
+&lt;i>apavāda&lt;/i>
+&lt;/span>
+&lt;br>
+Saramhā asarūpā paro saro lopaṃ pappoti vā.
+Cattāro’me bhikkhave dhammā, kinnu’ māvasamaṇiyo. Vāti kasmā? Pañcindriyāni, tayassu dhammā jahitā bhavanti.&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>According to Aleix Ruiz-Falqués in &lt;em>A Short Introduction to the Pāli Kaccāyana Grammar&lt;/em>:&lt;/p>
+&lt;blockquote>
+&lt;p>Several &lt;code>saññā&lt;/code> “technical terms”,&lt;br>
+within an &lt;code>adhikāra&lt;/code> “domain”,&lt;br>
+following &lt;code>paribhāsā&lt;/code> “metarules”,&lt;br>
+will be subject to &lt;code>vidhi&lt;/code> “operations”&lt;br>
+in order to derive words or sentences.&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="megarules">Megarules&lt;/h3>
+&lt;p>&lt;code>mahāsutta&lt;/code> or “megarules” are four rules that are invoked in order to derive forms that cannot be derived otherwise.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>391, 423.Yadanupapannā nipātanā sijjhanti.&lt;/strong>&lt;br>
+&lt;code>Ye saddā aniddiṭṭhalakkhaṇā, akkharapadabyañjanato, itthipumanapuṃsakaliṅgato , nāmupasagganipātato, abyayībhāvasamāsataddhitākhyātato, gaṇanasaṅkhyākālakārakappayogasaññāto, sandhipakativuddhilopāgamavikāraviparitato, vibhattivibhajanato ca, te nipātanā sijjhanti.&lt;/code>&lt;br>
+“Those [words] that are not formed by the suttas, should be formed as irregular forms.”&lt;/li>
+&lt;li>&lt;strong>403, 354.Kvacādimajjhuttarānaṃ dīgharassā paccayesu ca.&lt;/strong>&lt;br>
+&lt;code>Kvaci ādimajjhauttaraiccetesaṃ dīgharassā honti paccayesu ca apaccayesu ca.&lt;/code>&lt;br>
+“Sometimes, there is lengthening or shortening at the beginning, middle or end [vowels of a word], even before affixes.”&lt;/li>
+&lt;li>&lt;strong>404, 370.Tesu vuddhilopāgamavikāraviparītādesā ca.&lt;/strong>&lt;br>
+&lt;code>Tesu ādimajjhuttaresu yathājinavacanānuparodhena kvaci vuddhi hoti, kvaci lopo hoti, kvaci āgamo hoti, kvaci vikāro hoti, kvaci viparīto hoti, kvaci ādeso hoti.&lt;/code>&lt;br>
+“And in those cases [cf. rule 405], [sometimes,] there is full grade, elision, augment, modification, change, or replacement.”&lt;/li>
+&lt;li>&lt;strong>517, 488.Kvaci dhātuvibhattipaccayānaṃ dīgha viparītādesalopāgamā ca.&lt;/strong>&lt;br>
+&lt;code>Idha ākhyāte aniddiṭṭhesu sādhanesu kvaci dhātuvibhattipaccayānaṃ dīghaviparītādesalopāgamaiccetāni kāriyāni jinavacanānurūpāni kātabbāni.&lt;/code>&lt;br>
+“Sometimes [for verbal forms that cannot be derived otherwise, there is] lengthening, change, replacement or augment of the verbal root, the personal ending, or the affix(es).”&lt;/li>
+&lt;/ul>
+&lt;p>Rule 52 is halfway between a megarule and a normal rule:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>52, 60.Jinavacanayuttaṃhi.&lt;/strong>&lt;br>
+&amp;ldquo;Jinavacanayuttaṃ hi&amp;rdquo; iccetaṃ adhikāratthaṃ veditabbaṃ.&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="ghost-metarules">Ghost metarules&lt;/h3>
+&lt;p>&amp;ldquo;Ghost Metarules&amp;rdquo; are paribhāsās that are consistently invoked in the commentaries, but that you will never see in the sūtra treatise.&lt;/p>
+&lt;p>Examples:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>ekamhi vattabbe ekavacanaṃ bahumhi vattabbe bahuvacanan&lt;/code> [e.g. Mmd 28,15–16]&lt;br>
+“The singular is used when one [object] is to be stated, the plural is used when many [objects] are to be stated.”&lt;br>
+&lt;em>[&lt;strong>NOTE&lt;/strong>: in Pāṇini, 1.4.21 bahuṣu bahuvacanam (“plural for many [objects]”) &amp;amp; 1.4.22 dvyekayor dvivacanaikavacane (“dual and singular for two or one [objects respectively]”) are considered saṃjñā (“definition”) rules.]&lt;/em>&lt;/li>
+&lt;li>&lt;code>vatticchānupubbikā saddapaṭipatti&lt;/code> [e.g. Mmd 64,17–18]&lt;br>
+“The meaning of a word is determined by the intention of the speaker.”&lt;/li>
+&lt;li>&lt;code>vuttatthānam appayogo&lt;/code> [23 times in Mmd, e.g. 133,20]&lt;br>
+“Words whose meaning has already been stated are not used.”&lt;/li>
+&lt;li>&lt;code>yogavibhāgā iṭṭhappasiddhi&lt;/code> [Mmd, e.g. 252,29]&lt;br>
+“After the splitting up (vibhāgā) of the sutta (yoga) [there is] the expected result [only].”&lt;/li>
+&lt;/ul>
+&lt;h3 id="usage-of-rūḷhī">Usage of rūḷhī&lt;/h3>
+&lt;p>In a sutta, a &lt;code>rūḷhī&lt;/code> (artificial technical term) will have a case ending that matches the role/usage of the term within a rule. For example &lt;code>jha&lt;/code> (used for masculine/neuter nominal bases ending with &lt;code>i&lt;/code> or &lt;code>ī&lt;/code>):&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">case&lt;/th>
+&lt;th style="text-align:center">&lt;code>jha&lt;/code>&lt;/th>
+&lt;th>usage&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">①&lt;/td>
+&lt;td style="text-align:center">&lt;code>jho&lt;/code>&lt;/td>
+&lt;td>&lt;code>i&lt;/code>/&lt;code>ī&lt;/code> (*replacement)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">②&lt;/td>
+&lt;td style="text-align:center">&lt;code>jhaṃ&lt;/code>&lt;/td>
+&lt;td>&lt;code>i&lt;/code>/&lt;code>ī&lt;/code> (substitute)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">③&lt;/td>
+&lt;td style="text-align:center">&lt;code>jhena&lt;/code>&lt;/td>
+&lt;td>&lt;em>not used&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">④&lt;/td>
+&lt;td style="text-align:center">&lt;code>jhassa&lt;/code>&lt;/td>
+&lt;td>&lt;em>not used&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">⑤&lt;/td>
+&lt;td style="text-align:center">&lt;code>jhamhā&lt;/code>/&lt;code>jhato&lt;/code>&lt;/td>
+&lt;td>“after &lt;code>i&lt;/code>/&lt;code>ī&lt;/code>”&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">⑥&lt;/td>
+&lt;td style="text-align:center">&lt;code>jhassa&lt;/code>&lt;/td>
+&lt;td>“instead of &lt;code>i&lt;/code>/&lt;code>ī&lt;/code>”&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">⑦&lt;/td>
+&lt;td style="text-align:center">&lt;code>jhasmiṃ&lt;/code>&lt;/td>
+&lt;td>“before &lt;code>i&lt;/code>/&lt;code>ī&lt;/code>”&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="types-of-vidhi-operation">Types of vidhi (operation)&lt;/h2>
+&lt;ul>
+&lt;li>ādesa “replacement”&lt;/li>
+&lt;li>āgama “insertion”&lt;/li>
+&lt;li>vikāra “modification”&lt;/li>
+&lt;li>lopa “elision”&lt;/li>
+&lt;li>viparīta “metathesis”&lt;/li>
+&lt;/ul>
+&lt;h2 id="structure-of-a-vidhi-operation">Structure of a vidhi (operation)&lt;/h2>
+&lt;p>An operation converts &lt;code>Before&lt;/code> into &lt;code>After&lt;/code> surrounded by &lt;code>Previous&lt;/code> and &lt;code>Next&lt;/code>, in the context of &lt;code>Marker&lt;/code> and &lt;code>Semantic&lt;/code>.&lt;/p>
+&lt;pre class="mermaid">block-beta
+columns 8
+Previous[&amp;#34;Previous&amp;#34;]
+class Previous context
+block:operation:4
+columns 4
+Before(&amp;#34;Before&amp;#34;)
+class Before pre
+space:2
+After(&amp;#34;After&amp;#34;)
+class After post
+Before--&amp;#34;vidhi&amp;#34;--&amp;gt;After
+end
+Next[&amp;#34;Next&amp;#34;]
+class Next context
+Marker[/&amp;#34;Marker&amp;#34;\]
+class Marker mod1
+Semantic[\&amp;#34;Semantic&amp;#34;/]
+class Semantic mod2
+class arrow operation
+classDef context fill:#D2C4D6,stroke:#615F5F
+classDef context0 fill:#D2C4D6,stroke:#A49E9E,stroke-dasharray: 3 3
+classDef operation fill:#64BFA4,stroke:#615F5F
+classDef operation0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef pre fill:#64BFA4,stroke:#615F5F
+classDef pre0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef post fill:#3CADD4,stroke:#615F5F
+classDef post0 fill:#3CADD4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod1 fill:#EADA4F,stroke:#615F5F
+classDef mod10 fill:#EADA4F,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod2 fill:#F7CACA,stroke:#615F5F
+classDef mod20 fill:#F7CACA,stroke:#615F5F,stroke-dasharray: 3 3&lt;/pre>
+&lt;p>As an illustration, the sequence &lt;code>AXB&lt;/code> is replaced with &lt;code>AYB&lt;/code>:&lt;/p>
+&lt;pre class="mermaid">block-beta
+columns 8
+Previous[&amp;#34;A&amp;#34;]
+class Previous context
+block:operation:4
+columns 4
+Before(&amp;#34;X&amp;#34;)
+class Before pre
+space:2
+After(&amp;#34;Y&amp;#34;)
+class After post
+Before--&amp;#34;becomes&amp;#34;--&amp;gt;After
+end
+Next[&amp;#34;B&amp;#34;]
+class Next context
+space
+space
+class arrow operation
+classDef context fill:#D2C4D6,stroke:#615F5F
+classDef context0 fill:#D2C4D6,stroke:#A49E9E,stroke-dasharray: 3 3
+classDef operation fill:#64BFA4,stroke:#615F5F
+classDef operation0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef pre fill:#64BFA4,stroke:#615F5F
+classDef pre0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef post fill:#3CADD4,stroke:#615F5F
+classDef post0 fill:#3CADD4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod1 fill:#EADA4F,stroke:#615F5F
+classDef mod10 fill:#EADA4F,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod2 fill:#F7CACA,stroke:#615F5F
+classDef mod20 fill:#F7CACA,stroke:#615F5F,stroke-dasharray: 3 3&lt;/pre>
+&lt;p>Markers:&lt;/p>
+&lt;ul>
+&lt;li>ca&lt;/li>
+&lt;li>api&lt;/li>
+&lt;li>vā&lt;/li>
+&lt;li>kvaci&lt;/li>
+&lt;li>na&lt;/li>
+&lt;li>niccaṃ&lt;/li>
+&lt;li>&amp;hellip;&lt;/li>
+&lt;/ul>
+&lt;p>Semantic: &amp;ldquo;in the sense of &amp;hellip;&amp;rdquo;&lt;/p>
+&lt;p>Case endings are used to determine the various roles in the rule&lt;/p>
+&lt;pre class="mermaid">block-beta
+columns 8
+Previous0[&amp;#34;Previous&amp;#34;]
+class Previous0 context
+block:operation0:4
+columns 4
+Before0[&amp;#34;Before&amp;#34;]
+class Before0 pre
+space:2
+After0[&amp;#34;After&amp;#34;]
+class After0 post
+Before0--&amp;#34;ādesa&amp;#34;--&amp;gt;After0
+end
+Next0[&amp;#34;Next&amp;#34;]
+class Next0 context
+Marker0[&amp;#34;Marker&amp;#34;]
+class Marker0 mod1
+Semantic0[&amp;#34;Semantic&amp;#34;]
+class Semantic0 mod2
+Previous1[&amp;#34;⑤&amp;#34;]
+class Previous1 context
+block:operation1:4
+columns 4
+Before1[&amp;#34;⑥&amp;#34;]
+class Before1 pre
+space:2
+After1[&amp;#34;①&amp;#34;]
+class After1 post
+Before1--&amp;#34;ādesa&amp;#34;--&amp;gt;After1
+end
+Next1[&amp;#34;⑦&amp;#34;]
+class Next1 context
+Marker1[&amp;#34;n/a&amp;#34;]
+class Marker1 mod1
+Semantic1[&amp;#34;⑦&amp;#34;]
+class Semantic1 mod2
+Previous2[&amp;#34;⑤&amp;#34;]
+class Previous2 context
+block:operation2:4
+columns 4
+Before2[&amp;#34;①&amp;#34;]
+class Before2 pre
+space:2
+After2[&amp;#34;①&amp;#34;]
+class After2 post
+Before2--&amp;#34;ādesa&amp;#34;--&amp;gt;After2
+end
+Next2[&amp;#34;⑦&amp;#34;]
+class Next2 context
+Marker2[&amp;#34;n/a&amp;#34;]
+class Marker2 mod1
+Semantic2[&amp;#34;⑦&amp;#34;]
+class Semantic2 mod2
+Previous3[&amp;#34;⑤&amp;#34;]
+class Previous3 context
+block:operation3:4
+columns 4
+Before3[&amp;#34;①&amp;#34;]
+class Before3 pre
+space:2
+After3[&amp;#34;②&amp;#34;]
+class After3 post
+Before3--&amp;#34;ādesa&amp;#34;--&amp;gt;After3
+end
+Next3[&amp;#34;⑦&amp;#34;]
+class Next3 context
+Marker3[&amp;#34;n/a&amp;#34;]
+class Marker3 mod1
+Semantic3[&amp;#34;⑦&amp;#34;]
+class Semantic3 mod2
+classDef context fill:#D2C4D6,stroke:#615F5F
+classDef context0 fill:#D2C4D6,stroke:#A49E9E,stroke-dasharray: 3 3
+classDef operation fill:#64BFA4,stroke:#615F5F
+classDef operation0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef pre fill:#64BFA4,stroke:#615F5F
+classDef pre0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef post fill:#3CADD4,stroke:#615F5F
+classDef post0 fill:#3CADD4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod1 fill:#EADA4F,stroke:#615F5F
+classDef mod10 fill:#EADA4F,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod2 fill:#F7CACA,stroke:#615F5F
+classDef mod20 fill:#F7CACA,stroke:#615F5F,stroke-dasharray: 3 3&lt;/pre>
+&lt;p>Example: rule 103 (&lt;code>ato n’ ena&lt;/code>) - “After a, nā [becomes] ena”:&lt;/p>
+&lt;pre class="mermaid">block-beta
+columns 8
+ato n&amp;#39; space space ena space space space
+x1[&amp;#34;⑤&amp;#34;] x2[&amp;#34;①&amp;#34;] space space x3[&amp;#34;①&amp;#34;] space space space
+Previous[&amp;#34;a&amp;#34;]
+class Previous context
+block:operation:4
+columns 4
+Before(&amp;#34;nā&amp;#34;)
+class Before pre
+space:2
+After(&amp;#34;ena&amp;#34;)
+class After post
+Before--&amp;#34;ādesa&amp;#34;--&amp;gt;After
+end
+space
+space
+space
+class arrow operation
+classDef context fill:#D2C4D6,stroke:#615F5F
+classDef context0 fill:#D2C4D6,stroke:#A49E9E,stroke-dasharray: 3 3
+classDef operation fill:#64BFA4,stroke:#615F5F
+classDef operation0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef pre fill:#64BFA4,stroke:#615F5F
+classDef pre0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef post fill:#3CADD4,stroke:#615F5F
+classDef post0 fill:#3CADD4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod1 fill:#EADA4F,stroke:#615F5F
+classDef mod10 fill:#EADA4F,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod2 fill:#F7CACA,stroke:#615F5F
+classDef mod20 fill:#F7CACA,stroke:#615F5F,stroke-dasharray: 3 3&lt;/pre>
+&lt;p>buddha + nā&lt;br>
+→ buddha + (nā→ena) (rule 103)&lt;br>
+→ buddhena&lt;/p>
+&lt;p>Example: rule 70 (&lt;code>jhalānam iyuvā sare vā&lt;/code>) - “Optionally, before a vowel: iya replaces i/ī, uva replaces u/ū”:&lt;/p>
+&lt;pre class="mermaid">block-beta
+columns 8
+space jhalānam space:2 iyuvā sare vā space
+space x1[&amp;#34;⑥&amp;#34;] space space x2[&amp;#34;①&amp;#34;] x3[&amp;#34;⑦&amp;#34;] space space
+space
+block:operation:4
+columns 4
+Before(&amp;#34;i/ī,u/ū&amp;#34;)
+class Before pre
+space:2
+After(&amp;#34;iya,uva&amp;#34;)
+class After post
+Before--&amp;#34;ādesa&amp;#34;--&amp;gt;After
+end
+Next[&amp;#34;sara&amp;#34;]
+class Next context
+Marker[/&amp;#34;vā&amp;#34;\]
+class Marker mod1
+space
+class arrow operation
+classDef context fill:#D2C4D6,stroke:#615F5F
+classDef context0 fill:#D2C4D6,stroke:#A49E9E,stroke-dasharray: 3 3
+classDef operation fill:#64BFA4,stroke:#615F5F
+classDef operation0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef pre fill:#64BFA4,stroke:#615F5F
+classDef pre0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef post fill:#3CADD4,stroke:#615F5F
+classDef post0 fill:#3CADD4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod1 fill:#EADA4F,stroke:#615F5F
+classDef mod10 fill:#EADA4F,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod2 fill:#F7CACA,stroke:#615F5F
+classDef mod20 fill:#F7CACA,stroke:#615F5F,stroke-dasharray: 3 3&lt;/pre>
+&lt;p>Example: rule 12 (&lt;code>sarā sare lopaṃ&lt;/code>) - “Vowels, before a vowel, [adopt] elision”:&lt;/p>
+&lt;pre class="mermaid">block-beta
+columns 8
+space sarā lopaṃ:2 space sare space space
+space x1[&amp;#34;①&amp;#34;] x2[&amp;#34;②&amp;#34;]:2 space x3[&amp;#34;⑦&amp;#34;] space space
+space
+block:operation:4
+columns 4
+Before(&amp;#34;sara&amp;#34;)
+class Before pre
+space:2
+After(&amp;#34;~~sara~~&amp;#34;)
+class After post
+Before--&amp;#34;lopaṃ&amp;#34;--&amp;gt;After
+end
+Next[&amp;#34;sara&amp;#34;]
+class Next context
+space
+space
+class arrow operation
+classDef context fill:#D2C4D6,stroke:#615F5F
+classDef context0 fill:#D2C4D6,stroke:#A49E9E,stroke-dasharray: 3 3
+classDef operation fill:#64BFA4,stroke:#615F5F
+classDef operation0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef pre fill:#64BFA4,stroke:#615F5F
+classDef pre0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef post fill:#3CADD4,stroke:#615F5F
+classDef post0 fill:#3CADD4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod1 fill:#EADA4F,stroke:#615F5F
+classDef mod10 fill:#EADA4F,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod2 fill:#F7CACA,stroke:#615F5F
+classDef mod20 fill:#F7CACA,stroke:#615F5F,stroke-dasharray: 3 3&lt;/pre>
+&lt;p>tena + upasaṅkami&lt;br>
+→ ten(&lt;del>a&lt;/del>) + upasaṅkami (rule 12)&lt;br>
+→ tenupasaṅkami&lt;/p>
+&lt;p>Most vidhi “operational” rules teach paccaya “affixation” or ādesa “replacement” using previous definitions (saññā-s). It is all about adding particles to a base, and then replacing them if/when needed.
+To understand vidhi-s, we should keep in mind the following code of case endings:&lt;/p>
+&lt;ul>
+&lt;li>⑤ - “after X”&lt;/li>
+&lt;li>⑥ - “instead of X”&lt;/li>
+&lt;li>① - “X”, ādesa&lt;/li>
+&lt;li>⑦ - “before X”&lt;/li>
+&lt;li>⑦ - “in the sense of X”&lt;/li>
+&lt;/ul>
+&lt;h2 id="other-available-translations">Other available translations&lt;/h2>
+&lt;ul>
+&lt;li>Satis Chandra Acharyva, Widyabhusana, &lt;em>Kaccayana&amp;rsquo;s Pali Grammar&lt;/em>, The Mahabodhi Society, Calcutta (1901)&lt;/li>
+&lt;li>Phramaha Thiab Malai, &lt;em>Kaccāyana-Vyākarana: A Critical Study&lt;/em>, Department of Sanskrit and Pali Studies, University of Pune (1997)&lt;/li>
+&lt;li>A. Thitzana, &lt;em>Kaccāyana Pāli Vyākaraṇaṁ&lt;/em> Volumes 1 and 2, Pariyatti Press (2016)&lt;/li>
+&lt;li>U Silananda, U Nandisena, &lt;em>Kaccāyanabyākaraṇaṁ&lt;/em>, Institudo de Estudios Buddhistas Hispano (IEBH) (2005, 2017)&lt;/li>
+&lt;/ul>
+&lt;h2 id="motivation">Motivation&lt;/h2>
+&lt;p>I have decided to attempt a new translation of Kaccāyana&amp;rsquo;s grammar, because of several reasons:&lt;/p>
+&lt;ul>
+&lt;li>I am not entirely satisfied with the existing translations. Some of them seem to lack clarity (primarily due to the writing style). Others don&amp;rsquo;t explain the examples well enough, and yet others are too verbose, inserting explanations not in the original text.&lt;/li>
+&lt;li>There are some spelling errors and mistakes in the edition published on &lt;a href="https://tipitaka.org">&lt;strong>Chaṭṭha Saṅgāyana Tipiṭaka&lt;/strong>&lt;/a>, some of which have been incorporated into existing translations. I have taken the opportunity to correct the mistakes, uncovered by scholars such as O. H. Pind and A. Ruiz-Falqués.&lt;/li>
+&lt;li>Unlike some translations, I am honouring the use of option markers in Kaccāyana, and in most cases am faithfully translating &lt;code>vā&lt;/code> as &amp;ldquo;optionally&amp;rdquo;, &lt;code>kvaci&lt;/code> as &amp;ldquo;occasionally&amp;rdquo; and &lt;code>navā&lt;/code> as &amp;ldquo;by exception.&amp;rdquo;&lt;/li>
+&lt;li>I am also cross referencing the use of technical terms with other classical Pāli grammars.&lt;/li>
+&lt;li>It is a good way to further my understanding of Pāli.&lt;/li>
+&lt;li>It is also a good opportunity for me to introduce the Brahmi script. As we know, there are no surviving Buddhist texts written in Brahmi, so there is no need to learn this script, however, I like it due to it&amp;rsquo;s elegance and simplicity.&lt;/li>
+&lt;li>I wanted to augment the translations with diagrams, and incorporate worked through grammatical analysis and rule derivations in the examples.&lt;/li>
+&lt;li>In comparison with the other classical Pāli grammars, Kaccāyana is brief and succinct, minimising repetition. It was used as a standard textbook for teaching Pāli in countries such as Burma for many years, and often used in various monasteries as a Pāli reference text.&lt;/li>
+&lt;li>I prefer Kaccāyana to most English Pāli textbooks and grammar books, as it describes Pāli without the distorting lens of Western linguistics.&lt;/li>
+&lt;li>My translation is presented using a modern responsive web design, featuring Google&amp;rsquo;s Noto Sans font.&lt;/li>
+&lt;/ul>
+&lt;h2 id="references">References&lt;/h2>
+&lt;ul>
+&lt;li>James D’Alwis, &lt;em>An introduction to Kachchāyana&amp;rsquo;s grammar of the Pāli language&lt;/em>, with an introduction, appendix, notes, etc., Williams and Norgate, London (1863)&lt;/li>
+&lt;li>Dhammakitti, Dr. Satischandra Vidyabhusana; Punnananda Swami; Sailendranath Mitra, &lt;em>Bālāvatārā&lt;/em> - an Elementary Pāli Grammar Abridged for the Undergraduate Course, University of Calcutta (1935)&lt;/li>
+&lt;li>Aleix Ruiz-Falqués, &lt;em>On the Authorship of Kaccāyana, the Oldest Pāli Grammar&lt;/em>, Pariyatti: Studies In Pāli Language And Literature, Aditya Prakashan, New Dehli (2017)&lt;/li>
+&lt;li>Aleix Ruiz-Falqués, &lt;em>A Short Introduction to the Pāli Kaccāyana Grammar&lt;/em>, Shan State Buddhist University, Taunggyi (Myanmar) (2020)&lt;/li>
+&lt;li>Mahesh A. Deokar, &lt;em>Technical Terms and Technique of The Pali and Sanskrit Grammars&lt;/em>, Central Institute of Higher Tibetan Studies, Sarnath, Varanasi (2008)&lt;/li>
+&lt;/ul></description></item></channel></rss>
