@@ -1,5 +1,4 @@
 ---
-draft: true
 categories: ["Kaccāyana", "sandhikappa"]
 tags: ["sandhi", "akkhara"]
 title: "1. 𑀲𑀦𑁆𑀥𑀺𑀓𑀧𑁆𑀧 (Sandhikappa)"

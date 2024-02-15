@@ -1,5 +1,4 @@
 ---
-draft: true
 categories: ["Kaccāyana"]
 tags: ["introduction", "sources"]
 title: "𑀓𑀘𑁆𑀘𑀸𑀬𑀦 (Kaccāyana)"
