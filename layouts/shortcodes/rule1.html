@@ -1,0 +1,41 @@
+{{ if eq (.Get 1) "space" }}
+  space
+{{ else }}
+  Previous{{ .Get 0 }}["{{ .Get 1 }}"]
+  class Previous{{ .Get 0 }} context
+{{ end }}
+block:operation{{ .Get 0 }}:4
+  columns 4
+  {{ if eq (.Get 2) "space" }}
+    space
+  {{ else }}
+    Before{{ .Get 0 }}["{{ .Get 2 }}"]
+    class Before{{ .Get 0 }} pre
+  {{ end }}
+  space:2
+  {{ if eq (.Get 4) "space" }}
+    space
+  {{ else }}
+    After{{ .Get 0 }}["{{ .Get 4 }}"]
+    class After{{ .Get 0 }} post
+  {{ end }}
+  Before{{ .Get 0 }}--"{{ .Get 3 }}"-->After{{ .Get 0 }}
+end
+{{ if eq (.Get 5) "space" }}
+  space
+{{ else }}
+  Next{{ .Get 0 }}["{{ .Get 5 }}"]
+  class Next{{ .Get 0 }} context
+{{ end }}
+{{ if eq (.Get 6) "space" }}
+  space
+{{ else }}
+  Marker{{ .Get 0 }}["{{ .Get 6 }}"]
+  class Marker{{ .Get 0 }} mod1
+{{ end }}
+{{ if eq (.Get 7) "space" }}
+  space
+{{ else }}
+  Semantic{{ .Get 0 }}["{{ .Get 7 }}"]
+  class Semantic{{ .Get 0 }} mod2
+{{ end }}

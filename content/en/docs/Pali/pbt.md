@@ -2,7 +2,7 @@
 title: 'My Translations from "Pali Buddhist Texts"'
 linkTitle: "Pali Buddhist Texts"
 date: 2024-01-18
-weight: 120
+weight: 10
 description: >
   My independent translation of the excerpts from the Tipiṭaka in **Pali Buddhist Texts** Explained to the Beginner, Rune E A Johansson, Curzon Press, Copenhagen, Scandinavian Institute of Asian Studies Monograph Series, Third Edition, 1981.
 ---

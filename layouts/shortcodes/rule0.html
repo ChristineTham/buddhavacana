@@ -1,0 +1,15 @@
+<div class="mt-0 mb-2 d-flex flex-row align-items-center w-75">
+<span class="font-monospace fs-3 flex-shrink-1">
+  {{ .Inner }}
+</span>
+{{ if len .Params | le 1 }}
+  <span class="badge bg-primary">
+    {{ .Get 0 }}
+  </span>
+{{ end }}
+{{ if len .Params | eq 2 }}
+  <span class="badge bg-secondary ms-1">
+    {{ .Get 1 }}
+  </span>
+{{ end }}
+</div>

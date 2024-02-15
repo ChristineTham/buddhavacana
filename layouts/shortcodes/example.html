@@ -1,0 +1,16 @@
+<li class="d-flex gap-2">
+    <span class="rounded-circle flex-shrink-0 fs-3">✅</span>
+    <div class="d-flex gap-2 w-100 justify-content-between">
+    <div>
+        <p class="mb-0 h5 font-monospace">{{ .Get 0 }}</p>
+        {{ .Inner }}
+    </div>
+    {{ if len .Params | eq 2 }}
+        <a href="https://suttacentral.net/{{ .Get 1 }}">
+            <small class="opacity-75 text-nowrap">
+                {{ .Get 1 }}
+            </small>
+        </a>
+    {{ end }}
+    </div>
+</li>
