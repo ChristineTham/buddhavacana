@@ -1,68 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – Introduction</title><link>https://christham.net/buddhavacana/tags/introduction/</link><description>Recent content in Introduction on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://christham.net/buddhavacana/tags/introduction/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: 𑀓𑀘𑁆𑀘𑀸𑀬𑀦 (Kaccāyana)</title><link>https://christham.net/buddhavacana/docs/kaccayana/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/kaccayana/</guid><description>
-&lt;div class="row row-cols-8 g-2 mb-2 justify-content-start">
-&lt;div class="col d-flex flex-column">
-&lt;div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-light rounded-4">
-&lt;p class="display-1">𑀓&lt;/p>
-&lt;/div>
-&lt;div class="d-flex flex-row justify-content-around">
-&lt;span class="fw-semibold text-body-emphasis">ka&lt;/span>
-&lt;span class="text-body-secondary">/k/&lt;/span>
-&lt;/div>
-&lt;/div>
-&lt;div class="col d-flex flex-column">
-&lt;div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-light rounded-4">
-&lt;p class="display-1">𑀘𑁆&lt;/p>
-&lt;/div>
-&lt;div class="d-flex flex-row justify-content-around">
-&lt;span class="fw-semibold text-body-emphasis">c&lt;/span>
-&lt;span class="text-body-secondary">/c/&lt;/span>
-&lt;/div>
-&lt;/div>
-&lt;div class="col d-flex flex-column">
-&lt;div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-light rounded-4">
-&lt;p class="display-1">𑀘&lt;/p>
-&lt;/div>
-&lt;div class="d-flex flex-row justify-content-around">
-&lt;span class="fw-semibold text-body-emphasis">cā&lt;/span>
-&lt;span class="text-body-secondary">/ca:/&lt;/span>
-&lt;/div>
-&lt;/div>
-&lt;div class="col d-flex flex-column">
-&lt;div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-light rounded-4">
-&lt;p class="display-1">𑀬&lt;/p>
-&lt;/div>
-&lt;div class="d-flex flex-row justify-content-around">
-&lt;span class="fw-semibold text-body-emphasis">ya&lt;/span>
-&lt;span class="text-body-secondary">/j/&lt;/span>
-&lt;/div>
-&lt;/div>
-&lt;div class="col d-flex flex-column">
-&lt;div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-light rounded-4">
-&lt;p class="display-1">𑀦&lt;/p>
-&lt;/div>
-&lt;div class="d-flex flex-row justify-content-around">
-&lt;span class="fw-semibold text-body-emphasis">na&lt;/span>
-&lt;span class="text-body-secondary">/n/&lt;/span>
-&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 760px">
-&lt;img class="card-img-top" src="https://christham.net/buddhavacana/buddhavacana/docs/kaccayana/Kaccayana_hu60747e792e3b8d3f97d17d735971b550_369720_750x500_fill_q75_catmullrom_smart1.jpg" width="750" height="500">
-&lt;figcaption class="card-body px-0 pt-2 pb-0">
-&lt;p class="card-text">
-&lt;p>Palm leaf manuscript of Kaccāyana and Kaccāyanavutti (FPL3851)&lt;/p>
-&lt;/p>
-&lt;/figcaption>
-&lt;/figure>
-&lt;div class="pageinfo pageinfo-primary">
-&lt;p>The current status of this work is &amp;ldquo;Idea&amp;rdquo; - this is currently not in a form suitable for consumption, please ignore unless you will like to contribute to the translation project.&lt;/p>
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-This work is open source using the Apache licence and the source code is
-available on &lt;a href="https://github.com/ChristineTham/buddhavacana">Github&lt;/a>. If you
-like this work and wish to show your appreciation, please consider
-&lt;a href="https://github.com/sponsors/hellotham">sponsoring me&lt;/a>.
-&lt;/div></description></item><item><title>Docs: Introduction</title><link>https://christham.net/buddhavacana/docs/kaccayana/0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/kaccayana/0/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – Introduction</title><link>https://christham.net/buddhavacana/tags/introduction/</link><description>Recent content in Introduction on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://christham.net/buddhavacana/tags/introduction/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Introduction</title><link>https://christham.net/buddhavacana/docs/kaccayana/0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/kaccayana/0/</guid><description>
 &lt;h2 id="context">Context&lt;/h2>
 &lt;p>&lt;strong>Kaccāyana&lt;/strong> is the oldest extant Pāli grammar, and was composed around the sixth century CE, most probably in India. It is partly based on &lt;strong>Pāṇini&lt;/strong> and &lt;strong>Kātantra&lt;/strong>:&lt;/p>
 &lt;ul>
@@ -962,4 +898,68 @@ To understand vidhi-s, we should keep in mind the following code of case endings
 &lt;li>Aleix Ruiz-Falqués, &lt;em>On the Authorship of Kaccāyana, the Oldest Pāli Grammar&lt;/em>, Pariyatti: Studies In Pāli Language And Literature, Aditya Prakashan, New Dehli (2017)&lt;/li>
 &lt;li>Aleix Ruiz-Falqués, &lt;em>A Short Introduction to the Pāli Kaccāyana Grammar&lt;/em>, Shan State Buddhist University, Taunggyi (Myanmar) (2020)&lt;/li>
 &lt;li>Mahesh A. Deokar, &lt;em>Technical Terms and Technique of The Pali and Sanskrit Grammars&lt;/em>, Central Institute of Higher Tibetan Studies, Sarnath, Varanasi (2008)&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul></description></item><item><title>Docs: 𑀓𑀘𑁆𑀘𑀸𑀬𑀦 (Kaccāyana)</title><link>https://christham.net/buddhavacana/docs/kaccayana/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/kaccayana/</guid><description>
+&lt;div class="row row-cols-8 g-2 mb-2 justify-content-start">
+&lt;div class="col d-flex flex-column">
+&lt;div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-light rounded-4">
+&lt;p class="display-1">𑀓&lt;/p>
+&lt;/div>
+&lt;div class="d-flex flex-row justify-content-around">
+&lt;span class="fw-semibold text-body-emphasis">ka&lt;/span>
+&lt;span class="text-body-secondary">/k/&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="col d-flex flex-column">
+&lt;div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-light rounded-4">
+&lt;p class="display-1">𑀘𑁆&lt;/p>
+&lt;/div>
+&lt;div class="d-flex flex-row justify-content-around">
+&lt;span class="fw-semibold text-body-emphasis">c&lt;/span>
+&lt;span class="text-body-secondary">/c/&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="col d-flex flex-column">
+&lt;div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-light rounded-4">
+&lt;p class="display-1">𑀘&lt;/p>
+&lt;/div>
+&lt;div class="d-flex flex-row justify-content-around">
+&lt;span class="fw-semibold text-body-emphasis">cā&lt;/span>
+&lt;span class="text-body-secondary">/ca:/&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="col d-flex flex-column">
+&lt;div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-light rounded-4">
+&lt;p class="display-1">𑀬&lt;/p>
+&lt;/div>
+&lt;div class="d-flex flex-row justify-content-around">
+&lt;span class="fw-semibold text-body-emphasis">ya&lt;/span>
+&lt;span class="text-body-secondary">/j/&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="col d-flex flex-column">
+&lt;div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-light rounded-4">
+&lt;p class="display-1">𑀦&lt;/p>
+&lt;/div>
+&lt;div class="d-flex flex-row justify-content-around">
+&lt;span class="fw-semibold text-body-emphasis">na&lt;/span>
+&lt;span class="text-body-secondary">/n/&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 760px">
+&lt;img class="card-img-top" src="https://christham.net/buddhavacana/buddhavacana/docs/kaccayana/Kaccayana_hu60747e792e3b8d3f97d17d735971b550_369720_750x500_fill_q75_catmullrom_smart1.jpg" width="750" height="500">
+&lt;figcaption class="card-body px-0 pt-2 pb-0">
+&lt;p class="card-text">
+&lt;p>Palm leaf manuscript of Kaccāyana and Kaccāyanavutti (FPL3851)&lt;/p>
+&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>The current status of this work is &amp;ldquo;Idea&amp;rdquo; - this is currently not in a form suitable for consumption, please ignore unless you will like to contribute to the translation project.&lt;/p>
+&lt;/div>
+&lt;div class="alert alert-primary" role="alert">
+This work is open source using the Apache licence and the source code is
+available on &lt;a href="https://github.com/ChristineTham/buddhavacana">Github&lt;/a>. If you
+like this work and wish to show your appreciation, please consider
+&lt;a href="https://github.com/sponsors/hellotham">sponsoring me&lt;/a>.
+&lt;/div></description></item></channel></rss>
