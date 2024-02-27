@@ -1,0 +1,1426 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – Byañjana</title><link>https://christham.net/buddhavacana/tags/bya%C3%B1jana/</link><description>Recent content in Byañjana on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://christham.net/buddhavacana/tags/bya%C3%B1jana/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: 1.3 𑀢𑀢𑀺𑀬𑀓𑀡𑁆𑀟 (Tatiyakaṇḍa) - Consonant Sandhi</title><link>https://christham.net/buddhavacana/docs/kaccayana/1/1-3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/kaccayana/1/1-3/</guid><description>
+&lt;h3 id="23-r26-vowel--consonant-original-form">23 [R26] vowel + consonant: original form&lt;/h3>
+&lt;p>𑀲𑀭𑀸 𑀧𑀓𑀢𑀺 𑀩𑁆𑀬𑀜𑁆𑀚𑀦𑁂 (&lt;code>sarā pakati byañjane&lt;/code>)
+&lt;span class="badge mx-1 text-bg-info">
+vidhi
+&lt;/span>
+&lt;span class="badge mx-1 text-bg-info">
+&lt;i>utsarga&lt;/i>
+&lt;/span>
+&lt;/p>
+&lt;pre class="mermaid">block-beta
+columns 8
+space sarā pakati:2 space byañjane space space
+space
+block:operation:4
+columns 4
+Before(&amp;#34;sara&amp;#34;)
+class Before pre
+space:2
+After(&amp;#34;(sara)&amp;#34;)
+class After post
+Before--&amp;#34;pakati&amp;#34;--&amp;gt;After
+end
+Next[&amp;#34;byañjana&amp;#34;]
+class Next context
+space
+space
+class arrow operation
+classDef context fill:#D2C4D6,stroke:#615F5F
+classDef context0 fill:#D2C4D6,stroke:#A49E9E,stroke-dasharray: 3 3
+classDef operation fill:#64BFA4,stroke:#615F5F
+classDef operation0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef pre fill:#64BFA4,stroke:#615F5F
+classDef pre0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef post fill:#3CADD4,stroke:#615F5F
+classDef post0 fill:#3CADD4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod1 fill:#EADA4F,stroke:#615F5F
+classDef mod10 fill:#EADA4F,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod2 fill:#F7CACA,stroke:#615F5F
+classDef mod20 fill:#F7CACA,stroke:#615F5F,stroke-dasharray: 3 3&lt;/pre>
+&lt;ul class="nav nav-tabs" id="tabs-2" role="tablist">
+&lt;li class="nav-item">
+&lt;button class="nav-link active"
+id="tabs-02-00-tab" data-bs-toggle="tab" data-bs-target="#tabs-02-00" role="tab"
+data-td-tp-persist="english" aria-controls="tabs-02-00" aria-selected="true">
+English
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-02-01-tab" data-bs-toggle="tab" data-bs-target="#tabs-02-01" role="tab"
+data-td-tp-persist="roman pāli" aria-controls="tabs-02-01" aria-selected="false">
+Roman Pāli
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-02-02-tab" data-bs-toggle="tab" data-bs-target="#tabs-02-02" role="tab"
+data-td-tp-persist="brahmi" aria-controls="tabs-02-02" aria-selected="false">
+Brahmi
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-02-03-tab" data-bs-toggle="tab" data-bs-target="#tabs-02-03" role="tab"
+data-td-tp-persist="devanagari" aria-controls="tabs-02-03" aria-selected="false">
+Devanagari
+&lt;/button>
+&lt;/li>
+&lt;/ul>
+&lt;div class="tab-content" id="tabs-2-content">
+&lt;div class="tab-body tab-pane fade show active"
+id="tabs-02-00" role="tabpanel" aria-labelled-by="tabs-02-00-tab" tabindex="2">
+&lt;p>Vowel, followed by another consonant, retains original form.&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-02-01" role="tabpanel" aria-labelled-by="tabs-02-01-tab" tabindex="2">
+&lt;p>Sarā kho byañjane pare pakatirūpāni honti.&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-02-02" role="tabpanel" aria-labelled-by="tabs-02-02-tab" tabindex="2">
+&lt;p>𑀲𑀭𑀸 𑀔𑁄 𑀩𑁆𑀬𑀜𑁆𑀚𑀦𑁂 𑀧𑀭𑁂 𑀧𑀓𑀢𑀺𑀭𑀽𑀧𑀸𑀦𑀺 𑀳𑁄𑀦𑁆𑀢𑀺𑁇&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-02-03" role="tabpanel" aria-labelled-by="tabs-02-03-tab" tabindex="2">
+&lt;p>सरा खो ब्यञ्जने परे पकतिरूपानि होन्ति।&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div class="td-card card border me-4">
+&lt;div class="card-header">
+Examples
+&lt;/div>
+&lt;div class="card-body">
+&lt;p class="card-text">
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">manopubbaṅgamā dhammā&lt;/p>
+&lt;p>🚹①⨂(manopubbaṅgama) 🚹①⨂(dhamma)&lt;br>
+led by mind | nature&lt;/p>
+&lt;p>mano + pubbaṅgamā&lt;br>
+→ manopubbaṅgamā&lt;br>
+(no sandhi)&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/dhp1">
+&lt;small class="opacity-75 text-nowrap">
+dhp1
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">pamādo maccuno padaṃ&lt;/p>
+&lt;p>🚹①⨀(pamāda) 🚹⑥⨀(maccu) 🚻①⨀(pada)&lt;br>
+carelessness | of death | way&lt;/p>
+&lt;p>(no sandhi)&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/dhp21">
+&lt;small class="opacity-75 text-nowrap">
+dhp21
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">tiṇṇo pāraṅgato ahu&lt;/p>
+&lt;p>🚹①⨀(tiṇṇa) 🚹①⨀(pāraṅgata) ⏮🤟⨀(ahosi)&lt;br>
+crossed over | reached the other shore | became&lt;/p>
+&lt;p>(no sandhi)&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/an4.5#4.1">
+&lt;small class="opacity-75 text-nowrap">
+an4.5#4.1
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="24-r35-vowel--vowel-occasionally--original-form">24 [R35] (vowel +) vowel, occasionally (: original form)&lt;/h3>
+&lt;p>𑀲𑀭𑁂 𑀓𑁆𑀯𑀘𑀺 (&lt;code>sare kvaci&lt;/code>)
+&lt;span class="badge mx-1 text-bg-info">
+vidhi
+&lt;/span>
+&lt;span class="badge mx-1 text-bg-info">
+&lt;i>apavāda&lt;/i>
+&lt;/span>
+&lt;/p>
+&lt;pre class="mermaid">block-beta
+columns 8
+space space space:2 space sare kvaci space
+space
+block:operation:4
+columns 4
+Before(&amp;#34;sara&amp;#34;)
+class Before pre0
+space:2
+After(&amp;#34;(sara)&amp;#34;)
+class After post0
+Before--&amp;#34;pakati&amp;#34;--&amp;gt;After
+end
+Next[&amp;#34;sara&amp;#34;]
+class Next context
+Marker[/&amp;#34;kvaci&amp;#34;\]
+class Marker mod1
+space
+class arrow operation
+classDef context fill:#D2C4D6,stroke:#615F5F
+classDef context0 fill:#D2C4D6,stroke:#A49E9E,stroke-dasharray: 3 3
+classDef operation fill:#64BFA4,stroke:#615F5F
+classDef operation0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef pre fill:#64BFA4,stroke:#615F5F
+classDef pre0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef post fill:#3CADD4,stroke:#615F5F
+classDef post0 fill:#3CADD4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod1 fill:#EADA4F,stroke:#615F5F
+classDef mod10 fill:#EADA4F,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod2 fill:#F7CACA,stroke:#615F5F
+classDef mod20 fill:#F7CACA,stroke:#615F5F,stroke-dasharray: 3 3&lt;/pre>
+&lt;ul class="nav nav-tabs" id="tabs-6" role="tablist">
+&lt;li class="nav-item">
+&lt;button class="nav-link active"
+id="tabs-06-00-tab" data-bs-toggle="tab" data-bs-target="#tabs-06-00" role="tab"
+data-td-tp-persist="english" aria-controls="tabs-06-00" aria-selected="true">
+English
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-06-01-tab" data-bs-toggle="tab" data-bs-target="#tabs-06-01" role="tab"
+data-td-tp-persist="roman pāli" aria-controls="tabs-06-01" aria-selected="false">
+Roman Pāli
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-06-02-tab" data-bs-toggle="tab" data-bs-target="#tabs-06-02" role="tab"
+data-td-tp-persist="brahmi" aria-controls="tabs-06-02" aria-selected="false">
+Brahmi
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-06-03-tab" data-bs-toggle="tab" data-bs-target="#tabs-06-03" role="tab"
+data-td-tp-persist="devanagari" aria-controls="tabs-06-03" aria-selected="false">
+Devanagari
+&lt;/button>
+&lt;/li>
+&lt;/ul>
+&lt;div class="tab-content" id="tabs-6-content">
+&lt;div class="tab-body tab-pane fade show active"
+id="tabs-06-00" role="tabpanel" aria-labelled-by="tabs-06-00-tab" tabindex="6">
+&lt;p>Vowel followed by another vowel occasionally retains original form.&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-06-01" role="tabpanel" aria-labelled-by="tabs-06-01-tab" tabindex="6">
+&lt;p>Sarā kho sare pare kvaci pakatirūpāni honti.&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-06-02" role="tabpanel" aria-labelled-by="tabs-06-02-tab" tabindex="6">
+&lt;p>𑀲𑀭𑀸 𑀔𑁄 𑀲𑀭𑁂 𑀧𑀭𑁂 𑀓𑁆𑀯𑀘𑀺 𑀧𑀓𑀢𑀺𑀭𑀽𑀧𑀸𑀦𑀺 𑀳𑁄𑀦𑁆𑀢𑀺𑁇&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-06-03" role="tabpanel" aria-labelled-by="tabs-06-03-tab" tabindex="6">
+&lt;p>सरा खो सरे परे क्वचि पकतिरूपानि होन्ति।&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div class="td-card card border me-4">
+&lt;div class="card-header">
+Example
+&lt;/div>
+&lt;div class="card-body">
+&lt;p class="card-text">
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">ko imaṃ pathaviṃ vicessati&lt;/p>
+&lt;p>🚹①⨀(ka) 🚺②⨀(ima) 🚺②⨀(pathavī) ⏭🤟⨀(vicessati)&lt;br>
+who | this | earth | understand&lt;/p>
+&lt;p>(no sandhi)&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/dhp44">
+&lt;small class="opacity-75 text-nowrap">
+dhp44
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div class="td-card card border me-4">
+&lt;div class="card-header">
+Counter Example
+&lt;/div>
+&lt;div class="card-body">
+&lt;p class="card-text">
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">⛔️&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">appassutāyaṃ puriso&lt;/p>
+&lt;p>🚹①⨀(appassuta) 🚹①⨀(purisa)&lt;br>
+ignorant | person&lt;/p>
+&lt;p>appassuto + ayaṃ&lt;br>
+→ appassu + (t + o) + (a) + yaṃ (rule 10)&lt;br>
+→ appassu + t + (~~o + a) + yaṃ (rule 12)&lt;br>
+→ appassu + t + (a→ā) + yaṃ (rule 15)&lt;br>
+→ appassu + (t + ā) + yaṃ (rule 11)&lt;br>
+→ appassutāyaṃ&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/dhp146">
+&lt;small class="opacity-75 text-nowrap">
+dhp146
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="25-r37-vowel--consonant-vowel-becomes-long-occasionally">25 [R37] (vowel + consonant, vowel becomes) long (occasionally)&lt;/h3>
+&lt;p>𑀤𑀻𑀖𑀁 (&lt;code>dīghaṃ&lt;/code>)
+&lt;span class="badge mx-1 text-bg-info">
+vidhi
+&lt;/span>
+&lt;span class="badge mx-1 text-bg-info">
+&lt;i>apavāda&lt;/i>
+&lt;/span>
+&lt;/p>
+&lt;pre class="mermaid">block-beta
+columns 8
+space space dīghaṃ:2 space space space space
+space
+block:operation:4
+columns 4
+Before(&amp;#34;sara&amp;#34;)
+class Before pre0
+space:2
+After(&amp;#34;sara (dīghaṃ)&amp;#34;)
+class After post
+Before--&amp;#34;dīghaṃ&amp;#34;--&amp;gt;After
+end
+Next[&amp;#34;byañjana&amp;#34;]
+class Next context
+Marker[/&amp;#34;kvaci&amp;#34;\]
+class Marker mod10
+space
+class arrow operation
+classDef context fill:#D2C4D6,stroke:#615F5F
+classDef context0 fill:#D2C4D6,stroke:#A49E9E,stroke-dasharray: 3 3
+classDef operation fill:#64BFA4,stroke:#615F5F
+classDef operation0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef pre fill:#64BFA4,stroke:#615F5F
+classDef pre0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef post fill:#3CADD4,stroke:#615F5F
+classDef post0 fill:#3CADD4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod1 fill:#EADA4F,stroke:#615F5F
+classDef mod10 fill:#EADA4F,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod2 fill:#F7CACA,stroke:#615F5F
+classDef mod20 fill:#F7CACA,stroke:#615F5F,stroke-dasharray: 3 3&lt;/pre>
+&lt;ul class="nav nav-tabs" id="tabs-11" role="tablist">
+&lt;li class="nav-item">
+&lt;button class="nav-link active"
+id="tabs-11-00-tab" data-bs-toggle="tab" data-bs-target="#tabs-11-00" role="tab"
+data-td-tp-persist="english" aria-controls="tabs-11-00" aria-selected="true">
+English
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-11-01-tab" data-bs-toggle="tab" data-bs-target="#tabs-11-01" role="tab"
+data-td-tp-persist="roman pāli" aria-controls="tabs-11-01" aria-selected="false">
+Roman Pāli
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-11-02-tab" data-bs-toggle="tab" data-bs-target="#tabs-11-02" role="tab"
+data-td-tp-persist="brahmi" aria-controls="tabs-11-02" aria-selected="false">
+Brahmi
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-11-03-tab" data-bs-toggle="tab" data-bs-target="#tabs-11-03" role="tab"
+data-td-tp-persist="devanagari" aria-controls="tabs-11-03" aria-selected="false">
+Devanagari
+&lt;/button>
+&lt;/li>
+&lt;/ul>
+&lt;div class="tab-content" id="tabs-11-content">
+&lt;div class="tab-body tab-pane fade show active"
+id="tabs-11-00" role="tabpanel" aria-labelled-by="tabs-11-00-tab" tabindex="11">
+&lt;p>Vowel, followed by another consonant, occasionally becomes long.&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-11-01" role="tabpanel" aria-labelled-by="tabs-11-01-tab" tabindex="11">
+&lt;p>Sarā kho byañjane pare kvaci dīghaṃ papponti.&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-11-02" role="tabpanel" aria-labelled-by="tabs-11-02-tab" tabindex="11">
+&lt;p>𑀲𑀭𑀸 𑀔𑁄 𑀩𑁆𑀬𑀜𑁆𑀚𑀦𑁂 𑀧𑀭𑁂 𑀓𑁆𑀯𑀘𑀺 𑀤𑀻𑀖𑀁 𑀧𑀧𑁆𑀧𑁄𑀦𑁆𑀢𑀺𑁇&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-11-03" role="tabpanel" aria-labelled-by="tabs-11-03-tab" tabindex="11">
+&lt;p>सरा खो ब्यञ्जने परे क्वचि दीघं पप्पोन्ति।&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div class="td-card card border me-4">
+&lt;div class="card-header">
+Examples
+&lt;/div>
+&lt;div class="card-body">
+&lt;p class="card-text">
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">sammā dhammaṃ vipassato&lt;/p>
+&lt;p>🔼(samma) 🚹②⨀(dhamma) 🚹⑥⨀(vipassanta)&lt;br>
+friend | nature | seeing deeply into&lt;/p>
+&lt;p>samma + dhammaṃ&lt;br>
+→ samm + (a→ā) + dhammaṃ (rule 25)&lt;br>
+→ sammādhammaṃ&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/dhp360">
+&lt;small class="opacity-75 text-nowrap">
+dhp360
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">evaṃ gāme munī care&lt;/p>
+&lt;p>🔼(evaṃ) 🚹②⨂(gāma) 🚹①⨂(muni) 🚹②⨂(cara)&lt;br>
+thus | village | sage | wandering&lt;/p>
+&lt;p>muni + care&lt;br>
+→ mun + (i→ī) + care (rule 25)&lt;br>
+→ munīcare&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/dhp44">
+&lt;small class="opacity-75 text-nowrap">
+dhp44
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">khantī paramaṃ tapo titikkhā &lt;/p>
+&lt;p>🚺①⨀(khanti) 🚻①⨀(parama) 🚹①⨀(tapa) 🚹①⨂(titikkha)&lt;br>
+patience | highest | religious practice | enduring&lt;/p>
+&lt;p>khanti + paramaṃ&lt;br>
+→ khant (i→ī) + paramaṃ (rule 25)&lt;br>
+khantīparamaṃ&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/dhp179">
+&lt;small class="opacity-75 text-nowrap">
+dhp179
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div class="td-card card border me-4">
+&lt;div class="card-header">
+Counter Examples
+&lt;/div>
+&lt;div class="card-body">
+&lt;p class="card-text">
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">⛔️&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">idha modati pecca modati&lt;/p>
+&lt;p>🔼(idha) ▶️🤟⨀(modati) 🔼(pecca) ▶️🤟⨀(modati)&lt;br>
+here | is glad | after death | is glad&lt;/p>
+&lt;p>(no sandhi)&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/dhp11">
+&lt;small class="opacity-75 text-nowrap">
+dhp11
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">⛔️&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">patilīyati&lt;/p>
+&lt;p>▶️🤟⨀(patilīyati)&lt;br>
+withdraws from&lt;/p>
+&lt;p>pati + līyati&lt;br>
+(no sandhi)&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/sn8.2#3.3">
+&lt;small class="opacity-75 text-nowrap">
+sn8.2#3.3
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">⛔️&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">paṭihaññati&lt;/p>
+&lt;p>▶️🤟⨀(paṭihaññati)&lt;br>
+is struck&lt;/p>
+&lt;p>paṭi + haññati
+(no sandhi)&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/mn130#17.1">
+&lt;small class="opacity-75 text-nowrap">
+mn130#17.1
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="26-r38-vowel--consonant-vowel-becomes-short-occasionally">26 [R38] (vowel + consonant, vowel becomes) short (occasionally)&lt;/h3>
+&lt;p>𑀭𑀲𑁆𑀲𑀁 (&lt;code>rassaṃ&lt;/code>)
+&lt;span class="badge mx-1 text-bg-info">
+vidhi
+&lt;/span>
+&lt;span class="badge mx-1 text-bg-info">
+&lt;i>apavāda&lt;/i>
+&lt;/span>
+&lt;/p>
+&lt;pre class="mermaid">block-beta
+columns 8
+space space rassaṃ:2 space space space space
+space
+block:operation:4
+columns 4
+Before(&amp;#34;sara&amp;#34;)
+class Before pre0
+space:2
+After(&amp;#34;sara (rassaṃ)&amp;#34;)
+class After post
+Before--&amp;#34;rassaṃ&amp;#34;--&amp;gt;After
+end
+Next[&amp;#34;byañjana&amp;#34;]
+class Next context0
+Marker[/&amp;#34;kvaci&amp;#34;\]
+class Marker mod10
+space
+class arrow operation
+classDef context fill:#D2C4D6,stroke:#615F5F
+classDef context0 fill:#D2C4D6,stroke:#A49E9E,stroke-dasharray: 3 3
+classDef operation fill:#64BFA4,stroke:#615F5F
+classDef operation0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef pre fill:#64BFA4,stroke:#615F5F
+classDef pre0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef post fill:#3CADD4,stroke:#615F5F
+classDef post0 fill:#3CADD4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod1 fill:#EADA4F,stroke:#615F5F
+classDef mod10 fill:#EADA4F,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod2 fill:#F7CACA,stroke:#615F5F
+classDef mod20 fill:#F7CACA,stroke:#615F5F,stroke-dasharray: 3 3&lt;/pre>
+&lt;ul class="nav nav-tabs" id="tabs-16" role="tablist">
+&lt;li class="nav-item">
+&lt;button class="nav-link active"
+id="tabs-16-00-tab" data-bs-toggle="tab" data-bs-target="#tabs-16-00" role="tab"
+data-td-tp-persist="english" aria-controls="tabs-16-00" aria-selected="true">
+English
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-16-01-tab" data-bs-toggle="tab" data-bs-target="#tabs-16-01" role="tab"
+data-td-tp-persist="roman pāli" aria-controls="tabs-16-01" aria-selected="false">
+Roman Pāli
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-16-02-tab" data-bs-toggle="tab" data-bs-target="#tabs-16-02" role="tab"
+data-td-tp-persist="brahmi" aria-controls="tabs-16-02" aria-selected="false">
+Brahmi
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-16-03-tab" data-bs-toggle="tab" data-bs-target="#tabs-16-03" role="tab"
+data-td-tp-persist="devanagari" aria-controls="tabs-16-03" aria-selected="false">
+Devanagari
+&lt;/button>
+&lt;/li>
+&lt;/ul>
+&lt;div class="tab-content" id="tabs-16-content">
+&lt;div class="tab-body tab-pane fade show active"
+id="tabs-16-00" role="tabpanel" aria-labelled-by="tabs-16-00-tab" tabindex="16">
+&lt;p>Vowel, followed by another consonant, occasionally becomes short.&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-16-01" role="tabpanel" aria-labelled-by="tabs-16-01-tab" tabindex="16">
+&lt;p>Sarā kho byañjane pare kvaci rassaṃ papponti.&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-16-02" role="tabpanel" aria-labelled-by="tabs-16-02-tab" tabindex="16">
+&lt;p>𑀲𑀭𑀸 𑀔𑁄 𑀩𑁆𑀬𑀜𑁆𑀚𑀦𑁂 𑀧𑀭𑁂 𑀓𑁆𑀯𑀘𑀺 𑀭𑀲𑁆𑀲𑀁 𑀧𑀧𑁆𑀧𑁄𑀦𑁆𑀢𑀺𑁇&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-16-03" role="tabpanel" aria-labelled-by="tabs-16-03-tab" tabindex="16">
+&lt;p>सरा खो ब्यञ्जने परे क्वचि रस्सं पप्पोन्ति।&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div class="td-card card border me-4">
+&lt;div class="card-header">
+Examples
+&lt;/div>
+&lt;div class="card-body">
+&lt;p class="card-text">
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">bhovādināma so hoti&lt;/p>
+&lt;p>🚹①⨀(bhovādī) 🔼(nāma) 🚹①⨀(ta) ▶️🤟⨀(hoti)&lt;br>
+Brahman | certainly | he | is&lt;/p>
+&lt;p>bhovādī + nāma&lt;br>
+→ bhovād + (ī→i) + nāma (rule 26)&lt;br>
+→ bhovādināma&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/mn98#11.3">
+&lt;small class="opacity-75 text-nowrap">
+mn98#11.3
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">bhovādināma so hoti&lt;/p>
+&lt;p>🚹①⨀(bhovādī) 🔼(nāma) 🚹①⨀(ta) ▶️🤟⨀(hoti)&lt;br>
+Brahman | certainly | he | is&lt;/p>
+&lt;p>bhovādī + nāma&lt;br>
+→ bhovād + (ī→i) + nāma (rule 26)&lt;br>
+→ bhovādināma&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/mn98#11.3">
+&lt;small class="opacity-75 text-nowrap">
+mn98#11.3
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">yathābhāvi guṇena so&lt;/p>
+&lt;p>🔼(yathā) 🚹①⨀(bhāvī) 🚹③⨀(guṇa) 🚹①⨀(ta)&lt;br>
+like | predestined | by virtue | that&lt;/p>
+&lt;p>yathā + bhāvi&lt;br>
+→ yath (ā→a) + bhāvi (rule 26)&lt;br>
+→ yathabhāvi&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div class="td-card card border me-4">
+&lt;div class="card-header">
+Counter Examples
+&lt;/div>
+&lt;div class="card-body">
+&lt;p class="card-text">
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">⛔️&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">sammāsamādhi&lt;/p>
+&lt;p>🚹①⨀(sammāsamādhi)&lt;br>
+right mental composure&lt;/p>
+&lt;p>sammā + samādhi&lt;br>
+(no sandhi)&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/dn6#14.5">
+&lt;small class="opacity-75 text-nowrap">
+dn6#14.5
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">⛔️&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">sammāsamādhi&lt;/p>
+&lt;p>🚹①⨀(sammāsamādhi)&lt;br>
+right mental composure&lt;/p>
+&lt;p>sammā + samādhi&lt;br>
+(no sandhi)&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/dn6#14.5">
+&lt;small class="opacity-75 text-nowrap">
+dn6#14.5
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">⛔️&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">sāvittī chandaso mukhaṃ&lt;/p>
+&lt;p>🚺①⨂(sāvitti) 🚹⑥⨀(chandas) 🚻①⨀(mukha)&lt;br>
+Sāvittī (sun god) | of metre | opening&lt;/p>
+&lt;p>sāvittī + chandaso&lt;br>
+(no sandhi)&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/mn92#26.2">
+&lt;small class="opacity-75 text-nowrap">
+mn92#26.2
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">⛔️&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">upanīyati jīvitamappamāyu&lt;/p>
+&lt;p>▶️🤟⨀(upanīyati) 🚻⓪⨀(jīvita) 🚹①⨀(appamāyu)&lt;br>
+is lead to the end | existence | short-lived&lt;/p>
+&lt;p>jīvita + appamāyu&lt;br>
+→ jīvita + (m)+ appamāyu (rule 35)&lt;br>
+→ jīvitamappamāyu&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/sn1.3#2.1">
+&lt;small class="opacity-75 text-nowrap">
+sn1.3#2.1
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="27-r39-vowel--consonant-vowel-is-elided-replaced-by-a-occasionally">27 [R39] (vowel + consonant, vowel is) elided, replaced by “a” (occasionally)&lt;/h3>
+&lt;p>𑀮𑁄𑀧𑀜𑁆𑀘 𑀢𑀢𑁆𑀭𑀸𑀓𑀸𑀭𑁄 (&lt;code>lopañca tatrākāro&lt;/code>)
+&lt;span class="badge mx-1 text-bg-info">
+vidhi
+&lt;/span>
+&lt;span class="badge mx-1 text-bg-info">
+&lt;i>apavāda&lt;/i>
+&lt;/span>
+&lt;/p>
+&lt;pre class="mermaid">block-beta
+columns 8
+space space lopañca:2 tatrākāro space space space
+space
+block:operation:4
+columns 4
+Before(&amp;#34;sara&amp;#34;)
+class Before pre0
+space:2
+After(&amp;#34;a&amp;#34;)
+class After post
+Before--&amp;#34;lopaṃ&amp;#34;--&amp;gt;After
+end
+Next[&amp;#34;byañjana&amp;#34;]
+class Next context0
+Marker[/&amp;#34;kvaci&amp;#34;\]
+class Marker mod10
+space
+class arrow operation
+classDef context fill:#D2C4D6,stroke:#615F5F
+classDef context0 fill:#D2C4D6,stroke:#A49E9E,stroke-dasharray: 3 3
+classDef operation fill:#64BFA4,stroke:#615F5F
+classDef operation0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef pre fill:#64BFA4,stroke:#615F5F
+classDef pre0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef post fill:#3CADD4,stroke:#615F5F
+classDef post0 fill:#3CADD4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod1 fill:#EADA4F,stroke:#615F5F
+classDef mod10 fill:#EADA4F,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod2 fill:#F7CACA,stroke:#615F5F
+classDef mod20 fill:#F7CACA,stroke:#615F5F,stroke-dasharray: 3 3&lt;/pre>
+&lt;ul class="nav nav-tabs" id="tabs-21" role="tablist">
+&lt;li class="nav-item">
+&lt;button class="nav-link active"
+id="tabs-21-00-tab" data-bs-toggle="tab" data-bs-target="#tabs-21-00" role="tab"
+data-td-tp-persist="english" aria-controls="tabs-21-00" aria-selected="true">
+English
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-21-01-tab" data-bs-toggle="tab" data-bs-target="#tabs-21-01" role="tab"
+data-td-tp-persist="roman pāli" aria-controls="tabs-21-01" aria-selected="false">
+Roman Pāli
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-21-02-tab" data-bs-toggle="tab" data-bs-target="#tabs-21-02" role="tab"
+data-td-tp-persist="brahmi" aria-controls="tabs-21-02" aria-selected="false">
+Brahmi
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-21-03-tab" data-bs-toggle="tab" data-bs-target="#tabs-21-03" role="tab"
+data-td-tp-persist="devanagari" aria-controls="tabs-21-03" aria-selected="false">
+Devanagari
+&lt;/button>
+&lt;/li>
+&lt;/ul>
+&lt;div class="tab-content" id="tabs-21-content">
+&lt;div class="tab-body tab-pane fade show active"
+id="tabs-21-00" role="tabpanel" aria-labelled-by="tabs-21-00-tab" tabindex="21">
+&lt;p>Vowel, followed by another consonant, occasionally becomes elided. In the place of the completed elision, the letter “a” is inserted.&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-21-01" role="tabpanel" aria-labelled-by="tabs-21-01-tab" tabindex="21">
+&lt;p>Sarā kho byañjane pare kvaci lopaṃ papponti. Tatra ca lope kate &lt;strong>a&lt;/strong>kārāgamo hoti.&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-21-02" role="tabpanel" aria-labelled-by="tabs-21-02-tab" tabindex="21">
+&lt;p>𑀲𑀭𑀸 𑀔𑁄 𑀩𑁆𑀬𑀜𑁆𑀚𑀦𑁂 𑀧𑀭𑁂 𑀓𑁆𑀯𑀘𑀺 𑀮𑁄𑀧𑀁 𑀧𑀧𑁆𑀧𑁄𑀦𑁆𑀢𑀺𑁇 𑀢𑀢𑁆𑀭 𑀘 𑀮𑁄𑀧𑁂 𑀓𑀢𑁂 𑀅𑀓𑀸𑀭𑀸𑀕𑀫𑁄 𑀳𑁄𑀢𑀺𑁇&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-21-03" role="tabpanel" aria-labelled-by="tabs-21-03-tab" tabindex="21">
+&lt;p>सरा खो ब्यञ्जने परे क्वचि लोपं पप्पोन्ति। तत्र च लोपे कते अकारागमो होति।&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div class="td-card card border me-4">
+&lt;div class="card-header">
+Examples
+&lt;/div>
+&lt;div class="card-body">
+&lt;p class="card-text">
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">sa sīlavā&lt;/p>
+&lt;p>🚹①⨀(ta) 🚹①⨂(sīlava)&lt;br>
+that | Sīlava&lt;/p>
+&lt;p>so + sīlavā&lt;br>
+→ (s + o) + (s + ī) + lavā (rule 10)&lt;br>
+→ s + (&lt;del>o&lt;/del>a + s) + ī + lavā (rule 27)&lt;br>
+→ (s + a) + (s + ī) + lavā (rule 11)&lt;br>
+→ sasīlavā&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/dhp84">
+&lt;small class="opacity-75 text-nowrap">
+dhp84
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">sa paññavā&lt;/p>
+&lt;p>🚹①⨀(ta) 🚹①⨂(paññava)&lt;br>
+he | intelligent&lt;/p>
+&lt;p>so + paññavā&lt;br>
+→ (s + o) + (p + a) + ññavā (rule 10)&lt;br>
+→ s + (&lt;del>o&lt;/del>a + p) + a + ññavā (rule 27)&lt;br>
+→ (s + a) + (p + a) + ññavā (rule 11)&lt;br>
+→ sapaññavā&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/dhp84">
+&lt;small class="opacity-75 text-nowrap">
+dhp84
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">esa dhammo sanantano&lt;/p>
+&lt;p>🚹①⨀(eta) 🚹①⨀(dhamma) 🚹①⨀(sanantana)&lt;br>
+this | doctrine | everlasting&lt;/p>
+&lt;p>eso + dhammo&lt;br>
+→ e + (s + o) + (dh + a) + mmo (rule 10)&lt;br>
+→ e + s + (&lt;del>o&lt;/del>a + dh) + a + mmo (rule 27)&lt;br>
+→ e + (s + a) + (dh + a) + mmo (rule 11)&lt;br>
+→ sasīlavā&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/mn128#6.20">
+&lt;small class="opacity-75 text-nowrap">
+mn128#6.20
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">sa ve kasāvamarahati&lt;/p>
+&lt;p>🚹①⨀(ta) 🔼(ve) 🚻①⨀(kasāva) ▶️🤟⨀(arahati)&lt;br>
+that | truly | brown | is suitable&lt;/p>
+&lt;p>so + ve&lt;br>
+→ (s + o) + (v + e) (rule 10)&lt;br>
+→ s + (&lt;del>o&lt;/del>a + v) + e (rule 27)&lt;br>
+→ (s + a) + (v + e) (rule 11)&lt;br>
+→ save&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/thag17.1#22.4">
+&lt;small class="opacity-75 text-nowrap">
+thag17.1#22.4
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">sa mānakāmopi bhaveyya&lt;/p>
+&lt;p>🚹①⨀(ta) 🔼(mānakāmopi) ⏯🤟⨀(bhavati)&lt;br>
+he | who is proud | will be&lt;/p>
+&lt;p>so + mānakāmopi&lt;br>
+→ (s + o) + (m + ā) + nakāmopi (rule 10)&lt;br>
+→ s + (&lt;del>o&lt;/del>a + m) + ā + nakāmopi (rule 27)&lt;br>
+→ (s + a) + (m + ā) + nakāmopi (rule 11)&lt;br>
+→ samānakāmopi&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">sa ve muni jātibhayaṃ adassi&lt;/p>
+&lt;p>🚹①⨀(ta) 🔼(ve) 🚹①⨀(muni) 🚻①⨀(jātibhaya) ⏮🤟⨀(adassi)&lt;br>
+that | truly | sage | danger of rebirth | has seen&lt;/p>
+&lt;p>so + ve&lt;br>
+→ (s + o) + (v + e) (rule 10)&lt;br>
+→ s + (&lt;del>o&lt;/del>a + v) + e (rule 27)&lt;br>
+→ (s + a) + (v + e) (rule 11)&lt;br>
+→ save&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/snp1.12#3.3">
+&lt;small class="opacity-75 text-nowrap">
+snp1.12#3.3
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div class="td-card card border me-4">
+&lt;div class="card-header">
+Counter Examples
+&lt;/div>
+&lt;div class="card-body">
+&lt;p class="card-text">
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">⛔️&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">so muni&lt;/p>
+&lt;p>🚹①⨀(ta) 🚹①⨀(muni)&lt;br>
+that | sage&lt;/p>
+&lt;p>so + muni&lt;br>
+(no sandhi)&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/sn4.6#4.2">
+&lt;small class="opacity-75 text-nowrap">
+sn4.6#4.2
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">⛔️&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">eso dhammo padissati&lt;/p>
+&lt;p>🚹①⨀(eta) 🚹①⨀(dhamma) ▶️🤟⨀(padissati)&lt;br>
+this doctrine | is seen&lt;/p>
+&lt;p>eso + dhammo&lt;br>
+(no sandhi)&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/mn139#13.36">
+&lt;small class="opacity-75 text-nowrap">
+mn139#13.36
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">⛔️&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">na so kāsāvamarahati&lt;/p>
+&lt;p>🔼(na) 🚹①⨀(ta) ▶️🤟⨀(kāsāvamarahati)&lt;br>
+no | he | is worthy of the monk’s robe&lt;/p>
+&lt;p>so + kāsāvamarahati&lt;br>
+(no sandhi)&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/dhp7">
+&lt;small class="opacity-75 text-nowrap">
+dhp7
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="28-r40-vowel--consonant-next-consonant-doubled-appropriately">28 [R40] (vowel + consonant), next (consonant) doubled appropriately&lt;/h3>
+&lt;p>𑀧𑀭 𑀤𑁆𑀯𑁂𑀪𑀸𑀯𑁄 𑀞𑀸𑀦𑁂 (&lt;code>para dvebhāvo ṭhāne&lt;/code>)
+&lt;span class="badge mx-1 text-bg-info">
+vidhi
+&lt;/span>
+&lt;span class="badge mx-1 text-bg-info">
+&lt;i>apavāda&lt;/i>
+&lt;/span>
+&lt;/p>
+&lt;pre class="mermaid">block-beta
+columns 8
+space para dvebhāvo:2 space space ṭhāne space
+Previous[&amp;#34;sara&amp;#34;]
+class Previous context
+block:operation:4
+columns 4
+Before(&amp;#34;byañjana&amp;#34;)
+class Before pre
+space:2
+After(&amp;#34;byañjana x 2&amp;#34;)
+class After post
+Before--&amp;#34;dvebhāvo&amp;#34;--&amp;gt;After
+end
+space
+Marker[/&amp;#34;ṭhāne&amp;#34;\]
+class Marker mod1
+space
+class arrow operation
+classDef context fill:#D2C4D6,stroke:#615F5F
+classDef context0 fill:#D2C4D6,stroke:#A49E9E,stroke-dasharray: 3 3
+classDef operation fill:#64BFA4,stroke:#615F5F
+classDef operation0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef pre fill:#64BFA4,stroke:#615F5F
+classDef pre0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef post fill:#3CADD4,stroke:#615F5F
+classDef post0 fill:#3CADD4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod1 fill:#EADA4F,stroke:#615F5F
+classDef mod10 fill:#EADA4F,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod2 fill:#F7CACA,stroke:#615F5F
+classDef mod20 fill:#F7CACA,stroke:#615F5F,stroke-dasharray: 3 3&lt;/pre>
+&lt;ul class="nav nav-tabs" id="tabs-26" role="tablist">
+&lt;li class="nav-item">
+&lt;button class="nav-link active"
+id="tabs-26-00-tab" data-bs-toggle="tab" data-bs-target="#tabs-26-00" role="tab"
+data-td-tp-persist="english" aria-controls="tabs-26-00" aria-selected="true">
+English
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-26-01-tab" data-bs-toggle="tab" data-bs-target="#tabs-26-01" role="tab"
+data-td-tp-persist="roman pāli" aria-controls="tabs-26-01" aria-selected="false">
+Roman Pāli
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-26-02-tab" data-bs-toggle="tab" data-bs-target="#tabs-26-02" role="tab"
+data-td-tp-persist="brahmi" aria-controls="tabs-26-02" aria-selected="false">
+Brahmi
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-26-03-tab" data-bs-toggle="tab" data-bs-target="#tabs-26-03" role="tab"
+data-td-tp-persist="devanagari" aria-controls="tabs-26-03" aria-selected="false">
+Devanagari
+&lt;/button>
+&lt;/li>
+&lt;/ul>
+&lt;div class="tab-content" id="tabs-26-content">
+&lt;div class="tab-body tab-pane fade show active"
+id="tabs-26-00" role="tabpanel" aria-labelled-by="tabs-26-00-tab" tabindex="26">
+&lt;p>From vowel, next consonant is doubled appropriately.&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-26-01" role="tabpanel" aria-labelled-by="tabs-26-01-tab" tabindex="26">
+&lt;p>Saramhā parassa byañjanassa dvebhāvo hoti ṭhāne.&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-26-02" role="tabpanel" aria-labelled-by="tabs-26-02-tab" tabindex="26">
+&lt;p>𑀲𑀭𑀫𑁆𑀳𑀸 𑀧𑀭𑀲𑁆𑀲 𑀩𑁆𑀬𑀜𑁆𑀚𑀦𑀲𑁆𑀲 𑀤𑁆𑀯𑁂𑀪𑀸𑀯𑁄 𑀳𑁄𑀢𑀺 𑀞𑀸𑀦𑁂𑁇&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-26-03" role="tabpanel" aria-labelled-by="tabs-26-03-tab" tabindex="26">
+&lt;p>सरम्हा परस्स ब्यञ्जनस्स द्वेभावो होति ठाने।&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div class="td-card card border me-4">
+&lt;div class="card-header">
+Examples
+&lt;/div>
+&lt;div class="card-body">
+&lt;p class="card-text">
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">idhappamādo&lt;/p>
+&lt;p>🔼(idha) 🚹①⨀(pamāda)&lt;br>
+here | negligence&lt;/p>
+&lt;p>idha + pamādo&lt;br>
+→ i + (dh + a) + (p + a) + mādo (rule 10)&lt;br>
+→ i + dh + (a + p→pp) + a + mādo (rule 28)&lt;br>
+→ i + (dh + a) + (pp + a) + mādo (rule 11)&lt;br>
+→ idhappamādo&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">purisassa jantuno&lt;/p>
+&lt;p>🚹⑥⨀(purisa) 🚹⑥⨀(jantu)&lt;br>
+of person | of being&lt;/p>
+&lt;p>purisa + sa&lt;br>
+→ puri + (s + a) + (s + a) (rule 10)&lt;br>
+→ puri + s + (a + s→ss) + a (rule 28)&lt;br>
+→ puri + (s + a) + (ss + a) (rule 11)&lt;br>
+→ purisassa&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">pabbajjaṃ kittayissāmi&lt;/p>
+&lt;p>🚺②⨀(pabbajjā) ⏭👆⨀(kittayati)&lt;br>
+renunciation | I declare&lt;/p>
+&lt;p>pa + bajjaṃ&lt;br>
+→ (p + a) + (b + a) + jjaṃ (rule 10)&lt;br>
+→ p + (a + b→bb) + a + jjaṃ (rule 28)&lt;br>
+→ (p + a) + (bb + a) + jjaṃ (rule 11)&lt;br>
+→ pabbajjaṃ&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/snp3.1#1.1">
+&lt;small class="opacity-75 text-nowrap">
+snp3.1#1.1
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">cātuddasi&lt;/p>
+&lt;p>🚺⓪⨀(cātuddasī)&lt;br>
+fourteenth day of lunar fortnight&lt;/p>
+&lt;p>cātu + dasi&lt;br>
+→ cā + (t + u) + (d + a) + si (rule 10)&lt;br>
+→ cā + t + (u + d→dd) + a + si (rule 28)&lt;br>
+→ cā + (t + u) + (dd + a) + si (rule 11)&lt;br>
+→ cātuddasi&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/mn4#20.3">
+&lt;small class="opacity-75 text-nowrap">
+mn4#20.3
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">pañcaddasi&lt;/p>
+&lt;p>🚺⓪⨀(pañcaddasī)
+fifteenth day of lunar fortnight
+pañca + dasi
+→ pañ + (c + a) + (d + a) + si (rule 10)&lt;br>
+→ pañ + c + (a + d→dd) + a + si (rule 28)&lt;br>
+→ pañ + (c + a) + (d + a) + si (rule 11)&lt;br>
+→ pañcaddasi&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/mn83#3.3">
+&lt;small class="opacity-75 text-nowrap">
+mn83#3.3
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">pañcaddasi&lt;/p>
+&lt;p>🚺⓪⨀(pañcaddasī)
+fifteenth
+pañca + dasi
+→ pañ + (c + a) + (d + a) + si (rule 10)&lt;br>
+→ pañ + c + (a + d→dd) + a + si (rule 28)&lt;br>
+→ pañ + (c + a) + (d + a) + si (rule 11)&lt;br>
+→ pañcaddasi&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/mn83#3.3">
+&lt;small class="opacity-75 text-nowrap">
+mn83#3.3
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">abhikkantataro cando&lt;/p>
+&lt;p>🚹①⨀(abhikkantatara) 🚹①⨀(canda)&lt;br>
+more brilliant than | moon&lt;/p>
+&lt;p>abhi + kantataro&lt;br>
+→ abhi + kantataro&lt;br>
+→ abh + (i) + (k + a +n) + tataro (rule 10)&lt;br>
+→ abh + (i + k→kk) + a +n + tataro (rule 28)&lt;br>
+→ abh + (i) + (kk + a +n) + tataro (rule 11)&lt;br>
+→ abhikkantataro&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/mn79#16.3">
+&lt;small class="opacity-75 text-nowrap">
+mn79#16.3
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div class="td-card card border me-4">
+&lt;div class="card-header">
+Counter Example
+&lt;/div>
+&lt;div class="card-body">
+&lt;p class="card-text">
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">⛔️&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">idha modati pecca modati&lt;/p>
+&lt;p>🔼(idha) ▶️🤟⨀(modati) 🔼(pecca) ▶️🤟⨀(modati)&lt;br>
+here | is glad | after death | is glad&lt;/p>
+&lt;p>(no sandhi)&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/dhp11">
+&lt;small class="opacity-75 text-nowrap">
+dhp11
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="29-r42-vowel---voiced-or-unvoiced-group-consonant-first-and-third-letters-doubled-appropriately">29 [R42] (vowel + ) voiced or unvoiced group (consonant), first and third letters (doubled appropriately)&lt;/h3>
+&lt;p>𑀯𑀕𑁆𑀕𑁂 𑀖𑁄𑀲𑀸𑀖𑁄𑀲𑀸𑀦𑀁 𑀢𑀢𑀺𑀬𑀧𑀞𑀫𑀸 (&lt;code>vagge ghosāghosānaṃ tatiyapaṭhamā&lt;/code>)
+&lt;span class="badge mx-1 text-bg-info">
+vidhi
+&lt;/span>
+&lt;span class="badge mx-1 text-bg-info">
+&lt;i>apavāda&lt;/i>
+&lt;/span>
+&lt;/p>
+&lt;pre class="mermaid">block-beta
+columns 8
+space x1[&amp;#34;vagge ghosāghosānaṃ&amp;#34;] space:2 tatiyapaṭhamā space space space
+Previous[&amp;#34;sara&amp;#34;]
+class Previous context0
+block:operation:4
+columns 4
+Before(&amp;#34;vagge ghosāghosānaṃ&amp;#34;)
+class Before pre
+space:2
+After(&amp;#34;tatiyapaṭhamā&amp;#34;)
+class After post
+Before--&amp;#34;dvebhāvo&amp;#34;--&amp;gt;After
+end
+space
+Marker[/&amp;#34;ṭhāne&amp;#34;\]
+class Marker mod10
+space
+class arrow operation
+classDef context fill:#D2C4D6,stroke:#615F5F
+classDef context0 fill:#D2C4D6,stroke:#A49E9E,stroke-dasharray: 3 3
+classDef operation fill:#64BFA4,stroke:#615F5F
+classDef operation0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef pre fill:#64BFA4,stroke:#615F5F
+classDef pre0 fill:#64BFA4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef post fill:#3CADD4,stroke:#615F5F
+classDef post0 fill:#3CADD4,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod1 fill:#EADA4F,stroke:#615F5F
+classDef mod10 fill:#EADA4F,stroke:#615F5F,stroke-dasharray: 3 3
+classDef mod2 fill:#F7CACA,stroke:#615F5F
+classDef mod20 fill:#F7CACA,stroke:#615F5F,stroke-dasharray: 3 3&lt;/pre>
+&lt;ul class="nav nav-tabs" id="tabs-31" role="tablist">
+&lt;li class="nav-item">
+&lt;button class="nav-link active"
+id="tabs-31-00-tab" data-bs-toggle="tab" data-bs-target="#tabs-31-00" role="tab"
+data-td-tp-persist="english" aria-controls="tabs-31-00" aria-selected="true">
+English
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-31-01-tab" data-bs-toggle="tab" data-bs-target="#tabs-31-01" role="tab"
+data-td-tp-persist="roman pāli" aria-controls="tabs-31-01" aria-selected="false">
+Roman Pāli
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-31-02-tab" data-bs-toggle="tab" data-bs-target="#tabs-31-02" role="tab"
+data-td-tp-persist="brahmi" aria-controls="tabs-31-02" aria-selected="false">
+Brahmi
+&lt;/button>
+&lt;/li>&lt;li class="nav-item">
+&lt;button class="nav-link"
+id="tabs-31-03-tab" data-bs-toggle="tab" data-bs-target="#tabs-31-03" role="tab"
+data-td-tp-persist="devanagari" aria-controls="tabs-31-03" aria-selected="false">
+Devanagari
+&lt;/button>
+&lt;/li>
+&lt;/ul>
+&lt;div class="tab-content" id="tabs-31-content">
+&lt;div class="tab-body tab-pane fade show active"
+id="tabs-31-00" role="tabpanel" aria-labelled-by="tabs-31-00-tab" tabindex="31">
+&lt;p>In a consonant following a vowel, the consonant prior in sequence within the group (voiced or unvoiced) corresponding to the third and first letters in that group, are doubled appropriately.&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-31-01" role="tabpanel" aria-labelled-by="tabs-31-01-tab" tabindex="31">
+&lt;p>Vagge kho pubbesaṃ byañjanānaṃ ghosāghosabhūtānaṃ saramhā yathāsaṅkhyaṃ tatiyapaṭhamakkharā dvebhāvaṃ gacchanti ṭhāne.&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-31-02" role="tabpanel" aria-labelled-by="tabs-31-02-tab" tabindex="31">
+&lt;p>𑀯𑀕𑁆𑀕𑁂 𑀔𑁄 𑀧𑀼𑀩𑁆𑀩𑁂𑀲𑀁 𑀩𑁆𑀬𑀜𑁆𑀚𑀦𑀸𑀦𑀁 𑀖𑁄𑀲𑀸𑀖𑁄𑀲𑀪𑀽𑀢𑀸𑀦𑀁 𑀲𑀭𑀫𑁆𑀳𑀸 𑀬𑀣𑀸𑀲𑀗𑁆𑀔𑁆𑀬𑀁 𑀢𑀢𑀺𑀬𑀧𑀞𑀫𑀓𑁆𑀔𑀭𑀸 𑀤𑁆𑀯𑁂𑀪𑀸𑀯𑀁 𑀕𑀘𑁆𑀙𑀦𑁆𑀢𑀺 𑀞𑀸𑀦𑁂𑁇&lt;/p>
+&lt;/div>
+&lt;div class="tab-body tab-pane fade"
+id="tabs-31-03" role="tabpanel" aria-labelled-by="tabs-31-03-tab" tabindex="31">
+&lt;p>वग्गे खो पुब्बेसं ब्यञ्जनानं घोसाघोसभूतानं सरम्हा यथासङ्ख्यं ततियपठमक्खरा द्वेभावं गच्छन्ति ठाने।&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div class="td-card card border me-4">
+&lt;div class="card-header">
+Examples
+&lt;/div>
+&lt;div class="card-body">
+&lt;p class="card-text">
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">eseva cajjhānapphalo&lt;/p>
+&lt;p>🔼(eseva ca) 🚻⓪⨀(jhāna) ⏮🤘⨀(phali)&lt;br>
+just this | jhāna | bore fruit&lt;/p>
+&lt;p>ca + jhāna + phalo&lt;br>
+→ (c + a) + (jh + ā) + (n + a) + (ph + a) + lo (rule 10)&lt;br>
+→ c + (a + jh→jjh) + ā + n + (a + ph→pph) + a + lo (rule 29)&lt;br>
+→ (c + a) + (jjh + ā) + (n + a) + (pph + a) + lo (rule 11)&lt;br>
+→ cajjhānapphalo&lt;/p>
+&lt;p>Note: the consonant “jh” is the fourth (voiced) consonant in the “c” group of letters (ca cha ja jha ña), so the consonant prior to it in the group is the “j” consonant (third consonant in the group). This is inserted prior to “jh” creating a doubling of “j”: “jj”.
+Similarly, the “ph” consonant is the second (unvoiced) consonant in the “p” group of letters (pa pha ba bha ma), which results in a doubling of “p” (the first consonant in the group).&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">yatraṭṭhitaṃ nappasaheyya maccu&lt;/p>
+&lt;p>🚻①⨀(yatraṭṭhita) ⏯🤟⨀(nappasahati) 🚹①⨀(maccu)&lt;br>
+where remaining | does not overpower | death&lt;/p>
+&lt;p>yatra + ṭhita&lt;br>
+→ ya + (tr + a) + (ṭh + i) + taṃ (rule 10)&lt;br>
+→ ya + tr + (a + ṭh→ṭṭh) + i + taṃ (rule 29)&lt;br>
+→ ya + (tr + a) + (ṭṭh + i) + taṃ (rule 11)&lt;br>
+→ yatraṭṭhitaṃ&lt;/p>
+&lt;p>Note: the consonant “ṭh” is the second (unvoiced) consonant in the “ṭ” group of letters (ṭa ṭha ḍa ḍha ṇa), so the consonant prior to it in the group is the “ṭ” consonant (first consonant in the group). This is inserted prior to “ṭh” creating a doubling of “ṭ”: “ṭṭ”.&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/dn22#6.1">
+&lt;small class="opacity-75 text-nowrap">
+dn22#6.1
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">sele yathā pabbatamuddhaniṭṭhito&lt;/p>
+&lt;p>🚹②⨂(sela) 🔼(yathā) 🚹⑦⨀(pabbatamuddha) 🚹①⨀(ṭhita)&lt;br>
+rock | as per | on top of mountain | standing&lt;/p>
+&lt;p>pabbatamuddhani + ṭhito&lt;br>
+→ pabbatamuddha + (n + i) + (ṭh + i) + to (rule 10)&lt;br>
+→ pabbatamuddha + n + (i + ṭh→ṭṭh) + i + to (rule 29)&lt;br>
+→ pabbatamuddha + (n + i) + (ṭṭh + i) + to (rule 11)&lt;br>
+→ pabbatamuddhaniṭṭhito&lt;/p>
+&lt;p>Note: the consonant “ṭh” is the second (unvoiced) consonant in the “ṭ” group of letters (ṭa ṭha ḍa ḍha ṇa), so the consonant prior to it in the group is the “ṭ” consonant (first consonant in the group). This is inserted prior to “ṭh” creating a doubling of “ṭ”: “ṭṭ”.&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/dn14#3.7.2">
+&lt;small class="opacity-75 text-nowrap">
+dn14#3.7.2
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">✅&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">cattāriṭṭhānāni naro pamatto&lt;/p>
+&lt;p>🚻①⨂(catu) 🚻①⨂(ṭhāna) 🚹①⨀(nara) 🚹①⨀(pamatta)&lt;br>
+four | grounds | man | careless&lt;/p>
+&lt;p>cattāri + ṭhānāni&lt;br>
+→ cattā (r +i) + (ṭh + ā) + nāni (rule 10)&lt;br>
+→ cattā r +(i + ṭh→ṭṭh) + ā + nāni (rule 29)&lt;br>
+→ cattā (r +i) + (ṭṭh + ā) + nāni (rule 11)&lt;br>
+→ cattāriṭṭhānāni&lt;/p>
+&lt;p>Note: the consonant “ṭh” is the second (unvoiced) consonant in the “ṭ” group of letters (ṭa ṭha ḍa ḍha ṇa), so the consonant prior to it in the group is the “ṭ” consonant (first consonant in the group). This is inserted prior to “ṭh” creating a doubling of “ṭ”: “ṭṭ”.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div class="td-card card border me-4">
+&lt;div class="card-header">
+Counter Example
+&lt;/div>
+&lt;div class="card-body">
+&lt;p class="card-text">
+&lt;li class="d-flex gap-2">
+&lt;span class="rounded-circle flex-shrink-0 fs-3">⛔️&lt;/span>
+&lt;div class="d-flex gap-2 w-100 justify-content-between">
+&lt;div>
+&lt;p class="mb-0 h5 font-monospace">idha cetaso daḷhaṃ gaṇhāti thāmasā&lt;/p>
+&lt;p>🔼(idha) 🚹⑥⨀(cetas) 🚹②⨀(daḷha) ▶️🤟⨀(gaṇhāti) 🚹③⨀(thāmas)&lt;br>
+here | of intention | steady | seizes | with strength&lt;/p>
+&lt;p>idha + cetaso + daḷhaṃ&lt;br>
+(no sandhi)&lt;/p>
+&lt;/div>
+&lt;a href="https://suttacentral.net/dhp94">
+&lt;small class="opacity-75 text-nowrap">
+dhp94
+&lt;/small>
+&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;/p>
+&lt;/div>
+&lt;/div></description></item></channel></rss>

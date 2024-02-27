@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – paṭhamakaṇḍa</title><link>https://christham.net/buddhavacana/categories/pa%E1%B9%ADhamaka%E1%B9%87%E1%B8%8Da/</link><description>Recent content in paṭhamakaṇḍa on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://christham.net/buddhavacana/categories/pa%E1%B9%ADhamaka%E1%B9%87%E1%B8%8Da/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: 1.1 𑀧𑀞𑀫𑀓𑀡𑁆𑀟 (Paṭhamakaṇḍa) - Definitions</title><link>https://christham.net/buddhavacana/docs/kaccayana/1/1-1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/kaccayana/1/1-1/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>buddhavacana – Paṭhamakaṇḍa</title><link>https://christham.net/buddhavacana/categories/pa%E1%B9%ADhamaka%E1%B9%87%E1%B8%8Da/</link><description>Recent content in Paṭhamakaṇḍa on buddhavacana</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://christham.net/buddhavacana/categories/pa%E1%B9%ADhamaka%E1%B9%87%E1%B8%8Da/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: 1.1 𑀧𑀞𑀫𑀓𑀡𑁆𑀟 (Paṭhamakaṇḍa) - Definitions</title><link>https://christham.net/buddhavacana/docs/kaccayana/1/1-1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://christham.net/buddhavacana/docs/kaccayana/1/1-1/</guid><description>
 &lt;h3 id="1-r1-meaning-from-recognition-of-akkhara-sounds-or-letters">1 [R1] Meaning from recognition of &lt;code>akkhara&lt;/code> (sounds, or letters)&lt;/h3>
 &lt;p>𑀅𑀢𑁆𑀣𑁄 𑀅𑀓𑁆𑀔𑀭𑀲𑀜𑁆𑀜𑀸𑀢𑁄 (&lt;code>attho akkharasaññāto&lt;/code>)
 &lt;span class="badge mx-1 text-bg-warning">
@@ -103,7 +103,7 @@ id="tabs-05-00" role="tabpanel" aria-labelled-by="tabs-05-00-tab" tabindex="5">
 &lt;/div>
 &lt;div class="tab-body tab-pane fade"
 id="tabs-05-01" role="tabpanel" aria-labelled-by="tabs-05-01-tab" tabindex="5">
-&lt;p>Te ca kho akkharā api &lt;strong>a&lt;/strong>kārādayo ekacattālīsaṃ suttantesu sopakārā.&lt;/p>
+&lt;p>Te ca kho akkharā api &lt;strong>a&lt;/strong>kārādayo ekacattālīsaṃ&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> suttantesu sopakārā.&lt;/p>
 &lt;p>Taṃ yathā?&lt;br>
 a ā i ī u ū e o,&lt;br>
 ka kha ga gha ṅa,&lt;br>
@@ -113,6 +113,14 @@ ta tha da dha na,&lt;br>
 pa pha ba bha ma,&lt;br>
 ya ra la va sa ha ḷa aṃ,&lt;br>
 iti &lt;strong>akkharā&lt;/strong> nāma.&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>The CSCD edition misspells this as &lt;code>ekacattā līsa&lt;/code>.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div>
 &lt;/div>
 &lt;div class="tab-body tab-pane fade"
 id="tabs-05-02" role="tabpanel" aria-labelled-by="tabs-05-02-tab" tabindex="5">
@@ -1501,7 +1509,15 @@ id="tabs-51-00" role="tabpanel" aria-labelled-by="tabs-51-00-tab" tabindex="51">
 &lt;/div>
 &lt;div class="tab-body tab-pane fade"
 id="tabs-51-01" role="tabpanel" aria-labelled-by="tabs-51-01-tab" tabindex="51">
-&lt;p>Assaraṃ kho byañjanaṃ adhoṭhitaṃ parakkharaṃ naye yutte.&lt;/p>
+&lt;p>Assaraṃ kho byañjanaṃ adhoṭhitaṃ&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> parakkharaṃ naye yutte.&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>The CSCD edition misspells this as &lt;code>adhoṭhataṃ&lt;/code>.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div>
 &lt;/div>
 &lt;div class="tab-body tab-pane fade"
 id="tabs-51-02" role="tabpanel" aria-labelled-by="tabs-51-02-tab" tabindex="51">
@@ -1550,9 +1566,9 @@ in that place | pleasure in | will desire&lt;/p>
 → त + त्रा + भिरति + मि + च्छेय्य&lt;br>
 → तत्राभिरतिमिच्छेय्यय&lt;/p>
 &lt;/div>
-&lt;a href="https://suttacentral.net/dhp88">
+&lt;a href="https://suttacentral.net/an10.169#6.1">
 &lt;small class="opacity-75 text-nowrap">
-dhp88
+an10.169#6.1
 &lt;/small>
 &lt;/a>
 &lt;/div>
