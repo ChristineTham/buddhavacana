@@ -2,7 +2,7 @@
 categories: ["Kaccāyana", "sandhikappa"]
 tags: ["sandhi", "akkhara"]
 title: "1. 𑀲𑀦𑁆𑀥𑀺𑀓𑀧𑁆𑀧 (Sandhikappa)"
-linkTitle: "Sandhikappa"
+linkTitle: "1 Sandhikappa"
 description: >
   `sandhi` is derived from `saṃ` + `dhā` meaning "putting together" and is used to refer to the transformation that result from the joining together of two words (or two parts of a word) for the sake of euphony.
 ---
