@@ -78,30 +78,35 @@ clause = declarative (* making statements*) |
 
 ```plantuml
 @startebnf
-clause = subject (* about X *), predicate (* What about X? *);
-clause = (subject (*Hamlet*) , verb (*hesitated*) ) |
-  (subject (*Hamlet*) , verb (*stabbed*) , object (*Polonius*) ) |
-  (subject (*Hamlet*) , verb (*was*)  , complement (*solitary*) ) |
-  (subject (*Hamlet*) , verb (*gave*) , indirect_object (*people*)  , direct_object (*surprises*) ) |
-  (subject (*Hamlet*) , verb (*drove*) , object (*Ophelia*) , complement (*mad*) ) |
-  (subject (*Hamlet*) , verb (*went*) , adverbial (*away*) ) |
-  (subject (*Hamlet*) , verb (*put*) , object (*the sword*) , adverbial (*down*) ) ;
-predicate = verb , ( object , [complement | adverbial] | complement | (indirect_object , direct_object) | adverbial ) ;
-subject = noun |
+clause = Subject (* about X *), Predicate (* What about X? *);
+clause = (Subject (*Hamlet*) , Verb (*hesitated*) ) |
+  (Subject (*Hamlet*) , Verb (*stabbed*) , Object (*Polonius*) ) |
+  (Subject (*Hamlet*) , Verb (*was*)  , Complement (*solitary*) ) |
+  (Subject (*Hamlet*) , Verb (*gave*) , indirect_object (*people*)  , direct_object (*surprises*) ) |
+  (Subject (*Hamlet*) , Verb (*drove*) , Object (*Ophelia*) , Complement (*mad*) ) |
+  (Subject (*Hamlet*) , Verb (*went*) , Adverbial (*away*) ) |
+  (Subject (*Hamlet*) , Verb (*put*) , Object (*the sword*) , Adverbial (*down*) ) ;
+predicate = Verb , ( Object , [Complement | Adverbial] | Complement | (indirect_object , direct_object) | Adverbial ) ;
+Subject = noun |
   pronoun |
   noun_phrase ;
-object = noun |
+  (* topic *)
+Verb = action | state | link (* to Complement or Adverbial *) ;
+  (* develop the Subject *)
+Object = noun |
   pronoun |
   noun_phrase ;
-  (* person, thing or idea affected by action of verb *)
-complement = noun |
+  (* person, thing or idea affected by action of Verb *)
+Complement = noun |
   pronoun |
   noun_phrase |
   adjective |
   adjective_phrase ;
-  (* refers to subject *)
+  (* refers to Subject *)
 @endebnf
 ```
+
+Note: `verb` and `Verb` are not the same. `verb` is a type of word, `Verb` is part of a clause (along with `Subject` and `Object`).
 
 ## Nouns
 
@@ -109,7 +114,7 @@ complement = noun |
 @startebnf
 (* person, thing, idea *)
 noun = proper_noun (* people, places or things *) |
-  common_noun | gerund (* verbal noun *);
+  common_noun | gerund (* Verbal noun *);
 common_noun = countable_noun (* have singular and plural forms *) |
   uncountable_noun (* abstract ideas, or things considered in the mass *) ;
 @endebnf
@@ -119,10 +124,10 @@ common_noun = countable_noun (* have singular and plural forms *) |
 
 ```plantuml
 @startebnf
-(* reference to noun phrase, general idea or nothing ("dummy subject") *)
+(* reference to noun phrase, general idea or nothing ("dummy Subject") *)
 pronoun = personal_pronoun (* reference to previous or upcoming noun phrase *) |
   possessive_pronoun (* belong to person or thing referred to *) |
-  reflexive_pronoun (* subject and object are the same *) |
+  reflexive_pronoun (* Subject and Object are the same *) |
   demonstrative_pronoun (* reference by distance *) |
   indefinite_pronoun (* reference, general to vague *) |
   interrogative_pronoun (* used in questions *) |
@@ -132,7 +137,7 @@ pronoun = personal_pronoun (* reference to previous or upcoming noun phrase *) |
 
 ### Personal and Possessive pronouns
 
-| person | number | gender | subjective | objective | possessive | possessive determiner |
+| person | number | gender | Subjective | Objective | possessive | possessive determiner |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1st | singular | all | I | me | mine | my |
 | 1st | plural | all | we | us | ours | our |
@@ -159,7 +164,7 @@ pronoun = personal_pronoun (* reference to previous or upcoming noun phrase *) |
 | near | this | these |
 | far | that | those |
 
-## Indefinite Pronouns
+### Indefinite Pronouns
 
 | specificity | one | body | thing | choice | iteration |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -168,7 +173,7 @@ pronoun = personal_pronoun (* reference to previous or upcoming noun phrase *) |
 | none | no one | nobody | nothing | neither | |
 | all | everyone | everybody | everything | both | each |
 
-## Interrogative Pronouns
+### Interrogative Pronouns
 
 ```plantuml
 @startebnf
@@ -185,7 +190,7 @@ relative_pronoun = ((interrogative_pronoun | "where") , ["ever"]) |
 @endebnf
 ```
 
-### Noun phrases
+## Noun phrases
 
 ```plantuml
 @startebnf
@@ -206,9 +211,35 @@ determiner = ("a" | "and" | "the") |
   quantity (* eg. "many", "few" *) |
   amount (* eg. "little", "much" *) ;
 premodifier = adjective | noun | gerund ;
-postmodifier = prepositional_phrase | relative_clause;
+postmodifier = prepositional_phrase (* qualifies headword *) |
+  relative_clause (* mini sentences that provide more information to Subject *) ;
+prepositional_phrase = preposition , (noun | pronoun | gerund | noun_phrase) ;
+preposition = "about" | "with" | "to" | "for" | "down" | ?etc.? ;
+relative_clause = relative_pronoun , clause ;
 @endebnf
 ```
+
+## Adjectives
+
+```plantuml
+@startebnf
+(* modifies and gives noun definition, by providing more information*)
+adjective = attributive (* before noun *) |
+  predicative (* after Verb like "be" *) ;
+adjective = ([graded] , qualitative_adjective) | classifying_adjective ;
+graded = "fairly" | "extremely" | ?etc.? ;
+classifying_adjective = "annual" | "nuclear" | "actual" | ?etc.? ;
+@endebnf
+```
+
+### Qualitative adjectives
+
+| absolute | comparative | superlative |
+| :-: | :-: | :-: |
+| fast | faster | fastest |
+| easy | easier | easiest |
+| rapid | more rapid | most rapid |
+| extraordinary | more extraordinary | most extraordinary |
 
 ## References
 
