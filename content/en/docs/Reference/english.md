@@ -241,6 +241,30 @@ classifying_adjective = "annual" | "nuclear" | "actual" | ?etc.? ;
 | rapid | more rapid | most rapid |
 | extraordinary | more extraordinary | most extraordinary |
 
+## Types of verbs
+
+```plantuml
+@startebnf
+verb = main_verb | primary_auxillary_verb | modal_auxillary_verb ;
+main_verb = transitive_verb | intransitive_verb | linking_verb ;
+transitive_verb = "get" | "create" | ?etc.? ;
+  (* can be used in active or passive sentences *)
+intransitive_verb = "arrive" | "exist" | ?etc.? ;
+linking_verb = "be" | "seem" | "appear" | "become" | "look" | ?etc.? ;
+primary_auxillary_verb = "be" | "have" | "do" ;
+modal_auxillary_verb = "will" | "may" | "can" | "might" | "could" | ?etc.? ;
+@endebnf
+```
+
+## Verb forms
+
+| stem | walk | swim | be |
+| :-: | :-: | :-: | :-: |
+| present tense | walk / walks | swim / swims | am / is / are |
+| present_participle | walking | swimming | being |
+| past tense | walked | swam | was / were |
+| past participle | walked | swum | been |
+
 ## References
 
 Seely, 2001
