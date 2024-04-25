@@ -2,7 +2,7 @@
 title: "English in EBNF"
 linkTitle: "English"
 date: 2024-04-14
-weight: 60
+weight: 10
 description: >
   The English language grammar, expressed in Extended Backus–Naur form (EBNF).
 ---
