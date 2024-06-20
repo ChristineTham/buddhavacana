@@ -260,7 +260,7 @@ encountered in very rare instances. Examples include:
 
 * `to idh’āgato` (these two having come)
 * `ubho` (both)
-* `mātāpitu` (father and mother)
+* `mātāpitu` (mother and father)
 
 ### `vibhatti` (case endings) {54}
 
@@ -512,15 +512,15 @@ Examples:
 
 ## ⏏️ `nipāta` (particles)
 
-`nipāta` means "to fall. i.e. to be placed anywhere", and refer to words
-that can be found placed in the beginning, in the middle or at the end of
-sentences and words, but not usually regarded as prefixes (see below).
+`nipāta` means "to fall. i.e. to be placed anywhere", and it refers to words
+that are placed at the beginning, in the middle, or at the end of
+sentences or other words, but these are not usually regarded as prefixes (see below).
 
 Generally, the `vibhatti` endings of `nipāta` words are elided as these words
 are not related to other words in the sentence and therefore do not need to
 be matched with them. {221}
 
-However, in some instances, the `vibhatti` endings may be retained, if the
+However, in some instances, the `vibhatti` endings may be retained if the
 `nipāta` word play a role in the sentence meaning.
 
 ### Examples
@@ -545,13 +545,13 @@ The following is a brief descriptive list of some nipāta words. Some are plain
 nipātas without any affix, while some are with indeclinable affixes. Some may
 even have a sort of vibhatti-ending in them or may still have traces of
 vibhattis. Please note that the implied meaning of elided vibhatti still remains
-in effect for some nipāta words such as `yathā`, `tathā` and `evaṁ` etc.
+in effect for some nipāta words such as `yathā`, `tathā`, `evaṁ`, etc.
 
 | `nipāta` | meaning | note |
 | --- | --- | --- |
 | `yathā`, `tathā` | in a manner that, in such a way as | combination of `sabbanāma` `ya` `ta` with indeclinable affix `thā`. The affix itself is ex- pressive of manner or mood. |
 | `evaṁ` | thus, in this way, true as it is said, yes (many meanings) | dutiyāvibhatti, very frequently used in Pāli texts |
-| khalu | used mostly in a reported narrative | |
+| `khalu` | used mostly in a reported narrative | |
 | `kho` | mostly meaningless, but sometimes it may mean “only, really” | a plain nipāta, found often in main Buddhist texts. Used together with `atha` `evaṁ` `taṁ` etc. |
 | `tatra` | there | a combination of `sabbanāma` `ta` with indeclinable affix `tra` |
 | `atho` | in addition, besides | |
@@ -1754,7 +1754,7 @@ worthwhile revisiting this chapter from time to time to check your understanding
 as you progress in your journey in learning Pali.
 
 The good news is you now know enough of the basics of Pali to start reading
-the `Tipiṭaka` with the aid of a good dictionary, and looking up every word
+the `Tipiṭaka` with the aid of a good dictionary and looking up every word
 as you go along. You may encounter sentences that you can't interpret very
 well, but that's okay. Leave it for now, and study the next chapters, which
 will help you build confidence and skill in your ability to analyse sentences
