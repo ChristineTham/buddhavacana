@@ -28,6 +28,11 @@ According to (Valeika, 2003, p. 12):
 >3. Approach to correctness: the standards of correctness are logic, which was identified with Latin, and the past.
 >4. Emphasis on writing rather than speech.
 
+Non-Structural Descriptive Grammar in Summary
+1. Unlikeprescriptivists,descriptivistsfocustheirattentiononactualusage without trying “to settle the relative correctness of divergent usages”;
+2. DescriptivistsrelyontheEnglishofthebestauthorsoftheirdayaswell astheEnglishofthepast.Tothem,changeinlanguageisnotassociated with corruption;
+3. Similartoprescriptivists,descriptivistsusemeaningandfunctionin their definition of parts of speech.
+4. 
 ## References
 
 Lowth 1762
