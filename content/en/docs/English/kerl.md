@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Kerl: A Comprehensive Grammar of the English Language"
 linkTitle: "Kerl Grammar"
 date: 2024-04-23

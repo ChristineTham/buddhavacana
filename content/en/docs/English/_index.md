@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "English Resources"
 linkTitle: "English Resources"
 weight: 500
