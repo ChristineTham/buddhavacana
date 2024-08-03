@@ -444,12 +444,11 @@ The Buddha was the greatest conqueror the world has ever seen.
 
 He conquered the world with His infallible weapons of love and truth. His Teaching illuminates the Way for mankind to cross from a world of darkness, hatred, and suffering, to a new world of light, love and happiness.
 
-# Miraculous Power
+#### Miraculous Power
 
-If a wicked man can become a pure, religious man, this is a real miracle in action.
+*If a wicked man can become a pure, religious man, this is a real miracle in action.*
 
-I
-N every religion we know of miracles being performed by either the founders of these religions or by some of their disciples. In the case of the Buddha, miracles occurred from the day of His birth until His passing away into *Nirvana.* Many of the psychic powers of the Buddha were attained through His long and intense training in meditation. The Buddha meditated and passed through all the highest stages of contemplation that culminated in pure self-possession and wisdom. Such attainments through meditation are considered nothing miraculous but fall within the psychic power of any trained ascetic.
+In every religion we know of miracles being performed by either the founders of these religions or by some of their disciples. In the case of the Buddha, miracles occurred from the day of His birth until His passing away into *Nirvana.* Many of the psychic powers of the Buddha were attained through His long and intense training in meditation. The Buddha meditated and passed through all the highest stages of contemplation that culminated in pure self-possession and wisdom. Such attainments through meditation are considered nothing miraculous but fall within the psychic power of any trained ascetic.
 
 Using meditation on the night of His Enlightenment, there arose within the Buddha a vision of His previous births, the many existences with all their details. He remembered His previous births and how He had made use of these births to gain His Enlightenment. Then the Buddha had a second and wider vision in which He saw the whole universe as a system of Karma and Rebirth. He saw the universe made up of beings that were noble and wicked, happy and unhappy. He saw them all continually 'passing away according to their good and bad deeds', leaving one form of existence and taking shape in another. Finally, He understood the nature of Suffering, the Cessation of Suffering and the Path that leads to the Cessation of Suffering. Then a third vision arose within the Buddha. He realised that He was completely free from all bondages, human or divine. He realised that He had done what had to be done. He realised He had no more rebirth to go through because He had eradicated all craving and He was living with His final body. This knowledge destroyed all ignorance, all darkness, and light arose within Him. Such is the psychic power and the wisdom that arose within the Buddha as He sat meditating under the Bodhi tree.
 
@@ -471,16 +470,23 @@ The Buddha also expressly forbade His disciples to use miracles to prove the sup
 
 According to the Buddha, the *miracle of realisation of the Truth* is the only miracle. When a murderer, thief, terrorist, drunkard, or adulterer is made to realise that what he had been doing is wrong and gives up his bad, immoral and harmful way of life, this change can be regarded as a miracle. The change for the better arising from an understanding of Dharma universal law or natural occurrences is the highest miracle that any person can perform.
 
-# The Buddha'S Silence
+#### The Buddha'S Silence
 
-When the questioner was unable to understand the real meaning of the answer or when the questions posed to Him were wrong, the Buddha remained silent.
+*When the questioner was unable to understand the real meaning of the answer or when the questions posed to Him were wrong, the Buddha remained silent.*
 
 THE scriptures mention a few occasions when the Buddha remained silent to metaphysical and speculative questions posed to Him. Some scholars, owing to their misunderstanding of the Buddha's silence, came to the wrong conclusion that the Buddha was unable to answer these questions.
 
 When the Buddha knew that the questioner was not in a position to understand the answer because of its profundity, or if the questions themselves were wrongly put in the first place, the Blessed One remained silent. Some of the questions to which the Buddha remained silent are:
-1. Is the universe eternal? 2. Is it not eternal? 3. Is the universe finite? 4. Is it infinite? 5. Is soul the same as the body? 6. Is the soul one thing and the body another? 7. Does the Tathagata exist after death? 8. Does He not exist after death? 9. Does He both (at the same time) exist and not exist after death?
-
-10. Does He both (at the same time) neither exist nor not exist?
+1. Is the universe eternal?
+2. Is it not eternal?
+3. Is the universe finite?
+4. Is it infinite?
+5. Is soul the same as the body?
+6. Is the soul one thing and the body another?
+7. Does the Tathagata exist after death?
+8. Does He not exist after death?
+9. Does He both (at the same time) exist and not exist after death?
+10.  Does He both (at the same time) neither exist nor not exist?
 
 The Buddha who had truly realised the nature of these issues observed noble silence. An ordinary person who is still unenlightened might have a lot to say, but all would be sheer conjecture based on his or her imagination.
 
@@ -488,7 +494,7 @@ The Buddha's silence on these issues is more significant than attempting to deli
 
 The Buddha did not attempt to give answers to all the questions put to Him. He was under no obligation to respond to meaningless questions which reflected gross misunderstanding on the part of the questioner and which in any case had no relevance to one's spiritual development. He was a practical Teacher, full of compassion and wisdom. He always spoke to people fully understanding their temperament, capability and capacity to comprehend. When a person asked questions not with the intention to learn how to lead a religious life but simply to create an opportunity for splitting hairs, the Blessed One did not answer these questions. Questions were answered to help a person towards self-realisation, not as a way of showing His towering wisdom.
 
-## How To Answer Questions
+#### How To Answer Questions
 
 According to the Buddha, there are several ways of answering various types of questions. The first type of question is one that requires a definite answer, such as a 'yes' or 'no'.
 
@@ -500,73 +506,110 @@ Some answers which the Buddha gave have close parallels to the kind of responses
 
 It is important to note however that the Buddha did give answers to some of these questions to His most intellectually developed disciples after the questioner had left. And in many cases, His explanations are contained in other discourses which show us why these questions were not answered by the Buddha merely to satisfy the inquisitive but undeveloped minds of the questioners.
 
-# The Buddha'S Attitude Towards Worldly Knowledge
+#### The Buddha'S Attitude Towards Worldly Knowledge
 
-Worldly knowledge can never help one to lead a pure religious life that leads to peace and emancipation.
+*Worldly knowledge can never help one to lead a pure religious life that leads to peace and emancipation.*
 
 WORLDLY knowledge is useful for worldly ends. With such knowledge, mankind learns how to use the earth's resources to improve the standard of living, grow more food, generate power to run factories and to light up streets and houses, manage factories and businesses, cure sickness, build flats and bridges, cook exotic dishes, and so on. Worldly knowledge can also be used for harmful purposes such as building missiles with nuclear warheads, manipulating the stock market, cheating 'legally', and inflaming political anxiety and hatred. Despite the rapid expansion of worldly knowledge, especially in the twenty-first century, mankind has been brought no nearer to the solution to human problems and eradicating pervasive unsatisfactoriness. In all likelihood, it never will solve human beings' universal problems and bring peace and happiness because of the premises on which such knowledge, discoveries and inventions are built.
 
 While Buddhism can bring greater understanding on how to lead a good worldly life, its main focus is how to gain liberation through the development of wisdom, mental culture and purity. For ordinary human beings, there is no end to the search for worldly knowledge, which in the final analysis does not really matter. For as long as we are ignorant about the Dharma, we will forever be trapped in Samsara, the repeated cycle of birth and death. According to the Buddha:
-'For a long time, Brothers, have you suffered the death of a mother; for a long time, the death of a father; for a long time, the death of a son; for a long time, the death of a daughter; for a long time, the death of brothers and sisters; for a long time have you undergone the loss of your goods; for a long time have you been afflicted with disease. And because you have experienced the death of a mother, the death of a father, the death of a son, the death of a daughter, the death of brothers and sisters, the loss of goods, the pangs of disease, company of the undesired, you have truly shed more tears upon this long way—hastening from birth to death, from death to birth—than all the waters that are held in the four great seas.'
-(ANGUTTARA NIKAYA)
+
+>*'For a long time, Brothers, have you suffered the death of a mother; for a long time, the death of a father; for a long time, the death of a son; for a long time, the death of a daughter; for a long time, the death of brothers and sisters; for a long time have you undergone the loss of your goods; for a long time have you been afflicted with disease. And because you have experienced the death of a mother, the death of a father, the death of a son, the death of a daughter, the death of brothers and sisters, the loss of goods, the pangs of disease, company of the undesired, you have truly shed more tears upon this long way—hastening from birth to death, from death to birth—than all the waters that are held in the four great seas.'*
+>
+>(ANGUTTARA NIKAYA)
+
 Here the Buddha was describing the Suffering of continuous births and deaths in the world. He wanted to show people the Way out of all these Sufferings.
 
-Why did the Buddha speak in this manner to His disciples?
-
-And why did He not make an attempt to solve the problems as to whether the world is eternal or not, whether it is finite or not? Such problems might be exciting and stimulating to those who have the curiosity. But in no way would the answers to these problems help a person to overcome Suffering. That is why He ignored questions like these because they were futile and the knowledge about such things would not contribute to one's spiritual wellbeing.
+Why did the Buddha speak in this manner to His disciples? And why did He not make an attempt to solve the problems as to whether the world is eternal or not, whether it is finite or not? Such problems might be exciting and stimulating to those who have the curiosity. But in no way would the answers to these problems help a person to overcome Suffering. That is why He ignored questions like these because they were futile and the knowledge about such things would not contribute to one's spiritual wellbeing.
 
 The Buddha knew that to speak on things which were of no practical value and beyond the power of comprehension, was a waste of time and energy. He foresaw that to advance hypotheses about such things only served to divert thoughts from their proper channel and hinder spiritual development.
 
 Worldly knowledge and scientific research should be complemented and balanced with religious and spiritual values. Otherwise such worldly knowledge does not in any way contribute to one's progress in leading a pure, religious life. Human beings have come to the stage where their minds fed by the instruments and fruits of technological advancements, have become obsessed with egoism, craving for power, and greed for material wealth. Without religious values, worldly knowledge and technological advancement can lead to their downfall and destruction. These will only inflame their greed which will take on new and terrifying dimensions. On the other hand, when worldly knowledge is harnessed for moral ends, it can bring maximum benefit and happiness for humanity.
 
-## The Last Message Of The Buddha
+#### The Last Message Of The Buddha
 
-'When I am gone, my Teaching shall be your Master to guide you.'
+*'When I am gone, my Teaching shall be your Master to guide you.'*
+
 THREE months before His passing away the Buddha addressed His disciples and said; 'I have delivered sermons to you during these forty-five years. You must learn them well and treasure them. You must practise them and teach them to others. This will be of great use for the welfare of those living now and for the welfare of those who come after you'.
 
 'My years are now full ripe; the life span left is short. I will soon attain Parinirvana. You must be earnest. O monks, be mindful and of pure virtue! Whoever untiringly pursues the Teaching, will go beyond the cycle of birth and death and will make an end of Suffering.'
+
 When Ananda asked the Buddha what would become of the Order after He passed away, the Buddha replied, 'What does the Order expect of me, Ananda? I have preached the Truth without any distinction; for in regard to the Truth, there is no clenched fist in the Teachings of the Buddha… It may be, Ananda, that to some among you, the thought will come 'The Master's words will soon end; soon we will no longer have a Master.' But do not think like this, Ananda. When I am gone, my Teaching and the disciplinary code shall be your Master.'
-The Buddha further explained: 'If there is anyone who thinks,
-'It is I who will lead the brotherhood', or 'The Order is dependent on me, it is I who should give instructions', the Buddha does not think that he should lead the Order or that the Order is dependent on him. I have reached the end of my days. Just as a worn-out cart can only be made to move with much additional care, so my body can be kept going only with much additional care. Therefore, Ananda, be a lamp and refuge unto yourselves. Look for no other refuge. Let the Truth be your lamp and your refuge. Seek no refuge elsewhere.'
+
+The Buddha further explained: 'If there is anyone who thinks, 'It is I who will lead the brotherhood', or 'The Order is dependent on me, it is I who should give instructions', the Buddha does not think that he should lead the Order or that the Order is dependent on him. I have reached the end of my days. Just as a worn-out cart can only be made to move with much additional care, so my body can be kept going only with much additional care. Therefore, Ananda, be a lamp and refuge unto yourselves. Look for no other refuge. Let the Truth be your lamp and your refuge. Seek no refuge elsewhere.'
+
 At the age of eighty, on His birthday, He passed away without displaying any supernatural powers. He showed the real nature of component things even in His own life.
 
 When the Buddha passed away into Nirvana, one of His disciples remarked, 'All must depart—all beings that have life must shed their compounded forms. Yes, even a Master such as the Buddha, a peerless being, powerful in Wisdom and Enlightenment, must pass away.'
- 'Appamadena Sampadetha Vaya Dharma Sankhara'. 'Work diligently. Component things are impermanent.'
-(MAHA PARINIRVANA SUTTA)
 
-![69_image_0.png](69_image_0.png)
+>*'Appamadena Sampadetha Vaya Dharma Sankhara'.*\
+>'Work diligently. Component things are impermanent.'\
+>(MAHA PARINIRVANA SUTTA)
 
-# After The Buddha
+### 3. After The Buddha
 
 ![69_Image_1.Png](69_Image_1.Png)
 
-## Does The Buddha Exist After His Death?
+#### Does The Buddha Exist After His Death?
 
-The question 'Does the Buddha exist after His death or not',
-is not a new question. The same question was put to the Buddha during His lifetime.
+*The question 'Does the Buddha exist after His death or not', is not a new question. The same question was put to the Buddha during His lifetime.*
 
 WHEN a group of ascetics asked the same question to certain disciples of the Buddha, they could not get a satisfactory answer from them. Anuradha, a disciple, approached the Buddha and reported to Him about their conversation. Considering the understanding capacity of the questioners, the Buddha usually observed silence at such questions.
 
 However in this instance, the Buddha explained to Anuradha in the following manner:
+
 'O Anuradha, what do you think, is the form *(rupa)* permanent or impermanent?'
-'Impermanent, Sir.' 'Is that which is impermanent, painful or pleasant?' 'Painful, Sir.' 'Is it proper to regard that which is impermanent, painful and subject to change as: 'This is mine; this is I, this is my soul or permanent substance?'
-'It is not proper, Sir.' 'Is feeling permanent or impermanent?' 'Impermanent, Sir.' 'Is that which is impermanent, painful or pleasant?' 'Painful, Sir.' 'Is it proper to regard that which is impermanent, painful and subject to change as 'This is mine, this is I, this is my soul'?'
+
+'Impermanent, Sir.' 'Is that which is impermanent, painful or pleasant?' 'Painful, Sir.'
+
+'Is it proper to regard that which is impermanent, painful and subject to change as: 'This is mine; this is I, this is my soul or permanent substance?'
+
+'It is not proper, Sir.' 'Is feeling permanent or impermanent?' 'Impermanent, Sir.'
+
+'Is that which is impermanent, painful or pleasant?'
+
+'Painful, Sir.'
+
+'Is it proper to regard that which is impermanent, painful and subject to change as 'This is mine, this is I, this is my soul'?'
+
 'It is not proper, Sir.'
+
 'Are perception, formative tendencies and consciousness, permanent or impermanent?'
-'Impermanent, Sir.' 'Is that which is impermanent, painful or pleasant?' 'Painful, Sir.' 'Is it proper to regard that which is impermanent, painful and subject to change as: 'This is mine, this is I, this is my soul'?'
+
+'Impermanent, Sir.' 'Is that which is impermanent, painful or pleasant?'
+
+'Painful, Sir.' 'Is it proper to regard that which is impermanent, painful and subject to change as: 'This is mine, this is I, this is my soul'?'
+
 'It is not proper, Sir.'
+
 'Therefore whatever form, feeling, perception, formative tendencies, consciousness which have been, will be and is now connected with oneself, or with others, gross or subtle, inferior or superior, far or near; all forms, feelings, perceptions, formative tendencies and consciousness should be considered by right knowledge in this way: 'This is not mine; this is not I; this is not my soul.' Having seen thus, a noble, learned disciple becomes disenchanted with the form, feeling, perception, formative tendencies and consciousness. Becoming disenchanted, he controls his passion and subsequently discards them.'
+
 'Being free from passion he becomes emancipated and insight arises in him: 'I am emancipated.' He realizes: 'Birth is destroyed, I have lived the holy life and done what had to be done. There is no more birth for me.'
+
 'What do you think, Anuradha, do you regard the form as a Tathagata?'
+
 'No, Sir.' 'O Anuradha, what is your view, do you see a Tathagata in the form?'
+
 'No, Sir.' 'Do you see a Tathagata apart from form?' 'No, Sir.'
+
 'Do you see a Tathagata in feeling, perception, formative tendencies, and consciousness?'
+
 'No, Sir.' O Anuradha, what do you think, do you regard that which is without form, feeling, perception, formative tendencies and consciousness as a Tathagata?'
-No, Sir.' Now, Anuradha, since a Tathagata is not to be found in this very life, (because physical body is not Tathagata)* is it proper for you to say: 'This noble and supreme one has pointed out and explained these four propositions:
-A Tathagata exists after death; A Tathagata does not exist after death; A Tathagata exists and yet does not exist after death; A Tathagata neither exists nor does not exist after death?' 'No Sir.' Well and good, Anuradha. Formerly and now also I expound and point out only the truth of Suffering and the cessation of Suffering.' (ANURADHA SUTTA - SAMYUTTA NIKAYA)
+
+No, Sir.' Now, Anuradha, since a Tathagata is not to be found in this very life, (because physical body is not Tathagata)[^2] is it proper for you to say: 'This noble and supreme one has pointed out and explained these four propositions:
+
+* A Tathagata exists after death;
+* A Tathagata does not exist after death;
+* A Tathagata exists and yet does not exist after death;
+* A Tathagata neither exists nor does not exist after death?'
+
+[^2]: See the section entitled ‘Trikaya – The Three Bodies of The Buddha’.
+
+'No Sir.' Well and good, Anuradha. Formerly and now also I expound and point out only the truth of Suffering and the cessation of Suffering.' (ANURADHA SUTTA - SAMYUTTA NIKAYA)
+
 The above dialogue between the Buddha and Anuradha may not be satisfactory to many, since it does not satisfy the inquiring mind of the people looking for answers from a materialist point of view. Absolute Truth (the Dharma) is such that it does not give satisfaction to the emotion and intellect. Truth happens to be the most difficult thing for people to comprehend. It can only be fully comprehended by Insight which transcends logic. Buddhahood is the embodiment of all the great virtues and supreme enlightenment. That is why Buddhas who could enlighten others are very rare in this world.
 
-# A Successor To The Buddha
+#### A Successor To The Buddha
 
 Buddhahood is the highest of all achievements.
 
@@ -575,54 +618,55 @@ MANY people ask why the Buddha did not appoint a successor. But can any one appo
 
 Authority over a religion must be exercised by a person or persons possessing a clear mind, proper understanding, perfection and leading a holy life. Authority should not be exercised by worldlyminded people who have become slaves to sensual pleasures or who crave for worldly material gain or power. Otherwise the sacredness and truth in a religion could be abused.
 
-## The Future Buddha
+#### The Future Buddha
 
-'I am not the first Buddha to come upon this earth; nor shall I be the last. Previously, there were many Buddhas who appeared in this world.
+*'I am not the first Buddha to come upon this earth; nor shall I be the last. Previously, there were many Buddhas who appeared in this world. In due time, another Buddha will arise in this world, within this world cycle.'*
 
-In due time, another Buddha will arise in this world, within this world cycle.'
-WHEN the Buddha was about to pass away, Venerable Ananda and many other disciples wept. The Buddha said, 'Enough, Ananda. Do not allow yourself to be troubled. Do not weep. Have I not already told you that it is in the very nature of things that they must pass away. We must be separated from all that is near and dear to us. The foolish person conceives his idea of Self; the wise man sees there is no ground on which to build the Self. Thus the wise man has a right conception of the world. He will realise that all component things will be dissolved again; but the Truth will always remain.'
-The Buddha continued: 'Why should I preserve this body when the body of the excellent law will endure? I am resolved. I have accomplished my purpose and have attended to the work set by me.
+WHEN the Buddha was about to pass away, Venerable Ananda and many other disciples wept. The Buddha said, 'Enough, Ananda. Do not allow yourself to be troubled. Do not weep. Have I not already told you that it is in the very nature of things that they must pass away. We must be separated from all that is near and dear to us. The foolish person conceives his idea of Self; the wise man sees there is no ground on which to build the Self. Thus the wise man has a right conception of the world. He will realise that all component things will be dissolved again; but the Truth will always remain.
 
-Ananda, for a long time you have been very near to me in thoughts, words and acts of much love beyond all measure. You have done well, Ananda. Be earnest in effort and you too will soon be free from bondages! You will be free from sensuality, from delusion, and from ignorance.' Suppressing his tears, Ananda said to the Buddha, 'Who shall teach us when You are gone?' And the Buddha advised him to regard His Teaching as the Master.
+'The Buddha continued: 'Why should I preserve this body when the body of the excellent law will endure? I am resolved. I have accomplished my purpose and have attended to the work set by me. Ananda, for a long time you have been very near to me in thoughts, words and acts of much love beyond all measure. You have done well, Ananda. Be earnest in effort and you too will soon be free from bondages! You will be free from sensuality, from delusion, and from ignorance.' Suppressing his tears, Ananda said to the Buddha, 'Who shall teach us when You are gone?' And the Buddha advised him to regard His Teaching as the Master.
 
 The Buddha continued again: 'I am not the first Buddha to come upon earth; nor shall I be the last.* In due time, another Buddha will arise in this world, a Holy One, a Supremely Enlightened One, endowed with wisdom, in conduct auspicious, knowing the universe, an incomparable leader of men, a master of devas and men. He will reveal to you the same Eternal Truths which I have taught you. He will proclaim a religious life, wholly perfect and pure; such as I now proclaim.'
-'How shall we know him?', asked Ananda. The Buddha replied,
-'He will be known as *Maitreya* which means kindness or friendliness.'
+
+'How shall we know him?', asked Ananda. The Buddha replied, 'He will be known as *Maitreya* which means kindness or friendliness.'
+
 Buddhists believe that those people who at present are doing meritorious deeds by leading a religious life will have a chance to be reborn as human beings in the time of *Maitreya Buddha* and will obtain *Nirvana* identical with that of Gautama Buddha. In this way they will find salvation through the guidance of His Teaching.
 
 His Teaching will become a hope of the remote future for everybody. However, according to the Buddha devout religious people can gain this Nirvanic bliss at any time if they really work for it irrespective of whether a Buddha appears or not.
 
-'As long as my disciples lead a pure religious life, so long will the world never become empty of Arahantas.'
-(MAHA PARINIRVANA SUTTA)
-PART TWO
-BUDDHISM:
-ESSENCE AND COMPARATIVE
-APPROACHES
+>'As long as my disciples lead a pure religious life, so long will the world never become empty of Arahantas.'
+>
+>(MAHA PARINIRVANA SUTTA)
 
-![79_image_0.png](79_image_0.png)
+## PART TWO - BUDDHISM: ESSENCE AND COMPARATIVE APPROACHES
 
-# Timeless Truth Of The Buddha
+### 4. Timeless Truth Of The Buddha
 
 ![79_Image_1.Png](79_Image_1.Png)
 
-## The Lion'S Roar
+#### The Lion'S Roar
 
-After hearing the Buddha, many decided to give up the wrong views they previously held regarding their religious way of life.
+*After hearing the Buddha, many decided to give up the wrong views they previously held regarding their religious way of life.*
 
 BUDDHISM is a beautiful gem of many facets, attracting people of diverse personalities. Every facet in this gem has time tested methods and approaches that can benefit the Truth seekers with their various levels of understanding and spiritual maturity.
 
 The Buddha Dharma is the fruit resulting from a most intensive search conducted over a long period of time by a compassionate noble man whose mission was to help suffering humanity. Despite being surrounded by all the wealth and luxuries normally showered on a crown prince, He renounced His luxurious life and voluntarily embarked on a tough journey to seek the Truth and to find a panacea to cure the sickness of the worldly life with its attendant suffering and unsatisfactoriness. He was bent on finding a solution to alleviate all suffering. In His long search, the prince did not rely on or resort to divine guidance or traditional beliefs as was fashionable in the past. He did an intensive search with a free and open mind, guided solely by His sincerity of purpose, noble resolution, inexhaustible patience, and a truly compassionate heart with the ardent wish to relieve suffering. After six long years of intensive experiment, of trial and error, the noble prince achieved His aim—He gained Enlightenment and gave the world His pristine teachings known as Dharma or Buddhism.
 
 The Buddha once said, 'Monks, the lion, king of beasts, at eventide comes forth from his lair. He stretches himself. Having done so, he surveys the four quarters in all directions. Having done that, he utters thrice his lion's roar. Having thrice uttered his lion's roar, he sallies forth in search of prey.'
+
 'Now, monks, whatever animals hear the sound of the roaring of the lion, king of beasts, for the most part, they are afraid; they fall to quaking and trembling. Those that dwell in holes seek them; water-dwellers make for the water; forest-dwellers enter the forest; birds mount into the air.'
+
 'Then whatsoever ruler's elephants in village, town or palace are tethered with stout leather bonds, they burst out and rend those bonds asunder and in panic run to and fro. Thus potent is the lion, king of beasts, over animals. Of such mighty power and majesty is he.'
+
 'Just so, monks, is it when a Buddha arises in the world, an Arahant, a Perfectly Enlightened One, perfect in wisdom and in conduct, wayfarer, Knower of the worlds, the unsurpassed trainer of those who can be trained, teacher of gods and men, a Buddha, an Exalted One. He teaches the Dharma: "Such is the nature of concept of Self; this is the way leading to the ending of such a Self."'
+
 'Whatsoever gods there be, they too, on hearing the Dharma of the *Tathagata,* for the most part are afraid: they fall to quaking and trembling, saying: 'We who thought ourselves permanent are after all impermanent: that we who thought ourselves stable are after all unstable: not to last, though lasting we thought ourselves. So it seems that we are impermanent, unstable, not to last, compassed about with a Self.' Thus potent is a *Tathagata* over the world of gods and men.'
+
 (ANGUTTARA NIKAYA)
 
-# What Is Buddhism?
+#### What Is Buddhism?
 
-All the other religions claim to have originated in heaven and descended to earth. Buddhism originated from an Enlightened mind on this earth and transcended the heavens.
+*All the other religions claim to have originated in heaven and descended to earth. Buddhism originated from an Enlightened mind on this earth and transcended the heavens.*
 
 WHAT is Buddhism? This question has puzzled many people who often enquire if Buddhism is a philosophy, a religion, or a way of life. The simple answer is that Buddhism is too vast and too profound to be neatly placed in any single mundane category. Of course, Buddhism includes philosophy and religion and a way of life. But Buddhism goes beyond these categories.
 
@@ -632,10 +676,7 @@ People living at different times and in different places have given various labe
 
 To yet another group, Buddhism is a significant system of thought appealing to intellectuals only. To some others, it is a scientific discovery. To the pious and devout Buddhist, Buddhism encompasses his or her entire life, the fulfillment of all material and spiritual aspirations. In this sense we can say that Buddhism is a noble way of life.
 
-Some intellectuals see Buddhism as a product of its Indian environment or as an outgrowth of another kind of Indian religious teaching. This assessment is not wholly accurate. Buddhism is nothing but the Absolute Noble Truth. It is an intellectual approach to reality. However, the Buddha's realisation of universal problems did not come through a purely intellectual or rational process but through mental development and purification. The intellectual stance reminiscent of the scientific attitude, surely makes the Buddha absolutely unique among religious teachers of all time. Of course, the high standard of intellectual inquiry and ethical endeavour prevailing at the time in India were prime conditions for the re-emergence of the light of the Dharma from the darkness of oblivion. Thousands of years of religious and philosophical development had left on the intellectual soil of India a rich and fertile deposit of ideas and ideals which formed the best possible environment from which the seed of the Dharma could sprout and flourish.
-
-Greece, China, Egypt and Babylonia, for all their loftiness of thought, had not attained the same quality of vision as the forest and mountain-dwelling sages of India. The germ of Enlightenment which had been borne, like a winged seed from distant fields, from worlds in space and time infinitely remote from ours—this very germ of Enlightenment found growth and development in the north-eastern corner of India. This very germ of Enlightenment found its full expression in the experience of the man, Gautama Buddha. The fountainhead of all Buddhism is this experience which is called
-'Enlightenment'. With this experience of Enlightenment, the Buddha began His Teaching not with any dogmatic beliefs or mysteries, but with a valid, universal experience, which He gave to the world as universal truth. Therefore, the closest definition of Buddhism is NOBLE TRUTH. Remember that the Buddha did not teach from theories. He always taught from a practical standpoint based on His understanding, His Enlightenment, and His realisation of the Truth. He constantly urged His followers to see 'things-as-they-reallyare'.
+Some intellectuals see Buddhism as a product of its Indian environment or as an outgrowth of another kind of Indian religious teaching. This assessment is not wholly accurate. Buddhism is nothing but the Absolute Noble Truth. It is an intellectual approach to reality. However, the Buddha's realisation of universal problems did not come through a purely intellectual or rational process but through mental development and purification. The intellectual stance reminiscent of the scientific attitude, surely makes the Buddha absolutely unique among religious teachers of all time. Of course, the high standard of intellectual inquiry and ethical endeavour prevailing at the time in India were prime conditions for the re-emergence of the light of the Dharma from the darkness of oblivion. Thousands of years of religious and philosophical development had left on the intellectual soil of India a rich and fertile deposit of ideas and ideals which formed the best possible environment from which the seed of the Dharma could sprout and flourish. Greece, China, Egypt and Babylonia, for all their loftiness of thought, had not attained the same quality of vision as the forest and mountain-dwelling sages of India. The germ of Enlightenment which had been borne, like a winged seed from distant fields, from worlds in space and time infinitely remote from ours—this very germ of Enlightenment found growth and development in the north-eastern corner of India. This very germ of Enlightenment found its full expression in the experience of the man, Gautama Buddha. The fountainhead of all Buddhism is this experience which is called 'Enlightenment'. With this experience of Enlightenment, the Buddha began His Teaching not with any dogmatic beliefs or mysteries, but with a valid, universal experience, which He gave to the world as universal truth. Therefore, the closest definition of Buddhism is NOBLE TRUTH. Remember that the Buddha did not teach from theories. He always taught from a practical standpoint based on His understanding, His Enlightenment, and His realisation of the Truth. He constantly urged His followers to see 'things-as-they-reallyare'.
 
 Buddhism began with the right understanding embodied over 2500 years ago in the person of Siddharta Gautama. When the Buddha introduced His teachings, His intention was not to develop the concept of self in people's minds and create more craving for eternal life and sense pleasure. Rather, His intention was to point out the futility of the worldly life and to show the correct, practical Path to salvation that He discovered.
 
@@ -643,7 +684,7 @@ The original Teachings of the Buddha revealed with sharp accuracy the true natur
 
 The Teachings of the Buddha not only started a religion, but inspired the blossoming of a whole civilisation. These Teachings became a great civilizing force that moved through the history of many a culture and nation. Indeed, Buddhism inspired some of the greatest civilisations that the world has ever known. It has a wonderful history of achievement in the fields of literature, art, philosophy, psychology, ethics, architecture and culture. In the course of centuries, countless social educational institutions were established in the various nations that were dedicated to the Buddha's Teaching. The history of Buddhism was written in golden letters of brotherhood and goodwill. The Buddhist way of life and practices turned into a rational, scientific and practical religious way of life for spiritual development from the day the Buddha preached His Teaching and showed the real purpose and meaning of life and religion. All this is because people had the opportunity to open their minds freely.
 
-## Impact Of Buddhism On Civilization
+#### Impact Of Buddhism On Civilization
 
 Today Buddhism remains as a great civilizing force in the modern world. As a civilizing force, Buddhism awakens the self-respect and feeling of self-responsibility of countless people and stirs up the energy of many a nation. It fosters spiritual progress by appealing to the thinking powers of human beings. It promotes in people the sense of tolerance by remaining free from religious and national narrowness and fanaticism. It tames the wild and refines the citizens to be clear and sober in mind. In short, Buddhism produces the feeling of self-reliance by teaching that the whole destiny of humanity lies in their own hands, and that they themselves possess the faculty of developing their own energy and insight in order to reach the highest goal.
 
@@ -657,7 +698,7 @@ Today, Buddhism appeals to the West because it has no dogmas, and it satisfies b
 
 The Buddha's message of peace and compassion radiated in all directions and the millions who came under its influence adopted it very readily as a new way of religious life.
 
-## Buddhist Contribution To Humanity
+#### Buddhist Contribution To Humanity
 
 Buddhism as a religion has served the hopes and aspirations of humanity well; it has fostered within the social organism a commendable way of life and a communal spirit marked by endeavours towards peace and contentment. It has been in the forefront of human welfare.
 
@@ -667,9 +708,9 @@ Indeed, the immense potential of Buddhism has not been realised by many people w
 
 The Buddha's contribution to the social and spiritual progress of mankind was so remarkable that His message which spread all over the world won the love and affection of the people with a devotion that was unprecedented. It is well worth considering that Buddhism does not choose people by following them to convert them with promises of heaven. It is the people who choose Buddhism.
 
-# The Ultimate Truth
+#### The Ultimate Truth
 
-The unconventional Truth discovered by the Buddha is called the Ultimate Truth.
+*The unconventional Truth discovered by the Buddha is called the Ultimate Truth.*
 
 BUDDHISM recognises two kinds of Truth, the apparent conventional truth concerning mundane matters and the real or ultimate Truth concerning the supramundane. The ultimate Truth can be realized only by developing the mind through meditation, and not by theorising or speculation.
 
@@ -689,31 +730,34 @@ One should therefore not come to a hasty conclusion either to judge the validity
 
 In the face of the profusion of ideas and practices which were later developments, it is useful for us to return to the positive and timeless Dharma taught by the Buddha. Whatever people believe and practise in the name of Buddhism, the basic Teachings of the Buddha still exist in the original Buddhist texts.
 
-## Two Main Schools Of Buddhism*
+#### Two Main Schools Of Buddhism[^3]
 
-The real followers of the Buddha can practise this religion without adhering to any school or sect.
+[^3]: For a short, excellent exposition on this topic, read Dr. W. Rahula, ‘ Theravada and Mahayana Buddhism’ published by The Buddhist Missionary Society.
+
+*The real followers of the Buddha can practise this religion without adhering to any school or sect.*
 
 A few hundred years after the Buddha's passing away, there arose eighteen different schools or sects all of which claimed to represent the original Teachings of the Buddha. The differences between these schools were basically due to various interpretations of the Teachings of the Buddha. Over a period of time, these schools gradually merged into two main schools: Theravada and Mahayana. Today, the majority of the followers of Buddhism are divided into these two schools.
 
 Basically Mahayana Buddhism grew out of the Buddha's teaching that each individual carries within himself the potential for Buddhahood.* Theravadins say that this potential can be realised through individual effort. Mahayanists, on the other hand, believe that they can seek salvation through the intervention of other superior beings called Bodhisatvas. According to them, Bodhisatvas are future Buddhas who, out of compassion for their fellow human beings, have delayed their own attainment of Buddhahood until they have helped others towards liberation. In spite of this basic difference, however, it must be stressed that doctrinally there is absolutely no disagreement concerning the Dharma as contained in the sacred Tripitaka texts. Because Buddhists have been encouraged by the Master to carefully inquire after the truth, they have been free to interpret the scriptures according to their understanding. But above all, both Mahayana and Theravada are one in their acceptance of the Buddha and His teachings as the only method to attain the supreme bliss of Nirvana.
 
-The areas of agreement between the two schools are as follows: 1. Both accept Sakyamuni Buddha as the Teacher. 2. The Four Noble Truths are exactly the same in both schools. 3. The Eightfold Path is exactly the same in both schools.
+The areas of agreement between the two schools are as follows:
 
+1. Both accept Sakyamuni Buddha as the Teacher.
+2. The Four Noble Truths are exactly the same in both schools.
+3. The Eightfold Path is exactly the same in both schools.
 4. The *Pattica-Samuppada* or teaching on Dependent Origination is the same in both schools.
-
 5. Both reject the idea of a supreme being who created and governed this world.
-
 6. Both accept *karma* as taught by the Buddha.
-
 7. Both accept *Anicca, Dukkha, Anatta* and *Sila, Samadhi, Pañña* without any difference.
-
 8. Both reject the belief in an eternal soul.
-
 9. Both accept rebirth after death.
+10. Both accept Devaloka and Brahmaloka.
+11. Both accept Nirvana is the final goal or salvation.
 
-10. Both accept Devaloka and Brahmaloka. 11. Both accept Nirvana is the final goal or salvation Some people are of the view that Theravada is selfish because it teaches that people should seek their own salvation. But how can a selfish person gain Enlightenment? Both schools accept the three Yana or *Bodhi* and consider the Bodhisatva Ideal as the highest. The Mahayana has created many mystical Bodhisatvas, while the Theravada believes that a Bodhisatva is not a supernatural living being but a person amongst us who devotes his or her entire life for the attainment of perfection, and ultimately becomes a fully Enlightened Buddha for the well-being and happiness of the world.
+Some people are of the view that Theravada is selfish because it teaches that people should seek their own salvation. But how can a selfish person gain Enlightenment? Both schools accept the three Yana or *Bodhi* and consider the Bodhisatva Ideal as the highest. The Mahayana has created many mystical Bodhisatvas, while the Theravada believes that a Bodhisatva is not a supernatural living being but a person amongst us who devotes his or her entire life for the attainment of perfection, and ultimately becomes a fully Enlightened Buddha for the well-being and happiness of the world.
 
 The terms Hinayana (Small Vehicle) and Mahayana (Great Vehicle) are not known in the Theravada Pali literature. They are not found in the Pali Canon *(Tripitaka)* or in the Commentaries on the *Tripitaka.*
+
 Theravada Buddhists generally follow orthodox religious traditions that prevailed in India two thousand five hundred years ago. They perform their religious services in the Pali language. They also expect to attain the final goal *(Nirvana)* by becoming a Supreme Enlightened Buddha, a Pacceka Buddha, or an Arahant. The majority of them prefer the Arahantahood. Buddhists in Sri Lanka, Myammar, and Thailand belong to this school. Their practices are in accordance with the customs and traditions of the countries where they live. Mahayanists perform their religious services in their mother tongue. They expect to attain the final goal *(Nirvana)* by becoming Buddhas. Hence, they honour both the Buddha and Bodhisatva (one who is destined to be a Buddha) with the same respect. Buddhists in China, Japan and Korea belong to this school.
 
 Most of those in Tibet and Mongolia follow another school of Buddhism which is known as Vajrayana. According to Buddhist scholars this school inclines more towards the Mahayana sect.
@@ -722,17 +766,14 @@ It is universally accepted by scholars that the terms *Hinayana* and *Mahayana* 
 
 It must be emphasised here that although different schools of Buddhism held different opinions on the teaching of the Buddha, they never had any violence or bloodshed and have co-existed peacefully for more than two thousand years. Certainly neither party conducted a religious war or any other kind of aggression against the other throughout history. This is the uniqueness of Buddhist tolerance.
 
-![97_image_0.png](97_image_0.png)
-
-# Basic Doctrines
+### 5. Basic Doctrines
 
 ![97_Image_1.Png](97_Image_1.Png)
 
-## Tri-Pitaka (Or Tipitaka)
+#### Tri-Pitaka (Or Tipitaka)
 
-Tripitaka is the collection of the teachings of the Buddha taught over 45 years and recorded in the Pali language.
-
-It consists of Sutra—conventional teaching, Vinaya—disciplinary code, and Abhidharma—moral psychology.
+*Tripitaka is the collection of the teachings of the Buddha taught over 45 years and recorded in the Pali language.\
+It consists of Sutra—conventional teaching, Vinaya—disciplinary code, and Abhidharma—moral psychology.*
 
 THE Tripitaka was compiled and arranged in its present form by those Arahants who had immediate contact with the Master Himself.
 
