@@ -684,7 +684,7 @@ The original Teachings of the Buddha revealed with sharp accuracy the true natur
 
 The Teachings of the Buddha not only started a religion, but inspired the blossoming of a whole civilisation. These Teachings became a great civilizing force that moved through the history of many a culture and nation. Indeed, Buddhism inspired some of the greatest civilisations that the world has ever known. It has a wonderful history of achievement in the fields of literature, art, philosophy, psychology, ethics, architecture and culture. In the course of centuries, countless social educational institutions were established in the various nations that were dedicated to the Buddha's Teaching. The history of Buddhism was written in golden letters of brotherhood and goodwill. The Buddhist way of life and practices turned into a rational, scientific and practical religious way of life for spiritual development from the day the Buddha preached His Teaching and showed the real purpose and meaning of life and religion. All this is because people had the opportunity to open their minds freely.
 
-#### Impact Of Buddhism On Civilization
+##### Impact Of Buddhism On Civilization
 
 Today Buddhism remains as a great civilizing force in the modern world. As a civilizing force, Buddhism awakens the self-respect and feeling of self-responsibility of countless people and stirs up the energy of many a nation. It fosters spiritual progress by appealing to the thinking powers of human beings. It promotes in people the sense of tolerance by remaining free from religious and national narrowness and fanaticism. It tames the wild and refines the citizens to be clear and sober in mind. In short, Buddhism produces the feeling of self-reliance by teaching that the whole destiny of humanity lies in their own hands, and that they themselves possess the faculty of developing their own energy and insight in order to reach the highest goal.
 
@@ -698,7 +698,7 @@ Today, Buddhism appeals to the West because it has no dogmas, and it satisfies b
 
 The Buddha's message of peace and compassion radiated in all directions and the millions who came under its influence adopted it very readily as a new way of religious life.
 
-#### Buddhist Contribution To Humanity
+##### Buddhist Contribution To Humanity
 
 Buddhism as a religion has served the hopes and aspirations of humanity well; it has fostered within the social organism a commendable way of life and a communal spirit marked by endeavours towards peace and contentment. It has been in the forefront of human welfare.
 
@@ -800,25 +800,45 @@ The *Vinaya Pitaka* mainly deals with the disciplinary code of the Order of monk
 
 For nearly twenty-years since His Enlightenment, the Buddha did not lay down rules for the control of the Sangha. Later, as the occasion arose and the number of monks increased, the Buddha promulgated rules for the future discipline of the Sangha.
 
-This Pitaka consists of the five following books: 1. PARAJIKA PALI (Major Offences)
+This Pitaka consists of the five following books:
+
+1. PARAJIKA PALI (Major Offences)
 2. PACITTIYA PALI (Minor Offences)
 3. MAHAVAGGA PALI (Greater Section)
-4. CULLAVAGGA PALI (Smaller Section) 5. PARIVARA PALI (Epitome of the Vinaya)
+4. CULLAVAGGA PALI (Smaller Section)
+5. PARIVARA PALI (Epitome of the Vinaya)
 
-## Sutra Pitaka
+##### Sutra Pitaka
 
 The SUTRA PITAKA consists chiefly of discourses delivered by the Buddha Himself on various occasions. There are also a few discourses delivered by some of His distinguished disciples, such as the Venerables Sariputta, Ananda, Moggallana, and famous female Venerables like Khema, Uttara, Visakha, etc., included in it. It is like a book of prescriptions, as the sermons embodied therein were expounded to suit the different occasions and the temperaments of various persons. There may be seemingly contradictory statements, but they should not be misconstrued as they were opportunely uttered by the Buddha to suit a particular purpose. Therefore morals, ethics, discipline, duties, responsibilities, obligations and humane qualities can be found in the sutra pitaka.
 
 This *Pitaka* is divided into five *Nikayas* or collections, viz:
-1. DIGHA NIKAYA (Collection of Long Discourses) 2. MAJJHIMA NIKAYA (Collection of Middle-length Discourses) 3. SAMYUTTA NIKAYA (Collection of Kindred Sayings) 4. ANGUTTARA NIKAYA (Collection of Discourses arranged in accordance with number)
-5. KHUDDAKA NIKAYA (Smaller Collection) The fifth is subdivided into fifteen books: 1. KHUDDAKA PATHA (Shorter Texts) 2. DHAMMAPADA (The Way of Truth)
-3. UDANA (Heartfelt sayings or Paeans of Joy) 4. ITI VUTTAKA ('Thus said' Discourses) 5. SUTRA NIPATA (Collected Discourses)
-6. VIMANA VATTHU (Stories of Celestial Mansions)
-7. PETA VATTHU (Stories of Petas) 8. THERAGATHA (Psalms of the Brethren) 9. THERIGATHA (Psalms of the Sisters) 10. JATAKA (Birth Stories) 11. NIDDESA (Expositions) 12. PATISAMBHIDA (Analytical Knowledge)
-13. APADANA (Lives of Saints)
-14. BUDDHAVAMSA (The History of Buddha) 15. Cariya Pitaka (Modes of Conduct)
 
-## Abhidharma Pitaka
+1. DIGHA NIKAYA (Collection of Long Discourses)
+2. MAJJHIMA NIKAYA (Collection of Middle-length Discourses)
+3. SAMYUTTA NIKAYA (Collection of Kindred Sayings)
+4. ANGUTTARA NIKAYA (Collection of Discourses arranged in accordance with number)
+5. KHUDDAKA NIKAYA (Smaller Collection)
+
+The fifth is subdivided into fifteen books:
+
+1. KHUDDAKA PATHA (Shorter Texts)
+2. DHAMMAPADA (The Way of Truth)
+3. UDANA (Heartfelt sayings or Paeans of Joy)
+4. ITI VUTTAKA ('Thus said' Discourses)
+5. SUTRA NIPATA (Collected Discourses)
+6. VIMANA VATTHU (Stories of Celestial Mansions)
+7. PETA VATTHU (Stories of Petas)
+8. THERAGATHA (Psalms of the Brethren)
+9. THERIGATHA (Psalms of the Sisters)
+10. JATAKA (Birth Stories)
+11. NIDDESA (Expositions)
+12. PATISAMBHIDA (Analytical Knowledge)
+13. APADANA (Lives of Saints)
+14. BUDDHAVAMSA (The History of Buddha)
+15. Cariya Pitaka (Modes of Conduct)
+
+##### Abhidharma Pitaka
 
 The *Abhidharma* is, to a deep thinker, the most important and interesting collection, as it contains the profound philosophy and psychology of the Buddha's teaching in contrast to the illuminating but conventional discourses in the SUTRA PITAKA.
 
@@ -830,36 +850,41 @@ whilst in the ABHIDHARMA is found the *Paramattha Desana* (Ultimate Doctrine). I
 Four ultimate, supramundane subjects *(Paramattha)* are enumerated in the ABHIDHARMA. They are *Citta,* (Consciousness), *Cetasika* (Mental concomitants), *Rupa* (Matter) and *Nirvana.*
 The so-called being is microscopically analysed and its component parts are minutely described. Finally the ultimate goal and the method to achieve it is explained with all necessary details.
 
-The ABHIDHARMA PITAKA is composed of the following works: 1. DHAMMA-SANGANI (Enumeration of Phenomena) 2. VIBHANGA (The Book of the Treatises) 3. KATHA VATTHU (Point of Controversy)
+The ABHIDHARMA PITAKA is composed of the following works:
+
+1. DHAMMA-SANGANI (Enumeration of Phenomena)
+2. VIBHANGA (The Book of the Treatises)
+3. KATHA VATTHU (Point of Controversy)
 4. PUGGALA PANNATTI (Description of Individuals)
-5. DHATU KATHA (Discussion with reference to Elements) 6. YAMAKA (The Book of Pairs) 7. PATTHANA (The Book of Relations) According to another classification, mentioned by the Buddha Himself, the whole Teaching is ninefold, namely—1. *Sutra, 2. Geyya,*
-3. Yeyyakarama, 4. Gatha, 5. Udana, 6. Itivuttaka, 7. Jataka, 8. Abbhutadhamma, 9. Vedalla.
+5. DHATU KATHA (Discussion with reference to Elements)
+6. YAMAKA (The Book of Pairs)
+7. PATTHANA (The Book of Relations)
 
-1*. Sutra—*These are the short, medium, and long discourses expounded by the Buddha on various occasions, such as MANGALA SUTRA (Discourse on Blessings), RATANA SUTRA (The Jewel Discourse), METTA SUTRA (Discourse on Goodwill), etc. According to the Commentary the Vinaya is also included in this division.
+According to another classification, mentioned by the Buddha Himself, the whole Teaching is ninefold, namely—1. *Sutra, 2. Geyya, 3. Yeyyakarama, 4. Gatha, 5. Udana, 6. Itivuttaka, 7. Jataka, 8. Abbhutadhamma, 9. Vedalla.*
 
-2*. Geyya—*These are discourses mixed with *Gathas* or verses, such as the SAGATHAVAGGA of the SAMYUTTA NIKAYA.
+1. *Sutra—* These are the short, medium, and long discourses expounded by the Buddha on various occasions, such as MANGALA SUTRA (Discourse on Blessings), RATANA SUTRA (The Jewel Discourse), METTA SUTRA (Discourse on Goodwill), etc. According to the Commentary the Vinaya is also included in this division.
 
-3. VEYYAKARANA —Lit. exposition. The whole ABHIDHARMA PITAKA,
-discourses without verses, and everything that is not included in the remaining eight divisions belong to this class.
+2. *Geyya—*These are discourses mixed with *Gathas* or verses, such as the SAGATHAVAGGA of the SAMYUTTA NIKAYA.
+
+3. VEYYAKARANA —Lit. exposition. The whole ABHIDHARMA PITAKA, discourses without verses, and everything that is not included in the remaining eight divisions belong to this class.
 
 4. GATHA—These include verses found in the DHAMMAPADA (Way of Truth), THERAGATHA (Psalms of the Brethren), THERIGATHA (Psalms of the Sisters), and those isolated verses which are not classed amongst the *Sutra.*
-5. UDANA—These are the 'Paeans of Joy' found in the UDANA,
-one of the divisions of the KHUDDAKA NIKAYA.
 
-6. ITIVUTTAKA—These are the 112 discourses which commence with the phrase—'Thus the Blessed One has said'. ITIVUTTAKA
-is one of the fifteen books that comprise the KHUDDAKA NIKAYA.
+5. UDANA—These are the 'Paeans of Joy' found in the UDANA, one of the divisions of the KHUDDAKA NIKAYA.
+
+6. ITIVUTTAKA—These are the 112 discourses which commence with the phrase—'Thus the Blessed One has said'. ITIVUTTAKA is one of the fifteen books that comprise the KHUDDAKA NIKAYA.
 
 7. JATAKA—These are the 547 birth-stories related by the Buddha in connection with His previous births.
 
 8. ABBHUTA DHAMMA—These are the few discourses that deal with wonderful and marvellous things, as for example the ACCHARIYA-ABBHUTA DHAMMA SUTRA of the MAJJHIMA NIKAYA (No. 123)
-9. VEDALLA—These are the pleasurable discourses, such as CHULLA
-VEDALLA, MAHA VEDALLA (M.N. Nos *43, 44),* SAMMA DITTHI SUTRA (M.N. No. *9),* etc. In some of these discourses, the answers given to certain questions were put with a feeling of joy.
+9. 
+10. VEDALLA—These are the pleasurable discourses, such as CHULLA VEDALLA, MAHA VEDALLA (M.N. Nos *43, 44),* SAMMA DITTHI SUTRA (M.N. No. *9),* etc. In some of these discourses, the answers given to certain questions were put with a feeling of joy.
 
-# What Is Abhidharma?
+#### What Is Abhidharma?
 
-Abhidharma is the analytical doctrine of mental faculties and elements.
+*Abhidharma is the analytical doctrine of mental faculties and elements.*
 
-T HE ABHIDHARMA PITAKA contains the profound moral psychology and philosophy of the Buddha's teaching in contrast to the moral discourses in the SUTRA PITAKA.
+THE ABHIDHARMA PITAKA contains the profound moral psychology and philosophy of the Buddha's teaching in contrast to the moral discourses in the SUTRA PITAKA.
 
 The knowledge gained from the *Sutra* can certainly help us in overcoming our difficulties, as well as in developing our moral conduct and training the mind. Having such knowledge will enable one to lead a life which is peaceful, respectable, harmless and noble. By listening to the discourses, we develop understanding of the Dharma and can mould our daily lives accordingly. The concepts behind certain words and terms used in the SUTRA PITAKA are, however, subject to changes and should be interpreted within the context of the social environment prevailing at the Buddha's time. The concepts used in the *Sutra* are like the conventional words and terms lay people use to express scientific subjects. While concepts in the Sutra are to be understood in the conventional sense, those used in the *Abhidharma* must be understood in the ultimate sense. The concepts expressed in the *Abhidharma* are like the precise scientific or technical words and terms used by scientists to prevent misinterpretations.
 
@@ -872,9 +897,11 @@ The *Abhidharma* teaches that the egoistic beliefs and other concepts such as *'
 The conventional concepts do not reflect the fleeting nature of pleasures, uncertainties, impermanence of every component thing, and the conflict among the elements and energies intrinsic in all animate or inanimate things. The *Abhidharma* doctrine gives a clear exposition of the ultimate nature of human beings and brings the analysis of the human condition further than other studies known to them.
 
 The *Abhidharma* deals with realities existing in the ultimate sense, or *paramattha dhamma* in Pali. There are four such realities:
+
 1. *Citta,* mind or consciousness, defined as 'that which knows or experiences' an object. *Citta* occurs as distinct momentary states of consciousness.
 
 2. *Cetasika,* the mental factors that arise and occur along with the *citta.*
+
 3. *Rupa,* physical phenomenon or material form.
 
 4. *Nirvana,* the unconditioned state of bliss which is the final goal.
@@ -896,30 +923,27 @@ To what extent can we compare modern psychology with the analysis provided in th
 The analysis of the nature of the mind given in the *Abhidharma* is not available through any other source. Even modern psychologists are very much in the dark with regards to subjects like mental impulses or mental beats *(Javana Citta)* as discussed in the *Abhidharma.* Dr.
 
 Graham Howe, an eminent Harley Street psychologist, wrote in his book, THE INVISIBLE ANATOMY:
-In the course of their work many psychologists have found, as the pioneer work of C.G. Jung has shown, that 'we are near to [the] Buddha. To read a little Buddhism is to realise that the Buddhists knew two thousand five hundred years ago far more about our modern problems of psychology than they have yet been given credit for. They studied these problems long ago, and found the answers too. We are now rediscovering the Ancient Wisdom of the East.'
+
+>*In the course of their work many psychologists have found, as the pioneer work of C.G. Jung has shown, that 'we are near to [the] Buddha. To read a little Buddhism is to realise that the Buddhists knew two thousand five hundred years ago far more about our modern problems of psychology than they have yet been given credit for. They studied these problems long ago, and found the answers too. We are now rediscovering the Ancient Wisdom of the East.'*
+
 Some scholars assert that the *Abhidharma* is not the teaching of the Buddha, but it grew out of the commentaries on the basic teachings of the Buddha. These commentaries are said to be the work of great scholar monks. Tradition, however, attributes the nucleus of the Abhidharma to the Buddha Himself.
 
 Commentators state that the Buddha, as a mark of gratitude to His mother who was born as a deva in a celestial plane, preached the Abhidharma to her together with other devas continuously for three months. The principal topics *(matika)* of the advanced teaching, such as moral states *(kusala dharma)* and immoral states *(akusala dharma),*
 were then repeated by the Buddha to Venerable Sariputta Thera, who subsequently elaborated them and later compiled them into six books.
 
-From ancient times there were controversies as to whether the Abhidharma was really taught by the Buddha. While this discussion may be interesting for academic purposes, what is important is for us to experience and understand the realities described in the *Abhidharma.*
-One will realize for oneself that such profound and consistently verifiable truths can only emanate from a supremely enlightened source—from a Buddha. Much of what is contained in the *Abhidharma* is also found in the SUTRA PITAKA, and such sermons had never been heard until they were first uttered by the Buddha. Therefore, those who claim that the Buddha was not the source of the *Abhidharma* would have to say the same thing about the *Sutra.* Such a statement, of course, cannot be supported by evidence.
+From ancient times there were controversies as to whether the Abhidharma was really taught by the Buddha. While this discussion may be interesting for academic purposes, what is important is for us to experience and understand the realities described in the *Abhidharma.* One will realize for oneself that such profound and consistently verifiable truths can only emanate from a supremely enlightened source—from a Buddha. Much of what is contained in the *Abhidharma* is also found in the SUTRA PITAKA, and such sermons had never been heard until they were first uttered by the Buddha. Therefore, those who claim that the Buddha was not the source of the *Abhidharma* would have to say the same thing about the *Sutra.* Such a statement, of course, cannot be supported by evidence.
 
 According to the Theravada tradition, the essence, fundamentals and framework of the *Abhidharma* are ascribed to the Buddha although the tabulations and classifications may have been the work of later disciples. What is important is the essence. It is this that we would try to experience for ourselves. The Buddha Himself clearly took this stand of using the knowledge of the *Abhidharma* to clarify many existing psychological, metaphysical and philosophical problems. Mere intellectual quibbling about whether the Buddha taught the Abhidharma or not will not help us to understand reality.
 
 The question is also raised whether the *Abhidharma* is essential for Dharma practice. The answer to this will depend on the individual who undertakes the practice. People vary in their levels of understanding, their temperaments and spiritual development. Ideally, all the different spiritual faculties should be harmonized, but some people are quite contented with devotional practices based on faith, while others are keen on developing penetrative insight. The Abhidharma is most useful to those who want to understand the Dharma in greater depth and detail. It aids the development of insight into the three characteristics of existence—impermanence, unsatisfactoriness, and non-self. It is useful not only for the periods devoted to formal meditation, but also during the rest of the day when we are engaged in various mundane chores. We derive great benefit from the study of the *Abhidharma* when we experience absolute reality. In addition, a comprehensive knowledge of the *Abhidharma* is useful for those engaged in teaching and explaining the Dharma. In fact the real meaning of the most important Buddhist terminologies such as Dharma, Karma, Samsara, Sankhara, Paticca Samuppada and *Nirvana* cannot be understood without a knowledge of *Abhidharma.*
 
-## Mind And Matter **(Nama-Rupa)**
+#### Mind And Matter **(Nama-Rupa)**
 
-'What is mind? No matter. What is matter? Never mind.'
-ACCORDING to Buddhism, life is a combination of mind
+*'What is mind? No matter. What is matter? Never mind.'*
 
-![110_image_0.png](110_image_0.png)
+ACCORDING to Buddhism, life is a combination of mind (*nama*) and matter *(rupa).* Mind consists of the combination of sensations, perceptions, volitional activities and consciousness. Matter consists of the combination of the four elements of solidity, fluidity, motion and heat.
 
-(nama) and matter *(rupa).* Mind consists of the combination of sensations, perceptions, volitional activities and consciousness. Matter consists of the combination of the four elements of solidity, fluidity, motion and heat.
-
-Life is the co-existence of mind and matter. Decay is the lack of co-ordination of mind and matter. Death is the separation of mind and matter. Rebirth is the recombination of mind and matter. After the passing away of the physical body *(matter),* the mental forces (mind)
-recombine and assume a new combination in a different material form and condition another existence.
+Life is the co-existence of mind and matter. Decay is the lack of co-ordination of mind and matter. Death is the separation of mind and matter. Rebirth is the recombination of mind and matter. After the passing away of the physical body *(matter),* the mental forces *(mind)* recombine and assume a new combination in a different material form and condition another existence.
 
 The relation of mind to matter is like the relation of a battery to an engine of a motor car. The battery helps to start the engine. The engine helps to charge the battery. The combination helps to run the motor car. In the same manner, matter helps the mind to function and the mind helps to set matter in motion.
 
@@ -927,29 +951,30 @@ Buddhism teaches that life is not the property of matter alone, and that the lif
 
 Although some people hold the view that life originates in matter alone, the greatest scientists have accepted that mind precedes matter in order for life to originate. In Buddhism, this concept is called 'relinking consciousness'.
 
-Each of us, in the ultimate sense, is mind and matter, a compound of mental and material phenomena, and nothing more. Apart from these realities that go to form the *nama-rupa* compound, there is no self, or soul. The mind part of the compound is what experiences an object. The matter part does not experience anything. When the body is injured, it is not the body that feels the pain, but the mental side. When we are hungry it is not the stomach that feels the hunger but the mind. However, mind cannot eat the food to ease the hunger. The mind and its factors, make the body digest the food. Thus neither the nama nor the *rupa* has any efficient power of its own. One is dependent on the other; one supports the other. Both mind and matter arise because of conditions and perish immediately, and this is happening every moment of our lives. By studying and experiencing these realities we will get insight into: (1) what we truly are; (2) what we find around us; (3) how and why we react to what is within and around us; and (4)
-what we should aspire to reach as a spiritual goal.
+Each of us, in the ultimate sense, is mind and matter, a compound of mental and material phenomena, and nothing more. Apart from these realities that go to form the *nama-rupa* compound, there is no self, or soul. The mind part of the compound is what experiences an object. The matter part does not experience anything. When the body is injured, it is not the body that feels the pain, but the mental side. When we are hungry it is not the stomach that feels the hunger but the mind. However, mind cannot eat the food to ease the hunger. The mind and its factors, make the body digest the food. Thus neither the nama nor the *rupa* has any efficient power of its own. One is dependent on the other; one supports the other. Both mind and matter arise because of conditions and perish immediately, and this is happening every moment of our lives. By studying and experiencing these realities we will get insight into: (1) what we truly are; (2) what we find around us; (3) how and why we react to what is within and around us; and (4) what we should aspire to reach as a spiritual goal.
 
 To gain insight into the nature of the psycho-physical life is to realise that life is an illusion, a mirage or a bubble, a mere process of becoming and dissolving, or arising and passing away. Whatever exists, arises from causes and conditions. When the causes and conditions cease to be, the thing will cease to exist.
 
-## Four Noble Truths
+#### Four Noble Truths
 
-Why are we here? Why are we not happy with our lives?
-
-What is the cause of our unsatisfactoriness?
-
-How can we see the end of unsatisfactoriness and experience eternal peace?
+*Why are we here? Why are we not happy with our lives?\
+What is the cause of our unsatisfactoriness?\
+How can we see the end of unsatisfactoriness and experience eternal peace?*
 
 THE Buddha's Teaching is based on the Four Noble Truths. To realise these Truths is to realise and penetrate into the true nature of existence, including the full knowledge of oneself.
 
 When we recognise that all phenomenal things are transitory, are subject to suffering and are void of any essential reality, we will be convinced that true and enduring happiness cannot be found in material possessions and worldly achievement, that true happiness must be sought only through mental purity and the cultivation of wisdom.
 
 The Four Noble Truths are a very important aspect of the Buddha's teaching. The Buddha has said that it is because we fail to understand the Four Noble Truths that we continue to go round in the cycle of birth and death. The very first sermon of the Buddha, the DHARMACHAKRA SUTRA, which He gave to the five monks at the Deer Park in Sarnath was on the Four Noble Truths and the Eightfold Path. The Four Noble Truths are:
-The Noble Truth of *Dukkha* The Noble Truth of the Cause of *Dukkha* The Noble Truth of the End of *Dukkha* The Noble Truth of the Path leading to the End of *Dukkha* There are many ways of understanding the Pali word '*Dukkha'.* It has generally been translated as 'suffering' or 'unsatisfactoriness', but this term as used in the Four Noble Truths has a deeper and wider meaning. *Dukkha* contains not only the ordinary meaning of suffering, but also includes deeper ideas such as imperfection, pain, impermanence, disharmony, discomfort, irritation, or awareness of incompleteness and insufficiency. By all means, *Dukkha* includes physical and mental suffering: birth, decay, disease, death, to be united with the unpleasant, to be separated from the pleasant, not to get what one desires. However, many people do not realise that even during the moments of joy and happiness, there is *Dukkha* because these moments are all impermanent states and will pass away when conditions change. Therefore, the truth of *Dukkha* encompasses the whole of existence, in our happiness and sorrow, in every aspect of our lives. As long as we live, we are very profoundly subjected to this truth.
 
-Some people may have the impression that viewing life in terms of *Dukkha* is a rather pessimistic or negative way of looking at life.
+* The Noble Truth of *Dukkha*
+* The Noble Truth of the Cause of *Dukkha*
+* The Noble Truth of the End of *Dukkha*
+* The Noble Truth of the Path leading to the End of *Dukkha*
 
-This is not a pessimistic but a realistic way. If one is suffering from a disease and refuses to recognise the fact that one is ill, and as a result, refuses to seek treatment, we will not consider such a mental attitude as being optimistic, but merely as being foolish. Therefore, by being either optimistic or pessimistic, one does not really understand the nature of life, and is therefore unable to tackle life's problems in the right perspective. The Four Noble Truths begin with the recognition of the prevalence of *Dukkha* and then proceed to analyse its cause and find its cure. Had the Buddha stopped at the Truth of *Dukkha,* then one may say Buddhism has identified the problem but has not given the cure; if such is the case, then the human situation is hopeless.
+There are many ways of understanding the Pali word '*Dukkha'.* It has generally been translated as 'suffering' or 'unsatisfactoriness', but this term as used in the Four Noble Truths has a deeper and wider meaning. *Dukkha* contains not only the ordinary meaning of suffering, but also includes deeper ideas such as imperfection, pain, impermanence, disharmony, discomfort, irritation, or awareness of incompleteness and insufficiency. By all means, *Dukkha* includes physical and mental suffering: birth, decay, disease, death, to be united with the unpleasant, to be separated from the pleasant, not to get what one desires. However, many people do not realise that even during the moments of joy and happiness, there is *Dukkha* because these moments are all impermanent states and will pass away when conditions change. Therefore, the truth of *Dukkha* encompasses the whole of existence, in our happiness and sorrow, in every aspect of our lives. As long as we live, we are very profoundly subjected to this truth.
+
+Some people may have the impression that viewing life in terms of *Dukkha* is a rather pessimistic or negative way of looking at life. This is not a pessimistic but a realistic way. If one is suffering from a disease and refuses to recognise the fact that one is ill, and as a result, refuses to seek treatment, we will not consider such a mental attitude as being optimistic, but merely as being foolish. Therefore, by being either optimistic or pessimistic, one does not really understand the nature of life, and is therefore unable to tackle life's problems in the right perspective. The Four Noble Truths begin with the recognition of the prevalence of *Dukkha* and then proceed to analyse its cause and find its cure. Had the Buddha stopped at the Truth of *Dukkha,* then one may say Buddhism has identified the problem but has not given the cure; if such is the case, then the human situation is hopeless.
 
 However, not only is the Truth of *Dukkha* recognised, the Buddha proceeded to analyse its cause and the way to cure it. How can Buddhism be considered to be pessimistic if the cure to the problem is known? In fact, it is a teaching which is filled with hope.
 
@@ -957,7 +982,7 @@ In addition, even though *Dukkha* is a noble truth, it does not mean that there 
 
 If we wish to cure ourselves of suffering, we must first identify its cause. According to the Buddha, craving or desire (tanha or *raga)* is the cause of suffering. This is the Second Noble Truth. People crave for pleasant experiences, crave for material things, crave for eternal life, and when disappointed, crave for eternal death. They are not only attached to sensual pleasures, wealth and power, but also to ideas, views, opinions, concepts, beliefs. And craving is linked to ignorance, that is, not seeing things as they really are, or failing to understand the reality of experience and life. Under the delusion of Self and not realising that personality is *Anatta* (non-Self), a person clings to things which are impermanent, changeable, perishable. The failure to satisfy one's desires through these things causes disappointments and suffering.
 
-## The Danger Of Selfish Desire
+##### The Danger Of Selfish Desire
 
 Craving is a fire which burns in all beings: every activity is motivated by desire. They range from the simple physical desire of animals to the complex and often artificially stimulated desires of civilised people. To satisfy desire, animals prey upon one another, and human beings fight, kill, cheat, lie and perform various forms of unwholesome deeds. Craving is a powerful mental force present in all forms of life, and is the chief cause of the ills in life. It is this craving that leads to repeated births in the cycle of existence.
 
@@ -967,56 +992,52 @@ Nirvana is beyond logic and reasoning. We may engage in highly speculative discu
 
 The Noble Eightfold Path is the Fourth Noble Truth which leads to *Nirvana.* It is a way of life consisting of eight factors. By walking on this Path, it will be possible for us to see an end to suffering. Because Buddhism is a logical and consistent teaching embracing every aspect of life, this noble Path also serves as the finest possible code for leading a happy life. Its practice brings benefits to oneself and others, and it is not a Path to be practised by those who call themselves Buddhists alone, but by each and every understanding person, irrespective of his or her religious beliefs.
 
-## The Noble Eightfold Path - The Middle Way
+#### The Noble Eightfold Path - The Middle Way
 
-This is the Path for leading a pure religious life without going to extremes AN outstanding aspect of the Buddha's Teaching is the Eightfold Path, which is to be adopted as a noble way of life. Another name for the Eightfold Path is the Middle Path. The Buddha advised His followers to follow this Path so as to avoid the extremes of sensual pleasures and self-mortification. The Middle Path is a righteous way of life that does not advocate the acceptance of decrees given by someone outside oneself. A person practises the Middle Path, the guide for moral conduct, not out of fear of any supernatural agency, but out of recognising the intrinsic value in following such an action. He or she chooses this self-imposed discipline with a definite end in view: self-purification.
+*This is the Path for leading a pure religious life without going to extremes*
 
-The Middle Path is a planned course of inward culture and progress.
+AN outstanding aspect of the Buddha's Teaching is the Eightfold Path, which is to be adopted as a noble way of life. Another name for the Eightfold Path is the Middle Path. The Buddha advised His followers to follow this Path so as to avoid the extremes of sensual pleasures and self-mortification. The Middle Path is a righteous way of life that does not advocate the acceptance of decrees given by someone outside oneself. A person practises the Middle Path, the guide for moral conduct, not out of fear of any supernatural agency, but out of recognising the intrinsic value in following such an action. He or she chooses this self-imposed discipline with a definite end in view: self-purification.
 
-A person can make real progress in righteousness and insight by following this Path even without engaging in external worship and prayers. According to the Buddha, anyone who lives in accordance with the Dharma will be guided and protected by that very universal Law. When a person lives according to Dharma, he or she will also be living in harmony with the universal law.
+The Middle Path is a planned course of inward culture and progress. A person can make real progress in righteousness and insight by following this Path even without engaging in external worship and prayers. According to the Buddha, anyone who lives in accordance with the Dharma will be guided and protected by that very universal Law. When a person lives according to Dharma, he or she will also be living in harmony with the universal law.
 
 Every Buddhist is encouraged to mould his or her life according to the Noble Eightfold Path as taught by the Buddha. One who adjusts one's life according to this noble way of living will be free from miseries and calamities both in this life-time and hereafter. One will also be able to develop the mind by restraining from evil and observing morality.
 
 The Eightfold Path can be compared to a road map. Just as a traveller will need a map to reach a destination, we all need the Eightfold Path which shows us how to attain Nirvana, the final goal of human life. To attain the final goal, there are three aspects of the Eightfold Path to be developed by the devotee. One has to develop Sila (Morality), *Samadhi* (Mental Culture) and *Pañña* (Wisdom). While the three must be developed simultaneously, the intensity with which any one area is to be practised varies according to a person's own spiritual development. A devotee must first develop morality, that is, his or her actions should bring good to other living beings. One does this by faithfully adhering to the precepts of abstaining from killing, slandering, stealing, becoming intoxicated or being lustful. As one develops one's morality, the mind will become more easily controlled, enabling one to develop one's powers of concentration. Finally, with the development of concentration, wisdom will arise.
 
-## Gradual Development
+##### Gradual Development
 
 With His infinite wisdom, the Buddha knew that not all humans have the same ability to reach spiritual maturity at once. So He expounded the Noble Eightfold Path for the gradual development of the spiritual way of life in a practical way. He knew that not all people can become perfect in one lifetime. He said that *Sila, Samadhi,* and Pañña, must and can be developed over many lifetimes with diligent effort. This Path finally leads to the attainment of ultimate peace where there is no more unsatisfactoriness.
 
-## Righteous Life
+##### Righteous Life
 
 The Eightfold Path consists of the following eight factors:
+|           |                                                          |                |
+| --------- | -------------------------------------------------------- | -------------- |
+| *Sila*    | Right Speech<br>Right Action<br>Right Livelihood         | Morality       |
+| *Samadhi* | Right Effort<br>Right Mindfulness<br>Right Concentration | Mental culture |
+| Pañña     | Right Understanding<br>Right Thoughts                    | Wisdom         |
 
-| Right Speech                  |                     |                |
-|-------------------------------|---------------------|----------------|
-| Sila                          | Right Action        | Morality       |
-| Right Livelihood Right Effort |                     |                |
-| Samadhi                       | Right Mindfulness   | Mental culture |
-| Right Concentration           |                     |                |
-| Pañña                         | Right Understanding | Wisdom         |
-| Right Thoughts                |                     |                |
+What is *Right Understanding?* It is explained as having the knowledge of the Four Noble Truths. In other words, it is the understanding of things as they really are. Right Understanding also means that one understands the nature of what are wholesome *karma* (merits) and unwholesome *karma* (demerits)[^4] , and how they may be performed with the body, speech and mind. By understanding *karma,* a person will learn to avoid evil and do good, thereby creating favourable outcomes in life. When a person has Right Understanding, he or she also understands the Three Characteristics of Life (that all compounded things are transient, subject to suffering, and without a Self) and understands the Law of Dependent Origination. A person with complete Right Understanding is one who is free from ignorance, and by the nature of that enlightenment removes the roots of evil from the mind and becomes liberated. The lofty aim of a practising Buddhist is to develop the mind to gain Right Understanding about the self, life and all phenomena.
 
-What is *Right Understanding?* It is explained as having the knowledge of the Four Noble Truths. In other words, it is the understanding of things as they really are. Right Understanding also means that one understands the nature of what are wholesome *karma* (merits) and unwholesome *karma* (demerits)* , and how they may be performed with the body, speech and mind. By understanding *karma,*
-a person will learn to avoid evil and do good, thereby creating favourable outcomes in life. When a person has Right Understanding, he or she also understands the Three Characteristics of Life (that all compounded things are transient, subject to suffering, and without a Self) and understands the Law of Dependent Origination. A person with complete Right Understanding is one who is free from ignorance, and by the nature of that enlightenment removes the roots of evil from the mind and becomes liberated. The lofty aim of a practising Buddhist is to develop the mind to gain Right Understanding about the self, life and all phenomena.
+[^4]: Merits and demerits are elaborated upon in Chapter 8.
 
-When a person has Right Understanding, he or she develops *Right* Thought as well. This factor is sometimes known as 'Right Resolution',
-'Right Aspirations' and 'Right Ideas'. It refers to the mental state which eliminates wrong ideas or notions and promotes the other moral factors to be directed to Nirvana. This factor serves a double purpose of eliminating evil thoughts and developing pure thoughts. Right Thought is important because it is one's thoughts which either purify or defile the mind.
+When a person has Right Understanding, he or she develops *Right* Thought as well. This factor is sometimes known as 'Right Resolution', 'Right Aspirations' and 'Right Ideas'. It refers to the mental state which eliminates wrong ideas or notions and promotes the other moral factors to be directed to Nirvana. This factor serves a double purpose of eliminating evil thoughts and developing pure thoughts. Right Thought is important because it is one's thoughts which either purify or defile the mind.
 
 There are three aspects to Right Thought. First, a person should maintain an attitude of detachment from worldly pleasures rather than being selfishly attached to them. One should be selfless and think of the welfare of others. Second, the person should maintain loving-kindness, goodwill and benevolence in the mind, which is opposed to hatred, ill-will or aversion. Third, one should act with thoughts of harmlessness or compassion to all beings, which is opposed to cruelty and lack of consideration for others. As a person progresses along the spiritual path, one's thoughts will become increasingly benevolent, harmless, selfless, and filled with love and compassion.
 
 Right Understanding and Right Thought, which are Wisdom factors, will lead to good, moral conduct. There are three factors under moral conduct: Right Speech, Right Action and Right Livelihood.
 
-Right Speech involves respect for truth and respect for the welfare for others. It means to avoid lying, to avoid back biting or slander, to avoid harsh speech, and to avoid idle talk. We have often underestimated the power of speech and tend to use little control over our speech faculty. But we have all been hurt by someone's words at some time of our lives, and similarly we have been encouraged by the words of another. It is said that a harsh word can wound more deeply than weapons, whereas a gentle word can change the heart and mind of the most hardened criminal. So to develop a harmonious society, we should control, cultivate and use our speech positively. We speak words which are truthful, bring harmony, and are kind and meaningful. The Buddha once said 'pleasant speech is sweet as honey, truthful speech is beautiful like a flower, and wrong speech is unwholesome like filth'.
+*Right Speech* involves respect for truth and respect for the welfare for others. It means to avoid lying, to avoid back biting or slander, to avoid harsh speech, and to avoid idle talk. We have often underestimated the power of speech and tend to use little control over our speech faculty. But we have all been hurt by someone's words at some time of our lives, and similarly we have been encouraged by the words of another. It is said that a harsh word can wound more deeply than weapons, whereas a gentle word can change the heart and mind of the most hardened criminal. So to develop a harmonious society, we should control, cultivate and use our speech positively. We speak words which are truthful, bring harmony, and are kind and meaningful. The Buddha once said 'pleasant speech is sweet as honey, truthful speech is beautiful like a flower, and wrong speech is unwholesome like filth'.
 
 The next factor under good, moral conduct is *Right Action.* Right Action entails respect for life, respect for property, and respect for personal relationships. It corresponds to the first three of the Five Precepts to be practised by every Buddhist, that is, abstinence from killing, stealing, and sexual misconduct. Life is dear to all, and all tremble at punishment, all fear death and value life. Hence, we should abstain from taking a life which we ourselves cannot give and we should not harm other sentient beings. Respect for property means that we should not take what is not given, by stealing, cheating, or force. Respect for personal relationships means that we should not commit adultery and should avoid sexual misconduct, which is important for maintaining self respect and the trust of those we love as well as making our society a better place to live in.
 
-Right Livelihood is a factor under moral conduct which refers to how we earn our living in society. It is an extension of the two other factors of Right Speech and Right Action. Right Livelihood means that we should earn a living without violating these principles of moral conduct. Buddhists are discouraged from being engaged in the following five kinds of livelihood: trading in other living beings for slaughtering, trading in weapons, trading in flesh by causing the slaughter of animals, trading in intoxicating drinks and drugs, and trading in poison. Some people may say that they have to follow such an occupation for their living and, therefore, it is not wrong for them to do so. But this argument is entirely baseless. If it were valid, then thieves, murderers, gangsters, thugs, smugglers and swindlers can also just as easily say that they are also doing such unrighteous acts only for their living and, therefore, there is nothing wrong with their way of life.
+*Right Livelihood* is a factor under moral conduct which refers to how we earn our living in society. It is an extension of the two other factors of Right Speech and Right Action. Right Livelihood means that we should earn a living without violating these principles of moral conduct. Buddhists are discouraged from being engaged in the following five kinds of livelihood: trading in other living beings for slaughtering, trading in weapons, trading in flesh by causing the slaughter of animals, trading in intoxicating drinks and drugs, and trading in poison. Some people may say that they have to follow such an occupation for their living and, therefore, it is not wrong for them to do so. But this argument is entirely baseless. If it were valid, then thieves, murderers, gangsters, thugs, smugglers and swindlers can also just as easily say that they are also doing such unrighteous acts only for their living and, therefore, there is nothing wrong with their way of life.
 
 Some people believe that fishing and hunting animals for pleasure and slaughtering animals for food are not against the Buddhist precepts. This is another misconception that arises owing to a lack of knowledge in Dharma. All these are not decent actions and bring suffering to other beings. But in all these actions, the one who is harmed most of all is the one who commits these unwholesome actions. Maintaining a life through wrong means is not in accordance with the Buddha's teaching. The Buddha once said, 'Though one should live a hundred years immorally and unrestrained, yet it would indeed be better to live one day virtuously and meditatively' (DHAMMAPADA 103). It is better to die as a cultured and respected person than to live as a wicked person.
 
 The remaining three factors of the Noble Eightfold Path are factors for the development of wisdom through the purification of the mind. They are Right Effort, Right Mindfulness, and Right Concentration. These factors, when practised, enable a person to strengthen and gain control over the mind, thereby ensuring that his or her actions will continue to be good and that the mind is being prepared to realise the Truth, which will open the door to Freedom, to Enlightenment.
 
-Right Effort means that we cultivate a positive attitude and have enthusiasm in the things we do, whether in our career, in our study, or in our practice of the Dharma. With such a sustained enthusiasm and cheerful determination, we can succeed in the things we do. There are four aspects of Right Effort, two of which refer to evil and the other two to good. First, is the effort to reject evil that has already arisen; and second, the effort to prevent the arising of evil. Third, is the effort to develop good which has not arisen, and fourth, the effort to maintain the good which has arisen. By applying Right Effort in our lives, we can reduce and eventually eliminate the number of unwholesome mental states and increase and firmly establish wholesome thoughts as a natural part of our mind.
+*Right Effort* means that we cultivate a positive attitude and have enthusiasm in the things we do, whether in our career, in our study, or in our practice of the Dharma. With such a sustained enthusiasm and cheerful determination, we can succeed in the things we do. There are four aspects of Right Effort, two of which refer to evil and the other two to good. First, is the effort to reject evil that has already arisen; and second, the effort to prevent the arising of evil. Third, is the effort to develop good which has not arisen, and fourth, the effort to maintain the good which has arisen. By applying Right Effort in our lives, we can reduce and eventually eliminate the number of unwholesome mental states and increase and firmly establish wholesome thoughts as a natural part of our mind.
 
 Right Effort is closely associated with *Right Mindfulness.* The practice of mindfulness is important in Buddhism. The Buddha said that mindfulness is the one way to achieve the end of suffering. Mindfulness can be developed by being constantly aware of four particular aspects. These are the application of mindfulness with regard to the body (body postures, breathing and so forth), feelings (whether pleasant, unpleasant or neutral); mind (whether the mind is greedy or not, angry, dispersed or deluded or not); and mind objects (whether there are mental hindrances to concentration, the Four Noble Truths, and so on). Mindfulness is essential even in our daily life during which we act in full awareness of our actions, feelings and thoughts, as well as of our environment. The mind should always be clear and attentive rather than distracted and clouded.
 
@@ -1024,20 +1045,21 @@ Whereas Right Mindfulness is directing our attention to our body, feelings, mind
 
 The Noble Eightfold Path is the most important truth taught by the Buddha. As a competent spiritual physician, the Buddha has identified the disease that afflicts all forms of life, and this is *Dukkha* or unsatisfactoriness. He then diagnosed the cause of the unsatisfactoriness which is selfish greed and craving. He discovered that there is a cure for the disease, *Nirvana,* the state where all unsatisfactoriness ceases. And the prescription is the Noble Eightfold Path. When a competent doctor treats a patient for a serious illness, the prescription is not only for physical treatment, but it is also psychological. The Noble Eightfold Path, the path leading to the end of suffering, is an integrated therapy designed to cure the disease of *Samsara* through the cultivation of moral speech and action, the development of the mind, and the complete transformation of one's level of understanding and quality of thought. It shows the way to gain spiritual maturity and be released completely from suffering.
 
-'For the good to do what is good is easy, For the bad to do what is bad is easy, For the bad to do what is good is difficult, For the Noble to do what is bad is difficult.'
-(UDANA)
+>*'For the good to do what is good is easy,*\
+>*For the bad to do what is bad is easy,*\
+>*For the bad to do what is good is difficult,*\
+>*For the Noble to do what is bad is difficult.'*\
+>(UDANA)
 
-## Everything Is Changeable
+#### Everything Is Changeable
 
-What exists is changeable and what is not changeable does not exist.
+*What exists is changeable and what is not changeable does not exist.*
 
 WE notice how life changes and how it continually moves between extremes and contrasts. We notice rise and fall, success and failure, loss and gain; we experience honour and contempt, praise and blame; and we feel how our hearts respond to happiness and sorrow, delight and despair, disappointment and satisfaction, fear and hope. These mighty waves of emotion carry us up, fling us down, and no sooner do we find some rest, than we are carried by the power of a new wave again. How can we expect a footing on the crest of the waves? Where shall we erect the building of our life in the midst of this ever-restless ocean of existence?
 
 This is a world where any little joy that is allotted to beings is secured only after many disappointments, failures and defeats. This is a world where scanty joy grows amidst sickness, desperation and death. This is a world where beings who a short while ago were connected with us by sympathetic joy are at the next moment in want of our compassion. Such a world as this needs equanimity. It is the nature of the world that we live with our intimate friends who the next day can become our enemies to harm us.
 
-The Buddha described the world as an unending flux of becoming.
-
-All is changeable, continuous transformation, ceaseless mutation, and a moving stream. Everything exists from moment to moment. Everything is a recurring rotation of coming into being and then passing out of existence. Everything is moving from birth to death. Life is a continuous movement of change towards death. The matter or material forms in which life does or does not express itself, are also a continuous movement or change towards decay. This teaching of the impermanent nature of everything is one of the main pivots of Buddhism. Nothing on earth partakes of the character of absolute reality. That there will be no death of what is born is impossible. Whatever is subject to origination is subject also to destruction. Change is the very constituent of reality.
+The Buddha described the world as an unending flux of becoming. All is changeable, continuous transformation, ceaseless mutation, and a moving stream. Everything exists from moment to moment. Everything is a recurring rotation of coming into being and then passing out of existence. Everything is moving from birth to death. Life is a continuous movement of change towards death. The matter or material forms in which life does or does not express itself, are also a continuous movement or change towards decay. This teaching of the impermanent nature of everything is one of the main pivots of Buddhism. Nothing on earth partakes of the character of absolute reality. That there will be no death of what is born is impossible. Whatever is subject to origination is subject also to destruction. Change is the very constituent of reality.
 
 The Buddha reminded us that all existing component things are impermanent. With birth, there is death; with arising, there is dissolving; with coming together, there is separation. How can there be birth without death? How can there be arising without dissolving? How can there be coming together without separation?
 
@@ -1048,41 +1070,45 @@ Today, scientists have accepted the law of change that was discovered by the Bud
 'The world is a passing phenomenon. We all belong to the world of time. Every written word, every carved stone, every painted picture, the structure of civilisation, every generation of human beings, will vanish away like the leaves and flowers of forgotten summers. What exists is changeable and what is not changeable does not exist.'
 Thus all gods and human beings and animals and material formseverything in this universe—is subject to the law of impermanency. Buddhism teaches us that the mind seeks a permanent existence but life creates an impermanent physical body. We take this as life, and then unsatisfactoriness disturbs the mind. This is the source of suffering.
 
-'The body like a lump of foam: The feelings like a water bubble; Perception like a mirage; Volitional activities like a banana tree; And Consciousness like jaggery* .'
- (SAMYUTTA NIKAYA)
+>*'The body like a lump of foam:*\
+>*The feelings like a water bubble;*\
+>*Perception like a mirage;*\
+>*Volitional activities like a banana tree;*\
+>*And Consciousness like jaggery.'*[^5]\
+>(SAMYUTTA NIKAYA)
 
-## What Is Karma?
+[^5]: jaggery: treacle
 
-Karma is an impersonal, natural law that operates in accordance with our actions. It is a law in itself and does not have any law-giver.
+#### What Is Karma?
 
-Karma operates in its own field without the intervention of an external, independent, ruling agent.
+*Karma is an impersonal, natural law that operates in accordance with our actions. It is a law in itself and does not have any law-giver.\
+Karma operates in its own field without the intervention of an external, independent, ruling agent.*
 
-KARMA can be put in the simple language of the child: do
+KARMA can be put in the simple language of the child: do good and good will come to you, now, and hereafter. Do bad and bad will come to you, now, or hereafter.
 
-![128_image_0.png](128_image_0.png)
-
-good and good will come to you, now, and hereafter. Do bad and bad will come to you, now, or hereafter.
-
-In the language of the harvest, *karma* can be explained in this way:
-if you sow good seeds, you will reap a good harvest. If you sow bad seeds, you will reap a bad harvest.
+In the language of the harvest, *karma* can be explained in this way: if you sow good seeds, you will reap a good harvest. If you sow bad seeds, you will reap a bad harvest.
 
 In the language of science, *karma* is called the law of cause and effect: every cause has an effect. Another name for this is the law of moral causation. Moral causation works in the moral realm just as the physical law of action and reaction works in the physical realm.
 
-In the DHAMMAPADA*, karma* is explained in this manner: the mind is the chief *(forerunner)* of all good and bad states. If you speak or act with a bad mind, then unhappiness follows you just as the wheel follows the hoof of the ox. If you speak or act with a good mind, then happiness follows you like the shadow that never leaves you.
+In the DHAMMAPADA, *karma* is explained in this manner: the mind is the chief *(forerunner)* of all good and bad states. If you speak or act with a bad mind, then unhappiness follows you just as the wheel follows the hoof of the ox. If you speak or act with a good mind, then happiness follows you like the shadow that never leaves you.
 
-Karma is simply action. Within animate organisms there is a power or force which is given different names such as instinctive tendencies, consciousness, etc. This innate propensity forces every conscious being to move. A person moves mentally or physically. His motion is action. The repetition of actions is habit and habit becomes one's character.
+Karma is simply action. Within animate organisms there is a power or force which is given different names such as instinctive tendencies, consciousness, etc. This innate propensity forces every conscious being to move. A person moves mentally or physically. His motion is action. The repetition of actions is habit and habit becomes one's character. In Buddhism, this process is called *karma.*
 
-In Buddhism, this process is called *karma.*
 In its ultimate sense, *karma* means both good and bad, mental action or volition. '*Karma* is volition,' says the Buddha. Thus *karma* is not an entity but a process, action, energy and force. Some interpret this force as 'action-influence'. It is our own doings reacting on ourselves. The pain and happiness a person experiences are the results of his or her own deeds, words and thoughts reacting on themselves. Our deeds, words and thoughts produce our prosperity and failure, our happiness and misery.
 
 Karma is an impersonal, natural law that operates strictly in accordance with our actions. It is a law in itself and does not have any lawgiver. *Karma* operates in its own field without the intervention of an external, independent ruling agency. Since there is no hidden agent directing or administering rewards and punishments, Buddhists do not rely on prayer to some supernatural forces to influence karmic results. According to the Buddha, *karma* is neither predestination nor determinism imposed on us by some mysterious, unknown powers or forces to which we must helplessly submit ourselves.
 
 Buddhists believe that one will reap what one has sown; we are the result of what we were, and we will be the result of what we are. In other words, we are not absolutely what we were, and we will not continue to remain as what we are. This simply means that *karma* is not complete determinism. The Buddha pointed out that if everything is fixed and determined, then there would be no free will and no moral or spiritual life. We would merely be the slaves of our past. On the other hand, if everything is undetermined, then there can be no cultivation of moral and spiritual growth. The Buddha again declared the truth of the Middle Path: that karma is to be understood as neither strict determinism nor absolute indeterminism but as an interaction of both.
 
-## Misconceptions Regarding Karma
+##### Misconceptions Regarding Karma
 
 The misinterpretations or irrational views on *karma* are stated in the ANGUTTARA NIKAYA which suggests that the wise will investigate and abandon the following views:
-1. the belief that everything is a result of acts in previous lives; 2. the belief that everything is the result of what is willed by a Supreme Creator; and 3. the belief that everything arises without reason or cause. If a person becomes a murderer, a thief, or an adulterer, and, if his or her actions are due to past actions, or are caused by the whim of a Supreme Being, or if it happened by mere chance, then this person could not be held responsible for his or her evil action as everything was predetermined.
+
+1. the belief that everything is a result of acts in previous lives;
+2. the belief that everything is the result of what is willed by a Supreme Creator; and
+3. the belief that everything arises without reason or cause.
+
+If a person becomes a murderer, a thief, or an adulterer, and, if his or her actions are due to past actions, or are caused by the whim of a Supreme Being, or if it happened by mere chance, then this person could not be held responsible for his or her evil action as everything was predetermined.
 
 Yet another misconception about *karma* is that it operates only for certain people according to their faiths. But the destiny of a person in the next life does not in the least depend on what particular religion he or she chooses. Whatever one's religion may be, one's fate depends entirely on deeds committed by body, speech and thought. It does not matter what religious label one holds, one is bound to be in a happy world in the next life so long as one does good deeds and leads an unblemished life. One is bound to be born to lead a wretched life if one commits evil and harbours wicked thoughts in the mind. Therefore, Buddhists do not proclaim that they are the only blessed people who can go to heaven after their death. Whatever religion is professed or without any religious label, karmic thoughts alone determine a person's destiny both in this life and in the next. The teaching of karma does not indicate a post-mortem justice. The Buddha did not teach this law of *karma* to protect the rich and to comfort the poor by promising illusory happiness in an after life.
 
@@ -1094,7 +1120,7 @@ The working of *karma* can also be compared to a bank account: a person who is v
 
 The Buddha says, 'There is no place to hide in order to escape from karmic results' (DHAMMAPADA 127).
 
-## Our Own Experience
+##### Our Own Experience
 
 To understand the law of *karma* is to realise that we ourselves are responsible for our own happiness and our own misery. We are the architects of our *karma.* Buddhism explains that we have every opportunity to mould our own *karma* and thereby influence the direction of our lives. On the other hand, we are not complete prisoners of our own actions; we are not slaves to our *karma.* Nor are we mere machines that automatically release instinctive forces that enslave us. Nor are we mere products of nature. We have within ourselves the strength and the ability to change our *karma*. Our minds are mightier than our *karma* and so the law of *karma* can be made to serve us. We do not have to give up our hope and effort in order to surrender ourselves to our own karmic force. To off-set the reaction of our bad karma that we have accumulated previously, we have to do more meritorious deeds; and purify our minds rather than simply rely on worshipping, performing rites or torturing our physical bodies in order to overcome our karmic effects. Therefore, a person can overcome the effect of his or her evil deeds if he or she acts wisely by leading a noble life.
 
@@ -1106,20 +1132,23 @@ The radical transformations in the characters of Angulimala and Asoka illustrate
 
 Angulimala was a highway robber who murdered more than a thousand of his fellow men. Can we judge him by his external actions? For within his lifetime through sheer self -effort, he became an Arahanta and thus redeemed his past misdeeds.
 
-Asoka, the Emperor of India, killed thousands and thousands to fight his wars and to expand his empire. Yet after winning the battle, he completely reformed himself and changed his career to such an extent that today, 'Amidst the tens of thousands of names of monarchs that crowd the columns of history, their majesties and royal highnesses and the like, the name of Asoka shines and shines almost alone, as a star,' says the historian, H.G. Wells.
+Asoka, the Emperor of India, killed thousands and thousands to fight his wars and to expand his empire. Yet after winning the battle, he completely reformed himself and changed his career to such an extent that today, *'Amidst the tens of thousands of names of monarchs that crowd the columns of history, their majesties and royal highnesses and the like, the name of Asoka shines and shines almost alone, as a star,'* says the historian, H.G. Wells.
 
-## Other Factors Which Support Karma
+##### Other Factors Which Support Karma
 
 Although Buddhism says that a person can eventually control his or her karmic force, it does not state that everything is due to *karma.*
 Buddhism does not ignore the role played by other forces of nature.
 
 According to Buddhism there are five orders or processes of natural laws *(niyama)* which operate in the physical and mental worlds:
+
 1. *utu niyama* (seasonal laws) relating to the physical inorganic order e.g., seasonal phenomena of winds and rains, etc.,
-2. *bija niyama* (biological laws) relating to the order of germs and seeds, 3. karma niyama (karmic law) relating to moral causation or the order of act and result, 4. *dharma niyama* (natural phenomena)relating to electrical forces, movement of tides etc., and 5. *citta niyama* (psychological laws) which govern the processes of consciousness.
+2. *bija niyama* (biological laws) relating to the order of germs and seeds,
+3. karma niyama (karmic law) relating to moral causation or the order of act and result,
+4. *dharma niyama* (natural phenomena)relating to electrical forces, movement of tides etc., and 5. *citta niyama* (psychological laws) which govern the processes of consciousness.
 
 Thus *karma* is considered only as one of the five natural laws that account for the diversity in this world.
 
-## Can Karma Be Changed?
+##### Can Karma Be Changed?
 
 Karma is often influenced by circumstances: beneficent and malevolent forces act to counter and to support this self-operating law. The other forces that either aid or hinder this *karma* are birth, time or conditions, appearances, and effort.
 
@@ -1137,7 +1166,7 @@ Thus the working of *karma* is aided or obstructed by birth, beauty and ugliness
 
 The time factor is another important aspect of the karmic energy for people to experience the good and bad effects of previous actions. People experience certain karmic effects only within this lifetime while certain karmic effects become effective immediately hereafter in the next birth. And certain other karmic effects follow the doers as long as they remain in this wheel of existence until they stop their rebirth after attaining *Nirvana.* The main reason for this difference is owing to mental impulsion *(Javana Citta)* at the time when a thought arises in the mind to do good or bad.
 
-## Impartial Energy
+##### Impartial Energy
 
 Those who do not believe that there is an energy known as *karma* should understand that this karmic energy is not a byproduct of any particular religion although Hinduism, Buddhism and Jainism recognize and explain the nature of this energy. This is an existing universal law which has no religious label. All those who violate this law, have to face the consequences irrespective of their religious beliefs, and those who live in accordance with this law experience peace and happiness in their life. Therefore, this karmic law is unbiased towards each and every person, whether they believe it or not; whether they have a religion or not. It is like any other existing universal law. *Karma* is not the exclusive property of Buddhism.
 
@@ -1148,15 +1177,21 @@ Conventionally we say that the origin of *karma* is volition but this is as much
 Like the waves of the ocean that flow into one another, one unit of consciousness flows into another and this merging of one thought consciousness into another is called the working of *karma.* In short, every living being, according to Buddhism, is an electric current of life that operates on the automatic switch of *karma.*
 Karma being a form of energy is not found anywhere in this fleeting consciousness or body. Just as mangoes are not stored anywhere in the mango tree but, dependent on certain conditions, they spring into being, so does *karma. Karma* is like wind or fire. It is not stored up anywhere in the Universe but comes into being under certain conditions.
 
-## Classification Of Karma
+##### Classification Of Karma
 
 Karma is classified in four ways according to:
-1. the time in which effects are worked out; 2. function—*Kicca*;
-3. the priority of effect; and 4. the place in which the karmic effects transpire. There are moral and immoral actions which may produce their due effects in this very life. They are called "Immediately Effective— Dittha Dharma Vediniya Karma". If they do not operate in this life, they become "ineffective—*Ahosi"*.
+
+1. the time in which effects are worked out;
+2. function—*Kicca*;
+3. the priority of effect; and
+4. the place in which the karmic effects transpire.
+
+There are moral and immoral actions which may produce their due effects in this very life. They are called "Immediately Effective— Dittha Dharma Vediniya Karma". If they do not operate in this life, they become "ineffective—*Ahosi"*.
 
 There are some actions which may produce their effects in a subsequent life. They are termed "Subsequently Effective—*Upapajja* Vedaniya Karma". They too become ineffective if they do not operate in the second birth.
 
 Those actions which may produce their effects in any life in the course of one's wondering in Samsara, are known as "Indefinitely Effective—*Aparapariya Vedaniya Karma*."
+
 This classification of *karma* is with reference to the time in which effects are worked out.
 
 There are four classes of *karma* according to Function—*Kicca.* Every birth is conditioned by past good and bad *karma* that predominates at the moment of death. The *karma* that conditions the future birth is called "Reproductive—*Janaka Karma*".
@@ -1168,7 +1203,13 @@ According to the law of *karma,* the potential energy of the Reproductive Karma 
 There are four classes of *karma* according to the priority of effect. The first is *Garuka*, which means weighty or serious. This karma, which is either good or bad, produces results in this life, or in the next for certain. If good, it is purely mental as in the case of Jhanas –
 Ecstacies. Otherwise it is verbal or bodily.
 
-The five kinds of Weighty Karma are: 1. matricide; 2. patricide; 3. the Murder of an Arahant; 4. the Wounding of a Buddha; and 5. the Creation of a Schism in the Sangha.
+The five kinds of Weighty Karma are:
+
+1. matricide;
+2. patricide;
+3. the Murder of an Arahant;
+4. the Wounding of a Buddha; and
+5. the Creation of a Schism in the Sangha.
 
 Permanent Scepticism—*Niyata Micchaditthi* is also termed one of the Weighty Karmas.
 
@@ -1179,19 +1220,22 @@ Habitual—*Acinna Karma* is the next in priority of effect. It is the Karma tha
 The fourth is the "Cumulative—*Katatta Karma*" which embraces all that cannot be included in the above three. This is as it were the reserve fund of a particular being.
 
 The last classification is according to the place in which the *karma* effects transpire, namely:
+
 1. Evil Karma—*Akusala*, which may ripen in the Sentient Plane— Kamaloka.
 
-2. Good Karma—*Kusala*, which may ripen in the Sentient Plane. 3. Good Karma, which may ripen in the realm of Form—*Rupaloka*.
+2. Good Karma—*Kusala*, which may ripen in the Sentient Plane.
+
+3. Good Karma, which may ripen in the realm of Form—*Rupaloka*.
 
 4. Good Karma, which may ripen in the formless realms— Arupaloka.
 
-## Is Everything Due To Karma?
+##### Is Everything Due To Karma?
 
 Although Buddhism attributes the inequality of mankind as one of the chief effects amongst many, yet it does not assert that everything is due to *karma*.
 
 If everything is due to *karma,* a person would always be bad if it was his or her *karma* to be bad. One would not need to consult a physician to be cured of a disease; for if one's *karma* were such, one would be cured.
 
-## Why Some Wicked People Enjoy While Some Good People Suffer
+##### Why Some Wicked People Enjoy While Some Good People Suffer
 
 Some people ask, 'If good begets good and bad begets bad why should many good people suffer and some wicked people prosper in this world?' The answer to this question, according to the Buddhist point of view, is that although some are good by nature, they have not accumulated enough good merits in their previous birth to compensate for the bad effects of unwholesome *karma* in this present life; somewhere in their past there must have been some defect. On the other hand, some are wicked by nature and yet are able to enjoy this life for a short period due to some strong good *karma* that they accumulated in their previous birth.
 
@@ -1207,9 +1251,11 @@ Buddhists are encouraged to do good deeds not for the sake of gaining a place in
 
 (DHAMMAPADA 385)
 
-# Rebirth*
+#### Rebirth[^6]
 
-Unsatisfied desire for existence and sensual pleasures is the cause of rebirth.
+[^6]: To get further information on this subject, read ‘Do You Believe In Rebirth?’ by the same author and the book ‘31 Planes Of Existence’ by Egerton Baptist.
+
+*Unsatisfied desire for existence and sensual pleasures is the cause of rebirth.*
 
 BUDDHISTS regard the doctrine of rebirth not as a mere theory but as a verifiable fact. The acceptance of the truth about rebirth forms a fundamental tenet of Buddhism. However, the belief in rebirth is not confined to Buddhists; it is also found in other countries, in other religions, and even among free thinkers. Pythagoras could remember his previous birth. Plato could remember a number of his previous lives. According to Plato, human beings can be reborn only up to ten times. Plato also believed in the possibility of rebirth in the animal kingdom. Among the ancient people in Egypt and China, a common belief was that only well-known personalities like emperors and kings have rebirths. A Christian authority named Origen, who lived in 185-254 C.E., believed in rebirth. According to him, there is no eternal suffering in hell. Gorana Bruno, who lived in the sixteenth century, believed that the soul of every man and animal transmigrates from one being to another. In 1788, the philosopher Kant criticized the teaching on eternal punishment. Kant also believed in the possibility of rebirth in other celestial bodies. Schopenhauer (1788-1860), another great philosopher, said that where the will to live existed there must be continuity of life. The will to live manifests itself successively in ever new forms. The Buddha explained this 'will to exist' as the craving for existence. And of course the ancient sages of India taught about the transmigration of a soul from the earliest times.
 
@@ -1235,7 +1281,7 @@ Ignorance also begets the illusory and illogical idea that there is only one exi
 
 The Buddha taught that ignorance can be dispelled and sorrow removed by realisation of the Four Noble Truths, and not through any other source. To eradicate all ignorance, one must persevere diligently in the practice of an all-embracing altruism in conduct, intelligence and wisdom. One must also destroy all desire for the lower, personal pleasures and selfish craving.
 
-## How Does Rebirth Take Place?
+##### How Does Rebirth Take Place?
 
 When this physical body is no more capable of functioning, energies do not die with it, but continue to take some other shape or form, which we call another life. The karmic force manifesting itself in the form of a human being can also manifest itself in the form of an animal. This can happen if a person has no chance to develop his or her positive karmic forces. This force, called craving, desire, volition, thirst to live, does not end with the non-functioning of the body but continues to manifest itself in another form, producing re-existence. This is called rebirth or re-becoming. Buddhists do not call it "reincarnation" because no permanent entity or soul moves from one life to the next.
 
@@ -1247,7 +1293,7 @@ Through hypnotism, some people have managed to reveal information of previous li
 
 Rebirth or becoming again and again is a natural occurrence not created by any particular religion or god. Belief in rebirth or disbelief does not make any difference to the process of rebirth or avoiding rebirth. Rebirth takes place as long as craving for existence and craving for sensual pleasures or attachment exist in the mind. Those strong mental forces prevail in each and every living being in this universe. Those who hope and pray that they be not born again must understand that their wishes will not materialise until they make earnest efforts to eradicate their craving and attachment from their minds. Having seen and experienced the uncertainty and unsatisfactoriness of life under worldly conditions, wise people try to rid themselves of these repeated births and deaths by following the correct path of mental purification. Those who cannot reduce their craving and attachment must be prepared to face all unsatisfactory and uncertain situations associated with rebirth and becoming again and again.
 
-## Is Rebirth Simultaneous?
+##### Is Rebirth Simultaneous?
 
 Another difficult thing to understand about rebirth is whether rebirth occurs immediately upon the ending of the present life. This has been a controversial issue even amongst prominent Buddhist scholars.
 
@@ -1255,26 +1301,24 @@ According to Abhidharma, rebirth (conception) takes place immediately after the 
 
 Another concept which many people cannot understand is that in the process of rebirth a person can be reborn as an animal and an animal can be reborn as a human. The animal nature of a person's mind and the animal way of life adopted by him or her can condition that person to be born as an animal. The condition and behaviour of the mind is responsible for the next existence. On the other hand, a person who is born in animal form, owing to certain mental abuses during a previous birth, could be reborn as a human being, depending on the force of karma accumulated in a previous existence. It is a wellknown fact that some animals are very intelligent and understanding, showing very human characteristics. A person who is born as an animal can again be born as a human being when the bad *karma* which conditioned his or her birth as an animal is expended and the dormant good *karma* which was stored in the consciousness has an opportunity to take effect.
 
-## Dying Moment
+##### Dying Moment
 
 There are three types of consciousness *(Viññana)* functioning at the moment of death in a person: rebirth-linking consciousness *(patisandhicitta),* the current of passive consciousness or the current of lifecontinuum *(bhavanga)* and consciousness disconnecting the present life *(cuti-citta).* At the last moment of a person's present life the patisandhi-citta or rebirth-linking consciousness arises, having the three signs as its objects. The *patisandhi-citta* remains in the course of cognition for five faint thought-moments or *Javana* and then sinks down into *bhavanga.* At the end of *bhavanga* the *cuti-citta* arises, disconnecting the present life and sinks down into *bhavanga.* At this very moment comes the end of the present life. At the end of that bhavanga another *patisandhi-citta* rises up in the next life and from this very moment the new life begins. This is the process of death and rebirth according to Buddhism, and only in Buddhism is the process of these natural phenomena found explained in minute and exact detail.
 
 A Buddhist faces death not as a crisis in life but as a normal event, for he or she knows that whoever is born must suffer, 'decay', and ultimately die. Or, as someone so aptly puts it, 'Everyone is born with the certificate of death at birth.' If we could all look at death in such an intelligent and rational way, we would not cling to life so tenaciously.
 
 After He was released from Samsara at the moment of Enlightenment, the Buddha declared:
-'Ayamantima jati natthidani punabbhavo' This is my final birth and there is no more rebirth for me.
 
-(DHARMA CAKKA SUTTA)
+>*'Ayamantima jati natthidani punabbhavo'*\
+>This is my final birth and there is no more rebirth for me.\
+>(DHARMA CAKKA SUTTA)
 
-## Nirvana
+#### Nirvana
 
-Nirvana is the highest bliss, a supra-mundane state of eternal happiness. The happiness of Nirvana cannot be experienced by indulging the senses but by calming them.
+*Nirvana is the highest bliss, a supra-mundane state of eternal happiness.\
+The happiness of Nirvana cannot be experienced by indulging the senses but by calming them.*
 
-NIRVANA is the final goal of Buddhism. What is *Nirvana*
-
-![152_image_0.png](152_image_0.png)
-
-then? It is not easy to know what *Nirvana* really is; it is easier to know what *Nirvana* is not.
+NIRVANA is the final goal of Buddhism. What is *Nirvana* then? It is not easy to know what *Nirvana* really is; it is easier to know what *Nirvana* is not.
 
 Nirvana is not nothingness or extinction. Would the Buddha have left His family and kingdom and preached for 45 years—all for nothingness?
 
@@ -1284,16 +1328,14 @@ If *Nirvana* is not a place, where is *Nirvana* then? Strictly speaking we canno
 
 Anyone can experience *Nirvana* but until one experiences the supreme state of Nirvanic bliss, one can only speculate as to what it really is, although we can get glimpses of it in everyday life. For those who insist on the theory, the texts offer some help. The texts suggest that *Nirvana* is a supra-mundane state of unalloyed happiness.
 
-By itself, *Nirvana* is quite unexplainable and quite undefinable.
-
-As darkness can be explained only by its opposite, light, and as calm can only be explained by its opposite, motion, so likewise *Nirvana,* as a state equated to the extinction of all suffering can be explained by its opposite—the suffering that is being endured in *Samsara.* As darkness prevails wherever there is no light, as calm prevails wherever there is no motion, so likewise *Nirvana* is everywhere where suffering and change and impurity do not prevail.
+By itself, *Nirvana* is quite unexplainable and quite undefinable. As darkness can be explained only by its opposite, light, and as calm can only be explained by its opposite, motion, so likewise *Nirvana,* as a state equated to the extinction of all suffering can be explained by its opposite—the suffering that is being endured in *Samsara.* As darkness prevails wherever there is no light, as calm prevails wherever there is no motion, so likewise *Nirvana* is everywhere where suffering and change and impurity do not prevail.
 
 A sufferer who scratches his sores can experience a temporary relief. But this temporary relief will only aggravate the wounds and cause the disease to worsen. The joy of the final cure can hardly be compared to the fleeting relief obtained from the scratching. Likewise, satisfying the craving for sense-desires brings only temporary gratification or happiness which prolongs the journey in *Samsara.* The cure for the samsaric disease is *Nirvana. Nirvana* is an end of the cravings which cause all the sufferings of birth, old age, disease, death, grief, lamentation and despair. The joy of Nirvanic cure can hardly be compared to the temporary Samsaric pleasure gained through fulfilling the sense desires.
 
 It is not advisable to speculate on what *Nirvana* is; it is better to know how to prepare the conditions necessary for *Nirvana,* how to attain the inner peace and clarity of vision that leads to *Nirvana.*
 Follow the Buddha's advice: put His Teachings into practice. Get rid of all defilements which are rooted in greed, hatred, and delusion. Purify yourself of all desires and realise absolute selflessness. Lead a life of right moral conduct and constantly practise meditation. By active exertion, free yourself from all selfishness and illusion. Then, Nirvana is gained and experienced.
 
-## Nirvana And Samsara
+##### Nirvana And Samsara
 
 A great Mahayana Buddhist scholar, Nagarjuna, says that *Samsara* and *Nirvana* are one. This interpretation can easily be misunderstood by others. However to state that the concept of *Samsara* and *Nirvana* are the same is to say that there is no difference in voidness of component things and the unconditioned state of Nirvana. In accordance with the Pali Tipitaka, *Samsara* is described as the unbroken continuation of the five aggregates, four elements and twelve bases or sources of mental processes whereas *Nirvana* is described as the extinction of those relative physical and mental sources.
 
@@ -1307,10 +1349,16 @@ When that ultimate state is attained, one will fully understand this worldly lif
 Struggles to avoid problems will be over. Nature's processes will have ceased. All worries, miseries, responsibilities, disturbances, burdens, physical and mental ailments and emotions will vanish after attaining this most blissful state of *Nirvana.*
 To say that *Nirvana* is nothingness simply because one cannot perceive it with the five senses, is as illogical as to say that light does not exist simply because the blind do not see it.
 
-## Law Of Dependent Origination*
+#### Law Of Dependent Origination[^7]
 
-' No God, no Brahma can be found No matter of this wheel of life Just bare phenomena roll Depending on conditions all.'
-(VISUDDHI MAGGA)
+[^7]: Read an exposition of the Law of Independent Origination in Egerton C. Baptist’s book, “The Buddha: His Birth, Life and Teachings”.
+
+>*'No God, no Brahma can be found*\
+>*No matter of this wheel of life*\
+>*Just bare phenomena roll*\
+>*Depending on conditions all.*'\
+>(VISUDDHI MAGGA)
+
 THE Law of Dependent Origination is one of the most important teachings of the Buddha, and it is also very profound. The Buddha has often expressed His experience of Enlightenment in one of two ways, either in terms of having understood the Four Noble Truths, or in terms of having understood the nature of Dependent Origination. However, more people have heard about the Four Noble Truths and can discuss it than the Law of Dependent Origination, which is just as important.
 
 Although the actual insight into dependent origination arises with spiritual maturity, it is still possible for us to understand the principle involved. The basis of Dependent Origination is that life or the world is built on a set of relations, in which the arising and cessation of factors depend on some other factors which condition them. This principle can be given in a short formula of four lines:
@@ -1325,9 +1373,12 @@ The fundamental principle at work in Dependent Origination is that of cause and 
 In the Dharma, we are interested to know how the principle of Dependent Origination is applied to the problem of suffering and rebirth. The issue is how Dependent Origination can explain why we are still going round in Samsara, or explain the problem of suffering and how we can be free from suffering. It is not meant to be a description of the origin or evolution of the universe. Therefore, one must not be mistaken into assuming that Ignorance, the first factor mentioned in the Dependent Origination, is the first cause. Since everything arises because of some preceeding causes, there can be no first cause.
 
 According to the Law of Dependent Origination, there are twelve factors which account for the continuity of existence birth after birth. They are:
+
 1. Through ignorance are conditioned volitional actions or karma-formations.
 
-2. Through volitional actions is conditioned consciousness. 3. Through consciousness are conditioned mental and physical phenomena.
+2. Through volitional actions is conditioned consciousness.
+
+3. Through consciousness are conditioned mental and physical phenomena.
 
 4. Through mental and physical phenomena are conditioned the six faculties (i.e., five physical sense-organs and mind).
 
@@ -1337,7 +1388,9 @@ According to the Law of Dependent Origination, there are twelve factors which ac
 
 7. Through sensation is conditioned desire, 'thirst'.
 
-8. Through desire ('thirst') is conditioned clinging. 9. Through clinging is conditioned the process of becoming.
+8. Through desire ('thirst') is conditioned clinging.
+
+9. Through clinging is conditioned the process of becoming.
 
 10. Through the process of becoming is conditioned birth.
 
@@ -1353,7 +1406,7 @@ With the arising of the Sense-organs, there arises Contact. Contact with what? C
 
 These sights, sounds, smells, tastes, tactile objects, and mental objects can be beautiful, pleasing and enticing. On the other hand, they can be ugly and distasteful. Therefore, dependent on Contact arises Sensations: feelings that are pleasant, unpleasant or neutral. Because of these feelings, the laws of attraction (greed) and repulsion (aversion) are now set in motion. Beings are naturally attracted to pleasant objects and repelled by unpleasant objects. As a result of Sensation, Desire arises. A person desires and thirsts for forms that are beautiful and enticing; sounds that are beautiful and enticing; tastes, smells, touch, and objects which the mind regards as beautiful and enticing. From these Desires, he or she develops very strong Clinging to the desirable object (or strongly rejects the repulsive object). Now because of this Clinging and attachment, the next life is conditioned and there arises Becoming. In other words, the processes of Becoming are set in motion by Clinging.
 
- The next link in this chain of Dependent Origination is that Becoming conditions the arising of Birth. And finally, dependent on Birth arise Decay and Death, followed by Sorrow, Lamentation, Pain, Grief and Despair.
+The next link in this chain of Dependent Origination is that Becoming conditions the arising of Birth. And finally, dependent on Birth arise Decay and Death, followed by Sorrow, Lamentation, Pain, Grief and Despair.
 
 The process can be ceased if the formula is taken in the reverse order: Through the complete cessation of ignorance (through the cultivation of Insight and seeing the true nature of all phenomena),
 volitional activities or karma-formations cease; through the cessation of volitional activities, consciousness ceases;… through the cessation of birth, the other factors of decay, death, sorrow, etc., cease. Therefore, one can be free from the rounds of rebirth through the eradication of ignorance.
@@ -1362,48 +1415,46 @@ To re-iterate what was mentioned earlier, this doctrine of Dependent Origination
 
 According to the Buddha, while He was speaking to Ananda: "It is by their not being able to comprehend the Dependent Origination, that people are entangled like a ball of cotton, and not being able to see the Truth, are always afflicted by Sorrow,—born often into conditions that are dismal and dreary, where confusion and prolonged suffering prevail. And, they do not know how to disentangle themselves to get out."
 
-# Eternalism And Nihilism
+#### Eternalism And Nihilism
 
-The Buddha rejected both extremes of eternalism and nihilism.
+*The Buddha rejected both extremes of eternalism and nihilism.*
 
 To develop Right View or Perfect View, we must first be aware of two views which are considered imperfect or wrong.
 
- The first view is eternalism. This doctrine or belief is concerned with eternal life or with eternal things. Before the Buddha's time, it was thought that there is an abiding entity which could exist forever, and that human beings can live the eternal life by preserving the eternal soul in order to be in union with a Supreme Being. In Buddhism, this teaching is called *sassata ditthi—*the erroneous view of eternalists. Such views still exist even in the modern world owing to human beings' craving for eternal life.
+The first view is eternalism. This doctrine or belief is concerned with eternal life or with eternal things. Before the Buddha's time, it was thought that there is an abiding entity which could exist forever, and that human beings can live the eternal life by preserving the eternal soul in order to be in union with a Supreme Being. In Buddhism, this teaching is called *sassata ditthi—*the erroneous view of eternalists. Such views still exist even in the modern world owing to human beings' craving for eternal life.
 
 Why did the Buddha refute the teaching of eternalism? Because when we understand the things of this world as they truly are, we cannot find anything which is permanent or which exists forever. Things change and continue to do so according to the changing conditions on which they depend. When we analyse things into their elements or into reality, we cannot find any abiding entity, any everlasting thing. This is why the eternalist view is considered wrong or false.
 
-The second false view is nihilism or the view held by the nihilists who claim that there is no life after death. This view belongs to a materialistic philosophy which refuses to accept knowledge of mental conditionality. To subscribe to a philosophy of materialism is to understand life only partially. Nihilism ignores the side of life which is concerned with mental conditionality. If one claims that after the passing away or ceasing of a life, it does not come to be again, the continuity of mental conditions is denied. To understand life, we must consider all conditions, both mental and material. When we understand mental and material conditions, we cannot say that there is no life after death and that there is no further becoming after passing away. This nihilist view of existence is considered false because it is based on incomplete understanding of reality. That is why nihilism was also rejected by the Buddha. The teaching of *karma* proves that the Buddha did not teach annihilation after death; Buddhism accepts 'survival '
-not in the sense of an eternal soul, but in the sense of a renewed becoming or mental continuum.
+The second false view is nihilism or the view held by the nihilists who claim that there is no life after death. This view belongs to a materialistic philosophy which refuses to accept knowledge of mental conditionality. To subscribe to a philosophy of materialism is to understand life only partially. Nihilism ignores the side of life which is concerned with mental conditionality. If one claims that after the passing away or ceasing of a life, it does not come to be again, the continuity of mental conditions is denied. To understand life, we must consider all conditions, both mental and material. When we understand mental and material conditions, we cannot say that there is no life after death and that there is no further becoming after passing away. This nihilist view of existence is considered false because it is based on incomplete understanding of reality. That is why nihilism was also rejected by the Buddha. The teaching of *karma* proves that the Buddha did not teach annihilation after death; Buddhism accepts 'survival' not in the sense of an eternal soul, but in the sense of a renewed becoming or mental continuum.
 
 Throughout the Buddha's long period of teaching the Dharma to His followers, He actively discouraged speculative arguments. During the 5th century B.C. India was a veritable hive of intellectual activity where scholars, yogis, philosophers, kings and even ordinary householders were constantly engaged in the philosophical arguments pertaining to human existence. Some of these were either ridiculously trivial or totally irrelevant. Some people wasted valuable time arguing at great length about all manner of subjects. They were far more concerned about proving their powers in mental gymnastics than seeking genuine solutions to the problems that beset humanity. (In the 18th century Jonathan Swift satirized a similar pastime in England when he showed the Lilliputians in 'Gulliver's *Travels*' waging a war to decide whether an egg should be broken on its sharp end or its broad end).
 
 The Buddha also refused to get involved in speculations regarding the universe. He stated very clearly that the problem facing human beings is not in their past or future but in the immediate present. Knowledge about Eternalism or Nihilism can in no way help them to break the present fetters which bind them to existence and which are the source of all their feelings of discontent which arise from their inability to completely satisfy their cravings. The Buddha stated that before one can begin to tread the path which leads to Nirvana one must have Right View. Only when one knows clearly what one is seeking will one be able to attain it.
 
-## Can The First Cause Be Known?
+#### Can The First Cause Be Known?
 
-It is rather difficult for us to understand how the world came into existence without a first cause. But it is very much more difficult to understand how that first cause came into existence at the beginning.
+*It is rather difficult for us to understand how the world came into existence without a first cause. But it is very much more difficult to understand how that first cause came into existence at the beginning.*
 
-ACCORDING to the Buddha, it is inconceivable to find a first cause for life or anything else. For in common experience, the cause becomes the effect and the effect becomes the cause.
-
-In the circle of cause and effect, a first cause is incomprehensible.
-
-With regard to the origin of life, the Buddha declares, 'Without cognizable end is this recurrent wandering in Samsara (cycle of birth and death). Beings are obstructed by ignorance and fettered by craving. A first beginning of these beings is not to be perceived.' (ANAMATAGGA SAMYUTTA in SAMYUTTA NIKAYA). This life-stream flows on *ad infinitum,* as long as it is fed by the muddy waters of ignorance and craving. When these two are cut off, only then does the life-stream cease to flow, only then does rebirth come to an end.
+ACCORDING to the Buddha, it is inconceivable to find a first cause for life or anything else. For in common experience, the cause becomes the effect and the effect becomes the cause. In the circle of cause and effect, a first cause is incomprehensible. With regard to the origin of life, the Buddha declares, 'Without cognizable end is this recurrent wandering in Samsara (cycle of birth and death). Beings are obstructed by ignorance and fettered by craving. A first beginning of these beings is not to be perceived.' (ANAMATAGGA SAMYUTTA in SAMYUTTA NIKAYA). This life-stream flows on *ad infinitum,* as long as it is fed by the muddy waters of ignorance and craving. When these two are cut off, only then does the life-stream cease to flow, only then does rebirth come to an end.
 
 It is difficult to conceive an end of space. It is difficult to conceive an eternal duration of what we call time. But it is more difficult to conceive time when there is no time. Likewise it is rather difficult for us to understand how this world came into existence with a first cause. And it is more difficult to understand how that first cause came into existence at the beginning. For if the first cause can exist though uncreated, there is no reason why the other phenomena of the universe must not exist without having also been created.
 
-As to the question how all beings came into existence without a first cause, the Buddhist's reply is that there is no answer* because the question itself is merely a product of human beings' limited comprehension. If we can understand the nature of time and relativity; we must see that there could not have been any first beginning. It can only be pointed out that all the usual answers to the question are fundamentally defective. If it is assumed that for a thing to exist, it must have had a creator who existed before it, it follows logically that the creator himself must have had a creator, and so on back to infinity. On the other hand, if the creator could exist without a prior cause in the form of another creator, the whole argument falls to the ground. The theory of a creator does not solve any problems, it only complicates the existing ones.
+As to the question how all beings came into existence without a first cause, the Buddhist's reply is that there is no answer[^8] because the question itself is merely a product of human beings' limited comprehension. If we can understand the nature of time and relativity; we must see that there could not have been any first beginning. It can only be pointed out that all the usual answers to the question are fundamentally defective. If it is assumed that for a thing to exist, it must have had a creator who existed before it, it follows logically that the creator himself must have had a creator, and so on back to infinity. On the other hand, if the creator could exist without a prior cause in the form of another creator, the whole argument falls to the ground. The theory of a creator does not solve any problems, it only complicates the existing ones.
+
+[^8]: See the section on “The Buddha’s Silence” in Chapter 2.
 
 Thus Buddhism does not pay much attention to theories and beliefs about the origin of the world. Whether the world was created by a god or it came into existence by itself makes little difference to Buddhists. Whether the world is finite or infinite also makes little difference. Instead of following this line of theoretical speculations, the Buddha advises people to grasp the fact that their present existence is suffering and to work hard to find their own salvation.
 
 Scientists have discovered many causes which are responsible for the existence of life, plants, planets, elements and other energies. But it is impossible for human beings to find out any particular first cause for their existence. If they go on searching for the first cause of any existing life or thing, they point certain causes as the main cause but that never becomes the first cause. In the process of searching for the first cause one after the other, they will come back to the place where they were. This is because, cause becomes the effect and the next moment that effect becomes the cause to produce another effect. That is why the Buddha says, 'a first cause is incomprehensible and the universe is beginningless'.
 
-## Is There An Eternal Soul?
+#### Is There An Eternal Soul?
 
-Belief in an eternal soul is a misconception of the human consciousness.
+*Belief in an eternal soul is a misconception of the human consciousness.*
 
-## Soul-Theories
+###### Soul-Theories
 
 WITH regard to the soul theory, there are three kinds of teachers in the world:
+
 The first teacher teaches the existence of an eternal ego-entity that outlasts death: He is the eternalist.
 
 The second teacher teaches a temporary ego-entity which becomes annihilated at death: He is the materialist.
@@ -1416,25 +1467,36 @@ We have done well without discovering the soul. We show no signs of fatigue or d
 
 Those who believe in the existence of a soul are not in a position to explain what and where it is. The Buddha's advice is not to waste our time over this unnecessary speculation and devote our time to understand reality. When we have attained perfection then we will be able to realise whether there is a soul or not. A wandering ascetic named Vacchagotta asked the Buddha whether there was an *Atman*
 (self/soul) or not. The story is as follows:
+
 Vacchagotta comes to the Buddha and asks:
+
 'Venerable Gotama, is there an *Atman*?'
+
 The Buddha is silent.
 
 "Then Venerable Gotama, is there no *Atman*?"
+
 Again the Buddha is silent.
 
 Vacchagotta gets up and goes away.
 
 After the ascetic has left, Ananda asks the Buddha why He did not answer Vacchagotta's question. The Buddha explains His position:
+
 'Ananda, when asked by Vacchagotta, the Wanderer: "Is there a Self?", if I had answered: "There is a Self", then, Ananda, that would be siding with those recluses and brahmanas who hold the eternalist theory *(sassata-vada).'*
+
 'And Ananda, when asked by the Wanderer: "Is there no Self?", if I had answered: "There is no Self", then that would be siding with those recluses and brahmanas who hold the annihilationist theory (uccedavada).'
+
 'Again, Ananda, when asked by Vacchagotta: "Is there a Self?", if I
 had answered: "There is a Self", would that be in accordance with my knowledge that all Dharmas are without Self?'
-'Surely not, Sir.' 'And again, Ananda, when asked by the Wanderer: "Is there no Self?", if I had answered: "There is no Self", then that would have created a greater confusion in the already confused Vacchagotta. For he would have thought: Formerly indeed I had an *Atman* (Self), but now I haven't got one' (SAMYUTTA NIKAYA)
+
+'Surely not, Sir.'
+
+'And again, Ananda, when asked by the Wanderer: "Is there no Self?", if I had answered: "There is no Self", then that would have created a greater confusion in the already confused Vacchagotta. For he would have thought: Formerly indeed I had an *Atman* (Self), but now I haven't got one' (SAMYUTTA NIKAYA)
+
 The Buddha regarded soul-speculation as illusory. He once said,
 'Only through ignorance and delusion do human beings indulge in the dream that their souls are separate and self-existing entities. Their heart still clings to Self. They are anxious about heaven and they seek the pleasure of Self in heaven. Thus they cannot see the bliss of righteousness and the immortality of truth.' Selfish ideas appear in human beings' minds due to their conception of Self and craving for existence.
 
-## Anatta: The Teaching Of No-Soul
+###### Anatta: The Teaching Of No-Soul
 
 The Buddha countered all soul-theory and soul-speculation with His Anatta doctrine. *Anatta* is translated under various labels: No-Soul, No-Self, No-Ego.
 
@@ -1443,6 +1505,7 @@ To understand the *Anatta* doctrine, one must understand that the eternal soul t
 The Buddha taught that what we conceive as something eternal within us, is merely a combination of physical and mental aggregates or forces *(pancakkhandha),* made up of body or matter *(rupakkhandha),* sensation *(vedanakkhandha),* perception *(sannakkhandha),* mental formations *(samkharakkhandha)* and consciousness (viññanakkhandha). These forces are working together in a flux of momentary change; they are never the same for two consecutive moments. They are the component forces of the psycho-physical life. When the Buddha analyzed the psycho-physical life, He found only these five aggregates or forces. He did not find any eternal soul. However, many people still have the misconception that the soul is the consciousness. The Buddha declared in unequivocal terms that consciousness arises dependent on matter, sensation, perception and mental formations and that it cannot exist independently of them.
 
 The Buddha said, 'The body, O monks, is not the Self. Sensation is not the Self. Perception is not the Self. The mental constructions are not the Self. And neither is consciousness the Self. Perceiving this, O monks, the disciple sets no value on the body, or on sensation, or on perception, or on mental constructions, or on consciousness. Setting no value on them, he becomes free of passions and he is liberated. The knowledge of liberation arises there within him. And then he knows that he has done what has to be done, that he has lived the holy life, that he is no longer becoming this or that, that his rebirth is destroyed.' (ANATTA-LAKKHANA SUTRA)
+
 The *Anatta* doctrine of the Buddha is over 2500 years old. Today the thought current of the modern scientific world is flowing towards the Buddha's Teaching of *Anatta* or No-Soul. In the eyes of modern scientists, a human being is merely a bundle of ever-changing sensations. Modern physicists say that the apparently solid universe is not, in reality, composed of solid substance at all, but is actually a flux of energy. The modern physicist sees the whole universe as a process of transformation of various forces which include the processes which constitute a human being. The Buddha was the first to realize this.
 
 W.S. Wily, an author, once said, 'The existence of the immortal in human beings is becoming increasingly discredited under the influence of the dominant schools of modern thought.' The belief in the immortality of the soul is a dogma that is contradicted by the most clear, empirical investigation.
@@ -1453,28 +1516,27 @@ In reference to those researches of modern scientists who are now more inclined 
 
 It is the same *Anatta* doctrine of the Buddha that was introduced in the *Mahayana* school of Buddhism as *Sunyata* or voidness. Although this concept was elaborated by a great *Mahayana* scholar, Nagarjuna, by giving various interpretations, there is no extraordinary concept in Sunyata that is far different from the Buddha's original doctrine of Anatta.
 
-The belief in Soul or Self and the Creator God, is so strongly rooted in the minds of many people that they cannot imagine why the Buddha did not accept these two concepts which are indispensable to many religions. In fact some people get a shock or become nervous and emotional when they hear that the Buddha rejected these two concepts. That is the main reason why to many unbiased scholars and psychologists Buddhism stands unique when compared to all the other religions. At the same time, some other scholars who appreciate the various other aspects of Buddhism are convinced that Buddhism would be enriched by deliberately re-interpreting the Buddha word
-'*Atta'* in order to introduce the concept of Soul and Self into Buddhism.
+The belief in Soul or Self and the Creator God, is so strongly rooted in the minds of many people that they cannot imagine why the Buddha did not accept these two concepts which are indispensable to many religions. In fact some people get a shock or become nervous and emotional when they hear that the Buddha rejected these two concepts. That is the main reason why to many unbiased scholars and psychologists Buddhism stands unique when compared to all the other religions. At the same time, some other scholars who appreciate the various other aspects of Buddhism are convinced that Buddhism would be enriched by deliberately re-interpreting the Buddha word '*Atta'* in order to introduce the concept of Soul and Self into Buddhism.
 
 The Buddha was aware of this unsatisfactoriness of humanity and the conceptual upheaval regarding this belief.
 
-All conditioned things are impermanent, All conditioned things are Dukkha-Suffering, All conditioned or unconditioned things (Dharma) are soulless or selfless.
+>*All conditioned things are impermanent,*\
+>*All conditioned things are Dukkha-Suffering,*\
+>*All conditioned or unconditioned things (Dharma)*\
+>*are soulless or selfless.*\
+>(DHAMMAPADA 277, 278, 279)
 
- (DHAMMAPADA 277, 278, 279)
 There is a parable in our Buddhist texts with regard to the belief in an eternal soul. A man, who mistook a moving rope for a snake, became terrified by that fear in his mind. Upon discovery that it was only a piece of rope, his fear subsided and his mind became peaceful. The belief in an eternal soul is equated to the rope—man's imagination.
 
-![174_image_0.png](174_image_0.png)
-
-# Buddhism Vis-A-Vis Other Approaches
+### 6. Buddhism Vis-A-Vis Other Approaches
 
 ![174_Image_1.Png](174_Image_1.Png)
 
-Is Buddhism Similar to Other Contemporary Teachings in India?
+#### Is Buddhism Similar to Other Contemporary Teachings in India?
 
-The Dharma realised by the Buddha was unheard of before.
+*The Dharma realised by the Buddha was unheard of before.*
 
-I
-N His first sermon, the DHARMACAKKA SUTRA, the Buddha said that the Dharma which He preached was unheard of before. Knowledge of the Dharma which arose was clear to His vision, to His knowledge, to His wisdom, to His penetration, and to His Enlightenment.
+IN His first sermon, the DHARMACAKKA SUTRA, the Buddha said that the Dharma which He preached was unheard of before. Knowledge of the Dharma which arose was clear to His vision, to His knowledge, to His wisdom, to His penetration, and to His Enlightenment.
 
 Some people claim that the Buddha did not preach a new doctrine but merely reformed the old teaching which was existing in India. However, the Buddha was no mere reformer of Hinduism as some protagonists of this ancient creed make Him out to be. The Buddha's way of life and doctrine were substantially different from the way of life and the religious beliefs that the people in India had. The Buddha lived, taught and died as a non-Vedic and non-Brahmanic religious Teacher. Nowhere did the Buddha acknowledge His indebtedness to the existing religious beliefs and practices. The Buddha considered Himself as initiating a rational spiritual method, as opening a new path.
 
@@ -1484,9 +1546,9 @@ There is no doubt that the Buddha reformed certain customs, religious duties, ri
 
 But as far as the fundamental, philosophical and psychological teachings are concerned, it is groundless to say that the Buddha had copied ideas from any existing religion at that time. For instance, the idea of the Four Noble Truths, the Eightfold Path, Dependent Origination and Nirvana, were not known before His coming. Although the belief in karma and rebirth was very common, the Buddha gave quite logical and reasonable explanations to this belief and introduced it as natural law of cause and effect. Although the Buddha used these terms because they were familiar to His listeners, He gave them very original interpretations, quite different from the way the Brahmans understood them. Despite all these the Buddha did not ridicule any sincere existing religious belief or practice. He appreciated the value of Truth wherever He found it and He even gave a better explanation of their beliefs. That is why He once said that the Truth must be respected wherever it is found. On the other hand, however, He was never afraid to speak out against mythology and false claims.
 
-## Is Buddhism A Theory Or A Philosophy?
+#### Is Buddhism A Theory Or A Philosophy?
 
-The enlightenment of the Buddha is not a product of mere intellect.
+*The enlightenment of the Buddha is not a product of mere intellect.*
 
 DURING the time of the Buddha there were many learned men in India who pursued knowledge simply for its own sake. These people were interested only in theoretical knowledge. Indeed, some of them went from city to city challenging anyone to a debate and their greatest thrill was to defeat an opponent in such verbal combats. But the Buddha said that such people were no nearer to the realization of the truth because in spite of their cleverness, knowledge and verbal skills they did not have true wisdom and insight to overcome greed, hatred and delusion. In fact, these people were often proud and arrogant. Their egoistic concepts disturbed the religious atmosphere, and they loved arguing simply for the sake of arguing.
 
@@ -1502,35 +1564,27 @@ A great thinker (philosopher, scientist, metaphysician, etc.) can also turn out 
 
 The Buddha's Teaching contains practical wisdom that cannot be limited to theory or to philosophy because philosophy deals mainly with knowledge but is not concerned with translating knowledge into day-to-day practices.
 
-Buddhism lays special emphasis on practice and realization.
-
-The philosopher sees the miseries and disappointments of life but, unlike the Buddha, offers no practical solution to overcome our frustrations which are part of the unsatisfactory nature of life. The philosopher merely pushes his thoughts to dead ends. Philosophy is useful because it has enriched our intellectual imagination and diminished dogmatic assurance which closes the mind to further progress. To that extent, Buddhism values philosophy, but philosophy fails to quench one's spiritual thirst. Philosophy is to know but Buddhism is to practice.
+Buddhism lays special emphasis on practice and realization. The philosopher sees the miseries and disappointments of life but, unlike the Buddha, offers no practical solution to overcome our frustrations which are part of the unsatisfactory nature of life. The philosopher merely pushes his thoughts to dead ends. Philosophy is useful because it has enriched our intellectual imagination and diminished dogmatic assurance which closes the mind to further progress. To that extent, Buddhism values philosophy, but philosophy fails to quench one's spiritual thirst. Philosophy is to know but Buddhism is to practice.
 
 Remember that the chief aim of a Buddhist is to attain purity and enlightenment. Enlightenment vanquishes ignorance which is the root of birth and death. However, this vanquishing of ignorance cannot be achieved except by the exercise of one's confidence. All other attempts—especially mere intellectual attempts are not very effective. This is why the Buddha concluded: 'These [metaphysical] questions are not calculated to profit; they are not concerned with the Dharma; they do not lead to right conduct, or to detachment, or to purification from lusts, or to quietude, or to a calm heart, or to real knowledge, or to higher insight, or to Nirvana'. (MALUNKYAPUTTA SUTTA—MAJJHIMA NIKAYA). In place of metaphysical speculation, the Buddha was more concerned with teaching a practical understanding of the Four Noble Truths that He discovered: what Suffering is; what the origin of Suffering is; what the cessation of Suffering is; how to overcome Suffering and realize final Salvation. These Truths are all practical matters to be fully understood and realized by anyone who really experiences emancipation.
 
 Enlightenment is the dispelling of ignorance; it is the ideal of the Buddhist life. We can now clearly see that enlightenment is not an act of the intellect. Mere speculation does not help a person to come into contact with life so intimately. This is why the Buddha placed great emphasis on personal experience. Meditation is a practical scientific system to verify the Truth that comes through personal experience and insight. Through meditation, the will tries to transcend the condition it has put on itself, and this is the awakening of consciousness. Metaphysics merely ties us down in a tangled and matted mass of thoughts and words.
 
-## Is Buddhism Pessimistic?
+#### Is Buddhism Pessimistic?
 
-Buddhism is neither pessimistic nor optimistic but a realistic religion.
+*Buddhism is neither pessimistic nor optimistic but a realistic religion.*
 
-S
-OME critics argue that Buddhism is morbid, cynical, hovering on the dark and shadowy side of life, an enemy of harmless pleasures, and an unfeeling trampler on the innocent joys of life. They claim that Buddhism is pessimistic, fostering an attitude of hopelessness towards life, encouraging a vague, general feeling that pain and evil predominate in human affairs. Even the current Pope in Rome has stated that Buddhism teaches a negative attitude to life. These critics base their views on the First Noble Truth that all conditioned things are in a state of suffering. They do not see that not only had the Buddha taught the cause of Suffering, but He also taught the way to end Suffering. In any case, is there any religious teacher who praised this worldly life and advised us to cling to it?
-
-Every religion talks about salvation, which means liberation from uncertainty and unsatisfactoriness in this world.
+SOME critics argue that Buddhism is morbid, cynical, hovering on the dark and shadowy side of life, an enemy of harmless pleasures, and an unfeeling trampler on the innocent joys of life. They claim that Buddhism is pessimistic, fostering an attitude of hopelessness towards life, encouraging a vague, general feeling that pain and evil predominate in human affairs. Even the current Pope in Rome has stated that Buddhism teaches a negative attitude to life. These critics base their views on the First Noble Truth that all conditioned things are in a state of suffering. They do not see that not only had the Buddha taught the cause of Suffering, but He also taught the way to end Suffering. In any case, is there any religious teacher who praised this worldly life and advised us to cling to it? Every religion talks about salvation, which means liberation from uncertainty and unsatisfactoriness in this world.
 
 If the founder of this religion, the Buddha, was such a pessimist, one would expect His personality to be portrayed on more severe lines than has been done. The Buddha image is the personification of Peace, Serenity, Hope and Goodwill. The magnetic and radiant smile of the Buddha is the epitome of His doctrine. To the worried and the frustrated, His smile of Enlightenment and hope is an unfailing tonic and soothing balm.
 
-The Buddha radiated His love and compassion in all directions.
-
-Such a person can hardly be a pessimist. And when the swordhappy kings and princes listened to Him, they realised that the only true conquest is the conquest of the Self and the best way to win the hearts of the people was to teach them to appreciate the Dharma—Truth.
+The Buddha radiated His love and compassion in all directions. Such a person can hardly be a pessimist. And when the swordhappy kings and princes listened to Him, they realised that the only true conquest is the conquest of the Self and the best way to win the hearts of the people was to teach them to appreciate the Dharma—Truth.
 
 The Buddha cultivated His sense of humour to such a high degree that His bitter opponents were disarmed with the greatest ease. Often they could not help laughing at themselves. The Buddha had a wonderful tonic; He cleansed their systems of dangerous toxins and they became enthusiastic thereafter to follow in His footsteps. In His sermons, dialogues and discussions, He maintained that poise and dignity which won for Him the respect and affection of the people. How can such a person be a pessimist?
 
 The Buddha never expected His followers to be constantly brooding over the suffering of life and leading a miserable and unhappy existence. He taught the fact of suffering only so that He could show people how to overcome this suffering and move in the direction of happiness. To become an Enlightened person, one must have joy, one of the factors that the Buddha recommended to us to cultivate. Joy is hardly pessimistic.
 
-There are two Buddhist texts called the THERAGATHA and THERIGATHA which are full of the joyful utterances of the Buddha's disciples, both male and female, who found peace and happiness in life through His Teaching. The king of Kosala once told the Buddha that unlike many a disciple of other religious systems who looked haggard, coarse, pale, emaciated and unprepossessing, His disciples were 'joyful and elated, jubilant and exultant, enjoying the spiritual life, serene, peaceful and living with a gazelle's mind, lighthearted.' The king added that he believed that this healthy disposition was due to the fact that 'these Venerable Ones had certainly realized the great and full significance of the Blessed One's Teachings'
-(MAJJHIMA NIKAYA).
+There are two Buddhist texts called the THERAGATHA and THERIGATHA which are full of the joyful utterances of the Buddha's disciples, both male and female, who found peace and happiness in life through His Teaching. The king of Kosala once told the Buddha that unlike many a disciple of other religious systems who looked haggard, coarse, pale, emaciated and unprepossessing, His disciples were 'joyful and elated, jubilant and exultant, enjoying the spiritual life, serene, peaceful and living with a gazelle's mind, lighthearted.' The king added that he believed that this healthy disposition was due to the fact that 'these Venerable Ones had certainly realized the great and full significance of the Blessed One's Teachings' (MAJJHIMA NIKAYA).
 
 When asked why His disciples, who lived a simple and quiet life with only one meal a day, were so radiant, the Buddha replied: 'They do not repent the past, nor do they brood over the future. They live in the present with contentment. Therefore they are radiant. By brooding over the future and repenting the past, fools dry up like green reeds cut down [in the sun]' (SAMYUTTA NIKAYA).
 
@@ -1538,32 +1592,25 @@ As a religion, Buddhism teaches about the unsatisfactory nature of everything in
 
 Buddhism is neither optimistic nor pessimistic. It does not encourage human beings to look at the world through their changing feelings of optimism and pessimism. Rather, Buddhism encourages us to be realistic: we must learn to see things as they truly are.
 
-## Is Buddhism Atheistic?
+#### Is Buddhism Atheistic?
 
-Atheism is associated with a materialistic doctrine that knows nothing beyond this world.
+*Atheism is associated with a materialistic doctrine that knows nothing beyond this world.*
 
-THE Buddha has condemned godlessness by which He meant the denial of worship and renunciation, the denial of moral, spiritual and social obligations, and the denial of a religious life. He recognized most emphatically the existence of moral and spiritual values. He acclaimed the supremacy of the moral law. Only in one sense can Buddhism be described as atheistic, namely, in so far as it denies the existence of an eternal omnipotent God or God-head who is the creator and ordainer of the world and who can miraculously save others. The word 'atheism', however, frequently carries a number of disparaging overtones or implications which are in no way applicable to the Buddha's Teaching. Those who use the word 'atheism', often associate it with a materialistic doctrine that knows nothing beyond this world of the senses and the slight happiness it can bestow.
-
-Buddhism advocates nothing of that sort.
+THE Buddha has condemned godlessness by which He meant the denial of worship and renunciation, the denial of moral, spiritual and social obligations, and the denial of a religious life. He recognized most emphatically the existence of moral and spiritual values. He acclaimed the supremacy of the moral law. Only in one sense can Buddhism be described as atheistic, namely, in so far as it denies the existence of an eternal omnipotent God or God-head who is the creator and ordainer of the world and who can miraculously save others. The word 'atheism', however, frequently carries a number of disparaging overtones or implications which are in no way applicable to the Buddha's Teaching. Those who use the word 'atheism', often associate it with a materialistic doctrine that knows nothing beyond this world of the senses and the slight happiness it can bestow. Buddhism advocates nothing of that sort.
 
 There is no justification for branding Buddhists as atheists, nihilists, pagans, heathens or communists just because they do not depend on a Creator God. The Buddhist concept of God is different from that of other religions. Differences in belief do not justify name-calling and slanderous words.
 
 Buddhism agrees with other religions that true and lasting happiness cannot be found in this material world. The Buddha adds that true and lasting happiness cannot be found on the higher or supra-mundane plane of existence to which the name of heavenly or divine world is given. While the spiritual values advocated by Buddhism are orientated to a state transcending the world with the attainment of Nirvana, they do not make a separation between the 'beyond' and the 'here and now'. They have firm roots in the world itself, for they aim at the highest realization in this present existence.
 
-PART THREE
-LEADING A BUDDHIST LIFE
+## PART THREE - LEADING A BUDDHIST LIFE
 
-![187_image_0.png](187_image_0.png)
-
-![187_image_1.png](187_image_1.png)
-
-# Moral Foundation For Humanity
+### 7. Moral Foundation For Humanity
 
 ![187_Image_2.Png](187_Image_2.Png)
 
-## What Is The Purpose Of Life?
+#### What Is The Purpose Of Life?
 
-The Human Being is the highest fruit on the tree of evolution.
+*The Human Being is the highest fruit on the tree of evolution.*
 
 It is for the individual to realise his or her position in existence and understand the true meaning of his life. The purpose of life is to achieve the end of suffering or unsatisfactoriness.
 
@@ -1571,7 +1618,7 @@ TO know the purpose of life, you will first have to observe it through your expe
 
 There are several prerequisites to the discovery of the purpose of life. First, you must understand the nature of human life. Next, you keep your mind calm and peaceful by adopting religious practices. When these conditions are met, the answer you seek will come like the gentle rain from the sky.
 
-## Understanding The Nature Of Human Beings
+##### Understanding The Nature Of Human Beings
 
 HUMAN beings may be clever enough to land on the moon and discover wondrous things in the universe, but they have yet to delve into the inner workings of their own minds. They have yet to learn how their minds can be developed to the fullest potential so that its true nature can be realised.
 
@@ -1581,32 +1628,34 @@ People must make an effort to overcome ignorance to arrive at realisation and En
 
 Human beings can be enlightened—become a Buddha—if they wake up from the 'dream' that is created by their own ignorance, and become fully awakened. They must realise that what they are today is the result of an infinite number of repetitions of thoughts and actions. They are not ready-made: they are continually in the process of becoming, always changing. And it is in this characteristic of change that their future lies, because it means that it is possible for them to mould their character and destiny through the control of their actions, speech and thoughts. Indeed, they become the thoughts and actions that they choose to perform. They are the highest fruit on the tree of evolution. It is for them to realise their position in existence and to understand the true meaning of life.
 
-## Understanding The Nature Of Life
+##### Understanding The Nature Of Life
 
 MOST people dislike facing the facts of life and prefer to lull themselves into a false sense of security by dreaming and imagining. They mistake the shadow for the substance. They fail to realise that life is uncertain, but that death is certain. One way of understanding life is to face and understand death which is nothing more than a temporary end to a temporary existence. Many people do not even like to hear of the word 'death'. They forget that death will come, whether they like it or not. Recollections on death with the right mental attitude can give a person courage and calmness as well as an insight into the nature of existence.
 
 Besides understanding death, we need a better understanding of our life. We are living a life that does not always proceed as smoothly as we would like it to. Very often, we face problems and difficulties. We should not be afraid of them because the penetration into the very nature of these problems and difficulties can provide us with a deeper insight into life. The worldly happiness provided by wealth, luxury, respectable positions in life which most people seek is an illusion because it is impermanent. The fact that the sale of sleeping pills and tranquilizers, admissions to mental hospitals and suicide rates have increased in proportion to modern material progress is enough testimony that we have to go beyond worldly, material pleasure to seek for real happiness. This does not mean of course that Buddhism is a negative religion which condemns the acquisition of wealth. Far from it. The Buddha has expressly encouraged hard work to gain wealth because He said that wealth can give a person the opportunity to lead a decent life and to do meritorious action. What He discouraged was attachment to that wealth and the belief that wealth alone can bring ultimate happiness.
 
-## The Need For A Religion
+##### The Need For A Religion
 
 TO understand the real purpose of life, it is advisable for a person to choose and follow an ethical-moral system that discourages evil deeds, encourages good, and enables the purification of the mind. For simplicity, we shall call this system 'a religion'.
 
 Religion is an expression of the striving of human beings: it is their greatest source of power, leading them onwards to selfrealisation. It has the power to transform a person with negative characteristics into someone with positive qualities. It makes the ignoble, noble; the selfish, unselfish; the proud, humble; the haughty, forbearing; the greedy, benevolent; the cruel, kind; the subjective, objective. Every religion represents, however imperfectly, a reaching upwards to a higher level of being. From the earliest times, religion has been the source of humanity's artistic and cultural inspiration. Although many forms of religion had come into being in the course of history, only to pass away and be forgotten, each one in its time had contributed something towards the sum total of human progress. Christianity helped to civilise the West, and the weakening of its influence has marked a downward trend of the Occidental spirit. Buddhism, which civilised the greater part of the East long before, is still a vital force, and in this age of scientific knowledge is likely to extend and to strengthen its influence. It does not, at any point, come into conflict with modern knowledge, but embraces and transcends all of it in a way that no other system of thought has ever done before or is ever likely to do. Westerners seek to conquer the universe for material ends. Buddhism and Eastern philosophy strive to attain harmony with nature and enhance spiritual satisfaction.
 
 Religion teaches a person how to calm down the senses and make the heart and mind peaceful. The secret of calming down the senses is to eliminate desire which is the root of our disturbances. It is very important for us to have contentment. The more people crave for their property, the more they have to suffer. Property does not give happiness. A great many rich people in the world today are suffering from numerous physical and mental problems. With all the money they have, they cannot buy a solution to their problems. Yet, the poorest people who have learnt to have contentment may enjoy their lives far more than the richest people do. As one rhyme goes:
-'Some have too much and yet do crave I have little and seek no more; They are but poor though much more they have And I am rich with little store. They poor, I rich; they beg, I give; They lack, I have; they pine, I live.'
 
-## Searching For A Purpose In Life
+>*'Some have too much and yet do crave*\
+>*I have little and seek no more;*\
+>*They are but poor though much more they have*\
+>*And I am rich with little store.*\
+>*They poor, I rich; they beg, I give;*\
+>*They lack, I have; they pine, I live.'*
+
+##### Searching For A Purpose In Life
 
 THE aim in life varies among individuals. An artist may aim to paint masterpieces that will live long after he is gone. A scientist may want to discover a new phenomenon, formulate a new theory, or invent a new machine. A politician may wish to become a prime minister or a president. A young executive may aim to be a managing director of a multinational company. However, when you ask the artist, scientist, politician and the young executive why they aim thus, they will reply that these achievements will give them a purpose in life and make them happy. But will these achievements bring lasting happiness? Everyone aims for happiness in life, yet they suffer more in the process. 'The value of life lies not in the length of the days, but in the use we make of them. People may live long without doing any service to anybody and thus, live very little'.
 
-## Realisation
+##### Realisation
 
-ONCE we realise the nature of life (characterised by unsatisfactoriness, change, and egolessness) as well as the nature
-
-![193_image_0.png](193_image_0.png)
-
-of greed and the means of getting them satisfied, we can understand the reason why the happiness so desperately sought by many people is so elusive like catching a moonbeam in their hands. They try to gain happiness through accumulation. When they are not successful in accumulating wealth, gaining position, power and honour, and deriving pleasure from sense gratification, they pine and suffer, envying others who are successful in doing so. However, even if they are 'successful' in getting these things, they suffer as well because they then fear losing what they have gained, or their desires have now increased for more wealth, higher position, more power, and greater pleasure. Their desires can never seem to be completely satiated. This is why an understanding of life is important so that we do not waste too much time doing the impossible.
+ONCE we realise the nature of life (characterised by unsatisfactoriness, change, and egolessness) as well as the nature of greed and the means of getting them satisfied, we can understand the reason why the happiness so desperately sought by many people is so elusive like catching a moonbeam in their hands. They try to gain happiness through accumulation. When they are not successful in accumulating wealth, gaining position, power and honour, and deriving pleasure from sense gratification, they pine and suffer, envying others who are successful in doing so. However, even if they are 'successful' in getting these things, they suffer as well because they then fear losing what they have gained, or their desires have now increased for more wealth, higher position, more power, and greater pleasure. Their desires can never seem to be completely satiated. This is why an understanding of life is important so that we do not waste too much time doing the impossible.
 
 It is here that the adoption of a religion becomes important, since it encourages contentment and urges a person to look beyond the demands of his or her flesh and ego. In a religion like Buddhism, people are reminded that they are the heirs of their karma and the master of their destinies. In order to gain greater happiness, they must be prepared to forego short-term pleasures. If people do not believe in life after death, even then it is enough for them to lead a good, noble life on earth, enjoying a life of peace and happiness here and now, as well as performing actions which are for the benefit and happiness of others. Leading such a positive and wholesome life on earth and creating happiness for oneself and others is much better than a selfish life of trying to satisfy one's ego and greed. If we do not know how to live up to the expectations of others, how can we expect others to live according to our expectations?
 
@@ -1618,9 +1667,9 @@ Based on these realisations and understanding,they will then try to be more awar
 
 In the process of self-transformation, people will no longer aspire for a divine birth as their ultimate goal in life. They will then set their goal much higher, and model themselves after the Buddha who has reached the summit of human perfection and attained the ineffable state we call Enlightenment or Nirvana. It is here that we develop a deep confidence in the Triple Gem and adopt the Buddha as our spiritual ideal. We will strive to eradicate greed, develop wisdom and compassion, and to be completely liberated from the bonds of Samsara.
 
-## Buddhism For Human Beings In Society
+#### Buddhism For Human Beings In Society
 
-This religion can be practised either in society or in seclusion.
+*This religion can be practised either in society or in seclusion.*
 
 THERE are some who believe that Buddhism is so lofty and sublime a system that it cannot be practised by ordinary men and women in the workaday world. They think that one has to retire to a monastery or to some quiet place if one desires to be a true Buddhist.
 
@@ -1632,6 +1681,7 @@ There may be some who find it easier and more convenient to practise Buddhism by
 
 True renunciation does not mean running away physically from the world. Sariputta, the chief disciple of the Buddha, said that one man might live in a forest devoting himself to ascetic practices, but might be full of impure thoughts and 'defilements'. Another might live in a village or a town, practising no ascetic discipline, but his mind might be pure, and free from 'defilements'. 'Of these two',
 said Sariputta, 'the one who lives a pure life in the village or town is definitely far superior to, and greater than, the one who lives in the forest.' (MAJJHIMA NIKAYA)
+
 The common belief that to follow the Buddha's Teaching one has to retire from a normal family life is a misconception. It is really an unconscious defence against practising it. There are numerous references in Buddhist literature to men and women living ordinary, normal family lives who successfully practised what the Buddha taught and realized Nirvana. Vacchagotta the Wanderer, once asked the Buddha directly whether there were laymen and women leading the family life who followed His Teaching successfully and attained the high spiritual states. The Buddha categorically stated that there were many laymen and women leading the family life who had followed His Teaching successfully and attained the high spiritual states.
 
 It may be agreeable for certain people to live a retired life in a quiet place away from noise and disturbances. But it is certainly more praiseworthy and courageous to practise Buddhism living among fellow beings, helping them and offering service to them. It may perhaps be useful in some cases for a person to live in retirement for a time in order to improve the mind and character, as a preliminary to moral, spiritual and intellectual training, to be strong enough to come out later and help others. But if a person lives all his or her life in solitude, thinking only of personal happiness and salvation, without caring for his or her fellowmen, this surely is not completely in keeping with the Buddha's Teaching which is based on love, compassion and service to others.
@@ -1643,15 +1693,14 @@ In Buddhist countries, the Sangha are largely responsible for the education of t
 
 In turn, the layperson is expected to look after the material well being of the Sangha who do not earn income to provide themselves with food, shelter, medicine and clothing. In common Buddhist practice, it is considered meritorious for laypeople to contribute to the well being of the Sangha because by so doing they make it possible for the Sangha to continue to minister to the spiritual needs of the people and to develop their own mental purity.
 
-## The Buddhist Way Of Life For Householders
+#### The Buddhist Way Of Life For Householders
 
-The Buddha considered economic welfare as a requisite for human comfort, but moral and spiritual development for a happy, peaceful and contented life.
+*The Buddha considered economic welfare as a requisite for human comfort, but moral and spiritual development for a happy, peaceful and contented life.*
 
-A man* named Dighajanu once visited the Buddha and said,
+A man[^9] named Dighajanu once visited the Buddha and said, 'Venerable Sir, we are ordinary laymen, leading a family life with wife and children. Would the Blessed One teach us some doctrines which will be conducive to our happiness in this world and hereafter?'
 
-![200_image_0.png](200_image_0.png)
+[^9]: Abstract from the book ‘What the Buddha Taught’ by Ven. Dr. W. Rahula.
 
-'Venerable Sir, we are ordinary laymen, leading a family life with wife and children. Would the Blessed One teach us some doctrines which will be conducive to our happiness in this world and hereafter?'
 The Buddha told him that there are four things which are conducive to a human's happiness in this world. (1) he should be skilled, efficient, earnest, and energetic in whatever profession he is engaged, and he should know it well (*utthana-sampada*); (2) he should protect his income, which he has thus earned righteously, with the sweat of his brow (*arakkha-sampada*); (3) he should have good friends (*kalyana-mittata*) who are faithful, learned, virtuous, liberal and intelligent, who will help him along the right path away from evil; (4) he should spend reasonably, in proportion to his income, neither too much nor too little, i.e., he should not hoard wealth avariciously nor should he be extravagant—in other words he should live within his means (*sama jivikata*).
 
 Then the Buddha expounds the four virtues conducive to a layman's happiness hereafter: (1) *Saddha:* he should have faith and confidence in moral, spiritual and intellectual values; (2) *Sila:* he should abstain from destroying and harming life, from stealing and cheating, from adultery, from falsehood, and from intoxicating drinks; (3) *Caga:* he should practise charity, generosity, without attachment and craving for his wealth; (4) *Pañña:* he should develop wisdom which leads to the complete destruction of suffering, to the realisation of Nirvana.
@@ -1666,13 +1715,11 @@ From the few examples given above, one can see that the Buddha considered econom
 
 Many people think that to be a good Buddhist one must have absolutely nothing to do with the materialistic life. This is not correct. What the Buddha teaches is that while we can enjoy material comforts without going to extremes, we must also conscientiously develop the spiritual aspects of our lives. While we can enjoy sensual pleasures as laypeople, we should never be unduly attached to them to the extent that they hinder our spiritual progress. Buddhism emphasizes the need for a person to follow the Middle Path. The Buddha's teaching is not based on the obliteration of the world but on the obliteration of ignorance and selfish craving.
 
-![203_image_0.png](203_image_0.png)
-
-# Buddhist Morality And Practice
+### 8. Buddhist Morality And Practice
 
 ![203_Image_1.Png](203_Image_1.Png)
 
-## Buddhist Ethics
+#### Buddhist Ethics
 
 Moral laws, customs and manners are made by human beings but Buddhist Ethics are based on universal values.
 
@@ -1691,21 +1738,20 @@ The Buddha had given advice on the conditions which were most wholesome and cond
 The theory of Buddhist ethics finds its practical expression in the various precepts. These precepts or disciplines are nothing but general guides to show the direction which we should turn to on our way to final salvation. Although many of these precepts are expressed in a negative form, we must not think that Buddhist morality consists of abstaining from evil without the complement of doing good.
 
 The morality found in all the precepts can be summarized in three simple principles—'To avoid evil; to do good, to purify the mind.' This is the advice given by all the Buddhas. (DHAMMAPADA, 183)
+
 In Buddhism, the distinction between what is good and what is bad is very simple: all actions that have their roots in greed, hatred, and delusion that spring from selfishness foster the harmful delusion of selfhood. These actions are demeritorious or unskilful or bad. They are called Akusala Karma. All those actions which are rooted in the virtues of generosity, love and wisdom, are meritorious— Kusala Karma. The criteria of good and bad apply whether the actions are of thought, word or deed.
 
-## Buddhist Morals Are Based On Intention Or Volition
+##### Buddhist Morals Are Based On Intention Or Volition
 
 'Karma is volition,' says the Buddha. Actions themselves are considered as neither good nor bad but 'only the intention and thought makes them so'. Yet Buddhist ethics does not maintain that a person may commit actions that are conventionally regarded as 'sins' provided that he or she does so with the best of intentions. Had this been its position, Buddhism would have confined itself to questions of psychology and left the uninteresting task of drawing up lists of ethical rules and framing codes of conduct to less emancipated teachings. The connection between thoughts and deeds, between mental and material action is an extension of thought. It is not possible to commit murder with a good heart because taking of life is simply the outward expression of a state of mind dominated by aversion anger, hate or greed. Deeds are condensations of thoughts just as rain is a condensation of vapour. Deeds proclaim from the rooftops of action only what has already been committed in the silent and secret chambers of the heart.
 
 A person who commits an immoral act thereby declares that he or she is not free from unwholesome states of mind. Also, a person who has a purified and radiant mind, who has a mind empty of all defiled thoughts and feelings, is incapable of committing immoral actions.
 
-Buddhist ethics also recognizes the objectivity of moral values.
+Buddhist ethics also recognizes the objectivity of moral values. In other words, the karmic consequences of actions occur in accordance with natural karmic law, regardless of the attitude of the individual or regardless of social attitudes toward the act. For example, drunkenness has karmic consequences; it is a negative action since it promotes one's own unhappiness as well as the unhappiness of others. The karmic effects of drunkenness exist despite what the drunkard or society may think about the habit of drinking. The prevailing opinions and attitudes do not in the least detract from the fact that drunkenness is objectively negative. The consequences—psychological, social, and karmic—make actions moral or immoral—regardless of the mental attitudes of those judging the act. Thus while ethical relativism is recognized, it is not considered as undermining the objectivity of values.
 
-In other words, the karmic consequences of actions occur in accordance with natural karmic law, regardless of the attitude of the individual or regardless of social attitudes toward the act. For example, drunkenness has karmic consequences; it is a negative action since it promotes one's own unhappiness as well as the unhappiness of others. The karmic effects of drunkenness exist despite what the drunkard or society may think about the habit of drinking. The prevailing opinions and attitudes do not in the least detract from the fact that drunkenness is objectively negative. The consequences—psychological, social, and karmic—make actions moral or immoral—regardless of the mental attitudes of those judging the act. Thus while ethical relativism is recognized, it is not considered as undermining the objectivity of values.
+#### What Is Vinaya?
 
-## What Is Vinaya?
-
-Vinaya is the disciplinary code for self-training laid down by the Buddha for monks and nuns to observe. Vinaya plays a pivotal role to ensure their pure religious way of life.
+*Vinaya is the disciplinary code for self-training laid down by the Buddha for monks and nuns to observe. Vinaya plays a pivotal role to ensure their pure religious way of life.*
 
 THE Buddha did not formulate the code of discipline in a single exercise. However, He instituted certain rules as and when the need arose. Vinaya Pitaka and its commentary contain many significant stories about how and why certain rules were laid down by the Buddha. According to the Buddha the best form of Vinaya was to discipline the mind, words and action through insight and understanding. The early disciples of the Buddha were highly developed spiritually and they had little need for a set of rules to be imposed upon them. However, as the monastic order
 (the Sangha) grew in numbers, it attracted many others, some of whom were not so developed spiritually. There arose some problems regarding their conduct and way of life such as taking part in lay activities for their livelihood and yielding to temptations of sense pleasure. Owing to this situation, the Buddha had to lay down guidelines for the monks and nuns to follow so that they could distinguish the difference between the life of monks and laymen. The holy order of the monks and the nuns was comparably very highly organised in relation to other existing ascetic communities at that time.
@@ -1716,7 +1762,7 @@ According to the MAHA PARINIRVANA SUTRA, the Buddha had proclaimed that some 'mi
 
 As time went on, the rules became fossilized and some orthodox disciples insisted that the rules should be followed strictly to the letter rather than in the spirit. It was precisely to prevent rigid adherence to mere rules of this kind that the Buddha did not appoint a successor to take over after Him. He had said that the understanding of the Dharma and upholding of the Dharma as the master should be enough to help one lead a holy life.
 
-## Development Of Sangha Community
+##### Development Of Sangha Community
 
 The Sangha community, in the course of time, evolved themselves into several sects, many of whom, while adhering to some major precepts as laid down by the Buddha, had, however, tended to ignore some of the minor rules. The Theravada sect appeared to be more orthodox, while the Mahayana and some other sects tended to be more liberal in their outlook and religious observances. The Theravada sect tried to observe the Vinaya to the very letter despite of changing circumstances and environment. Minor changes to the precepts had, however, taken place from time to time, but were not officially recognised even amongst the members of the Theravada sect. For instance, the Theravada sect observe strictly the rule of not taking food after the stipulated time of the day. The Theravada sect has not openly acknowledged the fact that certain variations could be allowed under special circumstances. Whilst members of other schools adapt themselves to the wearing of robes with appropriate colour and pattern, the Theravada sect has continued to adhere to the use of the original robes that were traditionally prescribed despite the changed social and climatic conditions. As a result many of the practices of the monkhood are clearly understood only by those who are born into traditional Buddhist cultures. This of course creates many problems when Buddhism is spread to other parts of the world, such as western countries.
 
@@ -1728,7 +1774,7 @@ The disciplinary code for lay devotees shows how a layman can lead a virtuous an
 
 Many Vinaya rules apply only to those who have renounced the worldly life. Of course a lay person may follow some of the rules if they help to develop greater spirituality.
 
-## Changing Society
+##### Changing Society
 
 When society changes, monks cannot remain as traditionalists without adapting to the changes, although they have renounced the worldly life. Sometimes conservative people who cannot understand this need for change criticise monks who adapt to the demands made by social reform. This does not mean of course that monks may change the rules to suit their own whims and fancies. When the monks want to amend even certain minor precepts, they would have to obtain the sanction of a recognised Sangha Council.
 
@@ -1742,7 +1788,7 @@ As such, monks need to conduct themselves in such a way that will earn them the 
 
 If the monks do not uphold their disciplinary code, lay people lose their confidence to attend to them. There are many instances recorded in the Buddhist Texts when even during the Buddha's time, lay devotees had refused to look after arrogant, quarrelsome or irresponsible monks. Monks can be criticized for carrying out certain worldly activities which only lay people are at liberty to do.
 
-## Dharma And Vinaya
+##### Dharma And Vinaya
 
 Many people have not yet realised that the Dharma, the Truth expounded by the Buddha, is not changeable under any circumstances. Certain Vinaya rules are also included in this same category and they are not subject to change. But some other Vinaya rules are subject to change so as to avoid certain unnecessary inconveniences.
 
@@ -1752,14 +1798,17 @@ Some lay people criticize monks for handling money. It is difficult to carry out
 
 Of course, those who choose to confine themselves to an isolated area for meditation to gain peace of mind, should be able to carry out their religious duties without hindrance from worldly concerns which can become burdensome. But they must first ensure that they have enough supporters to attend to their basic needs like food, shelter and medicine. While there can be such monks who wish to retire completely from society there must be enough monks in society to attend to the numerous religious needs of the general public. Otherwise, people may conclude that Buddhism cannot contribute very much in their day to day lives and for their well-being.
 
-## Characteristics Of A Monk
+##### Characteristics Of A Monk
 
 Among the salient characteristics of a monk are purity, voluntary poverty, humility, simplicity, selfless service, self-control, patience, compassion and harmlessness. He is expected to observe the four kinds of Higher Morality—namely:
-Patimokkha Sila: The Fundamental Moral Code (major offences related to immoral, cruel, harmful and selfish activities).
 
-Indriyasamvara Sila: Morality pertaining to sense-restraint. Ajivaparisuddhi Sila: Morality pertaining to purity of livelihood.
+* *Patimokkha Sila*: The Fundamental Moral Code (major offences related to immoral, cruel, harmful and selfish activities).
 
-Paccayasannissita Sila: Morality pertaining to the use of requisites pertaining to life.
+* *Indriyasamvara Sila*: Morality pertaining to sense-restraint.
+
+* *Ajivaparisuddhi Sila*: Morality pertaining to purity of livelihood.
+
+* *Paccayasannissita Sila*: Morality pertaining to the use of requisites pertaining to life.
 
 These four kinds of morality are collectively called *Sila-Visuddhi*
 (Purity of Virtue).
@@ -1772,9 +1821,9 @@ There are no vows or laws for a bhikkhu. He becomes a bhikkhu of his own accord 
 
 There is therefore no need for him to feel trapped by a vow he made earlier and to be hypocritical because he alone can decide whether or not he wishes to obey the rules. He is at liberty to leave the Order at any time and can lead a lay Buddhist way of life when he feels it is inconvenient. He can also return to the monastic life at any time he desires. The same general rules apply for bhikkhunis as well.
 
-## Ten Meritorious And Ten Evil Actions
+#### Ten Meritorious And Ten Evil Actions
 
-A fortunate or unfortunate life depends on individual merits and demerits.
+*A fortunate or unfortunate life depends on individual merits and demerits.*
 
 THE performance of good actions gives rise to merit (*puñña*),
 a quality which cleanses the mind. If the mind is unchecked, it has the tendency to be ruled by evil tendencies, leading one to perform bad deeds and get into trouble. Merit purifies the mind of the evil tendencies of greed, hatred and delusion. The greedy mind encourages a person to desire, accumulate and hoard; the hating mind drags him or her to dislike and anger; and the deluded mind makes one become entangled in greed and hatred, thinking that these evil roots are right and worthy. Demeritorious deeds give rise to more suffering and reduce the opportunities for a person to know and practise the Dharma.
@@ -1788,27 +1837,35 @@ which give rise to bountiful results to the performer of the good deed. Just as 
 
 The Buddha taught ten meritorious deeds for us to perform in order to gain a happy and peaceful life as well as to develop knowledge and understanding. The ten meritorious deeds are:
 
-| 1.                            | Generosity                        | Dana          |
-|-------------------------------|-----------------------------------|---------------|
-| 2.                            | Morality                          | Sila          |
-| 3.                            | Mental culture                    | Bhavana       |
-| 4.                            | Reverence or respect              | Apachayana    |
-| 5.                            | Service in helping others         | Veyyavaccha   |
-| 6.                            | Transference of merits to others  | Pattidana     |
-| 7.                            | Rejoicing in the merits of others | Pattanumodana |
-| 8.                            | Preaching and teaching the Dharma | Dharma desana |
-| 9.                            | Listening to the Dharma           | Dharma savana |
-| 10. Straightening one's views | Ditthijju                         |               |
+|     |                                   |               |
+| --- | --------------------------------- | ------------- |
+| 1.  | Generosity                        | Dana          |
+| 2.  | Morality                          | Sila          |
+| 3.  | Mental culture                    | Bhavana       |
+| 4.  | Reverence or respect              | Apachayana    |
+| 5.  | Service in helping others         | Veyyavaccha   |
+| 6.  | Transference of merits to others  | Pattidana     |
+| 7.  | Rejoicing in the merits of others | Pattanumodana |
+| 8.  | Preaching and teaching the Dharma | Dharma desana |
+| 9.  | Listening to the Dharma           | Dharma savana |
+| 10. | Straightening one's views         | Ditthijju     |
 
 The performance of these ten meritorious deeds will not only benefit oneself, but others as well, besides giving benefits to the recipients. Moral conduct benefits all beings with whom one comes into contact. Mental culture brings peace to others and inspires them to practise the Dharma. Reverence gives rise to harmony in society, while service improves the lives of others. Sharing merits with others shows that one is concerned about others' welfare, while rejoicing in others' merits encourages others to perform more merits. Teaching and listening to the Dharma are important factors for happiness for both the teacher and listener, while encouraging both to live in line with Dharma. Straightening one's views enables a person to show to others the beauty of Dharma. In the Dharmapada, the Buddha taught:
-'Should a person perform good, He should do it again and again; He should find pleasure therein; For blissful is the accumulation of good.'
-~ 118
-'Think not lightly of good, saying,
-'It will not come near to me'—
-Even by the falling of drops a water-jar is filled. Likewise the wise man, gathering little by little, Fills himself with good.'
-~ 122
 
-## Ten Evil Deeds
+>*'Should a person perform good,*\
+>*He should do it again and again;*\
+>*He should find pleasure therein;*\
+>*For blissful is the accumulation of good.'*\
+>~ 118
+
+>*'Think not lightly of good, saying,*\
+>*'It will not come near to me'—*\
+>*Even by the falling of drops a water-jar is filled.*\
+>*Likewise the wise man, gathering little by little,*\
+>*Fills himself with good.'*\
+>~ 122
+
+##### Ten Evil Deeds
 
 There are ten demeritorious deeds from which people are advised to keep away. These deeds are rooted in greed, hatred and delusion, and will bring suffering to others but especially to oneself in this life and later lives. When a person understands the Law of Karma and realises that bad deeds bring bad results, he or she will then practise Right Understanding and avoid performing these actions.
 
@@ -1833,9 +1890,9 @@ Praying for forgiveness is meaningless if, after the prayer is made, a person re
 
 No wrong doer, according to Buddhism, is beyond redemption or rehabilitation, especially with realisation and Right Effort. To be seduced into believing that a person can 'wash away' his or her bad deeds through some other 'miraculous' way is not only a mere superstition, but worse, it is also not useful particularly to the spiritual development of the person. It will only cause one to continue to remain ignorant and morally complacent. This misplaced belief can, in fact, do a person much more harm than the effects of the wrong deed which is feared so much.
 
-# Precepts
+#### Precepts
 
-By observing precepts, not only do you cultivate your moral strength, but you also perform the highest service to your fellow beings to live in peace.
+*By observing precepts, not only do you cultivate your moral strength, but you also perform the highest service to your fellow beings to live in peace.*
 
 EVERY country or society has its code of what is considered to be moral within its own social context. These codes are often linked to the society's interest and its legal system. An action is considered right so long as it does not break the law and transgress public or individual sensitivities. These social codes are flexible and amended from time to time to suit changing circumstances. Important as they are to society, these standards cannot serve as a reliable guide to some absolute principles of morality which can be applied universally and for all time.
 
@@ -1846,30 +1903,51 @@ How can we judge if an action is good or bad? The answer, according to Buddhism,
 
 In Buddhism, a person's first duty is to cleanse him or her self of the mental defilements of greed, hatred and ignorance. The reason for doing this is not because of fear or desire to please some divine beings, because if it were so, a person would be considered to be still lacking in wisdom. He or she would be only acting out of fear like the little child who behaves well because he or she is afraid of being punished for being naughty. Buddhists should act out of understanding and wisdom. They perform wholesome deeds because they realise that by so doing they develop their moral strength which provides the foundation for spiritual growth, leading to Liberation. In addition, they realise that their happiness and suffering are self-created through the operation of the Law of Karma. To minimise the occurrence of troubles and problems in their lives, they make the effort to refrain from doing evil. They perform good actions because they know that these will bring them peace and happiness. Since everyone seeks happiness in life, and since it is possible for each individual to provide the condition for happiness, then there is every reason to do good and avoid evil. Furthermore, the uprooting of mental defilements, the source of all anti-social acts, will bring great benefits to others in society. Therefore in helping oneself spiritually, one helps others to live peacefully.
 
-## Five Precepts
+##### Five Precepts
 
 Lay Buddhist morality is embodied in the Five Precepts, which may be considered at two levels. First, it enables people to live together in civilized communities with mutual trust and respect. Second, it is the starting point for the spiritual journey towards Liberation. Unlike commandments, which are supposedly divine laws imposed on people, precepts are accepted voluntarily by the people, especially when they realise the usefulness of adopting some training rules for disciplining the body, speech and mind. Understanding, rather than fear of punishment, is the reason for following the precepts. Good Buddhists should remind themselves to follow the Five Precepts daily. They are:
-I take the training precept to refrain from: 1. killing living creatures 2. taking what is not given 3. sexual misconduct 4. false speech 5. taking intoxicating drugs and liquor Besides understanding the Five Precepts merely as a set of rules of abstention, Buddhists should remind themselves that through the precepts they practice the Five Ennoblers as well. While the Five Precepts tell them what not to do, the Five Ennoblers tell them which qualities to cultivate, namely, loving kindness, renunciation, contentment, truthfulness, and mindfulness. When people observe the First Precept of not killing, they control their hatred and cultivate loving kindness. In the Second Precept, they control their greed and cultivate their renunciation or nonattachment. They control sensual lust and cultivate their contentment in the Third Precept. In the Fourth Precept, they abstain from false speech and cultivate truthfulness, while they abstain from unwholesome mental excitement and develop mindfulness through the Fifth Precept. Therefore, when they understand the ennoblers, they will realise that the observance of the Five Precepts does not cause them to be withdrawn, self-critical and negative, but to be positive personalities filled with love and care as well as other qualities accruing to one who leads a moral life.
+I take the training precept to refrain from:
+
+1. killing living creatures
+2. taking what is not given
+3. sexual misconduct
+4. false speech
+5. taking intoxicating drugs and liquor
+
+Besides understanding the Five Precepts merely as a set of rules of abstention, Buddhists should remind themselves that through the precepts they practice the Five Ennoblers as well. While the Five Precepts tell them what not to do, the Five Ennoblers tell them which qualities to cultivate, namely, loving kindness, renunciation, contentment, truthfulness, and mindfulness. When people observe the First Precept of not killing, they control their hatred and cultivate loving kindness. In the Second Precept, they control their greed and cultivate their renunciation or nonattachment. They control sensual lust and cultivate their contentment in the Third Precept. In the Fourth Precept, they abstain from false speech and cultivate truthfulness, while they abstain from unwholesome mental excitement and develop mindfulness through the Fifth Precept. Therefore, when they understand the ennoblers, they will realise that the observance of the Five Precepts does not cause them to be withdrawn, self-critical and negative, but to be positive personalities filled with love and care as well as other qualities accruing to one who leads a moral life.
 
 The precepts form the basis of practice in Buddhism. The purpose is to eliminate crude passions that are expressed through thought, word and deed. The precepts are also an indispensable basis for people who wish to cultivate their minds. Without some basic moral code, the power of meditation can often be applied for some wrong and selfish ends.
 
-## Eight Precepts*
+##### Eight Precepts[^10]
+
+[^10]: For further details on the Eight Precepts, see ‘Handbook of Buddhists‘ or Daily Buddhist Devotions by the same author.
 
 In many Buddhist countries, it is customary among the devotees to observe the Eight Precepts on certain days of the month, such as the full moon and new moon days. These devotees will come to the temple early in the morning and spend twenty-four hours there, observing the precepts. By observing the Eight Precepts, they cut themselves off from their daily life which is beset with material and sensual demands. The purpose of observing the Eight Precepts is to develop relaxation and tranquility, to train the mind, and to develop oneself spiritually.
 
 During this period of observing the precepts, devotees spend their time reading religious books, listening to the Teachings of the Buddha, meditating, and also helping with the religious activities of the temple. The following morning, they revert from the Eight Precepts to the Five Precepts intended for daily observance, and return home to resume their normal life.
 
-The Eight Precepts are to abstain from: 1.Killing; 2.Stealing; 3.Sexual acts; 4.Lying; 5.Taking intoxicants; 6.Taking food after noonday; 7.Dancing, singing, music, unseemly shows, the use of garlands, perfumes, and things that tend to beautify, and adorn the person, and 8.Using high and luxurious seats.*
+The Eight Precepts are to abstain from:
+
+1. Killing;
+2. Stealing;
+3. Sexual acts;
+4. Lying;
+5. Taking intoxicants;
+6. Taking food after noonday;
+7. Dancing, singing, music, unseemly shows, the use of garlands, perfumes, and things that tend to beautify, and adorn the person, and
+8. Using high and luxurious seats.[^11]
+
+[^11]: Precepts 1-5 are for daily observance while Precepts 6, 7, and 8 are taken on additionally (for special observance).
+
 Some people find it hard to understand the significance of a few of these precepts. They think that Buddhists are against dancing, singing, music, the cinema, perfume, ornaments and luxurious things. There is no rule in Buddhism which states that lay Buddhists must abstain from these things. The people who choose to abstain from these entertainments are devout Buddhists who observe the precepts only for a short period as a way of self-discipline. The reason for keeping away from these entertainments and ornamentations is to calm down the senses even for a few hours and to train the mind so as not to be enslaved to sensual pleasures. It helps one to realise that these adornments only increase one's belief in a permanent self or ego. They increase the passions of the mind and arouse emotions which hinder spiritual development. By occasionally restraining themselves, people will make progress towards overcoming their weaknesses and exercise greater control over themselves. However, Buddhists do not condemn these entertainments as wrong things. It is important for us to appreciate that the practice of these precepts are taken, not out of fear of transgression, but out of the understanding that they are beneficial for us to be humble and to lead a simple lives.
 
 Observance of precepts (both the Five and Eight Precepts) when performed with an earnest and willing mind is certainly a meritorious act. It brings great benefits to this life and the lives hereafter especially in developing the wisdom to see things as they really are. Therefore, people should try their best to observe the precepts with understanding and as often as they can.
 
-# Loving-Kindness
+#### Loving-Kindness
 
-Loving kindness or Compassionate Love purify the mind and the mind becomes a very energetic force to radiate for the well-being of others.
+*Loving kindness or Compassionate Love purify the mind and the mind becomes a very energetic force to radiate for the well-being of others.*
 
-I
-N the world today, there is sufficient material wealth and intellectual development. Although we must admit that it is unevenly distributed, we certainly have an adequate supply of advanced intellectuals, brilliant writers, talented speakers, philosophers, psychologists, scientists, religious advisors, wonderful poets and powerful world leaders. In spite of these intellectuals, there is no real peace and security in the world today. Something must be lacking. What is lacking is spirituality and loving-kindness or goodwill amongst mankind.
+IN the world today, there is sufficient material wealth and intellectual development. Although we must admit that it is unevenly distributed, we certainly have an adequate supply of advanced intellectuals, brilliant writers, talented speakers, philosophers, psychologists, scientists, religious advisors, wonderful poets and powerful world leaders. In spite of these intellectuals, there is no real peace and security in the world today. Something must be lacking. What is lacking is spirituality and loving-kindness or goodwill amongst mankind.
 
 Material gain in itself can never bring lasting happiness and peace. Peace must first be established in our own hearts before we can bring peace to others and to the world at large. The real way to achieve peace is to follow the advice given by the Buddha.
 
@@ -1878,6 +1956,7 @@ In order to practise loving-kindness, one must first practise the noble principl
 In order to practise loving-kindness, one must also be free from selfishness. Much of the love in this world is self centred, which means only a love of one's own self or seeking to benefit one's own self.
 
 'Not out of love is the husband loved; but the husband is loved for love of self. Children are loved by the parents, not out of love for the children, but for love of self. The gods are loved, not out of love for the gods, but for love for self. Not out of love is anybody loved, but for love of self are they loved.'
+
 The Buddha teaches another kind of love. According to the Buddha we should learn how to practise selfless love to maintain real peace while at the same time working for our own salvation. This is called altruistic love: where a self that does the loving is not identified. Just as suicide kills physically, selfishness kills spiritual progress. Loving-kindness in Buddhism is neither emotional or selfish. It is loving-kindness that radiates through the purified mind after eradicating hatred, jealousy, cruelty, enmity and grudges. According to the Buddha, Metta—Loving-kindness is the most effective method to maintain purity of mind and to purify the mentally polluted atmosphere. This is the kind of love a Bodhisatva practises. The love of a Buddha or an Arahant is pure because it cannot differentiate between that which is loved and that which loves.
 
 The word 'love' is used to cover a very wide range of emotions human beings experience. Buddhists differentiate between "Prema" selfish love and "Karuna" or "Metta" which is pure altruistic love. Emphasis on the base animal lust of one sex for another or between beings of the same sex has much debased the concept of a feeling of amity towards another being. According to Buddhism, there are many types of emotions, all of which come under the general term 'love'. First of all, there is selfish love and there is selfless love. One has selfish love when one is concerned only with the satisfaction to be derived for oneself without any consideration for the partner's needs or feelings. Jealousy is usually a symptom of selfish love. Selfless love, on the other hand, is felt when one person surrenders his or her whole being for the good of another—parents feel such love for their children. Usually human beings feel a mixture of both selfless and selfish love in their relationships with each other. For example, while parents make enormous sacrifices for their children, they usually expect something in return, so that there is both selfishness and selflessness.
@@ -1890,19 +1969,20 @@ In order to gain His Enlightenment, He had to struggle for many countless lives.
 
 In his book, THE BUDDHA'S ANCIENT PATH, Ven. Piyadassi says:
 'Love is an active force. Every act of the loving one is done with the stainless mind to help, to succour, to cheer, to make the paths of others easier, smoother and more adapted to the conquest of sorrow, the winning of the highest bliss.'
+
 'The way to develop love is through thinking out the evils of hate, and the advantages of non-hate; through thinking out according to actuality, according to karma, that really there is none to hate, that hate is a foolish way of feeling which breeds more and more darkness, that obstructs right understanding. Hate restricts; love releases. Hatred strangles; love enfranchises. Hatred brings remorse; love brings peace. Hatred agitates; love quietens, stills, calms. Hatred divides; love unites. Hatred hardens; love softens. Hatred hinders; love helps. And thus through a correct study and appreciation of the effects of hatred and the benefits of love, should one develop love.'
+
 In the Metta Sutra, the Buddha has expounded the nature of love in Buddhism. 'Just as a mother would protect her only child even at the risk of her own life, even so, let one cultivate a boundless heart towards all beings. Let his thoughts of boundless love pervade the whole world, above, below and across without any obstruction, without any hatred, without any enmity.'
+
 If our enemies point out our mistakes and weaknesses, we must be grateful to them.
 
-## Real Charity
+#### Real Charity
 
-We perform real charity if we can give freely without expecting anything in return in order to reduce our selfish desires.
+*We perform real charity if we can give freely without expecting anything in return in order to reduce our selfish desires.*
 
 THE essence of true charity is to give something without expecting anything in return for the gift. If a person expects some material benefit to arise from the gift, he or she is only performing an act of bartering and not charity. A charitable person should not make other people feel indebted or use charity as a way of exercising control over them. One should not even expect others to be grateful, for most people are forgetful and not necessarily ungrateful. The act of true charity is wholesome, has no strings attached, and leaves both the giver and the recipient free from obligation.
 
-The meritorious deed of charity is highly praised in every religion.
-
-Those who have enough to maintain themselves should think of others and extend their generosity to deserving cases. Among people who practise charity, there are some who give as a means of attracting others into their religion or politics. Such an act of giving which is performed with the ulterior motive of conversion cannot really be said to be true charity.
+The meritorious deed of charity is highly praised in every religion. Those who have enough to maintain themselves should think of others and extend their generosity to deserving cases. Among people who practise charity, there are some who give as a means of attracting others into their religion or politics. Such an act of giving which is performed with the ulterior motive of conversion cannot really be said to be true charity.
 
 Those who are on their way to spiritual growth must try to reduce their own selfishness and strong desire for acquiring more and more. They should reduce their strong attachment to possessions which, if they are not mindful, can enslave them to greed. What they own or have should instead be used for the benefit and happiness of others: their loved ones as well as those who need help.
 
@@ -1912,15 +1992,17 @@ There are many things which we can give. We can give material things: food for t
 
 But the greatest testimony to the Buddha's great compassion is His priceless gift to humanity—the Dharma which can liberate all beings from suffering. To the Buddhist, the highest gift of all is the gift of Dharma. This gift has great powers to change a life. When people receive the Dharma with a pure mind and practise the Truth with earnestness, they cannot fail to change. They will experience greater happiness, peace and joy in their heart and mind. If they were once cruel, they become compassionate. If they were once revengeful, they become forgiving. Through Dharma, the hateful becomes more compassionate, the greedy more generous, and the restless more serene. When a person has tasted Dharma, not only will happiness be experience here and now, but also in the lives hereafter.
 
-# Buddhist Attitude Towards Human Organ Donations
+##### Buddhist Attitude Towards Human Organ Donations
 
-F
-rom the Buddhist point of view, the donation of organs after one's death for the purpose of restoring the life of another human being clearly constitutes an act of charity—which forms the basis or foundation of a spiritual or religious way of life.
+From the Buddhist point of view, the donation of organs after one's death for the purpose of restoring the life of another human being clearly constitutes an act of charity—which forms the basis or foundation of a spiritual or religious way of life.
 
-Dana is the Pali term in Buddhism for charity or generosity.
+*Dana* is the Pali term in Buddhism for charity or generosity.
 
 The perfection of this virtue consists of its practice in three ways, namely:
-1. the giving or sharing of material things or worldly possessions; 2. the offering of one's own bodily organs; and 3. the offering of one's services for a worthy cause to save the life even at the risk of sacrificing one's own life for the well being and happiness of others in need.
+
+1. the giving or sharing of material things or worldly possessions;
+2. the offering of one's own bodily organs; and
+3. the offering of one's services for a worthy cause to save the life even at the risk of sacrificing one's own life for the well being and happiness of others in need.
 
 It is through such acts of charity that one is able to reduce one's own selfish motives from the mind and begin to develop and cultivate the great virtues of loving kindness, compassion and wisdom.
 
@@ -1938,15 +2020,11 @@ With the ever-increasing number of organ failure occurring in the country, the t
 
 It is the duty of all understanding people to join in this noble cause to help to alleviate suffering humanity. Some time ago there was a car sticker which said, "Leave your organs behind, God known we need them here".
 
-# The Buddhist Attitude To Animal Life
+##### The Buddhist Attitude To Animal Life
 
-If we believe that animals were created by someone for the benefit of men, it would follow that men were also created for animals since some animals do eat human flesh as part of their nature.
+*If we believe that animals were created by someone for the benefit of men, it would follow that men were also created for animals since some animals do eat human flesh as part of their nature.*
 
-ANIMALS are said to be conscious only of the present. They
-
-![238_image_0.png](238_image_0.png)
-
-live with no concern for the past or future. It is like little children who seem to have no notion of the future. They also live in the present until their faculties of memory and imagination are developed. Self-consciousness is a faculty which comes with maturity.
+ANIMALS are said to be conscious only of the present. They live with no concern for the past or future. It is like little children who seem to have no notion of the future. They also live in the present until their faculties of memory and imagination are developed. Self-consciousness is a faculty which comes with maturity.
 
 Human beings possess the faculty of reasoning. The gap between human being and animal widens only to the extent that we develop our reasoning faculty and act accordingly. Buddhists accept that animals not only possess instinctive power but also, to a lesser degree, thinking power. But they can use their instinct from birth only to find their food, shelter, protection and sensual pleasure.
 
@@ -1957,7 +2035,9 @@ Buddhism cannot accept that animals were created by someone to benefit human bei
 Buddhists are encouraged to love all living beings and not to restrict their concern only for the welfare of human beings. They should practise loving kindness towards every living being. The Buddha's advice is that it is not right for us to take away the life of any living being since every living being has a right to exist. Animals also have fear and pain as do human beings. It is wrong to take away their lives or hurt them or instill fear in them. We should not misuse our intelligence and strength to destroy animals even though they may sometimes be perceived as a nuisance to us. Animals need our sympathy. Destroying them is not the only way to get rid of them. Every living being is contributing something to maintain this world. It is unfair for us to deprive their living rights.
 
 In his HANDBOOK OF REASON, D. Runes says:
-'We can hardly speak of morals in relation to creatures we systematically devour, mostly singed but sometimes raw. There are men and women who practise horse love, dog love, cat love, bird love. But these very same people would take a deer or a calf by its neck, slit its throat, drink the blood straight away or in a pudding, and bite off the flesh. And who is to say that a horse they cherish is nobler than a deer they feed on? Indeed, there are people who eat cats, dogs and horses but would use a cow only as a work animal and the dogs to protect them and their properties.'
+
+>*'We can hardly speak of morals in relation to creatures we systematically devour, mostly singed but sometimes raw. There are men and women who practise horse love, dog love, cat love, bird love. But these very same people would take a deer or a calf by its neck, slit its throat, drink the blood straight away or in a pudding, and bite off the flesh. And who is to say that a horse they cherish is nobler than a deer they feed on? Indeed, there are people who eat cats, dogs and horses but would use a cow only as a work animal and the dogs to protect them and their properties.'*
+
 Some cry over a little bird or goldfish that expired; others travel long distances to catch fish on a nasty hook for food or mere pleasure or to shoot birds for fun. Some go into deep jungle and to other countries for hunting animals as game while others spend a lot to keep the same animals at home as their pets.
 
 Some keep frogs to foretell the weather; others cut off their legs and fry them. Some tenderly tend birds in gilded cages; others serve them for breakfast. It is all quite confusing.
@@ -1972,34 +2052,28 @@ It is true that the existence of certain creatures is a threat to human existenc
 
 Since every creature contributes something for the maintenance of the planet and atmosphere, destroying them is not the solution to overcome our problems and needs. We should take other measures to maintain the balance of nature.
 
-# The Need For Tolerance Today
+#### The Need For Tolerance Today
 
-'If a person foolishly does me wrong, I will return to him the protection of my boundless love. The more evil that comes from him the more good will go from me. I will always give off only the fragrance of goodness.' (Buddha)
-P EOPLE today are restless, weary, filled with fear and discontentment. They are intoxicated with the desire to gain fame, wealth and power. They crave for gratification of the senses. People are passing their days in fear, suspicion and insecurity. In this time of turmoil and crisis, it becomes difficult for people to coexist peacefully with their fellow beings. There is therefore, a great need for tolerance and understanding in the world so that peaceful co-existence among the people of the world can be possible.
+>*'If a person foolishly does me wrong, I will return to him the protection of my boundless love. The more evil that comes from him the more good will go from me. I will always give off only the fragrance of goodness.'*\
+>(Buddha)
+
+PEOPLE today are restless, weary, filled with fear and discontentment. They are intoxicated with the desire to gain fame, wealth and power. They crave for gratification of the senses. People are passing their days in fear, suspicion and insecurity. In this time of turmoil and crisis, it becomes difficult for people to coexist peacefully with their fellow beings. There is therefore, a great need for tolerance and understanding in the world so that peaceful co-existence among the people of the world can be possible.
 
 The world has bled and suffered from the disease of dogmatism and of intolerance. The soil of many countries today is soaked with the blood spilled on the altar of various political struggles, as the skies of earlier millennia were covered with the smoke of burning martyrs of various faiths. Whether in religion or politics people have been conscious of a mission to achieve power and have been aggressive towards other ways of life. Indeed, the intolerance of the crusading spirit has spoiled the records of religions.
 
-Let us look back at the past century of highly publicized
-'Progress'—a century of gadgets and inventions. The array of new scientific and technical inventions is dazzling—telephones, electric motors, aeroplanes, radios, television, computers, space ships, satellites and electronic devices. Yet, in the same century the children of the earth who have developed all these inventions as the ultimate in progress, were the same people who butchered millions of others with bayonets or bullets or bombs. Amidst all the great 'progress',
-where did the spirit of tolerance stand? Where is the love that many religions preach?
+Let us look back at the past century of highly publicized 'Progress' — a century of gadgets and inventions. The array of new scientific and technical inventions is dazzling — telephones, electric motors, aeroplanes, radios, television, computers, space ships, satellites and electronic devices. Yet, in the same century the children of the earth who have developed all these inventions as the ultimate in progress, were the same people who butchered millions of others with bayonets or bullets or bombs. Amidst all the great 'progress', where did the spirit of tolerance stand? Where is the love that many religions preach?
 
 Today people are interested in exploring outer space. But they are totally unable to live as neighbours in peace and harmony on the earth. The fear that humans will eventually desecrate the moon and other planets is today very real.
 
-For the sake of material gain, modern people violate nature.
+For the sake of material gain, modern people violate nature. Their mental activities are so preoccupied with satisfying their pleasure that they are unable to focus on or even understand the purpose of life. This unnatural behaviour of present human beings is the result of their wrong conception of human life and its ultimate aim. We create more the frustration, fear, insecurity, intolerance and violence.
 
-Their mental activities are so preoccupied with satisfying their pleasure that they are unable to focus on or even understand the purpose of life. This unnatural behaviour of present human beings is the result of their wrong conception of human life and its ultimate aim. We create more the frustration, fear, insecurity, intolerance and violence.
+In fact, today intolerance is still practised in the name of religion. People merely talk of religion and promise to provide short cuts to paradise, they are not interested in practising it. If Christians live by the Sermon on the Mount, if Buddhists follow the Noble Eightfold Path, if Muslims really follow the concept of Brotherhood and if the Hindus shape their life in oneness, definitely there will be peace and harmony in this world. In spite of these invaluable Teachings of the great religious teachers, people have still not realised the value of tolerance. The intolerance that is practised in the name of religion is most disgraceful and deplorable.
 
-In fact, today intolerance is still practised in the name of religion.
+The Buddha's advice is 'Let us live happily, not hating those who hate us. Among those who hate us, let us live free from hatred. Let us live happily and free from ailment. Let us live happily and be free from greed; among those who are greedy'. (DHAMMAPADA 197, 200)
 
-People merely talk of religion and promise to provide short cuts to paradise, they are not interested in practising it. If Christians live by the Sermon on the Mount, if Buddhists follow the Noble Eightfold Path, if Muslims really follow the concept of Brotherhood and if the Hindus shape their life in oneness, definitely there will be peace and harmony in this world. In spite of these invaluable Teachings of the great religious teachers, people have still not realised the value of tolerance. The intolerance that is practised in the name of religion is most disgraceful and deplorable.
+#### Buddhist Funeral Rites
 
-The Buddha's advice is 'Let us live happily, not hating those who hate us. Among those who hate us, let us live free from hatred. Let us live happily and free from ailment. Let us live happily and be free from greed; among those who are greedy'.
-
-(DHAMMAPADA 197, 200)
-
-## Buddhist Funeral Rites
-
-Proper Buddhist funeral practices are simple, solemn and dignified religious services.
+*Proper Buddhist funeral practices are simple, solemn and dignified religious services.*
 
 AS practised in many Buddhist countries, a Buddhist funeral is a simple, solemn and dignified service. Unfortunately, some people have included many unnecessary, extraneous items and superstitious practices into the funeral rites. The extraneous items and practices vary according to the traditions and customs of the people. Rituals were introduced in the past by people who could not understand the nature of life, nature of death, and what life would be after death. When such ideas were incorporated as so-called Buddhist practices, critics tended to condemn Buddhism for expensive and meaningless funeral rites. If they approach proper persons who have studied the real Teachings of the Buddha and Buddhist tradition, they could receive advice on how to perform Buddhist funeral rites in the correct manner. It is most unfortunate that a bad impression has been created that Buddhism encourages people to waste their money and time on unnecessary rites and rituals. It must be clearly understood that Buddhism has nothing to do with such debased practices.
 
@@ -2017,30 +2091,31 @@ If we really want to honour a departed person, we must do some meritorious deeds
 
 Buddhists believe that when a person dies, rebirth will take place somewhere else according to his or her good or bad actions.
 
-As long as a person possesses the craving for existence, that person must experience rebirth. Only the Arahants, who have gone beyond all passions will have no more rebirths and so after their death, they will attain their final goal Nirvana.*
-*Read 'Day-To-Day Buddhist Practice' by the same author.
+As long as a person possesses the craving for existence, that person must experience rebirth. Only the Arahants, who have gone beyond all passions will have no more rebirths and so after their death, they will attain their final goal Nirvana.[^12]
 
-![247_image_0.png](247_image_0.png)
+[^12]: Read 'Day-To-Day Buddhist Practice' by the same author.
 
-# Dharma And Ourselves As Refuge
+### 9. Dharma And Ourselves As Refuge
 
 ![247_Image_1.Png](247_Image_1.Png)
 
-## Why We Take Refuge In The Buddha
+#### Why We Take Refuge In The Buddha
 
-Buddhists take refuge in the Buddha to gain inspiration and right understanding for their self-purification and to affirm their confidence in the Buddha or to recall the Buddha to their minds.
+*Buddhists take refuge in the Buddha to gain inspiration and right understanding for their self-purification and to affirm their confidence in the Buddha or to recall the Buddha to their minds.*
 
 BUDDHISTS do not take refuge in the Buddha with the belief that He is a God or son of God. The Buddha never claimed any divinity. He was the Enlightened One, the most Compassionate, Wise, and Holy One who ever lived in this world. Therefore, people take refuge in the Buddha as a Teacher or Master who has shown the real path of emancipation. They pay homage to Him to show their gratitude and respect, but they do not ask for material favours through Him. Buddhists do not pray to the Buddha thinking that He is a god who will reward them or punish them.
 
 They recite verses or some sutras not in the sense of supplication but as a means of recalling His great virtues and good qualities to get more inspiration and guidance for themselves and to develop the confidence to follow His Teachings so that they too could be like Him. There are critics who condemn this attitude of taking refuge in the Buddha. They do not know the true meaning of the concept of taking refuge in and paying homage to a great religious Teacher. They have learned about praying which is the only thing that some people do in the name of religion. When Buddhists seek refuge it means they accept the Buddha, Dharma and the Sangha as the means through which they can eradicate all the causes of their fear and other mental disturbances. Many people, especially those with animistic beliefs, seek protection in certain objects around them which they believe are inhabited by spirits. Buddhist however, know that the only protection they can have is through a complete understanding of their own natures and eradicating their base instincts. To do this they place their confidence in the Buddha's teachings and His Path, because this is the only way to true Emancipation and freedom from suffering.
 
 The Buddha advised about the futility of taking refuge in hills, woods, groves, trees and shrines when people are fear-stricken. No such refuge is safe, no such refuge is Supreme. Not by resorting to such a refuge is one freed from all ill. One who has gone for refuge to the Buddha, the Dharma and the Sangha sees with right knowledge the Four Noble Truths—Sorrow, the cause of Sorrow, the transcending of Sorrow, and the Noble Eightfold Path which leads to the cessation of Sorrow. This indeed is secure refuge. By seeking such refuge one is released from all Sorrow. (DHAMMAPADA 188-192)
+
 In the DHAJAGGA SUTRA, it is mentioned that by taking refuge in Sakra, the king of gods or any god, the followers would not be free from all their worldly problems and fears. The reason is, such gods are themselves not free from lust, hatred, illusion and fear, but the Buddha, Dharma and the Sangha are free from them. Only those who are free from unsatisfactoriness can show the way to lasting happiness.
 
 Francis Story, a western Buddhist scholar, gives his views on seeking refuge in the Buddha. 'I go for refuge to the Buddha. I seek the presence of the Exalted Teacher by whose compassion I may be guided through the torrents of Samsara, by whose serene countenance I may be uplifted from the mire of worldly thoughts and cravings, seeing there in the very assurance of Nirvanic Peace, which He himself attained. In sorrow and pain I turn to Him and in my happiness I seek His tranquil gaze. I lay before His Image not only flowers and incense, but also the burning fires of my restless heart, that they may be quenched and stilled. I lay down the burden of my pride and my selfhood, the heavy burden of my cares and aspirations, the weary load of this incessant birth and death.'
 Sri Rama Chandra Bharati, an Indian poet, gives another meaningful reason for taking refuge in the Buddha.
 
 'I seek not thy refuge for the sake of gain, Not fear of thee, nor for the love of fame, Not as thou hailest from the solar race, Not for the sake of gaining knowledge vast, But drawn by the power of the boundless love, And thy all-embracing peerless ken, The vast Samsara's sea safe to cross, I bend low, O lord, and become thy devotee.'
+
 Some people say that since the Buddha was only a man, there is no meaning in taking refuge in Him. But they do not know that although the Buddha very clearly said that He was a man, He was not an ordinary man like any of us. He was an extraordinary and incomparably holy person who possessed Supreme Enlightenment and great compassion toward every living being. He was a man freed from all human weaknesses, defilements and even from ordinary human emotions. Of Him it has been said, 'There is none so godless as the Buddha, and yet none so godlike'. In the Buddha is embodied all the great virtues, sacredness, wisdom and enlightenment.
 
 Another question that people very often raise is this: 'If the Buddha is not a god, if He is not living in this world today, how can He bless people?' According to the Buddha, if people follow His advice by leading a religious life, they would certainly receive blessings. Blessing in a Buddhist sense means the joy we experience when we develop confidence and satisfaction. The Buddha once said, 'If anyone wishes to see me, he should look at My Teachings and practise them.' (SAMYUTTA NIKAYA) Those who understand His Teachings easily see the real nature of the Buddha reflected in themselves. The image of the Buddha they maintain in their minds is more real than the image they see on the altar, which is merely a symbolic representation. '*Those who live in accordance with the* Dharma (righteous way of life) will be protected by that very Dharma'
@@ -2050,11 +2125,12 @@ In other religions, people worship their God by asking for favours to be granted
 
 Buddhists respect the Buddha as their Master. However, this respect does not imply an attachment to or a dependence on the Teacher. This kind of respect is in accordance with His Teaching which is as follows:
 'Monks, even if a monk should take hold of the edge of My outer robe and should walk close behind me, step for step, yet if he should be covetous, strongly attracted by pleasures of the senses, malevolent in thought, of corrupt mind and purpose, of confused recollection, inattentive and not contemplative, scatter-brained, his sense-faculties uncontrolled, then he is far from Me and I am far from him.'
+
 'Monks, if the monk should be staying even a hundred miles away, yet he is not covetous, not strongly attracted by the pleasures of the senses, not malevolent in thought, not of corrupt mind and purpose, his recollection firmly set, attentive, contemplative, his thoughts be one-pointed, restrained in his sense-faculties, then he is near Me and I am near him.' (SAMYUTTA NIKAYA)
 
-## No Self Surrender
+#### No Self Surrender
 
-Dependence on others means a surrender of one's effort and self-confidence.
+*Dependence on others means a surrender of one's effort and self-confidence.*
 
 BUDDHISM is a gentle religion where equality, justice and peace reign supreme. To depend on others for salvation is negative, but to depend on oneself is positive. Dependence on others means surrendering one's intelligence and efforts.
 
@@ -2066,16 +2142,14 @@ The Buddha taught that what we need for our happiness is not a religion with a m
 
 The Buddha has given a new explanation of the universe. It is a new vision of eternal happiness, the achievement of perfection. The winning of the human goal in Buddhism is the permanent state beyond impermanence, the attainment of Nirvana beyond all the worlds of change, and the final deliverance from the miseries of existence.
 
-## No Sinners
+#### No Sinners
 
-In Buddhism, bad actions are merely termed as unskillful or unwholesome, and not as sinful.
+*In Buddhism, bad actions are merely termed as unskillful or unwholesome, and not as sinful.*
 
-BUDDHISTS do not regard humans as sinful by nature or
+BUDDHISTS do not regard humans as sinful by nature or 'in rebellion against god'. Every human being is a person of great worth who has within him or herself a vast store of good as well as evil habits. The good in a person is always waiting for a suitable opportunity to flower and to ripen. Remember the saying, 'There is so much that is good in the worst of us and so much that is bad in the best of us.'
 
-![253_image_0.png](253_image_0.png)
-
-'in rebellion against god'. Every human being is a person of great worth who has within him or herself a vast store of good as well as evil habits. The good in a person is always waiting for a suitable opportunity to flower and to ripen. Remember the saying, 'There is so much that is good in the worst of us and so much that is bad in the best of us.'
 Buddhism teaches that everyone is responsible for his or her own good and bad deeds, and that each individual can mould his or her own destiny. Says the Buddha, 'These evil deeds were only done by you, not by your parents, friends, or relatives; and you yourself will reap the painful results.' (DHAMMAPADA 165)
+
 Our sorrow is of our own making and is not handed down as a family curse or an original sin of a mythical primeval ancestor. Buddhists do not accept the belief that this world is merely a place of trial and testing. This world can be made a place where we can attain the highest perfection. And perfection is synonymous with happiness. To the Buddha, human beings are not an experiment in life created by somebody and who can be done away with when unwanted. If a sin could be forgiven, people could take advantage and commit more and more sins. The Buddhist has no reason to believe that the sinner can escape the consequences of his or her actions by the grace of an external power. If we thrust our hand into a furnace, the hand will be burnt, and all the prayer in the world will not remove the scars. The same is with the person who walks into the fires of evil action. This is not to say that every wrong doing will automatically be followed by a predictable reaction. Evil actions are prompted by evil states of mind. If one purifies the mind, then the effects of previous actions can be reduced or eradicated all together. The Buddha's approach to the problems of suffering is not imaginary, speculative or metaphysical, but essentially empirical and impartial.
 
 According to Buddhism, there is no such thing as "sin" as explained by other religions. In these religions sin is a trangression of a law laid down by a Divine law giver. To the Buddhists, sin is unskilful or unwholesome action—Akusala Karma which creates Papa—the downfall of people. The wicked person is an ignorant one who needs instruction more than punishment and condemnation. That person is not regarded as violating god's will or as a person who must beg for divine mercy and forgiveness. What is needed is only guidance for enlightenment.
@@ -3369,126 +3443,126 @@ It is extremely difficult for us to break up the emotional feeling that is attac
 
 We must understand that the dangers of dogmatism and superstition go hand-in-hand with religion. The time has come for wise people to separate religion from dogmatism and superstition. Otherwise, the good name of religion will be polluted and the number of non-believers will be increased, as they have already done.
 
-| A Successor to the Buddha,                       | 74   |
-|--------------------------------------------------|------|
-| Are Buddhists Idol Worshippers?,                 | 290  |
-| Astrology and Astronomy,                         | 414  |
-| Attainment of Buddhahood,                        | 47   |
-| Belief in Deities (Devas),                       | 406  |
-| Birth Control, Abortion and Suicide,             | 324  |
-| Buddhism and Politics,                           | 311  |
-| Buddhism for Human Beings in Society,            | 197  |
-| Buddhist Attitude Towards Human Organ Donations, | 237  |
-| Buddhist Contribution to Humanity,               | 88   |
-| Buddhist Ethics,                                 | 204  |
-| Buddhist Funeral Rites,                          | 245  |
-| Buddhist Missionaries,                           | 374  |
-| Buddhist Views on Marriage,                      | 321  |
-| Can Buddhists Join the Army?,                    | 385  |
-| Can the First Cause be Known?,                   | 166  |
-| Can We Justify War?,                             | 381  |
-| Changing a Religious Label before Death,         | 354  |
-| Consulting Mediums,                              | 424  |
-| Do It Yourself,                                  | 257  |
-| Does the Buddha Exist after His Death?,          | 70   |
-| Dreams and their Significance,                   | 425  |
-| Eternalism and Nihilism,                         | 164  |
-| Everything is Changeable,                        | 126  |
-| Existence of Spirits,                            | 408  |
-| Faith, Confidence and Devotion,                  | 274  |
+| A Successor to the Buddha,                       | 74  |
+| ------------------------------------------------ | --- |
+| Are Buddhists Idol Worshippers?,                 | 290 |
+| Astrology and Astronomy,                         | 414 |
+| Attainment of Buddhahood,                        | 47  |
+| Belief in Deities (Devas),                       | 406 |
+| Birth Control, Abortion and Suicide,             | 324 |
+| Buddhism and Politics,                           | 311 |
+| Buddhism for Human Beings in Society,            | 197 |
+| Buddhist Attitude Towards Human Organ Donations, | 237 |
+| Buddhist Contribution to Humanity,               | 88  |
+| Buddhist Ethics,                                 | 204 |
+| Buddhist Funeral Rites,                          | 245 |
+| Buddhist Missionaries,                           | 374 |
+| Buddhist Views on Marriage,                      | 321 |
+| Can Buddhists Join the Army?,                    | 385 |
+| Can the First Cause be Known?,                   | 166 |
+| Can We Justify War?,                             | 381 |
+| Changing a Religious Label before Death,         | 354 |
+| Consulting Mediums,                              | 424 |
+| Do It Yourself,                                  | 257 |
+| Does the Buddha Exist after His Death?,          | 70  |
+| Dreams and their Significance,                   | 425 |
+| Eternalism and Nihilism,                         | 164 |
+| Everything is Changeable,                        | 126 |
+| Existence of Spirits,                            | 408 |
+| Faith, Confidence and Devotion,                  | 274 |
 
 # Title Index
 
-| Faith Healing,                                                | 431   |
-|---------------------------------------------------------------|-------|
-| Fortune-Telling and Charms,                                   | 422   |
-| Four Noble Truths,                                            | 113   |
-| Gautama, The Buddha,                                          | 18    |
-| His Renunciation                                              | 24    |
-| Historical Evidences of the Buddha,                           | 38    |
-| How to Answer Questions,                                      | 63    |
-| Human Beings and Religion,                                    | 334   |
-| Human Beings are Responsible for Everything,                  | 259   |
-| Human Beings are their own Jailors,                           | 260   |
-| Human Weakness and the Concept of God,                        | 350   |
-| Is Buddhism a Theory or a Philosophy?                         | 177   |
-| Is Buddhism Atheistic?,                                       | 184   |
-| Is Buddhism Pessimistic?,                                     | 181   |
-| Is Buddhism Similar to Other Contemporary Teachings in India? | 165   |
-| Is there an Eternal Soul?                                     | 168   |
-| Law of Dependent Origination,                                 | 157   |
-| Loving-Kindness,                                              | 230   |
-| Meditation,                                                   | 278   |
-| Mercy Killing,                                                | 388   |
-| Message for All,                                              | 53    |
-| Mind and Matter (Nama-Rupa),                                  | 111   |
-| Miraculous Power,                                             | 57    |
-| Modern Religion,                                              | 358   |
-| Moral and Spiritual Development,                              | 345   |
-| Nature of Modern Life,                                        | 281   |
-| Nature of the Buddha,                                         | 27    |
-| Nirvana,                                                      | 153   |
-| No Self Surrender,                                            | 253   |
+| Faith Healing,                                                | 431 |
+| ------------------------------------------------------------- | --- |
+| Fortune-Telling and Charms,                                   | 422 |
+| Four Noble Truths,                                            | 113 |
+| Gautama, The Buddha,                                          | 18  |
+| His Renunciation                                              | 24  |
+| Historical Evidences of the Buddha,                           | 38  |
+| How to Answer Questions,                                      | 63  |
+| Human Beings and Religion,                                    | 334 |
+| Human Beings are Responsible for Everything,                  | 259 |
+| Human Beings are their own Jailors,                           | 260 |
+| Human Weakness and the Concept of God,                        | 350 |
+| Is Buddhism a Theory or a Philosophy?                         | 177 |
+| Is Buddhism Atheistic?,                                       | 184 |
+| Is Buddhism Pessimistic?,                                     | 181 |
+| Is Buddhism Similar to Other Contemporary Teachings in India? | 165 |
+| Is there an Eternal Soul?                                     | 168 |
+| Law of Dependent Origination,                                 | 157 |
+| Loving-Kindness,                                              | 230 |
+| Meditation,                                                   | 278 |
+| Mercy Killing,                                                | 388 |
+| Message for All,                                              | 53  |
+| Mind and Matter (Nama-Rupa),                                  | 111 |
+| Miraculous Power,                                             | 57  |
+| Modern Religion,                                              | 358 |
+| Moral and Spiritual Development,                              | 345 |
+| Nature of Modern Life,                                        | 281 |
+| Nature of the Buddha,                                         | 27  |
+| Nirvana,                                                      | 153 |
+| No Self Surrender,                                            | 253 |
 
 Title Index ! 437
 
-| No Sinners,                                      | 254   |
-|--------------------------------------------------|-------|
-| Other World Systems,                             | 400   |
-| Precepts,                                        | 224   |
-| Real Charity,                                    | 234   |
-| Realisation,                                     | 194   |
-| Rebirth,                                         | 145   |
-| Religion in a Scientific Age,                    | 360   |
-| Religion of Freedom,                             | 369   |
-| Religious Significance of Fasting,               | 296   |
-| Salvation Through Arahantahood,                  | 41    |
-| Searching for a Purpose in Life,                 | 193   |
-| Sex and Religion,                                | 329   |
-| Short-cut to Paradise and End of the World,      | 356   |
-| Status of Women in Buddhism,                     | 309   |
-| Superstitions and Dogmas,                        | 433   |
-| Ten Meritorious and Ten Evil Actions,            | 218   |
-| The Buddha's Attitude towards Worldly Knowledge, | 65    |
-| The Buddha's Service,                            | 35    |
-| The Buddha's Silence,                            | 61    |
-| The Buddhist Stand on the Death Sentence,        | 390   |
-| The Buddhist Attitude to Animal Life,            | 239   |
-| The Buddhist Concept of Heaven and Hell,         | 403   |
-| The Buddhist Way of Life for Householders,       | 201   |
-| The Future Buddha,                               | 75    |
-| The God-Idea,                                    | 347   |
-| The God-idea and Creation,                       | 349   |
-| The Last Message of the Buddha,                  | 67    |
-| The Lion's Roar,                                 | 80    |
-| The Meaning of Prayer,                           | 276   |
+| No Sinners,                                      | 254 |
+| ------------------------------------------------ | --- |
+| Other World Systems,                             | 400 |
+| Precepts,                                        | 224 |
+| Real Charity,                                    | 234 |
+| Realisation,                                     | 194 |
+| Rebirth,                                         | 145 |
+| Religion in a Scientific Age,                    | 360 |
+| Religion of Freedom,                             | 369 |
+| Religious Significance of Fasting,               | 296 |
+| Salvation Through Arahantahood,                  | 41  |
+| Searching for a Purpose in Life,                 | 193 |
+| Sex and Religion,                                | 329 |
+| Short-cut to Paradise and End of the World,      | 356 |
+| Status of Women in Buddhism,                     | 309 |
+| Superstitions and Dogmas,                        | 433 |
+| Ten Meritorious and Ten Evil Actions,            | 218 |
+| The Buddha's Attitude towards Worldly Knowledge, | 65  |
+| The Buddha's Service,                            | 35  |
+| The Buddha's Silence,                            | 61  |
+| The Buddhist Stand on the Death Sentence,        | 390 |
+| The Buddhist Attitude to Animal Life,            | 239 |
+| The Buddhist Concept of Heaven and Hell,         | 403 |
+| The Buddhist Way of Life for Householders,       | 201 |
+| The Future Buddha,                               | 75  |
+| The God-Idea,                                    | 347 |
+| The God-idea and Creation,                       | 349 |
+| The Last Message of the Buddha,                  | 67  |
+| The Lion's Roar,                                 | 80  |
+| The Meaning of Prayer,                           | 276 |
 
-| The Moon and Religious Observances,                         | 300   |
-|-------------------------------------------------------------|-------|
-| The Need for a Religion,                                    | 191   |
-| The Need for Tolerance Today,                               | 243   |
-| The Noble Eightfold Path—The Middle Way,                    | 118   |
-| The Origin of the World,                                    | 396   |
-| The Significance of Paritta Chanting,                       | 285   |
-| The Significance of Transference of Merits to the Departed, | 409   |
-| The Ultimate Truth,                                         | 90    |
-| Traditions, Customs and Festivals,                          | 306   |
-| Trikaya—The Three Bodies of the Buddha,                     | 49    |
-| Tri-Pitaka (or Tipitaka),                                   | 98    |
-| Two Main Schools of Buddhism,                               | 93    |
-| Understanding the Nature of Human Beings,                   | 189   |
-| Understanding the Nature of Life,                           | 190   |
-| Vegetarianism,                                              | 297   |
-| Was Buddha an Incarnation of God?,                          | 32    |
-| What is Abhidharma?,                                        | 105   |
-| What is Buddhism?,                                          | 83    |
-| What is Karma?,                                             | 129   |
-| What is the Purpose of Life?,                               | 188   |
-| What is Vinaya?,                                            | 208   |
-| Which is the Proper Religion?,                              | 342   |
-| Who is a Bodhisatva?,                                       | 43    |
-| Why Does the World Population Increase?,                    | 327   |
-| Why is there no Peace?,                                     | 378   |
-| Why we take Refuge in the Buddha,                           | 248   |
-| You Have to Save Yourself,                                  | 266   |
-| You Protect Yourself,                                       | 263   |
+| The Moon and Religious Observances,                         | 300 |
+| ----------------------------------------------------------- | --- |
+| The Need for a Religion,                                    | 191 |
+| The Need for Tolerance Today,                               | 243 |
+| The Noble Eightfold Path—The Middle Way,                    | 118 |
+| The Origin of the World,                                    | 396 |
+| The Significance of Paritta Chanting,                       | 285 |
+| The Significance of Transference of Merits to the Departed, | 409 |
+| The Ultimate Truth,                                         | 90  |
+| Traditions, Customs and Festivals,                          | 306 |
+| Trikaya—The Three Bodies of the Buddha,                     | 49  |
+| Tri-Pitaka (or Tipitaka),                                   | 98  |
+| Two Main Schools of Buddhism,                               | 93  |
+| Understanding the Nature of Human Beings,                   | 189 |
+| Understanding the Nature of Life,                           | 190 |
+| Vegetarianism,                                              | 297 |
+| Was Buddha an Incarnation of God?,                          | 32  |
+| What is Abhidharma?,                                        | 105 |
+| What is Buddhism?,                                          | 83  |
+| What is Karma?,                                             | 129 |
+| What is the Purpose of Life?,                               | 188 |
+| What is Vinaya?,                                            | 208 |
+| Which is the Proper Religion?,                              | 342 |
+| Who is a Bodhisatva?,                                       | 43  |
+| Why Does the World Population Increase?,                    | 327 |
+| Why is there no Peace?,                                     | 378 |
+| Why we take Refuge in the Buddha,                           | 248 |
+| You Have to Save Yourself,                                  | 266 |
+| You Protect Yourself,                                       | 263 |
