@@ -1,0 +1,177 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "HBS 7_Innen_RZ_neu.pdf",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Titelei Bd 9_290317.pdf",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "ISSN 2190-6769",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 273,
+            "view_mode": "XYZ",
+            "view_pos": [
+                432.0,
+                192.0,
+                0.0
+            ]
+        },
+        {
+            "title": "ISBN 978-3-89733-422-9 (printed version)",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 273,
+            "view_mode": "XYZ",
+            "view_pos": [
+                445.0,
+                179.0,
+                0.0
+            ]
+        },
+        {
+            "title": "www.projektverlag.de",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 273,
+            "view_mode": "XYZ",
+            "view_pos": [
+                474.0,
+                150.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Cover:  punkt KOMMA Strich GmbH, Freiburg",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 273,
+            "view_mode": "XYZ",
+            "view_pos": [
+                489.0,
+                134.0,
+                0.0
+            ]
+        },
+        {
+            "title": "HBS 7_Cover_Front_RZ.pdf",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "HBS 7_Innen_RZ_neu.pdf",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Titelei Bd 9_290317.pdf",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "ISSN 2190-6769",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                432.0,
+                192.0,
+                0.0
+            ]
+        },
+        {
+            "title": "ISBN 978-3-89733-422-9 (printed version)",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                445.0,
+                179.0,
+                0.0
+            ]
+        },
+        {
+            "title": "www.projektverlag.de",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                474.0,
+                150.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Cover:  punkt KOMMA Strich GmbH, Freiburg",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "XYZ",
+            "view_pos": [
+                489.0,
+                134.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 536,
+    "ocr_stats": {
+        "ocr_pages": 7,
+        "ocr_failed": 0,
+        "ocr_success": 7,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 8,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

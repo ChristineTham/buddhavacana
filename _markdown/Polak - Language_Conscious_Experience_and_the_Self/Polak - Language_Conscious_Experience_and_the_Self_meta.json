@@ -1,0 +1,167 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Contents ",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "title": "List of Contributors",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Editorial",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "title": "A note on Ni\u1e63\u1e6dh\u0101nirv\u0101\u1e47a\u1e25 in the Sanskrit Heart Sutra",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "title": "A comparison of the P\u0101li and Chinese versions of Okkantika Sa\u1e43yutta, Upp\u0101da Sa\u1e43yutta, Kilesa Sa\u1e43yutta and R\u0101hula Sa\u1e43yutta, early Buddhist discourses on entering, arising, affliction, and the Venerable R\u0101hula",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Language, Conscious Experience and the Self in Early Buddhism",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Sariputta or Kacc\u0101na? ",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "title": "A preliminary study of two early Buddhist  philosophies of mind and meditation",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "title": "S\u0101ti\u2019s encounter with the Buddha",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Fo Guang Shan seen through Telescope and Microscope",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Bookreview",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 40,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 39,
+        "code": 0,
+        "table": 1,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

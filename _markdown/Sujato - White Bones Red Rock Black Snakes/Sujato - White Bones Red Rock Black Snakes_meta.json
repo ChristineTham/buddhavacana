@@ -1,0 +1,600 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "The Lady & the Tree",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "A Myth of Origins",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Death of the Goddess",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 32,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Little Stick Collector",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 46,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "A Magic Birth",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 64,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "How M\u0101y\u0101 Became a Goddess",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 74,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "She Who Ate the Children",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 80,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The King Sacrificed",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 94,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Real M\u0101y\u0101",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 111,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Let\u2019s Play",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 123,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Perception, Symbol, Myth",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 132,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "On Using Jung",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 143,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Dhamma of Gender",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 156,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Mythic Fact, Historic Fiction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 164,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Other First Bhikkhuni",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 173,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "A Buddhist Femme Fatale",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 181,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Weaving of the Web",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 194,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Fears of the Future",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 200,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Flood",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 211,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Serpent",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 225,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Deepest Taboo",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 232,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "How to Kill a Dead Nun",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 244,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "A Very Grievous Text",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 252,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Hero Departs",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 264,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Hero Wakes",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 285,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Hero Returns",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 297,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Building the Legend",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 310,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Wicked Stepmother",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 320,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Princess & the Dragon",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 339,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Sacred Stepmother",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 359,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Rescuing the Hero",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 372,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Hard Twin",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 387,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Sage & the Golden Maiden",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 401,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Soft Twin",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 416,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "What a Woman Wants",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 429,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Heroine",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 438,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "That Indefinable Yearning",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 446,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Flowering of the World",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 452,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Her Dreaming",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 467,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Things Hidden Since the Beginning",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 475,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Thanks",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 485,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Bibliography",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 486,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Figures",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 503,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Notes",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 506,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        }
+    ],
+    "pages": 561,
+    "ocr_stats": {
+        "ocr_pages": 4,
+        "ocr_failed": 0,
+        "ocr_success": 4,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 3,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

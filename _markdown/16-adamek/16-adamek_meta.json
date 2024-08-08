@@ -1,0 +1,91 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Text_978-3-89733-515-8_new.pdf",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Bookmarks from Seiten_503-505 aus Text_978-3-89733-515-8_RZ_4_neue Paginierung.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Bookmarks from Seiten_503-505 aus Text_978-3-89733-515-8_RZ_4_neue Paginierung.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Bookmarks from Seiten_503-506 aus Text_978-3-89733-515-8_RZ_4_neue Paginierung.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Bookmarks from Seiten_555 aus Text_978-3-89733-515-8_RZ_4_neue Paginierung.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Bookmarks from Seiten 501-502_aus Text_978-3-89733-515-8_RZ_5_neue Paginierung.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Bookmarks from Seiten 501-502_aus Text_978-3-89733-515-8_RZ_5_neue Paginierung.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        }
+    ],
+    "pages": 609,
+    "ocr_stats": {
+        "ocr_pages": 7,
+        "ocr_failed": 0,
+        "ocr_success": 7,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 1,
+        "table": 5,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

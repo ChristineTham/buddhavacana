@@ -1,0 +1,1270 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Imprint",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "in memoriam John R. McRae (1947-2011)",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Michael Zimmermann: Foreword",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 7,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "About \"Hamburg Buddhist Studies\"",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "About this publication",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Acknowledgements",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Michael Radich and Chen-kuo Lin: Introduction",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 13,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Logic and epistemology",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Yog\u0101c\u0101ra ideas and authors",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 23,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Other Indian ideas",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 27,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Bibliography",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 29,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Funayama Toru: Chinese Translations of Pratyak\u1e63a",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 31,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "\"Xianliang\" as translation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 33,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The sinification of the concept of \"xianliang\"",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 45,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Conclusion",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 56,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Bibliography",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 57,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Chen-kuo Lin: Epistemology and Cultivation in Jingying Huiyuan\u2019s \"Essay on the Three Means of Valid Cognition\"",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 12,
+            "page_index": 61,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Theological topics",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 63,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Metaphysical topics",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 65,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Topics on epistemology and meditation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 65,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Text, author, and context",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 67,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Doctrinal analysis",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 69,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Perception",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 71,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Inference",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 77,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Authoritative teaching",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 79,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Concluding remarks",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 79,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Appendix: English translation of Huiyuan\u2019s Essay on the Three Means of Valid Cognition",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 83,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Abbreviations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 96,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Bibliography",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 96,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Shoryu Katsura: The Theory of Apoha in Kuiji\u2019s Cheng weishi lun Shuji",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 99,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Abbreviations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 117,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Bibliography",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 117,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "A Comparison between the Indian and Chinese Interpretations of the Antinomic Reason(Viruddh\u0101vyabhic\u0101rin)",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 7,
+            "page_index": 119,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Introduction: Viruddh\u0101vyabhic\u0101rin in Dign\u0101ga and Dharmak\u012brti",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 119,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Viruddh\u0101vyabhic\u0101rin in the Ny\u0101yaprave\u015baka and itsinterpretations by Jain commentators",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 127,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Kuiji\u2019s explanation of the viruddh\u0101vyabhic\u0101rin section in NP",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 129,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Xuanzang\u2019s proof of consciousness-only and its relation to viruddh\u0101vyabhic\u0101rin",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 141,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Conclusion",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 145,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Abbreviations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 145,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "References",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 147,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Jakub Zamorski: The Problem of Self-Refuting Statements in Chinese Buddhist Logic",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 8,
+            "page_index": 149,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Introductory remarks",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 149,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The interpretation of Wengui",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 155,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The intepretation of Shentai",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 163,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The interpretation of Kuiji",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 165,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Later Japanese and Chinese interpretations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 169,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The fallacy of \u201cinconsistency with one\u2019s own words\u201d as a rhetorical tool",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 171,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Conclusions",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 173,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Bibliography",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 177,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Ching Keng: A Re-examination of the Relationship between the Awakening of Faith and Dilun School Thought, Focusing on the Works of Huiyuan",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 11,
+            "page_index": 181,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Introduction",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 181,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Methodological remarks",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 185,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "A brief review of recent scholarship",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 187,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The distinction between the aspect of \u201cnatural purity\u201d (xingjing \u6027\u6de8) and the aspect of \u201cexpedient means\u201d (fangbian \u65b9\u4fbf)",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 191,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The notion of the \u201ctrue consciousness\u201d (zhenshi \u771f\u8b58)",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 195,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Various formulations of the dubious idea of \u201cadjusting to falsity\u201d(suiwang \u96a8\u5984)",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 199,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "A clear separation of Huiyuan from the Awakening of Faith?",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 203,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The simile of snake and rope: The indispensability of the substance",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 209,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Further ramifications",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 211,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Conclusion",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 211,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Bibliography",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 213,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "A. Charles Muller: A Pivotal Text for the Definition of the Two Hindrances in East Asia: Huiyuan\u2019s \u201cErzhang yi\u201d Chapter",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 10,
+            "page_index": 215,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Introduction",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 215,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The Tath\u0101gatagarbha system of the hindrances as explained by Huiyuan",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 223,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The completed Yog\u00e2c\u0101ra system of the hindrances",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 227,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Observations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 233,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Appendix: Translation of The Two Hindrances",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 235,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "First level",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 239,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Second level",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 247,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Third level",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 253,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Abbreviations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 265,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Bibliography",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 265,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Junjie Chu: On the Notion of Kaidaoyi (*Avak\u0101\u015bad\u0101n\u0101\u015braya) as Discussed inXuanzang\u2019s Cheng weishi lun",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 269,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Introduction",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 269,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "kaidao = avak\u0101\u015bad\u0101na",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 271,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "kaidaoyi = *avak\u0101\u015bad\u0101n\u0101\u015braya",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 281,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Three interpretations of *avak\u0101\u015bad\u0101n\u0101\u015braya",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 289,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Conclusion",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 303,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Abbreviations and primary literature",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 305,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Zhihua Yao: Yog\u0101c\u0101ra Critiques of the Two Truths",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 8,
+            "page_index": 311,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Introduction",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 311,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Against nihilism",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 313,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The nihilists\u2019s two truths",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 315,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The two truths and the three natures",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 321,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "A robust sense of emptiness",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 327,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "A holistic worldview",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 329,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Conclusion",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 331,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Bibliography",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 333,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Hans-Rudolf Kantor: Philosophical Aspects of Sixth-Century Chinese Buddhist Debates on \u201cMind and Consciousness\u201d",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 7,
+            "page_index": 335,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Introduction",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 335,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Truth and falsehood according to the Madhyamaka view in the Zhong Lun",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 339,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Reality and falsehood according to Tath\u0101gatagarbha doctrine",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 347,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Truth and falsehood according to the Yog\u0101c\u0101ra doctrine of mind",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 363,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Truth/reality and falsehood in the Chinese debates on mind",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 373,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Conclusion: The Buddhist constructivist approach to the sense of reality",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 385,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Bibliography",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 393,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Chien-hsing Ho: The Way of Nonacquisition: Jizang\u2019s Philosophy of Ontic Indeterminacy",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 7,
+            "page_index": 395,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "1",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 395,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "2",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 397,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "3",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 403,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "4",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 409,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "5",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 413,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Abbreviations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 415,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Bibliography",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 415,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Yoke Meei Choong: Divided Opinion among Chinese Commentators on Indian Interpretations of the Parable of the Raft in the Vajracchedik\u0101",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 11,
+            "page_index": 417,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Introduction",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 417,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Variant readings in the Parable of the Raft in the Vajracchedik\u0101",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 421,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Chinese translations of Asa\u1e45ga\u2019s verses of Passages (b) and (c)",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 425,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The Chinese Madhyamaka interpretation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 431,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The Chinese Yog\u0101c\u0101ra interpretation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 439,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Dharma and adharma in the Chinese translations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 449,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Indian interpretations of dharma and adharma",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 453,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Dharma and adharma in the Vajracchedik\u0101",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 457,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Conclusion",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 463,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Abbreviations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 465,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Bibliography",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 465,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Michael Radich: Ideas about \u201cConsciousness\u201d in Fifth and Sixth Century Chinese Buddhist Debates on the Survival of Death by the Spirit, and the Chinese Background to *Amalavij\u00f1\u0101na",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 9,
+            "page_index": 469,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Introduction",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 469,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Lushan Huiyuan",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 473,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Zheng Daozi",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 475,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Zong Bing",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 475,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "An anonymous Liu Song text",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 477,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Liang Wudi and Shenji\u2019s Shenming cheng fo yi, and its contexts",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 481,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Conclusion",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 501,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Abbreviations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 505,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Bibliography",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 505,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Michael Zimmermann: The Process of Awakening in Early Texts on Buddha-Nature in India",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 9,
+            "page_index": 511,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Introduction",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 511,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Descriptions of buddha-nature in early Indian texts",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 513,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Buddha-nature as something which has to be developed",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 515,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Awakening from the perspective of sentient beings",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 515,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The role of the Buddha on the path to realization",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 517,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The importance of religious confidence and motivation (\u015braddh\u0101) for the process of awakening",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 522,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The efficacy of buddhahood",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 523,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Abbreviations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 525,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Bibliography",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 525,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "About the Authors",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 528,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Index",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 533,
+            "view_mode": "Fit",
+            "view_pos": []
+        }
+    ],
+    "pages": 565,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 45,
+        "equations": {
+            "successful_ocr": 1,
+            "unsuccessful_ocr": 0,
+            "equations": 1
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

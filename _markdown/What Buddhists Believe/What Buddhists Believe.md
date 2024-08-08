@@ -2160,9 +2160,9 @@ The purpose of the Buddha's appearance in this world is not to wash away the sin
 
 However, we should not take advantage of the liberty given by the Buddha to do anything we like. It is our duty to behave as cultured, civilised and understanding human beings to lead a religious life. If we can understand this, commandments are not important. As an enlightened teacher, the Buddha advised us how to lead a pure life without imposing commandments and using the fear of punishment. The Five Precepts that a Buddhist takes as part of the daily practice are therefore not commandments. They are by definition training rules which one voluntarily undertakes for spiritual development.
 
-## Do It Yourself
+#### Do It Yourself
 
-Self-confidence plays an important part in every aspect of our lives.
+*Self-confidence plays an important part in every aspect of our lives.*
 
 KNOWING that no external sources, no faith or rituals can save us, Buddhists understand the need to rely on self effort. We gain confidence through self-reliance. We realise that the whole responsibility of our present life as well as the future life depends completely on ourselves alone. Each must seek salvation for himself or herself. Achieving salvation can be compared to curing a disease: if one is ill, one must go to a doctor.
 
@@ -2170,25 +2170,28 @@ The doctor diagnoses the ailment and prescribes medicine. The medicine must be t
 
 In order to be cured, the patient must faithfully follow the instructions given by the doctor with regard to the manner and frequency in taking medicine, daily diet and other relevant medical restraints. Likewise, a person must follow the precepts, instructions or advice given by the Buddha (who gives prescriptions for liberation) by controlling or subduing greed, hatred and ignorance. No one can find salvation by simply singing praises of the Buddha or by making offerings to Him. Neither can one find salvation by celebrating certain important occasions in honour of the Buddha. Buddhism is not a religion where people can attain salvation by mere prayers or begging to be saved. They must strive hard by controlling their minds to eradicate their selfish desires and emotions in order to attain perfection.
 
-'To understand yourself is the beginning of wisdom.'
+>*'To understand yourself is the beginning of wisdom.'*
 
-# Human Beings Are Responsible For Everything
+#### Human Beings Are Responsible For Everything
 
-When we try to live as real human beings without disturbing others, all can live peacefully without any fear.
+*When we try to live as real human beings without disturbing others, all can live peacefully without any fear.*
 
 ACCORDING to the Buddha, human beings themselves are the makers of their own destiny. They have none to blame for their lot since they alone are responsible for their lives. They mould their lives for better or for worse.
 
 The Buddha says: humans create everything. All our grief, perils and misfortunes are of our own creation. We spring from no other source than our own imperfections of heart and mind. We are the results of our good and bad actions committed in the past under the influence of greed and delusion. And since we ourselves brought them into being, it is within our power to overcome bad effects and cultivate good natures.
 
-The human mind, like that of an animal, is sometimes governed by animal instincts. But unlike the animal mind, the human mind can be trained for higher values. If the mind is not properly cultured, that uncultured mind creates a great deal of trouble in this world. Sometimes human behaviour is more harmful and more dangerous than animal behaviour. Animals have no religious problems, no language problems, no political problems, no social and ethical problems, no ethnic problems. They fight only for food, shelter and sensual pleasure. But, there are thousands of problems created by human beings. Their behaviour is such that they are not able to solve any of these problems without creating further problems. They are reluctant to admit their weaknesses and are not willing to shoulder their responsibilities. Their attitude is always to blame others for their failures. If we become more responsible in our actions, we can maintain peace and happiness.*
+The human mind, like that of an animal, is sometimes governed by animal instincts. But unlike the animal mind, the human mind can be trained for higher values. If the mind is not properly cultured, that uncultured mind creates a great deal of trouble in this world. Sometimes human behaviour is more harmful and more dangerous than animal behaviour. Animals have no religious problems, no language problems, no political problems, no social and ethical problems, no ethnic problems. They fight only for food, shelter and sensual pleasure. But, there are thousands of problems created by human beings. Their behaviour is such that they are not able to solve any of these problems without creating further problems. They are reluctant to admit their weaknesses and are not willing to shoulder their responsibilities. Their attitude is always to blame others for their failures. If we become more responsible in our actions, we can maintain peace and happiness.*[^12]
 
-## Human Beings Are Their Own Jailors
+[^12]: Read the booklet ‘You are Responsible’ by the same author. For further clarification on devas, refer to sections entitled Belief in Deities – Devas, spirit world and The Significance of Transference of Merit to the Departed in this book.
 
-Is there any truth in our claim that we should be given freedom to do things as what we like?
+#### Human Beings Are Their Own Jailors
+
+*Is there any truth in our claim that we should be given freedom to do things as what we like?*
 
 WHEN we consider human freedom, it is very difficult to see whether we are really free to do anything according to our own wishes. We are bound by many conditions both external and internal: we are asked to obey the laws that are imposed on us by the government; we are bound to follow certain religious principles; we are required to co-operate with the moral and social conditions of the society in which we live; we are compelled to follow certain national and family customs and traditions. In modern society, we are under great pressure; we are expected to conform by adapting ourselves to the modern way of life. We are bound to co-operate with natural laws and cosmic energy, because we are also part of the same energy. We are subjected to the weather and climatic conditions of the region. Not only do we have to pay attention to our lives or to physical elements, but we have also to make up our minds to control our own emotions. In other words, we have no freedom to think freely because we are overwhelmed by new thoughts which may contradict or do away with our previous thoughts and convictions. At the same time, we may believe that we have to obey and work according to the will of god, and not follow our own free will.
 
 Taking into consideration all the above changing conditions to which we are bound, we can ask 'Is there any truth to the claim that we should be given freedom to do things as we like?'
+
 Why do human beings have their hands tied so firmly? The reason is that there are various bad elements within them. These elements are dangerous and harmful to all living creatures. For the past few thousand years, all religions have been trying to tame this unreliable attitude and to teach mankind how to live a noble life. But it is most unfortunate that they are still not ready to be trustworthy, however good they may appear to be. Human beings still continue to harbour all these evil elements within themselves. These evil elements are not introduced or influenced by external sources but are created by themselves. If these evil forces are made by themselves they must work hard to get rid of them after recognising their danger. Unfortunately the majority of people are cruel, cunning, wicked, ungrateful, unreliable, unscrupulous. If they are allowed to live according to their own free will without moderation and restraint, they would most definitely violate the peace and happiness of innocent people. Their behaviour would probably be much worse than that of other dangerous living beings.
 
 Religion is required to train them to lead a respectable life and to gain peace and happiness here and hereafter.
@@ -2199,12 +2202,14 @@ While working with others, true disciples should not disturb their feelings beca
 
 Racial arrogance is a great hindrance to religious and spiritual progress. The Buddha once used the simile of ocean water to illustrate the harmony which can be experienced by people who have learnt to cast aside their racial arrogance: Different rivers have different names. The waters of the individual rivers all flow into the ocean and become ocean water, with one taste, the taste of salt. In a similar manner, all those who have come from different communities and different castes, must forget their differences and think of themselves only as human beings.
 
-# You Protect Yourself
+#### You Protect Yourself
 
-'Protecting oneself one protects others Protecting others one protects oneself'.
+*'Protecting oneself one protects others Protecting others one protects oneself'.*
 
-ONCE the Blessed One told His monks the following story: 'There was once a pair of jugglers who did their acrobatic feats on a bamboo pole. One day the master said to his apprentice: `Now get on my shoulders and climb up the bamboo pole.' When the apprentice had done so, the master said: 'Now protect me well and I shall protect you. By watching each other in that way, we shall be able to show our skill, we shall make a good profit and you can get down safely from the bamboo pole'. But the apprentice said: `Not so, master. You! O Master, should protect yourself, and I too shall protect myself. Thus selfprotected and self-guarded we shall safely do our feats, and protect each other.'
+ONCE the Blessed One told His monks the following story: 'There was once a pair of jugglers who did their acrobatic feats on a bamboo pole. One day the master said to his apprentice: 'Now get on my shoulders and climb up the bamboo pole.' When the apprentice had done so, the master said: 'Now protect me well and I shall protect you. By watching each other in that way, we shall be able to show our skill, we shall make a good profit and you can get down safely from the bamboo pole'. But the apprentice said: `Not so, master. You! O Master, should protect yourself, and I too shall protect myself. Thus selfprotected and self-guarded we shall safely do our feats, and protect each other.'
+
 'This is the right way,' said the Blessed One and spoke further as follows:
+
 'It is just as the apprentice said: 'I shall protect myself,' in that way the Foundation of Mindfulness should be practised. 'I shall protect others,' in that way the Foundation of Mindfulness should be practised. Protecting oneself one protects others; protecting others one protects oneself.
 
 'And how does one, in protecting oneself, protect others? By the repeated and frequent practice of meditation'.
@@ -2221,15 +2226,11 @@ Protecting oneself one protects others—the truth of this statement begins at a
 
 We come now to the ethical level of that truth. Moral self-protection will safeguard others, individual and society, against our own unrestrained passions and selfish impulses. If we permit the Three Roots of everything evil, Greed, Hate and Delusion, to take a firm hold in our minds, then that which grows from those evil roots will spread around like the jungle creeper which suffocates and kills the healthy and noble tree. But if we protect ourselves against these Three Roots of Evil, fellow beings too will be safe from our reckless greed for possession and power, from our unrestrained lust and sensuality, from our envy and jealousy. They will be safe from the disruptive, or even destructive and murderous, consequences of our hate and enmity, from the outbursts of our anger, from our spreading an atmosphere of antagonism and quarrelsomeness which may make life unbearable for those around us. But the harmful effects of our greed and hate on others are not limited to cases when they become the passive objects or victims of our hate, or their possessions the object of our greed. Greed and hate have an infectious power, which can multiply the evil effects. If we ourselves think of nothing else than to crave and grasp, to acquire and possess, to hold and cling, then we may rouse or strengthen these possessive instincts in others too. Our bad example may become the standard of behaviour of our environment for instance among our own children, our colleagues, and so on. Our own conduct may induce others to join us in the common satisfaction of rapacious desires; or we may arouse feelings of resentment and competitiveness in others who wish to beat us in the race. If we are full of sensuality we may kindle the fire of lust in others. Our own hate may cause the hate and vengeance of others. It may also happen that we ally ourselves with others or instigate them to common acts of hate and enmity.
 
-## You Have To Save Yourself
+#### You Have To Save Yourself
 
-ONESELF, indeed, is one's saviour, for what other saviour
+>*ONESELF, indeed, is one's saviour, for what other saviour would there be? With oneself well controlled the problem of looking for an external saviour is solved.*\
+>(DHAMMAPADA 166)
 
-![265_image_0.png](265_image_0.png)
-
-would there be? With oneself well controlled the problem of looking for an external saviour is solved.
-
-(DHAMMAPADA 166)
 As the Buddha was about to pass away, His disciples came from everywhere to be near Him. While the other disciples were constantly at His side and in deep sorrow over the impending loss of their Master, a monk named Attadatta went into his cell and practised meditation. The other monks, thinking that he was unconcerned about the welfare of the Buddha, were upset and reported the matter to Him. The monk, however, addressed the Buddha thus, 'Lord as the Blessed One would be passing away soon, I thought the best way to honour the Blessed One would be by attaining Arahantship during the lifetime of the Blessed One itself'. The Buddha praised his attitude and his conduct and said that one's spiritual welfare should not be abandoned for the sake of others.
 
 In this story is illustrated one of the most important aspects of Buddhism. A person must constantly be on the alert to seek his or her own deliverance from Samsara, and 'salvation' must be brought about by the individual alone. One cannot look to any external force or agency for help to attain Nirvana.
@@ -2237,6 +2238,7 @@ In this story is illustrated one of the most important aspects of Buddhism. A pe
 People who do not understand Buddhism criticise this concept and say that Buddhism is a selfish religion which only talks about the concern for one's own freedom from pain and sorrow. This is not true at all. The Buddha states clearly that one should work ceaselessly for the spiritual and material welfare of all beings, while at the same time diligently pursuing one's own goal of attaining Nirvana. Selfless service is highly commended by the Buddha.
 
 Again, people who do not understand Buddhism may ask, 'It may be alright for the fortunate human beings, in full command of their mental powers, to seek Nirvana by their own efforts. But what about those who are mentally and physically or even materially handicapped? How can they be self-reliant? Do they not need the help of some external force, some god or deva to assist them?'
+
 The answer to this is that Buddhists do not believe that the final release must necessarily take place in one lifetime. The process can take a long time, over the period of many births. One has to apply oneself, to the best of one's ability, and slowly develop the powers of self-reliance. Therefore, even those who are handicapped mentally and spiritually must make an effort, however small, to begin the process of deliverance and the duty of those more able is to help them do this; e.g. monks and nuns help lay people to understand and practise the Dharma.
 
 Once the wheels are set in motion, the individual slowly trains himself or herself to improve that power of self-reliance. The tiny acorn will one day grow into a mighty oak, but not overnight. Patience is an essential ingredient in this difficult process.
@@ -2277,56 +2279,52 @@ Now, the point here is that the Buddha was more concerned with the woman's under
 
 Therefore in Buddhism, a person can seek the help of external agencies (like devas) in the pursuit of temporal happiness, but in the later stages of development when attachment to the worldly conditions ceases, there begins the path towards renunciation and enlightenment at which point one must stand alone. When one seeks to gain liberation, to break away from the endless cycle of birth and death, to gain realisation and enlightenment, one can only do this by one's own effort and own concentrated will power. "No one saves us but ourselves".
 
-Buddhism gives great credit to human beings. It is the only religion which states that human beings have the power to help and free themselves. In the later stages of their development, they are not at the mercy of any external force or agency which they must constantly please by worshipping or offering sacrifices.*
+Buddhism gives great credit to human beings. It is the only religion which states that human beings have the power to help and free themselves. In the later stages of their development, they are not at the mercy of any external force or agency which they must constantly please by worshipping or offering sacrifices.[^13]
 
-![273_image_0.png](273_image_0.png)
+[^13]: For further clarification on devas, refer to sections entitled *Belief in Deities - Devas, spirit world and The Significance of Transference of Merit to the Departed* in this book.
 
-# Prayer, Meditation And Religious
+### 10. Prayer, Meditation And Religious Practices
 
-![273_Image_1.Png](273_Image_1.Png) Practices
+![273_Image_1.Png](273_Image_1.Png)
 
-## Faith, Confidence And Devotion
+#### Faith, Confidence And Devotion
 
-Right understanding points the way to confidence; confidence paves the way to wisdom. Wisdom paves the way to salvation.
+*Right understanding points the way to confidence; confidence paves the way to wisdom. Wisdom paves the way to salvation.*
 
-F
-AITH in the theistic sense is not found in Buddhism because of its emphasis on understanding. Theistic faith is a sedative for the emotional mind and demands belief in things which cannot be explained. Knowledge destroys faith and faith destroys itself when a mysterious belief is examined under the spotlight of reason. Confidence cannot be obtained by faith since it places little or no emphasis on reason.
+FAITH in the theistic sense is not found in Buddhism because of its emphasis on understanding. Theistic faith is a sedative for the emotional mind and demands belief in things which cannot be explained. Knowledge destroys faith and faith destroys itself when a mysterious belief is examined under the spotlight of reason. Confidence cannot be obtained by faith since it places little or no emphasis on reason.
 
 Referring to the unintelligible and 'blind' nature of faith, Voltaire said, 'Faith is to believe in something which your reason tells you cannot be true; for if your reason approved of it, there could be no question of blind faith.'
 Confidence, however, is not the same as faith. For confidence is not a meek acceptance of that which cannot be known. Confidence is an assured expectation, not of an unknown beyond, but of what can be tested as experienced and understood personally. Confidence is like the understanding that a student has in his teacher who explains in the classroom the inverse square law of gravitation as stated by Newton. He should not adopt an unquestioning belief of his teacher and his textbook. He studies the fact, examines the scientific arguments, and makes an assessment of the reliability of the information. If he has doubts, he should reserve his judgement until such time as when he is able to investigate the accuracy of the information for himself. To a Buddhist, confidence is a product of reason, knowledge and experience. When it is developed, confidence can never be blind faith. Confidence becomes a power of the mind to understand the nature and the meaning of life.
 
 In his book, 'WHAT THE BUDDHA TAUGHT' Walpola Rahula says:
-'The question of belief arises when there is no seeing—seeing in every sense of the word. The moment you see, the question of belief disappears. If I tell you that I have a gem hidden in the folded palm of my hand, the question of belief arises because you do not see it yourself. But if I unclench my fist and show you the gem, then you see it for yourself, and the question of belief does not arise. A phrase in the ancient Buddhist texts therefore reads: 'Realising, as one sees a gem (or a myrobalan fruit) in the palm'.
 
-## The Meaning Of Prayer
+>*'The question of belief arises when there is no seeing—seeing in every sense of the word. The moment you see, the question of belief disappears. If I tell you that I have a gem hidden in the folded palm of my hand, the question of belief arises because you do not see it yourself. But if I unclench my fist and show you the gem, then you see it for yourself, and the question of belief does not arise. A phrase in the ancient Buddhist texts therefore reads: 'Realising, as one sees a gem (or a myrobalan fruit) in the palm'.*
 
-Nature is impartial; it cannot be flattered by prayers. It does not grant any special favours on request. Humans are not fallen creatures but rising angels. Prayers are answered by the power of their own minds.
+#### The Meaning Of Prayer
+
+*Nature is impartial; it cannot be flattered by prayers. It does not grant any special favours on request. Humans are not fallen creatures but rising angels. Prayers are answered by the power of their own minds.*
 
 ACCORDING to Buddhism, humans are potential masters of themselves. Only because of their deep ignorance do they fail to realise their full potential. Since the Buddha has shown this hidden power, people must cultivate their minds and try to develop it by realising their innate ability.
 
 A story will illustrate this point. An eagle once laid her egg in the nest of a hen. The hen hatched the eagle's egg along with her own. The hatchlings then followed the mother hen about as she taught them to focus on the ground to find their food. The eaglet, thinking it was a chicken did the same. One day however, it saw an eagle flying high up in the sky, and decided to do the same. The other chickens laughed at him, but he did not care. Everyday he perservered until one day he became strong enough and soared up into the air and became a lord of the skies, while the other chickens continued to eke out a living on the ground. We must think like that eagle.
 
-Buddhism gives full responsibility and dignity to human beings.
+Buddhism gives full responsibility and dignity to human beings. It makes them their own masters. According to Buddhism, no higher being sits in judgement over a person's affairs and destiny. That is to say, our life, our society, our world, is what you and I want to make out of it, and not what some other unknown being wants it to be.
 
-It makes them their own masters. According to Buddhism, no higher being sits in judgement over a person's affairs and destiny. That is to say, our life, our society, our world, is what you and I want to make out of it, and not what some other unknown being wants it to be.
-
-Remember that nature is impartial; it cannot be flattered by prayers.
-
-Nature does not grant any special favours on request. Thus in Buddhism, prayer is meditation which has self-change as its object. Prayer in meditation acts as an aid to recondition one's nature. It is the transforming of one's inner nature accomplished by the purification of the three faculties—thought, word and deed. Through meditation, we can understand that 'we become what we think', in accordance with the discoveries of psychology. When we pray, we experience some relief in our minds; that is, the psychological effect that we have created through our faith and devotion. After reciting certain verses we also experience the same result. Religious names or symbols are important to the extent that they help to develop devotion and confidence, but must never be considered as ends in themselves.
+Remember that nature is impartial; it cannot be flattered by prayers. Nature does not grant any special favours on request. Thus in Buddhism, prayer is meditation which has self-change as its object. Prayer in meditation acts as an aid to recondition one's nature. It is the transforming of one's inner nature accomplished by the purification of the three faculties—thought, word and deed. Through meditation, we can understand that 'we become what we think', in accordance with the discoveries of psychology. When we pray, we experience some relief in our minds; that is, the psychological effect that we have created through our faith and devotion. After reciting certain verses we also experience the same result. Religious names or symbols are important to the extent that they help to develop devotion and confidence, but must never be considered as ends in themselves.
 
 The Buddha Himself has clearly expressed that neither the recital of holy scriptures, nor self-torture, nor sleeping on the ground, nor the repetition of prayers, penances, hymns, charms, mantras, incantations and invocations can bring the real happiness of Nirvana, only purification of the mind through self effort can do this.
 
  Regarding the use of prayers for attaining the final goal, the Buddha once used an analogy of a man who wants to cross a river. If he sits down and prays, imploring that the far bank of the river will come to him and carry him across, then his prayer will not be answered. If he really wants to cross the river, he must make some effort; he must find some logs and build a raft, or look for a bridge or construct a boat or perhaps swim. Somehow he must work to get across the river. Likewise, if he wants to cross the river of Samsara, prayers alone are not enough. He must work hard by living a religious life, by controlling his passions, calming his mind, and by getting rid of all the impurities and defilements in his mind. Only then can he reach the final goal. Prayer alone will never take him to the final goal.
 
 If prayer is necessary, it should be to strengthen and focus the mind and not to beg for gains. The following prayer of a poet teaches us how to pray. Buddhists can regard this as meditation to cultivate the mind:
+
 'Let me not pray to be sheltered from dangers, but to be fearless in facing them. Let me not beg for the stilling of my pain, but for the heart to conquer it. Let me not crave in anxious fear to be saved, but for the patience to win my freedom.'
 
-## Meditation
+#### Meditation
 
-Meditation is the psychological approach to mental culture, training and purification of the mind.
+*Meditation is the psychological approach to mental culture, training and purification of the mind.*
 
-I
-N place of prayer, Buddhists practise meditation for mental culture and for spiritual development. No one can attain Nirvana or salvation without cultivating the mind through meditation. Any amount of meritorious deeds alone will not lead a person to attain the final goal without the corresponding mental purification. Naturally, the untrained mind is very elusive and persuades people to commit evil and become slaves of the senses.
+IN place of prayer, Buddhists practise meditation for mental culture and for spiritual development. No one can attain Nirvana or salvation without cultivating the mind through meditation. Any amount of meritorious deeds alone will not lead a person to attain the final goal without the corresponding mental purification. Naturally, the untrained mind is very elusive and persuades people to commit evil and become slaves of the senses.
 
 Imagination and emotions always mislead humans if their minds are not properly trained. One who knows how to practise meditation will be able to control the mind when it is misled by the senses.
 
@@ -2343,7 +2341,7 @@ Therefore Buddhist meditation has no other purpose than to bring the mind back i
 
 The Buddha obtained His Enlightenment through the development of His mind. He did not seek divine power to help Him. He gained His wisdom through self-effort by practising meditation. To have a healthy body and mind and to have peace, one must learn how to practise meditation.
 
-# Nature Of Modern Life
+#### Nature Of Modern Life
 
 TODAY we are living in a world where people have to work very hard physically and mentally. Without hard work, there is no place for people in modern society. Very often keen competition is going on everywhere. One is trying to beat the others in every sphere of life and human beings have no rest at all. Mind is the nucleus of life. When there is no real peace and rest in the mind, the whole life will collapse. People naturally try to overcome their miseries through pleasing the senses: they drink, gamble, sing and dance—all the time having the illusion that they are enjoying the real happiness of life. Sense stimulation is not the real way to have relaxation. The more we try to please the senses through sensual pleasures, the more will we become slaves to the senses. There will be no end to our craving for satisfaction. The real way to relax is to calm the senses by the control of mind. If we can control the mind, then we will be able to control everything. When the mind is fully controlled and purified, it will be free from mental disturbances. When the mind is free from mental disturbances it can see many things which others cannot see with their naked eyes. Ultimately, we will be able to attain our salvation and find peace and happiness.
 
@@ -2370,15 +2368,13 @@ Nowadays, however, the practice of meditation has been abused by people. They wa
 
 In Buddhism, as is the case with other eastern cultures, patience is a most important quality. The mind must be brought under control in slow degrees and one should not try to reach for the higher states without proper training. We have heard of overenthusiastic young men and women literally going out of their minds because they adopted the wrong attitudes towards meditation. Meditation is a gentle way of conquering the defilements which pollute the mind. If people want 'success' or 'achievement' to boast to others that they have attained this or that level of meditation, they are abusing the method of mental culture. One must be trained in morality and one must clearly understand that to be successful in the discipline of meditation worldly achievements must not be equated with spiritual development. Ideally, it is good to work under an experienced teacher who will help a student to develop along the right path. But above all one must never be in a hurry to achieve too much too quickly.
 
-## The Significance Of Paritta Chanting
+#### The Significance Of Paritta Chanting
 
-Paritta chanting is the recital of some of the Sutras uttered by the Buddha in the Pali language for the blessing and protection of the devotees.
+*Paritta chanting is the recital of some of the Sutras uttered by the Buddha in the Pali language for the blessing and protection of the devotees.*
 
 PARITTA Chanting or Sutra Chanting is a well known Buddhist practice conducted all over the world, especially in Theravada Buddhist countries where the Pali language is used for recitals. Many of these are important sutras from the basic teachings of the Buddha which were recorded by His disciples. Originally, these sutras were recorded on ola leaves about two thousand years ago. Later, they were compiled into a book known as the 'Paritta Chanting Book'. The names of the original books from which these sutras were selected are the ANGUTTARA NIKAYA, MAJJHIMA NIKAYA, DIGHA NIKAYA, SAMYUTTA NIKAYA and KUDDAKA NIKAYA in the SUTRA PITAKA. The sutras that Buddhists recite for protection are known as Paritta Chanting. Here 'protection means shielding ourselves from various forms of evil spirits, misfortune, sickness and influence of the planetary systems as well as instilling confidence in the mind'. The vibrant sound of the chanting creates a very pleasing atmosphere in the vicinity. The rhythm of the chanting is also important. One might have noticed that when monks recite these sutras, different intonations are adopted to harmonise with different sutras intended for different quarters. It was found very early during man's spiritual development that certain rhythms of the human voice could produce significant psychological states of peacefulness and serenity in the minds of ardent listeners. Furthermore, intonation at certain levels would appeal to devas, whilst certain rhythms would create a good influence over lower beings like animals, snakes, or even spirits or ghosts. Therefore, a soothing and correct rhythm is an important aspect of Paritta Chanting.
 
-The use of these rhythms is not confined to Buddhism alone.
-
-In every religion, when the followers recite their prayers by using the holy books, they follow certain rhythms. We can observe this when we listen to Quran reading by Muslims and the Veda Mantra Chanting by Hindu priests in the Sanskrit language. Some lovely chanting is also carried out by certain Christian groups, especially the Roman Catholic and Greek Orthodox sects.
+The use of these rhythms is not confined to Buddhism alone. In every religion, when the followers recite their prayers by using the holy books, they follow certain rhythms. We can observe this when we listen to Quran reading by Muslims and the Veda Mantra Chanting by Hindu priests in the Sanskrit language. Some lovely chanting is also carried out by certain Christian groups, especially the Roman Catholic and Greek Orthodox sects.
 
 When the sutras are chanted, three great and powerful forces are activated. These are the forces of the Buddha, Dharma and the Sangha. Buddhism is the combination of these 'Three Jewels' and when invoked together they can bring great blessings to mankind.
 
@@ -2398,9 +2394,9 @@ For the last 2,500 years, Buddhist devotees have experienced the good effects of
 
 The supernatural effect experienced by many people in ridding themselves of their sickness and many other mental disturbances through the medium of the Buddhist sutras and meditation are proof that they can be extremely efficacious if used with devotion and confidence.
 
-## Are Buddhists Idol Worshippers?
+#### Are Buddhists Idol Worshippers?
 
-Buddhists are not idol worshippers but ideal worshippers.
+*Buddhists are not idol worshippers but ideal worshippers.*
 
 ALTHOUGH it is customary amongst Buddhists to keep Buddha images and to pay their respects to the Buddha, Buddhists are not idol worshippers. Idolatry generally means erecting images of unknown gods and goddesses in various shapes and sizes and to pray directly to these images as if the images themselves are the gods. The prayers are a request to the gods for guidance and protection. The gods and goddesses are asked to bestow health, wealth, prosperity and to provide for various needs; they are also asked to forgive transgressions.
 
@@ -2422,6 +2418,7 @@ The image of the Buddha is appreciated not only by Asians or Buddhists. Anatole 
 Once a general sent an image of the Buddha as a legacy to Winston Churchill during the 2nd World War. The general said, 'If ever your mind gets perturbed and perplexed, I want you to see this image and be comforted.' What is it that makes the message of the Buddha so attractive to people who have cultivated their intellect? Perhaps the answer can be seen in the serenity of the image of the Buddha.
 
 Not only in colour and line did people express their faith in the Buddha and the graciousness of His Teaching. Human hands worked in metal and stone to produce the Buddha image that is one of the greatest creations of the human genius. Witness the famous image in the Abhayagiri Vihara in Sri Lanka, or the Buddha image of Sarnath or the celebrated images of Borobudur. The eyes are full of compassion and the hands express fearlessness, or goodwill and blessings, or they unravel some thread of thought or call the earth to witness His great search for Truth. Wherever the Dharma went, the image of the great Teacher went with it, not only as an object of worship but also as an object of meditation and reverence. 'I know of nothing,' says Keyserling, 'more grand in this world than the figure of the Buddha. It is an absolutely perfect embodiment of spirituality in the visible domain.'
+
 A life so beautiful, a heart so pure and kind, a mind so deep and enlightened, a personality so inspiring and selfless—such a perfect life, such a compassionate heart, such a calm mind, such a serene personality is really worthy of respect, worthy of honour and worthy of offering. The Buddha is the highest perfection of humanity.
 
 The Buddha image is the symbol, not of a person, but of Buddhahood—that to which all people can attain though few do. Buddhahood is not for one but for many: 'The Buddhas of the past ages, the Buddhas that are yet to come, the Buddha of the present age; humbly I each day adore.'
@@ -2429,39 +2426,48 @@ However, it is not obligatory for every Buddhist to have a Buddha image to pract
 
 We must also endeavour to understand the spirit of the Buddha.
 
-His Teaching is the only way to save this troubled world. In spite of the tremendous advantages of science and technology, people in the world today are filled with fear, anxiety and despair. The medicine for our troubled world is found in the Teachings of the Buddha.*
+His Teaching is the only way to save this troubled world. In spite of the tremendous advantages of science and technology, people in the world today are filled with fear, anxiety and despair. The medicine for our troubled world is found in the Teachings of the Buddha.[^14]
 
-# Religious Significance Of Fasting
+[^14]: For a more detailed treatment of the subject, read the booklet ‘Are Buddhists Idol worshippers?’ by the same author What Buddhists Believe – Chapter 10
 
-Many people in the world face untimely death owing to over-eating.
+#### Religious Significance Of Fasting
 
-I
-N Buddhism, fasting is recognised as one of the methods for practising self-control. The Buddha advised monks not to take solid food after noon. Lay people who observe the Eight Precepts on full moon days also abstain from taking any solid food after noon.
+*Many people in the world face untimely death owing to over-eating.*
+
+IN Buddhism, fasting is recognised as one of the methods for practising self-control. The Buddha advised monks not to take solid food after noon. Lay people who observe the Eight Precepts on full moon days also abstain from taking any solid food after noon.
 
 Critics sometimes regard these practices as religious fads. To understanding people, they are not religious fads but practices based on a moral and psychological insight.
 
 In Buddhism, fasting is an initial stage of self-discipline to acquire self-control. In every religion, there is a system of fasting. By fasting and sacrificing a meal once a day or for any period, we can contribute our food to those who are starving or who do not even have one proper meal each day.
 
 'A man who eats too much', writes Leo Tolstoy, 'cannot strive against laziness, while a gluttonous and idle man will never be able to contend with sexual lust. Therefore, according to all moral teachings, the effort towards self-control commences with a struggle against the lust of gluttony—commences with fasting just as the first condition of a good life is self-control, so the first condition of a life of self-control is fasting.'
+
 Sages in various countries who practised self-control began with a system of regulated fasting and succeeded in attaining unbelievable heights of spirituality. An ascetic was kicked and tortured, and then his hands and feet were severed on the orders of a rakish king. But the ascetic, according to the Buddhist story, endured the torture with equanimity and without the slightest anger or hatred. Such religious people have developed their mental energy through restraining sensual indulgence which we crave for.
 
-## Vegetarianism
+#### Vegetarianism
 
-One should not judge the purity or impurity of persons simply by observing what they eat.
+*One should not judge the purity or impurity of persons simply by observing what they eat.*
 
-I
-N the Amagandha Sutta, the Buddha said:
-' Neither meat, nor fasting, nor nakedness, Nor shaven heads, nor matted hair, nor dirt, Nor rough skins, nor fire-worshipping, Nor all the penances here in this world, Nor hymns, nor oblation, nor sacrifice, Nor feasts of the season, Will purify a man overcome with doubt.' Taking fish and meat by itself does not make people become impure. They become impure by bigotry, deceit, envy, self-exaltation, disparagement and other evil intentions. Through their evil thoughts and actions, they make themselves impure. There is no strict rule in Buddhism which stipulates that the followers of the Buddha should not take fish and meat. The only advice given by the Buddha is that they should not be involved in killing intentionally or they should not ask others to kill any living being for them.
+IN the Amagandha Sutta, the Buddha said:
 
-Though the Buddha did not advocate vegetarianism for the monks, He did advise the monks to avoid taking ten kinds of meat for their self-respect and protection. They are: humans, elephants, horses, dogs, snakes, lions, tigers, leopards, bears, hyenas. Some animals attack people when they smell the flesh of their own kind.
+>*'Neither meat, nor fasting, nor nakedness,*\
+>*Nor shaven heads, nor matted hair, nor dirt,*\
+>*Nor rough skins, nor fire-worshipping,*\
+>*Nor all the penances here in this world,*\
+>*Nor hymns, nor oblation, nor sacrifice,*\
+>*Nor feasts of the season,*\
+>*Will purify a man overcome with doubt.'*
 
-(VINAYA PITAKA).
+Taking fish and meat by itself does not make people become impure. They become impure by bigotry, deceit, envy, self-exaltation, disparagement and other evil intentions. Through their evil thoughts and actions, they make themselves impure. There is no strict rule in Buddhism which stipulates that the followers of the Buddha should not take fish and meat. The only advice given by the Buddha is that they should not be involved in killing intentionally or they should not ask others to kill any living being for them.
+
+Though the Buddha did not advocate vegetarianism for the monks, He did advise the monks to avoid taking ten kinds of meat for their self-respect and protection. They are: humans, elephants, horses, dogs, snakes, lions, tigers, leopards, bears, hyenas. Some animals attack people when they smell the flesh of their own kind. (VINAYA PITAKA).
 
 When the Buddha was asked to introduce vegetarianism into the holy Order by Devadatta, one of His disciples, the Buddha refused to do so. As Buddhism is a free religion, His advice was to leave the decision regarding vegetarianism to the individual disciple. It clearly shows that the Buddha had not considered this as a very important religious observance. The Buddha did not mention anything about vegetarianism for the Buddhists in His Teaching.
 
 Jivaka Komarabhacca, the physician, discussed this controversial issue with the Buddha: 'Lord, I have heard that animals are slaughtered on purpose for the recluse Gotama, and that the recluse Gotama knowingly eats the meat killed on purpose for him. Lord, do those who say animals are slaughtered on purpose for the recluse Gotama, and the recluse Gotama knowingly eats the meat killed on purpose for him. Do they falsely accuse the Buddha? Or do they speak the truth? Are your declarations and supplementary declarations not thus subject to be ridiculed by others in any manner?'
-'Jivaka, those who say: 'Animals are slaughtered on purpose for the recluse Gotama, and the recluse Gotama knowingly eats the meat killed on purpose for him', do not say according to what I
-have declared, and they falsely accuse me. Jivaka, I have declared that one should not make use of meat if it is seen, heard or suspected to have been killed on purpose for a monk. I allow the monks meat that is quite pure in three respects: if it is not seen, heard or suspected to have been killed on purpose for a monk.' (JIVAKA SUTTA)
+
+'Jivaka, those who say: 'Animals are slaughtered on purpose for the recluse Gotama, and the recluse Gotama knowingly eats the meat killed on purpose for him', do not say according to what I have declared, and they falsely accuse me. Jivaka, I have declared that one should not make use of meat if it is seen, heard or suspected to have been killed on purpose for a monk. I allow the monks meat that is quite pure in three respects: if it is not seen, heard or suspected to have been killed on purpose for a monk.' (JIVAKA SUTTA)
+
 In certain countries, the followers of the Mahayana school of Buddhism are strict vegetarians. Those who take vegetable food and abstain from animal flesh are praiseworthy. However, while appreciating their observance in the name of religion, we should like to point out that they should not condemn those who are not vegetarians. They must remember that there is no precept in the original Teachings of the Buddha that requires all Buddhists to be vegetarians. We must realise that Buddhism is known as the Middle Path. It is a liberal religion and the Buddha's advice was that it is not necessary to go to extremes to practise His Teachings.
 
 Vegetarianism alone does not help a person to cultivate humane qualities. There are kind, humble, polite and religious people amongst non-vegetarians. Therefore, one should not condone the statement that a pure, religious person must practise vegetarianism.
@@ -2470,9 +2476,9 @@ On the other hand, if anybody thinks that people cannot have a healthy life with
 
 People who criticize Buddhists who eat meat do not understand the Buddhist attitude towards food. A living being needs nourishment. We eat to live. As such human beings should supply their bodies with the food needed to keep them healthy and to give them energy to work. However, as a result of increasing wealth, more and more people, especially in developed countries, eat simply to satisfy their palates. If one craves for any kind of food, or kills to satisfy one's greed for meat, this is wrong. If one eats moderately without greed and without directly being involved in the act of killing but merely to sustain the physical body, he or she is practising self-restraint. The destruction of greed should be the primary aim, not the kind of food that is taken.
 
-## The Moon And Religious Observances
+#### The Moon And Religious Observances
 
-The outstanding events in the life of the Buddha took place on full moon days.
+*The outstanding events in the life of the Buddha took place on full moon days.*
 
 MANY people would like to know the religious significance of full moon and new moon days. To Buddhists, there is a special religious significance especially on full moon days because certain important and outstanding events connected with the life of Lord Buddha took place on full moon days. The Buddha was born on a full moon day. His renunciation took place on a full moon day. His Enlightenment, the delivery of His first sermon, His passing away into Nirvana and many other important events associated with His life span of eighty years, occurred on full moon days.
 
@@ -2501,26 +2507,23 @@ Once a nurse in Florida told a doctor that she noticed a lot more bleeding occur
 
 But the nurse produced records of surgical operations which clearly showed that during full moon, more patients had to be returned to the operating theatre than at any other time for treatment for excessive bleeding after operations. To satisfy himself, this doctor started keeping records on his own and he came to a similar conclusion. When we consider all those occurrences, we can understand why our ancestors and religious teachers had advised us to change our daily routine and to relax physically and mentally on full moon and new moon days. The practice of religion is the most appropriate method for people to experience mental peace and physical relaxation. Buddhists are merely observing the wisdom of the past when they devote more time to activities of a spiritual nature on New Moon and Full Moon days.
 
-PART FOUR
-HUMAN LIFE IN SOCIETY
+## PART FOUR - HUMAN LIFE IN SOCIETY
 
-![305_image_0.png](305_image_0.png)
-
-# Life And Culture
+### 11. Life And Culture
 
 ![305_Image_1.Png](305_Image_1.Png)
 
-## Traditions, Customs And Festivals
+#### Traditions, Customs And Festivals
 
-Buddhism is tolerant about traditions and customs provided they are not harmful to the welfare of others.
+*Buddhism is tolerant about traditions and customs provided they are not harmful to the welfare of others.*
 
 THE Buddha advised us not to believe in anything simply because it is our tradition or custom. However, we are not advised to suddenly do away with all traditions. ' You must try to experiment with them and put them thoroughly to test. If they are reasonable and conducive both to your happiness and to the welfare of others, only then should you accept and practise these traditions and customs.' (KALAMA SUTTA) This is certainly one of the most liberal declarations ever made by any religious teacher. This tolerance of others' traditions and customs is not known to some other religionists. These religionists usually advise their new converts to give up all their traditions, customs and culture without considering whether they are good or bad. While preaching the Dharma, Buddhist missionaries have never advised the people to give up their traditions as long as they are reasonable. But the customs and traditions must be within the framework of religious principles. In other words, one should not violate the universal religious precepts in order to follow one's traditions. If people are very keen to follow their own traditions which have no religious value at all, they can do so provided that they do not practise these traditions in the name of religion. Even then, such practices must be harmless to oneself and to all other living creatures.
 
-## Rites And Rituals
+##### Rites And Rituals
 
 These are included within customs and traditions. The Rites and Rituals are an ornamentation or a decoration to beautify a religion in order to attract the public. They provide psychological help to some people. But one can practise religion without any rites and rituals. Certain rites and rituals that people consider as the most important aspect of their religion for their salvation are not considered as such in Buddhism. According to the Buddha, one should not cling to such practices for one's spiritual development or mental purity.
 
-## Festivals
+##### Festivals
 
 Genuine and sincere Buddhists do not observe Buddhist festivals by enjoying themselves under the influence of liquor and merrymaking or holding feasts following the slaughtering of animals.
 
@@ -2530,24 +2533,29 @@ The festivals that have been incorporated into religion sometimes could pollute 
 
 Of course, some people may not be satisfied with religious observances only during a festival. They prefer year-round merrymaking and will settle for any excuse to have a "good time". Rites and rituals, ceremonies, processions and festivals are organised to quench that thirst for emotional satisfaction through religion. No one can say that such practices are wrong, but devotees have to organise those ceremonies in a cultured manner, without causing a nuisance to others. Especially in a multi-religious society, they have to organize festivals in such a way that they do not become a mockery in the eyes of the public.
 
-# Status Of Women In Buddhism
+#### Status Of Women In Buddhism
 
-A female child may even prove to be a better offspring than a male.
+*A female child may even prove to be a better offspring than a male.*
 
 WOMEN'S position in Buddhism is unique. The Buddha gave women full freedom to participate in a religious life. The Buddha was the first religious Teacher who gave this religious freedom to women. Before the Buddha, women's duties had been restricted to the kitchen; women were not even allowed to enter any place of worship or to recite any religious scripture. During the Buddha's time in India, women's position in society was very low. The Buddha was criticized by the prevailing establishment when He gave this freedom to women. His move to allow women to enter the Holy Order was extremely radical for the times. Yet the Buddha allowed women to prove themselves and to show that they too had the capacity like men to attain the highest position in the religious way of life by attaining Arahantahood. Every woman in the world must be grateful to the Buddha for showing them the real religious way of living and for giving such freedom to them for the first time in world history.
 
 A good illustration of the prevailing attitude towards women during the Buddha's time is found in these words of Mara: 'No woman, with the two-finger wisdom (narrow) which is hers, could ever hope to reach those heights which are attained only by the sages.'
 The nun (*bhikkhuni*) to whom Mara addressed these words, gave the following reply: 'When one's mind is well concentrated and wisdom never fails, does the fact of being a woman make any difference?'
+
 The Buddha has confirmed that man is not always the only wise one; woman is also wise. King Kosala was very disappointed when he heard that his Queen had given birth to a baby girl. He had expected a boy. Undoubtedly, the Buddha was vehement in contradicting such attitudes. To console the sad King, the Buddha said:
-'A female child, O Lord of men, may prove to be even a better offspring than a male. For she may grow up wise and virtuous, her husband's mother reverencing a true wife. The boy that she may bear may do great deeds, a rule great realms. Yes, such a son of noble wife becomes his country's guide.'
-(SAMYUTTA NIKAYA)
+
+>*'A female child, O Lord of men, may prove to be even a better offspring than a male. For she may grow up wise and virtuous, her husband's mother reverencing a true wife. The boy that she may bear may do great deeds, a rule great realms. Yes, such a son of noble wife becomes his country's guide.'*\
+>(SAMYUTTA NIKAYA)
+
 Nowadays many religionists like to claim that their religions give women equal rights. We only have to look at the world around us today to see the position of women in many societies. It seems that they have no property rights, are discriminated against in various fields and generally suffer abuse in many subtle forms.
 
-Even in western countries, women like the Suffragettes had to fight very hard for their rights. According to Buddhism, it is not justifiable to regard women as inferior. The Buddha Himself was born as a woman on several occasions during His previous births in Samsara and even as a woman He developed the noble qualities and wisdom at that time until He gained Enlightenment or Buddhahood.*
+Even in western countries, women like the Suffragettes had to fight very hard for their rights. According to Buddhism, it is not justifiable to regard women as inferior. The Buddha Himself was born as a woman on several occasions during His previous births in Samsara and even as a woman He developed the noble qualities and wisdom at that time until He gained Enlightenment or Buddhahood.[^15]
 
-# Buddhism And Politics
+[^15]: For a deeper discussion on this subject, read the booklet STATUS OF WOMEN IN BUDDHISM by the same author.
 
-The Buddha had gone beyond all worldly affairs, but still gave advice on good government.
+#### Buddhism And Politics
+
+*The Buddha had gone beyond all worldly affairs, but still gave advice on good government.*
 
 THE Buddha came from the warrior caste and was naturally brought into association with kings, princes and ministers. Despite His origin and association, He never resorted to the influence of political power to introduce His teaching, nor allowed His Teaching to be misused for gaining political power. But today, many politicians try to drag the Buddha's name into politics by introducing Him as a communist, capitalist, or even an imperialist. They have forgotten that the new political philosophy as we know it really developed in the West long after the Buddha's time. Those who try to make use of the good name of the Buddha for their own personal advantage must remember that the Buddha was the Supremely Enlightened One who had gone beyond all worldly concerns.
 
@@ -2573,20 +2581,39 @@ The Buddhist approach to political power is the moralization and the responsible
 The Buddha discussed the importance and the prerequisites of a good government. He showed how the country could become corrupt, degenerate and unhappy when the head of the government becomes corrupt and unjust. He spoke against corruption and how a government should act based on humanitarian principles.
 
 The Buddha once said:
-'When the ruler of a country is just and good, the ministers become just and good, when the ministers are just and good, the higher officials become just and good, when the higher officials are just and good, the rank and file become just and good, when the rank and file become just and good, the people become just and good. '
-(ANGUTTARA NIKAYA)
+
+>*'When the ruler of a country is just and good, the ministers become just and good, when the ministers are just and good, the higher officials become just and good, when the higher officials are just and good, the rank and file become just and good, when the rank and file become just and good, the people become just and good.'*\
+>(ANGUTTARA NIKAYA)
+
 In the CAKKAVATTI SIHANADA SUTTA, the Buddha said that immorality and crime, such as theft, falsehood, violence, hatred, cruelty, could arise from poverty. Kings and governments may try to suppress crime through punishment, but it is futile to eradicate crimes through force.
 
 In the KUTADANTA SUTTA, the Buddha suggested economic development instead of force to reduce crime. The government should use the country's resources to improve the economic conditions of the country. It could embark on agricultural and rural development, provide financial support to those who undertake an enterprise and business, provide adequate wages for workers to maintain a decent life with human dignity.
 
 In the JATAKA stories, the Buddha gave 10 rules for Good Government, known as *Dasa Raja Dharma*. These ten rules can be applied even today by any government which wishes to rule the country peacefully. According to these rules a ruler must:
-1. be liberal and avoid selfishness, 2. maintain a high moral character, 3. be prepared to sacrifice his own pleasure for the well being of the subjects, 4. be honest and maintain absolute integrity, 5. be kind and gentle, 6. lead a simple life for the subjects to emulate, 7. be free from hatred of any kind, 8. exercise non violence, 9. practise patience, and 10. respect public opinion to promote peace and harmony. Regarding the behaviour of rulers, He further advised: 1. A good ruler should act impartially and should not be biased and discriminate between one particular group of subjects against another.
+
+1. be liberal and avoid selfishness,
+2. maintain a high moral character,
+3. be prepared to sacrifice his own pleasure for the well being of the subjects,
+4. be honest and maintain absolute integrity,
+5. be kind and gentle,
+6. lead a simple life for the subjects to emulate,
+7. be free from hatred of any kind,
+8. exercise non violence,
+9. practise patience, and
+10. respect public opinion to promote peace and harmony.
+
+Regarding the behaviour of rulers, He further advised:
+
+1. A good ruler should act impartially and should not be biased and discriminate between one particular group of subjects against another.
 
 2. A good ruler should not harbour any form of hatred against any of his subjects.
 
 3. A good ruler should show no fear whatsoever in the enforcement of the law, if it is justifiable.
 
-4. A good ruler must possess a clear understanding of the law to be enforced. It should not be enforced just because the ruler has the authority to enforce the law. It must be done in a reasonable manner and with common sense. (CAKKAVATTI SIHANADA SUTTA)
+4. A good ruler must possess a clear understanding of the law to be enforced. It should not be enforced just because the ruler has the authority to enforce the law. It must be done in a reasonable manner and with common sense.
+
+(CAKKAVATTI SIHANADA SUTTA)
+
 In the MILINDA PANHA, it is stated: 'If a man, who is unfit, incompetent, immoral, improper, unable and unworthy of kingship, has enthroned himself a king or a ruler with great authority, he is subject to a variety of punishment by the people, because, being unfit and unworthy, he has placed himself unrighteously in the seat of sovereignty. The ruler, like others who violate and transgress moral codes and basic rules of all social laws of mankind, is equally subject to punishment; and moreover, to be censured is the ruler who conducts himself as a robber of the public.' In a Jataka story, it is mentioned that a ruler who punishes innocent people and does not punish the culprit is not suitable to rule a country.
 
 The king always improves himself and carefully examines his own conduct in deeds, words and thoughts, trying to discover and listen to public opinion as to whether or not he had been guilty of any faults and mistakes in ruling the kingdom. If it is found that he rules unrighteously, the public will complain that they are ruined by the wicked ruler with unjust treatment, punishment, taxation, or other oppressions including corruption of any kind, and they will react against him in one way or another. On the contrary, if he rules righteously they will bless him: 'Long live His Majesty.' (MAJJHIMA NIKAYA)
@@ -2596,58 +2623,60 @@ The Buddha's emphasis on the moral duty of a ruler to use public power to improv
 
 Sometimes the Buddha is described as a social reformer although this was not His primary concern. Among other things, He condemned the caste system, recognised the equality of people, spoke on the need to improve socio-economic conditions, recognised the importance of a more equitable distribution of wealth among the rich and the poor, raised the status of women, recommended the incorporation of humanism in government and administration, and taught that a society should not be run by greed but with consideration and compassion for the people. Despite all these, His contribution to mankind is much greater because He took off at a point which no other social reformer before or ever since had reached, that is, by going to the deepest roots of human ill which are found in the human mind. It is only in the human mind that true reform can be effected. Reforms imposed by force upon the external world have a very short life because they have no roots. But those reforms which spring as a result of the transformation of man's inner consciousness remain rooted. While their branches spread outwards, they draw their nourishment from an unfailing source—the subconscious imperatives of the life-stream itself. So reforms come about when men's minds have prepared the way for them, and they live as long as men revitalise them out of their own love of truth, justice and their fellow men. The Buddhist attitude is that social reform can be achieved, not by harshness and punishment, but through education and compassion.
 
-The doctrine preached by the Buddha is not one based on
-'Political Philosophy'. Nor is it a doctrine that encourages people to incline towards worldly interests. It sets out a way to attain Nirvana.
-
-In other words, its ultimate aim is to put an end to craving (*tanha*)
+The doctrine preached by the Buddha is not one based on 'Political Philosophy'. Nor is it a doctrine that encourages people to incline towards worldly interests. It sets out a way to attain Nirvana. In other words, its ultimate aim is to put an end to craving (*tanha*)
 that keeps men in bondage to this world. Everything else including social reformation, is of a secondary concern. A stanza from the Dhammapada best summarises this statement: 'The path that leads to worldly gain is one, and the path that leads to Nirvana (by leading a religious life) is another'. However, this does not mean that Buddhists cannot or should not get involved in the political process, which is a social reality. The entire Teaching can be broadly divided into two categories: mundane and supramundane. The first refers to our material concerns pertaining to this human existence; the second concerns our spiritual aspirations which transcend worldly needs. The Buddha has said that living comfortable, secure and contented lives are a necessary prerequisite to prepare the mind to seek spiritual fulfillment.
 
 The lives of the members of a society are shaped by laws and regulations, economic arrangements allowed within a country and institutional arrangements, which are influenced by the political situation of that society. Nevertheless, if Buddhists wish to be involved in politics, they should not misuse religion to gain political powers, nor is it advisable for those who have renounced the worldly life in order to lead a pure, religious life to be actively involved in politics.
 
-![320_image_0.png](320_image_0.png)
-
-# Marriage, Birth Control And Death
+### 12. Marriage, Birth Control And Death
 
 ![320_Image_1.Png](320_Image_1.Png)
 
-Buddhist Views on Marriage In Buddhism, marriage is regarded as a social institution and not as a religious duty.
+#### Buddhist Views on Marriage
 
-MARRIAGE is a social convention, an institution created by human beings for their well being and happiness to differentiate human society from animal life and to maintain order and harmony in the process of procreation. Even though the Buddhist texts are silent on the subject of monogamy or polygamy, the Buddhist lay person is advised to limit himself or herself to one spouse. The Buddha did not lay rules on married life but gave necessary advice on how to live a happy married life. There are ample inferences in His sermons that it is wise and advisable to be faithful to one spouse and not to be sensual and to run after other partners. The Buddha taught that one of the main causes of the downfall of man is his involvement with other women
-(PARABHAVA SUTTA). Of course the implication is that a woman who gets involved with many men is also bound to suffer. A person must realise the difficulties, the trials and tribulations that one has to undergo just to maintain a family life. These would be magnified many times when faced with self induced complications. Knowing the frailties of human nature, the Buddha did, in one of His precepts, advise His followers to refrain from committing adultery or sexual misconduct.
+*In Buddhism, marriage is regarded as a social institution and not as a religious duty.*
 
-The Buddhist views on marriage are very liberal: in Buddhism, marriage is regarded entirely as a personal and individual concern, and not as a religious duty. There are no religious laws in Buddhism compelling a person to be married, to remain single or to lead a life of total celibacy. It is not laid down anywhere that Buddhists must produce children or regulate the number of children that they produce. Buddhism allows each individual the freedom to decide for him or herself all the issues pertaining to marriage. It might be asked why Buddhist monks do not marry, since there are no laws for or against marriage. The reason is obviously that to be of service to mankind, the monks have chosen a way of life which includes celibacy. Those who renounce the worldly life keep away from married life voluntarily to avoid various worldly commitments in order to maintain peace of mind. They wish to dedicate their lives solely to serve others in the attainment of spiritual emancipation. In modern society, although Buddhist monks do not solemnize a marriage ceremony, they can be called upon to perform religious services in order to bless the couples.* These remarks are all equally applicable to nuns.
+MARRIAGE is a social convention, an institution created by human beings for their well being and happiness to differentiate human society from animal life and to maintain order and harmony in the process of procreation. Even though the Buddhist texts are silent on the subject of monogamy or polygamy, the Buddhist lay person is advised to limit himself or herself to one spouse. The Buddha did not lay rules on married life but gave necessary advice on how to live a happy married life. There are ample inferences in His sermons that it is wise and advisable to be faithful to one spouse and not to be sensual and to run after other partners. The Buddha taught that one of the main causes of the downfall of man is his involvement with other women (PARABHAVA SUTTA). Of course the implication is that a woman who gets involved with many men is also bound to suffer. A person must realise the difficulties, the trials and tribulations that one has to undergo just to maintain a family life. These would be magnified many times when faced with self induced complications. Knowing the frailties of human nature, the Buddha did, in one of His precepts, advise His followers to refrain from committing adultery or sexual misconduct.
 
-## Divorce
+The Buddhist views on marriage are very liberal: in Buddhism, marriage is regarded entirely as a personal and individual concern, and not as a religious duty. There are no religious laws in Buddhism compelling a person to be married, to remain single or to lead a life of total celibacy. It is not laid down anywhere that Buddhists must produce children or regulate the number of children that they produce. Buddhism allows each individual the freedom to decide for him or herself all the issues pertaining to marriage. It might be asked why Buddhist monks do not marry, since there are no laws for or against marriage. The reason is obviously that to be of service to mankind, the monks have chosen a way of life which includes celibacy. Those who renounce the worldly life keep away from married life voluntarily to avoid various worldly commitments in order to maintain peace of mind. They wish to dedicate their lives solely to serve others in the attainment of spiritual emancipation. In modern society, although Buddhist monks do not solemnize a marriage ceremony, they can be called upon to perform religious services in order to bless the couples.[^16] These remarks are all equally applicable to nuns.
+
+[^16]: Read the book “Happy Married Life” by the same author for more details.
+
+##### Divorce
 
 Separation or divorce is not prohibited in Buddhism though the necessity would scarcely arise if the Buddha's injunctions were strictly followed. Men and women must have the liberty to separate if they really cannot agree with each other. Separation is preferable to living a miserable family life for a long period of time for both partners and innocent children. The Buddha further advises old men not to have young wives as the old and young are unlikely to be compatible, which can create undue problems, disharmony and downfall (PARABHAVA SUTRA).
 
 A society grows through a network of relationships which are mutually intertwined and inter-dependent. Every relationship is a wholehearted commitment to support and to protect others in a group or community. Marriage plays a very important part in this strong web of relationships of giving support and protection. A good marriage should grow and develop gradually from understanding and not impulse, from true loyalty and not just sheer indulgence. The institution of marriage provides a fine basis for the development of culture, a delightful association of two individuals to be nurtured, and to be free from loneliness, deprivation and fear. In marriage, each partner develops a complementary role, giving strength and moral courage to one another, each manifesting a supportive and appreciative recognition of the other's skills. There must be no thought of either man or woman being superior; each is complementary to the other, in a partnership of equality, exuding gentleness, self-control, respect, generosity, calm and dedication.
 
-## Birth Control, Abortion And Suicide
+#### Birth Control, Abortion And Suicide
 
-Although a human being has freedom to plan a family according to his or her own convenience, abortion is not justifiable.
+*Although a human being has freedom to plan a family according to his or her own convenience, abortion is not justifiable.*
 
-THERE is no reason for Buddhists to oppose birth control.
-
-They are at liberty to use any of the old or modern measures to prevent conception. Those who object to birth control by saying that it is against God's law to practise it, must realise that their concept regarding this issue is not reasonable. In birth control what is done is to prevent the coming into being of an existence. There is no killing involved and there is no akusala karma (unskillful action). However, if people take any action to have an abortion, this action is wrong because it involves taking away or destroying a visible or invisible life. Therefore, abortion is not justifiable.
+THERE is no reason for Buddhists to oppose birth control. They are at liberty to use any of the old or modern measures to prevent conception. Those who object to birth control by saying that it is against God's law to practise it, must realise that their concept regarding this issue is not reasonable. In birth control what is done is to prevent the coming into being of an existence. There is no killing involved and there is no akusala karma (unskillful action). However, if people take any action to have an abortion, this action is wrong because it involves taking away or destroying a visible or invisible life. Therefore, abortion is not justifiable.
 
 According to the Teachings of the Buddha, five conditions must be present to constitute the evil act of killing. They are:
-1. a living being 2. knowledge or awareness it is a living being 3. intention of killing 4. effort to kill, and 5. consequent death At conception, there is a being in the womb and this fulfils the first condition. After a couple of months, the mother knows that there is a new life within her and this satisfies the second condition. Then for some reason or other, she wants to do away with this being in her. So she begins to search for an abortionist to do the job and in this way, the third condition is fulfilled. When the abortionist does his job, the fourth condition is provided for and finally, the being is killed because of that action. So all the conditions are present. In this way, there is a violation of the First Precept 'not to kill', and this is tantamount to killing a human being. Conversely, however, by birth control, a life does not come into being, and therefore all the above five conditions cannot operate. According to Buddhism, there is no ground to say that we have the right to take away a life once it has come into being.
+
+1. a living being
+2. knowledge or awareness it is a living being
+3. intention of killing
+4. effort to kill, and
+5. consequent death
+
+At conception, there is a being in the womb and this fulfils the first condition. After a couple of months, the mother knows that there is a new life within her and this satisfies the second condition. Then for some reason or other, she wants to do away with this being in her. So she begins to search for an abortionist to do the job and in this way, the third condition is fulfilled. When the abortionist does his job, the fourth condition is provided for and finally, the being is killed because of that action. So all the conditions are present. In this way, there is a violation of the First Precept 'not to kill', and this is tantamount to killing a human being. Conversely, however, by birth control, a life does not come into being, and therefore all the above five conditions cannot operate. According to Buddhism, there is no ground to say that we have the right to take away a life once it has come into being.
 
 Under certain circumstances, people feel compelled to do that for their own convenience. But they should not justify this act of abortion as somehow or other they will have to face some sort of bad consequences. In certain countries abortion is legalised, but this is to overcome some social problems. Religious principles should never be surrendered for the pleasure of human beings. They stand for the welfare of the whole of mankind.
 
-## Committing Suicide
+##### Committing Suicide
 
 Taking one's own life under any circumstances is morally and spiritually wrong. Taking one's own life owing to frustration or disappointment only causes greater suffering. Suicide is a cowardly way to end one's problems in life. A person cannot commit suicide if his or her mind is pure and tranquil. If one leaves this world with a confused and frustrated mind, it is most unlikely that he or she would be born again in a better condition. Suicide is an unwholesome or unskilful act since it is encouraged by a mind filled with self importance, greed, hatred and most importantly, delusion. Those who commit suicide have not learnt how to face their problems, how to face the facts of life, and how to use their mind in a proper manner. Such people have not been able to understand the nature of life and worldly conditions.
 
 Some people sacrifice their own lives for what they deem as a good and noble cause. They take their own lives by such methods as self-immolation, bullet-fire, or starvation. Such actions may be classified as brave and courageous. However, from the Buddhist point of view, such acts are not to be condoned. The Buddha has clearly pointed out that suicidal states of mind lead to further suffering. This whole attitude again proves how much Buddhism is a positive, life affirming religion.
 
-# Why Does The World Population Increase?
+#### Why Does The World Population Increase?
 
-The credit or responsibility for the population increase must go to the medical and other facilities available today.
+*The credit or responsibility for the population increase must go to the medical and other facilities available today.*
 
-I
-F Buddhists do not believe in a soul created by god, how are they going to account for the increase of population in the world today? This is a very common question that is asked by many people. People who ask this question usually assume that there is only one world where living beings exist. One must consider that it is quite natural for the population to increase in such places where good climatic conditions, medical facilities, food and precautions are available to produce and to protect living beings.
+IF Buddhists do not believe in a soul created by god, how are they going to account for the increase of population in the world today? This is a very common question that is asked by many people. People who ask this question usually assume that there is only one world where living beings exist. One must consider that it is quite natural for the population to increase in such places where good climatic conditions, medical facilities, food and precautions are available to produce and to protect living beings.
 
 One must also consider that there is really no ground to think that this is the only period in which the population in the world has increased. There are no means of comparison with any period of ancient history. Vast civilisations existed and have disappeared in Central Asia, the Middle East, Africa and Ancient America. No census figures on these civilisations are even remotely available. Population, as everything else in the universe, is subject to cycles of rise and fall. In cycles of alarming increases of birth rate, one might be consequently tempted to argue against rebirth in this or other worlds. For the last few thousand years, there has been no evidence to prove that there were more people in some parts of the world than there are today. The number of beings existing in the various world systems is truly infinite. If human lives can be compared to only few grains of sand, the number of beings in the universe can be said to be greater than the grains of sand on all the beaches in the world. When conditions are right and when supported by their good karma, a few of these infinite number of beings are reborn as human beings. The advancement of medicine especially in the 19th and 20th centuries has enabled human beings to live longer and healthier lives.
 
@@ -2655,13 +2684,11 @@ This is a factor that contributes to population increase. Population can further
 
 There is a belief among certain people that all unfortunate occurrences that destroy human lives are created by God in order to reduce the population of the world. Instead of giving so much suffering to his own creatures, why cannot he control the population? Why does he create more and more people in thickly populated countries where there is no proper food, clothing and other basic and necessary requirements? Those who believe that God created everything cannot give a satisfactory answer to this question. Poverty, unhappiness, war, hunger, disease, famine are not due to the will of God or to the whim of some devil, but to causes which are not so difficult to discover.
 
-# Sex And Religion
+#### Sex And Religion
 
-Human beings are the only living beings that do not have periods of natural sexual inactivity during which the body can recover its vitality.
+*Human beings are the only living beings that do not have periods of natural sexual inactivity during which the body can recover its vitality.*
 
-THE sex impulse is the most dynamic force in human nature.
-
-So far-reaching is the sexual force that some measure of selfcontrol is necessary even in ordinary existence. In the case of the spiritual aspirants, for those who want to bring their mind under complete control, a still greater measure of self-discipline is necessary. Such a powerful force in human character can be subdued only if the aspirants control their thoughts and practise concentration. The conservation of the sexual force helps to develop this strength. For if they control the sexual force, they will have more control over their whole make-up, over their baser emotions. "Control" means we voluntarily exercise restraint by understanding the need to do so. This is very different from "suppressing" which means simply trying to pretend the urge is not there. Suppression can have dangerous consequences.
+THE sex impulse is the most dynamic force in human nature. So far-reaching is the sexual force that some measure of selfcontrol is necessary even in ordinary existence. In the case of the spiritual aspirants, for those who want to bring their mind under complete control, a still greater measure of self-discipline is necessary. Such a powerful force in human character can be subdued only if the aspirants control their thoughts and practise concentration. The conservation of the sexual force helps to develop this strength. For if they control the sexual force, they will have more control over their whole make-up, over their baser emotions. "Control" means we voluntarily exercise restraint by understanding the need to do so. This is very different from "suppressing" which means simply trying to pretend the urge is not there. Suppression can have dangerous consequences.
 
 Celibacy is recommended for those who like to develop their spiritual development for perfection. However, it is not compulsory for each and every person to observe complete celibacy in order to practise Buddhism. The Buddha's advice is that observing celibacy is more congenial for a person who wants to cultivate his or her spiritual achievements. For ordinary Buddhist lay persons, the precept is to abstain from sexual misconduct. This means that a householder may indulge in legitimate sex. This is because in such legitimate sexual activity there is no guilt and no sense of exploitation of the other party.
 
@@ -2681,18 +2708,16 @@ Unlike what we are made to believe, sex should not be considered as the most imp
 
 Marriage is a bond of partnership for life entered into by a man and a woman. Patience, tolerance and understanding are the three principal qualities that should be developed and nurtured by the couple. Whilst love should be the knot tying the couple together, material necessities for sustaining a happy home should be made available for the couple to share. The qualification for a good partnership in marriage should be 'ours' and not 'yours' or 'mine'. A good couple should 'open' their hearts to one another and refrain from entertaining 'secrets'. Keeping secrets to oneself could lead to suspicion and suspicion is the element that could destroy love in a partnership. Suspicion breeds jealousy, jealousy creates anger, anger develops hatred, hatred turns into enmity and enmity could cause untold sufferings including bloodshed, suicide and even murder.
 
-"The lower part of us is still animal" (GANDHI)
-PART FIVE
-A RELIGION FOR
-HUMAN PROGRESS
+>*"The lower part of us is still animal"*\
+>(GANDHI)
 
-![333_image_0.png](333_image_0.png)
+## PART FIVE - A RELIGION FOR HUMAN PROGRESS
 
-# Nature, Value And Choice Of
+### 13. Nature, Value And Choice Of Religious Beliefs
 
-![333_Image_1.Png](333_Image_1.Png) Religious Beliefs
+![333_Image_1.Png](333_Image_1.Png)
 
-Human Beings and Religion Humans are the only living beings in this world who have discovered religion and perform worship and prayer by upholding religious principles.
+*Human Beings and Religion Humans are the only living beings in this world who have discovered religion and perform worship and prayer by upholding religious principles.*
 
 HUMANS developed religion in order to satisfy their desire to understand the life within them and the world outside them. The earliest religions had animistic origins, and they arose out of their fear of the unknown and their desire to placate the forces which they thought inhabited inanimate objects.
 
@@ -2726,7 +2751,7 @@ Religious precepts have been introduced by enlightened religious teachers who ha
 
 This does not mean, on the other hand, that a person should slavishly follow what is found in his or her religion, regardless of its relevance to modern times. Religious laws and precepts should enable people to lead a meaningful life, and are not to be used to bind them to archaic practices and superstitious rituals and beliefs. A person who upholds the basic religious principles should give credit to human intelligence and live respectably with human dignity. There must be some changes in our religious activities to correspond to our education and the nature of our changing society, without at the same time sacrificing the noble universal principles. But it is recognised that making changes to any religious practices is always difficult because many conservative people are opposed to changes, even if they are for the better. Such conservative views are like a stagnant pool of water, while fresh ideas are like the waterfall where the water is constantly being renewed and is, therefore, usable all the time.
 
-## Misconceptions On Religion
+##### Misconceptions On Religion
 
 Despite the value of religion in moral upliftment, it is also true to say that religion is a fertile soil for the development of superstitions and devotional beliefs, wrapped under the cloak of religiosity. Many people use religion to escape from the realities of life and put on the garb of religion and religious symbols with little or no inner development. They may even pray very often in places of worship, yet they are not sincerely religious minded and do not understand what religion stands for. When a religion has been debased by ignorance, greed for power and selfishness, people quickly point an accusing finger and say that religion is irrational. But 'Religion' (the ritualistic external practice of any teaching) must be distinguished from the teaching itself. Before one criticizes, one must study the original teachings of the founder and see if there is anything intrinsically wrong with it.
 
@@ -2735,20 +2760,19 @@ Religion advises people to do good and be good, but they are not interested in a
 Practising a religion is nothing more than the development of one's inner awareness, goodwill and understanding. Problems would have to be faced squarely by relying on one's spiritual strength. Running away from one's problems in the name of spiritualism is not courageous, much less spiritual. Under today's chaotic conditions, men and women are rapidly sliding downhill to their own destruction. The irony is that they imagine they are progressing towards a glorious civilisation that is yet to be realised.
 
 In the midst of this confusion, imaginary and plastic religious concepts are propagated to create more temptation and confusion in the human mind. Religion is being misused for personal gain and political power. Certain immoral practices, such as free sex, have been encouraged by some irresponsible religious groups to introduce their religion among youths. By arousing lustful feelings, these groups hope to seduce boys and girls into following their religion. Today religion has degenerated into a cheap commodity in the religious market giving scant regard to moral values and what they stand for. Some missionaries claim that the practice of morals, ethics and precepts are not important as long as they have faith and pray to God, which is believed to be sufficient to grant their salvation. Having witnessed how some religious authorities have misled and blindfolded their followers in Europe, Karl Marx made a caustic remark: 'Religion is the sigh of the oppressed creature, the feelings of a heartless world, just as it is the soul of soulless conditions. It is the opium of the people.'
+
 We need a religion not for the reason of giving us a dream for our next life or providing us with some dogmatic ideas to follow, in such a way that we surrender our human intelligence and become a nuisance to our fellow beings. A religion should be a reliable and reasonable method for people to live 'here and now' as cultured, understanding beings, while setting a good example for others to follow. Many religions turn our thoughts away from ourselves towards a supreme being, but Buddhism directs our search for peace inwards to the potentialities that lie hidden within ourselves. Buddhism respects and encourages our intelligence. The Buddha pointed out the mind's great potential and how to develop it. Therefore, true religion, which is Dharma, is not something outside us that we acquire, but the cultivation and realisation of wisdom, compassion and purity that we develop within ourselves.
 
-## Which Is The Proper Religion?
+#### Which Is The Proper Religion?
 
-If any religion has the Four Noble Truths and the Eightfold Path, then it can be regarded as a proper religion.
+*If any religion has the Four Noble Truths and the Eightfold Path, then it can be regarded as a proper religion.*
 
 I
 T is very difficult for people to discover why there are so many different religions, and which religion is the true one. Followers of every religion are trying to show the superiority of their religion. Diversity has given rise to some forms of development, but in matters of religion, people look upon each other with jealousy, hatred and disdain. The most respected religious practices in one religion are deemed ridiculous to others. To introduce their divine and peaceful messages some people have resorted to weapons and wars. Have they not polluted the good name of religion? It seems that certain religions are responsible for dividing instead of uniting mankind. Today we have more than enough religions which encourage their followers to hate another religion, but not enough religions which encourage respect for another religion. Every religion teaches about love but one religion cannot love another religion.
 
 To find a true and proper religion, we must weigh with an unbiased mind what exactly is a false religion. False religions or philosophies include: materialism which denies survival after death; amoralism which denies good and evil; any religion which asserts that man is miraculously saved or doomed; theistic evolution which holds that everything is preordained and everyone is destined to attain eventual salvation through mere faith.
 
-Buddhism is free from unsatisfactory and uncertain foundations.
-
-Buddhism is realistic and verifiable. Its Truths have been verified by the Buddha, verified by His disciples, and always remain open to be verified by anyone who wishes to do so. And today, the Teachings of the Buddha are being verified by the most severe methods of scientific investigation.
+Buddhism is free from unsatisfactory and uncertain foundations. Buddhism is realistic and verifiable. Its Truths have been verified by the Buddha, verified by His disciples, and always remain open to be verified by anyone who wishes to do so. And today, the Teachings of the Buddha are being verified by the most severe methods of scientific investigation.
 
 The Buddha advises that any form of religion is proper if it contains the Four Noble Truths and the Noble Eightfold Path. This clearly shows that the Buddha did not want to form a particular religion. What He wanted was to reveal the Ultimate Truth of our life and the world. Although the Buddha expounded the Four Noble Truths and the Eightfold Noble Path, this method is not the property of Buddhists alone. This is a universal Truth and is open to anyone who wishes to understand the human condition and attain happiness.
 
@@ -2758,14 +2782,12 @@ Some religious traditions require people to be subservient to a greater power th
 
 One of the reasons why Buddhism appeals to intellectuals and those with a good education, is that the Buddha expressly discouraged His followers from accepting anything they heard without first testing its validity. The teachings of the Buddha have remained and survived precisely because many intellectuals have challenged every aspect of the teachings and have concluded that the Buddha had always spoken the undeniable Truth. While other religionists are trying to reassess their founders' teachings in the light of modern knowledge about the Universe, the Buddha's teachings are being verified by scientists.
 
-## Moral And Spiritual Development
+#### Moral And Spiritual Development
 
-Without a spiritual background humans have no moral responsibility:
-humans without moral responsibility pose a danger to society BUDDHISM has been an admirable lighthouse for guiding
+*Without a spiritual background humans have no moral responsibility:
+humans without moral responsibility pose a danger to society*
 
-![344_image_0.png](344_image_0.png)
-
-many human beings to salvation from the suffering in Samsara. Buddhism is especially needed in the world today which is riddled with racial, economic and ideological misunderstandings. These misunderstandings can never be effectively cleared until the spirit of benevolent tolerance is extended towards others. This spirit can be best cultivated under the guidance of Buddhism which inculcates ethical-moral co-operation for universal good.
+BUDDHISM has been an admirable lighthouse for guiding many human beings to salvation from the suffering in Samsara. Buddhism is especially needed in the world today which is riddled with racial, economic and ideological misunderstandings. These misunderstandings can never be effectively cleared until the spirit of benevolent tolerance is extended towards others. This spirit can be best cultivated under the guidance of Buddhism which inculcates ethical-moral co-operation for universal good.
 
 We know that it is easy to learn vice without a master, whereas virtue requires a tutor. There is a very great need for the teaching of virtue by precepts and examples.
 
@@ -2782,11 +2804,11 @@ There are four ways by which humanity tries to realize the aim of life: 1. Mater
 
 The last one is the realistic and lasting method which never creates disappointment.
 
-# The God-Idea
+#### The God-Idea
 
-The reality or validity of belief in God is based on our understanding capacity and the maturity of the mind.
+*The reality or validity of belief in God is based on our understanding capacity and the maturity of the mind.*
 
-## The Development Of The God-Idea
+##### The Development Of The God-Idea
 
 TO trace the origin and development of the god-idea, one must go back to the time when civilisation was still in its infancy and modern science was still unknown. Primitive people, out of fear of and admiration for natural phenomena, had believed in different spirits and gods. They used their belief in spirits and gods to form religions peculiar to the area they lived in. According to their respective circumstances and understanding capacity different people worshipped different gods and founded different faiths.
 
@@ -2796,7 +2818,7 @@ In the process of development, the god-idea was moulded through a variety of cha
 
 Even the monotheistic God of recent times has gone through a variety of changes as it passed through different nations and people. The Hindu god is quite different from the Christian god. The Christian god is again different from gods of other faiths. Thus numerous religions came into existence; each differed greatly from the other in the end, although each claims that ' God is One'.
 
-# The God-Idea And Creation
+##### The God-Idea And Creation
 
 AS each religion came into existence and developed around the god-idea, different religions developed their own particular explanations of creation. Thus the god-idea became associated with various myths. People used the god-idea as a vehicle for their explanations of the existence of humans and the nature of the universe.
 
@@ -2804,19 +2826,19 @@ Today, intelligent people, who have carefully reviewed all the available facts, 
 
 If humans were created by an external source, then they must belong to that source and not to themselves. According to Buddhism, humans are responsible for everything they do. Thus Buddhists have no reason to believe that beings came into existence in human form through any external sources. We believe that we are here today because of our own craving, attachment and karmic actions. We are neither punished nor rewarded by anyone but by ourselves according to our own good and bad action. In the process of evolution, the human being came into existence. There are no Buddha-words to support the belief that the world was created by anybody. However, the scientific discovery of gradual development of the world-system conforms with the Buddha's Teachings.
 
-## Human Weakness And The Concept Of God
+##### Human Weakness And The Concept Of God
 
 BOTH the concept of God and its associated creation myths have been protected and defended by believers who need these ideas to justify their existence and usefulness to human society. All the believers claim to have received their respective scriptures as Revelation; in other words, they all profess to come directly from one God. Each god-religion claims that it stands for Universal Peace and Universal Brotherhood and other such high ideals.
 
 However great the ideals of the religions might be, the history of the world shows that some religions at least up to the present day have also helped in spreading superstitions. Some have stood against science and the advancement of knowledge, leading to ill-feelings, murders and wars. In this respect, the god-religions have failed in their attempt to enlighten mankind. For example, in certain countries when people pray for mercy, their hands are stained with the blood of the morbid sacrifices of innocent animals and sometimes, even fellow human beings. Poor and helpless creatures are slaughtered at the desecrated altars of imaginary and imperceptible gods. It has taken a long time for people to understand the futility of such cruel practices in the name of religion. The time has come for them to realise that the path of real purification is through love and understanding.
 
-Dr. G. Dharmasiri in his book 'BUDDHIST CRITIQUE OF THE
-CHRISTIAN CONCEPT OF GOD' has mentioned,
-'I see that though the notion of God contains sublime moral strands, it also has certain implications that are extremely dangerous to humans as well as to the other beings on this planet.'
-'One major threat to humanity is the blindfold called
-"authority" imposed on humans by the concept of God. All theistic religions consider authority as ultimate and sacred. It was this danger that the Buddha was pointing at in the Kalama Sutra.
+Dr. G. Dharmasiri in his book 'BUDDHIST CRITIQUE OF THE CHRISTIAN CONCEPT OF GOD' has mentioned,
 
-At the moment, human individuality and freedom are seriously threatened by various forms of authorities. Various "authorities" have been trying to make "you" a follower. On top of all our "traditional" authorities, a new form of authority has emerged in the name of 'science '. And lately, the mushrooming new religions and the menace of the Gurus have become live threats to the individual's human freedom and dignity. The Buddha's eternal plea is for you to become a Buddha, and He showed, in a clearly rational way, that each and every one of us has the perfect potentiality and capacity to attain that ideal.' God-religions offer no salvation without God. Thus a person might conceivably have climbed to the highest pinnacle of virtue, and he or she might have led a righteous way of life, and might even have climbed to the highest level of holiness, yet that person is to be condemned to eternal hell just because he or she did not believe in the existence of the God of a particular group. On the other hand, a person might have sinned deeply and yet, having made a late repentance, that person can be forgiven and therefore
+>*'I see that though the notion of God contains sublime moral strands, it also has certain implications that are extremely dangerous to humans as well as to the other beings on this planet.'*
+>
+>*'One major threat to humanity is the blindfold called "authority" imposed on humans by the concept of God. All theistic religions consider authority as ultimate and sacred. It was this danger that the Buddha was pointing at in the Kalama Sutra. At the moment, human individuality and freedom are seriously threatened by various forms of authorities. Various "authorities" have been trying to make "you" a follower. On top of all our "traditional" authorities, a new form of authority has emerged in the name of 'science'. And lately, the mushrooming new religions and the menace of the Gurus have become live threats to the individual's human freedom and dignity. The Buddha's eternal plea is for you to become a Buddha, and He showed, in a clearly rational way, that each and every one of us has the perfect potentiality and capacity to attain that ideal.'*
+
+God-religions offer no salvation without God. Thus a person might conceivably have climbed to the highest pinnacle of virtue, and he or she might have led a righteous way of life, and might even have climbed to the highest level of holiness, yet that person is to be condemned to eternal hell just because he or she did not believe in the existence of the God of a particular group. On the other hand, a person might have sinned deeply and yet, having made a late repentance, that person can be forgiven and therefore
 'saved'. From the Buddhist point of view, there is no justification in this kind of teaching.
 
 Despite the apparent contradictions of the god-religions, however it is not deemed advisable to preach a godless doctrine since the belief in god has also done a tremendous service to mankind, especially among less spiritually developed people to whom the god concept is desirable. This belief in god has helped people to control their animal nature. And much help has been granted to others in the name of god. For the most part, they feel insecure without the belief in god. They find protection and inspiration when that belief is in their mind. The reality or validity of such a belief is based on their understanding capacity and spiritual maturity.
@@ -2835,9 +2857,9 @@ Therefore, with due respect to other religionists, it must be mentioned that any
 
 From time immemorial, Buddhists have led a peaceful religious life without incorporating the particular concept of God. They should be capable of sustaining their particular religion without the necessity, at this juncture, of someone trying to force something down their throats against their will. Having full confidence in their Buddha Dharma, Buddhists should be permitted to work and seek their own salvation without any undue interference from other sources. Others can uphold their beliefs and concepts, Buddhists will uphold theirs, without any rancour. We do not challenge others in regard to their religious persuasions, we expect reciprocal treatment in regard to our own beliefs and practices.
 
-## Changing A Religious Label Before Death
+#### Changing A Religious Label Before Death
 
-Merely to believe that there is someone to wash away our sins without suppressing our evil state of mind, is not in accordance with the Teachings of the Buddha.
+*Merely to believe that there is someone to wash away our sins without suppressing our evil state of mind, is not in accordance with the Teachings of the Buddha.*
 
 VERY often we come across cases of people who change their religion at the last moment when they are about to die. By embracing another religion, some people are under the mistaken belief that they can 'wash away their sins' and gain an easy passage to heaven. They also hope to ensure themselves a more emotionally charged and aesthetically more attractive burial. For people who have been living a whole life time with a particular religion, to suddenly embrace a religion which is totally new and unfamiliar and to expect an immediate salvation through their new faith is indeed very far-fetched. This is only a dream. Some people are even known to have been converted into another faith when they are in a state of unconsciousness and in some cases, even posthumously. Those who are over zealous and crazy about converting others into their faith, have misled uneducated people into believing that theirs is the one and only faith with an easy method or short-cut to heaven. If people are led to believe that there is someone sitting somewhere up there who can wash away all the sins committed during a lifetime, then this belief will only encourage others to commit evil without fear.
 
@@ -2847,9 +2869,9 @@ It has become a common sight in many hospitals to see purveyors of some religion
 
 A dying person's destiny in the next life depends on the last thoughts which appear according to the good and bad karma accumulated during the current lifetime, irrespective of what type of religious label a person prefers to display at the last moment.
 
-## Short-Cut To Paradise And End Of The World
+#### Short-Cut To Paradise And End Of The World
 
-Paradise is open not only to the followers of a particular religion, but it is open to each and every person who leads a righteous and noble way of life.
+*Paradise is open not only to the followers of a particular religion, but it is open to each and every person who leads a righteous and noble way of life.*
 
 THERE is no difficulty at all for Buddhists to go to heaven if they really want to. But there are some people who go from house to house trying to convert other religionists into their faith and promising them the heaven they carry in their bags. They claim that they are the only blessed people who can go to heaven; they also claim that they have the exclusive authority to send others to the same goal. They introduce their religion like a patent medicine and this has become a nuisance to the public today. Many innocent people who lack the knowledge of their own religion, have become victims of these paradise peddlars.
 
@@ -2859,15 +2881,13 @@ This threat of the end of the world had been going on for hundreds of years. The
 
 In Buddhism, there is no personal judge either to condemn or to reward but only the working of an impersonal moral causation and natural law.
 
-![357_image_0.png](357_image_0.png)
-
-# Promoter Of True Human Culture
+### 14. Promoter Of True Human Culture
 
 ![357_Image_1.Png](357_Image_1.Png)
 
-## Modern Religion
+#### Modern Religion
 
-Buddhism is strong enough to face any modern views which pose a challenge to religion.
+*Buddhism is strong enough to face any modern views which pose a challenge to religion.*
 
 BUDDHIST ideas have greatly contributed to the enrichment of both ancient and modern thought. Its teaching of causation and relativism, its doctrine of sense data, its pragmatism, its emphasis on morality, its non-acceptance of a permanent soul, its unconcern about external supernatural forces, its denial of unnecessary rites and religious rituals, its appeal to reasoning and experience and its compatibility with modern scientific discoveries all tend to establish its superior claim to modernity.
 
@@ -2881,9 +2901,9 @@ Without sensual pleasure, would life be endurable? Without belief in immortality
 
 Buddhism is truly a religion suited to the modern, scientific world. The light which comes from nature, from science, from history, from human experience, from every point of the universe, is radiant with the Noble Teachings of the Buddha.
 
-# Religion In A Scientific Age
+#### Religion In A Scientific Age
 
-Religion without science is lame, while science without religion is blind.
+*Religion without science is lame, while science without religion is blind.*
 
 TODAY we live in a scientific age in which almost every aspect of our lives has been affected by science. Since the scientific revolution during the seventeenth century, science has continued to exert tremendous influence on what we think and do.
 
@@ -2895,7 +2915,7 @@ On the other hand, some religionists have found it necessary to accommodate popu
 
 In the light of modern scientific discoveries, it is not difficult to understand that many of the views held by many religions regarding the universe and life are merely conventional thoughts which have long been superceded.
 
-## Buddhism And Science
+##### Buddhism And Science
 
 Until the beginning of the last century, Buddhism was confined to countries untouched by modern science. Nevertheless, from its very beginning, the Teachings of the Buddha were always open to scientific thinking and critical examination.
 
@@ -2907,7 +2927,7 @@ Using a similar approach 25 centuries ago, the Buddha observed the inner world w
 
 While Buddhism is very much in line with the scientific spirit, it is not correct to equate Buddhism with science. It is true that the practical applications of science have enabled mankind to live more comfortable lives and experience wonderful things undreamed of before. Science has made it possible for humans to swim better than the fishes, fly higher than the birds, and walk on the moon. Yet the sphere of knowledge acceptable to conventional, scientific wisdom is confined to empirical evidence. And scientific truth is subject to constant change. This is because, ultimately science does not know the Ultimate Truth. As it gropes about in semi-darkness, it has to constantly shift its positions, as it discovers new Truths it had never thought possible before. As yet, science cannot give human beings control over their mind and it certainly cannot offer moral control and guidance. Despite its wonders, science has indeed many limitations not shared by Buddhism.
 
-## Limitations Of Science
+##### Limitations Of Science
 
 Often one hears so much about science and what it can do, and so little about what it cannot do. Scientific knowledge is limited to the data received through the sense organs. It does not recognise reality which transcends sense-data. Scientific truth is built upon logical observations of sense data which are continually changing. Scientific truth is, therefore, relative truth not intended to stand the test of time. A scientist, being aware of this fact, is always willing to discard a theory if it can be replaced by a better one.
 
@@ -2919,7 +2939,7 @@ Can science make human beings morally better? If it can, why do violent acts and
 
 Science is unable to provide a meaningful purpose of life. It cannot provide humanity with clear reasons for living. In fact, science is thoroughly secular in nature and unconcerned with their spiritual goal. The materialism inherent in scientific thought denies the psyche goals higher than material satisfaction. By its selective theorizing and relative truths, science disregards some of the most essential issues and leaves many questions unanswered. For instance, when asked why great inequalities exist among people, no scientific explanation can be given to such questions which are beyond its narrow confines.
 
-## Learned Ignorance
+##### Learned Ignorance
 
 The transcendental mind developed by the Buddha is not limited to sense-data and goes beyond the logic trapped within the limitation of relative perception. The human intellect, on the contrary, operates on the basis of information it collects and stores, whether in the field of religion, philosophy, science or art. The information for the mind is gathered through our sense organs which are inferior in so many ways. The very limited information perceived makes our understanding of the world distorted.
 
@@ -2929,7 +2949,7 @@ A brilliant scholar once wrote a book which he considered as the ultimate work. 
 
 In this regard, Socrates, the Athenian philosopher of the Ancient World, had this to say when asked what he knew: 'I know only one thing—that I do not know'.
 
-## Beyond Science
+##### Beyond Science
 
 Buddhism goes beyond modern science in its acceptance of a wider field of knowledge than is allowed by the scientific mind. Buddhism admits knowledge arising from the sense organs as well as personal experiences gained through mental culture. By training and developing a highly concentrated mind, religious experience can be understood and verified. Religious experience is not something which can be understood by conducting experiments in a test-tube or examined under a microscope.
 
@@ -2941,7 +2961,7 @@ The scientific method is outwardly directed and modern scientists exploit nature
 
 Buddhism has a complete system of mental culture concerned with gaining insight into the nature of things which leads to complete self-realization of the Ultimate Truth—Nirvana. This system is both practical and scientific, it involves dispassionate observation of emotional and mental states. More like a scientist than a judge, a meditator observes the inner world with mindfulness and objectivity.
 
-## Science Without Religion
+##### Science Without Religion
 
 Without having moral ideals, science poses a danger to all mankind. The bullet and bomb are gifts of science to the few in power on whom the destiny of the world depends. Meanwhile the rest of mankind waits in anguish and fear, not knowing when the nuclear weapons, the poisonous gases, the deadly arms—all fruits of scientific research designed to kill efficiently—will be used on them. Not only is science completely unable to provide moral guidance to mankind, it has also fed fuel to the flame of human craving.
 
@@ -2949,13 +2969,13 @@ Science devoid of morality spells only destruction: it becomes the draconian mon
 
 Never was there a time when the co-operation between science and religion has been so desperately needed in the best interest and service of mankind. Religion without science is blind, while science without religion is crippled.
 
-## Tribute To Buddhism
+##### Tribute To Buddhism
 
 Albert Einstein paid a tribute to Buddhism when he said in his autobiography: 'If there is any religion that would cope with modern scientific needs, it would be Buddhism'. Buddhism requires no revision to keep it 'up-to-date' with recent scientific findings. Buddhism need not surrender its views to science because it embraces science besides going beyond science. Buddhism is the bridge between religious and scientific thoughts by stimulating man to discover the latent potentialities within himself and his environment. Buddhism is timeless!
 
-# Religion Of Freedom
+#### Religion Of Freedom
 
-This is a religion of freedom and reason for human beings to lead a noble life.
+*This is a religion of freedom and reason for human beings to lead a noble life.*
 
 BUDDHISM does not prevent anyone from learning the teachings of other religions. In fact, the Buddha encouraged His followers to learn about other religions and to compare His Teachings with other teachings. The Buddha says that if there are reasonable and rational teachings in other religions, His followers are free to respect such teachings. It seems that certain religionists try to keep their followers in the dark; some of them are not even allowed to touch other religious objects or books. They are instructed not to listen to the preachings of other religions. They are enjoined not to doubt the teachings of their own religion, however unconvincing their teachings may appear to be. They believe that the more they keep their followers on a one-track mind, the more easily they can keep them under control. If anyone of them exercises freedom of thought and realises that he or she had been in the dark all the time, then it is alleged that the devil has possessed their mind. People are given no opportunity to use their common sense and education. Those who wish to change their views on religion are taught to believe that they are not worthy to be allowed to use free will in judging anything for themselves.
 
@@ -2974,7 +2994,9 @@ Buddhism has always supported the freedom and progress of mankind. Buddhism has 
 The Buddha emancipated human beings from the thralldom of religion. He also released them from the monopoly and the tyranny of priestcraft. It was the Buddha who first advised people to exercise their reason and not to allow themselves to be driven meekly like dumb cattle, following the dogma of religion. The Buddha stood for rationalism, democracy and practical, ethical conduct in religion. He introduced this Teaching for people to practise with human dignity.
 
 The followers of the Buddha were advised not to believe anything without considering it properly. In the KALAMA SUTRA, the Buddha gave the following guidelines to a group of young people:-
+
 'Do not accept anything based upon mere reports, traditions or hearsay, Nor upon the authority of religious texts, Nor upon mere reasons and arguments, Nor upon one's own inference, Nor upon anything which appears to be true, Nor upon one's own speculative opinions, Nor upon another's seeming ability, Nor upon the consideration: 'This is our Teacher.'
+
 'But, when you know for yourselves that certain things are unwholesome and bad: tending to harm yourself or others, reject them.
 
 'And when you know for yourselves that certain things are wholesome and good: conducive to the spiritual welfare of yourself as well as others, accept and follow them.'
@@ -2984,9 +3006,11 @@ True Buddhists do not depend on external powers for their salvation. Nor do they
 
 The Buddha upheld the highest degree of freedom not only in its human essence but also in its divine qualities. It is a freedom that does not deprive human beings of their dignity. It is a freedom that releases one from slavery to dogmas and dictatorial religious laws or religious punishments.
 
-# Buddhist Missionaries
+#### Buddhist Missionaries
 
-'Go forth, O Bhikkhus, for the good of the many, for the happiness of the many, out of compassion for the world, for the good, benefit, and happiness of gods and men.' (THE BUDDHA)
+>*'Go forth, O Bhikkhus, for the good of the many, for the happiness of the many, out of compassion for the world, for the good, benefit, and happiness of gods and men.'*\
+>(THE BUDDHA)
+
 WHEN we turn the pages of the history of Buddhism, we learn that Buddhist missionaries spread the noble message of the Buddha in a peaceful and respectable way. Such a peaceful record should put to shame those who have practised violent methods in propagating their religions.
 
 Buddhist missionaries do not compete with other religionists in converting people in the market place. No Buddhist missionary or monk would ever think of preaching ill will against so called 'unbelievers'. Religious, cultural and national intolerance are unbuddhistic in attitude, to people who are imbued with the real Buddhist spirit. Aggression never finds approval in the teaching of the Buddha. The world has bled and suffered enough from the disease of dogmatism, religious fanaticism and intolerance. Whether in religion or politics, people make conscious efforts to bring humanity to accept their own way of life. In doing so, they sometimes show their hostility towards the followers of other religions.
@@ -2996,7 +3020,9 @@ Buddhism never interfered with the national traditions and customs, art and cult
 Buddhism was the first spiritual force known to us in history which drew closely together large numbers of races which were separated by the most difficult barriers of distance, language, culture and morals. Its motive was not the acquisition of international commerce, empire-building or to follow the migratory impulse and occupy fresh territory. Its aim was to show how people could gain more peace and happiness through the practice of Dharma.
 
 A sparkling example of the qualities and approach of a Buddhist missionary was Emperor Asoka. It was during Emperor Asoka's time that Buddhism spread to many Asian and western countries. Emperor Asoka sent Buddhist missionaries to many parts of the world to introduce the Buddha's message of peace. Asoka respected and supported every religion at that time. His understanding about other religions was remarkable. One of his scripts engraved in stone on Asoka Pillars, and still standing today in India, says:
-'One should not honour only one's own religion and condemn the religion of others, but one should honour others' religions for this or that reason. In so doing, one helps one's own religion to grow and renders service to the religions of others too. In acting otherwise one digs the grave of one's own religion and also does harm to other religions. Whosoever honours his own religion and condemns other religions, does so indeed through devotion to his own religion, thinking, ' I will glorify my own religion. 'But on the contrary, in so doing he injures his own religion more gravely, so concord is good. Let all listen, and be willing to listen to the doctrines professed by others.'
+
+>*'One should not honour only one's own religion and condemn the religion of others, but one should honour others' religions for this or that reason. In so doing, one helps one's own religion to grow and renders service to the religions of others too. In acting otherwise one digs the grave of one's own religion and also does harm to other religions. Whosoever honours his own religion and condemns other religions, does so indeed through devotion to his own religion, thinking, ' I will glorify my own religion. 'But on the contrary, in so doing he injures his own religion more gravely, so concord is good. Let all listen, and be willing to listen to the doctrines professed by others.'*
+
 Around 268 B.C., he made the doctrines of the Buddha a living force in India. Hospitals, social service institutions, universities for men and women, public wells and recreation centres sprang up with this new movement and the people thereby realised the cruelty of senseless wars.
 
 The golden era in the history of India and the other countries of Asia was the period when art, culture, education and civilisation reached their zenith. These occurred at the time when Buddhist influence was strongest in these countries. Holy wars, crusades, inquisitions and religious discrimination do not mar the annals of the history of Buddhist countries. This is a noble history mankind can rightly be proud of. The Great Nalanda University of India which flourished from the second to the ninth century was a product of Buddhism. It was the first university that we know of and which was opened to international students.
@@ -3007,46 +3033,41 @@ Buddhist missionaries have no need or desire to convert those who already have a
 
 In introducing the Dharma to others, Buddhist missionaries have never tried to use imaginary exaggerations depicting a heavenly life in order to attract human desire and arouse their craving. They did not create fear in people's minds by saying that they would go to hell if they did not follow the Buddha. Instead, they have tried to explain the real nature of human and divine life as taught by the Buddha.
 
-![377_image_0.png](377_image_0.png)
-
-# War And Peace
+### 15. War And Peace
 
 ![377_Image_1.Png](377_Image_1.Png)
 
-## Why Is There No Peace?
+#### Why Is There No Peace?
 
-Humans have forgotten that they have a heart. They forget that if they treat others kindly, others will treat them kindly in return.
+*Humans have forgotten that they have a heart. They forget that if they treat others kindly, others will treat them kindly in return.*
 
-WE are living in a world of really amazing contradictions.
-
-On the one hand, people are afraid of war; on the other hand, they prepare for it with frenzy. They produce in abundance, but they distribute miserly. The world becomes more and more crowded, but people become increasingly isolated and lonely. They are living close to each other as in a big family, but each individual finds him or herself more than ever before, separated from his or her neighbour. Mutual understanding and sincerity are lacking very badly. One person cannot trust another, however good the latter may be.
+WE are living in a world of really amazing contradictions. On the one hand, people are afraid of war; on the other hand, they prepare for it with frenzy. They produce in abundance, but they distribute miserly. The world becomes more and more crowded, but people become increasingly isolated and lonely. They are living close to each other as in a big family, but each individual finds him or herself more than ever before, separated from his or her neighbour. Mutual understanding and sincerity are lacking very badly. One person cannot trust another, however good the latter may be.
 
 When the United Nations was formed after the horrors of the Second World War, the heads of Nations who gathered to sign the charter agreed that it should begin with the following preamble: 'Since it is in the minds of men that wars begin, it is in the minds of men the ramparts of peace should be erected'. This very same sentiment is echoed in the first verse of the Dhammapada in which the Buddha states: 'All [mental] states have mind as their forerunner, mind is their chief, and they are mind-made. If one speaks or acts, with a defiled mind, suffering follows one even as the wheel follows the hoof of the draught-ox. '
+
 The belief that the only way to fight force is by applying more force has led to the arms race between the great powers. And this competition to increase the weapons of war has brought mankind to the very brink of total self-destruction. If we do nothing about it, the next war will be the end of the world where there will be neither victors nor victims—only dead bodies.
 
-'Hatred does not cease by hatred; by love alone does it cease.'
-Such is the Buddha's advice to those who preach the doctrine of antagonism and ill will, and who set men to war and rebellion against one another. Many people say that the Buddha's advice to return good for evil is impractical. Actually, it is the only correct method to solve any problem. This method was introduced by the great Teacher from His own experience. Because we are proud and egoistic, we are reluctant to return good for evil, thinking that the public may treat us as cowardly people. Some people even think that kindness and gentleness are effeminate, not 'macho'! But what harm is there if we settle our problems and bring peace and happiness by adopting this cultured method and by sacrificing our dangerous pride? Many people cannot be satisfied without taking revenge for the mistakes done to them by others.
+'Hatred does not cease by hatred; by love alone does it cease.' Such is the Buddha's advice to those who preach the doctrine of antagonism and ill will, and who set men to war and rebellion against one another. Many people say that the Buddha's advice to return good for evil is impractical. Actually, it is the only correct method to solve any problem. This method was introduced by the great Teacher from His own experience. Because we are proud and egoistic, we are reluctant to return good for evil, thinking that the public may treat us as cowardly people. Some people even think that kindness and gentleness are effeminate, not 'macho'! But what harm is there if we settle our problems and bring peace and happiness by adopting this cultured method and by sacrificing our dangerous pride? Many people cannot be satisfied without taking revenge for the mistakes done to them by others.
 
-Tolerance must be practised if peace is to come to this earth.
-
-Force and compulsion will only create intolerance. To establish peace and harmony among mankind, each and everyone must first learn to practise the ways leading to the extinction of hatred, greed and delusion, the roots of all evil forces. If mankind can eradicate these evil forces, tolerance and peace will come to this restless world.
+Tolerance must be practised if peace is to come to this earth. Force and compulsion will only create intolerance. To establish peace and harmony among mankind, each and everyone must first learn to practise the ways leading to the extinction of hatred, greed and delusion, the roots of all evil forces. If mankind can eradicate these evil forces, tolerance and peace will come to this restless world.
 
 Today the followers of the most compassionate Buddha have a special duty to work for the establishment of peace in the world and to show an example to others by following their Master's advice: 'All tremble at punishment, all fear death; comparing others with oneself, one should neither kill nor cause to kill.' (DHAMMAPADA 129)
+
 Peace is always obtainable. But the way to peace is not only through prayers and rituals. Peace is the result of achieving harmony with our fellow beings and with our environment. The peace that we try to introduce by force is not a lasting peace. It is an interval in between the conflict of selfish desire and worldly conditions.
 
-Peace cannot exist on this earth without the practice of tolerance.
+Peace cannot exist on this earth without the practice of tolerance. To be tolerant, we must not allow anger and jealousy to prevail in our minds. The Buddha says, 'No enemy can harm one so much as one's own thoughts of craving, hate and jealousy.' (DHAMMAPADA 42)
 
-To be tolerant, we must not allow anger and jealousy to prevail in our minds. The Buddha says, 'No enemy can harm one so much as one's own thoughts of craving, hate and jealousy.' (DHAMMAPADA 42)
 Buddhism is a religion of tolerance because it preaches a life of self-restraint. Buddhism teaches a life based not on rules but on principles. Buddhism has never persecuted or maltreated those whose beliefs are different. The Teaching is such that it is not necessary for anyone to use the label "Buddhist" to practise the Noble Principles of this religion.
 
 The world is like a mirror and if you look at the mirror with a smiling face, you can see your own, beautiful smiling face. On the other hand, if you look at it with a long face, you will invariably see ugliness. Similarly, if you treat the world kindly the world will also certainly treat you kindly. Learn to be peaceful with yourself and the world will also be peaceful with you.
 
 Human kind is given to so much self-deceit that they do not want to admit their own weakness. They will try to find some excuse to justify their action and to create an illusion that they are blameless. If one really wants to be free, one must have the courage to admit one's own weakness. The Buddha says:
-'Easily seen are other's faults; hard indeed it is to see one's own faults.'
 
-## Can We Justify War?
+>*'Easily seen are other's faults; hard indeed it is to see one's own faults.'*
 
-The difference between a dogfight and a war between two groups of people is only in its preparation.
+#### Can We Justify War?
+
+*The difference between a dogfight and a war between two groups of people is only in its preparation.*
 
 THE history of mankind is a continuous manifestation of people's greed, hatred, pride, jealousy, selfishness and delusion. During the last 3,000 years, we have fought 15,000 major wars. Is it a characteristic of humans? What is our destiny? How can we end this senseless destruction of one another?
 
@@ -3055,7 +3076,7 @@ We are told that the prototype of a nuclear weapon more powerful than the atomic
 
 Treaties, pacts and peace formulae have been adopted and millions of words have been spoken by countless world leaders throughout the world who proclaim that they have found the way to maintain and promote peace on earth. But for all their efforts, they have not succeeded in removing the threat to mankind. The reason is that we have all failed to educate our young to truly understand and respect the need for selfless service and the danger of selfishness. To guarantee true peace, we must use every method available to us to educate youths to practise love, goodwill and tolerance towards others.
 
-## The Buddhist Attitude
+##### The Buddhist Attitude
 
 Buddhists should not be the aggressors even in protecting their religion or anything else. They must try their best to avoid any kind of violent act. Sometimes they may be forced to go to war by others who do not respect the concept of the brotherhood of humans as taught by the Buddha. They may be called upon to defend their country from external aggression, and as long as they have not renounced the worldly life, they are duty-bound to join in the struggle for peace and freedom. Under these circumstances, they cannot be blamed for becoming soldiers or being involved in defence. However, if everyone were to follow the advice of the Buddha, there would be no reason for war to take place in this world. It is the duty of every cultured person to find all possible ways and means to settle disputes in a peaceful manner, without declaring war to kill his or her fellow human beings. The Buddha did not teach His followers to surrender to any form of evil power be it a human or supernatural being.
 
@@ -3076,18 +3097,16 @@ Very unfortunately some people in certain countries bring religious labels, slog
 'Verily, O monk,' said the Buddha, 'due to sensual craving, kings fight with kings, princes with princes, priests with priests, citizens with citizens, the mother quarrels with the son, the son quarrels with the father, brother with brother, brother with sister, sister with brother, friend with friend.' (MAJJIHIMA NIKAYA)
 We can happily say that for the last 2,500 years there has never been any serious discord or conflict created by Buddhists that led to war in the name of this religion. This is a result of the dynamic character of the concept of tolerance contained in the Buddha's teaching.
 
-## Can Buddhists Join The Army?
+#### Can Buddhists Join The Army?
 
-You can be a soldier of Truth, but not an aggressor.
+*You can be a soldier of Truth, but not an aggressor.*
 
-ONE day, Sinha, a general of an army, went to the Buddha
+ONE day, Sinha, a general of an army, went to the Buddha and said, ' I am a soldier, O Blessed One. I am appointed by the King to enforce his laws and to wage his wars. The Buddha teaches infinite love, kindness and compassion for all sufferers: Does the Buddha permit the punishment of the criminal? And also, does the Buddha declare that it is wrong to go to war for the protection of our homes, our wives, our children and our property? Does the Buddha teach the doctrine of complete selfsurrender? Should I suffer the evil-doer to do what he pleases and yield submissively to him who threatens to take by violence what is my own? Does the Buddha maintain that all strife including warfare waged for a righteous cause should be forbidden?'
 
-![384_image_0.png](384_image_0.png)
-
-and said, ' I am a soldier, O Blessed One. I am appointed by the King to enforce his laws and to wage his wars. The Buddha teaches infinite love, kindness and compassion for all sufferers: Does the Buddha permit the punishment of the criminal? And also, does the Buddha declare that it is wrong to go to war for the protection of our homes, our wives, our children and our property? Does the Buddha teach the doctrine of complete selfsurrender? Should I suffer the evil-doer to do what he pleases and yield submissively to him who threatens to take by violence what is my own? Does the Buddha maintain that all strife including warfare waged for a righteous cause should be forbidden?'
 The Buddha replied, 'He who deserves punishment must be punished. And he who is worthy of favour must be favoured. Do not do injury to any living being but be just, filled with love and kindness.' These injunctions are not contradictory because the person who is punished for his crimes will suffer his injury not through the ill will of the judge but through the evil act itself. His own acts have brought upon him the injury that the executors of the law inflict. When a magistrate punishes, he must not harbour hatred in his heart. When a murderer is put to death, he should realise that his punishment is the result of his own act.
 
 With this understanding, he will no longer lament his fate but can console his mind. And the Blessed One continued, 'The Buddha teaches that all warfare in which man tries to slay his brothers is lamentable. But he does not teach that those who are involved in war to maintain peace and order, after having exhausted all means to avoid conflict, are blameworthy.'
+
 'Struggle must exist, for all life is a struggle of some kind. But make certain that you do not struggle in the interest of self against truth and justice. He, who struggles out of self-interest to make himself great or powerful or rich or famous, will have no reward. But he who struggles for peace and truth will have great reward; even his defeat will be deemed a victory'.
 
 'If a person goes to battle even for a righteous cause, then Sinha, he must be prepared to be slain by his enemies because death is the destiny of warriors. And should his fate overtake him, he has no reason to complain. But if he is victorious his success may be deemed great, but no matter how great it is, the wheel of fortune may turn again and bring his life down into the dust. However, if he moderates himself and extinguishes all hatred in his heart, if he lifts his down-trodden adversary up and says to him, 'Come now and make peace and let us be brothers,' then he will gain a victory that is not a transient success; for the fruits of that victory will remain forever.
@@ -3095,9 +3114,9 @@ With this understanding, he will no longer lament his fate but can console his m
 'Great is a successful general, Sinha, but he who conquers self is the greater victor. This teaching of conquest of self, Sinha, is not taught to destroy the lives of others, but to protect them. The person who has conquered himself is more fit to live, to be successful and to gain victories than is the person who is the slave of self. The person, whose mind is free from the illusion of self, will stand and not fall in the battle of life. He, whose intentions are righteousness and justice, will meet with no failures. He will be successful in his enterprise and his success will endure. He who harbours love of truth in his heart will live and not suffer, for he has drunk the water of immortality. So struggle courageously and wisely. Then you can be a soldier of Truth.'
 There is no justice in war or violence. When we declare war, we justify it, when others declare war, we say, it is unjust. Then who can justify war? People should not follow the law of the jungle to overcome human problems.
 
-# Mercy Killing
+#### Mercy Killing
 
-Mercy and Killing can never go together.
+*Mercy and Killing can never go together.*
 
 ACCORDING to Buddhism mercy killing cannot be justified. Mercy and killing can never go together. Some people kill their pets on the grounds that they do not like to see the pets suffer. However, if mercy killing is the correct method to be practised on pets and other animals, then why are people so reluctant to do the same to their beloved ones?
 
@@ -3105,26 +3124,21 @@ When some people see their dogs or cats suffer from some skin disease, they arra
 
 Some people try to justify mercy killing with the misconception that if the motive or reason is good, then the act itself is good. They then claim that by killing their pet, they have the intention to relieve the unhappy animal from its suffering and so the action is good. No doubt their original intention or motive is good. But the misguided act of killing which occurs through a later thought, requires some degree of cruelty or hard-heartedness which will certainly bring about unwholesome results.
 
-Avoiding mercy killing can create inconvenience to many.
-
-Nevertheless, the Buddhist religion cannot justify mercy killing as completely free from bad reactions. However, we must add that to kill without any greed, anger or hatred has less bad reaction than to kill out of intense anger or jealousy.
+Avoiding mercy killing can create inconvenience to many. Nevertheless, the Buddhist religion cannot justify mercy killing as completely free from bad reactions. However, we must add that to kill without any greed, anger or hatred has less bad reaction than to kill out of intense anger or jealousy.
 
 It must be remembered that, a being (human or animal) suffers owing to his or her bad karma. If by mercy killing, we prevent the working out of one's bad karma, the debt will have to be paid in another existence. As Buddhists, all that we can do is to help to reduce the pain of suffering in others.
 
-## Killing For Self-Protection
+##### Killing For Self-Protection
 
-The Buddha has advised everyone to abstain from killing. If everybody accepts this advice, human beings would not kill each other. In the case where a person's life is threatened, the Buddha says even then it is not advisable to kill in self-defence. The weapon for self-protection is loving-kindness. One who practises this kindness very seldom comes across such misfortune. However, people love their lives so much that they are not prepared to surrender themselves to others; in actual practice, most people would struggle for self-protection. It is natural and every living being struggles and attacks others for self-protection but the karmic effect of the aggression depends on their mental attitude. During the struggle to protect himself, if a man happens to kill his opponent although he had no intention to kill, then he does not create bad karma resulting from that death. On the other hand, if he kills another person under any circumstances with the intention to kill, then he is not free from the karmic reaction; he has to face the consequences. We must remember that killing is killing; when we disapprove of it, we call it 'murder'. When we punish man for murdering, we call it
-'capital punishment'. If our own soldiers are killed by an 'enemy' we call it 'slaughter'. However, if we approve a killing, we call it 'war'. But if we remove the emotional content from these words, we can understand that killing is killing.
+The Buddha has advised everyone to abstain from killing. If everybody accepts this advice, human beings would not kill each other. In the case where a person's life is threatened, the Buddha says even then it is not advisable to kill in self-defence. The weapon for self-protection is loving-kindness. One who practises this kindness very seldom comes across such misfortune. However, people love their lives so much that they are not prepared to surrender themselves to others; in actual practice, most people would struggle for self-protection. It is natural and every living being struggles and attacks others for self-protection but the karmic effect of the aggression depends on their mental attitude. During the struggle to protect himself, if a man happens to kill his opponent although he had no intention to kill, then he does not create bad karma resulting from that death. On the other hand, if he kills another person under any circumstances with the intention to kill, then he is not free from the karmic reaction; he has to face the consequences. We must remember that killing is killing; when we disapprove of it, we call it 'murder'. When we punish man for murdering, we call it 'capital punishment'. If our own soldiers are killed by an 'enemy' we call it 'slaughter'. However, if we approve a killing, we call it 'war'. But if we remove the emotional content from these words, we can understand that killing is killing.
 
 In recent years many scientists and some religionists have used the expressions like 'humane killing', 'mercy killing', 'gentle killing' and 'painless killing' to justify the ending of a life. They argue that if the victim feels no pain, if the knife is sharp, killing is justified. Buddhism can never accept these arguments because it is not how the killing occurs that is important, but the fact that the life of one being is unnaturally terminated. No one has any right to do that for whatever reason.
 
-## The Buddhist Stand On The Death Sentence
+##### The Buddhist Stand On The Death Sentence
 
 THE Buddhist concept on the Death Sentence is clear. We must not only respect the law of the country but we must also strictly obey it.
 
-Religion and law can be seen as two different aspects of life.
-
-Buddhism, as a religion teaches man to be good, to do good and do no evil. However, as a religion, none of its members have the power to punish anybody who has defied its precepts to commit evil—to steal, to rape, to commit murder or to traffic in drugs. Any Buddhist who chooses to defy the law of the country by committing serious crime will have to be punished by the laws of the country and not by the religious body.
+Religion and law can be seen as two different aspects of life. Buddhism, as a religion teaches man to be good, to do good and do no evil. However, as a religion, none of its members have the power to punish anybody who has defied its precepts to commit evil—to steal, to rape, to commit murder or to traffic in drugs. Any Buddhist who chooses to defy the law of the country by committing serious crime will have to be punished by the laws of the country and not by the religious body.
 
 As buddhists and as human beings, we are full of compassion for suffering humanity but compassion by itself does not go far enough to be of help. Compassion does not help to restrain a person who has chosen to go against the law of the country. The laws of the country must be respected and upheld to the very letter. If law stipulates that for committing a serious crime you must pay for it by having your life taken away from you, then the process of law must take its course. Buddhism cannot interfere with the normal enforcement of the law. The only line of action, members of our religion can take is to ask for compassion and plead for clemency to be extended to an accused The laws of our country are democratically enacted by the people themselves through the certain electioneering process. The people elect their representatives to serve as Members of Parliament. In Parliament the Members debate and promulgate laws for the smooth administration of the country. Without specific laws, then we have to revert back to the law of the jungle where might is right. Although in effect, Members of Parliament enact the laws, they do so as representatives of the people. If we, the people, enact the laws, we have no choice but to comply implicitly with our laws. If anyone chooses to defy them, then they must pay for it.
 
@@ -3134,28 +3148,28 @@ From time immemorial, human nature being what it is, society consisted of good p
 
 Buddhism does not subscribe to the taking of a life, human or animal, under any circumstances but if someone chooses to transgress the established laws of a country he or she has to pay the penalty—even if the penalty is a death sentence. One of the important moral codes of Buddhism is to obey the laws of a country. If the law decrees that a war is on and that all able-bodied men are to be conscripted as soldiers to the country, a Buddhist must comply with the law. If as a Buddhists, we feel strongly enough that we should saves lives and not to destroy lives, the channel open for us is the democratic process to approach political leaders to cause the affected laws to be amended but if the consensus was against any change, we have no choice but to obey the law. The law is supreme. Of course, f we do not wish to join the army, the other option is for us to become monks and nuns and retire into to a monastery and work for our spiritual advancement. If we choose to remain in society, then we must be prepared to sacrifice ourselves for the good of that society.
 
-PART SIX
-THIS WORLD AND OTHER WORLDS
+## PART SIX - THIS WORLD AND OTHER WORLDS
 
-![395_image_0.png](395_image_0.png)
-
-# Realms Of Existence
+### 16. Realms Of Existence
 
 ![395_Image_1.Png](395_Image_1.Png)
 
-## The Origin Of The World
+#### The Origin Of The World
 
-"There is no reason to suppose that the world had a beginning at all.
+>*"There is no reason to suppose that the world had a beginning at all.*\
+>*The idea that things must have a beginning is really due to the poverty of our thoughts."*\
+>(BERTRAND RUSSELL)
 
-The idea that things must have a beginning is really due to the poverty of our thoughts." (BERTRAND RUSSELL)
 THERE are three schools of thought regarding the origin of the world. The first school of thought claims that this world came into existence by nature and that nature is not an intelligent force. However, nature works on its own accord and goes on changing.
 
 The second school of thought says that the world was created by an almighty God who is responsible for everything.
 
 The third school of thought says that the beginning of this world and of life is inconceivable since they have neither beginning nor end. Buddhism is in accordance with this third school of thought. Bertrand Russell supports this school of thought by saying, 'There is no reason to suppose that the world had a beginning at all. The idea that things must have a beginning is really due to the poverty of our thoughts.'
+
 Modern science says that some millions of years ago, the gradually cooled earth was lifeless and that life originated in the ocean. Buddhism has never claimed that the world, sun, moon, stars, wind, water, days and nights were created by a powerful god or by a Buddha. Buddhists believe that the world was not created once upon a time, but that the world has been created millions of times every second and will continue to do so by itself and will eventually by itself. According to Buddhism: world systems always appear, change, decay and disappear in the universe in a never-ending cycle.
 
 H.G. Wells, in A SHORT HISTORY OF THE WORLD, says 'It is universally recognised that the universe in which we live, has to all appearances, existed for an enormous period of time and possibly for endless time. But that the universe in which we live, has existed only for six or seven thousand years may be regarded as an altogether exploded idea. No life seems to have happened suddenly upon earth.'
+
 The efforts made by many religions to explain the beginning and the end of the universe are indeed ill conceived. The position of religions which propound the view that the universe was created by God in an exactly fixed year, has become a difficult one to maintain in the light of modern and scientific knowledge.
 
 Today scientists, historians, astronomers, biologists, botanists, anthropologists and great thinkers have all contributed vast new knowledge about the origin of the world. This latest discovery and knowledge is not at all contradictory to the Teachings of the Buddha. Bertrand Russell again says that he respects the Buddha for not making false statements like others who committed themselves regarding the origin of the world.
@@ -3165,19 +3179,28 @@ The speculative explanations of the origin of the universe that are presented by
 To the Buddha, the world is nothing but Samsara—the cycle of repeated births and deaths. To Him, the beginning of the world and the end of the world is within this Samsara. Since elements and energies are relative and inter-dependent, it is meaningless to single out anything as the beginning. Whatever speculation we make regarding the origin of the world, there is no absolute truth in our notion.
 
 "Infinite is the sky, infinite is the number of beings, Infinite are the worlds in the vast universe, Infinite in wisdom the Buddha teaches these, Infinite are the virtues of Him who teaches these." (SRI RAMACHANDRA)
+
 One day a man called Malunkyaputta approached the Buddha and demanded that He explain the origin of the Universe. He even threatened to cease to be His follower if the Buddha did not reveal this. The Buddha calmly retorted that it was of no consequence to Him whether or not Malunkyaputta followed Him, because the Truth did not need anyone's support. Then the Buddha said that He would not go into a discussion of the origin of the Universe. To Him, gaining knowledge about such matters was a waste of time because a man's task was to liberate himself from suffering. To illustrate this, the Enlightened One related the parable of a man who was shot by a poisoned arrow. This foolish man refused to have the arrow removed until he found out all about the person who shot the arrow. By the time his attendants discovered these unnecessary details, the man was dead. Similarly, our immediate task is to attain Nirvana, not to worry about the beginning or the end of the world.
 
 And all that is necessary to escape from rebirth into a suffering existence is taught in the Four Noble Truths. Anything beyond these Truths was not the concern of the Buddha, just as knowledge of the origin of water is not necessary to quench one's thirst.
 
-# Other World Systems
+#### Other World Systems
 
-In the light of modern, scientific discoveries, we can appreciate the limitations of the human world and accept the hypothesis that other world systems can exist in other parts of the universe.
+*In the light of modern, scientific discoveries, we can appreciate the limitations of the human world and accept the hypothesis that other world systems can exist in other parts of the universe.*
 
 ON certain occasions, when the Buddha knew that the listeners was intellectually ready to understand, He did comment on the nature and composition of the universe.
 
 According to Him, other forms of life exist in other parts of the universe. The Buddha has mentioned that there are thirty-one planes of existence within the universes. They are:
-4 States of unhappiness or sub human realms: (life in hells, animal life, ghost-worlds and demon-worlds)
-1 Human world. 6 Devalokas or heavenly realms 16 Rupalokas or Realms of Fine-Material Forms. 4 Arupalokas or Formless Realms.* The existence of these other-world systems is yet to be confirmed by modern science. However, modern scientists are now working with the hypothesis that there is a possibility of other forms of life existing on other planets. As a result of today's rapid scientific progress, we may soon find some living beings on other planets in the remotest parts of the galaxy. Perhaps, we will find them subject to the same laws as ourselves. They might be physically quite different in appearance, elements and chemical composition and exist in different dimensions. They might be far superior to us or they might be far inferior.
+
+* 4 States of unhappiness or sub human realms: (life in hells, animal life, ghost-worlds and demon-worlds)
+* 1 Human world.
+* 6 Devalokas or heavenly realms
+* 16 Rupalokas or Realms of Fine-Material Forms.
+* 4 Arupalokas or Formless Realms.[^17]
+
+[^17]: For further details read ‘The 31 Planes of Existence’ by E. Baptist
+
+The existence of these other-world systems is yet to be confirmed by modern science. However, modern scientists are now working with the hypothesis that there is a possibility of other forms of life existing on other planets. As a result of today's rapid scientific progress, we may soon find some living beings on other planets in the remotest parts of the galaxy. Perhaps, we will find them subject to the same laws as ourselves. They might be physically quite different in appearance, elements and chemical composition and exist in different dimensions. They might be far superior to us or they might be far inferior.
 
 Why should the planet earth be the only planet to contain life forms? Earth is a tiny speck in a huge universe. Sir James Jeans, a distinguished astrophysicist, estimates the whole universe to be about one thousand million times as big as the area of space that is visible through the telescope. In his book, THE MYSTERIOUS UNIVERSE, he states that the total number of universes is probably something like the total number of grains of sand on all the sea shores of the world. In such a cosmos, the planet Earth is only one-millionth of a grain of sand. He also informs us that the light from the sun, which takes about 8 minutes to travel the 93 million miles to earth, probably takes something like 100,000 million years to travel across the universe! Such is the vastness of the cosmos. When we consider the vastness of the many universes making up what is popularly known as 'outer space', the hypothesis that other-world systems might exist is scientifically feasible.
 
@@ -3191,9 +3214,9 @@ Buddhists do not share the view held by some people that the world will be destr
 
 In the final analysis, the Teaching of the Buddha goes beyond the discoveries of modern science however startling or impressive they may be. In science, the knowledge of the universe is to enable humanity to master it for material comfort and personal safety. But the Buddha teaches that no amount of factual knowledge can ultimately free mankind from the pain of existence. A person must strive alone and diligently until he or she arrives at a true understanding of his or her own nature and of the changeable nature of the cosmos. To be truly free a person must seek to tame the mind, to destroy craving for sensual pleasure. When one truly understands that the universe one is trying to conquer is impermanent, one will see oneself as Don Quixote fighting windmills. With this Right View of oneself, one will spend one's time and energy conquering the mind and destroying the illusion of self without wasting effort on unimportant and unnecessary issues.
 
-## The Buddhist Concept Of Heaven And Hell
+#### The Buddhist Concept Of Heaven And Hell
 
-Wise people make their own heaven while foolish people create their own hell here and hereafter.
+*Wise people make their own heaven while foolish people create their own hell here and hereafter.*
 
 THE Buddhist concept of heaven and hell is entirely different from that in other religions. Buddhists do not accept that these places are eternal. It is unreasonable to condemn a person to eternal hell for his or her human weakness but quite reasonable to give a person every chance to develop him or herself. From the Buddhist point of view, those who go to hell can work themselves upwards by making use of the merit that they had acquired previously. There are no locks on the gates of hell. Hell is a temporary place and there is no reason for those beings to suffer there forever.
 
@@ -3203,22 +3226,21 @@ The fire of hell in this world is hotter than that of any possible hell in the w
 
 Buddhists believe that after death rebirth can take place in any one of a number of possible existences. This future existence is conditioned by the last thought-moment a person experiences at the point of death. This last thought which determines the next existence results from the past actions of a man either in this life or before that. Hence, if the predominant thought reflects meritorious action, then he or she will find the future existence in a happy state. But that state is temporary and when it is exhausted a new life must begin all over again, determined by another dominating 'karmic' energy which lies dormant in the subconscious mind, waiting for the right conditions to become active. This is very much like a seed waiting for rain and sunshine to sprout. This repetitious process goes on endlessly unless one arrives at 'Right View' and makes a firm resolve to follow the Noble Path which produces the ultimate happiness of Nirvana. Heaven is a temporary place where those who have done good deeds experience more sensual pleasures for a longer period. Hell is another temporary place where those evil doers experience more physical and mental suffering. It is not justifiable to believe that such places are permanent. There is no god behind the scene of heaven and hell. Each and every person experiences pain or pleasure according to good and bad karma. Buddhists never try to introduce Buddhism by frightening people through hell-fire or enticing people by pointing to paradise. Their main purpose is character building and mental training. Buddhists can practise their religion without aiming at heaven or without developing fear of hell. Their duty is to lead righteous lives by upholding humane qualities and peace of mind.
 
-## Belief In Deities (**Devas**)
+#### Belief In Deities (*Devas*)
 
-Buddhists do not deny the existence of various gods or deities.
+*Buddhists do not deny the existence of various gods or deities.*
 
-DEVAS are more fortunate than human beings as far as sensual pleasures are concerned. They also possess certain powers which human beings usually lack. However, the powers of these deities are limited because they are also transitory beings. They exist in happy abodes and enjoy their life for a longer period than human beings do. When they have exhausted all the effects of their good karma, which they gathered during previous births, these deities pass away and are reborn somewhere else according to their residual good and bad karma earned on previous lives.
-
-According to the Buddha, human beings have more opportunities to accrue merits to be born in a better condition, and the deities have fewer chances in this respect since they are more concerned with sensual pleasures.
+DEVAS are more fortunate than human beings as far as sensual pleasures are concerned. They also possess certain powers which human beings usually lack. However, the powers of these deities are limited because they are also transitory beings. They exist in happy abodes and enjoy their life for a longer period than human beings do. When they have exhausted all the effects of their good karma, which they gathered during previous births, these deities pass away and are reborn somewhere else according to their residual good and bad karma earned on previous lives. According to the Buddha, human beings have more opportunities to accrue merits to be born in a better condition, and the deities have fewer chances in this respect since they are more concerned with sensual pleasures.
 
 Buddhists do not attribute any specific importance to such gods. They do not regard the deities as a support for the moral development or as a support for the attainment of salvation of Nirvana. Whether they are great or small, both human beings and deities are perishable and subject to rebirth. Therefore, we share a common destiny with the gods.
 
 It is a common belief amongst the Buddhist public that such deities can be influenced to grant their favours by inviting them to share the merits we accrue whenever meritorious deeds are performed. This belief is based on the Buddha's injunction to the deities to protect those human beings who lead a religious way of life. This is the reason why Buddhists invite these deities to share the merits or remember them whenever they do some meritorious deeds. However, making of offerings to and worshipping such deities are not encouraged as a means to salvation, although some Buddhist customs centre around such activities. When people are in great difficulties, they naturally turn to the deities to express their grievances in a place of worship. By doing this, they gain some relief and consolation; in their hearts, they feel much better. However, to an intellectual who has strong will power, sound education and understanding, such beliefs and actions need not be resorted to. There is definitely no Teaching in Buddhism to the effect that Buddhists can attain Nirvana by praying to any deity. Buddhists believe that 'purity and impurity depend on oneself. No one from outside can purify another.' (DHAMMAPADA 165)
+
 Buddhahood and Nirvana can be attained without any help from an external source. Therefore, Buddhists can practise their religion with or without the deities.
 
-# Existence Of Spirits
+#### Existence Of Spirits
 
-There are visible and invisible beings or spirits in the same way as there are visible and invisible lights.
+*There are visible and invisible beings or spirits in the same way as there are visible and invisible lights.*
 
 BUDDHISM does not deny the existence of good and evil spirits. There are visible and invisible beings or spirits in the same way as there are visible and invisible lights. We need special instruments to see the invisible light and we need a special sense to see the invisible beings. One cannot deny the existence of such spirits just because one is unable to see them with one's naked eyes. These spirits are also subject to birth and death. They are not going to stay permanently in the spirit form. They too exist in the same world where we live A genuine Buddhist is one who moulds his life according to moral causation discovered by the Buddha. He or she should not be concerned with the worshipping of these gods and spirits. However, this kind of worshipping is of some interest and fascination to the multitude and has naturally brought some Buddhists into contact with these activities.
 
@@ -3226,19 +3248,15 @@ Regarding protection from evil spirits, goodness is a shield against evil. Goodn
 
 The Buddha never advised His followers to worship such spirits or to be frightened of them. The Buddhist attitude towards them is to transfer merits and to radiate loving-kindness to them. Buddhists do not harm them. On the other hand, if person is religious, virtuous and pure in mind, and is also intelligent and possesses strong willpower and understanding capacity, then such a person could be deemed to be much stronger than spirits. The evil spirits will keep away and the good spirits will protect him or her.
 
-## The Significance Of Transference Of Merits To The Departed
+#### The Significance Of Transference Of Merits To The Departed
 
-If you really want to honour and help your departed ones, then do some meritorious deeds in their name and transfer the merits to them.
+*If you really want to honour and help your departed ones, then do some meritorious deeds in their name and transfer the merits to them.*
 
 ACCORDING to Buddhism, good deeds or 'acts of merit' bring happiness to the doer both in this world and in the hereafter. Acts of merit are also believed to lead towards the final goal of everlasting happiness. The acts of merit can be performed through body, speech or mind. Every good deed produces 'merit' (store of positive spiritual well being) which accumulates to the 'credit' of the doer. Buddhism also teaches that the acquired merit can be transferred to others; it can be shared vicariously with others. In other words, the merit is 'transferable' and so can be shared with other persons. The persons who receive the merit can be either living or departed ones.
 
-The method for transferring merits is quite simple. First some good deeds are performed. The doer of the good deeds has merely to wish that the merit gained accrues to someone in particular.
+The method for transferring merits is quite simple. First some good deeds are performed. The doer of the good deeds has merely to wish that the merit gained accrues to someone in particular. This wish can be purely mental or it can be accompanied by an expression of words.
 
-This wish can be purely mental or it can be accompanied by an expression of words.
-
-The wish could be made with the beneficiary being aware of it.
-
-When the beneficiary is aware of the act or wish, then a mutual 'rejoicing in' merit takes place. Here the beneficiary becomes a participant of the original deed by associating him or herself with the deed done. If the beneficiary identifies him or herself with both the deed and the doer, he or she can sometimes acquire even greater merit than the original doer, either because the elation is greater or because the appreciation of the value of the deed is based on an understanding of Dharma. Buddhist texts contain several stories of such instances.
+The wish could be made with the beneficiary being aware of it. When the beneficiary is aware of the act or wish, then a mutual 'rejoicing in' merit takes place. Here the beneficiary becomes a participant of the original deed by associating him or herself with the deed done. If the beneficiary identifies him or herself with both the deed and the doer, he or she can sometimes acquire even greater merit than the original doer, either because the elation is greater or because the appreciation of the value of the deed is based on an understanding of Dharma. Buddhist texts contain several stories of such instances.
 
 The 'joy of transference of merits' can also take place with or without the knowledge of the doer of the meritorious act. All that is necessary is for the beneficiary to feel gladness in the heart when he or she becomes aware of the good deed. If one wishes, one can express joy by saying '*sadhu*' which means 'well done'. What is being done is creating a kind of mental or verbal applause. In order to share the good deed done by another, what is important is that there must be actual approval of the deed and joy arising in the beneficiary's heart.
 
@@ -3246,10 +3264,9 @@ Even if so desired, the doer of a good deed cannot prevent another's 'rejoicing 
 
 To transfer merit does not mean that a person is deprived of the merit originally acquired from his or her good deed. On the contrary, the very act of 'transference' is a good deed in itself and hence enhances the merit already earned.
 
-## Highest Gift To The Departed
+##### Highest Gift To The Departed
 
-The Buddha says that the greatest gift one can confer on one's dead ancestors is to perform 'acts of merit' and to transfer these merits so acquired. He also says that those who give also receive the fruits of their deeds. The Buddha encouraged those who did good deeds such as offering alms to holy men, to transfer the merits which they received to their departed ones. Alms should be given in the name of the departed by recalling to mind such things as, 'When he was alive, he gave me this wealth; he did this for me; he was my relative, my companion,' etc. (TIROKUDDA SUTRA—
-KHUDDAKAPATHA). There is no use weeping, feeling sorry, lamenting and wailing; such attitudes are of no consequence to the departed ones.
+The Buddha says that the greatest gift one can confer on one's dead ancestors is to perform 'acts of merit' and to transfer these merits so acquired. He also says that those who give also receive the fruits of their deeds. The Buddha encouraged those who did good deeds such as offering alms to holy men, to transfer the merits which they received to their departed ones. Alms should be given in the name of the departed by recalling to mind such things as, 'When he was alive, he gave me this wealth; he did this for me; he was my relative, my companion,' etc. (TIROKUDDA SUTRA—KHUDDAKAPATHA). There is no use weeping, feeling sorry, lamenting and wailing; such attitudes are of no consequence to the departed ones.
 
 Transferring merits to the departed is based on the popular belief that on a person's death, his or her 'merits' and 'demerits' are weighed against one another and destiny is thus determined. Lifetime actions determine whether one is to be reborn in a sphere of happiness or a realm of woe. The belief is that the departed one might have gone to an existence in the spirit world. The beings in these lower forms of existence cannot generate fresh merits, and have to live on the merits which are earned from this world.
 
@@ -3258,9 +3275,10 @@ Those who did not harm others and who performed many good deeds during their lif
 Those who are reborn in an unfortunate spirit form could be released from their suffering condition through the transferring of merits to them by friends and relatives who do some meritorious deeds. What happens is really quite understandable. When the dead person becomes aware that someone has remembered him or her, then he or she becomes glad, and this happiness relieves the suffering. As there is greater happiness accrued from repeatedly being remembered, the unhappy birth is transformed to a happy one. It has all to do with the power of the mind.
 
 This injunction of the Buddha to transfer merits to departed ones is the counterpart of the Hindu custom which has come down through the ages. Various ceremonies are performed so that the spirits of dead ancestors might live in peace. This custom has had a tremendous influence on the social life of certain Buddhist communities. The dead are always remembered when any good deed is done, and more on occasions connected with their lives, such as their birth or death anniversaries. On such occasions, there is a ritual which is generally practised. The transferor pours water from a jug or other similar vessel into a receptacle, while repeating a Pali formula which is translated as follows:
-As rivers, when full must flow and reach and fill the distant main, so indeed what is given here will reach and bless the spirits there. As water poured on mountain top must soon descend and fill the plain So indeed what is given here will reach and bless the spirits there.
 
-(NIDHIKANDA SUTTA—KHUDDAKAPATHA)
+>*As rivers, when full must flow and reach and fill the distant main, so indeed what is given here will reach and bless the spirits there. As water poured on mountain top must soon descend and fill the plain So indeed what is given here will reach and bless the spirits there.*\
+>(NIDHIKANDA SUTTA—KHUDDAKAPATHA)
+
 The origin and the significance of transference of merit is open to scholarly debate. Although this ancient custom still exists today in many Buddhist countries, very few Buddhists who follow it understand the meaning of transference of merits and the proper way to do it.
 
 Some people simply waste time and money on meaningless ceremonies and performances in memory of departed ones. These people do not realise that it is impossible to help the departed ones simply by building big graveyards, tombs, paper houses and other paraphernalia. Neither is it possible to help the departed by burning joss-sticks, joss-paper, etc; nor is it possible to help the departed by slaughtering animals and offering them along with other kinds of food. Also one should not waste by burning things used by the departed ones on the assumption that the deceased persons would somehow benefit by the act, when such articles can in fact be distributed among the needy.
@@ -3269,17 +3287,15 @@ The only way to help the departed ones is to do some meritorious deeds in a reli
 
 The followers of the Buddha should act wisely and should not follow anything blindly. While others pray to god for the departed ones, Buddhists radiate their loving-kindness directly to them. By doing meritorious deeds, they can transfer the merits to their beloved ones for their well being. This is the best way of remembering and giving real honour to and perpetuating the names of the departed ones. In their state of happiness, the departed ones will reciprocate their blessings on their living relatives. It is, therefore, the duty of relatives to remember their departed ones by transferring merits and by radiating loving- kindness directly to them.
 
-![413_image_0.png](413_image_0.png)
-
-DIVINATION AND DREAMS
+### 17. DIVINATION AND DREAMS
 
 ![413_image_1.png](413_image_1.png)
 
-## Astrology And Astronomy
+#### Astrology And Astronomy
 
-' I believe in astrology but not astrologers.'
-F
-ROM the very beginning of time people have been fascinated by the stars and they have always tried to find some links between them and their own destiny. Observation of the stars and their movements gave rise to two very important areas of study, namely, Astronomy and Astrology. Astronomy can be considered a pure science which is concerned with the measurements of distances, the evolution and destruction of stars, their movements, and so on. Of course all these calculations are always made in relation to planet earth and how these interplanetary movements affect mankind on a physical level. Modern astronomy seeks to find answers to the still unanswered questions regarding the origin of humanity and the final, possible end of existence of the human race. It is a fascinating area of study and our new knowledge of the universe and the galaxies has put much pressure on many religions to evaluate their age-old postulations regarding the creator and the creation of life.
+*'I believe in astrology but not astrologers.'*
+
+FROM the very beginning of time people have been fascinated by the stars and they have always tried to find some links between them and their own destiny. Observation of the stars and their movements gave rise to two very important areas of study, namely, Astronomy and Astrology. Astronomy can be considered a pure science which is concerned with the measurements of distances, the evolution and destruction of stars, their movements, and so on. Of course all these calculations are always made in relation to planet earth and how these interplanetary movements affect mankind on a physical level. Modern astronomy seeks to find answers to the still unanswered questions regarding the origin of humanity and the final, possible end of existence of the human race. It is a fascinating area of study and our new knowledge of the universe and the galaxies has put much pressure on many religions to evaluate their age-old postulations regarding the creator and the creation of life.
 
 Buddhism does not face any dilemma, simply because the Buddha did not encourage His followers to speculate on things beyond their comprehension. However, He has made many allusions which in the light of our new knowledge gained through science, show us that the Buddha was very much aware of the true nature of the Universe, that it was never created in one glorious moment, that the earth is merely a tiny, even unimportant speck in all of space, that there is constant creation and destruction, and that everything is in constant motion. The Buddha categorised the whole universe into three groups: planets where living beings exist, planets where only material elements exist and space.
 
@@ -3306,7 +3322,7 @@ A horoscope is a chart drawn to show the karmic force a person carries, calculat
 Everybody knows that the earth takes approximately one year to move around the sun. This movement, viewed from the earth, places the sun in various zodiacal areas during the year. A person is born (not accidentally, but as a result of karmic influence) when the sun is said to be on transit in one of the twelve Zodiacal signs (of course this is a conventional manner of explaning the phenomenon. Even a child knows today that the sun does not "move".)
 Through the horoscope you can determine certain times in your life when you have to slow down, or push yourself to great levels of creativity, or when you have to watch your activities and health.
 
-## Buddhist Attitude Towards Astrology
+##### Buddhist Attitude Towards Astrology
 
 The question most people ask is whether Buddhism accepts or rejects astrology. Strictly speaking, the Buddha did not make any direct pronouncement on this subject because as in many other cases, He stated that discussion on matters such as these do not pertain to spiritual development. Buddhism, unlike some other religions, does not condemn astrology and people are free to use the knowledge they can get from it to make their lives more meaningful. If we study the Buddha's teaching carefully, we will come to accept that a proper and intelligent understanding of astrology can be a useful tool. There is a direct link between the life of an individual human being and the vast workings of the cosmos. Modern science is in accordance with the teachings of Buddhism. We know for example that there is a close link between the movement of the moon and our own behaviour. This is seen especially among mentally disturbed and abnormally violent people. It is also true that certain sicknesses like asthma and bronchitis are aggravated when the moon waxes. There is, therefore, sufficient basis for us to believe that other planets can also influence our lives. However there is no need to believe divine spirits are involved in these matters.
 
@@ -3316,37 +3332,34 @@ According to astrologers, the time at which a person is born is predetermined by
 
 While we are in one sense at the mercy of these forces, the Buddha has pointed out a way through which we can escape its influence. All karmic energies are stored in the subconscious mind normally described as mental purities and impurities. Since karmic forces influence one's destiny, a person can develop the mind and negate certain evil influences caused by previous bad karma. A person can also 'purify' the mind and rid himself or herself of all karmic energies and thus prevent rebirth. When there is no rebirth, there is no potential life and there will consequently be no 'future' existence which can be predicted or charted. At such a stage of spiritual and mental development, one will have transcended the need to know about life because most imperfections and unsatisfactoriness would have been removed. A highly developed human being will have no need for a horoscope.
 
-Since the beginning of the 20th century, psychologists and psychiatrists have come to recognize that there is much more to the human mind than the hard core materialists have been ready to accept. There is more to the world than can be seen and touched.
-
-The famous Swiss psychologist, Carl Jung, used to cast the horoscopes of his patients. On one occasion when he made an astrological analysis of about 500 marriages, he discovered that the findings of Ptolemy, on which modern Western astrology is based, were still valid, that favourable aspects between the sun and the moon of the different partners did produce happy marriages.
+Since the beginning of the 20th century, psychologists and psychiatrists have come to recognize that there is much more to the human mind than the hard core materialists have been ready to accept. There is more to the world than can be seen and touched. The famous Swiss psychologist, Carl Jung, used to cast the horoscopes of his patients. On one occasion when he made an astrological analysis of about 500 marriages, he discovered that the findings of Ptolemy, on which modern Western astrology is based, were still valid, that favourable aspects between the sun and the moon of the different partners did produce happy marriages.
 
 A well-known French psychologist, Michel Gauguelin, who originally held a negative view of astrology, made a survey of about 20,000 horoscopical analyses and found to his surprise that the characteristics of the persons studied coincided with characterizations produced by modern psychological methods.
 
 The planting of certain flowers, trees and vegetables at different times of a year will produce differences in strength or appearance of the plants. So there is no reason to doubt that people born in certain times of the year will have different characteristics from people born at other times. By knowing one's weaknesses, failures and shortcomings, one can do one's best to overcome them and make oneself a better and more useful person to society. It will also help him or her a great deal to get rid of unhappiness and disappointments. (Going away from the country where a person is born for example, can sometimes help one avoid the influence of the stars).
 
-Shakespeare says: 'The fault is not in our stars but in ourselves'.
-
-A well-known astrologer has said: 'The stars impel; they do not compel'. St. Thomas Aquinas says: 'The planets influence the more elemental part of man than passions', but Buddhism teaches that through the intellect a person can arrange his or her life in harmony with the planets, and also cultivate inherent talents and manipulate them for his or her personal betterment.
+Shakespeare says: 'The fault is not in our stars but in ourselves'. A well-known astrologer has said: 'The stars impel; they do not compel'. St. Thomas Aquinas says: 'The planets influence the more elemental part of man than passions', but Buddhism teaches that through the intellect a person can arrange his or her life in harmony with the planets, and also cultivate inherent talents and manipulate them for his or her personal betterment.
 
 Astrology cannot automatically solve all your problems. You must do that yourself. Just like a doctor who can diagnose the nature of a disease, an astrologer can only show certain aspects of your life and character. After that it is left to you to adjust your way of life. Of course, the task will be made easier, knowing what it is you are up against. Some people are too dependent on astrology. They run to the astrologer every time something happens or if they have a dream. Remember, even today astrology is very much an imperfect science and even the best astrologers can make serious mistakes. Use astrology intelligently, just as you would use any tool which would make your life more comfortable and more enjoyable. Above all, beware of fake astrologers who are out to cheat you by telling you not the truth, but what you want to hear.
 
 Do not expect good luck to come to you or be handed to you easily without any effort on your part. If you want to reap the harvest, you must sow the seed and it must be the right seed. Remember, 'Opportunity knocks at the door, but never break the lock to gain entrance'.
 
-# Fortune-Telling And Charms
+#### Fortune-Telling And Charms
 
-Hard work is the luckiest star.
+*Hard work is the luckiest star.*
 
-ALTHOUGH Buddhism does not refute belief in deities, spirits, astrology and fortune-telling, the Buddha's advice was that people should not be slaves to any of those forces.
+ALTHOUGH Buddhism does not refute belief in deities, spirits, astrology and fortune-telling, the Buddha's advice was that people should not be slaves to any of those forces. A good Buddhist can overcome all difficulties by knowing how to make use of intelligence and will-power. The above mentioned beliefs have no spiritual significance or value. A person must overcome all problems and difficulties by his or her own efforts and not through the medium of deities, spirits, astrology or fortune-telling. In one of the Buddhist JATAKA stories, the Bodhisatta said:
 
-A good Buddhist can overcome all difficulties by knowing how to make use of intelligence and will-power. The above mentioned beliefs have no spiritual significance or value. A person must overcome all problems and difficulties by his or her own efforts and not through the medium of deities, spirits, astrology or fortune-telling. In one of the Buddhist JATAKA stories, the Bodhisatta said:
-'The fool may watch for lucky days, Yet luck he shall always miss, The luck itself is luck's own star, What can mere stars achieve?'
+>*'The fool may watch for lucky days,*\
+>*Yet luck he shall always miss,*\
+>*The luck itself is luck's own star,*\
+>*What can mere stars achieve?'*
+
 He believed that hard work was the luckiest star and one should not waste time by consulting stars and lucky days in order to achieve success. To do your best to help yourself is better than to rely solely on the stars or external sources.
 
 Although some Buddhists practise fortune-telling and dispense some forms of charms or amulets under the guise of religion, the Buddha at no time encouraged anyone to practise such things. Like fortune-telling, charms come under the category of superstition, and have no religious value. Yet there are many people today who, because of sickness and misfortunes attribute the cause of their illness and ill-luck to the power of charms. When the cause of certain sicknesses and misfortunes cannot be ascertained or traced, many people tend to believe that their problems are due to charms or some other external causes. They have forgotten that they are now living in the twentieth century. This is the modern age of scientific development and achievement. Our leading scientists have thrown aside many superstitious beliefs and they have even placed men on the moon! And no matter how strongly traditionalist religions object, the first human clone is almost at our doorstep.
 
-All sicknesses owe their origin to either mental or physical causes.
-
-In Shakespeare, Macbeth asked a doctor if there was any medicine that could cure his wife and the doctor replied: 'More needs she the divine than the physician.' What he meant was that some diseases can only be cured if the mind is strong enough to face facts in life. Some severe mental disorders manifest themselves in a physical manner as in the case of ulcers, stomach aches, and so on.
+All sicknesses owe their origin to either mental or physical causes. In Shakespeare, Macbeth asked a doctor if there was any medicine that could cure his wife and the doctor replied: 'More needs she the divine than the physician.' What he meant was that some diseases can only be cured if the mind is strong enough to face facts in life. Some severe mental disorders manifest themselves in a physical manner as in the case of ulcers, stomach aches, and so on.
 
 Of course certain diseases are purely physical and can be cured by a competent doctor. And finally, some inexplicable disorders could be caused by what Buddhists call the ripening of the karmic fruit. This means we have to pay for some evil deed that we had committed in a past life. If we can understand this in the case of some incurable diseases, we can bear it with greater patience, knowing its real cause. This is not fatalism: we must still make all reasonable efforts to find a cure. But we do not expend unnecessary energy feeling sorry for ourselves. This is what we would call a realistic attitude.
 
@@ -3356,13 +3369,12 @@ Buddhists are strongly advised against falling into the miserable pit of superst
 
 A short meditation course may also prove very helpful to clear the mind of unwholesome thoughts. Meditation leads to strengthen the mental energy. A developed mind automatically leads to a purified and healthy body. The Buddha-Dharma is a soothing balm to get rid of sickness of this nature.
 
-## Consulting Mediums
+#### Consulting Mediums
 
-Consulting mediums is not a Buddhist practice:
-it is just a traditional belief to bring psychological relief.
+*Consulting mediums is not a Buddhist practice:\
+it is just a traditional belief to bring psychological relief.*
 
-I
-N many countries, people seek the advice and guidance of mediums to overcome their problems in situations which they consider as beyond their comprehension.
+IN many countries, people seek the advice and guidance of mediums to overcome their problems in situations which they consider as beyond their comprehension.
 
 The medium's help is sought in many ways and for various reasons. In time of sickness when medical help is apparently ineffective, some people may become desperate and turn anywhere to seek solace. At such times, mediums are often consulted. Some people also turn to mediums when they are faced with a complex problem and are unable to find an acceptable solution. Others consult mediums out of greed in order to get rich quickly.
 
@@ -3374,49 +3386,55 @@ Consulting mediums is for worldly material gain; the Teaching of the Buddha is f
 
 But, if a person really understands and practises the Teachings of the Buddha, he or she can realise the nature of the problems. Problems can be overcome without consulting any medium.
 
-## Dreams And Their Significance
+#### Dreams And Their Significance
 
-'Life is nothing but a dream.'
+*'Life is nothing but a dream.'*
+
 ONE of mankind's greatest unsolved problems is the mystery of dreams. From the very earliest of times people have tried to analyse dreams and have tried to explain them in prophetic and psychological terms, but while there has been some measure of success recently, we are probably no nearer the answers to the baffling question: 'What is a dream?'
 The great English Romantic poet William Wordsworth had a startling concept: that this life we live is merely a dream and that we will 'awake' to the 'real' reality when we die, when our 'dream' ends.
 
-' Our birth is but a sleep and forgetting: The Soul, that rises with us, our life's star, Hath had elsewhere its setting, And cometh from afar. '
+>*' Our birth is but a sleep and forgetting:*\
+>*The Soul, that rises with us, our life's star,*\
+>*Hath had elsewhere its setting,*\
+>*And cometh from afar.'*
+
 A similar concept is expressed in a charming old Buddhist tale which tells of a deva who was playing with some other devas. Being tired, he lay down to take a short nap and passed away. He was reborn as a girl on earth. There she got married, had a few children and lived to be very old. After her death again she was born as a deva amongst the same companions who had just finished playing their game. (This story also illustrates the relativity of time, that is, how the concept of time in the human world is very different from time in another plane of existence).
 
 What has Buddhism to say about dreams? Just as in every other culture, Buddhism has had its fair share of people who claimed to be skilled in interpreting dreams. Such people mislead by exploiting the ignorance of those who believe that every dream has a spiritual or prophetic significance.
 
 According to Buddhist psychology dreams are ideational processes which occur as activities of the mind. In considering the occurrence of dreams it is relevant to remember that the process of sleeping can be regarded as falling into five stages.
 
-1. drowsiness, 2. light slumber, 3. deep slumber, 4. light slumber and 5. awakening. The significance and the cause of dreams were the subject of discussion in the famous book MILINDA PANHA or THE QUESTIONS OF KING MILINDA (written 150 years before the birth of Christ), in which Venerable Nagasena has stated that there are six causes of dreams, three of them being organic, wind, bile and phlegm. The fourth is due to the intervention of supernatural forces, fifth, revival of past experience and sixth, the influence of future events. It is categorically stated that dreams occur only in light slumber which is said to be like the sleep of the monkey. Of the six causes given Venerable Nagasena has stated positively that the last, namely prophetic dreams are the only important ones and the others are relatively insignificant.
+1. drowsiness,
+2. light slumber,
+3. deep slumber,
+4. light slumber and
+5. awakening.
+
+The significance and the cause of dreams were the subject of discussion in the famous book MILINDA PANHA or THE QUESTIONS OF KING MILINDA (written 150 years before the birth of Christ), in which Venerable Nagasena has stated that there are six causes of dreams, three of them being organic, wind, bile and phlegm. The fourth is due to the intervention of supernatural forces, fifth, revival of past experience and sixth, the influence of future events. It is categorically stated that dreams occur only in light slumber which is said to be like the sleep of the monkey. Of the six causes given Venerable Nagasena has stated positively that the last, namely prophetic dreams are the only important ones and the others are relatively insignificant.
 
 Dreams are mind-created phenomena and they are activities of the mind. All human beings dream, although some people cannot remember them. Buddhism teaches that some dreams have psychological significance. The six causes mentioned earlier can also be classified in the following manner:
-I. Every single thought that is created is stored in our subconscious mind and some of them strongly influence the mind according to our anxieties. When we sleep, some of these thoughts are activated and appear to us as 'pictures' moving before us. This happens because during sleep, the five senses which constitute our contact with the outside world, are temporarily arrested. The subconscious mind then is free to become dominant and to 're-play' thoughts that are stored. These dreams may be of value to psychiatry but cannot be classified as prophetic. They are merely the reflections of the mind at rest.
 
-II. The second type of dream also has no significance. These are caused by internal and external provocation which set off a train of 'visual thoughts' which are 'seen' by the mind at rest. Internal factors are those which disturb the body (e.g. a heavy meal which does not allow one to have a restful slumber or imbalance and friction between elements that constitute the body). External provocation is when the mind is disturbed (although the sleeper may be unaware of it) by natural phenomena like the weather, wind, cold, rain, leaves rustling, windows rattling etc. The subconscious mind reacts to these disturbances and creates pictures to 'explain' them away. The mind accommodates the irritation in a seemingly rational way so that the dreamer can continue to sleep undisturbed. These dreams too have no importance and need no interpretation.
+1. Every single thought that is created is stored in our subconscious mind and some of them strongly influence the mind according to our anxieties. When we sleep, some of these thoughts are activated and appear to us as 'pictures' moving before us. This happens because during sleep, the five senses which constitute our contact with the outside world, are temporarily arrested. The subconscious mind then is free to become dominant and to 're-play' thoughts that are stored. These dreams may be of value to psychiatry but cannot be classified as prophetic. They are merely the reflections of the mind at rest.
 
-III. Then there are the prophetic dreams. These are important.
+2. The second type of dream also has no significance. These are caused by internal and external provocation which set off a train of 'visual thoughts' which are 'seen' by the mind at rest. Internal factors are those which disturb the body (e.g. a heavy meal which does not allow one to have a restful slumber or imbalance and friction between elements that constitute the body). External provocation is when the mind is disturbed (although the sleeper may be unaware of it) by natural phenomena like the weather, wind, cold, rain, leaves rustling, windows rattling etc. The subconscious mind reacts to these disturbances and creates pictures to 'explain' them away. The mind accommodates the irritation in a seemingly rational way so that the dreamer can continue to sleep undisturbed. These dreams too have no importance and need no interpretation.
 
-They are seldom experienced and only when there is an impending event which is of great relevance to the dreamer. Buddhism teaches that besides the tangible world we can experience, there are devas who exist on another plane or some spirits who are bound to this earth and are invisible to us. They could be our relatives or friends who have passed away and who have been reborn. They maintain their former mental relationships and attachments to us. When Buddhists transfer merits to departed ones they invite the devas to share the happiness accrued in the merit. Thus they develop a mental relationship with their departed ones. The devas in turn are pleased and they keep a watch over us and indicate something in dreams when we are facing certain big problems and they try to protect us from harm. While we say that devas can protect us, we are not contradicting what we said earlier about the gods being unable to save us. Our spiritual upliftment must be undertaken by ourselves.
+3. Then there are the prophetic dreams. These are important. They are seldom experienced and only when there is an impending event which is of great relevance to the dreamer. Buddhism teaches that besides the tangible world we can experience, there are devas who exist on another plane or some spirits who are bound to this earth and are invisible to us. They could be our relatives or friends who have passed away and who have been reborn. They maintain their former mental relationships and attachments to us. When Buddhists transfer merits to departed ones they invite the devas to share the happiness accrued in the merit. Thus they develop a mental relationship with their departed ones. The devas in turn are pleased and they keep a watch over us and indicate something in dreams when we are facing certain big problems and they try to protect us from harm. While we say that devas can protect us, we are not contradicting what we said earlier about the gods being unable to save us. Our spiritual upliftment must be undertaken by ourselves.
 
-So, when there is something important that is going to happen in our lives they activate certain mental energies in our minds which are seen as dreams. These dreams can warn of impending danger or even prepare us for sudden overwhelming good news. These messages are given in symbolic terms (much like the negatives of photographs) and have to be interpreted skilfully and with intelligence. Unfortunately too many people confuse the first two kinds of dreams with these and end up wasting valuable time and money consulting fake mediums and dream-interpreters. The Buddha was aware that this could be exploited for personal gain and He therefore warned the monks against practising soothsaying, astrology and interpreting dreams in the name of Buddhism.
+    So, when there is something important that is going to happen in our lives they activate certain mental energies in our minds which are seen as dreams. These dreams can warn of impending danger or even prepare us for sudden overwhelming good news. These messages are given in symbolic terms (much like the negatives of photographs) and have to be interpreted skilfully and with intelligence. Unfortunately too many people confuse the first two kinds of dreams with these and end up wasting valuable time and money consulting fake mediums and dream-interpreters. The Buddha was aware that this could be exploited for personal gain and He therefore warned the monks against practising soothsaying, astrology and interpreting dreams in the name of Buddhism.
 
-IV. Finally, our mind is the repository of all karmic energies accumulated in the past. Sometimes, when a karma is about to ripen (that is, when the action we did in a previous life or early part of our life, is going to experience its reaction) the mind which is at rest during sleep can trigger off a 'picture' of what is going to happen. Again the impending action has to be of great importance and must be so strongly charged that the mind 'releases' the extra energy in the form of a vivid dream. Such dreams occur only very rarely and only to certain people with a special kind of mental make up. The sign of the effect of certain karmas also appears in our minds at the last moment when we are going to depart from this world.
+4. Finally, our mind is the repository of all karmic energies accumulated in the past. Sometimes, when a karma is about to ripen (that is, when the action we did in a previous life or early part of our life, is going to experience its reaction) the mind which is at rest during sleep can trigger off a 'picture' of what is going to happen. Again the impending action has to be of great importance and must be so strongly charged that the mind 'releases' the extra energy in the form of a vivid dream. Such dreams occur only very rarely and only to certain people with a special kind of mental make up. The sign of the effect of certain karmas also appears in our minds at the last moment when we are going to depart from this world.
 
 Dreams can occur when two living human beings send strong mental telepathic messages to each other. When one person has an intense desire to communicate with another, he or she concentrates strongly on the message and the person with whom he or she wishes to communicate. When the mind is at rest, it is in an ideal state to receive these messages which are seen as dreams. Usually these dreams only appear in one intense moment because the human mind is not strong enough to sustain such messages over a long period of time.
 
-All worldlings are dreamers, and they see as permanent, what is essentially impermanent. They do not see that youth ends in old age, beauty in ugliness, health in sickness, and life itself in death. In this dream-world, what is truly without substance is seen as reality.
-
-Dreaming during sleep is but another dimension of the dreamworld. The only ones who are awake are the Buddhas and Arahats as they have seen reality.
+All worldlings are dreamers, and they see as permanent, what is essentially impermanent. They do not see that youth ends in old age, beauty in ugliness, health in sickness, and life itself in death. In this dream-world, what is truly without substance is seen as reality. Dreaming during sleep is but another dimension of the dreamworld. The only ones who are awake are the Buddhas and Arahats as they have seen reality.
 
 Buddhas and arahants never dream. The first three kinds of dream cannot occur in their minds, because their minds have been permanently 'stilled' and cannot be activated to dream. The last kind of dream cannot happen to them because they have eradicated all their craving energy completely, and there is no 'residual' energy of anxiety or unsatisfied desire to activate the mind to produce dreams. The Buddha is also known as the Awakened One because His way of relaxing the physical body is not the way we sleep which results in dreams. Great artists and thinkers, like the German Goethe, have often said they get some of their best inspiration through dreams. This could be because when their minds are cut off from the five senses during sleep, they produce clear thoughts which are creative in the highest degree. Wordsworth meant the same thing when he said that good poetry results from 'powerful emotions recollected in tranquillity'.
 
-## Faith Healing
+#### Faith Healing
 
-Faith healing—a psychological approach by activating the immune system.
+*Faith healing—a psychological approach by activating the immune system.*
 
-THE practice of faith-healing is prevalent in many countries.
-
-Many people try to influence the public through emotional persuasion designated as faith healing. In order to impress on their patients the efficacy of their healing powers, some faith healers use the name of a god or a religious object to introduce a religious flavour into their faith healing methods. The introduction of religion into faith healing is actually a guise or a decoy to beguile the patient into developing more devotion and to enhance the confidence or faith of the patient in the faith healer. This healing act if performed in public is intended to get converts to a particular religious denomination.
+THE practice of faith-healing is prevalent in many countries. Many people try to influence the public through emotional persuasion designated as faith healing. In order to impress on their patients the efficacy of their healing powers, some faith healers use the name of a god or a religious object to introduce a religious flavour into their faith healing methods. The introduction of religion into faith healing is actually a guise or a decoy to beguile the patient into developing more devotion and to enhance the confidence or faith of the patient in the faith healer. This healing act if performed in public is intended to get converts to a particular religious denomination.
 
 In actual fact, in so far as faith healing is concerned, religion is not all that important. There are numerous cases of faith healers performing their faith healing acts without using religion at all. A case in point is the science of hypnotism, the practice of which involves no religious aspects at all. Those who associate religion with faith-healing are in a way engaging in a subtle form of illusion trying to attract converts to their particular religion by making use of faith healing and describing certain cures as miraculous acts.
 
@@ -3424,14 +3442,11 @@ The methods employed by faith healers are to condition the minds of patients int
 
 In this context, it is to be noted that the constant and regular practice of meditation can help to minimise, if not to completely eradicate, various forms of illnesses. There are many discourses in the Teaching of the Buddha where it was indicated that various forms of sicknesses were eradicated through the conditioning of the mind. Thus it is worthwhile to practise meditation in order to attain mental and physical wellbeing.
 
-# Superstitions And Dogmas
+#### Superstitions And Dogmas
 
-' People ridicule the superstitions of others, while cherishing their own.'
-ALL ailments have cures but superstitions do not, at least for
+*'People ridicule the superstitions of others, while cherishing their own.'*
 
-![432_image_0.png](432_image_0.png)
-
-the most part. And if for some reason or other, any superstition crystallises into a religion, it easily becomes an almost incurable malady. In the performance of certain religious functions, even intelligent people of today forget their human dignity to accept the most ridiculous, superstitious beliefs.
+ALL ailments have cures but superstitions do not, at least for the most part. And if for some reason or other, any superstition crystallises into a religion, it easily becomes an almost incurable malady. In the performance of certain religious functions, even intelligent people of today forget their human dignity to accept the most ridiculous, superstitious beliefs.
 
 Superstitious beliefs and rituals were adopted to decorate a religion in order to attract the multitude. But after sometime, the creeper which is planted to decorate the shrine as it were, outgrows and outshines the shrine, with the result that religious tenets are relegated to the background and superstitious beliefs and rituals become predominant—the creeper blocking out the shrine.
 
@@ -3443,8 +3458,11 @@ It is extremely difficult for us to break up the emotional feeling that is attac
 
 We must understand that the dangers of dogmatism and superstition go hand-in-hand with religion. The time has come for wise people to separate religion from dogmatism and superstition. Otherwise, the good name of religion will be polluted and the number of non-believers will be increased, as they have already done.
 
-| A Successor to the Buddha,                       | 74  |
+## Title Index
+
+| | |
 | ------------------------------------------------ | --- |
+| A Successor to the Buddha,                       | 74  |
 | Are Buddhists Idol Worshippers?,                 | 290 |
 | Astrology and Astronomy,                         | 414 |
 | Attainment of Buddhahood,                        | 47  |
@@ -3470,11 +3488,7 @@ We must understand that the dangers of dogmatism and superstition go hand-in-han
 | Everything is Changeable,                        | 126 |
 | Existence of Spirits,                            | 408 |
 | Faith, Confidence and Devotion,                  | 274 |
-
-# Title Index
-
 | Faith Healing,                                                | 431 |
-| ------------------------------------------------------------- | --- |
 | Fortune-Telling and Charms,                                   | 422 |
 | Four Noble Truths,                                            | 113 |
 | Gautama, The Buddha,                                          | 18  |
@@ -3503,11 +3517,7 @@ We must understand that the dangers of dogmatism and superstition go hand-in-han
 | Nature of the Buddha,                                         | 27  |
 | Nirvana,                                                      | 153 |
 | No Self Surrender,                                            | 253 |
-
-Title Index ! 437
-
 | No Sinners,                                      | 254 |
-| ------------------------------------------------ | --- |
 | Other World Systems,                             | 400 |
 | Precepts,                                        | 224 |
 | Real Charity,                                    | 234 |
@@ -3536,9 +3546,7 @@ Title Index ! 437
 | The Last Message of the Buddha,                  | 67  |
 | The Lion's Roar,                                 | 80  |
 | The Meaning of Prayer,                           | 276 |
-
 | The Moon and Religious Observances,                         | 300 |
-| ----------------------------------------------------------- | --- |
 | The Need for a Religion,                                    | 191 |
 | The Need for Tolerance Today,                               | 243 |
 | The Noble Eightfold Path—The Middle Way,                    | 118 |

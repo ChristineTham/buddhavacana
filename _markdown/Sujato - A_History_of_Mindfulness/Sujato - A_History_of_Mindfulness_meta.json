@@ -1,0 +1,1510 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Foreword: The Vipassanan\u0101v\u0101d\u0101",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Meaning of \u2018Buddha\u2019",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Ambiguity of Tradition",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                241.9510040283203,
+                0.0
+            ]
+        },
+        {
+            "title": "The Death of Myth",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 25,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                353.9460144042969,
+                0.0
+            ]
+        },
+        {
+            "title": "The GIST 1\u200b\u2014\u200bThree Strata of Early Texts",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 30,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Before the Buddha",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 32,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                125.7659912109375,
+                0.0
+            ]
+        },
+        {
+            "title": "The First Discourses",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 34,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                170.89700317382812,
+                0.0
+            ]
+        },
+        {
+            "title": "The G\u0101th\u0101 Theory",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 38,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                170.8179931640625,
+                0.0
+            ]
+        },
+        {
+            "title": "The Earliest Collection",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 41,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                257.5169982910156,
+                0.0
+            ]
+        },
+        {
+            "title": "The First Abhidhamma",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 47,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                377.6369934082031,
+                0.0
+            ]
+        },
+        {
+            "title": "Some Problems",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 48,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                400.427978515625,
+                0.0
+            ]
+        },
+        {
+            "title": "The GIST 2\u200b\u2014\u200bThe Agreement of the Three Strata",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 52,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Seeds of the Sa\u1e41yutta",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 52,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                227.3459930419922,
+                0.0
+            ]
+        },
+        {
+            "title": "The Two Sa\u1e41yuttas",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 57,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                469.5780029296875,
+                0.0
+            ]
+        },
+        {
+            "title": "The Root Abhidhamma Topics",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 61,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                199.27101135253906,
+                0.0
+            ]
+        },
+        {
+            "title": "The Three Strata Compared",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 64,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Sa\u1e41yutta-M\u0101tik\u0101 in the Mah\u0101y\u0101na",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 66,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The GIST 3\u200b\u2014\u200bThe A\u1e45gas",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 71,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Nine and the Twelve",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 72,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                437.57000732421875,
+                0.0
+            ]
+        },
+        {
+            "title": "Sutta, Geyya, Vy\u0101kara\u1e47a",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 82,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                243.82701110839844,
+                0.0
+            ]
+        },
+        {
+            "title": "The Three A\u1e45gas and the First Discourses",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 91,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The A\u1e45gas and the Vedas",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 92,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                388.8489990234375,
+                0.0
+            ]
+        },
+        {
+            "title": "A\u1e45gas in the Nik\u0101yas & \u0100gamas",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 93,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Sa\u1e41yutta",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 98,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                513.5970458984375,
+                0.0
+            ]
+        },
+        {
+            "title": "Majjhima",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 104,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "D\u012bgha",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 105,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                294.01300048828125,
+                0.0
+            ]
+        },
+        {
+            "title": "A\u1e45guttara",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 114,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                528.3609619140625,
+                0.0
+            ]
+        },
+        {
+            "title": "The Evolution of the Truths",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 120,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Sanskrit Dhammacakkappavattana Sutta",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 120,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                267.77001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "Spirals of Elaboration",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 126,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                525.8040161132812,
+                0.0
+            ]
+        },
+        {
+            "title": "What Happened in the Sattapa\u1e47\u1e47i Cave?",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 130,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 139,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                367.6199951171875,
+                0.0
+            ]
+        },
+        {
+            "title": "Introduction to Mindfulness",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 142,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Samatha & vipassan\u0101",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 146,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                411.9209899902344,
+                0.0
+            ]
+        },
+        {
+            "title": "Previous Studies",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 8,
+            "page_index": 149,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Von Hin\u00fcber",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 149,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                241.32400512695312,
+                0.0
+            ]
+        },
+        {
+            "title": "An\u0101layo",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 150,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Th\u00edch Nh\u1ea5t H\u1ea1nh",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 151,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                250.3090057373047,
+                0.0
+            ]
+        },
+        {
+            "title": "\u1e6ch\u0101nissaro",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 153,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Th\u00edch Minh Ch\u00e2u",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 153,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                276.5679931640625,
+                0.0
+            ]
+        },
+        {
+            "title": "Gethin",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 154,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Schmithausen",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 154,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                184.86000061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "Bronkhorst",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 158,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                339.0160217285156,
+                0.0
+            ]
+        },
+        {
+            "title": "Meditation Before the Buddha",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 163,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Early Brahmanical Sources",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 163,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                281.9960021972656,
+                0.0
+            ]
+        },
+        {
+            "title": "The Buddhist Sources",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 173,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Later Brahmanical Sources",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 180,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Jains",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 186,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                424.0350036621094,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 190,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                290.70501708984375,
+                0.0
+            ]
+        },
+        {
+            "title": "Building Blocks",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 8,
+            "page_index": 192,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Function of Satipa\u1e6d\u1e6dh\u0101na",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 192,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                325.2710266113281,
+                0.0
+            ]
+        },
+        {
+            "title": "Mindfulness Itself",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 200,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                457.5,
+                0.0
+            ]
+        },
+        {
+            "title": "The Fourfold Establishing of Mindfulness",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 201,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                410.29998779296875,
+                0.0
+            ]
+        },
+        {
+            "title": "How the Practice is Described",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 7,
+            "page_index": 203,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                440.5429992675781,
+                0.0
+            ]
+        },
+        {
+            "title": "Simple and Complex Formulas",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 203,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                335.0090026855469,
+                0.0
+            ]
+        },
+        {
+            "title": "Covetousness & Aversion",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 205,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                291.03900146484375,
+                0.0
+            ]
+        },
+        {
+            "title": "Satipa\u1e6d\u1e6dh\u0101na Compared with Loving-kindness",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 206,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                230.30300903320312,
+                0.0
+            ]
+        },
+        {
+            "title": "Variants on the Basic Formula",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 207,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                371.85797119140625,
+                0.0
+            ]
+        },
+        {
+            "title": "\u2018A Body in the Body\u2019",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 210,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                472.739013671875,
+                0.0
+            ]
+        },
+        {
+            "title": "\u2018Contemplation\u2019",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 211,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                326.5060119628906,
+                0.0
+            ]
+        },
+        {
+            "title": "Clear Comprehension",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 215,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Internal/External",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 215,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                126.63099670410156,
+                0.0
+            ]
+        },
+        {
+            "title": "\u2018The Path of Convergence\u2019",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 219,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                333.177001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "\u2018Achieving the Way\u2019",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 230,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The A\u1e45guttara",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 231,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                408.1629943847656,
+                0.0
+            ]
+        },
+        {
+            "title": "The Sa\u1e41yutta",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 234,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Satipa\u1e6d\u1e6dh\u0101na-sa\u1e41yutta",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 234,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                287.3160095214844,
+                0.0
+            ]
+        },
+        {
+            "title": "The Tales",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 238,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Narratives",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 239,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                285.78399658203125,
+                0.0
+            ]
+        },
+        {
+            "title": "Clear Comprehension",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 244,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                372.531005859375,
+                0.0
+            ]
+        },
+        {
+            "title": "The Vibha\u1e45ga Sutta",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 247,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                429.8639831542969,
+                0.0
+            ]
+        },
+        {
+            "title": "The Samudaya Sutta",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 250,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                305.89398193359375,
+                0.0
+            ]
+        },
+        {
+            "title": "The Anuruddha-sa\u1e41yutta",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 255,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                450.3999938964844,
+                0.0
+            ]
+        },
+        {
+            "title": "The Vedan\u0101-sa\u1e41yutta",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 256,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                379.8429870605469,
+                0.0
+            ]
+        },
+        {
+            "title": "The \u0100n\u0101p\u0101nasati-sa\u1e41yutta",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 259,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                248.78599548339844,
+                0.0
+            ]
+        },
+        {
+            "title": "Early Abhidhamma",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 263,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Vibha\u1e45ga",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 264,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                516.5850219726562,
+                0.0
+            ]
+        },
+        {
+            "title": "Dharmaskandha",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 270,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                168.44699096679688,
+                0.0
+            ]
+        },
+        {
+            "title": "\u015a\u0101riputr\u0101bhidharma",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 277,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                414.11700439453125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Satipa\u1e6d\u1e6dh\u0101na Suttas",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 284,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Praj\u00f1\u0101p\u0101ramit\u0101",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 284,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                324.5780029296875,
+                0.0
+            ]
+        },
+        {
+            "title": "Sarv\u0101stiv\u0101da Sm\u1e5btyupasth\u0101na S\u016btra",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 289,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                393.6000061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "Ek\u0101yana S\u016btra",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 299,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                158.57400512695312,
+                0.0
+            ]
+        },
+        {
+            "title": "Therav\u0101da Satipa\u1e6d\u1e6dh\u0101na Sutta",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 305,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                353.5,
+                0.0
+            ]
+        },
+        {
+            "title": "The Source",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 316,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Sarv\u0101stiv\u0101da & Therav\u0101da",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 328,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Therav\u0101da and Vipassan\u0101",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 328,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                230.6060028076172,
+                0.0
+            ]
+        },
+        {
+            "title": "Sarv\u0101stiv\u0101da and Sam\u0101dhi",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 331,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                187.52200317382812,
+                0.0
+            ]
+        },
+        {
+            "title": "Dependent Liberation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 332,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Teachings of Anuruddha",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 333,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                456.5039978027344,
+                0.0
+            ]
+        },
+        {
+            "title": "Miscellaneous",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 334,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                384.6940002441406,
+                0.0
+            ]
+        },
+        {
+            "title": "The Demon of Time",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 337,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                214.0139923095703,
+                0.0
+            ]
+        },
+        {
+            "title": "The Vibha\u1e45ga\u2019s Abhidhamma Exposition",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 340,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Other Abhidhamma Texts",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 344,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                511.1440124511719,
+                0.0
+            ]
+        },
+        {
+            "title": "Later Buddhism",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 7,
+            "page_index": 348,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Therav\u0101da Commentaries",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 348,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                314.2750244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "Developments in Sarv\u0101stiv\u0101da",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 350,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                228.76699829101562,
+                0.0
+            ]
+        },
+        {
+            "title": "The Abhidharmako\u015ba",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 354,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Other Early Schools",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 358,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Bahu\u015brut\u012bya",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 358,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                546.2579956054688,
+                0.0
+            ]
+        },
+        {
+            "title": "Puggalav\u0101da",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 358,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                276.9239807128906,
+                0.0
+            ]
+        },
+        {
+            "title": "Chinese Commentaries",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 360,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                387.1839904785156,
+                0.0
+            ]
+        },
+        {
+            "title": "M\u016blasarv\u0101stiv\u0101da",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 361,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                426.3190002441406,
+                0.0
+            ]
+        },
+        {
+            "title": "The Mah\u0101y\u0101na",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 363,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                234.82101440429688,
+                0.0
+            ]
+        },
+        {
+            "title": "The Sam\u0101dhi of Meeting the Buddhas of the Present",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 369,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Yogac\u0101ra",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 373,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Asa\u1e45ga",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 373,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                386.2660217285156,
+                0.0
+            ]
+        },
+        {
+            "title": "Vasubandhu",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 376,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                236.8990020751953,
+                0.0
+            ]
+        },
+        {
+            "title": "M\u0101dhyamaka",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 379,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                276.2030029296875,
+                0.0
+            ]
+        },
+        {
+            "title": "Bh\u0101van\u0101krama",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 380,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Meditation on Emptiness",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 381,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                387.3929748535156,
+                0.0
+            ]
+        },
+        {
+            "title": "Afterword",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 384,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Abbreviations",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 388,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.80000305175781,
+                573.010986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "Bibliography",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 389,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.20000076293945,
+                573.010986328125,
+                0.0
+            ]
+        }
+    ],
+    "pages": 396,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 37,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

@@ -1,0 +1,509 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Front Cover",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -4.0,
+                846.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Titel",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Copyright",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Contents",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "List of Figures",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Foreword",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Introduction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "1 Mah\u0101praj\u0101pat\u012b Gautam\u012b in the Nandakov\u0101da",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "1.1 The Introductory Narrative",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "1.2 The Attainments of the Nuns",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 26,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "1.3 Narrative Distancing",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 36,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 38,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "2 Mah\u0101praj\u0101pat\u012b Gautam\u012b\u2019s Petition",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 39,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "2.1 The Main Versions of the Foundation History",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 39,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "2.2 The Initial Request",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 43,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "2.3 The Buddha\u2019s Refusal",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 49,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "2.4 Mah\u0101praj\u0101pat\u012b Gautam\u012b\u2019s Reaction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 52,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 57,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "3 \u0100nanda\u2019s Intervention",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 59,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "3.1 Mah\u0101praj\u0101pat\u012b Gautam\u012b and \u0100nanda",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 59,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "3.2 Mah\u0101praj\u0101pat\u012b Gautam\u012b\u2019s Gift of a Robe",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 68,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "3.3 Arguments Raised by \u0100nanda",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 72,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "3.4 Women\u2019s Potential for Awakening",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 79,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "3.5 \u0100nanda\u2019s Role",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 85,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "4 The Buddha\u2019s Permission",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 91,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "4.1 The Simile of the Dyke",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 91,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "4.2 The Gurudharmas on Communal Transactions",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 95,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "4.3 The Gurudharmas on Homage and Criticism",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 101,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "5 Mah\u0101praj\u0101pat\u012b Gautam\u012b\u2019s Ordination",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 117,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "5.1 The Simile Illustrating Acceptance",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 117,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "5.2 Repercussions of Female Renunciation",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 122,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "5.3 Apprehensions",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 133,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "5.4 Other Instances of Negativity",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 140,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "6 Decline",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 147,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "6.1 The Prediction of Decline",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 147,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "6.2 Outstanding Nuns",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 151,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "6.3 The Four Assemblies",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 155,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "6.4 The First Sa\u1e45g\u012bti",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 159,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 176,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 176,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Conclusion",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 179,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Translations",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 183,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The Dharmaguptaka Vinaya Version1",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 183,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The (Haimavata?) *Vinayam\u0101t\u1e5bk\u0101 Version1",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 189,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The Mah\u0101s\u0101\u1e43ghika-Lokottarav\u0101da Vinaya Version1",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 191,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The Mah\u012b\u015b\u0101saka Vinaya Version1",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 202,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The M\u016blasarv\u0101stiv\u0101da Vinaya Version1",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 208,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The (Sarv\u0101stiv\u0101da) Madhyama-\u0101gama Version1",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 217,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The Therav\u0101da A\u1e45guttara-nik\u0101ya Version1",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 228,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Abbreviations",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 235,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "References",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 237,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Index",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 271,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Back Cover",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 281,
+            "view_mode": "Fit",
+            "view_pos": []
+        }
+    ],
+    "pages": 282,
+    "ocr_stats": {
+        "ocr_pages": 2,
+        "ocr_failed": 0,
+        "ocr_success": 2,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 24,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

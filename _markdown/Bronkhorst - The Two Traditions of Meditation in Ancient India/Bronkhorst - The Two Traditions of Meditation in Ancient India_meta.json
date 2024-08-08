@@ -1,0 +1,353 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Cover",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -35.0,
+                974.0,
+                1.25
+            ]
+        },
+        {
+            "title": "Title Page",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                27.0,
+                709.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Contents",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                27.0,
+                763.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Preface to the Second Edition",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                25.0,
+                809.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Acknowledgements to the First Edition",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                51.0,
+                757.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Introduction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                51.0,
+                522.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Part I: Two Traditions of Meditation  ",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                51.0,
+                765.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Chap. I \u2013 The Ascetic Practices of the Bodhisattva",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                51.0,
+                717.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Chap. II \u2013 Further Buddhist Criticism of Alternative Practices ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 37,
+            "view_mode": "XYZ",
+            "view_pos": [
+                51.0,
+                753.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Part II: The Main Stream",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 42,
+            "view_mode": "XYZ",
+            "view_pos": [
+                51.0,
+                760.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Chap. III \u2013 Early Jaina Meditation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 42,
+            "view_mode": "XYZ",
+            "view_pos": [
+                51.0,
+                712.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Chap. IV \u2013 Meditation as Part of Asceticism in Early Hindu Scriptures",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 56,
+            "view_mode": "XYZ",
+            "view_pos": [
+                51.0,
+                773.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Chap. V \u2013 Theory and Practice in the Main Stream",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 65,
+            "view_mode": "XYZ",
+            "view_pos": [
+                51.0,
+                764.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Chap. VI \u2013 The Influence from Buddhist Meditation ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 79,
+            "view_mode": "XYZ",
+            "view_pos": [
+                51.0,
+                764.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Part III: Buddhist Meditation",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 89,
+            "view_mode": "XYZ",
+            "view_pos": [
+                51.0,
+                777.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Chap. VII \u2013 Influence on Buddhist Meditation (I)",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 89,
+            "view_mode": "XYZ",
+            "view_pos": [
+                51.0,
+                729.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Chap. VIII \u2013 Influence on Buddhist Meditation (II)",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 107,
+            "view_mode": "XYZ",
+            "view_pos": [
+                51.0,
+                771.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Chap. IX \u2013 The Origin of Buddhist Meditation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 122,
+            "view_mode": "XYZ",
+            "view_pos": [
+                51.0,
+                765.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Chap. X \u2013 Pratyekabuddhas, The Sutta Nip\u0101ta, and the Early Sa\u1e45gha",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 134,
+            "view_mode": "XYZ",
+            "view_pos": [
+                51.0,
+                768.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 138,
+            "view_mode": "XYZ",
+            "view_pos": [
+                51.0,
+                770.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Chap. XI \u2013 The Position and Character of Early Buddhist Meditation ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 138,
+            "view_mode": "XYZ",
+            "view_pos": [
+                51.0,
+                716.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Abbreviations",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 139,
+            "view_mode": "XYZ",
+            "view_pos": [
+                51.0,
+                745.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Primary Sources ",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 141,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.0,
+                773.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Modern Authors",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 145,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.0,
+                770.0,
+                2.0
+            ]
+        },
+        {
+            "title": "Index",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 161,
+            "view_mode": "XYZ",
+            "view_pos": [
+                43.0,
+                773.0,
+                2.0
+            ]
+        }
+    ],
+    "pages": 165,
+    "ocr_stats": {
+        "ocr_pages": 17,
+        "ocr_failed": 0,
+        "ocr_success": 17,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 2,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

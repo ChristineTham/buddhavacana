@@ -1,0 +1,370 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Cover",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Front matter",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Contents",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Preface",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "PART ONE: The Symbolic Mind",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 8,
+            "page_index": 12,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "INTRODUCTION",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "1. Symbolic representation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "2. Mysticism",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 30,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "3. Ritual",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 36,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "4. Mythology and Religion",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 46,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "5. Culture",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 48,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Appendix 1: Semantic etymologies",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 53,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Appendix 1: Symbolic reference and the origin of language",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 60,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "PART II: The Psychology of the Buddha",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 24,
+            "page_index": 76,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "INTRODUCTION",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 78,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "OUTLINE OF A PSYCHOLOGICAL THEORY",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 7,
+            "page_index": 100,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "1. Fundamentals",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 100,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "2. Comparison with neurological findings",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 114,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "3. Psychotherapy and its obstacles",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 122,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "4. \"complete cure\"",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 130,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "5. The theory adapted",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 140,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "6. The theory refined",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 147,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "7. Sexuality and sublimation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 154,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "SUMMARY AND CONCLUDING REFLECTIONS",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 168,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Appendix I: The main texts, with a psychological commentary",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 8,
+            "page_index": 181,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "1. The path of liberation as a whole",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 181,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "2. Guiding one's thoughts",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 188,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "3. Avoiding Hunger",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 192,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "4. Awareness",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 194,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "5. Mindfulness",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 195,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "6. Fear of Being Alone",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 199,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "7. Who Succeeds",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 202,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "8. The Liberated Person",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 205,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Appendix 2: Absorption & Pleasure in Mysticism & Meditation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 207,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Technical Terms and their Sanskrit and Pali Equivalents",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 221,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Abbreviations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 221,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Bibliography",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 222,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Index",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 250,
+            "view_mode": "Fit",
+            "view_pos": []
+        }
+    ],
+    "pages": 271,
+    "ocr_stats": {
+        "ocr_pages": 6,
+        "ocr_failed": 2,
+        "ocr_success": 4,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 5,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Front Cover",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                220.0,
+                712.0,
+                1.0
+            ]
+        },
+        {
+            "title": "Copyright",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -398.0,
+                642.0,
+                1.0
+            ]
+        },
+        {
+            "title": "Table of Contents",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -398.0,
+                642.0,
+                1.0
+            ]
+        },
+        {
+            "title": "Front Matter",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -398.0,
+                642.0,
+                1.0
+            ]
+        },
+        {
+            "title": "Body",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -398.0,
+                642.0,
+                1.0
+            ]
+        },
+        {
+            "title": "Back Matter",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 347,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -398.0,
+                642.0,
+                1.0
+            ]
+        },
+        {
+            "title": "Back Cover",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 389,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -341.0,
+                712.0,
+                1.0
+            ]
+        }
+    ],
+    "pages": 390,
+    "ocr_stats": {
+        "ocr_pages": 6,
+        "ocr_failed": 0,
+        "ocr_success": 6,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 21,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
