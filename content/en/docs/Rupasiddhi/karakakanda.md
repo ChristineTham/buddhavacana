@@ -5,7 +5,7 @@ linkTitle: "2. Kāraka"
 date: 2023-11-08
 weight: 200
 description: >
-  Chapter on Kāraka (case endings).
+  Chapter on Kāraka (case syntax).
 categories: ["Padarūpasiddhi"]
 tags: ["Kārakakaṇḍa"]
 ---
@@ -14,92 +14,159 @@ tags: ["Kārakakaṇḍa"]
 This is currently work in progress and not suitable for consumption. Please ignore for the time being.
 {{< /alert >}}
 
-Atha vibhattīnamatthabhedā vuccante.
+>Atha vibhattīnamatthabhedā vuccante.
+>
+>Tattha ekampi atthaṃ kammādivasena, ekattādivasena ca vibhajantīti vibhattiyo, syādayo. Tā pana paṭhamādibhedena sattavidhā.
+>
+>Tattha kasmiṃ atthe paṭhamā?
 
-Tattha ekampi atthaṃ kammādivasena, ekattādivasena ca vibhajantīti vibhattiyo, syādayo. Tā pana paṭhamādibhedena sattavidhā.
+Now the different meanings of the declensions are stated.
 
-Tattha kasmiṃ atthe paṭhamā?
+Herein, they are declensions because they divide one meaning by way of action, etc., and by way of unity, etc. They are the particles, etc. They are sevenfold as first, etc.
 
-### 283.Liṅgatthe paṭhamā.
+Herein, in which meaning is the first?
 
-Liṅgatthābhidhānamatte paṭhamāvibhatti hoti.
+### 283.Liṅgatthe paṭhamā (The first case-ending is for the gender)
 
-Liṅgassa attho liṅgattho. Ettha ca līnaṃ aṅganti liṅgaṃ, apākaṭo avayavo, purisotiādīnañhi pakatippaccayādivibhāgakappanāya nipphāditānaṃ saddappatirūpakānaṃ nāmikapadānaṃ paṭhamaṃ ṭhapetabbaṃ pakatirūpaṃ apākaṭattā, avayavattā ca liṅganti vuccati. Atha vā visadāvisadobhayarahitākāravohārasaṅkhātena tividhaliṅgena sahitatthassa, tabbinimuttassupasaggādīnamatthassa ca līnassa gamanato, liṅganato vā liṅganti anvatthanāmavasena vā ‘‘dhātuppaccayavibhattivajjitamatthavaṃ liṅga’’nti vacanato parasamaññāvasena vā liṅganti idha pāṭipadikāparanāmadheyyaṃ syādivibhatyantapadapakatirūpameva vuccatīti daṭṭhabbaṃ.
+>Liṅgatthābhidhānamatte paṭhamāvibhatti hoti.
+>
+>Liṅgassa attho liṅgattho. Ettha ca līnaṃ aṅganti liṅgaṃ, apākaṭo avayavo, purisotiādīnañhi pakatippaccayādivibhāgakappanāya nipphāditānaṃ saddappatirūpakānaṃ nāmikapadānaṃ paṭhamaṃ ṭhapetabbaṃ pakatirūpaṃ apākaṭattā, avayavattā ca liṅganti vuccati. Atha vā visadāvisadobhayarahitākāravohārasaṅkhātena tividhaliṅgena sahitatthassa, tabbinimuttassupasaggādīnamatthassa ca līnassa gamanato, liṅganato vā liṅganti anvatthanāmavasena vā ‘‘dhātuppaccayavibhattivajjitamatthavaṃ liṅga’’nti vacanato parasamaññāvasena vā liṅganti idha pāṭipadikāparanāmadheyyaṃ syādivibhatyantapadapakatirūpameva vuccatīti daṭṭhabbaṃ.
+>
+>Liṅgassattho nāma pabandhavisesākārena pavattamāne rūpādayo upādāya paññāpīyamāno tadaññānaññabhāvena anibbacanīyo samūhasantānādibhedo upādāpaññattisaṅkhāto ghaṭapaṭādivohārattho ca pathavīdhātuphassādīnaṃ sabhāvadhammānaṃ kāladesādibhedabhinnānaṃ vijātiyavinivatto sajātiyasādhāraṇo yathāsaṅketamāropasiddho tajjāpaññattisaṅkhāto kakkhaḷattaphusanādisāmaññākāro ca.
+>
+>So pana kammādisaṃsaṭṭho, suddho cāti duvidho. Tattha kammādīsu dutiyādīnaṃ vidhīyamānattā kammādisaṃsaggarahito liṅgasaṅkhyāparimāṇayutto, tabbinimuttupasaggādipadatthabhūto ca suddho saddattho idha liṅgattho nāma.
+>
+>Yo pana ākhyātakitakataddhitasamāsehi vutto kammādisaṃsaṭṭho attho, sopi dutiyādīnaṃ puna attanā vattabbassa atthavisesassābhāvena avisayattā, liṅgatthamattassa sambhavato ca paṭhamāyeva visayo.
+>
+>Hoti cettha –
+>
+>Paṭhamāvupasaggatthe, kesañcatthe nipātasaddānaṃ;
+>Liṅgādike ca suddhe-bhihite kammādiatthepi.
+>
+>Saliṅge tāva – eso puriso, ete purisā, esā kaññā, etā kaññāyo, etaṃ cittaṃ, etāni cittāni.
+>
+>Sasaṅkhye – eko dve.
+>
+>Saparimāṇe – doṇo khārī āḷhakaṃ.
+>
+>Liṅgādivinimutte sattāmatte – ca vā ha ahaṃ atthi sakkālabbhā iccādi.
+>
+>‘‘Liṅgatthe paṭhamā’’ti adhikicca ‘‘ālapane cā’’ti ālapanatthe ca paṭhamā, abhimukhaṃ katvā lapanaṃ ālapanaṃ, āmantanaṃ avhānanti attho.
+>
+>Ettha ca āmantanaṃ nāma pageva laddhasarūpassa saddena abhimukhīkaraṇaṃ, katābhimukho pana ‘‘gacchā’’tiādinā nayena kriyāya yojīyati, tasmā āmantanasamaye kriyāyogābhāvato idaṃ kārakavohāraṃ na labhati.
+>
+>Vuttañca
+>
+>‘‘Saddenābhimukhīkāro, vijjamānassa vatthuno;
+>Āmantanaṃ vidhātabbe, natthi ‘rājā bhave’tida’’nti.
+>
+>Bho purisa ehi, bho purisā vā, bhavanto purisā etha.
+>
+>Kasmiṃ atthe dutiyā?
 
-Liṅgassattho nāma pabandhavisesākārena pavattamāne rūpādayo upādāya paññāpīyamāno tadaññānaññabhāvena anibbacanīyo samūhasantānādibhedo upādāpaññattisaṅkhāto ghaṭapaṭādivohārattho ca pathavīdhātuphassādīnaṃ sabhāvadhammānaṃ kāladesādibhedabhinnānaṃ vijātiyavinivatto sajātiyasādhāraṇo yathāsaṅketamāropasiddho tajjāpaññattisaṅkhāto kakkhaḷattaphusanādisāmaññākāro ca.
 
-So pana kammādisaṃsaṭṭho, suddho cāti duvidho. Tattha kammādīsu dutiyādīnaṃ vidhīyamānattā kammādisaṃsaggarahito liṅgasaṅkhyāparimāṇayutto, tabbinimuttupasaggādipadatthabhūto ca suddho saddattho idha liṅgattho nāma.
 
-Yo pana ākhyātakitakataddhitasamāsehi vutto kammādisaṃsaṭṭho attho, sopi dutiyādīnaṃ puna attanā vattabbassa atthavisesassābhāvena avisayattā, liṅgatthamattassa sambhavato ca paṭhamāyeva visayo.
+The first case-ending is for the mere indication of gender.
 
-Hoti cettha –
+The meaning of gender is the meaning of gender. Herein, the gender is the limb, the hidden part. For the first thing to be placed in the case of the names of the noun-stems that are the counterparts of sounds produced for the purpose of distinguishing the natural cause, etc., of such words as “man,” etc., is the hidden part, because it is not evident, and because it is a part. Or else, it is called “gender” because the meaning of the gender is the meaning of the hidden part, because of the connection with the meaning of the three kinds of gender, which are the characteristics of the absence of clarity, the absence of obscurity, and the absence of both, and because of the connection with the meaning of the upasagga, etc., which are the synonyms of that. Or else, it is called “gender” because of the connection with the gender, or because of the connection with the gender as a name, or because of the connection with the gender as a synonym, according to the statement “The gender is the meaning of the noun-stem, which is excluded from the element, the cause, and the case-ending.”
 
-Paṭhamāvupasaggatthe, kesañcatthe nipātasaddānaṃ;
-Liṅgādike ca suddhe-bhihite kammādiatthepi.
+The meaning of gender is the meaning of the word, which is called the “fourteenfold characteristic of the individual,” and which is the distinction of the aggregate, the continuity, etc., that cannot be expressed by the distinction of the individual and the other, when it is conceived by means of the elements, such as the earth element, the contact, etc., which occur by means of the special bond, and the meaning of the word, such as “pot,” “cloth,” etc., which is called the “fourteenfold characteristic of the individual,” and which is the common characteristic of the individual, which is the opposite of the dissimilar individual, and which is the common characteristic of the similar individual, and which is the characteristic of the hardness, the touch, etc., which is established by the superimposition according to the convention, of the individual elements, such as the earth element, the contact, etc., which are distinguished by the distinction of the place, the time, etc.
 
-Saliṅge tāva – eso puriso, ete purisā, esā kaññā, etā kaññāyo, etaṃ cittaṃ, etāni cittāni.
+But it is of two kinds, associated with a verb, etc., and pure. Herein, the meaning of a word that is free from association with a verb, etc., and is associated with gender, number, and measure, and is the meaning of a word that is the basis for the addition of a case-ending, etc., is the meaning of a word that is pure.
 
-Sasaṅkhye – eko dve.
+But the meaning that is associated with a verb, etc., and is expressed by the three kinds of compound, namely, the appositional, the appositional-with-a-verb, and the appositional-with-a-noun, is also the first kind of meaning, because it is not the province of the second, etc., and because it is possible for it to be only the meaning of a word that is gender.
 
-Saparimāṇe – doṇo khārī āḷhakaṃ.
+Herein,
 
-Liṅgādivinimutte sattāmatte – ca vā ha ahaṃ atthi sakkālabbhā iccādi.
+The first is used in the sense of “together with,” in the sense of “hair,” in the sense of “falling,”
+and in the sense of “action” in the case of the pure and the impure.
 
-‘‘Liṅgatthe paṭhamā’’ti adhikicca ‘‘ālapane cā’’ti ālapanatthe ca paṭhamā, abhimukhaṃ katvā lapanaṃ ālapanaṃ, āmantanaṃ avhānanti attho.
+In the case of the gender, first, “this man,” “these men,” “this girl,” “these girls,” “this mind,” “these minds.”
 
-Ettha ca āmantanaṃ nāma pageva laddhasarūpassa saddena abhimukhīkaraṇaṃ, katābhimukho pana ‘‘gacchā’’tiādinā nayena kriyāya yojīyati, tasmā āmantanasamaye kriyāyogābhāvato idaṃ kārakavohāraṃ na labhati.
+In the case of number, “one,” “two.”
 
-Vuttañca
+In the case of measure, “a doṇa,” “a khārika,” “a āḷhaka.”
 
-‘‘Saddenābhimukhīkāro, vijjamānassa vatthuno;
-Āmantanaṃ vidhātabbe, natthi ‘rājā bhave’tida’’nti.
+In the case of the mere being of the seven, excluding gender, etc., “I,” “we,” “there is,” “there are,” “it is possible,” “it is impossible.”
 
-Bho purisa ehi, bho purisā vā, bhavanto purisā etha.
+“The first is used in the sense of gender” is a rule of addition. “And in the sense of addressing” is in the sense of addressing. Addressing is speaking to someone face to face.
 
-Kasmiṃ atthe dutiyā?
+Herein, addressing is the making face to face of one who already has a form by means of a sound. But when he is already made face to face, he is joined to an action by means of such words as “Go.” Therefore, since there is no joining to an action at the time of addressing, this does not get the name of a case.
 
-### 284.Kammatthe dutiyā.
+And it is said:
+
+>“The making face to face\
+>of one who exists\
+>by means of a sound\
+>is addressing. There is no ‘king’ in ‘there is.’ ”\
+>\
+>“Come, friend, come, friends, come, gentlemen, come, friends, come, gentlemen.”
+
+In what sense is the second case used?
+
+### 284.Kammatthe dutiyā (The second case is for the purpose of action)
 
 > Kammatthe liṅgamhā dutiyāvibhatti hoti.
 
-In the meaning of object there is the second (inflection) from stem.
+The second case is for the purpose of action.
 
 > Anabhihite evāyaṃ, ‘‘kammani dutiyāyaṃ tto’’ti vacanañcettha ñāpakaṃ.
 
-Following saying like this: "At action second `tto`" word in this way causing to be known
+The word “action” is a guide here, because the rule is stated thus: “The second case is for action.”
 
 > Kiṃ kammaṃ?
 
-Which action?
+What is action?
 
 > ‘‘Yena vā kayirate taṃ karaṇa’’nti ito ‘‘vā’’ti vattate.
 
-"Or by which is done that is the act" waft proceeds
+The word “action” is used here in the sense of “that by which something is done.”
 
-### 285.Yaṃ karoti taṃ kammaṃ.
+### 285.Yaṃ karoti taṃ kammaṃ (Whatever he does is the deed)
 
-Yaṃ vā karoti, yaṃ vā vikaroti, yaṃ vā pāpuṇāti, taṃ kārakaṃ kammasaññaṃ hoti.
+>Yaṃ vā karoti, yaṃ vā vikaroti, yaṃ vā pāpuṇāti, taṃ kārakaṃ kammasaññaṃ hoti.
+>
+>Idha liṅgakālavacanamatantaṃ. Karīyatīti kammaṃ. Tattha kārakaṃ, sādhakaṃ kriyānipphattiyā kāraṇamuccate, taṃ pana kārakaṃ chabbidhaṃ kammaṃ kattā karaṇaṃ sampadānamapādānamokāso cāti. Tattha sabhāvato, parikappato vā kammādimhi satiyeva kriyābhāvato kammādīnaṃ channampi kārakavohāro siddhova hoti.
+>
+>Taṃ pana kammaṃ tividhaṃ nibbattanīyaṃ vikaraṇīyaṃ pāpaṇīyañcāti. Yathā – mātā puttaṃ vijāyati, āhāro sukhaṃ janayati. Ghaṭaṃ karoti devadatto, kaṭṭhamaṅgāraṃ karoti, suvaṇṇaṃ keyūraṃ, kaṭakaṃ vā karoti, vīhayo lunāti. Devadatto nivesanaṃ pavisati, ādiccaṃ passati, dhammaṃ suṇāti, paṇḍite payirupāsati.
+>
+>Vuttañca
+>
+>‘‘Nibbattivikatippatti-bhedena tividhaṃ mataṃ;
+>Kattu kriyābhigammaṃ taṃ, sukhaṅgāraṃ nivesana’’nti.
+>
+>Ettha ca icchitānicchitakathitākathitādibhedamanapekkhitvā sabbasaṅgāhakavasena ‘‘yaṃ karoti taṃ kamma’’nti vuttattā, atthantaravikappanavādhikārato ca sabbattha imināva kammasaññā hoti.
+>
+>Tattha anicchitakammaṃ yathā – kaṇṭakaṃ maddati, visaṃ gilati, gāmaṃ gacchanto rukkhamūlaṃ upagacchati.
+>
+>Akathitakammaṃ yathā – yaññadattaṃ kambalaṃ yācate brāhmaṇo. Ettha hi ‘‘kambala’’miti kathitakammaṃ dvikammikāya yācanakriyāya pattumicchitatarattā. ‘‘Yaññadatta’’miti appadhānattā akathitakammaṃ. Tathā samiddhaṃ dhanaṃ bhikkhate, ajaṃ gāmaṃ nayati, parābhavantaṃ purisaṃ, mayaṃ pucchāma gotamaṃ, bhagavā bhikkhū etadavoca iccādi.
+>
+>Abhihitakamme pana na hoti, yathā – kaṭo karīyate devadattena, sugatena desito dhammo, yaññadatto kambalaṃ yācīyate brāhmaṇena iccādi.
+>
+>‘‘Dutiyā’’ti adhikāro.
 
-Idha liṅgakālavacanamatantaṃ. Karīyatīti kammaṃ. Tattha kārakaṃ, sādhakaṃ kriyānipphattiyā kāraṇamuccate, taṃ pana kārakaṃ chabbidhaṃ kammaṃ kattā karaṇaṃ sampadānamapādānamokāso cāti. Tattha sabhāvato, parikappato vā kammādimhi satiyeva kriyābhāvato kammādīnaṃ channampi kārakavohāro siddhova hoti.
+Whatever he does, or causes to be done, or attains, that is the agent.
 
-Taṃ pana kammaṃ tividhaṃ nibbattanīyaṃ vikaraṇīyaṃ pāpaṇīyañcāti. Yathā – mātā puttaṃ vijāyati, āhāro sukhaṃ janayati. Ghaṭaṃ karoti devadatto, kaṭṭhamaṅgāraṃ karoti, suvaṇṇaṃ keyūraṃ, kaṭakaṃ vā karoti, vīhayo lunāti. Devadatto nivesanaṃ pavisati, ādiccaṃ passati, dhammaṃ suṇāti, paṇḍite payirupāsati.
+Here the gender, tense, and case endings are omitted. The word “kamma” is derived from the root “kar” in the sense of “doing.” The agent is the doer, the performer, the cause of the action. The agent is of six kinds: deed, doer, instrument, accomplishment, object, and means. Herein, the verbal expression “agent” is established in the sense of “doing” only when there is a deed, etc., either in the sense of the nature of the deed, etc., or in the sense of the assumption of the deed, etc.
 
-Vuttañca
+The deed is of three kinds: that which is to be produced, that which is to be transformed, and that which is to be attained. For example: “The mother gives birth to the son,” “Food produces happiness,” “Devadatta makes a pot,” “Devadatta makes charcoal from wood,” “He makes a bracelet or a ring from gold,” “He reaps rice,” “Devadatta enters the house,” “He sees the sun,” “He hears the Dhamma,” “He pays homage to the wise.”
 
-‘‘Nibbattivikatippatti-bhedena tividhaṃ mataṃ;
-Kattu kriyābhigammaṃ taṃ, sukhaṅgāraṃ nivesana’’nti.
+And it is said:
 
-Ettha ca icchitānicchitakathitākathitādibhedamanapekkhitvā sabbasaṅgāhakavasena ‘‘yaṃ karoti taṃ kamma’’nti vuttattā, atthantaravikappanavādhikārato ca sabbattha imināva kammasaññā hoti.
+>“It is said to be of three kinds, by way of origination, change, and occurrence;\
+>It is the action that is the means of accomplishing the action, the handle of the axe of happiness.”
 
-Tattha anicchitakammaṃ yathā – kaṇṭakaṃ maddati, visaṃ gilati, gāmaṃ gacchanto rukkhamūlaṃ upagacchati.
+And here, in the case of the words “what he does is kamma,” the kamma is not considered as being of the kind that is desired or undesired, or as being of the kind that is spoken of or not spoken of, etc.; it is kamma in the sense of being all-inclusive. And in all these cases the kamma is kamma only in the sense of being the object of the assumption of a meaning other than the literal one.
 
-Akathitakammaṃ yathā – yaññadattaṃ kambalaṃ yācate brāhmaṇo. Ettha hi ‘‘kambala’’miti kathitakammaṃ dvikammikāya yācanakriyāya pattumicchitatarattā. ‘‘Yaññadatta’’miti appadhānattā akathitakammaṃ. Tathā samiddhaṃ dhanaṃ bhikkhate, ajaṃ gāmaṃ nayati, parābhavantaṃ purisaṃ, mayaṃ pucchāma gotamaṃ, bhagavā bhikkhū etadavoca iccādi.
+Herein, undesired kamma is such as “he digs up a thorn,” “he swallows poison,” “he goes to a village and comes to the foot of a tree.”
 
-Abhihitakamme pana na hoti, yathā – kaṭo karīyate devadattena, sugatena desito dhammo, yaññadatto kambalaṃ yācīyate brāhmaṇena iccādi.
+Kamma that is not spoken of is such as “he asks for a blanket from Yaññadatta.” Herein, the kamma that is spoken of is the blanket, because it is the more important of the two, the asking and the giving. The kamma that is not spoken of is “Yaññadatta,” because it is not the main thing. So too, “he begs for wealth that is well stored,” “he leads a goat to the village,” “he asks the Blessed One,” “the Blessed One said this to the bhikkhus,” etc.
 
-‘‘Dutiyā’’ti adhikāro.
+But it is not so in the case of kamma that is expressed, as in “a cart is being made by Devadatta,” “the Dhamma is taught by the Well-farer,” “a blanket is being asked for by a brāhmaṇa from Yaññadatta,” etc.
 
-286.Gati buddhi bhuja paṭha hara kara sayādīnaṃ kārite vā.
+The second, the second.
+
+### 286. Gati buddhi bhuja paṭha hara kara sayādīnaṃ kārite vā.
 
 Gamu sappa gatimhi, budha bodhane, budha avagamane vā, bhuja pālanabyavaharaṇesu, paṭha byattiyaṃ vācāyaṃ, hara haraṇe, kara karaṇe, si saye iccevamādīnaṃ dhātūnaṃ payoge kārite sati payojjakakattubhūte kammani liṅgamhā dutiyāvibhatti hoti vā. Niccasampatte vikappatthoyaṃ, tena tassa pakkhe tatiyā hoti.
 
@@ -109,7 +176,7 @@ Kāriteti kiṃ? Puriso gāmaṃ gacchati.
 
 Abhihite na bhavati, purisena puriso gāmaṃ gamīyate, sisso dhammaṃ bodhīyate iccādi.
 
-287.Kāladdhānamaccantasaṃyoge.
+### 287. Kāladdhānamaccantasaṃyoge.
 
 Accantaṃ nirantaraṃ saṃyogoaccantasaṃyogo. Kāladdhānaṃ dabbaguṇakriyāhi accantasaṃyoge tehi kāladdhānavācīhi liṅgehi dutiyāvibhatti hoti.
 

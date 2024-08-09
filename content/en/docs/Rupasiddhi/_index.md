@@ -28,6 +28,11 @@ Subuddhasambodhiyugandharoditaṃ;
 Tibuddhakhettekadivākaraṃ jinaṃ,  
 Sadhammasaṅghaṃ sirasā’bhivandiya.
 
+The light of the thousand pure truths,\
+The fragrance of the Buddha’s enlightenment,\
+The sun in the field of the Buddha, the Victorious One,\
+Having bowed my head to the noble Saṅgha of the true Dhamma,
+
 [Kha]
 
 > Kaccāyanañcācariyaṃ namitvā,  

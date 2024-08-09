@@ -16,162 +16,263 @@ This is currently work in progress and not suitable for consumption. Please igno
 
 > Tattha jinasāsanādhigamassa akkharakosallamūlakattā taṃ sampādetabbanti dassetuṃ abhidheyyappayojanavākyamidamuccate.
 
-In regards to Buddha's teaching stemming from proficiency in letters that is called preparation this wafts to show meaning also understanding of sentences this
+Here, the purpose of the teaching of the letters is to show that the attainment of the Conqueror’s Dispensation is based on skill in letters, and that it should be accomplished. Therefore, this section is uttered for the purpose of teaching the letters.
 
-### 1.Attho akkharasaññāto.
+### 1. Attho akkharasaññāto (Meaning from letters)
 
-Yo koci lokiyalokuttarādibhedo vacanattho, so sabbo akkhareheva saññāyate. Sithiladhanitādiakkharavipattiyañhi atthassa dunnayatā hoti, tasmā akkharakosallaṃ bahūpakāraṃ buddhavacanesu, ettha padānipi akkharasannipātarūpattā akkharesveva saṅgayhanti.
-
-Tasmā akkharakosallaṃ, sampādeyya hitatthiko;
+>Yo koci lokiyalokuttarādibhedo vacanattho, so sabbo akkhareheva saññāyate. Sithiladhanitādiakkharavipattiyañhi atthassa dunnayatā hoti, tasmā akkharakosallaṃ bahūpakāraṃ buddhavacanesu, ettha padānipi akkharasannipātarūpattā akkharesveva saṅgayhanti.
+>
+>Tasmā akkharakosallaṃ, sampādeyya hitatthiko;
 Upaṭṭhahaṃ garuṃ sammā, uṭṭhānādīhi pañcahi.
+
+Whatever meaning of a word there is, whether mundane or supramundane, etc., is all known by means of letters. For when there is a fault in the letters, such as the omission of a letter, etc., the meaning is difficult to understand. Therefore, skill in letters is very helpful in understanding the Buddha’s word. Here, the words are also included in the letters because they are in the form of a collection of letters.
+
+>Therefore, one who seeks welfare should acquire skill in letters,\
+>By means of the five: respect, reverence, proper attention, effort, and so on.
 
 ## Saññāvidhāna
 
-Tatthādo tāva saddalakkhaṇe vohāraviññāpanatthaṃ saññāvidhānamārabhīyate.
+> Tatthādo tāva saddalakkhaṇe vohāraviññāpanatthaṃ saññāvidhānamārabhīyate.
 
-### 2.Akkharāpādayo ekacattālīsaṃ.
+Herein, first of all, the definition of the characteristic of sound is undertaken for the purpose of indicating the usage of the term.
 
-Akkharā api ādayo ekacattālīsaṃ, te ca kho jinavacanānurūpā akārādayo niggahītantā ekacattālīsamattā vaṇṇā paccekaṃ akkharā nāma honti. Taṃ yathā – ā i ī u ū e o, ka kha ga gha ṅa, ca cha ja jha ña, ṭa ṭha ḍa ḍha ṇa, ta tha da dha na, pa pha ba bha ma, ya ra lava sa ha ḷa aṃ-iti akkharā.
+### 2. Akkharāpādayo ekacattālīsaṃ (Forty-one letters)
 
-Nakkharantīti akkharā, a ādi yesaṃ te ādayo. Akārādīnamanukkamo panesa ṭhānādikkamasannissito, tathā hi ṭhānakaraṇappayatanehi vaṇṇā jāyante, tattha cha ṭhānāni kaṇṭhatālumuddhadantaoṭṭhanāsikāvasena.
+>Akkharā api ādayo ekacattālīsaṃ, te ca kho jinavacanānurūpā akārādayo niggahītantā ekacattālīsamattā vaṇṇā paccekaṃ akkharā nāma honti. Taṃ yathā – ā i ī u ū e o, ka kha ga gha ṅa, ca cha ja jha ña, ṭa ṭha ḍa ḍha ṇa, ta tha da dha na, pa pha ba bha ma, ya ra lava sa ha ḷa aṃ-iti akkharā.
+>
+>Nakkharantīti akkharā, a ādi yesaṃ te ādayo. Akārādīnamanukkamo panesa ṭhānādikkamasannissito, tathā hi ṭhānakaraṇappayatanehi vaṇṇā jāyante, tattha cha ṭhānāni kaṇṭhatālumuddhadantaoṭṭhanāsikāvasena.
+>
+>Tattha – avaṇṇa kavagga hakārā kaṇṭhajā.
+>
+>Ivaṇṇa cavagga yakārā tālujā. Ṭavagga rakāra ḷakārā muddhajā. Tavagga lakāra sakārā dantajā. Uvaṇṇa pavaggā oṭṭhajā. Ekāro kaṇṭhatālujo. Okāro kaṇṭhoṭṭhajo.
+>
+>Vakāro dantoṭṭhajo.
+>
+>Niggahītaṃ nāsikaṭṭhānajaṃ.
+>
+>Ṅa ña ṇa na mā sakaṭṭhānajā, nāsikaṭṭhānajā cāti.
+>
+>Hakāraṃ pañcameheva, antaṭṭhāhi ca saṃyutaṃ;
+>Orasanti vadantettha, kaṇṭhajaṃ tadasaṃyutaṃ.
+>
+>Karaṇaṃ jivhāmajjhaṃ tālujānaṃ, jivhopaggaṃ muddhajānaṃ, jivhāggaṃ dantajānaṃ, sesā sakaṭṭhānakaraṇā.
+>
+>Payatanaṃ saṃvutādikaraṇaviseso. Saṃvutattamakārassa, vivaṭattaṃ sesasarānaṃ sakārahakārānañca, phuṭṭhaṃ vaggānaṃ, īsaṃphuṭṭhaṃ yaralavānanti.
+>
+>Evaṃ ṭhānakaraṇappayatanasutikālabhinnesu akkharesu sarā nissayā, itare nissitā. Tattha –
+>
+>Nissayādo sarā vuttā, byañjanā nissitā tato;
+>Vaggekajā bahuttādo, tato ṭhānalahukkamā.
+>
+>Vuttañca –
+>
+>‘‘Pañcannaṃ pana ṭhānānaṃ, paṭipāṭivasāpi ca;
+>Nissayādippabhedehi, vutto tesamanukkamo’’ti.
+>
+>Ekenādhikā cattālīsaṃ ekacattālīsaṃ, etena gaṇanaparicchedena –
+>
+>Adhikakkharavantāni, ekatālīsato ito;
+>Na buddhavacanānīti, dīpetācariyāsabho.
+>
+>Apiggahaṇaṃ heṭṭhā vuttānaṃ apekkhākaraṇatthaṃ.
 
-Tattha – avaṇṇa kavagga hakārā kaṇṭhajā.
+The letters are the forty-one beginning with a. These are the forty-one letters beginning with a, which are in accordance with the word of the Conqueror, and which are called letters, each one individually. They are as follows: a, ā, i, ī, u, ū, e, o, ka, kha, ga, gha, ṅa, ca, cha, ja, jha, ña, ṭa, ṭha, ḍa, ḍha, ṇa, ta, tha, da, dha, na, pa, pha, ba, bha, ma, ya, ra, la, va, sa, ha, ḷa, aṃ.
 
-Ivaṇṇa cavagga yakārā tālujā. Ṭavagga rakāra ḷakārā muddhajā. Tavagga lakāra sakārā dantajā. Uvaṇṇa pavaggā oṭṭhajā. Ekāro kaṇṭhatālujo. Okāro kaṇṭhoṭṭhajo.
+They are called letters because they are cut off. Those beginning with a are the forty-one beginning with a. The order of the letters beginning with a is determined by the place, etc., of articulation. Thus the letters are produced by the place, the organ, and the effort of articulation. There are six places: the throat, the palate, the palate, the teeth, the lips, and the nose.
 
-Vakāro dantoṭṭhajo.
+Herein, the consonants of the ka group, the consonants of the ca group, and the letter ha are produced in the throat.
 
-Niggahītaṃ nāsikaṭṭhānajaṃ.
+The consonants of the ca group, the consonants of the ca group, and the letter ya are produced in the palate. The consonants of the ṭa group, the letter ra, and the letter ḷa are produced in the palate. The consonants of the ta group, the letter la, and the letter sa are produced in the teeth. The letter o is produced in the lips. The letter e is produced in the throat and palate. The letter o is produced in the throat and lips.
 
-Ṅa ña ṇa na mā sakaṭṭhānajā, nāsikaṭṭhānajā cāti.
+The letter va is produced in the teeth and lips.
 
-Hakāraṃ pañcameheva, antaṭṭhāhi ca saṃyutaṃ;
-Orasanti vadantettha, kaṇṭhajaṃ tadasaṃyutaṃ.
+The letter Na is produced by the nose.
 
-Karaṇaṃ jivhāmajjhaṃ tālujānaṃ, jivhopaggaṃ muddhajānaṃ, jivhāggaṃ dantajānaṃ, sesā sakaṭṭhānakaraṇā.
+The letters Na, Na, Na, and Ma are produced by the nose.
 
-Payatanaṃ saṃvutādikaraṇaviseso. Saṃvutattamakārassa, vivaṭattaṃ sesasarānaṃ sakārahakārānañca, phuṭṭhaṃ vaggānaṃ, īsaṃphuṭṭhaṃ yaralavānanti.
+The letter Ha is the fifth, and it is associated with the throat.
 
-Evaṃ ṭhānakaraṇappayatanasutikālabhinnesu akkharesu sarā nissayā, itare nissitā. Tattha –
+The letter O is said to be produced by the chest, and it is not associated with the throat.
 
-Nissayādo sarā vuttā, byañjanā nissitā tato;
-Vaggekajā bahuttādo, tato ṭhānalahukkamā.
+The letter Ka is produced by the tongue, the letter Na by the palate, the letter Ma by the lips, the letter Na by the tongue, the letter Da by the teeth, and the remaining letters by the nose.
 
-Vuttañca –
+The letter A is closed, the letter Ka is open, the letter Sa is touched, the letter Ra is touched by the tip of the tongue, and the letter La is touched by the tip of the tongue.
 
-‘‘Pañcannaṃ pana ṭhānānaṃ, paṭipāṭivasāpi ca;
-Nissayādippabhedehi, vutto tesamanukkamo’’ti.
+Thus, in the case of the vowels, which are classified according to place, organ, and effort, the vowels are the supports, and the consonants are the supported. Herein,
 
-Ekenādhikā cattālīsaṃ ekacattālīsaṃ, etena gaṇanaparicchedena –
+The vowels are said to be the supports, and the consonants are supported by them.
 
-Adhikakkharavantāni, ekatālīsato ito;
-Na buddhavacanānīti, dīpetācariyāsabho.
+The vowels are many, and the consonants are light in place.
 
-Apiggahaṇaṃ heṭṭhā vuttānaṃ apekkhākaraṇatthaṃ.
+And it is said:
 
-### 3.Tatthodantāsarā aṭṭha.
+>“The five places and the order,\
+>The difference in support, etc., is stated in the order of the vowels.”
 
-Tattha tesu akkharesu akārādīsu okārantā aṭṭha akkharā sarā nāma honti. Taṃ yathā – a ā i ī u ū e o-iti sarā.
+With one more, there are forty-one. With this method of counting:
 
-O anto yesaṃ te odantā, dakāro sandhijo, saranti gacchantīti sarā, byañjane sārentītipi sarā.
+>The texts with more than one syllable, from the fifty-one,\
+>Are not the Buddha’s word, says the teacher Dīpaṅkara.
 
-‘‘Tatthā’’ti vattate.
+The word “api” is for the purpose of considering those mentioned below.
 
-### 4.Lahumattā tayo rassā.
+### 3. Tatthodantāsarā aṭṭha (Eight vowels from "a" to "o")
 
-Tattha aṭṭhasu saresu lahumattā tayo sarā rassā nāma honti. Taṃ yathā – a i u-iti rassā.
+>Tattha tesu akkharesu akārādīsu okārantā aṭṭha akkharā sarā nāma honti. Taṃ yathā – a ā i ī u ū e o-iti sarā.
+>
+>O anto yesaṃ te odantā, dakāro sandhijo, saranti gacchantīti sarā, byañjane sārentītipi sarā.
+>
+>‘‘Tatthā’’ti vattate.
 
-Lahukā mattā pamāṇaṃ yesaṃ te lahumattā, mattāsaddo cettha accharāsaṅghātaakkhinimīlanasaṅkhātaṃ kālaṃ vadati, tāya mattāya ekamattā rassā, dvimattā dīghā, aḍḍhamattā byañjanā. Lahuggahaṇañcettha chandasi diyaḍḍhamattassāpi gahaṇatthaṃ. Rassakālayogato rassā, rassakālavanto vā rassā.
+Herein, the eight letters beginning with a and ending with o are called vowels. They are: a, ā, i, ī, u, ū, e, o.
 
-Sararassaggahaṇāni ca vattante.
+Those that have o at the end are called o-endings. The letter da is the junction. They go, they move, therefore they are vowels. Or they are vowels because they are pronounced with the voice.
 
-### 5.Aññe dīghā.
+"Tatthā", it is said.
 
-Tattha aṭṭhasu saresu rassehi aññe dvimattā pañca sarā dīghā nāma honti. Taṃ yathā – ā ī ū e o-iti dīghā.
+### 4. Lahumattā tayo rassā (Three vowels are short)
 
-Aññaggahaṇaṃ diyaḍḍhamattikānampi saṅgahaṇatthaṃ. Dīghakāle niyuttā, tabbanto vā dīghā. Kvaci saṃyogapubbā ekārokārā rassā iva vuccante. Yathā – ettha, seyyo, oṭṭho, sotthi. Kvacīti kiṃ? Maṃ ce tvaṃ nikhaṇaṃ vane. Putto tyāhaṃ mahārāja.
+>Tattha aṭṭhasu saresu lahumattā tayo sarā rassā nāma honti. Taṃ yathā – a i u-iti rassā.
+>
+>Lahukā mattā pamāṇaṃ yesaṃ te lahumattā, mattāsaddo cettha accharāsaṅghātaakkhinimīlanasaṅkhātaṃ kālaṃ vadati, tāya mattāya ekamattā rassā, dvimattā dīghā, aḍḍhamattā byañjanā. Lahuggahaṇañcettha chandasi diyaḍḍhamattassāpi gahaṇatthaṃ. Rassakālayogato rassā, rassakālavanto vā rassā.
+>
+>Sararassaggahaṇāni ca vattante.
 
-### 6.Dumhigaru.
+Herein, the three vowels a, i, and u are short.
 
-Dvinnaṃ samūho du, tasmiṃ dumhi. Saṃyogabhūte akkhare pare yo pubbo rassakkharo, so garusañño hoti. Yathā – datvā, hitvā, bhutvā.
+They are short, and they are measured, therefore they are short-measured. The word measured here means the time of a flash of lightning or a wink of the eye. By that measure, one is a vowel, two are long, and half is a consonant. The word short is stated here for the purpose of including the half-vowel in the short-measured. They are vowels because they are in the time of vowels, or they are vowels because they have the time of vowels.
 
-‘‘Garū’’ti vattate.
+The vowels and the vowels are also stated.
 
-### 7.Dīgho ca.
+### 5. Aññe dīghā (Other vowels are long)
 
-Dīgho ca saro garusañño hoti. Yathā – nāvā, nadī, vadhū, dve, tayo. Garukato añño ‘‘lahuko’’ti veditabbo.
+>Tattha aṭṭhasu saresu rassehi aññe dvimattā pañca sarā dīghā nāma honti. Taṃ yathā – ā ī ū e o-iti dīghā.
+>
+>Aññaggahaṇaṃ diyaḍḍhamattikānampi saṅgahaṇatthaṃ. Dīghakāle niyuttā, tabbanto vā dīghā. Kvaci saṃyogapubbā ekārokārā rassā iva vuccante. Yathā – ettha, seyyo, oṭṭho, sotthi. Kvacīti kiṃ? Maṃ ce tvaṃ nikhaṇaṃ vane. Putto tyāhaṃ mahārāja.
 
-### 8.Sesā byañjanā.
+Here, in the eight vowels, the other two pairs of five vowels are called long. They are as follows: ā ī ū e o.
 
-Ṭhapetvā aṭṭha sare sesā aḍḍhamattā akkharā kakārādayo niggahītantā tettiṃsa byañjanā nāma honti. Vuttehi aññe sesā. Byañjīyati etehi atthoti byañjanā. Taṃ yathā – ka kha ga gha ṅa, ca cha ja jha ña, ṭa ṭha ḍa ḍha ṇa, ta tha da dha na, pa pha ba bha ma, ya ra lava sa ha ḷa aṃ-iti byañjanā. Kakārādīsvakāro uccāraṇattho.
+The word “others” is used to include the semi-vowels. They are called long because they are long in time, or because they have a long sound. Sometimes they are called short, like the short vowels, when they are preceded by a consonant. For example: here, better, shoulder, welfare. Sometimes, as in: If you dig a pit in the forest. Son, I am your son, great king.
 
-‘‘Byañjanā’’ti vattate.
+### 6. Dumhigaru
 
-### 9.Vaggā pañcapañcaso mantā.
+>Dvinnaṃ samūho du, tasmiṃ dumhi. Saṃyogabhūte akkhare pare yo pubbo rassakkharo, so garusañño hoti. Yathā – datvā, hitvā, bhutvā.
+>
+>‘‘Garū’’ti vattate.
 
-Tesaṃ kho byañjanānaṃ kakārādayo makārantā pañcavīsati byañjanā pañcapañcavibhāgena vaggā nāma honti. Taṃ yathā – ka kha ga gha ṅa, ca cha ja jha ña, ṭa ṭha ḍa ḍha ṇa, ta tha da dha na, pa pha ba bha ma-iti vaggā.
+The group of two is du. In that, dumhi. The initial consonant in the preceding consonant, which is a combination, is called garu. As in: datvā, hitvā, bhutvā.
+It is called garu.
 
-Te pana paṭhamakkharavasena kavaggacavaggādivohāraṃ gatā, vaggoti samūho, tattha pañcapañcavibhāgenāti vā pañca pañca etesamatthīti vā pañcapañcaso, mo anto yesaṃ te mantā.
+### 7. Dīgho ca. (Long)
 
-### 10.Aṃiti niggahītaṃ.
+>Dīgho ca saro garusañño hoti. Yathā – nāvā, nadī, vadhū, dve, tayo. Garukato añño ‘‘lahuko’’ti veditabbo.
 
-Akāro uccāraṇattho, itisaddo panānantaravuttanidassanattho, aṃiti yaṃ akārato paraṃ vuttaṃ bindu, taṃ niggahītaṃ nāma hoti. Rassassaraṃ nissāya gayhati, karaṇaṃ niggahetvā gayhatīti vā niggahītaṃ.
+A long sound is a heavy sound. For example, a boat, a river, a woman, two, three. The opposite of a heavy sound is a light sound.
 
-Karaṇaṃ niggahetvāna, mukhenāvivaṭena yaṃ;
-Vuccate niggahītanti, vuttaṃ bindu sarānugaṃ.
+### 8. Sesā byañjanā (The rest are consonants)
 
-Idha avuttānaṃ parasamaññānampi payojane sati gahaṇatthaṃ paribhāsamāha.
+>Ṭhapetvā aṭṭha sare sesā aḍḍhamattā akkharā kakārādayo niggahītantā tettiṃsa byañjanā nāma honti. Vuttehi aññe sesā. Byañjīyati etehi atthoti byañjanā. Taṃ yathā – ka kha ga gha ṅa, ca cha ja jha ña, ṭa ṭha ḍa ḍha ṇa, ta tha da dha na, pa pha ba bha ma, ya ra lava sa ha ḷa aṃ-iti byañjanā. Kakārādīsvakāro uccāraṇattho.
+>
+>‘‘Byañjanā’’ti vattate.
 
-### 11.Parasamaññā payoge.
+The thirty-three consonants, beginning with ka, kha, ga, gha, ṅa, ca, cha, ja, jha, ña, ṭa, ṭha, ḍa, ḍha, ṇa, ta, tha, da, dha, na, pa, pha, ba, bha, ma, ya, ra, la, va, sa, ha, ḷa, aṃ, are called consonants. The rest are the consonants other than the eight vowels. They are called consonants because they are used to express meaning. They are as follows: ka, kha, ga, gha, ṅa, ca, cha, ja, jha, ña, ṭa, ṭha, ḍa, ḍha, ṇa, ta, tha, da, dha, na, pa, pha, ba, bha, ma, ya, ra, la, va, sa, ha, ḷa, aṃ. The meaning of the word “consonant” is “to be pronounced.”
 
-Yā ca pana parasmiṃ sakkataganthe, paresaṃ vā veyyākaraṇānaṃ samaññā ghosāghosalopasavaṇṇasaṃyogaliṅgādikā, tā payoge sati etthāpi yujjante.
+It is called “consonant.”
 
-Parasmiṃ, paresaṃ vā samaññā parasamaññā, veyyākaraṇe, veyyākaraṇamadhītānaṃ vā samaññātyattho. Payujjanaṃ payogo, viniyogo.
+### 9. Vaggā pañcapañcaso mantā (Five groups of five syllables)
 
-Tattha vaggānaṃ paṭhamadutiyā, sakāro ca aghosā. Vaggānaṃ tatiyacatutthapañcamā, ya ra lava ha ḷā cāti ekavīsati ghosā nāma.
+>Tesaṃ kho byañjanānaṃ kakārādayo makārantā pañcavīsati byañjanā pañcapañcavibhāgena vaggā nāma honti. Taṃ yathā – ka kha ga gha ṅa, ca cha ja jha ña, ṭa ṭha ḍa ḍha ṇa, ta tha da dha na, pa pha ba bha ma-iti vaggā.
+>
+>Te pana paṭhamakkharavasena kavaggacavaggādivohāraṃ gatā, vaggoti samūho, tattha pañcapañcavibhāgenāti vā pañca pañca etesamatthīti vā pañcapañcaso, mo anto yesaṃ te mantā.
 
-Ettha ca vaggānaṃ dutiyacatutthā dhanitātipi vuccanti, itare sithilāti. Vināso lopo. Rassassarā sakadīghehi aññamaññaṃ savaṇṇā nāma, ye sarūpātipi vuccanti. Sarānantaritāni byañjanāni saṃyogo. Dhātuppaccayavibhattivajjitamatthavaṃ liṅgaṃ. Vibhatyantaṃ padaṃ. Iccevamādi.
+The twenty-five syllables beginning with ka and ending with ma are called the five groups of five by the division of five and five. They are as follows: ka kha ga gha ṅa, ca cha ja jha ña, ṭa ṭha ḍa ḍha ṇa, ta tha da dha na, pa pha ba bha ma.
 
-Iti saññāvidhānaṃ.
+They are called the first group, the second group, etc., by the first letter. The word group means a collection. The five groups of five are those that have five and five, or those that have five and five in them. The syllables are those that have mo at the end.
 
-## Sarasandhividhāna
+### 10. Aṃiti niggahītaṃ (niggahīta is a nasal)
 
-Atha sarasandhi vuccate.
+>Akāro uccāraṇattho, itisaddo panānantaravuttanidassanattho, aṃiti yaṃ akārato paraṃ vuttaṃ bindu, taṃ niggahītaṃ nāma hoti. Rassassaraṃ nissāya gayhati, karaṇaṃ niggahetvā gayhatīti vā niggahītaṃ.
+>
+>Karaṇaṃ niggahetvāna, mukhenāvivaṭena yaṃ;\
+>Vuccate niggahītanti, vuttaṃ bindu sarānugaṃ.
+>
+>Idha avuttānaṃ parasamaññānampi payojane sati gahaṇatthaṃ paribhāsamāha.
 
-Loka aggapuggalo, paññā indriyaṃ, tīṇi imāni, no hi etaṃ, bhikkhunī ovādo, mātu upaṭṭhānaṃ, sametu āyasmā, abhibhū āyatanaṃ, dhanā me atthi, sabbe eva, tayo assu dhammā, asanto ettha na dissanti itīdha sarādisaññāyaṃ sabbasandhikaraṇaṭṭhāne byañjanaviyojanatthaṃ paribhāsamāha.
+The letter A is for the purpose of utterance, and the word “iti” is for the purpose of showing the immediately preceding. The anusvāra is what is called the nasal, which is said after the letter A. It is called the nasal because it is pronounced with the support of the palate, or because it is pronounced with the mouth closed.
 
-12.Pubbamadhoṭhitamassaraṃ sarena viyojaye.
+>Having closed the mouth, with the mouth open like a mouth,\
+>it is called the nasal, said the dot following the vowel.
 
-Sarenāti nissakke karaṇavacanaṃ, sahayoge vā, sandhitabbe sarasahitaṃ pubbabyañjanaṃ anatikkamanto adhoṭhitamassarañca katvā sarato viyojayeti sarato byañjanaṃ viyojetabbaṃ. Ettha ca assaraggahaṇasāmatthiyena ‘‘byañjana’’nti laddhaṃ.
+Here, in order to include the other signs, which are not mentioned, but which are used in certain contexts, he gives a definition.
 
-13.Sarā sare lopaṃ.
+### 11. Parasamaññā payoge (other terminology)
 
-Sarā kho sabbepi sare pare ṭhite lopaṃ papponti. Lopoti adassanaṃ anuccāraṇaṃ. Ettha sarāti kāriyīniddeso. Bahuvacanaṃ panettha ekekasmiṃ sare pare bahūnaṃ lopañāpanatthaṃ. Sareti nimittaniddeso, nimittasattamī cāyaṃ, nimittopādānasāmatthiyato vaṇṇakālabyavadhāne sandhikāriyaṃ na hoti. Lopanti kāriyaniddeso, idaṃ pana suttaṃ upari paralopavidhānato pubbalopavidhānanti daṭṭhabbaṃ, evaṃ sabbattha sattamīniddese pubbasseva vidhi, na parassa vidhānanti veditabbaṃ.
+>Yā ca pana parasmiṃ sakkataganthe, paresaṃ vā veyyākaraṇānaṃ samaññā ghosāghosalopasavaṇṇasaṃyogaliṅgādikā, tā payoge sati etthāpi yujjante.
+>
+>Parasmiṃ, paresaṃ vā samaññā parasamaññā, veyyākaraṇe, veyyākaraṇamadhītānaṃ vā samaññātyattho. Payujjanaṃ payogo, viniyogo.
+>
+>Tattha vaggānaṃ paṭhamadutiyā, sakāro ca aghosā. Vaggānaṃ tatiyacatutthapañcamā, ya ra lava ha ḷā cāti ekavīsati ghosā nāma.
+>
+>Ettha ca vaggānaṃ dutiyacatutthā dhanitātipi vuccanti, itare sithilāti. Vināso lopo. Rassassarā sakadīghehi aññamaññaṃ savaṇṇā nāma, ye sarūpātipi vuccanti. Sarānantaritāni byañjanāni saṃyogo. Dhātuppaccayavibhattivajjitamatthavaṃ liṅgaṃ. Vibhatyantaṃ padaṃ. Iccevamādi.
+>
+>Iti saññāvidhānaṃ.
 
-‘‘Assaraṃ, adhoṭhita’’nti ca vattate, siliṭṭhakathane paribhāsamāha.
+And the signs of others, or the signs of others’ grammarians, which are the sounds, the syllables, the letters, the genders, etc., are also used here when there is use.
 
-14.Naye paraṃ yutte.
+The signs of others, or the signs of others’ grammarians, are the signs of others. The use is the use, the application.
 
-Sararahitaṃ kho byañjanaṃ adhoṭhitaṃ parakkharaṃ naye yutte ṭhāneti paranayanaṃ kātabbaṃ. Ettha yuttaggahaṇaṃ niggahītanisedhanatthaṃ, tena ‘‘akkocchi maṃ avadhi ma’’ntiādīsu paranayanasandeho na hoti.
+Herein, the first and second of the groups are the sound and the syllable. The third, fourth and fifth of the groups are the twenty-one sounds, namely, ya, ra, la, va, ha, ḷā.
 
-Lokaggapuggalo, paññindriyaṃ, tīṇimāni, nohetaṃ, bhikkhunovādo, mātupaṭṭhānaṃ, sametāyasmā, abhibhāyatanaṃ, dhanā matthi, sabbeva, tayassu dhammā, asantettha na dissanti.
+And here the second and fourth of the groups are called “hard,” the others “soft.” The destruction is the elision. The letters are the vowels and consonants. The combination is the combination of the letters with the vowels. The gender is the gender, which is the gender, the case, the word, etc., excluding the gender, the case, the word, etc., which are dependent on the element. The case is the case. The word is the word.
 
-Yassa idāni, saññā iti, chāyā iva, kathā eva kā, iti api, assamaṇī asi, cakkhu indriyaṃ, akataññū asi, ākāse iva, te api, vande ahaṃ, so ahaṃ, cattāro ime, vasalo iti, moggallāno āsi bījako, pāto evātīdha pubbalope sampatte ‘‘sare’’ti adhikāro, idha pana ‘‘atthavasā vibhattivipariṇāmo’’ti katvā ‘‘saro, saramhā, lopa’’nti ca vattamāne –
+Thus is the teaching of the signs.
 
-15.Vā paro asarūpā.
+## Sarasandhividhāna (Vowel sandhi)
 
-Asamānarūpamhā saramhā paro saro lopaṃ pappoti vā. Samānaṃ rūpaṃ assāti sarūpo, na sarūpo asarūpo, asavaṇṇo . Yasmā pana mariyādāyaṃ, abhividhimhi ca vattamāno āupasaggo viya vāsaddo dvidhā vattate, katthaci vikappe, katthaci yathāvavatthitarūpapariggahe, idha pana pacchime, tato niccamaniccamasantañca vidhimettha vāsaddo dīpeti. ‘‘Naye paraṃ yutte’’ti paraṃ netabbaṃ.
+>Atha sarasandhi vuccate.
+>
+>Loka aggapuggalo, paññā indriyaṃ, tīṇi imāni, no hi etaṃ, bhikkhunī ovādo, mātu upaṭṭhānaṃ, sametu āyasmā, abhibhū āyatanaṃ, dhanā me atthi, sabbe eva, tayo assu dhammā, asanto ettha na dissanti itīdha sarādisaññāyaṃ sabbasandhikaraṇaṭṭhāne byañjanaviyojanatthaṃ paribhāsamāha.
 
-Yassadāni yassa idāni, saññāti saññā iti, chāyāva chāyā iva, kathāva kā kathā eva kā, itīpi iti api, assamaṇīsi assamaṇī asi. Cakkhundriya miti niccaṃ. Akataññūsi akataññū asi, ākāseva ākāse iva, tepi te api, vandehaṃ vande ahaṃ, sohaṃ so ahaṃ, cattārome cattāro ime, vasaloti vasalo iti, moggallānosi bījako moggallāno āsi bījako, pātova pāto eva.
+Now, the Sarasandhi is said.
 
-Idha na bhavati – pañcindriyāni, saddhindriyaṃ, sattuttamo, ekūnavīsati, yassete, sugatovādo, diṭṭhāsavo, diṭṭhogho, cakkhāyatanaṃ, taṃ kutettha labbhā iccādi.
+The foremost person in the world, the faculty of wisdom, these three, no, indeed, this is, the instruction for a nun, the attendance on a mother, may the venerable one be at peace, the sphere of mastery, I have wealth, all, indeed, there are three things, the untrue are not seen here, in this case, in the Sarasandhi, in the place of making all sandhis, in order to separate the letters, the paribhāsa is said.
 
-Bhavati ca vavatthitavibhāsāya.
+### 12. Pubbamadhoṭhitamassaraṃ sarena viyojaye (The initial consonant and the final consonant should be separated by the vowel)
 
-Avaṇṇato sarodānī-tīvevādiṃ vinā paro;
-Na luppataññato dīgho, āsevādivivajjito.
+>Sarenāti nissakke karaṇavacanaṃ, sahayoge vā, sandhitabbe sarasahitaṃ pubbabyañjanaṃ anatikkamanto adhoṭhitamassarañca katvā sarato viyojayeti sarato byañjanaṃ viyojetabbaṃ. Ettha ca assaraggahaṇasāmatthiyena ‘‘byañjana’’nti laddhaṃ.
 
-Bandhussa iva, upa ikkhati, upa ito, ava icca, jina īritaṃ, na upeti, canda udayo, yathā udake itīdha pubbāvaṇṇassarānaṃ lope kate ‘‘paro, asarūpe’’ti ca vattate, tathā ‘‘ivaṇṇo yaṃ navā’’ti ito ivaṇṇaggahaṇañca, ‘‘vamodudantāna’’nti ito uggahaṇañca sīhagatiyā idhānuvattetabbaṃ.
+The word “vowel” is used in the sense of a consonant, or in the sense of a combination. The initial consonant should be separated from the vowel, taking care not to go beyond the initial consonant and the final consonant. Here, the word “consonant” is used in the sense of a vowel, because of the inclusion of the word “vowel”.
+
+13.Sarā sare lopaṃ (The elision of the plural in the word “sara” is optional)
+
+>Sarā kho sabbepi sare pare ṭhite lopaṃ papponti. Lopoti adassanaṃ anuccāraṇaṃ. Ettha sarāti kāriyīniddeso. Bahuvacanaṃ panettha ekekasmiṃ sare pare bahūnaṃ lopañāpanatthaṃ. Sareti nimittaniddeso, nimittasattamī cāyaṃ, nimittopādānasāmatthiyato vaṇṇakālabyavadhāne sandhikāriyaṃ na hoti. Lopanti kāriyaniddeso, idaṃ pana suttaṃ upari paralopavidhānato pubbalopavidhānanti daṭṭhabbaṃ, evaṃ sabbattha sattamīniddese pubbasseva vidhi, na parassa vidhānanti veditabbaṃ.
+>
+>‘‘Assaraṃ, adhoṭhita’’nti ca vattate, siliṭṭhakathane paribhāsamāha.
+
+The elision of the plural in the word “sara” is optional when the plural is placed after the word “sara”. The elision means non-appearance, non-occurrence. Here the word “sara” is a nominative case. But the plural is used here to indicate the elision of the plural in the word “sara” when many are placed after the word “sara”. The word “sara” is a locative case. And this is a locative case of the seventh case. And because of the ability to take the locative case, the sandhi is not done in the case of the colour and time. The word “lopa” is a nominative case. But this sutta should be seen as the elision of the plural before the elision of the plural in the word “paralopa”. In this way, it should be understood that in all cases of the seventh case, the elision is done before, not after.
+
+### 14. Naye paraṃ yutte.
+
+>Sararahitaṃ kho byañjanaṃ adhoṭhitaṃ parakkharaṃ naye yutte ṭhāneti paranayanaṃ kātabbaṃ. Ettha yuttaggahaṇaṃ niggahītanisedhanatthaṃ, tena ‘‘akkocchi maṃ avadhi ma’’ntiādīsu paranayanasandeho na hoti.
+>
+>Lokaggapuggalo, paññindriyaṃ, tīṇimāni, nohetaṃ, bhikkhunovādo, mātupaṭṭhānaṃ, sametāyasmā, abhibhāyatanaṃ, dhanā matthi, sabbeva, tayassu dhammā, asantettha na dissanti.
+>
+>Yassa idāni, saññā iti, chāyā iva, kathā eva kā, iti api, assamaṇī asi, cakkhu indriyaṃ, akataññū asi, ākāse iva, te api, vande ahaṃ, so ahaṃ, cattāro ime, vasalo iti, moggallāno āsi bījako, pāto evātīdha pubbalope sampatte ‘‘sare’’ti adhikāro, idha pana ‘‘atthavasā vibhattivipariṇāmo’’ti katvā ‘‘saro, saramhā, lopa’’nti ca vattamāne –
+
+### 15. Vā paro asarūpā.
+
+>Asamānarūpamhā saramhā paro saro lopaṃ pappoti vā. Samānaṃ rūpaṃ assāti sarūpo, na sarūpo asarūpo, asavaṇṇo . Yasmā pana mariyādāyaṃ, abhividhimhi ca vattamāno āupasaggo viya vāsaddo dvidhā vattate, katthaci vikappe, katthaci yathāvavatthitarūpapariggahe, idha pana pacchime, tato niccamaniccamasantañca vidhimettha vāsaddo dīpeti. ‘‘Naye paraṃ yutte’’ti paraṃ netabbaṃ.
+>
+>Yassadāni yassa idāni, saññāti saññā iti, chāyāva chāyā iva, kathāva kā kathā eva kā, itīpi iti api, assamaṇīsi assamaṇī asi. Cakkhundriya miti niccaṃ. Akataññūsi akataññū asi, ākāseva ākāse iva, tepi te api, vandehaṃ vande ahaṃ, sohaṃ so ahaṃ, cattārome cattāro ime, vasaloti vasalo iti, moggallānosi bījako moggallāno āsi bījako, pātova pāto eva.
+>
+>Idha na bhavati – pañcindriyāni, saddhindriyaṃ, sattuttamo, ekūnavīsati, yassete, sugatovādo, diṭṭhāsavo, diṭṭhogho, cakkhāyatanaṃ, taṃ kutettha labbhā iccādi.
+>
+>Bhavati ca vavatthitavibhāsāya.
+>
+>Avaṇṇato sarodānī-tīvevādiṃ vinā paro;
+>Na luppataññato dīgho, āsevādivivajjito.
+>
+>Bandhussa iva, upa ikkhati, upa ito, ava icca, jina īritaṃ, na upeti, canda udayo, yathā udake itīdha pubbāvaṇṇassarānaṃ lope kate ‘‘paro, asarūpe’’ti ca vattate, tathā ‘‘ivaṇṇo yaṃ navā’’ti ito ivaṇṇaggahaṇañca, ‘‘vamodudantāna’’nti ito uggahaṇañca sīhagatiyā idhānuvattetabbaṃ.
 
 16.Kvacāsavaṇṇaṃ lutte.
 
