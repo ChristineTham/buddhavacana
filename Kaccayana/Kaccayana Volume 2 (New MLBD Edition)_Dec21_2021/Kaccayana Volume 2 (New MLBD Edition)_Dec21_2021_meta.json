@@ -1,0 +1,327 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Kacc\u0101yana P\u0101li Grammar Vol. 2",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -253.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Dedication",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -253.0,
+                579.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Contents",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -253.0,
+                612.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Preface",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -1.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Preface to the Second Edition",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -1.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Introduction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -1.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Pronunciation Guide",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 58,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -1.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Guide to Conjuncts",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 62,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -1.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Key to Entries",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 66,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -1.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "List of Abbreviations",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 67,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -1.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Frequently Found Words",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 72,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -1.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Suttakkama (Order of Suttas)",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 76,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -1.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Sandhi Kappa",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 124,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -1.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "N\u0101ma Kappa",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 190,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -1.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "K\u0101raka Kappa",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 380,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -1.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Sam\u0101sa Kappa",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 450,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -1.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Taddhita Kappa",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 502,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -1.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "\u0100khy\u0101ta Kappa",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 582,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -1.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Kibbidh\u0101na Kappa",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 692,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -1.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "U\u1e47\u0101di Kappa",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 770,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -1.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendices",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 836,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -1.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Index",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 895,
+            "view_mode": "XYZ",
+            "view_pos": [
+                -1.0,
+                595.0,
+                0.0
+            ]
+        },
+        {
+            "title": "About Pariyatti",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 904,
+            "view_mode": "XYZ",
+            "view_pos": [
+                48.0,
+                959.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 905,
+    "ocr_stats": {
+        "ocr_pages": 7,
+        "ocr_failed": 0,
+        "ocr_success": 7,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 44,
+        "equations": {
+            "successful_ocr": 10,
+            "unsuccessful_ocr": 4,
+            "equations": 14
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
