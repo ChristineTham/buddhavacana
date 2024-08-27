@@ -4,6 +4,7 @@ categories: ["Bālāvatāra", "Paṇāma"]
 tags: ["Pali", "textbook"]
 title: "Bālāvatāra (Vidyabhusana Translation)"
 linkTitle: "Vidyabhusana"
+weight: 300
 description: >
   A translation into English, originally edited and translated by
   the late Mahamahopadhyaya
@@ -349,1063 +350,583 @@ The final *o* and *u* are changed into *v*.
 *E* of *eva* is optionally changed into *ri*, and the
 preceding vowel is shortened.
 
-* If eva follows a vowel, the e of eva may
-  optionally be changed into ri, and the preceding
+* If *eva* follows a vowel, the *e* of *eva* may
+  optionally be changed into *ri*, and the preceding
   vowel into its corresponding short formi:
 
-Yatha + eva=yathariva, yath' eva:
+  * Yathā + eva=yathariva, yath' eva:
 
 ### 11.  Yavamadanataralà cagama.
 
-Y, v, m, d, n, t, т, апа? are the optional
-insertions.
+*Y*, *v*, *m*, *d*, *n*, *t*, *r*, апd *ḷ* are the optional
+*insertions*.
 
-When a vowel follows, the letters y, v, m, d,
-n, t, т, and / may be optionally inserted. С also
-may come as an insertion:
+* When a vowel follows, the letters *y*, *v*, *m*, *d*,
+  *n*, *t*, *r*, апd *ḷ* may be optionally inserted. *G* also
+  may come as an insertion:
 
-Na+ imassa=na-y-imassa,
+  * na + imassa = na-y-imassa
+  * ti + aṅgikaṃ = ti-v-aṅgikaṃ
+  * lahu + essati = lahu-m-essati
+  * atta + atthaṃ = atta-d-atthaṃ
+  * ito + āyati = ito-n-āyati
+  * tasmā + iha = tasmā-t-iha
+  * sabbhi + eva = sabbhi-r-eva
+  * cha + abhiññā = cha-ḷ-abhiñā (Sometimes
+    there is no sandhi.)
+* And, putha + eva = putha-g-eva (Sometimes
+  there is no sandhi.)
+* Also, pā + eva = pa-g-eva (Sometimes
+* But, abhi + uggato = abbhuggato.
 
-Ti + añgikarn=ti-v-añgikarn.
+## III. BYANJANA-SANDHI (Consonant-Junction)
 
-Lahu + essati = lahu-m-essati.
+In the following suttas the words *byañjane* ('when
+a consonant follows') and *kvacit* ('sometimes') are
+understood.
 
-Atta + attharh = atta-d-attham.
+### 1. Lopañca tatrākāro
 
-Ito + ayati=ito-n-ayati.
-
-©
-Tasma + iha = tasma-t-iha.
-Sabbhi + eva=sabbhi-r-eva.
-Cha + abhiññā = cha-l-abhinna. (Sometimes
-there is no sandhi.) .
-And, putha-reva-putha-g-eva. (Sometimes there
-is пе sandhi.)
-Also, pá--eva-pa-g-eva. (Sometimes there is no
-
-sandhi.)
-But, abhi + uggato = abbhuggato.
-
-111
-
-জসজ্লাল-জল্নি
-
-BYANJANA-SANDHI
-Consonant-Junction
-
-[এই অধ্যায়ের ুত্রসমূহের ব্যাখ্যাবাকো 'ব্যঞ্জনবর্ণ পরে থাকিলে'
-এবং ‘efor’ (অর্থাৎ “কখন কখনও’ ) এই দুইটি অর্থ Se আছে বুঝিতে
-হইবে |
-
-In the following suttas the words byañjane (* when
-a consonant follows’) and kvacit (‘sometimes’) are
-understood. |
-
-£1 low чата ата 21814
-
-1. 1орапса tatrakiro.
-[ ব্যঞ্জনবৰ্ণ পরে থাকিলে ] [ কখন কখনও ] spa
-লুপ্ত হয়; লোপ হইলে এ স্থানে ‘অ’ আগম হয়; যথা,_
-сїй + fem = স্‌ + ভিক্খু =স্‌+ অ+ fert = m БҸ І
-কখন কখনও S^ এবং ‘ও’ আগম mu; য্থা,_
-জালেম + তং ==с তং |
-কচ্চিন্থ + чи = কচ্চিন্নে! ত্বং |
-কিন্ত, সে! + মুনি = শে! মুনি ( অর্থাৎ সন্ধি হইল ন!) 1
 There is elision of the vowel, with an insertion of
-a in its place.
-A vowel followed by a consonant is sometimes
-elided and a is inserted in its place:
-So + bhikkhu=sa bhikkhu.
+*a* in its place.
 
-U and o may also come аз insertions:
-Jünema + tarh=jinemu tam,
+* A vowel followed by a consonant is sometimes
+  elided and *a* is inserted in its place:
+  * So + bhikkhu=sa bhikkhu.
+* *U* and *o* may also come аз insertions:
+  * Jānema + taṃ = jānemu taṃ.
+  * Kaccinu + tvaṃ = kaccino tvaṃ.
+* But, So + muni=so muni (without Sandhi).
 
-BYAÑJANA-SANDHI 17
+### 2. Vagge ghosāghosānaṃ tatiya-paṭhamā.
 
-Kaccinu + tvari = kaccinotvarn.
-But, So+muni=so muni (without Sandhi).
-
-২। а arararert afaa-qeari +14195
-2.  Vagge ghosüghosünarn tatiya-pathama.
-
-যদি স্বরবর্ণ পূর্বে থাকে এবং পরবর্তী পদের আদি
-বাঞ্জনবর্ণ বর্গের চতুর্থ অর্থাৎ খোষবর্ণ হয়, Stel হইলে
-উহা সেই বর্গের তৃতীয় বর্ণের সহিত যুক্ত হইয়া fva
-প্রাপ্ত হয় ; qt — S+ ঘোসো = উগ.ঘোসে! |
-যদি স্বরবর্ণ পূর্বে থাকে এবং পরবর্তী পদের আদি
-ব্যঞ্জনবৰ্ণ বর্গের দ্বিতীয় অর্থাৎ অঘোববর্ণ হয়, তাহা হইলে
-উহ? সেই বর্গের প্রথম বর্ণের সহিত যুক্ত 521) few প্রাপ্ত
-হয়; যথ1, অ!+ খাতং= অকৃখাতং [ এ স্থলে কচ্চারন
-ব্যাকরণের “apie” (১1৩1৪ ) এই zata আদি আকা
-Z4 হইয়াছে |]
-কিন্ত ma এইরূপ হয় না। কারণ-_
-(&gt;) ব্যঞ্জনবৰ্ণ পরে থাকিলে কখন কখন ‘ও’ আগম হয় ;
-যথা,__পর + সহস্সং = পরো| সহস্সং |
-অতিগ্ন + сай = অতিগ্গো cet | {এ স্থলে “যবমদন-
-San চাঁগমা”” এই ware “9” আগম হইবার
-পর ‘ও’ আগম হুইয়াছে--পৃঃ ১৪-১৫ দ্রষ্টব্য 1]
-(২) ব্যঞ্জনবর্ণ পরে থাকিলে “অব' স্থানে কখন কখন “ও'
-হয়; 3Xq1,— 93 + 48 = 68 |
-few, অব+ মুস্সতু = অবস্থস্সতু |
-The sonant and surd consonants of a vagga get
+The *sonant* and *surd* consonants of a *vagga* get
 doubled by taking before them the third and
 the first letter respectively of the vagga.
 
-"З
+* The fourth and the second lettera of a vagga
+  after a vowel are in some instances doubled
+  through conjunction with the third and the first
+  letter respectively of the vagga:
+  * U + ghoso = ugghoso.
+  * Ā + khātaṃ = akkhātaṃ. [Here *ā* is
+    shortened according to the  Knccayana sutta
+    "Rassaṁ" (1. З. 4), which lays down: “A vowel
+    followed by а consonant is sometimes shortened."]
 
-18
+* Exceptions : —
 
-€
+  1. *O* is sometimes inserted when a consonant
+     follows :
+     * Para + sahassaṃ = parosahassaṃ.
+     * Atippa + kho = atippagokho.
+       [There is insertion of *o* here after *g* has been added according
+       to the sutta "Yavamadanataraḷā cāgamā" (pp. 14, 15).]
+  2. *Ava* is sometimes changed into *o* when a
+     consonant follows:
+     * Ava + naddhā = onaddhā.
+     * But, Ava + sussatu = avasussatu.
 
-BALAVATARA
+## IV. NIGGAHĪTA[^5]-SANDHI (Nasal-Junction)
 
-The fourth and the second lettera of a vagga
-after a vowel are in some instances doubled
-through conjunction with the third and the first
-letter respectively of the vagga :
+[^5]: See p. 5, sutta 1.7, where the word is spelt with a short *i*.
 
-U + ghoso = ugg hoso.
+### 1. Vaggantaṃ vā vagge.
 
-A + khütarh = akkhütarn. [Here da is
-shortened according to the  Knccayana sutta
-"Rssain'' (1. З. 4), which lays down: “A vowel
-followed by а consonant is sometimes shortened.'']
+The *Niggahīta* followed by a consonant of a vagga
+is optionally transformed into the last consonant of that vagga.
 
-Exceptions : —
+* *Ṁ* followed by a consonant of a vagga is
+  optionally changed into the last consonant of the
+  same vagga :
 
-(i) O is sometimes inserted when a consonant
-follows :
-Para + sahassarh = parosahassam.
-Atippa+kho=atippagokho. [There is in-
-sertion of o here after д has been added according
-to the sutta ** Yavamadanataralii cigami’’ (pp.
-14, 15).]
-(ii) Ava is sometimes changed into o when a
-consonant follows:
-Ava + naddhi=onaddba.
-But, Ava+sussatu=avasussatu. “
+  * Kiṃ + kato = kiṅkato.
+  * Saṃ + jāto = sañjāto.
+  * Saṃ + ṭhito = saṇṭhito.
+  * Taṃ + dhanaṃ = tandhanaṃ.
+  * Taṃ + mittaṃ = tammittaṃ.
 
-LV
-faureta*-afer
-NIGGAHITA*-SANDHI
+* But, Na + taṃ + kammaṃ = nataṃkammaṃ
+  (without Sandhi).
 
-Nasal-Junction
-
-1 ачен না নন্দ 21912
-
-1. Vaggantarh và vagge.
-
-যে বর্গের uaa পরে থাকে facerent fasta
-সেই বর্গের শেষবর্ণ ( অর্থাৎ পঞ্চম বর্ণ ) হয়; যথা,
-
-কিং + কতো = কিন্কতো | -
-
-সং + SITS = সঙ্জাতো |
-
-সং + ঠিতো = সন্ঠিতো |
-
-তং + ধনং = তন্ধন্‌ং |
-
-Se + fares = তশ্মিত্বং |
-` কিন্ত, এই নিয়মের ব্যতিক্রমও লক্ষিত হয়; যথা,_
-ন তং+কম্মংস্ন তং Far; (এ স্থলে সন্ধি
-
-হইল না।)
-
-‘ল’ পরে থাকিলে নিগ্লহীত-স্থানে ‘ল' হয়; যথা,
-
-পুং + লিঙ্গং = পুলিঙ্গং |
-The Niggahita followed by a consonant of a vagga
-
-is optionally transformed into the last conso-
-nant of that vagga.
-
-- Bee p. 5, sutta 1.7, whore the word is spelt with a short +.
-
-20 BALAVATARA
-
-M followed by a consonant of a vagga is
-optionally changed into the last consonant of the
-same vagga :
-
-Kim +kato= kinkato.:
-
-Sam + jāto = sanjato.
-
-Sarn + thito=santhito.
-
-Tam + dhanarh =tandhanarñn,
-
-Tam + mittam = tammittarh.
-But, Na tarù-+kammam=na tari kammar
-
-(without Sandhi). T
-
-М may be changed into | when followed
-
-ру a l:
-
+* *Ṁ* may be changed into *l* when followed
+  bу a *l*:
+  * Puṃ + liṅgaṃ = pulliṅgaṃ.
 Pum + lingam = Pullingarn.
 
-x I дет Wt | £191!
+### 2. Madā sare.
 
-2. Mada sare.
-
-স্বরবর্ণ পরে থাকিলে নিয়হীত-স্থানে (বিকল) কোথাও
-P এবং কোথাও "UD হয়; যথা,
-এবং + অস্স = এবম্‌ + অস্স = এবমস্স.৷
-এতং = অবোচ = ISH + অবোচ = এতদবোচ |
-কিন্ত, মং + অজিনি =e অজিনি |
-
-[The Niggahtta is optionally changed into] m or d
+[The *Niggahīta* is optionally changed into] *m* or *d*
 if a vowel follows.
 
-JM followed by a vowel is sometimes optionally
-changed into m or d:
-Evarn + assa = evam + assa = evamassa,
-Etarh + avoca = etam + avoca=etadavoca.
-But, Marh + ajini=marm ajini. T
+* *Ṁ* followed by a vowel is sometimes optionally
+  changed into *m* or *d*:
 
-/961/1 ? ৫.5
+  * Evaṃ + assa = eva + (ṃ→m + a) + ssa = evamassa
+  * Etaṃ + avoca = eta + (ṃ→d + a) + voca = etadavoca
 
-NIGGAHITA-SANDHI 21
-3|! Wess; 21812
-3.  Ehenfüam.
-‘এ’ কিংবা ‘হ’ পরে থাকিলে নিগ্নহথীত-স্থানে facon
-"sp" হয়; যথা,
-তং + এব = তঞ_-4+- এব -—:woga—[ কচ্চায়ন ব্যাকরণের
-“পরদ্ধেভাবো ঠানে” (re) xata ‘pa fau
-হইল ] ; বিকলে,-_তমেব |
-তং+ হি=তঞহি ; fae efr (সন্ধি হইল ন!) |
+* But, Maṃ + ajini = maṃajini.
 
-When e or А follows, [the Niggahita is optionally
-changed into] fi.
-М followed by e or А is optionally changed
-into fi:
-Tam + eva =taññeva— [the doubling of ñ takes s
-place according to the Кассӣуапа sutta
-' Paradvebhavo thane '' (1. 3. 6)]; also,—
-tameva.
-Tam + hi = taühi ; also, — tarnhi ( without
-Sandhi).
+### 3. Eheñaṃ.
 
-зї чача 61818
-4. Sa уе са. `
+When *e* or *h* follows, [the *Niggahīta* is optionally
+changed into] *ñ*.
 
-сә পরে থাকিলে faue ও Өр উভয়ে মিলিয়াও frst
+* *Ṁ* followed by *e* or *h* is optionally changed
+  into *ñ*:
 
-‘on? হয় 7 যথা।,_সং+ যোগো  সঞ্জোগো_|[ «з? দ্বিত্ব-হেতু
+  * Taṃ + eva = taññeva [the doubling of *ñ* takes
+    place according to the Кассāуапа sutta
+    "Paradvebhāvo ṭhāne" (1. 3. 6)]; also, —
+    tameva.
+  * taṃ + hi = tañhi ; also, — taṃhi (without
+    Sandhi).
 
-পূর্বোক্ত কচ্চায়নস্থত্র ১৩৬ দ্রষ্টব্য ] ; বিকল্পে,_সংযোগো |
+### 4. Saye ca.
 
-The Niggahtta together with y, which follows, is
+The *Niggahīta* together with *y*, which follows, is
+also optionally changed into *ñ*.
 
-also optionally changed into ñ.
+* Even when followed by *y*, the *ṁ* together
+  with the *y* is optionally changed into *ñ*:
 
-Even when followed by yw, the m together
+  * saṃyogo = saññogo [ the doubling of *ñ*
+  takes place according to the Кассауапа
+  sutta (1. 3. 6), quoted above] ; also,—
+  saṃyogo.
 
-with the y is optionally changed into її:
-баз + yogo=safifiogo—[ the doubling of ñ
-takes place according to the Кассауапа
+### 5. Niggahītañca.
 
-e # ГА, &gt;
-
-- 4
-f
-
-22 BALAVATARA
-
-sutta (1. 3. 6), quoted above] ; also,—
-88188 000,
-
-wi নিমাস্থীনস্থ। #13818
-5. Niggahitañca.
-
-| স্বরবর্ণ কিংবা cue পরে থাকিলে, কোন কোনও
-স্থলে নিগ্লহীত আগম হয় ; যথা,
-
-Б + অনিচ্চং-চকৃখুং fet |
-অব + সিরেো| = অবং সিরে! |
-[ আবার, স্বরবর্ণ কিংবা ব্যঞ্জনবর্ণ পরে থাকিলে, কোন
-
-কোনও স্থলে নিগ্লহীতের লোপও হয়--( কচ্চায়ন "s ১1৪।৯,
-"কচি লোপং,” দ্রষ্টব্য ) ; যথা,
-
-(&gt;) বিদুনং + ate = faga + অগ্নং = fatis |
-তাসং + অহং = তাস + অহং = তাসাহং | ( এ স্থলে
-«Pret এই স্ত্রান্থসারে অকার স্থানে আকার
-হইয়াছে ; পৃঃ ১০, সুত্র ৪ দ্রষ্টব্য |)
-
-(২) ৰ ন্ধানং + সাঁসনং = 9,919 সাসনং |,
-সং + ston = স+ С = НТП | (এ স্থলে
-“WE”, ১।৩1৩, এই কচ্চীয়ন সুত্র-অন্ুসাঁরে অকার-
-স্থানে আকার 589їсЕ 1) ]
-
-The Niggahita is also [sometimes optionally |
+The Niggahīta is also [sometimes optionally]
 inserted.
-М is also sometimes optionally inserted when
-a vowel or a consonant follows:
-Cakkhu + aniccarn=cakkhum anicenrn.
-Ava + 8120 = avarn siro.
 
-NIGGAHITA-SANDHI 23
+* *Ṁ* is also sometimes optionally inserted when
+  a vowel or a consonant follows:
 
-[The opposite is also noticeable (vide Kacciyana,
-1.4.9—'* Kvaci loparn ””) :
+  * Cakkhu + aniccaṃ = cakkhuṃaniccaṃ.
+  * Ava + siro =  avaṃsiro.
 
-(i) .M is sometimes elided when a vowel follows:
-Vidunarh + aggarn = viduna + aggarh = vid-
-unaggarn.
+* [The opposite is also noticeable (*vide* Kaccāyana,
+  1.4.9 "Kvaci lopaṁ") :
 
-"Гаваі + aharh=tisa+abarh = tñsñharh.
-(Here, the second vowel of tüsüha is
-lengthened according to the sutta
-‘*Digham,*" see ante, p. 10, sutta 4.)
+  1. *Ṁ* is sometimes elided when a vowel follows:
 
-(i) There is occasional elision even when a
-consonant follows:
+     * Vidūnaṃ + aggaṃ = vidūna + aggaṃ = vidūnaggaṃ
+     * Tāsaṃ + ahaṃ = tāsa + ahaṃ = tāsāhaṃ
+       (Here, the second vowel of tāsāhaṃ is
+       lengthened according to the sutta
+       "Dighaṁ" see *ante*, p. 10, sutta 4.)
 
-Buddhinam + sasanarn= Buddhina
-sasanam.
+  2. There is occasional elision even when a
+     consonant follows:
 
-Sarh + rigo=sa+rigo=sirigo. (For the,
-lengthening of the first vowel of sárágo,
-vide Kaccüyana, 1.8.3,—''Digharn.'*)]
+     * Buddhānaṃ + sāsanaṃ = buddhāna + sāsanaṃ = buddhānasāsanaṃ
+     * Saṃ + rāgo = sa + rāgo = sārāgo (For the
+       lengthening of the first vowel of sārāgo,
+       *vide* Kaccāyana, 1.8.3, — "Dighaṁ.")]
 
-€i Aanu етв?
-
-6. Paro và saro.
-
-কোন কোনও স্থলে নিগ্লহীতের পরবর্তী স্বরবর্ণের বিকলে
-লোপ হয়; 3«1,—
-
-ৰীজং+ হব=ৰীজং я!
+### 6. Paro vā saro.
 
 The succeeding vowel is sometimes optionally
 elided.
 
-Sometimes the vowel after +h is optionally
-elided :
-Bijarh + iva- bijarh va,
+* Sometimes the vowel after *ṁ* is optionally
+  elided :
+  * Bījaṃ + iva = bījaṃ va.
 
-BALAVATARA
-эт art স্ব {Әә । #181093
+### 7. Byañjano ca visaññogo.
 
-` 7. Вуайјапо ca visaññogo.
-নিগ্নহীতের পরবর্তী স্বরবর্ণের লোপ হইলে, এ TAA
-পরবর্তী সংযুক্ত-ব্যঞ্জনবর্ণের প্রথমটির লোপ হয়; যথা,_
-এবং + অস্স = এবং + HH = এবং *স।
+The consonant is also simplified.
 
-The consonant 18 also simplified.
-When the vowel is elided after m, the suc-
-ceeding conjunct is simplified :
+* When the vowel is elided after *ṁ*, the succeeding conjunct is simplified :
+  * Evaṃ + assa = evaṃ + 'ssa = evaṃ 'sa.
 
-Evar + assa = evarn + 'ssa= evar ‘sa.
+## V. VOMISSAKA-SANDHI (Miscellaneous Junction)
 
-[ei
-Т.
-
-V
-
-বীলিষ্মন্স-জল্নি
-
-VOMISSAKA-SANDHI
-
-Miscellaneous Junction
-
-waufesri জুহ্লনীবালী । 2141 ৫০
-Anupaditthinam vuttayogato.
-
-‘উপসর্গ’ ও ‘নিপাত’ প্রভৃতির যোগে যে সকল সন্ধি হয়
-часа সকল মিশ্র সন্ধির রূপ পূর্বে দর্শিত হয় নাই, সেইগুলি
-এই অধ্যায়ে বর্ণিত হইবে | এই সকল সন্ধি সাধিতে হইলে,
-পূর্ব্বোক্ত স্বরসন্ধি, ব্যঞ্জনসন্ধি ও নিগ্লহীত সন্ধির স্থত্রগুলি
-প্রয়োগ করিতে হয়; যথা,_যদি + এবং = যজ্জেবং ;
-сай + অঙ্গ! = ৰোম্থঙ্গা। (এ স্থলে sete “ই-বগ্রো যং
-ন বা” (4: ১৩) zatarta ‘aff’? ও сайа ‘ই’
-স্থানে ^ হইল, q«1—39., ৰোধ্য_; পরে, এ wa “J”
-স্থানে “6? আদেশের ব্যাপক অর্থে ш! ও ‘a’ স্থানে
-— ও ‘gl’ হইল | )
+### 1. Anupadiṭṭhānaṃ vuttayogato.
 
 The foregoing suttas are to be suitably applied to
 instances not yet discussed.
 
-The foregoing suttas of vowel-junction and
-consonant-junetion are to be applied in a suitable
-manner to the prefix, indeclinable and other
-kinds of junction, not yet discussed :
+* The foregoing suttas of vowel-junction and
+  consonant-junction are to be applied in a suitable
+  manner to the prefix, indeclinable and other
+  kinds of junction, not yet discussed :
 
-For instance, Yadi- ета = yady + evam =
-yajjevam—f(first, by the sutta ‘‘I-vanno уат
-
-"A
-
-26 BALAVATARA
-
-па vü” (see ante, p. 13), di of yadi is changed
-into dy; secondly, by the principle (implied in the
-same sutta) that ‘ѓу is sometimes changed into
-cc," dy is changed into jj). Similarly, Bodhi+
-айай = bodhy + angi =bojjhanga. |
-
-নিম্নবর্ণিত অনু-বিধিগুলি fet সন্ধিতে প্রাযুজ্য |
+* For instance, yadi + evaṃ =  yadj + evaṃ =
+  yajjevaṃ — (first, by the sutta "Ivaṇṇo yannavā"
+  (see ante, p. 13), *di* of *yadi* is changed
+  into *dy*; secondly, by the principle (implied in the
+  same sutta) that "*ty* is sometimes changed into
+  *cc*," *dy* is changed into *jj*). Similarly,
+  Bodhi + aṅgā =  bodhy + aṅgā = bojjhaṅgā.]
 
 The following minor rules are applicable in
 Miscellaneous Junction :—
 
-(+) чыїїн-наїй ожаҹчат ч!
+1. Asadisa-saṃyoge ekasarūpatā ca.
+
+   * In junction, the preceding consonant is assimilated
+     to the succeeding dissimilar consonant:
+     * Pari + esanā = pary + esanā (vide sutta 9, р. 18) =
+       payyesanā (*r* being assimilated
+       to *y*).
+
+2. Vaṇṇānaṃ bahuttaṃ, viparītatā ca.
+
+   * In some cases there is multiplication of a
+     letter, and in certain cases there is inversion too.
+     For instance,
+
+   * In sa + rati = sumarati, there are insertion of
+     *ma* (II. 11) and transformation of *a* into *u* (III. 1).
 
-Asadisa-sarnyoge ekasarüpata ca.
+   * In iti + evaṁ = itvevaṁ, there is transformation
+     of *i* into *v* by extension of sutta II. 7 (p. 11).
 
-দুইটি অসদৃশ ব্যঞ্জনবণ পরম্পর সংযুক্ত থাকিলে উহার!
-
-সমান রূপ প্রাপ্ত হয়; বথা,_-পরি-+ এসনা-পর্য্‌ + এসন!
-( ১৩ পৃঃ, a ুত্রান্থসারে ) = পয্য্‌ + чта] = পঘ্যেসন| |
-
-In junction, the preceding consonant is assi-
-milated to the succeeding dissimilar consonant:
-
-Pari + esana = рагу + esana (vide sutta 9, р. 18)
-=payyesana (r being assimilated
-to 1).
-
-(i£) чепа aed বিদক্ীললা ч!
-Vannanarm Баһиібатћ viparitata ca. i
-কোন কোন স্থলে শব্দের বর্ণরদ্ধি হয় এবং কোন কোন
-স্থলে বর্ণগুলি বিপরীত eta eta হয়; যথা,
-
-5» + রতি ্স্থমরতি-__( এ স্থলে পুর্ব্বোক্ত ২১১ zata-
-সারে "x" আগম হইরা, এবং ৩।১ FAATA ра অকারের
-লোপ হইয়া, লোৌপের স্থানে "9^ হইল ) |
-
-ইতি- এবং = ইত্বেবং-_( ‘তি’র ‘ই’ স্থানে “Q; эз
-স্থাত্রের বিস্তার অনুসারে ) |
-
-VOMISSAKA-SANDHI 27
-
-সা+ইথি- লোখি-_-€ э 043 বিস্তীরক্রমে “© [зга
-Sata লোপ, পরে ‘Ala আকার স্থানে ওকার ) |
-
-ৰসা- এব =ৰসমিব-_( ২1১১ "rauca ‘ম’ আগম,
-“диз” এই কচ্চায়ন স্থত্র-১৷৩৷৪-_অঙন্ুসারে WIA z",
-পরে 315 Waa ব্যাপক-অর্থাস্থসারে ‘এব’র একার স্থানে
-ইকার ) |
-
-ৰহু + আবাধে!|= বব্হাৰাধেো--(২৷৭ স্ুত্রান্থসারে “@'
-স্থানে ‘ব্‌’, পরে 5° ও ‘ব্‌ পরম্পরের স্থান-পরিবর্তন ) |
-
-অধি + অভবী = অন্ধাভবী-( fa স্থানে “w
-আদেশ, পরে পূর্ব্বস্বর লুপ্ত হওয়ায় ২1৪ সুত্রান্থুসারে পরবর্তী স্বর
-দীর্ঘ ) |
-
-In some cases there is multiplication of a
-letter, and in certain cases there is inversion too.
-
-For instance, а
-
-In sa+rati=sumarati, there are insertion of
-ma (II. 11) and transformation of a into u (III. 1).
-
-In iti+evam=itvevam, there is transforma-
-tion of i into v by extension of sutta II. 7 (p. 11).
-
-In sd+itthi=sotthi, the succeeding vowel i
-having been elided, the preceding à is changed
-into o by extension of sutta II. 5 (p. 10).
-
-In  busá--cva-busgmiva, m із inserted
-(11. 11), the preceding vowel @ is shortened (vide
-Kaccüyana, 1. 8. 4.—'' Rassarn ") and the suc-
-ceeding e is changed into í by extension of sutta
-II. 10 (p. 14). °
-
-In bahu+dabddho=bavhaibiadho, и being fol-
-lowed by the dissimilar vowel à is first changed
-into v (II. 7), and then there is inversion
-between and v.
-
-In adhi+abhavi=addhibhavi, there is applica-
-tion of the principle according to which ‘‘adhi
-
-28 BALAVATARA
-
-is sometimes changed into addha,"” and of
-sutta II. 4 (p. 10), which lays down, “If the
-preceding vowel is elided, the succeeding vowel
-is sometimes lengthened.”
-
-(২7) বহাল ai i
-Radinar lo.
-vy ও % স্থানে "U^ হয়; যথা,
-“Га + বোধো- পলিৰোধে| ; পরি+ দাহো = পরিলাহেো।
-К and d are changed into 1:—
-Pari + bodho = palibodho.
-Pari + daho=pariliho.
-(iv) w* aaa না we fem afa লী।
-Sare byañjane va pare binduno kvaci mo.
-স্বরবর্ণ কিংবা ব্যঞ্জনবর্ণ পরে থাকিলে নিগ্নহীতের স্থানে
-কখন কখনও % হয়; যথা,
-মং+অহাসি-্মম্‌ অহাসি-_[ “যদা সরে” (эз)
-"me দ্রষ্টব্য |]
-4% +সরণং = 4,94 সরণং |
-If a vowel ог @ consonant follows, 7h is
-sometimes changed into m : °
-
-Маш + ahāsi=mam 81055) (vide sutta IV. 2) ;
-Buddharh + saranerm = Buddham saranarh.
-
-(৮) тай ঘহব্তহাললল্লম্হ্লাঘি i
-Binduto parasarinam-anfassaratipi.
-নিগহীতের পরবর্তী স্বরবর্ণ কখন কখনও রূপান্তর প্রাপ্ত
-бщ; যথা,
-তং + ইমিন! = তদমিনা--[81২ ats fatate
-"iu ‘দ্‌’ হইল ; পরে, 'ইমিনা”র “ই” স্থানে ‘অ’ হইল |]
-
-VOMISSAKA-SANDHI 29
-
-এবং 1+ইমং = এবুমং-_[_কচি লোপং_ (১1৪1৯) এই
-কচ্চায়ন স্ত্রান্থসারে নিগ্নহীতের লোপ, পরে ‘ই’ স্থানে “উ”
-হুইল |]
-
-কিং + অহং-কেহং-নিগ্হীতের লোপের পর "feta
-হই’ স্থানে ‘এ’ হইল |]
-
-The vowels after 1h may be changed into
-dissimilar vowels:
-
-Tar + imina=tadamina—(i is changed into a,
-after 1h has been replaced by d according to sutta
-IV. 2).
-
-Evam + imar = evumam- — (7 is elided, accord-
-ing to the Kaccüyana sutta ''Kvaci lopa mh” 1,4,9,
-and then i is changed into u.
-
-Kirn + aharn=keharh—(m is elided, and i is
-changed into e). | e
-
-(vi) wrwrqerarcge seya аҹ] (ui
-Vàkyasukhucearanatthaim) chandahánitthanca vanna-
-lopo 'pi.
-
-বাঁকোর স্ুখোচ্চারণের নিমিত্ত ও গাথার ছন্দ রক্ষার্থে
-কখন কখনও বর্ণের লোপ হয়; যথা,__
-পটিস্ংখীয় + যোনিসে!= পটিসংখাঁ” যোনিসো (সুখোচ্চারণ-
-
-হেতু) |
-অলাপুনি সীদস্তি _*লাপুনি সীদস্তি-_( ছন্দ রক্ষার্থে )।
-
-Letters are sometimes omitted for the sake of
-euphony and metre :
-
-Patisarnkhaya + yoniso = patisarnkha" yoniso
-—(the preceding ya is elided for the sake of
-euphony).
-
-Alapuni sidanti = ‘lapuni sidanti—(the initial a
-of alüpuni is elided on account of the exigency
-
-metre).
--
-
-30 BALAVATARA
-
-(vii) qaga ama fa i
-Vuttyabhedaya viküro ‘pi.
-
-গাথার গুরু-লঘু* উচ্চারণের প্রয়োজনান্ুসারেও স্থল-
-বিশেষে afasta ঘটে ; যথা,
-
-অকরম্হসে তে-_অকরম্হস CS |
-
-There is exception even tothe above sub-rule
-for the sake of metre:*
-
-Akaramhase + te= akaramhasa te—(the long
-vowel e of se is changed into the short vowel a,
-metri causa).
-
-- чача we, বান্ধ-আন্ক-লিমলী সৰ ate
-ভীদ্বী wWaupfe-genm tal ч বাজ, ЧЕ q хайп
-Akkharaniyamo Chandar, garü-lahu-niyamo bhave Vutti,
-Digho sathyogadi-pubbo rasso ca gar, lahu tu rasso.
-অক্ষর সংখ্যার নিয়মানুগ বাবস্থানকে wec—vp বলে ; এবং গুরু-লঘু স্বরভেদে অক্ষর-
-নিয়মকে gfo বলে। দীর্ঘস্বর এবং cepe won ও নিগ্গহীতের পূর্ববর্তী Et
-কবরকে “গুরু” বলা হয় ; যথা, _'আ।", “m এবং “অং' এই শব্দগুলির আদি ча!
-race “লঘু” বলা হয় ; যখা,__অ, ই, 5 |
-Metre is the harmonious order of letters. Measure is the regula-
-tion of beavy and light vowels.
-A heavy vowel is a long vowel, and so is also the short vowel which
-
-precedes a double consonant or the Niggahita; e.g., the italics in the
-
-following :—4d азва, ath.
-A light vowel iu a short vowel; e.g., the vowels a, í and u.
-
-л
-
-VI
-
-«Teaser
-NAMAKANDO
-
-Name
-
-Words are chiefly divided into two classes,
-—Name and Verb.
-
-Name comprises Noun, Pronoun (including
-the Numerals), Preposition and the Indeclin-
-able.
-
-e
-There are three Genders :—Masculine, Femi-
-nine and Neuter.
-
-There are two Numbers :—Singular and
-Plural.
-
-There are eight Cases (including the
-Vocative) :-—Pathama or the First Case
-(Nominative), Dutiyad, the Second Case
-(Accusative), Tatiya, the Third Case (Instru-
-mental),  Catut!hi, the Fourth (Dative),
-Райсат?, the Fifth (Ablative), Chattht, the
-Sixth (Genitive), Sattami, the Seventh (Loca-
-tive), апа Alapana or the Case of Address ( Voca-
-tive). In derivation the last one is not distin-
-guished from the Pathama, although it is
-apparently different in the Singular number.
-
-39 BALAVATARA
-
-6. Case-endings are added to the Linga or
-crude form of a word (which is also called its
-Stem or Base), according to the particular
-relation in which we intend to use it.
-
-The case-endings are set in order as follows :—
-
-Singular Plural
-
-Ist—Pathama
-
-(Nominative) } si yo
-Alapana (Vocative) ai or ga yo
-2nd—Dutiya
-
-(Accusative) j am yo
-Srd—Tatiyā
-
-(Instrumental) } nī hi
-4th—Catutthi ;
-
-r (Dative) Y ва MAH
-
-5th— Pancami
-
-(Ablative) ) smi hi
-6th—Chatthi
-
-(Genitive) j En us
-"th—Sattami Е
-
-(Locative) 1 smiri su
-
-A stem is said to be declined, when the
-case-endings are stuck to it. The case-endings
-undergo change in some instances, as can be seen
-from the declension of the stem Buddha, given
-
-below :—
-Singular Plural
-
-Pathama Buddho Buddhé
-Alapana Buddha, Buddha - Buddha
-Dutiyàá Buddha? Buddhe
-
-: Buddhehi
-
-ya Buddhena {
-Tatiya u n Buddhebhi
-
-[e
-
-NAMAKANDO 83
-
-Singular Plural
-Catutthi Buddhassa Buddhanam
-Buddha
-Pancami } Buddhasma Buddhehi
-Buddhamha Buddhebhi
-Chatthi Buddhassa Buddhdanam
-Buddhe
-Sattami У Buddhasmin Buddhesu
-Buddhamhi
-
-Stems are crude forms of words which are
-neither roots, nor verbal terminations, nor
-case-endings, but which yet convey a certain
-meaning; for instance, when we merely say
-Buddha, the term signifies neither the root
-budh from which it is derived, nor any verbal
-termination; nor, again, has any case-ending
-been added to it, giving it the bearing of the
-nominative or the accusative or the instru-
-mental and so on. Nevertheless, it means
-some one named ' Buddha,’ but not yet in any
-particular relation to any person, action or
-thing, and'as such it is merely a nominal stem
-or base. Itis only when particular relations are
-intended that suitable case-endings are applied
-to the stem. Thus, when we understand
-‘ Buddha’ doing something, we use the nomi-
-native form Buddho; and, when we mean
-‘Buddha’ as the object of an action, we
-employ the accusative Buddham ; again, if we
-want to express something done by ' Buddha,’
-we make use of the instrumental Buddhena,
-
-5
-
-34. BALAVATARA
-
-In this way, all the case-forms can be used to
-convey different senses, as is shown below.
-
-The Use of Cases
-Pathama
-
-(1) Lingatthe,—in the sense of the crude form (i.e.,
-stem or nominal base), ¢.g., .Buddho, puriso (vide
-Kaccayana, З, 1. 14).
-
-Г
-
-(ii) Alapane ca,—in vocation too, e.g., bho purisa,
-bhavanto  purisà ; bho raja, bhavanto rájáno ;
-he sakha, he sakhino (vide Kaccayana, 3. 1. 15).
-
-(ui) To denote the kattā or subject, e.g., so karoti ;
-Satthd atitarn ahari.
-
-Dutiya -
-০ (i) Kammatthe,—to denote an object, e.g., ratham
-
-karoti ; dhammam sunüti ; vácarn bhasati ; gavar
-hanati ; vihayo lunàüti (vide Kaccáyana, 8.1.27).
-Tatiyā
-
-(i) Kattari ca,—to denote the agent too (beside the
-Pathama), e.g., raññā hato poso; Yakkhena
-dinno varo ; ahiná dattho naro (vide Kaccüyana,
-3.1.18). +
-
-(ii) Karane,—to denote instrumentality, e.g., aggind kutim
-jhapeti ; manasa ce padutthena ; kaáyena kammarn
-karoti (vide Kacciyana, 3.1.16). .
-
-Catutthi
-
-G) Sampadüne,—to denote the recipient, e.g., Buddhassa
-và Dhammassa và Sañghassa và дапа .deti (vide
-Кассӣуапа, 3.1.23).
-
-[One to whom something is desired to be
-given, or one who entertains &amp; liking for
-
-e
-
-NAMAKANDO 35
-
-something, or one from whom something
-is taken as debt, is put in the Dative
-case—Yassa dütuküámo rocate vā dha-
-rayate và tam Sampaddnam (vide Kacca-
-yana, 3.1.6), ¢.g., samanassa civaram
-dadati;  samanassa rocate васса ;
-suvannarm me dharayate. |
-
-Pancami
-
-(i) Apüdane,—to denote the Ablative, €.9., pāpā cittam
-nivaraye ; abbhd туо va candimi;  bhayà
-muccati so naro (vide Kaccayana, 3.1.25).
-
-[The Ablative case signifies that from which
-some person or thing goes off or fear
-arises or something is received—Yasmd-
-dapeti bhayam adatte và tad Apádànam e
-vide Kaccayana 3. 1. 1), e.g., дата
-apenti munayo ; падага niggato raja;
-cord bhayarn 18555 ; dcariy’upajjhayehi
-sikkharn ganhiati 51550, |
-
-Chatthi
-
-(i) Sdmismim,—to denote ownership, e.g., tassa bhik-
-Кампо  pativisarn ; tassa  bhikkhuno  pattam;
-tassa bhikkhuno civaram ; attano mukharhn (vide
-Kaccayana, 3.1.31).
-
-Sattami
-
-(i) Okāse,—to denote location, ¢.g., gambhire odak'an-
-nave; püpasmim ramati mano; Bhagavati
-brahmacariyam vasati kulaputto (vide Kaccayana,
-3.1.32).
-
-[The site of an action is called Okàsa (location),
-and the Locative case signifies 'site'— Yo
-
-36 BALAVATARA
-
-"лато tam okdsam (vide Kaccayana, 9.1.8).
-Site is of four kinds :—
-
-(a) Vyapiko ог co-extensive,—e.g., jalesu
-khirarn ; tilesu telam ; ucchüsu raso.
-
-(b) Opasilesiko or contiguous,—e.qg., pariyanke
-rājā seti ; dsane upavittho Sangho.
-
-(c) Vesayiko or objective, i.e., relating to
-place or quarter,—e.g., bhiimisu manussi ;
-antarikkhe vàyu ; аказе sakuna.
-
-(d) Sümipiko or proximate, adjacent, e.g.,
-vane hatthino ; Gangdyamn ghoso ; vaje
-givin duhanti ; Sdvatthiyam — viharati
-Jetavane. |
+   * In sā + itthi = sotthi, the succeeding vowel *i*
+     having been elided, the preceding *ā* is changed
+     into *o* by extension of sutta II. 5 (p. 10).
+
+   * In  busā + eva = busamiva, *m* іs inserted
+     (11. 11), the preceding vowel *ā* is shortened (*vide*
+     Kaccüyana, 1. 3. 4. - "Rassaṁ") and the succeeding
+     *e* is changed into *i* by extension of sutta
+     II. 10 (p. 14).
+
+   * In bahu + ābādho = bavhābādho, *u* being followed
+     by the dissimilar vowel *ā* is first changed
+     into *v* (II. 7), and then there is inversion
+     between and v.
+
+   * In adhi + abhavi = addhābhavi, there is application
+     of the principle according to which "adhi
+     is sometimes changed into addha," and of
+     sutta II. 4 (p. 10), which lays down, “If the
+     preceding vowel is elided, the succeeding vowel
+     is sometimes lengthened.”
+
+3. Radānaṃ ḷo.
+
+   * *R* and *d* are changed into *ḷ*:—
+
+     * Pari + bodho = paḷibodho.
+     * Pari + dāho = pariḷāho.
+
+4. Sare, byañjane vā pare binduno kvaci mo.
+
+   * If a vowel ог a consonant follows, *ṁ* is
+     sometimes changed into *m* :
+     * Maṃ + ahāsi = mamahāsi (*vide* sutta IV. 2) ;
+     * Buddhaṃ + saraṇaṃ = buddham saraṇaṃ.
+
+5. Binduto parasarāna maññassaratāpi.
+
+   * The vowels after *ṁ* may be changed into
+     dissimilar vowels:
+ 
+     * Taṃ + iminā = tadaminā — (*i* is changed into *a*,
+       after *ṁ* has been replaced by *d* according to sutta
+       IV. 2).
+ 
+     * Evaṃ + imaṃ = evumaṃ — (*ṁ* is elided, according
+       to the Kaccāyana sutta "Kvaci lopaṁ" 1.4.9,
+       and then *i* is changed into *u*.
+ 
+     * Kiṃ + ahaṃ = kehaṃ - (*ṁ* is elided, and *i* is
+       changed into *e*).
+
+6. Vākyasukhuccāraṇatthaṃ, chandahānitthañca vaṇṇalopopi.
+
+   * Letters are sometimes omitted for the sake of
+     euphony and metre :
+
+   * Paṭisaṁkhāya + yoniso = paṭisaṁkhā'yoniso
+     — (the preceding *ya* is elided for the sake of
+     euphony).
+
+   * Alāpūni + sīdanti = 'lāpūni sīdanti
+     — (the initial *a*
+     of *alābūni* is elided on account of the exigency of
+     metre).
+
+2. Vutyabhedāya vikāropi.
+
+   * There is exception even to the above sub-rule
+     for the sake of metre:[^6]
+
+   * Akaramhase te = akaramhasa te - (the long
+     vowel *e* of *se* is changed into the short vowel *a*,
+     *metri causa*).
+
+[^6]: Akkharaniyamo *Chandaṁ*, garū-lahu-niyamo bhave *Vutti*,\
+Digho saṁyogādi-pubbo rasso ca *garū*, *lahu* tu rasso.\
+**Metre** is the harmonious order of letters. **Measure** is the regulation
+of heavy and light vowels.\
+A *heavy* vowel is a long vowel, and so is also the short vowel which
+precedes a double consonant or the *Niggahīta*; e.g., the italics in the
+following :— *ā*, *аssa*, *aṁ*.\
+A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
+
+## VI. NĀMAKANDO (Name)
+
+1. Words are chiefly divided into *two* classes,
+   — **Name** and **Verb**.
+
+2. Name comprises Noun, Pronoun (including
+   the Numerals), Preposition and the Indeclinable.
+
+3. There are *three* Genders :— Masculine, Feminine and Neuter.
+
+4. There are *two* Numbers :— Singular and
+   Plural.
+
+5. There are *eight* Cases (including the
+   *Vocative*) :- *Paṭhamā* or the First Case
+   (Nominative), *Dutiyā*, the Second Case
+   (Accusative), *Tatiyā*, the Third Case (Instrumental),
+   *Catutthī*, the Fourth (Dative),
+   *Раñсаmī*, the Fifth (Ablative), *Chaṭṭhī*, the
+   Sixth (Genitive), *Sattamī*, the Seventh (Locative),
+   апd *Ālapana* or the Case of Address ( Vocative).
+   In derivation the last one is not distinguished from the Paṭhamā, although it is
+   apparently different in the Singular number.
+
+6. Case-endings are added to the **Linga** or
+   crude form of a word (which is also called its
+   **Stem** or **Base**), according to the particular
+   relation in which we intend to use it.
+
+   * The case-endings are set in order as follows :—
+
+     |                             | *Singular* | *Plural* |
+     | --------------------------- | ---------- | -------- |
+     | 1st — Paṭhamā (Nominative)  | si         | yo       |
+     | Ālapana (Vocative)          | si *or* ga | yo       |
+     | 2nd — Dutiyā (Accusative)   | aṁ         | yo       |
+     | 3rd — Tatiyā (Instrumental) | nā         | hi       |
+     | 4th — Catutthī (Dative)     | ва         | naṁ      |
+     | 5th — Раñсаmī (Ablative)    | smā        | hi       |
+     | 6th — Chaṭṭhī (Genitive)    | ва         | naṁ      |
+     | 7th — Sattamī (Locative)    | smiṁ       | su       |
+
+     A stem is said to be **declined**, when the
+     case-endings are stuck to it. The case-endings
+     undergo change in some instances, as can be seen
+     from the declension of the stem *Buddha*, given
+     below :—
+
+     |          | *Singular*                          | *Plural*                |
+     | -------- | ----------------------------------- | ----------------------- |
+     | Paṭhamā  | Buddh*o*                            | Buddh*ā*                |
+     | Ālapana  | Buddh*a*, Buddh*ā*                  | Buddh*ā*                |
+     | Dutiyā   | Buddh*aṁ*                           | Buddh*e*                |
+     | Tatiyā   | Buddh*ena*                          | Buddh*ehi*, Buddh*ebhi* |
+     | Catutthī | Buddh*assa*                         | Buddh*ānaṁ*             |
+     | Раñсаmī  | Buddh*ā*, Buddh*asmā*, Buddh*amhā*  | Buddh*ehi*, Buddh*ebhi* |
+     | Chaṭṭhī  | Buddh*assa*                         | Buddh*ānaṁ*             |
+     | Sattamī  | Buddh*e*, Buddh*asmiṁ*, Buddh*amhi* | Buddh*esu*              |
+
+7. **Stems** are crude forms of words which are
+   neither roots, nor verbal terminations, nor
+   case-endings, but which yet convey a certain
+   meaning; for instance, when we merely say
+   *Buddha*, the term signifies neither the root
+   *budh* from which it is derived, nor any verbal
+   termination; nor, again, has any case-ending
+   been added to it, giving it the bearing of the
+   nominative or the accusative or the instrumental
+   and so on. Nevertheless, it means
+   some one named ' Buddha,’ but not yet in any
+   particular relation to any person, action or
+   thing, and'as such it is merely a nominal *stem*
+   or *base*. It is only when particular relations are
+   intended that suitable case-endings are applied
+   to the stem. Thus, when we understand
+   'Buddha' *doing something*, we use the nominative
+   form *Buddho*; and, when we mean
+   'Buddha' as the *object of an action*, we
+   employ the accusative *Buddhaṁ* ; again, if we
+   want to express something done by 'Buddha,'
+   we make use of the instrumental *Buddhena*,
+   In this way, all the case-forms can be used to
+   convey different senses, as is shown below.
+
+   **The Use of Cases**
+
+   * *Paṭhamā*
+
+     1. *Lingatthe*, — in the sense of the crude form (i.e.,
+         stem or nominal base), e.g., *Buddho*, *puriso* (*vide*
+         Kaccāyana, З, 1. 14).
+
+     2. *Ālapane ca*, — in vocation too, e.g., *bho purisa*,
+       *bhavanto  purisā* ; *bho rāja*, *bhavanto rājāno* ;
+       *he sakha*, *he sakhino* (*vide* Kaccāyana, 3. 1. 15).
+
+     3. To denote the *kattā* or subject, e.g., *so* karoti ;
+       *Satthā* aṁtaṁ āhari.
+
+   * *Dutiyā*
+
+     1. *Kammatthe*, — to denote an object, e.g., *rathaṁ*
+       karoti ; *dhammaṁ* suṇāti ; *vācaṁ* bhāsati ; *gavaṁ*
+       hanati ; *vīhayo* lunāti (*vide* Kaccāyana, 8.1.27).
+
+   * *Tatiyā*
+
+     1. *Kattari ca*, — to denote the agent too (beside the
+       Paṭhamā), e.g., *raññā* hato poso; *Yakkhena*
+       dinno varo ; *ahinā* daṭṭho naro (*vide* Kaccāyana,
+       3.1.18).
+
+     2. *Karane*, — to denote instrumentality, e.g., agginā kuṭiṁ
+       jhāpeti ; manasā ce padutthena ; *kāyena* kammaṁ
+       karoti (*vide* Kaccāyana, 3.1.16).
+
+   * *Catutthī*
+
+     1. *Sampadāne*, — to denote the recipient, e.g., *Buddhassa*
+       vā *Dhammassa* vā *Saṅghassa* và dāпаṁ deti (*vide*
+       Кассāуапа, 3.1.23).
+
+        * [One to whom something is desired to be
+          given, or one who entertains a liking for
+          something, or one from whom something
+          is taken as debt, is put in the Dative
+          case — *Yassa dātukāmo rocate vā dhārayate vā taṁ Sampadānaṁ*
+          (vide Kaccāyana, 3.1.6), e.g., *samaṇassa* cīvaraṁ
+          dadāti;  *samaṇassa* rocate вассаṁ ;
+          suvaṇṇaṁ *me* dhārayate.]
+
+   * *Раñсаmī*
+
+     1. *Apādāne*, — to denote the Ablative, e.g., *pāpā* cittaṁ
+        nivaraye ; *abbhā* mutto vā candimā;  *bhayā*
+        muccati so naro (*vide* Kaccayana, 3.1.25).
+
+        * [The Ablative case signifies that from which
+          some person or thing goes off or fear
+          arises or something is received -
+          *Yasmādapeti bhayaṁ adatte vā tad Apādānaṁ*
+          (*vide* Kaccāyana 3. 1. 1), e.g., gāmā
+          apenti munayo ; *паgarā* niggato rājā;
+          corā bhayaṁ jayāte ; ācariy’upajjhāyehi
+          sikkhaṁ gaṇhāti sisso.]
+
+   * *Chaṭṭhī*
+
+     1. *Sāmismiṁ*, — to denote ownership, e.g., *tassa bhikkhuno*
+        paṭivisaṁ ; *tassa  bhikkhuno* pattaṁ;
+        *tassa bhikkhuno* civaraṁ ; *attano* mukhaṁ (*vide*
+        Kaccāyana, 3.1.31).
+
+   * *Sattamī*
+
+     1. *Okāse*, — to denote location, e.g., *gambhīre odak'aṇṇave*;
+        *pāpasmiṁ* ramati mano; *Bhagavati*
+        brahmacariyaṁ vasati kulaputto (*vide* Kaccāyana,
+        3.1.32).
+
+        * [The site of an action is called *Okāsa* (location),
+          and the Locative case signifies 'site' —
+          *Yo'dhāro taṁ okāsaṁ* (*vide* Kaccāyana, 9.1.8).
+          *Site* is of four kinds :—
+
+          1. *Vyāpiko* ог co-extensive, — e.g., *jalesu
+             khīraṁ* ; *tilesu* telaṁ ; *ucchūsu* raso.
+
+          2. *Opasilesiko* or contiguous, — e.g., *pariyaṅke*
+             rājā seti ; *āsane* upaviṭṭho Saṅgho.
+
+          3. *Vesayiko* or objective, i.e., relating to
+             place or quarter, — e.g., *bhūmisu* manussā ;
+             *antarikkhe* vāyu ; *ākāsе* sakunā.
+
+          4. *Sāmīpiko* or proximate, adjacent, e.g.,
+             *vane* hatthino ; *Gaṅgāyaṁ* ghoso ; *vaje*
+             gāviṁ duhanti ; *Sāvatthiyaṁ* viharati
+             *Jetavane*.]
 
 8. Nouns are divided into four classes, according
-4 as they have (1) one gender, (2) two genders,
-(3) three genders, and (4) no gender.
-
-A. Declension of Nouns having one Gender—
-masculine, feminine or neuter.
-
-1. MASCULINE.
-
-(i) MASCULINE STEMS ENDING IN -а.
-
-Buddha*
-
-Singular Plural
-1st Buddho Buddha
-Voc. Buddha, Buddha Buddha
-2nd Buddharn Buddhe
-
-- Stems declined like Buddha are :—sura, nara, uraga, asura, niga,
-yakkha, gsndhabba, kinnara, manussa, pisica, peta, sibs, mitatga,
-jabgama, turafigs, varibs, byagghs, accha, kacchapa, taracchs, miga,
-asss, вора, purisa, Aloka, loka, nilaya, anila, c&amp;ga, yoga, vayama,
-güma, nigama, ágama, dhamma, каша, saigha, ogha, ghosa, patigba,
-
--
-
-.
-
-NAMAKANDO 37
-
-Singular Plural
-9rd Buddhena Buddhehi,
-Buddhebhi
-4th Buddhassa Buddhanarm
-P Budan, ` Buddhehi.
-5th Buddhamha, Buddhebhi
-Buddhasmiü |
-6th Buddhassa Buddhanain
-Buddhe,
-7th { Buddhamhi, Buddhesu
-Buddhasmiri
-Atta
-Singular Plural
-1st Atta Attano
-Voc. Atta, Atta Attano
-2nd Attünam, Абба Attino
-s Attanehi,
-ord Attena, Attana Attanebhi
-4th Attano Attinam
-Attana, š
-5th i Attamha, —
-দাদি Attanebhi
-Gth Attano 48668108118
-a oe Attanesu, |
-7th Attani Atsan,
-Raja
-Singular Plural
-ist Raja Кајапо
-Voc. Raja, Raja Rājāno
-
-üsava, kodha, lobha, sirambhe, thambha, mada, māna, pamāds,
-makkha, punnāga, puga, panssa, ёзара, campaka, amba, hintála, tala,
-vakula, ajjuna, kimeuka, mandira, kunda, pucimanda, karafija, rakkba,
-mayüra, sakupa, аџјајь, койса, harbsa, etc-
-
-cf
-=
-
-38
-
-BALAVATARA
-
-Singular
-
-2nd lu&amp;ujanarp, Каја
-
-Srd Rania, Rajena
-
-4th Rañño, Rajino
-
-Raina, Rajamha,
-Rajasma
-
-5th
-
-6th — Raünno, Rajino
-7th 1029, Rajini
-
-Plural
-Rajano
-Каја, Rājūbhi,
-Rājehi, Rājebhi
-
-í Raññarn, Rüjünarn,
-
-Rajanarin
-
-í Rajühi, Rājūbhi,
-
-Rajehi, Rajebhi
-( Rainham, Rajünarn,
-l Hajanatrhn
-Rajusu, Rajisu, Rajesu.
-
-Gunavanta*
-
-[Strictly speaking, the stem is Gunavantu.]
-
-Singular
-
-lst | Gunava
-
-Gunavain, Gunava,
-Voc. í এ
-
-Gunava
-2nd Gunavantarm
-Gunavata,
-Srd Gunavantena
-Gunavato,
-4th Gunavantassa
-
-Gunavata,
-6th ] Gunavantaso,
-Gunavantasma
-
-6th জাল
-Gunavantassa
-
-Gunavati, Gunavante,
-
-7th J Gunavantamhi,
-Gunavantasmim
-
-Plural
-
-Gunavanto, Gunavanta
-
-Gunavante
-Gunavantehi,
-Gunavantebhi
-Gunavatarii,
-Gunavantanam
-
-Gunavantehi,
-Gunavantebhi
-
-Gunavatari
-Gunavantinarn
-
-Gunavantesu.
-
-- Stems of the following are declined like Gunavanta :—maghavi,
-kulavi, phalavá, yasavi, dhanavi, sutavi, bhagaviü, himava, balavá,
-
-silavà, paünfiavá, etc.
-
-lst
-
-Voe.
-
-2nd
-Srd
-
-7th
-
-Ist
-
-Voc.
-
-2nd
-Srd
-
-NAMAKANDO ,
-
-59
-
-Gacchanta * -
-
-Singular
-Gaccharn, Gacchanto
-Gaccharn,
-Gacha, Gaechü
-Gacchantam
-Gacchata,
-Gacchantena
-‘Gacchato,
-, Gacchantassa
-Gacchata, |
-I Gacchantamha,
-Gacchantasmàü
-Gacchato;
-Gacchantassa
-Gacchati, Gacchante,
-Í Gacchantamt
-Gacchantasmim
-
-(it)
-
-- -^ Aggi t
-Singular
-Aggi
-Aggi `
-Aggirn
-Agginñ
-
-Plural
-
-Gacchanto, Gacchanti
-Gacchanto,
-
-Gacchanta
-
-Gacchante
-Gacchantehi,
-Gacchantebhi
-Gacchatam,
-Gacchantinarn
-
-Gacchantehi,
-Gacchantebhi
-
-Gacchatam,
-Gacchantanarn
-
-Gacchantesu. °
-
-MASCULINE STEMS ENDING IN -i.
+   4 as they have (1) one gender, (2) two genders,
+   (3) three genders, and (4) no gender.
+
+   **A. Declension of Nouns having one Gender** —
+   masculine, feminine or neuter.
+
+   1. MASCULINE.
+
+      1. MASCULINE STEMS ENDING IN -*а*.
+
+         * *Buddha*[^7]
+
+           |      | *Singular*                          | *Plural*                |
+           | ---- | ----------------------------------- | ----------------------- |
+           | 1st  | Buddh*o*                            | Buddh*ā*                |
+           | Voc. | Buddh*a*, Buddh*ā*                  | Buddh*ā*                |
+           | 2nd  | Buddh*aṁ*                           | Buddh*e*                |
+           | 3rd  | Buddh*ena*                          | Buddh*ehi*, Buddh*ebhi* |
+           | 4th  | Buddh*assa*                         | Buddh*ānaṁ*             |
+           | 5th  | Buddh*ā*, Buddh*asmā*, Buddh*amhā*  | Buddh*ehi*, Buddh*ebhi* |
+           | 6th  | Buddh*assa*                         | Buddh*ānaṁ*             |
+           | 7th  | Buddh*e*, Buddh*asmiṁ*, Buddh*amhi* | Buddh*esu*              |
+
+         * *Atta*
+
+           |      | *Singular*                     | *Plural*                |
+           | ---- | ------------------------------ | ----------------------- |
+           | 1st  | Att*ā*                         | Att*āno*                |
+           | Voc. | Att*a*, Att*ā*                 | Att*āno*                |
+           | 2nd  | Att*ānaṁ*                      | Att*āno*                |
+           | 3rd  | Att*ena*, Att*anā*             | Att*anehi*, Att*anebhi* |
+           | 4th  | Att*ano*                       | Att*ānaṁ*               |
+           | 5th  | Att*anā*, Att*asmā*, Att*amhā* | Att*anehi*, Att*anebhi* |
+           | 6th  | Att*ano*                       | Att*ānaṁ*               |
+           | 7th  | Att*ani*                       | Att*anesu*, Att*esu*    |
+
+         * *Rāja*
+
+           |      | *Singular*                    | *Plural*                                 |
+           | ---- | ----------------------------- | ---------------------------------------- |
+           | 1st  | Rāj*ā*                        | Rāj*āno*                                 |
+           | Voc. | Rāj*a*, Rāj*ā*                | Rāj*āno*                                 |
+           | 2nd  | Rāj*ānaṁ*, Rāj*aṁ*            | Rāj*āno*                                 |
+           | 3rd  | Rāj*ena*, Rā*ññā*             | Rāj*ehi*, Rāj*ebhi*, Rāj*ūhi*, Rāj*ūbhi* |
+           | 4th  | Rāj*ino*, Rā*ñño*             | Rāj*ānaṁ*, Rā*ññaṁ*, Rāj*ūnaṁ*           |
+           | 5th  | Rā*ññā*, Rāj*asmā*, Rāj*amhā* | Rāj*ehi*, Rāj*ebhi*, Rāj*ūhi*, Rāj*ūbhi* |
+           | 6th  | Rā*ñño*, Rāj*ino*             | Rāj*ānaṁ*, Rā*ññaṁ*, Rāj*ūnaṁ*           |
+           | 7th  | Rāj*ini*, Rā*ññe*             | Rāj*usu*, Rāj*ūsu*, Rāj*esu*             |
+
+         * *Guṇavanta*[^8]
+
+           |      | *Singular*                                               | *Plural*                      |
+           | ---- | -------------------------------------------------------- | ----------------------------- |
+           | 1st  | Guṇav*ā*                                                 | Guṇavant*o*, Guṇavant*ā*      |
+           | Voc. | Guṇav*a*, Guṇav*ā*, Guṇav*aṁ*                            | Guṇavant*o*, Guṇavant*ā*      |
+           | 2nd  | Guṇavant*aṁ*                                             | Guṇavant*e*                   |
+           | 3rd  | Guṇavant*ena*, Guṇavat*ā*                                | Guṇavant*ehi*, Guṇavant*ebhi* |
+           | 4th  | Guṇavant*o*, Guṇavant*assa*                              | Guṇavant*ānaṁ*, Guṇavant*aṁ*  |
+           | 5th  | Guṇavant*ā*, Guṇavant*asmā*, Guṇavant*amhā*              | Guṇavant*ehi*, Guṇavant*ebhi* |
+           | 6th  | Guṇavant*o*, Guṇavant*assa*                              | Guṇavant*ānaṁ*, Guṇavant*aṁ*  |
+           | 7th  | Guṇavat*i*, Guṇavant*e*, Guṇavant*amhi*, Guṇavant*asmiṁ* | Guṇavant*esu*                 |
+
+         * *Gacchanta*[^9]
+
+           |      | *Singular*                                               | *Plural*                      |
+           | ---- | -------------------------------------------------------- | ----------------------------- |
+           | 1st  | Gaccha*ṁ*, Gacchant*o*                                   | Gacchant*o*, Gacchant*ā*      |
+           | Voc. | Gaccha*ṁ*, Gacch*a*, Gacch*ā*                            | Gacchant*o*, Gacchant*ā*      |
+           | 2nd  | Gacchant*aṁ*                                             | Gacchant*e*                   |
+           | 3rd  | Gacchant*ena*, Gacchat*ā*                                | Gacchant*ehi*, Gacchant*ebhi* |
+           | 4th  | Gacchat*o*, Gacchant*assa*                               | Gacchant*ānaṁ*, Gacchat*aṁ*   |
+           | 5th  | Gacchant*ā*, Gacchant*asmā*, Gacchant*amhā*              | Gacchant*ehi*, Gacchant*ebhi* |
+           | 6th  | Gacchat*o*, Gacchant*assa*                               | Gacchant*ānaṁ*, Gacchat*aṁ*   |
+           | 7th  | Gacchat*i*, Gacchant*e*, Gacchant*amhi*, Gacchant*asmiṁ* | Gacchant*esu*                 |
+
+      2. MASCULINE STEMS ENDING IN -*i*.
+
+         * *Aggi*
 
 Plural
 
@@ -1414,9 +935,6 @@ Aggi, Aggayo
 Agel, Aggayo
 Agyihi, Aggibhi
 
-- Stems of the following are declined like Gacchahta 2০ ডে 819 вто,
-caram, tittharh, дадай, bhuñjarb, supam, pacar, jaya, jirath, cavarb,
-miya, зата, kubbam, japarb, vajar, etc.
 
 - Stems declined like Ааа are 1—J oti, páni, gagthi, mutthi, kucchi,
 
@@ -1606,7 +1124,7 @@ Gavasmirn Gosu.
 
 44 BALAVATÁRA
 
-2. FEMININE:
+1. FEMININE:
 
 (0 FEMININE STEMS ENDING IN -&amp;.
 
@@ -2851,6 +2369,24 @@ some of the Indeclinables are used separately. e.g.,—
 Prefix: раһаго, paharati;
 
 Indeclinables: so ca; sā ca; 00558 và karoti và.
+
+[^7]: Stems declined like Buddha are :— sūra, nara, uraga, asura, nāga,
+yakkha, gsndhabba, kinnara, manussa, pisāca, peta, sīha, mātaṅga,
+jaṅgama, turaṅga, varāba, byaggha, accha, kacchapa, taraccha, miga,
+asss, sоṇа, purisa, āloka, loka, nilaya, anila, cāga, yoga, vāyāma,
+gāma, nigama, āgama, dhamma, kāma, saṅgha, ogha, ghosa, paṭigha,
+āsava, kodha, lobha, sārambha, thambha, mada, māna, pamāda,
+makkha, punnāga, puga, panasa, āsаnа, campaka, amba, hintāla, tāla,
+vakula, ajjuna, kiṁsuka, mandāra, kunda, pucimanda, karañja, rakkba,
+mayūra, sakuṇa, аṇḍaja, kоñса, haṁsa, etc.
+
+[^8]: Stems of the following are declined like Gunavanta :— maghavā,
+kulavā, phalavā, yasavā, dhanavā, sutavā, bhāgavā, himavā, balavā,
+sīlavā, paññavā, etc.
+
+[^9]: Stems of the following are declined like Gacchahta :- mahaṁ,
+caraṁ, tiṭṭhaṁ, dadaṁ, bhuñjaṁ, suñaṁ, pacaṁ, jayaṁ, jiraṁ, cavaṁ,
+miyaṁ, sāraṁ, kubbaṁ, japaṁ, vajaṁ, etc.
 
 VII
 

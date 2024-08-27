@@ -45,6 +45,38 @@ Relying on the Kaccāyana commentary and others;\
 I will straighten even the young and ignorant,\
 Through the well organised and clear chapters of the **Padarūpasiddhi**.”
 
+### ChatGPT
+
+Here is the translation of the given Pali verse into English:
+
+**[Ka]**
+Bowing my head to the Buddha, the Jina (Conqueror), who is like the sun in the field of the three Buddhas, whose pure and true teachings shine with a thousand rays, who is the peak of enlightenment and the support of the world;
+
+**[Kha]**
+Having paid homage to the teacher Kaccāyana, and relying on the Kaccāyana grammar commentary, I will make an effort to produce this work, clear and straightforward, for the enlightenment of the ignorant, and to achieve the mastery of word formations.
+
+### Claude
+
+Here's a translation of the Pali verses into English:
+
+[Ka]
+
+I respectfully bow my head to the Victor (Buddha),
+Who radiates a thousand rays of the pure true Dhamma,
+Who rose like the sun of perfect enlightenment,
+The sole sun in the field of the three Buddhas,
+Along with the Dhamma and the Sangha.
+
+[Kha]
+
+Having paid homage to the teacher Kaccāyana,
+And relying on the commentary of Kaccāyana and others,
+For the enlightenment of the inexperienced,
+I will compose a clear and well-structured
+"Padarūpasiddhi" (treatise on the formation of words).
+
+Note: This translation attempts to convey the meaning while maintaining some of the poetic structure. The verses appear to be an invocation and declaration of intent for composing a grammatical treatise, likely the "Padarūpasiddhi," a work on Pali grammar.
+
 ## Preface
 
 **Rūpasiddhi** (also called **Padarūpasiddhi**, **Rūpasiddhipakaṇaṁ**, **Mahārūpasiddhi**, and **Rūpasiddhi-aṭṭhakathā**) is a Pāli grammar by Buddhappiya (or Dīpankara) Thera, written sometime in the 13th century.

@@ -1,9 +1,10 @@
 ---
-draft: true
+draft: false
 categories: ["Bālāvatāra", "Sandhi"]
 tags: ["Pali", "textbook"]
 title: "1. Sandhi kaṇḍa"
 linkTitle: "Sandhi"
+weight: 2
 description: >
   The "Sandhi" chapter covers the representation of the language using letters and various rules for "sandhi". `sandhi` is derived from `saṃ` + `dhā` meaning "putting together" and is used to refer to the transformation that result from the joining together of two words (or two parts of a word) for the sake of euphony. This chapter is translated by me.
 ---
@@ -14,7 +15,8 @@ description: >
 
 >Akkharāpi akārādayo ekacattālīsaṃ suttantopakārā. Taṃ yathā-a ā-i ī-u ū-e o, ka kha ga gha ṅa, ca cha ja jha ña, ṭa ṭha ḍa ḍha ṇa, ta tha da dha na, pa pha ba bha ma, ya ra la va sa ha ḷa aṃ-iti.
 
-There are 41 letters, beginning with a, arranged as follows:
+The letters beginning with 'a' are forty-one, useful for the suttas.
+They are as follows: a, ā, i, ī, u, ū, e, o, ka, kha, ga, gha, ṅa, ca, cha, ja, jha, ña, ṭa, ṭha, ḍa, ḍha, ṇa, ta, tha, da, dha, na, pa, pha, ba, bha, ma, ya, ra, la, va, sa, ha, ḷa, aṃ.
 
 {{< phrow >}}
 {{< phoneme 𑀅 a "/ə/" >}}
@@ -87,7 +89,7 @@ There are 41 letters, beginning with a, arranged as follows:
 {{< phgap >}}
 {{< /phrow >}}
 
-### 3. Tatthodantāsarā aṭṭha (8 vowels)
+### 3. Tatthodantāsarā aṭṭha (8 vowels ending with "o")
 
 >Tattha akkharesu okārantā aṭṭha sarā nāma. Tattheti vattate.
 
@@ -108,7 +110,7 @@ The first 8 letters ending with "o" are called "sarā" (vowels).
 
 >Tattha saresu lahumattā a, i, u iti tayo rassā.
 
-The three short vowels are a, i, u.
+The three metrically light vowels are called "rassā" (short): a, i, u.
 
 {{< phrow >}}
 {{< phoneme 𑀅 a "/ə/" >}}
@@ -127,7 +129,7 @@ The three short vowels are a, i, u.
 >
 >Saṃyogato pubbe eo rassā ivoccante, anantarā byañjanā saṃyogo. Ettha, seyyo, oṭṭho, sotthi.
 
-These vowels are metrically long.
+The other vowels are metrically heavy and called "dīghā" (long).
 
 {{< phrow >}}
 {{< phoneme 𑀆 ā "/aː/" >}}
@@ -492,7 +494,11 @@ Exceptions:
 
 According to Kaccāyana "sare kvaci" rule, sometimes there is no morphological transformation of original vowels.
 
-### 22. Abhi uggatotyatra (case of "abhi" + "uggato")
+>Abhi uggatotyatra
+
+Consider example of "abhi" + "uggato".
+
+### 22. Abbho abhi ("abbh" from "abhi")
 
 >‘‘Abbho abhī’’ti abhissa abbho. Abbhuggato.
 
@@ -504,7 +510,7 @@ According to Kaccāyana "Abbho abhi" rule, "abhi" can become "abbh"
 
 >Byañjanetyadhikāro. Kvacītveva. So bhikkhu, kacci nu tvaṃ, jānema tantīha –
 
-These rules sometimes apply for consonants at start of word to be joined to previous word.
+The following rules sometimes apply for consonants at start of word to be joined to previous word.
 
 Consider examples:
 
@@ -535,19 +541,44 @@ Consider examples (duplication in place):
 * u + ghoso
 * ākhātaṃ
 
-### 24. Vagge ghosāghosānaṃ tatiyapaṭhamā.
+### 24. Vagge ghosāghosānaṃ tatiyapaṭhamā. (in "vagga" "ghosa/āghosa" 3rd and 1st)
 
 >Vagge ghosāghosānaṃ catutthadutiyānaṃ tabbagge tatiyapaṭhamā honti yathāsaṅkhyaṃ yutte ṭhāne, ugghoso, rasse akkhātaṃ.
 
-### 25. Para sahassaṃ, atippakhotīha
+Within a "vagga" (consonant group), the third letter (of the group) replaces voiced consonants, and the first letter replaces unvoiced consonants, in their respective positions when appropriate. This rule applies to aspiration and when a short vowel is indicated.
+
+* u + ghoso = u + g + ghoso = ugghoso
+* ā + khātaṃ = ā→a + k + khātaṃ = akkhātaṃ
+
+>Para sahassaṃ, atippakhotīha
+
+Consider examples:
+
+* para + sahassaṃ
+* atippa + kho
+
+### 25. kvaci o byañjane (sometimes "o" before consonant)
 
 >‘‘kvaci o byañjane’’ti okārāgamo. Parosahassaṃ. Gāgame ca, atippagokho.
 
-### 26. Ava naddhātyatra (case of "ava" transformation)
+In accordance to Kaccāyana rule "kvaci o byañjane", in some cases, the vowel 'o' is inserted before a consonant.
+
+Examples:
+
+* para + sahassaṃ = par + (~~a~~ + o) + sahassaṃ =  parosahassaṃ ("more than a thousand")
+* atippa + kho = atippa + (g + o) + kho = atippagokho (after insertion of "g" in accordance to rule 21 ("Ya va ma da na ta ra ḷā cāgamā")
+
+>Ava naddhātyatra
+
+Consider transformation of "ava".
+
+### 26. o avasse ("o" from "ava")
 
 >‘‘o avasse’’ti kvaci avassa o. Onaddhā.
 
 According to Kaccāyana rule "o avasse", "ava" is sometimes changed to "o"
+
+Example:
 
 * ava + naddhā = (ava→o) + naddhā = onaddhā
 
@@ -555,122 +586,356 @@ According to Kaccāyana rule "o avasse", "ava" is sometimes changed to "o"
 
 Exception:
 
-* ava + sussatu = Avasussatu (no rule applied)
+* ava + sussatu = avasussatu (no rule applied)
 
-## Niggahītasandhi
+## Niggahītasandhi (Niggahita Sandhi)
 
-27. Niggahītantyadhikāro . Kiṃ kato, saṃ jāto, saṃ ṭhito, taṃ dhanaṃ, taṃ mittantiha –
+>Niggahītantyadhikāro . Kiṃ kato, saṃ jāto, saṃ ṭhito, taṃ dhanaṃ, taṃ mittantiha –
 
-Vaggantaṃ vā vagge.
+This is the section on words ending with niggahīta.
 
-Vaggabyañjane pare bindussa tabbagganto vā hoti. Kiṅkato, sañjāto, saṇṭhito, tandhanaṃ, tammittaṃ.
+Consider examples:
 
-Vāti kiṃ. Na taṃ kammaṃ.
+* kiṃ + kato
+* saṃ + jāto
+* saṃ + ṭhito
+* taṃ + dhanaṃ
+* taṃ + mittaṃ
 
-Vākāreneva le lo ca. Pulliṅgaṃ.
+### 27. Vaggantaṃ vā vagge. (sometimes, end of "vagga" from ṃ before "vagga")
 
-28. Vātyadhikāro . Evaṃ assa, etaṃ avocetīha –
+>Vaggabyañjane pare bindussa tabbagganto vā hoti. Kiṅkato, sañjāto, saṇṭhito, tandhanaṃ, tammittaṃ.
 
-Madā sare.
+When a word ending in niggahīta (ṃ) is followed by a consonant of one of the five consonant groups (vagga), the niggahīta may optionally be changed to the nasal consonant of that group (the letter with the "dot" in that group).
 
-Sare pare binduno ma dā vā honti. Evamassa, etadavoca.
+Examples:
 
-Vāti kiṃ. Maṃ ajini.
+* kiṃ + kato = ki + (ṃ→ṅ + k) + ato = kiṅkato
+* saṃ + jāto = sa + (ṃ→ñ + j) + āto = sañjāto
+* saṃ + ṭhito = sa + (ṃ→ṇ + ṭ) + hito = saṇṭhito
+* taṃ + dhanaṃ = ta + (ṃ→n + d) + hanaṃ = tandhanaṃ
+* taṃ + mittaṃ = ta + (ṃ→m + m) + ittaṃ = tammittaṃ
 
-29. Taṃ eva, taṃ hītīha –
+>Vāti kiṃ. Na taṃ kammaṃ.
 
-Eheñaṃ.
+Exception:
 
-Ekāre, he ca pare binduno ño vā hoti. Dvitte – taññeva, tameva. Tañhi, taṃ hi.
+* na + taṃ + kammaṃ = nataṃkammaṃ (rule is not applied)
 
-30. Saṃyogotīha –
+>Vākāreneva le lo ca. Pulliṅgaṃ.
 
-Saye ca.
+Similarly, "ṃ" can become "l" before another "l"
 
-Yakāre pare tena saha binduno ño vā hoti. Dvitte – saññogo, saṃyogo.
+Example:
 
-31. Cakkhu aniccaṃ, ava sirotīha - āgamo, kvacitveva.
+* puṃ + liṅgaṃ = pu (ṃ→l + l) + iṅgaṃ = pulliṅgaṃ
 
-Niggahītañca.
+>Vātyadhikāro . Evaṃ assa, etaṃ avocetīha –
 
-Sare, byañjane vā pare kvaci bindvāgamo hoti. Cakkhuṃaniccaṃ, avaṃsiro.
+Optional governing rule for examples:
 
-32. Vidūnaṃ aggaṃ, tāsaṃ ahaṃtīha –
+* evaṃ + assa
+* etaṃ + avoca
 
-‘‘Kvaci lopaṃ’’ti sare bindulopo, vidūnaggaṃ. Dīghetāsāhaṃ.
+### 28. Madā sare. ("m" and "d" before vowels)
 
-33. Buddhānaṃ sāsanaṃ, saṃ rāgotīha –
+>Sare pare binduno ma dā vā honti. Evamassa, etadavoca.
 
-‘‘Byañjane ce’’ti bindulopo, buddhānasāsanaṃ. Dīghesārāgo.
+When a vowel follows a niggahita, sometimes the niggahita can be changed to "m" or "d"
 
-34. Bījaṃ ivetīha –
+Examples:
 
-Paro vā saro.
+* evaṃ + assa = eva + (ṃ→m + a) + ssa = evamassa
+* etaṃ + avoca = eta + (ṃ→d + a) + voca = etadavoca
 
-Binduto paro saro vā lupyate, bījaṃva.
+>Vāti kiṃ. Maṃ ajini.
 
-35. Evaṃ assetīha –
+Exception:
 
-Byañjano ca visaññogo.
+* maṃ + ajini (rule not applied)
 
-Binduto pare sare lutte saṃyogo byañjano vinaṭṭhasaṃyogo hotīti pubbasalopo. Evaṃsa.
+>Taṃ eva, taṃ hītīha –
 
-Niggahītasandhi.
+Examples:
 
-Vomissaka sandhī
+* taṃ + eva
+* taṃ + hi
 
-36.Anupadiṭṭhānaṃ vuttayogato.
+### 29. Eheñaṃ. (from "e", "h" to "ñ")
 
-Idhāniddiṭṭhā sandhayo vuttānusārena ñe yyā, yathā – yadi evaṃ, bodhi aṅgātīha – yādese iminā suttena dayakārasaṃyogassa jo, dhayakārasaṃyogassa jho, dvitte – yajjevaṃ, bojjhaṅgā.
+>Ekāre, he ca pare binduno ño vā hoti. Dvitte – taññeva, tameva. Tañhi, taṃ hi.
 
-37. Asadisasaṃyoge ekasarūpatā ca.
+When 'e' or 'he' follows the niggahita ("ṃ"), it may optionally be changed to (potentially doubled) "ñ".
 
-Pari esanātīha – yādese rakārassa yo, payyesa nā.
+Examples:
 
-38. Vaṇṇānaṃ bahuttaṃ, viparītatā ca.
+* taṃ + eva = ta + (ṃ→ññ + e) + va = taññeva
+* taṃ + hi = ta + (ṃ→ñ + h) + i = tañhi
 
-Sarati, iti eva, sā itthī, busaṃ eva, bahu ābādho, adhi abhavi, sukhaṃ, dukkhaṃ, jīvotīha –
+Exceptions:
 
-Māgamo sakāre akārassa u ca, sumarati.
+* taṃ + eva = ta + (ṃ→m + e) + va = tameva
+* taṃ + hi = taṃhi (rule not applied)
 
-Issa vo, itveva.
+>Saṃyogotīha –
 
-Paralope ākārassa o, sotthī.
+Consider example "saṃ + yogo".
 
-Mādese , pubbadīghe ca ekārassa i. Busāmiva.
+### 30. Saye ca. (and with "y")
 
-Vādese havakāravipariyayo. Bahvābādho.
+>Yakāre pare tena saha binduno ño vā hoti. Dvitte – saññogo, saṃyogo.
 
-Adhissa kvaci addho, dīghe-addhābhavi.
+And for "y" - when niggahita ("ṃ") is before "y", it may optionally be changed to (potentially doubled) "ñ".
 
-Binduno, okārassa ca e. Sukhe, dukkhe, jīve.
+Example:
 
-39. Radānaṃ ḷo, paṭibodho, pariḷāho.
+* saṃ + yogo = sa + (ṃ→ññ + y) + ogo = saññogo
 
-40. Sare, byañjane vā pare binduno kvaci mo. Mama abhāsi, buddhama saraṇaṃ, pubbe mo paraṃ na netabbo ayuttattā.
+Exception:
 
-41. Binduto parasarāna maññassaratāpi.
+* saṃ + yogo = saṃyogo (rule not applied)
 
-Taṃ iminā, evaṃ imaṃ, kiṃ ahaṃ tīha-issa a. Tadaminā.
+>Cakkhu aniccaṃ, ava sirotīha - āgamo, kvacitveva.
 
-Issa u, akārassa ca e, bindulopādo. Evumaṃ, kehaṃ.
+Consider examples - optional insertion of "ṃ":
 
-42. Vākyasukhuccāraṇatthaṃ, chandahānitthañca vaṇṇalopopi.
+* cakkhu aniccaṃ
+* ava siro
 
-Paṭisaṅkhāya yonisotīha – pubbayalopo, paṭisaṅkhāyoniso.
+### 31. Niggahītañca. (and niggahitaṃ)
 
-43. Alābūnityādo akāralopo. Lābūni sīdanti, silā plavanti.
+>Sare, byañjane vā pare kvaci bindvāgamo hoti. Cakkhuṃaniccaṃ, avaṃsiro.
 
-44. Vutyabhedāya vikāropi.
+Sometimes, a niggahita ("ṃ") is inserted before a following vowel or consonant.
 
-Akaramhase tetyādo sakāre garuno ekārassa iminā lahuakāro, akaramhasa te kiccaṃ.
+* cakkhu + aniccaṃ = cakkh + (u + ṃ + a) + niccaṃ = cakkhuṃaniccaṃ
+* ava + siro =  av + (a + ṃ + s) + iro = avaṃsiro
 
-45. Akkharaniyamo chandaṃ, garulahuniyamo bhave vutti,
+>Vidūnaṃ aggaṃ, tāsaṃ ahaṃtīha –
 
-Dīgho, saṃyogādipubbo rasso ca garu, lahu tu rasso. Yathā- ā, assa, aṃ, a.
+Consider examples:
 
-46.
-Evamaññāpi viññeyyā, saṃhitā tantiyā hitā;
-Saṃhitāti ca vaṇṇānaṃ, sannidhabyavadhānato.
+* vidūnaṃ + aggaṃ
+* tāsaṃ + ahaṃ
 
-Vomissakasandhi.
+### 32. Kvaci lopaṃ (sometimes elision)
+
+>‘‘Kvaci lopaṃ’’ti sare bindulopo, vidūnaggaṃ. Dīghetāsāhaṃ.
+
+According to Kaccāyana's rule "Kvaci lopaṃ", the niggahita ("ṃ") before a vowel is sometimes elided (and the vowel can also be lengthened).
+
+Examples:
+
+* vidūnaṃ + aggaṃ = vidūna + (~~ṃ~~ + a) + ggaṃ = vidūnaggaṃ
+* tāsaṃ + ahaṃ = tāsa + (~~ṃ~~ + a→ā) + haṃ = tāsāhaṃ
+
+>Buddhānaṃ sāsanaṃ, saṃ rāgotīha –
+
+Consider examples:
+
+* buddhānaṃ + sāsanaṃ
+* saṃ + rāgo
+
+### 33. Byañjane ce (if consonant)
+
+>‘‘Byañjane ce’’ti bindulopo, buddhānasāsanaṃ. Dīghesārāgo.
+
+According to Kaccāyana's rule "Byañjane ce", the niggahita ("ṃ") before a consonant is sometimes elided (and the prior vowel can also be lengthened).
+
+* buddhānaṃ + sāsanaṃ = buddhāna + (~~ṃ~~ + s) + āsanaṃ = buddhānasāsanaṃ
+* saṃ + rāgo = s + (a→ā + ~~ṃ~~ + r) + āgo = sārāgo
+
+>Bījaṃ ivetīha –
+
+Consider example "bījaṃ ive".
+
+### 34. Paro vā saro. (or next vowel)
+
+>Binduto paro saro vā lupyate, bījaṃva.
+
+The next vowel following a niggahita (ṃ) is optionally elided.
+
+* bījaṃ + iva = bīja + (ṃ + ~~i~~) + va = bījaṃva
+
+>Evaṃ assetīha –
+
+Consider example "evaṃ assa".
+
+### 35. Byañjano ca visaññogo. (and detached consonant)
+
+>Binduto pare sare lutte saṃyogo byañjano vinaṭṭhasaṃyogo hotīti pubbasalopo. Evaṃsa.
+
+After a vowel following a niggahita (ṃ) is elided, the attached consonant that has become unattached is dropped.
+
+* evaṃ + assa = eva + (ṃ + ~~a~~ + ~~s~~) + sa = evaṃsa
+
+## Vomissaka sandhī (Combination sandhi)
+
+### 36. Anupadiṭṭhānaṃ vuttayogato. (besides those seen, apply combinations)
+
+>Idhāniddiṭṭhā sandhayo vuttānusārena ñe yyā, yathā – yadi evaṃ, bodhi aṅgātīha – yādese iminā suttena dayakārasaṃyogassa jo, dhayakārasaṃyogassa jho, dvitte – yajjevaṃ, bojjhaṅgā.
+
+For unexplained sandhi conjunctions not previously seen, eg.:
+
+* yadi + evaṃ
+* bodhi + aṅgā
+
+Apply whichever appropriate previously stated rules, eg.:
+
+1. "d" attached to "y" becomes "j"
+2. "dh" attached to "y" becomes "jh"
+
+together with doubling:
+
+* yadi + evaṃ =  ya + (d→j + ~~i~~ + e) + vaṃ = yajjevaṃ
+* bodhi + aṅgā =  bo + (dh→jh + ~~i~~ + a) + ṅgā = bojjhaṅgā
+
+### 37. Asadisasaṃyoge ekasarūpatā ca. (and dissimilar conjunctions becomes similar)
+
+>Pari esanātīha – yādese rakārassa yo, payyesanā.
+
+Example: in "pari + esanā", "r" becomes "y":
+
+* pari + esanā = pari + y + esanā (by rule 21 "ya va ma da na ta ra ḷā cāgamā") = pa (r→y + ~~i~~ + y + e) + sanā = payyesanā
+
+Translate the following Pali grammatical rule into English:
+
+### 38. Vaṇṇānaṃ bahuttaṃ, viparītatā ca. (and various substitutions, reversals)
+
+>Sarati, iti eva, sā itthī, busaṃ eva, bahu ābādho, adhi abhavi, sukhaṃ, dukkhaṃ, jīvotīha –
+
+Consider examples:
+
+* √sar + a + ti
+* iti + eva
+* sā + itthī
+* busaṃ + eva
+* bahu + ābādho
+* adhi abhavi
+* sukhaṃ
+* dukkhaṃ
+* jīvo
+
+>Māgamo sakāre akārassa u ca, sumarati.
+
+After "ma" is added after "sa", previous "a" becomes "u":
+
+* √sar + a + ti = s + (a→u + ma) + rati = sumarati
+
+>Issa vo, itveva.
+
+"i" becomes "v":
+
+* iti + eva = it + (i→v + e) + va = itveva
+
+>Paralope ākārassa o, sotthī.
+
+When the next letter is elided, "ā" becomes "o":
+
+* sā + itthī = s + (ā→o + i) + tthī = sotthī
+
+>Mādese , pubbadīghe ca ekārassa i. Busāmiva.
+
+When "m" is substituted and the preceding vowel is lengthened, "e" becomes "i":
+
+* busaṃ + eva = bus (a→ā + ṃ→m + e) + va = busāmiva
+
+>Vādese havakāravipariyayo. Bavhābādho.
+
+When "v" is substituted, "h" and "v" are reversed:
+
+* bahu + ābādho = bah + (u→v) + ābādho = ba + (hv→vh) + ābādho = bavhābādho
+
+>Adhissa kvaci addho, dīghe-addhābhavi.
+
+Sometimes "adhi" becomes "addh", with lengthening of following vowel:
+
+* adhi + abhavi = (adhi→addh + a→ā) + bhavi = addhābhavi
+
+>Binduno, okārassa ca e. Sukhe, dukkhe, jīve.
+
+"aṃ" and "o" becomes "e":
+
+* sukhaṃ = sukh + (aṃ→e) = sukhe
+* dukkhaṃ = dukkh + (aṃ→e) = dukkhe
+* jīvo = jīv + (o→e) = jīve
+
+### 39.  Radānaṃ ḷo ("r" and "d" replaced by "ḷ')
+
+>paṭibodho, pariḷāho.
+
+Examples:
+
+* pari + bodho = pa + (r→ḷ) + i + bodho = paḷibodho
+* pari + dāho = pari + (d→ḷ) + āho = pariḷāho
+
+### 40. Sare, byañjane vā pare binduno kvaci mo. (Sometimes "ṃ" can become "ma" before a vowel or consonant.)
+
+>Mama abhāsi, buddhama saraṇaṃ, pubbe mo paraṃ na netabbo ayuttattā.
+
+Examples:
+
+* maṃ + bhāsi = ma + (ṃ→ma) + bhāsi = mamabhāsi
+* buddhaṃ + saraṇaṃ = buddha + (ṃ→ma) + saraṇaṃ = buddhamasaraṇaṃ
+
+>pubbe mo paraṃ na netabbo ayuttattā
+
+Exception: previous "m" should not be joined to next syllable if it's inappropriate
+
+### 41. Binduto parasarāna maññassaratāpi. (after an "ṃ" change to another letter, the following vowel can also change to another vowel)
+
+>Taṃ iminā, evaṃ imaṃ, kiṃ ahaṃ tīha-issa a. Tadaminā.
+>
+>Issa u, akārassa ca e, bindulopādo. Evumaṃ, kehaṃ.
+
+Examples:
+
+* taṃ + iminā = ta + (ṃ→d + i→a) + minā = tadaminā
+* evaṃ + imaṃ = eva + (ṃ→v + i→u) + maṃ = evumaṃ
+* kiṃ + ahaṃ = k + (~~i~~ + ~~ṃ~~ + a→e) + haṃ = kehaṃ
+
+### 42. Vākyasukhuccāraṇatthaṃ, chandahānitthañca vaṇṇalopopi. (For ease of pronunciation in sentences and to maintain meter in verses, phonemes can be dropped)
+
+>Paṭisaṅkhāya yonisotīha – pubbayalopo, paṭisaṅkhāyoniso.
+
+Example:
+
+* paṭisaṅkhāya + yoniso = paṭisaṅkhā + (~~ya~~) + yoniso = paṭisaṅkhāyoniso
+
+### 43. Alābūnityādo akāralopo. (eg. "alābūni", the initial 'a' can be dropped)
+
+>Lābūni sīdanti, silā plavanti.
+
+Examples:
+
+* alābūni + sīdanti = ~~a~~ + lābūni + sīdanti = lābūni sīdanti
+* silā plavanti
+
+### 44. Vutyabhedāya vikāropi. (Changes can also occur to avoid breaking metrical rules)
+
+>Akaramhase tetyādo sakāre garuno ekārassa iminā lahuakāro, akaramhasa te kiccaṃ.
+
+Example, the long "e" in "se" should become short "a":
+
+* akaramhase te = akaramhas + (e→a) + te = akaramhasa te
+
+### 45. Akkharaniyamo chandaṃ, garulahuniyamo bhave vutti. (The arrangement of letters forms meter, and the pattern of heavy and light syllables forms rhythm.)
+
+>Dīgho, saṃyogādipubbo rasso ca garu, lahu tu rasso. Yathā- ā, assa, aṃ, a.
+
+A long vowel or a short vowel followed by a conjunct consonant is heavy; a short vowel is light.
+
+Examples:
+
+* ā (heavy)
+* assa (heavy + light)
+* aṃ (heavy)
+* a (light)
+
+### 46. Evamaññāpi viññeyyā, saṃhitā tantiyā hitā. (Other sandhi rules should be understood as beneficial connections to the text.)
+
+>Saṃhitāti ca vaṇṇānaṃ, sannidhabyavadhānato.
+
+These connections between symbols are for euphonic agreement.
+
+Translate the following Pali grammatical rule into English:

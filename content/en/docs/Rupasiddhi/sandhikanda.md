@@ -3,7 +3,7 @@ draft: true
 title: "2. Sandhikaṇḍa"
 linkTitle: "2. Sandhi"
 date: 2023-11-08
-weight: 200
+weight: 1
 description: >
   Chapter on Sandhi
 categories: ["Padarūpasiddhi"]
@@ -245,7 +245,7 @@ The foremost person in the world, the faculty of wisdom, these three, no, indeed
 
 The word “vowel” is used in the sense of a consonant, or in the sense of a combination. The initial consonant should be separated from the vowel, taking care not to go beyond the initial consonant and the final consonant. Here, the word “consonant” is used in the sense of a vowel, because of the inclusion of the word “vowel”.
 
-13.Sarā sare lopaṃ (The elision of the plural in the word “sara” is optional)
+### 13. Sarā sare lopaṃ (The elision of the plural in the word “sara” is optional)
 
 >Sarā kho sabbepi sare pare ṭhite lopaṃ papponti. Lopoti adassanaṃ anuccāraṇaṃ. Ettha sarāti kāriyīniddeso. Bahuvacanaṃ panettha ekekasmiṃ sare pare bahūnaṃ lopañāpanatthaṃ. Sareti nimittaniddeso, nimittasattamī cāyaṃ, nimittopādānasāmatthiyato vaṇṇakālabyavadhāne sandhikāriyaṃ na hoti. Lopanti kāriyaniddeso, idaṃ pana suttaṃ upari paralopavidhānato pubbalopavidhānanti daṭṭhabbaṃ, evaṃ sabbattha sattamīniddese pubbasseva vidhi, na parassa vidhānanti veditabbaṃ.
 >
@@ -260,6 +260,12 @@ The elision of the plural in the word “sara” is optional when the plural is 
 >Lokaggapuggalo, paññindriyaṃ, tīṇimāni, nohetaṃ, bhikkhunovādo, mātupaṭṭhānaṃ, sametāyasmā, abhibhāyatanaṃ, dhanā matthi, sabbeva, tayassu dhammā, asantettha na dissanti.
 >
 >Yassa idāni, saññā iti, chāyā iva, kathā eva kā, iti api, assamaṇī asi, cakkhu indriyaṃ, akataññū asi, ākāse iva, te api, vande ahaṃ, so ahaṃ, cattāro ime, vasalo iti, moggallāno āsi bījako, pāto evātīdha pubbalope sampatte ‘‘sare’’ti adhikāro, idha pana ‘‘atthavasā vibhattivipariṇāmo’’ti katvā ‘‘saro, saramhā, lopa’’nti ca vattamāne –
+
+A consonant without a vowel, placed below another consonant, should be followed by the next consonant. Here, the term ‘joined’ is used to negate the confusion of separation, thus in phrases like ‘akkocchi maṃ avadhi ma,’ there is no doubt about the following consonant.
+
+The supreme person, the faculty of wisdom, these three, not this, the advice to monks, the care of the mother, the venerable one, the domain of mastery, there is wealth, all indeed, your three qualities, those not present are not seen.
+
+Now, whose perception is thus, like a shadow, like a story, thus also, you are not a recluse, the faculty of the eye, you are ungrateful, like in the sky, also to you, I salute, I am he, these four, thus the outcast, Moggallāna was a sower, early indeed when the preceding elision occurs, ‘vowel’ is the rule, but here it is said ‘due to the meaning, the change of case,’ thus ‘vowel, from the vowel, elision’ is stated.
 
 ### 15. Vā paro asarūpā.
 
@@ -276,235 +282,457 @@ The elision of the plural in the word “sara” is optional when the plural is 
 >
 >Bandhussa iva, upa ikkhati, upa ito, ava icca, jina īritaṃ, na upeti, canda udayo, yathā udake itīdha pubbāvaṇṇassarānaṃ lope kate ‘‘paro, asarūpe’’ti ca vattate, tathā ‘‘ivaṇṇo yaṃ navā’’ti ito ivaṇṇaggahaṇañca, ‘‘vamodudantāna’’nti ito uggahaṇañca sīhagatiyā idhānuvattetabbaṃ.
 
-16.Kvacāsavaṇṇaṃ lutte.
+When a vowel follows a consonant without a vowel, it may be elided. A consonant with a vowel is called ‘sarūpo,’ while one without is ‘asarūpo.’ The term ‘asavaṇṇo’ is used for a consonant without a vowel. The prefix ‘ā’ functions like ‘vā,’ indicating either a choice or a specific form, depending on the context. Here, it signifies the latter, indicating permanence or impermanence.
 
-Ivaṇṇabhūto, ukārabhūto ca paro saro asarūpe pubbassare lutte kvaci asavaṇṇaṃ pappoti. Natthi savaṇṇā etesanti asavaṇṇā, ekārokārā, tattha ṭhānāsannavasena ivaṇṇukārānamekārokārā honti.
+Now, whose perception is thus, like a shadow, like a story, thus also, you are not a recluse, the faculty of the eye, you are ungrateful, like in the sky, also to you, I salute, I am he, these four, thus the outcast, Moggallāna was a sower, early indeed.
 
-Bandhusseva, upekkhati, upeto, avecca, jineritaṃ, nopeti, candodayo, yathodake. Kvacīti kiṃ? Tatrime, yassindriyāni, mahiddhiko, sabbītiyo, tenupasaṅkami, lokuttaro. Lutteti kiṃ? Cha ime dhammā, yathā idaṃ, kusalassa upasampadā. Asarūpeti kiṃ? Cattārimāni, mātupaṭṭhānaṃ.
+Here, it does not apply – the five faculties, the faculty of faith, the supreme among beings, nineteen, whose these, the advice of the Sugata, one who has seen the end of defilements, one who has seen the flood, the sphere of the eye, where can it be found, etc.
 
-Ettha ca satipi heṭṭhā vāggahaṇe kvacikaraṇato avaṇṇe eva lutte idha vuttavidhi hotīti daṭṭhabbaṃ. Tato idha na bhavati – diṭṭhupādānaṃ, pañcahupāli, mudindriyaṃ, yo missaroti.
+It applies in the case of established exceptions.
 
-Tatra ayaṃ, buddha anussati, sa atthikā, paññavā assa, tadā ahaṃ, yāni idha bhūtāni, gacchāmi iti, ati ito, kikī iva, bahu upakāraṃ, madhu udakaṃ, su upadhāritaṃ, yopi ayaṃ , idāni ahaṃ, sace ayaṃ, appassuto ayaṃ, itara itarena, saddhā idha vittaṃ, kamma upanissayo, tathā upamaṃ, ratti uparato, vi upasamo iccatra pubbassarānaṃ lope kate –
+A vowel following a consonant without a vowel is not elided; It is not lengthened, except in the case of ‘āseva’ and similar words.
 
-‘‘Kvacī’’ti adhikāro, ‘‘paro, lutte’’ti ca vattate.
+Like a relative, he looks up, from here, thus, the moon rises, just as in water, when the preceding vowel is elided, ‘paro, asarūpe’ is stated, similarly ‘ivaṇṇo yaṃ navā,’ and ‘vamodudantāna’ is taken here as an exception.
 
-17.Dīghaṃ.
+### 16. Kvacāsavaṇṇaṃ lutte.
 
-Saro kho paro pubbassare lutte kvaci dīghabhāvaṃ pappotīti ṭhānāsannavasena rassassarānaṃ savaṇṇadīgho.
+>Ivaṇṇabhūto, ukārabhūto ca paro saro asarūpe pubbassare lutte kvaci asavaṇṇaṃ pappoti. Natthi savaṇṇā etesanti asavaṇṇā, ekārokārā, tattha ṭhānāsannavasena ivaṇṇukārānamekārokārā honti.
+>
+>Bandhusseva, upekkhati, upeto, avecca, jineritaṃ, nopeti, candodayo, yathodake. Kvacīti kiṃ? Tatrime, yassindriyāni, mahiddhiko, sabbītiyo, tenupasaṅkami, lokuttaro. Lutteti kiṃ? Cha ime dhammā, yathā idaṃ, kusalassa upasampadā. Asarūpeti kiṃ? Cattārimāni, mātupaṭṭhānaṃ.
+>
+>Ettha ca satipi heṭṭhā vāggahaṇe kvacikaraṇato avaṇṇe eva lutte idha vuttavidhi hotīti daṭṭhabbaṃ. Tato idha na bhavati – diṭṭhupādānaṃ, pañcahupāli, mudindriyaṃ, yo missaroti.
+>
+>Tatra ayaṃ, buddha anussati, sa atthikā, paññavā assa, tadā ahaṃ, yāni idha bhūtāni, gacchāmi iti, ati ito, kikī iva, bahu upakāraṃ, madhu udakaṃ, su upadhāritaṃ, yopi ayaṃ , idāni ahaṃ, sace ayaṃ, appassuto ayaṃ, itara itarena, saddhā idha vittaṃ, kamma upanissayo, tathā upamaṃ, ratti uparato, vi upasamo iccatra pubbassarānaṃ lope kate –
+>
+>‘‘Kvacī’’ti adhikāro, ‘‘paro, lutte’’ti ca vattate.
 
-Tatrāyaṃ, buddhānussati, sātthikā, paññavāssa, tadāhaṃ, yānīdha bhūtāni, gacchāmīti, atīto, kikīva, bahūpakāraṃ, madhūdakaṃ, sūpadhāritaṃ, yopāyaṃ, idānāhaṃ, sacāyaṃ, appassutāyaṃ, itarītarena, saddhīdha vittaṃ, kammūpanissayo, tathūpamaṃ, rattūparato, vūpasamo.
+When a vowel follows a consonant without a vowel, it may sometimes become a non-vowel. Non-vowels are those without inherent vowels, such as 'a' and 'o.' In certain contexts, 'i' and 'u' can also function as non-vowels.
 
-Kvacīti kiṃ? Aciraṃ vata’yaṃ kāyo, kimpimāya, tīṇimāni, pañcasupādānakkhandhesu, tassattho, pañcaṅgiko, munindo, satindriyaṃ, lahuṭṭhānaṃ, gacchāmahaṃ, tatridaṃ, pañcahupāli, natthaññaṃ. Lutteti kiṃ? Yathā ayaṃ, nimi iva rājā, kikī iva, su upadhāritaṃ.
+Like a relative, he looks up, connected, certain, declared by the conqueror, does not reach, moonrise, just as in water. What does 'sometimes' mean? Here are these, whose faculties, powerful, all-knowing, approached, transcendent. What does 'elided' mean? These six qualities, as this, attainment of skill. What does 'non-vowel' mean? These four, attending to the mother.
 
-Lokassa iti, deva iti, vi ati patanti, vi ati nāmenti, saṅghāṭi api, jīvitahetu api, vijju iva, kiṃsu idha vittaṃ, sādhu iti itīdha parassarānaṃ lope kate –
+Here, even though the rule is stated below, due to occasional application, the rule of non-vowel elision applies here. Therefore, it does not apply here – attachment to views, five aggregates, soft faculty, who is mixed.
 
-‘‘Lutte, dīgha’’nti ca vattate.
+Here, this, recollection of the Buddha, he is desirous, wise, then I, those beings here, I go, thus, from here, like a bird, much benefit, honey water, well considered, also this, now I, if this, unlearned, the other by the other, faith here wealth, karma support, thus comparison, night ceased, and thus the rule of preceding vowels being elided –
 
-18.Pubbo ca.
+‘Sometimes’ is the rule, ‘following, elided’ is stated.
 
-Pubbo saro parassare lutte kvacidīghaṃ pappoti. Caggahaṇaṃ luttadīghaggahaṇānukaḍḍhanatthaṃ, taṃ ‘‘cānukaḍḍhitamuttaratra nānuvattate’’ti ñāpanatthaṃ.
+### 17. Dīghaṃ.
 
-Lokassāti, devāti, vītipatanti, vītināmenti, saṅghāṭīpi, jīvitahetūpi, vijjūva, kiṃsūdha vittaṃ, sādhūti.
+>Saro kho paro pubbassare lutte kvaci dīghabhāvaṃ pappotīti ṭhānāsannavasena rassassarānaṃ savaṇṇadīgho.
+>
+>Tatrāyaṃ, buddhānussati, sātthikā, paññavāssa, tadāhaṃ, yānīdha bhūtāni, gacchāmīti, atīto, kikīva, bahūpakāraṃ, madhūdakaṃ, sūpadhāritaṃ, yopāyaṃ, idānāhaṃ, sacāyaṃ, appassutāyaṃ, itarītarena, saddhīdha vittaṃ, kammūpanissayo, tathūpamaṃ, rattūparato, vūpasamo.
+>
+>Kvacīti kiṃ? Aciraṃ vata’yaṃ kāyo, kimpimāya, tīṇimāni, pañcasupādānakkhandhesu, tassattho, pañcaṅgiko, munindo, satindriyaṃ, lahuṭṭhānaṃ, gacchāmahaṃ, tatridaṃ, pañcahupāli, natthaññaṃ. Lutteti kiṃ? Yathā ayaṃ, nimi iva rājā, kikī iva, su upadhāritaṃ.
+>
+>Lokassa iti, deva iti, vi ati patanti, vi ati nāmenti, saṅghāṭi api, jīvitahetu api, vijju iva, kiṃsu idha vittaṃ, sādhu iti itīdha parassarānaṃ lope kate –
+>
+>‘‘Lutte, dīgha’’nti ca vattate.
 
-Kvacīti kiṃ? Yassadāni, itissa, idānipi, tesupi, cakkhundriyaṃ, kinnumāva.
+When a vowel follows a preceding vowel and is elided, it sometimes becomes long due to proximity to short vowels.
 
-Adhigato kho me ayaṃ dhammo, putto te ahaṃ, te assa pahīnā, pabbate ahaṃ, ye assa itīdha pubbalope sampatte –
+Here, this, recollection of the Buddha, beneficial, wise, then I, those beings here, I go, past, like a bird, much benefit, honey water, well considered, also this, now I, if this, unlearned, the other by the other, faith here wealth, karma support, thus comparison, night ceased, and thus calm.
 
-19.Yamedantassādeso.
+What does 'sometimes' mean? This body is indeed short-lived, what is this, these three, in the five aggregates of clinging, its meaning, fivefold, sage leader, faculty of mindfulness, lightness, I go, here this, five aggregates, there is nothing else. What does 'elided' mean? Just as this, like a king, like a bird, well considered.
 
-Ekārassa padantabhūtassa ṭhāne sare pare kvaci yakārādeso hoti. Akāremeteyesaddādissevāyaṃ vidhi, yanti yaṃ rūpaṃ, e eva anto edanto, ādesiṭṭhāne ādissatīti ādeso. ‘‘Byañjane’’ti adhikicca ‘‘dīgha’’nti dīgho.
+Of the world, of the gods, they fall, they bend, even the robe, even for the sake of life, like lightning, what is wealth here, good thus, and thus the rule of preceding vowels being elided –
 
-Adhigato kho myāyaṃ dhammo, putto tyāhaṃ, tyāssa pahīnā, pabbatyāhaṃ, yyāssa.
+‘Elided, long’ is stated.
 
-Kvacīti kiṃ? Te nāgatā, puttā matthi. Antaggahaṇaṃ kiṃ? Dhammacakkaṃ pavattento, damento cittaṃ.
+### 18. Pubbo ca.
 
-Yāvatako assa kāyo, tāvatako assa byāmo, ko attho, atha kho assa, ahaṃ kho ajja, yo ayaṃ, so assa, so eva, yato adhikaraṇaṃ, anu addhamāsaṃ, anu eti, su āgataṃ, su ākāro, du ākāro, cakkhu āpāthaṃ, bahu ābādho, pātu akāsi, na tu evātīdha –
+>Pubbo saro parassare lutte kvacidīghaṃ pappoti. Caggahaṇaṃ luttadīghaggahaṇānukaḍḍhanatthaṃ, taṃ ‘‘cānukaḍḍhitamuttaratra nānuvattate’’ti ñāpanatthaṃ.
+>
+>Lokassāti, devāti, vītipatanti, vītināmenti, saṅghāṭīpi, jīvitahetūpi, vijjūva, kiṃsūdha vittaṃ, sādhūti.
+>
+>Kvacīti kiṃ? Yassadāni, itissa, idānipi, tesupi, cakkhundriyaṃ, kinnumāva.
+>
+>Adhigato kho me ayaṃ dhammo, putto te ahaṃ, te assa pahīnā, pabbate ahaṃ, ye assa itīdha pubbalope sampatte –
 
-20.Vamodudantānaṃ.
+When a preceding vowel is elided before a following vowel, it sometimes becomes long. The purpose of this rule is to indicate that the elided vowel does not continue in the following context.
 
-Okārukārānaṃ antabhūtānaṃ sare pare kvaci vakārādeso hoti. Ka kha ya tasaddādiokārassedaṃ gahaṇaṃ.
+Of the world, of the gods, they fall, they bend, even the robe, even for the sake of life, like lightning, what is wealth here, good thus.
 
-Yāvatakvassa kāyo, tāvatakvassa byāmo, kvattho, atha khvassa, ahaṃ khvajja, yvāyaṃ, svassa, sveva, yatvādhikaraṇaṃ, anvaddhamāsaṃ, anvebhi, svāgataṃ, svākāro, dvākāro, cakkhvāpāthaṃ, bahvābādho, pātvākāsi, na tveva.
+What does 'sometimes' mean? Now, this, even now, in those, the faculty of sight, what indeed.
 
-Kvacīti kiṃ? Ko attho, atha kho aññatarā, yohaṃ, sohaṃ, cattārome, sāgataṃ, sādhāvuso, hotūti. Antaggahaṇaṃ kiṃ? Savanīyaṃ, viravanti.
+This Dhamma has been attained by me, I am your son, they have been abandoned, I am on the mountain, those who are here when the preceding vowel is elided –
 
-Paṭisanthāravutti assa, sabbā vitti anubhuyyate, vi añjanaṃ, vi ākato, nadī āsanno itīdha maṇḍūkagatiyā ‘‘asarūpe’’ti vattate.
+### 19. Yamedantassādeso.
 
-21.Ivaṇṇo yaṃ navā.
+>Ekārassa padantabhūtassa ṭhāne sare pare kvaci yakārādeso hoti. Akāremeteyesaddādissevāyaṃ vidhi, yanti yaṃ rūpaṃ, e eva anto edanto, ādesiṭṭhāne ādissatīti ādeso. ‘‘Byañjane’’ti adhikicca ‘‘dīgha’’nti dīgho.
+>
+>Adhigato kho myāyaṃ dhammo, putto tyāhaṃ, tyāssa pahīnā, pabbatyāhaṃ, yyāssa.
+>
+>Kvacīti kiṃ? Te nāgatā, puttā matthi. Antaggahaṇaṃ kiṃ? Dhammacakkaṃ pavattento, damento cittaṃ.
+>
+>Yāvatako assa kāyo, tāvatako assa byāmo, ko attho, atha kho assa, ahaṃ kho ajja, yo ayaṃ, so assa, so eva, yato adhikaraṇaṃ, anu addhamāsaṃ, anu eti, su āgataṃ, su ākāro, du ākāro, cakkhu āpāthaṃ, bahu ābādho, pātu akāsi, na tu evātīdha –
 
-Pubbo ivaṇṇo asarūpe sare pare yakāraṃ pappoti navā. I eva vaṇṇo ivaṇṇo, navāsaddo kvacisaddapariyāyo.
+When a final 'e' is followed by a vowel, sometimes it is replaced by 'y'. This rule applies to words starting with 'a', such as 'yanti' (they go), 'yaṃ' (which), 'e' (this), and 'edanto' (this end). The substitution is called 'ādeso'. When followed by a consonant, it becomes long ('dīgha').
 
-Paṭisanthāravutyassa, sabbā vityānubhuyyate, byañjanaṃ, byākato, nadyāsanno.
+This Dhamma has been attained by me, I am your son, they have been abandoned, I am on the mountain, those who are here.
 
-Navāti kiṃ? Pañcahaṅgehi, tāni attani, gacchāmahaṃ, muttacāgī anuddhato. Asarūpeti kiṃ? Itihidaṃ, aggīva, atthīti.
+What does 'sometimes' mean? They have not come, sons exist. What is the inclusion of the end? Turning the wheel of Dhamma, taming the mind.
 
-Ati antaṃ, ati odātā, pati ayo, pati āharati, pati eti, iti assa, iti etaṃ, itiādi itīdha ‘‘ivaṇṇo yaṃ navā’’ti yakārādese sampatte –
+As long as his body, so long his span, what is the purpose, but indeed his, I am indeed today, who is this, he is, he indeed, from where the case, for half a month, he goes, well come, well formed, badly formed, eye contact, much illness, made manifest, but not thus indeed –
 
-22.Sabbo canti.
+### 20. Vamodudantānaṃ.
 
-Atipatiitīnaṃ tisaddassedaṃ gahaṇaṃ.
+>Okārukārānaṃ antabhūtānaṃ sare pare kvaci vakārādeso hoti. Ka kha ya tasaddādiokārassedaṃ gahaṇaṃ.
+>
+>Yāvatakvassa kāyo, tāvatakvassa byāmo, kvattho, atha khvassa, ahaṃ khvajja, yvāyaṃ, svassa, sveva, yatvādhikaraṇaṃ, anvaddhamāsaṃ, anvebhi, svāgataṃ, svākāro, dvākāro, cakkhvāpāthaṃ, bahvābādho, pātvākāsi, na tveva.
+>
+>Kvacīti kiṃ? Ko attho, atha kho aññatarā, yohaṃ, sohaṃ, cattārome, sāgataṃ, sādhāvuso, hotūti. Antaggahaṇaṃ kiṃ? Savanīyaṃ, viravanti.
+>
+>Paṭisanthāravutti assa, sabbā vitti anubhuyyate, vi añjanaṃ, vi ākato, nadī āsanno itīdha maṇḍūkagatiyā ‘‘asarūpe’’ti vattate.
 
-Sabbo tiicceso saddo sare pare kvaci cakāraṃ pappoti. Tīti niddesato akatayakārassevāyaṃ vidhi, itarathā kvaciggahaṇassa ca ‘‘atissa cantassā’’tisuttassa ca niratthakatā siyā. ‘‘Paradvebhāvo ṭhāne’’ti dvittaṃ.
+When a final 'e' is followed by a vowel, sometimes it is replaced by 'y'. This rule applies to words starting with 'a', such as 'yanti' (they go), 'yaṃ' (which), 'e' (this), and 'edanto' (this end). The substitution is called 'ādeso'. When followed by a consonant, it becomes long ('dīgha').
 
-Accantaṃ , accodātā, paccayo, paccāharati, pacceti, iccassa, iccetaṃ, iccādi.
+This Dhamma has been attained by me, I am your son, they have been abandoned, I am on the mountain, those who are here.
 
-Kvacīti kiṃ? Itissa, iti ākaṅkhamānena.
+What does 'sometimes' mean? They have not come, sons exist. What is the inclusion of the end? Turning the wheel of Dhamma, taming the mind.
 
-‘‘Te na vāivaṇṇe’’ti ito ‘‘na ivaṇṇe’’ti ca vattate.
+As long as his body, so long his span, what is the purpose, but indeed his, I am indeed today, who is this, he is, he indeed, from where the case, for half a month, he goes, well come, well formed, badly formed, eye contact, much illness, made manifest, but not thus indeed –
 
-23.Atissa cantassa.
+### 21. Ivaṇṇo yaṃ navā.
 
-Atiiccetassa antabhūtassa tisaddassa ivaṇṇe pare ‘‘sabbo caṃ tī’’ti vuttarūpaṃ na hoti. Atissāti atiupasaggānukaraṇametaṃ. Tenevettha vibhattilopābhāvo. Ettha ca antasaddo saddavidhinisedhappakaraṇato atisaddantabhūtaṃ tisaddameva vadati, na ivaṇṇanti daṭṭhabbaṃ, itarathā idaṃ suttameva niratthakaṃ siyā.
+>Pubbo ivaṇṇo asarūpe sare pare yakāraṃ pappoti navā. I eva vaṇṇo ivaṇṇo, navāsaddo kvacisaddapariyāyo.
+>
+>Paṭisanthāravutyassa, sabbā vityānubhuyyate, byañjanaṃ, byākato, nadyāsanno.
+>
+>Navāti kiṃ? Pañcahaṅgehi, tāni attani, gacchāmahaṃ, muttacāgī anuddhato. Asarūpeti kiṃ? Itihidaṃ, aggīva, atthīti.
+>
+>Ati antaṃ, ati odātā, pati ayo, pati āharati, pati eti, iti assa, iti etaṃ, itiādi itīdha ‘‘ivaṇṇo yaṃ navā’’ti yakārādese sampatte –
 
-‘‘Ivaṇṇo yaṃ navā’’tīdha, asarūpādhikārato;
-Ivaṇṇassa sarūpasmiṃ, yādeso ca na sambhave.
+When a preceding 'i' is followed by a vowel, it sometimes changes to 'y'. This rule applies to words starting with 'i', such as 'navā' (new). The term 'navā' is sometimes interchangeable with 'kvaci'.
 
-Cakāro anuttasamuccayattho, tena itipatīnamantassa ca na hoti. Ati isigaṇo atīsigaṇo, evaṃ atīto, atīritaṃ, itīti, itīdaṃ, patīto.
+For the term 'paṭisanthāravutyassa', all meanings are experienced, consonant, explained, near the river.
 
-Abhi akkhānaṃ, abhi uggato, abhi okāso itīdha yakāre sampatte –
+What does 'new' mean? With five factors, those in oneself, I go, one who has given up and is not arrogant. What does 'not in form' mean? Here, like fire, it exists.
 
-‘‘Sare’’ti vattate.
+Beyond the end, very white, near the iron, brings near, goes near, thus his, thus this, thus indeed here 'i' becomes 'y' in the substitution.
 
-24.Abbho abhi.
+### 22. Sabbo canti.
 
-Abhiiccetassa sabbassa sare pare abbhādeso hoti.
+>Atipatiitīnaṃ tisaddassedaṃ gahaṇaṃ.
+>
+>Sabbo tiicceso saddo sare pare kvaci cakāraṃ pappoti. Tīti niddesato akatayakārassevāyaṃ vidhi, itarathā kvaciggahaṇassa ca ‘‘atissa cantassā’’tisuttassa ca niratthakatā siyā. ‘‘Paradvebhāvo ṭhāne’’ti dvittaṃ.
+>
+>Accantaṃ , accodātā, paccayo, paccāharati, pacceti, iccassa, iccetaṃ, iccādi.
+>
+>Kvacīti kiṃ? Itissa, iti ākaṅkhamānena.
+>
+>‘‘Te na vāivaṇṇe’’ti ito ‘‘na ivaṇṇe’’ti ca vattate.
 
-‘‘Abhī’’ti paṭhamantassa, vuttiyaṃ chaṭṭhiyojanaṃ;
-Ādesāpekkhato vuttaṃ, ‘‘aṃmo’’tiādike viya.
+The term 'atipatiitīnaṃ' refers to the inclusion of the three sounds.
 
-Pubbassaralopo , abbhakkhānaṃ, abbhuggato, abbhokāso.
+The word 'sabbo' sometimes changes to 'c' when followed by a vowel. The rule for 'tīti' is that it does not apply to 'y'. Otherwise, the rule for 'kvaci' and the 'atissa cantassā' would be meaningless. The term 'dvittaṃ' refers to the dual nature.
 
-Adhi agamā, adhi upagato, adhi ogāhetvā itīdha
+'Accantaṃ', 'accodātā', 'paccayo', 'paccāharati', 'pacceti', 'iccassa', 'iccetaṃ', 'iccādi'.
 
-25.Ajjho adhi.
+What does 'kvaci' mean? It refers to 'itissa', as desired.
 
-Adhiiccetassa sabbassa sare pare ajjhādeso hoti. Ajjhagamā, ajjhupagato, ajjhogāhetvā.
+The phrase 'te na vāivaṇṇe' means 'not in the form of 'i''.
 
-Abhi icchitaṃ, adhi īritaṃ itīdha
+### 23. Atissa cantassa.
 
-‘‘Abbho abhi, ajjho adhī’’ti ca vattate.
+>Atiiccetassa antabhūtassa tisaddassa ivaṇṇe pare ‘‘sabbo caṃ tī’’ti vuttarūpaṃ na hoti. Atissāti atiupasaggānukaraṇametaṃ. Tenevettha vibhattilopābhāvo. Ettha ca antasaddo saddavidhinisedhappakaraṇato atisaddantabhūtaṃ tisaddameva vadati, na ivaṇṇanti daṭṭhabbaṃ, itarathā idaṃ suttameva niratthakaṃ siyā.
+>
+>‘‘Ivaṇṇo yaṃ navā’’tīdha, asarūpādhikārato;
+>Ivaṇṇassa sarūpasmiṃ, yādeso ca na sambhave.
+>
+>Cakāro anuttasamuccayattho, tena itipatīnamantassa ca na hoti. Ati isigaṇo atīsigaṇo, evaṃ atīto, atīritaṃ, itīti, itīdaṃ, patīto.
+>
+>Abhi akkhānaṃ, abhi uggato, abhi okāso itīdha yakāre sampatte –
+>
+>‘‘Sare’’ti vattate.
 
-26.Te na vā ivaṇṇe.
+"The term 'atiiccetassa' refers to the inclusion of the three sounds at the end. The phrase 'sabbo caṃ tī' does not apply when followed by 'ivaṇṇe'. 'Atissāti' is an imitation of the prefix 'ati'. Therefore, there is no elision of the case ending here. The term 'antasaddo' refers to the word 'anta' in the context of grammatical rules, indicating that 'atisaddantabhūtaṃ' refers to the three sounds at the end, not 'ivaṇṇe'. Otherwise, this rule would be meaningless.
 
-Te ca kho abhiadhiiccete upasaggā ivaṇṇe pare abbho ajjhoiti vuttarūpā na honti vā. Saralopaparanayanāni. Abhicchitaṃ, adhīritaṃ. Vāti kiṃ? Abbhīritaṃ, ajjhiṇamutto, ajjhiṭṭho.
+The phrase 'ivaṇṇo yaṃ navā' means 'not in the form of 'i'' in this context, due to the rule of non-similarity. The substitution of 'yā' does not occur in the form of 'ivaṇṇassa'.
 
-Ekamidha ahantīdha
+The conjunction 'ca' implies an additional meaning, so it does not apply to 'itipatīnamantassa'. The term 'ati' refers to the group of sages, 'atīsigaṇo', and similarly 'atīto', 'atīritaṃ', 'itīti', 'itīdaṃ', 'patīto'.
 
-27.Do dhassa ca.
+The terms 'abhi akkhānaṃ', 'abhi uggato', and 'abhi okāso' refer to the context where the letter 'ya' is present."
 
-Dhaiccetassa sare pare kvaci dakāro hoti. Ekasaddato parassa idhassa dhakārassevāyaṃ, saralopadīghā. Ekamidāhaṃ. Kvacīti kiṃ? Idheva.
+The term 'sare' is used.
 
-Casaddena kvaci sādhussa dhassa hakāro, yathā – sāhu dassanaṃ.
+### 24. Abbho abhi.
 
-Yathā eva tathā evātīdha
+>Abhiiccetassa sabbassa sare pare abbhādeso hoti.
+>
+>‘‘Abhī’’ti paṭhamantassa, vuttiyaṃ chaṭṭhiyojanaṃ;
+>Ādesāpekkhato vuttaṃ, ‘‘aṃmo’’tiādike viya.
+>
+>Pubbassaralopo , abbhakkhānaṃ, abbhuggato, abbhokāso.
+>
+>Adhi agamā, adhi upagato, adhi ogāhetvā itīdha
 
-‘‘Navā’’ti vattate, ‘‘saramhā’’ti ca.
+For the one who has completely transcended, there is a designation beyond the sound.
 
-28.Evādissari pubbo ca rasso.
+‘Abhī’ is the first, in the sixth usage; It is said in expectation of a designation, like ‘aṃmo’.
 
-Yathātathādvayaparassedaṃ gahaṇaṃ. Dīghasaramhā parassa evasaddādibhūtassa ekārassa rikāro hoti, pubbo ca saro rasso hoti navā. Yathariva, tathariva. Navāti kiṃ? Yatheva, tatheva.
+The elision of the initial sound, abbhakkhānaṃ, abbhuggato, abbhokāso.
 
-Ti antaṃ,ti addhaṃ, aggi agāre, sattamī atthe, pañcamī antaṃ, du aṅgikaṃ, bhikkhu āsane, puthu āsane, sayambhū āsane itīdha yavādesesu sampattesu –
+Having gone beyond, having approached, having entered, thus here.
 
-‘‘Saññā’’ti vattate.
+### 25. Ajjho adhi.
 
-29.Ivaṇṇuvaṇṇā jhalā.
+>Adhiiccetassa sabbassa sare pare ajjhādeso hoti. Ajjhagamā, ajjhupagato, ajjhogāhetvā.
+>
+>Abhi icchitaṃ, adhi īritaṃ itīdha
+>
+>‘‘Abbho abhi, ajjho adhī’’ti ca vattate.
 
-Ivaṇṇauvaṇṇaiccete yathākkamaṃ jhalasaññā honti. Vaṇṇaggahaṇaṃ savaṇṇaggahaṇatthaṃ.
+For the one who has completely transcended, there is a designation beyond the sound. Having gone beyond, having approached, having entered.
 
-Jhalasaññā pasaññāva, na liṅgantaṃva nissitā;
-Ākhyāte liṅgamajjhe ca, dviliṅgante ca dassanā.
+Abhi is desired, adhi is expressed thus here.
 
-30.Jhalānamiyuvā sare vā.
+‘Abbho abhi, ajjho adhī’ is also said.
 
-Jhalaiccetesaṃ iyauvaiccete ādesā honti vā sare pare, saralopo.
+### 26. Te na vā ivaṇṇe.
 
-Tiyantaṃ, tiyaddhaṃ, aggiyāgāre, sattamiyatthe, pañcamiyantaṃ, duvaṅgikaṃ, bhikkhuvāsane, puthuvāsane, sayambhuvāsane. Vāti kiṃ? Agyāgāre, sattamīatthe, bhikkhuāsane nisīdati.
+>Te ca kho abhiadhiiccete upasaggā ivaṇṇe pare abbho ajjhoiti vuttarūpā na honti vā. Saralopaparanayanāni. Abhicchitaṃ, adhīritaṃ. Vāti kiṃ? Abbhīritaṃ, ajjhiṇamutto, ajjhiṭṭho.
+>
+>Ekamidha ahantīdha
 
-Go ajinaṃ, go eḷakaṃ itīdha
+And indeed, those who have transcended beyond prefixes and suffixes are not described as ‘abbho’ or ‘ajjho’. They are straightforward and direct. Desired, expressed. What then? Desired, liberated, established.
 
-‘‘Go, avo, samāse’’ti ca vattate.
+Here, I am here.
 
-31.Osare ca.
+### 27. Do dhassa ca.
 
-Goiccetassa okārassa sare pare avādeso hoti samāse. Gavājinaṃ, gaveḷakaṃ. Casaddaggahaṇena uvaṇṇassa uvaavādesā. Yathā – bhuvi, pasavo.
+>Dhaiccetassa sare pare kvaci dakāro hoti. Ekasaddato parassa idhassa dhakārassevāyaṃ, saralopadīghā. Ekamidāhaṃ. Kvacīti kiṃ? Idheva.
+>
+>Casaddena kvaci sādhussa dhassa hakāro, yathā – sāhu dassanaṃ.
+>
+>Yathā eva tathā evātīdha
+>
+>‘‘Navā’’ti vattate, ‘‘saramhā’’ti ca.
 
-Putha evātīdha
+For the one who has transcended, sometimes a ‘d’ appears after a vowel. From a single word, the ‘dh’ of ‘idha’ is lengthened by vowel omission. ‘Here I am.’ What does ‘sometimes’ mean? Here itself.
 
-32.Go sare puthassāgamo kvaci.
+With the word ‘ca’, sometimes ‘h’ replaces ‘dh’ in ‘sādhu’, as in ‘sāhu dassanaṃ’.
 
-Puthaiccetassa nipātassa ante kvaci gakārāgamo hoti sare pare. Āgacchatīti āgamo, asantuppatti āgamo. Ettha ca ‘‘sare’’ti nimittāsannavasena puthassa anteti labbhati. Puthageva, putha eva.
+Just as it is, so it is here.
 
-Pā evātīdha
+It is said ‘new’, and also ‘from the vowel’.
 
-‘‘Sare, go, āgamo, kvacī’’ti ca vattate.
+### 28. Evādissari pubbo ca rasso.
 
-33.Pāssa canto rasso.
+>Yathātathādvayaparassedaṃ gahaṇaṃ. Dīghasaramhā parassa evasaddādibhūtassa ekārassa rikāro hoti, pubbo ca saro rasso hoti navā. Yathariva, tathariva. Navāti kiṃ? Yatheva, tatheva.
+>
+>Ti antaṃ,ti addhaṃ, aggi agāre, sattamī atthe, pañcamī antaṃ, du aṅgikaṃ, bhikkhu āsane, puthu āsane, sayambhū āsane itīdha yavādesesu sampattesu –
+>
+>‘‘Saññā’’ti vattate.
 
-Pāiccetassa ante sare pare kvaci gakārāgamo hoti, pāssa anto ca saro rasso hoti. Pageva vutyassa, pā eva.
+As it is, so it is taken. From the long vowel, the ‘e’ becomes ‘r’ for the following word, and the preceding vowel becomes short. Just as, so as. What does ‘new’ mean? Just as, so as.
 
-‘‘Vā, sare’’ti ca vattate.
+‘Ti’ at the end, ‘ti’ in the middle, fire in the house, in the seventh sense, in the fifth end, two parts, monk in the seat, many in the seat, self-born in the seat, thus in the words that have come –
 
-34.Yava ma da na ta ra lā cāgamā.
+It is said ‘perception’.
 
-Sare pare yakārādayo aṭṭha āgamā honti vā. Casaddena gakārāgamo ca, vavatthitavibhāsatthoyaṃ vāsaddo.
+### 29. Ivaṇṇuvaṇṇā jhalā.
 
-Tattha yakārāgamo yathādibho ikārekārādīsu. Yathā idaṃ yathayidaṃ, byañjaneti adhikicca ‘‘rassa’’nti rassattaṃ, yathā idaṃ vā, yathā eva, yathāyeva, yatheva, evaṃ māyidaṃ, māyevaṃ, taṃyidaṃ, taṃyeva, nayidaṃ, nayimassa, nayimāni, navayime dhammā, buddhānaṃyeva, santiyeva, bodhiyāyeva, satiyeva, pathavīyeva, dhātuyeva, tesuyeva, soyeva, pāṭiyekkaṃ.
+>Ivaṇṇauvaṇṇaiccete yathākkamaṃ jhalasaññā honti. Vaṇṇaggahaṇaṃ savaṇṇaggahaṇatthaṃ.
+>
+>Jhalasaññā pasaññāva, na liṅgantaṃva nissitā;\
+>Ākhyāte liṅgamajjhe ca, dviliṅgante ca dassanā.
 
-Tathā sare vipariyādito ca. Vi añjanā viyañjanā, byañjanā vā, evaṃ viyākāsi, byākāsi. Pariantaṃ pariyantaṃ, evaṃ pariyādānaṃ, pariyuṭṭhānaṃ, pariyesati, pariyosānamiti niccaṃ. Ni āyogo niyāyogo. Idha na bhavati, parikkhato, upaparikkhati.
+These letters, in order, are called ‘jhala’ sounds. The taking of letters is for the purpose of taking all letters.
 
-Vakāro tisaddādito avaṇṇukāresu. Ti aṅgulaṃ tivaṅgulaṃ, evaṃ tivaṅgikaṃ, bhūvādayo, migī bhantā vudikkhati, pavuccati, pāguññavujutā.
+The ‘jhala’ sounds are well-known, not dependent on gender; In verbs, in the middle of gender, and in dual-gender forms, they are seen.
 
-Makāro lahuppabhutito sare chandānurakkhaṇādimhi. Lahu essati lahumessati, evaṃ garumessati, idhamāhu, kena te idha mijjhati, bhadro kasāmiva, ākāse mabhipūjayi, ekamekassa, yena midhekacce, āsatimeva.
+### 30. Jhalānamiyuvā sare vā.
 
-Dakārouupasagga saki kenaci kiñci kismiñci koci sammā yāva tāva puna ya te’tattasādīhi. Uupasaggato niccaṃ, u aggo udaggo, evaṃ udayo, udapādi, udāhaṭaṃ, udito, udīritaṃ, udeti.
+>Jhalaiccetesaṃ iyauvaiccete ādesā honti vā sare pare, saralopo.
+>
+>Tiyantaṃ, tiyaddhaṃ, aggiyāgāre, sattamiyatthe, pañcamiyantaṃ, duvaṅgikaṃ, bhikkhuvāsane, puthuvāsane, sayambhuvāsane. Vāti kiṃ? Agyāgāre, sattamīatthe, bhikkhuāsane nisīdati.
+>
+>Go ajinaṃ, go eḷakaṃ itīdha
+>
+>‘‘Go, avo, samāse’’ti ca vattate.
 
-Nipātato ca, saki eva sakideva, evaṃ sakadāgāmi, mahāvuttisuttena ikārassa akāro. Tathā kenacideva, kiñcideva, kismiñcideva, kocideva, sammā attho sammadattho, rassattaṃ. Evaṃ sammadakkhāto, sammadaññā vimuttānaṃ, sammadeva, yāvadatthaṃ, yāvadeva, tāvadeva, punadeva.
+These are the rules for the substitution of ‘jhala’ and ‘iyauvaicce’ in the presence of vowels, and the elision of vowels.
 
-Nāmato, yadatthaṃ, tadatthaṃ, yadantarā, tadantarā, tadaṅgavimutti, etadatthaṃ, attadatthaṃ, sadatthapasuto siyā. Yatetattasehi samāseyeva.
+In the third, fourth, in the firehouse, in the seventh sense, in the fifth, in the twofold, in the monk’s residence, in the common residence, in the self-existent residence. What does it mean? He sits in the firehouse, in the seventh sense, in the monk’s residence.
 
-Ādisaddena aññadatthaṃ, manasādaññā vimuttānaṃ, bahudeva rattiṃ, ahudeva bhayaṃ.
+Here, a cow, a deer skin, a goat.
 
-Vāti kiṃ? Kenaci atthakāmena, sammā aññāya, yāvāhaṃ, tāvāhaṃ, punāparaṃ, attatthaṃ.
+It is said, ‘Go, avo, in compounds.’
 
-Nakāro āyatādimhi. Ito āyati ito nāyati, ciraṃ nāyati.
+### 31. Osare ca.
 
-Takāro yasmā tasmā ajjādito ihaggādimhi. Yasmātiha, tasmātiha, ajjatagge.
+>Goiccetassa okārassa sare pare avādeso hoti samāse. Gavājinaṃ, gaveḷakaṃ. Casaddaggahaṇena uvaṇṇassa uvaavādesā. Yathā – bhuvi, pasavo.
+>
+>Putha evātīdha
 
-Rakāro ni dupātu puna dhī pāta caturādito. Ni antaraṃ nirantaraṃ, evaṃ nirālayo, nirindhano, nirīhakaṃ, niruttaro, nirojaṃ. Du atikkamo duratikkamo, durāgataṃ, duruttaṃ. Pāturahosi, pāturahesuṃ. Punarāgaccheyya, punaruttaṃ, punareva, punareti. Dhiratthu. Pātarāso.
+For the substitution of ‘goicce’ with ‘o’ in the presence of vowels, the rule applies in compounds. Examples include ‘gavājinaṃ’ (cow skin) and ‘gaveḷakaṃ’ (goat skin). With the inclusion of the word ‘ca’, the substitution of ‘uvaṇṇa’ with ‘uva’ is also indicated. For instance – ‘bhuvi’ (on the earth), ‘pasavo’ (animals).
 
-Catusaddādito, caturaṅgikaṃ, caturārakkhā, caturiddhipādapaṭilābho, caturoghanittharaṇatthaṃ. Bhatturatthe, vuttiresā, pathavīdhāturevesā.
+Here, ‘putha’ is used.
 
-Tathā sarato ivevesu chandānurakkhaṇe. Nakkhattarājāriva tārakānaṃ, vijjurivabbhakūṭe, āraggeriva sāsapo, sāsaporiva āragge, usabhoriva, sabbhireva samāsetha.
+### 32. Go sare puthassāgamo kvaci.
 
-Vāti kiṃ? Dvādhiṭṭhitaṃ, pātvākāsi, punapi.
+>Puthaiccetassa nipātassa ante kvaci gakārāgamo hoti sare pare. Āgacchatīti āgamo, asantuppatti āgamo. Ettha ca ‘‘sare’’ti nimittāsannavasena puthassa anteti labbhati. Puthageva, putha eva.
+>
+>Pā evātīdha
+>
+>‘‘Sare, go, āgamo, kvacī’’ti ca vattate.
 
-Lakāro chasaṅkhyāhi. Laḷānamaviseso. Cha abhiññā chaḷabhiññā, chaḷaṅgaṃ, chaḷāsīti, chaḷaṃsā, saḷāyatanaṃ.
+The Addition of ‘g’ in Certain Cases
 
-Vāti kiṃ? Cha abhiññā.
+In some instances, the particle “g” is added at the end of a word when followed by a vowel. For example, “āgacchati” becomes “āgamo,” indicating the occurrence of arrival. Similarly, “asantuppatti” becomes “āgamo,” indicating the occurrence of non-existence. Here, the term “sare” refers to the proximity of the vowel sound at the end of the word. Thus, it is understood as “puthassa ante,” meaning at the end of “putha.” It is simply “puthageva,” just “putha.”
 
-Iti sarasandhividhānaṃ niṭṭhitaṃ.
+Further Explanation
 
-## Itthiliṅga
+The rule states: “sare, go, āgamo, kvacī,” indicating the conditions under which the addition of “g” occurs.
 
-Atha itthiliṅgāni vuccante.
+### 33. Pāssa canto rasso.
+>
+>Pāiccetassa ante sare pare kvaci gakārāgamo hoti, pāssa anto ca saro rasso hoti. Pageva vutyassa, pā eva.
+>
+>‘‘Vā, sare’’ti ca vattate.
 
-Akāranto itthiliṅgasaddo appasiddho.
+The Addition of ‘g’ in Certain Cases
 
-Ākāranto itthiliṅgo kaññāsaddo. ‘‘Kañña’’iti ṭhite –
+In some instances, the particle “g” is added at the end of a word when followed by a vowel. For example, “pāiccetassa” becomes “pāssa,” indicating the occurrence of a short vowel at the end. Similarly, “pageva” becomes “pā eva,” indicating the occurrence of just “pā.”
 
-176.Itthiyamato āppaccayo.
+Further Explanation
 
-Itthiyaṃ vattamānā akārantato liṅgamhā paro āppaccayo hoti.
+The rule states: “vā, sare,” indicating the conditions under which the addition of “g” occurs.
 
-Pakatyatthajotakā itthi-ppaccayā syādayo viya;
-Ṇādayo paccayatthassa, sakatthassāpi vācakā.
+### 34. Yava ma da na ta ra lā cāgamā.
 
-‘‘Saralopo’’tiādinā pubbassare lutte, paranayane ca kate ‘‘dhātuppaccayavibhattivajjitamatthavaṃ liṅga’’nti vuttattāva paccayantassāpi aliṅgattā vibhattuppattiyamasampattāyaṃ ‘‘taddhitasamāsakitakā nāmaṃ vā’tavetunādīsu cā’’ti ettha vaggahaṇena itthippaccayantassāpi nāmabyapadeso. Pure viya syādyuppatti, ‘‘sesato lopaṃ gasipī’’ti silopo. Sā kaññā.
+>Sare pare yakārādayo aṭṭha āgamā honti vā. Casaddena gakārāgamo ca, vavatthitavibhāsatthoyaṃ vāsaddo.
+>
+>Tattha yakārāgamo yathādibho ikārekārādīsu. Yathā idaṃ yathayidaṃ, byañjaneti adhikicca ‘‘rassa’’nti rassattaṃ, yathā idaṃ vā, yathā eva, yathāyeva, yatheva, evaṃ māyidaṃ, māyevaṃ, taṃyidaṃ, taṃyeva, nayidaṃ, nayimassa, nayimāni, navayime dhammā, buddhānaṃyeva, santiyeva, bodhiyāyeva, satiyeva, pathavīyeva, dhātuyeva, tesuyeva, soyeva, pāṭiyekkaṃ.
+>
+>Tathā sare vipariyādito ca. Vi añjanā viyañjanā, byañjanā vā, evaṃ viyākāsi, byākāsi. Pariantaṃ pariyantaṃ, evaṃ pariyādānaṃ, pariyuṭṭhānaṃ, pariyesati, pariyosānamiti niccaṃ. Ni āyogo niyāyogo. Idha na bhavati, parikkhato, upaparikkhati.
+>
+>Vakāro tisaddādito avaṇṇukāresu. Ti aṅgulaṃ tivaṅgulaṃ, evaṃ tivaṅgikaṃ, bhūvādayo, migī bhantā vudikkhati, pavuccati, pāguññavujutā.
+>
+>Makāro lahuppabhutito sare chandānurakkhaṇādimhi. Lahu essati lahumessati, evaṃ garumessati, idhamāhu, kena te idha mijjhati, bhadro kasāmiva, ākāse mabhipūjayi, ekamekassa, yena midhekacce, āsatimeva.
+>
+>Dakārouupasagga saki kenaci kiñci kismiñci koci sammā yāva tāva puna ya te’tattasādīhi. Uupasaggato niccaṃ, u aggo udaggo, evaṃ udayo, udapādi, udāhaṭaṃ, udito, udīritaṃ, udeti.
+>
+>Nipātato ca, saki eva sakideva, evaṃ sakadāgāmi, mahāvuttisuttena ikārassa akāro. Tathā kenacideva, kiñcideva, kismiñcideva, kocideva, sammā attho sammadattho, rassattaṃ. Evaṃ sammadakkhāto, sammadaññā vimuttānaṃ, sammadeva, yāvadatthaṃ, yāvadeva, tāvadeva, punadeva.
+>
+>Nāmato, yadatthaṃ, tadatthaṃ, yadantarā, tadantarā, tadaṅgavimutti, etadatthaṃ, attadatthaṃ, sadatthapasuto siyā. Yatetattasehi samāseyeva.
+>
+>Ādisaddena aññadatthaṃ, manasādaññā vimuttānaṃ, bahudeva rattiṃ, ahudeva bhayaṃ.
+>
+>Vāti kiṃ? Kenaci atthakāmena, sammā aññāya, yāvāhaṃ, tāvāhaṃ, punāparaṃ, attatthaṃ.
+>
+>Nakāro āyatādimhi. Ito āyati ito nāyati, ciraṃ nāyati.
+>
+>Takāro yasmā tasmā ajjādito ihaggādimhi. Yasmātiha, tasmātiha, ajjatagge.
+>
+>Rakāro ni dupātu puna dhī pāta caturādito. Ni antaraṃ nirantaraṃ, evaṃ nirālayo, nirindhano, nirīhakaṃ, niruttaro, nirojaṃ. Du atikkamo duratikkamo, durāgataṃ, duruttaṃ. Pāturahosi, pāturahesuṃ. Punarāgaccheyya, punaruttaṃ, punareva, punareti. Dhiratthu. Pātarāso.
+>
+>Catusaddādito, caturaṅgikaṃ, caturārakkhā, caturiddhipādapaṭilābho, caturoghanittharaṇatthaṃ. Bhatturatthe, vuttiresā, pathavīdhāturevesā.
+>
+>Tathā sarato ivevesu chandānurakkhaṇe. Nakkhattarājāriva tārakānaṃ, vijjurivabbhakūṭe, āraggeriva sāsapo, sāsaporiva āragge, usabhoriva, sabbhireva samāsetha.
+>
+>Vāti kiṃ? Dvādhiṭṭhitaṃ, pātvākāsi, punapi.
+>
+>Lakāro chasaṅkhyāhi. Laḷānamaviseso. Cha abhiññā chaḷabhiññā, chaḷaṅgaṃ, chaḷāsīti, chaḷaṃsā, saḷāyatanaṃ.
+>
+>Vāti kiṃ? Cha abhiññā.
+>
+>Iti sarasandhividhānaṃ niṭṭhitaṃ.
 
-Bahuvacane ‘‘ālapane si gasañño’’ti ito ‘‘sañño’’, ‘‘te itthikhyā po’’ti ito ‘‘itthikhyā’’ti ca vattate.
+**Addition of 'y' and Other Particles**
 
-177.Ā gho.
+When a vowel follows, eight particles including 'y' are added. The particle 'ca' indicates the addition of 'g', and the term 'vā' signifies optionality.
+
+**Examples of 'y' Addition**
+
+The addition of 'y' occurs in words like "yathā idaṃ" becoming "yathayidaṃ." In consonants, "rassa" becomes "rassattaṃ." Other examples include "yathā idaṃ vā," "yathā eva," "yathāyeva," "yatheva," "māyidaṃ," "māyevaṃ," "taṃyidaṃ," "taṃyeva," "nayidaṃ," "nayimassa," "nayimāni," "navayime dhammā," "buddhānaṃyeva," "santiyeva," "bodhiyāyeva," "satiyeva," "pathavīyeva," "dhātuyeva," "tesuyeva," "soyeva," and "pāṭiyekkaṃ."
+
+**Consonant Changes**
+
+In some cases, consonants change, such as "vi añjanā" becoming "viyañjanā," and "pariantaṃ" becoming "pariyantaṃ." Other examples include "pariyādānaṃ," "pariyuṭṭhānaṃ," "pariyesati," "pariyosānamiti," "ni āyogo," and "niyāyogo."
+
+**Addition of 'v'**
+
+The particle 'v' is added in words like "ti aṅgulaṃ" becoming "tivaṅgulaṃ," and "tivaṅgikaṃ." Other examples include "bhūvādayo," "migī bhantā vudikkhati," "pavuccati," and "pāguññavujutā."
+
+**Addition of 'm'**
+
+The particle 'm' is added in words like "lahu essati" becoming "lahumessati," and "garumessati." Other examples include "idhamāhu," "kena te idha mijjhati," "bhadro kasāmiva," "ākāse mabhipūjayi," "ekamekassa," "yena midhekacce," and "āsatimeva."
+
+**Addition of 'd'**
+
+The particle 'd' is added in words like "u aggo" becoming "udaggo," and "udayo." Other examples include "udapādi," "udāhaṭaṃ," "udito," "udīritaṃ," and "udeti."
+
+**Addition of 'n'**
+
+The particle 'n' is added in words like "saki eva" becoming "sakideva," and "sakadāgāmi." Other examples include "kenacideva," "kiñcideva," "kismiñcideva," "kocideva," "sammā attho," "sammadattho," "sammadakkhāto," "sammadaññā vimuttānaṃ," "sammadeva," "yāvadatthaṃ," "yāvadeva," "tāvadeva," and "punadeva."
+
+**Addition of 't'**
+
+The particle 't' is added in words like "yadatthaṃ" becoming "tadatthaṃ," and "yadantarā" becoming "tadantarā." Other examples include "tadaṅgavimutti," "etadatthaṃ," "attadatthaṃ," "sadatthapasuto," and "yatetattasehi."
+
+**Addition of 'r'**
+
+The particle 'r' is added in words like "ito āyati" becoming "ito nāyati," and "ciraṃ nāyati."
+
+**Addition of 'k'**
+
+The particle 'k' is added in words like "yasmātiha" becoming "tasmātiha," and "ajjatagge."
+
+**Addition of 'l'**
+
+The particle 'l' is added in words like "ni antaraṃ" becoming "nirantaraṃ," and "nirālayo." Other examples include "nirindhano," "nirīhakaṃ," "niruttaro," "nirojaṃ," "duratikkamo," "durāgataṃ," "duruttaṃ," "pāturahosi," "pāturahesuṃ," "punarāgaccheyya," "punaruttaṃ," "punareva," "punareti," "dhiratthu," and "pātarāso."
+
+**Addition of 'c'**
+
+The particle 'c' is added in words like "caturaṅgikaṃ," "caturārakkhā," "caturiddhipādapaṭilābho," "caturoghanittharaṇatthaṃ," "bhatturatthe," "vuttiresā," and "pathavīdhāturevesā."
+
+**Addition of 's'**
+
+The particle 's' is added in words like "nakkhattarājāriva" becoming "tārakānaṃ," and "vijjurivabbhakūṭe." Other examples include "āraggeriva sāsapo," "sāsaporiva āragge," "usabhoriva," and "sabbhireva samāsetha."
+
+**Addition of 'l'**
+
+The particle 'l' is added in words like "cha abhiññā" becoming "chaḷabhiññā," and "chaḷaṅgaṃ." Other examples include "chaḷāsīti," "chaḷaṃsā," and "saḷāyatanaṃ."
+
+**Conclusion**
+
+Thus, the rules for the addition of particles in Pali are established.
+
+## Itthiliṅga (Feminine gender)
+>
+>Atha itthiliṅgāni vuccante.
+>
+>Akāranto itthiliṅgasaddo appasiddho.
+>
+>Ākāranto itthiliṅgo kaññāsaddo. ‘‘Kañña’’iti ṭhite –
+
+Then, feminine nouns are mentioned.
+
+The feminine noun ending in ‘a’ is rare.
+
+The feminine noun ending in ‘ā’ is the word ‘kaññā’ (girl). When ‘kañña’ is established –
+
+### 176. Itthiyamato āppaccayo.
+
+>Itthiyaṃ vattamānā akārantato liṅgamhā paro āppaccayo hoti.
+>
+>Pakatyatthajotakā itthi-ppaccayā syādayo viya;
+>Ṇādayo paccayatthassa, sakatthassāpi vācakā.
+>
+>‘‘Saralopo’’tiādinā pubbassare lutte, paranayane ca kate ‘‘dhātuppaccayavibhattivajjitamatthavaṃ liṅga’’nti vuttattāva paccayantassāpi aliṅgattā vibhattuppattiyamasampattāyaṃ ‘‘taddhitasamāsakitakā nāmaṃ vā’tavetunādīsu cā’’ti ettha vaggahaṇena itthippaccayantassāpi nāmabyapadeso. Pure viya syādyuppatti, ‘‘sesato lopaṃ gasipī’’ti silopo. Sā kaññā.
+>
+>Bahuvacane ‘‘ālapane si gasañño’’ti ito ‘‘sañño’’, ‘‘te itthikhyā po’’ti ito ‘‘itthikhyā’’ti ca vattate.
+
+In the feminine gender, when ending in ‘a’, the suffix ‘ā’ is added.
+
+Feminine suffixes, indicating the original meaning, are like the suffixes ‘syā’ and others; The suffixes ‘ṇā’ and others indicate the meaning of the suffix, and also denote their own meaning.
+
+When the initial vowel is elided as in “saralopo”, and the subsequent vowel is also elided, it is said that the suffix, devoid of the root, suffix, and case-ending, is gender-neutral. Therefore, the suffix is also gender-neutral, and when the case-ending does not occur, it is said that the suffix is also a name in compounds like ‘taddhita’, ‘samāsa’, and ‘kitaka’. The formation of ‘syā’ and others is like before, and the elision of ‘si’ is ‘silopo’. She is a girl.
+
+In the plural, “ālapane si gasañño” means “sañño”, and “te itthikhyā po” means “itthikhyā”.
+
+### 177. Ā gho.
 
 Liṅgassanto ākāro yadā itthikhyo, tadā ghasañño hotīti ghasaññāyaṃ ‘‘ghapato ca yonaṃ lopo’’ti vikappena yolopo. Tā kaññā kaññāyo.
 
@@ -565,14 +793,18 @@ Ammā annāiccevamādito parassa gassa ālapanekavacanassa na ekārattaṃ hoti.
 
 Bhoti amma bhoti ammā, bhotiyo ammā ammāyo. Evaṃ annā, annā annāyo, bhoti anna bhoti annā, bhotiyo annā annāyo. Ambā , ambā ambāyo, bhoti amba bhoti ambā, bhotiyo ambā ambāyo iccādi.
 
-### Ākārantaṃ.
+## Ākārantaṃ. (ā ending)
 
-Ikāranto itthiliṅgo rattisaddo;
-Tatheva syādyuppatti, silopo, ratti.
+>Ikāranto itthiliṅgo rattisaddo;\
+>Tatheva syādyuppatti, silopo, ratti.
+>
+>Bahuvacane ‘‘saññā, ivaṇṇuvaṇṇā’’ti ca vattate.
 
-Bahuvacane ‘‘saññā, ivaṇṇuvaṇṇā’’ti ca vattate.
+The word “ratti” is a feminine noun ending in “i.” Similarly, it follows the rules of formation, elision, and remains as “ratti.”
 
-182.Te itthikhyā po.
+In the plural, it is stated as “saññā, ivaṇṇuvaṇṇā.”
+
+### 182. Te itthikhyā po.
 
 Itthiyā ākhyā saññā itthikhyā, liṅgassantā te ivaṇṇuvaṇṇā yadā itthikhyā, tadā pasaññā hontīti pasaññāyaṃ ‘‘ghapato cā’’tiādinā yolopo, ‘‘yosu kata’’iccādinā dīgho. Rattī rattiyo ratyo vā, he ratti, he rattī he rattiyo.
 
@@ -612,7 +844,7 @@ Sati mati gati cuti, dhiti yuvati vikati.
 
 Rati ruci rasmi asani vasani osadhi aṅguli dhūli dundubhi doṇi aṭavi chavi ādīni ikārantanāmāni.
 
-### Ikārantaṃ.
+## Ikārantaṃ.
 
 Īkāranto itthiliṅgo itthīsaddo;
 ‘‘Ittha’’itīdha ‘‘itthiyaṃ, paccayo’’ti ca vattate.
@@ -701,7 +933,7 @@ Tatheva rājasaddato inī, saralopapakatibhāvā, rājinī. Īkārantesu daṇ�
 
 Vādhikāro anuttasamuccayattho, tena vidū yakkhāditopi inī, paracittavidunī, saraloparassattāni, paracittavidunī paracittaviduniyo, yakkhinī yakkhiniyo, sīhinī sīhiniyo iccādi.
 
-### Īkārantaṃ.
+## Īkārantaṃ.
 
 Ukāranto itthiliṅgo yāgusaddo.
 
@@ -1022,11 +1254,15 @@ Taiccetassa sabbanāmassa sabbasseva attaṃ hoti vā sa smā smiṃ saṃ sāic
 
 Ta imaiccetehi katākārehi paresaṃ smāsmiṃnaṃ mhā mhiiccete ādesā na honti.
 
-## Pakatisandhividhāna
+## Pakatisandhividhāna (Natural sandhi)
 
-Atha sarānameva sandhikāriye sampatte pakatibhāvo vuccate.
+>Atha sarānameva sandhikāriye sampatte pakatibhāvo vuccate.
+>
+>‘‘Sarā, pakatī’’ti ca vattate.
 
-‘‘Sarā, pakatī’’ti ca vattate.
+Then, when the vowels come together in the process of combination, it is called the natural state.
+
+It is also said, “Vowels, natural state.”
 
 ### 35.Sare kvaci.
 

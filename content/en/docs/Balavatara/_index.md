@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: ["Bālāvatāra"]
 tags: ["Pali", "textbook"]
 title: "𑀩𑀸𑀮𑀸𑀯𑀢𑀸𑀭 (Bālāvatāra)"
