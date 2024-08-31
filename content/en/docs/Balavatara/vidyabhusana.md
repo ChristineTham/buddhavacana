@@ -21,7 +21,6 @@ description: >
   University of Calcutta
   (1935)
 ---
-# BĀLĀVATĀRA
 
 An elementary Pali Grammar abridged for\
 the Under-graduate Course

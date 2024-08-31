@@ -937,5 +937,3 @@ Examples:
 >Saṃhitāti ca vaṇṇānaṃ, sannidhabyavadhānato.
 
 These connections between symbols are for euphonic agreement.
-
-Translate the following Pali grammatical rule into English:

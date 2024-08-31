@@ -11,6 +11,8 @@ description: >
 
 ## Pulliṅga
 
+Translate the following Pali grammatical rule into English:
+
 47. ‘‘Jinavacanayuttaṃ  hī’’ti sabbatthādhikāro.
 
 **Liṅgañca nipaccate**.
