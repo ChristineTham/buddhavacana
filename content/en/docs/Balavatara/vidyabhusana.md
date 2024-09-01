@@ -851,1222 +851,844 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
    4 as they have (1) one gender, (2) two genders,
    (3) three genders, and (4) no gender.
 
-   **A. Declension of Nouns having one Gender** —
+   1. **Declension of Nouns having one Gender** —
    masculine, feminine or neuter.
 
-   1. MASCULINE.
-
-      1. MASCULINE STEMS ENDING IN -*а*.
-
-         * *Buddha*[^7]
-
-           |      | *Singular*                          | *Plural*                |
-           | ---- | ----------------------------------- | ----------------------- |
-           | 1st  | Buddh*o*                            | Buddh*ā*                |
-           | Voc. | Buddh*a*, Buddh*ā*                  | Buddh*ā*                |
-           | 2nd  | Buddh*aṁ*                           | Buddh*e*                |
-           | 3rd  | Buddh*ena*                          | Buddh*ehi*, Buddh*ebhi* |
-           | 4th  | Buddh*assa*                         | Buddh*ānaṁ*             |
-           | 5th  | Buddh*ā*, Buddh*asmā*, Buddh*amhā*  | Buddh*ehi*, Buddh*ebhi* |
-           | 6th  | Buddh*assa*                         | Buddh*ānaṁ*             |
-           | 7th  | Buddh*e*, Buddh*asmiṁ*, Buddh*amhi* | Buddh*esu*              |
+      1. MASCULINE.
+
+         1. MASCULINE STEMS ENDING IN -*а*.
+
+            * *Buddha*[^7]
+
+              |      | *Singular*                          | *Plural*                |
+              | ---- | ----------------------------------- | ----------------------- |
+              | 1st  | Buddh*o*                            | Buddh*ā*                |
+              | Voc. | Buddh*a*, Buddh*ā*                  | Buddh*ā*                |
+              | 2nd  | Buddh*aṁ*                           | Buddh*e*                |
+              | 3rd  | Buddh*ena*                          | Buddh*ehi*, Buddh*ebhi* |
+              | 4th  | Buddh*assa*                         | Buddh*ānaṁ*             |
+              | 5th  | Buddh*ā*, Buddh*asmā*, Buddh*amhā*  | Buddh*ehi*, Buddh*ebhi* |
+              | 6th  | Buddh*assa*                         | Buddh*ānaṁ*             |
+              | 7th  | Buddh*e*, Buddh*asmiṁ*, Buddh*amhi* | Buddh*esu*              |
+
+            * *Atta*
+
+              |      | *Singular*                     | *Plural*                |
+              | ---- | ------------------------------ | ----------------------- |
+              | 1st  | Att*ā*                         | Att*āno*                |
+              | Voc. | Att*a*, Att*ā*                 | Att*āno*                |
+              | 2nd  | Att*ānaṁ*                      | Att*āno*                |
+              | 3rd  | Att*ena*, Att*anā*             | Att*anehi*, Att*anebhi* |
+              | 4th  | Att*ano*                       | Att*ānaṁ*               |
+              | 5th  | Att*anā*, Att*asmā*, Att*amhā* | Att*anehi*, Att*anebhi* |
+              | 6th  | Att*ano*                       | Att*ānaṁ*               |
+              | 7th  | Att*ani*                       | Att*anesu*, Att*esu*    |
+
+            * *Rāja*
+
+              |      | *Singular*                    | *Plural*                                 |
+              | ---- | ----------------------------- | ---------------------------------------- |
+              | 1st  | Rāj*ā*                        | Rāj*āno*                                 |
+              | Voc. | Rāj*a*, Rāj*ā*                | Rāj*āno*                                 |
+              | 2nd  | Rāj*ānaṁ*, Rāj*aṁ*            | Rāj*āno*                                 |
+              | 3rd  | Rāj*ena*, *Rāññā*             | Rāj*ehi*, Rāj*ebhi*, Rāj*ūhi*, Rāj*ūbhi* |
+              | 4th  | Rāj*ino*, *Rāñño*             | Rāj*ānaṁ*, *Rāññaṁ*, Rāj*ūnaṁ*           |
+              | 5th  | *Rāññā*, Rāj*asmā*, Rāj*amhā* | Rāj*ehi*, Rāj*ebhi*, Rāj*ūhi*, Rāj*ūbhi* |
+              | 6th  | *Rāñño*, Rāj*ino*             | Rāj*ānaṁ*, *Rāññaṁ*, Rāj*ūnaṁ*           |
+              | 7th  | Rāj*ini*, *Rāññe*             | Rāj*usu*, Rāj*ūsu*, Rāj*esu*             |
+
+            * *Guṇavanta*[^8]
+
+              |      | *Singular*                                               | *Plural*                      |
+              | ---- | -------------------------------------------------------- | ----------------------------- |
+              | 1st  | *Guṇavā*                                                 | Guṇavant*o*, Guṇavant*ā*      |
+              | Voc. | *Guṇv*a*, *Guṇavā*, *Guṇavaṁ*                            | Guṇavant*o*, Guṇavant*ā*      |
+              | 2nd  | Guṇavant*aṁ*                                             | Guṇavant*e*                   |
+              | 3rd  | Guṇavant*ena*, Guṇavat*ā*                                | Guṇavant*ehi*, Guṇavant*ebhi* |
+              | 4th  | Guṇavant*o*, Guṇavant*assa*                              | Guṇavant*ānaṁ*, Guṇavant*aṁ*  |
+              | 5th  | Guṇavant*ā*, Guṇavant*asmā*, Guṇavant*amhā*              | Guṇavant*ehi*, Guṇavant*ebhi* |
+              | 6th  | Guṇavant*o*, Guṇavant*assa*                              | Guṇavant*ānaṁ*, Guṇavant*aṁ*  |
+              | 7th  | Guṇavat*i*, Guṇavant*e*, Guṇavant*amhi*, Guṇavant*asmiṁ* | Guṇavant*esu*                 |
+
+            * *Gacchanta*[^9]
+
+              |      | *Singular*                                               | *Plural*                      |
+              | ---- | -------------------------------------------------------- | ----------------------------- |
+              | 1st  | *Gacchaṁ*, Gacchant*o*                                   | Gacchant*o*, Gacchant*ā*      |
+              | Voc. | *Gacchaṁ*, *Gaccha*, *Gacchā*                            | Gacchant*o*, Gacchant*ā*      |
+              | 2nd  | Gacchant*aṁ*                                             | Gacchant*e*                   |
+              | 3rd  | Gacchant*ena*, Gacchat*ā*                                | Gacchant*ehi*, Gacchant*ebhi* |
+              | 4th  | Gacchat*o*, Gacchant*assa*                               | Gacchant*ānaṁ*, Gacchat*aṁ*   |
+              | 5th  | Gacchant*ā*, Gacchant*asmā*, Gacchant*amhā*              | Gacchant*ehi*, Gacchant*ebhi* |
+              | 6th  | Gacchat*o*, Gacchant*assa*                               | Gacchant*ānaṁ*, Gacchat*aṁ*   |
+              | 7th  | Gacchat*i*, Gacchant*e*, Gacchant*amhi*, Gacchant*asmiṁ* | Gacchant*esu*                 |
+
+         2. MASCULINE STEMS ENDING IN -*i*.
+
+            * *Aggi*[^10]
+
+              |      | *Singular*                     | *Plural*            |
+              | ---- | ------------------------------ | ------------------- |
+              | 1st  | Agg*i*                         | Agg*ī*, Agg*ayo*    |
+              | Voc. | Agg*i*                         | Agg*ī*, Agg*ayo*    |
+              | 2nd  | Agg*iṁ*                        | Agg*ī*, Agg*ayo*    |
+              | 3rd  | Agg*inā*                       | Agg*īhi*, Agg*ībhi* |
+              | 4th  | Agg*ino*, Agg*issa*            | Agg*īnaṁ*           |
+              | 5th  | Agg*inā*, Agg*ismā*, Agg*imhā* | Agg*īhi*, Agg*ībhi* |
+              | 6th  | Agg*ino*, Agg*issa*            | Agg*īnaṁ*           |
+              | 7th  | Agg*ismiṁ*, Agg*imhi*          | Agg*īsu*            |
+
+            * *Ādi*
+
+              *Ādi* is declined like *Aggi*, with a slight difference in
+              Locative Singular :—
+
+              Loc. Sing. — ādiṁ, ādо, ādimhi, ādismiṁ.
+
+         3. MASCULINE STEMS ENDING IN -*ī*.
+
+            * *Daṇḍī*[^11]
+
+              |      | *Singular*                         | *Plural*                      |
+              | ---- | ---------------------------------- | ----------------------------- |
+              | 1st  | Daṇḍ*i*                            | Daṇḍ*ī*, Daṇḍ*ino*            |
+              | Voc. | Daṇḍ*i*                            | Daṇḍ*ī*, Daṇḍ*ino*            |
+              | 2nd  | Daṇḍ*iṁ*, Daṇḍ*inaṁ*               | Daṇḍ*ī*, Daṇḍ*ino*, Daṇḍ*ine* |
+              | 3rd  | Daṇḍ*inā*                          | Daṇḍ*īhi*, Daṇḍ*ībhi*         |
+              | 4th  | Daṇḍ*ino*, Daṇḍ*issa*              | Daṇḍ*īnaṁ*                    |
+              | 5th  | Daṇḍ*inā*, Daṇḍ*ismā*, Daṇḍ*imhā*  | Daṇḍ*īhi*, Daṇḍ*ībhi*         |
+              | 6th  | Daṇḍ*ino*, Daṇḍ*issa*              | Daṇḍ*īnaṁ*                    |
+              | 7th  | Daṇḍ*ismiṁ*, Daṇḍ*imhi*, Daṇḍ*ini* | Daṇḍ*īsu*, Daṇḍ*isu*          |
+
+            * *Gāmanī*, *senānī* and *sudhī* are declined like Daṇḍī except in the 7th
+              case-ending, where the forms respectively are :—
+
+              |        | *Singular*                | *Plural*   |
+              | ------ | ------------------------- | ---------- |
+              | gāmanī | gāman*ismiṁ*, gāman*imhi* | gāman*īsu* |
+              | senānī | senān*ismiṁ*, senān*imhi* | senān*īsu* |
+              | sudhī  | sudh*ismiṁ*, sudh*imhi*   | sudh*īsu*  |
+
+         4. MASCULINE STEMS ENDING IN -*u*.
+
+            * *Bhikkhu*
+
+              |      | *Singular*                              | *Plural*                  |
+              | ---- | --------------------------------------- | ------------------------- |
+              | 1st  | Bhikkh*u*                               | Bhikkh*ū*, Bhikkh*avo*     |
+              | Voc. | Bhikkh*u*                               | Bhikkh*ū*, Bhikkh*avo*     |
+              | 2nd  | Bhikkh*uṁ*                              | Bhikkh*ū*, Bhikkh*avo*     |
+              | 3rd  | Bhikkh*unā*                             | Bhikkh*ūhi*, Bhikkh*ūbhi* |
+              | 4th  | Bhikkh*uno*, Bhikkh*ussa*               | Bhikkh*ūnaṁ*              |
+              | 5th  | Bhikkh*unā*, Bhikkh*usmā*, Bhikkh*umhā* | Bhikkh*ūhi*, Bhikkh*ūbhi* |
+              | 6th  | Bhikkh*uno*, Bhikkh*ussa*               | Bhikkh*ūnaṁ*              |
+              | 7th  | Bhikkh*usmiṁ*, Bhikkh*umhi*             | Bhikkh*ūsu*, Bhikkh*usu*  |
+
+            * *Hetu*
+
+              |      | *Singular* | *Plural*                  |
+              | ---- | ---------- | ------------------------- |
+              | 1st  | Het*u*     | Het*ū*, Het*avo*, Het*uyo* |
+              | Voc. | Het*u*     | Het*ū*, Het*avo*, Het*uyo* |
+              | 2nd  | Het*uṁ*    | Het*ū*, Het*avo*, Het*uyo* |
+
+              [The rest are like *Bhikkhu*.]
+
+            * *Jantu*
+
+              |      | *Singular* | *Plural*                                |
+              | ---- | ---------- | --------------------------------------- |
+              | 1st  | Jant*u*    | Jant*ū*, Jantavo*, Jant*uyo*, Jant*uno* |
+              | Voc. | Jant*u*    | Jant*ū*, Jantavo*, Jant*uyo*, Jant*uno* |
+              | 2nd  | Jant*uṁ*   | Jant*ū*, Jantavo*, Jant*uyo*, Jant*uno* |
+
+              [The rest are like *Bhikkhu*.]
+
+            * *Satthu*[^12]
+
+              |      | *Singular*                        | *Plural*                    |
+              | ---- | --------------------------------- | --------------------------- |
+              | 1st  | Satth*ā*                          | Satth*āro*                  |
+              | Voc. | Satth*ā*, Satth*a*                | Satth*āro*                  |
+              | 2nd  | Satth*āraṁ*                       | Satth*āre*, Satth*āro*       |
+              | 3rd  | Satth*ārā*                        | Satth*ārehi*, Satth*ārebhi* |
+              | 4th  | Satth*uno*, Satth*ussa*, Satth*u* | Satth*ārānaṁ*, Satth*ānaṁ*  |
+              | 5th  | Satth*ārā*                        | Satth*ārehi*, Satth*ārebhi* |
+              | 6th  | Satth*uno*, Satth*ussa*, Satth*u* | Satth*ārānaṁ*, Satth*ānaṁ*  |
+              | 7th  | Satth*ari*                        | Satth*āresu*                |
+
+            * *Pitu*[^13]
+
+              |      | *Singular*                  | *Plural*                                     |
+              | ---- | --------------------------- | -------------------------------------------- |
+              | 1st  | Pit*ā*                      | Pit*aro*                                     |
+              | Voc. | Pit*ā*, Pit*a*              | Pit*aro*                                     |
+              | 2nd  | Pit*araṁ*                   | Pit*are*, Pit*aro*                            |
+              | 3rd  | Pit*arā*                    | Pit*arehi*, Pit*arebhi*, Pit*ūhi*, Pit*ūbhi* |
+              | 4th  | Pit*uno*, Pit*ussa*, Pit*u* | Pit*arānaṁ*, Pit*ānaṁ*, Pit*ūnaṁ*            |
+              | 5th  | Pit*arā*                    | Pit*arehi*, Pit*arebhi*, Pit*ūhi*, Pit*ūbhi* |
+              | 6th  | Pit*uno*, Pit*ussa*, Pit*u* | Pit*arānaṁ*, Pit*ānaṁ*, Pit*ūnaṁ*            |
+              | 7th  | Pit*ari*                    | Pit*aresu*, Pit*ūsu*                         |
+
+         5. MASCULINE STEMS ENDING IN -*ū*.
+
+            * *Abhibhū*
+
+              |     | *Singular* | *Plural*               |
+              | --- | ---------- | ---------------------- |
+              | 1st | Abhibh*ū*  | Abhibh*ū*, Abhibh*uvo* |
+
+              [The rest are like *Bhikkhu*. Thus is also declined
+              *Sabbaññū* with the only difference that in the Ist
+              case-ending plural the forms are *sabbaññuno*, *sabbaññū*.]
+
+         6. MASCULINE STEMS ENDING IN -*o*.
+
+            * *Go*
+
+              |      | *Singular*                                                   | *Plural*                   |
+              | ---- | ------------------------------------------------------------ | -------------------------- |
+              | 1st  | G*o*                                                         | G*avo*, G*avo*             |
+              | Voc. | G*o*                                                         | G*avo*, G*avo*             |
+              | 2nd  | G*āvuṁ*, G*āvaṁ*, G*avaṁ*                                    | G*avo*, G*avo*             |
+              | 3rd  | G*āvenā*, G*avenā*                                           | G*ohi*, G*obhi*            |
+              | 4th  | G*āvassa*, G*avassa*                                         | G*avaṁ*, G*unnaṁ*, G*onaṁ* |
+              | 5th  | G*āvā*, G*āvusmā*, G*āvamhā*, G*avā*, G*avusmā*, G*avamhā*   | G*ohi*, G*obhi*            |
+              | 6th  | G*āvassa*, G*avassa*                                         | G*avaṁ*, G*unnaṁ*, G*onaṁ* |
+              | 7th  | G*āvasmiṁ*, G*āvamhi*, G*āve*, G*avasmiṁ*, G*avamhi*, G*ave* | G*āvesu*, G*avesu*, G*osu* |
+
+      2. FEMININE.
+
+         1. FEMININE STEMS ENDING IN -*ā*.
+
+            * *Kaññā*[^14]
+
+              |      | *Singular*            | *Plural*              |
+              | ---- | --------------------- | --------------------- |
+              | 1st  | Kaññ*ā*               | Kaññ*ā*, Kaññ*āyo*    |
+              | Voc. | Kaññ*e*               | Kaññ*ā*, Kaññ*āyo*    |
+              | 2nd  | Kaññ*aṁ*              | Kaññ*ā*, Kaññ*āyo*    |
+              | 3rd  | Kaññ*āya*             | Kaññ*āhi*, Kaññ*ābhi* |
+              | 4th  | Kaññ*āya*             | Kaññ*ānaṁ*            |
+              | 5th  | Kaññ*āya*             | Kaññ*āhi*, Kaññ*ābhi* |
+              | 6th  | Kaññ*āya*             | Kaññ*ānaṁ*            |
+              | 7th  | Kaññ*āya*, Kaññ*āyaṁ* | Kaññ*āsu*             |
+
+         2. FEMININE STEMS ENDING IN -*i*.
+
+            * *Ratti*[^15]
+
+              |      | *Singular*                                         | *Plural*                    |
+              | ---- | -------------------------------------------------- | --------------------------- |
+              | 1st  | Ratt*i*                                            | Ratt*ī*, Ratt*iyo*, *Ratyo* |
+              | Voc. | Ratt*i*                                            | Ratt*ī*, Ratt*iyo*, *Ratyo* |
+              | 2nd  | Ratt*iṁ*                                           | Ratt*ī*, Ratt*iyo*, *Ratyo* |
+              | 3rd  | Ratt*iyā*, *Ratyā*                                 | Ratt*īhi*, Ratt*ībhi*       |
+              | 4th  | Ratt*iyā*, *Ratyā*                                 | Ratt*īnaṁ*                  |
+              | 5th  | Ratt*iyā*, *Ratyā*                                 | Ratt*īhi*, Ratt*ībhi*       |
+              | 6th  | Ratt*iyā*, *Ratyā*                                 | Ratt*īnaṁ*                  |
+              | 7th  | Ratt*īya*, Ratt*iyaṁ*, *Ratyaṁ*, Ratt*iṁ*, Ratt*o* | Ratt*isu*, Ratt*īsu*        |
+
+         3. FEMININE STEMS ENDING IN -*ī*.
+
+            * *Nadī*[^16]
+
+              |      | *Singular*          | *Plural*            |
+              | ---- | ------------------- | ------------------- |
+              | 1st  | Nad*ī*              | Nad*ī*, Nad*iyo*    |
+              | Voc. | Nad*i*              | Nad*ī*, Nad*iyo*    |
+              | 2nd  | Nad*iṁ*             | Nad*ī*, Nad*iyo*    |
+              | 3rd  | Nad*iyā*            | Nad*īhi*, Nad*ībhi* |
+              | 4th  | Nad*iyā*            | Nad*īnaṁ*           |
+              | 5th  | Nad*iyā*            | Nad*īhi*, Nad*ībhi* |
+              | 6th  | Nad*iyā*            | Nad*īnaṁ*           |
+              | 7th  | Nad*iyā*, Nad*iyaṁ* | Nad*īsu*            |
 
-         * *Atta*
+         4. FEMININE STEMS ENDING IN -*u*.
 
-           |      | *Singular*                     | *Plural*                |
-           | ---- | ------------------------------ | ----------------------- |
-           | 1st  | Att*ā*                         | Att*āno*                |
-           | Voc. | Att*a*, Att*ā*                 | Att*āno*                |
-           | 2nd  | Att*ānaṁ*                      | Att*āno*                |
-           | 3rd  | Att*ena*, Att*anā*             | Att*anehi*, Att*anebhi* |
-           | 4th  | Att*ano*                       | Att*ānaṁ*               |
-           | 5th  | Att*anā*, Att*asmā*, Att*amhā* | Att*anehi*, Att*anebhi* |
-           | 6th  | Att*ano*                       | Att*ānaṁ*               |
-           | 7th  | Att*ani*                       | Att*anesu*, Att*esu*    |
+            * *Yāgu*
 
-         * *Rāja*
-
-           |      | *Singular*                    | *Plural*                                 |
-           | ---- | ----------------------------- | ---------------------------------------- |
-           | 1st  | Rāj*ā*                        | Rāj*āno*                                 |
-           | Voc. | Rāj*a*, Rāj*ā*                | Rāj*āno*                                 |
-           | 2nd  | Rāj*ānaṁ*, Rāj*aṁ*            | Rāj*āno*                                 |
-           | 3rd  | Rāj*ena*, Rā*ññā*             | Rāj*ehi*, Rāj*ebhi*, Rāj*ūhi*, Rāj*ūbhi* |
-           | 4th  | Rāj*ino*, Rā*ñño*             | Rāj*ānaṁ*, Rā*ññaṁ*, Rāj*ūnaṁ*           |
-           | 5th  | Rā*ññā*, Rāj*asmā*, Rāj*amhā* | Rāj*ehi*, Rāj*ebhi*, Rāj*ūhi*, Rāj*ūbhi* |
-           | 6th  | Rā*ñño*, Rāj*ino*             | Rāj*ānaṁ*, Rā*ññaṁ*, Rāj*ūnaṁ*           |
-           | 7th  | Rāj*ini*, Rā*ññe*             | Rāj*usu*, Rāj*ūsu*, Rāj*esu*             |
-
-         * *Guṇavanta*[^8]
-
-           |      | *Singular*                                               | *Plural*                      |
-           | ---- | -------------------------------------------------------- | ----------------------------- |
-           | 1st  | Guṇav*ā*                                                 | Guṇavant*o*, Guṇavant*ā*      |
-           | Voc. | Guṇav*a*, Guṇav*ā*, Guṇav*aṁ*                            | Guṇavant*o*, Guṇavant*ā*      |
-           | 2nd  | Guṇavant*aṁ*                                             | Guṇavant*e*                   |
-           | 3rd  | Guṇavant*ena*, Guṇavat*ā*                                | Guṇavant*ehi*, Guṇavant*ebhi* |
-           | 4th  | Guṇavant*o*, Guṇavant*assa*                              | Guṇavant*ānaṁ*, Guṇavant*aṁ*  |
-           | 5th  | Guṇavant*ā*, Guṇavant*asmā*, Guṇavant*amhā*              | Guṇavant*ehi*, Guṇavant*ebhi* |
-           | 6th  | Guṇavant*o*, Guṇavant*assa*                              | Guṇavant*ānaṁ*, Guṇavant*aṁ*  |
-           | 7th  | Guṇavat*i*, Guṇavant*e*, Guṇavant*amhi*, Guṇavant*asmiṁ* | Guṇavant*esu*                 |
-
-         * *Gacchanta*[^9]
-
-           |      | *Singular*                                               | *Plural*                      |
-           | ---- | -------------------------------------------------------- | ----------------------------- |
-           | 1st  | Gaccha*ṁ*, Gacchant*o*                                   | Gacchant*o*, Gacchant*ā*      |
-           | Voc. | Gaccha*ṁ*, Gacch*a*, Gacch*ā*                            | Gacchant*o*, Gacchant*ā*      |
-           | 2nd  | Gacchant*aṁ*                                             | Gacchant*e*                   |
-           | 3rd  | Gacchant*ena*, Gacchat*ā*                                | Gacchant*ehi*, Gacchant*ebhi* |
-           | 4th  | Gacchat*o*, Gacchant*assa*                               | Gacchant*ānaṁ*, Gacchat*aṁ*   |
-           | 5th  | Gacchant*ā*, Gacchant*asmā*, Gacchant*amhā*              | Gacchant*ehi*, Gacchant*ebhi* |
-           | 6th  | Gacchat*o*, Gacchant*assa*                               | Gacchant*ānaṁ*, Gacchat*aṁ*   |
-           | 7th  | Gacchat*i*, Gacchant*e*, Gacchant*amhi*, Gacchant*asmiṁ* | Gacchant*esu*                 |
-
-      2. MASCULINE STEMS ENDING IN -*i*.
-
-         * *Aggi*
-
-Plural
-
-Aggi, Aggayo
-Aggi, Aggayo
-Agel, Aggayo
-Agyihi, Aggibhi
-
-
-- Stems declined like Ааа are 1—J oti, páni, gagthi, mutthi, kucchi,
-
-akii, vihi, vyadhi, bodhi
-
-. bodhi, sandbi, rasi, dipi, iai, muni, mani, dhani, giri,
-
-ravi, kavi, kapi, asi,’ masi, nidhi, vidhi, ahi, kimi, pati, hari, ari, timi,
-
-kali, bali, añ
-
-añjali, atithi, samadhi, upadhi, etc.
-
--
-
-40 BALAVATARA
-
-Singular Plural
-4th Aggino, Aggissa Agginam
-bs Aggina, Aggimha
-5th BBina, ABE : ibi ibhi
-Анаа Aggihi, Aggibhi
-6th Aggino, Aggissa Agginarn
-
-7th Aggimhi, Aggismirn Aggisu.
-
-A di
-
-Adi is declined like Aggi, with a slight difference in
-Locative Singular : —
-
-Loe. Sing.—&lt;adim, адо, àdimhi, àdismirn.
-
-(iii) MASCULINE SSTEMS ENDING IN -¿,
-
-Dandi *
-
-Singular Plural
-
-Ist. Dandi Dandi, Dandino
-
-Voc. Dandi 3: =
-
-Ond Dandinam, Dandi, Dandine,
-Dandirn Dandino
-
-Srd Dandina Dandihi, Dandibhi
-
-4th Dandino, Dandissa Dandinam
-— А Dandihi,
-
-5th Í pasqimta, Dandibhi
-Dandisma ;
-
-6th Dandino, Dandissa Dandinam
-
-7th Dandini, Dandimhi, Dandisu,”
-Dandismirm Dandisu,
-
-- The following stems are declined like Dandi :—dbhamml, sathghi,
-5505, hsttbi, pskkhi, chatti, māli, yogi, bhogi, kimi, simi, dbaji, gani,
-sasi, kutthi, jati, yáni, sukhi, sikhi, danti, mant!, kari, kusali, musali,
-pápakári, dhammavádi, dighajivi, etc
-
-NAMAKANDO 41
-
-(ip) MASCULINE STEMS ENDING IN -H.
-
-Bhikkhu
-Singular Plural
-Ist Bhikkhu Bhikkhü, Bhikkhavo
-Voc. ГЕ. * »»
-2nd Bhikkhurn “+ Y
-3rd Bhikkhuna Bhikkhühi, Bhikkhübhi
-Ath Bhikkhuno, —
-Bhikkhussa } hikkbünarh
-Bhikkhunnzi,
-5th | B biakaumha, { mibi Bhikkhübhi
-Bhikkhusma
-6th Bhikkhuno, Bhikkhanasi
-Bhikkhussa } УУТ
-Bhikkhusmiri | we usg.
-Hetu
-Simgular Plural
-Ist Hetu Hetü, Hetavo, Hetuyo
-Voc. , 12 Ft rr
-2nd Hetum Hetü, Hetavo, Hetuyo.
-
-[The rest are like Bhikkhu. ]
-
-Gümani, senani and eudhi are declined like Dandi except in the 7th
-
-case-ending, where the forms respectively sre :—
-
-Gümanimbhi { Аай
-Gimaniamim
-Senanimhi 1
-Benünismim
-92১ 1 Sudhisu.
-Sudbismim
-
-2.9
-
-Senünisu
-
-42  BALAVATARA
-
-Jantu
-Singular Plural
-ist Jantu Janta, Jantavo, Jantuno,
-Jantuyo.
-Voc, Jantu * এ
-
-2nd Janturn " T
-[The rest are like Bhikkhu (p. 41). |
-
-Satthu *
-Singular Plural
-1st Satthi Sattharo
-Voc. Sattha, Satthi Satthiro
-2nd Satthiaram Satthüre, Sattharo
-8га Satthéra Satthürehi, Satthirebbi
-4th Satthu, Satthuno, Satthürünarn,
-e { Satthussa Satthinarm
-5th Satthàrü Satthaürehi, Satthürebhi
-6th Satthu, Satthuno, Sattharanam,
-Satthussa Satthinam
-Tth Satthari Satthāresu.
-Pitu t
-Singular Plural
-lst Pita Pitaro
-Voc, Pita, Pita i
-2nd Pitaram Pitare, Pitaro’
-зга Pitara Pitarehi, Pitarebhi,
-
-Pitühi, Pitabhi
-
-® Stems declined like Satthu аге: Майа, bhattu, vattu, netu, вош,
-Lato, jetu, ohetta, bhettu, dütu, dháütu, boddhu, vihihápetu, etc,
-
-- Bhütu and the like are declined like Pitu.
-
-NAMAKANDO 43
-
-4th í Pitu, Pituno, í Pitarinarm,
-Pitussa Ріпа, PitGnarm
-
-Sth Like © the Зга.
-
-Oth Like the Ath.
-
-Tth Pitari Pitaresu, Pitisu.
-
-(D MASCULINE STEMS ENDING IN -@.
-Abhibhü
-
-Singular Plural "
-Ist Abhibhü Abhibhuvo, Abhibho
-
-[The rest are like Bhikkhu (р. 41). Thus is also de-
-clined Sabbañña with the only difference that in the Ist
-
-case-ending plural the forms are sabbaññuno, sabbanna.]
-&gt;
-
-(vi) MASCULINE STEMS ENDING IN -0.
-
-Go
-Singular Plural
-lst Go Givo, Gavo
-Voc. Go p $.
-2nd Gavum, Gavam, Gavam * a
-3rd Güvena, Gavena Gohi, Gobhi
-
-Gavarn, Gun-
-
-4th Givassa, Gavassa :
-nam, Gonam
-
-Gavi, Gava,
-5th . { Garam Gavamhi, | Gohi, Gobhi
-Givasma, Gavasma
-6th Like the 4th.
-Give, Gave, Givamhi, (85688),
-Tth 1০০০৮ Givasmim, (০০০
-Gavasmirn Gosu.
-
-44 BALAVATÁRA
-
-1. FEMININE:
-
-(0 FEMININE STEMS ENDING IN -&amp;.
-
-Kanna *
-
-Singular Plural
-Ist Каййа Kanna, Kaññayo
-Voc, Kaññe " T
-2nd Kaññarn ৮৪ T
-3rd Kanñaya Kaünnaühi, Kaññābhi
-4th 95 Kannaünarn
-Goth Ж. Kannáühi, Kaññabhi
-Oth ৮ Kaññanarn
-
-7th Kaññaya, Кайййауаш Kaññisu.
-
-(ti) FEMININE STEMS ENDING IN -i.
-
-. Ratti T
-Singular Plural
-
-Ist Ratti Ratti, Rattiyo, Ratyo
-Voc. Ratti p’ &gt;» E
-2nd Каби Т э "
-3rd  Raəattiyā, Ratya Rattihi, Rattibhi
-4th * রি Rattinarn
-5th "n - Rattihi, Hattibhi
-
-- Stems declined like Kaññå are :—Saddhi, medhà, paffàá, vijji,
-ninth, tanh’, icchi, may, еі, sikkhà, bbikkh&amp;, giva, jivhá, таса,
-cháyá, isi, gañg&amp;, piv’, gith’, senā, 16018, sili, mālā, veld, püjà,
-pipásá, vedaná, cetand, pajá, devatá, godha, parisi, sabbá, sepbüliká,
-lañkš, 55188, така, sikba, Ьајака, mand, jarà, aja, elakà, kokilá,
-азай, mosiká, 18168, 81518, jettbá, karopi, vanita, lata, каа, 01008,
-suodhá, rádhà, vāsanā, pabbá, sim’, khamé, jaya, khattiyé, suri, dolá,
-101, sāls, Ша, mekbald, kali, mosā, dish, 0888, jughá, 87178
-and vasudhā.
-
-- Stems declined like Ratti are ;:—Kitti, mutti, tithi, kbanti, yanti,
-anti, siddhi, auddhi, iddbi, buddhi, bodhi, bhümi, jati, piti, koti, ащ,
-
-tupthi, yatthi, pāli, ali and keli,
-`A -
-
-^
-
-NAMAKANDO 45
-
-6th Rattiyi, Ratyü Rattinarh
-Rattiyaé, Кабут,
-
-Tth { Ratyarh, Rattirn, | Rattisu, Rattisu.
-Ratto
-
-(iit) FEMININE STEMS ENDING IN -i.
-
-Nadi *
-
-Singular Plural
-lst Nadi Nadi, Nadiyo
-Voc. Nadi ‚ә ..
-2nd Nadir "à „
-9rd 9,085 Nadihi, Nadibhi
-4th 3 | Nadinarm
-oth * Nadihi, Nadibhi
-6th га Nadinarn
-7th Nadiyñ, Nadiyarh Nadisu.
-
-(iv) FEMININE STEMS ENDING IN -u. m
-Yāgu
-
-Singular Plural
-1st ари Yaga, Yaguyo
-Voc. Yügu | vn os ve
-2nd Yagurm js =
-8rd — Yüguyà адаы, Yagübhi
-Ath এ Yagünarh
-5th ка Yügühi, Yagübbi
-6th * Yaginam
-7th Yagusu, Yügüsu.
-
-[Mitu, dhitu and duhitu follow the declension rules of
-Pitu (pp. 42-43). ]
-
-е Stems declined like Nadi are: Negeri ri, bráhmapi,
-tarupi, kukkuti, itthi, mitulani, sakhi atthi. X3 bhoti, mánavi,
-nàviki, venatoyyi. gotarmil, pee uüpavanti, dhitimati, dhitimanti
-
-- mabanti. gnhapatàá ni. rájini, medhá vini, tapaasipi,
-dhammacáripi, Wee ve oce and bhuttá vini.
-
-! Hatthi ae a feminine form being non-sense. Sinhalese ¢ graminarians
-have now corrected it © hatti,
-
-46 BALAVATARA
-
-(c) FEMININE STEM ENDING IN -й.
-
-Jamba
-
-[The procedure of declension is like that of Nadi
-(p. 45). ]
-
-8. NEUTER:
-
-(ü) NEUTER STEMS ENDING IN -а.
-
-. A
-Citta
-Singular Plural
-Ist СБа Citta, Cittàni в
-Voc. Citta, Citta T Т
-2nd  Cittam Citte, Cittàni.
-
-[ The rest are like Buddha (pp. 36-37). ]
-
-Мата *
-Singular Plural
-Ist Мапа Mani, Manani
-Voc. Mana, Mana $5*
-2nd Manarin Mane, Manāni
-3rd Manasa, Manena - Manehi, Manebhi
-4th Manaso, Manassa Maninam
-— Гаги Manamha, } Manabi Manebhi
-Manasma
-6th Like the 4th.
-Tth Manasi, Mane, I } Manesu.
-Manamhi, Manasmirm
-
-- Stems belonging to the Mano-group and declined like Mana
-are :— Bira, ura, teja, raj», oja, vaya, pays, yasa, tapa, vaca, ceta, eto.
-
--
-
-NÁMAKANDO 47 -
-
-Gunavanta
-
-| According to strict grammar, the stem is Gunavantu.]
-
-Singular Plural
-186 Gunavarn Gunavanti, Gunavantini
-॥ Voo Gunavarn, Gunava, f Gunavantà
-` UGunava Gunavantani
-Gunavante,
-
-2nd Gunavantarm 1
-Gunavantaàni.
-
-[The rest are like the masculine (p. 38). Gacchanta
-is similarly declined ; for the masculine declen-
-«sion, see p. 39. ]
-
-(ii) NEUTER STEM ENDING IN -i.
-
-Atthi
-Singular Plural
-1st Atthi Atthi, Atthini =
-Voc. Atthi T »
-2nd Atthim T ও
-
-[The rest are like Aggi (pp. 39-40).]
-
-(iii) NEUTER STEM ENDING IN -i.
-
-Dandi
-Singular Plural
-lst Dandi Dandi, Dandini
-Voc. * T T
-2nd Dandirn - -
-
-[The rest are declined like the masculine (p. 40). |
-(it) NEUTER STEM ENDING IN -t.
-Ayu '
-[The procedure of declension is like that of. Atthi
-above. ]
-
-Dhammo
-
-45
-
-BALAVATARA
-
-B. Nouns having two Genders.
-
-[These nouns are declined in their different genders in
-the manner illustrated above. The form given in
-
-the subjoined list is that of the nominative
-singular. |
-
-Mas.
-Ghato
-Yatthi
-Sindhu
-Khattiyo
-Gajo
-
-Mas.
-
-“© Катто
-Brahma
-Kusumo
-Sangamo
-Padumo
-Assamo
-Viharo
-
-Sariro
-Suvanno
-
-Kahapano
-
-Vanno
-
-Bhavano
-Bhuvano
-Yobbano
-
-Fem,
-
-Nagari
-
-(i) MASCULINE AND FEMININE:
-
-Fem. Mas. Fem,
-Ghati Kato Kati
-Yatthi Mutthi Mutthi
-Sindhi Renu Rent
-
-Khattiya Samano Samani
-
-Gaja . | Byaggho Byagghi.
-
-(ii) MASCULINE AND NEUTER:
-
-Neuter Mas. Neuter:
-Dhammarn Bhüsano Bhisanarm
-Kammarh Asano Asanam
-Brahmam Sayano Sayanarm
-Kusumam Odano Одапатћ
-Sañgamarn Aküso Akasam
-
-Padumarn Upavüso `  Upavüsam
-Assamam Maso Miasam
-Vihüram Divaso Divasam
-Sariram Raso 3 Нават
-Suvannarn | 'Thalo Thalam
-Vannam Phalo Phalarn
-Kahapanam Rattho Rattham
-Bhavanarn Ambu Amburn
-Bhuvanarn Madhu Madhurn.
-Yobbanarn
-
-(iii) FEMININE AND NEUTER:
-
-Neuter Fem. Neuter
-Nagaram Acci Acci.
-©
-
-NAMAKANDO 49
-
-C. Nouns having three Genders (including Pronouns)
-I. NOUNS
-
-(declined as above)
-
-Mas. Fem. Neut,
-
-Tato Tati Tatarn
-
-Puto Puti Putarn
-
-Puro Puri Purarn
-
-Patto Patta Pattarn
-Mandalo Mandali Mandalarn
-Kalaso Kalasi Kalasam
-Devadatto Devadattà Devadattarn.
-
-II. PRONOUNS
-
-(declined as follows) °
-Sabba*
-Masculine
-Singular Plural
-18% Sabbo Sabbe
-Voc. Sabba Sabbe
-2nd Sabbam Sabbe
-Brd Sabbena Sabbehi. Sabbebhi
-4th Sabbassa Sabbesam, SabbesAnam
-— ae } Sabbehi, Sabbebbi
-Sabbasma
-6th Sabbassa Sabbesam, Sabbesanam
-Tth Sabbamhi, 1 Sabbesu.
-Sabbasmim
-
-- Katara, katama, ubhaya, itara, aids, afifiatara and afifiatama
-are declined like Sabba.
-
-7
-
-BALAVATAKA
-
-Feminine
-Singular | Plural
-lst Sabba Sabba, Sabbayo
-Voc. Sabbe *| F
-2nd Sabbarn Ж i
-3rd Sabbaya Sabbühi, Sabbabhi
-4th Sabbassi, Sabbiya Sabbisam, Sabbasinariy
-5th Sabbayu Sabbahi, Sabbübhi
-6th Sabbassa, Sabbüya — Sabbüsam, Sabbisinam
-í Sabbassarn, E
-7th Sabbüyarn } Sabbiasu в
-Neuter
-Singular Plural
-lst Sabbam Sabbani
-Voc. .Sabba, Sabbā Sabbáni
-2nd Sabbarn Sabbe, Sabbani.
-[ The rest are like the masculine. |
-Pubba*
-Masculine
-Singular Plural
-ist 1১9০০ Pubbe, Pubba
-Voc. Pubba, Pubba Pubbe, Pubba
-2nd Pubbam Pubbe
-8га Pubbena Pubbehi, Pubbebhi
-4th  Pubbassa Pubbesarn, Pubbesanarm
-
-Pubbá, Pubbamba, У Pubbehi, Pubbebhi
-Pubbasma
-6th Like the 4th.
-Pubbe, Pubbamhi,
-TUNE. Pots Р J Pubbesu.
-
-- Para, apara, dakkhina, utters and adhara are declined like Pubbe.
-
-Ist
-
-Voc.
-
-2nd
-3rd
-
-4th
-
-5th
-6th
-
-Tth
-
-18%
-
-Voc.
-
-2nd
-
-NAMAKANDO
-Feminine
-Sinyular Plural
-Pubba Pubba, Pubbayo
-Pubbe Pubbia, Pubbiyo
-Pubbarn Pubba, Pubbayo
-Pubbaya Pubbahi, Pubbübhi
-í Pubbassi, Pubbiüsarn,
-1 ৮৮৪৮৬ Pubbasánarn
-Like the 8rd.
-Like the 4th.
-Pubbassarn, -i
-Neuter
-Singular Plural
-Pubbarn Pubba, Pubbiáni
-Pubba js T
-Pubbarn Pubbani.
-
-[The rest are like the masculine. |
-
-Ya
-Masculine
-Singular Plural
-Yo Ye
-Yam Ye
-Yena Yehi, Yebhi
-Yassa Yesari, Yesanarm
-Yamba, Yasmiü Yehi, Yebhi
-Yassa Yesari, Yesinam
-Yamhi, Yasmirn Yesu.
-
-51
-
-52
-
-lst
-
-2nd
-Srd
-4th
-oth
-6th
-Tth
-
-1st
-2nd
-
-lst
-
-lst
-
-2nd
-
-BALAVATARA
-
-Feminine
-
-Singular Plural
-Ya Ya, Yiiyo
-Yarh »* ও
-Yaya Yahi, Yabhi
-Yassa, Yaya Yasam, Yāsānarħ
-Like the Ord.
-Like the 4th.
-Yassam, Yayarn Үави,
-
-Neuter
-Singular Plural
-
-Yam Ye, Yani
-Yam
-
-t9 T
-
-[The rest are like the masculine. ]
-
-Ta
-Masculine
-Singular Plural
-So Ne, Te
-Nam, Tam Ne, Te
-Nehi, Tebi,
-
-Nena, Tena Nebhi, Tebhi
-
-Nassa, Tassa Мева, Тева
-
-Namba, Tamha, Nehi, Tehi,
-Мааша, Tasma Nebhi, Tebhi
-Like the 4th. `
-Namhi, Tamhi, т
-N h "Tasmith } Nesu, esu.
-Feminine
-Singular Plural
-Sa Na, Nayo, Ta, Tayo
-Nam, Таг 1 $» 99 E
-
-Srd
-4th
-
-5th
-6th
-
-Tth
-
-lst
-2nd
-
-let
-
-2nd
-9rd
-4th
-5th
-6th
-Tth
-
-lst
-2nd
-8rd
-
-dth
-
-Sin qular
-
-Naya, Tüya
-Tissñya, Tissā
-Tassā, Tāya
-
-Like
-Like
-
-the
-the
-
-Tissam, Tassnrn,
-
-Tayam
-
-Singular
-Nam, Tarh
-Nam, Tam
-
-NAMAKANDO 58.
-
-Plural
-Nahi, Таһі, Nabhi, Tabhi
-} тава, 11858785511
-Srd.
-4th.
-
-J Nasu, Tasu.
-
-Neuter
-
-Plural
-Ne, Nani, Te, Tani
-Ne, Nani, Te, Tani.
-
-| The rest are like the masculine. |
-
-Etaya, Etissüya,
-
-Etissa
-
-Eta E
-Masculine
-Singular Plural
-
-Eso Ete
-Etam Ete
-Etena Etehi, Etebhi
-Etassa Etesam, 86558108517
-Etamha, Etasma Etehi, Etebhi
-Etassa Etesam, Etesinam
-Etamhi, Etasmim Etesu.
-
-Feminine
-Singular Plural
-Esa Eta, Etayo
-Etar Etā, Etāyo
-Etāya Etahi, Etabhi
-
-54
-
-5th
-6th
-7th
-
-lst
-2nd
-
-BALAVATARA
-Singular Plural
-Like the Зта.
-
-Like the 4th.
-Etayarh, Etassarm, 1 Etasu.
-Etissarn
-
-Neuter
-Singular Plural
-Беат , Ete, Etiüni
-Кип Ete, Etani.
-
-[The rest are like the masculine. ]
-
-Ima (=Idam)
-
-Masculine
-Singular Plural
-Ayam Ime
-Imam Ime :
-
-Ehi, Ebhi,
-» Imehi, Imebhi
-Esam, Esaánam,
-Imesara, Imesanam
-
-Anena, Iminà
-
-Assa, Imassn
-
-Asma, Imamha, Ehi, Ebhi,
-Imasma Imehi, Imebhi
-Like the 4th,
-
-Asmim, Imamhi, } Esu, Imesu.
-Imasmim
-
-Feminine
-Singular Plural
-Ayarn | Ima, 10850
-Imarn Imi. Imayo
-Imiye Паһ, Imabhi
-
-Imàaya, Imissa,
-Imissaysa, Азза, | Imāsarh, Imüsanarn
-Assüya
-
-5th
-6th
-
-Tth
-
-Ist
-2nd
-Ard
-
-Asu, Asuko
-lst
-
-2nd
-3rd
-4th
-
-5th
-
-6th
-7th
-
-lst
-
-Srd
-
-Круг. Imissàá
-
-NAMAKANDO 55
-
-Singular Plural
-Imays Imahi, Imābhi
-Like the 4th.
-
-) } Imasu.
-Imissam, Assam
-
-Neuter
-Plural
-
-Ime, Imani
-
-Singular
-
-Іда, Imarh
-
-f. ^s N T
-
-Anena, Iminā Ehi, Ebhi, Imehi, Imebhi.
-[The rest are like the masculine. ]
-
-Amu
-
-Masculine
-Plural i
-
-Asuka, Amuka
-Ami, Amuyo
-Asuke, Amuke
-
-Singular
-
-Amu, Amuko
-Asukam, Amukarh,
-
-Amum Amu, Amuyo
-Amuna Amühi, Amabbi
-( Amuno, Amussa, Amüsam,
-Adussa Amisfinam _
-f Amun, Amumhā, } Amūhi, Amūbhi
-Amusmā
-Like the 4th.
-Amumbi, Amusmim X Amüsu.
-Feminine
-Singular Plural
-D Asuka, ] Ama, Amuyo
-Amu, Арика
-Amum Ami, Amuyo
-Amuyü Amühi, Amübhi
-
-56
-
-4th
-
-Sth
-6th
-
-7th
-
-186
-2nd
-
-lst
-
-2nd
-3rd
-4th
-
-5th
-6th
-7th
-
-18%
-2nd
-3rd
-
-BALAVATARA
-Singular Plural
-Amussa, Amisam,
-Amuyiaü Amüsaünam
-Like the 8rd.
-Like the 4th.
-Amussarn,
-Amuyarh Amüsu.
-
-Neuter
-
-Singular Plural
-Adum Amu, Amini
-Adurh Amu, Amani.
-
-[The rest are like the masculine. ]
-
-Kim
-Masculine
-Singular Plural `
-Ko Ke
-Kar Ke )
-Kena Kehi, Kebhi
-
-Kesar, Kesanam
-
-Kehi, Kebhi
-
-Kassa, Kissa
-Kamha, Kasma,
-
-Kisma
-Like the 4th. |
-Kamhi А Kimhi, } Kesu.
-Kasmim, Kismim
-
-Feminine
-Ka Ka, Kayo
-Каш Ка, Кауо
-Кауа каы, Kabhi.
-
-[The rest are like Sabbà (р. 50).]
-
-1st
-2nd
-
-Kirh, Каш
-
-NAMAKANDO 57
-
-Neuter
-
-Ke, Kani
-Ke, Kani.
-
-Kim, Kari
-
-[The rest are like the masculine gender. ]
-
-lat
-2nd
-Srd
-4th
-
-5th
-
-6th
-Tth
-
-lst
-2nd
-3rd
-
-4th
-
-5th
-6th
-
-7th
-
-E ka
-Masculine
-Singular Plural
-
-Eko Eke
-Ekarn Eke
-Ekena Ekehi, Ekebhi
-Ekassa Ekesam, Ekesanarn
-Ekamhā 1 Ekehi, Ekebhi
-Ekasmiü
-Ekamhi H ë
-Ekasrmirn БАО.
-
-Feminine
-Ekam Eka, Ekayo
-Ekaya Ekahi, Ekabhi
-Ekissá, Ekassa, } Bkasam, Eküsünarm
-Ekaya
-ЕКауа Ekàbi, Ekübhi
-Like the Ath.
-Ekissam, Ekassam, H Ekisu.
-Ekayam
-
-Neuter
-
-Ekam Eke, Eküni
-Ekarm Eke, Ekiüni
-Ekena Ekehi, Ekebhi.
-
-58 BALAVATARA
-
-[The rest are like the masculine. Eka means sankhyd
-(number), tulya (equal), saháya (friend) and айла (other),
-When it means number it is singular; otherwise it is
-
-declined in both the numbers. ]
-
-Tumha
-Singular Plural
-1st  Tvarn, Tuvam Tumhe
-Tarn, Tavarn Tumhükarn,
-and { aro. Tuvarn Tumhe
-За  Tvayà, Taya Tumhehi, Tumhebhi
-Tava, Tuyhar, Tumhükarm,
-h ete Tum he -
-
-4
-5th  Tvayà, Taya
-
-6th Like the 4th.
-
-"th  Tvayi, Tayi
-
-Tumhehi, Tum hebhi
-
-Tumbesu.
-
-[Same in al! the genders. |
-
-Amha
-Singular Plural
-ist Aham Mayan, Amhe
-2nd Мага, Мата Amhiükam, Amhe
-3rd Maya Amhehi, Amhebhi
-
-Asmiükarn,
-
-| Mama, Mayham,
-4th Тоз. Maman
-5th Maya
-
-6th Like the 4th.
-
-"th Mayi
-
-Amhükarn, Amhe
-Amhehi, Amhebhi
-
-Ambesu.
-
-[Same in all the genders. ]
-
-NAMAKANDO
-Ubha
-
-Plural
-
-18% Ubho, Ubhe
-
-2nd 4 5
-
-зра Ubhohi, Ubhobhi,
-Ubhehi, Ubhebhi
-
-4th Ubhinnarh
-
-5th Like the 8rd.
-
-6th Like the 4th.
-
-7th Ubhosu, Ubhesu.
-
-The Numerals :
-
-Eka
-
-[For its declension, see note on Eka, p. 58. |
-
-Dot .
-Plural
-
-lst Duve, Dve
-
-2nd Л гы
-
-8rd Dvihi, Dvibhi
-
-4th Dvinnam, Duvinnam
-5th Like the 3rd.
-
-6th Like the 4th.
-
-"th Dvisu.
-
-[Same in all the genders. ]
-
-59
-
-60
-
-BALAVATARA
-Ti
-Mas. Fem,
-Ist Tayo Tisso
-2nd E 5
-3rd ‘Tibi. Tibhi Tibi, Tibhi
-Tinnam,
-4th Í Tinnannarm ; Tissannam
-5th Tibi, Tibhi Tihi, Tibhi
-6th Like the 4th. Tissannam
-"th Tisu Tisu.
-Catu
-Mas. Fem.
-
-Ist Cattiro, Caturo  Catasso
-2nd
-
-Srd Catühi, Catübhi Catühi, Catübhi
-
-4th Catunnaim Catassannam
-5th Catühi, Catibhi Catühi, Catübhi
-
-6th Catunnarn
-
-Райса
-
-1st Райса
-
-Catassannam
-"th Catusu, Catüsu Catusu, Catüsu
+              |      | *Singular* | *Plural*            |
+              | ---- | ---------- | ------------------- |
+              | 1st  | Yāg*u*     | Yāg*ū*, Yāg*uyo*    |
+              | Voc. | Yāg*u*     | Yāg*ū*, Yāg*uyo*    |
+              | 2nd  | Yāg*uṁ*    | Yāg*ū*, Yāg*uyo*    |
+              | 3rd  | Yāg*uyā*   | Yāg*ūhi*, Yāg*ūbhi* |
+              | 4th  | Yāg*uyā*   | Yāg*ūnaṁ*           |
+              | 5th  | Yāg*uyā*   | Yāg*ūhi*, Yāg*ūbhi* |
+              | 6th  | Yāg*uyā*   | Yāg*ūnaṁ*           |
+              | 7th  | Yāg*uyā*   | Yāg*ūsu*, Yāg*usu*  |
+
+              [*Mātu*, *dhitu* and *duhitu* follow the declension rules of
+              *Pitu*]
+
+         5. FEMININE STEMS ENDING IN -*ū*.
+
+            * *Jambū*
+
+              [The procedure of declension is like that of *Nadī*.]
+
+      3. NEUTER.
+
+         1. NEUTER STEMS ENDING IN -*a*.
+
+            * *Citta*
+
+              |      | *Singular*       | *Plural*           |
+              | ---- | ---------------- | ------------------ |
+              | 1st  | Citt*aṁ*         | Citt*ā*, Citt*āni* |
+              | Voc. | Citt*a*, Citt*ā* | Citt*ā*, Citt*āni* |
+              | 2nd  | Citt*aṁ*         | Citt*ā*, Citt*āni* |
+
+              [The rest are like *Buddha*.]
+
+            * *Mana*[^17]
+
+              |      | *Singular*                              | *Plural*            |
+              | ---- | --------------------------------------- | ------------------- |
+              | 1st  | Man*aṁ*                                 | Man*ā*, Man*āni*    |
+              | Voc. | Man*a*, Man*ā*                          | Man*ā*, Man*āni*    |
+              | 2nd  | Man*aṁ*                                 | Man*e*, Man*āni*    |
+              | 3rd  | Man*ena*, Man*asā*                      | Man*ehi*, Man*ebhi* |
+              | 4th  | Man*assa*, Man*asso*                    | Man*ānaṁ*           |
+              | 5th  | Man*asā*, Man*asmā*, Man*amhā*          | Man*ehi*, Man*ebhi* |
+              | 6th  | Man*assa*, Man*asso*                    | Man*ānaṁ*           |
+              | 7th  | Man*e*, Man*asmiṁ*, Man*amhi*, Man*asi* | Man*esu*            |
+
+            * *Guṇavanta*
+
+              [According to strict grammar, the stem is *Guṇavantu*.]
+
+              |      | *Singular*                    | *Plural*                   |
+              | ---- | ----------------------------- | -------------------------- |
+              | 1st  | *Guṇavaṁ*                     | Guṇavant*ā*, Guṇavant*āni* |
+              | Voc. | *Guṇava*, *Guṇavā*, *Guṇavaṁ* | Guṇavant*ā*, Guṇavant*āni* |
+              | 2nd  | Guṇavant*aṁ*                  | Guṇavant*e*, Guṇavant*āni* |
+
+              [The rest are like the masculine. *Gacchanta*
+              is similarly declined as for the masculine declension.]
+
+         2. NEUTER STEMS ENDING IN -*i*.
+
+            * *Aṭṭhi*
+
+              |      | *Singular* | *Plural*           |
+              | ---- | ---------- | ------------------ |
+              | 1st  | Aṭṭh*i*    | Aṭṭh*ī*, Aṭṭh*īni* |
+              | Voc. | Aṭṭh*i*    | Aṭṭh*ī*, Aṭṭh*īni* |
+              | 2nd  | Aṭṭh*iṁ*   | Aṭṭh*ī*, Aṭṭh*īni* |
+
+              [The rest are like *Aggi*.]
+
+         3. NEUTER STEMS ENDING IN -*ī*.
+
+            * *Daṇḍī*
+
+              |      | *Singular* | *Plural*           |
+              | ---- | ---------- | ------------------ |
+              | 1st  | Daṇḍ*i*    | Daṇḍ*ī*, Daṇḍ*īni* |
+              | Voc. | Daṇḍ*i*    | Daṇḍ*ī*, Daṇḍ*īni* |
+              | 2nd  | Daṇḍ*iṁ*   | Daṇḍ*ī*, Daṇḍ*īni* |
+
+              [The rest are declined like the masculine.]
+
+         4. NEUTER STEMS ENDING IN -*u*.
+
+            * *Āyu*
+
+              [The procedure of declension is like that of *Aṭṭhi*
+              above.]
+
+   2. **Nouns having two Genders.**
+
+      [These nouns are declined in their different genders in
+      the manner illustrated above. The form given in
+      the subjoined list is that of the nominative
+      singular.]
+
+      1. MASCULINE AND FEMININE.
+
+         | *Mas.*   | *Fem.*   |
+         | -------- | -------- |
+         | Ghato    | Ghatī    |
+         | Yaṭṭhi   | Yaṭṭhī   |
+         | Sindhu   | Sindhū   |
+         | Khattiyo | Khattiyā |
+         | Gajo     | Gajā     |
+         | Kato     | Katī     |
+         | Mutthi   | Mutthī   |
+         | Renu     | Renū     |
+         | Samano   | Samanī   |
+         | Byaggho  | Byagghī  |
+
+      2. MASCULINE AND NEUTER.
+
+         | *Mas.*   | *Neuter*  |
+         | -------- | --------- |
+         | Dhammo   | Dhammaṁ   |
+         | Kammo    | Kammaṁ    |
+         | Brahmā   | Brahmaṁ   |
+         | Kusumo   | Kusumaṁ   |
+         | Saṅgamo  | Saṅgamaṁ  |
+         | Padumo   | Padumaṁ   |
+         | Assamo   | Assamaṁ   |
+         | Vihāro   | Vihāraṁ   |
+         | Sarīro   | Sarīraṁ   |
+         | Suvaṇṇo  | Suvaṇṇaṁ  |
+         | Vaṇṇo    | Vaṇṇaṁ    |
+         | Kahāpano | Kahāpanaṁ |
+         | Bhavano  | Bhavanaṁ  |
+         | Bhuvano  | Bhuvanaṁ  |
+         | Yobbano  | Yobbanaṁ  |
+         | Bhūsano  | Bhūsanaṁ   |
+         | Āsano    | Āsanaṁ    |
+         | Sayano   | Sayanaṁ   |
+         | Odano    | Odanaṁ    |
+         | Ākāso    | Ākāsaṁ    |
+         | Upavāso  | Upavāsaṁ  |
+         | Māso     | Māsaṁ     |
+         | Divaso   | Divasaṁ   |
+         | Raso     | Rasaṁ     |
+         | Thalo    | Thalaṁ    |
+         | Phalo    | Phalaṁ    |
+         | Raṭṭho   | Raṭṭhaṁ   |
+         | Ambu     | Ambuṁ     |
+         | Madhu    | Madhuṁ    |
+
+      3. FEMININE AND NEUTER.
+
+         | *Fem.* | *Neuter* |
+         | ------ | -------- |
+         | Nagarī | Nagaraṁ  |
+         | Acci   | Acci     |
+
+   3. **Nouns having three Genders.** (including Pronouns)
+
+      1. NOUNS
+
+         (declined as above)
+
+         | *Mas.*    | *Fem.*    | *Neut.*    |
+         | --------- | --------- | ---------- |
+         | Taṭo      | Taṭī      | Taṭaṁ      |
+         | Puṭo      | Puṭī      | Puṭaṁ      |
+         | Puro      | Purī      | Puraṁ      |
+         | Patto     | Pattā     | Pattaṁ     |
+         | Maṇḍalo   | Maṇḍalī   | Maṇḍalaṁ   |
+         | Kalaso    | Kalasī    | Kalasaṁ    |
+         | Devadatto | Devadattā | Devadattaṁ |
+
+      2. PRONOUNS
+
+         (declined as follows)
+
+         * *Sabba*[^18]
+
+           Masculine
+
+           |      | *Singular*              | *Plural*                 |
+           | ---- | ----------------------- | ------------------------ |
+           | 1st  | Sabb*o*                 | Sabb*e*                  |
+           | Voc. | Sabb*a*                 | Sabb*e*                  |
+           | 2nd  | Sabb*aṁ*                | Sabb*e*                  |
+           | 3rd  | Sabb*ena*               | Sabb*ehi*, Sabb*ebhi*    |
+           | 4th  | Sabb*assa*              | Sabb*esaṁ*, Sabb*esānaṁ* |
+           | 5th  | Sabb*asmā*, Sabb*amhā*  | Sabb*ehi*, Sabb*ebhi*    |
+           | 6th  | Sabb*assa*              | Sabb*esaṁ*, Sabb*esānaṁ* |
+           | 7th  | Sabb*asmiṁ*, Sabb*amhi* | Sabb*esu*                |
+
+           Feminine
+
+           |      | *Singular*              | *Plural*                 |
+           | ---- | ----------------------- | ------------------------ |
+           | 1st  | Sabb*ā*                 | Sabb*ā*,Sabb*āyo*        |
+           | Voc. | Sabb*e*                 | Sabb*ā*,Sabb*āyo*        |
+           | 2nd  | Sabb*aṁ*                | Sabb*ā*,Sabb*āyo*        |
+           | 3rd  | Sabb*āya*               | Sabb*āhi*, Sabb*ābhi*    |
+           | 4th  | Sabb*āssa*, Sabb*āya*   | Sabb*āsaṁ*, Sabb*āsānaṁ* |
+           | 5th  | Sabb*āya*               | Sabb*āhi*, Sabb*ābhi*    |
+           | 6th  | Sabb*āssa*, Sabb*āya*   | Sabb*āsaṁ*, Sabb*āsānaṁ* |
+           | 7th  | Sabb*āssaṁ*, Sabb*āyaṁ* | Sabb*āsu*                |
+
+           Neuter
+
+           |      | *Singular*       | *Plural*           |
+           | ---- | ---------------- | ------------------ |
+           | 1st  | Sabb*aṁ*         | Sabb*āni*          |
+           | Voc. | Sabb*a*, Sabb*ā* | Sabb*āni*          |
+           | 2nd  | Sabb*aṁ*         | Sabb*e*, Sabb*āni* |
+
+           [The rest are like the masculine.]
+
+         * *Pubba*[^19]
+
+           Masculine
+
+           |      | *Singular*                       | *Plural*                 |
+           | ---- | -------------------------------- | ------------------------ |
+           | 1st  | Pubb*o*                          | Pubb*e*, Pubb*ā*         |
+           | Voc. | Pubb*a*, Pubb*ā*                 | Pubb*e*, Pubb*ā*         |
+           | 2nd  | Pubb*aṁ*                         | Pubb*e*                  |
+           | 3rd  | Pubb*ena*                        | Pubb*ehi*, Pubb*ebhi*    |
+           | 4th  | Pubb*assa*                       | Pubb*esaṁ*, Pubb*esānaṁ* |
+           | 5th  | Pubb*asmā*, Pubb*amhā*, Pubb*ā*  | Pubb*ehi*, Pubb*ebhi*    |
+           | 6th  | Pubb*assa*                       | Pubb*esaṁ*, Pubb*esānaṁ* |
+           | 7th  | Pubb*asmiṁ*, Pubb*amhi*, Pubb*e* | Pubb*esu*                |
+
+           Feminine
+
+           |      | *Singular*              | *Plural*                 |
+           | ---- | ----------------------- | ------------------------ |
+           | 1st  | Pubb*ā*                 | Pubb*ā*,Pubb*āyo*        |
+           | Voc. | Pubb*e*                 | Pubb*ā*,Pubb*āyo*        |
+           | 2nd  | Pubb*aṁ*                | Pubb*ā*,Pubb*āyo*        |
+           | 3rd  | Pubb*āya*               | Pubb*āhi*, Pubb*ābhi*    |
+           | 4th  | Pubb*āssa*, Pubb*āya*   | Pubb*āsaṁ*, Pubb*āsānaṁ* |
+           | 5th  | Pubb*āya*               | Pubb*āhi*, Pubb*ābhi*    |
+           | 6th  | Pubb*āssa*, Pubb*āya*   | Pubb*āsaṁ*, Pubb*āsānaṁ* |
+           | 7th  | Pubb*āssaṁ*, Pubb*āya* | Pubb*āsu*                |
+
+           Neuter
+
+           |      | *Singular* | *Plural*           |
+           | ---- | ---------- | ------------------ |
+           | 1st  | Pubb*aṁ*   | Pubb*āni*, Pubb*ā* |
+           | Voc. | Pubb*a*    | Pubb*āni*, Pubb*ā* |
+           | 2nd  | Pubb*aṁ*   | Pubb*āni*          |
+
+           [The rest are like the masculine.]
+
+         * *Ya*
+
+           Masculine
+
+           |     | *Singular*        | *Plural*           |
+           | --- | ----------------- | ------------------ |
+           | 1st | Y*o*              | Y*e*               |
+           | 2nd | Y*aṁ*             | Y*e*               |
+           | 3rd | Y*ena*            | Y*ehi*, Y*ebhi*    |
+           | 4th | Y*assa*           | Y*esaṁ*, Y*esānaṁ* |
+           | 5th | Y*asmā*, Y*amhā*  | Y*ehi*, Y*ebhi*    |
+           | 6th | Y*assa*           | Y*esaṁ*, Y*esānaṁ* |
+           | 7th | Y*asmiṁ*, Y*amhi* | Y*esu*             |
+
+           Feminine
+
+           |     | *Singular*        | *Plural*           |
+           | --- | ----------------- | ------------------ |
+           | 1st | Y*ā*              | Y*ā*,Y*āyo*        |
+           | 2nd | Y*aṁ*             | Y*ā*,Y*āyo*        |
+           | 3rd | Y*āya*            | Y*āhi*, Y*ābhi*    |
+           | 4th | Y*āssa*, Y*āya*   | Y*āsaṁ*, Y*āsānaṁ* |
+           | 5th | Y*āya*            | Y*āhi*, Y*ābhi*    |
+           | 6th | Y*āssa*, Y*āya*   | Y*āsaṁ*, Y*āsānaṁ* |
+           | 7th | Y*āssaṁ*, Y*āyaṁ* | Y*āsu*             |
+
+           Neuter
+
+           |     | *Singular* | *Plural*     |
+           | --- | ---------- | ------------ |
+           | 1st | Y*aṁ*      | Y*āni*, Y*e* |
+           | 2nd | Y*aṁ*      | Y*āni*, Y*e* |
+
+           [The rest are like the masculine.]
+
+         * *Ta*
+
+           Masculine
+
+           |     | *Singular*                           | *Plural*                         |
+           | --- | ------------------------------------ | -------------------------------- |
+           | 1st | *So*                                 | T*e*, *Ne*                       |
+           | 2nd | T*aṁ*, *Naṁ*                         | T*e*, *Ne*                       |
+           | 3rd | T*ena*, *Nena*                       | T*ehi*, T*ebhi*, *Nehi*, *Nebhi* |
+           | 4th | T*assa*, *Nassa*                     | T*esaṁ*, *Nesaṁ*                 |
+           | 5th | T*asmā*, T*amhā*, *Nasmā*, *Namhā*   | T*ehi*, T*ebhi*, *Nehi*, *Nebhi* |
+           | 6th | T*assa*, *Nassa*                     | T*esaṁ*, *Nesaṁ*                 |
+           | 7th | T*asmiṁ*, T*amhi*, *Nasmiṁ*, *Namhi* | T*esu*, *Nesu*                   |
+
+           Feminine
+
+           |     | *Singular*                          | *Plural*                         |
+           | --- | ----------------------------------- | -------------------------------- |
+           | 1st | *Sā*                                | T*ā*,T*āyo*, *Nā*,*Nāyo*         |
+           | 2nd | T*aṁ*, *Naṁ*                        | T*ā*,T*āyo*, *Nā*,*Nāyo*         |
+           | 3rd | T*āya*, *Nāya*                      | T*āhi*, T*ābhi*, *Nāhi*, *Tābhi* |
+           | 4th | T*āssa*, T*āya*, T*issā*, T*issāya* | T*āsaṁ*, T*āsānaṁ*               |
+           | 5th | T*āya*, *Nāya*                      | T*āhi*, T*ābhi*, *Nāhi*, *Tābhi* |
+           | 6th | T*āssa*, T*āya*, T*issā*, T*issāya* | T*āsaṁ*, T*āsānaṁ*               |
+           | 7th | T*āssaṁ*, T*āyaṁ*, *Tissaṁ*         | T*āsu*, *Nāsu*                   |
+
+           Neuter
+
+           |     | *Singular*   | *Plural*                   |
+           | --- | ------------ | -------------------------- |
+           | 1st | T*aṁ*, *Naṁ* | T*āni*, T*e*, *Nāni*, N*e* |
+           | 2nd | T*aṁ*, *Naṁ* | T*āni*, T*e*, *Nāni*, N*e* |
+
+           [The rest are like the masculine.]
+
+         * *Eta*
+
+           Masculine
+
+           |     | *Singular*          | *Plural*             |
+           | --- | ------------------- | -------------------- |
+           | 1st | *Eso*               | Et*e*                |
+           | 2nd | Et*aṁ*              | Et*e*                |
+           | 3rd | Et*ena*             | Et*ehi*, Et*ebhi*    |
+           | 4th | Et*assa*            | Et*esaṁ*, Et*esānaṁ* |
+           | 5th | Et*asmā*, Et*amhā*  | Et*ehi*, Et*ebhi*    |
+           | 6th | Et*assa*            | Et*esaṁ*, Et*esānaṁ* |
+           | 7th | Et*asmiṁ*, Et*amhi* | Et*esu*              |
+
+           Feminine
+
+           |     | *Singular*                     | *Plural*             |
+           | --- | ------------------------------ | -------------------- |
+           | 1st | *Esā*                          | Et*ā*,Et*āyo*        |
+           | 2nd | Et*aṁ*                         | Et*ā*,Et*āyo*        |
+           | 3rd | Et*āya*                        | Et*āhi*, Et*ābhi*    |
+           | 4th | Et*issa*, Et*āya*, Et*issāya*  | Et*āsaṁ*, Et*āsānaṁ* |
+           | 5th | Et*āya*                        | Et*āhi*, Et*ābhi*    |
+           | 6th | Et*issa*, Et*āya*, Et*issāya*  | Et*āsaṁ*, Et*āsānaṁ* |
+           | 7th | Et*assaṁ*, Et*āyaṁ*, Et*issaṁ* | Et*āsu*              |
+
+           Neuter
+
+           |     | *Singular* | *Plural*       |
+           | --- | ---------- | -------------- |
+           | 1st | Et*aṁ*     | Et*āni*, Et*e* |
+           | 2nd | Et*aṁ*     | Et*āni*, Et*e* |
+
+           [The rest are like the masculine.]
+
+         * *Ima* (= *Idaṁ*)
+
+           Masculine
+
+           |     | *Singular*                   | *Plural*                               |
+           | --- | ---------------------------- | -------------------------------------- |
+           | 1st | *Ayaṁ*                       | Im*e*                                  |
+           | 2nd | Im*aṁ*                       | Im*e*                                  |
+           | 3rd | Im*īna*, *Anena*             | Im*ehi*, Im*ebhi*, *Ehi*, *Ebhi*       |
+           | 4th | Im*assa*, *Assa*             | Im*esaṁ*, Im*esānaṁ*, *Esaṁ*, *Esānaṁ* |
+           | 5th | Im*asmā*, Im*amhā*, *Āsma*   | Im*ehi*, Im*ebhi**Ehi*, *Ebhi*         |
+           | 6th | Im*assa*, *Assa*             | Im*esaṁ*, Im*esānaṁ*, *Esaṁ*, *Esānaṁ* |
+           | 7th | Im*asmiṁ*, Im*amhi*, *Asmiṁ* | Im*esu*, *Esu*                         |
+
+           Feminine
+
+           |     | *Singular*                                      | *Plural*             |
+           | --- | ----------------------------------------------- | -------------------- |
+           | 1st | *Ayaṁ*                                          | Im*ā*,Im*āyo*        |
+           | 2nd | Im*aṁ*                                          | Im*ā*,Im*āyo*        |
+           | 3rd | Im*āya*                                         | Im*āhi*, Im*ābhi*    |
+           | 4th | Im*issa*, Im*āya*, Im*issāya*, *Āssa*, *Āssaya* | Im*āsaṁ*, Im*āsānaṁ* |
+           | 5th | Im*āya*                                         | Im*āhi*, Im*ābhi*    |
+           | 6th | Im*issa*, Im*āya*, Im*issāya*, *Āssa*, *Āssaya* | Im*āsaṁ*, Im*āsānaṁ* |
+           | 7th | Im*issaṁ*, Im*āyaṁ*, Im*issaṁ*, *Āssaṁ*         | Im*āsu*              |
+
+           Neuter
+
+           |     | *Singular*       | *Plural*                         |
+           | --- | ---------------- | -------------------------------- |
+           | 1st | Im*aṁ*, *Idaṁ*   | Im*āni*, Im*e*                   |
+           | 2nd | Im*aṁ*, *Idaṁ*   | Im*āni*, Im*e*                   |
+           | 3rd | Im*īna*, *Anena* | Im*ehi*, Im*ebhi*, *Ehi*, *Ebhi* |
+
+           [The rest are like the masculine.]
+
+         * *Amu*
+
+           Masculine
+
+           |     | *Singular*                     | *Plural*                         |
+           | --- | ------------------------------ | -------------------------------- |
+           | 1st | Am*u*, Am*uko*, *Asu*, *Asuko* | Am*u*, Am*uko*, Am*ukā*, *Asukā* |
+           | 2nd | Am*uṁ*, Am*ukaṁ*, *Asukaṁ*     | Am*ū*, Am*uyo*, Am*uke*, *Asuke* |
+           | 3rd | Am*unā*                        | Am*ūhi*, Am*ūbhi*                |
+           | 4th | Am*ussa*, Am*uno*, *Adussa*    | Am*ūsaṁ*, Am*ūsānaṁ*             |
+           | 5th | Am*usmā*, Am*umhā*, Am*unā*    | Am*ūhi*, Am*ūbhi*                |
+           | 6th | Am*ussa*, Am*uno*, *Adussa*    | Am*ūsaṁ*, Am*ūsānaṁ*             |
+           | 7th | Am*usmiṁ*, Am*umhi*            | Am*ūsu*                          |
+
+           Feminine
+
+           |     | *Singular*                     | *Plural*             |
+           | --- | ------------------------------ | -------------------- |
+           | 1st | Am*u*, Am*ukā*, *Asu*, *Asukā* | Am*ū*,Am*uyo*        |
+           | 2nd | Am*uṁ*                         | Am*ū*,Am*uyo*        |
+           | 3rd | Am*uya*                        | Am*ūhi*, Am*ūbhi*    |
+           | 4th | Am*ussā*, Am*uyā*              | Am*ūsaṁ*, Am*ūsānaṁ* |
+           | 5th | Am*uya*                        | Am*ūhi*, Am*ūbhi*    |
+           | 6th | Am*ussā*, Am*uyā*              | Am*ūsaṁ*, Am*ūsānaṁ* |
+           | 7th | Am*ussaṁ*, Am*uyaṁ*            | Am*ūsu*              |
+
+           Neuter
+
+           |     | *Singular* | *Plural*       |
+           | --- | ---------- | -------------- |
+           | 1st | *Aduṁ*     | Am*ūni*, Am*ū* |
+           | 2nd | *Aduṁ*     | Am*ūni*, Am*ū* |
+
+           [The rest are like the masculine.]
+
+         * *Kiṁ*
+
+           Masculine
+
+           |     | *Singular*                           | *Plural*           |
+           | --- | ------------------------------------ | ------------------ |
+           | 1st | K*o*                                 | K*e*               |
+           | 2nd | K*aṁ*                                | K*e*               |
+           | 3rd | K*ena*                               | K*ehi*, K*ebhi*    |
+           | 4th | K*assa*, K*issa*                     | K*esaṁ*, K*esānaṁ* |
+           | 5th | K*asmā*, K*amhā*, K*ismā*            | K*ehi*, K*ebhi*    |
+           | 6th | K*assa*, K*issa*                     | K*esaṁ*, K*esānaṁ* |
+           | 7th | K*asmiṁ*, K*amhi*, K*ismiṁ*, K*imhi* | K*esu*             |
+
+           Feminine
+
+           |     | *Singular* | *Plural*        |
+           | --- | ---------- | --------------- |
+           | 1st | K*ā*       | K*ā*,K*āyo*     |
+           | 2nd | K*aṁ*      | K*ā*,K*āyo*     |
+           | 3rd | K*āya*     | K*āhi*, K*ābhi* |
+
+           [The rest are like Sabbā.]
+
+           Neuter
+
+           |     | *Singular*   | *Plural*     |
+           | --- | ------------ | ------------ |
+           | 1st | K*aṁ*, K*iṁ* | K*āni*, K*e* |
+           | 2nd | K*aṁ*, K*iṁ* | K*āni*, K*e* |
+
+           [The rest are like the masculine.]
+
+         * *Eka*
+
+           Masculine
+
+           |     | *Singular*          | *Plural*             |
+           | --- | ------------------- | -------------------- |
+           | 1st | Ek*o*               | Ek*e*                |
+           | 2nd | Ek*aṁ*              | Ek*e*                |
+           | 3rd | Ek*ena*             | Ek*ehi*, Ek*ebhi*    |
+           | 4th | Ek*assa*            | Ek*esaṁ*, Ek*esānaṁ* |
+           | 5th | Ek*asmā*, Ek*amhā*  | Ek*ehi*, Ek*ebhi*    |
+           | 6th | Ek*assa*            | Ek*esaṁ*, Ek*esānaṁ* |
+           | 7th | Ek*asmiṁ*, Ek*amhi* | Ek*esu*              |
+
+           Feminine
+
+           |     | *Singular*                     | *Plural*             |
+           | --- | ------------------------------ | -------------------- |
+           | 1st | Ek*ā*                          | Ek*ā*,Ek*āyo*        |
+           | 2nd | Ek*aṁ*                         | Ek*ā*,Ek*āyo*        |
+           | 3rd | Ek*āya*                        | Ek*āhi*, Ek*ābhi*    |
+           | 4th | Ek*issā*, Ek*āya*, Ek*assā*    | Ek*āsaṁ*, Ek*āsānaṁ* |
+           | 5th | Ek*āya*                        | Ek*āhi*, Ek*ābhi*    |
+           | 6th | Ek*issa*, Ek*āya*, Ek*issāya*  | Ek*āsaṁ*, Ek*āsānaṁ* |
+           | 7th | Ek*assaṁ*, Ek*āyaṁ*, Ek*issaṁ* | Ek*āsu*              |
+
+           Neuter
+
+           |     | *Singular* | *Plural*          |
+           | --- | ---------- | ----------------- |
+           | 1st | Ek*aṁ*     | Ek*āni*, Ek*e*    |
+           | 2nd | Ek*aṁ*     | Ek*āni*, Ek*e*    |
+           | 3rd | Ek*ena*    | Ek*ehi*, Ek*ebhi* |
+
+           [The rest are like the masculine. *Eka* means *saṅkhyā*
+           (number), *tulya* (equal), *sahāya* (friend) and *аñña* (other),
+           When it means number it is singular; otherwise it is
+           declined in both the numbers.]
+
+         * *Tumha*
+
+           |     | *Singular*                        | *Plural*                     |
+           | --- | --------------------------------- | ---------------------------- |
+           | 1st | *Tvaṁ*, *Tuvaṁ*                   | Tumh*e*                      |
+           | 2nd | *Taṁ* , *Tavaṁ*, *Tvaṁ* , *Tuvaṁ* | Tumh*e*, Tumh*ākaṁ*          |
+           | 3rd | *Tvayā*, *Tayā*                   | Tumh*ehi*, Tumh*ebhi*        |
+           | 4th | Tumh*aṁ*, *Tava*, *Tuyhaṁ*        | Tumh*e*, Tumh*ākaṁ*, Tumh*e* |
+           | 5th | *Tvayā*, *Tayā*                   | Tumh*ehi*, Tumh*ebhi*        |
+           | 6th | Tumh*aṁ*, *Tava*, *Tuyhaṁ*        | Tumh*e*, Tumh*ākaṁ*, Tumh*e* |
+           | 7th | *Tayi*, *Tvayi*                   | Tumh*esu*                    |
+
+           [Same in all the genders.]
+
+         * *Amha*
+
+           |     | *Singular*                         | *Plural*                     |
+           | --- | ---------------------------------- | ---------------------------- |
+           | 1st | *Ahaṁ*                             | Amh*e*, *Mayaṁ*              |
+           | 2nd | *Maṁ* , *Mamaṁ*                    | Amh*e*, Amh*ākaṁ*            |
+           | 3rd | *Mayā*                             | Amh*ehi*, Amh*ebhi*          |
+           | 4th | Amh*aṁ*, *Mama*, *Mayhaṁ*, *Mamaṁ* | Amh*e*, Amh*ākaṁ*, *Asmākaṁ* |
+           | 5th | *Mayā*                             | Amh*ehi*, Amh*ebhi*          |
+           | 6th | Amh*aṁ*, *Mama*, *Mayhaṁ*, *Mamaṁ* | Amh*e*, Amh*ākaṁ*, *Asmākaṁ* |
+           | 7th | *Mayi*                             | Amh*esu*                     |
+
+           [Same in all the genders.]
+
+         * *Ubha*
+
+           |     | *Plural*                         |
+           | --- | -------------------------------- |
+           | 1st | Ubh*o*, Ubh*e*                       |
+           | 2nd | Ubh*o*, Ubh*e*                       |
+           | 3rd | Ubh**ohi*, Ubh*obhi*, Ubh*ehi*, Ubh*ebhi* |
+           | 4th | Ubh**innaṁ*                         |
+           | 5th | Ubh**ohi*, Ubh*obhi*, Ubh*ehi*, Ubh*ebhi* |
+           | 6th | Ubh**innaṁ*                         |
+           | 7th | Ubh**osu*, Ubh*esu*                   |
+
+      3. The Numerals
+
+         * *Eka*
+
+           [For its declension, see note on *Eka*.]
+
+         * *Dvi*
+
+           |     | *Plural*          |
+           | --- | ----------------- |
+           | 1st | *Duve*, *Dve*         |
+           | 2nd | *Duve*, *Dve*         |
+           | 3rd | Dv*īhi*, Dv*ībhi*     |
+           | 4th | Dv*innaṁ*, *Duvinnaṁ* |
+           | 5th | Dv*īhi*, Dv*ībhi*     |
+           | 6th | Dv*innaṁ*, *Duvinnaṁ* |
+           | 7th | Dv*īsu*             |
+
+           [Same in all the genders.]
+
+         * *Ti*
+
+           |     | *Mas.*                | *Fem.*          | *Neut.*               |
+           | --- | --------------------- | --------------- | --------------------- |
+           | 1st | T*ayo*                | T*isso*         | T*īni*                |
+           | 2nd | T*ayo*                | T*isso*         | T*īni*                |
+           | 3rd | T*īhi*, T*ībhi*       | T*īhi*, T*ībhi* | T*īhi*, T*ībhi*       |
+           | 4th | T*iṇṇaṁ*, T*iṇṇannaṁ* | T*issannaṁ*     | T*iṇṇaṁ*, T*iṇṇannaṁ* |
+           | 5th | T*īhi*, T*ībhi*       | T*īhi*, T*ībhi* | T*īhi*, T*ībhi*       |
+           | 6th | T*iṇṇaṁ*, T*iṇṇannaṁ* | T*issannaṁ*     | T*iṇṇaṁ*, T*iṇṇannaṁ* |
+           | 7th | T*isu* T*īsu*         | T*isu* T*īsu*   | T*isu* T*īsu*         |
+
+         * *Catu*
+
+           |     | *Mas.*              | *Fem.*              | *Neut.*             |
+           | --- | ------------------- | ------------------- | ------------------- |
+           | 1st | Cat*tāro*, Cat*uro* | Cat*asso*           | Cat*tāri*           |
+           | 2nd | Cat*tāro*, Cat*uro* | Cat*asso*           | Cat*tāri*           |
+           | 3rd | Cat*ūhi*, Cat*ūbhi* | Cat*ūhi*, Cat*ūbhi* | Cat*ūhi*, Cat*ūbhi* |
+           | 4th | Cat*unnaṁ*          | Cat*assannaṁ        | Cat*unnaṁ*          |
+           | 5th | Cat*ūhi*, Cat*ūbhi* | Cat*ūhi*, Cat*ūbhi* | Cat*ūhi*, Cat*ūbhi* |
+           | 6th | Cat*unnaṁ*          | Cat*assannaṁ        | Cat*unnaṁ*          |
+           | 7th | Cat*usu*, Cat*ūsu*  | Cat*usu*, Cat*ūsu*  | Cat*usu*, Cat*ūsu*  |
 
 Neut.
 Tini
@@ -2369,7 +1991,7 @@ Prefix: раһаго, paharati;
 
 Indeclinables: so ca; sā ca; 00558 và karoti và.
 
-[^7]: Stems declined like Buddha are :— sūra, nara, uraga, asura, nāga,
+[^7]: Stems declined like *Buddha* are :— sūra, nara, uraga, asura, nāga,
 yakkha, gsndhabba, kinnara, manussa, pisāca, peta, sīha, mātaṅga,
 jaṅgama, turaṅga, varāba, byaggha, accha, kacchapa, taraccha, miga,
 asss, sоṇа, purisa, āloka, loka, nilaya, anila, cāga, yoga, vāyāma,
@@ -2379,21 +2001,60 @@ makkha, punnāga, puga, panasa, āsаnа, campaka, amba, hintāla, tāla,
 vakula, ajjuna, kiṁsuka, mandāra, kunda, pucimanda, karañja, rakkba,
 mayūra, sakuṇa, аṇḍaja, kоñса, haṁsa, etc.
 
-[^8]: Stems of the following are declined like Gunavanta :— maghavā,
+[^8]: Stems of the following are declined like *Gunavanta* :— maghavā,
 kulavā, phalavā, yasavā, dhanavā, sutavā, bhāgavā, himavā, balavā,
 sīlavā, paññavā, etc.
 
-[^9]: Stems of the following are declined like Gacchahta :- mahaṁ,
+[^9]: Stems of the following are declined like *Gacchanta* :- mahaṁ,
 caraṁ, tiṭṭhaṁ, dadaṁ, bhuñjaṁ, suñaṁ, pacaṁ, jayaṁ, jiraṁ, cavaṁ,
 miyaṁ, sāraṁ, kubbaṁ, japaṁ, vajaṁ, etc.
 
-VII
+[^10]: Stems declined like *Aggi* are :— Joti, pāṇi, gaṇthi, muṭṭhi, kucchi,
+sāli, vihi, vyādhi, bodhi, sandhi, rāsi, dīpi, isi, muni, maṇi, dhani, giri,
+ravi, kavi, kapi, asi, masi, nidhi, vidhi, ahi, kimi, pati, hari, ari, timi,
+kali, bali, añjali, atithi, samādhi, upadhi, etc.
 
-чата
-SAMASA
+[^11]: The following stems are declined like *Daṇḍī* :— dhammī, saṁghī,
+ñāṇī, hatthī, pakkhī, chattī, mālī, yogī, bhogī, kāmī, sāmī, dhajī, gaṇī,
+sāsi, kuṭṭhī, jātī, yānī, sukhī, sikhī, dantī, mantī, karī, kusalī, musalī,
+pāpakārī, dhammavādī, dīghajīvī, etc.
 
-Compounds
-т লালাল жата qaqa (২।৩।৫) i
+[^12]: Stems declined like *Satthu* аге: Nattu, bhattu, vattu, netu, sotu,
+ñātu, jetu, ohettu, bhettu, dātu, dhātu, boddhu, viññāpetu, etc.
+
+[^13]: *Bhātu* and the like are declined like *Pitu*.
+
+[^14]: Stems declined like *Kaññā* are :— Saddhā, medhā, paññā, vijjā,
+cintā, taṇhā, icchā, māyā, mettā, sikkhā, bikkhā;, gīvā, jivhā, vācā,
+chāyā, āsā, gaṅgā, nāvā, gāthā, senā, lekhā, sālā, mālā, velā, pūjā,
+pipāsā, vedanā, cetanā, pajā, devatā, godhā, parisā, sabhā, sephālikā,
+laṅkā, salākā, vālikā, sikhā, bālakā, mandā, jarā, ajā, elakā, kokilā,
+assā, musikā, jaṭā, ghaṭā, jeṭṭhā, karunā, vanitā, latā, kathā, niddā,
+sudhā, rādhā, vāsanā, pabhā, sīmā, khamā, jayā, khattiyā, surā, dolā,
+tulā, sālā, līhā, mekhalā, kalā, musā, disā, nāsā, juṇhā, gehā,
+and vasudhā.
+
+[^15]: Stems declined like *Ratti* are :— Kitti, mutti, tithi, khanti, yanti,
+tanti, siddhi, suddhi, iddhi, buddhi, bodhi, bhūmi, jāti, pīti, koṭi, diṭṭhi,
+tuṭṭhi, yaṭṭhi, pāli, āli and keli,
+
+[^16]: Stems declined like *Nadī* are :- Nagarī, kumārī, brāhmaṇī,
+taruṇī, kukkuṭī, itthā, mātulānī, sakhī, hatthī, bhotī, mānavī,
+nāvikī, venateyyī, gotamī, gunavatī, guṇavantī, dhitimatī, dhitimantī,
+mahatī, mahantī, gahapatānī, bhikkhunī, rājinī, medhāvinī, tappasinī,
+dhammacārinī, bhayadassāvinī, and bhuttāvinī.\
+*Hatthī* as a feminine form being nonsense. Sinhalese graminarians
+have now corrected it *hattī*.
+
+[^17]: Stems belonging to the *Mano*-group and declined like *Mana*
+are :— Sira, ura, teja, raja, oja, vaya, paya, yasa, tapa, vaca, ceta, etc.
+
+[^18]: Katara, katama, ubhaya, itara, añña, aññatara and aññatama
+are declined like *Sabba*.
+
+[^19]: Para, apara, dakkhiṇa, uttara and adhara are declined like *Pubba*.
+
+## VII. SAMASA (Compounds)
 
 1. Namanarn Samaso yutt’attho.
 

@@ -35,7 +35,7 @@ Consider the example of "Mahanto ca so vīro cā" (He is both great and a hero)
 >
 >Aggahitavisesanā  buddhi visessamhi na uppajjatīti visesanaṃ pubbaṃ hoti, samāseneva tulyādhikaraṇattassa vuttattā tappakāsanatthaṃ payuttā samāsato atirittā ca so iccete ‘‘vuttaṭṭhānamappayogo’’ti ñāyā nappayujjante. Evamaññatra.
 
-A Kammadhāraya compound consists of two words with the same morphological form (case ending) joined together and spoken as one word and referring to a single entity. One member word is a noun that distinguishes the entity, and the other member word is an adjective that qualifies it.
+A Kammadhāraya compound consists of two or more words with the same morphological form (case ending) joined together and spoken as one word and referring to a single entity. One member word is a noun that distinguishes the entity, and the other member word is an adjective that qualifies it.
 
 The following are rules and operations for creating the compound representing the entity.
 
@@ -83,7 +83,7 @@ Then, as desired, add vibhatti endings.
 >
 >Tayo parapade liṅgaṃ, bahubbīhi padantare.
 
-Kammadhāraya, dvanda, and tappurisa compounds follow the gender of the last word. Bahubbīhi compounds follow the gender of the word they qualify.
+Kammadhāraya, dvanda, and tappurisa members adopt the gender of the following word. Bahubbīhi compounds follow the gender of the constituent words.
 
 >205. Rattā ca sā paṭī cāti rattapaṭī, mahantī ca sā saddhā cāti mahāsaddhā. Ettha ‘‘kammadhārayasaññe ce’’ti pubbapade pumeva kate āīpaccayānaṃ nivutti.
 
@@ -265,58 +265,70 @@ It can also be used in self-criticism.
 
 In words like "antevāsiko" (pupil), there is elision of vibhatti ending.
 
-## Bahubbīhisamāsa
-
-Translate the following Pali grammatical rule into English:
+## Bahubbīhisamāsa (Bahubbīhi compounds)
 
 ### 218. **Aññapadatthesu bahubbīhi.** ("bahubbīhi" refers to other meanings of words)
 
->Appaṭhamantāna  maññesaṃ padānaṃ atthesu dve vā bahūni vā nāmāni yadā samasyante, tadā so samāso bahubbīhi nāma.
+>Appaṭhamantāna  maññesaṃ padānaṃ atthesu dve vā bahūni vā nāmāni yadā samasyante, tadā so samāso bahubbīhi nāmia.
 
-When two or more nouns are compounded to express a different meaning from that of the underlying words, it is called a bahubbīhi compound.
+When two or more nouns are compounded to express a different concept from that of the primary meaning of the various joined words, it is called a bahubbīhi compound, ie. a metaphor.
 
 >Āgatā samaṇā yaṃ sā āgatasamaṇo, vihāro.
 
-* Āgatā samaṇā = āgatasamaṇo ("refers to a monastery ("vihāro") where samaṇā (renunciants) have come to")
+* Āgatā samaṇā = āgatasamaṇo (refers to a monastery ("vihāro") where "samaṇā (renunciants) have come to")
 
 >219. Jitāni  indriyāni yena so jitindriyo, bhagavā. Āhito aggi yena so āhitaggi. Agyāhito vātyādo yathecchaṃ visesanassa paratā.
 
 * Jitāni indriyāni = jitindriyo (refers to the "Bhagavā" who have subjugated the senses)
-* Āhito aggi = āhitaggi ("One who has established the sacred fire")
+* Āhito aggi = āhitaggi or alternately "agyāhito"(one who has accepted the role of "keeper of the sacred fire", used as an adjective expressing abstinence)
 
 >220. Karaṇe tu-chinno rukkho yena so chinnarukkho, pharasu.
 
+As an instrument of action:
+
+* chinno rukkho = chinnarukkho (an axe ("pharasu") that can be used to "cut a tree")
+
 >221. Dinno suṅko yassa so dinnasuṅko, rājā.
+
+* Dinno suṅko = dinnasuṅko (a king ("rājā") to whom "tax is paid")
 
 >222. Niggatā janā yasmā so niggatajano, gāmo.
 
+* niggatā janā = niggatajano (a village ("gāmo") that someone has come from, ie. "hometown")
+
 >223. Dasa  balāni yassa so dasabalo, bhagavā. Natthi samo yassa so asamo. Ettha ‘‘attannassā’’ti yogavibhāgena nassa a.
 
-Pahūtā jivhā yassa so pahūtajivho, mahantī paññā yassa so mahāpañño. Dvīsu ‘‘itthiyambhāsitapumitthīpumāva ce’’ti pumbhāvātidesā pubbuttarapadesu āīppaccayānamabhāvo.
+* dasa  balāni = dasabalo (refers to the Bhagavā, who is endowed with 10 supernatural powers)
+* natthi samo = asamo (name of a deity that has "no equal")
 
-224. ‘‘Kvaci  samāsantagatānamakāranto’’ti antassa attaṃ. Kāraggahaṇena ā i ca. Itthiyamivaṇṇantā, tvantehi ca kappaccayopi. Yathā - visālaṃ akkhi yassa so visālakkho, paccakkhadhammā, silopo. Sobhano gandho yassa so  sugandhi. Bahukantiko, bahunadiko, samuddo. Ettha yadādinā rasso. Bahukattuko. Mattā bahavo mātaṅgā yasmiṃ taṃ mattabahumātaṅgaṃ, vanaṃ.
+In the above example "na" is converted to "a" in accordance to Kaccāyana rule "attannassā"
 
-Here's the translation of the Pali grammatical rule into English:
+>Pahūtā jivhā yassa so pahūtajivho, mahantī paññā yassa so mahāpañño. Dvīsu ‘‘itthiyambhāsitapumitthīpumāva ce’’ti pumbhāvātidesā pubbuttarapadesu āīppaccayānamabhāvo.
 
-218. Bahubbīhi compound is used for meanings other than the primary word.
+* pahūtā jivhā = pahūtajivho (one who has a "large tongue", a reference to one of the 32 characteristics of a great man, ie. the Buddha)
+* mahantī paññā = mahāpañño (one who has great wisdom, i.e. the Buddha)
 
-When two or more nouns are compounded to express the meaning of other words (not the primary word), it is called a bahubbīhi compound.
+In both examples above, masculine gender is applied to the members of the compounds preceeding the last member of the compound and replaces the feminine suffixes ā and ī in accordance to Kaccāyana rule "itthiyambhāsitapumitthīpumāva ce"
 
-Example: A monastery to which monks have come (āgatasamaṇo vihāro).
+>224. ‘‘Kvaci  samāsantagatānamakāranto’’ti antassa attaṃ. Kāraggahaṇena ā i ca. Itthiyamivaṇṇantā, tvantehi ca kappaccayopi. Yathā - visālaṃ akkhi yassa so visālakkho, paccakkhadhammā, silopo. Sobhano gandho yassa so  sugandhi. Bahukantiko, bahunadiko, samuddo. Ettha yadādinā rasso. Bahukattuko. Mattā bahavo mātaṅgā yasmiṃ taṃ mattabahumātaṅgaṃ, vanaṃ.
 
-219. The Blessed One whose senses are controlled (jitindriyo bhagavā). One who has established the sacred fire (āhitaggi). Alternatively, the qualifier can be placed after, as in agyāhito.
+According to Kaccāyana rule "Kvaci  samāsantagatānamakāranto", sometimes the ending of a compound is modified. Feminine endings with the letters "ā" or "i" are replaced with a "ka" suffix.
 
-220. In the case of instruments: An axe by which a tree is cut (chinnarukkho pharasu).
+Examples:
 
-221. A king to whom tax has been paid (dinnasuṅko rājā).
+* visālaṃ akkhi = visālakkho ("one who has wide eyes", ie. perceptive)
+* paccakkhaṃ dhammā = paccakkhadhammā (an awakened being to whom the teaching is self evident or "dhamma is before the eyes")
 
-222. A village from which people have departed (niggatajano gāmo).
+In the above the 1st form ending "si" is elided (from the member words preceeding the last member in the compound).
 
-223. The Blessed One who has ten powers (dasabalo bhagavā). One who has no equal (asamo). Here, "a" is prefixed to "samo" by separating the components.
+* sobhano gandho = sugandhi (one who is attractive or "sweet smelling")
+* bahukā + antiko = bahukantiko or bahukattuko (at the "end of many" rivers, ie. the ocean)
 
-One with an extensive tongue (pahūtajivho), one with great wisdom (mahāpañño). In these two cases, masculine gender is applied to both parts of the compound, and the feminine suffixes ā and ī are dropped.
+Here the ending vowel is shortened.
 
-224. Sometimes the final "a" of the last member of the compound is lengthened. By using "kāra," ā and i are also included. In feminine, compounds ending in i or u take the suffix "ka." For example: One with large eyes (visālakkho), directly perceived phenomena (paccakkhadhammā). One with a pleasant scent (sugandhi). Having many thorns or many rivers (bahukantiko, bahunadiko) - ocean. Here, the vowel is shortened according to the rule beginning with "yadā." Having many doers (bahukattuko). A forest with many intoxicated elephants (mattabahumātaṅgaṃ vanaṃ).
+* mattā bahavo mātaṅgā = mattabahumātaṅgaṃ (a forest, where there are many elephants)
+
+Translate the following Pali grammatical rule into English:
 
 ### Tulyādhikaraṇo.
 
