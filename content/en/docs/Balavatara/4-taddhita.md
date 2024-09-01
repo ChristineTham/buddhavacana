@@ -9,6 +9,8 @@ description: >
   The "Taddhita" chapter covers noun derivatives.
 ---
 
+Translate the following Pali grammatical rule into English:
+
 ## Apaccataddhita
 
 232. **Vāṇapacce.**
