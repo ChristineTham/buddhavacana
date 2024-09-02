@@ -1685,193 +1685,115 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
            | 1st | Cat*tāro*, Cat*uro* | Cat*asso*           | Cat*tāri*           |
            | 2nd | Cat*tāro*, Cat*uro* | Cat*asso*           | Cat*tāri*           |
            | 3rd | Cat*ūhi*, Cat*ūbhi* | Cat*ūhi*, Cat*ūbhi* | Cat*ūhi*, Cat*ūbhi* |
-           | 4th | Cat*unnaṁ*          | Cat*assannaṁ        | Cat*unnaṁ*          |
+           | 4th | Cat*unnaṁ*          | Cat*assannaṁ*       | Cat*unnaṁ*          |
            | 5th | Cat*ūhi*, Cat*ūbhi* | Cat*ūhi*, Cat*ūbhi* | Cat*ūhi*, Cat*ūbhi* |
-           | 6th | Cat*unnaṁ*          | Cat*assannaṁ        | Cat*unnaṁ*          |
+           | 6th | Cat*unnaṁ*          | Cat*assannaṁ*       | Cat*unnaṁ*          |
            | 7th | Cat*usu*, Cat*ūsu*  | Cat*usu*, Cat*ūsu*  | Cat*usu*, Cat*ūsu*  |
 
-Neut.
-Tini
+         * *Pañca*
 
-Tihi, Tibhi
+           |     | *Plural*              |
+           | --- | --------------------- |
+           | 1st | Pañca                 |
+           | 2nd | Pañca                 |
+           | 3rd | Pañca*hi*, Pañca*bhi* |
+           | 4th | Pañca*nnam*           |
+           | 5th | Pañca*hi*, Pañca*bhi* |
+           | 6th | Pañca*nnam*           |
+           | 7th | Pañca*su*             |
 
-[The rest are
-like the mas-
-culine. |
+         [Cha, satta, aṭṭha, nava, dasa, ekādasa, ekārasa,
+         bārasa, dvādasa, terasa, telasa, cuddasa, coddasa, catuddasa,
+         pañcadasa, paṇṇarasa, solasa, sorasa, sattadasa, sattarasa,
+         aṭṭhadasa and aṭṭhārasa are declined like *Раñса* and
+         are the same in all genders.
 
-Neut.
-Cattari
+         Vīsati, tiṁsati, saṭṭhi, sattati, asīti, navuti, koṭi are,
+         when used alone, feminine stems in the singular number,
+         and they are declined like *Ratti*. All the case-endings used
+         after the stems cattāḷīsa and paññāsa are elided. The
+         stems sata, sahassa efc. are neuter and singular, when
+         used alone.
 
-Catühi,
-Catubhi
-[The rest
-are like
-the mascu-
-line. |
+         The stem vīsati can be used in the plural number in
+         all instances, when they are differentiated by some other
+         number, e.g.—
 
-9rd  Paücahi, Paicabhi
+         * Dve *vīsatiyo* Buddhadantā, 'twice twenty (i.e., 40)
+           teeth of Buddha.’
+         * Tisso *vīsatiyo* dinaghaṭikā, ‘thrice twenty (i.e., 60)
+           hours of a day.'
 
-4th Paficannam
+         Such is also the case with the numerals tiṁsati, saṭṭhi,
+         sattati etc., and sata, sahassa etc.]
 
-6th Paficahi, Pañoabhi
+   4. Nouns having no Gender (Ālinga).
 
-6th  Paücannarmn
-7th Paficasu.
+      They are:
 
-NAMAKANDO 61
+      1. *Some 'suffix-formed' words.* — There are some
+         suffixes which can be used in place of certain case-endings,
+         e.g., -to; -tra, -tha; -va; -hiṁ, -haṁ, -hiñcanaṁ;
+         -ha, -dha; -dhi; -dā, -dācanaṁ; -dāni, -dā; -jja, -jju;
+         -rahi, -dhunā, -dāni. Stems, masculine, feminine ог
+         neuter, when these suffixes are joined, become *words*
+         (noun or pronoun), because the suffixes themselves are
+         regarded as case-endings. Hence, no more case-endings
+         are required. The words thus formed have no
+         Gender of their own, nor do they admit of declension :—
 
-[Cha, satta, attha, nava, dasa, eküdasa, ekarasa,
-bürasa, dvadasa, terasa, telasa, cuddasa, coddasa, catuddasa,
-paficadasa, pannarasa, solasa, sorasa, sattadasa, sattarasa,
+         |        | Suffixes                                       | Words (noun or pronoun)                        |
+         | ------ | ---------------------------------------------- | ---------------------------------------------- |
+         | (i)    | -to as ablative                                | cora + tо = corato                             |
+         |        |                                                | pitu + to = pitito                             |
+         |        |                                                | mātu + tо = mātito                             |
+         |        |                                                | ādi + tо = ādito (both Ablative and  Locative) |
+         |        |                                                | ima + to = ito                                 |
+         |        |                                                | еtа + to=ato, etto                             |
+         |        |                                                | kiṁ + to = kuto                                |
+         | (ii)   | -tra and -tha as locative of place             | sabba + tra = sabbattra                        |
+         |        |                                                | sabba + tha=sabbattha                          |
+         |        |                                                | eta + tra = atra                               |
+         |        |                                                | eta + tha = attha, ettha                       |
+         |        |                                                | kiṁ + tra = kutra                              |
+         |        |                                                | kiṁ + tha = kuttha, kattha                     |
+         | (iii)  | -va as locative of place                       | kiṁ + va = kva                                 |
+         | (iv)   | -hiṁ, -haṁ and -hiñicanaṁ аs locative of place | kiṁ + hiṁ = kuhiṁ                              |
+         |        |                                                | kiṁ + haṁ = kuhaṁ                              |
+         |        |                                                | kiṁ + hiñcanaṁ = kuhiñcanaṁ                    |
+         |        |                                                | ta + hiṁ = tahiṁ                               |
+         |        |                                                | ta + haṁ = tahaṁ                               |
+         |        |                                                | ya + hiṁ = yahiṁ                               |
+         | (v)    | -ha and -dha as locative of place              | ima + ha = iha                                 |
+         |        |                                                | ima + dha = idha                               |
+         | (vi)   | -dhi as locative of place and manner           | sabba + dhi = sabbadhi                         |
+         | (vii)  | -dā and -dācanaṁ as locative of time           | kiṁ + dā = kаdā                                |
+         |        |                                                | sabba + dā = sabbadā, sadā |
+         |        |                                                | añña + dā = aññadā |
+         |        |                                                | eka + dā = ekadā |
+         |        |                                                | уа + dā = уаdā |
+         |        |                                                | kiṁ + dācanaṁ = kudācanaṁ |
+         | (viii) | -dāпі, -dāna, as locative of time              | ta + dāпі = tadāпі                             |
+         | (ix)   | -jja and -jju as locative of time              |                                                |
+         | (x)    | -rahi, -dhunā, -dāni as locative of time       |                                                |
 
-atthadasa and atthürasa are declined like Райса and
-are the same in all genders.
+ ta + да = ада.
 
-Visati, tirnsati, satthi, sattati, asiti, navuti, koti are,
-when used alone, feminine stems in the singular number,
-and they are declined like Ratti. All the case-endings used
-after the stems cattülisa and paññāsa are elided. The
 
-stems sata, sahassa efc. are neuter and singular, when
-used alone.
-
-The stem visati can be used in the plural number in
-all instances, when they are differentiated by some other
-number, e.g.—
-
-Dve visatiyo Buddhadanta, ‘twice twenty (i.v., 40)
-teeth of Buddha.’ =
-Tisso visatiyo dinaghatika, ‘thrice twenty (i.e., 60)
-hours of a day.’
-
-Such is also the case with the numerals tirhsati, satthi,
-sattati efc., and sata, sahassa etc. |
-
-D. Nouns having no Gender (Alinga).
-
-They are:
-
-1. Some  'suffiz-formed' words,—There are some
-suffixes which can be used in place of certain case-
-endings, ¢.g., -to; -tra, -tha; -va; -him, -ham, -hificanam ;
-‘ha, -dha; -dhi; -dà, -ddcanam; -dàni, -dà; -jja, -jju;
-там, -dhuná, -düni. Stems, masculine, feminine ог
-neuter, when these suffixes are joined, become words
-(noun or pronoun), because the suffixes themselves are
-regarded as case-endings. Hence, no more case-
-endings are required. ‘The words thus formed have no
-
-BALAVATARA
-
-Gender of their own, nor do they admit of declen-
-
-62
-sion :—
-.
-Suffixes.
-(i) -to as ablative
-(ii) -tra and -tha as
-locative of place
-.
-(ni) -va as locative of
-place
-(iv) -him, -ham and
--hificanam аз
-locative of place
-(v) -ha and -dha as
-locative of
-place
-(vi) -dhi as locative of
-place and
-manner
-
-x
-
-x
-x
-
-Words (noun or pronoun).
-
-cora + бо = corato
-
-pitu +to=pitito
-
-mitu + бо = matito
-
-adi + бо = adito (both Ablative
-and Locative)
-
-ima + to = ito
-
-еба + to=ato, etto
-
-kim + to = Кибо.
-
-sabba + tra=sabbattra
-sabba + tha=sabbattha
-
-eta + tra = atra
-eta--tha-attha, ettha
-kim + tra = kutra
-
-kirn + tha=kuttha, kattha.
-
-kirh + va=kva.
-
-kira + hirh = kuhirn
-
-Кїтїї + harh=kuharn, kaharn
-kirh + hificanarh = kuhificanam
-ta + him = tahir
-
-ta + ham —taham
-
-ya + him=yahim.
-
-ima +ha=iha
-ima + dha=idha.
-
-sabba + dhi=sabbadhi-
-
-NAMAKANDO 63
-
-kim + ай = Када
-
-sabba + да ক sabbadā, sada
-anna + аа = аййаайа
-
-eka + dà = ekadàü
-
-уа + dà = уада
-
-kirh + dicanarh = kudšücanarn.
-
-(vii) -dā and -dacanam °
-as locative of
-
-time
-
-locative of ta + да = ада.
-
-time
 
 ima + jja= ajja
 samāna + jju= вајји
 арага + jju = aparajju.
 
-(iz) -jja and -jju as
-locative of time
-(z) 7117, -dhund,
 
--ійпі as locative
-of time
 
-(vii) -дапі, -dd, as | ta + dani=tadani
+
+ | ta + dani=tadani
 ima + rahi = etarahi
 | ima + dhuna=adhuna
 | ima + dàni — idàni.
 LJ
-2. The Prefixes or Prepositions (Upasaggas).—' They
+1. The Prefixes or Prepositions (Upasaggas).—' They
 are so called because they are pre-fixed to words, e.g.,
 pa-haro, pa-harati. They cannot be declined, as all case-
 endings are elided after them, and they have no Gender
@@ -1879,7 +1801,7 @@ or Number. The Prefixes or Upasaggas are twenty:
 pa, para, ni, ni, u, du, sarh, vi, ava, anu, pari, adhi, abhi,
 pati, su, а, ati, api, apa, ира.
 
-3. The Indeclinables (Nipatas).— These are particles
+1. The Indeclinables (Nipatas).— These are particles
 and words which do not admit of declension, as all
 case-endings are dropped after them, and they, too,
 have no Gender or Number. The Indeclinables or
