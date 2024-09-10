@@ -1774,68 +1774,54 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
          |        |                                                | уа + dā = уаdā |
          |        |                                                | kiṁ + dācanaṁ = kudācanaṁ |
          | (viii) | -dāпі, -dāna, as locative of time              | ta + dāпі = tadāпі                             |
-         | (ix)   | -jja and -jju as locative of time              |                                                |
-         | (x)    | -rahi, -dhunā, -dāni as locative of time       |                                                |
+         |        |                                                | ta + dā = tadā |
+         | (ix)   | -jja and -jju as locative of time              | ima + jja= ajja                               |
+         |        |                                                | samāna + jju= вајјu |
+         |        |                                                | арага + jju = aparajju |
+         | (x)    | -rahi, -dhunā, -dāni as locative of time       | ima + rahi = etarahi                       |
+         |        |                                                | ima + dhunā = adhunā |
+         |        |                                                | ima + dāni = idāni |
 
- ta + да = ада.
+      2. *The Prefixes or Prepositions (Upasaggas)* — They
+         are so called because they are pre-fixed to words, e.g.,
+         pa-haro, pa-harati. They cannot be declined, as all case-
+         endings are elided after them, and they have no Gender
+         or Number. The Prefixes or Upasaggas are twenty:
+         pa, parā, ni, nī, u, du, saṁ, vi, ava, anu, pari, adhi, abhi,
+         pati, su, ā, ati, api, apa, uра.
 
+      3. *The Indeclinables (Nipatas)*. — These are particles
+         and words which do not admit of declension, as all
+         case-endings are dropped after them, and they, too,
+         have no Gender or Number. The Indeclinables or
+         Nipatas are: ca, na, va, vā, mā, hi, dhi, ci, ku, tu, nu,
+         ce, re, he, sve, ve, vo, kho, no, to, yaṁ, naṁ, taṁ, kiṁ;
 
+         Handa, kira, eva, kıva, yāva, tāva, vata, vatha, atha,
+         аṅgа, iṅgha, taggha, āma, nāma, nūna, puna, pana, āһа,
+         saha, musā, sakkā, labbhā, heṭṭhā, ārā, dūra, divā, navā,
+         vinā, nānā, addhā, muddhā, micchā, paccha, āvi, sakkhi,
+         sacci, sacchi, bahi, yadi, iti, kinti, atthi, sotthi, khalu,
+         nanu, kimu, assu, yagghe, sace, have, suve, suvo, are, pure,
+         namo, tiro, adho, atho, aho, raho, hiyyo, bhiyyo, anto,
+         pāto, sudaṁ, kallaṁ, evaṁ, dhuvaṁ, alaṁ, halaṁ,
+         sayaṁ, sāyaṁ, samaṁ, sāṁam, kāmaṁ, paraṁ, oraṁ,
+         ciraṁ, huraṁ, аһаṁ, sahaṁ,  uccaṁ, nīcaṁ,  sakiṁ,
+         saddhiṁ ;
 
-ima + jja= ajja
-samāna + jju= вајји
-арага + jju = aparajju.
+         Athavā, antarā, ārakā, bāhirā, bahiddhā, yāvatā,
+         tāvatā, samantā, sāmantā, āmantā, sammukhā, carahi,
+         tarahi, sampati, āyati, upari, yāvade, tāvade, tiriyaṁ,
+         sanikaṁ, sasakkaṁ;
 
+         Etarahi, ettāvatā, parammukhā, kittāvatā, aññadatthu,
+         seyyathīdaṁ, appevanūma, bhiyyosomattāya.
 
+         [N.B. — All case-endings are elided also after the word
+         'āvuso’, e.g., tvaṁ āvuso, tumhe āvuso.]
 
-
- | ta + dani=tadani
-ima + rahi = etarahi
-| ima + dhuna=adhuna
-| ima + dàni — idàni.
-LJ
-1. The Prefixes or Prepositions (Upasaggas).—' They
-are so called because they are pre-fixed to words, e.g.,
-pa-haro, pa-harati. They cannot be declined, as all case-
-endings are elided after them, and they have no Gender
-or Number. The Prefixes or Upasaggas are twenty:
-pa, para, ni, ni, u, du, sarh, vi, ava, anu, pari, adhi, abhi,
-pati, su, а, ati, api, apa, ира.
-
-1. The Indeclinables (Nipatas).— These are particles
-and words which do not admit of declension, as all
-case-endings are dropped after them, and they, too,
-have no Gender or Number. The Indeclinables or
-Nipatas are: ca, na, va, và, ma, hi, dhi, ci, ku, tu, nu,
-ce, re, he, sve, ve, vo, kho, no, to, yam, nam, tam, kim;
-
-Handa, kira, eva, kiva, yava, tava, vata, vatha, atha,
-айда, ingha, taggha, ima, Dima, nina, puna, pana, аһа,
-saha, musa, ackka, labbha, hettha, ага, айгай, diva, navi,
-vinà, nana, addhà, muddha, miccha, paccha, Avi, sakkhi,
-
-64 BALAVATARA
-
-sacci, sacchi, bahi, yadi, iti, kinti, atthi. sotthi, khalu,
-nanu, kimu, assu, yagghe, sace, have, suve, suvo, are, pure,
-namo, tiro, adho, atho, aho, raho, hiyyo, bhiyyo, anto,
-pšto, sudarh, kallarh, evarh, dhuvarh, alarm, halarn,
-sayar, sšyarh, samam, sümam, Капа, param, orarm,
-cirarh, hurarh, аһа, saham,  uccari, nicam,  sakirn,
-saddhirh ;
-
-Athavà, antari, fraka, babira, bahiddha, 58৮৪5,
-атаба, samantà, sümanta, атапёа, sammukhi, carahi,
-tarahi, sampati, yati, upari, yavade, tüvade, tiriyarn,
-sanikar, sasakkarn;
-
-Etarahi, elta vata, parammukha, kittavata, annadatthu,
-seyyathidam, appevanama, bhiyyosomattiya.
-
-[N. B.— All case-endings are elided also after the word
-‘avuso’, e.g., tvarh avuso, tumhe üvuso.]
-
-= [The Indeclinables (Nipitas) have been defined by
-Grammarians as follows :—
+         The Indeclinables (Nipātas) have been defined by
+         Grammarians as follows :—
 
 Ssdisa ye ti-lihgesu sabbāsu са vibhattisu
 vacanesu ca sabbesu te Мраба ti kittita.

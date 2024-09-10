@@ -245,8 +245,6 @@ Nominative plural: buddhā
 
 Note: This translation attempts to convey the grammatical concepts, but some technical terms and nuances may require further context or explanation in English.
 
-Translate the following Pali grammatical rule into English:
-
 >50. **Kammatthe dutiyā.**
 
 Yaṃ  karoti, taṃ kammaṃ nāma. Tattha dutiyā hoti. Aṃbuddhaṃ. Yossa e-buddhe.
@@ -304,6 +302,60 @@ Suhisu  paresvakārassa e hoti.
 
 Sabbasaddehi paresaṃ smāhisminnaṃ yathāsaṅkhyaṃ mhābhimhiiccete vā honti. Buddhebhi, buddhehi.
 
+#### ChatGPT
+
+The Pali grammatical rule you provided can be translated into English as follows:
+
+---
+
+**51. In the third case (instrumental case),**
+
+**With an agent (kattari),**
+
+One who performs an action is called an agent. In this context, the third case (instrumental) is used. The ending is "ena."
+
+**Therefore, with "ena,"**
+
+If there is an "a" before it, it becomes "ena." For example: "by the Buddha" (Buddhena).
+
+**Indeed,**
+
+**In the case of "su" and "e,"**
+
+In the plural, "e" replaces the ending "a" with "su" in the case of certain pronouns.
+
+**With "smā," "hismin," and "mhā,"**
+
+For all pronouns, the endings "smā," "hismin," and "mhābhimhi" become "smā," "hismin," and "mhābhimhi" respectively, according to the respective forms. For example: "by the Buddhas" (Buddhebhi), "with the Buddhas" (Buddhehi).
+
+---
+
+This passage discusses the use of the third case (instrumental) in Pali, particularly in relation to agents (kattā), and how specific endings are applied based on the word's form and function in a sentence.
+
+#### Claude
+
+Here's the translation of the Pali grammatical rule into English:
+
+51. [It remains] in the instrumental case.
+
+**In the case of the agent**
+
+The one who performs the action is called the agent. In this case, the instrumental case is used. [The ending is] nā.
+
+**After [a stem ending in] a, [it becomes] nena**
+
+After a stem ending in 'a', nā changes to enaṃ. [For example] Buddhena (by the Buddha).
+
+Hi.
+
+**Before su and hi, a becomes e**
+
+Before the endings su and hi, a stem-final a changes to e.
+
+**Optionally, smā, hi, and smiṃ become mhā, bhi, and mhi respectively**
+
+After all noun stems, the endings smā, hi, and smiṃ optionally become mhā, bhi, and mhi respectively. [For example] Buddhebhi or Buddhehi (by the Buddhas).
+
 52. **Karaṇe tatiyā.**
 
 Yena  vā kayirate, taṃ karaṇaṃ nāma. Tattha tatiyā hoti. Sabbaṃ kattusamaṃ.
@@ -326,6 +378,57 @@ Dīghantveva.
 
 Sunaṃhisu paresu sarādīnaṃ dīgho hoti. Casaddena kvaci na. Buddhānaṃ.
 
+#### ChatGPT
+
+Here is the translation of the Pali grammatical rules into English:
+
+**52. **Instrumental Case (Tatiyā) in the Sense of Agency or Means**
+
+The means by which something is done is called the instrument (karaṇa). In such a context, the instrumental case (tatiyā) is used. The instrumental case is used similarly to the subject (kattusama).
+
+**53. **Dative Case (Catutthī) in the Sense of Giving or Favor**
+
+When something is desired to be given or is pleasing to someone, it is called the recipient (sampadāna). In such a context, the dative case (catutthī) is used. The rule "Sa" indicates that:
+
+- The ending of the singular dative case often changes.
+- The ending "āya" or "āyo" is used for the singular dative case, as in "Buddhāya" (to the Buddha).
+
+The phrase "Sāgamo se" refers to the addition of the letter "s" (sakārāgamo) in some cases, such as "Buddhassa" (to the Buddha).
+
+"Naṃ" (which may refer to the accusative case) indicates the lengthening of vowels.
+
+**Sunaṃhisu ca** refers to:
+
+In the context of certain pronouns and other words, the vowel preceding the ending may be lengthened, as with "Buddhānaṃ" (of the Buddhas). The word "ca" indicates that in some cases, this lengthening might not occur.
+
+This rule set is concerned with the proper use of cases in Pali grammar, particularly the instrumental and dative cases, and the modifications that occur in certain grammatical contexts.
+
+#### Claude
+
+Here's the translation of the Pali grammatical rules into English:
+
+52. **The third case (instrumental) is used for the instrument.**
+
+That by which something is done is called the instrument. In this case, the third case (instrumental) is used. Everything is the same as for the agent.
+
+53. **The fourth case (dative) is used for the recipient.**
+
+That to whom one wishes to give, or for whom one approves or holds, is called the recipient. In this case, the fourth case (dative) is used. Sa.
+
+From this point onwards:
+
+**For the fourth case singular, āya is used.**
+
+After a stem ending in a short 'a', the fourth case singular ending can optionally become 'āya'. Example: Buddhāya.
+
+"The augment 'sa' is added to 'se'" means that 'sa' is added before 'se'. Example: Buddhassa. Naṃ.
+
+The rule about lengthening continues:
+
+**And also before su, naṃ, and hi.**
+
+When su, naṃ, or hi follow, the final vowel of the stem is lengthened. The word 'ca' (and) indicates that sometimes this lengthening doesn't occur. Example: Buddhānaṃ.
+
 54. **Apādāne pañcamī.**
 
 Yasmādapeti, bhayamādatte vā, tadapādānaṃ nāma, tattha pañcamī hoti. Smā.
@@ -344,6 +447,54 @@ Yassa  vā pariggaho, taṃ sāmī nāma. Tattha chaṭṭhī hoti. Buddhassa. B
 
 Yodhāro, tamokāsaṃ nāma. Tattha sattamī hoti. Smiṃ-buddhe, buddhamhi, buddhasmiṃ. Su-buddhesu.
 
+#### ChatGPT
+
+Certainly! Here’s the translation of the provided Pali grammatical rules into English:
+
+**54. In the Apādāna (case), the fifth case (i.e., the ablative) is used.**
+
+The source from which something is removed or from which fear is taken, that is called "apādāna" (source or origin), and in that context, the fifth case (ablative) is used. The term "smā" is used.
+
+Examples: “ato” (from that) and “āetveva” (from this).
+
+**55. "Smā" or "Smā" with "naṃ".**
+
+In some situations, the letter "ā" or "naṃ" is added after "smā". For example: "Buddhā" (from the Buddha), "buddhamhā" (from the Buddha), "buddhasmā" (from the Buddha).
+
+Similarly, in the plural, "buddhebhi" or "buddhehi" (from the Buddhas).
+
+**56. In the Sāmi (possessive) case, the sixth case (i.e., the genitive) is used.**
+
+When something is owned or possessed, it is called "sāmī" (owner or possessor). In that context, the sixth case (genitive) is used. For example: "Buddhassa" (of the Buddha), "buddhānaṃ" (of the Buddhas).
+
+**57. In the Okāsa (locative) case, the seventh case (i.e., the locative) is used.**
+
+When a location or place is indicated, it is called "okāsa" (place or location). In that context, the seventh case (locative) is used. For example: "Smiṃ-buddhe" (in the Buddha), "buddhamhi" (in the Buddha), "buddhasmiṃ" (in the Buddha).
+
+Similarly, in the plural: "Su-buddhesu" (in the Buddhas).
+
+#### Claude
+
+Here's the translation of the Pali grammatical rules into English:
+
+54. **The fifth case (ablative) is used for separation.**
+
+The fifth case is used when something moves away from or fears something else. This is called apādāna (separation). The ending is "smā".
+
+From this point, "ā" and "e" are used.
+
+55. **"Smā" and "smiṃ" optionally become "ā" or "e".**
+
+After words ending in "a", the endings "smā" and "smiṃ" optionally become "ā" or "e". Examples: Buddhā, buddhamhā, buddhasmā. Buddhebhi, buddhehi.
+
+56. **The sixth case (genitive) is used for possession.**
+
+The sixth case is used to indicate possession or ownership. Example: Buddhassa. Buddhānaṃ.
+
+57. **The seventh case (locative) is used for location.**
+
+The seventh case is used to indicate the place where something is located or occurs. This is called okāsa (location). The endings are "smiṃ" (as in buddhe, buddhamhi, buddhasmiṃ) and "su" (as in buddhesu).
+
 58.
 
  Buddho buddha sukhaṃ dadāti sarato buddhaṃ tato dukkaraṃ,
@@ -359,6 +510,39 @@ Buddhassiddhi na kiṃ kare bhavabhave bhattyatthu buddhe mama.
 60. Atta, si.
 
 Brahmattasakharājādito tveva.
+
+#### ChatGPT
+
+Here’s the translation of the Pali grammatical rule into English:
+
+---
+
+**58.** 
+
+"The Buddha gives happiness to those who remember him. Therefore, it is difficult to give up attachment to the Buddha. Even the great sages, endowed with supernatural powers, find happiness in the Buddha. Let me devote my mind to the Buddha alone, and I will attain the highest, imperishable state. What cannot be accomplished by the Buddha’s power? May my devotion to the Buddha continue in every existence."
+
+**59.** 
+
+"From this point onward, the third and fifth cases (instrumental and ablative) and the fourth and sixth cases (dative and genitive) are to be understood as being similar in form. The fifth and sixth cases are sometimes used interchangeably."
+
+**60.** 
+
+"The term 'atta' (self) should be understood in this way: it refers to the self as Brahma, Sakra (Indra), king, and so on."
+
+---
+
+These verses seem to be combining grammatical instructions with devotional expressions, which is common in certain Pali texts where grammatical rules are conveyed alongside religious or philosophical content.
+
+#### Claude
+
+I'll translate rule 59, as it appears to be the main grammatical rule in the set you've provided. Rules 58 and 60 seem to be examples or additional notes.
+
+Translation of rule 59:
+
+"From this point forward, due to the similarity of the third and fifth cases, and of the fourth and sixth cases, the fifth and sixth cases are often disregarded."
+
+Explanation:
+This rule is discussing the usage of grammatical cases in Pali. It states that because the third case (instrumental) and fifth case (ablative) are similar in form and function, and likewise the fourth case (dative) and sixth case (genitive) are similar, the fifth and sixth cases are often overlooked or not used as distinctly. This simplification in case usage is common in later stages of the language or in certain contexts.
 
 **Syā ca**.
 
@@ -385,6 +569,88 @@ Amhādito smā nā iva hoti. Attanā.
 67. Rājā  attāva. Nā.
 
 Savibhattissa rājassetveva.
+
+#### ChatGPT
+
+The Pali grammatical rule provided is very specific and intricate, dealing with the declension and usage of the word "attā" (self) in various forms and contexts. Below is an English translation and explanation of the rule:
+
+---
+
+### Translation:
+
+**Syā ca**.
+
+1. **Brahmādito sissa ā hoti. Attā.**
+   - From "brahmā" (Brahmā) onwards, the word "ā" becomes "attā" (self).
+
+2. **‘‘Yonamāno’’ti brahmādito yonaṃ ānottaṃ. Attāno.**
+   - The phrase "yonamāno" indicates that from "brahmā" onward, "yona" (origin) is followed by "ānottaṃ" (self-origin), resulting in "attāno" (self's).
+
+3. **61. He - atta, attā. Yo, attāno.**
+   - "He" (he) becomes "atta" or "attā" (self). "Yo" (who) becomes "attāno" (of the self).
+
+4. **62. ‘‘Brahmattasakharājādito amāna’’nti brahmādito aṃvacanassa ānaṃ vā hoti. Attānaṃ, attaṃ. Attāno.**
+   - From "brahmā" and "rājā" (king) onwards, the word "amāna" (not-self) becomes "ānaṃ" (of self), resulting in "attānaṃ" (self's), "attaṃ" (self), and "attāno" (of the self).
+
+5. **63. Attena, attanā. Pakkhe-jinavacanānurodhena enābhāvo.**
+   - "Attena" (by self) and "attanā" (with self). In the alternative, according to the teaching of the Buddha, the "ena" (by) is absent.
+
+6. **‘‘Attānto hismimanattaṃ’’ti himhi attantassa ano. Attanehi. Evaṃ karaṇe.**
+   - The phrase "attānto hismimanattaṃ" (with self as the essence, non-self is denied) indicates that in "himhi" (in him), "attantassa" (of the self) becomes "ano" (to the self). Thus, "attanehi" (by selves) is used in the instrumental case.
+
+7. **64. ‘‘Sassa no’’ti nokāro. Attano. Attānaṃ.**
+   - The phrase "sassa no" (of his or ours) indicates that the "no" becomes "attano" (of self). "Attānaṃ" (for self).
+
+8. **65. Amhatumhantu rājabrahmattasakha satthupitādīhi smā nāva.**
+   - With "amha," "tumha," "rāja," "brahmā," "sakha" (friend), "satthu" (teacher), and "pitā" (father), the suffix "smā" (from) is used similarly to "nava" (new).
+
+9. **Amhādito smā nā iva hoti. Attanā.**
+   - From "amhā" (from us), "smā" becomes "nā" (with/from self). "Attanā" (with/by self).
+
+10. **66. ‘‘Tato sminnī’’ti smino ni. Attani. ‘‘Anatta’’nti bhāvaniddesena sumhi ca ano. Attanesu.**
+    - The phrase "tato sminnī" (from that, in him) indicates that "smino" becomes "ni" (in). "Attani" (in self). The word "anatta" (non-self) in the context of meditation (bhāvanā) becomes "sumhi" (in him) and "ano" (to the self). "Attanesu" (in the selves).
+
+11. **67. Rājā attāva. Nā.**
+    - "Rājā" (king) becomes "attāva" (self-like). "Nā" (not).
+
+12. **Savibhattissa rājassetveva.**
+    - The word "rājā" in its declension is treated similarly.
+
+---
+
+### Explanation:
+
+This rule is discussing the declension and transformation of the word "attā" (self) in various grammatical cases, depending on its context and the words it is associated with. The rule touches on how "attā" interacts with other words like "brahmā," "rājā," etc., and how it changes form (e.g., "
+
+#### Claude
+
+Here's the translation of the Pali grammatical rule into English:
+
+**Syā ca**.
+
+From brahma and similar words, 'issa' becomes 'ā'. [Example:] Attā.
+
+According to "Yonamāno," 'āno' is the ending for 'yo' case from brahma and similar words. [Example:] Attāno.
+
+61. He - atta, attā. Nominative: Attā, Genitive: Attāno.
+
+62. According to "Brahmattasakharājādito amāna," the accusative case ending 'aṃ' optionally becomes 'ānaṃ' for brahma and similar words. [Examples:] Attānaṃ, attaṃ. Genitive: Attāno.
+
+63. Instrumental: Attena, attanā. Optionally, following Jina's words, 'ena' is not used.
+
+According to "Attānto hismimanattaṃ," 'ano' is used for 'hi' case with words ending in 'atta'. [Example:] Attanehi. The same applies for the instrumental case.
+
+64. According to "Sassa no," 'no' is used [for genitive]. [Example:] Attano. Accusative: Attānaṃ.
+
+65. For words like amha, tumha, rāja, brahma, atta, sakha, satthā, pitā, etc., 'nā' is used instead of 'smā' [in the ablative case].
+
+For words like amha, 'nā' is used instead of 'smā'. [Example:] Attanā.
+
+66. According to "Tato sminnī," 'ni' is used instead of 'smi' [in the locative case]. [Example:] Attani. According to "Anatta," by the rule of bhāva, 'ano' is also used for 'su' [in the locative plural]. [Example:] Attanesu.
+
+67. Rājā declines like attā. Nominative: [Attā].
+
+This applies only to rāja with its case endings.
 
 **Nāmhi raññā vā**.
 
@@ -414,6 +680,74 @@ Savibhattissa ntussetveva.
 
 Yomhi paṭhametveva.
 
+#### ChatGPT
+
+The passage you provided is discussing Pali grammatical rules, particularly concerning the declension of the word "rāja" (meaning "king"). Below is an English translation and explanation of the rules mentioned:
+
+---
+
+**Nāmhi raññā vā.**
+
+In the locative case (nāmhi) with the word "rāja," the form is "raññā" or "rājena." ("Raññā," "rājena.")
+
+**Rājassa rāju sunaṃhisu ca.**
+
+In the plural, for words like "rājassa" in certain cases, the form "rāju" is used, but not always due to the presence of a "cakāra" (a conjunction). The forms could be "rājūbhi," "rājūhi," "rājebhi," or "rājehi."
+
+**68. Savibhattissetyadhikāro.**
+
+For the word "rājassa," in the genitive case, the forms "rañño" or "rājino" are used. ("Rañño," "rājino.")
+
+**69. Smāssanātulyattā-nāmhi raññā vā.**
+
+In the ablative case (nāmhi), the form is "raññā" or "rājamhā" or "rājasmā." ("Raññā," "rājamhā," "rājasmā.")
+
+**70. ‘‘Smimhi raññe rājinī’’ti smimhi raññe rājini honti.**
+
+In the locative case (smimhi), the form is "raññe" or "rājini." ("Raññe," "rājini.") The plural forms are "rājūsu" or "rājesu."
+
+**71. Guṇavantu, si.**
+
+For the word "rāja" with the suffix "guṇavantu," the form is used according to the cases. In the locative case (savibhattissa), the form would be "ntussa ā." ("Guṇavā.")
+
+**Yomhi paṭhametveva.**
+
+This phrase indicates that the form "yomhi" is used in the first case (nominative).
+
+---
+
+These rules describe how the word "rāja" changes its form depending on the grammatical case, number, and sometimes specific suffixes or contexts in Pali. The passage is a detailed explanation of these changes, which are essential for correctly declining nouns in Pali.
+
+#### Claude
+
+Here's the translation of the Pali grammatical rules into English:
+
+**Nāmhi raññā vā**.
+
+In the locative case, the word "rāja" (king) optionally becomes "raññā". Examples: raññā, rājena.
+
+**Rājassa rāju sunaṃhisu ca**.
+
+Before the endings "su", "naṃ", and "hi", "rāja" becomes "rāju". The "ca" (and) indicates that this change is optional in some cases.
+
+When the vowel is lengthened as per "Sunaṃhisu ca", we get: rājūbhi, rājūhi, rājebhi, rājehi.
+
+68. This rule applies to words with case endings.
+
+In the genitive singular, "rāja" becomes "rañño" or "rājino". Examples: rañño, rājino.
+
+In the genitive plural, "rāja" optionally becomes "raññaṃ". Examples: raññaṃ, rājūnaṃ, rājānaṃ.
+
+69. In the ablative case, due to similarity with the instrumental, "rāja" optionally becomes "raññā". Examples: raññā, rājamhā, rājasmā.
+
+70. In the locative singular, "rāja" becomes "raññe" or "rājini". Examples: raññe, rājini. In the locative plural: rājūsu, rājesu.
+
+71. For words ending in "-vantu" (like guṇavantu), in the nominative singular:
+
+The ending "-ntu" is replaced with "ā". Example: guṇavā.
+
+This applies only in the nominative case.
+
 **Ntussa nto**.
 
 Paṭhame yomhi savibhattissa ntussa ntokāro hoti. Guṇavanto.
@@ -423,6 +757,42 @@ Sunaṃhisu attaṃtveva.
 **Ntussanto yosu ca**.
 
 Sunaṃhisu, yosu, cakārena aññesupi paresu ntussanto attaṃ yāti. Guṇavantā.
+
+#### CHatGPT
+
+The rule you've provided appears to be discussing a specific grammatical pattern in Pali related to the behavior of certain word endings. Here is a translation of the rule:
+
+---
+
+**Ntussa nto**.
+
+In the first (case), when there is the suffix "ntussa", the ending "nto" occurs. It is strengthened (i.e., it exhibits a stronger form).
+
+In the plural (case), the ending is simply "ntaṃ".
+
+**Ntussanto yosu ca**.
+
+In the plural, when "ntussa" or "yosu" occurs, the ending "nto" is replaced by "nto" or "ntaṃ". It is strengthened. 
+
+---
+
+This rule appears to be explaining how certain endings change in different grammatical cases, particularly in the context of plural forms and specific suffixes like "ntussa" and "yosu". The term "Guṇavanto" indicates that the forms are "strengthened" or "augmented," which typically means a more prominent or fuller form of the word is used.
+
+#### Claude
+
+Here's the translation of the Pali grammatical rule into English:
+
+**Ntussa nto**.
+
+"Nto" replaces "ntu" in the first case (nominative) singular ending. For example: Guṇavanto (virtuous one).
+
+However, before "su", "naṃ", and "hi" endings, it becomes "at" instead.
+
+**Ntussanto yosu ca**.
+
+Before "su", "naṃ", "hi", "yo" (plural) endings, and others (as indicated by "ca" meaning "and"), "ntu" becomes "at". For example: Guṇavantā (virtuous ones).
+
+This rule describes the declension of certain Pali words ending in -ntu, particularly in the nominative case and some other cases. It shows how the stem changes in different grammatical contexts.
 
 72. Savibhattissetyadhikāro. Aṃitveva.
 
@@ -446,6 +816,76 @@ Ge pare savibhattissa ntussa aṃaā honti. Heguṇavaṃ,guṇava, guṇavā. Y
 
 Gacchantādīnaṃ ntasaddotveva.
 
+#### ChatGPT
+
+Sure, let's translate the Pali grammatical rules provided into English:
+
+---
+
+**72. "Savibhatti-ssetyadhikāro. Aṃitveva."**
+
+**Avaṇṇo ca ge.**
+
+When "ge" follows, the nasal "ṃ" occurs in the place of the nasal "n". For example, "heguṇavaṃ", "guṇava", "guṇavā". The forms are "guṇavanto", "guṇavantā" (in nominative plural).
+
+**73. Attaṃ – guṇavantaṃ. Guṇavante.**
+
+For example, the accusative forms are "guṇavantaṃ" and "guṇavante".
+
+**74. ‘‘Totitā sasmiṃ nāsvī’’ti savibhattissa ntussa nāmhi tā, se tokāro, smimhi ti ca vā. Guṇavatā, guṇavantena. Guṇavantebhi, guṇavantehi.**
+
+In the locative singular, the ending "smimhi" or "ti" is used, resulting in forms like "guṇavatā" (instrumental singular), "guṇavantena" (instrumental singular), "guṇavantebhi" or "guṇavantehi" (instrumental plural).
+
+**75. Guṇavato, guṇavantassa.**
+
+In the genitive singular, the form is "guṇavato" or "guṇavantassa".
+
+"Namhi taṃ vā" indicates that in the locative singular, the ending "taṃ" or "vā" is used, resulting in forms like "guṇavataṃ" or "guṇavantānaṃ" (genitive plural). "Smā nāva" refers to the ablative singular form.
+
+**76. Guṇavati, guṇavante, guṇavantamhi, guṇavantasmiṃ, guṇavantesu.**
+
+The forms in various cases are: "guṇavati" (locative singular), "guṇavante" (accusative plural), "guṇavantamhi" (locative singular), "guṇavantasmiṃ" (another locative singular form), and "guṇavantesu" (locative plural).
+
+**77. Gacchanta, si.**
+
+In forms like "gacchanta", when followed by "si", the nasal "nta" sound becomes "a", resulting in forms like "gacchaṃ". The "si" indicates the nominative singular form "gacchanto".
+
+Forms like "gacchanta" retain the nasal "nta".
+
+---
+
+This is a translation of the Pali grammatical rules provided. The explanations apply to certain forms and endings in Pali, involving nasalization and vowel changes in different grammatical cases and numbers.
+
+#### Claude
+
+Here's a translation of the Pali grammatical rules into English:
+
+72. This section deals with words including their case endings. The word "aṃ" is understood.
+
+**The vowel "a" before "ge"**.
+
+When "ge" follows, "aṃ" or "ā" replaces "ntu" with its case ending. Examples: heguṇavaṃ, guṇava, guṇavā. In nominative plural: guṇavanto, guṇavantā.
+
+73. In accusative singular: guṇavantaṃ. In accusative plural: guṇavante.
+
+74. As per the rule "totitā sasmiṃ nāsvī", for "ntu" with its case ending:
+   - In instrumental singular, "tā" is used
+   - In locative singular, "to" is used
+   - In locative plural, "ti" is optionally used
+Examples: guṇavatā, guṇavantena. guṇavantebhi, guṇavantehi.
+
+75. In genitive singular: guṇavato, guṇavantassa.
+
+As per "namhi taṃ vā", in genitive plural, "ntu" optionally becomes "taṃ". Examples: guṇavataṃ, guṇavantānaṃ. The ablative is like the instrumental.
+
+76. In locative: guṇavati, guṇavante, guṇavantamhi, guṇavantasmiṃ, guṇavantesu.
+
+77. For words like "gacchanta" in nominative singular:
+
+As per "simhi gacchantādīnaṃ ntasaddo a", the "nta" optionally becomes "aṃ", and "si" is dropped. Example: gacchaṃ, or with "si" becoming "o": gacchanto.
+
+This rule applies to words like "gacchanta" and others with "nta".
+
 **Sesesuntuva**.
 
 Vuttaṃ hitvā sesesu gacchantādīnaṃ ntasaddo ntu iva daṭṭhabbo. Gacchanto, gacchantāiccādi.
@@ -460,6 +900,52 @@ Sesaṃ guṇavantusamaṃ.
 
 Jhalato vātveva.
 
+#### ChatGPT
+
+The text describes specific grammatical rules related to Pali language endings, particularly concerning participles and sound changes involving certain consonants. Here's the translation:
+
+---
+
+**Sesesuntuva:**
+
+After excluding the specific forms mentioned, in the remaining forms such as "gacchantā" (and similar words), the suffix "nta" should be treated as equivalent to "ntu." For example, "gacchanto" (going), "gacchantā" (those who are going), and similar forms.
+
+The remaining cases are like "guṇavantu."
+
+78. Words like "gacchantā" are those ending with the suffix "anta."
+
+79. In the word "aggi," there is a deletion of the consonant.
+
+According to the rule "Ivaṇṇuvaṇṇā jhalā," the consonants in the specified groups are treated as "jhal" (a class of consonants in Pali grammar).
+
+From "jhal," the transformation to "va" occurs.
+
+---
+
+This translation explains the grammatical rules about participle endings, consonant changes, and specific sound transformations in Pali.
+
+#### Claude
+
+Here's the translation of the Pali grammatical rule into English:
+
+**Sesesuntuva**.
+
+In the remaining cases, the suffix 'nta' of words like 'gacchanta' (going) should be treated as if it were 'ntu'. For example: gacchanto, gacchantā, etc.
+
+The rest is similar to 'guṇavantu' (possessing qualities).
+
+78. Words ending with the suffix 'anta' are called 'gacchantādi' (words like 'gacchanta').
+
+79. For 'aggi' (fire), there is elision of 's'.
+
+According to the rule "Ivaṇṇuvaṇṇā jhalā," the vowels 'i' and 'u' are respectively designated as 'jha' and 'la'.
+
+[The rule continues] "After jha or la..."
+
+Note: This is a technical grammatical rule in Pali, and some terms are left untranslated as they are specific grammatical concepts in Pali linguistics.
+
+Translate the following Pali grammatical rule into English:
+
 **Ghapato ca yonaṃ lopo**.
 
 Ghapajhalato yonaṃ lopo vā hoti.
@@ -471,6 +957,60 @@ Kato nikāro lopo ca yesaṃ tesu yosu sarānaṃ dīgho hoti. Aggī. Pakkhe-att
 **Yo svakatarasso jho**.
 
 Yosu akatarasso jho attaṃ yāti. Aggayo. Tathālapane.
+
+#### ChatGPT
+
+The Pali grammatical rules you've provided are related to phonological and morphological changes, particularly in the context of vowel lengthening, elision, and consonant changes. Here's the translation and explanation of each rule in English:
+
+1. **Ghapato ca yonaṃ lopo**:
+   - "The elision (lopa) of the 'y' sound (yo) also occurs after the 'gh' sound (ghapato)."
+   - This rule indicates that in certain contexts, the 'y' sound is dropped after a 'gh' sound.
+
+2. **Ghapajhalato yonaṃ lopo vā hoti**:
+   - "The elision of the 'y' sound (yo) may also occur after 'gh' or a consonant from the 'jhala' group."
+   - This expands the previous rule, allowing for the possibility of the 'y' sound being dropped not only after 'gh' but also after other consonants from the 'jhala' group.
+
+3. **Yosu katanikāralopesu dīghaṃ**:
+   - "In cases where there is elision (lopa) of the consonants 'ka' and 'ta', the vowels (sara) become long (dīgha)."
+   - This rule explains that when certain consonants are elided, the preceding vowel is lengthened.
+
+4. **Kato nikāro lopo ca yesaṃ tesu yosu sarānaṃ dīgho hoti. Aggī. Pakkhe-attantveva**:
+   - "When the consonant 'ka' is elided, and in those cases where elision occurs, the vowels become long. An example is 'aggī'. In the other case, it is always at the end (attantveva)."
+   - This rule provides an example (aggī) where vowel lengthening occurs due to the elision of a consonant. It also implies that this vowel lengthening happens at the end of certain forms.
+
+5. **Yo svakatarasso jho**:
+   - "The 'jho' sound that belongs to 'sva' or 'kata' (i.e., the 'k' or 't' group) undergoes a change."
+   - This rule suggests a phonological change for the 'jho' sound when it is associated with the 'k' and 't' consonant groups.
+
+6. **Yosu akatarasso jho attaṃ yāti. Aggayo. Tathālapane**:
+   - "When 'jho' is not associated with 'ka' or 'ta', it assumes its original form. An example is 'aggayo'. Similarly, in the case of 'alapana'."
+   - This rule indicates that when the 'jho' sound is not associated with the 'k' or 't' groups of consonants, it retains its original form. The example 'aggayo' demonstrates this, and a similar pattern occurs with 'alapana'.
+
+In summary, these rules deal with sound changes in Pali words, specifically focusing on how certain consonants and vowels interact, leading to elision (dropping of sounds) and vowel lengthening.
+
+#### Claude
+
+Here's the translation and explanation of these Pali grammatical rules:
+
+1. **Ghapato ca yonaṃ lopo**.
+   "There is optional elision of the plural endings (yo) after stems ending in gha, pa, and jha."
+
+   Ghapajhalato yonaṃ lopo vā hoti.
+   "The plural endings (yo) may be optionally dropped after stems ending in gha, pa, and jha."
+
+2. **Yosu katanikāralopesu dīghaṃ**.
+   "When the plural endings (yo) are subject to nikāra substitution or elision, the preceding vowel is lengthened."
+
+   Kato nikāro lopo ca yesaṃ tesu yosu sarānaṃ dīgho hoti. Aggī. Pakkhe-attantveva.
+   "In cases where the plural endings (yo) undergo nikāra substitution or elision, the preceding vowels are lengthened. For example: Aggī (fires). Alternatively: attaṃ (self)."
+
+3. **Yo svakatarasso jho**.
+   "When the plural ending (yo) is not subject to vowel lengthening, jha becomes aya."
+
+   Yosu akatarasso jho attaṃ yāti. Aggayo. Tathālapane.
+   "When the plural ending (yo) is not subject to vowel lengthening, jha changes to aya. For example: Aggayo (fires). The same applies in the vocative case."
+
+These rules describe various transformations that occur in Pali nouns when forming their plural forms, particularly for stems ending in certain consonants.
 
 80. **Aṃ mo niggahītaṃ jhalapehi.**
 
