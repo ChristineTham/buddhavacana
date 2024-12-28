@@ -6,7 +6,7 @@ title: "0 Paṇāma (Salutation)"
 linkTitle: "Paṇāma"
 weight: 1
 description: >
-  𑀦𑀫𑁄 𑀢𑀲𑁆𑀲 𑀪𑀕𑀯𑀢𑁄 𑀅𑀭𑀳𑀢𑁄 𑀲𑀫𑁆𑀫𑀸𑀲𑀫𑁆𑀩𑀼𑀤𑁆𑀥𑀲𑁆𑀲 (Homage to the Blessed One, the Worthy One, the Fully Enlightened One). The Translation from Pali to English is done by Meta AI, not myself.
+  𑀦𑀫𑁄 𑀢𑀲𑁆𑀲 𑀪𑀕𑀯𑀢𑁄 𑀅𑀭𑀳𑀢𑁄 𑀲𑀫𑁆𑀫𑀸𑀲𑀫𑁆𑀩𑀼𑀤𑁆𑀥𑀲𑁆𑀲 (Homage to the Blessed One, the Worthy One, the Fully Enlightened One). I offer three tranlations from Pali to English, one done by myself, another by ChatGPT-4o and a third by Claude Sonnet 3.5.
 ---
 ## Pali
 
