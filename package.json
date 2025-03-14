@@ -1,6 +1,6 @@
 {
   "name": "buddhavacana",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "My study notes for the Word of the Buddha.",
   "repository": {
     "type": "git",
@@ -12,14 +12,14 @@
   "bugs": {
     "url": "https://github.com/ChristineTham/buddhavacana/issues"
   },
-  "spelling": "cSpell:ignore HTMLTEST precheck postbuild -",
+  "spelling": "cSpell:ignore docsy hugo htmltest precheck postbuild rtlcss -",
   "scripts": {
     "_build": "npm run _hugo-dev --",
     "_check:links": "echo IMPLEMENTATION PENDING for check-links; echo",
     "_hugo": "hugo --cleanDestinationDir",
     "_hugo-dev": "npm run _hugo -- -e dev -DFE",
     "_local": "npx cross-env HUGO_MODULE_WORKSPACE=docsy.work",
-    "_serve": "npm run _hugo-dev -- --minify serve",
+    "_serve": "npm run _hugo-dev -- --minify serve --renderToMemory",
     "build:preview": "npm run _hugo-dev -- --minify --baseURL \"${DEPLOY_PRIME_URL:-/}\"",
     "build:production": "npm run _hugo -- --minify",
     "build": "npm run _build -- ",
@@ -34,14 +34,24 @@
     "postbuild:production": "npm run _check:links",
     "serve": "npm run _serve",
     "test": "npm run check:links",
-    "update:pkg:dep": "npm install --save-dev autoprefixer@latest postcss-cli@latest",
-    "update:pkg:hugo": "npm install --save-dev --save-exact hugo-extended@latest"
+    "update:dep": "npm install --save-dev autoprefixer@latest postcss-cli@latest",
+    "update:hugo": "npm install --save-dev --save-exact hugo-extended@latest",
+    "update:pkgs": "npx npm-check-updates -u",
+    "graph": "hugo mod graph"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
     "cross-env": "^7.0.3",
-    "hugo-extended": "0.140.1",
-    "postcss-cli": "^11.0.0"
+    "hugo-extended": "^0.140.2",
+    "postcss": "^8.5.3",
+    "postcss-cli": "^11.0.0",
+    "rtlcss": "^4.3.0"
   },
-  "packageManager": "pnpm@8.15.7+sha256.50783dd0fa303852de2dd1557cd4b9f07cb5b018154a6e76d0f40635d6cee019"
+  "optionalDependencies": {
+    "npm-check-updates": "^17.1.4"
+  },
+  "prettier": {
+    "proseWrap": "always",
+    "singleQuote": true
+  }
 }
