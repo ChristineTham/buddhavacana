@@ -1,57 +1,39 @@
 {
   "name": "buddhavacana",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "My study notes for the Word of the Buddha.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ChristineTham/buddhavacana.git"
   },
-  "homepage": "https://christham.net.buddhavacana",
+  "homepage": "https://christham.net/buddhavacana",
   "author": "Christine Tham",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ChristineTham/buddhavacana/issues"
   },
-  "spelling": "cSpell:ignore docsy hugo htmltest precheck postbuild rtlcss -",
   "scripts": {
-    "_build": "npm run _hugo-dev --",
-    "_check:links": "echo IMPLEMENTATION PENDING for check-links; echo",
-    "_hugo": "hugo --cleanDestinationDir",
-    "_hugo-dev": "npm run _hugo -- -e dev -DFE",
-    "_local": "npx cross-env HUGO_MODULE_WORKSPACE=docsy.work",
-    "_serve": "npm run _hugo-dev -- --minify serve --renderToMemory",
-    "build:preview": "npm run _hugo-dev -- --minify --baseURL \"${DEPLOY_PRIME_URL:-/}\"",
-    "build:production": "npm run _hugo -- --minify",
-    "build": "npm run _build -- ",
-    "check:links:all": "HTMLTEST_ARGS= npm run _check:links",
-    "check:links": "npm run _check:links",
-    "clean": "rm -Rf public/* resources",
-    "local": "npm run _local -- npm run",
-    "make:public": "git init -b main public",
-    "precheck:links:all": "npm run build",
-    "precheck:links": "npm run build",
-    "postbuild:preview": "npm run _check:links",
-    "postbuild:production": "npm run _check:links",
-    "serve": "npm run _serve",
-    "test": "npm run check:links",
-    "update:dep": "npm install --save-dev autoprefixer@latest postcss-cli@latest",
-    "update:hugo": "npm install --save-dev --save-exact hugo-extended@latest",
-    "update:pkgs": "npx npm-check-updates -u",
-    "graph": "hugo mod graph"
+    "clean": "rm -rf dist .astro node_modules .netlify",
+    "refresh": "pnpm dlx @astrojs/upgrade; pnpm up -L",
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
   },
-  "devDependencies": {
-    "autoprefixer": "^10.4.20",
-    "cross-env": "^7.0.3",
-    "hugo-extended": "^0.140.2",
-    "postcss": "^8.5.3",
-    "postcss-cli": "^11.0.0",
-    "rtlcss": "^4.3.0"
+  "dependencies": {
+    "@astrojs/check": "^0.9.5",
+    "@astrojs/markdoc": "^0.15.8",
+    "@astrojs/starlight": "^0.36.1",
+    "@astrojs/starlight-markdoc": "^0.5.0",
+    "@fontsource/noto-sans": "^5.2.10",
+    "@fontsource/noto-sans-mono": "^5.2.10",
+    "astro": "^5.15.1",
+    "astro-mermaid": "^1.1.0",
+    "astro-plantuml": "^0.1.4",
+    "mermaid": "^11.12.1",
+    "sharp": "^0.34.4",
+    "typescript": "^5.9.3"
   },
-  "optionalDependencies": {
-    "npm-check-updates": "^17.1.4"
-  },
-  "prettier": {
-    "proseWrap": "always",
-    "singleQuote": true
-  }
+  "packageManager": "pnpm@10.19.0+sha512.c9fc7236e92adf5c8af42fd5bf1612df99c2ceb62f27047032f4720b33f8eacdde311865e91c411f2774f618d82f320808ecb51718bfa82c060c4ba7c76a32b8"
 }
