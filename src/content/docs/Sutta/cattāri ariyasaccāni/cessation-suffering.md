@@ -4,7 +4,7 @@ tags: ["4ariyasaccāni", "dukkhanirodhaṁ"]
 title: "dukkhanirodhaṁ ariyasaccaṁ"
 sidebar:
   label: "dukkhanirodhaṁ"
-  order: 13
+  order: 103
 description: >
   realisation of the cessation of suffering
 ---

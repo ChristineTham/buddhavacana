@@ -4,7 +4,7 @@ tags: ["4ariyasaccāni", "dukkhasamudayaṁ"]
 title: "dukkhasamudayaṁ ariyasaccaṁ"
 sidebar:
   label: "dukkhasamudayaṁ"
-  order: 12
+  order: 102
 description: >
   realisation of the origin of suffering
 ---

@@ -5,7 +5,7 @@
     --sl-color-accent-low: #85677b;
     --sl-color-accent: #b565a7;
     --sl-color-accent-high: #be9cc1;
-    --sl-color-white: #ffffff;
+    --sl-color-white: #f4eee8;
     --sl-color-gray-1: #f4dede;
     --sl-color-gray-2: #f8d7dd;
     --sl-color-gray-3: #f7caca;
@@ -28,5 +28,5 @@
     --sl-color-gray-5: #f8d7dd;
     --sl-color-gray-6: #f4eee8;
     --sl-color-gray-7: #f4dede;
-    --sl-color-black: #ffffff;
+    --sl-color-black: #f4eee8;
 }

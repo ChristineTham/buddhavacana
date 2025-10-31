@@ -4,7 +4,7 @@ tags: ["4ariyasaccāni", "dukkhaṁ"]
 title: "dukkhaṁ ariyasaccaṁ"
 sidebar:
   label: "dukkhaṁ"
-  order: 11
+  order: 101
 description: >
   realisation of suffering
 ---

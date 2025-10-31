@@ -1,10 +1,10 @@
 ---
+draft: true
 title: "My Approach to studying Buddhavacana"
 description: >
   My summary of what I have learnt to date
 sidebar:
   label: "Approach"
-  order: 3
 ---
 
 ## Introduction
@@ -19,7 +19,7 @@ Translations from Pali quoted in this article are either from the original autho
 
 From [**Mahāparinibbānasutta** DN 16 PTS 2.72–2.168](https://suttacentral.net/dn16):
 
->2.26.1 `Tasmātihānanda, attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā.`  
+>2.26.1 `Tasmātihānanda, attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā.`
 >So Ānanda, live as your own island, your own refuge, with no other refuge. Let the teaching be your island and your refuge, with no other refuge.
 
 ## Sources
@@ -307,20 +307,20 @@ Therefore, every sentence in the Tipiṭaka needs to be carefully considered and
 
 This applies even to (supposedly) his earliest discourses. According to [**Mahākhandhaka** Kd 1 PTS 1.1–1.100](https://suttacentral.net/pli-tv-kd1), the five monks that Buddha taught the first and second discourses to all attained enlightenment (presumably immediately afterwards):
 
->6.29.4 `Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsu.`  
+>6.29.4 `Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsu.`
 >And while this exposition was being spoken to the monks from the group of five, their minds were freed from the corruptions through letting go.
 
 And yet, in [**Pāsarāsisutta** MN 26 PTS 1.161–1.175](https://suttacentral.net/mn26):
 
->29.1 `Asakkhiṁ kho ahaṁ, bhikkhave, pañcavaggiye bhikkhū saññāpetuṁ.`  
->I was able to persuade the group of five bhikkhus.  
->29.2 `Dvepi sudaṁ, bhikkhave, bhikkhū ovadāmi, tayo bhikkhū piṇḍāya caranti.`  
->Then sometimes I advised two bhikkhus, while the other three went for alms.  
->29.3 `Yaṁ tayo bhikkhū piṇḍāya caritvā āharanti tena chabbaggiyā yāpema.`  
->Then those three would feed all six of us with what they brought back.  
->29.4 `Tayopi sudaṁ, bhikkhave, bhikkhū ovadāmi, dve bhikkhū piṇḍāya caranti.`  
->Sometimes I advised three bhikkhus, while the other two went for alms.  
->29.5 `Yaṁ dve bhikkhū piṇḍāya caritvā āharanti tena chabbaggiyā yāpema.`  
+>29.1 `Asakkhiṁ kho ahaṁ, bhikkhave, pañcavaggiye bhikkhū saññāpetuṁ.`
+>I was able to persuade the group of five bhikkhus.
+>29.2 `Dvepi sudaṁ, bhikkhave, bhikkhū ovadāmi, tayo bhikkhū piṇḍāya caranti.`
+>Then sometimes I advised two bhikkhus, while the other three went for alms.
+>29.3 `Yaṁ tayo bhikkhū piṇḍāya caritvā āharanti tena chabbaggiyā yāpema.`
+>Then those three would feed all six of us with what they brought back.
+>29.4 `Tayopi sudaṁ, bhikkhave, bhikkhū ovadāmi, dve bhikkhū piṇḍāya caranti.`
+>Sometimes I advised three bhikkhus, while the other two went for alms.
+>29.5 `Yaṁ dve bhikkhū piṇḍāya caritvā āharanti tena chabbaggiyā yāpema.`
 >Then those two would feed all six of us with what they brought back.
 
 So it would seem the 5 monks were not enlightened immediately, but it was a process that took some time. Johannes Bronkhorst argues in [**The Two Traditions Of Meditation In Ancient India**](https://archive.org/details/TheTwoTraditionsOfMeditationInAncientIndia) p. 84 that the Buddha's early teachings were probably "personal advice, adjusted to the needs of each person." Both Bronkhorst and Gombrich argues that the Four Pure Truths (`cattāri ariyasaccāni`) are unlikely to constitute "liberating insight" as they do not really describe the specific process of attaining liberation or articulate the necessary prerequisites, such as the elimination of effluents or intoxicants. Therefore, it seems likely the exact formulation of the truths are a later synthesis. Similar arguments can be made for the contents of the Second and Third Discourses, and even the formulation of the links to Dependent Origination may have been adjusted and amended over time, given the variance in the number of items in the chain in various suttas.
@@ -333,7 +333,7 @@ According to Jayarava in [**Why Did Buddhists Abandon Buddhavacana?**](https://j
 
 Why would anyone do this, ie. deliberately replace or augment the Buddha's teachings with related and similar teachings? One answer may lie in the [**Uttaravipattisutta** AN 8.8 PTS 4.162–4.166](https://suttacentral.net/an8.8), where Utarra delivered a seemingly "original" discourse to some monks (presumably sometime after the Buddha had passed away). King Vessavaṇa overheard the discourse, and went to the gods of the Thirty-Three to ask Sakka, lord of the gods, whether this was an "authentic" teaching, one that the Buddha might have taught. Sakka was so concerned by this he appeared in front of Uttara and asked:
 
->5.7 `“Kiṁ panidaṁ, bhante, āyasmato uttarassa sakaṁ paṭibhānaṁ, udāhu tassa bhagavato vacanaṁ arahato sammāsambuddhassā”ti?`  
+>5.7 `“Kiṁ panidaṁ, bhante, āyasmato uttarassa sakaṁ paṭibhānaṁ, udāhu tassa bhagavato vacanaṁ arahato sammāsambuddhassā”ti?`
 >“Sir, did this teaching come to you from your own inspiration, or was it spoken by the Blessed One, the perfected one, the fully awakened Buddha?”
 
 Uttara's reply is interesting. According to Anālayo in [**The Dawn of Abhidharma**](https://www.buddhismuskunde.uni-hamburg.de/pdf/4-publikationen/hamburg-buddhist-studies/hamburgup-hbs2-analayo-abhidharma.pdf) p. 149:
@@ -362,25 +362,25 @@ According to Mark on p. 10:
 
 Many discourses start with:
 
->`evaṃ me sutaṃ ekaṃ samayaṃ bhagavā ... viharati.`  
+>`evaṃ me sutaṃ ekaṃ samayaṃ bhagavā ... viharati.`
 >Thus heard by me, at one time the Blessed One dwells in ....
 
 and often end with:
 
->`idam avoca bhagavā. attamanā te bhikkhū bhagavato bhāsitaṃ abhinandun ti.`  
+>`idam avoca bhagavā. attamanā te bhikkhū bhagavato bhāsitaṃ abhinandun ti.`
 >The Blessed One said this. Pleased, those bhikkhus (monks) rejoiced in the words of the Blessed One.
 
 The text of most suttas seem to be "highly structured, carefully crafted" and therefore unlikely to be the actual words that the Buddha would have used, but a homogenisation or distillation of them into a standardised format (presumably useful for memorization).
 
 Even the grammar, choice and ordering of words are standardised. As Mark describes in p. 14:
 
->For example, a characteristic feature of canonical prose are strings of grammatically parallel units, such as nouns, adjectives, verbs, and adverbs, that express the same or similar general idea, with each subsequent unit nuancing or expanding the meaning of the preceding ones, presenting further qualities of the thing described, or presenting a similar category of item.  
->...  
->Further, the component units of these structures or strings are normally arranged according to a waxing number of syllables, that is, the first unit has fewer syllables than the last (or at least their count does not decrease)  
+>For example, a characteristic feature of canonical prose are strings of grammatically parallel units, such as nouns, adjectives, verbs, and adverbs, that express the same or similar general idea, with each subsequent unit nuancing or expanding the meaning of the preceding ones, presenting further qualities of the thing described, or presenting a similar category of item.
+>...
+>Further, the component units of these structures or strings are normally arranged according to a waxing number of syllables, that is, the first unit has fewer syllables than the last (or at least their count does not decrease)
 
 An example is this phrase (in **bold**) from [**Ānandabhaddekarattasutta** MN 132 PTS 3.190–3.191](https://suttacentral.net/mn132):
 
->2.1 `Tena kho pana samayena āyasmā ānando upaṭṭhānasālāyaṁ bhikkhūnaṁ dhammiyā kathāya `**`sandasseti samādapeti samuttejeti sampahaṁseti`**`, bhaddekarattassa uddesañca vibhaṅgañca bhāsati.`  
+>2.1 `Tena kho pana samayena āyasmā ānando upaṭṭhānasālāyaṁ bhikkhūnaṁ dhammiyā kathāya `**`sandasseti samādapeti samuttejeti sampahaṁseti`**`, bhaddekarattassa uddesañca vibhaṅgañca bhāsati.`
 >Now at that time Venerable Ānanda was **educating, encouraging, firing up, and inspiring** the mendicants in the assembly hall with a Dhamma talk on the topic of the recitation passage and analysis of One Fine Night.
 
 Note the use of the four semi-synonymous verbs all starting with `sa` with a syllable pattern of 4+5+5+5. Its unlikely this sort of pattern, with shared sound and metrical similarities, would have occured in "normal" speech.
@@ -439,9 +439,9 @@ Much more seriously, it seems some pericopes may not even represent the original
 
 The last two of the above were dismissed by the Buddha as being non-conducive nor leading to enlightenment, and he identified them as specifically the teachings of Āḷāra Kālāma and Rāma in [**Pāsarāsisutta** MN 26 PTS 1.161–1.175](https://suttacentral.net/mn26).
 
->15.35 `‘nāyaṁ dhammo nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati, yāvadeva ākiñcaññāyatanūpapattiyā’ti.`  
->‘This teaching doesn’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. It only leads as far as rebirth in the dimension of nothingness.’  
->16.35 ... `yāvadeva nevasaññānāsaññāyatanūpapattiyā’ti`  
+>15.35 `‘nāyaṁ dhammo nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati, yāvadeva ākiñcaññāyatanūpapattiyā’ti.`
+>‘This teaching doesn’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. It only leads as far as rebirth in the dimension of nothingness.’
+>16.35 ... `yāvadeva nevasaññānāsaññāyatanūpapattiyā’ti`
 >It only leads as far as rebirth in the dimension of neither perception nor non-perception.’
 
 Yet, inexplicably, these methods were subsequently inserted into various suttas (for example [**Cūḷasuññatasutta** MN 121 PTS 3.104–3.109](https://suttacentral.net/mn121)), presumably by later disciples.
@@ -480,9 +480,9 @@ In some places, the Buddha even adopts a satirical tone by making fun at accepte
 
 Buddhists should know the Buddha has already proclaimed the universe as having no absolute beginning, it's just the cycle of existence. As per [**Tiṇakaṭṭhasutta** SN 15.1 PTS 2.178](https://suttacentral.net/sn15.1):
 
->1.7 `Anamataggoyaṁ, bhikkhave, saṁsāro.`  
->Transmigration has no known beginning.  
->1.8 `Pubbā koṭi na paññāyati avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ sandhāvataṁ saṁsarataṁ.`  
+>1.7 `Anamataggoyaṁ, bhikkhave, saṁsāro.`
+>Transmigration has no known beginning.
+>1.8 `Pubbā koṭi na paññāyati avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ sandhāvataṁ saṁsarataṁ.`
 >No first point is found of sentient beings roaming and transmigrating, shrouded by ignorance and fettered by craving.
 
 Despite that, according to Gombrich on p. 82:
@@ -503,8 +503,8 @@ Furthermore, the Buddha often employs a method known as `upāya-kauśalya`[S] ("
 
 Bhikkhu Anālayo states in [**The Genesis of the Bodhisattva Ideal**](https://www.buddhismuskunde.uni-hamburg.de/pdf/4-publikationen/hamburg-buddhist-studies/hamburgup-hbs01-analayo.pdf), Hamburg University Press 2010 p. 51 that
 
-> Gautama’s decease must have created a vacuum that needed to be filled. Bereft of the possibility of having a personal encounter with the living Buddha, for disciples in need of some form of emotional contact with the object of their first refuge, recollecting his marvellous qualities would have been of considerable importance.  
-> ...  
+> Gautama’s decease must have created a vacuum that needed to be filled. Bereft of the possibility of having a personal encounter with the living Buddha, for disciples in need of some form of emotional contact with the object of their first refuge, recollecting his marvellous qualities would have been of considerable importance.
+> ...
 >The vacuum created by the teacher’s demise would have had its effect not only on the internal level – within the community of disciples – but also on the external level, namely in relation to other contemporary religious groups and practitioners.
 
 Hence there is a need to "authenticate" the Buddha as an eminent spiritual teacher by referencing his noble and spiritual lineage, his mastery of supernatural powers, his omniscience, and ultimately the ability for a devotee to "take refuge" and "receive blessings" from one long departed.
@@ -547,44 +547,44 @@ This tendency to exalt the Buddha as a consequence of the vacuum created by his 
 
 In [**Pāsarāsisutta** MN 26 PTS 1.161–1.175](https://suttacentral.net/mn26) we find lo and behold the Buddha indeed claimed to know "all":
 
->25.6 `‘Sabbābhibhū sabbavidūhamasmi,`  
->‘I am the champion, the knower of all,  
->25.7 `Sabbesu dhammesu anūpalitto;`  
+>25.6 `‘Sabbābhibhū sabbavidūhamasmi,`
+>‘I am the champion, the knower of all,
+>25.7 `Sabbesu dhammesu anūpalitto;`
 >unsullied in the midst of all things.
 
 Furthermore, this was subsequently expanded to anyone who wishes to reach enlightenment, and in fact it is not possible to attain awakening without understanding and fully knowing “all” in [**Sabbapariññāsutta** Iti 7 PTS 4 PTS 4 Verse 7](https://suttacentral.net/iti7):
 
->2.1 `“Sabbaṁ, bhikkhave, anabhijānaṁ aparijānaṁ tattha cittaṁ avirājayaṁ appajahaṁ abhabbo dukkhakkhayāya."`  
+>2.1 `“Sabbaṁ, bhikkhave, anabhijānaṁ aparijānaṁ tattha cittaṁ avirājayaṁ appajahaṁ abhabbo dukkhakkhayāya."`
 >“Mendicants, without directly knowing and completely understanding the all, without dispassion for it and giving it up, you can’t end suffering.
 
 However, these two passages presumably had an original meaning not of omniscience but that an enlightened person truly "saw things as they are". In [**Kāḷakārāmasutta** AN 4.24 PTS 2.25–2.26](https://suttacentral.net/an4.24) this was clarified to:
 
->2.1 `Yaṁ, bhikkhave, sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya diṭṭhaṁ sutaṁ mutaṁ viññātaṁ pattaṁ pariyesitaṁ anuvicaritaṁ manasā, tamahaṁ jānāmi.`  
+>2.1 `Yaṁ, bhikkhave, sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya diṭṭhaṁ sutaṁ mutaṁ viññātaṁ pattaṁ pariyesitaṁ anuvicaritaṁ manasā, tamahaṁ jānāmi.`
 >“In this world—with its gods, Māras and Brahmās, this population with its ascetics and brahmins, its gods and humans—whatever is seen, heard, thought, known, attained, sought, and explored by the mind: that I know.
 
 In fact the Buddha explicitly denied having ever made a claim to omniscience in [**Tevijjavacchasutta** MN 71 PTS 1.482–1.483](https://suttacentral.net/mn71), but this sutta seems to have been omitted in other canons, possibly a sign of censorship.
 
->5.1 `“sutaṁ metaṁ, bhante:`  
->“Sir, I have heard this:  
->5.2 `‘samaṇo gotamo sabbaññū sabbadassāvī, aparisesaṁ ñāṇadassanaṁ paṭijānāti,`  
->‘The ascetic Gotama claims to be all-knowing and all-seeing, to know and see everything without exception, thus:  
->5.3 `carato ca me tiṭṭhato ca suttassa ca jāgarassa ca satataṁ samitaṁ ñāṇadassanaṁ paccupaṭṭhitan’ti.`  
->“Knowledge and vision are constantly and continually present to me, while walking, standing, sleeping, and waking.”’  
->5.4 `Ye te, bhante, evamāhaṁsu: ‘samaṇo gotamo sabbaññū sabbadassāvī, aparisesaṁ ñāṇadassanaṁ paṭijānāti, carato ca me tiṭṭhato ca suttassa ca jāgarassa ca satataṁ samitaṁ ñāṇadassanaṁ paccupaṭṭhitan’ti, kacci te, bhante, bhagavato vuttavādino, na ca bhagavantaṁ abhūtena abbhācikkhanti, dhammassa cānudhammaṁ byākaronti, na ca koci sahadhammiko vādānuvādo gārayhaṁ ṭhānaṁ āgacchatī”ti?`  
->I trust that those who say this repeat what the Buddha has said, and do not misrepresent him with an untruth? Is their explanation in line with the teaching? Are there any legitimate grounds for rebuke and criticism?”  
->5.5 `“Ye te, vaccha, evamāhaṁsu: ‘samaṇo gotamo sabbaññū sabbadassāvī, aparisesaṁ ñāṇadassanaṁ paṭijānāti, carato ca me tiṭṭhato ca suttassa ca jāgarassa ca satataṁ samitaṁ ñāṇadassanaṁ paccupaṭṭhitan’ti, na me te vuttavādino, abbhācikkhanti ca pana maṁ asatā abhūtenā”ti.`  
+>5.1 `“sutaṁ metaṁ, bhante:`
+>“Sir, I have heard this:
+>5.2 `‘samaṇo gotamo sabbaññū sabbadassāvī, aparisesaṁ ñāṇadassanaṁ paṭijānāti,`
+>‘The ascetic Gotama claims to be all-knowing and all-seeing, to know and see everything without exception, thus:
+>5.3 `carato ca me tiṭṭhato ca suttassa ca jāgarassa ca satataṁ samitaṁ ñāṇadassanaṁ paccupaṭṭhitan’ti.`
+>“Knowledge and vision are constantly and continually present to me, while walking, standing, sleeping, and waking.”’
+>5.4 `Ye te, bhante, evamāhaṁsu: ‘samaṇo gotamo sabbaññū sabbadassāvī, aparisesaṁ ñāṇadassanaṁ paṭijānāti, carato ca me tiṭṭhato ca suttassa ca jāgarassa ca satataṁ samitaṁ ñāṇadassanaṁ paccupaṭṭhitan’ti, kacci te, bhante, bhagavato vuttavādino, na ca bhagavantaṁ abhūtena abbhācikkhanti, dhammassa cānudhammaṁ byākaronti, na ca koci sahadhammiko vādānuvādo gārayhaṁ ṭhānaṁ āgacchatī”ti?`
+>I trust that those who say this repeat what the Buddha has said, and do not misrepresent him with an untruth? Is their explanation in line with the teaching? Are there any legitimate grounds for rebuke and criticism?”
+>5.5 `“Ye te, vaccha, evamāhaṁsu: ‘samaṇo gotamo sabbaññū sabbadassāvī, aparisesaṁ ñāṇadassanaṁ paṭijānāti, carato ca me tiṭṭhato ca suttassa ca jāgarassa ca satataṁ samitaṁ ñāṇadassanaṁ paccupaṭṭhitan’ti, na me te vuttavādino, abbhācikkhanti ca pana maṁ asatā abhūtenā”ti.`
 >“Vaccha, those who say this do not repeat what I have said. They misrepresent me with what is false and untrue.”
 
 [**Kaṇṇakatthalasutta** MN 90 PTS 2.126–2.133](https://suttacentral.net/mn90) then seems to soften this:
 
->`‘natthi so samaṇo vā brāhmaṇo vā yo sakideva sabbaṁ ñassati, sabbaṁ dakkhiti, netaṁ ṭhānaṁ vijjatī’”ti.`  
+>`‘natthi so samaṇo vā brāhmaṇo vā yo sakideva sabbaṁ ñassati, sabbaṁ dakkhiti, netaṁ ṭhānaṁ vijjatī’”ti.`
 >‘There is no ascetic or brahmin who will know all and see all simultaneously: that is not possible.’”
 
 So apparently it may be possible to know and see all, just not at once. This paves the way to declare the Buddha as "serially omniscient" in [Sabbaññubhāvapañha Mil 5.1.2 PTS 103–107](https://suttacentral.net/mil5.1.2):
 
->`“Bhante nāgasena, buddho sabbaññū”ti?`  
->‘Venerable Nāgasena, was the Buddha omniscient?’  
->`“Āma, mahārāja, bhagavā sabbaññū, na ca bhagavato satataṁ samitaṁ ñāṇadassanaṁ paccupaṭṭhitaṁ, āvajjanapaṭibaddhaṁ bhagavato sabbaññutañāṇaṁ, āvajjitvā yadicchakaṁ jānātī”ti.`  
+>`“Bhante nāgasena, buddho sabbaññū”ti?`
+>‘Venerable Nāgasena, was the Buddha omniscient?’
+>`“Āma, mahārāja, bhagavā sabbaññū, na ca bhagavato satataṁ samitaṁ ñāṇadassanaṁ paccupaṭṭhitaṁ, āvajjanapaṭibaddhaṁ bhagavato sabbaññutañāṇaṁ, āvajjitvā yadicchakaṁ jānātī”ti.`
 >‘Yes, O king, he was. But the insight of knowledge was not always and continually (consciously) present with him. The omniscience of the Blessed One was dependent on reflection.’ But if he did reflect he knew whatever he wanted to know.
 
 But wait, according to Anālayo in [**The Dawn of Abhidharma**](https://www.buddhismuskunde.uni-hamburg.de/pdf/4-publikationen/hamburg-buddhist-studies/hamburgup-hbs2-analayo-abhidharma.pdf) p. 120, [一切智 MA 212](https://suttacentral.net/ma212) at T i 793c6 states: "Counterparts to this statement in the Madhyama-āgama and in the Bhaiṣajyavastu of the Mūlasarvāstivāda Vinaya have the slightly different formulation that there is no *other* recluse or Brahmin who has omniscient knowledge at once." So, others are not omniscient, but the Buddha can be.
@@ -648,9 +648,9 @@ Some parts of the teachings were not allowed to be disclosed to the laity, for v
 
 The Buddha's greatest lay benefactor was Anāthapiṇḍika, the wealthy banker. Indeed, many of the Buddha's discourses were given at Anāthapiṇḍika's park (donated to the saṅgha) located at Jeta's Grove (a famous monastery) in Sāvatthī. There are special sermons composed especially for his benefit. When Anāthapiṇḍika was dying, he summoned the Buddha for the last time, and Sāriputta was sent to visit him. Out of compassion, and wishing Anāthapiṇḍika to be reborn in a higher place, Sāriputta revealed a teaching not normally taught to lay people, and Anāthapiṇḍika exclaimed in surprise in [**Anāthapiṇḍikovādasutta** MN 143 PTS 3.258–3.263](https://suttacentral.net/mn143):
 
->15.5  ... `api ca me dīgharattaṁ satthā payirupāsito manobhāvanīyā ca bhikkhū;`  
->But for a long time I have paid homage to the Buddha and the esteemed bhikkhus.  
->15.6 `na ca me evarūpī dhammī kathā sutapubbā”ti.`  
+>15.5  ... `api ca me dīgharattaṁ satthā payirupāsito manobhāvanīyā ca bhikkhū;`
+>But for a long time I have paid homage to the Buddha and the esteemed bhikkhus.
+>15.6 `na ca me evarūpī dhammī kathā sutapubbā”ti.`
 >Yet I have never before heard such a Dhamma talk.”
 
 Buddhism spread rapidly across India during Asoka's reign, to Sri Lanka, Burma and eventually to South East Asia. It is remarkable that the structure and lineage of the saṅgha was mostly preserved throughout this process. However, Buddhism also forked into various "sects" and the saṅgha was no longer a unified community. Today, the differences between the sects are such that a reconciliation seems unlikely. Whole books have been written on the reasons and the history of divisions in the way Buddhism is interpreted or practiced that I will not summarise here. Recently, "modern", "humanistic" and "protestant" versions of Buddhism have surfaced, each with their own adherents.
@@ -671,11 +671,11 @@ Today the saṅgha survives but is mainly regarded as monastic communities of (p
 
 It is unfortunate that Buddhism died out in India and today is a minority religion in that country, and usually portrayed as a variant of Hinduism.  Johannes Bronkhorst in [**Buddhism in the Shadow of Brahmanism**](https://ia802903.us.archive.org/8/items/profsaraobooks/KTS.Bronkhorst.Buddhism%20in%20the%20Shadow%20of%20Brahmanism.pdf) Chapter 3 suggests that Buddhism lost political support compared to brahmanism and over time adopted or adapted to brahmanism practices. I venture to suppose that a desire to portray Buddhism in a favourable light compared to brahmanism potentially was one of the main reasons why the texts were altered and expanded as we saw earlier in the article. The main soteriological basis of Buddha's teachings became obscured by passages extolling and exalting the Buddha, emphasising his supernatural skills and powers, and brahmanism practices were incorporated in the texts to demonstrate the Buddhism was at least comparable in stature. The volume of material expanded considerably to demonstrate the depth of Buddha's teachings, even though the core messages were actually relatively concise. Increasinglly, verse was used to convey abstract concepts, again possibly to convey depth and mysticism, even though the Buddha himself advised against using verse. In [**Khuddakavatthukkhandhaka** Kd 15 PTS 2.105–2.145](https://suttacentral.net/pli-tv-kd15/pli/ms#33.1.13) 33.1.13 the Buddha states:
 
->33.1.13 `“na, bhikkhave, buddhavacanaṁ chandaso āropetabbaṁ.`  
->“You shouldn’t give metrical form to the word of the Buddha.  
->33.1.14 `Yo āropeyya, āpatti dukkaṭassa.`  
->If you do, you commit an offense of wrong conduct.  
->33.1.15 `Anujānāmi, bhikkhave, sakāya niruttiyā buddhavacanaṁ pariyāpuṇitun”ti.`  
+>33.1.13 `“na, bhikkhave, buddhavacanaṁ chandaso āropetabbaṁ.`
+>“You shouldn’t give metrical form to the word of the Buddha.
+>33.1.14 `Yo āropeyya, āpatti dukkaṭassa.`
+>If you do, you commit an offense of wrong conduct.
+>33.1.15 `Anujānāmi, bhikkhave, sakāya niruttiyā buddhavacanaṁ pariyāpuṇitun”ti.`
 >You should learn the word of the Buddha using its own expressions.”
 
 [**Dhammapada**](https://suttacentral.net/pitaka/sutta/minor/dharmapadas) became a popular text, as people are drawn by the inherent beauty of the verse and the metaphors, even though the actual content can be rather opaque (and, I mentioned earlier, can reflect non-Buddhist origins). And thus we come full circle: the very practices and beliefs that the Buddha would have refuted have gradually seeped into and have become part of buddhavacana.
@@ -702,14 +702,14 @@ Buddhism is primarily practised by the various sects and groups of monastics (wh
 
 There were issues with quarrels and bad behaviour even during Buddha's lifetime. Take, for example [**Ovādasutta** SN 16.6 PTS 2.204–2.205](https://suttacentral.net/sn16.6), where Kassapa complains to the Buddha that lately monks have become hard to admonish, impatient, and don't take instruction respectfully, requiring an intervention by the Buddha:
 
->2.1 `“Dubbacā kho, bhante, etarahi bhikkhū, dovacassakaraṇehi dhammehi samannāgatā, akkhamā, appadakkhiṇaggāhino anusāsaniṁ.`  
->"Sir, the mendicants these days are hard to admonish, having qualities that make them hard to admonish. They’re impatient, and don’t take instruction respectfully."  
->2.2 `Idhāhaṁ, bhante, addasaṁ bhaṇḍañca nāma bhikkhuṁ ānandassa saddhivihāriṁ abhijikañca nāma bhikkhuṁ anuruddhassa saddhivihāriṁ aññamaññaṁ sutena accāvadante:  ‘ehi, bhikkhu, ko bahutaraṁ bhāsissati, ko sundarataraṁ bhāsissati, ko cirataraṁ bhāsissatī’”ti.`  
+>2.1 `“Dubbacā kho, bhante, etarahi bhikkhū, dovacassakaraṇehi dhammehi samannāgatā, akkhamā, appadakkhiṇaggāhino anusāsaniṁ.`
+>"Sir, the mendicants these days are hard to admonish, having qualities that make them hard to admonish. They’re impatient, and don’t take instruction respectfully."
+>2.2 `Idhāhaṁ, bhante, addasaṁ bhaṇḍañca nāma bhikkhuṁ ānandassa saddhivihāriṁ abhijikañca nāma bhikkhuṁ anuruddhassa saddhivihāriṁ aññamaññaṁ sutena accāvadante:  ‘ehi, bhikkhu, ko bahutaraṁ bhāsissati, ko sundarataraṁ bhāsissati, ko cirataraṁ bhāsissatī’”ti.`
 >"Come on, monk, who can recite more? Who can recite better? Who can recite longer?"
 
 Even the Buddha noticed that his teachings became less effective over time, due to internal corruption within the Saṅgha. Kassapa asked the Buddha why there are now fewer enlightened beings, but more disciplinary rules. The Buddha replied that the overall quality of members of the community have declined and some don't respect the teachings or the teacher ([**Saddhammappatirūpakasutta** SN 16.13 PTS 2.224–2.225](https://suttacentral.net/sn16.13)):
 
->4.3 `Idha, kassapa, bhikkhū bhikkhuniyo upāsakā upāsikāyo satthari agāravā viharanti appatissā, dhamme agāravā viharanti appatissā, saṅghe agāravā viharanti appatissā, sikkhāya agāravā viharanti appatissā, samādhismiṁ agāravā viharanti appatissā`  
+>4.3 `Idha, kassapa, bhikkhū bhikkhuniyo upāsakā upāsikāyo satthari agāravā viharanti appatissā, dhamme agāravā viharanti appatissā, saṅghe agāravā viharanti appatissā, sikkhāya agāravā viharanti appatissā, samādhismiṁ agāravā viharanti appatissā`
 > It’s when the monks, nuns, laymen, and laywomen lack respect and reverence for the Teacher, the teaching, the Saṅgha, the training, and immersion.
 
 The arch-nemesis during Buddha's lifetime was no doubt Devadatta, who tried to take over the community, caused a formal schism in the Saṅgha, and even tried unsuccessfully to kill the Buddha in [**Saṁghabhedakakkhandhaka** Kd 17 PTS 2.180–2.206](https://suttacentral.net/pli-tv-kd17)
@@ -746,7 +746,7 @@ Polak further clarifies in [**Reexamining Jhana: Towards a Critical Reconstructi
 
 The Buddha himself advocated that his disciples should not to accept any teaching merely on a teacher’s authority, but to work things out for themselves and use common sense in [**Kesamuttisutta** AN 3.65 PTS 1.189–1.193](https://suttacentral.net/an3.65):
 
->4.1 ... `mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu,　mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti.`  
+>4.1 ... `mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu,　mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti.`
 > ... don’t go by oral transmission, don’t go by lineage, don’t go by testament, don’t go by canonical authority, don’t rely on logic, don’t rely on inference, don’t go by reasoned contemplation, don’t go by the acceptance of a view after consideration, don’t go by the appearance of competence, and don’t think ‘The ascetic is our respected teacher.’
 
 ## Assumptions
@@ -775,29 +775,29 @@ In addition, Johannes Bronkhorst proposes a method to arrive at the teaching of 
 
 Even more importantly, the Buddha himself advised an approach to determine whether a teaching is authentic or not, which he repeated four times in *`Catumahāpadesakathā`* (the four great references) from [**Mahāparinibbānasutta** DN 16 PTS 2.72–2.168](https://suttacentral.net/dn16):
 
->4.8.1 `“Idha, bhikkhave, bhikkhu evaṁ vadeyya:`  
->“Take a bhikkhu who says:  
->4.8.2 `‘sammukhā metaṁ, āvuso, bhagavato sutaṁ sammukhā paṭiggahitaṁ,`  
->Friend, I have heard and learned this in the presence of the Buddha:  
->4.8.3 `ayaṁ dhammo ayaṁ vinayo idaṁ satthusāsanan’ti.`  
->this is the teaching, this is the training, this is the Teacher’s instruction.’  
->4.8.4 `Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ.`  
->You should neither approve nor dismiss that bhikkhu's statement.  
->4.8.5 `Anabhinanditvā appaṭikkositvā tāni padabyañjanāni sādhukaṁ uggahetvā sutte osāretabbāni, vinaye sandassetabbāni.`  
->Instead, having carefully memorized those words and phrases, you should make sure they fit in the discourse and are exhibited in the training.  
->4.8.6 `Tāni ce sutte osāriyamānāni vinaye sandassiyamānāni na ceva sutte osaranti, na ca vinaye sandissanti, niṭṭhamettha gantabbaṁ:`  
->If they do not fit in the discourse and are not exhibited in the training, you should draw the conclusion:  
->4.8.7 `‘addhā idaṁ na ceva tassa bhagavato vacanaṁ;`  
->‘Clearly this is not the word of the Buddha.  
->4.8.8 `imassa ca bhikkhuno duggahitan’ti.`  
->It has been incorrectly memorized by that bhikkhu.’  
->4.8.9 `Iti hetaṁ, bhikkhave, chaḍḍeyyātha.`  
->And so you should reject it.  
->4.8.10 `Tāni ce sutte osāriyamānāni vinaye sandassiyamānāni sutte ceva osaranti, vinaye ca sandissanti, niṭṭhamettha gantabbaṁ:`  
+>4.8.1 `“Idha, bhikkhave, bhikkhu evaṁ vadeyya:`
+>“Take a bhikkhu who says:
+>4.8.2 `‘sammukhā metaṁ, āvuso, bhagavato sutaṁ sammukhā paṭiggahitaṁ,`
+>Friend, I have heard and learned this in the presence of the Buddha:
+>4.8.3 `ayaṁ dhammo ayaṁ vinayo idaṁ satthusāsanan’ti.`
+>this is the teaching, this is the training, this is the Teacher’s instruction.’
+>4.8.4 `Tassa, bhikkhave, bhikkhuno bhāsitaṁ neva abhinanditabbaṁ nappaṭikkositabbaṁ.`
+>You should neither approve nor dismiss that bhikkhu's statement.
+>4.8.5 `Anabhinanditvā appaṭikkositvā tāni padabyañjanāni sādhukaṁ uggahetvā sutte osāretabbāni, vinaye sandassetabbāni.`
+>Instead, having carefully memorized those words and phrases, you should make sure they fit in the discourse and are exhibited in the training.
+>4.8.6 `Tāni ce sutte osāriyamānāni vinaye sandassiyamānāni na ceva sutte osaranti, na ca vinaye sandissanti, niṭṭhamettha gantabbaṁ:`
+>If they do not fit in the discourse and are not exhibited in the training, you should draw the conclusion:
+>4.8.7 `‘addhā idaṁ na ceva tassa bhagavato vacanaṁ;`
+>‘Clearly this is not the word of the Buddha.
+>4.8.8 `imassa ca bhikkhuno duggahitan’ti.`
+>It has been incorrectly memorized by that bhikkhu.’
+>4.8.9 `Iti hetaṁ, bhikkhave, chaḍḍeyyātha.`
+>And so you should reject it.
+>4.8.10 `Tāni ce sutte osāriyamānāni vinaye sandassiyamānāni sutte ceva osaranti, vinaye ca sandissanti, niṭṭhamettha gantabbaṁ:`
 >If they do fit in the discourse and are exhibited in the training, you should draw the conclusion:
->4.8.11 `‘addhā idaṁ tassa bhagavato vacanaṁ;`  
->‘Clearly this is the word of the Buddha.  
->4.8.12 `imassa ca bhikkhuno suggahitan’ti.`  
+>4.8.11 `‘addhā idaṁ tassa bhagavato vacanaṁ;`
+>‘Clearly this is the word of the Buddha.
+>4.8.12 `imassa ca bhikkhuno suggahitan’ti.`
 >It has been correctly memorized by that bhikkhu.’
 
 ## Process

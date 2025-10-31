@@ -4,7 +4,7 @@ tags: ["4ariyasaccāni", "dukkhanirodhagāminī paṭipadā", "ariyo aṭṭha�
 title: "dukkhanirodhagāminī paṭipadā ariyasaccaṁ"
 sidebar:
   label: "dukkhanirodhagāminī paṭipadā"
-  order: 14
+  order: 104
 description: >
   realisation of the path leading to the end of suffering
 ---
