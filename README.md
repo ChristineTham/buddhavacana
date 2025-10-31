@@ -1,6 +1,7 @@
 # buddhavacana
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+[![Github Pages](https://github.com/ChristineTham/buddhavacana/actions/workflows/deploy.yml/badge.svg)](https://github.com/ChristineTham/buddhavacana/actions/workflows/deploy.yml)
 
 **buddhavacana** is a website that documents my journey reading and studying Buddhist texts, primarily from the Pāli Canon (Tipiṭaka) but also supplementary books and articles. My intent is to rely as much on the original Pāli terms and text where possible, and only rely on English translations as an interim aid to understanding.
 
