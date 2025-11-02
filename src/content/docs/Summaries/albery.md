@@ -1,0 +1,145 @@
+---
+title: Henry Albery - Buddhism And Society In The Indic North And Northwest
+sidebar:
+  label: Albery - Buddhism And Society
+hero:
+  title: Buddhism And Society In The Indic North And Northwest
+  tagline: 2<Sup>Nd</Sup> Century Bce-2<Sup>Rd</Sup> Century CE, Henry Albery, MÜNCHEN (2020)
+tags:
+- Buddhism
+- Society
+- Inscriptions
+- Patronage
+- Donations
+- Relics
+- Stupas
+- Kuṣāṇas
+- Indo-Scythians
+- Indo-Greeks
+- Apracarājas
+- Oḍirājas
+- Sarvāstivāda
+- Avadāna
+- Kharoṣṭhī
+- Gandhāra
+---
+
+# INTRODUCTION
+
+*   The text challenges the traditional historical model that Buddhism's spread in the Indic North and Northwest was facilitated by imperial patronage during two "golden ages" under the Mauryan Aśoka and the Kuṣāṇa Kaniṣka I.
+*   It argues that material evidence for Buddhism during Aśoka's time is marginal in these regions and that Buddhism instead began to flourish from the late 2nd century BCE onwards, a period characterized by invasions and political upheaval, not imperial stability.
+*   The study proposes to re-evaluate the history by moving away from a focus on empires and instead examining the roles of local dynasties, social institutions, and individuals.
+*   Its methodology involves a combined analysis of archaeological, epigraphic, numismatic, and textual sources, focusing on the context of the donative ritual to understand the interaction between Buddhist institutions, their ideologies, and the broader society.
+
+# CHAPTER ONE: HISTORICAL CONTEXTS
+
+*   This chapter provides the historical background of the Indic North and Northwest before the 2nd century BCE, defining the regions geographically and culturally.
+*   It traces the literary conceptualization of the area, starting from its position as the heartland in early Vedic literature (the "seven rivers") to becoming a periphery as Vedic culture shifted eastward.
+*   The Persian Achaemenid Empire administered the Northwest as a remote eastern limit, organizing it into satrapies and establishing trade routes, though its cultural influence was limited.
+*   The conquests of Alexander of Macedonia in the 4th century BCE engaged with local Indian rulers and established Greek presence, installing satraps and founding cities.
+*   Following Alexander, the Seleucid and Mauryan Empires controlled the region, with Aśoka's rule marking a period of greater unification, though he still described the Northwest as a "western border."
+*   The fall of the Mauryan Empire led to decentralization and the rise of the independent Graeco-Bactrian kingdom, which eventually expanded south into the Northwest, initiating the Indo-Greek period.
+
+# CHAPTER TWO: BUDDHISM, EMPIRES, AND KINGDOMS
+*   Buddhist political ideology is monarchic, centered on the ideal of the wheel-turning ruler (cakravartin), with the Mauryan Aśoka being the only historical figure to approach this status.
+*   Buddhist literature presents a "narrative of decline" for the post-Mauryan period, attributing persecution and the decay of the Dharma to invasions by the Śuṅgas, Indo-Greeks, Indo-Scythians, and others.
+*   In contrast to the imperial focus on Aśoka and Kaniṣka I, Buddhist narrative propaganda from this era, particularly in Gāndhārī Avadānas, was directed towards local rulers like the Indo-Scythian satraps, Apracarājas, and Oḍirājas.
+*   An epigraphic analysis of dated inscriptions from the 2nd century BCE to the 3rd century CE reveals distinct dynastic and regnal eras established by various powers, including the Indo-Greeks (Yona), Indo-Scythians (Azes, Maues), and local rulers (Vijayamitra, Oḍirājas).
+*   A graph of donative activity shows a low number of inscriptions during the Indo-Greek period, a significant rise during the decline of the Indo-Scythian empire (the "Apracarāja Period"), and an overall increase under the Kuṣāṇas.
+
+# CHAPTER THREE: THE INDO-GREEKS
+*   The Indo-Greeks, beginning with Demetrius I, established rule in the Northwest after the Graeco-Bactrians expanded south.
+*   Their administrative influence included the establishment of the Yona era and the introduction of sophisticated coinage that adapted to local contexts with bilingual legends (Greek and Kharoṣṭhī/Brāhmī) and Indian iconography.
+*   They were the first to use imperial titles like *mahārāja* (Great King) and *rājātirāja* (Supreme King of Kings) on coins in the region, adapting an existing Indic political concept.
+*   Despite their cultural adaptations, there is very little evidence of Buddhist patronage during the Indo-Greek period; the few relevant inscriptions are for relics dedicated during the time of Menander and by a district officer, Theuduta.
+*   While the famous ruler Menander features in Buddhist literature (the *Milindapañha*), his connection to Buddhism remains ambivalent and does not reflect significant institutional support.
+
+# CHAPTER FOUR: THE INDO-SCYTHIANS
+*   Indo-Scythian hegemony in the Northwest (c. 75 BCE–30 CE) was established by suzerains like Maues and Azes I, who oversaw an administration of great satraps (*mahākṣatrapa*), satraps (*kṣatrapa*), and district governors.
+*   Indo-Scythian suzerains themselves show no evidence of Buddhist patronage.
+*   Donative inscriptions reveal that Buddhist patronage during this period came from local, semi-autonomous satraps who gained power during the decline of the Indo-Scythian empire after Azes I.
+*   The Mathura Lion Capital inscription is a key source, recording donations by the family of the Great Satrap Rajuvula, including his principal queen Yasi Kamui and son Śoḍāsa, who had relocated from the Northwest to Mathura.
+*   This migration of satraps to the south was likely a result of pressure from the rising Indo-Parthians, not political expansion.
+
+# CHAPTER FIVE: THE INDO-PARTHIANS
+*   The fall of the Indo-Scythians was a result of invasions by the Indo-Parthian ruler Gondophares around 30 CE.
+*   Gondophares and his successors took control of the Northwest, issued their own coinage (often debased), and established their own era (attested from 29/30 CE).
+*   His nephew Abdagases and the Apracarāja general Aśpavarma ruled jointly in Dir, indicating a shift in allegiance of local rulers from the Indo-Scythians to the Indo-Parthians.
+*   From coinage and inscriptions, it appears Buddhism was not a central part of the Indo-Parthian agenda; their coinage used Graeco-Roman themes, and rulers do not appear in active roles in Buddhist donative epigraphy.
+*   The Kuṣāṇa prince Kujula Kadphises is mentioned as a subordinate in one inscription from this period, indicating the rising influence of the Kuṣāṇas.
+
+# CHAPTER SIX: THE APRACARĀJAS
+*   The Apracarājas were a local dynasty that emerged in the valleys north of Peshawar (Bajaur, Dir) at the turn of the 1st century CE, during the decline of Indo-Scythian power.
+*   Their political identity was distinct and independent, not ethnically Scythian; they used a mix of Indic, Iranian, and Greek names, reflecting the multicultural milieu of the region.
+*   They established their own political structure with rulers (*apracarāja*), princes (*kumāra*), and generals (*stratega*), and inaugurated their own regnal era under Vijayamitra in 2/1 BCE.
+*   The Apracarājas were major patrons of Buddhism, with numerous relic and stupa dedications made by rulers and their family members, indicating Buddhism was central to their political formation.
+*   They initially operated under Indo-Scythian hegemony before shifting their allegiance to the Indo-Parthians.
+
+# CHAPTER SEVEN: THE OḌIRĀJAS
+*   The Oḍirājas were another local dynasty that ruled in Swat during the latter half of the 1st century CE, during the period of early Kuṣāṇa invasions.
+*   Like the Apracarājas, they established their own dynastic era and political identity, using titles such as 'overlord of the fortress' (*kuṭadhipati*) and 'protector of the people' (*ṇavhapati*).
+*   Their legitimacy was tied to Buddhist narratives, particularly the story of the kingdom's founding by a descendant of the Buddha's Śākyan clan, King Uttarasena. In their inscriptions, they claim to be of the Ikṣvāku lineage.
+*   Their patronage of Buddhism is evident through three inscriptions recording relic dedications by the rulers Ajidaseṇa, Varmaseṇa, and Seṇavarma.
+*   Their history shows a rapid succession of rulers, likely due to conflict with the expanding Kuṣāṇa empire, under whom they were eventually subsumed.
+
+# CHAPTER EIGHT: THE KUṢĀṆAS
+*   The Kuṣāṇas, a Yuezhi group, established a stable and integrated empire in the North and Northwest, culminating in the reign of Kaniṣka I (c. 127–151 CE).
+*   The Rabatak inscription details the first four Kuṣāṇa rulers—Kujula Kadphises, Vima Takhtu, Vima Kadphises, and Kaniṣka I—and marks the expansion of their empire into the Gangetic Plains.
+*   Kaniṣka I established his own era (from 127 CE) and utilized Buddhism as an imperial tool, coordinating with Sarvāstivādin monks like Bala and Buddhamitrā to establish colossal Bodhisattva statues at key sites of his conquest (Sarnath, Śrāvastī).
+*   Under Kaniṣka's successors, Huviṣka and Vāsudeva, donative inscriptions increased significantly, and patronage diversified to include a broader demographic of society beyond political elites.
+*   The Late Kuṣāṇa Period saw an "imperial diminution," with a decrease in inscriptions and the eventual demise of Kuṣāṇa power due to Sasanian invasions.
+
+# CHAPTER NINE: MONASTIC INSTITUTIONS
+*   Around the turn of the Common Era, the Buddhist community in the North and Northwest was divided into at least six distinct monastic institutions (*nikāya*).
+*   Of the 69 inscriptions that name a *nikāya*, the Sarvāstivādins are the most frequently mentioned (24 times) and most widely distributed, with a presence in Mathura, Swat, Taxila, and Afghanistan.
+*   The Dharmaguptakas (18 inscriptions) were primarily active in the regions of the Apracarājas (Dir, Bajaur) and eastern Afghanistan.
+*   The Mahāsāṃghikas (16 inscriptions) were predominantly centered in Mathura and only expanded to the Northwest later, under the patronage of the Kuṣāṇa ruler Huviṣka.
+*   The narrative of the Buddha’s journey along the "Northern Route" in the *Mūlasarvāstivādinavinaya* is interpreted as a literary effort by the Sarvāstivādins to create a trans-regional institutional identity that mirrored the political unity of the Kuṣāṇa empire.
+
+# CHAPTER TEN: INDIVIDUALS IN DONATIVE INSCRIPTIONS
+*   An analysis of 1454 individuals named in 588 donative inscriptions reveals patterns of patronage based on gender, agency, and social status.
+*   Men constitute the majority of individuals (71%), and are more likely to be active donors, while women (22%) are proportionately overrepresented in the passive role of beneficiary.
+*   Women's participation in donative practice was higher in the North (30% of individuals) than in the Northwest (20%).
+*   Titles in inscriptions are categorized as familial/kinship (most common), political/court, occupational, and monastic. Women are almost exclusively identified by familial titles.
+*   Political figures from local dynasties (Apracarājas, Oḍirājas) and imperial administrations (satraps, generals) feature prominently, indicating the politicized nature of donative practice. Occupational titles are rare.
+
+# CHAPTER ELEVEN: TIME AND PRACTICE
+*   Time in donative inscriptions serves both a political function, by stipulating a ruler's regnal or dynastic era, and a ritualistic function, by marking the month, day, or season of the donation.
+*   Analysis of dated inscriptions shows that Buddhist donative activity clusters in the monsoon months (*varṣa*), which corresponds to the monastic rain retreat.
+*   Dedications also peak on specific days of the month (1, 5, 10, 15, 20, 25, 30). This five-day pattern (*pañcarātra*) does not align perfectly with Buddhist lunar rituals like the *upoṣadha* but corresponds to a civil and economic calendar known from texts like the *Arthaśāstra*.
+*   This suggests that donative practice was governed not only by monastic ritual norms but also by broader administrative and economic rhythms in society.
+
+# CHAPTER TWELVE: DONATIVE OBJECTS
+*   The main terms used for donations in inscriptions are *dāna* ('donation'), *dānamukha* ('principal gift'), and *deyadharma* ('gift-worthy object').
+*   Inscribed objects include architectural elements, monastic items (pots, bowls), and high-value objects like relics and statues.
+*   Passages in the Sarvāstivādin and Mūlasarvāstivādin *Vinayas* provide a legal and normative framework for inscribing objects, establishing formulae for recording the donor, the monastic institution, and the nature of the gift.
+*   These monastic regulations correspond closely to the formulae found in donative inscriptions from the North and Northwest, indicating a direct link between Buddhist legal literature and epigraphic practice.
+*   The chapter details the types of monasteries (*vihāra*, *saṃghārāma*) and their features mentioned in texts, correlating them with archaeological evidence and inscriptions.
+
+# CHAPTER THIRTEEN: NARRATING DONATIVE PRACTICE
+*   Buddhist donative practice is situated within a theoretical system of a donor, a gift-worthy object, and a recipient (the "field of merit").
+*   The text connects the material evidence of donative inscriptions to the literary genre of *Avadāna*, which serves to propagate Buddhist ideology by illustrating the workings of causal action (*karman*).
+*   It introduces the concept of "performative causality," derived from Sarvāstivādin Abhidharma philosophy, which was prevalent in the North and Northwest at this time.
+*   This doctrine holds that an individual’s past, present, and future exist simultaneously, allowing a person to ritually perform and embody their future state (e.g., Buddhahood) through a present donative act and a verbal aspiration (*praṇidhāna*).
+*   *Avadāna* narratives are presented as a form of targeted propaganda, creating social archetypes to teach specific groups (merchants, rulers, monastics) how to engage in normative Buddhist practice.
+
+# CHAPTER FOURTEEN: EPIGRAPHIC ASPIRATIONS
+*   The expression of aspirations is a defining and innovative feature of donative inscriptions from the North and Northwest, absent in earlier Central Indian epigraphy.
+*   Aspirations range from general goals like worship (*pūjā*) and dedicating merit, to concrete wishes for welfare, health, and longevity.
+*   A key doctrinal goal is the attainment of Brahma-merit, linked to the formula of establishing a relic or stupa in a "previously unestablished location," a practice primarily associated with rulers.
+*   Soteriological aspirations for *nirvāṇa* or awakening (*bodhi*) are also present, often associated with relic and statue dedications.
+*   The chapter analyzes the unique linguistic formulae of these aspirations (e.g., 'by means of this good root'), linking them directly to textual parallels in *Avadāna* and Sarvāstivādin literature and demonstrating their performative and social function.
+
+# CHAPTER FIFTEEN: RELICS AND STUPAS
+*   The dedication of relics and stupas was a prominent ritual feature in the Indic Northwest around the turn of the Common Era.
+*   The chapter details the different types of relics (corporeal, items of use, commemorative) and stupas (*gaha-stupa*, *Bodhisattva-gaha*) found in the region.
+*   Relics were considered to be somatically imbued with the Buddha’s qualities (conduct, concentration, liberation, etc.), making them a potent field of merit and a focus for soteriological practice.
+*   Buddhist legal literature (*Vinaya*) displays an ambivalence towards stupa destruction and relic theft, prohibiting it as a grave offense but also prescribing it under certain conditions (e.g., with "pure intention" or by a ruler like Aśoka), which served the goal of institutional expansion.
+*   The establishment of relics at stupa festivals (*stūpamaha*) was a key political and social event, used by local rulers to mark their territory and legitimize their power.
+
+# CONCLUSION
+*   The study argues that the history of Buddhism in the Indic North and Northwest (2nd century BCE–3rd century CE) was shaped not by top-down imperial patronage, but by the influence of local political powers like the Apracarājas, Oḍirājas, and semi-autonomous satraps.
+*   Buddhism flourished during periods of imperial decline and political fragmentation, with Buddhist institutions developing localized propaganda and doctrinal innovations (e.g., performative causality, legal relic theft) to secure patronage and legitimize their own presence.
+*   The practice of dedicating relics at new locations to generate Brahma-merit was a key ideological tool used by local rulers to demarcate their political power.
+*   Under the Kuṣāṇa Empire, particularly Kaniṣka I, this localized political and religious discourse was adopted and transformed into a tool for imperial unification, with the Sarvāstivādins becoming a trans-regional institutional force.
+*   Donative behavior shifted from a primarily political activity in the early period to a more broadly economic and social one during the stable middle Kuṣāṇa period, when a larger segment of society had the wealth to participate.

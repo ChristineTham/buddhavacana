@@ -1,4 +1,5 @@
 ---
+draft: true
 title: What Did the Buddha Teach? Core Concepts
 sidebar:
   label: What Did the Buddha Teach?
