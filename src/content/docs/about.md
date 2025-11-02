@@ -15,6 +15,10 @@ hero:
 
 `buddhavacana` is a Pāḷi word meaning "the word (or the utterance) of the Buddha."
 
+:::note
+Unless otherwise stated, all translations from Pāḷi to English on this website are done by me.
+:::
+
 [Brahmi](/buddhavacana/reference/brahmi/) script is one of the earliest scripts known to India. It came into existence in the form of stone inscriptions during the reign of Asoka, in 4th - 3rd century BCE. Buddhist scriptures inscribed in Brahmi have been found in a collection of manuscripts in caves in Bamiyan (eastern Afghanistan), Gandhara in 1993-95. These are among the earliest surviving Buddhist scriptures that have been discovered.
 
 This website documents my journey reading and studying Buddhist texts, from the Pāli Canon (Tipiṭaka) and other texts, but also from various books and articles on Buddhism. It also currently contains some Pāḷi learning resources, such as my Pāḷi dictionary and textbook.
@@ -27,12 +31,15 @@ I do not vouch for the truth of the contents in this website. I also do not clai
 This website is created out of a need to document my learning progress, that I can reference from time to time to refresh my understanding.
 
 Specifically, this is not a website intended to guide or teach others. In reading this website, you acknowledge that you are interested in understanding my current perspective, and it is not a recommendation or an exhortation for you.
+:::
 
 From [7D/3.12 Veḷuvagāmavassūpagamana #351](https://tipitaka2500.github.io/tipitaka/7D/3/3.12.html#351)
 
-> Tasmātihānanda, attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā. \
+> 𑀢𑀲𑁆𑀫𑀸𑀢𑀺𑀳𑀸𑀦𑀦𑁆𑀤, 𑀅𑀢𑁆𑀢𑀤𑀻𑀧𑀸 𑀯𑀺𑀳𑀭𑀣 𑀅𑀢𑁆𑀢𑀲𑀭𑀡𑀸 𑀅𑀦𑀜𑁆𑀜𑀲𑀭𑀡𑀸, 𑀥𑀫𑁆𑀫𑀤𑀻𑀧𑀸 𑀥𑀫𑁆𑀫𑀲𑀭𑀡𑀸 𑀅𑀦𑀜𑁆𑀜𑀲𑀭𑀡𑀸𑁇
+> 
+> Tasmātihānanda, attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā.
+> 
 > Therefore, Ānanda, live relying on yourself as your own island, relying on yourself as your own refuge, relying on the Dhamma as your island, relying on the Dhamma as your refuge, not relying on anyone else.
-:::
 
 ## The World Tipiṭaka Edition
 

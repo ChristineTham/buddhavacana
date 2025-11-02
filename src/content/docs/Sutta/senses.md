@@ -1,9 +1,11 @@
 ---
 categories: ["Sutta"]
 tags: ["saḷāyatanavibhaṅgo"]
-title: "saḷāyatanavibhaṅgo"
+title: "Sex Senses (`saḷāyatanavibhaṅgo`)"
 description: >
   Analysis of the Six Sense Fields
+sidebar:
+  label: Six Senses
 ---
 
 ```mermaid
@@ -109,4 +111,4 @@ mindmap
 
 ## Reference
 
-- [Saḷāyatanavibhaṅgasutta MN 137 PTS 3.216–3.222](https://suttacentral.net/mn137)
+- [11M/4.7 Saḷāyatanavibhaṅgasutta](https://tipitaka2500.github.io/tipitaka/11M/4/4.7.html)

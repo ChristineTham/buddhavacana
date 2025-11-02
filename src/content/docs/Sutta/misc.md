@@ -3,13 +3,12 @@ categories: ["sutta"]
 tags: ["test","docs"] 
 title: "Miscellaneous from Sutta Piṭaka"
 sidebar:
-  label: "misc"
+  label: "Other"
 description: >
   Summary of key concepts from the Basket of Discourses
 ---
 
-[Daṭṭhabbasutta](https://suttacentral.net/sn48.8) (Five faculties)
-SN 48.8 PTS SN v 196
+* [14S5/4.1.8 Daṭṭhabbasutta](https://tipitaka2500.github.io/tipitaka/14S5/4/4.1/4.1.8.html)
 
 ```mermaid
 mindmap
@@ -26,8 +25,7 @@ pañcindriyāni
     ariyasaccesu
 ```
 
-[Daṭṭhabbasutta](https://suttacentral.net/an5.15) (Five powers)
-AN 5.15 PTS 3.12
+* [16A5/1.2.5 Daṭṭhabbasutta](https://tipitaka2500.github.io/tipitaka/16A5/1/1.2/1.2.5.html)
 
 ```mermaid
 mindmap
@@ -536,15 +534,15 @@ class sāmaññaphalāni {
 
 ## Seven Sets
 
-Somestimes called "Wings to Awakening", originally intended for communal recital as described in in [Pāsādikasutta DN 29 PTS 3.117–3.141](https://suttacentral.net/dn29)
+Somestimes called "Wings to Awakening", originally intended for communal recital as described in in [8D/6.6 Saṅgāyitabbadhamma](https://tipitaka2500.github.io/tipitaka/8D/6/6.6.html)
 
 Also mentioned several other places:
 
-* Mahāparinibbānasutta DN 16 PTS 2.72–2.168
-* Sampasādanīyasutta DN 28 PTS 3.99–3.116
-* Pahārādasutta AN 8.19 PTS 4.198–4.204
-* Kintisutta MN 103 PTS 2.239–2.243
-* Sāmagāmasutta MN 104 PTS 2.244–2.251
+* [7D/3.20 Ānandayācanakathā #403](https://tipitaka2500.github.io/tipitaka/7D/3/3.20.html#403)
+* [8D/5.1.1 Kusaladhammadesanā](https://tipitaka2500.github.io/tipitaka/8D/5/5.1/5.1.1.html)
+* [17A8/1.2.9 Pahārādasutta #196](https://tipitaka2500.github.io/tipitaka/17A8/1/1.2/1.2.9.html#196)
+* [11M/1.3 Kintisutta #74](https://tipitaka2500.github.io/tipitaka/11M/1/1.3.html#74)
+* [11M/1.4 Sāmagāmasutta #91](https://tipitaka2500.github.io/tipitaka/11M/1/1.4.html#91)
 
 ```mermaid
 mindmap

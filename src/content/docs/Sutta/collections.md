@@ -1,7 +1,10 @@
 ---
 categories: ["Sutta"]
 tags: ["pañcupādānakkhandhā"]
-title: "pañcupādānakkhandhā"
+title: "Five Collections (`pañcupādānakkhandhā`)"
+sidebar:
+  label: Five Collections
+  order: 103
 description: >
   five collections acting as fuel
 ---
@@ -33,6 +36,5 @@ pañcupādānakkhandhā
 
 ## Reference
 
-- [Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315 PT](https://suttacentral.net/dn22)
-- [Saccavibhaṅgasutta MN 141 PTS 3.248–3.252](https://suttacentral.net/mn141)
-- [Mahākhandhaka Pli Tv Kd 1 PTS 1.1–1.100 P](https://suttacentral.net/pli-tv-kd1)
+* [3V/1.6 Pañcavaggiyakathā #89-104](https://tipitaka2500.github.io/tipitaka/3V/1/1.6.html#89)
+* [7D/9.4.2 Dhammānupassanākhandhapabba](https://tipitaka2500.github.io/tipitaka/7D/9/9.4/9.4.2.html)

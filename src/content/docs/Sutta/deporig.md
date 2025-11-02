@@ -1,12 +1,15 @@
 ---
 categories: ["Sutta"]
 tags: ["paṭiccasamuppādo"]
-title: "paṭiccasamuppādo"
+title: "Dependent Origination (`paṭiccasamuppādo`)"
+sidebar:
+  label: Dependent Origination
+  order: 100
 description: >
   Dependent Origination
 ---
 
-(DN15):
+* [7D/2.1 Paṭiccasamuppāda](https://tipitaka2500.github.io/tipitaka/7D/2/2.1.html)
 
 * `hetu` (root, cause, reason, condition)
 * `nidānaṁ` (cause, ground, underlying and determining factor)
@@ -87,7 +90,9 @@ flowchart TB
   paṭiccasamuppādo --> transcendental
 ```
 
-## Wrong vs Right practice (SN 12.3)
+## Wrong vs Right practice
+
+* [12S2/1.1.3 Paṭipadāsutta](https://tipitaka2500.github.io/tipitaka/12S2/1/1.1/1.1.3.html)
 
 ```mermaid
 sequenceDiagram
@@ -117,7 +122,9 @@ sequenceDiagram
 
 ```
 
-## Analysis (SN 12.2)
+## Analysis
+
+* [12S2/1.1.2 Vibhaṅgasutta](https://tipitaka2500.github.io/tipitaka/12S2/1/1.1/1.1.2.html)
 
 ```mermaid
 mindmap
@@ -310,7 +317,9 @@ vesārajjaṃ
   imassa nirodhā idaṁ nirujjhati
 ```
 
-## paṭiccasamuppannā dhammā (Dependent origination characteristics) SN 12.20
+## paṭiccasamuppannā dhammā (Dependent origination characteristics)
+
+* [12S2/1.2.10 Paccayasutta](https://tipitaka2500.github.io/tipitaka/12S2/1/1.2/1.2.10.html)
 
 This sutta is written in a satirical style (similar to that in AN 3.136) where the Buddha uses the formula for dependent origination to refute core Vedic beliefs, including the Vedic creation myth. The satirical text plays on the Vedic preoccupation with `dhamma` as regular, invariant natural principles.
 
@@ -327,7 +336,9 @@ flowchart LR
   paṭiccasamuppādo --> nirodhadhammaṁ
 ```
 
-## Naḷakalāpīsutta (SN 12.67)
+## Naḷakalāpīsutta
+
+* [12S2/1.7.7 Naḷakalāpīsutta](https://tipitaka2500.github.io/tipitaka/12S2/1/1.7/1.7.7.html)
 
 ```mermaid
 flowchart LR
@@ -366,7 +377,9 @@ flowchart LR
   end
 ```
 
-## Training (SN 12.93)
+## Training
+
+* [12S2/1.9.2 Sikkhāsuttādipeyyālaekādasaka](https://tipitaka2500.github.io/tipitaka/12S2/1/1.9/1.9.2.html)
 
 ```mermaid
 mindmap
@@ -384,17 +397,14 @@ mindmap
     appamādo karaṇīyo
 ```
 
-## Reference
+## References
 
-- [Mahānidānasutta DN 15 PTS 2.55–2.71](https://suttacentral.net/dn15)
-- [Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315 PT](https://suttacentral.net/dn22)
-- [Saccavibhaṅgasutta MN 141 PTS 3.248–3.252](https://suttacentral.net/mn141)
-- [Mahākhandhaka Pli Tv Kd 1 PTS 1.1–1.100 P](https://suttacentral.net/pli-tv-kd1)
-- [Paṭiccasamuppādasutta SN 12.1 PTS 2.1–2.2](https://suttacentral.net/sn12.1)
-- [Vibhaṅgasutta SN 12.2 PTS 2.3–2.4](https://suttacentral.net/sn12.2)
-- [Paṭipadāsutta SN 12.3 PTS 2.5](https://suttacentral.net/sn12.3)
-- [Āhārasutta SN 12.11 PTS 2.12](https://suttacentral.net/sn12.11)
-- [Dasabalasutta SN 12.21 PTS 2.28](https://suttacentral.net/sn12.21)
-- [Upanisasutta SN 12.23 PTS 2.30–2.32](https://suttacentral.net/sn12.23)
-- [Naḷakalāpīsutta SN 12.67 PTS 2.113–2.115](https://suttacentral.net/sn12.67)
-- [Sikkhāsuttādipeyyālaekādasaka SN 12.93–213 PTS 2.132–2.133](https://suttacentral.net/sn12.93)
+* [7D/2.1 Paṭiccasamuppāda](https://tipitaka2500.github.io/tipitaka/7D/2/2.1.html)
+* [12S2/1.1.1 Paṭiccasamuppādasutta](https://tipitaka2500.github.io/tipitaka/12S2/1/1.1/1.1.1.html)
+* [12S2/1.1.2 Vibhaṅgasutta](https://tipitaka2500.github.io/tipitaka/12S2/1/1.1/1.1.2.html)
+* [12S2/1.1.3 Paṭipadāsutta](https://tipitaka2500.github.io/tipitaka/12S2/1/1.1/1.1.3.html)
+* [12S2/1.2.1 Āhārasutta](https://tipitaka2500.github.io/tipitaka/12S2/1/1.2/1.2.1.html)
+* [12S2/1.3.1 Dasabalasutta](https://tipitaka2500.github.io/tipitaka/12S2/1/1.3/1.3.1.html)
+* [12S2/1.3.3 Upanisasutta](https://tipitaka2500.github.io/tipitaka/12S2/1/1.3/1.3.3.html)
+* [12S2/1.7.7 Naḷakalāpīsutta](https://tipitaka2500.github.io/tipitaka/12S2/1/1.7/1.7.7.html)
+* [12S2/1.9.2 Sikkhāsuttādipeyyālaekādasaka](https://tipitaka2500.github.io/tipitaka/12S2/1/1.9/1.9.2.html)

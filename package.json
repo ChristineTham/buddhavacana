@@ -24,8 +24,8 @@
   "dependencies": {
     "@astrojs/check": "^0.9.5",
     "@astrojs/markdoc": "^0.15.8",
-    "@astrojs/starlight": "^0.36.1",
-    "@astrojs/starlight-markdoc": "^0.5.0",
+    "@astrojs/starlight": "^0.36.2",
+    "@astrojs/starlight-markdoc": "^0.5.1",
     "@fontsource/noto-sans": "^5.2.10",
     "@fontsource/noto-sans-mono": "^5.2.10",
     "astro": "^5.15.3",

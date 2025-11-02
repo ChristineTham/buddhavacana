@@ -1,15 +1,13 @@
 ---
 categories: ["Sutta"]
 tags: ["aṅguttaranikāyo", "ekakanipātapāḷi", "nīvaraṇappahānavaggo"]
-title: "nīvaraṇappahānavaggo"
+title: "Giving up hindrances (`nīvaraṇappahānavaggo`)"
 sidebar:
-  label: "nīvaraṇappahānavaggo"
+  label: "Giving up hindrances"
 description: Giving up hindrances
 ---
 
-Giving up hindrances
-
-AN 1.2 11-20:
+* [15A1/2 Nīvaraṇappahānavagga](https://tipitaka2500.github.io/tipitaka/15A1/2.html)
 
 >11. "nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā kāmacchando uppajjati uppanno vā kāmacchando bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, subhanimittaṃ. subhanimittaṃ, bhikkhave, ayoniso manasi karoto anuppanno ceva kāmacchando uppajjati uppanno ca kāmacchando bhiyyobhāvāya vepullāya saṃvattatī"ti.  
 >12. "nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā byāpādo uppajjati uppanno vā byāpādo bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, paṭighanimittaṃ. paṭighanimittaṃ, bhikkhave, ayoniso manasi karoto anuppanno ceva byāpādo uppajjati uppanno ca byāpādo bhiyyobhāvāya vepullāya saṃvattatī"ti.  

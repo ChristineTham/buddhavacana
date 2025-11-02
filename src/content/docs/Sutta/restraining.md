@@ -1,15 +1,15 @@
 ---
 categories: ["Sutta"]
 tags: ["aṅguttaranikāyo", "ekakanipātapāḷi", "adantavaggo"]
-title: "adantavaggo"
+title: "Restraining, Guarding and Protecting the Mind (`adantavaggo`)"
 sidebar:
-  label: "adantavaggo"
+  label: Restraining, Guarding and Protecting the Mind
 description: Restraining, Guarding and Protecting the Mind
 ---
 
 Restraining, Guarding and Protecting the Mind
 
-AN 1.4 31-40:
+* [15A1/4 Adantavagga](https://tipitaka2500.github.io/tipitaka/15A1/4.html)
 
 >31. "nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ adantaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, adantaṃ mahato anatthāya saṃvattatī"ti.
 >32. "nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ dantaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, dantaṃ mahato atthāya saṃvattatī"ti.
