@@ -1,17 +1,245 @@
 ---
-draft: true
-title: "Enlightenment"
+title: Nibbāna
 description: >
   My current views on this complex and not well understood goal of Buddhism
 ---
 
 ## Introduction
 
-The attainment of enlightenment or `nibbāna` is regarded as the soteriological goal of Buddhism.
+"Awakening", "Liberation", or the attainment `nibbāna` is regarded as the soteriological goal of Buddhism.
 
-THe Buddha said in the First Discourse [**Dhammacakkappavattanasutta** SN 56.11 PTS 5.421–5.424](https://suttacentral.net/sn56.11) that when he finally understood the 4 noble truths completely (`imesu catūsu ariyasaccesu evaṁ tiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ suvisuddhaṁ ahosi`) he was able to declare that he had attained "supreme perfect enlightenment" (`anuttaraṁ sammāsambodhiṁ abhisambuddho`)
+## The Buddha's description of awakening in the Mahākhandhaka
 
-Enlightenment has been described using the word `nibbāna`, but what does this word actually mean?
+[3V/1 Mahākhandhaka](https://tipitaka2500.github.io/tipitaka/3V/1.html) contains a biography of the Buddha post awakening, so it is a good place to start in order to understand how the Buddha described the awakening process as well as the soteriological outcome.
+
+In the Buddha's awakening process, described in [3V/1.1 Bodhikathā](https://tipitaka2500.github.io/tipitaka/3V/1/1.1.html), the Buddha's liberation is simply described as simply being free from doubts due to the elimination of the conditions leading to suffering:
+
+> “𑀬𑀤𑀸 𑀳𑀯𑁂 𑀧𑀸𑀢𑀼𑀪𑀯𑀦𑁆𑀢𑀺 𑀥𑀫𑁆𑀫𑀸, \
+> 𑀆𑀢𑀸𑀧𑀺𑀦𑁄 𑀛𑀸𑀬𑀢𑁄 𑀩𑁆𑀭𑀸𑀳𑁆𑀫𑀡𑀲𑁆𑀲; \
+> 𑀅𑀣𑀲𑁆𑀲 𑀓𑀗𑁆𑀔𑀸 𑀯𑀧𑀬𑀦𑁆𑀢𑀺 𑀲𑀩𑁆𑀩𑀸, \
+> 𑀬𑀢𑁄 𑀧𑀚𑀸𑀦𑀸𑀢𑀺 𑀲𑀳𑁂𑀢𑀼𑀥𑀫𑁆𑀫𑀦𑁆”𑀢𑀺𑁇
+> 
+> 6  “Yadā have pātubhavanti dhammā,  \
+> Ātāpino jhāyato brāhmaṇassa; \
+> Athassa kaṅkhā vapayanti sabbā, \
+> Yato pajānāti sahetudhamman”ti.
+>
+> “When indeed dhammā (phenomena) become manifest \
+> To the ardent, contemplating brāhmaṇa; \
+> Then all his doubts disappear, \
+> Since he understands the dependent nature of phenomena.”
+
+...
+
+> “𑀬𑀤𑀸 𑀳𑀯𑁂 𑀧𑀸𑀢𑀼𑀪𑀯𑀦𑁆𑀢𑀺 𑀥𑀫𑁆𑀫𑀸, \
+> 𑀆𑀢𑀸𑀧𑀺𑀦𑁄 𑀛𑀸𑀬𑀢𑁄 𑀩𑁆𑀭𑀸𑀳𑁆𑀫𑀡𑀲𑁆𑀲; \
+> 𑀅𑀣𑀲𑁆𑀲 𑀓𑀗𑁆𑀔𑀸 𑀯𑀧𑀬𑀦𑁆𑀢𑀺 𑀲𑀩𑁆𑀩𑀸, \
+> 𑀬𑀢𑁄 𑀔𑀬𑀁 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀁 𑀅𑀯𑁂𑀤𑀻”𑀢𑀺𑁇
+> 
+> 9  “Yadā have pātubhavanti dhammā, \
+> Ātāpino jhāyato brāhmaṇassa; \
+> Athassa kaṅkhā vapayanti sabbā, \
+> Yato khayaṃ paccayānaṃ avedī”ti.
+> 
+> “When indeed phenomena become manifest \
+> To the ardent, contemplating brāhmaṇa; \
+> Then all his doubts disappear, \
+> Since he has understood the destruction of conditions.”
+
+...
+
+> “𑀬𑀤𑀸 𑀳𑀯𑁂 𑀧𑀸𑀢𑀼𑀪𑀯𑀦𑁆𑀢𑀺 𑀥𑀫𑁆𑀫𑀸, \
+> 𑀆𑀢𑀸𑀧𑀺𑀦𑁄 𑀛𑀸𑀬𑀢𑁄 𑀩𑁆𑀭𑀸𑀳𑁆𑀫𑀡𑀲𑁆𑀲; \
+> 𑀯𑀺𑀥𑀽𑀧𑀬𑀁 𑀢𑀺𑀝𑁆𑀞𑀢𑀺 𑀫𑀸𑀭𑀲𑁂𑀦𑀁, \
+> 𑀲𑀽𑀭𑀺𑀬𑁄𑀯 𑀑𑀪𑀸𑀲𑀬𑀫𑀦𑁆𑀢𑀮𑀺𑀓𑁆𑀔𑀦𑁆”𑀢𑀺𑁇
+> 
+> 12  “Yadā have pātubhavanti dhammā, \
+> Ātāpino jhāyato brāhmaṇassa; \
+> Vidhūpayaṃ tiṭṭhati mārasenaṃ, \
+> Sūriyova obhāsayamantalikkhan”ti.
+> 
+> “When indeed phenomena become manifest \
+> To the ardent, contemplating brāhmaṇa; \
+> He stands dispelling Māra’s army, \
+> Like the sun illuminating the sky.”
+
+Later on in [3V/1.2 Ajapālakathā](https://tipitaka2500.github.io/tipitaka/3V/1/1.2.html), in response to an arrogant brahmin's questionn "To what extent is one a brāhmaṇa and what are the qualities that make a brāhmaṇa?", he replied:
+
+> “𑀬𑁄 𑀩𑁆𑀭𑀸𑀳𑁆𑀫𑀡𑁄 𑀩𑀸𑀳𑀺𑀢𑀧𑀸𑀧𑀥𑀫𑁆𑀫𑁄, \
+> 𑀦𑀺𑀳𑀼𑀁𑀳𑀼𑀗𑁆𑀓𑁄 𑀦𑀺𑀓𑁆𑀓𑀲𑀸𑀯𑁄 𑀬𑀢𑀢𑁆𑀢𑁄; \
+> 𑀯𑁂𑀤𑀦𑁆𑀢𑀕𑀽 𑀯𑀼𑀲𑀺𑀢𑀩𑁆𑀭𑀳𑁆𑀫𑀘𑀭𑀺𑀬𑁄, \
+> 𑀥𑀫𑁆𑀫𑁂𑀦 𑀲𑁄 𑀩𑁆𑀭𑀳𑁆𑀫𑀯𑀸𑀤𑀁 𑀯𑀤𑁂𑀬𑁆𑀬; \
+> 𑀬𑀲𑁆𑀲𑀼𑀲𑁆𑀲𑀤𑀸 𑀦𑀢𑁆𑀣𑀺 𑀓𑀼𑀳𑀺𑀜𑁆𑀘𑀺 𑀮𑁄𑀓𑁂”𑀢𑀺𑁇
+> 
+> 15  “Yo brāhmaṇo bāhitapāpadhammo, \
+> Nihuṃhuṅko nikkasāvo yatatto; \
+> Vedantagū vusitabrahmacariyo, \
+> Dhammena so brahmavādaṃ vadeyya; \
+> Yassussadā natthi kuhiñci loke”ti.
+> 
+> “The brāhmaṇa who has discarded evil qualities, \
+> Free from disgruntlement, free from non-optimal flows, self-controlled; \
+> Perfected in knowledge, who has lived the optimal life, \
+> He might rightly speak ‘I am a brāhmaṇa’; \
+> For whom there are no excess anywhere in the world.”
+
+To Mucalinda the `nāga` (serpent) king in [3V/1.3 Mucalindakathā](https://tipitaka2500.github.io/tipitaka/3V/1/1.3.html), the Buddha added that awakening is the "supreme happiness" for him:
+
+> “𑀲𑀼𑀔𑁄 𑀯𑀺𑀯𑁂𑀓𑁄 𑀢𑀼𑀝𑁆𑀞𑀲𑁆𑀲, \
+> 𑀲𑀼𑀢𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀧𑀲𑁆𑀲𑀢𑁄; \
+> 𑀅𑀩𑁆𑀬𑀸𑀧𑀚𑁆𑀚𑀁 𑀲𑀼𑀔𑀁 𑀮𑁄𑀓𑁂, \
+> 𑀧𑀸𑀡𑀪𑀽𑀢𑁂𑀲𑀼 𑀲𑀁𑀬𑀫𑁄𑁇
+> 
+> 𑀲𑀼𑀔𑀸 𑀯𑀺𑀭𑀸𑀕𑀢𑀸 𑀮𑁄𑀓𑁂, \
+> 𑀓𑀸𑀫𑀸𑀦𑀁 𑀲𑀫𑀢𑀺𑀓𑁆𑀓𑀫𑁄; \
+> 𑀅𑀲𑁆𑀫𑀺𑀫𑀸𑀦𑀲𑁆𑀲 𑀬𑁄 𑀯𑀺𑀦𑀬𑁄, \
+> 𑀏𑀢𑀁 𑀯𑁂 𑀧𑀭𑀫𑀁 𑀲𑀼𑀔𑀦𑁆”𑀢𑀺𑁇
+> 
+> 18  “Sukho viveko tuṭṭhassa, \
+> sutadhammassa passato; \
+> Abyāpajjaṃ sukhaṃ loke, \
+> pāṇabhūtesu saṃyamo.
+> 
+> 19  Sukhā virāgatā loke, \
+> kāmānaṃ samatikkamo; \
+> Asmimānassa yo vinayo, \
+> etaṃ ve paramaṃ sukhan”ti.
+> 
+> “Happy is solitude for one who is content, \
+> who has heard the Dhamma and sees; \
+> Happy is non-affliction in the world, \
+> restraint towards living beings.
+> 
+> Happy is dispassion in the world, \
+> the overcoming of sensual pleasures; \
+> The dispelling of the conceit ‘I am’, \
+> this indeed is the supreme happiness.”
+
+In the above inspired verses (`udāna`), it seems awakening is mainly described as understanding the nature of phenomena, dispassion, the overcoming of sensual pleasures, the dispelling of the conceited ego, the living of an optimal life, resulting in the removal of doubts, the elimination of the origination and conditions for suffering, and finally "supreme happiness."
+
+However, by the time the Buddha decided to teach and set forth towards Bārāṇasī, he encountered Upaka the Ājīvaka in [3V/1.6 Pañcavaggiyakathā](https://tipitaka2500.github.io/tipitaka/3V/1/1.6.html). Upaka was so impressed by the Buddha that he asked:
+
+> “Your faculties, āvuso, are very clear, your skin-complexion is pure and bright. For whose sake, āvuso, have you gone forth? Or who is your teacher? Or whose dhamma do you profess?” 
+
+The Buddha replied:
+
+> 𑁫𑁭  “𑀲𑀩𑁆𑀩𑀸𑀪𑀺𑀪𑀽 𑀲𑀩𑁆𑀩𑀯𑀺𑀤𑀽𑀳𑀫𑀲𑁆𑀫𑀺, \
+> 𑀲𑀩𑁆𑀩𑁂𑀲𑀼 𑀥𑀫𑁆𑀫𑁂𑀲𑀼 𑀅𑀦𑀽𑀧𑀮𑀺𑀢𑁆𑀢𑁄; \
+> 𑀲𑀩𑁆𑀩𑀜𑁆𑀚𑀳𑁄 𑀢𑀡𑁆𑀳𑀸𑀓𑁆𑀔𑀬𑁂 𑀯𑀺𑀫𑀼𑀢𑁆𑀢𑁄, \
+> 𑀲𑀬𑀁 𑀅𑀪𑀺𑀜𑁆𑀜𑀸𑀬 𑀓𑀫𑀼𑀤𑁆𑀤𑀺𑀲𑁂𑀬𑁆𑀬𑀁𑁇
+> 
+> 𑁫𑁮  𑀦 𑀫𑁂 𑀆𑀘𑀭𑀺𑀬𑁄 𑀅𑀢𑁆𑀣𑀺, \
+> 𑀲𑀤𑀺𑀲𑁄 𑀫𑁂 𑀦 𑀯𑀺𑀚𑁆𑀚𑀢𑀺; \
+> 𑀲𑀤𑁂𑀯𑀓𑀲𑁆𑀫𑀺𑀁 𑀮𑁄𑀓𑀲𑁆𑀫𑀺𑀁, \
+> 𑀦𑀢𑁆𑀣𑀺 𑀫𑁂 𑀧𑀝𑀺𑀧𑀼𑀕𑁆𑀕𑀮𑁄𑁇
+> 
+> 𑁫𑁯  𑀅𑀳𑀜𑁆𑀳𑀺 𑀅𑀭𑀳𑀸 𑀮𑁄𑀓𑁂, \
+> 𑀅𑀳𑀁 𑀲𑀢𑁆𑀣𑀸 𑀅𑀦𑀼𑀢𑁆𑀢𑀭𑁄; \
+> 𑀏𑀓𑁄𑀫𑁆𑀳𑀺 𑀲𑀫𑁆𑀫𑀸𑀲𑀫𑁆𑀩𑀼𑀤𑁆𑀥𑁄, \
+> 𑀲𑀻𑀢𑀺𑀪𑀽𑀢𑁄𑀲𑁆𑀫𑀺 𑀦𑀺𑀩𑁆𑀩𑀼𑀢𑁄𑁇
+> 
+> 𑁬𑁦  𑀥𑀫𑁆𑀫𑀘𑀓𑁆𑀓𑀁 𑀧𑀯𑀢𑁆𑀢𑁂𑀢𑀼𑀁, \
+> 𑀕𑀘𑁆𑀙𑀸𑀫𑀺 𑀓𑀸𑀲𑀺𑀦𑀁 𑀧𑀼𑀭𑀁; \
+> 𑀅𑀦𑁆𑀥𑀻𑀪𑀽𑀢𑀲𑁆𑀫𑀺𑀁 𑀮𑁄𑀓𑀲𑁆𑀫𑀺𑀁, \
+> 𑀆𑀳𑀜𑁆𑀙𑀁 𑀅𑀫𑀢𑀤𑀼𑀦𑁆𑀤𑀼𑀪𑀺𑀦𑁆”𑀢𑀺𑁇
+> 
+> 57  “Sabbābhibhū sabbavidūhamasmi, \
+> Sabbesu dhammesu anūpalitto; \
+> Sabbañjaho taṇhākkhaye vimutto, \
+> Sayaṃ abhiññāya kamuddiseyyaṃ.
+> 
+> 58  Na me ācariyo atthi, \
+> sadiso me na vijjati; \
+> Sadevakasmiṃ lokasmiṃ, \
+> natthi me paṭipuggalo.
+> 
+> 59  Ahañhi arahā loke, \
+> ahaṃ satthā anuttaro; \
+> Ekomhi sammāsambuddho, \
+> sītibhūtosmi nibbuto.
+> 
+> 60  Dhammacakkaṃ pavattetuṃ, \
+> Gacchāmi kāsinaṃ puraṃ; \
+> Andhībhūtasmiṃ lokasmiṃ, \
+> Āhañchaṃ amatadundubhin”ti.
+> 
+> “All-conquering, all-knowing am I, \
+> In all dhammas (phenomena) undefiled; \
+> All-abandoning, liberated in the destruction of taṇhā (craving), \
+> Having known for myself, whom should I point to?
+> 
+> No teacher have I, \
+> One like me is not found; \
+> In the world with its devas, \
+> There is no one to rival me.
+> 
+> For I am an arahant (worthy one) in the world, \
+> I am the teacher unexcelled; \
+> Alone I am a sammāsambuddha (perfectly self-awakened one), \
+> Cooled am I, nibbuto (extinguished).
+> 
+> To set the Dhammacakka (Wheel of Dhamma) in motion, \
+> I go to the city of Kāsī; \
+> In a world become blind, \
+> I shall beat the drum of the amata (deathless).”
+
+This is the first time in the [3V/1 Mahākhandhaka](https://tipitaka2500.github.io/tipitaka/3V/1.html) that the Buddha has used the word `sammāsambuddha` (perfectly self-awakened one), `nibbuto` (extinguished), `amata` (deathless).
+
+These words have caused generations of Buddhists to speculate whether there was something more to awakening than just understanding and cessation. `sammāsambuddha` may suggest an exalted, sublime state surpassing mundane existence, and `amata` literally means immortality.
+
+The Buddha then continued to explain to the first five disciples:
+
+> 𑀬𑀢𑁄 𑀘 𑀔𑁄 𑀫𑁂, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀇𑀫𑁂𑀲𑀼 𑀘𑀢𑀽𑀲𑀼 𑀅𑀭𑀺𑀬𑀲𑀘𑁆𑀘𑁂𑀲𑀼 𑀏𑀯𑀁 𑀢𑀺𑀧𑀭𑀺𑀯𑀝𑁆𑀝𑀁 𑀤𑁆𑀯𑀸𑀤𑀲𑀸𑀓𑀸𑀭𑀁 𑀬𑀣𑀸𑀪𑀽𑀢𑀁 𑀜𑀸𑀡𑀤𑀲𑁆𑀲𑀦𑀁 𑀲𑀼𑀯𑀺𑀲𑀼𑀤𑁆𑀥𑀁 𑀅𑀳𑁄𑀲𑀺, 𑀅𑀣𑀸𑀳𑀁, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀲𑀤𑁂𑀯𑀓𑁂 𑀮𑁄𑀓𑁂 𑀲𑀫𑀸𑀭𑀓𑁂 𑀲𑀩𑁆𑀭𑀳𑁆𑀫𑀓𑁂 𑀲𑀲𑁆𑀲𑀫𑀡𑀩𑁆𑀭𑀸𑀳𑁆𑀫𑀡𑀺𑀬𑀸 𑀧𑀚𑀸𑀬 𑀲𑀤𑁂𑀯𑀫𑀦𑀼𑀲𑁆𑀲𑀸𑀬 𑀅𑀦𑀼𑀢𑁆𑀢𑀭𑀁 𑀲𑀫𑁆𑀫𑀸𑀲𑀫𑁆𑀩𑁄𑀥𑀺𑀁 𑀅𑀪𑀺𑀲𑀫𑁆𑀩𑀼𑀤𑁆𑀥𑁄𑀢𑀺 𑀧𑀘𑁆𑀘𑀜𑁆𑀜𑀸𑀲𑀺𑀁𑁇 𑀜𑀸𑀡𑀜𑁆𑀘 𑀧𑀦 𑀫𑁂 𑀤𑀲𑁆𑀲𑀦𑀁 𑀉𑀤𑀧𑀸𑀤𑀺—  𑀅𑀓𑀼𑀧𑁆𑀧𑀸 𑀫𑁂 𑀯𑀺𑀫𑀼𑀢𑁆𑀢𑀺, 𑀅𑀬𑀫𑀦𑁆𑀢𑀺𑀫𑀸 𑀚𑀸𑀢𑀺, 𑀦𑀢𑁆𑀣𑀺 𑀤𑀸𑀦𑀺 𑀧𑀼𑀦𑀩𑁆𑀪𑀯𑁄”𑀢𑀺𑁇 𑀇𑀤𑀫𑀯𑁄𑀘 𑀪𑀕𑀯𑀸 𑀅𑀢𑁆𑀢𑀫𑀦𑀸 𑀧𑀜𑁆𑀘𑀯𑀕𑁆𑀕𑀺𑀬𑀸 𑀪𑀺𑀓𑁆𑀔𑀽 𑀪𑀕𑀯𑀢𑁄 𑀪𑀸𑀲𑀺𑀢𑀁 𑀅𑀪𑀺𑀦𑀦𑁆𑀤𑀼𑀦𑁆𑀢𑀺𑁇
+> 
+> 80  Yato ca kho me, bhikkhave, imesu catūsu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ suvisuddhaṃ ahosi, athāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddhoti paccaññāsiṃ. Ñāṇañca pana me dassanaṃ udapādi—  akuppā me vimutti, ayamantimā jāti, natthi dāni punabbhavo”ti. Idamavoca bhagavā attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṃ abhinandunti.
+>
+> “When, bhikkhave, these three phases and twelve aspects of the four realisations became in reality total understanding and purification, then bhikkhave, I declared to the world with its devas, Māra, Brahmā, with its ascetics and brahmins, with its devas and humans, that I had woken up to perfect understanding unsurpassed by anything. And from my knowledge, the insight arose: “Unshakeable is my liberation, this is the final birth, there is now no more future existences.” This the Bhagavā said, and the group of five bhikkhū, delighted, rejoiced in the Bhagavā’s words.
+
+With these words, the Buddha is saying `abhisambuddha anuttara sammāsambodhi` (perfect understanding unsurpassed by anything) "lead to no more future existences." This, together with `amata` certainly seems to imply some sort of eternal state of grace beyond mere mundane existence.
+
+Or so it would seem. A rational explanation is that the Buddha simply was being metaphorical, what he truly meant was that with the elimination of non-optimal mental processes and the cessation of suffering, an awakened person need no longer be concerned about death or future existences. But perhaps some disciples hoped for something more.
+
+## Where does the word `nibbāna` come from?
+
+As we can see, the word `nibbāna` is never used in [3V/1 Mahākhandhaka](https://tipitaka2500.github.io/tipitaka/3V/1.html), and indeed is seldom used in the Pāḷi Tipiṭaka, appearing less than 20 times. So clearly it is a word introduced by later generations of Buddhists and potentially not used by the Buddha himself.
+
+According to [13S4/4.1.1 Nibbānapañhāsutta](https://tipitaka2500.github.io/tipitaka/13S4/4/4.1/4.1.1.html), `nibbāna` is merely an epithet for the (mundane) outcome of awakening:
+
+> “‘𑀦𑀺𑀩𑁆𑀩𑀸𑀦𑀁, 𑀦𑀺𑀩𑁆𑀩𑀸𑀦𑀦𑁆’𑀢𑀺, 𑀆𑀯𑀼𑀲𑁄 𑀲𑀸𑀭𑀺𑀧𑀼𑀢𑁆𑀢, 𑀯𑀼𑀘𑁆𑀘𑀢𑀺𑁇 𑀓𑀢𑀫𑀁 𑀦𑀼 𑀔𑁄, 𑀆𑀯𑀼𑀲𑁄, 𑀦𑀺𑀩𑁆𑀩𑀸𑀦𑀦𑁆”𑀢𑀺? “𑀬𑁄 𑀔𑁄, 𑀆𑀯𑀼𑀲𑁄, 𑀭𑀸𑀕𑀓𑁆𑀔𑀬𑁄 𑀤𑁄𑀲𑀓𑁆𑀔𑀬𑁄 𑀫𑁄𑀳𑀓𑁆𑀔𑀬𑁄—  𑀇𑀤𑀁 𑀯𑀼𑀘𑁆𑀘𑀢𑀺 𑀦𑀺𑀩𑁆𑀩𑀸𑀦𑀦𑁆”𑀢𑀺𑁇 “𑀅𑀢𑁆𑀣𑀺 𑀧𑀦𑀸𑀯𑀼𑀲𑁄, 𑀫𑀕𑁆𑀕𑁄 𑀅𑀢𑁆𑀣𑀺 𑀧𑀝𑀺𑀧𑀤𑀸 𑀏𑀢𑀲𑁆𑀲 𑀦𑀺𑀩𑁆𑀩𑀸𑀦𑀲𑁆𑀲 𑀲𑀘𑁆𑀙𑀺𑀓𑀺𑀭𑀺𑀬𑀸𑀬𑀸”𑀢𑀺? “𑀅𑀢𑁆𑀣𑀺 𑀔𑁄, 𑀆𑀯𑀼𑀲𑁄, 𑀫𑀕𑁆𑀕𑁄 𑀅𑀢𑁆𑀣𑀺 𑀧𑀝𑀺𑀧𑀤𑀸 𑀏𑀢𑀲𑁆𑀲 𑀦𑀺𑀩𑁆𑀩𑀸𑀦𑀲𑁆𑀲 𑀲𑀘𑁆𑀙𑀺𑀓𑀺𑀭𑀺𑀬𑀸𑀬𑀸”𑀢𑀺𑁇 “𑀓𑀢𑀫𑁄 𑀧𑀦𑀸𑀯𑀼𑀲𑁄, 𑀫𑀕𑁆𑀕𑁄 𑀓𑀢𑀫𑀸 𑀧𑀝𑀺𑀧𑀤𑀸 𑀏𑀢𑀲𑁆𑀲 𑀦𑀺𑀩𑁆𑀩𑀸𑀦𑀲𑁆𑀲 𑀲𑀘𑁆𑀙𑀺𑀓𑀺𑀭𑀺𑀬𑀸𑀬𑀸”𑀢𑀺? “𑀅𑀬𑀫𑁂𑀯 𑀔𑁄, 𑀆𑀯𑀼𑀲𑁄, 𑀅𑀭𑀺𑀬𑁄 𑀅𑀝𑁆𑀞𑀗𑁆𑀕𑀺𑀓𑁄 𑀫𑀕𑁆𑀕𑁄 𑀏𑀢𑀲𑁆𑀲 𑀦𑀺𑀩𑁆𑀩𑀸𑀦𑀲𑁆𑀲 𑀲𑀘𑁆𑀙𑀺𑀓𑀺𑀭𑀺𑀬𑀸𑀬, 𑀲𑁂𑀬𑁆𑀬𑀣𑀺𑀤𑀁—  𑀲𑀫𑁆𑀫𑀸𑀤𑀺𑀝𑁆𑀞𑀺 𑀲𑀫𑁆𑀫𑀸𑀲𑀗𑁆𑀓𑀧𑁆𑀧𑁄 𑀲𑀫𑁆𑀫𑀸𑀯𑀸𑀘𑀸 𑀲𑀫𑁆𑀫𑀸𑀓𑀫𑁆𑀫𑀦𑁆𑀢𑁄 𑀲𑀫𑁆𑀫𑀸𑀆𑀚𑀻𑀯𑁄 𑀲𑀫𑁆𑀫𑀸𑀯𑀸𑀬𑀸𑀫𑁄 𑀲𑀫𑁆𑀫𑀸𑀲𑀢𑀺 𑀲𑀫𑁆𑀫𑀸𑀲𑀫𑀸𑀥𑀺𑁇 𑀅𑀬𑀁 𑀔𑁄, 𑀆𑀯𑀼𑀲𑁄, 𑀫𑀕𑁆𑀕𑁄 𑀅𑀬𑀁 𑀧𑀝𑀺𑀧𑀤𑀸 𑀏𑀢𑀲𑁆𑀲 𑀦𑀺𑀩𑁆𑀩𑀸𑀦𑀲𑁆𑀲 𑀲𑀘𑁆𑀙𑀺𑀓𑀺𑀭𑀺𑀬𑀸𑀬𑀸”𑀢𑀺𑁇 “𑀪𑀤𑁆𑀤𑀓𑁄, 𑀆𑀯𑀼𑀲𑁄, 𑀫𑀕𑁆𑀕𑁄 𑀪𑀤𑁆𑀤𑀺𑀓𑀸 𑀧𑀝𑀺𑀧𑀤𑀸 𑀏𑀢𑀲𑁆𑀲 𑀦𑀺𑀩𑁆𑀩𑀸𑀦𑀲𑁆𑀲 𑀲𑀘𑁆𑀙𑀺𑀓𑀺𑀭𑀺𑀬𑀸𑀬𑁇 𑀅𑀮𑀜𑁆𑀘 𑀧𑀦𑀸𑀯𑀼𑀲𑁄 𑀲𑀸𑀭𑀺𑀧𑀼𑀢𑁆𑀢, 𑀅𑀧𑁆𑀧𑀫𑀸𑀤𑀸𑀬𑀸”𑀢𑀺𑁇
+> 
+> 1326  “‘Nibbānaṃ, nibbānan’ti, āvuso sāriputta, vuccati. Katamaṃ nu kho, āvuso, nibbānan”ti? “Yo kho, āvuso, rāgakkhayo dosakkhayo mohakkhayo—  idaṃ vuccati nibbānan”ti. “Atthi panāvuso, maggo atthi paṭipadā etassa nibbānassa sacchikiriyāyā”ti? “Atthi kho, āvuso, maggo atthi paṭipadā etassa nibbānassa sacchikiriyāyā”ti. “Katamo panāvuso, maggo katamā paṭipadā etassa nibbānassa sacchikiriyāyā”ti? “Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo etassa nibbānassa sacchikiriyāya, seyyathidaṃ—  sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi. Ayaṃ kho, āvuso, maggo ayaṃ paṭipadā etassa nibbānassa sacchikiriyāyā”ti. “Bhaddako, āvuso, maggo bhaddikā paṭipadā etassa nibbānassa sacchikiriyāya. Alañca panāvuso sāriputta, appamādāyā”ti.
+> 
+> “‘Nibbāna, nibbāna’ it is said, friend Sāriputta. What, friend, is nibbāna?”
+> 
+> “The destruction of greed, the destruction of hatred, the destruction of delusion — this, friend, is called nibbāna.”
+> 
+> “Is there, friend, a path, a practice for the realization of this nibbāna?”
+> 
+> “There is, friend, a path, a practice for the realization of this nibbāna.”
+> 
+> “What, friend, is that path, what is that practice for the realization of this nibbāna?”
+> 
+> “It is, friend, this Eightfold Path for the realisation of this nibbāna, namely — right view, right resolve, right speech, right action, right way of living, right effort, right awareness, right focus. This, friend, is the path, this is the practice for the realisation of this nibbāna.”
+> 
+> “Excellent, friend, is the path, excellent is the practice for the realization of this nibbāna. And it is enough, friend Sāriputta, for diligence.”
+
+[17A9/1.4.3 Nibbānasukhasutta](https://tipitaka2500.github.io/tipitaka/17A9/1/1.4/1.4.3.html) explains that `nibbāna` is the "supreme happiness" that the Buddha referred to.
+
+> 𑀏𑀓𑀁 𑀲𑀫𑀬𑀁 𑀆𑀬𑀲𑁆𑀫𑀸 𑀲𑀸𑀭𑀺𑀧𑀼𑀢𑁆𑀢𑁄 𑀭𑀸𑀚𑀕𑀳𑁂 𑀯𑀺𑀳𑀭𑀢𑀺 𑀯𑁂𑀴𑀼𑀯𑀦𑁂 𑀓𑀮𑀦𑁆𑀤𑀓𑀦𑀺𑀯𑀸𑀧𑁂𑁇 𑀢𑀢𑁆𑀭 𑀔𑁄 𑀆𑀬𑀲𑁆𑀫𑀸 𑀲𑀸𑀭𑀺𑀧𑀼𑀢𑁆𑀢𑁄 𑀪𑀺𑀓𑁆𑀔𑀽 𑀆𑀫𑀦𑁆𑀢𑁂𑀲𑀺—  “𑀲𑀼𑀔𑀫𑀺𑀤𑀁, 𑀆𑀯𑀼𑀲𑁄, 𑀦𑀺𑀩𑁆𑀩𑀸𑀦𑀁𑁇 𑀲𑀼𑀔𑀫𑀺𑀤𑀁, 𑀆𑀯𑀼𑀲𑁄, 𑀦𑀺𑀩𑁆𑀩𑀸𑀦𑀦𑁆”𑀢𑀺𑁇 𑀏𑀯𑀁 𑀯𑀼𑀢𑁆𑀢𑁂, 𑀆𑀬𑀲𑁆𑀫𑀸 𑀉𑀤𑀸𑀬𑀻 𑀆𑀬𑀲𑁆𑀫𑀦𑁆𑀢𑀁 𑀲𑀸𑀭𑀺𑀧𑀼𑀢𑁆𑀢𑀁 𑀏𑀢𑀤𑀯𑁄𑀘—  “𑀓𑀺𑀁 𑀧𑀦𑁂𑀢𑁆𑀣, 𑀆𑀯𑀼𑀲𑁄 𑀲𑀸𑀭𑀺𑀧𑀼𑀢𑁆𑀢, 𑀲𑀼𑀔𑀁 𑀬𑀤𑁂𑀢𑁆𑀣 𑀦𑀢𑁆𑀣𑀺 𑀯𑁂𑀤𑀬𑀺𑀢𑀦𑁆”𑀢𑀺? “𑀏𑀢𑀤𑁂𑀯 𑀔𑁆𑀯𑁂𑀢𑁆𑀣, 𑀆𑀯𑀼𑀲𑁄, 𑀲𑀼𑀔𑀁 𑀬𑀤𑁂𑀢𑁆𑀣 𑀦𑀢𑁆𑀣𑀺 𑀯𑁂𑀤𑀬𑀺𑀢𑀁𑁇 𑀧𑀜𑁆𑀘𑀺𑀫𑁂
+> 
+> 259  Ekaṃ samayaṃ āyasmā sāriputto rājagahe viharati veḷuvane kalandakanivāpe. Tatra kho āyasmā sāriputto bhikkhū āmantesi—  “sukhamidaṃ, āvuso, nibbānaṃ. Sukhamidaṃ, āvuso, nibbānan”ti. Evaṃ vutte, āyasmā udāyī āyasmantaṃ sāriputtaṃ etadavoca—  “kiṃ panettha, āvuso sāriputta, sukhaṃ yadettha natthi vedayitan”ti? “Etadeva khvettha, āvuso, sukhaṃ yadettha natthi vedayitaṃ.
+> 
+> Once, the āyasmā Sāriputta was staying at Rājagaha, in the Bamboo Grove, at the Squirrels’ Feeding Place. There, the venerable Sāriputta addressed the bhikkhus:
+> 
+> “This, friends, is happiness, nibbāna. This, friends, is happiness, nibbāna.”
+> 
+> When this was said, the āyasmā Udāyī said to the āyasmā Sāriputta:
+> 
+> “What, friend Sāriputta, is the happiness here, where there is no feeling?”
+> 
+> “This, friend, is indeed the happiness here, that there is no feeling. ”
+
+## Dictionary definitions
 
 According to the [PTS Pali-English Dictionary (PED)](https://dsal.uchicago.edu/cgi-bin/app/pali_query.py?qs=nibbāna&searchhws=yes&matchtype=exact), `nibbāna` is commonly regarded as "extinguishment" or "going out of a lamp or fire". The PED describes the Buddhist use of the word as "... an ethical state, to be reached in this birth by ethical practices, contemplation and insight. It is therefore not transcendental."
 
@@ -26,6 +254,13 @@ According to the New Concise Pali-English dictionary, `nibbāna` is:
 >1. the ceasing to burn, going out.
 >2. freedom from care or passion, a sense of bodily well-being; ease, happiness.
 >3. the ceasing to burn, going out (of the fires of passion etc); the ceasing, coming to an end, of all that furnishes fuel for rebirth; the end of the possibility of rebirth; freedom from all concerns and passions; the sense of well-being, ease, happiness, experienced through the knowledge of this freedom in oneself.
+
+Margaret Cone's Dictionary of Pali reverts to a more mundane, "rational" explanation:
+
+> 1. the ceasing to burn, going out;
+> 2. freedom from care or passion, a sense of bodily well-being; ease, happiness;
+> 3. the ceasing to burn, going out (of the fires of passion etc); the ceasing, coming to an end, of all that furnishes fuel for rebirth; the end of the possibility of rebirth; freedom from all concerns and passions; the sense of well-being, ease, happiness, experienced through the knowledge of this freedom in oneself;
+> 4. death (without the possibility of rebirth); 
 
 ## How did the Buddha use the term `nibbāna`
 
@@ -48,12 +283,13 @@ And yet `nibbāna` as a "concept" (`nibbānadhātu`) remains even after an enlig
 
 [**Samādhisutta** AN 10.6 PTS 5.8](https://suttacentral.net/an10.6) (as well as similar wordings in AN3.32, AN10.7, AN10.60 etc.) describes "the stilling of all activities, the relinquishing of all acquisitions, the destruction of craving, dispassion, cessation" as "peaceful, and sublime" (`etaṁ santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānan`). So it seems this is a "stock phrase" or pericope, possibly inserted at a later stage.
 
-```markmap
-# SN 12.70
-- khīṇā jāti
-- vusitaṁ brahmacariyaṁ
-- kataṁ karaṇīyaṁ
-- nāparaṁ itthattāyāti pajānāma
+```mermaid
+mindmap
+  root((SN 12.70))
+    khīṇā jāti
+    usitaṁ brahmacariyaṁ
+    kataṁ karaṇīyaṁ
+    nāparaṁ itthattāyāti pajānāma
 ```
 
 The Buddha warned in [**Mūlapariyāyasutta** MN 1 PTS 1.1–1.6](https://suttacentral.net/mn1) that those who have not "directly experienced" `nibbāna` may not understand it completely and hence develop wrong views:

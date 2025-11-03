@@ -5,6 +5,8 @@ sidebar:
   order: 20
 ---
 
+## Introduction
+
 We cannot be assured that the Buddhist scriptures contains the exact words of his teachings, nor can we be assured it only contains his teachings and not additional material added after he has died.
 
 Although all efforts have been made to preserve the accuracy of the teachings, errors and omissions may have crept in over the years.
@@ -13,29 +15,59 @@ In particular, the words have been rearranged so that his teachings are suitable
 
 Additional content may have been added (potentially from disciples, or imported from other teachers and philosophies such as Jainism, Brahmanism or Hinduism).
 
-Therefore, every scripture needs to be carefully considered and evaluated before we accept it as something he actually taught.
+Therefore, every piece of text or scripture needs to be carefully considered and evaluated before we accept it as something he actually taught.
 
-This applies even to (supposedly) his earliest discourses. According to [**Mahākhandhaka** Kd 1 PTS 1.1–1.100](https://suttacentral.net/pli-tv-kd1), the five monks that Buddha taught the first and second discourses to all attained enlightenment (presumably immediately afterwards):
+## Discrepancies and Variations
 
->6.29.4 `Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsu.`
->And while this exposition was being spoken to the monks from the group of five, their minds were freed from the corruptions through letting go.
+This applies even to (supposedly) his earliest discourses. According to [3V/1.6 Pañcavaggiyakathā](https://suttacentral.net/pli-tv-kd1), after giving the First Discourse to his five former companions, one of them ( āyasmā Aññāsi Koṇḍañña) understood immediately. He requested and received `pabbajja` (renunciation) and `upasampadā` (ordination) from the Buddha and thus became his first disciple.
 
-And yet, in [**Pāsarāsisutta** MN 26 PTS 1.161–1.175](https://suttacentral.net/mn26):
+> 𑀇𑀫𑀲𑁆𑀫𑀺𑀜𑁆𑀘 𑀧𑀦 𑀯𑁂𑀬𑁆𑀬𑀸𑀓𑀭𑀡𑀲𑁆𑀫𑀺𑀁 𑀪𑀜𑁆𑀜𑀫𑀸𑀦𑁂 𑀆𑀬𑀲𑁆𑀫𑀢𑁄 𑀓𑁄𑀡𑁆𑀟𑀜𑁆𑀜𑀲𑁆𑀲 𑀯𑀺𑀭𑀚𑀁 𑀯𑀻𑀢𑀫𑀮𑀁 𑀥𑀫𑁆𑀫𑀘𑀓𑁆𑀔𑀼𑀁 𑀉𑀤𑀧𑀸𑀤𑀺—  “𑀬𑀁 𑀓𑀺𑀜𑁆𑀘𑀺 𑀲𑀫𑀼𑀤𑀬𑀥𑀫𑁆𑀫𑀁 𑀲𑀩𑁆𑀩𑀁 𑀢𑀁 𑀦𑀺𑀭𑁄𑀥𑀥𑀫𑁆𑀫𑀦𑁆”𑀢𑀺𑁇
+> 
+> 81  Imasmiñca pana veyyākaraṇasmiṃ bhaññamāne āyasmato koṇḍaññassa virajaṃ vītamalaṃ dhammacakkhuṃ udapādi—  “yaṃ kiñci samudayadhammaṃ sabbaṃ taṃ nirodhadhamman”ti.
+> 
+> And while this exposition was being spoken, to āyasmā Koṇḍañña there arose the pure, stainless insight into the Dhamma: ‘Whatever is subject to origination is subject to cessation.’
 
->29.1 `Asakkhiṁ kho ahaṁ, bhikkhave, pañcavaggiye bhikkhū saññāpetuṁ.`
->I was able to persuade the group of five bhikkhus.
->29.2 `Dvepi sudaṁ, bhikkhave, bhikkhū ovadāmi, tayo bhikkhū piṇḍāya caranti.`
->Then sometimes I advised two bhikkhus, while the other three went for alms.
->29.3 `Yaṁ tayo bhikkhū piṇḍāya caritvā āharanti tena chabbaggiyā yāpema.`
->Then those three would feed all six of us with what they brought back.
->29.4 `Tayopi sudaṁ, bhikkhave, bhikkhū ovadāmi, dve bhikkhū piṇḍāya caranti.`
->Sometimes I advised three bhikkhus, while the other two went for alms.
->29.5 `Yaṁ dve bhikkhū piṇḍāya caritvā āharanti tena chabbaggiyā yāpema.`
->Then those two would feed all six of us with what they brought back.
+...
 
-So it would seem the 5 monks were not enlightened immediately, but it was a process that took some time. Johannes Bronkhorst argues in [**The Two Traditions Of Meditation In Ancient India**](https://archive.org/details/TheTwoTraditionsOfMeditationInAncientIndia) p. 84 that the Buddha's early teachings were probably "personal advice, adjusted to the needs of each person." Both Bronkhorst and Gombrich argues that the Four Pure Truths (`cattāri ariyasaccāni`) are unlikely to constitute "liberating insight" as they do not really describe the specific process of attaining liberation or articulate the necessary prerequisites, such as the elimination of effluents or intoxicants. Therefore, it seems likely the exact formulation of the truths are a later synthesis. Similar arguments can be made for the contents of the Second and Third Discourses, and even the formulation of the links to Dependent Origination may have been adjusted and amended over time, given the variance in the number of items in the chain in various suttas.
+> 𑀅𑀣 𑀔𑁄 𑀪𑀕𑀯𑀸 𑀇𑀫𑀁 𑀉𑀤𑀸𑀦𑀁 𑀉𑀤𑀸𑀦𑁂𑀲𑀺—  “𑀅𑀜𑁆𑀜𑀸𑀲𑀺 𑀯𑀢 𑀪𑁄 𑀓𑁄𑀡𑁆𑀟𑀜𑁆𑀜𑁄, 𑀅𑀜𑁆𑀜𑀸𑀲𑀺 𑀯𑀢 𑀪𑁄 𑀓𑁄𑀡𑁆𑀟𑀜𑁆𑀜𑁄”𑀢𑀺𑁇 𑀇𑀢𑀺 𑀳𑀺𑀤𑀁 𑀆𑀬𑀲𑁆𑀫𑀢𑁄 𑀓𑁄𑀡𑁆𑀟𑀜𑁆𑀜𑀲𑁆𑀲 “𑀅𑀜𑁆𑀜𑀸𑀲𑀺𑀓𑁄𑀡𑁆𑀟𑀜𑁆𑀜𑁄” 𑀢𑁆𑀯𑁂𑀯 𑀦𑀸𑀫𑀁 𑀅𑀳𑁄𑀲𑀺𑁇
+> 
+> 84  Atha kho bhagavā imaṃ udānaṃ udānesi—  “aññāsi vata bho koṇḍañño, aññāsi vata bho koṇḍañño”ti. Iti hidaṃ āyasmato koṇḍaññassa “aññāsikoṇḍañño” tveva nāmaṃ ahosi.
+> 
+> Then the Bhagavā uttered this exclamation: “Indeed, Koṇḍañña has understood! Indeed, Koṇḍañña has understood!” In this way, the āyasmā Koṇḍañña came to be known as “Aññāsi Koṇḍañña” (Koṇḍañña Who Has Understood).
+>
+> 𑀅𑀣 𑀔𑁄 𑀆𑀬𑀲𑁆𑀫𑀸 𑀅𑀜𑁆𑀜𑀸𑀲𑀺𑀓𑁄𑀡𑁆𑀟𑀜𑁆𑀜𑁄 𑀤𑀺𑀝𑁆𑀞𑀥𑀫𑁆𑀫𑁄 𑀧𑀢𑁆𑀢𑀥𑀫𑁆𑀫𑁄 𑀯𑀺𑀤𑀺𑀢𑀥𑀫𑁆𑀫𑁄 𑀧𑀭𑀺𑀬𑁄𑀕𑀸𑀴𑁆𑀳𑀥𑀫𑁆𑀫𑁄 𑀢𑀺𑀡𑁆𑀡𑀯𑀺𑀘𑀺𑀓𑀺𑀘𑁆𑀙𑁄 𑀯𑀺𑀕𑀢𑀓𑀣𑀁𑀓𑀣𑁄 𑀯𑁂𑀲𑀸𑀭𑀚𑁆𑀚𑀧𑁆𑀧𑀢𑁆𑀢𑁄 𑀅𑀧𑀭𑀧𑁆𑀧𑀘𑁆𑀘𑀬𑁄 𑀲𑀢𑁆𑀣𑀼𑀲𑀸𑀲𑀦𑁂 𑀪𑀕𑀯𑀦𑁆𑀢𑀁 𑀏𑀢𑀤𑀯𑁄𑀘—  “𑀮𑀪𑁂𑀬𑁆𑀬𑀸𑀳𑀁, 𑀪𑀦𑁆𑀢𑁂, 𑀪𑀕𑀯𑀢𑁄 𑀲𑀦𑁆𑀢𑀺𑀓𑁂 𑀧𑀩𑁆𑀩𑀚𑁆𑀚𑀁, 𑀮𑀪𑁂𑀬𑁆𑀬𑀁 𑀉𑀧𑀲𑀫𑁆𑀧𑀤𑀦𑁆”𑀢𑀺𑁇 “𑀏𑀳𑀺 𑀪𑀺𑀓𑁆𑀔𑀽”𑀢𑀺 𑀪𑀕𑀯𑀸 𑀅𑀯𑁄𑀘—  “𑀲𑁆𑀯𑀸𑀓𑁆𑀔𑀸𑀢𑁄 𑀥𑀫𑁆𑀫𑁄, 𑀘𑀭 𑀩𑁆𑀭𑀳𑁆𑀫𑀘𑀭𑀺𑀬𑀁 𑀲𑀫𑁆𑀫𑀸 𑀤𑀼𑀓𑁆𑀔𑀲𑁆𑀲 𑀅𑀦𑁆𑀢𑀓𑀺𑀭𑀺𑀬𑀸𑀬𑀸”𑀢𑀺𑁇 𑀲𑀸𑀯 𑀢𑀲𑁆𑀲 𑀆𑀬𑀲𑁆𑀫𑀢𑁄 𑀉𑀧𑀲𑀫𑁆𑀧𑀤𑀸 𑀅𑀳𑁄𑀲𑀺𑁇
+> 
+> 85  Atha kho āyasmā aññāsikoṇḍañño diṭṭhadhammo pattadhammo viditadhammo pariyogāḷhadhammo tiṇṇavicikiccho vigatakathaṃkatho vesārajjappatto aparappaccayo satthusāsane bhagavantaṃ etadavoca—  “labheyyāhaṃ, bhante, bhagavato santike pabbajjaṃ, labheyyaṃ upasampadan”ti. “Ehi bhikkhū”ti bhagavā avoca—  “svākkhāto dhammo, cara brahmacariyaṃ sammā dukkhassa antakiriyāyā”ti. Sāva tassa āyasmato upasampadā ahosi.
+> 
+> Then the āyasmā Aññāsi Koṇḍañña, who has seen the Dhamma, attained the Dhamma, understood the Dhamma, deeply penetrated the Dhamma, overcome uncertainty, free from doubt, not relying on another teacher’s instructions, said to the Bhagavā: “Bhante, may I receive the going forth (`pabbajjā`) in the Bhagavā’s presence? May I receive the full ordination (`upasampadā`)?” “Come, bhikkhu,” the Bhagavā said, “The Dhamma is well-proclaimed. Live the optimal life for the complete ending of suffering.” That itself was the āyasmant's full ordination.
 
-### Turning `buddhavacana` into `abhidhamma` and `Mahāyāna`
+In between the the first and second discourses, the Buddha taught another discourse (not elaborated) which caused another two āyasmants to understand and also receive ordination - Vappa and Bhaddiya. After this, the three disciples who has understood went on an alms round and fetched food whilst the Buddha taught the remaining two with another discourse (also not elaborated). This caused the remaining two to understand and receive the ordination.
+
+The Buddha then taught what is now known as the Second Discourse to all five āyasmants, which caused all of them to become fully liberated (arahants).
+
+> 𑀇𑀤𑀫𑀯𑁄𑀘 𑀪𑀕𑀯𑀸𑁇 𑀅𑀢𑁆𑀢𑀫𑀦𑀸 𑀧𑀜𑁆𑀘𑀯𑀕𑁆𑀕𑀺𑀬𑀸 𑀪𑀺𑀓𑁆𑀔𑀽 𑀪𑀕𑀯𑀢𑁄 𑀪𑀸𑀲𑀺𑀢𑀁 𑀅𑀪𑀺𑀦𑀦𑁆𑀤𑀼𑀦𑁆𑀢𑀺𑁇 𑀇𑀫𑀲𑁆𑀫𑀺𑀜𑁆𑀘 𑀧𑀦 𑀯𑁂𑀬𑁆𑀬𑀸𑀓𑀭𑀡𑀲𑁆𑀫𑀺𑀁 𑀪𑀜𑁆𑀜𑀫𑀸𑀦𑁂 𑀧𑀜𑁆𑀘𑀯𑀕𑁆𑀕𑀺𑀬𑀸𑀦𑀁 𑀪𑀺𑀓𑁆𑀔𑀽𑀦𑀁 𑀅𑀦𑀼𑀧𑀸𑀤𑀸𑀬 𑀆𑀲𑀯𑁂𑀳𑀺 𑀘𑀺𑀢𑁆𑀢𑀸𑀦𑀺 𑀯𑀺𑀫𑀼𑀘𑁆𑀘𑀺𑀁𑀲𑀼𑁇 𑀢𑁂𑀦 𑀔𑁄 𑀧𑀦 𑀲𑀫𑀬𑁂𑀦 𑀙 𑀮𑁄𑀓𑁂 𑀅𑀭𑀳𑀦𑁆𑀢𑁄 𑀳𑁄𑀦𑁆𑀢𑀺𑁇
+> 
+> 105  Idamavoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṃ abhinandunti. Imasmiñca pana veyyākaraṇasmiṃ bhaññamāne pañcavaggiyānaṃ bhikkhūnaṃ anupādāya āsavehi cittāni vimucciṃsu. Tena kho pana samayena cha loke arahanto honti.
+> 
+> The Bhagavā said this.
+> 
+> Pleased, the bhikkhus from the group of five rejoiced in the Bhagavā’s words.
+> 
+> And while this exposition was being spoken to the bhikkhus from the group of five, their minds were freed from the corruptions through letting go.
+> 
+> At that time there were six arahants in the world.
+
+The above passages imply the progress from not understanding, to understanding, to liberation, took probably a day or two (taking the gathering of alms and the meal into account). And yet, in [9M/3.6 Pāsarāsisutta](https://tipitaka2500.github.io/tipitaka/9M/3/3.6.html) it seems the process took much longer, possibly many days:
+
+> 𑀅𑀲𑀓𑁆𑀔𑀺𑀁 𑀔𑁄 𑀅𑀳𑀁, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀧𑀜𑁆𑀘𑀯𑀕𑁆𑀕𑀺𑀬𑁂 𑀪𑀺𑀓𑁆𑀔𑀽 𑀲𑀜𑁆𑀜𑀸𑀧𑁂𑀢𑀼𑀁𑁇 𑀤𑁆𑀯𑁂𑀧𑀺 𑀲𑀼𑀤𑀁, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀪𑀺𑀓𑁆𑀔𑀽 𑀑𑀯𑀤𑀸𑀫𑀺, 𑀢𑀬𑁄 𑀪𑀺𑀓𑁆𑀔𑀽 𑀧𑀺𑀡𑁆𑀟𑀸𑀬 𑀘𑀭𑀦𑁆𑀢𑀺𑁇 𑀬𑀁 𑀢𑀬𑁄 𑀪𑀺𑀓𑁆𑀔𑀽 𑀧𑀺𑀡𑁆𑀟𑀸𑀬 𑀘𑀭𑀺𑀢𑁆𑀯𑀸 𑀆𑀳𑀭𑀦𑁆𑀢𑀺 𑀢𑁂𑀦 𑀙𑀩𑁆𑀩𑀕𑁆𑀕𑀺𑀬𑀸 𑀬𑀸𑀧𑁂𑀫𑁇 𑀢𑀬𑁄𑀧𑀺 𑀲𑀼𑀤𑀁, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀪𑀺𑀓𑁆𑀔𑀽 𑀑𑀯𑀤𑀸𑀫𑀺, 𑀤𑁆𑀯𑁂 𑀪𑀺𑀓𑁆𑀔𑀽 𑀧𑀺𑀡𑁆𑀟𑀸𑀬 𑀘𑀭𑀦𑁆𑀢𑀺𑁇 𑀬𑀁 𑀤𑁆𑀯𑁂 𑀪𑀺𑀓𑁆𑀔𑀽 𑀧𑀺𑀡𑁆𑀟𑀸𑀬 𑀘𑀭𑀺𑀢𑁆𑀯𑀸 𑀆𑀳𑀭𑀦𑁆𑀢𑀺 𑀢𑁂𑀦 𑀙𑀩𑁆𑀩𑀕𑁆𑀕𑀺𑀬𑀸 𑀬𑀸𑀧𑁂𑀫𑁇
+> 
+> 992  Asakkhiṃ kho ahaṃ, bhikkhave, pañcavaggiye bhikkhū saññāpetuṃ. Dvepi sudaṃ, bhikkhave, bhikkhū ovadāmi, tayo bhikkhū piṇḍāya caranti. Yaṃ tayo bhikkhū piṇḍāya caritvā āharanti tena chabbaggiyā yāpema. Tayopi sudaṃ, bhikkhave, bhikkhū ovadāmi, dve bhikkhū piṇḍāya caranti. Yaṃ dve bhikkhū piṇḍāya caritvā āharanti tena chabbaggiyā yāpema.
+> 
+> I was able to instruct the group of five bhikkhus. Indeed, bhikkhave, I instructed two bhikkhus, while three bhikkhus went for alms. With what the three bhikkhus brought back after going for alms, we six sustained ourselves. Indeed, bhikkhave, I instructed three bhikkhus, while two bhikkhus went for alms. With what the two bhikkhus brought back after going for alms, we six sustained ourselves.
+
+Johannes Bronkhorst argues in [**The Two Traditions Of Meditation In Ancient India**](https://archive.org/details/TheTwoTraditionsOfMeditationInAncientIndia) p. 84 that the Buddha's early teachings were probably "personal advice, adjusted to the needs of each person." Both Bronkhorst and Gombrich argues that the Four Realisations (`cattāri ariyasaccāni`) are unlikely to constitute "liberating insight" as they do not really describe the specific process of attaining liberation or articulate the necessary prerequisites, such as the elimination of taints. Therefore, it seems likely the exact formulation of the truths are a later synthesis. Similar arguments can be made for the contents of the Second and Third Discourses, and even the formulation of the links to Dependent Origination may have been adjusted and amended over time, given the variance in the number of items in the chain in various suttas.
+
+## Turning `buddhavacana` into `abhidhamma` and `Mahāyāna`
 
 According to Jayarava in [**Why Did Buddhists Abandon Buddhavacana?**](https://jayarava.blogspot.com/2023/11/why-did-buddhists-abandon-buddhavana.html):
 

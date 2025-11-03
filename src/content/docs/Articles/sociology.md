@@ -1,7 +1,11 @@
-
-## Buddhist sociology
+---
+title: Buddhist sociology
+sidebar:
+  label: Sociology
+---
 
 The Buddha lived in a period of urbanisation in India, transitioning from villages to towns and cities, together with the rise of trade (across cities and towns). The population was divided into 4 castes (`varṇa`[S]) (as well as "outcastes" or those outside the social hierarchy). There was an established or "mainstream" religious and cultural system that I will call "brahmanism" administered by the religious caste (`brāhmaṇa`[S]).[^3]
+
 [^3]: [**Theravāda Buddhism**](https://www.academia.edu/4482905/Theravada_Buddhism_by_Richard_Gombrich) The Social Conditions Of His Day pp. 49-56. Interestingly, Johannes Bronkhorst in [**Buddhism in the Shadow of Brahmanism**](https://ia802903.us.archive.org/8/items/profsaraobooks/KTS.Bronkhorst.Buddhism%20in%20the%20Shadow%20of%20Brahmanism.pdf) presents a counter-opinion, that "the Brahmins, did not occupy a dominant position in the area in which the Buddha preached his message" and that Brahmanism didn't really spread until after the reign of Asoka. This would imply all the brahmanical references found in the Tipiṭaka must be from a later period when Buddhism found itself in competition with Brahmanism.
 
 However, with the rise of trade, members of the merchant and farming caste (`vaiśya`[S]), together with the political caste (`kṣatriya`[S]), were becoming more affluent and powerful and were open to new religious ideas. These represent the primary audience that was drawn to the Buddha's teachings, although the Buddha also won converts from brahmanism and welcomed followers from the artisan and worker caste (`śūdra`[S]).
