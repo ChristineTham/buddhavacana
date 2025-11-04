@@ -1,11 +1,11 @@
 ---
-draft: true
 title: My Approach towards studying `buddhavacana`
 sidebar:
   label: Approach
+  order: 4
 ---
 
-So, what is the path forward? Is there a way to "rediscover" the original intent and teachings of the Buddha, or are we doomed to wait for the "next" Buddha, who may not appear for thousands of years?
+Is there a way to "rediscover" the original intent and teachings of the Buddha, or are we doomed to wait for the "next" Buddha, who may not appear for thousands of years?
 
 In the pages of this website, I hope to document my journey towards my quest to truly understand what the Buddha really taught, and use that as a basis for my own "salvation", or freedom from suffering and craving.
 

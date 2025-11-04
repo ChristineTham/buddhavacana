@@ -2,7 +2,7 @@
 title: The evolution (and devolution) of Buddha's teachings
 sidebar:
   label: "Evolution and Devolution"
-  order: 20
+  order: 21
 ---
 
 ## Introduction
