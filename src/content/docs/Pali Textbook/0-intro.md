@@ -2,7 +2,7 @@
 title: "0: Introduction"
 sidebar:
   label: "0: Introduction"
-  order: 402
+  order: 502
 description: >
   Motivation for writing this book, the goal and structure of the book, and prerequisites for the reader
 categories: ["palibook"]

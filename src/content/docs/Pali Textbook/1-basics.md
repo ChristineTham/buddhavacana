@@ -2,7 +2,7 @@
 title: "1: The Pali Language Basics"
 sidebar:
   label: "1: Basics"
-  order: 403
+  order: 503
 description: >
   A concise overview of the Pali language covering key features
 categories: ["palibook"]

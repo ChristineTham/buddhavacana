@@ -2,7 +2,7 @@
 title: "Book and Article Summaries"
 sidebar:
   label: "Introduction"
-weight: 501
+weight: 601
 description: >
   Summaries of Buddhist books and articles
 ---

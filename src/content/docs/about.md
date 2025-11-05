@@ -21,7 +21,7 @@ Unless otherwise stated, all translations from Pāḷi to English on this websit
 
 [Brahmi](/buddhavacana/reference/brahmi/) script is one of the earliest scripts known to India. It came into existence in the form of stone inscriptions during the reign of Asoka, in 4th - 3rd century BCE. Buddhist scriptures inscribed in Brahmi have been found in a collection of manuscripts in caves in Bamiyan (eastern Afghanistan), Gandhara in 1993-95. These are among the earliest surviving Buddhist scriptures that have been discovered.
 
-This website documents my journey reading and studying Buddhist texts, from the Pāli Canon (Tipiṭaka) and other texts, but also from various books and articles on Buddhism. It also currently contains some Pāḷi learning resources, such as my Pāḷi dictionary and textbook.
+This website documents my journey reading and studying Buddhist texts, from the Pāḷi Canon (Tipiṭaka) and other texts, but also from various books and articles on Buddhism. It also currently contains some Pāḷi learning resources, such as my Pāḷi dictionary and textbook. Lately I have also started to include Sanskrit texts from a wider corpus. My knowledge of Sanskrit is not as strong as my knowledge of Pāḷi, so please forgive the higher propensity for errors appearing in my Sanskrit to English translations.
 
 This website also allows me to explore my thoughts on what the Buddha may have meant in his teachings, alternative views, and how Buddhism has developed over time. Lately, I have been exploring a larger collection of Buddhist texts and teachings from various traditions.
 
@@ -64,4 +64,4 @@ I have spent the last several years learning Pāḷi and are now finally able to
 ## Technical details regarding this website
 
 
-This website is hosted on [Github](https://github.com) using [Github Pages](https://pages.github.com). It generated from Markdown and Markdoc using [Astro](https://astro.build) and the [Starlight](https://starlight.astro.build) theme.
+This website is hosted on [Github](https://github.com) using [Github Pages](https://pages.github.com). It generated from Markdown and MDX using [Astro](https://astro.build) and the [Starlight](https://starlight.astro.build) theme.

@@ -2,7 +2,7 @@
 title: "A Beginner (Non-Linguist) Guide to Learning Pali"
 sidebar:
   label: "Pali Textbook"
-  order: 401
+  order: 501
 description: >
   My work in progress textbook on learning Pali, based on **Kaccāyana Pali Vyākaraṇam**, the oldest extant Pali grammar book
 ---

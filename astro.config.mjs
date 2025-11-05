@@ -1,7 +1,6 @@
 // @ts-check
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
-import markdoc from "@astrojs/markdoc";
 import mermaid from "astro-mermaid";
 import plantuml from "astro-plantuml";
 
@@ -10,6 +9,8 @@ export default defineConfig({
   site: "https://christham.net",
   base: "/buddhavacana/",
   integrations: [
+    mermaid(),
+    plantuml(),
     starlight({
       title: "buddhavacana",
       description:
@@ -44,8 +45,5 @@ export default defineConfig({
       favicon: "/favicon.svg",
       lastUpdated: true,
     }),
-    mermaid(),
-    plantuml(),
-    markdoc(),
   ],
 });

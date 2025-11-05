@@ -2,7 +2,7 @@
 title: "Pali Learning Notes and Answers to Warder's textbook"
 sidebar:
   label: "Introduction"
-  order: 301
+  order: 401
 description: >
   Notes from the Pali course based on Warder's "Introduction to Pali"
 ---

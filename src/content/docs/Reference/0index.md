@@ -2,7 +2,7 @@
 title: "Reference"
 sidebar:
   label: "Introduction"
-weight: 601
+  order: 901
 description: >
   Buddhist resources
 ---
