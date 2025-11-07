@@ -28,12 +28,12 @@
     "@cspell/dict-en-au": "^1.1.12",
     "@fontsource/noto-sans": "^5.2.10",
     "@fontsource/noto-sans-mono": "^5.2.10",
-    "astro": "^5.15.3",
+    "astro": "^5.15.4",
     "astro-mermaid": "^1.1.0",
     "astro-plantuml": "^0.1.4",
-    "cspell": "^9.2.2",
+    "cspell": "^9.3.0",
     "mermaid": "^11.12.1",
-    "sharp": "^0.34.4",
+    "sharp": "^0.34.5",
     "typescript": "^5.9.3"
   },
   "packageManager": "pnpm@10.19.0+sha512.c9fc7236e92adf5c8af42fd5bf1612df99c2ceb62f27047032f4720b33f8eacdde311865e91c411f2774f618d82f320808ecb51718bfa82c060c4ba7c76a32b8"
