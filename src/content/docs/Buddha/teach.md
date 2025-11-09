@@ -5,7 +5,6 @@ sidebar:
   label: What Did the Buddha Teach?
 ---
 
-
 The awakening of the Buddha, plus the first three discourses, can be summarised into a single diagram:
 
 ```mermaid
