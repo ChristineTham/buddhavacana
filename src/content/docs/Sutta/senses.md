@@ -8,106 +8,103 @@ sidebar:
   label: Six Senses
 ---
 
-```mermaid
-mindmap
-  saḷāyatanavibhaṅgo
-    cha ajjhattikāni āyatanāni
-      cakkhāyatanaṁ
-      sotāyatanaṁ
-      ghānāyatanaṁ
-      jivhāyatanaṁ
-      kāyāyatanaṁ
-      manāyatanaṁ
-    cha bāhirāni āyatanāni
-      rūpāyatanaṁ
-      saddāyatanaṁ
-      gandhāyatanaṁ
-      rasāyatanaṁ
-      phoṭṭhabbāyatanaṁ
-      dhammāyatanaṁ
-    cha viññāṇakāyā
-      cakkhuviññāṇaṁ
-      sotaviññāṇaṁ
-      ghānaviññāṇaṁ
-      jivhāviññāṇaṁ
-      kāyaviññāṇaṁ
-      manoviññāṇaṁ
-    cha phassakāyā
-      cakkhusamphasso
-      sotasamphasso
-      ghānasamphasso
-      jivhāsamphasso
-      kāyasamphasso
-      manosamphasso
-    aṭṭhārasa manopavicārā
-      cakkhunā rūpaṁ disvā
-        somanassaṭṭhānīyaṁ rūpaṁ upavicarati
-        domanassaṭṭhānīyaṁ rūpaṁ upavicarati
-        upekkhāṭṭhānīyaṁ rūpaṁ upavicarati
-      Sotena saddaṁ sutvā
-        somanassaṭṭhānīyaṁ rūpaṁ upavicarati
-        domanassaṭṭhānīyaṁ rūpaṁ upavicarati
-        upekkhāṭṭhānīyaṁ rūpaṁ upavicarati
-      ghānena gandhaṁ ghāyitvā
-        somanassaṭṭhānīyaṁ rūpaṁ upavicarati
-        domanassaṭṭhānīyaṁ rūpaṁ upavicarati
-        upekkhāṭṭhānīyaṁ rūpaṁ upavicarati
-      jivhāya rasaṁ sāyitvā
-        somanassaṭṭhānīyaṁ rūpaṁ upavicarati
-        domanassaṭṭhānīyaṁ rūpaṁ upavicarati
-        upekkhāṭṭhānīyaṁ rūpaṁ upavicarati
-      kāyena phoṭṭhabbaṁ phusitvā
-        somanassaṭṭhānīyaṁ rūpaṁ upavicarati
-        domanassaṭṭhānīyaṁ rūpaṁ upavicarati
-        upekkhāṭṭhānīyaṁ rūpaṁ upavicarati
-      manasā dhammaṁ viññāya
-        somanassaṭṭhānīyaṁ dhammaṁ upavicarati
-        domanassaṭṭhānīyaṁ dhammaṁ upavicarati
-        upekkhāṭṭhānīyaṁ dhammaṁ upavicarati
-    chattiṁsa sattapadā
-      cha gehasitāni somanassāni
-        Cakkhuviññeyyānaṁ rūpānaṁ iṭṭhānaṁ kantānaṁ manāpānaṁ manoramānaṁ lokāmisapaṭisaṁyuttānaṁ paṭilābhaṁ vā paṭilābhato samanupassato pubbe vā paṭiladdhapubbaṁ atītaṁ niruddhaṁ vipariṇataṁ samanussarato uppajjati somanassaṁ. Yaṁ evarūpaṁ somanassaṁ idaṁ vuccati nekkhammasitaṁ somanassaṁ.
-        Sotaviññeyyānaṁ saddānaṁ …
-        ghānaviññeyyānaṁ gandhānaṁ …
-        jivhāviññeyyānaṁ rasānaṁ …
-        kāyaviññeyyānaṁ phoṭṭhabbānaṁ …
-        manoviññeyyānaṁ dhammānaṁ …
-      cha nekkhammasitāni somanassāni
-        Rūpānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva rūpā etarahi ca sabbe te rūpā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya passato uppajjati somanassaṁ. Yaṁ evarūpaṁ somanassaṁ idaṁ vuccati nekkhammasitaṁ somanassaṁ
-        Saddānaṁ tveva …
-        gandhānaṁ tveva …
-        rasānaṁ tveva …
-        phoṭṭhabbānaṁ tveva …
-        dhammānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva dhammā etarahi ca sabbe te dhammā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya passato uppajjati somanassaṁ. Yaṁ evarūpaṁ somanassaṁ idaṁ vuccati nekkhammasitaṁ somanassaṁ.
-      cha gehasitāni domanassāni
-        Cakkhuviññeyyānaṁ rūpānaṁ … pe…
-        sotaviññeyyānaṁ saddānaṁ …
-        ghānaviññeyyānaṁ gandhānaṁ …
-        jivhāviññeyyānaṁ rasānaṁ …
-        kāyaviññeyyānaṁ phoṭṭhabbānaṁ …
-        manoviññeyyānaṁ dhammānaṁ iṭṭhānaṁ kantānaṁ manāpānaṁ manoramānaṁ lokāmisapaṭisaṁyuttānaṁ appaṭilābhaṁ vā appaṭilābhato samanupassato pubbe vā appaṭiladdhapubbaṁ atītaṁ niruddhaṁ vipariṇataṁ samanussarato uppajjati domanassaṁ. Yaṁ evarūpaṁ domanassaṁ idaṁ vuccati gehasitaṁ domanassaṁ.
-      cha nekkhammasitāni domanassāni
-        Rūpānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva rūpā etarahi ca sabbe te rūpā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anuttaresu vimokkhesu pihaṁ upaṭṭhāpeti: ‘kudāssu nāmāhaṁ tadāyatanaṁ upasampajja viharissāmi yadariyā etarahi āyatanaṁ upasampajja viharantī’ti iti anuttaresu vimokkhesu pihaṁ upaṭṭhāpayato uppajjati pihapaccayā domanassaṁ. Yaṁ evarūpaṁ domanassaṁ idaṁ vuccati nekkhammasitaṁ domanassaṁ.
-        Saddānaṁ tveva …pe…
-        gandhānaṁ tveva …
-        rasānaṁ tveva …
-        phoṭṭhabbānaṁ tveva …
-        dhammānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva dhammā etarahi ca sabbe te dhammā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anuttaresu vimokkhesu pihaṁ upaṭṭṭhāpeti: ‘kudāssu nāmāhaṁ tadāyatanaṁ upasampajja viharissāmi yadariyā etarahi āyatanaṁ upasampajja viharantī’ti iti anuttaresu vimokkhesu pihaṁ upaṭṭhāpayato uppajjati pihapaccayā domanassaṁ. Yaṁ evarūpaṁ domanassaṁ idaṁ vuccati nekkhammasitaṁ domanassaṁ.
-      cha gehasitā upekkhā
-        Cakkhunā rūpaṁ disvā uppajjati upekkhā bālassa mūḷhassa puthujjanassa anodhijinassa avipākajinassa anādīnavadassāvino assutavato puthujjanassa. Yā evarūpā upekkhā, rūpaṁ sā nātivattati. Tasmā sā upekkhā ‘gehasitā’ti vuccati.
-        Sotena saddaṁ sutvā …
-        ghānena gandhaṁ ghāyitvā …
-        jivhāya rasaṁ sāyitvā …
-        kāyena phoṭṭhabbaṁ phusitvā …
-        manasā dhammaṁ viññāya uppajjati upekkhā bālassa mūḷhassa puthujjanassa anodhijinassa avipākajinassa anādīnavadassāvino assutavato puthujjanassa. Yā evarūpā upekkhā, dhammaṁ sā nātivattati. Tasmā sā upekkhā ‘gehasitā’ti vuccati.
-      cha nekkhammasitā upekkhā
-        Rūpānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva rūpā etarahi ca sabbe te rūpā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya passato uppajjati upekkhā. Yā evarūpā upekkhā, rūpaṁ sā ativattati. Tasmā sā upekkhā ‘nekkhammasitā’ti vuccati.
-        Saddānaṁ tveva …
-        gandhānaṁ tveva …
-        rasānaṁ tveva …
-        phoṭṭhabbānaṁ tveva …
-        dhammānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva dhammā etarahi ca sabbe te dhammā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya passato uppajjati upekkhā. Yā evarūpā upekkhā, dhammaṁ sā ativattati. Tasmā sā upekkhā ‘nekkhammasitā’ti vuccati.
-```
+* saḷāyatanavibhaṅgo (analysis of the six sense fields)
+  * cha ajjhattikāni āyatanāni (six internal sense fields)
+    * cakkhāyatanaṁ (eye sense field)
+    * sotāyatanaṁ (ear sense field)
+    * ghānāyatanaṁ (nose sense field)
+    * jivhāyatanaṁ (tongue sense field)
+    * kāyāyatanaṁ (body sense field)
+    * manāyatanaṁ (mind sense field)
+  * cha bāhirāni āyatanāni (six external sense fields)
+    * rūpāyatanaṁ (form sense field)
+    * saddāyatanaṁ (sound sense field)
+    * gandhāyatanaṁ (smell sense field)
+    * rasāyatanaṁ (taste sense field)
+    * phoṭṭhabbāyatanaṁ (touch sense field)
+    * dhammāyatanaṁ (mind-object sense field)
+  * cha viññāṇakāyā (six consciousness groups)
+    * cakkhuviññāṇaṁ (eye-consciousness)
+    * sotaviññāṇaṁ (ear-consciousness)
+    * ghānaviññāṇaṁ (nose-consciousness)
+    * jivhāviññāṇaṁ (tongue-consciousness)
+    * kāyaviññāṇaṁ (body-consciousness)
+    * manoviññāṇaṁ (mind-consciousness)
+  * cha phassakāyā (six contact groups)
+    * cakkhusamphasso (eye-contact)
+    * sotasamphasso (ear-contact)
+    * ghānasamphasso (nose-contact)
+    * jivhāsamphasso (tongue-contact)
+    * kāyasamphasso (body-contact)
+    * manosamphasso (mind-contact)
+  * aṭṭhārasa manopavicārā (eighteen mental investigations)
+    * cakkhunā rūpaṁ disvā (having seen a form with the eye)
+      * somanassaṭṭhānīyaṁ rūpaṁ upavicarati (one investigates a form that is a basis for joy)
+      * domanassaṭṭhānīyaṁ rūpaṁ upavicarati (one investigates a form that is a basis for sorrow)
+      * upekkhāṭṭhānīyaṁ rūpaṁ upavicarati (one investigates a form that is a basis for equanimity)
+    * Sotena saddaṁ sutvā (having heard a sound with the ear)
+      * somanassaṭṭhānīyaṁ rūpaṁ upavicarati (one investigates a form that is a basis for joy)
+      * domanassaṭṭhānīyaṁ rūpaṁ upavicarati (one investigates a form that is a basis for sorrow)
+      * upekkhāṭṭhānīyaṁ rūpaṁ upavicarati (one investigates a form that is a basis for equanimity)
+    * ghānena gandhaṁ ghāyitvā (having smelled an odor with the nose)
+      * somanassaṭṭhānīyaṁ rūpaṁ upavicarati (one investigates a form that is a basis for joy)
+      * domanassaṭṭhānīyaṁ rūpaṁ upavicarati (one investigates a form that is a basis for sorrow)
+      * upekkhāṭṭhānīyaṁ rūpaṁ upavicarati (one investigates a form that is a basis for equanimity)
+    * jivhāya rasaṁ sāyitvā (having tasted a flavor with the tongue)
+      * somanassaṭṭhānīyaṁ rūpaṁ upavicarati (one investigates a form that is a basis for joy)
+      * domanassaṭṭhānīyaṁ rūpaṁ upavicarati (one investigates a form that is a basis for sorrow)
+      * upekkhāṭṭhānīyaṁ rūpaṁ upavicarati (one investigates a form that is a basis for equanimity)
+    * kāyena phoṭṭhabbaṁ phusitvā (having felt a tangible object with the body)
+      * somanassaṭṭhānīyaṁ rūpaṁ upavicarati (one investigates a form that is a basis for joy)
+      * domanassaṭṭhānīyaṁ rūpaṁ upavicarati (one investigates a form that is a basis for sorrow)
+      * upekkhāṭṭhānīyaṁ rūpaṁ upavicarati (one investigates a form that is a basis for equanimity)
+    * manasā dhammaṁ viññāya (having cognized a mind-object with the mind)
+      * somanassaṭṭhānīyaṁ dhammaṁ upavicarati (one investigates a mind-object that is a basis for joy)
+      * domanassaṭṭhānīyaṁ dhammaṁ upavicarati (one investigates a mind-object that is a basis for sorrow)
+      * upekkhāṭṭhānīyaṁ dhammaṁ upavicarati (one investigates a mind-object that is a basis for equanimity)
+  * chattiṁsa sattapadā (thirty-six courses of conduct)
+    * cha gehasitāni somanassāni (six household-based joys)
+      * Cakkhuviññeyyānaṁ rūpānaṁ iṭṭhānaṁ kantānaṁ manāpānaṁ manoramānaṁ lokāmisapaṭisaṁyuttānaṁ paṭilābhaṁ vā paṭilābhato samanupassato pubbe vā paṭiladdhapubbaṁ atītaṁ niruddhaṁ vipariṇataṁ samanussarato uppajjati somanassaṁ. Yaṁ evarūpaṁ somanassaṁ idaṁ vuccati nekkhammasitaṁ somanassaṁ. (When one sees the acquisition or the having acquired of desirable, agreeable, pleasing, charming forms cognizable by the eye, connected with worldly allurements, or when one recollects past, ceased, changed forms previously acquired, joy arises. This kind of joy is called household-based joy.)
+      * Sotaviññeyyānaṁ saddānaṁ … (Of sounds cognizable by the ear...)
+      * ghānaviññeyyānaṁ gandhānaṁ … (Of odors cognizable by the nose...)
+      * jivhāviññeyyānaṁ rasānaṁ … (Of tastes cognizable by the tongue...)
+      * kāyaviññeyyānaṁ phoṭṭhabbānaṁ … (Of tangible objects cognizable by the body...)
+      * manoviññeyyānaṁ dhammānaṁ … (Of mind-objects cognizable by the mind...)
+    * cha nekkhammasitāni somanassāni (six renunciation-based joys)
+      * Rūpānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva rūpā etarahi ca sabbe te rūpā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya passato uppajjati somanassaṁ. Yaṁ evarūpaṁ somanassaṁ idaṁ vuccati nekkhammasitaṁ somanassaṁ (When one sees forms as impermanent, subject to change, fading away, and cessation, knowing 'all forms, past and present, are impermanent, suffering, and subject to change,' and thus sees this as it really is with right wisdom, joy arises. This kind of joy is called renunciation-based joy.)
+      * Saddānaṁ tveva … (Of sounds, indeed...)
+      * gandhānaṁ tveva … (Of odors, indeed...)
+      * rasānaṁ tveva … (Of tastes, indeed...)
+      * phoṭṭhabbānaṁ tveva … (Of tangible objects, indeed...)
+      * dhammānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva dhammā etarahi ca sabbe te dhammā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya passato uppajjati somanassaṁ. Yaṁ evarūpaṁ somanassaṁ idaṁ vuccati nekkhammasitaṁ somanassaṁ. (When one sees mind-objects as impermanent, subject to change, fading away, and cessation, knowing 'all mind-objects, past and present, are impermanent, suffering, and subject to change,' and thus sees this as it really is with right wisdom, joy arises. This kind of joy is called renunciation-based joy.)
+    * cha gehasitāni domanassāni (six household-based sorrows)
+      * Cakkhuviññeyyānaṁ rūpānaṁ … pe… (Of forms cognizable by the eye... (etc.))
+      * sotaviññeyyānaṁ saddānaṁ … (Of sounds cognizable by the ear...)
+      * ghānaviññeyyānaṁ gandhānaṁ … (Of odors cognizable by the nose...)
+      * jivhāviññeyyānaṁ rasānaṁ … (Of tastes cognizable by the tongue...)
+      * kāyaviññeyyānaṁ phoṭṭhabbānaṁ … (Of tangible objects cognizable by the body...)
+      * manoviññeyyānaṁ dhammānaṁ iṭṭhānaṁ kantānaṁ manāpānaṁ manoramānaṁ lokāmisapaṭisaṁyuttānaṁ appaṭilābhaṁ vā appaṭilābhato samanupassato pubbe vā appaṭiladdhapubbaṁ atītaṁ niruddhaṁ vipariṇataṁ samanussarato uppajjati domanassaṁ. Yaṁ evarūpaṁ domanassaṁ idaṁ vuccati gehasitaṁ domanassaṁ. (When one sees the non-acquisition or the not having acquired of desirable, agreeable, pleasing, charming mind-objects cognizable by the mind, connected with worldly allurements, or when one recollects past, ceased, changed mind-objects previously not acquired, sorrow arises. This kind of sorrow is called household-based sorrow.)
+    * cha nekkhammasitāni domanassāni (six renunciation-based sorrows)
+      * Rūpānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva rūpā etarahi ca sabbe te rūpā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anuttaresu vimokkhesu pihaṁ upaṭṭhāpeti: ‘kudāssu nāmāhaṁ tadāyatanaṁ upasampajja viharissāmi yadariyā etarahi āyatanaṁ upasampajja viharantī’ti iti anuttaresu vimokkhesu pihaṁ upaṭṭhāpayato uppajjati pihapaccayā domanassaṁ. Yaṁ evarūpaṁ domanassaṁ idaṁ vuccati nekkhammasitaṁ domanassaṁ. (When one sees forms as impermanent, subject to change, fading away, and cessation, knowing 'all forms, past and present, are impermanent, suffering, and subject to change,' and thus sees this as it really is with right wisdom, and conceives a longing for the unsurpassed liberations, thinking: 'When shall I dwell having attained that sphere which the noble ones now dwell having attained?', then sorrow arises due to longing. This kind of sorrow is called renunciation-based sorrow.)
+      * Saddānaṁ tveva …pe… (Of sounds, indeed... (etc.))
+      * gandhānaṁ tveva … (Of odors, indeed...)
+      * rasānaṁ tveva … (Of tastes, indeed...)
+      * phoṭṭhabbānaṁ tveva … (Of tangible objects, indeed...)
+      * dhammānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva dhammā etarahi ca sabbe te dhammā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anuttaresu vimokkhesu pihaṁ upaṭṭṭhāpeti: ‘kudāssu nāmāhaṁ tadāyatanaṁ upasampajja viharissāmi yadariyā etarahi āyatanaṁ upasampajja viharantī’ti iti anuttaresu vimokkhesu pihaṁ upaṭṭhāpayato uppajjati pihapaccayā domanassaṁ. Yaṁ evarūpaṁ domanassaṁ idaṁ vuccati nekkhammasitaṁ domanassaṁ. (When one sees mind-objects as impermanent, subject to change, fading away, and cessation, knowing 'all mind-objects, past and present, are impermanent, suffering, and subject to change,' and thus sees this as it really is with right wisdom, and conceives a longing for the unsurpassed liberations, thinking: 'When shall I dwell having attained that sphere which the noble ones now dwell having attained?', then sorrow arises due to longing. This kind of sorrow is called renunciation-based sorrow.)
+    * cha gehasitā upekkhā (six household-based equanimities)
+      * Cakkhunā rūpaṁ disvā uppajjati upekkhā bālassa mūḷhassa puthujjanassa anodhijinassa avipākajinassa anādīnavadassāvino assutavato puthujjanassa. Yā evarūpā upekkhā, rūpaṁ sā nātivattati. Tasmā sā upekkhā ‘gehasitā’ti vuccati. (Having seen a form with the eye, equanimity arises in the foolish, deluded ordinary person, one who has not overcome, who has not overcome the results, who does not see the danger, the uninstructed ordinary person. Such equanimity does not transcend the form. Therefore, that equanimity is called 'household-based'.)
+      * Sotena saddaṁ sutvā … (Having heard a sound with the ear...)
+      * ghānena gandhaṁ ghāyitvā … (Having smelled an odor with the nose...)
+      * jivhāya rasaṁ sāyitvā … (Having tasted a flavor with the tongue...)
+      * kāyena phoṭṭhabbaṁ phusitvā … (Having felt a tangible object with the body...)
+      * manasā dhammaṁ viññāya uppajjati upekkhā bālassa mūḷhassa puthujjanassa anodhijinassa avipākajinassa anādīnavadassāvino assutavato puthujjanassa. Yā evarūpā upekkhā, dhammaṁ sā nātivattati. Tasmā sā upekkhā ‘gehasitā’ti vuccati. (Having cognized a mind-object with the mind, equanimity arises in the foolish, deluded ordinary person, one who has not overcome, who has not overcome the results, who does not see the danger, the uninstructed ordinary person. Such equanimity does not transcend the mind-object. Therefore, that equanimity is called 'household-based'.)
+    * cha nekkhammasitā upekkhā (six renunciation-based equanimities)
+      * Rūpānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva rūpā etarahi ca sabbe te rūpā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya passato uppajjati upekkhā. Yā evarūpā upekkhā, rūpaṁ sā ativattati. Tasmā sā upekkhā ‘nekkhammasitā’ti vuccati. (When one sees forms as impermanent, subject to change, fading away, and cessation, knowing 'all forms, past and present, are impermanent, suffering, and subject to change,' and thus sees this as it really is with right wisdom, equanimity arises. Such equanimity transcends the form. Therefore, that equanimity is called 'renunciation-based'.)
+      * Saddānaṁ tveva … (Of sounds, indeed...)
+      * gandhānaṁ tveva … (Of odors, indeed...)
+      * rasānaṁ tveva … (Of tastes, indeed...)
+      * phoṭṭhabbānaṁ tveva … (Of tangible objects, indeed...)
+      * dhammānaṁ tveva aniccataṁ viditvā vipariṇāmavirāganirodhaṁ, ‘pubbe ceva dhammā etarahi ca sabbe te dhammā aniccā dukkhā vipariṇāmadhammā’ti evametaṁ yathābhūtaṁ sammappaññāya passato uppajjati upekkhā. Yā evarūpā upekkhā, dhammaṁ sā ativattati. Tasmā sā upekkhā ‘nekkhammasitā’ti vuccati. (When one sees mind-objects as impermanent, subject to change, fading away, and cessation, knowing 'all mind-objects, past and present, are impermanent, suffering, and subject to change,' and thus sees this as it really is with right wisdom, equanimity arises. Such equanimity transcends the mind-object. Therefore, that equanimity is called 'renunciation-based'.)
 
 ## Reference
 

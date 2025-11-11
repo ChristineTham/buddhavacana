@@ -101,57 +101,63 @@ Other references (expansion):
 
 ## Three Phases (`tiparivaṭṭaṃ`) and Twelve Aspects (`dvādasākāraṃ`)
 
-> 𑀇𑀤𑀁 𑀤𑀼𑀓𑁆𑀔𑀁 𑀅𑀭𑀺𑀬𑀲𑀘𑁆𑀘𑀦𑁆𑀢𑀺 𑀫𑁂, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀧𑀼𑀩𑁆𑀩𑁂 𑀅𑀦𑀦𑀼𑀲𑁆𑀲𑀼𑀢𑁂𑀲𑀼 𑀥𑀫𑁆𑀫𑁂𑀲𑀼 𑀘𑀓𑁆𑀔𑀼𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀜𑀸𑀡𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀧𑀜𑁆𑀜𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀯𑀺𑀚𑁆𑀚𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀆𑀮𑁄𑀓𑁄 𑀉𑀤𑀧𑀸𑀤𑀺𑁇 𑀢𑀁 𑀔𑁄 𑀧𑀦𑀺𑀤𑀁 𑀤𑀼𑀓𑁆𑀔𑀁 𑀅𑀭𑀺𑀬𑀲𑀘𑁆𑀘𑀁 𑀧𑀭𑀺𑀜𑁆𑀜𑁂𑀬𑁆𑀬𑀦𑁆𑀢𑀺 𑀫𑁂, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀧𑀼𑀩𑁆𑀩𑁂 𑀅𑀦𑀦𑀼𑀲𑁆𑀲𑀼𑀢𑁂𑀲𑀼 𑀥𑀫𑁆𑀫𑁂𑀲𑀼 𑀘𑀓𑁆𑀔𑀼𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀜𑀸𑀡𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀧𑀜𑁆𑀜𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀯𑀺𑀚𑁆𑀚𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀆𑀮𑁄𑀓𑁄 𑀉𑀤𑀧𑀸𑀤𑀺𑁇 𑀢𑀁 𑀔𑁄 𑀧𑀦𑀺𑀤𑀁 𑀤𑀼𑀓𑁆𑀔𑀁 𑀅𑀭𑀺𑀬𑀲𑀘𑁆𑀘𑀁 𑀧𑀭𑀺𑀜𑁆𑀜𑀸𑀢𑀦𑁆𑀢𑀺 𑀫𑁂, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀧𑀼𑀩𑁆𑀩𑁂 𑀅𑀦𑀦𑀼𑀲𑁆𑀲𑀼𑀢𑁂𑀲𑀼 𑀥𑀫𑁆𑀫𑁂𑀲𑀼 𑀘𑀓𑁆𑀔𑀼𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀜𑀸𑀡𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀧𑀜𑁆𑀜𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀯𑀺𑀚𑁆𑀚𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀆𑀮𑁄𑀓𑁄 𑀉𑀤𑀧𑀸𑀤𑀺𑁇
-> 
-> 𑀇𑀤𑀁 𑀤𑀼𑀓𑁆𑀔𑀲𑀫𑀼𑀤𑀬𑀁 𑀅𑀭𑀺𑀬𑀲𑀘𑁆𑀘𑀦𑁆𑀢𑀺 𑀫𑁂, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀧𑀼𑀩𑁆𑀩𑁂 𑀅𑀦𑀦𑀼𑀲𑁆𑀲𑀼𑀢𑁂𑀲𑀼 𑀥𑀫𑁆𑀫𑁂𑀲𑀼 𑀘𑀓𑁆𑀔𑀼𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀜𑀸𑀡𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀧𑀜𑁆𑀜𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀯𑀺𑀚𑁆𑀚𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀆𑀮𑁄𑀓𑁄 𑀉𑀤𑀧𑀸𑀤𑀺𑁇 𑀢𑀁 𑀔𑁄 𑀧𑀦𑀺𑀤𑀁 𑀤𑀼𑀓𑁆𑀔𑀲𑀫𑀼𑀤𑀬𑀁 𑀅𑀭𑀺𑀬𑀲𑀘𑁆𑀘𑀁 𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀦𑁆𑀢𑀺 𑀫𑁂, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀧𑀼𑀩𑁆𑀩𑁂 𑀅𑀦𑀦𑀼𑀲𑁆𑀲𑀼𑀢𑁂𑀲𑀼 𑀥𑀫𑁆𑀫𑁂𑀲𑀼 𑀘𑀓𑁆𑀔𑀼𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀜𑀸𑀡𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀧𑀜𑁆𑀜𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀯𑀺𑀚𑁆𑀚𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀆𑀮𑁄𑀓𑁄 𑀉𑀤𑀧𑀸𑀤𑀺𑁇 𑀢𑀁 𑀔𑁄 𑀧𑀦𑀺𑀤𑀁 𑀤𑀼𑀓𑁆𑀔𑀲𑀫𑀼𑀤𑀬𑀁 𑀅𑀭𑀺𑀬𑀲𑀘𑁆𑀘𑀁 𑀧𑀳𑀻𑀦𑀦𑁆𑀢𑀺 𑀫𑁂, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀧𑀼𑀩𑁆𑀩𑁂 𑀅𑀦𑀦𑀼𑀲𑁆𑀲𑀼𑀢𑁂𑀲𑀼 𑀥𑀫𑁆𑀫𑁂𑀲𑀼 𑀘𑀓𑁆𑀔𑀼𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀜𑀸𑀡𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀧𑀜𑁆𑀜𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀯𑀺𑀚𑁆𑀚𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀆𑀮𑁄𑀓𑁄 𑀉𑀤𑀧𑀸𑀤𑀺𑁇
-> 
-> 𑀇𑀤𑀁 𑀤𑀼𑀓𑁆𑀔𑀦𑀺𑀭𑁄𑀥𑀁 𑀅𑀭𑀺𑀬𑀲𑀘𑁆𑀘𑀦𑁆𑀢𑀺 𑀫𑁂, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀧𑀼𑀩𑁆𑀩𑁂 𑀅𑀦𑀦𑀼𑀲𑁆𑀲𑀼𑀢𑁂𑀲𑀼 𑀥𑀫𑁆𑀫𑁂𑀲𑀼 𑀘𑀓𑁆𑀔𑀼𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀜𑀸𑀡𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀧𑀜𑁆𑀜𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀯𑀺𑀚𑁆𑀚𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀆𑀮𑁄𑀓𑁄 𑀉𑀤𑀧𑀸𑀤𑀺𑁇 𑀢𑀁 𑀔𑁄 𑀧𑀦𑀺𑀤𑀁 𑀤𑀼𑀓𑁆𑀔𑀦𑀺𑀭𑁄𑀥𑀁 𑀅𑀭𑀺𑀬𑀲𑀘𑁆𑀘𑀁 𑀲𑀘𑁆𑀙𑀺𑀓𑀸𑀢𑀩𑁆𑀩𑀦𑁆𑀢𑀺 𑀫𑁂, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀧𑀼𑀩𑁆𑀩𑁂 𑀅𑀦𑀦𑀼𑀲𑁆𑀲𑀼𑀢𑁂𑀲𑀼 𑀥𑀫𑁆𑀫𑁂𑀲𑀼 𑀘𑀓𑁆𑀔𑀼𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀜𑀸𑀡𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀧𑀜𑁆𑀜𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀯𑀺𑀚𑁆𑀚𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀆𑀮𑁄𑀓𑁄 𑀉𑀤𑀧𑀸𑀤𑀺𑁇 𑀢𑀁 𑀔𑁄 𑀧𑀦𑀺𑀤𑀁 𑀤𑀼𑀓𑁆𑀔𑀦𑀺𑀭𑁄𑀥𑀁 𑀅𑀭𑀺𑀬𑀲𑀘𑁆𑀘𑀁 𑀲𑀘𑁆𑀙𑀺𑀓𑀢𑀦𑁆𑀢𑀺 𑀫𑁂, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀧𑀼𑀩𑁆𑀩𑁂 𑀅𑀦𑀦𑀼𑀲𑁆𑀲𑀼𑀢𑁂𑀲𑀼 𑀥𑀫𑁆𑀫𑁂𑀲𑀼 𑀘𑀓𑁆𑀔𑀼𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀜𑀸𑀡𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀧𑀜𑁆𑀜𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀯𑀺𑀚𑁆𑀚𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀆𑀮𑁄𑀓𑁄 𑀉𑀤𑀧𑀸𑀤𑀺𑁇
-> 
-> 𑀇𑀤𑀁 𑀤𑀼𑀓𑁆𑀔𑀦𑀺𑀭𑁄𑀥𑀕𑀸𑀫𑀺𑀦𑀻 𑀧𑀝𑀺𑀧𑀤𑀸 𑀅𑀭𑀺𑀬𑀲𑀘𑁆𑀘𑀦𑁆𑀢𑀺 𑀫𑁂, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀧𑀼𑀩𑁆𑀩𑁂 𑀅𑀦𑀦𑀼𑀲𑁆𑀲𑀼𑀢𑁂𑀲𑀼 𑀥𑀫𑁆𑀫𑁂𑀲𑀼 𑀘𑀓𑁆𑀔𑀼𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀜𑀸𑀡𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀧𑀜𑁆𑀜𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀯𑀺𑀚𑁆𑀚𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀆𑀮𑁄𑀓𑁄 𑀉𑀤𑀧𑀸𑀤𑀺𑁇 𑀢𑀁 𑀔𑁄 𑀧𑀦𑀺𑀤𑀁 𑀤𑀼𑀓𑁆𑀔𑀦𑀺𑀭𑁄𑀥𑀕𑀸𑀫𑀺𑀦𑀻 𑀧𑀝𑀺𑀧𑀤𑀸 𑀅𑀭𑀺𑀬𑀲𑀘𑁆𑀘𑀁 𑀪𑀸𑀯𑁂𑀢𑀩𑁆𑀩𑀦𑁆𑀢𑀺 𑀫𑁂, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀧𑀼𑀩𑁆𑀩𑁂 𑀅𑀦𑀦𑀼𑀲𑁆𑀲𑀼𑀢𑁂𑀲𑀼 𑀥𑀫𑁆𑀫𑁂𑀲𑀼 𑀘𑀓𑁆𑀔𑀼𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀜𑀸𑀡𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀧𑀜𑁆𑀜𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀯𑀺𑀚𑁆𑀚𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀆𑀮𑁄𑀓𑁄 𑀉𑀤𑀧𑀸𑀤𑀺𑁇 𑀢𑀁 𑀔𑁄 𑀧𑀦𑀺𑀤𑀁 𑀤𑀼𑀓𑁆𑀔𑀦𑀺𑀭𑁄𑀥𑀕𑀸𑀫𑀺𑀦𑀻 𑀧𑀝𑀺𑀧𑀤𑀸 𑀅𑀭𑀺𑀬𑀲𑀘𑁆𑀘𑀁 𑀪𑀸𑀯𑀺𑀢𑀦𑁆𑀢𑀺 𑀫𑁂, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀧𑀼𑀩𑁆𑀩𑁂 𑀅𑀦𑀦𑀼𑀲𑁆𑀲𑀼𑀢𑁂𑀲𑀼 𑀥𑀫𑁆𑀫𑁂𑀲𑀼 𑀘𑀓𑁆𑀔𑀼𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀜𑀸𑀡𑀁 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀧𑀜𑁆𑀜𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀯𑀺𑀚𑁆𑀚𑀸 𑀉𑀤𑀧𑀸𑀤𑀺, 𑀆𑀮𑁄𑀓𑁄 𑀉𑀤𑀧𑀸𑀤𑀺𑁇
-> 
-> 𑀬𑀸𑀯𑀓𑀻𑀯𑀜𑁆𑀘 𑀫𑁂, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀇𑀫𑁂𑀲𑀼 𑀘𑀢𑀽𑀲𑀼 𑀅𑀭𑀺𑀬𑀲𑀘𑁆𑀘𑁂𑀲𑀼 𑀏𑀯𑀁 𑀢𑀺𑀧𑀭𑀺𑀯𑀝𑁆𑀝𑀁 𑀤𑁆𑀯𑀸𑀤𑀲𑀸𑀓𑀸𑀭𑀁 𑀬𑀣𑀸𑀪𑀽𑀢𑀁 𑀜𑀸𑀡𑀤𑀲𑁆𑀲𑀦𑀁 𑀦 𑀲𑀼𑀯𑀺𑀲𑀼𑀤𑁆𑀥𑀁 𑀅𑀳𑁄𑀲𑀺, 𑀦𑁂𑀯 𑀢𑀸𑀯𑀸𑀳𑀁, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀲𑀤𑁂𑀯𑀓𑁂 𑀮𑁄𑀓𑁂 𑀲𑀫𑀸𑀭𑀓𑁂 𑀲𑀩𑁆𑀭𑀳𑁆𑀫𑀓𑁂 𑀲𑀲𑁆𑀲𑀫𑀡𑀩𑁆𑀭𑀸𑀳𑁆𑀫𑀡𑀺𑀬𑀸 𑀧𑀚𑀸𑀬 𑀲𑀤𑁂𑀯𑀫𑀦𑀼𑀲𑁆𑀲𑀸𑀬 𑀅𑀦𑀼𑀢𑁆𑀢𑀭𑀁 𑀲𑀫𑁆𑀫𑀸𑀲𑀫𑁆𑀩𑁄𑀥𑀺𑀁 𑀅𑀪𑀺𑀲𑀫𑁆𑀩𑀼𑀤𑁆𑀥𑁄𑀢𑀺 𑀧𑀘𑁆𑀘𑀜𑁆𑀜𑀸𑀲𑀺𑀁𑁇
-> 
-> 𑀬𑀢𑁄 𑀘 𑀔𑁄 𑀫𑁂, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀇𑀫𑁂𑀲𑀼 𑀘𑀢𑀽𑀲𑀼 𑀅𑀭𑀺𑀬𑀲𑀘𑁆𑀘𑁂𑀲𑀼 𑀏𑀯𑀁 𑀢𑀺𑀧𑀭𑀺𑀯𑀝𑁆𑀝𑀁 𑀤𑁆𑀯𑀸𑀤𑀲𑀸𑀓𑀸𑀭𑀁 𑀬𑀣𑀸𑀪𑀽𑀢𑀁 𑀜𑀸𑀡𑀤𑀲𑁆𑀲𑀦𑀁 𑀲𑀼𑀯𑀺𑀲𑀼𑀤𑁆𑀥𑀁 𑀅𑀳𑁄𑀲𑀺, 𑀅𑀣𑀸𑀳𑀁, 𑀪𑀺𑀓𑁆𑀔𑀯𑁂, 𑀲𑀤𑁂𑀯𑀓𑁂 𑀮𑁄𑀓𑁂 𑀲𑀫𑀸𑀭𑀓𑁂 𑀲𑀩𑁆𑀭𑀳𑁆𑀫𑀓𑁂 𑀲𑀲𑁆𑀲𑀫𑀡𑀩𑁆𑀭𑀸𑀳𑁆𑀫𑀡𑀺𑀬𑀸 𑀧𑀚𑀸𑀬 𑀲𑀤𑁂𑀯𑀫𑀦𑀼𑀲𑁆𑀲𑀸𑀬 𑀅𑀦𑀼𑀢𑁆𑀢𑀭𑀁 𑀲𑀫𑁆𑀫𑀸𑀲𑀫𑁆𑀩𑁄𑀥𑀺𑀁 𑀅𑀪𑀺𑀲𑀫𑁆𑀩𑀼𑀤𑁆𑀥𑁄𑀢𑀺 𑀧𑀘𑁆𑀘𑀜𑁆𑀜𑀸𑀲𑀺𑀁𑁇 𑀜𑀸𑀡𑀜𑁆𑀘 𑀧𑀦 𑀫𑁂 𑀤𑀲𑁆𑀲𑀦𑀁 𑀉𑀤𑀧𑀸𑀤𑀺—  𑀅𑀓𑀼𑀧𑁆𑀧𑀸 𑀫𑁂 𑀯𑀺𑀫𑀼𑀢𑁆𑀢𑀺, 𑀅𑀬𑀫𑀦𑁆𑀢𑀺𑀫𑀸 𑀚𑀸𑀢𑀺, 𑀦𑀢𑁆𑀣𑀺 𑀤𑀸𑀦𑀺 𑀧𑀼𑀦𑀩𑁆𑀪𑀯𑁄”𑀢𑀺𑁇 𑀇𑀤𑀫𑀯𑁄𑀘 𑀪𑀕𑀯𑀸 𑀅𑀢𑁆𑀢𑀫𑀦𑀸 𑀧𑀜𑁆𑀘𑀯𑀕𑁆𑀕𑀺𑀬𑀸 𑀪𑀺𑀓𑁆𑀔𑀽 𑀪𑀕𑀯𑀢𑁄 𑀪𑀸𑀲𑀺𑀢𑀁 𑀅𑀪𑀺𑀦𑀦𑁆𑀤𑀼𑀦𑁆𑀢𑀺𑁇
->
-> Idaṃ dukkhaṃ ariyasaccanti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. Taṃ kho panidaṃ dukkhaṃ ariyasaccaṃ pariññeyyanti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. Taṃ kho panidaṃ dukkhaṃ ariyasaccaṃ pariññātanti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.
-> 
-> Idaṃ dukkhasamudayaṃ ariyasaccanti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. Taṃ kho panidaṃ dukkhasamudayaṃ ariyasaccaṃ pahātabbanti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. Taṃ kho panidaṃ dukkhasamudayaṃ ariyasaccaṃ pahīnanti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.
-> 
-> Idaṃ dukkhanirodhaṃ ariyasaccanti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. Taṃ kho panidaṃ dukkhanirodhaṃ ariyasaccaṃ sacchikātabbanti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. Taṃ kho panidaṃ dukkhanirodhaṃ ariyasaccaṃ sacchikatanti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.
-> 
-> Idaṃ dukkhanirodhagāminī paṭipadā ariyasaccanti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. Taṃ kho panidaṃ dukkhanirodhagāminī paṭipadā ariyasaccaṃ bhāvetabbanti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. Taṃ kho panidaṃ dukkhanirodhagāminī paṭipadā ariyasaccaṃ bhāvitanti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.
-> 
-> Yāvakīvañca me, bhikkhave, imesu catūsu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ na suvisuddhaṃ ahosi, neva tāvāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddhoti paccaññāsiṃ.
-> 
-> Yato ca kho me, bhikkhave, imesu catūsu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ suvisuddhaṃ ahosi, athāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddhoti paccaññāsiṃ. Ñāṇañca pana me dassanaṃ udapādi—  akuppā me vimutti, ayamantimā jāti, natthi dāni punabbhavo”ti. Idamavoca bhagavā attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṃ abhinandunti.
-
-"This is the realisation of suffering" — thus, bhikkhave, in regard to things unheard before, there arose in me vision, knowledge, wisdom, science, and light. "This realisation of suffering should be comprehended" — thus, bhikkhave, in regard to things unheard before, there arose in me vision, knowledge, wisdom, science, and light. "This realisation of suffering has been comprehended" — thus, bhikkhave, in regard to things unheard before, there arose in me vision, knowledge, wisdom, science, and light.
-
-"This is the realisation of the origin of suffering" — thus, bhikkhave, in regard to things unheard before, there arose in me vision, knowledge, wisdom, science, and light. "This realisation of the origin of suffering should be abandoned" — thus, bhikkhave, in regard to things unheard before, there arose in me vision, knowledge, wisdom, science, and light. "This realisation of the origin of suffering has been abandoned" — thus, bhikkhave, in regard to things unheard before, there arose in me vision, knowledge, wisdom, science, and light.
-
-"This is the realisation of the cessation of suffering" — thus, bhikkhave, in regard to things unheard before, there arose in me vision, knowledge, wisdom, science, and light. "This realisation of the cessation of suffering should be realized" — thus, bhikkhave, in regard to things unheard before, there arose in me vision, knowledge, wisdom, science, and light. "This realisation of the cessation of suffering has been realized" — thus, bhikkhave, in regard to things unheard before, there arose in me vision, knowledge, wisdom, science, and light.
-
-"This is the realisation of the path leading to the cessation of suffering" — thus, bhikkhave, in regard to things unheard before, there arose in me vision, knowledge, wisdom, science, and light. "This realisation of the path leading to the cessation of suffering should be developed" — thus, bhikkhave, in regard to things unheard before, there arose in me vision, knowledge, wisdom, science, and light. "This realisation of the path leading to the cessation of suffering has been developed" — thus, bhikkhave, in regard to things unheard before, there arose in me vision, knowledge, wisdom, science, and light.
-
-As long, bhikkhave, as my knowledge and vision of these Four realisations, in their three rounds and twelve modes, was not thoroughly purified, so long, bhikkhave, I did not claim to have awakened to the unexcelled perfect enlightenment in this world with its devas, Māras, and Brahmās, among this generation with its ascetics and brahmins, its devas and humans.
-
-But when, bhikkhave, my knowledge and vision of these Four realisations, in their three rounds and twelve modes, was thoroughly purified, then, bhikkhave, I claimed to have awakened to the unexcelled perfect enlightenment in this world with its devas, Māras, and Brahmās, among this generation with its ascetics and brahmins, its devas and humans. And knowledge and vision arose in me: 'My liberation is unshakeable; this is my last birth; now there is no more re-becoming.' This is what the Blessed One said. The five bhikkhave were delighted and rejoiced in the Blessed One's words.
-
-## cattāri ariyasaccāni
+```mermaid
+graph LR
+    subgraph N[caturāriyasaccāni]
+        N1[dukkha ariyasacca]
+        N2[dukkhasamudaya ariyasacca]
+        N3[dukkhanirodha ariyasacca]
+        N4[dukkhanirodhagāminī paṭipadā ariyasacca]
+    end
+    subgraph Aspects
+        P1-1[realisation]
+        P1-2[is to be fully understood]
+        P1-3[has been fully understood]
+        P2-1[realisation]
+        P2-2[is to be given up]
+        P2-3[has been given up]
+        P3-1[realisation]
+        P3-2[is to be personally experienced]
+        P3-3[has been personally experienced]
+        P4-1[realisation]
+        P4-2[is to be undertaken]
+        P4-3[has been undertaken]
+    end
+    subgraph Arose
+        direction TB
+        R1["cakkhu <br> (Vision)"]
+        R2["ñāṇa <br> (Knowledge)"]
+        R3["paññā <br> (Wisdom)"]
+        R4["vijjā <br> (Understanding)"]
+        R5["āloka <br> (Light)"]
+    end
+    N1 -->|Phase 1: dukkha realised| P1-1
+    N1 -->|Phase 2: dukkha understanding| P1-2
+    N1 -->|Phase 3: dukkha understood| P1-3
+    N2 -->|Phase 1: origin realised| P2-1
+    N2 -->|Phase 2: origin giving up| P2-2
+    N2 -->|Phase 3: origin given up| P2-3
+    N3 -->|Phase 1: cessation realised| P3-1
+    N3 -->|Phase 2: cessation experiencing| P3-2
+    N3 -->|Phase 3: cessation experienced| P3-3
+    N4 -->|Phase 1: path realised| P4-1
+    N4 -->|Phase 2: path undertaking| P4-2
+    N4 -->|Phase 3: path undertaken| P4-3
+    P1-3 & P2-3 & P3-3 & P4-3 --> R1 & R2 & R3 & R4 & R5
+```
 
 ```mermaid
-mindmap
-cattāri ariyasaccāni
-  dukkham
-    pain
-    incapable of suffering
-  dukkha-samudayo
-    origin
-    arising
-  dukkha-nirodha
-    cease
-    suppress
-  dukkha-nirodha-gamini patipada
-    leading to
-    path, way
+graph
+    NT["caturāriyasaccāni<br>(4 realisations)"] --> P3["tiparivaṭṭa<br>(3 Phases)"] --> A12["dvādasākāra<br>(12 aspects)"] --> A & B & C --> D["abhisambuddha anuttara sammāsambodhi<br>(woken up to perfect understanding)"] -->|surpassing| L --> O["*akuppā me vimutti, ayamantimā jāti, natthi dāni punabbhavo*<br>(Unshakeable is my liberation, this is the final birth, there is now no more future existences.)"]
+    A["yathābhūta<br>(reality)"]
+    B["ñāṇadassana<br>(total understanding)"]
+    C["suvisuddha<br>(total purification)"]
+    subgraph L["Loka (World)"]
+        L1["devas"]
+        L2["Māra"]
+        L3["Brahmā"]
+        L4["ascetics and brahmins"]
+        L5["*pajā* (living beings)"]
+        L6["*sadevamanussa* (kings and commoners)"]
+    end
 ```
