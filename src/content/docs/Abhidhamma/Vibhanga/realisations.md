@@ -308,3 +308,188 @@ Whatever in the world is pleasant and agreeable.
     * without sukha (happiness) and
     * without dukkha (pain),
     * a purity of mindfulness due to upekkhā (equanimity).
+
+## According to Abhidhamma
+
+Cattāri saccāni— 
+
+* ``dukkhaṃ` (suffering),
+  * the remaining `kilesā` (defilements), and
+  * the remaining `akusalā dhammā` (unwholesome states), and
+  * the three `kusalamūlāni sāsavāni` (wholesome roots that are tainted), and
+  * the remaining `sāsavā kusalā dhammā` (tainted wholesome states), and
+  * the `sāsavā vipākā` (tainted results) of wholesome and unwholesome states, and
+  * those `dhammā` that are
+    * `kiriyā` (functional),
+    * neither wholesome nor unwholesome nor kamma (action)-result, and
+    * all `rūpa` (material form)
+* ``dukkhasamudayo` (the origin of suffering),
+  * Taṇhā (craving) and,
+  * the remaining kilesā (defilements), and
+  * the remaining akusalā dhammā (unwholesome states), and
+  * the three kusalamūlāni sāsavāni (wholesome roots that are tainted), and
+  * the remaining sāsavā kusalā dhammā (tainted wholesome states)
+* ``dukkhanirodho` (the cessation of suffering),
+  * The abandonment of taṇhā (craving),
+  * and of the remaining kilesā (defilements),
+  * and of the remaining akusalānaṃ dhammānaṃ (unwholesome states),
+  * and of the three kusalamūlānaṃ sāsavānaṃ (wholesome roots that are tainted),
+  * and of the remaining sāsavānaṃ kusalānaṃ dhammānaṃ (tainted wholesome states)
+* ``dukkhanirodhagāminī paṭipadā` (the path leading to the cessation of suffering)
+  * at the time when he develops lokuttaraṃ jhānaṃ (supramundane absorption) that is:
+    * niyyānikaṃ (leading out),
+    * apacayagāmiṃ (not accumulating),
+  * for the abandoning of diṭṭhigatānaṃ (wrong views),
+  * for the attainment of the paṭhamāya bhūmiyā (first stage),
+  * quite secluded from sensual pleasures… (etc.)…
+  * he enters and abides in the paṭhamaṃ jhānaṃ (first absorption), which is
+    * dukkhapaṭipadaṃ (painful practice) and
+    * dandhābhiññaṃ (slowly comprehending),
+  * at that time the aṭṭhaṅgiko maggo (eightfold path) arises:
+    * sammādiṭṭhi (right view)… (etc.)…
+    * sammāsamādhi (right focus)
+
+aṭṭhaṅgiko maggo (eightfold path):
+
+* `sammādiṭṭhi` (Right View)
+  * paññā (wisdom),
+  * pajānanā (understanding)… (etc.)…
+  * amoho (non-delusion),
+  * dhammavicayo (investigation of phenomena),
+  * sammādiṭṭhi (right view),
+  * dhammavicayasambojjhaṅgo (enlightenment factor of investigation of phenomena),
+  * maggaṅgaṃ (path factor),
+  * maggapariyāpannaṃ (included in the path)
+* `sammāsaṅkappo` (Right Intention)
+  * takko (reasoning),
+  * vitakko (thought)… (etc.)…
+  * sammāsaṅkappo (right intention),
+  * maggaṅgaṃ (path factor),
+  * maggapariyāpannaṃ (included in the path)
+* `sammāvācā` (Right Speech)
+  * four vacīduccaritehi (verbal misconducts)
+    * ārati (abstinence),
+    * virati (abstention),
+    * paṭivirati (refraining),
+    * veramaṇī (avoidance),
+  * akiriyā (non-doing),
+  * akaraṇaṃ (not performing),
+  * anajjhāpatti (non-transgression),
+  * velāanatikkamo (not overstepping the boundary),
+  * setughāto (breaking of the bridge),
+  * sammāvācā (right speech),
+  * maggaṅgaṃ (path factor),
+  * maggapariyāpannaṃ (included in the path)
+* `sammākammanto` (Right Action)
+  * three kāyaduccaritehi (bodily misconducts)
+    * ārati (abstinence),
+    * virati (abstention),
+    * paṭivirati (refraining),
+    * veramaṇī (avoidance),
+  * akiriyā (non-doing),
+  * akaraṇaṃ (not performing),
+  * anajjhāpatti (non-transgression),
+  * velāanatikkamo (not overstepping the boundary),
+  * setughāto (breaking of the bridge),
+  * sammākammanto (right action),
+  * maggaṅgaṃ (path factor),
+  * maggapariyāpannaṃ (included in the path)
+* `sammāājīvo` (Right Way of Living)
+  * micchā ājīvā (wrong way of living):
+    * ārati (abstinence),
+    * virati (abstention),
+    * paṭivirati (refraining),
+    * veramaṇī (avoidance),
+  * akiriyā (non-doing),
+  * akaraṇaṃ (not performing),
+  * anajjhāpatti (non-transgression),
+  * velāanatikkamo (not overstepping the boundary),
+  * setughāto (demolishing the connection),
+  * sammāājīvo (right way of living),
+  * maggaṅgaṃ (path factor),
+  * maggapariyāpannaṃ (included in the path)
+* `sammāvāyāmo` (Right Effort)
+  * cetasiko
+  * vīriyārambho (mental instigation of energy) … (etc.)…
+  * sammāvāyāmo (right effort),
+  * vīriyasambojjhaṅgo (enlightenment factor of energy),
+  * maggaṅgaṃ (path factor),
+  * maggapariyāpannaṃ (included in the path)
+* `sammāsati` (Right Awareness)
+  * sati (memory), anussati (recollection)… (etc.)…
+  * sammāsati (right awareness),
+  * satisambojjhaṅgo (enlightenment factor of awareness),
+  * maggaṅgaṃ (path factor),
+  * maggapariyāpannaṃ (included in the path)
+* `sammāsamādhi` (Right Focus)
+  * cittassa ṭhiti (stability of mind),
+  * saṇṭhiti (steadfastness)… (etc.)…
+  * sammāsamādhi (right awareness),
+  * samādhisambojjhaṅgo (enlightenment factor of awareness),
+  * maggaṅgaṃ (path factor),
+  * maggapariyāpannaṃ (included in the path)
+
+## Catechism
+
+Of the four `ariyasaccānaṃ` (realisations), how many are `kusalā` (wholesome), how many `akusalā` (unwholesome), how many `abyākatā` (indeterminate)… etc.…  how many `saraṇā` (with defilements), how many `araṇā` (without defilements)?
+
+* Samudayasacca (realisation of the origin of suffering) is akusala (unwholesome).
+* Maggasacca (realisation of the path) is kusala (wholesome).
+* Nirodhasacca (realisation of cessation) is abyākata (undetermined).
+* Dukkhasacca (realisation of suffering) may be kusala (wholesome), may be akusala (unwholesome), may be abyākata (undetermined).
+
+Two realisations may be associated with pleasant vedanā (feeling), may be associated with adukkhamasukha vedanā (neither-painful-nor-pleasant feeling).
+
+* Nirodhasacca (realisation of cessation) should not be said to be "associated with pleasant vedanā (feeling)," nor "associated with painful vedanā (feeling)," nor "associated with adukkhamasukha vedanā (neither-painful-nor-pleasant feeling)."
+* Dukkhasacca (realisation of suffering) may be associated with pleasant vedanā (feeling), may be associated with painful vedanā (feeling), may be associated with adukkhamasukha vedanā (neither-painful-nor-pleasant feeling), or it should not be said to be "associated with pleasant vedanā (feeling)," nor "associated with painful vedanā (feeling)," nor "associated with adukkhamasukha vedanā (neither-painful-nor-pleasant feeling)."
+
+Two realisations are vipākadhammadhammā (states that are conditions for kamma-result).
+
+* Nirodhasacca (realisation of cessation) is nevavipākanavipākadhammadhamma (neither kamma-result nor a condition for kamma-result).
+* Dukkhasacca (realisation of suffering) may be vipāka (kamma-result), may be vipākadhammadhamma (a state that is a condition for kamma-result), may be nevavipākanavipākadhammadhamma (neither kamma-result nor a condition for kamma-result).
+
+Samudayasacca (realisation of the origin of suffering) is anupādinnupādāniya (not clung to but subject to clinging).
+
+Two realisations are anupādinnaanupādāniyā (not clung to and not subject to clinging).
+
+* Dukkhasacca (realisation of suffering) may be upādinnupādāniya (clung to and subject to clinging), may be anupādinnupādāniya (not clung to but subject to clinging).
+
+Samudayasacca (realisation of the origin of suffering) is saṃkiliṭṭhasaṃkilesika (defiled and defiling).
+
+Two realisations are asaṃkiliṭṭhaasaṃkilesikā (undefiled and undefiling).
+
+* Dukkhasacca (realisation of suffering) may be saṃkiliṭṭhasaṃkilesika (defiled and defiling), may be asaṃkiliṭṭhasaṃkilesika (undefiled and undefiling).
+
+827\. Samudayasacca (realisation of the origin of suffering) is savitakkasavicāra (with initial application and sustained application of thought). Nirodhasacca (realisation of cessation) is avitakkaavicāra (without initial application and without sustained application of thought). Maggasacca (realisation of the path) may be savitakkasavicāra (with initial application and sustained application of thought), may be avitakkavicāramatta (without initial application but with sustained application of thought only), may be avitakkaavicāra (without initial application and without sustained application of thought). Dukkhasacca (realisation of suffering) may be savitakkasavicāra (with initial application and sustained application of thought), may be avitakkavicāramatta (without initial application but with sustained application of thought only), may be avitakkaavicāra (without initial application and without sustained application of thought), or it should not be said to be "savitakkasavicāra (with initial application and sustained application of thought)," nor "avitakkavicāramatta (without initial application but with sustained application of thought only)," nor "avitakkaavicāra (without initial application and without sustained application of thought)." (6)
+
+828\. Two realisations may be pītisahagata (accompanied by joy), may be sukhasahagata (accompanied by happiness), may be upekkhāsahagata (accompanied by equanimity). Nirodhasacca (realisation of cessation) should not be said to be "pītisahagata (accompanied by joy)," nor "sukhasahagata (accompanied by happiness)," nor "upekkhāsahagata (accompanied by equanimity)." Dukkhasacca (realisation of suffering) may be pītisahagata (accompanied by joy), may be sukhasahagata (accompanied by happiness), may be upekkhāsahagata (accompanied by equanimity), or it should not be said to be "pītisahagata (accompanied by joy)," nor "sukhasahagata (accompanied by happiness)," nor "upekkhāsahagata (accompanied by equanimity)." (7)
+
+829\. Two realisations are neva dassanena na bhāvanāya pahātabbā (to be abandoned neither by vision nor by cultivation). Samudayasacca (realisation of the origin of suffering) may be dassanena pahātabba (to be abandoned by vision), may be bhāvanāya pahātabba (to be abandoned by cultivation). Dukkhasacca (realisation of suffering) may be dassanena pahātabba (to be abandoned by vision), may be bhāvanāya pahātabba (to be abandoned by cultivation), may be neva dassanena na bhāvanāya pahātabba (to be abandoned neither by vision nor by cultivation). (8)
+
+830\. Two realisations do not have neva dassanena na bhāvanāya pahātabbahetukā (roots to be abandoned neither by vision nor by cultivation). Samudayasacca (realisation of the origin of suffering) may have dassanena pahātabbahetuka (roots to be abandoned by vision), may have bhāvanāya pahātabbahetuka (roots to be abandoned by cultivation). Dukkhasacca (realisation of suffering) may have dassanena pahātabbahetuka (roots to be abandoned by vision), may have bhāvanāya pahātabbahetuka (roots to be abandoned by cultivation), may not have neva dassanena na bhāvanāya pahātabbahetuka (roots to be abandoned neither by vision nor by cultivation). (9)
+
+831\. Samudayasacca (realisation of the origin of suffering) is ācayagāmi (leading to accumulation). Maggasacca (realisation of the path) is apacayagāmi (leading to non-accumulation). Nirodhasacca (realisation of cessation) is nevācayagāmināpacayagāmi (leading neither to accumulation nor to non-accumulation). Dukkhasacca (realisation of suffering) may be ācayagāmi (leading to accumulation), may be nevācayagāmināpacayagāmi (leading neither to accumulation nor to non-accumulation). (10)
+
+832\. Maggasacca (realisation of the path) is sekkha (of a trainee). Three realisations are nevasekkhanāsekkha (neither of a trainee nor of a non-trainee). (11)
+
+833\. Samudayasacca (realisation of the origin of suffering) is paritta (limited). Two realisations are appamāṇa (immeasurable). Dukkhasacca (realisation of suffering) may be paritta (limited), may be mahaggata (exalted). (12)
+
+834\. Nirodhasacca (realisation of cessation) is anārammaṇa (objectless). Maggasacca (realisation of the path) is appamāṇārammaṇa (having an immeasurable object). Samudayasacca (realisation of the origin of suffering) may be parittārammaṇa (having a limited object), may be mahaggatārammaṇa (having an exalted object), not appamāṇārammaṇa (having an immeasurable object), or it should not be said to be "parittārammaṇa (having a limited object)," nor "mahaggatārammaṇa (having an exalted object)." Dukkhasacca (realisation of suffering) may be parittārammaṇa (having a limited object), may be mahaggatārammaṇa (having an exalted object), may be appamāṇārammaṇa (having an immeasurable object), or it should not be said to be "parittārammaṇa (having a limited object)," nor "mahaggatārammaṇa (having an exalted object)," nor "appamāṇārammaṇa (having an immeasurable object)." (13)
+
+835\. Samudayasacca (realisation of the origin of suffering) is hīna (inferior). Two realisations are paṇīta (superior). Dukkhasacca (realisation of suffering) may be hīna (inferior), may be majjhima (medium). (14)
+
+836\. Nirodhasacca (realisation of cessation) is aniyata (unfixed). Maggasacca (realisation of the path) is sammattaniyata (fixed in rightness). Two realisations may be micchattaniyata (fixed in wrongness), may be aniyata (unfixed). (15)
+
+837\. Nirodhasacca (realisation of cessation) is anārammaṇa (objectless). Samudayasacca (realisation of the origin of suffering) should not be said to be "maggārammaṇa (having the path as object)," nor "maggahetuka (having the path as condition)," nor "maggādhipati (having the path as dominant factor)." Maggasacca (realisation of the path) is not maggārammaṇa (having the path as object), (it is) maggahetuka (path-conditioned), may be maggādhipati (having the path as dominant factor), or it should not be said to be "maggādhipati (having the path as dominant factor)." Dukkhasacca (realisation of suffering) may be maggārammaṇa (having the path as object), (it is) not maggahetuka (path-conditioned), may be maggādhipati (having the path as dominant factor), or it should not be said to be "maggārammaṇa (having the path as object)," nor "maggādhipati (having the path as dominant factor)." (16)
+
+838\. Two realisations may be uppanna (arisen), may be anuppanna (unarisen), (but) should not be said to be "uppādin (arising)." Nirodhasacca (realisation of cessation) should not be said to be "uppanna (arisen)," nor "anuppanna (unarisen)," nor "uppādin (arising)." Dukkhasacca (realisation of suffering) may be uppanna (arisen), may be anuppanna (unarisen), may be uppādin (arising). (17)
+
+839\. Three realisations may be atīta (past), may be anāgata (future), may be paccuppanna (present). Nirodhasacca (realisation of cessation) should not be said to be "atīta (past)," nor "anāgata (future)," nor "paccuppanna (present)." (18)
+
+840\. Nirodhasacca (realisation of cessation) is anārammaṇa (objectless). Maggasacca (realisation of the path) should not be said to be "atītārammaṇa (having a past object)," nor "anāgatārammaṇa (having a future object)," nor "paccuppannārammaṇa (having a present object)." Two realisations may be atītārammaṇa (having a past object), may be anāgatārammaṇa (having a future object), may be paccuppannārammaṇa (having a present object), or should not be said to be "atītārammaṇa (having a past object)," nor "anāgatārammaṇa (having a future object)," nor "paccuppannārammaṇa (having a present object)." (19)
+
+841\. Nirodhasacca (realisation of cessation) is bahiddhā (external). Three realisations may be ajjhatta (internal), may be bahiddhā (external), may be ajjhattabahiddhā (internal-external). (20)
+
+842\. Nirodhasacca (realisation of cessation) is anārammaṇa (objectless). Maggasacca (realisation of the path) is bahiddhārammaṇa (having an external object). Samudayasacca (realisation of the origin of suffering) may be ajjhattārammaṇa (having an internal object), may be bahiddhārammaṇa (having an external object), may be ajjhattabahiddhārammaṇa (having an internal-external object). Dukkhasacca (realisation of suffering) may be ajjhattārammaṇa (having an internal object), may be bahiddhārammaṇa (having an external object), may be ajjhattabahiddhārammaṇa (having an internal-external object), or it should not be said to be "ajjhattārammaṇa (having an internal object)," nor "bahiddhārammaṇa (having an external object)," nor "ajjhattabahiddhārammaṇa (having an internal-external object)." (21)
+
+843\. Three realisations are anidassanaappaṭigha (non-manifestative and non-impinging). Dukkhasacca (realisation of suffering) may be sanidassanasappaṭigha (manifestative and impinging), may be anidassanasappaṭigha (non-manifestative and impinging), may be anidassanaappaṭigha (non-manifestative and non-impinging). (22)
