@@ -1,6 +1,6 @@
 ---
 categories: ["sutta"]
-tags: ["test","docs"] 
+tags: ["test","docs"]
 title: "Miscellaneous from Sutta Piṭaka"
 sidebar:
   label: "Other"
@@ -41,62 +41,6 @@ pañcabalāni
   paññābalaṁ
     ariyasaccesu x4
 ```
-
-Theravāda Vibhaṅga
-5 aggregates pañcupādānakkhandhā
-12 sense media dvādas’āyatanāni
-36 elements 18dhātuyo
-4 noble truths cattāri ariyasaccāni
-22 faculties
-Dependent origination paṭiccasamuppādo
-4 satipaṭṭhānas cattāro_satipaṭṭhānā
-4 right efforts cattāro_sammappadhānāti
-4 bases of power cattāro_iddhipādā
-7 awakening-factors satta_bojjhaṅgā
-8-fold path ariyo aṭṭhaṅgiko maggo
-4 jhānas jhānaṁ
-4 divine abidings catasso_appamaññāyo
-5 precepts pañca_sikkhāpadāniā
-4 discriminations atasso_paṭisambhidā
-Khuddakavatthu3
-Ñāṇavibhaṅga4
-Dhammahadaya5
-Sarvāstivāda Dharmaskandha
-5 precepts
-4 stream-entry factors 4 confirmed faiths
-4 fruits of asceticism 4 ways of practice
-4 noble lineages
-4 right efforts
-4 bases of power
-4 satipaṭṭhānas
-4 noble truths
-4 jhānas
-4 divine abidings
-4 formless
-4 samādhis
-7 awakening-factors Khuddakavatthu
-22 faculties
-12 sense media
-5 aggregates
-62 elements Dependent origination
-Dharmagupta Śāriputrābhidharma
-12 sense media 18 elements
-5 aggregates
-4 noble truths 22 faculties
-7 awakening-factors
-3 unskilful roots
-3 skilful roots
-4 great elements
-5 precepts
-Elements
-Kamma
-Persons1
-Knowledge2
-Dependent origination 4 satipaṭṭhānas
-4 right efforts
-4 bases of power
-4 jhānas
-8-fold path Unskilful dhammas6 Saṅgraha7 Sampayoga Prasthāna
 
 ```mermaid
 classDiagram
