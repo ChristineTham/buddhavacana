@@ -4,7 +4,7 @@ tags: ["khuddaka", "khuddakanikāya", "saraṇattaya"]
 title: "The Three Refuges (`saraṇattaya`)"
 description: The Three Refuges
 sidebar:
-  label: Three Refuges
+  label: Refuges
 ---
 
 * [18Kh/1 Saraṇattaya](https://tipitaka2500.github.io/tipitaka/18Kh/1.html)
