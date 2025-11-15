@@ -1,0 +1,200 @@
+---
+title: What Did the Buddha Teach?
+sidebar:
+  label: What Did the Buddha Teach?
+---
+
+import { Tabs, TabItem, CardGrid, LinkCard } from '@astrojs/starlight/components';
+
+The following is a summary of some of the core concepts taught by the Buddha, taken from his first three discourses as documented in the [3V/1 Mahākhandhaka](https://tipitaka2500.github.io/tipitaka/3V/1.html). These discourses are common across all versions of the Vinaya, and therefore represent a pre-sectarian agreement and the most widely accepted teachings of the Buddha.
+
+The awakening of the Buddha, plus the first three discourses, can be summarised into a single diagram:
+
+```mermaid
+graph
+  classDef hidden display:none;
+  subgraph Renunciate["`*pabbaji*
+  (Renunciate)`"]
+    classDef way fill:SeaShell,color:black
+    Sensual[["`**kāmesu kāmasukhallikānuyogo**
+    (pursuit of sensual indulgence in sensual pleasures)`"]]:::way
+    Middle[["`**majjhimā paṭipadā**
+    (middle way)`"]]:::way
+    Ascetic[["`**attakilamathānuyogo**
+    (practice of self-mortification)`"]]:::way
+  end
+  style Renunciate fill:Gainsboro,color:black
+  Middle --> Path
+  subgraph Path["`**ariyo aṭṭhaṅgiko maggo**
+  (Eightfold Path)`"]
+    classDef path fill:LightGreen,color:black
+    Ppad:::hidden
+    P1(["`**sammādiṭṭhi**
+    (Right View)`"]):::path
+    P2(["`**sammāsaṅkappo**
+    (Right Intention)`"]):::path
+    P3(["`**sammāvācā**
+    (Right Speech)`"]):::path
+    P4(["`**sammākammanto**
+    (Right Action)`"]):::path
+    P5(["`**sammāājīvo**
+    (Right Effort)`"]):::path
+    P6(["`**sammāvāyāmo**
+    (Right Way of Living)`"]):::path
+    P7(["`**sammāsati**
+    (Right Awareness)`"]):::path
+    P8(["`**sammāsamādhi**
+    (Right Focus)`"]):::path
+  end
+  style Path fill:PaleGreen,color:black
+  subgraph Realisation["`**cattāri ariyasaccāni**
+  (Four Realisations)`"]
+    classDef realisation fill:cyan,color:black
+    T1((("`**dukkhaṁ**
+    (Suffering)`"))):::realisation
+    T2((("`**dukkhasamudayaṁ**
+    (Origin of Suffering)`"))):::realisation
+    T3((("`**dukkhanirodhaṁ**
+    (Cessation of Suffeting)`"))):::realisation
+    T4((("`**dukkhanirodhagāminī paṭipadā**
+   (Path leading to the Cessation of Suffering)`"))):::realisation
+  end
+  T4 --> Path
+  style Realisation fill:azure,color:black
+  subgraph Collection["`**pañcupādānakkhandhā** (Five Collections)`"]
+    classDef collection fill:pink,color:black
+    C1{{"`**rūpakkhandho**
+    (Form)`"}}:::collection
+    C2{{"`**saññākkhandho**
+    (Apperception)`"}}:::collection
+    C3{{"`**vedanākkhandho**
+    (Feeling)`"}}:::collection
+    C4{{"`**saṅkhārakkhandho**
+    (Mental Constructions)`"}}:::collection
+    C5{{"`**viññāṇakkhandho**
+    (Consciousness)`"}}:::collection
+  end
+  style Collection fill:MistyRose,color:black
+  subgraph DO["`**paṭiccasamuppādo**
+  (Dependent Origination)`"]
+    classDef do fill:LavenderBlush,color:black
+    DOpad:::hidden
+    DO1>"`**avijjā**
+    (Ignorance)`"]:::do
+    DO2>"`**saṅkhārā**
+    (Mental Constructions)`"]:::do
+    DO3>"`**viññāṇaṁ**
+    (Consciousness)`"]:::do
+    DO4>"`**nāmarūpaṁ**
+    (Perceptual Objects)`"]:::do
+    DO5>"`**saḷāyatanaṁ**
+    (Six Senses)`"]:::do
+    DO6>"`**phasso**
+    (Contact)`"]:::do
+    DO7>"`**vedanā**
+    (Feeling)`"]:::do
+    DO8>"`**taṇhā**
+    (Craving)`"]:::do
+    DO9>"`**upādānaṁ**
+    (Fuel)`"]:::do
+    DO10>"`**bhavo**
+    (Existence)`"]:::do
+    DO11>"`**jāti**
+    (Birth)`"]:::do
+    DO12>"`**dukkha**
+    (Suffering)`"]:::do
+    DOpad ~~~ DO1 --> DO2 --> DO3 --> DO4 --> DO5 --> DO6 --> DO7 --> DO8 --> DO9 --> DO10 --> DO11 --> DO12
+  end
+  style DO fill:Thistle,color:black
+  DO12 <--> T1
+  DO2 <--> C4
+  DO3 <--> C5
+  DO7 <--> C3
+  I(("`**aniccaṁ**
+  (Impermanent)`"))
+  NS(("`**anatta**
+  (Not Self)`"))
+  Collection --> I & NS --> T1
+  subgraph Senses["`**saḷāyatana**
+  (Senses)`"]
+    classDef sense fill:PowderBlue,color:black
+    Spad:::hidden
+    S1{"`**cakkhu**
+    (eye)`"}:::sense
+    S2{"`**sota**
+    (ear)`"}:::sense
+    S3{"`**ghāna**
+    (nose)`"}:::sense
+    S4{"`**jivhā**
+    (tongue)`"}:::sense
+    S5{"`**kāya**
+    (body)`"}:::sense
+    S6{"`**mano**
+    (mind)`"}:::sense
+  end
+  style Senses fill:LightSkyBlue,color:black
+  Senses --> Collection
+  Senses <--> DO5
+  DO --> T2 & T3
+```
+
+The key concepts in the diagram are explained below:
+
+<CardGrid>
+<LinkCard title="paṭiccasamuppādo" description="Dependent Origination" href="/buddhavacana/sutta/deporig" />
+<LinkCard title="majjhimā paṭipadā" description="Middle Way" href="/buddhavacana/sutta/middle" />
+<LinkCard title="cattāri ariyasaccāni" description="Four Realisations" href="/buddhavacana/sutta/realisations" />
+<LinkCard title="pañcupādānakkhandhā" description="Five Collections" href="/buddhavacana/sutta/collections" />
+<LinkCard title="saḷāyatana" description="Six Senses" href="/buddhavacana/sutta/senses" />
+</CardGrid>
+
+A rather freeform interpretation of the above diagram follows:
+
+We are ignorant (`avijjā`). Ignorant of Life, The Universe, and Everything. We start out life as new born babies, unconscious, unaware, barely perceiving our surroundings.
+
+Because, or as a result of, our ignorance, we make non optimal decisions and choices (`saṅkhārā`). The accumulation of these decisions and choices result in an emerging consciousness (`viññāṇaṁ`).
+
+Our consciousness is "constructed" - it is created (or "caused") by the results of all the previous choices, decisions, intentions that we've made in the past.
+
+Let's examine how this consciousness has been constructed by exploring a cycle or chain of processes. Just like new born babies, all living things start with no awareness and no consciousness.
+
+But we react to our surroundings. Even single celled organisms have receptors that are sensitive to their environment, and can detect changes in temperature, light and nutrient availability. These receptors trigger a series of signalling pathways that can cause the cell to move towards or away from certain stimuli, or change shape or behaviour.
+
+In the same way, we have sense organs that perceive the environment. Gradually we are aware of forms, the form of our own body, and other forms external to the body. We build a virtual representation of forms in our mind (`saññā`), and name them (`nāmarūpaṁ`). By "naming" forms, we conceptualise them and develop symbolic "tokens" of them (and through this, our grasp of language develops). Awareness of our own form give rise to consciousness, and similarly consciousness makes us aware of that which is us, and that which is not us. Hence `viññāṇaṁ` and `nāmarūpaṁ` are mutually dependent on each other.
+
+We perceive forms through our senses (`saḷāyatanaṁ`) and through our senses we experience the world around us (`phasso`). From this experience, we start developing feelings (`vedanā`) - we like some experiences or forms, and we dislike or are indifferent to other experiences or forms. We develop cravings (`taṇhā`) for experiences and forms that we like, and aversions to experiences and forms we don't like, and these cravings and aversions influence or "fuel" future decisions or choices (`upādānaṁ`), that ultimately the "fuel" feed into our consciousness, and so the cycle repeats.
+
+It is a vicious cycle that feeds on itself and will not end unless there is a way to break out of the cycle. The driving forces fueling the cycle are referred to as the Five Collections of Fuel (`pañcupādānakkhandhā`). These five collections are directly related to the vicious cycle of existence:
+
+1. Our conceptualisation of forms is a fuel (`rūpakkhandho`) and drives how we perceive and name forms (`nāmarūpaṁ`). 'Forms' consume us and drive our desire and cravings - our desire to look beautiful and attractive for example drives a multi-billion dollar beauty industry. We also desire to "own" forms, to possess them, to make them part of us and to give us satisfaction.
+2. Similar, our feelings act as fuel (`vedanākkhandho`) - we desire more of what we like and avoid what we don't like (`vedanā`)
+3. Our perceptions (interpretations and conceptualisations of what we experience, such as the ability to recognise colours) also act as a fuel (`saññākkhandho`) - for example we want to be popular and liked by others, and we in turn judge others through our senses (`saḷāyatanaṁ`) and our contact with others (`phasso`).
+4. Based on our desire and craving for various forms, feelings, and perceptions, we make choices and decisions (`saṅkhārakkhandho`) which directly impact the results or implications of those intentions (`saṅkhārā`). For example, our like and dislike for others influence how we behave with them.
+5. And finally our consciousness itself is a fuel (`viññāṇakkhandho`). Our awareness of our existence leads to our primary craving - a desire to survive and to continue existence, to maintain our form and our consciousness (`viññāṇaṁ`)
+
+Together these Five Collections of Fuel feed a massive and intense fire (caused by desire) that consumes us, every moment of our lives (`sabbaṁādittaṁ`). It enflames not only our present existence (`bhavo`), but leads to birth and rebirth (`jāti`) and eventually to old age and death (`jarāmaraṇaṁ`), and so the cycle of existence (`saṃsāra`) ever revolves.
+
+This is clearly unsatisfactory (`dukkhaṁ`). Not only unsatisfactory, but the burning of the five fuels ultimately results in pain and suffering, that lasts throughout the entire cycle of saṃsāra.
+
+Why suffering? Surely there are moments of pleasure, moments of happiness? Maybe, if we indulge in our senses and revel in pleasure and happiness, we can forget about the pain and suffering. But deep inside, we know nothing lasts forever. We cannot sustain happiness and pleasure indefinitely, we all eventually grow old and die.
+
+We come to the realisation: nothing we experience is permanent (`aniccaṁ`), and therefore everything is ultimately unsatisfactory. Fundamentally, even our consciousness is impermanent (as it is continuously affected by what we have previously experienced), so there no sense of "self" that is permanent or unchanging (`anatta`).
+
+Is there a way out of these vicious cycles (both the vicious cycle caused by the five collections of fuel, and the vicious cycle of `saṃsāra`)?
+
+Fortunately, the Buddha found a way (`dukkhanirodhagāminīpaṭipadā`, or the Path of progress towards the Cessation of Suffering), that does not require either indulgence of senses or extreme practices. The way is practical, achievable within one lifetime, and consists of the following eight components (`ariyo aṭṭhaṅgiko maggo`, the Pure Path in eight parts):
+
+1. `sammādiṭṭhi`: The first step is of course to understand what we have just discussed (`cattāri ariyasaccāni`): that everything is unsatisfactory (`dukkhaṁ`), and impermanent, including our sense of self. The origin of this suffering (`dukkhasamudayaṁ`) is our craving which drives the five masses of fuel. In order to end the vicious cycle of suffering, we need to stop fueling the fire (`dukkhanirodhaṁ`). And to stop fueling the fire, we need to engage in the following components of the way.
+2. `sammāsaṅkappo`: Ultimately, we need to abandon our dependence on sensual pleasures (which are impermanent) and focus on ethical and moral conduct, such as good will and well being towards everything. Unwholesome and unskilled actions are sub-optimal and stem from  bad intentions, resulting in harm to ourselves and others. Good intentions and optimal behaviour lead to wholesome actions and a detachment from sensual pleasures.
+3. `sammāvācā`: We should also avoid speech that is false, divisive, harsh or nonsensical.
+4. `sammākammanto`: We should also refrain from unethical and immoral actions, such as killing or harming other living beings, stealing and ultimately even sexual activity (for this propagates the vicious cycle). It may seem strange that we want to deny our fundamental biological imperative, but our desire for procreation overrides rationality and fuels our craving and leads us to uncontrollable behaviour.
+5. `sammāājīvo`: We should lead an exemplary life, avoiding activities and even thoughts that are unethical or result in further craving and unwholesome thoughts.
+6. `sammāvāyāmo`: We should make all effort to eradicate even the arising of non optimal thoughts and desires, ensure any non optimal thoughts that we already harbour are dissipated, and instead promote and maintain optimal thoughts (that do not lead to suffering).
+7. `sammāsati`: We should be hyper-aware of ourselves, by observing our bodies, our feelings, how we think, our value systems. We are constantly mindful to ensure we are stopping all thoughts and activities leading to fueling our cravings.
+8. `sammāsamādhi`: Finally, we will recognise that once we have successfully abandoned our dependence on sensual cravings, removed unwholesome or unskilled qualities, we will gradually realise our entire outlook, disposition and mindset have progressed, over a set of four stages.
+   1. In the first stage, we finally realise the joy and bliss of a calm mind that is free of delusions, cravings, and bad intentions.
+   2. In the second stage, we gain internal clarity as our mind becomes focused and concentrated as it is no longer distracted.
+   3. In the third stage, we become tranquil as we let go even of joy and bliss and become dispassionate and embrace equanimity.
+   4. In the fourth stage, we completely let go and realise we are no longer tied to the vicious cycle of `saṃsāra`. With this realisation, we are finally free, we have broken out of the vicious cycle. Thus we have attained enlightenment or "perfect awakening."
+
+The above represents the "core" of what the Buddha taught, everything else is arguably elaboration and further clarification. The teaching is not only practical but also effective. Anecdotally, many individuals attained enlightenment during the Buddha's lifetime and presumably more even after his death. Many people try to follow that teaching today, including myself.
