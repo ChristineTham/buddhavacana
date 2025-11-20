@@ -1,0 +1,49 @@
+---
+title: "Cspell custom dictionary for Pāḷi"
+sidebar:
+  label: "CSpell dictionary"
+description: >
+  Custom dictionary for editors using Cspell based on words from the Digital Pali Dictionary
+---
+
+import Download from '../../../components/Download.astro';
+
+The following text file can be used as a custom dictionary for [Cspell](https://cspell.org/). Cspell is often used as a spell checker in code editors such as [Visual Studio Code](https://code.visualstudio.com/).
+
+The custom dictionary is generated using the word lookups from [Digital Pali Dictionary](https://dpdict.net/) ([Documentation](https://digitalpalidictionary.github.io)).
+
+<Download title="Download `pali.txt`" href="/buddhavacana/pali.txt" />
+
+To use the custom dictionary in Visual Studio Code, add the following to your `settings.json` file:
+
+```json
+"cSpell.customDictionaries": {
+  "pali": {
+    "name": "pali",
+    "path": "${workspaceRoot}/pali.txt",
+    "description": "Pali dictionary",
+    "addWords": false
+  },
+  "custom": true, // Enable the `custom` dictionary
+}
+```
+
+To use this in [Zed](https://zed.dev/), create a `cspell.json` file in the root of your project with the following content:
+
+```json
+{
+  "dictionaries": ["en", "pali"],
+  // Tell CSpell about your dictionary
+  "dictionaryDefinitions": [
+    {
+      // The name of the dictionary is used to look it up.
+      "name": "pali",
+      // Path to the custom word file. Relative to this `cspell.json` file.
+      "path": "./pali.txt",
+      // Some editor extensions will use `addWords` for adding words to your
+      // personal dictionary.
+      "addWords": false
+    }
+  ]
+}
+```

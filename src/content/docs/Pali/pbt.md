@@ -8,6 +8,12 @@ description: >
 
 My independent translation of the excerpts from the Tipiṭaka in **Pali Buddhist Texts** Explained to the Beginner, Rune E A Johansson, Curzon Press, Copenhagen, Scandinavian Institute of Asian Studies Monograph Series, Third Edition, 1981.
 
+I translated these excerpts immediately after attending the Pali course held by Bhante Sujato and John Kelly in 2023, so the approach here reflects a labour intensive approach to translate each word and manually determining the inflection form by looking up the Digital Pali Dictionary. These days I have a Python program that automatically looks up the word definition and inflection form from machine readable text.
+
+To this day, I like to credit these excerpts as my first serious attempt at translating Pali texts, which resulted in my finally understanding and appreciating these texts.
+
+I have recently updated the translations to reflect my current preferred English renditions of various technical terms.
+
 ## 1. EXPERIENCE IS THE ONLY CRITERION
 
 [Mahātaṇhāsaṅkhayasutta MN 38 PTS 1.257–1.271](https://suttacentral.net/mn38)  (Majjhima Nikaya I 265):
@@ -34,8 +40,8 @@ Thus knowing and thus seeing, bhikkhave, will you say -
 
 24.8 samaṇo evamāha, samaṇā ca nāma mayaṁ evaṁ vademā”ti?  
 🚹①⨀(samaṇa) 🔼(evamāha) 🚹①⨂(samaṇa) 🔼(ca) 🔼(nāma) 👆①⨂(ahaṃ) 🔼(evaṃ) ⏯👆⨂(vadati) 🔼(ti)  
-ascetic | one said thus | ascetics | and | called | we | thus | will say | quote  
-An ascetic said thus, and (those) called ascetics, (so) we say thus.
+renunciant | one said thus | ascetics | and | name | we | thus | will say | quote  
+An renunciant said thus, and (those) renunciants named ..., (so) we say thus.
 
 24.9 “No hetaṁ, bhante”.  
 🔼(no hetaṃ) 🚹⓪⨀(bhavant)  
@@ -88,8 +94,8 @@ And what, bhikkhave, is the pure truth of dukkha (suffering)?
 
 18.2 Jātipi dukkhā, jarāpi dukkhā, maraṇampi dukkhaṁ, sokaparidevadukkhadomanassupāyāsāpi dukkhā, appiyehi sampayogopi dukkho, piyehi vippayogopi dukkho, yampicchaṁ na labhati tampi dukkhaṁ, saṅkhittena pañcupādānakkhandhā dukkhā.  
 🚺①⨀(jāti) 🔼(pi) 🚺①⨀(dukkha) 🚺①⨀(jara) 🔼(pi) 🚺①⨀(dukkha) 🚻①⨀(maraṇa) 🔼(pi) 🚻①⨀(dukkha) 🚹①⨂(sokaparidevadukkhadomanassupāyāsā) 🔼(pi) 🚹①⨂(dukkha) 🚹③⨂(appiya) 🚹①⨀(sampayoga) 🔼(pi) 🚹①⨀(dukkha) 🚹⑤⨂(piya) 🚹①⨀(vippayoga) 🔼(pi) 🚹①⨀(dukkha) 🔼(yampicchaṃ) 🔼(na) ▶️🤟⨀(labhati) 🚻①⨀(ta) 🔼(pi) 🚻①⨀(dukkha) 🚹③⨀(saṅkhitta) 🚹①⨂(pañcupādānakkhandhā) 🚹①⨂(dukkha)  
-birth | too | dukkha | old age | too | dukkha | death | too | dukkha | grief, wailing, pain, suffering and trouble | too | dukkha | with disliked | association with | too | dukkha | from loved | separation from | too | dukkha | what one desires | gets | that | too | dukkha | in summary | the five masses of fuel | dukkha  
-Birth, too, is dukkha, old age, too, is dukkha, death, too, is dukkha, grief, wailing, pain, suffering and trouble, too, are dukkha, association with disliked, too, is dukkha, separation from loved, too, is dukkha, not getting what one desires, too, is dukkha, in summary, the five masses of fuel are dukkha.
+birth | too | dukkha | old age | too | dukkha | death | too | dukkha | grief, wailing, pain, suffering and trouble | too | dukkha | with disliked | association with | too | dukkha | from loved | separation from | too | dukkha | what one desires | gets | that | too | dukkha | in summary | the five collections of fuel | dukkha  
+Birth, too, is dukkha, old age, too, is dukkha, death, too, is dukkha, grief, wailing, pain, suffering and trouble, too, are dukkha, association with disliked, too, is dukkha, separation from loved, too, is dukkha, not getting what one desires, too, is dukkha, in summary, the five collections of fuel are dukkha.
 
 ## 3. THE CAUSE OF SUFFERING
 
@@ -140,8 +146,8 @@ It is just this, the pure path in eight parts, as follows:
 
 21.3 sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi.  
 🚹①⨀(sammādiṭṭhi) 🚹①⨀(sammāsaṅkappa) 🚹①⨂(sammāvāca) 🚹①⨀(sammākammanta) 🚹①⨀(sammāājīva) 🚹①⨀(sammāvāyāma) 🚹①⨀(sammāsati) 🚹①⨀(sammāsamādhi)  
-right view | right intention | right speech | right conduct | right livelihood | right effort | right awareness | right mental composure  
-Right view, right intention, right speech, right conduct, right livelihood, right effort, right awareness, right mental composure.
+right view | right intention | right speech | right conduct | right way of living | right effort | right awareness | right focus  
+Right view, right intention, right speech, right conduct, right way of living, right effort, right awareness, right focus.
 
 ## 6. THE IMPERMANENCE OF LIFE
 
@@ -187,12 +193,12 @@ path | there is | one who goes | no | exist | quote
 
 There is suffering, but no one is suffering  
 There is action, but no one is performing  
-There is entinguishment, but no one is extinguishing  
-There is a path, but no one is travelling.
+There is extinguishment, but no one is extinguishing  
+There is a path, but no one is traveling.
 
 ## 8. DEFINITION OF PERSONALITY
 
-The nun Vajirā was harrassed with doubts by Māra, the Tempter or god of Death: What is a "person"? How does he arise? Who creates him? However, Vajirā understood that questions of this type are misleading and gave the following answer:
+The nun Vajirā was harassed with doubts by Māra, the Tempter or god of Death: What is a "person"? How does he arise? Who creates him? However, Vajirā understood that questions of this type are misleading and gave the following answer:
 
 [Vajirāsutta SN 5.10 PTS (1st ed) 1.135 PTS (2nd ed) 1.296–1.297](https://suttacentral.net/sn5.10) (Samyutta Nikaya I 135):
 
@@ -222,23 +228,23 @@ is | being | like this | general consensus
 
 What you refer as a “being”,  
 Māra, a misconception of yours?  
-This is merely a pile of saṅkhāra (volitional formations),  
+This is merely a pile of `saṅkhāra` (mental constructions),  
 No being is found in here.  
 Like a collection of parts,  
 Is (referred by) the word “chariot”.  
-Thus in the collection of the (five fuel) masses,  
+Thus in the collection of the `khandhā`,  
 Is generally regarded as a “being.”
 
 ## 9. THE FACTORS OF PERSONALITY
 
-The Five Masses of Fuel (“pañcupādānakkhandhā”).
+The Five Collections of Fuel (“pañcupādānakkhandhā”).
 
 [Mahāmālukyasutta MN 64 PTS 1.433–1.437](https://suttacentral.net/mn64) (Majjhima Nikaya I 435):
 
 9.3 So yadeva tattha hoti rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato suññato anattato samanupassati.  
 🚹①⨀(ta) 🔼(yadeva) 🔼(tattha) ▶️🤟⨀(hoti) 🚻①⨀(rūpagata) 🚻①⨀(vedanāgata) 🚻①⨀(saññāgata) 🚻①⨀(saṅkhāragata) 🚻①⨀(viññāṇagata) 🚹①⨂(ta) 🚹②⨂(dhamma) 🚹⑤⨀(anicca) 🚹⑤⨀(dukkha) 🚹⑤⨀(roga) 🚹⑤⨀(gaṇḍa) 🚹⑤⨀(salla) 🚹⑤⨀(agha) 🚹⑤⨀(ābādha) 🚹⑤⨀(para) 🚹⑤⨀(paloka) 🚹⑤⨀(suñña) 🚹⑤⨀(anatta) ▶️🤟⨀(samanupassati)  
-that | whichever | in that regard | is | related to form | related to feelings | related to perception | related to volitional results | related to consciousness | those | chracteristics/processes | from impermanence | from suffering | from disease |  from body disfigurement | from sharp objects | from trouble | from oppression | from infliction by others | from disintegration | from emptiness | from non-permanent self | perceived as  
-Whatever that is regarded as related to rūpa (form), vedanā (feelings), saññā (perceptions), saṅkhāra (volitional results), viññāṇa (consciousness), those processes are perceived as impermanent, suffering, disease, body disfigurements, cuts from sharp objects, trouble and misfortune, oppression , inflictions by others, disintegration, emptiness, and do not represent a non-permanent self.
+that | whichever | in that regard | is | related to form | related to feelings | related to apperception | related to mental constructions | related to consciousness | those | chracteristics/processes | from impermanence | from suffering | from disease |  from body disfigurement | from sharp objects | from trouble | from oppression | from infliction by others | from disintegration | from emptiness | from non-permanent self | perceived as  
+Whatever that is regarded as related to rūpa (form), vedanā (feelings), saññā (apperceptions), saṅkhāra (mental constructions), viññāṇa (consciousness), those processes are perceived as impermanent, suffering, disease, body disfigurements, cuts from sharp objects, trouble and misfortune, oppression , inflictions by others, disintegration, emptiness, and do not represent a non-permanent self.
 
 9.4 So tehi dhammehi cittaṁ paṭivāpeti.  
 🚹①⨀(ta) 🚹⑤⨂(ta) 🚹⑤⨂(dhamma) 🚻①⨀(citta) ▶️🤟⨀(paṭivāpeti)  
@@ -717,7 +723,7 @@ moisture | and | both of those
 
 6.1 Evaṁ khandhā ca dhātuyo,  
 🔼(evaṃ) 🚹①⨂(khandha) 🔼(ca) 🚺①⨂(dhātu)  
-thus | masses | and | elements  
+thus | collections | and | elements  
 6.2 cha ca āyatanā ime;  
 ⚧①⨂(cha) 🔼(ca) 🚻①⨂(āyatana) 🚹①⨂(ima)  
 six | and | senses | these  
@@ -733,7 +739,7 @@ Sown in field, grows;
 Meeting with soil nutrients,  
 and moisture, both of these.
 
-Thus, the masses and elements,  
+Thus, the collections and elements,  
 And these six senses;  
 Reason for arise of dependence,  
 Disintegration of dependence, ceases
@@ -985,8 +991,8 @@ Conciliator of the broken, provider of friendly terms, enjoying concord, liking 
 harsh speech | giving up | from harsh speech | abstaining from | is
 Giving up harsh speech, abstaining from harsh speech.  
 🚺①⨀(ya) 🚺①⨀(ta) 🚺①⨀(vāca) 🚺①⨀(nela) 🚺①⨀(kaṇṇasukha) 🚺①⨀(pemanīya) 🚺①⨀(hadayaṅgama) 🚺①⨀(porī) 🚺①⨀(bahujanakanta) 🚺①⨀(bahujanamanāpa) 🚺②⨀(tathārūpa) 🚺②⨀(vāca) 🚺①⨀(bhāsita) ▶️🤟⨀(hoti)  
-whatever | that | speech | gentle | pleasant to hear | friendly | heart warming | polite | loved by the people | charming to the masses | appropriate | speech | talking | is  
-Whatever that speech is, it is gentle, pleasant to hear, friendly, heart-warming, polite, loved by the people, charming to the masses, talking appropriate speech.
+whatever | that | speech | gentle | pleasant to hear | friendly | heart warming | polite | loved by the people | charming to the collections | appropriate | speech | talking | is  
+Whatever that speech is, it is gentle, pleasant to hear, friendly, heart-warming, polite, loved by the people, charming to the collections, talking appropriate speech.
 
 17.1 Samphappalāpaṁ pahāya samphappalāpā paṭivirato hoti kālavādī bhūtavādī atthavādī dhammavādī vinayavādī, nidhānavatiṁ vācaṁ bhāsitā hoti kālena sāpadesaṁ pariyantavatiṁ atthasaṁhitaṁ.  
 🚹②⨀(samphappalāpa) 🔼(pahāya) 🚹⑤⨀(samphappalāpa) 🚹①⨀(paṭivirata) ▶️🤟⨀(hoti) 🚹①⨀(kālavādī) 🚹①⨀(bhūtavādī) 🚹①⨀(atthavādī) 🚹①⨀(dhammavādī) 🚹①⨀(vinayavādī) 🚺②⨀(nidhānavant) 🚹②⨀(vāca) 🚺①⨀(bhāsita) ▶️🤟⨀(hoti) 🚹③⨀(kāla) 🚹②⨀(sāpadesa) 🚺②⨀(pariyantavant) 🚻①⨀(atthasaṃhita)  
@@ -1041,33 +1047,33 @@ Life long arahants (awakened beings) abstain from dancing, singing, instrumental
 life-long | awakened beings | large and luxurious beds | giving up | from large and luxurious beds | abstained from | low bed | prepare | small bed | or | spread of grass | or  
 Life long arahants (awakened beings) give up and abstain from large and luxurious beds, prepare low or small beds, or spread of grass.
 
-## 33. RIGHT LIVELIHOOD
+## 33. RIGHT way of living
 
 [Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315](https://suttacentral.net/dn22) (Digha Nikaya II 312):
 
 21.16 Katamo ca, bhikkhave, sammāājīvo?  
 🚺①⨀(katama) 🔼(ca) 🚹⓪⨂(bhikkhu) 🚹①⨂(sammāājīva)  
-what? | and | bhikkhave | right livelihood  
-Bhikkhave, and what is "sammāājīva" (right livelihood)?
+what? | and | bhikkhave | right way of living  
+Bhikkhave, and what is "sammāājīva" (right way of living)?
 
 21.17 Idha, bhikkhave, ariyasāvako micchāājīvaṁ pahāya sammāājīvena jīvitaṁ kappeti.  
 🔼(idha) 🚹⓪⨂(bhikkhu) 🚹①⨀(ariyasāvaka) 🚹②⨀(micchāājīva) 🔼(pahāya) 🚹③⨀(sammāājīva) 🚻①⨀(jīvita) ▶️🤟⨀(kappeti)  
-here | bhikkhave | pure disciples | wrong livelihood | giving up | with right livelihood | way of life | prepares  
-Here, Bhikkhave, pure disciples give up wrong livelihood, prepares for a way of life with right livelihood.
+here | bhikkhave | pure disciples | wrong way of living | giving up | with right way of living | way of life | prepares  
+Here, Bhikkhave, pure disciples give up wrong way of living, prepares for a way of life with right way of living.
 
 21.18 Ayaṁ vuccati, bhikkhave, sammāājīvo.  
 🚹①⨀(ima) ▶️🤟⨀(vuccati) 🚹⓪⨂(bhikkhu) 🚹①⨀(sammāājīva)  
-this | is said | bhikkhave | right livelihood  
-Bhikkhave, this said to be "sammāājīva" (right livelihood).
+this | is said | bhikkhave | right way of living  
+Bhikkhave, this said to be "sammāājīva" (right way of living).
 
-## 34. WRONG LIVELIHOOD
+## 34. WRONG way of living
 
 [Mahācattārīsakasutta MN 117 PTS 3.72–3.78](https://suttacentral.net/mn117) (Majjhima Nikaya III 75):
 
 29.1 Katamo ca, bhikkhave, micchāājīvo?  
 🚺①⨀(katama) 🔼(ca) 🚹⓪⨂(bhikkhu) 🚹①⨂(micchāājīva)  
-what? | and | bhikkhave | wrong livelihood  
-Bhikkhave, and what is "micchāājīva" (right livelihood)?
+what? | and | bhikkhave | wrong way of living  
+Bhikkhave, and what is "micchāājīva" (right way of living)?
 
 29.2 Kuhanā, lapanā, nemittikatā, nippesikatā, lābhena lābhaṁ nijigīsanatā—  
 🚻①⨂(kuhana) 🚻①⨂(lapana) 🚺①⨀(nemittikatā) 🚺①⨀(nippesikatā) 🚹③⨀(lābha) 🚹②⨀(lābha) 🚺①⨀(nijigīsanatā)  
@@ -1076,8 +1082,8 @@ Cheating, cajoling, indirect begging, putting others down, desiring acquisition 
 
 29.3 ayaṁ, bhikkhave, micchāājīvo.  
 🚹①⨀(ima) 🚹⓪⨂(bhikkhu) 🚹①⨀(micchāājīva)  
-this | bhikkhave | wrong livelihood  
-Bhikkhave, this is "micchāājīva" (wrong livelihood).
+this | bhikkhave | wrong way of living  
+Bhikkhave, this is "micchāājīva" (wrong way of living).
 
 ## 35. RIGHT EFFORT
 
@@ -1238,8 +1244,8 @@ Of that, whatever past refined and true perception of felicity and satisfaction 
 
 11.3 Samādhijapītisukhasukhumasaccasaññā tasmiṁ samaye hoti, samādhijapītisukhasukhumasaccasaññīyeva tasmiṁ samaye hoti.  
 🚺①⨀(samādhijapītisukhasukhumasaccasaññā) 🚹⑦⨀(ta) 🚹⑦⨀(samaya) ▶️🤟⨀(hoti) 🚺①⨀(samādhijapītisukhasukhumasaccasaññī) 🔼(eva) 🚹⑦⨀(ta) 🚹⑦⨀(samaya) ▶️🤟⨀(hoti)  
-refined and true perception of the delight and ease born from mental composure | in that | in occasion | is | refined and true perception of the delight and ease born from mental composure | only | in that | in occasion | is  
-In that occasion, there is refined and true perception of the felicity and satisfaction born from mental composure, and in that occasion there is only a refined and true perception of the felicity and satisfaction born from mental composure.
+refined and true perception of the delight and ease born from focus | in that | in occasion | is | refined and true perception of the delight and ease born from focus | only | in that | in occasion | is  
+In that occasion, there is refined and true perception of the felicity and satisfaction born from focus, and in that occasion there is only a refined and true perception of the felicity and satisfaction born from focus.
 
 ## 40. THE THIRD LEVEL OF CONCENTRATION
 
@@ -1252,8 +1258,8 @@ And furthermore, Poṭṭhapāda, a bhikkhu, with the detachment from felicity, 
 
 12.2 Tassa yā purimā samādhijapītisukhasukhumasaccasaññā, sā nirujjhati.  
 🚹⑥⨀(ta) 🚹①⨂(ya) 🚹①⨂(purima) 🚺①⨀(samādhijapītisukhasukhumasaccasaññā) 🚺①⨀(ta) ▶️🤟⨀(nirujjhati)  
-of that | whatever | past | refined and true perception of the felicity and satisfaction born from mental composure | that | ceases  
-Of that, whatever past refined and true perception of the felicity and satisfaction born from mental composure cease.
+of that | whatever | past | refined and true perception of the felicity and satisfaction born from focus | that | ceases  
+Of that, whatever past refined and true perception of the felicity and satisfaction born from focus cease.
 
 12.3 Upekkhāsukhasukhumasaccasaññā tasmiṁ samaye hoti, upekkhāsukhasukhumasaccasaññīyeva tasmiṁ samaye hoti.  
 🚺①⨀(upekkhāsukhasukhumasaccasaññā) 🚹⑦⨀(ta) 🚹⑦⨀(samaya) ▶️🤟⨀(hoti) 🚺①⨀(upekkhāsukhasukhumasaccasaññī) 🔼(eva) 🚹⑦⨀(ta) 🚹⑦⨀(samaya) ▶️🤟⨀(hoti)  
@@ -1520,7 +1526,7 @@ Unshakeable | of me | mental liberation | this is the final | birth | there is n
 all | passion | abandoned | by me  
 1.2 sabbo doso samūhato;  
 🚹①⨀(sabba) 🚹①⨀(dosa) 🚹⑤⨀(samūha)  
-all | ill will | from the masses  
+all | ill will | from the collections  
 1.3 Sabbo me vigato moho,  
 🚹①⨀(sabba) 👆⑥⨀(ahaṃ) 🚹①⨀(vigata) 🚹①⨀(moha)  
 all | by me | gone | delusion  
@@ -1529,7 +1535,7 @@ all | by me | gone | delusion
 liberated | I am | quenched | quote
 
 All passions abandoned by me,  
-All ill will from the masses (of fuel);  
+All ill will from the collections (of fuel);  
 All delusions of me gone,  
 I am liberated and quenched.
 
@@ -1693,16 +1699,16 @@ Dukkha is an underlying dissatisfaction caused by:
 * separation from the loved
 * not getting what one desires
 
-In summary, the dukkha is analogous to a continuously burning fire fed by the Five Masses of Fuel (“pañcupādānakkhandhā”).
+In summary, the dukkha is analogous to a continuously burning fire fed by the Five collections of Fuel (“pañcupādānakkhandhā”).
 
-### The Five Masses of Fuel
+### The Five collections of Fuel
 
 These are five processes:
 
 1. rūpa (form),
 2. vedanā (feelings),
 3. saññā (perceptions),
-4. saṅkhāra (volitional results),
+4. saṅkhāra (mental constructions),
 5. viññāṇa (consciousness),
 
 These processes result in:
@@ -1723,7 +1729,7 @@ Life, and everything that is experienced, is impermanent. Time passes, beings di
 
 ### No permanent “self” or “soul”
 
-What we regard as a sense of “self” is also impermanent. Our conception of a “being” is nothing more than the collection of the Five Masses of Fuel, there is no “sum” that is greater than the “parts.”
+What we regard as a sense of “self” is also impermanent. Our conception of a “being” is nothing more than the collection of the Five collections of Fuel, there is no “sum” that is greater than the “parts.”
 
 There is suffering, but no “self” is suffering  
 There is action, but no “self” is performing  
@@ -1755,12 +1761,12 @@ Also known as the Pure Path in Eight Parts (“ariyo aṭṭhaṅgiko maggo”),
 2. sammāsaṅkappa (right intention),
 3. sammāvāca (right speech),
 4. sammākammanta (right conduct),
-5. sammāājīva (right livelihood),
+5. sammāājīva (right way of living),
 6. sammāvāyāma (right effort),
 7. sammāsati (right awareness),
-8. sammāsamādhi (right mental composure).
+8. sammāsamādhi (right focus).
 
-The basis of the Pure Path is the mind pulling away from the Five Masses of Fuel, which causes the fuel to be spent and the fire to stop burning. Let us examine some of these masses in greater detail.
+The basis of the Pure Path is the mind pulling away from the Five collections of Fuel, which causes the fuel to be spent and the fire to stop burning. Let us examine some of these collections in greater detail.
 
 ### vedanā (Feelings)
 
@@ -1909,7 +1915,7 @@ Sown in field, grows;
 Meeting with soil nutrients,  
 and moisture, both of these.
 
-Thus, the masses and elements,  
+Thus, the collections and elements,  
 And these six senses;  
 Reason for arise of dependence,  
 Disintegration of dependence, ceases
@@ -1994,7 +2000,7 @@ Giving up slanderous speech, abstaining from slanderous speech. Having listened 
 Conciliator of the broken, provider of friendly terms, enjoying concord, liking harmony, delighting in unity, talking peace-making speech.
 
 Giving up harsh speech, abstaining from harsh speech.
-Whatever that speech is, it is gentle, pleasant to hear, friendly, heart-warming, polite, loved by the people, charming to the masses, talking appropriate speech.
+Whatever that speech is, it is gentle, pleasant to hear, friendly, heart-warming, polite, loved by the people, charming to the collections, talking appropriate speech.
 
 Giving up gossip, abstaining from gossip, speaking at the proper time, speaking what is true, speaking what is meaningful, speaking about the Dhamma, speaking about the discipline, talking speech worth remembering, timely, reasonable, purposeful, beneficial.
 
@@ -2014,12 +2020,12 @@ Life long arahants (awakened beings):
 * abstain from dancing, singing, instrumental music, watching shows, using garlands, perfumes, oils, adornments and decorations.
 * give up and abstain from large and luxurious beds, prepare low or small beds, or spread of grass.
 
-### sammāājīva (Right Livelihood),
+### sammāājīva (Right way of living),
 
-* give up wrong livelihood,
-* prepares for a way of life with right livelihood.
+* give up wrong way of living,
+* prepares for a way of life with right way of living.
 
-Wrong livelihood:
+Wrong way of living:
 
 * Cheating,
 * cajoling,
@@ -2082,13 +2088,13 @@ The bhikkhu is intent and mindful of filling all compass directions, above and b
 * muditā (emphatic happiness)
 * upekkhā (balance/equanimity)
 
-### sammāsamādhi (Right Mental Composure)
+### sammāsamādhi (Right focus)
 
-Nine levels of mental composure:
+Nine levels of focus:
 
 1. Secluding oneself from sensual pleasures, detaching from unskillful behaviour, one enters and remains in the first jhāna, accompanied by reflection and consideration, secluded from defilements, with felicity and satisfaction. Of that, whatever past perceptions of sensual pleasure cease. In that occasion, there is refined and true perception of felicity and satisfaction born from seclusion, and in that occasion there is only a refined and true perception of felicity and satisfaction born from seclusion.
-2. With the conclusion of reflection and consideration, one enters and remains in the second jhāna, accompanied by an inner calming of intention, focused and free of thought or inner dialogue, born from stable mind, with felicity and satisfaction. Of that, whatever past refined and true perception of felicity and satisfaction born from seclusion cease. In that occasion, there is refined and true perception of the felicity and satisfaction born from mental composure, and in that occasion there is only a refined and true perception of the felicity and satisfaction born from mental composure.
-3. With the detachment from felicity, enters and remains in the third jhāna, one remains mentally balanced, is fully aware and being present, experiences body comfort, as the pure ones describe: “equanimous, attentive, living at ease.” Of that, whatever past refined and true perception of the felicity and satisfaction born from mental composure cease. In that occasion, there is refined and true perception of equanimity, and in that occasion there is only a refined and true perception of equanimity.
+2. With the conclusion of reflection and consideration, one enters and remains in the second jhāna, accompanied by an inner calming of intention, focused and free of thought or inner dialogue, born from stable mind, with felicity and satisfaction. Of that, whatever past refined and true perception of felicity and satisfaction born from seclusion cease. In that occasion, there is refined and true perception of the felicity and satisfaction born from focus, and in that occasion there is only a refined and true perception of the felicity and satisfaction born from focus.
+3. With the detachment from felicity, enters and remains in the third jhāna, one remains mentally balanced, is fully aware and being present, experiences body comfort, as the pure ones describe: “equanimous, attentive, living at ease.” Of that, whatever past refined and true perception of the felicity and satisfaction born from focus cease. In that occasion, there is refined and true perception of equanimity, and in that occasion there is only a refined and true perception of equanimity.
 4. Just before the giving up of the pleasant and the unpleasant and the disappearance of mental pleasure and displeasure, satisfaction and dissatisfaction, one enters and remains in the fourth jhāna, in a neutral state, and possessing purification of awareness by equanimity. Of that, whatever past refined and true perception of equanimity cease. In that occasion, there is refined and true perception of neither unpleasant nor pleasant sensation, and in that occasion there is only a refined and true perception of neither unpleasant nor pleasant sensation.
 5. Going beyond perception of form altogether, with the disappearance of perception of sense impressions, ignoring the recognition of multiple/diverse things, one enters and remains in the base of the infinity of space, ie. “infinite space”.
 6. Going beyond the base of infinite space altogether, one enters and remains in the base of the infinite consciousness, ie. “infinite consciousness”.
@@ -2096,7 +2102,7 @@ Nine levels of mental composure:
 8. Having seen the inadequacy of the base of neither perception nor non-perception that is practiced often, one applies oneself to expecting and attaining the ending of recognition and feeling.
 9. Going beyond the base of neither perception nor non-perception altogether, one enters and remains in the ending of recognition and feeling, having seen by that knowledge, one arrives at the exhaustion of the effluents.
 
->And from whatever indeed, I entered and emerged from these nine attainments of the successive stages in mental composure forwards and backwards, then I claimed to the deities in the world, Māra, Brahmas, religious practitioners, general population, kings and commoners: “This is the highest, perfect awakening, and perfect enligtenment!”
+>And from whatever indeed, I entered and emerged from these nine attainments of the successive stages in focus forwards and backwards, then I claimed to the deities in the world, Māra, Brahmas, religious practitioners, general population, kings and commoners: “This is the highest, perfect awakening, and perfect enligtenment!”
 >
 >Having insight, the realisation arose for me: “Unshakeable is my mental liberation, this is the final birth, now there is no rebirth.”
 
@@ -2153,7 +2159,7 @@ Having insight, the realisation arose for me: “Unshakeable is the my mental li
 ### Nibbāna
 
 All passions abandoned by me,  
-All ill will from the masses (of fuel);  
+All ill will from the `khandhā`;  
 All my delusions gone,  
 I am liberated and quenched.
 

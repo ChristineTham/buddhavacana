@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Answers to Warder Lesson 17"
 sidebar:
   label: "Warder Lesson 17"

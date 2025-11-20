@@ -43,6 +43,26 @@ export default defineConfig({
         src: "./public/favicon.svg",
       },
       favicon: "/favicon.svg",
+      head: [
+        {
+          tag: "meta",
+          attrs: {
+            property: "og:image",
+            // The absolute URL of the image to use.
+            content:
+              "https://christham.net/buddhavacana/featured-background.jpg",
+          },
+        },
+        {
+          tag: "meta",
+          attrs: {
+            property: "twitter:image",
+            // The absolute URL of the image to use.
+            content:
+              "https://christham.net/buddhavacana/featured-background.jpg",
+          },
+        },
+      ],
       lastUpdated: true,
     }),
   ],
