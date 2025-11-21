@@ -14,7 +14,7 @@ export default defineConfig({
     starlight({
       title: "buddhavacana",
       description:
-        "My journey reading and studying Buddhist texts, thoughts on what the Buddha may have meant",
+        "The Word of the Buddha, my journey reading and studying Buddhist texts.",
       social: [
         {
           icon: "information",

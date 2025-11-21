@@ -1,7 +1,7 @@
 {
   "name": "buddhavacana",
   "version": "1.0.0",
-  "description": "My study notes for the Word of the Buddha.",
+  "description": "The Word of the Buddha, my journey reading and studying Buddhist texts.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ChristineTham/buddhavacana.git"
@@ -27,7 +27,7 @@
     "@cspell/dict-en-au": "^1.1.12",
     "@fontsource/noto-sans": "^5.2.10",
     "@fontsource/noto-sans-mono": "^5.2.10",
-    "astro": "^5.15.9",
+    "astro": "^5.16.0",
     "astro-mermaid": "^1.1.0",
     "astro-plantuml": "^0.1.4",
     "cspell": "^9.3.2",

@@ -84,4 +84,11 @@ I understand that you may find my translation irritating and you may disagree wi
 
 ## Technical details regarding this website
 
-This website is hosted on [Github](https://github.com) using [Github Pages](https://pages.github.com). It was generated from Markdown and MDX using [Astro](https://astro.build) and the [Starlight](https://starlight.astro.build) theme.
+* This website is hosted on [Github](https://github.com) using [Github Pages](https://pages.github.com).
+* It was generated from Markdown and MDX using [Astro](https://astro.build) and the [Starlight](https://starlight.astro.build) plugin.
+* Diagrams are created primarily using [Mermaid](https://mermaid.js.org).
+* The website colour scheme is based on [Rosely](https://rosely.hellotham.com).
+
+## Support Me
+
+If you find the content on this website useful, please consider supporting me by becoming a [sponsor](https://github.com/sponsors/hellotham). Your support helps me to continue creating and maintaining this website and its content. Thank you!
