@@ -35,78 +35,238 @@ In this book, references to Kaccāyana are denoted by eg. {8} (8th `sutta` or
 Kaccāyana is.
 :::
 
-Pali, like most other Indo-Aryan languages, is an oral language spoken as
+## Background
+
+According to K. R. Norman in **The origin of Pāli and its position among the Indo-European languages**[^Norman1988]:
+
+[^Norman1988]: Norman, K. R. (1988). The origin of Pāli and its position among the Indo-European languages. Journal of Pali and Buddhist Studies, 1, 1–27. https://doi.org/https://doi.org/10.20769/jpbs.1.0_1
+
+> Pāli is a dialect of Middle Indo-Aryan (MIA), i.e. one of the dialects which lie chronologically between Old Indo-Aryan (=Sanskrit) and New Indo-Aryan (=the modern languages of North India and Sinhalese). The Indo-Aryan languages of India belong to the Indo-European family of languages, and the name Indo-Aryan stands for "the Indo-European languages of India".
+
+Norman further explains that the multiple dialects of MIA are due to successive migrations of Indo-Aryans into India. This occurred over several waves and multiple generations. They met with the indigenous inhabitants of North India, and in particular the inhabitants of the Indus Valley, and over time assimilated part of their culture and languages, such as Dravidian and other languages. Each migration wave would have resulted in a different MIA dialect resulting from different amounts of Dravidian loanwords mixed in with them and also a different mix of cultural and religious backgrounds between the invaders and the indigenous inhabitants. Over time these MIA dialects also evolved away from Sanskrit, developed unique morphological and phonological characteristics and became referred to as "Prakrit" languages.
+
+By the time of the Buddha, there were at least three MIA dialects in use in the Greater Magadha region and beyond: a "Western" dialect, an "Eastern" dialect and a "North Western" dialect (Gāndhārī). The Buddha may have known all three dialects, and they were very similar to each other. Stefan Karpik[^Karpik2019b] regards them as "mutually intelligible" by native speakers of any of the dialects, although this is contested by Bryan Levman[^Levman2019b].
+
+[^Karpik2019b]: Karpik, S. (2019). The Buddha taught in Pali: A working hypothesis. Journal of the Oxford Centre for Buddhist Studies, 16, 80–86.
+[^Levman2019b]: Levman, B. (2019). The language the Buddha spoke. Journal of the Oxford Centre for Buddhist Studies, 17, 63–105.
+
+Bryan Levman in **Cultural Remnants of the Indigenous Peoples in the Buddhist Scriptures**[^Levman2014] points out the Shakya tribe which the Buddha belonged in had a separate socio-political organisation, religious and cultural values from the Indo-Aryans, so it is unclear what language the Buddha would have spoken or taught in. It is also unclear to what extent the Buddha was exposed to Brahmanism and therefore his knowledge of Sanskrit would have been questionable. He may have used a mixture of MIA dialects and indigenous languages, depending on his audience.
+
+[^Levman2014]: Levman, B. (2014). Cultural Remnants of the Indigenous Peoples in the Buddhist Scriptures. Buddhist Studies Review, 30(2), 145–180. https://doi.org/10.1558/bsrv.v30i2.145
+
+However, given the Khandhaka shows the Buddha interacting with royal and wealthy converts and benefactors, the Buddha may probably have spoken in the Western MIA dialect, which is regarded as more prestigious.[^Karpik2019a] In any case, what we know of as `Pāḷi` today would seem to be closest to the Western dialect, but mixed in with words and inflection forms from the other dialects.
+
+[^Karpik2019a]: Karpik, S. (2019a). A Reply to Bryan Levman’s “The Language the Buddha Spoke.” Journal of the Oxford Centre for Buddhist Studies, 17, 106–116.
+
+There are debates about the origin of Pāḷi, whether it was in fact a real language
+actually spoken by people, as opposed to an "invented" or "ecclesiastical" language specifically
+for the purposes of recording Buddhist doctrine. Bryan Levman in **The language of early Buddhism**[^Levman2016] wrote:
+
+[^Levman2016]: Levman, B. (2016). The language of early Buddhism. Journal of South Asian Languages and Linguistics, 3(1), 1--41.
+
+> As is well known, Buddhaghosa equated Pāli (P) with Māgadhī but we know that Pāli is a composite dialect, and although it contains elements of what is probably an eastern dialect that the Buddha may have spoken, it is nevertheless not an “original language of Buddhism” but a translation of something earlier. It is usually characterized as a western dialect, but in fact, if closely analysed, it contains elements of both eastern, western, and northwestern dialects – it is a mixed language created by monks, normalized for religious purposes.
+
+Pāḷi also contains a broad spectrum of loanwords from autochthonous languages such as Dravidian and Munda. This is especially evident with respect to plants, animals, customs and practices, slang words, and proper names which were foreign to the IA immigrants. Even some inflection forms (such as the absolutive or `-tvā` suffix) have been considered to be Dravidian in origin and imported into Sanskrit and MIA dialects.[^Levman2014]
+
+Levman[^Levman2014] adds that many grammatical features of Pāḷi and MIA dialects reflect conventions from autochthonous languages:
+
+> The above is only a sampling of some of the more conspicuous features of the Indic linguistic area; there are many others: causative verb structure, basic subject-object-verb word order; postpositions; goals of verb of motion, adverbial and infinitive complements which go in the object position; adjectives, genitive phrases, demonstratives and numerals which precede the noun they modify; qualifiers which precede adjectives; use of genitive for the verb ‘to have’; use of dative to express internal states of mind; caste system terminology similarities, and more.
+
+Although Pāḷi is most similar to the "Western" MIA dialect, there are signs that it has been transformed and "Sanskritised" over the years (by well meaning Sanskrit-trained editors and scribes no doubt trying to "correct" what they perceived to be spelling and grammatical "mistakes") so it is no longer a pure version of the dialect that the Buddha would have spoken, and it is at least partially an "artificial" language. The morphology and grammar of Pāḷi was formalised by various grammarians in the 6th-12th centuries (with Kaccāyana being the first such work) and it is likely the texts were altered to conform to the "normative" grammar as described by grammarians.
+
+As K. R. Norman[^Norman1997] points out in **A Philological Approach To Buddhism**:
+
+[^Norman1997]: Norman, K. R. (1997). A Philological Approach To Buddhism: The Bukkyō Dendō Kyōkai Lectures 1994: Vol. V.
+
+> ... if we set out to understand what the earliest texts say, i.e. those ascribed to the Buddha himself, or his followers during his lifetime, we have to consider the fact that the language which we find in such texts is not necessarily, and almost certainly is not, the language of the Buddha himself, i.e. the language has been changed both synchronically - it has been translated or transformed into other languages as the need arose, perhaps as Buddhism spread into neighbouring areas - and also diachronically, i.e. as the language of the readers or recensionists developed in the course of time, this had an effect upon the language of the texts.
+
+Norman[^Norman1988] adds:
+
+> The early works of Buddhism had been written in various Prakrits, but the growing prestige of Sanskrit led to an attempt to re-write these texts in Sanskrit. The success of such a translation process varied from sect to sect, and we find a variety of Sanskritised Prakrits which are generally referred to as Buddhist Hybrid Sanskrit, although it must be made clear that there is no one form of that language. The writing down of the Pāli canon in the first century B.C. probably put an end to the wholesale restoration of Sanskrit forms into the language of the Theravādin canon.
+
+More recently, Richard Gombrich in **Buddhism and Pali**[^Gombrich2018] suggests "Pāli reflects the idiosyncratic language used by the Buddha as he toured northeast India". Karpik[^Karpik2019a] offers a similar hypothesis that Pāḷi was in fact originally the Western MIA dialect, which was actually spoken by the Buddha. Levman[^Levman2019b] disagrees, and argues what the Buddha spoke may have been a "koine", or an inter-dialect "lingua franca" that was commonly used for administration, trade and commerce.[^Levman2016] This view has also been previously articulated by Lance Cousins[^Cousins2013]. Oscar von Hinüber[^Hinüber1996] raises the interesting possibility that the "lingua franca" may have been created after the Buddha died, by compilers of his teachings in order to standardise the texts. Regardless, Pāḷi texts probably represent the closest we will get to what might have been the Buddha's original words.
+
+[^Gombrich2018]: Gombrich, R. F. (2018). Buddhism and Pali. Mud Pie Slices.
+[^Cousins2013]: Cousins, L. S. (2013). The Early Development of Buddhist Literature and Language in India. Journal of the Oxford Centre for Buddhist Studies, 5, 89–135.
+[^Hinüber1996]: Hinüber, O. von. (1996). A Handbook of Pāli Literature (M. Wezler Albrecht;Witzel, Ed.). Walter de Gruyter.
+
+The term "Pāḷi" actually just means "text", and today "Pāḷi" is used primarily for Buddhist literature.
+
+Pāḷi, like most other Indo-Aryan languages, is an oral language spoken as
 `vākya` (sentences) made up of `vacana` (words) which are a combination of
-`akkhara` ("sounds", or "letters from an "alphabet"). {1}
+`akkhara` ("sounds", or "units from a writing system"). {1}
 
-There are debates about the origin of Pali, whether it was in fact a real language
-actually spoken by people, as opposed to an "invented" language specifically
-for the purposes of recording Buddhist doctrine. The term "Pali" actually
-just means "text", and today "Pali" is used primarily for Buddhist literature.
+## Pāḷi Writing System and pronunciation {2}-{9}
 
-## Pali Alphabet and pronunciation {2}-{9}
-
-The Buddha may have spoken a language similar to Pali, and when he died his
+The Buddha may have spoken a language similar to Pāḷi, and when he died his
 sayings were collected and systematised so they can be transmitted orally
 generation to generation using memorisation techniques such as chanting. The
-Pali canon was not written down until hundreds of years after the Buddha has
+Pāḷi canon was not written down until hundreds of years after the Buddha has
 passed away.
 
-As such, there is no "official" Pali alphabet or writing. Pali can be transcribed
-fairly faithfully in a number of alphabets, including Roman letters (with the
+As such, there is no "official" Pāḷi writing system. Pāḷi can be transcribed
+fairly faithfully in a number of scripts, including Roman letters (with the
 addition of a few diacritical marks or accented characters similar to other
 European languages).
 
-For this textbook, I will use Roman letters as the basis for the Pali alphabet
-since I am used to that.
+### The Pāḷi Abugida
 
-Of course, no one knows for sure how Pali words would have been pronounced,
-and how Pali sentences would have been spoken, particularly with regards to
-tonality. Modern day Pali pronunciation is based on how the Buddhist Pali canon
+Strictly speaking, Pāḷi does not use an "alphabet", it uses an "abugida".
+
+> [!INFO]
+> An "abugida" is a segmental writing system in which consonant–vowel sequences are written as units; each unit is based on a consonant letter, and vowel notation is secondary, similar to a diacritical mark. This contrasts with a full alphabet, in which vowels have status equal to consonants.
+> 
+> Pāḷi is generally written in various Brahmic scripts (also known as Indic scripts), which are abugida writing systems. Brahmic scripts are used throughout the Indian subcontinent, Southeast Asia and parts of East Asia. They are descended from the Brahmi script of ancient India. Brahmi is clearly attested from the 3rd century BCE during the reign of Áshoka, who used the script for imperial edicts.
+
+In Roman script, Pali consists of 8 vowels (`sara`) and 33 consonants (`vyañjana`), arranged in the following order (the letters in round brackets are not commonly encountered):
+
+>sara: a, ā, i, ī, u, ū  \
+>kaṇṭhatāluja: e  \
+>kaṇṭhoṭṭhaja: o  \
+>niggahīta: (ṃ[^1])  \
+>kavagga: k, kh, g, gh, (ṅ)  \
+>cavagga: c, ch, j, jh, ñ  \
+>ṭavagga: ṭ, ṭh, ḍ, (ḍh), (ṇ)  \
+>tavagga: t, th, d, dh, n  \
+>pavagga: p, ph, b, bh, m  \
+>antaṭṭha: y, r, l, (ḷ), (ḷh)  \
+>dantoṭṭhaja: v  \
+>sakāra: s  \
+>hakāra: h \
+
+[^1]: ṃ (niggahīta) can be written η, ṁ or ṃ
+
+### Groups
+
+|Articulation Place|rassa|dīgha|kaṇṭhatāluja kaṇṭhoṭṭhaja|anunāsika|aghosa sithila|aghosa dhanita|ghosa sithila|ghosa dhanita|nāsika|antaṭṭha|hakāra|sakāra|
+|---------|:---:|:--:|:-------:|:-------:|:---------:|:------:|:---------:|:------:|:---:|:-----:|:-----:|:------:|
+|kaṇṭhaja |  a  |  ā |         |         |     k     |   kh   |     g     |    gh  |  ṅ  |       |    h  |        |
+|tāluja   |  i  |  ī |    e    |         |     c     |   ch   |     j     |    jh  |  ñ  |   y   |       |        |
+|muḍḍhaja |     |    |    o    |    ṃ    |     ṭ     |   ṭh   |     ḍ     |    ḍh  |  ṇ  |  r ḷ  |       |        |
+|dantaja  |     |    |         |         |     t     |   th   |     d     |    dh  |  n  |  v l  |       |    s   |
+|oṭṭhaja  |  u  |  ū |         |         |     p     |   ph   |     b     |    bh  |  m  |       |       |        |
+
+### How to form sounds
+
+|vagga|Group|Sound|
+|-----|-----|-----|
+|kaṇṭhaja|Gutturals|pronounced in the throat|
+|tāluja|Palatals|pressing the tongue on the front-palate|
+|muḍḍhaja|Linguals (Cerebrals, Retroflex)|bringing the up-turned tip of the tongue in contact with the back of the palate|
+|dantaja|Dentals|pronounced with the aid of the teeth|
+|oṭṭhaja|Labials|formed by means of the lips|
+|hakāra|Spirant|a strong aspirated breathing|
+|sakāra|Sibilant|has a hissing sound|
+|anunāsika|Nasal|nasal breathing found only after the short vowels: aṃ, iṃ, uṃ|
+|aghosa|Voiceless (Surds, stops)|hard, flat, and toneless|
+|ghosa|Voiced (Sonants)|soft and uttered with a checked tone|
+|dhanita|Aspirates|pronounced with a strong breathing or h sound added to them|
+|sithila|Nonaspirates|pronounced naturally, without effort and without the h sound|
+|nāsika|Nasals|sounded through the nose|
+|antaṭṭha|Liquids (Resonants, semi-vowels)|readily combine with other consonants: (except, perhaps, ḷ)|
+|-|Mutes (Nonsurds)|not being readily pronounced without the aid of a vowel|
+
+### Pronunciation
+
+No one knows for sure how Pāḷi words would have been pronounced,
+and how Pāḷi sentences would have been spoken, particularly with regards to
+tonality. Modern day Pāḷi pronunciation is based on how the Buddhist Pāḷi canon
 is chanted in various countries including Sri Lanka, Myanmar and Thailand.
 
-{{< alert title="Reference" color="light">}}
-[**B: The Pāli Alphabet**]({{< relref "alphabet" >}})
-{{< /alert >}}
+|Letter|Pronunciation|
+|:----:|:-----------:|
+|a|b<u>u</u>t, c<u>u</u>t|
+|ā|<u>a</u>rt, f<u>a</u>ther|
+|i|m<u>i</u>ll, p<u>i</u>n|
+|ī|b<u>ee</u>, mach<u>i</u>ne|
+|u|p<u>u</u>t|
+|ū|c<u>oo</u>l, r<u>u</u>le|
+|e|t<u>e</u>n, f<u>a</u>te|
+|o|h<u>o</u>t, n<u>o</u>te|  
+|k|<u>k</u>ey, <u>k</u>ite|
+|g|<u>g</u>et, <u>g</u>ood|
+|ṅ|ri<u>ng</u>, si<u>ng</u>er|
+|c|<u>ch</u>urch, ri<u>ch</u>|
+|j|<u>j</u>am, <u>j</u>ug|
+|ñ|si<u>gn</u>or|
+|ṭ|ha<u>t</u>, no<u>t</u>|
+|ḍ|goo<u>d</u>, hi<u>d</u>|  
+|ṇ|hi<u>n</u>t, <u>n</u>ow|
+|t|<u>th</u>umb|
+|d|<u>th</u>ey|
+|n|<u>n</u>ow|
+|p|li<u>p</u>, <u>p</u>ut|
+|b|<u>b</u>ut, ri<u>b</u>|
+|m|hi<u>m</u>, <u>m</u>ind|
+|y|<u>y</u>ard, <u>y</u>es|  
+|r|<u>r</u>at, <u>r</u>ight|
+|l|<u>l</u>ight, se<u>ll</u>|
+|v|<u>v</u>ile, <u>v</u>ine|
+|s|<u>s</u>ing, <u>s</u>it|
+|h|<u>h</u>ot, <u>h</u>ut|
+|ḷ|fe<u>l</u>t, <u>l</u>ight|
+|ṃ|si<u>ng</u>|
 
-## Pali sentence structure
+## Roman Script Transliteration vs IPA Transcription
 
-A Pali sentence (`vākya`) or Pali text (`pali`) is generally composed of
-multiple words (`pada` or `vacana`). Since Pali was an oral language,
+The International Phonetic Alphabet for Pāḷi (IPA Pāḷi) 2008
+has been proposed by Emeritus Professor Vichin Phanupong, which is
+used for audio versions of the World Tipiṭaka Edition 2009.
+
+| **Manner of Articulation** (Karaṇa) |  **Voiceless Stop** (Aghosa) **Unaspirated** (Sithila) |  **Voiceless Stop** (Aghosa)**Aspirated** (Dhanita) | **Voiced Stop** (Ghosa) **Unaspirated** (Sithila) | **Voiced Stop** (Ghosa) **Aspirated** (Dhanita) | **Nasal Stop** | **Approximant** **Non-lateral** | **Approximant** **Lateral** | **Fricative** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Place of Articulation** (Ṭhāna) | | | | | | | | |
+| **Glottal** (Kaṇṭhaja) | | | | | | | | h [h] |
+| **Velar** (Kaṇṭhaja) | k [k] | kh [kʰ] | g [g] | gh [gʰ] | ṅ [ŋ] | | | |
+| **Palatal** (Tāluja) | c [c] | ch [cʰ] | j [j] | jh [jʰ] | ñ [ɲ] | y [j] | | |
+| **Retroflex** (Muddhajā) | ṭ [ṭ] | ṭh [tʰ] | ḍ [ḍ] | ḍh [dʰ] | ṇ [ṇ] | r [r] | ḷ [ḷ] | |
+| **Dental** (Dantaja) | t [t] | th [tʰ] | d [d] | dh [dʰ] | n [n] | | l [l] | s [s] |
+| **Bilabial** (Oṭṭhaja) | p [p] | ph [pʰ] | b [b] | bh [bʰ] | m [m] | | | |
+| **Labio-dental** (Dantoṭṭhaja) | | | | | | | v  [v] | | |
+| **Nasal Cavity** (Nāsikā) | | | | | (a)ṃ [ā] | | | |
+| | | | | | (i)ṃ [ī] | | | |
+| | | | | | (u)ṃ  [ū] | | | |
+
+## Pāḷi sentence structure
+
+A Pāḷi sentence (`vākya`) or Pāḷi text (`Pāḷi`) is generally composed of
+multiple words (`pada` or `vacana`). Since Pāḷi was an oral language,
 punctuation mark and upper/lower case conventions are typically not used,
 although modern editors have sometimes added these to aid reading.
 
-Words also do not need to be separated by spaces, although modern Pali editions
-of text do add spaces, to aid reading. Later on, we will find out Pali
+Words also do not need to be separated by spaces, although modern Pāḷi editions
+of text do add spaces, to aid reading. Pāḷi also
 has compound words, which consist of multiple words joined together to create a
 composite word.
 
-To be able to distinguish words in a sentence, Pali relies
-heavily on `paccaya` (affixes to roots or word stems) to create distinctive
-word endings. Fluent Pali listeners will no doubt listen to the sound of these
+To be able to distinguish the role of words in a sentence, Pāḷi relies
+heavily on `vibhatti` (inflection forms which are affixes to lemmas) to create distinctive
+word endings. Fluent Pāḷi listeners will no doubt listen to the sound of these
 endings to distinguish the words. These endings also give additional meaning
-to the words and indicate how the words are used in a sentence.
+to the lemmas and indicate how the words are used in a sentence.
 
-Because of this, the word order in a Pali sentence is less important than many
+Because of this, the word order in a Pāḷi sentence is less important than many
 other languages, however there are conventions for how to arrange words in a
 typical sentence. Speakers can unconventionally reorder words, typically to
 give emphasis to certain words or to augment or add nuance to a sentence's
 emotional meaning.
 
+:::note
 This is similar to our reaction when we hear "Yoda" speak in the "Star Wars"
 series of films. We appreciate who Yoda is as a personality, and we pay more
 attention to his words simply because of the different order.
+:::
 
 ## `dhātu` (roots)
 
-Fundamentally, all words in Pali are said to be derived from one or more `dhātu`
-(roots). These roots are similar to Sanskrit roots. Pali can be regarded as
+Fundamentally, most lemmas in Pāḷi are said to be derived from one or more `dhātu`
+(roots). These roots are similar to Sanskrit roots. Pāḷi can be regarded as
 a simplified version of Sanskrit, however some of the roots may have different
-meanings, or nuances. There are some that say Sanskrit was a "sacred" language
-reserved for priests and members of the holy caste, whereas Pali, along with
-many other Indian languages, was spoken by the common people. The Buddha may
-have spoken in Pali because he wanted to convey his teachings to ordinary
-people, not just privileged members of a particular caste.
+meanings, or nuances. There are some that say Sanskrit was a "sacred" or "divine" language
+reserved for priests and members of the holy caste, whereas Pāḷi, along with
+many other Indian languages, was spoken by the common people.
+
+Some lemmas, however, are words borrowed from other languages, possibly indigenous to the region the Buddha grew up or taught in. These lemmas are obviously not derived from Sanskrit roots. Examples include names of villages, people names, animal names, farming words and slang words, etc. [@Levman2014]
 
 `dhātu` can have 1-3 syllables:
 
@@ -119,7 +279,7 @@ people, not just privileged members of a particular caste.
 || `nī` | to carry |
 || `su` |to flow |
 || `bhū` | to be |
-| dual-word roots | `gamu` | to go |
+| dual-syllable roots | `gamu` | to go |
 || `paca` | to cook |
 || `vada` |to speak |
 | multiple-stem or three syllable roots | `vāyama` | to attempt |
@@ -127,74 +287,28 @@ people, not just privileged members of a particular caste.
 || `kilisa` | to torment |
 
 A series
-of transformations convert a root into a word by adding `paccaya` (affixes).
-Words can also be formed by combining a root with one or more `upasagga`
+of transformations convert a root into a lemma by adding `paccaya` (affixes).
+Lemmas can also be formed by combining a root with one or more `upasagga`
 (prefixes). Multiple `upasagga` and different forms of `paccaya` can be applied
-to a root before it becomes a word, thus creating multi-syllabic
-words. The result is a word that can be used in a sentence.
+to a root before it becomes a lemma, thus creating multi-syllabic
+lemmas. The result is a lemma that can be transformed into a word
+(through inflection forms - more later) used in a sentence.
 
-Altogether there are around 1700 roots in Pali. However, many many words can
+Altogether there are around 1700 roots in Pāḷi. However, many many lemmas can
 be made from them by attaching `upasagga` (prefixes) and various affixes
-(`paccaya`). In theory, fresh words can be formed by new combinations of roots
-with different prefixes so the adventurous Pali student can attempt to create
-Pali words for "modern" terms such as "computer" or "phone".
+(`paccaya`). In theory, fresh lemmas can be formed by new combinations of roots
+with different prefixes so the adventurous Pāḷi student can attempt to create
+Pāḷi lemmas for "modern" terms such as "computer" or "phone".
 
 It is not really necessary to memorise the 1700 roots, although it will be
 very useful if the reader chooses to do so. Knowing all the roots and the
 various prefixes and affixes will allow the reader to sometimes (not always)
-"guess" the meaning of a word not previously encountered, and will also help
+"guess" the meaning of a lemma not previously encountered, and will also help
 when applying the various transformation rules (see below).
-
-## `sandhi` (word transformations)
-
-As Pali is a spoken language, when words are combined to form a sentence,
-changes may occur between words (or sometimes even within a word) to make
-the sentence "flow" or "sound" better.
-
-In English, we often shorten words like "can not" to "can't", or "I will" to
-"I'll". This happens very frequently in Pali, especially when two vowels become
-adjacent to each other from two words next to each other, and there are complex
-rules governing how such transformations occur.
-
-As a example {10} (don't worry about the meaning of the words for now):
-
-> `tatra` + `ayaṁ` + `ādi`
-> = tatr~~a~~ + ~~a~~ā ya~~ṁ~~m + ādi
-> = `tatrā’ya’mādi`
-> = `tatrāyamādi`
-
-As you can see, when there are two adjacent vowels when we join two or more
-words together, `sandhi` typically involves deleting one of the vowels, and
-then either retaining, lengthening or changing the remaining vowel. Sometimes
-the consonant next to the vowel may also be changed.
-
-The overall effect is to make the words easier to say as a group. Although
-`tatrāyamādi` may seem like a single word because of `sandhi`, a listener
-should still regard them as separate words when trying to understand a
-sentence. However, some `sandhi` combinations of common words are so often
-encountered they have acquired distinctive meaning as combined words.
-
-Another example {11}
-
-> `tatra` + `abhiratiṁ` + `iccheyya`
-> = tatr~~a~~ + ~~a~~ā bhirati~~ṁ~~m + iccheyya
-> = `tatrā’bhirati’miccheyya`
-> = `tatrābhiratimiccheyya`
-> "... should prefer enjoying at that ..."
-
-For the time being, we are not going to go into detail on these rules but
-be aware that words may change in a sentence. Eventually, as you read more
-and more sentences in Pali, these changes will become easier to recognise.
-
-{{< alert title="Reference" color="light">}}
-For a summary of the rules, please refer to
-[**E: `sandhi` Rules**]({{< relref "sandhi" >}})
-{12}-{51}
-{{< /alert >}}
 
 ## `nāmā` (nouns) {52}
 
-`nāmā` are the most common type of words in Pali, and roughly (but not exactly)
+`nāmā` are the most common type of words in Pāḷi, and roughly (but not exactly)
 correspond to the term "noun" in English. `nāmā` also means "name", so these
 words represent things that we can "name" - including people, places, things,
 numbers, feelings and many other objects or concepts.
@@ -207,7 +321,7 @@ Here is a simple sentence, consisting of 3 `nāma`:
 
 which translates as:
 
-> that person/being / our / teacher
+> that person/being / our / teacher  
 > *That person [is] our teacher.*
 
 Instead of `satthā` other examples may be:
@@ -223,20 +337,20 @@ Instead of `satthā` other examples may be:
 actually means "gender", and traditionally each `nāma` is assigned a gender. The
 `liṅga` represents an "intrinsic property" of the `nāma`.
 
-The notion of a Pali gender is similar to (but not quite the same as) genders
+The notion of a Pāḷi gender is similar to (but not quite the same as) genders
 in some European languages. However, there are differences that it's best to
 regard `liṅga` as a classification scheme or grammatical construct rather than
-what we may think of as "gender". I like to think of it this way:
+what traditional definitions of "gender":
 
 * `pulliṅga` - the "major" or "default" type. Most nouns fall into this category.
   Generally associated with masculinity or masculine persons (but not always)
 * `napuṁsakaliṅga` - the "special" type. Tend to be used for nouns that don't
-  quite fit with the notions of masculinity or feminity, or represent abstract
+  quite fit with the notions of masculinity or feminity, or to represent abstract
   concepts.
 * `itthiliṅga` - the "minor" type, comparatively rare with respect to the
   other two types. Generally associated with feminity or feminine persons.
 
-Note that for the remainder of this book, we may refer to the above `liṅga`
+Note that for the remainder of this introduction, `liṅga` will be represented
 by the following symbols for brevity:
 
 * 🚹 = `pulliṅga`
@@ -247,9 +361,9 @@ Ancient India was a patriarchal society, and men were regarded as the "major"
 component of society, doing activities considered important, hence the
 tendency is to associate important words to `pulliṅga`.
 
-### Number
+### Multiplicity
 
-Like in English, Pali words are slightly different depending on whether they are
+Like in English, Pāḷi words are slightly different depending on whether they are
 used to refer to one thing vs many things.
 
 * ⨀ = `ekavacana` (singular)
@@ -262,10 +376,10 @@ encountered in very rare instances. Examples include:
 * `ubho` (both)
 * `mātāpitu` (father and mother)
 
-### `vibhatti` (case endings) {54}
+### `vibhatti` (inflection forms) {54}
 
 Unlike English, words need to be "transformed" before they are used in a
-sentence. This is done by adding endings or "suffixes" to the word (`vibhatti`).
+sentence. This is done by adding inflection forms or "suffixes" to the word (`vibhatti`).
 
 Altogether there are seven types of `vibhatti`, and they are
 conveniently numbered 1 to 7 {55}:
@@ -280,37 +394,37 @@ conveniently numbered 1 to 7 {55}:
 | ⑥ | `sa` | `naṁ` | `chaṭṭhī` ("sixth") |
 | ⑦ | `smiṁ` | `su` | `sattamī` ("seventh") |
 
-You may note the 4th and 6th case endings are the same, which means in practice
-we can only tell which case is being used by context (more later). Notice also
-the plural endings for some of the cases are the same. Again, which case is
-being used can only be determined by context.
+Note the 4th and 6th vibhatti endings are the same, which means in practice
+which vibhatti is being used can only be determined by context (more later). Notice also
+the plural endings for some of the vibhattis are the same. Again, which vibhatti is
+being used is determined by context.
 
-Let's start with an example. Suppose we have the word `purisa` ("man", in the masculine gender or 🚹) and we
-want to use it in a sentence in singular form, and we wish to transform it using
-the 1st case ending (`paṭhamāvibhatti`). If we look up the above table, we
-should add the `si` ending (using rule of {55}):
+Let's start with an example. Consider the lemma `purisa` ("man", in the masculine gender or 🚹)
+and it needs to be inserted in a sentence in singular form representing itself.
+The 1st vibhatti (`paṭhamāvibhatti`) is used to represent the underlying meaning of nouns.
+By looking up the above table, the `si` ending is added (using rule of {55}):
 
 > `purisa` + `si` → `puriso`
 
 Wait, what happened? Why does the transformation not result in `purisasi`?
 
 This is where additional rules comes into play. By rule of {83}, any
-word ending in `a` will be transformed into the 1st case by deleting
+lemma ending in `a` will be transformed into the 1st vibhatti by deleting
 the `a` and by rule of {104} replacing the `si` with `o`. Kaccāyana has a whole
 chapter of such rules.
 
 So the transformation becomes:
 
-`purisa` + `si`
-→ `puris`~~`a`~~ + `si` {83}
-→ `puris` + ~~`si`~~(`o`) {104}
+`purisa` + `si`  
+→ `puris`~~`a`~~ + `si` {83}  
+→ `puris` + ~~`si`~~(`o`) {104}  
 → `puriso`
 
 The plural form undergoes a similar transformation:
 
-`purisa` + `yo`
-→ `puris`~~`a`~~ + `si` {83}
-→ `puris` + ~~`yo`~~(`ā`) {107}
+`purisa` + `yo`  
+→ `puris`~~`a`~~ + `si` {83}  
+→ `puris` + ~~`yo`~~(`ā`) {107}  
 → `purisā`
 
 This does make things interesting, because the transformation result for every
@@ -319,9 +433,9 @@ word then depends on:
 * `kāra’nta` (word ending)
 * `liṅga` (gender)
 * `ekavacana` (singular) vs. `bahuvacana` (plural)
-* `vibhatti` (desired case ending)
+* `vibhatti` (desired inflection form)
 
-Here is a table of `purisa` transformed in all the 7 cases and
+Here is a table of `purisa` transformed in all the 7 vibhattis and
 singular vs plural.
 
 | number | vibhatti | ending | transformation | sutta | result |
@@ -347,76 +461,81 @@ singular vs plural.
 | ⨀ | ⑦ | `smiṁ` | puris~~a~~e | {108} | `purise` |
 | ⨂ | ⑦ | `su` | puris~~a~~e + su | {101} | `purisesu` |
 
-You will note that in some of the cases, there are multiple ways the word can
+You will note that in some of the forms, there are multiple ways the lemma can
 be transformed. For example, singular `purisa` can be transformed in the 3rd
-case into either `purisehi` or `purisebhi`. Both are acceptable. Which should we
-use for a given sentence? It depends on the "sound" - a native speaker would
+vibhatti into either `purisehi` or `purisebhi`. Both are acceptable. Which should we
+use for a given sentence? It depends on the "sound" - a "native" Pāḷi speaker would
 have chosen the version that sounded the most pleasing, depending on surrounding
 words.
 
-The rules can be quite complicated, so let's not worry about them for now.
-In practice, you can rely on looking up a relevant table to determine the
-appropriate transformation (TBD). If you are just reading Pali, then with
-practice you will learn to recognise the various endings which will become
-familiar to you.
+The multiple different variants of inflection forms can also be due to Pāḷi being an
+amalgamation of different Middle Indo Aryan dialects. As [@Norman1997] explains:
 
-{{< alert title="Reference" color="light">}}
-A summary of the rules is provided in
-[**G: `vibhatti` Rules**]({{< relref "vibhatti" >}})
-{{< /alert >}}
+> It is, for example, not always understood by non-specialists that an early Pāli canonical sutta is itself a translation, and forms which were left untranslated when the Pāli recension was made from some earlier version can sometimes be identified.
+
+The rules can be quite complicated, so this introduction will not enumerate them.
+In practice, one can rely on looking up a relevant table to determine the
+appropriate transformation. For reading Pāḷi, with practice the various endings will
+quickly become familiar.
 
 A much more important question to answer at this point is ...
 
-### Why do we need `vibhatti` endings and what is their purpose?
+### What is the purpose of `vibhatti` (inflection forms)?
 
-In English, when we see a sentence like
+In English, consider the following sentence:
 
 > The quick brown fox jumped over the lazy dog.
 
-We know that words "quick" and "brown" refers to the "fox", which is the
+Words "quick" and "brown" refers to the "fox", which is the
 "subject" of the sentence, and "lazy" refers to the dog, which is the "object"
 of the sentence. The verb "jumped over" separates the subject and the object.
-Our brain automatically "collects" and "groups" the words, so we read the
-sentence as:
+The brain automatically "collects" and "groups" the words, so the
+sentence can be read as:
 
 > (The quick brown fox) jumped over (the lazy dog).
 
-In English, as we can see, word order is important. If we mixed the words up,
+In English, word order is important. If the words are "mixed",
 the sentence becomes far harder to read:
 
 > Over the quick lazy brown fox the dog jumped.
 
 This sentence would imply quite a different meaning.
 
-In Pali, all words with the same gender and the same case ending should be
-grouped together, and that's how we distinguish which words belong to which
-entity. So the word order becomes far less important, we could mix the words
-up and the sentence would still have the same meaning!
+In Pāḷi, all words with the same gender and the same vibhatti should be
+grouped together, and that's how words belonging to
+entities can be distinguished. So the word order becomes far less important - the words
+can be "mixed" and the sentence would still have the same meaning!
 
-In practice, the 1st case is usually reserved for the "most important" entity
+In practice, the 1st vibhatti is usually reserved for the "most important" entity
 in a sentence, the 2nd for the "second most important" and so on.
 
-So, in the above English sentence, were it to be translated the Pali, "the
-quick brown fox" would all be in the 1st case, and "the lazy dog" would all be
-in the 2nd case. If there are more entities, they would take the 3rd, 4th
-cases and so on.
+So, in the above English sentence, were it to be translated the Pāḷi, "the
+quick brown fox" would all be in the 1st vibhatti, and "the lazy dog" would all be
+in the 2nd vibhatti. If there are more entities, they would take the 3rd, 4th
+vibhatti and so on.
 
-In many sentences, the 1st case would usually refer to the entity or actor
+In many sentences, the 1st vibhatti would usually refer to the entity or actor
 "performing" or "doing" the action (or, the "subject" of the sentence), and
-the 2nd case refers to the entity being impacted by the action  (the "object")
+the 2nd vibhatti refers to the entity being impacted by the action  (the "object")
 of the sentence. Although this is a very common pattern, it is by no means
-rigid, and in theory any case ending can be used for any purpose. There are
-many examples in the Pali canon where the cases are used in unconventional
-ways. (TBD: need to include examples)
+rigid, and in theory (almopst) any vibhatti ending can be used for any purpose. There are
+many examples in the Pāḷi canon where the vibhatti are used in unconventional
+ways.
+
+It is also possible that a word in an inflection form from a different
+Middle Indo Aryan dialect can be mistaken as a different inflection form in
+Pāḷi. For example, in what Norman calls the "Eastern" dialect the first vibhatti form
+for nouns often end in `-e` whereas in the "Western" dialect they end with `-o`.
+As an example,. The vocative `bhikkhave` typically encountered in Pāḷi texts should probably be `bhikkhavo`, although [@Pind2021] disputes this and argues `bhikkhavo` represents an emphatic usage compared to `bhikkhave`.
 
 ### Vibhatti usage typical meanings {271}-{315}
 
 The following meanings are usually associated with each
-case. However, as noted above, these are conventions only, and the author of a
-sentence may choose to adopt an unconventional approach of assigning words to
-cases (perhaps for emphatic or stylistic reasons).
+vibhatti. However, as noted above, these are conventions only, and the author of a
+sentence may choose to associate an unconventional vibhatti ending to a word to
+(perhaps for emphatic or stylistic reasons).
 
-| vibhatti | number | role | usage | Pali term | sutta |
+| vibhatti | number | role | usage | Pāḷi term | sutta |
 | :-: | :-: | --- | --- | --- | :-: |
 | ① | ⨀/⨂ | subject (active) | subject, doer | `kattu`/`kattā` | {284} |
 | ① | ⨀/⨂ | address | to address, to call | `ālapana` | {285} |
@@ -439,17 +558,9 @@ cases (perhaps for emphatic or stylistic reasons).
 | ⑦ | ⨂ | while/when | two concurrent actions | `lakkhaṇa` | {313} |
 | ⑦ | ⨂ | despite/while | two concurrent actions | `anādara` | {305} |
 
-{{< alert title="Reference" color="light">}}
-For a detailed explanation of the various meanings associated with each case
-ending, please refer to the next chapter:
-
-[**2: `kāraka` (word ending) meanings**]({{< relref "cases" >}})
-{271}-{315}
-{{< /alert >}}
-
-{{< alert title="Note" color="secondary">}}
-You may find in Pali grammar books written in English the following nomenclature
-for the cases:
+:::note
+In Pāḷi grammar books written in English the following nomenclature
+for the vibhatti types are often used (which these books will refer to as "cases"):
 
 * ① = "nominative"
 * ② = "accusative"
@@ -460,22 +571,22 @@ for the cases:
 * ⑦ = "locative"
 
 Note that these terms only partially reflect the possible meanings and roles
-associated with each case, so I would discourage using these terms. They can
-lead to confusion. However, these terms are common in Pali-English dictionaries
-so I encourage you to substitute the case number when you see these terms.
-{{< /alert >}}
+associated with each vibhatti, so I would discourage using these terms. They can
+lead to confusion. However, these terms are common in Pāḷi-English dictionaries
+so I encourage you to substitute the vibhatti number when you see these terms.
+:::
 
 ### ⓪ `ālapana` (vocative) {57}
 
-English Pali textbooks often refer to a "vocative" case, but this is not
-recognised as a separate case but a variant of the 1st case. The usual case
+English Pāḷi textbooks often refer to a "vocative" "case", but this is not
+recognised as a separate inflection form but a variant of the 1st vibhatti. The usual vibhatti
 ending `si` (for 1st case singular) is instead called `ga` but the
 transformation rules are similar to `si`.
 
 Examples:
 
-> `bhoti ayye`! (Oh madam!)
-> `bhoti kaññe`! (Oh girl!)
+> `bhoti ayye`! (Oh madam!)  
+> `bhoti kaññe`! (Oh girl!)  
 > `bhoti kharādiye`!  (Oh the girl named Kharādiya!)
 
 Contrast this to the normal 1st case form of `ayyā` (🚺⨀①):
@@ -527,18 +638,18 @@ However, in some instances, the `vibhatti` endings may be retained, if the
 
 > tvaṁ **panā’vuso**! tumhe **panā’vuso**!
 
-you / (no specific meaning) / friend
-you (plural) / (no specific meaning) / friend
+you / (no specific meaning) / friend  
+you (plural) / (no specific meaning) / friend  
 *How about you, my friend? And the rest of you (plural)?*
 
 > **padaso** dhammaṁ vāceyya
 
-by word / dhamma / teach (causative, optative)
+by word / dhamma / teach (causative, optative)  
 *(He) should teach and say Dhamma word by word.*
 
 > vihāraṁ • **sve** upagaccheyya
 
-to temple / tomorrow / should approach (optative)
+to temple / tomorrow / should approach (optative)  
 *(He) should come to the temple tomorrow.*
 
 The following is a brief descriptive list of some nipāta words. Some are plain
@@ -584,9 +695,9 @@ However, there are quite a few `nipāta` that can be placed before some verbs or
 
 ## 🔼 `upasagga` (prefixes)
 
-There are 20 `upasagga` words which are usually applied as prefixes to
+There are 20 `upasagga` which are usually applied as prefixes to
 `ākhyāta` (verbs) and `kita`-affixed nouns (see below). Like `nipāta`,
-`upasagga` words also have their `vibhatti` endings elided, but in some cases
+`upasagga` also have their `vibhatti` endings elided, but in some cases
 where they are functioning as independent words (not attached to a verb or
 noun), they may retain their `vibhatti` endings.
 
@@ -600,7 +711,7 @@ Example:
 
 > parābhavo
 
-🔼(parā) 🚹⨀①(bhava)
+🔼(parā) 🚹⨀①(bhava)  
 opposite / to be, being
 *loss, ruin*
 
@@ -629,15 +740,9 @@ together with various `upasagga` prefixes and the `ṇa`-suffix:
 | `apahāro` | `api` | out | carrying outward, i.e. removing |
 | `upahāro` | `upa` | near, close to | carrying toward proximity, bringing up closer, carrying complementary gift etc. |
 
-{{< alert title="Reference" color="light">}}
-For a listing of the detailed meanings that are associated with `upasagga`,
-please refer to
-[**F: `upasagga` meanings**]({{< relref "upasagga" >}})
-{{< /alert >}}
-
 ## 🆎 `samāsa` (compound nouns) {316}-{343}
 
-Like German, Pali often combines many nouns to form a compound noun.
+Like German, Pāḷi often combines many nouns to form a compound noun.
 
 The following table summarises the major types of compound nouns, typical
 `liṅga` (gender) and examples:
@@ -653,24 +758,26 @@ The following table summarises the major types of compound nouns, typical
 
 The rules for constructing a `samāsa` can be complex:
 
-`rāja` + `putta` (the King's son)
-→ `rāja` + `sa` + `putta` (⨀⑥)
-→ `rāja` + `sa` + `putta` + `si` (⨀①)
-→ `rā`~~`ja`~~(`ññ`) + ~~`sa`~~(`o`) + `putta` + `si` {135}
-→ `rāñño` + `putt`~~`a`~~ + ~~`si`~~(`o`) {83}
-→ `rāñño` + `putto`
-→ `rā`~~`ñño`~~(`ja`) + `putt`~~`o`~~(`a`) {317}
-→ `rājaputta` {318}
-→ `rājaputta` + `si` (⨀①)
-→ `rājaputta` + ~~`si`~~(`o`) {104}
-→ `rājaputt`~~`a`~~ + `o` {83}
+`rāja` + `putta` (the King's son)  
+→ `rāja` + `sa` + `putta` (⨀⑥)  
+→ `rāja` + `sa` + `putta` + `si` (⨀①)  
+→ `rā`~~`ja`~~(`ññ`) + ~~`sa`~~(`o`) + `putta` + `si` {135}  
+→ `rāñño` + `putt`~~`a`~~ + ~~`si`~~(`o`) {83}  
+→ `rāñño` + `putto`  
+→ `rā`~~`ñño`~~(`ja`) + `putt`~~`o`~~(`a`) {317}  
+→ `rājaputta` {318}  
+→ `rājaputta` + `si` (⨀①)  
+→ `rājaputta` + ~~`si`~~(`o`) {104}  
+→ `rājaputt`~~`a`~~ + `o` {83}  
 → `rājaputto`
 
+:::note
 Fortunately, resources such as the
-[Digital Pali Dictionary](https://digitalpalidictionary.github.io/) can
+[Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/) can
 deconstruct compound words into their individual words, which helps the
 beginner to understand such words encountered. So there is less of a need to
 learn the complex rules associated with them.
+:::
 
 ## ➡️ `taddhita` (affixes) {344}-{405}
 
@@ -680,30 +787,30 @@ Compare and contrast with English use of affixes such as "-al", "-ly", "-er",
 "-or" etc. For example, "topic" vs "topical", "true" vs "truly".
 
 In English, "navigate" is a verb, whereas "navigator" (with an "-or" affix) is
-a profession. Similarly, in Pali, `nāvā` is "boat", `nāvā` with `ṇika` as an
+a profession. Similarly, in Pāḷi, `nāvā` is "boat", `nāvā` with `ṇika` as an
 affix becomes `nāviko` ("traveller by boat", or "sailor"). Note that the last
 vowel of the root and the `ṇ` are both elided, and then the noun is given the
 🚹⨀① vibhatti ending.
 
 The rules for constructing a `tadhitta` affixed noun can be rather daunting:
 
-`vasiṭṭha` + `apacca` (Vasiṭṭha’s son)
-→ `vasiṭṭha` + `sa` (⨀⑥) + `apacca`
-→ `vasiṭṭha` + `s` + `sa` + `apacca` {61}
-→ `vasiṭṭhassa` + `apacca` + `si` (⨀①)
-→ `vasiṭṭhassa` + `apacca` + ~~`si`~~(`aṁ`) {219}
-→ `vasiṭṭhassa` + `apacc`~~`a`~~ + `aṁ` {83}
-→ `vasiṭṭhassa` + `apaccaṁ` (of Vasiṭṭha / son)
-→ `vasiṭṭhassa` + `ṇa` + `apaccaṁ` {344}
-→ `vasiṭṭha`~~`ssa`~~ + `ṇa` + ~~`apaccaṁ`~~ {317}
-→ `vasiṭṭha` + ~~`ṇ`~~`a` {396}
-→ `vasiṭṭha` + `a` {318}
-→ `v`~~`a`~~(`ā`)`siṭṭha` + `a` {400}
-→ `vāsiṭṭha` + ~~`a`~~ {83}
-→ `vāsiṭṭha` {601}
-→ `vāsiṭṭha` + `si` (⨀①)
-→ `vāsiṭṭha` + ~~`si`~~(`o`) {104}
-→ `vāsiṭṭh`~~`a`~~ + `o` {83}
+`vasiṭṭha` + `apacca` (Vasiṭṭha’s son)  
+→ `vasiṭṭha` + `sa` (⨀⑥) + `apacca`  
+→ `vasiṭṭha` + `s` + `sa` + `apacca` {61}  
+→ `vasiṭṭhassa` + `apacca` + `si` (⨀①)  
+→ `vasiṭṭhassa` + `apacca` + ~~`si`~~(`aṁ`) {219}  
+→ `vasiṭṭhassa` + `apacc`~~`a`~~ + `aṁ` {83}  
+→ `vasiṭṭhassa` + `apaccaṁ` (of Vasiṭṭha / son)  
+→ `vasiṭṭhassa` + `ṇa` + `apaccaṁ` {344}  
+→ `vasiṭṭha`~~`ssa`~~ + `ṇa` + ~~`apaccaṁ`~~ {317}  
+→ `vasiṭṭha` + ~~`ṇ`~~`a` {396}  
+→ `vasiṭṭha` + `a` {318}  
+→ `v`~~`a`~~(`ā`)`siṭṭha` + `a` {400}  
+→ `vāsiṭṭha` + ~~`a`~~ {83}  
+→ `vāsiṭṭha` {601}  
+→ `vāsiṭṭha` + `si` (⨀①)  
+→ `vāsiṭṭha` + ~~`si`~~(`o`) {104}  
+→ `vāsiṭṭh`~~`a`~~ + `o` {83}  
 → `vāsiṭṭho`
 
 | type | meaning | affix | rule | `liṅga` |
@@ -743,21 +850,15 @@ The rules for constructing a `tadhitta` affixed noun can be rather daunting:
 
 *`ka` is added sometimes. eg. `dayāluko`
 
-Words with `taddhita` affixes are sometimes not recognised by Pali-English
+Lemmas with `taddhita` affixes are sometimes not recognised by Pāḷi-English
 dictionaries, since these dictionaries may not cover the full range of possible
 affixes and their meanings. So it is probably
-worthwhile learning how to recognise `taddhita` affixed words and the associated
+worthwhile learning how to recognise `taddhita` affixed lemmas and the associated
 meanings.
-
-{{< alert title="Reference" color="light">}}
-For a summary of the `taddhita` affixes and associated meanings, please refer to
-[**H: `taddhita` (affixes)**]({{< relref "taddhita" >}})
-{344}-{405}
-{{< /alert >}}
 
 ### Numbers
 
-Pali numbers have their own set of `tadhikka` affixes (to denote "first",
+Pāḷi numbers have their own set of `tadhikka` affixes (to denote "first",
 "second", "third" etc.)
 
 | type | name | affix | rule | `liṅga` | notes |
@@ -842,13 +943,13 @@ depend on:
 
 \* collectively referred to as `sabbadhātuka vibhatti`
 
-{{< alert title="Note" color="secondary">}}
-Note that the above tense/mood categories have been labelled with the nearest
+:::note
+The above tense/mood categories have been labelled with the nearest
 linguistic term (eg. "present", "past perfect", "aorist" etc.) these
 categories do not align precisely to those terms. I discourage the use of
-these terms and rely on the Pali terms instead and the usage of each category
+these terms and rely on the Pāḷi terms instead and the usage of each category
 will be described later in this chapter.
-{{< /alert >}}
+:::
 
 ### verb terminations {423}-{430}
 
@@ -868,27 +969,27 @@ will be described later in this chapter.
 Here is an example of the root `gamu` (to go) with all the verb endings applied.
 A number of transformations need to happen prior to affixing the `vibhatti`:
 
-`gamu`
-→ `gam`~~`u`~~ (elision of final vowel per rule {521})
-→ `gam`~~`m`~~(`cch`) (m→cch per rule {476})
+`gamu`  
+→ `gam`~~`u`~~ (elision of final vowel per rule {521})  
+→ `gam`~~`m`~~(`cch`) (m→cch per rule {476})  
 → `gacch`
 
 Here is an example for transforming into the `parassapada` (🟢), `ekavacana`
 (⨀), `paṭhama purisa` (🤟), `vattamāna` (▶️) form:
 
-`gamu` + `ti` {414}
-→ `gam`~~`u`~~ + `ti` {521}
-→ `gam` + `a` + `ti` {445}
-→ `ga`~~`m`~~(`cch`) + `a` + `ti` {476}
+`gamu` + `ti` {414}  
+→ `gam`~~`u`~~ + `ti` {521}  
+→ `gam` + `a` + `ti` {445}  
+→ `ga`~~`m`~~(`cch`) + `a` + `ti` {476}  
 → `gacchati`
 
 The plural form `bahuvacana` (⨂) undergoes a similar transformation:
 
-`gamu` + `anti` {414}
-→ `gam`~~`u`~~ + `anti` {521}
-→ `gam` + a + `anti` {445}
-→ `ga`~~`m`~~(`cch`) + `a` + `anti` {476}
-→ `gacch` + `a` + ~~`a`~~`nti` {510}
+`gamu` + `anti` {414}  
+→ `gam`~~`u`~~ + `anti` {521}  
+→ `gam` + a + `anti` {445}  
+→ `ga`~~`m`~~(`cch`) + `a` + `anti` {476}  
+→ `gacch` + `a` + ~~`a`~~`nti` {510}  
 → `gacchanti`
 
 | voice | number | person | tense | ending | transformation | rule | result | irregular forms |
@@ -999,14 +1100,14 @@ them.
 
 ### Voices
 
-Like Sanskrit, Pali supports 3 different ways of expressing sentences, based on
+Like Sanskrit, Pāḷi supports 3 different ways of expressing sentences, based on
 the "voice":
 
 1. the active voice (`kattu`) {444}-{452}
 2. the passive voice (`kamma`)
 3. the impersonal voice (`bhāva`)
 
-However, in Pali literature, `bhāva` (middle, or impersonal, voice) is seldom
+However, in Pāḷi literature, `bhāva` (middle, or impersonal, voice) is seldom
 used, probably because most of the literature is based on the Buddha (or a
 disciple) "speaking" to a group of monks, which has then been transformed into
 a structure suitable for memorisation and chanting.
@@ -1022,8 +1123,8 @@ and cannot be transformed this way.
 
 Example transformation (based on the root `paca` (to cook)):
 
-`paca` + `ya` + `te` {440}
-→ `pa`~~`ca`~~  + ~~`y`~~(`cc`)`a` + `te` {441}
+`paca` + `ya` + `te` {440}  
+→ `pa`~~`ca`~~  + ~~`y`~~(`cc`)`a` + `te` {441}  
 → `paccate` ("is cooked")
 
 The full set of `attanopada` (🔵) endings of in the present tense `vattamāna`
@@ -1054,15 +1155,15 @@ Typically we would use the `parassapada` (🟢) endings for passive verbs.
 
 Other examples (using different rules):
 
-`kara` ("to do")
-→ `kara` + `ya` + `te` {440}
-→ `kara` + `ī` + `ya` + `te` {442}
-→ `kar`~~`a`~~ + `ī` + `ya` + `te` {521}
+`kara` ("to do")  
+→ `kara` + `ya` + `te` {440}  
+→ `kara` + `ī` + `ya` + `te` {442}  
+→ `kar`~~`a`~~ + `ī` + `ya` + `te` {521}  
 → `karīyate` ("is done")
 
-`vaḍha` ("to grow")
-→ `vaḍha` + `ya` + `te` {440}
-→ `va`~~`ḍha`~~ + ~~`ya`~~(`ḍḍha`) + `te` {443}
+`vaḍha` ("to grow")  
+→ `vaḍha` + `ya` + `te` {440}  
+→ `va`~~`ḍha`~~ + ~~`ya`~~(`ḍḍha`) + `te` {443}  
 → `vuḍḍhate` ("is grown")
 
 ### 🟠 Causative verbs
@@ -1089,10 +1190,10 @@ affix to the noun as per rule {483}.
 Example transformation (based on the root `paca` (to cook)) and the causative
 affix `ṇe`:
 
-`paca` + `ṇe` + `ti` {438}
-`pac`~~`a`~~ + `ṇe` + `ti` {521}
-→ `pac` + ~~`ṇ`~~`e` + `ti` {523}
-→ `p`~~`a`~~(`ā`)`c` + `e` + `ti` {483}
+`paca` + `ṇe` + `ti` {438}  
+`pac`~~`a`~~ + `ṇe` + `ti` {521}  
+→ `pac` + ~~`ṇ`~~`e` + `ti` {523}  
+→ `p`~~`a`~~(`ā`)`c` + `e` + `ti` {483}  
 → `pāceti` ("(he) causes to cook")
 
 ### 🟠 Causative (active) verbs {438}
@@ -1127,7 +1228,7 @@ the root `paca` (to cook) using `parassapada` (🟢) endings:
 | 🟠 | 👆 | ⨂ | ▶️ | `ma` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpe + ma | `pācāpema` | `pacāpema` |
 | 🟠 | 👆 | ⨂ | ▶️ | `ma` | `ṇāpaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āpaya + ma | `pācāpayama` | `pacāpayāma` |
 
-Note: not all forms of the above are encountered in Pali literature - they
+Note: not all forms of the above are encountered in Pāḷi literature - they
 represent the full theoretical set of causative forms that can be generated.
 
 ### 🟠🔴 Causative passive verbs
@@ -1140,10 +1241,10 @@ voice.
 Example transformation (based on the root `paca` (to cook)) and the causative
 affix `ṇe` and the passive affix `ya`:
 
-`paca` + `ṇe` + `ya` + `ti` {438,440}
-`pac`~~`a`~~ + `ṇe` + `ya` + `ti` {521}
-→ `pac` + ~~`ṇe`~~ + `ya` + `ti` {523}
-→ `p`~~`a`~~(`ā`)`c` + `ya` + `ti` {483}
+`paca` + `ṇe` + `ya` + `ti` {438,440}  
+`pac`~~`a`~~ + `ṇe` + `ya` + `ti` {521}  
+→ `pac` + ~~`ṇe`~~ + `ya` + `ti` {523}  
+→ `p`~~`a`~~(`ā`)`c` + `ya` + `ti` {483}  
 → `pāciyati` ("is caused to be cooked")
 
 | voice | number | person | tense | ending | causative | transformation | result |
@@ -1169,12 +1270,12 @@ affix `ṇe` and the passive affix `ya`:
 
 > `pāṭaliputtaṁ gacchati`
 
-Pāṭaliputta (city) / he goes
+Pāṭaliputta (city) / he goes  
 *He goes to Pāṭaliputta.**
 
 > `sāvatthiṁ pavisati`
 
-Sāvatthi (city) / he enters
+Sāvatthi (city) / he enters  
 *He enters Sāvatthi.*
 
 #### ⏹ `piñcamī` {415}
@@ -1188,12 +1289,12 @@ at a non-specific time-frame mode (`anuttakāla`)
 
 > `karotu kusalaṁ`
 
-do / meritorious deed
+do / meritorious deed  
 *(Please) do meritorious deed.*
 
 > `sukhaṁ te hotu`
 
-happiness / for you / be
+happiness / for you / be  
 *May you be happy.*
 
 #### ⏯ `sattamī` {416}
@@ -1209,35 +1310,35 @@ at a non-specific time (`anuttakāla`).
 you / can go
 *You can go.*
 
-> `kima’haṁ kareyyāmi`
-what I (`kiṁ` + `ahaṁ`) / shoud do
+> `kima’haṁ kareyyāmi`  
+what I (`kiṁ` + `ahaṁ`) / shoud do  
 *What should I do?*
 
 #### 🔄 `parokkhā` {417}
 
-{{< alert title="Note" color="secondary">}}
-`paro’kkhā` = `para` + `akkha`
+:::note
+> `paro’kkhā` = `para` + `akkha`  
 beyond (ie. past) / physical senses
-{{< /alert >}}
+:::
 
 (to be applied to express things happened in one’s absence, in a situation where
 the speaker is not a witness to) at a past time-frame mode (`atīta` - past).
 
 > `supine kila’māha`
 
-in the dream / apparently / (he) said (`kila` + `āha`)
+in the dream / apparently / (he) said (`kila` + `āha`)  
 *(He is supposed to have) said.*
 
 > `evaṁ kila porāṇā’hu`
 
-thus / apparently / ancient sages / said (`porāṇā` + `āhu`)
+thus / apparently / ancient sages / said (`porāṇā` + `āhu`)  
 *Ancient sages are supposed to have said thus.*
 
-{{< alert title="Note" color="secondary">}}
+:::note
 `kila` is a `nipāta` (particle) used in indirect hearsay where the speaker is
 uncertain of the truthfulness of what he heard or not a witness to the actual
 event occurred. Sometimes it means an asseveration or an emphasis.
-{{< /alert >}}
+:::
 
 #### ↩️ `hiyyattanī` {418}
 
@@ -1246,29 +1347,29 @@ either being witnessed or not witnessed (by the speaker)
 
 > `so agamā maggaṁ`
 
-he / went / road
+he / went / road  
 *He went along the road.*
 
 > `te agamū maggaṁ`
 
-they / went / road
+they / went / road  
 *They went along the road.*
 
-{{< alert title="Note" color="secondary">}}
+:::note
 `mā` is a `nipāta` (particle) used to indicate negation, and is typically
 associated with verbs with `hiyyattanī` endings, but the verb is not associated
 with the past (or any other) tense. {420}
 
 > mā gamā
 
-do not / gone
+do not / gone  
 *Do not go.*
 
 > mā vacā
 
-do not / said
+do not / said  
 *Do not say.*
-{{< /alert >}}
+:::
 
 #### ⏮ `ajjatanī` {419}
 
@@ -1277,11 +1378,11 @@ being witnessed or not witnessed (by the speaker)
 
 > so maggaṁ agamī
 
-he / road / gone
+he / road / gone  
 *He has (just) gone along the road.*
 
 > te maggaṁ agamuṁ
-they / road / gone
+they / road / gone  
 *They have (just) gone along the road.*
 
 #### ⏭ `bhavissanti` {421}
@@ -1290,12 +1391,12 @@ they / road / gone
 
 > so gacchissati, karissati
 
-he / will go / will do
+he / will go / will do  
 *He will go, will do.*
 
 > te gacchissanti, karissanti
 
-they / will go / will do
+they / will go / will do  
 *They will go, will do.*
 
 #### 🔀 `kālātipatti` {422}
@@ -1305,12 +1406,12 @@ materialised due to adverse conditions or lack of the supporting causes)
 
 > so ce taṁ yānaṁ alabhissā, agacchissā
 
-he / if / that / vehicle / should have got / might have gone already
+he / if / that / vehicle / should have got / might have gone already  
 *If he had gotten that vehicle, he might have gone already.*
 
 > te ce taṁ yānaṁ alabhissaṁsu, agacchissaṁsu
 
-they / if / that / vehicle / should have got / might have gone already
+they / if / that / vehicle / should have got / might have gone already  
 *If they had gotten that vehicle, they might have gone already.*
 
 ## Example sentence constructions
@@ -1390,7 +1491,7 @@ carry), `duha` (to milk), then there can be three objects.
 
 ## 🔽 `kibbidhāna` (`kita`-affixed nouns) {524}-{623}
 
-This is a class of words which are verbs transformed into "verb nouns" through
+These are derivative nouns which are verbs transformed into "verb nouns" through
 the addition of suffixes.
 
 These "verb nouns" are nouns, and have noun `vibhatti` endings applied to them,
@@ -1451,39 +1552,41 @@ following table.
 Here is a worked through example of how a root transforms into a `kita`-affixed
 noun (from `caja`, using the `ṇa` affix):
 
-`caja` "to share generously"
-→ `caj`~~`a`~~ {521}
-→ `caj` + `ṇa` {529}
-→ `cajṇa` (`kārita`) {621}
-→ `caj`~~`ṇ`~~`a` {523}
-→ `c`~~`a`~~(`ā`)`ja` (`vuddhi`) {483}
-→ `cā`~~`j`~~(`g`)`a` {623}
-→ `cāga` (noun) {601}
-→ `cāga` + `si` (⨀①)
-→ `cāga` + ~~`si`~~(`o`) {104}
-→ `cāg`~~`a`~~ + `o` {83}
+`caja` "to share generously"  
+→ `caj`~~`a`~~ {521}  
+→ `caj` + `ṇa` {529}  
+→ `cajṇa` (`kārita`) {621}  
+→ `caj`~~`ṇ`~~`a` {523}  
+→ `c`~~`a`~~(`ā`)`ja` (`vuddhi`) {483}  
+→ `cā`~~`j`~~(`g`)`a` {623}  
+→ `cāga` (noun) {601}  
+→ `cāga` + `si` (⨀①)  
+→ `cāga` + ~~`si`~~(`o`) {104}  
+→ `cāg`~~`a`~~ + `o` {83}  
 → `cāgo` ("charitable giving, sharing")
 
 Here is another example based on `budha` (to know):
 
-`budha` "to know"
-→ `budh`~~`a`~~ {521}
-→ `budh` + `ta` {557}
-→ `budh` + ~~`ta`~~(`dha`) {576}
-→ `bu`~~`dh`~~(`d`) + `dha` {611}
-→ `buddha` (noun) {601}
-→ `buddha` + `si` (⨀①)
-→ `buddha` + ~~`si`~~(`o`) {104}
-→ `buddh`~~`a`~~ + `o` {83}
+`budha` "to know"  
+→ `budh`~~`a`~~ {521}  
+→ `budh` + `ta` {557}  
+→ `budh` + ~~`ta`~~(`dha`) {576}  
+→ `bu`~~`dh`~~(`d`) + `dha` {611}  
+→ `buddha` (noun) {601}  
+→ `buddha` + `si` (⨀①)  
+→ `buddha` + ~~`si`~~(`o`) {104}  
+→ `buddh`~~`a`~~ + `o` {83}  
 → `buddho` ("The one who knows truth, who awakened")
 
+:::note
 Given the complexity of the above rules, it's probably better just to
 recognise the completed forms whenever you come across them, but try and
 recognise the affix and associated meaning if you can.
+:::
 
 ## ⏬ `uṇādi` (`uṇādi`-affixed nouns) {624}-{673}
 
-These are also "verb nouns" that can behave like verbs or auxiliary verbs or
+These are also derivative nouns that can behave like verbs or auxiliary verbs or
 future participles.
 
 The majority of `uṇādi`-affixes, except some verbal affixes, are used mainly in
@@ -1491,20 +1594,20 @@ the formation of individual nouns of varying genders.
 
 Examples:
 
-`sama` "to calm"
-→ `sama` + `tha` {628}
-→ `samatha` {601}
-→ `samatha` + `si` (⨀①)
-→ `samatha` + ~~`si`~~(`o`) {104}
-→ `samath`~~`a`~~ + `o` {83}
+`sama` "to calm"  
+→ `sama` + `tha` {628}  
+→ `samatha` {601}  
+→ `samatha` + `si` (⨀①)  
+→ `samatha` + ~~`si`~~(`o`) {104}  
+→ `samath`~~`a`~~ + `o` {83}  
 → `samatho` ("that which calms the mind, Samatha meditation")
 
-`gaha` "to take"
-→ `gah`~~`a`~~ {521}
-→ `g`~~`a`~~(`e`)`ha` {629}
-→ `geha` {601}
-→ `geha` + ~~`si`~~(`aṁ`) {104}
-→ `geh`~~`a`~~ + `aṁ` {219}
+`gaha` "to take"  
+→ `gah`~~`a`~~ {521}  
+→ `g`~~`a`~~(`e`)`ha` {629}  
+→ `geha` {601}  
+→ `geha` + ~~`si`~~(`aṁ`) {104}  
+→ `geh`~~`a`~~ + `aṁ` {219}  
 → `gehaṁ` ("home")
 
 ## `sādhana`
@@ -1513,7 +1616,7 @@ The process of attaching either `kita` or `uṇādi` affixes to create new words
 is called `sādhana`. Like `kāraka` (the syntax of case or `vibhatti` endings),
 `sādhana` affixed words can be associated with specific usage meanings.
 
-`sādhana`-affixed word can be associated with a voice (`kattu`, `kamma`,
+`sādhana`-affixed words can be associated with a voice (`kattu`, `kamma`,
 `bhāva`), in which case their usage can affect the "voice" of a sentence. This
 is especially true when `sādhana`-affixed word is used as a verb-noun, ie. it
 carries the "action" of a sentence.
@@ -1522,48 +1625,48 @@ carries the "action" of a sentence.
 
 > dānaṁ dinno devadatto
 
-🚻⨀②(dānaṁ) 🚹⨀①(⏬(ta)(dinno) devadatto)
-alms / gave (past participle) / Devadatta
+🚻⨀②(dānaṁ) 🚹⨀①(⏬(ta)(dinno) devadatto)  
+alms / gave (past participle) / Devadatta  
 *Devadatta gave alms.*
 
 >kumaro antepuraṁ gato
 
-🚻⨀②(antepuraṁ) 🚹⨀①(kumaro ⏬(ta)(gato))
-King's palace / prince / went (past participle)
+🚻⨀②(antepuraṁ) 🚹⨀①(kumaro ⏬(ta)(gato))  
+King's palace / prince / went (past participle)  
 *The prince went into the King's palace.*
 
 > so bhagavā sayam’pi cattāri saccāni buddho
 
-🚹⨀①(so bhagavā ⏬(ta)(buddho)) ⏏️(sayam api) 🚻⨂②(cattāri saccāni)
-that / Bhagavā  / understood (past participle) / by oneself / just / four / truths
+🚹⨀①(so bhagavā ⏬(ta)(buddho)) ⏏️(sayam api) 🚻⨂②(cattāri saccāni)  
+that / Bhagavā  / understood (past participle) / by oneself / just / four / truths  
 *That Bhagavā (Buddha) understood the four truths just by himself.*
 
 ### Example sentences of `kamma` `sādhana`-affixed words
 
 > buddhena dhammo desito
 
-🚹⨀③(buddhena) 🚹⨀①(dhammo ⏬(ta)(desito))
-by Buddha / dhamma / taught (past participle)
+🚹⨀③(buddhena) 🚹⨀①(dhammo ⏬(ta)(desito))  
+by Buddha / dhamma / taught (past participle)  
 *The Dhamma is taught by the Buddha.*
 
 > bhotabbo odano bhavatā
 
-🚹⨀①(⏬(tabba)(bhotabbo) odano) 🚹⨀③(bhavatā)
-eaten (future passive participle) / rice / Your Honourable
+🚹⨀①(⏬(tabba)(bhotabbo) odano) 🚹⨀③(bhavatā)  
+eaten (future passive participle) / rice / Your Honourable  
 *That rice is to be eaten by Your Honourable.*
 
 ### Example sentences of `bhāva` `sādhana`-affixed words
 
 > tassa gītaṁ
 
-🚻⨀⑥(tassa) 🚻⨀①(🔽(ta)(gītaṁ))
-of that person / sung (past participle)
+🚻⨀⑥(tassa) 🚻⨀①(🔽(ta)(gītaṁ))  
+of that person / sung (past participle)  
 *Sung of that person.*
 
 > sayitabbaṁ bhavatā
 
-🚻⨀①(⏬(tabba)(sayitabbaṁ)) 🚹⨀③(bhavatā)
-eating (future passive particle) / by Your Honourable
+🚻⨀①(⏬(tabba)(sayitabbaṁ)) 🚹⨀③(bhavatā)  
+eating (future passive particle) / by Your Honourable  
 *Eating by Your Honourable.*
 
 ### `sādhana` associated meanings and usage
@@ -1580,6 +1683,47 @@ and can sometimes have no significant role.
 | `sampadāna` | `dānīyo` | the recipient monk (**to which** alms should be given) | | `databbo assā’ti dānīyo` |
 | `apādāna` | `bhemo` | the fearsome object (**from which** people fear) | {627} | `bhāyanti etasmā’ti bhemo` |
 | `adhikaraṇa` | `ṭhānaṁ` | the place (**where** people stand) | {548} | `tiṭṭhanti tasmin’ti` |
+
+## `sandhi` (word transformations)
+
+As Pāḷi is a spoken language, when words are combined to form a sentence,
+changes may occur between words (or sometimes even within a word) to make
+the sentence "flow" or "sound" better.
+
+In English, words are often shorted ie. "can not" to "can't", or "I will" to
+"I'll". This happens very frequently in Pāḷi, especially when two vowels become
+adjacent to each other from two words next to each other, and there are complex
+rules governing how such transformations occur.
+
+As a example {10}:
+
+> `tatra` + `ayaṁ` + `ādi`  
+> = tatr~~a~~ + ~~a~~ā ya~~ṁ~~m + ādi  
+> = `tatrā’ya’mādi`  
+> = `tatrāyamādi`
+
+When there are two adjacent vowels from joining two or more
+words together, `sandhi` typically involves deleting one of the vowels, and
+then either retaining, lengthening or changing the remaining vowel. Sometimes
+the consonant next to the vowel may also be changed.
+
+The overall effect is to make the words easier to say as a group. Although
+`tatrāyamādi` may seem like a single word because of `sandhi`, a listener
+should still regard them as separate words when trying to understand a
+sentence. However, some `sandhi` combinations of common words are so often
+encountered they have acquired distinctive meaning as combined words.
+
+Another example {11}
+
+> `tatra` + `abhiratiṁ` + `iccheyya`  
+> = tatr~~a~~ + ~~a~~ā bhirati~~ṁ~~m + iccheyya  
+> = `tatrā’bhirati’miccheyya`  
+> = `tatrābhiratimiccheyya`  
+> "... should prefer enjoying at that ..."
+
+This introduction will not go into detail on these rules but the reader should
+be aware that endings and beginning letters in words may change in a sentence.
+Eventually, as reading proficiency increases, these changes will become easier to recognise.
 
 ## Exercise
 

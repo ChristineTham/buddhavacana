@@ -2,7 +2,7 @@
 title: "About Chris Tham"
 sidebar:
   label: "About Me"
-  order: 2
+  order: 3
 hero:
   title: About Me
   tagline: Chris Tham

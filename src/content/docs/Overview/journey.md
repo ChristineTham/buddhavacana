@@ -2,7 +2,7 @@
 title: "My Journey"
 sidebar:
   label: "My Journey"
-  order: 3
+  order: 4
 description: >
   Brief history of how I was introduced to Buddhism and my progress to date
 ---

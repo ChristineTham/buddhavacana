@@ -6,6 +6,12 @@ description: >
   Grammar guide (evolving) based on Warder "Introduction to Pali". Currently based on Lessons 1-12.
 ---
 
+This is a summary of Pali Grammar based on Warder "Introduction to Pali" (Lessons 1-12).
+
+:::danger
+The information in this page has been superseded by the information in my [Pali Textbook](/buddhavacana/pali-textbook/0-index)
+:::
+
 ## pada
 
 Word

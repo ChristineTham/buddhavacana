@@ -20,7 +20,11 @@ sidebar:
   hidden: true
 ---
 
-import { CardGrid, Card } from '@astrojs/starlight/components';
+import { CardGrid, Card, LinkCard } from '@astrojs/starlight/components';
+
+## TL;DR
+
+<LinkCard title="Too Long; Didn't Read" description="If you can't be bothered to explore this website, this is the gist of what the Buddha taught" href="/buddhavacana/tldr" />
 
 ## What is 𑀩𑀼𑀤𑁆𑀥𑀯𑀘𑀦?
 
@@ -60,29 +64,52 @@ I believe the Buddha's teachings can be evaluated like any hypothesis or scienti
 ![The Buddha and Mt Sumeru](../../assets/images/featured-background.jpeg)
 *mini statue of The Buddha in front of Mt Sumeru*, photo taken at a private garden at Robertson, NSW, Australia on 12 October 2024 on a Sony α7R and Zeiss FE 55mm lens.
 
+## Content
+
 <CardGrid stagger={true}>
   <Card title="Who Was The Buddha?" icon="seti:vala">
     The Buddha may or may not have been a historical figure. He was supposedly born somewhere near modern day Nepal on the slopes of the Himalayas. He lived and traveled in the Greater Magadha region in ancient India around the 4th century BCE, over 2600 years ago.
+    
+    <LinkCard title="Biography" description="A very short biography of Gotama Buddha" href="/buddhavacana/buddha/biography" />
+    <LinkCard title="Was He A Real Person?" description="How do we know the Buddha existed and his teachings are authentic?" href="/buddhavacana/buddha/authenticity" />
   </Card>
   <Card title="What Did He Do?" icon="seti:xml">
     He searched for, and found, a way to end suffering. He then taught thousands of others how to do the same, and today millions of people still try to follow his teachings.
+    
+    <LinkCard title="What Did The Buddha Teach?" description="His core teachings, based on the early discourses" href="/buddhavacana/buddha/teach" />
+    <LinkCard title="Evolution" description="How his teachings may have evolved over his lifetime, and after his death" href="/buddhavacana/articles/evolution" />
   </Card>
   <Card title="Was The Buddha A Divine Being?" icon="starlight">
     According to (some of) his preserved teachings, the Buddha was not a god or divine being, but a man who became liberated from suffering. He lived a normal human life, needing food, sleep, and shelter. He experienced sickness and old age, and eventually died. However, some of his followers later deified him as a Perfect, Eternal, Omniscient Conceptual Being.
+
+    <LinkCard title="Was the Buddha Omniscient?" description="Did he really have 'perfect understanding'?" href="/buddhavacana/buddha/omniscient" />
   </Card>
   <Card title="What Is So Special About His Teachings?" icon="seti:smarty">
     The Buddha was quite possibly the earliest known “phenomenologist”:  he observed that our sense of self, our consciousness, and indeed our experience of the world, is based on our perception of phenomena. By letting go, we cease to experience suffering.
+
+    <LinkCard title="`Nibbāna`" description="What happens when we are liberated from suffering" href="/buddhavacana/articles/enlightenment" />
   </Card>
   <Card title="Was The Buddha A Philosopher Or Spiritual Leader?" icon="seti:react">
     Neither. His preserved core teachings are not philosophy, nor spiritual guidance, but are practical and experiential. Unlike religions, his teachings are not based on faith or belief, but on direct experience and personal verification.
+
+    <LinkCard title="`Determinism`" description="Did the Buddha advocate determinism, or free will?" href="/buddhavacana/articles/determinism" />
   </Card>
   <Card title="What Language Did The Buddha Teach In?" icon="translate">
     We do not know. He may possibly have taught in an Indo-Aryan Prakrit dialect, or perhaps a mixture of dialects and autochthonous languages. His teachings have been preserved in various languages including Pāḷi, Sanskrit, Tibetan, Chinese, and others. Pāḷi is probably the closest language to what he may have originally taught, and many of his preserved teachings are in that language. However, some argue that the Pāḷi canon represents a late sectarian edited perspective, and that some of his teachings translated into other languages may be closer to what he originally taught.
+  
+    <LinkCard title="My Pāḷi Textbook" description="Want to learn Pāḷi? Start here" href="/buddhavacana/pali-textbook/0-index" />
   </Card>
   <Card title="Can We Possibly Ascertain What Were His Actual Words?" icon="open-book">
     We can't. His teachings were transmitted orally for several centuries before being written down. His followers do not always agree on how to interpret his teachings. Over time, the teachings were adapted to different languages and cultures, and incorporated other beliefs, making it impossible to know the exact words of the Buddha or what he actually taught. However, I believe that the core ideas and principles of his teachings have been preserved well enough for us to understand and apply them.
+  
+    <LinkCard title="Devolution" description="How his teachings may have declined over centuries" href="/buddhavacana/articles/devolution" />
   </Card>
   <Card title="Why Should We Bother To Understand His Teachings?" icon="heart">
     The Buddha claims that if we understood and applied his teachings, we can directly experience and validate what he taught and end suffering. Ultimately, his teachings can be distilled to very simple ideas: eliminate craving and desire and other unwholesome or unskillful thoughts, be the best person one can possibly be, have a calm and dispassionate disposition, have a positive attitude towards life and other living beings, and one will be rid of suffering and dissatisfaction. Even if one does not believe in anything he taught, is there nothing better than to follow that path?
+  
+    <LinkCard title="My Approach" description="My Approach to studying the Buddha's teachings" href="/buddhavacana/overview/approach" />
+    <LinkCard title="Core Teachings" description="The Buddha's Teachings, in his own words" href="/buddhavacana/sutta/intro" />
   </Card>
 </CardGrid>
+
+<LinkCard title="Want to read everything?" description="Start here. Use the sidebar menu on the left (on a desktop) or the menu button on the top right (mobile/tablet) to select a page." href="/buddhavacana/about" />

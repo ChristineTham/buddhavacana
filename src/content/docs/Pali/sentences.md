@@ -6,6 +6,12 @@ description: >
   Sentence examples (evolving) based on Warder "Introduction to Pali" exercises. Contains sample sentences from Lessons 1-12
 ---
 
+Sentence examples (evolving) based on Warder "Introduction to Pali" exercises. Contains sample sentences from Lessons 1-12.
+
+:::danger
+The information in this page has been superseded by the information in my [Pali Textbook](/buddhavacana/pali-textbook/0-index)
+:::
+
 ## Legend
 
 | symbol | meaning | explanation |

@@ -1,7 +1,7 @@
 {
   "import": ["@cspell/dict-en-au/cspell-ext.json"],
   "locale": "en-AU",
-  "dictionaries": ["en", "en-AU", "pali"],
+  "dictionaries": ["en", "en-au", "pali"],
   // Tell CSpell about your dictionary
   "dictionaryDefinitions": [
     {
