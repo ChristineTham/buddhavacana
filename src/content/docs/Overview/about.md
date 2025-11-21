@@ -12,7 +12,8 @@ description: >
   An Introduction and short biography
 ---
 
-![Chris Tham](../../../assets/images/featured-me.jpeg)
+![Chris Tham](../../../assets/images/spirit-house.jpg)
+A photo of me taken in 3 March 2023 using a Sony ⍺7R camera at the Spirit House 光之屋, located at lower level 2, Naala Badu building, Art Gallery of NSW. Spirit House is an installation by Lee Mingwei 李明維 from Taiwan (who by coincidence is the same age as me). The installation is a domed space set within the rammed earth wall of a garden. The bronze Buddha sculpture was created by master sculptor Huang Hsin Chung in Taipei. For more information refer to [Spirit House 光之屋 (2022)](https://www.artgallery.nsw.gov.au/collection/works/346.2022.a-e)
 
 ## Early Childhood
 
@@ -90,5 +91,3 @@ Along the way, my understanding of the Buddha's teachings has transformed comple
 Based on my current understanding, I do not consider myself a "Buddhist". I have very little in common with those that call themselves Buddhists, and I do not believe what Buddhists typically believe, nor do I participate in typical Buddhist customs, rituals, ceremonies, observances, precepts, or have any connection with Buddhist religious institutions or practitioners.
 
 [Chris Tham](https://christham.net)
-
-![Chris Tham at Nan Tien temple 2014](../../../assets/images/journey.jpeg)
