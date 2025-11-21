@@ -18,6 +18,8 @@
 
 /* Light mode colors. */
 :root[data-theme="light"] {
+  --sl-font: "Noto Sans", sans-serif;
+  --sl-font-mono: "Noto Sans Mono", monospace;
   --sl-color-accent-low: #be9cc1;
   --sl-color-accent: #b565a7;
   --sl-color-accent-high: #85677b;

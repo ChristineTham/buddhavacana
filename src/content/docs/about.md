@@ -92,3 +92,9 @@ I understand that you may find my translation irritating and you may disagree wi
 ## Support Me
 
 If you find the content on this website useful, please consider supporting me by becoming a [sponsor](https://github.com/sponsors/hellotham). Your support helps me to continue creating and maintaining this website and its content. Thank you!
+
+## Dedication
+
+This website is dedicated to my parents, without whom I obviously would not be here. They were my first preceptors, and in hindsight without their guidance and support I would not have been able to embark on this journey.
+
+I am truly happy and contented that they have both achieved the cessation of suffering during their lifetimes, and I have been privileged to witness their journeys and the effort they made. Both of them are beyond suffering now, but I will always remember them somewhere in the collections that I call myself.
