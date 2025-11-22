@@ -2,7 +2,12 @@
 title: "My Journey"
 sidebar:
   label: "My Journey"
-  order: 4
+  order: 5
+hero:
+  title: "My Journey"
+  tagline: Brief history of how I was introduced to Buddhism and my progress to date
+  image:
+    file: ../../../assets/images/path.jpg
 description: >
   Brief history of how I was introduced to Buddhism and my progress to date
 ---
@@ -27,17 +32,18 @@ We don't even know whether the Buddha was a historical figure or a mythical one.
 
 [^Drewes2017]: Drewes, D. (2017). The Idea Of The Historical Buddha. *Journal of the International Association of Buddhist Studies*, 40, 1–25. https://doi.org/10.2143/JIABS.40.0.3269003
 
-We now know from the discovery of Gāndhārī manuscripts, which are the earliest surviving Buddhist texts, that Mahāyānan texts, such as the Prajñāpāramitā sutras, were composed as early as the 1st century BCE. This challenges the notion that Mahāyāna Buddhism is a later development that deviated from the "original" teachings of the Buddha. It suggests that the Mahāyāna tradition has deep roots in the early Buddhist community, and the Pāḷi canon therefore is a redacted version of the Buddha's teachings.[^Allon2010][^Tseng2020]
+If the Buddha was a historical figure, then perhaps soon after his death, and perhaps even during his lifetime, there were probably multiple trends in how his disciples wanted to preserve his memory and his teachings. On one hand there were those who wanted to remember him as a human being, with flaws and imperfections, while on the other hand there were those who wanted to idealize him as a perfect, ommiscient being.
 
-[^Allon2010]: ALLON, M., SALOMON, R., & GANDHÁRA, E. M. I. T (2010) ORIGIN of the Mahayana - its date, location, motivations, institu. *EASTERN BUDDHIST*, 4(1), 1.
-[^Tseng2020]: Tseng, A. A. (2020). Archeological Evidence of Early Mahayana Movement in Gandhara. *Exploring the Life and Teachings of Mahayana Buddhists in Asia*, 31-134.
+Then there was the issue of attracting followers, and more importantly patronage. Buddhism as a movement would not have survived long without the support of wealthy patrons. These patrons often played a significant role in shaping the direction of the movement and influencing the development of Buddhist doctrine.
 
-Some scholars such as Gombrich have argued that the Mahāyāna movement may have originated as a textual rather than oral tradition, Tseng has suggested that its practitioners may have been embedded within existing Buddhist sects. Mahāyāna texts may well have been the earliest Buddhist texts to be written down, perhaps even predating the schism or division into sects, and the Pāḷi Canon may have been compiled later to counter the growing influence of Mahāyāna teachings.[^Collins]
+An imperfect human being who has achieved the cessation of suffering would not attract many converts. Those that truly understood his teachings will realise the significance of his achievement, however the average person may not be impressed unless he could also perform miracles, read minds, foretell the future, and fraternise with the gods. More importantly, rich patrons such as wealthy merchants and kings would not be willing to give donations, slaves and lands unless he saw the Buddha as more than just a human being, but someone who could help them.
 
-Furthermore, we also know that the Vinaya texts, which are largely consistent across different Buddhist traditions, indicate that the Buddha was regarded from the beginning as a semi divine being with extraordinary qualities and abilities. The Buddha is often described as possessing supernormal powers, such as the ability to read minds, perform miracles, and transcend the limitations of ordinary human existence. So the notion that the Buddha was merely a human teacher and philosopher is also a constructed one.[^Frauwallner1956]
+So, it is no surprise that the Buddha was valorised and deified almost from the beginning. We know that the Vinaya texts, which are largely consistent across different Buddhist traditions, indicate that the Buddha was regarded from the beginning as a semi divine being with extraordinary qualities and abilities. The Buddha is often described as possessing supernormal powers, such as the ability to read minds, perform miracles, and transcend the limitations of ordinary human existence. So the notion that the Buddha was merely a human teacher and philosopher is also a late construction.[^Frauwallner1956]
 
 [^Frauwallner1956]: Frauwallner, E. (1956). *The Earliest Vinaya And The Beginnings Of Buddhist Literature*. ROMA Is. M. E. O.
 
 The original focus of this website was to document my journey in studying the Pāḷi Canon and related texts, and my progress in learning Pāḷi. However, as my understanding of Buddhism has evolved, I have expanded my focus to include other Buddhist traditions and texts. I have also started exploring the historical and cultural contexts of Buddhism, and how they have influenced the development of different Buddhist traditions.
 
-I still believe the Buddha may have been a historical figure, and his "earliest" teachings (as contained in the Vinaya) may have been a "pure" and "rational" soteriology that can be empirically validated through personal experience. However, I now also appreciate the Mahāyāna perspective that the "Buddha" may simply be a concept, an idealised archetype that represents the highest potential of human beings. Whether he existed as a historical figure or not is irrelevant, as the ultimate objective is for us to understand that the perceptual and subjective world that we experience is ultimately devoid of inherent or substantive existence (or, at the very least, we cannot validate the independent existence or intrinsic qualities of what we perceive outside our perceptions and mental concepts), and when we understand this, we will truly be liberated.
+I still believe the Buddha may have been a historical figure, and his "earliest" teachings (as contained in the Vinaya) may have been a "pure" and "rational" soteriology that can be empirically validated through personal experience. However, I now also appreciate the Mahāyāna perspective that the "Buddha" may simply be a concept, an idealised archetype that represents the highest potential of human beings.
+
+Whether he existed as a historical figure or not is irrelevant, as the ultimate objective is for us to understand that the perceptual and subjective world that we experience is ultimately devoid of inherent or substantive existence (or, at the very least, we cannot validate the independent existence or intrinsic qualities of what we perceive outside our perceptions and mental concepts), and when we understand this, we will truly be liberated.
