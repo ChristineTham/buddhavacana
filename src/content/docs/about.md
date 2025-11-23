@@ -54,7 +54,7 @@ There was initially a website version of the The World Tipiṭaka Edition that w
 ## Who Am I?
 
 ![Chris Tham, photo taken at Nan Tien Temple in 2014](../../assets/images/about-me.jpeg)
-Photo taken at Nan Tien Temple in 2014 on 7 January 2015 using a Sony ⍺7R and Zeiss 35mm lens.
+*Little Buddhas*, photo taken at Nan Tien Temple in 2014 on 7 January 2015 using a Sony ⍺7R and Zeiss 35mm lens.
 
 My name is Chris Tham. I discovered Buddhism in my early teens, whilst visiting Singapore during a school vacation. An uncle took us to a Buddhist temple, and afterwards gave me a book called **"What Buddhists Believe"** by *Dr K Sri Dhammananda*. I read the whole book overnight and it all made sense to me, so I informally became a Buddhist after that.
 
@@ -90,6 +90,26 @@ I understand that you may find my translation irritating and you may disagree wi
 * Diagrams are created primarily using [Mermaid](https://mermaid.js.org). There is some use of other tools such as PlantUML and Observable.
 * The website colour scheme is based on [Rosely](https://rosely.hellotham.com).
 * All photographs on this website are taken by me, or on behalf of me on my camera. Other images are credited to the sources.
+
+## History of this website
+
+This website was originally a single page on my personal website. Over time, I decided I should really make it a sub-site with it's own content and navigation.
+
+The website was originally written in Markdown using the Hugo static site generator and the Docsy framework. At the time, I was fairly new to web development, and chose a stack that I thought would be relatively easy to learn and maintain..
+
+How wrong I was! Hugo was a nightmare to learn, and difficult to create content in. Any customisation required understanding the inner workings of Docsy and mastering Hugo intricacies.
+
+I thought of redeploying it as a document website using something like [Docusaurus](https://docusaurus.io) or [Gitbook](https://www.gitbook.com), but realised I wanted more functionality and would have to customise these as well.
+
+In the meantime, I started learning about the concept of a Second Brain through [Reasonable Deviations](https://reasonabledeviations.com). I started using [Obsidian](https://obsidian.md) as an editor and I started searching for Obsidian plugins that will allow me to publish Obsidian pages.
+
+I also started developing my own Second Brain framework, as I found existing methodologies such as Zettelkasten limiting.
+
+Given Obsidian is a Markdown editor and my published pages will all be in Markdown, I started treating Markdown as the One True Document Format, so I started to convert all my existing source content, usually PDFs, ePubs but occasionally other formats, into Markdown.
+
+Converting everything into Markdown makes it easier for me to read content, as I don't have to deal with multiple fonts, e-book readers, page and screen sizes. I can just focus on reading the text as a continuous scroll.
+
+The new website is written using [Astro](https://astro.build) and the [Starlight](https://starlight.astro.build) documentation plugin. I edit text using a combination of Obsidian and Visual Studio Code, on a private vault before transferring finished content to the website repository.
 
 ## Support Me
 

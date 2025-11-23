@@ -4,6 +4,12 @@ sidebar:
   label: Authenticity
 ---
 
+"Buddha" is a derived noun in Pāli meaning "understood; known" (Cone's Dictionary of Pali), and it can also be used to refer to someone who has understood. Therefore, it is an epithet to refer to the person we call the "Buddha" today. According to his teachings he seldom or perhaps never referred to himself as such, so this this may be a term that later generations of Buddhists have adopted.
+
+These days, some scholars argue that the Buddha is "ahistorical" ("lacking historical perspective or context"). By this, they mean we cannot validate any aspect of his life or his teachings, or even whether he existed as a person. Everything we know about the Buddha comes from religious texts, and even some Buddhists admit a lot of the details around his life seem fanciful and made up, constructed possibly centuries after his death. There are no accounts of him or his life from non-Buddhist sources. Even if he existed, we don't know precisely where he was born, what his lineage was, his real name, or even what language he spoke.
+
+However, according to Buddhist sources, the Buddha was a person who was born and lived around Magadha, a region and kingdom in ancient India, based in the eastern Ganges Plain. He founded what eventually became known today as "Buddhism", a "religion" (or more accurately, a set of related religions centred around the Buddha) and "philosophical tradition" with over 500 million followers around the world.
+
 According to the book [**The Authenticity of the Early Buddhist Texts**](https://wiswo.org/books/auth/):
 
 >1. there is a body of Early Buddhist Texts (EBTs), which is clearly distinguishable from all other Buddhist scripture;

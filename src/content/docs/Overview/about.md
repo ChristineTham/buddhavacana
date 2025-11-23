@@ -86,11 +86,13 @@ Little did I realise I was going to embark on a journey that eventually will lea
 * Create a framework for a Second Brain based on `pañcupādānakkhandhā` (the Buddha’s classification of the five key components of our mental process and consciousness):[khandhaja.github.io](https://khandhaja.github.io).
 * Embark on a philosophical study of the Buddha's teachings, and evaluating using critical analysis.
 
-Along the way, my understanding of the Buddha's teachings has transformed completely. This website is the culmination of my studies, along with my other related websites.
+Along the way, my understanding of the Buddha's teachings has transformed completely. I thought I understood the basics of what he taught, and simply needed to document and enhance that understanding.
+
+The more I studied, and the more I read, the more I began to realise how little I understood. This website therefore has become a documentary of my personal journey in terms of revising my understand of what he taught.
 
 Based on my current understanding, I do not consider myself a "Buddhist". I have very little in common with those that call themselves Buddhists, and I do not believe what Buddhists typically believe, nor do I participate in typical Buddhist customs, rituals, ceremonies, observances, precepts, or have any connection with Buddhist religious institutions or practitioners.
 
 [Chris Tham](https://christham.net)
 
 ![Along the Path](../../../assets/images/path.jpg)
-Along the path, taken on a Nikon V3 with 1 Nikkor VR PD-Zoom 10-100mm lens, at a private garden in Robertson, NSW, Australia on 9 October 2016.
+*Along the path*, taken on a Nikon V3 with 1 Nikkor VR PD-Zoom 10-100mm lens, at a private garden in Robertson, NSW, Australia on 9 October 2016.
