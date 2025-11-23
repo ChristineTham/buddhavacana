@@ -86,6 +86,8 @@ Little did I realise I was going to embark on a journey that eventually will lea
 * Create a framework for a Second Brain based on `pañcupādānakkhandhā` (the Buddha’s classification of the five key components of our mental process and consciousness):[khandhaja.github.io](https://khandhaja.github.io).
 * Embark on a philosophical study of the Buddha's teachings, and evaluating using critical analysis.
 
+## Current understanding
+
 Along the way, my understanding of the Buddha's teachings has transformed completely. I thought I understood the basics of what he taught, and simply needed to document and enhance that understanding.
 
 The more I studied, and the more I read, the more I began to realise how little I understood. This website therefore has become a documentary of my personal journey in terms of revising my understand of what he taught.
