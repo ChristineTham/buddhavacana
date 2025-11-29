@@ -22,12 +22,12 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.5",
-    "@astrojs/starlight": "^0.36.3",
+    "@astrojs/check": "^0.9.6",
+    "@astrojs/starlight": "^0.37.0",
     "@cspell/dict-en-au": "^1.1.12",
     "@fontsource/noto-sans": "^5.2.10",
     "@fontsource/noto-sans-mono": "^5.2.10",
-    "astro": "^5.16.0",
+    "astro": "^5.16.2",
     "astro-mermaid": "^1.2.0",
     "astro-plantuml": "^0.1.4",
     "cspell": "^9.3.2",
