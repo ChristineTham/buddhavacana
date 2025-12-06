@@ -1,0 +1,22 @@
+---
+title: The Buddha's liberation as an case study of Theory of Planned Behaviour (TPB)
+sidebar:
+  label: Theory of Planned Behaviour
+---
+
+The Buddha's phenomenological framework and subsequent liberation is consistent with modern theories of perception and behavioural science. For example in **Pessoa - The Entangled Brain: How Perception, Cognition, and Emotion Are Woven Together (2022)** [^EntangledBrain], the Theory of Planned Behaviour (TPB) says that:
+
+[^EntangledBrain]: Pessoa, L. (2022). The Entangled Brain: How Perception, Cognition, and Emotion Are Woven Together. The MIT Press. http://direct.mit.edu/books/oa-monograph-pdf/2231824/book_9780262372107.pdf
+
+> ... only two things matter: our intentions and our control. When we have a strong intention to engage in a behavior and perceive that we have control over that behavior, then we will do it. Take smoking cessation as an example: people who intend to give up smoking and perceive that they have control over whether they smoke will give up, whereas those without either the intention or the perception of control (or both) will not. The theory in addition says that intentions come from three sources. First, we are very strongly influenced by subjective norms, our internalization of the views of other people whose opinions matter to us. If your partner's views matter to you and your partner takes a dim view of your smoking, you're more likely to form the intention to give up. Second, our attitudes to the behavior are important. The better you feel about giving up smoking, the more likely you are to form the intention to give up. Finally, your estimation of how easy or difficult it will be to give up will also influence your intention. This sense of control is the same factor mentioned above: it is assumed to have a direct impact on behavior as well as an indirect impact via intentions.
+>
+> According to TPB, it is only these factors, and no others, that matter. You might object, for example, that surely personality matters. Aren't extroverts less likely to quit smoking than introverts? The theory doesn't deny that such factors could be associated with giving up smoking, but it says that the only pathways by which they can do so are via subjective norms, attitudes, or perceived control. Thus, if extroverts do indeed struggle to stop smoking, it must be because they feel less pressure from other people's views, or they have a less favorable attitude to stopping smoking, or they do not feel they have adequate control.
+>
+> The precise details of the theory are not crucial; what matters is that the theory is eminently testable (and indeed it has survived more or less intact despite thirty years of extensive testing) and that all its ingredients are conscious, reportable aspects of behavior.  When researchers set out to test the theory, they do so by constructing questionnaires comprising many items, all of which attempt to measure different aspects of the person's subjective norms, attitudes, and perceived control. Each item (such as Most people who are important to me think I should give up smoking in the next 12 months) is accompanied by a rating scale on which the respondent indicates their agreement or disagreement with the statement, and the different items under each type are averaged to give a single measure of the three predictors for that person. Then an analysis is conducted to determine whether those individuals with strong subjective norms, attitudes, and perceived control for quitting smoking are indeed more likely to quit. Clearly, the questionnaires elicit conscious, reportable beliefs and attitudes; this is a theory that fundamentally attributes behavior to a combination of fully conscious factors.
+
+Indeed, later on in following sections in the narrative, the Buddha espouses precisely this view. His teachings are very closely aligned with TPB:
+
+- Our intentions and control over future behaviour are crucial in our ability to achieve the same liberation as the Buddha.
+- The Buddha supports this intention by forming a community where members of the community can support each other by creating subjective norms around optimal behaviour.
+- The Buddha augments our attitude towards optimal behaviour by emphasising the positive aspects of achieving the outcome.
+- Lastly, the narrative stresses the achievability of the outcome by documenting case studies of more than a thousand people who were also able to achieve liberation within a short time of hearing the Buddha's teachings.
