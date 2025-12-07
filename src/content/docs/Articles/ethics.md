@@ -4,7 +4,11 @@ sidebar:
   label: Morals and ethics
 ---
 
-It is important to point out that the early discourses do not involve any discussion of moral principles or ethical frameworks.
+It may come as a surprise to some, but the early discourses of the Buddha (as represented in the [Khandhaka](https://tidipa.github.io/Khandhaka/)) do not involve any discussion of moral principles or ethical frameworks.
+
+Of course, many people assume the Buddha taught about virtue, morality, and ethics. After all, don't all religious teachers do that?
+
+The Buddha was not necessarily a religious teacher. Yes, he did talk about generosity (`dānakathaṃ`), ethical behaviour (`sīlakathaṃ`), heaven (`saggakathaṃ`) to early converts such as Yasa in [Pabbajjākathā (The Account of the Going Forth)](https://tidipa.github.io/Khandhaka/1.7), but nowhere in the early discourses are such talks elaborated. One suspects the Buddha started by talking about generosity, ethical behaviour and heaven because he thought potential converts expected him as a wandering renunciant to give such talks. He quickly steered the conversation to the [four realisations](/buddhavacana/sutta/realisations). Crucially, the potential convert's gaining of `dhammacakkhu` - insight into the `dhamma` ("phenomenal nature of experience") - only comes after the exposition of the four realisations, thus emphasising that the Buddha's teaching wasn't really about generosity, ethical behaviour or heaven.
 
 The root cause of `dukkha` is ignorance, not bad or unethical behaviour., or even "evil" thoughts. In this, the Buddha is clearly very different from religious practitioners. Dependent origination does not prescribe a set of rituals or exemplary behaviours, or even attitudes. Indeed, it prescribes the opposite - the cessation of non optimal thoughts, behaviours and activities that inevitably lead to dukkha.
 
@@ -16,7 +20,7 @@ Obviously, these sub-optimal mental constructions would differ from individual t
 
 ## `āsava` (non optimal mental "flows")
 
-`āsava` is quite difficult to translate. [^Norman1997] notes:
+`āsava` is quite difficult to translate. Norman in **A Philological Approach To Buddhism**[^Norman1997] notes:
 
 [^Norman1997]: Norman, K. R. (1997). A Philological Approach To Buddhism: The Bukkyō Dendō Kyōkai Lectures 1994: Vol. V.
 
@@ -36,7 +40,7 @@ Strictly speaking, this is a Vedic reference to leading a virtuous life that is 
 
 `brahmacariya` in the context of the Buddha's teaching refers to the disciplined way of living, or optimal conduct or state of existence, in order to eliminate `āsava`, or non optimal mental flows that lead to non-optimal mental constructions and eventually `dukkha`. This is a lifetime commitment and "practice". Later on in [6. Pañcavaggiyakathā (The Account of the Group of Five)]([/1.6.md](https://tidipa.github.io/Khandhaka/1.6)) the Buddha prescribes the Eightfold Path, a guide to this practice and establishes the `saṅgha`, a community of like-minded "practitioners" who will support each other in living the optimal life.
 
-[^Norman1997] writes:
+Norman[^Norman1997] writes:
 
 > In its basic brahmanical sense *brahma-carya* means "the practice of a brāhmana", i.e. the living of a celibate life, learning the Vedas. The Buddha used the phrase in the more general sense of "to live the best life, i.e. a holy, celibate (or in the case of married couples, a chaste and moral) life". In the Upaniṣads *brahma-patha* means "the way to brahman or Brahmā". The Buddha used it in the sense of the way to the best, i.e. *nibbāna*, and it is explained as being the same as *brahmavihāra*.
 >
