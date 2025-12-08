@@ -1,5 +1,5 @@
 ---
-title: Absence of morals and ethics
+title: Did the Buddha advocate morals and ethics?
 sidebar:
   label: Morals and ethics
 ---
@@ -8,7 +8,7 @@ It may come as a surprise to some, but the early discourses of the Buddha (as re
 
 Of course, many people assume the Buddha taught about virtue, morality, and ethics. After all, don't all religious teachers do that?
 
-The Buddha was not necessarily a religious teacher. Yes, he did talk about generosity (`dānakathaṃ`), ethical behaviour (`sīlakathaṃ`), heaven (`saggakathaṃ`) to early converts such as Yasa in [Pabbajjākathā (The Account of the Going Forth)](https://tidipa.github.io/Khandhaka/1.7), but nowhere in the early discourses are such talks elaborated. One suspects the Buddha started by talking about generosity, ethical behaviour and heaven because he thought potential converts expected him as a wandering renunciant to give such talks. He quickly steered the conversation to the [four realisations](/buddhavacana/sutta/realisations). Crucially, the potential convert's gaining of `dhammacakkhu` - insight into the `dhamma` ("phenomenal nature of experience") - only comes after the exposition of the four realisations, thus emphasising that the Buddha's teaching wasn't really about generosity, ethical behaviour or heaven.
+The Buddha was not necessarily a religious teacher. Yes, he did talk about generosity (`dānakathaṃ`), ethical behaviour (`sīlakathaṃ`), heaven (`saggakathaṃ`) to early converts such as Yasa in [Pabbajjākathā (The Account of the Going Forth)](https://tidipa.github.io/Khandhaka/1.7), but nowhere in the early discourses are such talks elaborated. One suspects the Buddha started by talking about generosity, ethical behaviour and heaven because he thought potential converts expected him as a wandering renunciant (`samaṇa`) to give such talks. He quickly steered the conversation to the [four realisations](/buddhavacana/sutta/realisations). Crucially, the potential convert's gaining of `dhammacakkhu` - insight into the `dhamma` ("phenomenal nature of experience") - only comes after the exposition of the four realisations, thus emphasising that the Buddha's teachings weren't really about generosity, ethical behaviour or heaven.
 
 The root cause of `dukkha` is ignorance, not bad or unethical behaviour., or even "evil" thoughts. In this, the Buddha is clearly very different from religious practitioners. Dependent origination does not prescribe a set of rituals or exemplary behaviours, or even attitudes. Indeed, it prescribes the opposite - the cessation of non optimal thoughts, behaviours and activities that inevitably lead to dukkha.
 
@@ -19,6 +19,8 @@ In other words, any mental construction that may result in dukkha is a non-optim
 Obviously, these sub-optimal mental constructions would differ from individual to individual, hence the Buddha did not articulate what they were. Therefore there can be no universal moral principles or ethical frameworks that would apply to everyone. This is consistent with the Buddha's phenomenological framework - clearly this framework instantiates uniquely for each individual and therefore what is considered optimal or non-optimal is also unique to that individual. However, this did not stop later generations of Buddhists from inventing a set of moral principles, or "precepts", or even spending time classifying what is "good" and what is "bad." However, as can be noticed from this narrative, these principles and classifications were not established nor articulated in the Buddha's awakening process.
 
 ## `āsava` (non optimal mental "flows")
+
+Some of the suttas augment the Buddha's early teachings by referring to a concept called `āsava`. This concept is often linked to negative or non-ethical behaviours, and the "destruction" of the `āsavā` is sometimes cited as a requirement before liberation. I suspect these suttas are later additions trying to link the Buddha's teachings to virtuous or moral conduct.
 
 `āsava` is quite difficult to translate. Norman in **A Philological Approach To Buddhism**[^Norman1997] notes:
 
@@ -36,7 +38,9 @@ In the same way, the Buddha's path to soteriology requires a lifetime commitment
 
 ## `brahmacariya` (the disciplined, or optimal conduct or state of life)
 
-Strictly speaking, this is a Vedic reference to leading a virtuous life that is aligned with Brahmā (the Supreme Creator) but the Buddha has skillfully redefined this to living an optimal life in accordance with his soteriology. Some translate this as meaning "leading a holy life" or "following a spiritual path" but I prefer not to associate the Buddha's teachings with a spiritual or religious goal.
+Some of the suttas also mention `brahmacariya` which has also been linked to virtuous or moral conduct, through adherence to the code of conduct (`vinaya`) of the community (`saṅgha`).
+
+Strictly speaking, `brahmacariya` is a Vedic reference to leading a virtuous life that is aligned with Brahmā (the Supreme Creator) but the Buddha has skillfully redefined this to living an optimal life in accordance with his soteriology. Some translate this as meaning "leading a holy life" or "following a spiritual path" but I prefer not to associate the Buddha's teachings with a spiritual or religious goal.
 
 `brahmacariya` in the context of the Buddha's teaching refers to the disciplined way of living, or optimal conduct or state of existence, in order to eliminate `āsava`, or non optimal mental flows that lead to non-optimal mental constructions and eventually `dukkha`. This is a lifetime commitment and "practice". Later on in [6. Pañcavaggiyakathā (The Account of the Group of Five)]([/1.6.md](https://tidipa.github.io/Khandhaka/1.6)) the Buddha prescribes the Eightfold Path, a guide to this practice and establishes the `saṅgha`, a community of like-minded "practitioners" who will support each other in living the optimal life.
 

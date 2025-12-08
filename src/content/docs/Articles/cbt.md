@@ -8,7 +8,7 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Cognitive_behavioral_ther
 
 > Cognitive behavioral therapy (CBT) is a form of psychotherapy that aims to reduce symptoms of various mental health conditions, primarily depression, and disorders such as PTSD and anxiety disorders. This therapy focuses on challenging unhelpful and irrational negative thoughts and beliefs, referred to as 'self-talk' and replacing them with more rational positive self-talk. This alteration in a person's thinking produces less anxiety and depression. It was developed by psychoanalyst Aaron Beck in the 1950's.
 
-The Buddha's phenomenological framework, definition of `dukkha`, and the subsequent path to liberation is consistent with the principles of CBT. According to dependent origination, our negative experience of `dukkha` is a form of [cognitive distortion](https://en.wikipedia.org/wiki/Cognitive_distortion) - our craving for pleasure and permanence, as well as our fear and loathing of physical pain, sickness, aging and death are mental constructs, and moreover we are ignorant of the ephemeral and constructed nature of our consciousness. In "reality", living beings arising and dying are the result of natural processes, and the notion of "self" is a generated mental construct that is impermanent, perennially changing and unstable. Once that is understood, there is no necessity to crave for what we cannot have, or fear what is inevitable. By controlling and curating our mental constructions, we can achieve an optimal living experience devoid of `dukkha`.
+The Buddha's phenomenological framework, definition of `dukkha` ("suffering"), and the subsequent path to liberation is consistent with the principles of CBT. According to dependent origination, our negative experience of `dukkha` is a form of [cognitive distortion](https://en.wikipedia.org/wiki/Cognitive_distortion) - our craving for pleasure and permanence, as well as our fear and loathing of physical pain, sickness, aging and death are mental constructs, and moreover we are ignorant of the ephemeral and constructed nature of our consciousness. In "reality", living beings arising and dying are the result of natural processes, and the notion of "self" is a generated mental construct that is impermanent, perennially changing and unstable. Once that is understood, there is no necessity to crave for what we cannot have, or fear what is inevitable. By controlling and curating our mental constructions, we can achieve an optimal living experience devoid of `dukkha`.
 
 The main assumptions of cognitive therapy used in CBT [^Chaloult2008] aligns well with dependent origination, the four realisations and the structure of the `saṅgha`:
 
@@ -38,10 +38,10 @@ Typical phases of CBT [^Gatchel2008] also align well with the eightfold path:
 | Phases of Cognitive Behavioural Therapy | Eightfold path |
 | --- | --- |
 | Assessment or psychological assessment | Right Awareness (sammāsati) |
-| Reconceptualization | Right View (sammādiṭṭhi)<br>Right Resolve (sammāsaṅkappa) |
+| Reconceptualization | Right View (sammādiṭṭhi)<br>Right Intention (sammāsaṅkappa) |
 | Skills acquisition | Right Speech (sammāvācā)<br>Right Action (sammākammanta) |
 | Skills consolidation and application training | Right Effort (sammāvāyāma) |
-| Generalization and maintenance | Right Livelihood (sammāājīva) |
+| Generalization and maintenance | Right Way of Living (sammāājīva) |
 | Post-treatment assessment follow-up | Right Focus (sammāsamādhi) |
 
 Although the above alignment could seem artificial or even contrived, the two approaches are clearly different articulations of the same fundamental principles. The Buddha's teachings are more comprehensive and holistic, and the eightfold path is a more structured approach to achieving liberation. CBT is a more pragmatic approach to achieving mental well-being, and is more focused on specific techniques and strategies.
