@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Grammar (vyākaraṇa)"
 sidebar:
   label: "Grammar"

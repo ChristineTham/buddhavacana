@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Sentence examples (padamañjarī)"
 sidebar:
   label: "Sentences"

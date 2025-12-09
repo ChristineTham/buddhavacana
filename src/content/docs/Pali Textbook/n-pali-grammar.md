@@ -1,7 +1,7 @@
 ---
-title: "Pāḷi grammar (inflections) dictionary"
+title: "N: Pāḷi grammar (inflections) dictionary"
 sidebar:
-  label: "Grammar Dictionary"
+  label: "N: Grammar Dictionary"
 description: >
   Pali Grammar dictionary for GoldenDict and MDict based on Digital Pali Dictionary
 ---

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Pali Learning Notes and Answers to Warder's textbook"
 sidebar:
   label: "Introduction"

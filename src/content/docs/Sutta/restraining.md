@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: ["Sutta"]
 tags: ["aṅguttaranikāyo", "ekakanipātapāḷi", "adantavaggo"]
 title: "Restraining, Guarding and Protecting the Mind (`adantavaggo`)"

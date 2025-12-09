@@ -90,7 +90,7 @@ Little did I realise I was going to embark on a journey that eventually will lea
 
 Along the way, my understanding of the Buddha's teachings has transformed completely. I thought I understood the basics of what he taught, and simply needed to document and enhance that understanding.
 
-The more I studied, and the more I read, the more I began to realise how little I understood. This website therefore has become a documentary of my personal journey in terms of revising my understand of what he taught.
+The more I studied, and the more I read, the more I began to realise how little I understood. This website therefore has become a documentary of my personal journey in terms of revising my understanding of what he taught.
 
 Based on my current understanding, I do not consider myself a "Buddhist". I have very little in common with those that call themselves Buddhists, and I do not believe what Buddhists typically believe, nor do I participate in typical Buddhist customs, rituals, ceremonies, observances, precepts, or have any connection with Buddhist religious institutions or practitioners.
 
