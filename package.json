@@ -23,11 +23,11 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.6",
-    "@astrojs/starlight": "^0.37.0",
+    "@astrojs/starlight": "^0.37.1",
     "@cspell/dict-en-au": "^1.1.12",
     "@fontsource/noto-sans": "^5.2.10",
     "@fontsource/noto-sans-mono": "^5.2.10",
-    "astro": "^5.16.4",
+    "astro": "^5.16.5",
     "astro-mermaid": "^1.2.0",
     "astro-plantuml": "^0.1.4",
     "cspell": "^9.4.0",
@@ -35,5 +35,5 @@
     "sharp": "^0.34.5",
     "typescript": "^5.9.3"
   },
-  "packageManager": "pnpm@10.23.0+sha512.21c4e5698002ade97e4efe8b8b4a89a8de3c85a37919f957e7a0f30f38fbc5bbdd05980ffe29179b2fb6e6e691242e098d945d1601772cad0fef5fb6411e2a4b"
+  "packageManager": "pnpm@10.25.0+sha512.5e82639027af37cf832061bcc6d639c219634488e0f2baebe785028a793de7b525ffcd3f7ff574f5e9860654e098fe852ba8ac5dd5cefe1767d23a020a92f501"
 }
