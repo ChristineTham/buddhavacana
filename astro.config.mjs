@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
+import starlightSiteGraph from "starlight-site-graph";
 import mermaid from "astro-mermaid";
 import plantuml from "astro-plantuml";
 
@@ -32,6 +33,7 @@ export default defineConfig({
           href: "https://christham.net/",
         },
       ],
+      plugins: [starlightSiteGraph()],
       customCss: [
         "./src/styles/custom.css",
         "@fontsource/noto-sans-mono/400.css",

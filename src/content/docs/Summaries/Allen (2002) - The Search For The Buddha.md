@@ -7,6 +7,9 @@ hero:
   tagline: The men who discovered India's lost religion, Charles Allen, Carroll & Graf Publishers, New York (2002)
   image:
     file: ./allen-cover.jpeg
+categories:
+- book
+- summary
 tags:
 - Buddhism
 - India
