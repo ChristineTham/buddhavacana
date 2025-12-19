@@ -1,0 +1,365 @@
+---
+title: Johannes Bronkhorst - Absorption - Human Nature and Buddhist Liberation
+sidebar:
+  label: Bronkhorst - Absorption
+hero:
+  title: Absorption
+  tagline: Human Nature and Buddhist Liberation, Johannes Bronkhorst, UniversityMedia (2012)
+categories:
+- book
+- summary
+tags:
+- Absorption
+- Attention
+- Bodily tension
+- Brain
+- Buddhism
+- Buddhist liberation
+- Charles Sanders Peirce
+- Cognitive science
+- Consciousness
+- Culture
+- Desire
+- End of suffering
+- Etymology
+- Evolutionary psychology
+- Free will
+- Holophrastic utterances
+- Human nature
+- Language acquisition
+- Meditation
+- Memory traces
+- Metapsychology
+- Mind-body problem
+- Mindfulness
+- Mystical experience
+- Mysticism
+- Mythology
+- Neuroscience
+- Origin of language
+- Pali
+- Pleasure
+- Protolanguage
+- Psychoanalysis
+- Psychological theory
+- Psychology of the Buddha
+- Psychotherapy
+- Religion
+- Repression
+- Ritual
+- Sanskrit
+- Seclusion
+- Semantics
+- Sexuality
+- Sigmund Freud
+- Sublimation
+- Symbolic mind
+- Symbolic representation
+- Terrence Deacon
+- Two levels of cognition
+- Urges
+---
+
+### Preface
+*   The book's main objective is to change the perception and evaluation of familiar data.
+*   It is divided into two independent parts, Part I (The Symbolic Mind) and Part II (The Psychology of the Buddha), which can be read separately.
+*   The common theme between both parts is the important role of attention, or absorption, in the mind's functioning.
+*   Part I argues that language acquisition gives humans two levels of cognition: symbolic and non-symbolic. Absorption is a way to access the non-symbolic level, resulting in mystical experiences which also play a role in ritual and mythology.
+*   Part II develops a psychological theory centered on motivation, proposing that absorption is a key source of pleasure. The mind seeks to repeat this pleasure, but memory traces link it to accompanying objects or circumstances rather than the state of absorption itself.
+*   The author describes the work as "human science" and notes that earlier versions of the text have been previously published or made available online.
+
+## PART ONE - The Symbolic Mind
+
+### INTRODUCTION
+
+*   Humans are evolutionarily close to other primates, but fundamental differences exist.
+*   The most notable differences are language, culture, and religion.
+*   The text will propose an answer for what caused these unique human features to evolve.
+
+### §1 Symbolic Representation
+
+*   Experiments with chimpanzees Sherman and Austin showed they could learn to use lexigrams (symbols on a keyboard) not just as references to objects, but as parts of a system with syntactical rules (e.g., "Give" + "Banana").
+*   Crossing the "symbolic threshold" means understanding that signs (symbols) refer not only to objects but also to each other, forming a system of logical relationships.
+*   While chimpanzees learned this with enormous effort, human children acquire this ability, and the complexities of language, with apparent ease due to evolutionary adaptations like an enlarged prefrontal cortex.
+*   Symbolic representation facilitates the formation of abstract representations (e.g., the concept of "give" from the overlap of "give banana" and "give orange").
+*   This ability creates a "boot strapping effect," allowing for learning in other domains and the creation of new symbolic representations for which no words may yet exist, as seen with the bonobo Kanzi.
+*   Symbolic representation allows for the creation of a "symbolic self," enabling us to think about ourselves as characters in scenarios, which is the basis for self-judgment, moral choice, and empathy.
+*   It is also constitutive of social reality; concepts like money, marriage, and government are objective facts that exist only through human agreement and are language-dependent.
+*   Human thought becomes narrative in nature, "chunking" experience into stories to make the world manageable.
+*   This leads to two levels of cognition: a "symbolic experience" (a constructed world of self, values, and social reality) built upon a more fundamental "non-symbolic experience" (raw perception).
+*   This dual-level model is compared to neurological concepts like Damasio's "core" vs. "extended" consciousness and Edelman's "primary" vs. "higher-order" consciousness.
+
+### §2 Mysticism
+
+*   Mysticism is described as an experience that tears the "web of symbolic representation" (like language) that normally separates us from the world, allowing for a more direct experience.
+*   Mystical experiences are often characterized as *ineffable* (beyond language) and possessing a *noetic quality* (feeling as if one is accessing a higher or more real reality).
+*   The sense of experiencing a "more real" reality is explained as experiencing the same reality but in a more direct, unmediated way, without the filter of symbols.
+*   Other common features, such as the disappearance of the self and a sense of unity, are explained by the absence of symbolic representation, which is responsible for constructing the self and dividing the world into categories.
+*   The mechanism for achieving this state is "focusing the mind," particularly in its extreme form, "absorption."
+*   Absorption reduces or suppresses the vast network of conscious and unconscious mental associations that create symbolic reference.
+*   This model suggests a sliding scale between ordinary and mystical states, as there can be varying degrees of absorption.
+
+### §3 Ritual
+
+*   Ritual formulas, such as mantras, are often strings of speech sounds that do not express meaning in the ordinary linguistic sense, even if they resemble language.
+*   Users do not analyze these formulas, which may be in an archaic, unknown, or even non-existent language (e.g., Latin in mass, *abracadabra*).
+*   These formulas are "holistic," meaning they function as unanalyzed wholes, and their purpose is often manipulative—to enact direct change rather than to communicate symbolic meaning.
+*   The use of ritual formulas and actions is a deliberate step away from the symbolic representation that characterizes ordinary language and activity. It is an attempt to access a more immediate, non-symbolic experience.
+*   Like ritual formulas, ritual actions are holistic. The sequence of actions within a ritual is often disconnected from its usual goals and is not guided by symbolic representation in the way ordinary activity is.
+*   While rituals can induce altered states of consciousness, their widespread existence is better explained by an implicit human awareness that the world created by symbolic representation is not the only reality.
+*   By escaping the symbolic realm, which allows for deception, ritual serves to ground important social contracts, like peace treaties or marriages, in a "higher" reality where lies are thought to be impossible.
+
+### §4 Mythology and Religion
+
+*   Symbolic reference creates a barrier between humans and a direct experience of reality, and humans are aware of this.
+*   This awareness leads to a search for a hidden or higher reality, often expressed through rituals, speculation, or creation myths.
+*   Creation myths often describe a transition from an undivided whole to a divided world, which mirrors the author's idea of an individual's transition into symbolic thought during childhood.
+*   Symbolic representation is a defining human trait that instills the belief in a "deeper" reality behind everyday experience.
+
+### §5 Culture
+
+*   The human faculty for symbolic representation is not limited to vocal language but also enables sign language and other non-linguistic signs.
+*   A child learns language by observing signs (vocal, gestural) and their relationships, adopting the system used by its caretakers.
+*   This same capacity allows the child to learn a second web of non-linguistic signs and their interrelationships, which constitutes the child's culture.
+*   Cultural signs, like a Christmas tree, are elements in a wide web of associations that may not be shared by those outside the culture.
+*   This web of culture, similar to language, can influence cognition, causing members of different cultures to perceive the world differently.
+*   The capacity for symbolic representation is therefore responsible for creating both the web of language and the web of culture.
+
+### Appendix 1: Semantic Etymologies
+
+*   A semantic etymology connects a word with others to explain its meaning, unlike a historical etymology which traces a word's origin.
+*   This phenomenon arises from the human tendency to analyze language and find symbolic meaning beyond the level of words, a process that "overshoots" the practical needs of language learning.
+*   While common in children, semantic etymologizing is largely dismissed today; in adults, it has even been associated with schizophrenia.
+*   Despite the modern view, semantic etymologies were widespread in premodern cultures.
+*   Examples include Sumerian myths linking deities' names to body parts, wordplay in ancient Egyptian texts, name origins in the Hebrew Bible (Adam from *adama* or 'earth'), and Greek myths linking names like Odysseus to the verb for 'I am angry'.
+*   Other examples are found in medieval Europe (interpreting *amor* 'love' as *a-mor* 'without death') and among Trobriand Islanders in magical formulas.
+*   In Chinese, which has many homonyms, puns are used to create semantic links, such as using a swastika (*wan*) to represent 'ten thousand years of long life' (*wan shou*).
+
+### Appendix 2: Symbolic Reference and the Origin of Language
+
+*   The origin of language is a debated, interdisciplinary topic, with a central concept being "protolanguage," the earliest form of language.
+*   One theory, from Derek Bickerton, suggests a "synthetic" protolanguage with a limited vocabulary of word-like items but no consistent structure.
+*   A competing theory, from Alison Wray, proposes a "holophrastic" protolanguage of unanalyzed, whole utterances, which were later segmented based on phonetic similarities to create words.
+*   Critics of the holophrastic model argue that segmentation is illogical, as a sound sequence could appear in many utterances without a shared meaning, making it impossible to reliably extract a specific concept.
+*   The text counters this criticism by pointing to the widespread human practice of "semantic etymologizing" (assigning meaning to parts of words without a valid linguistic basis), suggesting a natural proclivity to segment language even where no consistent internal structure exists.
+*   The transition from holophrastic communication to structured language might be explained by crossing the "symbolic threshold."
+*   Symbolic reference could have enabled the segmentation of holistic utterances while also imposing the constraints that led to the development of grammatical rules.
+
+## PART II - The Psychology of the Buddha
+
+### INTRODUCTION
+
+*   This study uses the working hypothesis that central claims of early Buddhist texts are true, not to prove the hypothesis, but to explore its implications for psychological theory.
+*   The primary claim from these texts is that a specific practice can lead to the end of both desire and psychological suffering, as outlined in the Four Noble Truths.
+*   The study focuses on the core teachings preserved in the oldest texts, which are considered more reliable than biographical legends about the Buddha. These texts predate organized monasticism, reflecting a time of isolated, mendicant practitioners.
+*   The goal is to find a psychological theory that can account for a conscious, enduring state free from suffering and desire.
+*   Neuroscience and evolutionary psychology are deemed insufficient for this task, as they cannot fully explain the experiential process described in the texts.
+*   Freud's psychoanalytic theory is chosen as a starting point because it uses experiential terms like 'desire' as functional elements.
+*   The study argues that the Buddhist claim of eliminating desire falsifies standard Freudian theory, which posits an inborn sexual instinct, thus showing the need for a revised theory.
+*   It advocates for a scientific, falsifiable approach to psychology (siding with Kandel over Nagel), seeking a testable theory rather than just an interpretive understanding.
+*   A new, skeletal theory will be constructed, inspired by Freud's metapsychology but omitting concepts irrelevant to an individual's solitary path (e.g., transference, Oedipus complex) to focus on the fundamental psychological "roots" the Buddhist texts claim to access.
+
+## OUTLINE OF A PSYCHOLOGICAL THEORY
+
+### §1 Fundamentals
+
+*   Human behavior is influenced by past experiences, which leave "memory traces" in the mind.
+*   A memory trace, when activated, can evoke a bodily state or "urge" associated with a past pleasurable experience.
+*   Multiple memory traces can integrate into a "trace unit," which creates a more sophisticated "map of the world" and directs urges more effectively.
+*   The organism seeks a state of equilibrium ("heterostasis"), where the satisfaction of urges is pleasurable and their excitation creates tension.
+*   Most traces integrate into a single large "main unit," which represents the person's overall reality assessment and directs the majority of their urges.
+*   "Attention" is a limited power supply that the main unit uses to selectively activate certain memory traces or focus on sensory inputs, at the expense of others.
+*   Traces linked to urges that are too threatening to the main unit are forcefully discarded by withdrawing attention from them.
+*   This process, similar to repression, prevents the dangerous trace from being integrated, keeping its content "unknown" and its associated urge misdirected.
+*   This creates two categories of mental content: those that are part of the main unit and can become conscious, and those that are excluded and resist becoming conscious.
+
+### §2 Comparison with Neurological Findings
+
+*   Consciousness is thought to be an integrative process involving the thalamus, brainstem, and cortex.
+*   Gerald M. Edelman and Giulio Tononi propose that consciousness arises from the integration of neuronal circuits through a process called "reentry." This integrated system is termed a "dynamic core."
+*   Unconscious processes may correspond to isolated "splinter cores" of neural activity that exist independently of the dynamic core, which is similar to the theory's concept of "trace units."
+*   The brain's "seeking system" operates without knowing its specific goal, relying on memory systems, which supports the theory's distinction between memory traces and associated urges.
+*   Antonio Damasio distinguishes between *emotions* (public bodily states) and *feelings* (private perceptions of those states), supporting the theory's separation of memory traces from their emotional charges.
+*   The finding that long-term memory can be "reconsolidated" or updated supports the idea that integrating memory traces can modify them.
+*   Studies of the brain's "default mode" show that focused attention curtails broad, tonic brain activity.
+*   Attention is controlled by a separate brain network from the one processing sensory input, with "top-down" (goal-directed) control usually being dominant over "bottom-up" (stimulus-driven) signals.
+
+### §3 Psychotherapy and its Obstacles
+
+*   Repressed urges interfere with the conscious "main unit," which uses bodily tension to counteract them, resulting in an equilibrium known as "character." Psychotherapy aims to integrate these repressed units to reduce discomfort.
+*   A primary obstacle is that to integrate a repressed memory, its associated emotional urge must be activated. This activation triggers a defensive reaction from the main unit, which reinforces the repression to prevent the urge's expression.
+*   Therapy can succeed in an ideal, safe environment where the patient's overall tension is low. Memories are recovered indirectly and at a low intensity, allowing the main unit to integrate them without feeling threatened.
+*   A complication arises when a patient and therapist create a new fantasy that resembles the repressed memory. This "intellectual" recovery has no therapeutic effect because the new image carries no emotional charge, and the original memory remains repressed.
+*   Partial cures can occur if a newly created fantasy absorbs some elements and emotional charge from the actual repressed memory.
+*   The fact that episodic memory is often a reconstruction, not a perfect recording, presents an additional challenge to recovering original memory traces.
+*   Successfully integrating one repressed memory can disrupt the psyche's overall equilibrium ("character"). This may unleash other, previously contained urges, causing the system to resist the change and revert to its former state, leading to relapse.
+
+### §4 A "Complete Cure"
+
+*   A "complete psychotherapeutic cure" is defined as the full integration of all repressed memory traces into the main conscious unit.
+*   Standard therapy is hindered because the mind can construct fantasies and not all urges are linked to specific memories.
+*   A complete cure requires three conditions to be met:
+    1.  **Minimal Bodily Tension:** The patient's tension must be reduced to an absolute minimum. This ideal state requires abstaining from "ordinary life" and future anticipation, which means the patient must be completely alone, even without a therapist.
+    2.  **Direct Identification of Urges:** A method is needed to identify urges without relying on memories. This is achieved by applying full awareness to all actions, thus eliminating the automated activities through which repressed urges often express themselves. In this state, the patient can use directed fantasies to evoke feelings (the mental signs of urges) and identify them.
+    3.  **A Single Therapeutic Session:** To prevent a relapse into the old mental equilibrium, the entire cure must be completed in a single session, establishing a new, stable mental state.
+*   This hypothetical patient and process align with the description of the ideal Buddhist practitioner in early texts.
+*   The instrument used to overcome repression is "absorption," an intense form of concentration.
+*   Absorption works by withdrawing attention from sensory input and memory traces, which prevents urges from being excited.
+*   In a state of absorption and minimal tension, the practitioner can safely explore and integrate all urges one by one, leading to a complete cure.
+
+### §5 The Theory Adapted
+
+*   Contrary to Freud's view of inherent mental conflict, this theory assumes a complete therapeutic cure is possible, meaning conflict is not inherent to the mind.
+*   It distinguishes between two types of urges:
+    *   **Independent urges:** Like hunger, they can activate on their own and have a clear nature.
+    *   **Dependent urges:** They are only activated when associated memory traces are triggered, and their aim is determined by past experiences of satisfaction.
+*   Sexuality is presented as a key dependent urge, with its form being shaped by early, selected experiences of satisfaction.
+*   The text proposes that the common element in all forms of sexual satisfaction, which Freud could not identify, is *concentration of the attention*.
+*   The core thesis is that pleasure, including sexual pleasure, arises from a state of concentrated attention called *absorption*.
+*   Memory traces record the object or event experienced during absorption, not the state of absorption itself, causing the urge to be directed toward recreating the experience with the object rather than seeking the state of absorption directly.
+*   A fully cured individual would understand that satisfaction comes from the state of absorption, not the external object, which would fundamentally change their behavior.
+
+### §6 The Theory Refined
+
+*   The fundamental principle of mental activity is the search for reduced bodily tension; reduction is experienced as pleasure, while an increase is experienced as unpleasure.
+*   Concentration can be pleasurable if it deactivates certain memory traces, leading to a reduced overall level of bodily tension. This state is called "absorption".
+*   Concentration is not always pleasurable because it can increase tension associated with the object of focus, or it may require recruiting extra bodily tension (e.g., through an act of will or in dangerous situations), raising the overall level.
+*   Examples of pleasurable absorption include listening to music or engaging in high-risk sports, where the intense focus reduces tension from other concerns.
+*   The form of concentration in early Buddhist texts is a "signless-absorption-of-mind" that is not directed at an object, uses an already lowered level of bodily tension, and is always pleasurable because it only reduces tension without exciting any urges.
+*   This "signless absorption" is not commonly pursued for two main reasons: it isn't recorded in memory traces which focus on objects/events, and by adulthood, bodily tension is already tied to existing concerns, making concentration difficult without an initial increase in tension.
+*   Buddhist preparatory practices like mindfulness and seclusion are a stratagem to lower initial tension, making "signless absorption" and its associated pleasure accessible.
+*   Many life goals are misguided because people pursue situations associated with past pleasure, not realizing the true source of pleasure was the state of absorption itself, not the situation.
+*   Absorption can be used to overcome repression by recalling memories in a low-tension state, allowing them to be "corrected" and integrated without resistance.
+
+### §7 Sexuality and Sublimation
+
+*   The text questions why the search for reduced bodily tension often leads to sexual behavior, acknowledging that hereditary factors play a role but focusing instead on environmental conditioning.
+*   Sexual organs and other erotogenic zones are rich in sensory nerves, making them natural objects of intense attention.
+*   The intense pleasure of orgasm is framed as the "greatest reduction of bodily tension," establishing the genitals as a primary focus for satisfaction.
+*   The concept of "sublimation" is used to question why the search for reduced tension leads to any activity at all, sexual or non-sexual (e.g., listening to music).
+*   Activities are driven by memory traces of past satisfaction, but for an activity to persist, it must provide *renewed* satisfaction in the present.
+*   The pleasure from sublimated activities comes from the state of absorption they induce. This absorption reduces overall bodily tension by diverting attention from other concerns.
+*   Present pleasure is not a transfer of past pleasure. As illustrated by Proust's madeleine example, the pleasure comes from the degree of absorption in the present moment of remembering, which can be far greater than the pleasure of the original event.
+
+### §8 The Result of a "Complete Cure"
+
+*   A "complete psychotherapeutic cure" involves integrating repressed memories, redirecting urges, and changing the reality assessment of memory traces.
+*   After the cure, the organism understands that past satisfaction came from states of reduced bodily tension (absorption) and seeks to re-establish these states directly, abandoning worldly goals.
+*   A key consequence is the complete absence of sexual desire, as it is considered a "dependent" urge linked to recorded objects and activities rather than an intrinsic need.
+*   This aligns with early Buddhist texts, which state that desire can be eliminated, not just suppressed.
+*   All attachments to people, things, and states of affairs cease, with the partial exception of "independent" urges like hunger and thirst, which can be managed through absorption.
+*   The final state is one of permanent mental peace, not bliss, as pleasure is experienced during the reduction of tension, not in a stable state of low tension.
+*   Neurologically, the brain of someone who has undergone this cure, like the Buddha, would likely not show major structural changes (like an "enlightenment bump") because the final transformation can be rapid.
+*   However, functional changes would be expected; one speculation is that the "splinter cores" of the brain (representing the unconscious) would become integrated into the main "dynamic core".
+
+### Summary and Concluding Reflections
+
+*   The mind seeks pleasure by trying to recreate situations associated with past pleasurable experiences, but it doesn't understand that the true source of pleasure is the discharge of bodily tension.
+*   A hypothetical person who understands this and could "convince" their memories otherwise would be free from normal desires, similar to a successful Buddhist practitioner.
+*   The mind consists of memory traces linked to bodily urges; when a trace is activated (by thoughts or external events), its urge is excited, creating bodily tension.
+*   Attention is a finite resource; directing it, especially through absorption, can reduce the activation of memory traces, lower overall bodily tension, and thus create pleasure.
+*   Conflicts between urges can lead to repression, where a dominant trace unit blocks others, creating an equilibrium of repressed and active units in the mind.
+*   Accessing and integrating repressed memories is possible by reducing overall bodily tension through social isolation and mental absorption.
+*   The theory is testable through experiments on concepts like the finite nature of attention, the existence of a measurable bodily tension, the link between absorption and pleasure, and the role of memory traces in motivation.
+*   The theory suggests two types of pleasure (from seclusion and from absorption) which may correspond to the brain's opioid and dopamine systems, respectively.
+*   A potential evolutionary criticism is the lack of a fixed sexual instinct; however, the theory argues that this motivational flexibility allowed for the development of human culture, which has significant survival value.
+
+### Appendix 1: The Main Texts With a Psychological Commentary
+
+*   This appendix presents key passages from early Buddhist texts.
+*   The passages are taken from the Buddhist canon preserved in the Pali language.
+*   While other versions exist, the differences are considered insignificant for this investigation.
+*   The text uses existing translations that have been adjusted to avoid unnecessary Indian expressions and to ensure consistent translation of key terms.
+
+### §1 The Path of Liberation as a Whole
+
+*   The path begins when a Buddha appears, teaches the Dhamma, and a follower gains faith.
+*   The follower renounces household life, becoming a monk to lead a pure life.
+*   The monk undertakes training in virtue, abstaining from killing, stealing, incelibacy, and wrong speech (false, malicious, harsh, and gossip).
+*   They practice contentment with minimal possessions, like a bird with its wings.
+*   The monk guards their six sense faculties (eye, ear, nose, tongue, body, mind) to prevent unwholesome states like covetousness and grief.
+*   They cultivate full awareness in all actions, such as walking, eating, and talking.
+*   Equipped with virtue, sense restraint, and mindfulness, they seek a secluded place for meditation.
+*   In meditation, they abandon the five hindrances: covetousness, ill will, sloth and torpor, restlessness and remorse, and doubt.
+*   They then enter and abide in the four stages of meditation (jhanas), which are states of deep absorption and concentration.
+*   With a purified and concentrated mind, they gain direct knowledge of suffering, its origin, its cessation, and the path, thereby destroying the "taints" of sensual desire, being, and ignorance.
+*   Upon seeing this, their mind is liberated, and they know that the cycle of birth is ended.
+
+### §2 Guiding One's Thoughts
+
+*   The Buddha describes a practice of dividing thoughts into two classes: unwholesome (sensual desire, ill will, cruelty) and wholesome (renunciation, non-ill will, non-cruelty).
+*   When unwholesome thoughts arose, he would reflect on how they lead to affliction and obstruct wisdom, causing them to subside so he could abandon them.
+*   When wholesome thoughts arose, he would still steady and concentrate his mind to avoid the fatigue and disturbance that comes from excessive pondering, which hinders absorption.
+*   The text states that whatever a person frequently thinks about will become the inclination of their mind.
+*   The preference for wholesome thoughts is less about morality and more about the practical goal of reducing tension by not activating urges.
+*   Psychologically, this works because reactivating memory traces (by thinking about them) makes them more strongly entrenched in the mind.
+
+### §3 Avoiding Hunger
+
+*   Hunger is an "independent urge" that can activate its own memory traces, unlike other urges that require an external trigger.
+*   Early Buddhist practitioners aimed to eliminate all disturbing factors, so they appeased hunger by eating, a practice that was not self-evident in that ascetic period.
+*   The Buddha-to-be initially tried and failed to reach his goal through extreme methods, including abstinence from food.
+*   He recalled a childhood memory of naturally entering a meditative state while comfortable and well-fed, leading him to realize that extreme emaciation was an obstacle.
+*   He decided to eat solid food to regain his strength, which then enabled him to enter the first stage of meditation.
+*   The passage shows that silencing hunger and physical discomfort was a final, crucial step for the Buddha, and suggests that meditation can occur naturally in a state of relaxed seclusion.
+
+### §4 Awareness
+
+*   Awareness is part of the path to liberation and should be practised during daily activities as well as during formal meditation.
+*   The practice involves understanding the body's disposition at any given moment, such as knowing "I am walking" when walking, or "I am standing" when standing.
+
+### §5 Mindfulness
+
+*   Mindfulness is presented as the direct path to purification and the realisation of Nibbana, through the four foundations of mindfulness.
+*   The four foundations are:
+    *   **Contemplating the body as a body:** Being mindful of the breath (long or short).
+    *   **Contemplating feelings as feelings:** Understanding whether a feeling is pleasant, painful, or neutral, and whether it is worldly or unworldly.
+    *   **Contemplating mind as mind:** Understanding the mind's state, such as whether it is affected by lust, hate, or delusion, or if it is concentrated or liberated.
+    *   **Contemplating mind-objects as mind-objects:** Understanding the five hindrances (e.g., sensual desire, ill will, doubt), their presence or absence, and how they arise and are abandoned.
+*   Mindfulness serves two psychological purposes: it limits activity to conscious activity to prevent repressed urges from being expressed, and it allows these urges to arise as feelings which can then be observed and located.
+*   The practice of mindful contemplation, when investigated with wisdom, leads to a progression: tireless energy is aroused, which leads to rapture, then tranquility, then concentration, and finally equanimity.
+
+### §6 Fear of Being Alone
+
+*   A person who leaves human company must overcome the fear of being alone, especially at night.
+*   The text recounts the Buddha-to-be's experience of confronting fear before his enlightenment.
+*   He deliberately stayed in "awe-inspiring, horrifying" places like woodland shrines on specific nights to encounter fear.
+*   When fear arose from sounds like an animal, a falling branch, or rustling leaves, he resolved to subdue it without changing his posture (whether he was walking, standing, sitting, or lying down).
+*   The passage advises practitioners not to avoid situations that might cause fear, but to remain concentrated and observe the emotion without panicking.
+*   This practice of not avoiding danger helps abandon "anticipating the future," which reduces bodily tension.
+
+### §7 Who Succeeds?
+
+*   In a dialogue, a brahmin asks the Buddha why some of his disciples attain Nibbana (the ultimate goal) while others do not, even though the path exists and the Buddha is the guide.
+*   The Buddha responds with an analogy: he is like a person who shows the correct road to a city. If a traveller is shown the way but takes a wrong turn, the guide is not at fault.
+*   The Buddha states, "The Buddha is one who shows the way," implying that it is up to the individual disciple to follow the path correctly.
+*   The text concludes that reaching the goal was considered exceptional, not the norm for all disciples.
+*   Even the Buddha's personal attendant, Ananda, is said to have been among those who did not succeed, although a later legend claims he did.
+
+### §8 The Liberated Person
+
+*   The Buddha was considered free from psychological suffering but not physical suffering, though the distinction can be ambiguous.
+*   He described his old body as being like an old cart held together with straps.
+*   He found comfort from bodily pain by withdrawing his attention from sensory input and entering a "signless-absorption-of-mind".
+*   This method did not cure the body, as he said this shortly before his death.
+*   Numerous passages depict the Buddha spending his afternoons in seclusion and absorption, which is described as a state in which he constantly abided.
+
+### Appendix 2: Absorption and Pleasure in Mysticism AND Meditation
+
+*   Mystical and meditative experiences are often described with terms of both absorption (concentration, attention) and pleasure (joy, rapture, ecstasy).
+*   Many researchers, like William James and John Horgan, tend to prioritize the knowledge or "noetic" quality of these experiences over the accompanying feelings of pleasure.
+*   Abraham Maslow's "peak-experiences" are characterized by intense concentration ("total attention" or "complete absorption") which is accompanied by joy, bliss, and ecstasy.
+*   Mihaly Csikszentmihalyi's concept of "flow" describes how deep, effortless concentration on a task brings enjoyment by removing worries and frustrations from awareness.
+*   B. Alan Wallace writes that achieving the meditative state of *shamatha* involves an extraordinary sense of physical and mental bliss, which captivates the attention before it settles.
+*   Evelyn Underhill's study on mysticism observes that ecstatic states involve complete concentration, but she views the ecstasy as a secondary psycho-physical condition, not as a direct result of the concentration.
+*   Marghanita Laski identifies two types of ecstasy, "withdrawal" and "intensity," which the text links to pleasure from the removal of tension and pleasure from absorption, respectively.
+*   Felicitas D. Goodman notes that concentration is a necessary physical preparation to switch from an ordinary state to an ecstatic one.
+
+### Appendix 3: Psychology and Free Will
+
+*   The debate between free will and determinism is a major philosophical problem.
+*   Many psychologists, such as Daniel M. Wegner, argue that conscious will is an illusion or an epiphenomenon with no causal role in behavior.
+*   A major difficulty with this view is explaining the evolutionary purpose of experiences like pleasure and pain if they cannot influence behavior.
+*   An alternative psychological approach includes experiential elements, like conscious decisions, as functional parts of the causal chain.
+*   Within this framework, choices are still part of a deterministic process, but conscious deliberations are seen as real, causally effective components of that process.
+*   This resolves the main conflict by satisfying the conviction that our decisions are real and have causal efficacy, making the philosophical problem of free will less critical.

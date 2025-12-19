@@ -1,0 +1,37 @@
+---
+title: Johannes Bronkhorst - The Mahābhārata and the Revival of Brahmanism
+sidebar:
+  label: Bronkhorst - The Mahābhārata and the Revival of Brahmanism
+hero:
+  title: The Mahābhārata and the Revival of Brahmanism
+  tagline: Johannes Bronkhorst, J Indian Philos (2017) 45:575–585
+categories:
+- article
+- summary
+tags:
+- Mahābhārata
+- Brahmanism
+- Brahmins
+- Maurya empire
+- Nanda dynasty
+- Magadha
+- āśrama
+- agrahāra
+- Asceticism
+- Socio-political ideology
+- Vedic culture
+- Rebirth
+- Karmic retribution
+- Buddhism
+- Sanskrit cosmopolis
+- Gift of land
+---
+
+*   Brahmanism was initially a geographically limited priestly culture in the Gangetic plain, where brahmins were supported by local rulers for their sacrificial traditions.
+*   The rise of the Nanda and Maurya empires from Magadha, a region outside the Brahmanical heartland, threatened this system as these rulers had no interest in brahminical sacrifices.
+*   In response, Brahmanism transformed from a priestly religion into a socio-political ideology that could spread across India and Southeast Asia, creating a "Sanskrit cosmopolis."
+*   The *Mahābhārata* was a key instrument in this project, designed to promote the new Brahmanical worldview to a wider audience, including non-brahmins.
+*   To compete with popular ascetic movements from "Greater Magadha" (like Buddhism and Jainism), Brahmanism introduced the non-Vedic concept of the *āśrama* (hermitage).
+*   *Āśramas* depicted brahmins as ideal ascetics, living frugally and independently in forests, which helped them attract patronage from rulers and wealthy donors.
+*   These literary *āśramas* were likely the ideological counterpart to *agrahāras*—actual gifts of land or villages to brahmins. By not acknowledging them as gifts, brahmins maintained a public image of self-sufficiency and inherent authority.
+*   Brahmanism also incorporated a competing ascetic model from Greater Magadha—the begging mendicant seeking liberation (*mokṣa*). The *Mahābhārata* presents both the self-sufficient forest-dweller and the begging mendicant, which later texts would organize into sequential stages of life.

@@ -1,0 +1,628 @@
+---
+title: Johannes Bronkhorst - A Śabda Reader - Language in Classical Indian Thought
+sidebar:
+  label: Bronkhorst - A Śabda Reader
+hero:
+  title: A Śabda Reader
+  tagline: Language in Classical Indian Thought, Historical Sourcebooks in Classical Indian Thought, Johannes Bronkhorst, Columbia University Press (2019)
+categories:
+- book
+- summary
+tags:
+- Śabda
+- Language in Classical Indian Thought
+- Indian philosophy of language
+- Sanskrit
+- Veda
+- Brahmanism
+- Buddhist philosophy
+- Jainism
+- Mimamsa
+- Vedanta
+- Nyaya
+- Vaisheshika
+- Samkhya
+- Vyākaraṇa (Grammar)
+- Nirukta (Etymology)
+- Panini
+- Patanjali
+- Bhartrihari
+- Shabara
+- Nagarjuna
+- Dignaga
+- Kumarila Bhatta
+- Shankara
+- Sphota
+- Apoha
+- Bhāvanā (productive energy)
+- Śābdabodha (verbal cognition)
+- Language and reality
+- Semantics
+- Epistemology
+- Ontology
+- Hermeneutics
+- Mantra
+- Eternality of words
+- Anvitābhidhāna
+- Abhihitānvaya
+- Satkāryavāda
+- Correspondence principle
+- Vikalpa (conceptual construct)
+---
+
+*   Topics covered include the Brahmanical background, Buddhist thought, the grammarian Patañjali, the special place of Sanskrit and the Veda, self-contradictory sentences, the effect of words on cognition, and the relationship between words and sentences.
+*   The editor's preface states that the book presents Indian thought on language on its own terms, rather than focusing on topics relevant to modern philosophy.
+
+# PART I - Introduction
+
+## General Observations About Philosophy in India
+
+*   It is a mistake to view ancient Indian philosophers through a modern lens, as their cultural beliefs and "mental equipment" were profoundly different.
+*   A core presupposition in classical Indian philosophy, unlike in early modern Europe, was the deep and essential link between language and reality.
+*   The two main philosophical traditions, Brahmanism and Buddhism, both approached language with strong, though different, prior convictions.
+*   **Brahmanism**:
+    *   Believed that sacred formulas (mantras) from the Veda, when recited correctly in Sanskrit, could directly affect the world without human intermediaries.
+    *   Viewed Sanskrit as the only correct language with a natural, intimate link to reality, even believing the world was created from the words of the Veda.
+    *   Considered the Veda to be authorless, eternal, and pure speech, making its statements inherently reliable.
+*   **Buddhism**:
+    *   Initially, language was not a central concern, but a later philosophy developed that viewed the world as made of momentary constituents called *dharmas*.
+    *   In this view, only *dharmas* truly exist; familiar objects like houses and chariots are unreal.
+    *   Language is what tricks us into believing in this unreal world of objects, which are ultimately "nothing but words."
+*   **Interaction and Convergence**:
+    *   Despite different starting points, both traditions concluded that language created our common-sense world.
+    *   For Brahmans, language (Sanskrit) was close to the *real* world; for Buddhists, language was close to the *unreal*, imaginary world.
+    *   The traditions later influenced each other, with Brahmanism borrowing key concepts. For example, the idea that linguistic units (like words) are real, existing entities was adopted from Buddhist ontology, leading to the Brahmanical concept of the *sphota*.
+
+# CHAPTER ONE - The Brahmanical Background
+
+*   The high status of Brahmans in Indian society is justified by their possession and knowledge of the Veda, a large literary corpus.
+*   The Veda contains mantras, which are power formulas believed to affect reality when uttered correctly by the right person in the right ritual context.
+*   The Veda also contains brāhmaṇa texts, which establish hidden connections between different items based on the phonetic similarity of their names, reinforcing the belief that language and reality are intrinsically linked.
+*   The need for correct pronunciation of mantras led to the development of sophisticated phonetic analysis to preserve the sounds of Sanskrit.
+*   A debate arose on whether mantras have literal meaning. Kautsa argued they do not, while Yāska, in his *Nirukta* (Etymology), argued they do. Later schools, like Mīmāṃsā, debated whether mantras were *intended* to be meaningful in rituals, even if they could be interpreted.
+*   The discipline of grammar (vyākaraṇa), exemplified by Pāṇini's *Aṣṭādhyāyī*, emerged from the idea that words are composed of minimal meaning-bearing parts. It shows how correct Sanskrit words are formed, providing a tool to maintain the language's purity and power.
+*   Etymology (nirukta) was developed as a complement to grammar, explaining meaningful similarities between words that grammar could not. It was used to discover the meaning of unknown words by comparing them to similar-sounding ones.
+*   Individual speech sounds and the process of joining words (sandhi) were also seen as having deep, mystical significance, connecting them to cosmic elements.
+*   The core Brahmanical belief that language and reality are deeply connected, and that mastery over language grants power over the world, has remained a constant principle.
+
+### THE SCHOLASTIC REVOLUTION
+
+*   Early systematic efforts in Indian linguistics, like Panini's Grammar, came to a halt following major political changes around 185 BCE, including the collapse of the Maurya Empire and the rise of Greek rule in Gandhara.
+*   The interaction between Buddhists and Greeks in Gandhara sparked a creative and systematic rethinking of Buddhist philosophy.
+*   This new philosophy held that the world of experience is not real; it is constituted of countless, momentary, minute elements called *dharmas*.
+*   These scholiasts maintained that only *dharmas* truly exist, while composite objects like chariots or people are not real.
+*   They argued that language misleads us into believing in these unreal objects, which are ultimately "nothing but names."
+*   To preserve the reality of the Buddha's words, they posited that linguistic units (words, sentences, sounds) were themselves a special category of *dharmas*.
+
+### THE PERFECTION OF WISDOM
+
+*   This school of thought built on the scholastic idea that the world of our experience is not ultimately real and is a creation of language.
+*   Mahayana Buddhism emphasizes the "Perfection of Wisdom" (*prajñāpāramitā*), which involves seeing through the unreality created by words.
+*   Early Mahayana texts, like the *Aṣtasāhasrikā Prajñāpāramitā*, highlight the nonexistence or "emptiness" of all things that are not *dharmas*, including core Buddhist concepts like *bodhisattvas*.
+*   These texts exhibit a radical tendency, going further than the scholiasts by rejecting the existence of words themselves.
+*   Some texts extend this radicalism to deny the existence of *dharmas* as well, concluding that everything is ultimately empty or nonexistent.
+
+### NAGARJUNA
+
+*   Nagarjuna (c. 2nd century CE) sought to prove that the common-sense world cannot exist because it is inherently contradictory.
+*   He used the "correspondence principle"—the idea that words in a true statement must correspond to real items—to show contradictions in statements describing change or causality.
+*   For example, the statement "the potter makes a pot" is contradictory because if the pot already existed, it would not need to be made, but if it doesn't exist, the word "pot" has nothing to refer to.
+*   Other Buddhist schools offered different solutions: the Sarvastivadins claimed that past, present, and future things all exist simultaneously, while others argued that words only correspond to conventional experience, not the deeper reality of *dharmas*.
+*   This solidified the Buddhist concept of two levels of reality: a "relative reality" created by words and a "highest reality" accessible only through spiritual perfection.
+
+# CHAPTER THREE - The Grammarian Patanjali
+
+*   Patanjali, author of the *Great Grammatical Commentary* (*Mahābhāṣya*), lived around half a century after the Maurya Empire's collapse, likely in Kashmir, where he would have been in contact with Buddhist thinkers.
+*   Influenced by Buddhist scholasticism, he viewed words and speech sounds as independently existing, eternal entities, unlike his predecessors who focused on morphemes as the basic elements of grammar.
+*   For Patanjali, words are eternal and unchangeable. The process of derivation is not the modification of parts but the mental replacement of one whole word with another.
+*   This belief in the eternality of words changed the purpose of grammar from uncovering hidden links between meanings to simply distinguishing between correct and incorrect words.
+*   He did not recognize Panini's distinctions between preferred and non-preferred optional forms; for him, all correct words were equally valid, even if some were rarely used or only used by foreigners.
+*   Patanjali proposed that the purpose of using correct words was to gain merit, and that the merit from knowing correct words would cancel out the demerit from knowing incorrect ones.
+*   He acknowledged that incorrect words are corruptions of correct words but can still express the intended meaning.
+*   Patanjali argued that eternal words must refer to eternal things, and ambiguously concluded that a word refers to whichever aspect (the individual "substance" or the general "form") is considered eternal.
+*   He imposed a new rule on grammatical derivations: each step must be fully determined only by the immediately preceding stage. This model, which created many technical complications, mirrors the linear, step-by-step causal scheme central to the philosophy of his Buddhist contemporaries.
+
+## CHAPTER FOUR - The Special Place of Sanskrit and the Veda
+
+*   In Brahmanism, the Mimamsa school (Vedic Interpretation) held that Sanskrit was the eternal, authorless language of the Veda.
+*   Because the Veda has no author, it is considered a pure and uncontaminated expression of language, free from human error or deceit.
+*   The Mimamsa school developed principles to correctly interpret the Veda, which was seen as the perfect manifestation of Sanskrit.
+
+### SINGLE WORDS AS SOURCE OF KNOWLEDGE
+
+*   Early Brahmanical thinkers believed in a direct correspondence between Sanskrit words and the real world.
+*   The Vaisheshika school of philosophy based its core categories of reality—substance, quality, and action—on Patanjali's classification of Sanskrit words into nouns, adjectives, and verbs.
+*   It was initially believed that the existence of a Sanskrit word (e.g., for "heaven" or "deity") guaranteed the existence of the thing it denoted.
+*   The commentator Shabara (c. 5th century CE) later rejected this idea, abandoning individual words as a reliable source of knowledge about the world.
+*   The Vaisheshika system, however, continued to argue for the existence of entities like the soul and time based on the existence of corresponding pronouns and words in Sanskrit.
+
+### SENTENCES AS SOURCE OF KNOWLEDGE
+
+*   After rejecting individual words, the Mimamsa school focused on Vedic sentences as the exclusive source of reliable knowledge.
+*   The central principle was to find the "nearest meaning" of a sentence, the most direct interpretation requiring the minimum number of mental steps, as the human mind was seen as a potential source of error.
+*   This led to the doctrine of "self-sufficient validity of valid cognition" (svatahprāmānya), which holds that cognitions are inherently correct unless interfered with.
+*   The Veda's purity was protected by the dogma that it is eternal and authorless, untouched by any mind in its composition or interpretation.
+*   When a direct interpretation conflicted with experience or the Veda's timelessness, a secondary, metaphorical interpretation was used.
+*   Ultimately, only injunctions (commands for ritual) were interpreted literally, as they convey knowledge unobtainable by any other means.
+
+### VEDANTA
+
+*   Vedanta thinkers argued that the Veda provides knowledge not just of ritual, but also of the highest reality, Brahma.
+*   They adopted the principles of Vedic Interpretation, claiming to apply them more correctly than the ritual-focused Mimamsa school.
+*   The philosopher Shankara argued that statements about Brahma must be taken literally, just like injunctions, because Brahma cannot be known through any other means of knowledge.
+*   Shankara presented himself as a champion of Vedic Interpretation's principles, using them to argue that gods have bodies and other positions rejected by earlier interpreters like Shabara.
+*   In his view, liberation is attained through the knowledge gained from an unbiased confrontation with Upanishadic texts, though he also acknowledged that preparatory moral and intellectual virtues are required.
+
+### BHARTRIHARI
+
+*   The philosopher and grammarian Bhartrihari (c. 5th century CE) viewed the common-sense world as ultimately unreal and shaped by language.
+*   In contrast to Buddhist thought, he argued that language does not build up reality from parts, but rather divides an essentially undivided whole, which he called Brahma.
+*   For Bhartrihari, the whole is real while its parts are not; therefore, only the complete sentence is real, not the individual words within it.
+*   This principle extends to ultimate reality, where Brahma is the totality of all existence, a single, real entity, and the phenomenal world consists of its unreal parts.
+
+### LANGUAGE AS A MEANS OF VALID COGNITION
+
+*   After abandoning the reliability of individual words, Vedic Interpreters maintained that language (śabda), in the form of sentences, was an independent means of valid cognition.
+*   This raised the issue of non-Vedic sentences, which could be false or misleading, leading some thinkers to introduce the reliability of the speaker as a necessary condition.
+*   Buddhist thinkers were more skeptical, often treating verbal statements not as direct knowledge but as a basis for inference about the speaker's beliefs.
+
+### THE ROOT LANGUAGE IN BUDDHISM AND JAINISM
+
+*   To compete with Brahmanism's Sanskrit, other religions made special claims for their own scriptural languages.
+*   Some Buddhists claimed their scriptural language was a form of Sanskrit, while others claimed Pali (called Magadhi) was the original root of all languages.
+*   Shvetambara Jains held that Ardha-Magadhi was the root language of humanity.
+*   Digambara Jains proposed that their founder did not speak in any language but emitted a "divine sound" (divyadhvani), which was then translated by his followers, thus avoiding the imperfections inherent in language.
+
+# CHAPTER FIVE - Self-Contradictory Sentences
+
+*   The "problem of origination" arose from sentences like "the potter makes a pot," which were considered self-contradictory based on the principle that words in a true statement must correspond to real items.
+*   This problem was more serious for Brahmanical thinkers, who believed in the reality of the common-sense world, than for Buddhists, who generally denied it.
+*   The philosophical divide was influenced by practical roles: Brahmans advised rulers on real-world politics, anchoring their philosophy in reality, while Buddhists focused on spiritual matters, making it easier to deny worldly reality.
+*   Brahmanical schools proposed several solutions:
+    *   **Samkhya (satkāryavāda):** The effect (pot) pre-exists within its cause (clay).
+    *   **Nyaya (asatkāryavāda):** The effect does not pre-exist; the word "pot" refers to the agent's intention, a mental concept, or the eternal universal "pot-ness".
+*   The Jainas proposed the **anekāntavāda** (doctrine of manifold reality), where the pot simultaneously exists (as clay) and does not exist (in its final form).
+*   Later Brahmanical thinkers moved away from affirming worldly reality:
+    *   **Shankara's Vedanta** adopted *satkāryavāda* but denied the ultimate reality of the world.
+    *   **Gaudapada's Āgamaśāstra** proposed **ajātivāda** (doctrine of no arising), stating that nothing is ever produced at all.
+*   Bhartrihari suggested that the word "pot" refers to a "metaphorical existence".
+*   Buddhist thinkers had several solutions:
+    *   **Sarvastivadins (sarvāstivāda):** Future objects already exist in the present.
+    *   **Nagarjuna (śūnyavāda):** All is empty, so the problem dissolves.
+    *   **Dignaga (apohavāda):** Words do not denote things directly but work by exclusion (e.g., "pot" excludes all non-pots), thereby abandoning the strict correspondence principle.
+
+# CHAPTER SIX - Do Words Affect Cognition?
+
+*   Buddhism proposes two realities: a "common-sense" reality created by words, which is ultimately unreal, and a "higher" reality accessible through spiritual perfection.
+*   This leads to two forms of cognition: one based on conceptual constructs (words), which is unreliable, and a higher form free from these constructs, which sees the world as it truly is.
+*   Brahmanical thinkers, influenced by this, had to reconcile it with their belief that the world of words is ultimately real.
+*   The Brahmanical thinker Bhartrihari argued that our world corresponds to language, making Vedic injunctions and morality part of objective reality.
+*   The Buddhist thinker Dignaga took a radical stance, stating that perception and language concern different worlds: perception deals with particulars (which words cannot designate), while words refer to universals (which are not real and cannot be perceived).
+
+# CHAPTER SEVEN - Words and Sentences
+
+*   The relationship between word meaning and sentence meaning has been a central question in Indian thought, with four main positions emerging.
+*   A collection of words requires "mutual expectancy" (ākā̄kṣā) to form a sentence. Later thinkers added requirements like suitability (yogyatā) and proximity (saṃnidhi).
+*   The Prabhakara school argued for "expression of connected meanings" (anvitābhidhāna), where words themselves express their connections, and the sentence adds nothing new.
+*   The Kumarila Bhatta school proposed "connection of what has been expressed" (abhihitānnaya), where words express individual meanings and the sentence connects and adds to them. This was the more popular view.
+*   A third view, suggested by Bhartrihari, is that the sentence meaning is a unique entity, separate from the sum of word meanings.
+*   A fourth view, from grammarians Bhattoji Dikshita and Kaunda Bhatta, used the *sphota* theory to argue that a sentence is a single, indivisible meaning-bearer with a meaning independent of its constituent words.
+*   Kumarila's school (Vedic Interpreters) identified the verbal ending, meaning "productive energy" (bhāvanā), as the central element of a sentence, which is qualified by other words.
+*   The Navya-Nyaya school (Logicians) argued that the agent (the word with the nominative ending) is the central element of the sentence.
+*   Later Grammarians, following Panini, held that the verbal root (the activity itself) is the central element of the sentence.
+
+# CHAPTER EIGHT - Other Denotative Functions of the Word
+
+*   Brahmanical thought initially favoured a direct correspondence between words and things, but thinkers acknowledged that words have more than one expressive function.
+*   Words can have a secondary meaning, as seen in phrases like "the tribal called Vahika is a cow," where "cow" is not used literally.
+*   The Mīmāṃsā scholar Shabara recognized that words can have primary and secondary meanings (e.g., *yava* for barley and long peppers) but warned against applying secondary meanings when interpreting the Veda.
+*   In non-Vedic literature like poetry, which aims to evoke emotions, a new theory was proposed by Anandavardhana called *dhvani* ("suggestion"), adding a third expressive function to words.
+*   This theory was not universally accepted; thinkers like Mukula Bhatta argued that the primary and secondary functions of words were sufficient to account for all uses, including poetic suggestion.
+
+# PART II - Reader
+
+## CHAPTER ONE - The Brahmanical Background
+
+### 1.1. SIMILAR WORDS REFER TO CONNECTED THINGS
+
+*   In Brahmanical texts, it is believed that words with similar sounds refer to related concepts or objects.
+*   Examples include linking the sacrificial post (*yūpa*) to the act of obstructing (*ayopayan*), and connecting the sacrificial fee (*dakṣinaā*), the right hand (*dakṣinaḥ*), and fitness (*dakṣa*).
+*   These connections are often explained through mythological tales.
+
+### 1.2. DO MANTRAS EXPRESS MEANING?
+
+*   Ancient texts like Yaska's *Nirukta* and Shabara's *Mīmāṃsābhāṣya* debate whether mantras are meaningful or are merely for recitation.
+*   Arguments against mantras having meaning include their fixed word order, repetition of their content in brāhmaṇa texts, and the presence of impossible, contradictory, or unclear meanings.
+*   Yaska refutes these points, arguing that mantras use ordinary words and that apparent contradictions or impossibilities can be found in everyday language as well.
+*   Shabara's opponent argues not that mantras lack meaning, but that they are not *intended* to express meaning during a sacrifice.
+*   A later argument, not found in Yaska, is that mantras cannot refer to historical events because the Veda is considered eternal and without a beginning.
+
+### 1.3. A PANINIAN DERIVATION
+
+*   The text illustrates the derivation of the Sanskrit verbal form *bhavati* ("he/she/it is") using Panini's grammatical rules.
+*   The process is highly structured, starting with semantic elements like "being," "agent," and "present tense."
+*   These elements are assigned linguistic components (*bhū* + *ti*), which are then modified by a series of precise phonological and morphological rules to produce the final word.
+
+### 1.4. DIFFERENCE BETWEEN GRAMMAR AND ETYMOLOGY
+
+*   According to Yaska's *Nirukta*, grammar explains words with regular formation, where accent and structure align with meaning.
+*   Etymology attempts to find derivations for all words, even irregular ones, by seeking similarities in meaning, syllables, or single sounds if a regular grammatical derivation is not possible.
+*   A key debate is presented between etymologists, who believe all nouns derive from verbs, and some grammarians, who argue that many words are simply conventional.
+*   Objections to the etymologists' view include that different things performing the same action don't share a name, and that an object's name shouldn't derive from an activity it performs after it already exists.
+
+### 1.5. MYSTICAL SPECULATIONS ABOUT SPEECH SOUNDS
+
+*   Late Vedic texts attribute secret, mystical significance to speech sounds and their combinations (*saṃhitā*).
+*   The junction of words is symbolically linked to cosmic elements like earth, sky, wind, and rain, as well as to the self (speech, mind, breath).
+*   Some Upanishads explain words by assigning specific meanings to their constituent syllables, such as analyzing *hṛdayam* ("heart") and *satyam* ("truth").
+*   Speech sounds themselves are associated with deities: vowels with Indra, spirants with Prajapati, and stops with Death.
+*   Later Tantric texts, like the *Tantrāloka*, describe the creation of the universe as a manifestation of the Sanskrit alphabet, showing a persistent belief in the deep connection between language and reality.
+
+## CHAPTER TWO - Buddhist Thought - Source of Inspiration
+
+### 2.1. THINGS ARE NOTHING BUT WORDS
+
+*   In the *Questions of King Milinda*, the monk Nagasena argues that a person's name, like "Nagasena," is just a conventional designation for a collection of parts, not a real, independent person.
+*   He uses the analogy of a chariot, which is not identical to any of its components nor separate from them, but is a name applied to the assembled parts.
+*   Vasubandhu's *Abhidharmakośabhāsya* distinguishes between conventional truth (e.g., a jar, which ceases to be a jar when broken) and ultimate truth (e.g., color, which exists even at the atomic level).
+*   It outlines three types of wisdom: wisdom from hearing (based on names), from reflection (based on names and things), and from meditation (based on things themselves, independent of language).
+*   The *Aṣtasāhasrikā Prajñāpāramitā* extends this idea, arguing that not only are conventional things like a "bodhisattva" mere names, but the names themselves, and ultimately all dharmas (fundamental constituents of reality), do not truly exist.
+
+### 2.2. WHAT ARE WORDS?
+
+#### Vasubandhu
+
+*   In his *Commentary on the Treasury of Scholasticism*, Vasubandhu questions the real existence of linguistic dharmas (collections of names, phrases, and phonemes).
+*   He argues that since speech sounds occur sequentially, they cannot form a coexisting whole to convey meaning.
+*   He presents arguments suggesting that linguistic units are mere designations, not independently real things, contrasting this with the Sarvastivadin view that they are real.
+
+#### Patanjali
+
+*   The text notes that Patanjali's *Great Commentary* was influenced by the Buddhist thought of his time regarding the nature of the word.
+
+#### Yogaśāstra
+
+*   It describes the confusion between words, their objects, and the notions they create, which are superimposed on one another.
+*   A word is presented as a single, partless mental notion that is grasped as a whole and conveys meaning by convention, independent of the sequence of its constituent sounds.
+
+#### Bhartrihari
+
+*   In his *Treatise on Sentences and Words*, he introduces the concept of *sphoṭa*: a single, partless linguistic unit (word or sentence) that exists in the mind.
+*   This mental *sphoṭa* is the true conveyor of meaning and is merely manifested by the sequence of audible sounds.
+*   He argues that the sentence is the primary unitary entity, and words are just conceptual, unreal divisions of it, much like stems and suffixes are unreal divisions of a word.
+
+#### Kumarila Bhatta
+
+*   Argues against the *sphoṭa* theory, asserting that only individual speech sounds are real, perceptible, and partless.
+*   He views meaningful words not as separate entities but simply as collections of these real speech sounds.
+
+#### Shankara
+
+*   Presents and then refutes the *sphoṭa* theory, arguing it is an unnecessary assumption.
+*   He maintains that speech sounds are eternal (as they are recognized upon each hearing) and that variations in pronunciation are incidental.
+*   Meaning is understood from the combination of the final speech sound and the memory impressions of the preceding sounds in their correct sequence.
+
+#### Mandana Mishra
+
+*   Defends the *sphoṭa* theory against Kumarila, arguing that sequential and non-coexisting speech sounds cannot account for the understanding of meaning.
+*   He concludes that a single, partless entity—the *sphoṭa*—must be postulated as the true, indivisible conveyor of the meaning of a word or sentence.
+
+#### Jayanta Bhatta
+
+*   Presents a detailed debate on the *sphoṭa* from the Nyāya perspective.
+*   The Nyāya position refutes the *sphoṭa*, arguing that a collection of sequential items (like speech sounds) can produce a single effect, just as sequential mouthfuls of food lead to a single feeling of satiety.
+*   He argues that a final, collective mental cognition of all the speech sounds in their proper sequence is what conveys meaning, making the *sphoṭa* an overly complex and unperceived entity.
+*   He also rejects the idea that sentences are partless, pointing out that meaning changes with the addition or removal of words, proving the reality of the parts.
+
+### 2.3. BUDDHIST RESPONSES TO THE CORRESPONDENCE PRINCIPLE
+
+*   Nagarjuna's verses use logical paradoxes to question how language about change can be meaningful; for example, how can something nonexistent be caused to arise, or how can an existing thing be destroyed?
+*   The Sarvastivada text *Mahāvibhāṣā* responds by positing that future dharmas already exist in some potential form ("own nature") before they arise, providing a subject for the action of "arising."
+*   Vasubandhu addresses a grammatical objection to the term "dependent arising" by arguing that conventional language and grammar do not need to map perfectly onto ultimate reality. He states that "there is no deception in conventional expressions" because their function is practical, not metaphysical.
+
+### 3.1. PATANJALI ON THE EXISTENCE OF WORDS
+
+*   Patanjali addresses the problem that speech sounds are not simultaneous, as they are pronounced sequentially and disappear instantly.
+*   He proposes that the sequence of sounds exists in the mind of the speaker before being spoken.
+*   He defines a word as the sound that, when pronounced, creates the notion of an object.
+*   He introduces the concept of *sphota*, stating the *sphota* is the eternal word itself, while sound is merely a quality of it, like the sound of a drumbeat.
+*   Patanjali states that both words and the individual speech sounds they are composed of are eternal.
+
+### 3.2. PATANJALI ON THE ETERNALITY OF WORDS
+
+*   Patanjali argues that words, their meanings, and the relationship between them are eternal, not produced.
+*   He supports this by observing that people use words without effort, unlike produced items (e.g., a pot) which require a maker. One does not ask a grammarian to "make" words.
+*   This belief affects his view of grammar; eternal words cannot be changed by adding augments or modifications.
+*   He resolves this by stating that grammatical variations are not modifications but are entirely separate, eternal words that act as substitutes for other words.
+*   For Patanjali, the grammatical derivational process is a mental one, involving the knowledge of one whole word being used in place of another.
+
+# 3.3. PATANJALI AND SHABARA ON CORRECT WORDS
+
+*   Patanjali discusses grammatically correct words that are not in common use.
+*   He argues that such words "exist" because grammar prescribes them, but are "not used" in the common world.
+*   Reasons for non-use include other words being used in their place, or their usage being confined to other regions or specific texts like the Vedas.
+*   Shabara discusses words used by "despised foreigners" but not by cultured people.
+*   He concludes that the meaning used by foreigners should be accepted, as they may be experts in that specific domain, unless it is contradicted by a higher authority.
+
+# 3.4. PATANJALI ON MERIT RESULTING FROM CORRECT SPEECH
+
+*   The purpose of grammar is to provide a restriction for the sake of spiritual merit, similar to restrictions in the Veda on food or ritual materials.
+*   Meaning can be understood from both correct and incorrect words, but using only correct words leads to success (merit).
+*   There is a debate on whether merit comes from knowing correct words or using them.
+*   If merit comes from knowledge, then knowing incorrect words would create demerit.
+*   If merit comes from usage, then everyone would gain merit, making the grammarian's effort pointless.
+*   The final conclusion is that merit arises from the *use* of correct words *accompanied by knowledge*.
+*   An alternative view is that the merit from knowing correct words is great enough to cancel out any demerit from knowing incorrect ones.
+
+# 3.5. PATANJALI AND BHARTRIHARI ON INCORRECT WORDS
+
+*   Patanjali states that using incorrect words is a form of barbaric speech that can have disastrous consequences, especially in ritual.
+*   Bhartrihari posits that incorrect words ("corruptions") are not independent but are based on correct words.
+*   He argues that corruptions convey meaning indirectly, through the listener's inference of the intended correct word.
+*   Corruptions are not synonyms for correct words because they are not accepted or used by the cultured elite in their tradition.
+*   Through continuous use by "unqualified speakers," some corruptions have become so established that for those speakers, they are directly expressive, and the correct word must be inferred from them.
+*   This is explained as a degradation of a divine, perfect speech over time. An opposing view holds that vernacular languages (Prakrit) were original and Sanskrit was a later modification.
+
+# 3.6. PATANJALI AND OTHERS ON THE REFERENTS OF WORDS
+
+*   **Patanjali**: Debates whether a word's meaning refers to 'form' or 'substance', arguing that both can be considered eternal. He concludes that words refer to whatever the speaker regards as eternal.
+*   **The Nyaya School**: Examines whether a word like "cow" refers to the individual, the form, or the universal. After considering and refuting arguments for each as the sole referent, it concludes that all three together constitute the meaning, with the primary element depending on the speaker's intention.
+*   **Buddhist View (Dignaga)**: Proposes the theory of *apoha* (exclusion), which states that words do not refer to things directly. Instead, a word functions by excluding everything that is different; for example, "cow" means "not non-cow".
+*   **Brahmanical Critique (Kumarila Bhatta)**: Argues against *apoha*, stating that the phrase "exclusion of what is not a cow" implicitly accepts the universal "cowness" as a real entity. He also points out a problem of mutual dependency (one must know "cow" to know "not-cow," and vice versa) and claims the theory fails for verbs and conjunctions.
+*   **Buddhist Defense (Ratnakirti)**: Refines the *apoha* theory by stating that a word's meaning is "something positive qualified by the exclusion of what is different." He argues that the positive object and its exclusion from other things are understood simultaneously.
+
+# 3.7. PATANJALI ON MINIMAL MEANING BEARERS
+
+*   Patanjali discusses whether individual speech sounds have meaning, presenting arguments for both sides.
+*   **Arguments that speech sounds have meaning:**
+    *   Single-sound verbal roots, nominal stems, suffixes, and particles are observed to have meaning.
+    *   Changing a single sound in a word changes its meaning (e.g., *kūpa*, *sūpa*, *yūpa*).
+    *   A specific meaning is lost when the relevant speech sound is removed (e.g., *vṛkṣa* vs. *ṛkṣa*).
+    *   Combinations of sounds have meaning, implying their individual parts must also have meaning, just as a collection of seeing people can see.
+*   **Arguments that speech sounds have no meaning:**
+    *   Meaning is not perceived for every individual speech sound.
+    *   Phonetic changes like interchange, removal, addition, or modification of sounds can occur without a corresponding change in the word's core meaning.
+*   **Conclusion and Refutation:**
+    *   Patanjali initially suggests that only specific single-sound units like roots and stems have meaning, while other sounds do not.
+    *   The argument about changing sounds (*kūpa*/*sūpa*) is refuted by noting that the shared part (*-ūpa*) would then be meaningless, suggesting the entire word combination is the meaning-bearer.
+    *   The argument about combinations is refuted with the analogy of a chariot: its individual parts are incapable of movement, but the assembled chariot is. Similarly, individual sounds are meaningless, but their combination creates a meaningful word.
+
+### 4.1. SINGLE WORDS AS SOURCE OF KNOWLEDGE
+
+*   Uddyotakara, in the *Nyāyavārttika*, argued that the existence of a Sanskrit word guarantees the existence of its corresponding item.
+*   Vatsyayana's *Nyāyabhāsya* considers two views: one, which he rejects, is that words are a means of inference. His own view is that belief in imperceptible things like "heaven" comes from the testimony of trustworthy people.
+*   Some Vedic Interpreters (mīmāṃsakas) held that the existence of a word in the authorless Veda guarantees the existence of the thing it denotes, such as "heaven," "deity," and *apūrva* (an unseen effect of sacrifice).
+*   The skeptic Jayarashi Bhatta argued against this, stating that words refer to already-known universals and thus are not a means of valid new cognition. He also rejected any inherent relation between words and objects.
+*   The Vedic Interpreter Shabara rejected the necessary correspondence between words and things, arguing there is no proof for the existence of heaven or for deities having bodies and possessions.
+*   Shabara did argue for the existence of *apūrva*, not because the word exists, but as a necessary logical link between a transient sacrificial act and its future result.
+
+### 4.2. SENTENCES AS SOURCE OF KNOWLEDGE
+
+#### Shabara
+
+*   Explains the Mimamsa principles for interpreting Vedic texts, establishing a hierarchy of criteria to resolve contradictions.
+*   The criteria, in descending order of strength, are: "direct statement," "word meaning," "connection," "context," "position," and "name."
+*   He asserts that words have only one primary meaning, which is determined by the usage of cultured people (*śiṣṭas*) and confirmed by other Vedic passages.
+
+#### Shankara
+
+*   Acknowledges the traditional Mimamsa view that the Veda's purpose is ritual action, which would make the Upanishads seem purposeless.
+*   Argues that the Upanishads are an independent source of knowledge because they reveal Brahma, which cannot be known by other means, and this knowledge leads to liberation.
+*   Distinguishes between Upanishadic texts that are literally true (those denying attributes to Brahma to teach unity) and those that serve a didactic purpose (like creation stories).
+*   Unlike Shabara, he accepts the existence of deities, arguing that laudatory statements in the Veda can convey factual information if not contradicted by other sources of knowledge.
+*   Views ritual works as a means of purifying the mind, thereby preparing it to receive the liberating knowledge contained in the Upanishads.
+*   Connects phenomenal reality with language and the ultimate reality, Brahma, with the sacred syllable OM.
+
+#### Other Vedantins
+
+*   **Bhaskara** argues that Vedic statements are authoritative if they reveal something not knowable by other means; this applies to Brahma as much as to rituals.
+*   **Ramanuja** similarly states that the Veda teaches about Brahma precisely because it is an established reality that other means of knowledge cannot access.
+*   **Mandana Mishra** holds that while perception grasps a non-differentiated reality (Brahma), it is distorted by ignorance. Therefore, true knowledge of Brahma as the negation of diversity comes only from the Veda. He also sees the phenomenal world as an unreal appearance of speech.
+
+#### Bhartrihari
+
+*   Identifies the ultimate reality (Brahma) with the "essence of the word" (*śabdatattva*), from which the phenomenal world unfolds.
+*   Posits that wholes are more real than their parts; a sentence is more real than its words, and the entire Veda is a single entity more real than its constituent parts.
+*   Believes that language, specifically Sanskrit, creates the distinctions of the phenomenal world by dividing the undivided absolute reality.
+*   Argues that the absolute is beyond language, and true, non-verbal knowledge arises spontaneously, leading to liberation. Grammar is a preparatory step toward this goal.
+
+### 4.3. OPINIONS ABOUT THE VEDA
+
+#### Kumarila on the Veda as the Body of a Conscious Being
+
+*   Presents the view that the Veda is the body of the Highest Self.
+*   The "intention" behind Vedic statements is therefore the intention of this conscious Self.
+*   This allows for a literal understanding of "intention" in relation to the Veda, even while maintaining it is authorless.
+
+#### The Vedāntaparibhāṣā on the Eternality of the Veda
+
+*   Rejects the idea that the Veda is eternal, stating it has an origin at the beginning of each creation cycle.
+*   Maintains the Veda is authorless because God recreates it in each cycle with a composition identical to the previous one.
+*   Therefore, the Veda is beginningless and not the independent product of an author, though it is not strictly eternal.
+
+### 4.4. THE WORD AS MEANS OF INFERENTIAL KNOWLEDGE
+
+*   Prashasta includes verbal testimony as a form of inference, where knowledge arises from a word like an inference arises from a sign (e.g., smoke indicating fire).
+*   Shridhara explains that hearing a word leads to an inference of the speaker's wish to communicate, from which the object itself is inferred. This process depends on the speaker's reliability.
+*   Jayanta Bhatta criticizes this view, arguing that understanding a sentence's meaning is a direct and immediate process, distinct from the subsequent inference about its truthfulness based on the speaker's credibility.
+
+### 4.5. A BUDDHIST OPINION ABOUT THE ORIGINAL LANGUAGE
+
+*   Some Pali Buddhist commentators, like Tissadatta, believed that Pali (which they called Magadhi) was the natural, original language of all beings.
+*   They claimed that a child raised in isolation would naturally speak Magadhi.
+*   This language was considered unchanging and predominant in all realms, from hell to the world of the gods.
+*   Later texts asserted that all other languages, including Sanskrit, were derived from Magadhi.
+
+## CHAPTER FIVE - Self-Contradictory Sentences
+
+### 5.1. TEXTS ON SATKARYAVĀDA AND LANGUAGE
+
+*   The Sāṃkhya doctrine of *satkāryavāda* posits that the effect pre-exists in its cause, arguing that one cannot create something from non-existence.
+*   Opponents claimed the words "production" and "existing" are contradictory.
+*   Proponents countered that "production" refers to an existing entity adopting a new configuration (e.g., gold becoming an earring), not creation from nothing.
+*   Shankara supported this view, stating that "coming into being" is an activity requiring an agent; for a pot to "come into being," the pot must exist as the agent of that action.
+*   The Yogaśāstra presents a similar view, stating that a cause makes an already existent effect present, but does not create something new.
+
+### 5.2. THE ĀGAMAŚĀSTRA (SCIENCE OF TRADITION) ON ARISING
+
+*   This text explores the nondualist teaching of "nonarising."
+*   It argues that something that already exists cannot arise, and something that does not exist cannot arise either.
+*   Therefore, in ultimate truth, nothing arises; the appearance of arising is an illusion.
+*   The commentary by Shankara clarifies that common expressions like "a pot arises" are merely verbal conventions, as the object of the expression cannot logically come into being whether it is considered existent or non-existent.
+
+### 5.3. VATSYAYANA AND OTHERS ON THE PROBLEM OF PRODUCTION
+
+*   Vatsyayana discusses the opposing view (*asatkāryavāda*) that an entity arises from a nonentity (e.g., a sprout from a destroyed seed).
+*   He refutes this as a logical contradiction, arguing that something cannot act (destroy) before it exists.
+*   The final Nyāya position is that a substance is produced from a new arrangement of its constituent parts, not from non-existence.
+*   A proposed solution is that before its physical production, the effect (e.g., a pot) exists as a mental concept.
+*   The Vaisheshika school also adopted *asatkāryavāda*, having previously explored solutions like metaphorical usage or postulating two kinds of being: simple "being" and strict "existence."
+
+### 5.4. BHARTRIHARI ON THE PROBLEM OF PRODUCTION
+
+*   Bhartrihari articulates the central problem: if a thing exists, why does it arise, but if it doesn't exist, how can it arise?
+*   He offers several solutions to this paradox:
+    *   Words like "pot" refer to the eternal, pre-existing universal ("potness").
+    *   Words refer to eternal substances (like gold), while forms (like a necklace) are transient illusions.
+    *   Words refer to a "metaphorical existence," allowing them to designate future objects.
+    *   Words refer to a mental form or reality that exists in the mind during the act of production.
+
+### 5.5. ANEKĀNTAVĀDA
+
+*   This section explains the Jaina doctrine of *anekāntavāda*, or the manifold nature of reality, as a solution to the problem of production.
+*   From different standpoints, an object can be described in multiple, seemingly contradictory ways at the same time.
+*   For example, a pot that is being produced can be considered as:
+    *   Already produced (in the form of clay).
+    *   Not yet produced (in its new shape).
+    *   Both produced and not produced simultaneously.
+
+### 5.6. JAINISM'S DIVINE SOUND (DIVYADHVANI)
+
+*   Digambara Jainas believe Mahavira preached through a "divine sound" (*divyadhvani*), not ordinary words, as his omniscient knowledge was direct and not mediated by the senses or mind.
+*   For ordinary beings, knowledge is partial and based on standpoints (*naya*).
+*   The text rejects the idea that a word and its meaning are identical, arguing that a word indicates a meaning but is different from it, just as smoke indicates a fire.
+*   The divine sound is described as a single, syllable-less sound that has the form of all languages and is understood by listeners according to their capacity.
+
+## CHAPTER SIX - Do Words Affect Cognition?
+
+### 6.1. DOUBLE COGNITION
+
+*   The *Yogasūtra* defines a conceptual construct (*vikalpa*) as knowledge resulting from words but lacking a real object, giving the example "consciousness is the essence of the self" when the self *is* consciousness.
+*   This view suggests that language can distort reality to the point that we inhabit a world of verbal constructs.
+*   The philosopher Bhartrihari holds a stronger position, stating that the universe evolves from words and that all knowledge and cognition are fundamentally permeated by language.
+
+### 6.2. DIGNAGA AND HIS CRITICS
+
+*   The Buddhist philosopher Dignaga argues that perception and inference are the only two means of cognition, operating on different objects.
+*   According to Dignaga, perception is free from conceptual constructs (names, universals) and grasps unique particulars, while inference uses words to deal with universals, which are mental constructs.
+*   The Brahmanical thinker Kumarila Bhatta refutes this, proposing that perception occurs in two stages: an initial, non-conceptual awareness, followed by a conceptual cognition that uses universals, which is also considered perception.
+*   The *Nyāyasūtra* defines perception as "inexpressible by words," which later commentators like Vacaspati Mishra interpret as an acknowledgement of two types of perception: one without concepts and one with them.
+*   Jayanta Bhatta explains that the phrase "inexpressible by words" was included in the *Nyāyasūtra* to counter the view that all cognition is inherently verbal and to establish the existence of a pure, non-verbal perception at the initial moment of contact between a sense organ and an object.
+
+## CHAPTER SEVEN - Words and Sentences
+
+### 7.1. SHABARA ON MUTUAL EXPECTANCY
+
+*   A single sentence is a collection of words that conveys a single meaning or purpose (*artha*).
+*   The test for a single sentence is "mutual expectancy": if a word is separated from the collection, it creates an expectation for the other words to complete the meaning.
+*   The quantity of words needed to carry out a single ritual act constitutes a single sentence.
+
+### 7.2. SHABARA ON WORDS AND SENTENCES
+
+*   An objector argues that sentence meaning is artificial because individual words refer to universals, while sentences refer to particulars, and the collection of words itself is not an eternal, meaning-bearing entity.
+*   Shabara counters that sentence meaning is not separate from word meanings but is produced by them.
+*   Words first express their individual meanings; these meanings, once understood, then combine to make known the complete sentence meaning.
+
+### 7.3. SHALIKANATHA MISHRA ON THE MEANING OF A SENTENCE
+
+*   Shalikanatha defends the *anvitābhidhāna* view: words express meanings that are already connected with the meanings of other words in the sentence.
+*   He rejects the ideas that the sentence as a whole, its final sound, or the isolated word meanings are the source of sentence meaning.
+*   For a connection to be understood, three conditions must be met:
+    *   **Expectancy (*ākāṅkṣā*):** The listener's desire to know, arising from the incompleteness of an expression.
+    *   **Proximity (*sannidhi*):** The nearness of words or the mental presence of their meanings.
+    *   **Suitability (*yogyatā*):** The fitness of the meanings to be connected with each other.
+
+### 7.4. VACASPATI MISHRA ON WORDS AND SENTENCES
+
+*   Vacaspati defends the *abhihitānvaya* view ("connection of what has been expressed"), attributed to Kumarila Bhatta.
+*   According to this view, words first express their own isolated meanings.
+*   These individual meanings, if they possess mutual expectancy, proximity, and compatibility, then combine to convey the sentence meaning.
+*   The sentence meaning is not directly expressed by the words but is understood by implication, as the joint use of words would otherwise be pointless.
+
+### 7.5. ADDED MEANING IS SENTENCE MEANING
+
+*   Patanjali and Bhartrihari state that the sentence meaning is the additional meaning that emerges when the meanings of individual words are connected.
+
+### 7.6. BHATTOJI DIKSHITA ON THE UNIT OF EXPRESSION
+
+*   Bhattoji discusses the theory of *sphoṭa*, the real, indivisible unit of expression.
+*   He lists eight positions on what this unit is, including the morpheme, the word, and the sentence, each in individual and universal forms.
+*   The preferred position among authorities is that the indivisible sentence is the ultimate expressive unit (*sphoṭa*).
+
+### 7.7. SHABARA ON THE HIERARCHY OF WORDS IN SENTENCES
+
+*   In a sentence, the verb (words referring to "being" or activity) is the principal element.
+*   The verb expresses the act of "bringing into being" (*bhāvanā*).
+*   It is from the verb that the unseen effect (*apūrva*) of a ritual is understood, while nouns and adjectives are auxiliary, specifying the means and qualities.
+
+### 7.8. SHABARA AGAINST PANINI ON THE MEANING OF VERBAL SUFFIXES
+
+*   Shabara argues that verbal suffixes do not directly express the agent (*kāraka*) or object, contrary to the interpretation of the grammarian Panini.
+*   He claims that the verb expresses the action, and the agent is understood by implication (*arthāpatti*), as an action cannot occur without an agent.
+*   The primary meaning of verbal suffixes is number (singular, dual, plural), which qualifies the implied agent or object.
+
+### 7.9. KUMARILA AND HIS FOLLOWERS ON THE MEANING OF THE SENTENCE
+
+*   Kumarila's theory centers on two types of "productive energy" (*bhāvanā*):
+    *   **Objective productive energy (*ārthī bhāvanā*):** The general operation of "doing" or "making" that is understood from all verbs and relates to the performance of an action to achieve a result.
+    *   **Verbal productive energy (*śābdī bhāvanā*):** The specific injunctive force found in optative verb endings, which impels a person to act.
+*   The verbal productive energy (the injunction) has the objective productive energy (the action) as its goal, praise as its manner, and knowledge of the injunction as its instrument.
+
+# 7.10. THE NEW LOGICIANS ON WORDS AND SENTENCES
+
+*   Verbal cognition arises from the knowledge of a word (instrument), which produces a memory of the word's meaning (means/operation). Knowledge of a word's expressive power is an associate cause.
+*   Traditionally, denotative power is God's desire for a word to signify a meaning. The New Logicians argue it is the desire of any conscious being, thus including modern conventional terms.
+*   Denotative power is grasped through grammar, analogy, usage, reliable statements, and context.
+*   Logicians argue that verbal endings denote "resolution" (kṛti) rather than "agent," as it is a simpler explanation.
+*   Secondary signification is a relation to the primary meaning, used when the primary meaning is impossible or not intended by the speaker (e.g., "a hamlet on the Ganges" means on the shore).
+*   The causes of verbal cognition are proximity (nearness of words), suitability (compatibility of meanings), expectancy (a word needing another to be complete), and knowledge of the speaker's intention (to resolve ambiguity).
+*   A major debate concerns the meaning of the verbal suffix:
+    *   **Nyāya View:** It primarily means "effort" (yatna). For non-sentient agents (e.g., "the chariot goes"), it secondarily means "operation" (vyāpāra). This is considered the simplest theory.
+    *   **Mīmāṃsā View:** It always means "operation," which applies to both sentient and non-sentient agents. "Effort" is understood by implication.
+    *   **Ratnakośa's View:** It means "producing" (bhāvanā) in all cases.
+*   The Nyāya school refutes the other views as being more cumbersome, preferring to posit "effort" as the primary meaning and use secondary signification where needed.
+*   The grammatical number expressed by the verbal suffix agrees with the noun qualified by the action, which is typically the word in the nominative case.
+*   The New Logicians conclude that the verbal suffix expresses abstract properties like agency or objectness, not the agent or object itself, which can be known from other words.
+
+# 7.11. KAUNDA BHATTA ON THE MEANING OF THE VERB
+
+*   The verbal root designates both an "operation" (productive energy) and its "result" (e.g., the softening of rice).
+*   The verbal endings refer to the "substrate" of the operation (the agent) and the result (the object).
+*   The operation is the predominant meaning, and the meaning of the verbal ending (agent, object, number, time) qualifies it.
+*   Verbs express a "becoming" that is not a static entity.
+*   Time, as expressed by the verbal ending, qualifies the operation, not the agent, object, or result.
+*   This view contrasts with that of the Logicians, who hold that the agent (expressed by the nominative word) is the most important part of the sentence's meaning.
+*   The understanding of "he cooks" is: "productive energy conducive to cooking that resides in a single substrate."
+
+## CHAPTER EIGHT - Other Denotative Functions of the Word
+
+### MUKULA BHATTA
+
+*   Mukula Bhatta's work accepts only two expressive functions for a word: primary and secondary.
+*   The primary meaning is understood directly from the usage of words. It is fourfold:
+    *   Words relating to universals (e.g., "cow" denoting "cowness").
+    *   Words relating to qualities (e.g., "white").
+    *   Words relating to actions (e.g., "cooks").
+    *   Arbitrary words (e.g., proper nouns like "Dittha").
+*   The secondary meaning is understood through reflection on the primary meaning when the primary meaning is not possible.
+*   Secondary expression is of two main kinds: "pure" and "mixed with metaphor."
+*   Pure secondary expression is twofold:
+    *   Appropriating another meaning (upādāna), where something else is implied to establish the meaning (e.g., "fat Devadatta does not eat in the daytime" implies he eats at night).
+    *   Indicating another meaning (lakṣana), where the word refers to something else connected to its primary meaning (e.g., "hamlet on the Ganges" indicates the shore of the Ganges).
+*   Secondary expression mixed with metaphor is fourfold, based on two types of metaphor, each with two applications:
+    *   Types: Pure metaphor (based on a relationship like cause-effect) and Qualitative metaphor (based on similar qualities).
+    *   Applications: Superimposition (the difference between the two things is not concealed) and Identification (the difference is concealed).
+*   In total, there are six kinds of secondary meaning (two pure, four metaphorical).
+*   The function of secondary meaning is considered in relation to different theories of how sentence meaning is derived, such as "connection of what has been expressed" (abhihitānvaya) and "expression of connected meanings" (anvitābhidhāna).
+*   Secondary meaning is employed when three conditions are met: the primary meaning is impossible, the secondary meaning is proximate to the primary, and there is a purpose (either conventional or specific).
+*   The treatise concludes that there are ten expressive functions in total: four primary and six secondary.
