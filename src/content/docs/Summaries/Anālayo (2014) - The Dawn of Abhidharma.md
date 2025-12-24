@@ -1,0 +1,268 @@
+---
+title: Anālayo - The Dawn of Abhidharma
+sidebar:
+  label: Anālayo - The Dawn of Abhidharma
+hero:
+  title: The Dawn of Abhidharma
+  tagline: Hamburg Buddhist Studies 2, Anālayo, Hamburg University Press (2014)
+categories:
+- book
+- summary
+tags:
+- Abhidharma
+- absorption (dhyāna/jhāna)
+- Anālayo
+- Anupada-sutta
+- Atthasālinī
+- authentication
+- awakening
+- Bahudhātuka-sūtra
+- Buddha's Awakening
+- canonical commentary
+- Chinese Āgamas
+- Daśottara-sūtra
+- Dharmaskandha
+- Dharmaguptaka
+- Dīrgha-āgama
+- Early Buddhist discourses
+- Ekottarika-āgama
+- elements (dhātu)
+- First Buddhist Council (Saṅgīti)
+- Four Noble Truths
+- Heaven of the Thirty-three (Tāvatiṃsa)
+- Jainism
+- lists
+- Madhyama-āgama
+- Mahācattārīsaka-sutta
+- Mahāsāṅghika
+- Mahāsatipaṭṭhāna-sutta
+- Mahāyāna
+- Māyā
+- mātrkā / mātikā
+- meditative analysis
+- momentariness
+- Mūlasarvāstivāda
+- Nikāyas
+- Noble Eightfold Path
+- omniscience
+- oral transmission
+- Pāli Canon
+- path to awakening
+- prātimokṣa
+- question-and-answer format
+- Saṃyukta-āgama
+- Saṅgītiparyāya
+- Saṅgīti-sūtra
+- Śāriputra
+- Śāriputrābhidharma
+- Sarvāstivāda
+- seven sets of awakening (bodhipākṣikā dharmāh)
+- supramundane path
+- Theravāda
+- Vibhaṅga
+- Vinaya
+- wisdom (prajñā)
+- Word of the Buddha
+---
+
+## Foreword
+
+### About Hamburg Buddhist Studies
+
+*   The publication series from the Numata Center at the University of Hamburg aims to share research on Buddhism.
+*   It uses a broad variety of academic methods to cover both historical and contemporary issues.
+*   The series seeks to make the academic study of Buddhist traditions accessible to a wider audience.
+
+### About this Publication
+
+*   This book by Bhikkhu Anālayo studies the beginnings of the Abhidharma.
+*   Anālayo argues that Abhidharma is not just characterized by formal elements like lists (mātrkā), but by a new mode of thought.
+*   This new thinking involved a meticulous examination of the constituents of events, going further (abhi-) than the Dharma in the early discourses.
+*   He identifies the concept of the "supramundane path" as an instance where Abhidharma thought appears in the discourses.
+
+## Introduction
+
+### Theme
+
+*   This book explores the emergence of the Abhidharma by studying selected early discourses.
+*   It is a companion to the author's previous study on the "Genesis of the Bodhisattva Ideal".
+*   The study is divided into four chapters, covering topics from communal recitation to the need for authenticating the Abhidharma.
+*   Buddhist art is included to show that the Abhidharma was not just a product of dry scholasticism.
+
+### Sources
+*   The primary sources are the early discourses found in the Pāli Nikāyas and their parallels.
+*   The author's approach is based on a comparative study of texts from a long period of oral transmission.
+*   It is suggested that the beginnings of the Abhidharma predate the formation of distinct Buddhist schools.
+*   The study aims to provide a point of reference for the topic based on the early textual corpus.
+
+### Acknowledgement
+*   The author expresses gratitude to several scholars for their comments on the work.
+*   The book is dedicated to Bhikkhu Bodhi.
+
+# 1 Reciting the Dharma and the Functions of Lists
+
+*   This chapter examines the oral transmission of the Dharma, focusing on communal recitation (sanigīti) and its connection to the Abhidharma.
+*   It studies succinct lists of teachings, known as mātrkās, by surveying accounts of the first sangīti and discourses like the Sañgīti-sūtra.
+*   The "seven sets" of thirty-seven qualities conducive to awakening are explored to understand the role of lists in oral transmission and the formation of the Abhidharma.
+
+## 1.1 The First Sañgīti at Rājagṛha
+
+*   In ancient India, the Dharma was transmitted orally, making communal recitation (sangīti) a crucial activity.
+*   The fortnightly recitation of the prātimokṣa (monastic rules) served to express communal harmony and required a fixed text.
+*   The first sangīti at Rājagṛha, held after the Buddha's death, was intended to establish an authentic canon.
+*   Accounts in different Vinayas (monastic codes) disagree on whether the Abhidharma was recited at this event.
+*   The Mahāsānghika, Mahīśāsaka, and Theravāda Vinayas do not mention the Abhidharma as a separate collection recited at the first sangīti.
+*   The Dharmaguptaka and Sarvāstivāda Vinayas do include the Abhidharma, suggesting its gradual emergence as a distinct collection.
+*   The Mūlasarvāstivāda Vinaya states that mātrkās (succinct lists) were recited, possibly representing an intermediate stage before the material was identified as "Abhidharma".
+
+## 1.2 Mātrkā and Abhidharma
+
+*   A mātrkā is a succinct list or summary that serves as a skeleton for a more detailed exposition.
+*   Textual comparisons show that the term "mātrkā" in some traditions corresponds to "Abhidharma" in others.
+*   While scholars often link mātrkās to the Abhidharma's development, the Pāli commentarial tradition also associates them with the Vinaya (monastic rules).
+*   The use of lists (mātrkās) was likely a general feature of oral Buddhist literature to aid memorization, not exclusive to the Abhidharma.
+*   Organizational features like topic-wise or numerical arrangements and question-and-answer formats are common in oral traditions and are not necessarily signs of Abhidharma influence.
+
+## 1.3 Summaries of the Dharma
+
+*   The Sañgīti-sūtra is a key example of a mātrkā, presented as an extended list of teachings arranged numerically from Ones to Tens.
+*   Its purpose was to foster harmony and prevent disputes about the teachings through communal recitation, a concern highlighted by quarrels among the Jains after their leader's death.
+*   The Daśottara-sūtra improves on this structure with a consistent ten-times-ten pattern arranged in a soteriological sequence, making it easier to memorize.
+*   Other summary discourses exist, such as the Arthavistara-sūtra and discourses in the Madhyama-āgama that show the proliferation and combination of lists.
+*   A direct link to the Abhidharma is evident as the Sañgītiparyāya, a canonical Sarvāstivāda Abhidharma work, is a commentary on the Sañgīti-sūtra.
+
+## 1.4 The Seven Sets
+
+*   The "seven sets" of bodhipākṣikā dharmāh (thirty-seven qualities conducive to awakening) form a short mātrkā taught by the Buddha to ensure communal harmony.
+*   The list includes: the four establishments of mindfulness, four right efforts, four bases for supernormal ability, five faculties, five powers, seven factors of awakening, and the noble eightfold path.
+*   There is some overlap in the list, as the five faculties and five powers refer to the same five qualities, suggesting the list may have grown over time.
+*   These seven sets appear with remarkable consistency across the different versions of the Sañgīti-sūtra, indicating they may have been a foundational part of it.
+*   The development from this core list to the Sañgīti-sūtra and then to Abhidharma works like the Sañgītiparyāya was driven by the need to create a comprehensive summary of the Dharma for practice and to ensure harmony after the Buddha's death.
+
+# 2 Wisdom and Early Canonical Abhidharma
+
+*   This chapter examines the basis for cultivating wisdom through a list of elements in the Bahudhātuka-sūtra.
+*   It explores the meaning of the term "abhidharma" in early discourses and the commentarial nature of early canonical Abhidharma texts.
+*   The aim is to show how passages in early discourses were expanded and to establish that early Abhidharma is fundamentally commentarial.
+
+## 2.1 Wisdom and the Elements
+
+*   Wisdom is central to early Buddhist thought, aiming for disenchantment and liberation.
+*   The analysis of "elements" (dhātu) is a key practice for developing wisdom, commonly involving four elements (earth, water, fire, wind), six (adding space and consciousness), or eighteen (related to sense experience).
+*   The Bahudhātuka-sūtra presents a long list of elements, knowledge of which constitutes wisdom.
+*   A comparison of different versions of this sutra shows a gradual expansion of the list of elements, from 41 in the Theravāda version to 62 in Sarvāstivāda versions.
+*   This expansion, along with the addition of the five aggregates in some versions, reflects a tendency toward comprehensive analysis that is characteristic of the emerging Abhidharma.
+
+## 2.2 The Term Abhidharma
+
+*   In early discourses, the term "abhidharma" likely meant "about the Dharma" or "concerning the Dharma," and was often used interchangeably with "Dharma."
+*   The term often appeared alongside "abhivinaya" (about the Vinaya), reinforcing the sense of the prefix "abhi-" as "about."
+*   A developmental shift is visible where "abhidharma" and "abhivinaya" became "Abhidharma" and "Vinaya," signifying the transition from a discussion about a topic to a distinct textual collection.
+*   Several Chinese Āgama discourses refer to the Abhidharma as a third canonical collection, whereas their Pāli parallels do not, suggesting this is a later development.
+
+## 2.3 Canonical Commentary
+
+*   The Abhidharma likely originated from the oral tradition of accompanying discourses with commentaries.
+*   Examples from the Sutta-piṭaka (e.g., Aṭṭhakavagga) and Vinaya-piṭaka show that commentarial material, such as background stories and exegesis, was often incorporated into the canonical texts themselves.
+*   The Vinaya combines rules (prātimokṣa) with a commentary (vibhaṅga), a structure that is also foundational to the Abhidharma, which provides exegesis on summary lists (mātrkās).
+*   Analytical (vibhaṅga) discourses in the suttas are not Abhidharma texts but share the method of combining a core statement with its explanation, a method that proliferated in the Abhidharma.
+
+## 2.4 Early Canonical Abhidharma
+
+*   The earliest Sarvāstivāda Abhidharma texts, such as the Dharmaskandha and Saṅgītiparyāya, are structured as commentaries, quoting discourses and then providing exegesis.
+*   The Theravāda Vibhaṅga explicitly distinguishes between the perspective of the discourses (suttantabhājanīya) and that of the Abhidharma (abhidhammabhājanīya).
+*   Early Abhidharma works from different traditions (Sarvāstivāda, Theravāda, Dharmaguptaka) show a common origin, often using the same discourse quotations as the basis for analyzing key topics.
+*   This suggests the Abhidharma began as a commentary on the discourses, evolving from being "about" (abhi-) the Dharma to being considered the "superior" Dharma.
+
+# 3 Meditative Analysis and Omniscience
+
+*   This chapter examines the theme of analysis in meditation, focusing on the four noble truths and absorption.
+*   It explores the Buddha's awakening and the notion of his omniscience.
+*   The central argument is that analysis in early discourses tended to proliferate, becoming more comprehensive and incorporating terms typical of later Abhidharma texts.
+
+## 3.1 The Analysis of the Four Noble Truths
+
+*   Different versions of the *Smrtyupasthāna-sūtra* (Discourse on the Establishments of Mindfulness) show considerable variation.
+*   The Theravāda Pāli versions are the most extensive, uniquely including the contemplation of the four noble truths, which is likely a later addition not found in Chinese parallels.
+*   The *Mahāsatipaṭṭhāna-sutta* provides a highly detailed, multi-page analysis of each of the four noble truths, in contrast to the brief mention in the *Satipaṭṭhāna-sutta*.
+*   This exhaustive analysis, especially of the arising and cessation of craving, is unique in the discourses and lists numerous mental factors in a way that seems impractical for mindfulness training.
+*   This detailed, commentarial style is considered an intrusion into the discourse, reflecting an Abhidharma-like drive for comprehensive coverage.
+
+## 3.2 The Analysis of Absorption
+
+*   The *Anupada-sutta*, a discourse with no known parallel, describes Sāriputta's detailed analysis of the mental factors present in each absorption (jhana).
+*   The text lists both the factors specific to each absorption and a set of factors that are always present.
+*   Irregularities in the text, such as inconsistent grammar and redundant listing of mental factors (e.g., mindfulness, equipoise), suggest it combines what were originally separate lists.
+*   This minute analysis of mental states is uncharacteristic of early discourses but anticipates the methodology of the Abhidharma.
+*   While early discourses and even some Abhidharma texts focus on a simpler analysis sufficient for practical progress, the *Anupada-sutta* shifts to a more theoretical, exhaustive taxonomy, lending the authority of Sāriputta to the Abhidharma approach.
+
+## 3.3 The Buddha's Awakening
+
+*   Accounts of the Buddha's own path to awakening describe his practice in a simpler, more straightforward manner than the analyses in the *Mahāsatipaṭṭhāna-sutta* and *Anupada-sutta*.
+*   The Buddha's cultivation of absorption is depicted with a focus on key factors to be overcome or developed, which was a sufficient degree of analysis for progress.
+*   The four noble truths were taught as a basic analytical scheme analogous to a medical diagnosis (disease, cause, cure, treatment), which was considered effective enough for listeners to attain stream-entry.
+*   There is a clear trajectory from the basic, practical analysis in what are likely earlier teachings to the detailed, comprehensive analysis concerned with minute details, which points to the emerging Abhidharma.
+
+## 3.4 The Buddha and Omniscience
+
+*   In early discourses, the term "all" in relation to the Buddha's knowledge refers to insight into the nature of all experience via the six senses, not factual knowledge of everything.
+*   The claim that the Buddha was omniscient appears to be a later development, as some early texts have the Buddha denying it, and it contradicts Vinaya accounts of him changing rules due to unforeseen problems.
+*   The attribution of omniscience was likely influenced by competition with rival traditions like the Jains, who claimed their leader was omniscient.
+*   The Abhidharma's tendency toward comprehensive analysis is closely related to the idea of the Buddha's omniscience; the Abhidharma was seen as an expression of the Buddha's all-encompassing knowledge.
+*   Both the elevation of the Buddha to an omniscient teacher and the development of the Abhidharma provided a sense of security and completeness for the community after his death.
+
+# 4 Awakening and the Authentication of the Abhidharma
+
+*   This chapter explores the emergence of Abhidharma thought in early discourses by examining the supramundane path in the Mahācattārīsaka-sutta.
+*   It studies the parallelisms between Abhidharma and Mahāyāna in their efforts to be recognized as the authentic word of the Buddha.
+*   It analyzes the tale of the Buddha teaching the Abhidharma to his mother in the Heaven of the Thirty-three.
+
+# 4.1 The Supramundane Path
+
+*   The Pāli Mahācattārīsaka-sutta is unique among its parallel versions for distinguishing between wrong, mundane right, and supramundane right path-factors.
+*   This distinction between mundane and supramundane paths is a key feature of Abhidharma thought and is not found elsewhere in the Pāli discourses.
+*   The terminology used to describe the supramundane path-factors is characteristic of the Abhidharma, not the early suttas.
+*   The sutta reclassifies standard wholesome path-factors as merely "mundane" and leading to future rebirth, whereas other discourses present them as leading to the end of suffering.
+*   The term "factor of the path" (*magganga*) is restricted to the supramundane path-factors, reflecting the Abhidharma view of the "path" as a single moment of attainment rather than a prolonged practice.
+*   The description of the supramundane path is likely a later addition to the sutta, as it is absent in parallel versions and not essential to the discourse's main theme.
+*   Similar distinctions between mundane and supramundane paths are found in the Samyukta-āgama and Dīrgha-āgama, indicating this Abhidharma-style thought developed across different schools.
+
+# 4.2 The Path to Awakening
+
+*   In early discourses, the path to awakening is depicted as a prolonged process with four successive levels, using similes like a journey to a town.
+*   The Abhidharma and later commentarial traditions shift this perspective, viewing the "path" as a single, momentary event of attainment.
+*   This shift from a process-oriented to an event-oriented view is a characteristic difference between the suttas and the Abhidharma.
+*   The presentation of the supramundane path in the Mahācattārīsaka-sutta is a prominent example of mature Abhidharma thought appearing within the Pāli discourses.
+
+# 4.3 The Need for Authentication
+
+*   Both the Abhidharma and Mahāyāna traditions needed to establish their texts as the authentic "word of the Buddha".
+*   A shared argument was that "whatever is well said is all the Buddha's word."
+*   Followers of both traditions considered their teachings superior to the early discourses, leading to the formation of separate textual collections (Abhidharma-piṭaka and Bodhisattva-piṭaka).
+*   Both traditions gave a central role to chief disciples, especially Śāriputra, in the formation and authentication of their texts.
+*   Both had to explain why their texts were not recited at the first council, with Mahāyāna proponents arguing their teachings were beyond the understanding of the disciples present.
+*   Both traditions sometimes attributed divine or celestial origins to their texts to bolster authenticity.
+
+# 4.4 The Buddha in the Heaven of the Thirty-three
+
+*   The story of the Buddha teaching in the Heaven of the Thirty-three is found in several traditions, but only the Theravāda commentaries specify that he taught the Abhidharma.
+*   The detailed description of the Buddha's descent via stairs likely originated from aniconic art and was later incorporated into textual accounts.
+*   The Theravāda version of the tale serves to give the Abhidharma a celestial seal of approval, establishing its superiority.
+*   This story creates an inconsistency within the Theravāda tradition, as its own discourses state the Buddha's mother was reborn in Tuṣita Heaven, not the Heaven of the Thirty-three.
+*   The Theravāda account appears to be an adaptation of a broader Indian tale, which placed the Buddha's mother in the Heaven of the Thirty-three, in order to authenticate its specific Abhidharma collection.
+*   The story also shows the Buddha fulfilling his filial duty by teaching his mother the superior doctrine, leading her to attain stream-entry.
+
+# Conclusion
+
+*   Early Abhidharma texts began as commentaries on discourses; what was originally "about" the Dharma (*abhi*-Dharma) evolved into the "higher" Dharma (Abhidharma).
+*   The fact that a commentary on the *Sañgīti-sūtra* became a canonical Abhidharma work does not automatically make the original discourse proto-Abhidharma.
+*   Formal aspects like summary listings (*mātrkās*) and question-and-answer formats are tools for oral transmission and not necessarily expressions of Abhidharma influence.
+*   The evolution of Abhidharma was primarily inspired by a shift in perspective towards being as comprehensive as possible, creating a complete map of the path.
+*   This drive for comprehensiveness mirrors the concept of the Buddha's omniscience, providing disciples with all necessary information after his passing.
+*   The elevation of the Buddha to an omniscient teacher and the mapping of the doctrine in the Abhidharma were interdependent processes that helped establish an institutional identity.
+*   Doctrinal proliferation, seen in the analysis of the four noble truths in the *Mahāsatipaṭthāna-sutta* and of absorptions in the *Anupada-sutta*, marks the "twilight of the dawn of Abhidharma" where new terminology begins to emerge.
+*   The attempt to provide a complete list of all dharmas led to a focus on a single, momentary event rather than a prolonged process.
+*   The *Mahācattārīsaka-sutta* represents a more mature stage of Abhidharma thought with its focus on a momentary event and the new idea of a supramundane path.
+*   The development of the Abhidharma's comprehensiveness and the apotheosis of the Buddha (e.g., his omniscience) both served to fill the vacuum left by his death.
+*   The Theravāda tale of the Buddha teaching Abhidharma in heaven serves to authenticate its supremacy.
+*   In essence, Abhidharma is characterized by its aim for a complete, analytical coverage of all constituents of a single moment, employing new terminology and ideas that go "further" than the original discourses.
