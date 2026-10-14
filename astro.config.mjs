@@ -1,5 +1,5 @@
 // @ts-check
-import { defineConfig } from "astro/config";
+import { defineConfig, fontProviders } from "astro/config";
 import starlight from "@astrojs/starlight";
 import starlightSiteGraph from "starlight-site-graph";
 import mermaid from "astro-mermaid";
@@ -9,6 +9,25 @@ import plantuml from "astro-plantuml";
 export default defineConfig({
   site: "https://christham.net",
   base: "/buddhavacana/",
+  fonts: [
+    {
+      provider: fontProviders.google(),
+      name: "Noto Sans",
+      cssVariable: "--sl-font",
+      weights: [400, 600, 700],
+      styles: ["normal"],
+      subsets: ["latin", "latin-ext"],
+    },
+    {
+      provider: fontProviders.google(),
+      name: "Noto Sans Mono",
+      cssVariable: "--sl-font-mono",
+      weights: [400, 600],
+      styles: ["normal"],
+      subsets: ["latin", "latin-ext"],
+      fallbacks: ["monospace"],
+    },
+  ],
   integrations: [
     mermaid(),
     plantuml(),
@@ -56,13 +75,11 @@ export default defineConfig({
           },
         }),
       ],
-      customCss: [
-        "./src/styles/custom.css",
-        "@fontsource/noto-sans-mono/400.css",
-        "@fontsource/noto-sans-mono/600.css",
-        "@fontsource/noto-sans/400.css",
-        "@fontsource/noto-sans/600.css",
-      ],
+      components: {
+        // emits the <Font> tags for the fonts configured above
+        Head: "./src/components/Head.astro",
+      },
+      customCss: ["./src/styles/custom.css"],
       logo: {
         src: "./public/favicon.svg",
       },

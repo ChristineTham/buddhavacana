@@ -25,8 +25,6 @@
     "@astrojs/check": "0.9.10",
     "@astrojs/starlight": "0.42.6",
     "@cspell/dict-en-au": "^1.1.29",
-    "@fontsource/noto-sans": "^5.3.0",
-    "@fontsource/noto-sans-mono": "^5.3.0",
     "astro": "7.3.8",
     "astro-mermaid": "^2.1.0",
     "astro-plantuml": "^1.0.1",
