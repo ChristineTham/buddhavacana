@@ -109,7 +109,7 @@ the Buddha / [he] extols
 
 > hanute **tuyha’meva**
 
-🔵⨀🤟▶️(hanute) *️⃣🤘⨀④(tuyhaṁ) ⏏️(eva)
+🔵⨀🤟▶️(hanute) *️⃣🤘⚧⨀④(tuyhaṁ) ⏏️(eva)
 [he] denies / to you / only
 *[He] denies [it] to you alone.*
 
@@ -130,7 +130,7 @@ would attend on / the sons of the Sakyans / the carpenter
 
 > **tuyhaṁ** sapate
 
-*️⃣🤘⨀④(tuyhaṁ) 🔵⨀🤟▶️(sapate)
+*️⃣🤘⚧⨀④(tuyhaṁ) 🔵⨀🤟▶️(sapate)
 to you / [he] swears an oath
 *[He] swears an oath to you.*
 
@@ -140,7 +140,7 @@ to you / [he] swears an oath
 
 > suvaṇṇaṁ **te** dhārayate
 
-🚻⨀②(suvaṇṇaṁ) *️⃣🤘⨀④(te) 🔵⨀🤟▶️(dhārayate)
+🚻⨀②(suvaṇṇaṁ) *️⃣🤘⚧⨀④(te) 🔵⨀🤟▶️(dhārayate)
 gold / to you / [he] owes
 *[He] owes you gold.*
 
@@ -178,7 +178,7 @@ Can also use with the ② `vibhatti` ending (eg. `rājānaṁ`).
 
 > **ārādho’haṁ** rañño
 
-🚹⨀①(ārādho) *️⃣👆⨀①(ahaṁ) 🚹⨀④(rañño)
+🚹⨀①(ārādho) *️⃣👆⚧⨀①(ahaṁ) 🚹⨀④(rañño)
 winning favour / I / with the king
 *I have won the king's favour.*
 
@@ -219,7 +219,7 @@ The rule sums this up in a verse:
 
 > ārocayāmi **vo** bhikkhave
 
-🟠⨀👆▶️(ārocayāmi) *️⃣🤘⨂④(vo) 🚹⨂⓪(bhikkhave)
+🟠⨀👆▶️(ārocayāmi) *️⃣🤘⚧⨂④(vo) 🚹⨂⓪(bhikkhave)
 I announce / to you / monks
 *I announce to you, monks.*
 
@@ -251,7 +251,7 @@ out of compassion for the world / for the good / for the welfare / for the happi
 
 > **alaṁ me** buddho
 
-⏏️(alaṁ) *️⃣👆⨀④(me) 🚹⨀①(buddho)
+⏏️(alaṁ) *️⃣👆⚧⨀④(me) 🚹⨀①(buddho)
 is enough, is fit / for me / the Buddha
 *The Buddha is enough for me.*
 
@@ -262,7 +262,7 @@ is enough, is fit / for me / the Buddha
 
 > **kaṭṭhassa** tuvaṁ maññe
 
-🚻⨀④(kaṭṭhassa) *️⃣🤘⨀②(tuvaṁ) 🔵⨀👆▶️(maññe)
+🚻⨀④(kaṭṭhassa) *️⃣🤘⚧⨀②(tuvaṁ) 🔵⨀👆▶️(maññe)
 a stick / you / I think [to be]
 *I take you for a stick.*
 
@@ -271,13 +271,13 @@ instead:
 
 > suvaṇṇaṁ viya taṁ maññe
 
-🚻⨀②(suvaṇṇaṁ) ⏏️(viya) *️⃣🤟⨀②(taṁ) 🔵⨀👆▶️(maññe)
+🚻⨀②(suvaṇṇaṁ) ⏏️(viya) *️⃣🤟🚻⨀②(taṁ) 🔵⨀👆▶️(maññe)
 gold / like / that / I think [to be]
 *I think that [to be] like gold.*
 
 > gadrabhaṁ tuvaṁ maññe
 
-🚹⨀②(gadrabhaṁ) *️⃣🤘⨀②(tuvaṁ) 🔵⨀👆▶️(maññe)
+🚹⨀②(gadrabhaṁ) *️⃣🤘⚧⨀②(tuvaṁ) 🔵⨀👆▶️(maññe)
 a donkey / you / I think [to be]
 *I take you for a donkey.*
 
@@ -330,7 +330,7 @@ still more / to a measure
 
 > **tuyhañ’c’assa** āvi karomi
 
-*️⃣🤘⨀④(tuyhaṁ) ⏏️(ca) *️⃣🤟🚹⨀④(assa) ⏏️(āvi) 🟢⨀👆▶️(karomi)
+*️⃣🤘⚧⨀④(tuyhaṁ) ⏏️(ca) *️⃣🤟🚹⨀④(assa) ⏏️(āvi) 🟢⨀👆▶️(karomi)
 to you / and / to him / openly / I make
 *I make [it] plain to you and to him.*
 
@@ -344,7 +344,7 @@ to you / and / to him / openly / I make
 
 > upamaṁ **te** karissāmi
 
-🚺⨀②(upamaṁ) *️⃣🤘⨀④(te) 🟢⨀👆⏭(karissāmi)
+🚺⨀②(upamaṁ) *️⃣🤘⚧⨀④(te) 🟢⨀👆⏭(karissāmi)
 a simile / for you / I shall make
 *I shall make a simile for you.*
 
@@ -445,13 +445,13 @@ his own preceptor / [he] extols
 
 4. > tava silāghate. mama silāghate
 
-*️⃣🤘⨀④(tava) 🔵⨀🤟▶️(silāghate) *️⃣👆⨀④(mama) 🔵⨀🤟▶️(silāghate)
+*️⃣🤘⚧⨀④(tava) 🔵⨀🤟▶️(silāghate) *️⃣👆⚧⨀④(mama) 🔵⨀🤟▶️(silāghate)
 you / [he] extols / me / [he] extols
 *[He] extols you. [He] extols me.*
 
 5. > hanute mayha’meva
 
-🔵⨀🤟▶️(hanute) *️⃣👆⨀④(mayhaṁ) ⏏️(eva)
+🔵⨀🤟▶️(hanute) *️⃣👆⚧⨀④(mayhaṁ) ⏏️(eva)
 [he] denies / to me / only
 *[He] denies [it] to me alone.*
 
@@ -463,13 +463,13 @@ on a monk / while eating / with drinking water / or / with a fan / or / should a
 
 7. > mayhaṁ sapate
 
-*️⃣👆⨀④(mayhaṁ) 🔵⨀🤟▶️(sapate)
+*️⃣👆⚧⨀④(mayhaṁ) 🔵⨀🤟▶️(sapate)
 to me / [he] swears an oath
 *[He] swears an oath to me.*
 
 8. > devā dassanakāmā te
 
-🚹⨂①(devā 🆎(dassana+kāma)) *️⃣🤘⨀④(te)
+🚹⨂①(devā 🆎(dassana+kāma)) *️⃣🤘⚧⨀④(te)
 the gods / wishing to see / you
 *The gods wish to see you.*
 
@@ -517,13 +517,13 @@ bad people / the virtuous / envy / out of greed for virtue
 
 16. > kā usūyā vijānataṁ
 
-*️⃣🚺⨀①(kā) 🚺⨀①(usūyā) 🚹⨂④🔽(anta)(vijānataṁ)
+*️⃣🤟🚺⨀①(kā) 🚺⨀①(usūyā) 🚹⨂④🔽(anta)(vijānataṁ)
 what / envy / towards those who understand
 *What envy [is there] towards those who understand?*
 
 17. > kyā’haṁ ayyānaṁ aparajjhāmi (ayye)
 
-*️⃣🚻⨀②(kiṁ) *️⃣👆⨀①(ahaṁ) 🚹⨂④(ayyānaṁ) 🟢⨀👆▶️(aparajjhāmi)
+*️⃣🤟🚻⨀②(kiṁ) *️⃣👆⚧⨀①(ahaṁ) 🚹⨂④(ayyānaṁ) 🟢⨀👆▶️(aparajjhāmi)
 what / I / against the masters / do wrong
 *What wrong do I do to the masters?*
 
@@ -531,7 +531,7 @@ Can also use with the ② `vibhatti` ending: `kyāhaṁ ayye aparajjhāmi`.
 
 18. > cakkhuṁ janassa dassanāya taṁ viya maññe
 
-🚻⨀②(cakkhuṁ) 🚹⨀④(janassa) 🚻⨀④(dassanāya) *️⃣🤟⨀②(taṁ) ⏏️(viya) 🔵⨀👆▶️(maññe)
+🚻⨀②(cakkhuṁ) 🚹⨀④(janassa) 🚻⨀④(dassanāya) *️⃣🤟🚻⨀②(taṁ) ⏏️(viya) 🔵⨀👆▶️(maññe)
 an eye / for people / for seeing / that / like / I think [to be]
 *I think that [to be] like an eye for people to see with.*
 
@@ -563,19 +563,19 @@ that / monk / the people / respond approvingly to
 
 23. > āmantayāmi vo bhikkhave
 
-🟢⨀👆▶️(āmantayāmi) *️⃣🤘⨂④(vo) 🚹⨂⓪(bhikkhave)
+🟢⨀👆▶️(āmantayāmi) *️⃣🤘⚧⨂④(vo) 🚹⨂⓪(bhikkhave)
 I address / you / monks
 *I address you, monks.*
 
 24. > paṭivedayāmi vo bhikkhave
 
-🟠⨀👆▶️(paṭivedayāmi) *️⃣🤘⨂④(vo) 🚹⨂⓪(bhikkhave)
+🟠⨀👆▶️(paṭivedayāmi) *️⃣🤘⚧⨂④(vo) 🚹⨂⓪(bhikkhave)
 I make known / to you / monks
 *I make known to you, monks.*
 
 25. > ārocayāmi te mahārāja. āmantayāmi te mahārāja. paṭivedayāmi te mahārāja
 
-🟠⨀👆▶️(ārocayāmi) *️⃣🤘⨀④(te) 🚹⨀⓪🆎(mahā+rāja) 🟢⨀👆▶️(āmantayāmi) *️⃣🤘⨀④(te) 🚹⨀⓪🆎(mahā+rāja) 🟠⨀👆▶️(paṭivedayāmi) *️⃣🤘⨀④(te) 🚹⨀⓪🆎(mahā+rāja)
+🟠⨀👆▶️(ārocayāmi) *️⃣🤘⚧⨀④(te) 🚹⨀⓪🆎(mahā+rāja) 🟢⨀👆▶️(āmantayāmi) *️⃣🤘⚧⨀④(te) 🚹⨀⓪🆎(mahā+rāja) 🟠⨀👆▶️(paṭivedayāmi) *️⃣🤘⚧⨀④(te) 🚹⨀⓪🆎(mahā+rāja)
 I announce / to you / great king / I address / you / great king / I make known / to you / great king
 *I announce to you, great king. I address you, great king. I make known to you, great king.*
 
@@ -593,7 +593,7 @@ of the monks / for the comfortable living / the discipline / was laid down
 
 28. > alaṁ me rajjaṁ
 
-⏏️(alaṁ) *️⃣👆⨀④(me) 🚻⨀①(rajjaṁ)
+⏏️(alaṁ) *️⃣👆⚧⨀④(me) 🚻⨀①(rajjaṁ)
 is fitting / for me / kingship
 *Kingship is fitting for me.*
 
@@ -611,19 +611,19 @@ is a match / the wrestler / for the wrestler / is worthy / the wrestler / of the
 
 31. > alaṁ te rūpaṁ karaṇīyaṁ
 
-⏏️(alaṁ) *️⃣🤘⨀④(te) 🚻⨀①(rūpaṁ 🔽(aṇīya)(karaṇīyaṁ))
+⏏️(alaṁ) *️⃣🤘⚧⨀④(te) 🚻⨀①(rūpaṁ 🔽(aṇīya)(karaṇīyaṁ))
 enough! (refusal) / for you / the form / to be made
 *Enough of the form you are to make.*
 
 32. > alaṁ me hiraññasuvaṇṇena
 
-⏏️(alaṁ) *️⃣👆⨀④(me) 🚻⨀③🆎(hirañña+suvaṇṇa)
+⏏️(alaṁ) *️⃣👆⚧⨀④(me) 🚻⨀③🆎(hirañña+suvaṇṇa)
 enough! (refusal) / for me / of unwrought and wrought gold
 *Enough of unwrought and wrought gold for me.*
 
 33. > kaliṅgarassa tuvaṁ maññe
 
-🚹⨀④(kaliṅgarassa) *️⃣🤘⨀②(tuvaṁ) 🔵⨀👆▶️(maññe)
+🚹⨀④(kaliṅgarassa) *️⃣🤘⚧⨀②(tuvaṁ) 🔵⨀👆▶️(maññe)
 a log / you / I think [to be]
 *I take you for a log.*
 
@@ -661,7 +661,7 @@ Can also use with the ② `vibhatti` ending: `mūlaṁ paṭikasseyya saṅgho`.
 
 38. > bhaddaṁ bhavato hotu. kusalaṁ bhavato hotu. anāmayaṁ bhavato hotu. sukhaṁ bhavato hotu
 
-🚻⨀①(bhaddaṁ) 🚹⨀④(bhavato) 🟢⨀🤟⏹(hotu) 🚻⨀①(kusalaṁ) 🚹⨀④(bhavato) 🟢⨀🤟⏹(hotu) 🚻⨀①(anāmayaṁ) 🚹⨀④(bhavato) 🟢⨀🤟⏹(hotu) 🚻⨀①(sukhaṁ) 🚹⨀④(bhavato) 🟢⨀🤟⏹(hotu)
+🚻⨀①(bhaddaṁ) 🚹⨀④(bhavato) 🟢⨀🤟⏹(hotu) 🚻⨀①(kusalaṁ) 🚹⨀④(bhavato) 🟢⨀🤟⏹(hotu) 🚻⨀①🆎(na+āmaya) 🚹⨀④(bhavato) 🟢⨀🤟⏹(hotu) 🚻⨀①(sukhaṁ) 🚹⨀④(bhavato) 🟢⨀🤟⏹(hotu)
 good fortune / for you, sir / may there be / wellbeing / for you, sir / may there be / health / for you, sir / may there be / happiness / for you, sir / may there be
 *May there be good fortune for you, sir. May there be wellbeing for you, sir. May there be health for you, sir. May there be happiness for you, sir.*
 
@@ -673,19 +673,19 @@ welcome / to you, sir / may there be / benefit / for you, sir / may there be / w
 
 40. > sādhu sammuti me tassa bhagavato dassanāya
 
-⏏️(sādhu) 🚺⨀①(sammuti) *️⃣👆⨀④(me) 🚹⨀⑥(*️⃣🤟(tassa) bhagavato) 🚻⨀④(dassanāya)
+⏏️(sādhu) 🚺⨀①(sammuti) *️⃣👆⚧⨀④(me) 🚹⨀⑥(*️⃣🤟(tassa) bhagavato) 🚻⨀④(dassanāya)
 good / consent / for me / of that / Blessed One / for seeing
 *Good is the consent for me to see that Blessed One.*
 
 41. > tassa me sakko pāturahosi
 
-*️⃣🤟🚹⨀④(tassa) *️⃣👆⨀④(me) 🚹⨀①(sakko) 🟢⨀🤟⏮(pāturahosi)
+*️⃣🤟🚹⨀④(tassa) *️⃣👆⚧⨀④(me) 🚹⨀①(sakko) 🟢⨀🤟⏮(pāturahosi)
 to that [one] / to me / Sakka / appeared
 *Then Sakka appeared to me.*
 
 42. > dhammaṁ vo desessāmi
 
-🚹⨀②(dhammaṁ) *️⃣🤘⨂④(vo) 🟠⨀👆⏭(desessāmi)
+🚹⨀②(dhammaṁ) *️⃣🤘⚧⨂④(vo) 🟠⨀👆⏭(desessāmi)
 the Dhamma / to you / I shall teach
 *I shall teach you the Dhamma.*
 
@@ -709,7 +709,7 @@ to him / [he] should send
 
 46. > yathā no bhagavā byākareyya
 
-⏏️(yathā) *️⃣👆⨂④(no) 🚹⨀①(bhagavā) 🟢⨀🤟⏯(byākareyya)
+⏏️(yathā) *️⃣👆⚧⨂④(no) 🚹⨀①(bhagavā) 🟢⨀🤟⏯(byākareyya)
 as / to us / the Blessed One / would explain
 *As the Blessed One would explain to us.*
 
@@ -727,25 +727,25 @@ is allowable / for ascetics / the practice
 
 49. > amhākaṁ maṇinā attho
 
-*️⃣👆⨂④(amhākaṁ) 🚹⨀③(maṇinā) 🚹⨀①(attho)
+*️⃣👆⚧⨂④(amhākaṁ) 🚹⨀③(maṇinā) 🚹⨀①(attho)
 for us / of the jewel / need
 *We have need of the jewel.*
 
 50. > kimattho me buddhena
 
-🚹⨀①🆎(kiṁ+attha) *️⃣👆⨀④(me) 🚹⨀③(buddhena)
+🚹⨀①🆎(kiṁ+attha) *️⃣👆⚧⨀④(me) 🚹⨀③(buddhena)
 what need / for me / of the Buddha
 *What need have I of the Buddha?*
 
 51. > seyyo me attho
 
-🚹⨀①(seyyo) *️⃣👆⨀④(me) 🚹⨀①(attho)
+🚹⨀①(seyyo) *️⃣👆⚧⨀④(me) 🚹⨀①(attho)
 better / for me / the goal
 *The better goal is for me.*
 
 52. > bahūpakārā bhante mahāpajāpatigotamī bhagavato
 
-🚺⨀①🆎(bahu+upakāra) 🚹⨀⓪(bhante) 🚺⨀①🆎(mahāpajāpati+gotamī) 🚹⨀④(bhagavato)
+🚺⨀①🆎(bahu+upakāra) 🚹⨀⓪(bhante) 🚺⨀①(mahāpajāpatigotamī) 🚹⨀④(bhagavato)
 of great service / venerable sir / Mahāpajāpatī Gotamī / to the Blessed One
 *Mahāpajāpatī Gotamī, venerable sir, has been of great service to the Blessed One.*
 
@@ -763,7 +763,7 @@ over the country / master / this / king
 
 55. > khettassa pabhū ayaṁ gahapati
 
-🚻⨀④(khettassa) 🚹⨀①(pabhū) *️⃣🤟🚹⨀①(ayaṁ) 🚹⨀①(gahapati)
+🚻⨀④(khettassa) 🚹⨀①(pabhū) *️⃣🤟🚹⨀①(ayaṁ) 🚹⨀①🆎(gaha+pati)
 over the field / master / this / householder
 *This householder is master over the field.*
 
@@ -809,7 +809,7 @@ a giver / [he] is / to an ascetic / or / to a brahmin / or
 
 > namo **te** buddha vīr’atthu
 
-⏏️(namo) *️⃣🤘⨀④(te) 🚹⨀⓪(buddha) 🚹⨀⓪(vīra) 🟢⨀🤟⏹(atthu)
+⏏️(namo) *️⃣🤘⚧⨀④(te) 🚹⨀⓪(buddha) 🚹⨀⓪(vīra) 🟢⨀🤟⏹(atthu)
 homage / to you / O Buddha / O hero / let there be
 *Homage be to you, O Buddha, O hero.*
 
@@ -837,7 +837,7 @@ homage / make / to the nāga
 
 3. > svāgataṁ te mahārāja
 
-🚻⨀①(svāgataṁ) *️⃣🤘⨀④(te) 🚹⨀⓪🆎(mahā+rāja)
+🚻⨀①(svāgataṁ) *️⃣🤘⚧⨀④(te) 🚹⨀⓪🆎(mahā+rāja)
 welcome / to you / great king
 *Welcome to you, great king.*
 
@@ -870,6 +870,6 @@ to the Saṅgha / Gotamī / give
 
 2. > saṅghe te dinne ahañ’c’eva pūjito bhavissāmi
 
-🚹⨀⑦(saṅghe) *️⃣🤘⨀③(te) 🚻⨀⑦🔽(ta)(dinne) *️⃣👆⨀①(ahaṁ) ⏏️(ca) ⏏️(eva) 🚹⨀①🔽(ta)(pūjito) 🟢⨀👆⏭(bhavissāmi)
+🚹⨀⑦(saṅghe) *️⃣🤘⚧⨀③(te) 🚻⨀⑦🔽(ta)(dinne) *️⃣👆⚧⨀①(ahaṁ) ⏏️(ca) ⏏️(eva) 🚹⨀①🔽(ta)(pūjito) 🟢⨀👆⏭(bhavissāmi)
 to the Saṅgha / by you / when [it is] given / I / too, indeed / honoured / shall be
 *When you have given to the Saṅgha, I too shall be honoured.*

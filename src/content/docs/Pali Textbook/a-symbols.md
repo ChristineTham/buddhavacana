@@ -17,6 +17,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 | 🚹 | `pulliṅga` | major (masculine) gender |
 | 🚻 | `napuṁsakaliṅga` | special (neuter) gender |
 | 🚺 | `itthiliṅga` | minor (feminine) gender |
+| ⚧ | `aliṅga` | without gender: one set of forms for all three genders, as the pronouns `amha` and `tumha` and the numeral `dvi` have |
 | ⨀ | `ekavacana` | singular |
 | ⨂ | `bahuvacana` | plural |
 | 🟢 | `parassapada`, `kattu` | active voice |

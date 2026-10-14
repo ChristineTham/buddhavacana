@@ -187,7 +187,7 @@ break. English says "for a month", "through the autumn", "a league long".
 
 > **māsaṁ** maṁsodanaṁ bhuñjati
 
-🚹⨀②(māsaṁ) 🚹⨀②🆎(maṁsa+odana)(maṁsodanaṁ) 🟢⨀🤟▶️(bhuñjati)
+🚹⨀②(māsaṁ) 🚹⨀②🆎(maṁsa+odana) 🟢⨀🤟▶️(bhuñjati)
 for a month / rice with meat / [he] eats
 *He eats rice with meat for a month.*
 
@@ -224,7 +224,7 @@ for a month / [he] recites
 
 3. > yojanaṁ vanarāji
 
-🚻⨀②(yojanaṁ) 🚺⨀①🆎(vana+rāji)(vanarāji)
+🚻⨀②(yojanaṁ) 🚺⨀①🆎(vana+rāji)
 for a league (yojana, about 20 km) / the line of forest
 *The line of forest [runs] for a league.*
 
@@ -254,7 +254,7 @@ takes the ② ending.
 
 > **taṁ** kho pana **bhavantaṁ gotamaṁ** evaṁ kalyāṇo kittisaddo abbhuggato
 
-*️⃣🤟🚹⨀②(taṁ) ⏏️(kho) ⏏️(pana) 🚹⨀②(bhavantaṁ gotamaṁ) ⏏️(evaṁ) 🚹⨀①(kalyāṇo 🆎(kitti+sadda)(kittisaddo) 🔽(ta)(abbhuggato))
+*️⃣🤟🚹⨀②(taṁ) ⏏️(kho) ⏏️(pana) 🚹⨀②(bhavantaṁ gotamaṁ) ⏏️(evaṁ) 🚹⨀①(kalyāṇo 🆎(kitti+sadda) 🔽(ta)(abbhuggato))
 that / indeed / now / the venerable / Gotama / such / a fair / report / has spread about
 *Now about that venerable Gotama such a fair report has spread.*
 
@@ -368,7 +368,7 @@ of ② {309}; see [2.7](../2-7-genitive/).
 
 > api’ssu **maṁ** aggivessana tisso upamā paṭibhaṁsu
 
-⏏️(api’ssu) *️⃣👆⨀②(maṁ) 🚹⨀⓪(aggivessana) ⨂(🚺①(*️⃣(tisso) upamā) 🟢🤟⏮(paṭibhaṁsu))
+⏏️(api’ssu) *️⃣👆⚧⨀②(maṁ) 🚹⨀⓪(aggivessana) ⨂(🚺①(tisso upamā) 🟢🤟⏮(paṭibhaṁsu))
 moreover / to me / Aggivessana / three / similes / occurred
 *Moreover, Aggivessana, three similes occurred to me.*
 
@@ -386,7 +386,7 @@ expected: the similes occurred to me.
 
 > sace **maṁ** samaṇo gotamo ālapissati
 
-⏏️(sace) *️⃣👆⨀②(maṁ) ⨀(🚹①(samaṇo gotamo) 🟢🤟⏭(ālapissati))
+⏏️(sace) *️⃣👆⚧⨀②(maṁ) ⨀(🚹①(samaṇo gotamo) 🟢🤟⏭(ālapissati))
 if / with me / the ascetic / Gotama / will converse
 *If the ascetic Gotama will converse with me.*
 
@@ -396,7 +396,7 @@ if / with me / the ascetic / Gotama / will converse
 
 > **pubbaṇhasamayaṁ** nivāsetvā
 
-🚹⨀②🆎(pubbaṇha+samaya)(pubbaṇhasamayaṁ) 🔽(tvā)(nivāsetvā)
+🚹⨀②🆎(pubbaṇha+samaya) 🔽(tvā)(nivāsetvā)
 in the forenoon / having dressed
 *Having dressed in the forenoon, …*
 
@@ -412,7 +412,7 @@ forenoon") would be expected: the ② ending marks the time at which.
 
 1. > tvañca maṁ nā’bhibhāsasi
 
-*️⃣🤘⨀①(tvaṁ) ⏏️(ca) *️⃣👆⨀②(maṁ) ⏏️(na) 🟢⨀🤘▶️(abhibhāsasi)
+*️⃣🤘⚧⨀①(tvaṁ) ⏏️(ca) *️⃣👆⚧⨀②(maṁ) ⏏️(na) 🟢⨀🤘▶️(abhibhāsasi)
 you / and / with me / not / speak
 *And you do not speak with me.*
 
@@ -421,7 +421,7 @@ you / and / with me / not / speak
 
 2. > ekaṁ samayaṁ bhagavā
 
-🚹⨀②(*️⃣(ekaṁ) samayaṁ) 🚹⨀①(bhagavā)
+🚹⨀②(*️⃣🤟(ekaṁ) samayaṁ) 🚹⨀①(bhagavā)
 at one / time / the Blessed One
 *At one time the Blessed One …*
 

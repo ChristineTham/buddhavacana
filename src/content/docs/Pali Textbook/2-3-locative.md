@@ -169,7 +169,7 @@ in a deep / [pit] reaching down to water
 
 2. > bhagavati brahmacariyaṁ vussati kulaputto
 
-🚹⨀⑦(bhagavati) 🚻⨀②(brahmacariyaṁ) ⨀(🔵🤟▶️(vussati) 🚹①(kulaputto))
+🚹⨀⑦(bhagavati) 🚻⨀②🆎(brahma+cariya) ⨀(🔵🤟▶️(vussati) 🚹①🆎(kula+putta))
 under the Blessed One / the holy life / lives / a young man of good family
 *A young man of good family lives the holy life under the Blessed One.*
 

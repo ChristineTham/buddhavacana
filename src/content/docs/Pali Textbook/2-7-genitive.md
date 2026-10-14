@@ -128,7 +128,7 @@ Can also use with the ⑦ `vibhatti` ending (eg. `goṇesu`)
 
 > **goṇānaṁ** dāyādo
 
-🚹⨂⑥(goṇānaṁ) 🚹⨀①(dāyādo)
+🚹⨂⑥(goṇānaṁ) 🚹⨀①🆎(dāya+āda)
 of the cattle / heir
 *The heir to the cattle.*
 
@@ -207,7 +207,7 @@ over the cattle / chief
 
 4. > goṇesu dāyādo
 
-🚹⨂⑦(goṇesu) 🚹⨀①(dāyādo)
+🚹⨂⑦(goṇesu) 🚹⨀①🆎(dāya+āda)
 in respect of the cattle / heir
 *The heir in respect of the cattle.*
 
@@ -358,7 +358,7 @@ expected; compare the first sentence of 2.7.6.3, which keeps `mayā`.
 
 > kusalā **naccagītassa** sikkhitā cāturitthiyo
 
-🚺⨂①(kusalā) 🚻⨀⑥🆎(naccagītassa) 🚺⨂①(🔽(ita)(sikkhitā) 🆎(cāturitthiyo))
+🚺⨂①(kusalā) 🚻⨀⑥🆎(nacca+gīta) 🚺⨂①(🔽(ita)(sikkhitā) 🆎(catu+itthī))
 skilled / in dance and song / trained / clever women
 *Clever women, trained, skilled in dance and song.*
 
@@ -395,7 +395,7 @@ done / by me / evil
 
 2. > kusalo tvaṁ rathassa aṅgapaccaṅgānaṁ
 
-🚹⨀①(kusalo) *️⃣🤘⚧⨀①(tvaṁ) 🚹⨀⑥(rathassa) 🚻⨂⑥🆎(aṅgapaccaṅgānaṁ)
+🚹⨀①(kusalo) *️⃣🤘⚧⨀①(tvaṁ) 🚹⨀⑥(rathassa) 🚻⨂⑥🆎(aṅga+paccaṅga)
 skilled / you / of a chariot / in the parts and fittings
 *You are skilled in the parts and fittings of a chariot.*
 
@@ -465,12 +465,12 @@ all / fear / death
 
 5. > bhīto catunnaṁ āsīvisānaṁ ghoravisānaṁ
 
-🚹⨀①🔽(ta)(bhīto) 🚹⨂⑥(catunnaṁ 🆎(āsīvisānaṁ) 🆎(ghoravisānaṁ))
+🚹⨀①🔽(ta)(bhīto) 🚹⨂⑥(catunnaṁ 🆎(āsī+visa) 🆎(ghora+visa))
 frightened / of the four / snakes / of fierce venom
 *Frightened of the four snakes of fierce venom.*
 
 6. > bhāyāmi ghoravisassa nāgassa
 
-🟢⨀👆▶️(bhāyāmi) 🚹⨀⑥(🆎(ghoravisassa) nāgassa)
+🟢⨀👆▶️(bhāyāmi) 🚹⨀⑥(🆎(ghora+visa) nāgassa)
 [I] fear / of fierce venom / the serpent
 *I fear the serpent of fierce venom.*

@@ -77,7 +77,7 @@ teacher and preceptor / lesson / takes / pupil
 
 > buddhasmā **parājenti** aññatitthiyā
 
-🚹⨀⑤(buddhasmā) ⨂(🟢🤟▶️(parājenti) 🚹①(aññatitthiyā))
+🚹⨀⑤(buddhasmā) ⨂(🟢🤟▶️(parājenti) 🚹①🆎(añña+titthiya))
 from Buddha / (are) defeated / (those) holding other views, heretics
 *The heretics are defeated from (i.e. by) the Buddha.*
 
@@ -87,7 +87,7 @@ from Buddha / (are) defeated / (those) holding other views, heretics
 
 > himavatā **pabhavanti** pañca mahānadiyo
 
-🚹⨀⑤(himavatā) ⨂(🟢🤟▶️(pabhavanti) 🚺①(pañca mahānadiyo))
+🚹⨀⑤(himavatā) ⨂(🟢🤟▶️(pabhavanti) 🚺①(pañca 🆎(mahā+nadī)))
 from the mount Himavantā / originate / five great rivers
 *The five great rivers originate from the Himalayas.*
 
@@ -187,13 +187,13 @@ since the time when / I / sister / by noble birth / [was] born
 
 1. > anavatattamhā pabhavanti mahāsarā
 
-🚹⨀⑤(anavatattamhā) ⨂(🟢🤟▶️(pabhavanti) 🚹①(mahāsarā))
+🚹⨀⑤(anavatattamhā) ⨂(🟢🤟▶️(pabhavanti) 🚹①🆎(mahā+sara))
 from lake Anavatatta / originate / the great lakes
 *The great lakes originate from lake Anavatatta.*
 
 2. > aciravatiyā pabhavanti kunnadiyo
 
-🚺⨀⑤(aciravatiyā) ⨂(🟢🤟▶️(pabhavanti) 🚺①(kunnadiyo))
+🚺⨀⑤(aciravatiyā) ⨂(🟢🤟▶️(pabhavanti) 🚺①🆎(ku+nadī))
 from the river Aciravatī / originate / The small creeks
 *The small creeks originate from the river Aciravatī.*
 
@@ -261,7 +261,7 @@ from a period of a month / [he] eats / food
 
 13. > rite saddhammā kuto sukhaṁ labhati (saddhammaṁ, saddhammena)
 
-⏏️(rite) 🚹⨀⑤(saddhammā) ⏏️(kuto) 🚻⨀②(sukhaṁ) 🟢⨀🤟▶️(labhati)
+⏏️(rite) 🚹⨀⑤🆎(sat+dhamma) ⏏️(kuto) 🚻⨀②(sukhaṁ) 🟢⨀🤟▶️(labhati)
 except / noble way of Dhamma / where? / happiness / [one can] get
 *Where (one) can get happiness without (except) the noble way of Dhamma?*
 
@@ -273,13 +273,13 @@ those monks / from various families and homes / came forth (become)
 
 15. > vinā saddhammā nattha’ñño koci nātho loke vijjati (saddhammaṁ, saddhammena)
 
-⏏️(vinā) 🚹⨀⑤(saddhammā) ⏏️(na) 🟢⨀🤟▶️(atthi) *️⃣🚹⨀①(añño) *️⃣🚹⨀①(koci) 🚹⨀①(nātho) 🚹⨀⑦(loke) 🟢⨀🤟▶️(vijjati)
+⏏️(vinā) 🚹⨀⑤🆎(sat+dhamma) ⏏️(na) 🟢⨀🤟▶️(atthi) *️⃣🤟🚹⨀①(añño) *️⃣🤟🚹⨀①(koci) 🚹⨀①(nātho) 🚹⨀⑦(loke) 🟢⨀🤟▶️(vijjati)
 except / noble way of Dhamma / not / is / other / any / refuge / in the world / exists
 *There is no other refuge/help in the world except the noble way of Dhamma.*
 
 16. > vinā buddhasmā nattha’ñño koci nātho loke vijjati (buddhaṁ, buddhena)
 
-⏏️(vinā) 🚹⨀⑤(buddhasmā) ⏏️(na) 🟢⨀🤟▶️(atthi) *️⃣🚹⨀①(añño) *️⃣🚹⨀①(koci) 🚹⨀①(nātho) 🚹⨀⑦(loke) 🟢⨀🤟▶️(vijjati)
+⏏️(vinā) 🚹⨀⑤(buddhasmā) ⏏️(na) 🟢⨀🤟▶️(atthi) *️⃣🤟🚹⨀①(añño) *️⃣🤟🚹⨀①(koci) 🚹⨀①(nātho) 🚹⨀⑦(loke) 🟢⨀🤟▶️(vijjati)
 except / from the Buddha / not / is / other / any / refuge / in the world / exists
 *There is no other refuge/help in the world except from Buddha.*
 
@@ -297,7 +297,7 @@ since / the one who attained / [I] am / to a state of being mature, wise
 
 19. > yatvā’dhikaraṇa’menaṁ cakkhundriyaṁ asaṁvutaṁ viharantaṁ abhijjhā, domanassā pāpakā akusalā dhammā anvā’saveyyuṁ
 
-⏏️(yato) 🚻⨀①(adhikaraṇaṁ) *️⃣🚹⨀②(🤟(enaṁ) 🔽(anta)(viharantaṁ)) 🚻⨀①(cakkhundriyaṁ 🔽(ta)(asaṁvutaṁ)) ⨂①(🚺(abhijjhā) 🚻(domanassā pāpakā akusalā dhammā)) 🟢⨂🤟⏯(anvā’saveyyuṁ)
+⏏️(yato) 🚻⨀①(adhikaraṇaṁ) 🚹⨀②(*️⃣🤟(enaṁ) 🔽(anta)(viharantaṁ)) 🚻⨀①(🆎(cakkhu+indriya) 🔽(ta)(asaṁvutaṁ)) ⨂①(🚺(abhijjhā) 🚻(domanassā pāpakā 🆎(na+kusala) dhammā)) 🟢⨂🤟⏯(anvā’saveyyuṁ)
 for which reason / that (person) / dwelling / the eye faculty / unrestrained / covetousness / aversion / evil / unwholesome / mental states / may flow in
 *For (such a) reason of (casually) living without restraining one’s eye, bad, unwholesome mental states (such as) desire, and aversion etc., may repeatedly arise to (the mind of) that person.*
 
@@ -390,7 +390,7 @@ Can also use with ② and ③ `vibhatti` endings (eg. `antikaṁ gāmaṁ`, `ant
 
 > **ito** mathurāya catūsu yojanesu saṅkassaṁ nāma nagaraṁ atthi, tattha bahū janā vasanti
 
-⏏️(ito) 🚺⨀⑤(mathurāya) 🚻⨂⑦(catūsu yojanesu) ⨀(🚻①(saṅkassaṁ nāma nagaraṁ) 🤟▶️(atthi)) ⏏️(tattha) ⨂(🚹①(bahū janā) 🤟▶️(vasanti))
+⏏️(ito) 🚺⨀⑤(mathurāya) 🚻⨂⑦(catūsu yojanesu) ⨀(🚻①(saṅkassaṁ nāma nagaraṁ) 🟢🤟▶️(atthi)) ⏏️(tattha) ⨂(🚹①(bahū janā) 🟢🤟▶️(vasanti))
 from here / from city of "Mathurā" / at 4 yojana (~20 km) / city named “Saṅkassa” / [there] is / there / many / people / live
 *At four "yojana" distance from Mathurā, there is a city named "Saṅkassa". Many people live there.*
 
@@ -398,7 +398,7 @@ from here / from city of "Mathurā" / at 4 yojana (~20 km) / city named “Saṅ
 
 > **ito** bhikkhave ekanavutikappe vipassī nāma bhagavā loke udapādi
 
-⏏️(ito) 🚹⨂⓪(bhikkhave) 🚹⨀⑦(ekanavutikappe) 🚹⨀⑦(loke) ⨀(🚹①(vipassī nāma bhagavā) 🤟⏮(udapādi))
+⏏️(ito) 🚹⨂⓪(bhikkhave) 🚹⨀⑦🆎(ekanavuti+kappa) 🚹⨀⑦(loke) ⨀(🚹①(vipassī nāma bhagavā) 🟢🤟⏮(udapādi))
 from here / monks! / at a time of 91 eons / in the world / Buddha named Vipassī / appeared
 *Monks! at a time of 91 eons from now, the Buddha named “Vipassī”, appeared in the world.*
 
@@ -422,7 +422,7 @@ to the mansion or palace / having gone up
 
 > avīcito yāva upari bhavagga’mantare bahū sattanikāyā vasanti
 
-⏏️(avīcito) ⏏️(yāva) ⏏️(upari) 🚻⨀②(bhavaggaṁ) ⏏️(antare) ⨂(🚹①(bahū sattanikāyā) 🤟▶️(vasanti))
+⏏️(avīcito) ⏏️(yāva) ⏏️(upari) 🚻⨀②🆎(bhava+agga) ⏏️(antare) ⨂(🚹①(bahū 🆎(satta+nikāya)) 🟢🤟▶️(vasanti))
 from lowest hell / up to / above / the highest heaven / in between / many diverse groups of living beings / live
 *Many diverse groups of beings live in between from the lowest hell (underneath) to the highest heaven above.*
 
@@ -430,7 +430,7 @@ from lowest hell / up to / above / the highest heaven / in between / many divers
 
 > yato paṇītataro vā visiṭṭhataro vā natthi
 
-⏏️(yato) ⨀(🚹①(paṇītataro) ⏏️(vā) 🚹①(visiṭṭhataro) ⏏️(vā) ⏏️(na) 🤟▶️(atthi))
+⏏️(yato) ⨀(🚹①(paṇītataro) ⏏️(vā) 🚹①(visiṭṭhataro) ⏏️(vā) ⏏️(na) 🟢🤟▶️(atthi))
 from which / the best / or / the most outstanding thing / or / no / [there] is
 *There is nothing better or more outstanding [than the Dhamma].*
 
@@ -438,12 +438,12 @@ from which / the best / or / the most outstanding thing / or / no / [there] is
 
 > gāmadhammā vasaladhammā asaddhammā ārati virati paṭivirati
 
-🚹⨀⑤(gāmadhammā vasaladhammā asaddhammā) 🚺⨀①(ārati virati paṭivirati)
+🚹⨀⑤(🆎(gāma+dhamma) 🆎(vasala+dhamma) 🆎(na+saddhamma)) 🚺⨀①(ārati virati paṭivirati)
 from the way of villagers / from impious way / from ignoble way / (mental) abstinence / (physical) abstinence / sustained abstinence
 
 > pāṇātipātā veramaṇī
 
-🚹⨀⑤(pāṇātipātā) 🚺⨀①(veramaṇī)
+🚹⨀⑤🆎(pāṇa+atipāta) 🚺⨀①(veramaṇī)
 from killing / abstinence
 
 #### 2.1.5.9 Purity
@@ -466,14 +466,14 @@ freed / from suffering / (quote) / (I) say
 
 > kasmā hetunā
 
-*️⃣🚹⨀⑤(kasmā) 🚹⨀③(hetunā)
+*️⃣🤟🚹⨀⑤(kasmā) 🚹⨀③(hetunā)
 for what / reason
 *for what reason, why?*
 
 Similarly, can also use ③ and ⑥ `vibhatti` endings:
 
-> *️⃣🚹⨀③(kena) 🚹⨀③(hetunā)
-> *️⃣🚹⨀⑥(kissa) 🚹⨀③(hetunā)
+> *️⃣🤟🚹⨀③(kena) 🚹⨀③(hetunā)
+> *️⃣🤟🚹⨀⑥(kissa) 🚹⨀③(hetunā)
 
 #### 2.1.5.12 Dissociation
 
@@ -487,7 +487,7 @@ is dissociated, being detached from / unwholesome / mental state
 
 > dīghaso navavidatthiyo sugatavidatthiyā pamāṇikā kāretabbā. majjhimassa purisassa aḍḍha-teḷasahatthā
 
-⏏️(dīghaso) 🚺⨂①(navavidatthiyo) 🚺⨀⑤(sugatavidatthiyā) 🚺⨂①(pamāṇikā 🔽(tabba)(kāretabbā)) 🚹⨀⑥(majjhimassa purisassa) 🚹⨂①(aḍḍha-teḷasahatthā)
+⏏️(dīghaso) 🚺⨂①(navavidatthiyo) 🚺⨀⑤🆎(sugata+vidatthi) 🚺⨂①(pamāṇikā 🔽(tabba)(kāretabbā)) 🚹⨀⑥(majjhimassa purisassa) 🚹⨂①(aḍḍha-teḷasahatthā)
 by length / by Buddha's vidatthi (length between outstretched thumb and little finger) measurements / measurement / should be made measured / of medium / of man / half / thirteen / measure of length (measure from elbow to extended little-finger tip)
 *By measure of Buddha’s vidatthi measurement, nine vidatthi in length, half-thirteen feet by measure of a medium height man are to be measured.*
 
@@ -522,7 +522,7 @@ extolling the result or benefit of a virtue or a specific quality
 
 > puññāya sugatiṁ yanti
 
-🚻⨀⑤(puññāya) 🚺⨀①(sugatiṁ) 🤟⨂▶️(yanti)
+🚻⨀⑤(puññāya) 🚺⨀②(sugatiṁ) 🟢⨂🤟▶️(yanti)
 by meritorious deed / to good destiny (re-birth). / (people) go
 *People go to a good (destiny of) re-birth by virtue of meritorious deed.*
 
@@ -532,7 +532,7 @@ Used together without a tvā-gerund Kita verb:
 
 > abhidhammā pucchanti
 
-🚹⨀⑤(abhidhammā) 🤟⨂▶️(pucchanti)
+🚹⨀⑤(abhidhammā) 🟢⨂🤟▶️(pucchanti)
 from abhidhamma / (they) ask
 *They ask question from (i.e. regarding) Abhidhamma.*
 
@@ -555,7 +555,7 @@ Also used with answering:
 
 > abhidhammā kathayanti
 
-🚹⨀⑤(abhidhammā) 🤟⨂▶️(kathayanti)
+🚹⨀⑤(abhidhammā) 🟢⨂🤟▶️(kathayanti)
 from abhidhamma / (they) answer
 *They answer question from (i.e. regarding) Abhidhamma.*
 
@@ -576,7 +576,7 @@ Some other words that can be used in this manner (replacing `abhidhamma`):
 
 > thokā muccanti
 
-🚹⨀⑤(thokā) 🤟⨂▶️(muccanti)
+🚹⨀⑤(thokā) 🟢⨂🤟▶️(muccanti)
 from reasons of little (excuse) / (they) are free (from confinement)
 *They are free by means of a little excuse.*
 
@@ -593,7 +593,7 @@ Also used with ③ `vibhatti` ending:
 
 > kammassa katattā upacitattā ussannattā vipulattā cakkhuviññāṇaṁ uppannaṁ hoti
 
-🚹⨀⑥(kammassa) 🚻⨀⑤(katattā upacitattā ussannattā vipulattā) 🚻⨀①(cakkhuviññāṇaṁ 🔽(ta)(uppannaṁ)) 🤟⨀▶️(hoti)
+🚹⨀⑥(kammassa) 🚻⨀⑤(katattā upacitattā ussannattā vipulattā) 🚻⨀①(🆎(cakkhu+viññāṇa) 🔽(ta)(uppannaṁ)) 🟢⨀🤟▶️(hoti)
 of (good) kamma / for having done / for having collected / for having accumulated / for having increased / the eye-consciousness / act of arising / is
 *For reasons of having done, for having collected, for having accumulated, for having increased the (good) kamma, the eye-consciousness arises.*
 
@@ -637,19 +637,19 @@ from afar / or / having come
 
 2. > ārakā te moghapurisā imasmā dhammavinayā
 
-⏏️(ārakā) 🚹⨂①(*️⃣🤟(te) moghapurisā) 🚹⨀⑤(*️⃣🤟(imasmā) dhammavinayā)
+⏏️(ārakā) 🚹⨂①(*️⃣🤟(te) 🆎(mogha+purisa)) 🚹⨀⑤(*️⃣🤟(imasmā) 🆎(dhamma+vinaya))
 far from / those empty men / from this teaching of Buddha
 *Those “empty men” are far from this noble teaching of Buddha.*
 
 3. > ārakā te moghapurisā imaṁ dhammavinayaṁ
 
-⏏️(ārakā) 🚹⨂①(*️⃣🤟(te) moghapurisā) 🚹⨀②(*️⃣🤟(imaṁ) dhammavinayaṁ)
+⏏️(ārakā) 🚹⨂①(*️⃣🤟(te) 🆎(mogha+purisa)) 🚹⨀②(*️⃣🤟(imaṁ) 🆎(dhamma+vinaya))
 far from / those empty men / from this teaching of Buddha
 *Those “empty men” are far from this noble teaching of Buddha.*
 
 4. > ārakā te moghapurisā iminā dhammavinayena
 
-⏏️(ārakā) 🚹⨂①(*️⃣🤟(te) moghapurisā) 🚹⨀③(*️⃣🤟(iminā) dhammavinayena)
+⏏️(ārakā) 🚹⨂①(*️⃣🤟(te) 🆎(mogha+purisa)) 🚹⨀③(*️⃣🤟(iminā) 🆎(dhamma+vinaya))
 far from / those empty men / from this teaching of Buddha
 *Those “empty men” are far from this noble teaching of Buddha.*
 
@@ -667,13 +667,13 @@ far from / those empty men / from this teaching of Buddha
 
 7. > samīpaṁ saddhammā
 
-🚹⨀(①(samīpaṁ) ⑤(saddhammā))
+🚹⨀(①(samīpaṁ) ⑤🆎(sat+dhamma))
 [is] near / from noble Dhamma
 *[is] near noble Dhamma*
 
 8. > ito tiṇṇaṁ māsānaṁ accayena parinibbāyissati
 
-⏏️(ito) 🚹⨂⑥(tiṇṇaṁ māsānaṁ) 🚹⨀③(accayena) ⨀🤟⏭(parinibbāyissati)
+⏏️(ito) 🚹⨂⑥(tiṇṇaṁ māsānaṁ) 🚹⨀③(accayena) 🟢⨀🤟⏭(parinibbāyissati)
 from here / of three months / on passing / (the Buddha) will expire
 *On passing of three months from now, the Buddha will enter into parinibbāna.*
 
@@ -685,7 +685,7 @@ from mountain / (he should) move / to mountain / having gone up
 
 10. > hatthikkhandhā saṅkameyya. hatthikkhandhaṁ abhiruhitvā
 
-🚹⨀⑤(hatthikkhandhā) 🟢⨀🤟⏯(saṅkameyya) 🚹⨀②(hatthikkhandhaṁ) 🔽(tvā)(abhiruhitvā)
+🚹⨀⑤🆎(hatthī+khandha) 🟢⨀🤟⏯(saṅkameyya) 🚹⨀②🆎(hatthī+khandha) 🔽(tvā)(abhiruhitvā)
 from the back of elephant / (he should) move / to the back of elephant / having gone up
 *He should move from back of elephant. Having gone up to back of elephant*
 
@@ -703,25 +703,25 @@ from where / (it is) safe / from there / (it is) unsafe
 
 13. > puratthimato dakkhiṇato pacchimato uttarato aggī pajjalanti
 
-⏏️(puratthimato dakkhiṇato pacchimato uttarato) ⨂(🚹①(aggī) 🤟▶️(pajjalanti))
+⏏️(puratthimato dakkhiṇato pacchimato uttarato) ⨂(🚹①(aggī) 🟢🤟▶️(pajjalanti))
 from East, South, West, North / fires / are aflame
 *From East, South, West, North fires are aflame.*
 
 14. > yato assosuṁ bhagavantaṁ
 
-⏏️(yato) ⨂🤟⏮(assosuṁ) 🚹⨀②(bhagavantaṁ)
+⏏️(yato) 🟢⨂🤟⏮(assosuṁ) 🚹⨀②(bhagavantaṁ)
 since / (they) heard / the Buddha
 *Since they heard the Buddha’s (words).*
 
 15. > uddhaṁ pādatalā adho kesamatthakā
 
-⏏️(uddhaṁ) 🚻⨀⑤(pādatalā) ⏏️(adho) 🚹⨀⑤(kesamatthakā)
+⏏️(uddhaṁ) 🚻⨀⑤🆎(pāda+tala) ⏏️(adho) 🚹⨀⑤🆎(kesa+matthaka)
 upwards / from the soles of the feet / downwards / from the tips of the hair
 *Upwards from the soles of the feet, downwards from the tips of the hair.*
 
 16. > channavutīnaṁ pāsaṇḍānaṁ dhammānaṁ pavaraṁ yadidaṁ sugatavinayo
 
-🚹⨂⑥(channavutīnaṁ pāsaṇḍānaṁ dhammānaṁ) 🚹⨀①(pavaraṁ *️⃣🤟(yadidaṁ) sugatavinayo)
+🚹⨂⑥(🆎(cha+navuti) pāsaṇḍānaṁ dhammānaṁ) 🚹⨀①(pavaraṁ *️⃣🤟(yadidaṁ) 🆎(sugata+vinaya))
 of ninety-six / sectarian / doctrines / (is) the most excellent / that which is / the discipline of the Buddha
 *Of the ninety-six impious ideas, the discipline (teaching) of Buddha [is] the most excellent.*
 
@@ -733,7 +733,7 @@ from mother’s side / and / from father’s side / and / (is) pure / (is) not m
 
 18. > mutto’smi mārabandhanā
 
-🚹⨀①🔽(ta)(mutto) 👆⨀▶️(asmi) 🚻⨀⑤(mārabandhanā)
+🚹⨀①🔽(ta)(mutto) 🟢⨀👆▶️(asmi) 🚻⨀⑤🆎(māra+bandhana)
 free / (I) am / from Māra's bonds
 *I am free from Māra's bonds.*
 
@@ -751,7 +751,7 @@ why / (?) / of you / the young ones / no / die
 
 21. > kasmā idhe’va maraṇaṁ bhavissati
 
-🚹⨀⑤(kasmā) ⏏️(idha eva) ⨀(🚹①(maraṇaṁ) 🤟⏭(bhavissati))
+🚹⨀⑤(kasmā) ⏏️(idha eva) ⨀(🚹①(maraṇaṁ) 🟢🤟⏭(bhavissati))
 why / here / only / death / will be
 *Why [my] death will be only here?*
 
@@ -763,7 +763,7 @@ being detached / only / from sensual pleasures
 
 23. > vivicca akusalehi dhammehi
 
-🔽(ya)(vivicca) 🚹⨂⑤(akusalehi dhammehi)
+🔽(ya)(vivicca) 🚹⨂⑤(🆎(na+kusala) dhammehi)
 being detached / from unwholesome / from mental states
 *Being detached from unwholesome mental states.*
 
@@ -781,12 +781,12 @@ by wisdom / is free / the mind
 
 26. > issariyāya janaṁ rakkhati rājā
 
-🚻⨀⑤(issariyāya) 🚹⨀②(janaṁ) 🤟⨀▶️(rakkhati) 🚹⨀①(rājā)
+🚻⨀⑤(issariyāya) 🚹⨀②(janaṁ) 🟢⨀🤟▶️(rakkhati) 🚹⨀①(rājā)
 by authority / people / protects or governs / the king
 *The king governs people by virtue of authority.*
 
 27. > vinayā pucchanti. vinayaṁ sutvā. vinaye ṭhatvā
 
-🚹⨀⑤(vinayā) 🤟⨂▶️(pucchanti) 🚹⨀②(vinayaṁ) 🔽(tvā)(sutvā) 🚹⨀⑦(vinaye) 🔽(tvā)(ṭhatvā)
+🚹⨀⑤(vinayā) 🟢⨂🤟▶️(pucchanti) 🚹⨀②(vinayaṁ) 🔽(tvā)(sutvā) 🚹⨀⑦(vinaye) 🔽(tvā)(ṭhatvā)
 from vinaya / (they) ask / vinaya / having listened / vinaya / standing (there as point of question)
 *Having listened to Vinaya, having stood on Vinaya, they ask question from (i.e. regarding) Vinaya.*
