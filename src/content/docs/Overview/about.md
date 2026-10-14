@@ -23,7 +23,7 @@ My parents were agnostic, so I was not brought up with a strong sense or awarene
 
 ## Discovery of Buddhism
 
-When I was in my early teens, we visited Singapore and an uncle took us to a Buddhist temple. I can't remember any details about the temple or any religious ceremony we may have attended, but my uncle gave me a book called [What Buddhists Believe](<../Books/Dhammananda - What Buddhists Believe (2002).md>) [@WhatBuddhistsBelieve]. Out of curiosity, I started reading the book that night and could not put it down until I finished.
+When I was in my early teens, we visited Singapore and an uncle took us to a Buddhist temple. I can't remember any details about the temple or any religious ceremony we may have attended, but my uncle gave me a book called [What Buddhists Believe](/buddhavacana/summaries/dhammananda-2002---what-buddhists-believe/) [@WhatBuddhistsBelieve]. Out of curiosity, I started reading the book that night and could not put it down until I finished.
 
 Suddenly, everything made sense to me. I had previously been exposed to Christianity and Islam, but didn't understand why there was so much suffering and inequality in the world if there was a Creator. It did not seem fair to me that some are born rich and privileged but others seem to suffer their entire lives.
 

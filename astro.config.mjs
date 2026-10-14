@@ -36,7 +36,24 @@ export default defineConfig({
       plugins: [
         starlightSiteGraph({
           // the plugin derives this path itself without its leading slash (main branch, 2026-10)
-          sitemapConfig: { contentRoot: "./src/content/docs" },
+          sitemapConfig: {
+            contentRoot: "./src/content/docs",
+            // draft pages are not built, but the plugin reads every file in the content folder
+            // (first matching rule wins, so the exclusions come before the catch-all)
+            pageInclusionRules: [
+              "!**/Pali/**",
+              "!**/Buddha/personality.md",
+              "!**/Pali Textbook/4-pbt.md",
+              "!**/Sutta/pasarasi.mdx",
+              "!**/Sutta/recitation.mdx",
+              "!**/Sutta/refuges.md",
+              "!**/Sutta/restraining.md",
+              "!**/Sutta/template.mdx",
+              "**/*",
+            ],
+            // the pali.txt download is not a page (rules see the slugified link path)
+            linkInclusionRules: ["!**/palitxt", "!**/palitxt/**", "**/*"],
+          },
         }),
       ],
       customCss: [
