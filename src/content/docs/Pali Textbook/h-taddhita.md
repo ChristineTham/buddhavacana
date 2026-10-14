@@ -174,5 +174,47 @@ by means of which something is made up of, or crafted with
 | {397} | distributive adjective or adverb | ekena vibhāgena | eka | dhā | eka + dhā + ~~si~~ | ekadhā | by one portion, in one kind |
 | {398} | manner and mode (after sabbanāma) | tena pakāro | ta | thā | ta + thā + ~~si~~ | tathā | by that manner |
 | {398} | manner and mode (after sabbanāma) | so pakāro | ta | thattā | ta + thattā + ~~si~~ | tathattā | by that manner |
-| {399} | manner and mode (after `kiṃ`) | ko pakāro | ka | thaṁ | ka + thaṁ + ~~si~~ | kathaṁ | what manner |
+| {399} | manner and mode (after `kiṁ`) | ko pakāro | ka | thaṁ | ka + thaṁ + ~~si~~ | kathaṁ | what manner |
 | {399} | manner and mode (after `ima`) | ayaṁ pakāro | ima | thaṁ | i~~ma~~(t) + thaṁ + ~~si~~ | itthaṁ | this manner |
+
+## `saṅkhyā` (numerals) and `pūraṇa` (ordinals) {373}–{396}
+
+The numeral rules, in summary: the sutta, its words, what it does and Kaccāyana's example words (after "not", the counter-examples). The full rules are at <https://kaccayana.github.io/kaccayana/5-taddhitakappa>.
+
+| sutta | rule | summary | examples |
+| :-: | --- | --- | --- |
+| {373} | `Saṅkhyāpūraṇe mo` | `ma` in the sense of completing a number: the ordinal | `ayaṁ, bhikkhave, pañcamo ādīnavo rājantepurappavesane`, `ayaṁ, bhikkhave, dasamo ādīnavo rājantepurappavesane`, `pañcamo`, `sattamo` |
+| {374} | `Sa chassavā` | Optionally `sa` for `cha` [in the ordinal]: `saṭṭho` | `ayaṁ, bhikkhave, chaṭṭho ādīnavo, rājantepurappavesane`, `iti ime saṭṭhi dhammā`, `saṭṭho`, `chaṭṭho` |
+| {375} | `Ekādito dasassī` | Optionally `ī` after `dasa` preceded by `eka` and the like: the feminine ordinal | `cātuddasī pañcadasī aṭṭhamī ca pakkhassa`, `mātā ekādasī rañño`, `ekādasī`, `pañcadasī` — not `ekādasa loke arahanto honti`, `ekādasa` |
+| {376} | `Dase so niccañca` | Always `so` for `cha` before `dasa`: `soḷasa` | `tasmiṁ magge soḷasa purise ṭhapesi`, `soḷasa` |
+| {377} | `Ante niggahitañca` | And a niggahīta at the end [of these numerals]: `pañcadasiṁ` | `uposathañca upavasati cātuddasiṁ pañcadasiṁ aṭṭhamiñca pakkhassa`, `pañcadasiṁ`, `cātuddasiṁ`, `pañcadasī` |
+| {378} | `Ti ca` | And `ti` at the end: `vīsati`, `tiṁsati` | `vīsati tattha sovaṇṇā, vīsati rajatāmayā`, `indagopakavaṇṇābhā, tāva dissanti tiṁsati`, `vīsati`, `tiṁsati` |
+| {379} | `La darānaṁ` | `l` for the `d` and `r` of numerals: `soḷasa`, `cattālīsaṁ` | `atha kho te soḷasa purisā`, `vīsati niruttiyo, cattālīsaṁ ñāṇāni`, `soḷasa`, `cattālīsaṁ` |
+| {380} | `Vīsati dasesu bā dvissa tu` | `bā` for `dvi` before `vīsati`, `dasa`; and `du`, `di`, `do` | `pañcakkhandhā, dvādasāyatanāni, aṭṭhārasa dhātuyo, cattāri saccāni, bāvīsatindriyāni`, `bāvīsatindriyāni`, `bārasa manussā` |
+| {381} | `Ekādito dassa ra saṅkhyāne` | Optionally `r` for the `d` of `dasa` after `eka` and the like, in a numeral | `dīghaso dvādasa vidatthiyo`, `terasa saṁghādisesā dhammā`, `ekārasa`, `ekādasa` — not `sabbaṁ vuccati dvādasāyatanāni`, `dvādasāyatanāni` |
+| {382} | `Aṭṭhādito ca` | And after `aṭṭha` and the like: `aṭṭhārasa` | `nissaggiyāni aṭṭhārasa`, `aṭṭhārasa`, `aṭṭhadasa` — not `pañcadasa`, `soḷasa` |
+| {383} | `Dvekaṭṭhānamākāro vā` | Optionally `ā` for the final of `dvi`, `eka`, `aṭṭha` in a numeral | `kukkuṭiyā aṇḍāni aṭṭha vā dasa vā dvādasa vā`, `aṭṭhārasa dhātuyo`, `dvādasa`, `ekādasa` — not `dvidanto`, `ekadanto` |
+| {384} | `Catucche hi tha ṭhā` | `tha`, `ṭha` after `catu`, `cha`: `catuttho`, `chaṭṭho` | `ayaṁ, bhikkhave, catuttho mahācoro santo saṁvijjamāno lokasmiṁ`, `surāpānavaggo chaṭṭho`, `catuttho`, `chaṭṭho` |
+| {385} | `Dvitīhi tiyo` | `tiya` after `dvi`, `ti`: `dutiyo`, `tatiyo` | `ayaṁ, bhikkhave, dutiyo mahācoro`, `ayaṁ, bhikkhave, tatiyo mahācoro`, `dutiyo`, `tatiyo` |
+| {386} | `Tiye dutāpi ca` | `du`, `ta` for `dvi`, `ti` before `tiya`; `du`, `di` elsewhere too | `dutiyo`, `tatiyo` |
+| {387} | `Tesamaḍḍhūpapadena aḍḍhuḍḍha divaḍḍha diyaḍḍhaḍḍhatiyā` | with `aḍḍha` before them: `aḍḍhuḍḍha`, `divaḍḍha`, `diyaḍḍha`, `aḍḍhatiya` | `aḍḍhuḍḍhāni itthisahassāni paricārikā dijakaññāyo`, `aḍḍhateyyāni paribbājakasatāni`, `aḍḍhena catuttho aḍḍhuḍḍho`, `aḍḍhena dutiyo divaḍḍho` |
+| {388} | `Sarūpānamekasesvasakiṁ` | of like forms occurring more than once, one alone remains | `puriso ca puriso ca purisā` — not `senā nāma hatthī assā rathā pattī`, `hatthiassarathapattikā` |
+| {389} | `Gaṇane dasassa dviticatupañcachasattaaṭṭhanavakānaṁ vī ti cattāra paññā cha sattāsanavā yosu, yonañcīsamāsaṁ ṭhi ri tī tuti` | the tens: `vī`…`nava` for repeated `dasa`, `īsaṁ`…`uti` for its `yo` | `vīsatiyā yojanesu, tiṁsāya yojanesu, cattārīsāya yojanesu, paññāsāya yojanesu`, `vīsaṁ dve satāni, bhikkhūnaṁ sikkhāpadāni`, `sataṁ sattati chacceva, ubhinnaṁ asādhāraṇā`, `tāni asīti gāmikasahassāni` — not `dasa`, `dasadasakā purisā` |
+| {390} | `Catūpapadassa lopo tuttarapadādicassa cucopi navā` | `tu` of `catu` elided and its `ca` becomes `cu`, `co`, in some places | `imamhi khandhake vatthū ekūnavīsati, vattā cuddasa`, `ito satta tato satta, saṁsārāni catuddasa`, `cuddasa`, `coddasa` |
+| {391} | `Yadanupapannā nipātanā sijjhanti` | forms not reached by a rule are established by direct statement |  |
+| {392} | `Dvādito ko’nekattheca` | `ka` after `dvi` etc. in the sense of a group; and by `nipātana` | `ekenūna pañcasataṁ, ānandampi ca uccini`, `satassa dvikaṁ dvisataṁ`, `satassa tikaṁ tisataṁ`, `satassa catukkaṁ catusataṁ` |
+| {393} | `Dasadasakaṁ sataṁ dasakānaṁ sataṁ sahassañca yomhi` | ten tens is `sataṁ`, a hundred tens `sahassaṁ`, before `yo` | `sataṁ hatthī sataṁ assā, sataṁ assatarīrathā`, `sahassaṁ bhikkhusaṁghaṁ cetasā ceto paricca ovadati`, `sataṁ`, `sahassaṁ` |
+| {394} | `Yāva taduttari dasaguṇitañca` | and beyond these, each next number by multiplying by ten | `rañño satasahassaṁ dehi, mayhaṁ satasahassaṁ`, `nahutāni hi koṭiyo pañca bhavanti, dvādasa koṭisatāni punaññā`, `dasassa gaṇanassa dasaguṇitaṁ katvā sataṁ`, `satassa dasaguṇitaṁ katvā sahassaṁ` |
+| {395} | `Sakanāmehi` | [the higher numbers are formed] by their own names | `seyyathāpi, bhikkhu, vīsati abbudā nirayā, evameko nirabbudo nirayo`, `saṁghagataṁ dakkhiṇaṁ asaṅkheyyaṁ appameyyaṁ vadāmi`, `satasahassānaṁ sataṁ koṭi`, `koṭisatasahassānaṁ sataṁ pakoṭi` |
+| {396} | `Tesaṁ ṇo lopaṁ` | the `ṇ` of these suffixes is elided | `vāsiṭṭho diṭṭho hoti pārājikaṁ dhammaṁ ajjhāpajjanto`, `garuḷo pana venateyyo kimāha`, `ālasyaṁ anuṭṭhānaṁ bhogānaṁ paripantho`, `rogo bhavissati, ārogyaṁ bhavissati` |
+
+## `vuddhi` (vowel strengthening) {400}–{405}
+
+| sutta | rule | summary | examples |
+| :-: | --- | --- | --- |
+| {400} | `Vuddhādisarassa vā’saṁyogantassa saṇe ca` | optionally `vuddhi` of the first vowel not before a conjunct, before a `ṇ` suffix | `ahampi kho, tāta, ābhidhammiko, tvampi ābhidhammiko`, `ābhidhammiko`, `venateyyo`, `vāsiṭṭho` — not `handa ko nu kho ayaṁ bhaggavo gato`, `bhaggavo` |
+| {401} | `Māyūnamāgamo ṭhāne` | no `vuddhi` of initial `i`, `u`; the insertion of `e`, `o` in its place | `so dovāriko sālavatiyā gaṇikāya paccassosi`, `byākaraṇamadhīte veyyākaraṇiko`, `nyāyamadhīte neyyāyiko`, `byāvacchassa apaccaṁ veyyāvaccho` |
+| {402} | `Āttañca` | and `ā` [for initial `i`, `u`], with `ri` inserted | `tathāgato āsabhaṁ ṭhānaṁ paṭijānāti`, `tattha katamo ajjavo`, `isissa bhāvo ārisyaṁ`, `iṇassa bhāvo āṇyaṁ` — not `devadatto āpāyiko nerayiko kappaṭṭho atekiccho`, `apāyesu jāto āpāyiko` |
+| {403} | `Kvacādimajjhuttarānaṁ dīgharassā paccayesu ca` | sometimes first, middle and last [vowels] are lengthened or shortened, with or without a suffix | `khantī paramaṁ tapo titikkhā, nibbānaṁ paramaṁ vadanti buddhā`, `bhovādi nāma so hoti, sace hoti sakiñcano`, `pageva manussitthiyā`, `pākāro nāma tayo pākārā— iṭṭhakāpākāro, silāpākāro, dārupākāro` |
+| {404} | `Tesu vuddhilopāgamavikāraviparītādesā ca` | and in these, `vuddhi`, elision, insertion, modification, metathesis, replacement | `āyasmāpi dhaniyo kumbhakāraputto`, `ahaṁ, bhante, saññācikāya kuṭiṁ kattukāmo`, `antarāyiko dhammo vutto bhagavatā`, `kimidaṁ soppasi sūriye uggate` |
+| {405} | `Ayuvaṇṇānañcāyo vuddhi` | the `vuddhi` of `a`, `i`, `u` is `ā`, `e`, `o` | `garuḷo pana venateyyo kimāha`, `ābhidhammiko`, `venateyyo`, `oḷumpiko` |

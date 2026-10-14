@@ -12,9 +12,9 @@ tags: ["upasagga"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-{{< alert title="Note" color="secondary">}}
+:::note
 Sometimes, certain `upasagga` words shown by the ◊ mark can also be used independently in sentences in addition to being used as prefixes.
-{{< /alert >}}
+:::
 
 ## `pa`
 
@@ -88,9 +88,9 @@ Sometimes, certain `upasagga` words shown by the ◊ mark can also be used indep
 | out, off, to remove | `nīharati` | `nī` + `harati` | (He) takes out, removes |
 | | `nīharaṇaṁ` | `nī` + `haraṇaṁ` | act of taking out, removal |
 
-{{< alert title="Note" color="secondary">}}
+:::note
 Both Ni and Nī are not different from each other except the fact that one is a lengthened-form of upasagga.
-{{< /alert >}}
+:::
 
 ## `u`
 
@@ -146,11 +146,11 @@ Both Ni and Nī are not different from each other except the fact that one is a 
 | | `saṁsarati` | `saṁ` + `sarati` | (It) happens again and again |
 | intense, intensifier | `sāratto` | `saṁ` + `ratto` | attached with strong lust or attachment (Note: “saṁ” becomes “sā” here) |
 
-{{< alert title="Note" color="secondary">}}
+:::note
 “ṁ” becomes “ṅ” as it precedes “kh” or “g” in the words above.
 “ṁ” becomes “m” as it precedes “bh”.
 “ṁ” becomes “n” as it precedes "dh", “d”.
-{{< /alert >}}
+:::
 
 ## `vi`
 
@@ -188,9 +188,9 @@ Both Ni and Nī are not different from each other except the fact that one is a 
 | | `avaharati` | `ava` + `harati` | (He) takes it in a mean manner, i.e. steals |
 | | `avahāro` | `ava` + `hāro` | such an act, stealing |
 
-{{< alert title="Note" color="secondary">}}
+:::note
 Note: “Ava” and “O” are two interchangeable upasagga words.
-{{< /alert >}}
+:::
 
 ## ◊ `anu`
 

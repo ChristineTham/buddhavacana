@@ -48,7 +48,7 @@ mindmap
       i. Definitions
       ii. Vowel sandhi
       iii. Consonant sandhi
-      Iiv("iv. niggahīta (ṃ) sandhi")
+      Iiv("iv. niggahīta (ṁ) sandhi")
       v. Miscellanea
     II. Nāma
       i. Definitions, Internal sandhis, Default Declensions
@@ -218,7 +218,7 @@ marker =
 @endebnf
 ```
 
-#### Elision (`lopaṃ`)
+#### Elision (`lopaṁ`)
 
 ```mermaid
 timeline
@@ -226,7 +226,7 @@ timeline
     : After X
   A : Nominative
     : Instead of A
-  lopaṃ: Accusative
+  lopaṁ: Accusative
     : elision
   Right : Locative
     : Before Y
@@ -237,7 +237,7 @@ timeline
 elision =
   [ablative (* After X *)],
   genitive (* Instead of A *),
-  "lopaṃ" (* elision *),
+  "lopaṁ" (* elision *),
   [locative (* Before Y *)];
 @endebnf
 ```

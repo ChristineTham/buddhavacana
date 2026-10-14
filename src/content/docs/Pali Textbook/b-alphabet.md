@@ -17,7 +17,7 @@ Pali consists of 8 vowels (sara) and 33 consonants (vyañjana), arranged in the 
 >sara: a, ā, i, ī, u, ū
 >kaṇṭhatāluja: e
 >kaṇṭhoṭṭhaja: o
->niggahīta: (ṃ[^1])
+>niggahīta: (ṁ[^1])
 >kavagga: k, kh, g, gh, (ṅ)
 >cavagga: c, ch, j, jh, ñ
 >ṭavagga: ṭ, ṭh, ḍ, (ḍh), (ṇ)
@@ -28,7 +28,7 @@ Pali consists of 8 vowels (sara) and 33 consonants (vyañjana), arranged in the 
 >sakāra: s
 >hakāra: h
 
-[^1]: ṃ (niggahīta) can be written η, ṁ or ṃ
+[^1]: ṁ (niggahīta) can be written η, ṁ or ṁ
 
 ## Alphabet Groups
 
@@ -36,7 +36,7 @@ Pali consists of 8 vowels (sara) and 33 consonants (vyañjana), arranged in the 
 |---------|:---:|:--:|:-------:|:-------:|:---------:|:------:|:---------:|:------:|:---:|:-----:|:-----:|:------:|
 |kaṇṭhaja |  a  |  ā |         |         |     k     |   kh   |     g     |    gh  |  ṅ  |       |    h  |        |
 |tāluja   |  i  |  ī |    e    |         |     c     |   ch   |     j     |    jh  |  ñ  |   y   |       |        |
-|muḍḍhaja |     |    |    o    |    ṃ    |     ṭ     |   ṭh   |     ḍ     |    ḍh  |  ṇ  |  r ḷ  |       |        |
+|muḍḍhaja |     |    |    o    |    ṁ    |     ṭ     |   ṭh   |     ḍ     |    ḍh  |  ṇ  |  r ḷ  |       |        |
 |dantaja  |     |    |         |         |     t     |   th   |     d     |    dh  |  n  |  v l  |       |    s   |
 |oṭṭhaja  |  u  |  ū |         |         |     p     |   ph   |     b     |    bh  |  m  |       |       |        |
 
@@ -51,7 +51,7 @@ Pali consists of 8 vowels (sara) and 33 consonants (vyañjana), arranged in the 
 |oṭṭhaja|Labials|formed by means of the lips|
 |hakāra|Spirant|a strong aspirated breathing|
 |sakāra|Sibilant|has a hissing sound|
-|anunāsika|Nasal|nasal breathing found only after the short vowels: aṃ, iṃ, uṃ|
+|anunāsika|Nasal|nasal breathing found only after the short vowels: aṁ, iṁ, uṁ|
 |aghosa|Voiceless (Surds, stops)|hard, flat, and toneless|
 |ghosa|Voiced (Sonants)|soft and uttered with a checked tone|
 |dhanita|Aspirates|pronounced with a strong breathing or h sound added to them|
@@ -94,4 +94,4 @@ Pali consists of 8 vowels (sara) and 33 consonants (vyañjana), arranged in the 
 |s|<u>s</u>ing, <u>s</u>it|
 |h|<u>h</u>ot, <u>h</u>ut|
 |ḷ|fe<u>l</u>t, <u>l</u>ight|
-|ṃ|si<u>ng</u>|
+|ṁ|si<u>ng</u>|

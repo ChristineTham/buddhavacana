@@ -208,3 +208,63 @@ To express an on-going action being done or still taking place at present,
 | {568} | mātāpitūhi dhārīyatī’ti | dhara | ritu | dh~~ara~~ + ~~ri~~(ī)t~~u~~ (ā) | dhītā | the one who speaks (first before other young siblings) i.e. Brother |
 | {569} | āgacchatī’ti | gamu | tuka | ā + ga~~mu~~(n) + tuk~~a~~ (o) | āgantuko | the one who comes (to visit) (bhikkhu) |
 | {570} | gamissati, gantuṁ bhabbo’ti | gamu | ika | gam~~u~~ + ik~~a~~ (o) | gamiko | the one who will go or who is likely (be going on a trip). the would-be-traveler, the tourist (bhikkhu) |
+
+## The `niṭṭhā` forms and the changes of the root {571}–{623}
+
+Kaccāyana's third, fourth and fifth kaṇḍas of the Kibbidhāna state how the past-participle suffix `ta` combines with the root's final (`buddha`, `gata`, `diṭṭha`, `laddha` …), how the root is reshaped before the other `kita` affixes, and which letters are inserted, in summary: the sutta, its words, what it does and Kaccāyana's example words (after "not", the counter-examples). The full rules are at <https://kaccayana.github.io/kaccayana/7-kibbidhanakappa>.
+
+| sutta | rule | summary | examples |
+| :-: | --- | --- | --- |
+| {571} | `Paccayādaniṭṭhā nipātanā sijjhanti` | Forms the suffix rules do not reach are established by direct statement | `nāmarūpapaccayā saḷāyatanaṁ`, `kataṁ me ajja bhattakiccaṁ`, `ajja paṭiggahitaṁ aparajju khāditaṁ hoti`, `atthāpatti bhūmigato āpajjati, no vehāsagato` |
+| {572} | `Sāsa disato tassa riṭṭho ca` | `riṭṭha` for `ta` after `sāsa`, `disa`; and `raṭṭha`, `raṭṭhuṁ` | `anusiṭṭho so mayā`, `adiṭṭhaṁ diṭṭhaṁ me`, `diṭṭhaṁ me rūpaṁ` |
+| {573} | `Sādisanta puccha bhanja hansādīhiṭṭho` | `ṭṭha` for `ta` with the root's final, after roots in `s`, `puccha`, `bhanja`, `hansa` | `aññataro bhikkhu ahinā daṭṭho hoti`, `haṭṭho udaggo`, `tuṭṭho`, `ahinā daṭṭho naro` |
+| {574} | `Vasato uttha` | `uttha` for `ta` with the root's final, after `vasa` | `kāsīsu vassaṁvuṭṭho`, `vuttho me, bhante, sāvatthiyaṁ vassāvāso`, `vassaṁvuṭṭho` |
+| {575} | `Vassa vā vu` | Optionally `vu`, that is `u`, for the `va` of `vasa` | `khīṇā jāti, vusitaṁ brahmacariyaṁ`, `vusitaṁ brahmacariyaṁ`, `uṭṭho`, `vuṭṭho` |
+| {576} | `Dha ḍha bha he hi dhaḍḍhā ca` | `dha`, `ḍha` for `ta` after roots in `dh`, `ḍh`, `bh`, `h` | `vigarahi buddho bhagavā`, `nanu tvaṁ, āvuso, vuḍḍho vīsativassosi`, `laddhaṁ me cakkhuṁ amānusaṁ`, `senāsanaṁ agginā daḍḍhaṁ hoti` |
+| {577} | `Bhanjato ggo ca` | And `gga` for `ta` with the root's final, after `bhanja` | `sabbā te phāsukā bhaggā`, `bhaggo` |
+| {578} | `Bhujādīnamanto no dvi ca` | After `bhuja` etc. the final is dropped and the `ta` doubled | `raṭṭhapiṇḍo bhutto`, `bhikkhū bhuttāvī pavāritā`, `rāgo me catto vanto mutto pahīno`, `ratto duṭṭho ca mūḷho ca` |
+| {579} | `Vaca vāvu` | `u` for the `va` of `vaca`, the final dropped and the `ta` doubled | `vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ`, `vuttaṁ bhagavatā`, `uttaṁ` |
+| {580} | `Gupādīnañca` | And after `gupa` etc. [the final is dropped and the `ta` doubled] | `sīlakkhandho sugutto hoti surakkhito`, `kaṇhasappo agginā santatto`, `sugutto`, `catto` |
+| {581} | `Tarādīhi iṇṇo` | `iṇṇa` for `ta` after `tara` etc., the final dropped | `tiṇṇo tiṇṇehi saha purāṇajaṭilehi`, `imehi manussehi ākiṇṇo`, `taratīti tiṇṇo`, `uttaratīti uttiṇṇo` |
+| {582} | `Bhidādito inna anna īṇāvā` | Optionally `inna`, `anna`, `īṇa` for `ta` after `bhida` etc., the final dropped | `patto bhinno hoti`, `dārakassa dinno`, `ekamantaṁ nisinno`, `yassa kāmāsavo khīṇo` — not `gerukaparikammakatā bhitti`, `bhijjatīti bhitti` |
+| {583} | `Susa paca sakato kkha kkā ca` | `kkha`, `kka` for `ta` after `susa`, `paca`, `saka`, the final dropped | `sukkhaṁ kaṭṭhaṁ koḷāpaṁ`, `idaṁ vatvāna maghavā, devarājā sujampati`, `atha kho sakko devānamindo`, `sussatīti sukkhaṁ, kaṭṭhaṁ` |
+| {584} | `Pakkamādīhi nto ca` | `nta` for `ta` after `pakkama` etc., the final dropped; and `nti` for `ti` | `upajjhāyo pakkanto vā hoti, vibbhanto vā`, `santo danto niyato brahmacārī`, `pakkamatīti pakkanto`, `vibbhamatīti vibbhanto` |
+| {585} | `Janādīnamā timhi ca` | `ā` for the final of `jana` etc. before `ta`, and before `ti` | `yato ahaṁ, bhante, jāto`, `bhavapaccayā jāti`, `ajanīti jāto`, `jananaṁ jāti` — not `janitvā`, `janitā` |
+| {586} | `Gama khana hana ramādīnamanto` | The final of `gama`, `khana`, `hana`, `ramu` etc. [is optionally dropped before `ta`, `ti`] | `khataṁ upahataṁ attānaṁ pariharati`, `natthi tuyhaṁ sugati`, `rato mano kassapa`, `sundaraṁ nibbānaṁ gacchatīti sugato` — not `ariyappavedite dhamme, sadā ramati paṇḍito`, `ramato` |
+| {587} | `Rakāro ca` | And a final `r` [is dropped before `ta`, `ti`] | `kenāyaṁ pakato satto`, `aññā pakati ahosi`, `pakārena karīyatīti pakato`, `paṭhamaṁ karīyatīti pakati` |
+| {588} | `Ṭhāpānami ī ca` | `i`, `ī` for the `ā` of `ṭhā`, `pā` before `ta`, and before `ti` | `orato ṭhito puriso`, `yassa natthi dhuvaṁ ṭhiti`, `majjaṁ maññe tayā pītaṁ`, `pamuditāya pīti jāyissati` |
+| {589} | `Hantehi ho hassa ḷo vā adahanahānaṁ` | `ha` for `ta` after roots in `h`, whose `h` optionally becomes `ḷ`; not `daha`, `naha` | `chadanesupi āruḷhā acchanti`, `aññataro gāḷho rogātaṅko phusati`, `bāḷhā vedanā vattanti māraṇantikā`, `ratto duṭṭho ca mūḷho ca` — not `gāmo agginā daḍḍho hoti`, `sannaddho khattiyo tapati` |
+| {590} | `Ṇamhiranjassa jo bhāvakaraṇesu` | `nj` of `ranja` becomes `j` before a `ṇ` suffix, in the senses of action and instrument | `rāgo, doso, moho — ime kho, āvuso, tayo dhammā`, `rañjanaṁ rāgo`, `ranjanti etenāti rāgo` — not `ranjatīti raṅgo` |
+| {591} | `Hanassa ghāto` | `ghāta` for `hana` before a `ṇ` suffix | `parassa ca puggalassa upaghāto`, `rājagahe goghātako ahosi`, `upahanatīti upaghāto`, `gāvo hanatīti goghātako` |
+| {592} | `Vadho vā sabbattha` | Optionally `vadha` for `hana` everywhere | `devadattena kira bhagavato vadho payutto`, `akkocchi maṁ avadhi maṁ, ajini maṁ ahāsi me`, `vadhako paṭiggaṇhāti`, `hanatīti vadho` |
+| {593} | `Ākārantānamāyo` | `āya` for the final `ā` of a root before a `ṇ` suffix | `ahañhi dāyako kārako saṁghupaṭṭhāko`, `dadātīti dāyako`, `dānaṁ dātuṁ sīlaṁ yassāti dānadāyī`, `majjaṁ dātuṁ sīlaṁ yassāti majjadāyī` |
+| {594} | `Pura samupa parīhi karotissa kha kharā vā tappaccayesuca` | Optionally `kha`, `khara` for `kara` after `pura`, `saṁ`, `upa`, `pari`, before `ta` and before a `ṇ` suffix | `purakkhato bhikkhugaṇassa majjhe`, `ariyo kho, āvuso visākha, aṭṭhaṅgiko maggo saṅkhato`, `mahāyañño upakkhaṭo hoti`, `garuko ca hoti parikkhāro` — not `upakāro mitto suhado veditabbo`, `upagantvā karotīti upakāro` |
+| {595} | `Tave tunādīsu kā` | `kā` for `kara` before `tave`, `tuna` and the like | `alaṁ puññāni kātave`, `na sakkoti aññaṁ vikkāyikaṁ bhaṇḍaṁ kātuṁ`, `kattuṁ jānāti khattiyo`, `ekekaṁ mūlaṁ kātuna` |
+| {596} | `Gama khana hanādīnaṁ tuṁ tabbādīsu na` | Optionally `n` for the final of `gama`, `khana`, `hana` etc. before `tuṁ`, `tabba` and the like | `ārāmaṁ vā vihāraṁ vā gantuṁ`, `pahoti hantuṁ vā bandhituṁ vā`, `gantuṁ`, `gamituṁ` |
+| {597} | `Sabbehi tunādīnaṁ yo` | Optionally `ya` for `tuna` and the like after any root | `passiya varapuññalakkhaṇaṁ`, `ekakaṁ ohāya pakkamiṁsu`, `āsajja upanīya vācā bhāsitā`, `manussaṁ uddissa opātaṁ khanati` |
+| {598} | `Canantehi raccaṁ` | Optionally `racca` for `tuna` and the like after roots ending in `c` and `n` | `vivicceva kāmehi vivicca akusalehi dhammehi`, `aṭṭhimiñjaṁ āhacca tiṭṭhati`, `indakhīlaṁ ūhacca manejā`, `attānudiṭṭhiṁ uhacca` — not `gāviṁ hantvā maṁsaṁ khāditvā`, `hantvā` |
+| {599} | `Disā svāna svāntalopo ca` | `svāna`, `svā` for `tuna` and the like after `disa`, and the final is elided | `disvāna yenāyasmā sudinno tenupasaṅkami`, `cakkhunā rūpaṁ disvā`, `disvāna`, `disvā` |
+| {600} | `Ma ha da bhehi mma yha jja bbha ddhā ca` | Optionally `mma`, `yha`, `jja`, `bbha`, `ddhā` for `tuna` and the like after roots ending in `m`, `h`, `d`, `bh`, and the final is elided | `taṁ āgamma assaddhā honti`, `maggā okkamma yena aññataro vanasaṇḍo`, `samādāya paggayha tiṭṭheyya`, `latā uppajja tiṭṭhati` |
+| {601} | `Taddhitasamāsakitakā nāmaṁ vā’ tave tunādīsu ca` | Derivatives, compounds and `kita` words count as nouns, except those in `tave`, `tuna` and the like | `vāsiṭṭho diṭṭho hoti`, `diṭṭhadhammo pattadhammo viditadhammo`, `so kumbhakāro bhikkhūnaṁ bahū patte karonto`, `vāsiṭṭho` |
+| {602} | `Dumhi garu` | The syllable before a conjunct is `garu`, heavy | `bhogaṁ datvā vāseti`, `heṭṭhā hutvā silaṁ uccāresi`, `bhitvā`, `chitvā` |
+| {603} | `Dīgho ca` | And a long vowel is `garu`, heavy | `kabaḷīkāro āhāro`, `yena vaggumudā nadī tenupasaṅkami`, `ye te dhammā ādikalyāṇā`, `āhāro` |
+| {604} | `Akkharehi kāra` | The suffix `kāra` after the names of letters | `a eva akāro`, `ā eva ākāro`, `ya eva yakāro` |
+| {605} | `Yathāgamamikāro` | The insertion of `i` between root and suffix, as the tradition has it | `hoti bhogehi kāriyaṁ`, `samaṇena bhavitabbaṁ abyāvaṭena`, `ayoniso manasi karitvā`, `yaṁ vata no ahosi icchitaṁ` |
+| {606} | `Dadhantato yo kvaci` | Sometimes the insertion of `y` after a root ending in `d` or `dh`, before `tuna` and the like | `buddho loke uppajjitvā`, `dhammaṁ bujjhitvā`, `uppajjitvā nirujjhanti`, `sāmaṁ saccāni bujjhitvā` — not `visagataṁ piṇḍapātaṁ labhitvā`, `labhitvā` |
+| {607} | `Niggahita saṁyogādino` | `n` heading a conjunct becomes `niggahīta` | `‘saṅgo’ti, bhikkhave, kāmānametaṁ adhivacanaṁ`, `mā majjhe bhaṅgo ahosīti`, `raṅgo`, `bhaṅgo` |
+| {608} | `Sabbattha ge gī` | `gī` for the root `ge` everywhere | `gītaṁ gāyati`, `naccaṁ vā gītaṁ vā vāditaṁ vā dassanāya gaccheyya` |
+| {609} | `Sadassa sīdattaṁ` | `sīda` for the root `sada` everywhere | `ekamantaṁ nisinno kho dasamo gahapati aṭṭhakanāgaro`, `araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati`, `nisinno`, `nisīdati` |
+| {610} | `Yajassa sarassi ṭṭhe` | the vowel of `yaja` becomes `i` before `ṭṭha` | `yaññā yiṭṭhā ye vipulā pasatthā`, `natthi dinnaṁ, natthi yiṭṭhaṁ, natthi hutaṁ`, `yiṭṭho`, `yiṭṭhā` — not `yajanaṁ` |
+| {611} | `Hacatutthānamantānaṁ do dhe` | root-final `h` and fourth letters become `d` before `dh` | `sannaddho khattiyo tapati`, `kuto tayā, āvuso, piṇḍo laddho`, `sannaddho`, `kuddho` |
+| {612} | `Ḍo ḍhakāre` | and `ḍ` before `ḍh` | `gāmo agginā daḍḍho hoti`, `nanu tvaṁ, āvuso, vuḍḍho vīsativassosi`, `dayhatīti daḍḍho`, `vaḍḍhatīti vuḍḍho` — not `dāho` |
+| {613} | `Gahassa ghara ṇe vā` | Optionally `ghara` for `gaha` before `ṇa` | `ehi, tāta sudinna, gharaṁ gamissāma`, `amhākaṁ gharāni āgantvā`, `gharaṁ`, `gharāni` — not `gāho— idaṁ vuccati macchariyaṁ`, `gāho` |
+| {614} | `Dahassa do ḷaṁ` | Optionally `ḷ` for the `d` of `daha` [before `ṇa`] | `pariḷāho kāyasmiṁ okkami`, `pariḷāho` — not `yo kileso ca paridāho`, `paridāho` |
+| {615} | `Dhātvantassa lopo kvimhi` | a root's final consonant is elided before `kvi` | `bhujanto gacchatīti bhujago; urena gacchatīti urago`, `muttā maṇi veḷuriyo saṅkho silā pavālaṁ`, `bhujena gacchatīti bhujago`, `urena gacchatīti urago` |
+| {616} | `Vidante ū` | `ū` inserted at the end of `vida` [before `kvi`] | `sugato lokavidū anuttaro purisadammasārathi`, `lokaṁ vidati jānātīti lokavidū` |
+| {617} | `Na ma ka rānamantānaṁ niyuttatamhi` | final `n`, `m`, `k`, `r` kept before a `t` suffix with `i` | `vanante ramito siyā`, `ayoniso manasi karitvā`, `hanituṁ`, `gamito` — not `gharaṁ gato ito vā ekaṁ sāṭakaṁ pahiṇissāmi`, `gato` |
+| {618} | `Na ka gattaṁ ca jāṇvumhi` | `c`, `j` do not become `k`, `g` before `ṇvu` | `yājako so na brāhmaṇo`, `pacatīti pācako`, `yajatīti yājako` |
+| {619} | `Karassa ca tattaṁ tusmiṁ` | and the `r` of `kara` becomes `t` before `tu` | `sarasi tvaṁ, dabba, evarūpaṁ kattā`, `pubbakā isayo mantānaṁ kattāro mantānaṁ pavattāro`, `karotīti kattā`, `karontīti kattāro` |
+| {620} | `Tuṁ tuna tabbesu vā` | Optionally [`t` for the `r` of `kara`] before `tuṁ`, `tuna`, `tabba` | `kattuṁ jānāti khattiyo`, `puññāni ca kātuṁ`, `ekekaṁ mūlaṁ kātuna baddhacakkaṁ parivattakaṁ kattabbaṁ`, `kattuṁ` |
+| {621} | `Kāritaṁ viya ṇānubandho` | a suffix marked with `ṇ` counts as a causative | `deho me jotate sadā`, `ahañhi dāyako kārako saṁghupaṭṭhāko`, `pañcannaṁ jaṭilasatānaṁ nāyako hoti`, `sīlesu paripūrakārī hoti samādhismiṁ mattaso kārī` — not `upakkharo` |
+| {622} | `Anakā yu ṇvūnaṁ` | `ana`, `aka` for `yu`, `ṇvu` | `ye na passanti nandanaṁ`, `bahuno amhākaṁ anatthassa kārako`, `nandanaṁ`, `kārako` |
+| {623} | `Ka gā ca jānaṁ` | `k`, `g` for root-final `c`, `j` before a `ṇ`-marked suffix | `abhidhamme abhivinaye yogo karaṇīyo`, `pāko`, `yogo` |

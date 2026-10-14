@@ -36,8 +36,8 @@ The vowels can be short (1 mora in length) or long (2 morae). Some vowels can be
 @startebnf
 title Vowels (sarā)
 vowel =
-  short (* rassaṃ, light (lahu), one mora (mattā) in length  *) |
-  long (* dīghaṃ, heavy (garu), two mattā in length *) |
+  short (* rassaṁ, light (lahu), one mora (mattā) in length  *) |
+  long (* dīghaṁ, heavy (garu), two mattā in length *) |
   variable (* can be long or short *);
 short = "a" | "i" | "u";
 long = "ā" | "ī" | "ū";
@@ -68,7 +68,7 @@ dot_ta_group = "ṭa" | "ṭha" | "ḍa" | "ḍha" | "ṇa" ;
 ta_group = "ta" | "tha" | "da" | "dha" | "na" ;
 pa_group = "pa" | "pha" | "ba" | "bha" | "ma" ;
 ungrouped = "ya" | "ra" | "la" | "va" | "sa" | "ha" | "ḷa" ;
-niggahita = "aṃ" ;
+niggahita = "aṁ" ;
 @endebnf
 ```
 
@@ -145,7 +145,7 @@ noun_ending =
 gender =
   ?🚹 masculine (pulliṅga)? |
   ?🚺 feminine (itthiliṅga)? |
-  ?🚻 neuter (napuṃsakaliṅga)? ;
+  ?🚻 neuter (napuṁsakaliṅga)? ;
 multiplicity =
   ?⨀ singular (ekavacana)? |
   ?⨂ plural (bahuvacana)? ;
@@ -157,14 +157,14 @@ syntactic_case = case0 | case1 | case2 | case3 | case4 | case5 | case6 | case7 ;
 
 Semantic cases (kāraka) represent the relationship between words in a sentence (representing various participants) in the context of an action (verb). Pali has 7 different semantic cases, in addition to a vocative case which is sometimes denoted as an 8th case.
 
-There is a strong association between semantic cases and syntactic cases, but the association is not an equivalance as a semantic case can be represented by more than one syntactic case, and a syntactic case can be used to represent more than one semantic case.
+There is a strong association between semantic cases and syntactic cases, but the association is not an equivalence as a semantic case can be represented by more than one syntactic case, and a syntactic case can be used to represent more than one semantic case.
 
 ```plantuml
 @startebnf
 semantic_case =
   vocative (* ālapana *) |
   nominative (* kattar, agent or "doer" of action *) |
-  accussative (* kamma, object or "deed" of action *) |
+  accusative (* kamma, object or "deed" of action *) |
   instrumental (* karaṇa, means or implement of agent *) |
   dative (* sampadāna, beneficiary of action *) |
   ablative (* apādāna, source or cause of action *) |
@@ -213,8 +213,8 @@ person =
   second_person (* majjhimapurisa*) |
   first_person (* uttamapurisa *) ;
 multiplicity =
-  ?⨀ singular (ekavacanaṃ)? |
-  ?⨂ plural (bahuvacanaṃ)? ;
+  ?⨀ singular (ekavacanaṁ)? |
+  ?⨂ plural (bahuvacanaṁ)? ;
 voice =
   ?parassapada : active, action favours non-agent? |
   ?attanopada : reflective, action favours self/object?;
@@ -245,7 +245,7 @@ complex_noun =
   verb_derivative (* kitanāma *) ;
 compound =
   ?avyayībhāva : Adverbial? |
-  ?kammadhāraya : Apposidonal? |
+  ?kammadhāraya : Appositional? |
   ?digu : Numerical? |
   ?tappurisa : Determinative? |
   ?bahubbīhi : Relative? |

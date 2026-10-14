@@ -40,7 +40,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 | 🔽 | `taddhita` | affix |
 | *️⃣ | `sabbanāma` | pronoun |
 | ▶️ | `vattamāna` | present |
-| ⏹ | `piñcamī` | imperative |
+| ⏹ | `pañcamī` | imperative |
 | ⏯ | `sattamī` | potential |
 | 🔄 | `parokkhā` | perfect |
 | ↩️ | `hiyyattanī` | imperfect |
@@ -95,6 +95,19 @@ Symbol | English | Aṭṭhakathā
 
 ## Types of nominals
 
+| type | Pāḷi | explanation |
+| --- | --- | --- |
+| substantive | `nāmanāma` | a noun naming a thing, a being or a place: `purisa` ("man"), `citta` ("mind") |
+| common noun | `sādhāraṇanāma` | a name shared by a whole kind: `rukkha` ("tree") |
+| proper noun | `asādhāraṇanāma` | the name of one individual: `sāriputta` |
+| adjective | `guṇanāma`, `visesana` | a quality-word that takes the gender, number and inflection form of its noun: `nīla` ("blue") |
+| pronoun | `sabbanāma` | the twenty-seven words of Appendix L, which stand for any noun: `sabba`, `ya`, `ta`, `kiṁ`, `tumha`, `amha` |
+| numeral | `saṅkhyānāma` | a counting word (`eka`, `dvi`, `ti` …) or an ordinal (`paṭhama`, `dutiya` …) |
+| compound | `samāsanāma` | two or more words made into one {316}–{343}: `rājaputta` ("king's son") |
+| secondary derivative | `taddhitanāma` | a noun made from another noun by a `taddhita` affix, Appendix H: `vāsiṭṭha` ("Vasiṭṭha's son") |
+| primary derivative | `kitanāma` | a noun made from a root by a `kita` or `uṇādi` affix, Appendices J and K: `kārako` ("doer"), `kāru` ("craftsman") |
+
+## References
 
 * Technical Terms and Technique of the Pali and the Sanskrit Grammars, Mahesh
   A Deokar, Central Institute of Higher Tibetan Studies (2008)

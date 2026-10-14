@@ -1749,7 +1749,7 @@ identifying the form of the `vibhatti` ending yields:
 
 > 🚹⨀②(buddhaṁ saraṇaṁ) 🟢⨀🤟▶️(gacchāmi)
 
-{{< alert title="Note" color="secondary">}}
+:::note
 The notation used here is inspired by functional programming conventions.
 In mathematics, we refer to \\(f(x)\\) as the function \\(f\\) applying on the
 variable \\(x\\), so 🚹⨀②(`x`) means all words in `x` are in the 2nd
@@ -1758,7 +1758,7 @@ Similarly, 🟢⨀🤟▶️(`y`) means all
 words in `y` are present indicative (`vattamāna`) active (`parassapada`) verbs
 in the singular (`ekavacana`), "first person" (in English, "third person")
 form (`paṭhama purisa`).
-{{< /alert >}}
+:::
 
 Translating each word into English yields:
 
