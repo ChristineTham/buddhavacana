@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: '5: My Translations from "Pali Buddhist Texts"'
 sidebar:
   label: "5: Pali Buddhist Texts"

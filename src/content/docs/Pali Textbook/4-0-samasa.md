@@ -1,5 +1,5 @@
 ---
-title: "4: `samāsa` (compounds)"
+title: "4: `samāsa` (Compounds)"
 sidebar:
   label: "4: `samāsa`"
 description: >
