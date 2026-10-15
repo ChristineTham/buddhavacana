@@ -8,7 +8,7 @@ description: >
 ---
 
 The current status of this work is "Conceptual high fidelity prototype" and
-many chapters are incomplete or not yet written.
+some chapters are incomplete or not yet written.
 
 :::caution
 This work is open source using the Apache licence and the source code is

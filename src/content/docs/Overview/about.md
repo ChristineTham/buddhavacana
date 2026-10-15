@@ -80,7 +80,7 @@ Little did I realise I was going to embark on a journey that eventually will lea
 * Recreate the web version of the Tipitaka 2500 edition: [**The World Tipiṭaka Edition**](https://tipitaka2500.github.io)
 * Embark on my own translation of the suttas ([tidipa.github.io](https://tidipa.github.io)).
 * Translate early Pāḷi grammars: [Kaccayana](https://kaccayana.github.io).
-* Write my own Pāḷi textbook: [Pāḷi Textbook](https://christham.net/buddhavacana/pali-textbook/0-index/).
+* Write my own Pāḷi textbook: [Pāḷi Textbook](https://christham.net/buddhavacana/pali-textbook/0-status/).
 * Create a notation scheme for grammatical analysis of Pāḷi sentences [Pāḷi grammar symbols](https://christham.net/buddhavacana/pali-textbook/a-symbols/).
 * Adapt a well known Pāḷi dictionary to use my notation scheme: [Pāḷi grammar dictionary](https://github.com/ChristineTham/Pāḷi_grammar).
 * Create a framework for a Second Brain based on `pañcupādānakkhandhā` (the Buddha’s classification of the five key components of our mental process and consciousness):[khandhaja.github.io](https://khandhaja.github.io).

@@ -1,14 +1,14 @@
----
-title: "2.3: okāsa (Locative)"
-sidebar:
-  label: "2.3: `okāsa`"
-description: >
- `okāsa` words refer to the place or support in which an action takes place
- and are generally translated as "in", "on" or "at". They are normally (but
- not always) associated with the seventh case (⑦) `vibhatti` endings. The
- `okāsa` is often referred to as "locative" in English Pali grammar books.
-categories: ["palibook"]
-tags: ["kāraka", "okāsa"]
+---  
+title: "2.3: okāsa (Locative)"  
+sidebar:  
+  label: "2.3: `okāsa`"  
+description: >  
+ `okāsa` words refer to the place or support in which an action takes place  
+ and are generally translated as "in", "on" or "at". They are normally (but  
+ not always) associated with the seventh case (⑦) `vibhatti` endings. The  
+ `okāsa` is often referred to as "locative" in English Pali grammar books.  
+categories: ["palibook"]  
+tags: ["kāraka", "okāsa"]  
 ---
 
 :::tip[Info]
@@ -31,8 +31,8 @@ The thing supported spreads through the whole of its support.
 
 > **jalesu** khīraṁ tiṭṭhati
 
-🚻⨂⑦(jalesu) ⨀(🚻①(khīraṁ) 🟢🤟▶️(tiṭṭhati))
-in water / milk / stands
+🚻⨂⑦(jalesu) ⨀(🚻①(khīraṁ) 🟢🤟▶️(tiṭṭhati))  
+in water / milk / stands  
 *Milk stands in water.*
 
 #### 2.3.1.2 By contact (`opasilesika`)
@@ -41,8 +41,8 @@ The thing supported rests on its support, touching it.
 
 > **pariyaṅke** rājā seti
 
-🚹⨀⑦(pariyaṅke) ⨀(🚹①(rājā) 🟢🤟▶️(seti))
-on the couch / the king / lies
+🚹⨀⑦(pariyaṅke) ⨀(🚹①(rājā) 🟢🤟▶️(seti))  
+on the couch / the king / lies  
 *The king lies on the couch.*
 
 #### 2.3.1.3 By domain (`vesayika`)
@@ -52,8 +52,8 @@ found, and not elsewhere.
 
 > **bhūmīsu** manussā caranti
 
-🚺⨂⑦(bhūmīsu) ⨂(🚹①(manussā) 🟢🤟▶️(caranti))
-on the earth / men / walk
+🚺⨂⑦(bhūmīsu) ⨂(🚹①(manussā) 🟢🤟▶️(caranti))  
+on the earth / men / walk  
 *Men walk on the earth.*
 
 #### 2.3.1.4 By proximity (`sāmīpika`)
@@ -63,8 +63,8 @@ Sāvatthī, not in it.
 
 > **sāvatthiyaṁ** viharati **jetavane**
 
-🚺⨀⑦(sāvatthiyaṁ) 🟢⨀🤟▶️(viharati) 🚻⨀⑦(jetavane)
-at Sāvatthī / [he] dwells / in Jeta's Grove
+🚺⨀⑦(sāvatthiyaṁ) 🟢⨀🤟▶️(viharati) 🚻⨀⑦(jetavane)  
+at Sāvatthī / [he] dwells / in Jeta's Grove  
 *[He] dwells at Sāvatthī, in Jeta's Grove.*
 
 #### Exercises
@@ -94,50 +94,50 @@ deconstruction.
 
 1. > tilesu telaṁ
 
-🚻⨂⑦(tilesu) 🚻⨀①(telaṁ)
-in sesame seeds / oil
+🚻⨂⑦(tilesu) 🚻⨀①(telaṁ)  
+in sesame seeds / oil  
 *[There is] oil in sesame seeds.* (pervading)
 
 2. > ucchūsu raso
 
-🚹⨂⑦(ucchūsu) 🚹⨀①(raso)
-in sugar canes / juice
+🚹⨂⑦(ucchūsu) 🚹⨀①(raso)  
+in sugar canes / juice  
 *[There is] juice in sugar canes.* (pervading)
 
 3. > āsane upaviṭṭho saṅgho
 
-🚻⨀⑦(āsane) ⨀🚹①(🔽(ta)(upaviṭṭho) saṅgho)
-on the seat / seated (past participle) / the Saṅgha
+🚻⨀⑦(āsane) ⨀🚹①(🔽(ta)(upaviṭṭho) saṅgho)  
+on the seat / seated (past participle) / the Saṅgha  
 *The Saṅgha [is] seated on the seat.* (by contact)
 
 4. > antalikkhe vāyū vāyanti
 
-🚻⨀⑦(antalikkhe) ⨂(🚻①(vāyū) 🟢🤟▶️(vāyanti))
-in the sky / winds / blow
+🚻⨀⑦(antalikkhe) ⨂(🚻①(vāyū) 🟢🤟▶️(vāyanti))  
+in the sky / winds / blow  
 *Winds blow in the sky.* (by domain)
 
 5. > ākāse sakuṇā pakkhandanti
 
-🚹⨀⑦(ākāse) ⨂(🚹①(sakuṇā) 🟢🤟▶️(pakkhandanti))
-in the air / birds / leap forth
+🚹⨀⑦(ākāse) ⨂(🚹①(sakuṇā) 🟢🤟▶️(pakkhandanti))  
+in the air / birds / leap forth  
 *Birds leap forth in the air.* (by domain)
 
 6. > vane hatthino caranti
 
-🚻⨀⑦(vane) ⨂(🚹①(hatthino) 🟢🤟▶️(caranti))
-in the forest / elephants / roam
+🚻⨀⑦(vane) ⨂(🚹①(hatthino) 🟢🤟▶️(caranti))  
+in the forest / elephants / roam  
 *Elephants roam in the forest.* (by proximity)
 
 7. > gaṅgāyaṁ ghoso tiṭṭhati
 
-🚺⨀⑦(gaṅgāyaṁ) ⨀(🚹①(ghoso) 🟢🤟▶️(tiṭṭhati))
-on the Ganges / the cowherds' village / stands
+🚺⨀⑦(gaṅgāyaṁ) ⨀(🚹①(ghoso) 🟢🤟▶️(tiṭṭhati))  
+on the Ganges / the cowherds' village / stands  
 *The cowherds' village stands on (i.e. near) the Ganges.* (by proximity)
 
 8. > vaje gāvo duhanti
 
-🚹⨀⑦(vaje) 🚹⨂②(gāvo) 🟢⨂🤟▶️(duhanti)
-in the cattle pen / the cows / [they] milk
+🚹⨀⑦(vaje) 🚹⨂②(gāvo) 🟢⨂🤟▶️(duhanti)  
+in the cattle pen / the cows / [they] milk  
 *[They] milk the cows in the cattle pen.* (by proximity)
 
 ### 2.3.2 Location {302}
@@ -150,8 +150,8 @@ The ③ ending can also stand in the sense of ⑦, as in `tena samayena` ("at th
 
 > **pāpasmiṁ** ramati mano
 
-🚻⨀⑦(pāpasmiṁ) ⨀(🟢🤟▶️(ramati) 🚹①(mano))
-in evil / delights / the mind
+🚻⨀⑦(pāpasmiṁ) ⨀(🟢🤟▶️(ramati) 🚹①(mano))  
+in evil / delights / the mind  
 *The mind delights in evil.*
 
 #### Exercises
@@ -163,14 +163,14 @@ in evil / delights / the mind
 
 1. > gambhīre odakantike
 
-🚻⨀⑦(gambhīre odakantike)
-in a deep / [pit] reaching down to water
+🚻⨀⑦(gambhīre odakantike)  
+in a deep / [pit] reaching down to water  
 *In a deep [pit] reaching down to the water.*
 
 2. > bhagavati brahmacariyaṁ vussati kulaputto
 
-🚹⨀⑦(bhagavati) 🚻⨀②🆎(brahma+cariya) ⨀(🔵🤟▶️(vussati) 🚹①🆎(kula+putta))
-under the Blessed One / the holy life / lives / a young man of good family
+🚹⨀⑦(bhagavati) 🚻⨀②🆎(brahma+cariya) ⨀(🔵🤟▶️(vussati) 🚹①🆎(kula+putta))  
+under the Blessed One / the holy life / lives / a young man of good family  
 *A young man of good family lives the holy life under the Blessed One.*
 
 ### 2.3.3 Object, instrument and motive {310}
@@ -185,24 +185,24 @@ The ⑦ ending is also used for the recipient (`sampadāna`), as in `saṅghe di
 
 > sundarā’vuso ime ājīvakā **bhikkhūsu** abhivādenti
 
-🚹⨂①(sundarā) ⏏️(āvuso) 🚹⨂①(*️⃣🤟(ime) ājīvakā) 🚹⨂⑦(bhikkhūsu) 🟢⨂🤟▶️(abhivādenti)
-fine / friends / these / Ājīvakas (naked ascetics) / the monks / salute
+🚹⨂①(sundarā) ⏏️(āvuso) 🚹⨂①(*️⃣🤟(ime) ājīvakā) 🚹⨂⑦(bhikkhūsu) 🟢⨂🤟▶️(abhivādenti)  
+fine / friends / these / Ājīvakas (naked ascetics) / the monks / salute  
 *Friends, these Ājīvakas are fine: they salute the monks.*
 
 #### 2.3.3.2 Instrument (`karaṇa`)
 
 > **hatthesu** piṇḍāya caranti
 
-🚹⨂⑦(hatthesu) 🚹⨀④(piṇḍāya) 🟢⨂🤟▶️(caranti)
-with their hands / for alms / [they] go about
+🚹⨂⑦(hatthesu) 🚹⨀④(piṇḍāya) 🟢⨂🤟▶️(caranti)  
+with their hands / for alms / [they] go about  
 *[They] go about for alms with their hands.*
 
 #### 2.3.3.3 Motive (`nimitta`)
 
 > dīpi **cammesu** haññate
 
-🚹⨀①(dīpi) 🚻⨂⑦(cammesu) 🔵⨀🤟▶️(haññate)
-the leopard / for its hide / is killed
+🚹⨀①(dīpi) 🚻⨂⑦(cammesu) 🔵⨀🤟▶️(haññate)  
+the leopard / for its hide / is killed  
 *The leopard is killed for its hide.*
 
 #### Exercises
@@ -215,20 +215,20 @@ the leopard / for its hide / is killed
 
 1. > pattesu piṇḍāya caranti
 
-🚹⨂⑦(pattesu) 🚹⨀④(piṇḍāya) 🟢⨂🤟▶️(caranti)
-with bowls / for alms / [they] go about
+🚹⨂⑦(pattesu) 🚹⨀④(piṇḍāya) 🟢⨂🤟▶️(caranti)  
+with bowls / for alms / [they] go about  
 *[They] go about for alms with bowls.* (instrument)
 
 2. > pathesu gacchanti
 
-🚹⨂⑦(pathesu) 🟢⨂🤟▶️(gacchanti)
-by the roads / [they] go
+🚹⨂⑦(pathesu) 🟢⨂🤟▶️(gacchanti)  
+by the roads / [they] go  
 *[They] go by the roads.* (instrument)
 
 3. > kuñjaro dantesu haññate
 
-🚹⨀①(kuñjaro) 🚹⨂⑦(dantesu) 🔵⨀🤟▶️(haññate)
-the elephant / for its tusks / is killed
+🚹⨀①(kuñjaro) 🚹⨂⑦(dantesu) 🔵⨀🤟▶️(haññate)  
+the elephant / for its tusks / is killed  
 *The elephant is killed for its tusks.* (motive)
 
 ### 2.3.4 In the sense of "from" {312}
@@ -239,8 +239,8 @@ the elephant / for its tusks / is killed
 
 > **kadalīsu** gaje rakkhanti
 
-🚺⨂⑦(kadalīsu) 🚹⨂②(gaje) 🟢⨂🤟▶️(rakkhanti)
-from the plantains / the elephants / [they] keep off
+🚺⨂⑦(kadalīsu) 🚹⨂②(gaje) 🟢⨂🤟▶️(rakkhanti)  
+from the plantains / the elephants / [they] keep off  
 *[They] keep the elephants off (away from) the plantains.*
 
 Compare `kāke rakkhanti taṇḍulā` in 2.1.3, where the same sense is carried by the ⑤ ending.
@@ -254,8 +254,8 @@ Compare `kāke rakkhanti taṇḍulā` in 2.1.3, where the same sense is carried
 
 > **pubbaṇhasamaye** gato
 
-🚹⨀⑦🆎(pubbaṇha+samaya) ⨀🚹①(🔽(ta)(gato))
-in the forenoon / gone (past participle)
+🚹⨀⑦🆎(pubbaṇha+samaya) ⨀🚹①(🔽(ta)(gato))  
+in the forenoon / gone (past participle)  
 *[He] went in the forenoon.*
 
 #### 2.3.5.2 State (`bhāva`)
@@ -264,8 +264,8 @@ Both the state and its subject take the ⑦ ending.
 
 > **bhikkhūsu bhojīyamānesu** gato
 
-🚹⨂⑦(bhikkhūsu 🔽(māna)(bhojīyamānesu)) ⨀🚹①(🔽(ta)(gato))
-while the monks / [were] being fed / gone
+🚹⨂⑦(bhikkhūsu 🔽(māna)(bhojīyamānesu)) ⨀🚹①(🔽(ta)(gato))  
+while the monks / [were] being fed / gone  
 *[He] went while the monks were being fed.*
 
 #### Exercises
@@ -279,26 +279,26 @@ while the monks / [were] being fed / gone
 
 1. > sāyanhasamaye āgato
 
-🚹⨀⑦🆎(sāyanha+samaya) ⨀🚹①(🔽(ta)(āgato))
-in the evening / come back
+🚹⨀⑦🆎(sāyanha+samaya) ⨀🚹①(🔽(ta)(āgato))  
+in the evening / come back  
 *[He] came back in the evening.* (time)
 
 2. > bhuttesu āgato
 
-🚹⨂⑦(🔽(ta)(bhuttesu)) ⨀🚹①(🔽(ta)(āgato))
-when [they had] eaten / come back
+🚹⨂⑦(🔽(ta)(bhuttesu)) ⨀🚹①(🔽(ta)(āgato))  
+when [they had] eaten / come back  
 *[He] came back when [the monks] had eaten.* (state)
 
 3. > gosu duyhamānāsu gato
 
-🚺⨂⑦(gosu 🔽(māna)(duyhamānāsu)) ⨀🚹①(🔽(ta)(gato))
-while the cows / [were] being milked / gone
+🚺⨂⑦(gosu 🔽(māna)(duyhamānāsu)) ⨀🚹①(🔽(ta)(gato))  
+while the cows / [were] being milked / gone  
 *[He] went while the cows were being milked.* (state)
 
 4. > duddhāsu āgato
 
-🚺⨂⑦(🔽(ta)(duddhāsu)) ⨀🚹①(🔽(ta)(āgato))
-when [they had been] milked / come back
+🚺⨂⑦(🔽(ta)(duddhāsu)) ⨀🚹①(🔽(ta)(āgato))  
+when [they had been] milked / come back  
 *[He] came back when [the cows] had been milked.* (state)
 
 ### 2.3.6 "More than" and "lord over" with `upa` and `adhi` {314}
@@ -310,16 +310,16 @@ when [they had been] milked / come back
 
 > upa **khāriyaṁ** doṇo
 
-🔼(upa) 🚺⨀⑦(khāriyaṁ) 🚹⨀①(doṇo)
-in excess of / a `khārī` (a measure of volume) / a `doṇa` (a measure of volume)
+🔼(upa) 🚺⨀⑦(khāriyaṁ) 🚹⨀①(doṇo)  
+in excess of / a `khārī` (a measure of volume) / a `doṇa` (a measure of volume)  
 *A `doṇa` in excess of a `khārī` (i.e. a `khārī` and a `doṇa` more).*
 
 #### 2.3.6.2 Lordship (`issara`)
 
 > adhi **brahmadatte** pañcālā
 
-🔼(adhi) 🚹⨀⑦(brahmadatte) 🚹⨂①(pañcālā)
-under the lordship of / Brahmadatta / the Pañcālas (people of Pañcāla)
+🔼(adhi) 🚹⨀⑦(brahmadatte) 🚹⨂①(pañcālā)  
+under the lordship of / Brahmadatta / the Pañcālas (people of Pañcāla)  
 *The Pañcālas are under Brahmadatta (i.e. Brahmadatta is lord over the Pañcālas).*
 
 #### Exercises
@@ -332,20 +332,20 @@ under the lordship of / Brahmadatta / the Pañcālas (people of Pañcāla)
 
 1. > upa nikkhe kahāpaṇaṁ
 
-🔼(upa) 🚹⨀⑦(nikkhe) 🚻⨀①(kahāpaṇaṁ)
-in excess of / a `nikkha` (a unit of weight) / a `kahāpaṇa` (a coin)
+🔼(upa) 🚹⨀⑦(nikkhe) 🚻⨀①(kahāpaṇaṁ)  
+in excess of / a `nikkha` (a unit of weight) / a `kahāpaṇa` (a coin)  
 *A `kahāpaṇa` in excess of a `nikkha`.* (exceeding)
 
 2. > adhi naccesu gotamī
 
-🔼(adhi) 🚻⨂⑦(naccesu) 🚺⨀①(gotamī)
-mistress over / the dances / Gotamī
+🔼(adhi) 🚻⨂⑦(naccesu) 🚺⨀①(gotamī)  
+mistress over / the dances / Gotamī  
 *Gotamī is mistress of the dances.* (lordship)
 
 3. > adhi devesu buddho
 
-🔼(adhi) 🚹⨂⑦(devesu) 🚹⨀①(buddho)
-above / the gods / the Buddha
+🔼(adhi) 🚹⨂⑦(devesu) 🚹⨀①(buddho)  
+above / the gods / the Buddha  
 *The Buddha is above the gods.* (exceeding)
 
 ### 2.3.7 Gladdened and zealous {315}
@@ -356,8 +356,8 @@ above / the gods / the Buddha
 
 > **ñāṇasmiṁ** pasīdito
 
-🚻⨀⑦(ñāṇasmiṁ) ⨀🚹①(🔽(ita)(pasīdito))
-in knowledge / gladdened (past participle)
+🚻⨀⑦(ñāṇasmiṁ) ⨀🚹①(🔽(ita)(pasīdito))  
+in knowledge / gladdened (past participle)  
 *[He is] gladdened in knowledge.*
 
 Can also use with the ③ `vibhatti` ending (eg. `ñāṇena pasīdito`)
@@ -370,6 +370,6 @@ Can also use with the ③ `vibhatti` ending (eg. `ñāṇena pasīdito`)
 
 1. > ñāṇasmiṁ ussukko tathāgato vā tathāgatagotto vā
 
-🚻⨀⑦(ñāṇasmiṁ) ⨀🚹①(ussukko tathāgato ⏏️(vā) 🆎(tathāgata+gotta) ⏏️(vā))
-in knowledge / zealous / the Tathāgata / or / one of the Tathāgata's lineage / or
+🚻⨀⑦(ñāṇasmiṁ) ⨀🚹①(ussukko tathāgato ⏏️(vā) 🆎(tathāgata+gotta) ⏏️(vā))  
+in knowledge / zealous / the Tathāgata / or / one of the Tathāgata's lineage / or  
 *The Tathāgata, or one of the Tathāgata's lineage, [is] zealous in knowledge.*

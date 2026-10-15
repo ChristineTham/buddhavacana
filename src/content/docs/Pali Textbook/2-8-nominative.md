@@ -1,15 +1,15 @@
----
-title: "2.8: liṅgattha and ālapana (Nominative and Vocative)"
-sidebar:
-  label: "2.8: `liṅgattha`, `ālapana`"
-description: >
- `liṅgattha` words express the bare meaning of the word itself, naming a
- thing without relating it to an action, and `ālapana` words call the person
- spoken to. Both take the first case (①) `vibhatti` endings; this book marks
- the `ālapana` forms ⓪. They are referred to as "nominative" and "vocative"
- in English Pali grammar books.
-categories: ["palibook"]
-tags: ["kāraka", "liṅgattha", "ālapana"]
+---  
+title: "2.8: liṅgattha and ālapana (Nominative and Vocative)"  
+sidebar:  
+  label: "2.8: `liṅgattha`, `ālapana`"  
+description: >  
+ `liṅgattha` words express the bare meaning of the word itself, naming a  
+ thing without relating it to an action, and `ālapana` words call the person  
+ spoken to. Both take the first case (①) `vibhatti` endings; this book marks  
+ the `ālapana` forms ⓪. They are referred to as "nominative" and "vocative"  
+ in English Pali grammar books.  
+categories: ["palibook"]  
+tags: ["kāraka", "liṅgattha", "ālapana"]  
 ---
 
 :::tip[Info]
@@ -45,8 +45,8 @@ each word stands by itself.
 
 > **puriso**
 
-🚹⨀①(puriso)
-a man
+🚹⨀①(puriso)  
+a man  
 *a man*
 
 #### Exercises
@@ -76,8 +76,8 @@ deconstruction.
 
 1. > purisā
 
-🚹⨂①(purisā)
-men
+🚹⨂①(purisā)  
+men  
 *men*
 
 The dictionary lists `purisā` as the ① plural, as the ③ and ⑤ singular and
@@ -86,17 +86,17 @@ Kaccāyana's example here is the ① plural.
 
 2. > eko
 
-🚹⨀①(eko)
-one
+🚹⨀①(eko)  
+one  
 *one*
 
 3. > dve
 
-⚧⨂①(dve)
-two
+⚧⨂①(dve)  
+two  
 *two*
 
-`dve` is the form of `dvi` before `yo` {132}. The numerals from two upwards
+`dve` is the form of `dvi` before `yo` {132}. The numerals from two upwards  
 are plural, and `dvi` has the one set of forms for all three genders (⚧).
 
 4. > ca
@@ -145,13 +145,13 @@ in 2.8.2 `he` stands before a vocative noun.
   vocative) is added to the bare meaning of the lemma: the word names the
   person spoken to.
 
-Kaccāyana gives the vocative no ending of its own. Its singular ending is the
-① ending `si`, which {57} renames `ga` for the vocative, and so the vocative is
-counted as a use of the ① ending. Its forms often differ from the ① forms,
-`purisa` ("man!") beside `puriso` ("a man"), so this book marks them ⓪ in the
-analysis line, as chapter 1 does. The Padarūpasiddhi explains why calling is
-not a `kāraka`: a word of address turns the hearer towards the speaker, and
-only then is the hearer joined to an action, "come", "go" and the like; at the
+Kaccāyana gives the vocative no ending of its own. Its singular ending is the  
+① ending `si`, which {57} renames `ga` for the vocative, and so the vocative is  
+counted as a use of the ① ending. Its forms often differ from the ① forms,  
+`purisa` ("man!") beside `puriso` ("a man"), so this book marks them ⓪ in the  
+analysis line, as chapter 1 does. The Padarūpasiddhi explains why calling is  
+not a `kāraka`: a word of address turns the hearer towards the speaker, and  
+only then is the hearer joined to an action, "come", "go" and the like; at the  
 moment of calling there is no action yet.
 
 Kaccāyana's examples set each vocative noun after a word of address: `bho`
@@ -164,8 +164,8 @@ Pāḷi, much like the English "good man".
 
 > **bho purisa**
 
-🚹⨀⓪(bho purisa)
-sir / man
+🚹⨀⓪(bho purisa)  
+sir / man  
 *Sir, man!*
 
 The same words open a command in the Tipiṭaka (Dīgha Nikāya 24, Pāthikasutta:
@@ -174,8 +174,8 @@ the man is called first and then told what to do.
 
 > ehi tvaṁ, **bho purisa**
 
-🟢⨀🤘⏹(ehi) *️⃣🤘⚧⨀①(tvaṁ) 🚹⨀⓪(bho purisa)
-come / you / sir / man
+🟢⨀🤘⏹(ehi) *️⃣🤘⚧⨀①(tvaṁ) 🚹⨀⓪(bho purisa)  
+come / you / sir / man  
 *Come, you, good man!*
 
 #### Exercises
@@ -192,30 +192,30 @@ come / you / sir / man
 
 1. > bhavanto purisā
 
-🚹⨂⓪(bhavanto purisā)
-sirs / men
+🚹⨂⓪(bhavanto purisā)  
+sirs / men  
 *Sirs, men!*
 
 2. > bho rāja
 
-🚹⨀⓪(bho rāja)
-sir / king
+🚹⨀⓪(bho rāja)  
+sir / king  
 *Sir, king!*
 
 3. > bhavanto rājāno
 
-🚹⨂⓪(bhavanto rājāno)
-sirs / kings
+🚹⨂⓪(bhavanto rājāno)  
+sirs / kings  
 *Sirs, kings!*
 
 4. > he sakhe
 
-⏏️(he) 🚹⨀⓪(sakhe)
-hey! / friend
+⏏️(he) 🚹⨀⓪(sakhe)  
+hey! / friend  
 *Hey, friend!*
 
 5. > he sakhino
 
-⏏️(he) 🚹⨂⓪(sakhino)
-hey! / friends
+⏏️(he) 🚹⨂⓪(sakhino)  
+hey! / friends  
 *Hey, friends!*
