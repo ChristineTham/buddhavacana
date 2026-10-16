@@ -306,7 +306,7 @@ this | neutral | feelings | quote
 with happy | indeed | friend | Visākha | with feelings | underlying tendency towards desire | should be given up | with painful | with feelings | underlying tendency towards aversion | should be given up | with neutral | with feelings | underlying tendency towards ignorance | should be given up | quote  
 “Friend Visākha, with happy feelings, there is an underlying tendency towards desire, which should be given up. With painful feelings, there is an underlying tendency towards aversion, which should be given up. With neutral feelings, there is an underlying tendency towards ignorance, which should be given up.”
 
-## 11. PERCEPTION AND IDEATION
+## 11. APPERCEPTION AND IDEATION
 
 [Nibbedhikasutta AN 6.63 PTS 3.410–3.417](https://suttacentral.net/an6.63) (Anguttara Nikaya III 413):
 
@@ -337,7 +337,7 @@ And what is “recognition”?
 blue | too | recognise | yellow  | too | recognise | red | too | recognise | white | too | recognise  
 The recognition of “blue”, “yellow”, “red”, “white”, (etc.)
 
-## 12. THREE TYPES OF ACTIVITY
+## 12. THREE TYPES OF MENTAL CONSTRUCTIONS
 
 [Cūḷavedallasutta MN 44 PTS 1.299–1.305](https://suttacentral.net/mn44) (Majjhima Nikaya I 301):
 
@@ -361,7 +361,7 @@ what | morever | pure | bodily thought process | verbal thought process | mental
 breathing in and out | indeed | friend | Visākha | bodily thought process | inner dialogue | verbal thought process | apperceptions | and | feelings | mental thought process | quote  
 “Breathing in and out is (an example of) a bodily thought process, inner dialogue is a verbal thought process, apperceptions and feelings are mental thought processes.”
 
-## 13. VOLITION AND THE ACTIVITIES
+## 13. VOLITION AND THE MENTAL CONSTRUCTIONS
 
 [Upādānaparipavattasutta SN 22.56 PTS 3.59–3.61](https://suttacentral.net/sn22.56) (Samyutta Nikaya III 60):
 
@@ -767,7 +767,7 @@ Arrow makers straighten arrow;
 Carpenters straighten wood,  
 The wise tames the self.
 
-## 22. KARMA SOMETIMES WORKS SLOWLY
+## 22. KAMMA SOMETIMES WORKS SLOWLY
 
 [Bālavagga Dhp 60–75 PTS (1st ed) 10–11 PTS (2nd ed) 17–20](https://suttacentral.net/dhp76-89) Ahipetavatthu (Dhammapada, verse 71):
 
@@ -932,7 +932,7 @@ Whatever indeed, Bhikkhave, understanding suffering, understanding source of suf
 this | is said | bhikkhave | right view  
 Bhikkhave, this said to be "sammādiṭṭhi" (right view).
 
-## 28. RIGHT PURPOSE
+## 28. RIGHT RESOLVE
 
 [Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315](https://suttacentral.net/dn22) (Digha Nikaya II 312):
 
@@ -1019,7 +1019,7 @@ Abstinence from killing living beings, abstinence from theft, abstinence from se
 this | is said | bhikkhave | right action  
 Bhikkhave, this said to be "sammākammanta" (right action).
 
-## 32. HOW THE PERFECT ONES LIVE
+## 32. HOW THE LIBERATED ONES LIVE
 
 [Uposathasutta AN 3.70 PTS 1.206–1.215](https://suttacentral.net/an3.70) (Anguttara Nikaya I 211 f):
 
@@ -1120,7 +1120,7 @@ He generates a desire for the persistence of, non-confusion of, increase of, mat
 this | is said | bhikkhave | right effort  
 Bhikkhave, this is said to be "sammāvāyāma" (right effort).
 
-## 36. RIGHT MINDFULNESS
+## 36. RIGHT AWARENESS
 
 [Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315](https://suttacentral.net/dn22) (Digha Nikaya II 292):
 
@@ -1136,25 +1136,25 @@ In whatever way his body is orientated, in that way he knows clearly.
 
 3.3 Iti ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati.  
 🔼(iti) 🚻①⨀(ajjhatta) 🔼(vā) 🚹②⨂(kāya) 🚹②⨂(kāyānupassī) ▶️🤟⨀(viharati) 🚹①⨂(bahiddha) 🔼(vā) 🚹②⨂(kāya) 🚹 ②⨂(kāyānupassī) ▶️🤟⨀(viharati) 🚹①⨂(ajjhattabahiddha) 🔼(vā) 🚹②⨂(kāya) 🚹 ②⨂(kāyānupassī) ▶️🤟⨀(viharati)  
-like this | internally | or | bodies | observing the bodies | mindful | externally | or | bodies | observing the bodies | mindful | internal and external | or | bodies | observing the bodies | mindful  
-In this way he is mindful of observing the body internally, externally, internally and externally (together).
+like this | internally | or | bodies | observing the bodies | aware | externally | or | bodies | observing the bodies | aware | internal and external | or | bodies | observing the bodies | aware  
+In this way he is aware of observing the body internally, externally, internally and externally (together).
 
 3.4 Samudayadhammānupassī vā kāyasmiṁ viharati, vayadhammānupassī vā kāyasmiṁ viharati, samudayavayadhammānupassī vā kāyasmiṁ viharati.  
 🚹①⨀(samudayadhammānupassī) 🔼(vā) 🚹⑦⨀(kāya) ▶️🤟⨀(viharati) 🚹①⨀(vayadhammānupassī) 🔼(vā) 🚹⑦⨀(kāya) ▶️🤟⨀(viharati) 🚹①⨀(samudayavayadhammānupassī) 🔼(vā) 🚹⑦⨀(kāya) ▶️🤟⨀(viharati)  
-contemplating the nature of arising | or | in physical processes | mindful | contemplating the nature of disappearance | or | in physical processes | mindful | contemplating the nature of arising and disappearance | or | in physical processes | mindful  
-He is mindful of contemplating the nature of arising, disappearance, arising and disappearing (together) of physical processes.
+contemplating the nature of arising | or | in physical processes | aware | contemplating the nature of disappearance | or | in physical processes | aware | contemplating the nature of arising and disappearance | or | in physical processes | aware  
+He is aware of contemplating the nature of arising, disappearance, arising and disappearing (together) of physical processes.
 
 3.5 ‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.  
 ▶️🤟⨀(atthi) 🚹①⨀(kāya) 🔼(ti) 🔼(panassa) 🚺①⨀(sati) 🚹①⨂(paccupaṭṭhita) ▶️🤟⨀(hoti) 🔼(yāvadeva) 🚺③⨀(ñāṇamattā) 🚺③⨀(paṭissatimattā) 🚹①⨀(anissita) 🔼(ca) ▶️🤟⨀(viharati)  🔼(na ca) 🚹②⨀(kaci) 🚹②⨂(loka) ▶️🤟⨀(upādiyati)  
-there exists | physical body | quote | and for him | keeping in mind | presence established | as far as | by measure of understanding | by measure of continuous awareness | independent of | and | mindful | not | and | anything | world | cling  
-And for him he keeps in mind and establishes “there is a body”, and he is independent and mindful through understanding and continuous awareness, and he does not cling to anything in the world.
+there exists | physical body | quote | and for him | awareness | presence established | as far as | by measure of understanding | by measure of continuous awareness | independent of | and | aware | not | and | anything | world | cling  
+And for him awareness is established that “there is a body”, and he is independent and aware, just to the extent of understanding and continuous awareness, and he does not cling to anything in the world.
 
 4.1 (Puna caparaṁ, bhikkhave, bhikkhu abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, uccārapassāvakamme sampajānakārī hoti), gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti.  
 🔼(puna) 🔼(caparaṃ) 🚹⓪⨂(bhikkhu) 🚹①⨀(bhikkhu) 🚹②⨂(abhikkanta) 🚹②⨂(paṭikkanta) 🚹①⨀(sampajānakārī) ▶️🤟⨀(hoti) 🚹②⨂(ālokita) 🚹②⨂(vilokita) 🚹①⨀(sampajānakārī) ▶️🤟⨀(hoti) 🚹②⨂(samiñjita) 🚹②⨂(pasārita) 🚹①⨀(sampajānakārī) ▶️🤟⨀(hoti) 🚻②⨂(saṅghāṭipattacīvaradhāraṇa) 🚹①⨀(sampajānakārī) ▶️🤟⨀(hoti) 🚹②⨂(asita) 🚹②⨂(pīta) 🚹②⨂(khāyita) 🚹②⨂(sāyita) 🚹①⨀(sampajānakārī) ▶️🤟⨀(hoti) 🚻②⨂(uccārapassāvakamma) 🚹①⨀(sampajānakārī) ▶️🤟⨀(hoti) 🚹②⨂(gata) 🚹②⨂(ṭhita) 🚹②⨂(nisinna) 🚹②⨂(sutta) 🚻②⨂(jāgarita) 🚻②⨂(bhāsita) 🚹②⨂(tuṇhībhāva) 🚹①⨀(sampajānakārī) ▶️🤟⨀(hoti)  
 again | and what is more | bhikkhave | bhikkhu | going forward | coming back | attentive to | is | looking ahead | looking around | attentive to | is | flexing | stretching | attentive to | is | carrying the outer robe, bowl and robe | attentive to | is | eating | drinking | chewing | tasting | attentive to | is | going to the toilet | attentive to | is | walking | standing | sitting | sleeping | being awake | talking | keeping quiet | attentive to | is  
 And what is more, bhikkhave, the bhikkhu is attentive to going forward, coming back, looking ahead, looking around, flexing, stretching, carrying the outer robe, bowl and robe, eating, drinking, chewing, tasting, going to the toilet, walking, standing, sitting, sleeping, being awake, talking, keeping quiet.
 
-## 37. IRRADIATION OF FRIENDLINESS, COMPASSION, TENDERNESS, AND EQUANIMITY
+## 37. IRRADIATION OF FRIENDLINESS, COMPASSION, EMPATHETIC HAPPINESS, AND EQUANIMITY
 
 [Saṅgītisutta DN 33 PTS 3.207–3.271](https://suttacentral.net/dn33) (Digha Nikaya III 223 f):
 
@@ -1186,7 +1186,7 @@ Here, friend, a bhikkhu is intent and mindful of filling an entire compass direc
 
 1.11.54 muditāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ muditāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
 🚹③⨀(muditāsahagata) 🚹③⨀(cetas) 🚺②⨀(eka) 🚺②⨀(disā) 🔼(pharitvā) ▶️🤟⨀(viharati)  
-here friend | bhikkhu | filled with emphatic happiness | with intent | one | direction | having filled | mindful  
+here friend | bhikkhu | filled with empathetic happiness | with intent | one | direction | having filled | mindful  
 🔼(tathā) 🚻①⨀(dutiya)  
 similarly for the second direction  
 🔼(tathā) 🚻①⨀(tatiya)  
@@ -1194,8 +1194,8 @@ similarly for the third direction
 🔼(tathā) 🚻①⨀(catuttha)  
 similarly for the fourth direction  
 🔼(iti) 🔼(uddhamadho) 🔼(tiriyaṃ) 🔼(sabbadhi) 🔼(sabbattatāya) 🚹②⨀(loka) 🚹③⨀(muditāsahagata) 🚹③⨀(cetas) 🚹③⨀(vipula) 🚹③⨀(mahaggata) 🚹③⨀(appamāṇa) 🚹③⨀(avera) 🚹③⨀(abyāpajja) 🔼(pharitvā) ▶️🤟⨀(viharati)  
-like this | above and below | horizontally | everywhere | to all beings | universe | filled with emphatic happiness | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | mindful  
-Here, friend, a bhikkhu is intent and mindful of filling an entire compass direction with emphatic happiness. Similarly in a second, third, fourth compass directions. Thus he is intent and mindful of filling above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, emphatic happiness.
+like this | above and below | horizontally | everywhere | to all beings | universe | filled with empathetic happiness | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | mindful  
+Here, friend, a bhikkhu is intent and mindful of filling an entire compass direction with empathetic happiness. Similarly in a second, third, fourth compass directions. Thus he is intent and mindful of filling above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, empathetic happiness.
 
 1.11.55 upekkhāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
 🚹③⨀(upekkhāsahagata) 🚹③⨀(cetas) 🚺②⨀(eka) 🚺②⨀(disā) 🔼(pharitvā) ▶️🤟⨀(viharati)  
@@ -1210,7 +1210,7 @@ similarly for the fourth direction
 like this | above and below | horizontally | everywhere | to all beings | universe | filled with balance/equanimity | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | mindful  
 Here, friend, a bhikkhu is intent and mindful of filling an entire compass direction with balance/equanimity. Similarly in a second, third, fourth compass directions. Thus he is intent and mindful of filling above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, balance/equanimity.
 
-## 38. THE FIRST OF THE NINE LEVELS OF CONCENTRATION
+## 38. THE FIRST OF THE NINE LEVELS OF FOCUS
 
 [Poṭṭhapādasutta DN 9 PTS 1.178–1.203](https://suttacentral.net/dn9) (Digha Nikaya I 182):
 
@@ -1229,7 +1229,7 @@ Of that, whatever past apperceptions of sensual pleasure cease.
 refined and true apperception of felicity and satisfaction born from seclusion | in that | in occasion | is | with a refined and true apperception of felicity and satisfaction born from seclusion | only | in that | in occasion | is  
 In that occasion, there is refined and true apperception of felicity and satisfaction born from seclusion, and in that occasion there is only a refined and true apperception of felicity and satisfaction born from seclusion.
 
-## 39. THE SECOND LEVEL OF CONCENTRATION
+## 39. THE SECOND LEVEL OF FOCUS
 
 [Poṭṭhapādasutta DN 9 PTS 1.178–1.203](https://suttacentral.net/dn9) (Digha Nikaya I 182):
 
@@ -1248,7 +1248,7 @@ Of that, whatever past refined and true apperception of felicity and satisfactio
 refined and true apperception of the delight and ease born from focus | in that | in occasion | is | refined and true apperception of the delight and ease born from focus | only | in that | in occasion | is  
 In that occasion, there is refined and true apperception of the felicity and satisfaction born from focus, and in that occasion there is only a refined and true apperception of the felicity and satisfaction born from focus.
 
-## 40. THE THIRD LEVEL OF CONCENTRATION
+## 40. THE THIRD LEVEL OF FOCUS
 
 [Poṭṭhapādasutta DN 9 PTS 1.178–1.203](https://suttacentral.net/dn9) (Digha Nikaya I 183):
 
@@ -1267,7 +1267,7 @@ Of that, whatever past refined and true apperception of the felicity and satisfa
 refined and true apperception of equanimity | in that | in occasion | is | refined and true apperception of equanimity | only | in that | in occasion | is  
 In that occasion, there is refined and true apperception of equanimity, and in that occasion there is only a refined and true apperception of equanimity.
 
-## 41. THE FOURTH LEVEL OF CONCENTRATION
+## 41. THE FOURTH LEVEL OF FOCUS
 
 [Poṭṭhapādasutta DN 9 PTS 1.178–1.203](https://suttacentral.net/dn9) (Digha Nikaya I 183):
 
@@ -1286,7 +1286,7 @@ Of that, whatever past refined and true apperception of equanimity cease.
 refined and true apperception of neither unpleasant nor pleasant feeling | in that | in occasion | is | refined and true apperception of neither unpleasant nor pleasant feeling | only | in that | in occasion | is  
 In that occasion, there is refined and true apperception of neither unpleasant nor pleasant feeling, and in that occasion there is only a refined and true apperception of neither unpleasant nor pleasant feeling.
 
-## 42. THE FIFTH, SIXTH AND SEVENTH LEVELS OF CONCENTRATION
+## 42. THE FIFTH, SIXTH AND SEVENTH LEVELS OF FOCUS
 
 [Poṭṭhapādasutta DN 9 PTS 1.178–1.203](https://suttacentral.net/dn9) (Digha Nikaya I 183):
 
@@ -1305,7 +1305,7 @@ And furthermore, Poṭṭhapāda, a bhikkhu, going beyond the base of infinite s
 again | and what is more | Poṭṭhapāda | bhikkhu | altogether | base of infinity of space | going beyond | there is not | anything | quote | base of nothingness |  entering | remains in  
 And furthermore, Poṭṭhapāda, a bhikkhu, going beyond the base of infinite consciousness altogether, enters and remains in the base of nothingness, ie. “there is nothing”.
 
-## 43. THE EIGHTH AND NINTH LEVELS OF CONCENTRATION
+## 43. THE EIGHTH AND NINTH LEVELS OF FOCUS
 
 [Tapussasutta AN 9.41 PTS 4.439–4.448](https://suttacentral.net/an9.41) (Anguttara Nikaya IV 448):
 
@@ -1499,7 +1499,7 @@ Having tied to a branch of a tree;
 Placed noose on neck,  
 Then my mind was liberated.
 
-## 46. THE BUDDHA RELATES HOW HE ATTAINED NIRVANA
+## 46. THE BUDDHA RELATES HOW HE ATTAINED NIBBĀNA
 
 [Pāsarāsisutta MN 26 PTS 1.161–1.175](https://suttacentral.net/mn26) (Majjhima Nikaya I 167):
 
@@ -1518,7 +1518,7 @@ Having insight, the realisation arose for me:
 Unshakeable | of me | mental liberation | this is the final | birth | there is no | now | rebirth | quote  
 “Unshakeable is the mental liberation of me, this is the final birth, now there is no rebirth.”
 
-## 47. NIRVANA
+## 47. NIBBĀNA
 
 [Rakkhitattheragāthā Thag 1.79 Verse 79](https://suttacentral.net/thag1.79) (Theragatha, verse 79):
 
@@ -1562,7 +1562,7 @@ Taught by the perfectly awakened one;
 Free from sorrow, a pure sanctuary,  
 Whenever dukkha ceases.
 
-## 49. NIRVANA IS WITHIN REACH
+## 49. NIBBĀNA IS WITHIN REACH
 
 [Adhimuttattheragāthā Thag 16.1 PTS 71–72 Verse 705–725](https://suttacentral.net/thag16.1) (Therigatha, verses 511-513):
 
@@ -1635,7 +1635,7 @@ surely? | if this | Bhikkhave | could have been | not born | not become | not ma
 from whatever | and | indeed | Bhikkhave | there exists | not born | not become | not made | not formed | from that | of born | of becoming | of made | of formed | way out of | is clearly known | quote  
 "And indeed, Bhikkhave, from that which is not born, not become, not made, not formed, a way out of being born, becoming, made, formed is clearly known."
 
-## 52. NIRVANA AND DEATH
+## 52. NIBBĀNA AND DEATH
 
 [Upasīvamāṇavapucchā Snp 5.7 PTS 206–207 Verse 1076–1083](https://suttacentral.net/snp5.7) (Sutta Nipata, verses 1074, 1076):
 
@@ -1928,7 +1928,7 @@ Arrow makers straighten arrow;
 Carpenters straighten wood,  
 The wise tames the self.
 
-### Karma Sometimes Works Slowly
+### Kamma Sometimes Works Slowly
 
 By no means completed wrong action,  
 Thickens quickly like milk;  
@@ -2056,7 +2056,7 @@ He is aware of:
 * observing the body internally, externally, internally and externally (together),
 * contemplating the nature of arising, disappearance, arising and disappearing (together) of physical processes.
 
-And for him he keeps in mind and establishes “there is a body”, and he is independent and mindful through understanding and continuous awareness, and he does not cling to anything in the world.
+And for him awareness is established that “there is a body”, and he is independent and aware, just to the extent of understanding and continuous awareness, and he does not cling to anything in the world.
 
 The bhikkhu is attentive to:
 
@@ -2080,13 +2080,13 @@ The bhikkhu is attentive to:
 * talking,
 * keeping quiet.
 
-### Irradiation Of Friendliness, Compassion, Tenderness, And Equanimity
+### Irradiation Of Friendliness, Compassion, Empathetic Happiness, And Equanimity
 
 The bhikkhu is intent and mindful of filling all compass directions, above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will:
 
 * mettā (goodwill/friendliness)
 * karuṇā (compassion/pity)
-* muditā (emphatic happiness)
+* muditā (empathetic happiness)
 * upekkhā (balance/equanimity)
 
 ### sammāsamādhi (Right Focus)
