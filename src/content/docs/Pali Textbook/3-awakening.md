@@ -45,13 +45,13 @@ With mental constructions as condition, `viññāṇaṁ` (consciousness) [arise
 
 3.3 viññāṇapaccayā nāmarūpaṁ,  
 🚹⨀⑤🆎(viññāṇa+paccaya) 🚻⨀①🆎(nāma+rūpa)  
-with consciousness as condition | name-and-form  
-With consciousness as condition, `nāmarūpaṁ` (name-and-form) [arises];
+with consciousness as condition | phenomenal objects  
+With consciousness as condition, `nāmarūpaṁ` (phenomenal objects) [arises];
 
 3.4 nāmarūpapaccayā saḷāyatanaṁ,  
 🚹⨀⑤🆎(nāmarūpa+paccaya) 🚻⨀①🆎(cha+āyatana)  
-with name-and-form as condition | the six sense bases  
-With name-and-form as condition, `saḷāyatanaṁ` (the six sense bases) [arise];
+with phenomenal objects as condition | the six sense bases  
+With phenomenal objects as condition, `saḷāyatanaṁ` (the six sense bases) [arise];
 
 3.5 saḷāyatanapaccayā phasso,  
 🚹⨀⑤🆎(saḷāyatana+paccaya) 🚹⨀①(phassa)  
@@ -85,8 +85,8 @@ With becoming as condition, `jāti` (birth) [arises];
 
 3.11 jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.  
 🚹⨀⑤🆎(jāti+paccaya) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🟢⨂🤟▶️(sambhavati)  
-with birth as condition | aging and death | sorrow, lamentation, pain, grief and despair | come into being  
-With birth as condition, `jarāmaraṇaṁ` (aging and death), `soka` (sorrow), `parideva` (lamentation), `dukkha` (pain), `domanassa` (grief), and `upāyāsā` (despair) come into being.
+with birth as condition | aging and death | sorrow, lamentation, pain, displeasure and despair | come into being  
+With birth as condition, `jarāmaraṇaṁ` (aging and death), `soka` (sorrow), `parideva` (lamentation), `dukkha` (pain), `domanassa` (displeasure), and `upāyāsā` (despair) come into being.
 
 3.12 Evametassa kevalassa dukkhakkhandhassa samudayo hoti.  
 ⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(samudaya) 🟢⨀🤟▶️(hoti)  
@@ -105,13 +105,13 @@ with the cessation of mental constructions comes the cessation of consciousness;
 
 4.3 viññāṇanirodhā nāmarūpanirodho,  
 🚹⨀⑤🆎(viññāṇa+nirodha) 🚹⨀①🆎(nāmarūpa+nirodha)  
-with the cessation of consciousness | the cessation of name-and-form  
-with the cessation of consciousness comes the cessation of name-and-form;
+with the cessation of consciousness | the cessation of phenomenal objects  
+with the cessation of consciousness comes the cessation of phenomenal objects;
 
 4.4 nāmarūpanirodhā saḷāyatananirodho,  
 🚹⨀⑤🆎(nāmarūpa+nirodha) 🚹⨀①🆎(saḷāyatana+nirodha)  
-with the cessation of name-and-form | the cessation of the six sense bases  
-with the cessation of name-and-form comes the cessation of the six sense bases;
+with the cessation of phenomenal objects | the cessation of the six sense bases  
+with the cessation of phenomenal objects comes the cessation of the six sense bases;
 
 4.5 saḷāyatananirodhā phassanirodho,  
 🚹⨀⑤🆎(saḷāyatana+nirodha) 🚹⨀①🆎(phassa+nirodha)  
@@ -145,8 +145,8 @@ with the cessation of becoming comes the cessation of birth;
 
 4.11 jātinirodhā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā nirujjhanti.  
 🚹⨀⑤🆎(jāti+nirodha) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🔴⨂🤟▶️(nirujjhati)  
-with the cessation of birth | aging and death | sorrow, lamentation, pain, grief and despair | cease  
-with the cessation of birth, aging and death, sorrow, lamentation, pain, grief, and despair cease.
+with the cessation of birth | aging and death | sorrow, lamentation, pain, displeasure and despair | cease  
+with the cessation of birth, aging and death, sorrow, lamentation, pain, displeasure, and despair cease.
 
 4.12 Evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti.  
 ⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(nirodha) 🟢⨀🤟▶️(hoti) ⏏️(iti)  
@@ -198,13 +198,13 @@ With mental constructions as condition, consciousness [arises];
 
 7.4 viññāṇapaccayā nāmarūpaṁ,  
 🚹⨀⑤🆎(viññāṇa+paccaya) 🚻⨀①🆎(nāma+rūpa)  
-with consciousness as condition | name-and-form  
-With consciousness as condition, name-and-form [arises];
+with consciousness as condition | phenomenal objects  
+With consciousness as condition, phenomenal objects [arises];
 
 7.5 nāmarūpapaccayā saḷāyatanaṁ,  
 🚹⨀⑤🆎(nāmarūpa+paccaya) 🚻⨀①🆎(cha+āyatana)  
-with name-and-form as condition | the six sense bases  
-With name-and-form as condition, the six sense bases [arise];
+with phenomenal objects as condition | the six sense bases  
+With phenomenal objects as condition, the six sense bases [arise];
 
 7.6 saḷāyatanapaccayā phasso,  
 🚹⨀⑤🆎(saḷāyatana+paccaya) 🚹⨀①(phassa)  
@@ -238,8 +238,8 @@ With becoming as condition, birth [arises];
 
 7.12 jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.  
 🚹⨀⑤🆎(jāti+paccaya) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🟢⨂🤟▶️(sambhavati)  
-with birth as condition | aging and death | sorrow, lamentation, pain, grief and despair | come into being  
-With birth as condition, `jarāmaraṇaṁ` (aging and death), `soka` (sorrow), `parideva` (lamentation), `dukkha` (pain), `domanassa` (grief), and `upāyāsā` (despair) come into being.
+with birth as condition | aging and death | sorrow, lamentation, pain, displeasure and despair | come into being  
+With birth as condition, `jarāmaraṇaṁ` (aging and death), `soka` (sorrow), `parideva` (lamentation), `dukkha` (pain), `domanassa` (displeasure), and `upāyāsā` (despair) come into being.
 
 7.13 Evametassa kevalassa dukkhakkhandhassa samudayo hoti.  
 ⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(samudaya) 🟢⨀🤟▶️(hoti)  
@@ -258,13 +258,13 @@ with the cessation of mental constructions comes the cessation of consciousness;
 
 7.16 viññāṇanirodhā nāmarūpanirodho,  
 🚹⨀⑤🆎(viññāṇa+nirodha) 🚹⨀①🆎(nāmarūpa+nirodha)  
-with the cessation of consciousness | the cessation of name-and-form  
-with the cessation of consciousness comes the cessation of name-and-form;
+with the cessation of consciousness | the cessation of phenomenal objects  
+with the cessation of consciousness comes the cessation of phenomenal objects;
 
 7.17 nāmarūpanirodhā saḷāyatananirodho,  
 🚹⨀⑤🆎(nāmarūpa+nirodha) 🚹⨀①🆎(saḷāyatana+nirodha)  
-with the cessation of name-and-form | the cessation of the six sense bases  
-with the cessation of name-and-form comes the cessation of the six sense bases;
+with the cessation of phenomenal objects | the cessation of the six sense bases  
+with the cessation of phenomenal objects comes the cessation of the six sense bases;
 
 7.18 saḷāyatananirodhā phassanirodho,  
 🚹⨀⑤🆎(saḷāyatana+nirodha) 🚹⨀①🆎(phassa+nirodha)  
@@ -298,8 +298,8 @@ with the cessation of becoming comes the cessation of birth;
 
 7.24 jātinirodhā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā nirujjhanti.  
 🚹⨀⑤🆎(jāti+nirodha) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🔴⨂🤟▶️(nirujjhati)  
-with the cessation of birth | aging and death | sorrow, lamentation, pain, grief and despair | cease  
-with the cessation of birth, aging and death, sorrow, lamentation, pain, grief, and despair cease.
+with the cessation of birth | aging and death | sorrow, lamentation, pain, displeasure and despair | cease  
+with the cessation of birth, aging and death, sorrow, lamentation, pain, displeasure, and despair cease.
 
 7.25 Evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti.  
 ⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(nirodha) 🟢⨀🤟▶️(hoti) ⏏️(iti)  
@@ -351,13 +351,13 @@ With mental constructions as condition, consciousness [arises];
 
 10.4 viññāṇapaccayā nāmarūpaṁ,  
 🚹⨀⑤🆎(viññāṇa+paccaya) 🚻⨀①🆎(nāma+rūpa)  
-with consciousness as condition | name-and-form  
-With consciousness as condition, name-and-form [arises];
+with consciousness as condition | phenomenal objects  
+With consciousness as condition, phenomenal objects [arises];
 
 10.5 nāmarūpapaccayā saḷāyatanaṁ,  
 🚹⨀⑤🆎(nāmarūpa+paccaya) 🚻⨀①🆎(cha+āyatana)  
-with name-and-form as condition | the six sense bases  
-With name-and-form as condition, the six sense bases [arise];
+with phenomenal objects as condition | the six sense bases  
+With phenomenal objects as condition, the six sense bases [arise];
 
 10.6 saḷāyatanapaccayā phasso,  
 🚹⨀⑤🆎(saḷāyatana+paccaya) 🚹⨀①(phassa)  
@@ -391,8 +391,8 @@ With becoming as condition, birth [arises];
 
 10.12 jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.  
 🚹⨀⑤🆎(jāti+paccaya) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🟢⨂🤟▶️(sambhavati)  
-with birth as condition | aging and death | sorrow, lamentation, pain, grief and despair | come into being  
-With birth as condition, `jarāmaraṇaṁ` (aging and death), `soka` (sorrow), `parideva` (lamentation), `dukkha` (pain), `domanassa` (grief), and `upāyāsā` (despair) come into being.
+with birth as condition | aging and death | sorrow, lamentation, pain, displeasure and despair | come into being  
+With birth as condition, `jarāmaraṇaṁ` (aging and death), `soka` (sorrow), `parideva` (lamentation), `dukkha` (pain), `domanassa` (displeasure), and `upāyāsā` (despair) come into being.
 
 10.13 Evametassa kevalassa dukkhakkhandhassa samudayo hoti.  
 ⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(samudaya) 🟢⨀🤟▶️(hoti)  
@@ -411,13 +411,13 @@ with the cessation of mental constructions comes the cessation of consciousness;
 
 10.16 viññāṇanirodhā nāmarūpanirodho,  
 🚹⨀⑤🆎(viññāṇa+nirodha) 🚹⨀①🆎(nāmarūpa+nirodha)  
-with the cessation of consciousness | the cessation of name-and-form  
-with the cessation of consciousness comes the cessation of name-and-form;
+with the cessation of consciousness | the cessation of phenomenal objects  
+with the cessation of consciousness comes the cessation of phenomenal objects;
 
 10.17 nāmarūpanirodhā saḷāyatananirodho,  
 🚹⨀⑤🆎(nāmarūpa+nirodha) 🚹⨀①🆎(saḷāyatana+nirodha)  
-with the cessation of name-and-form | the cessation of the six sense bases  
-with the cessation of name-and-form comes the cessation of the six sense bases;
+with the cessation of phenomenal objects | the cessation of the six sense bases  
+with the cessation of phenomenal objects comes the cessation of the six sense bases;
 
 10.18 saḷāyatananirodhā phassanirodho,  
 🚹⨀⑤🆎(saḷāyatana+nirodha) 🚹⨀①🆎(phassa+nirodha)  
@@ -451,8 +451,8 @@ with the cessation of becoming comes the cessation of birth;
 
 10.24 jātinirodhā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā nirujjhanti.  
 🚹⨀⑤🆎(jāti+nirodha) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🔴⨂🤟▶️(nirujjhati)  
-with the cessation of birth | aging and death | sorrow, lamentation, pain, grief and despair | cease  
-with the cessation of birth, aging and death, sorrow, lamentation, pain, grief, and despair cease.
+with the cessation of birth | aging and death | sorrow, lamentation, pain, displeasure and despair | cease  
+with the cessation of birth, aging and death, sorrow, lamentation, pain, displeasure, and despair cease.
 
 10.25 Evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti.  
 ⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(nirodha) 🟢⨀🤟▶️(hoti) ⏏️(iti)  
