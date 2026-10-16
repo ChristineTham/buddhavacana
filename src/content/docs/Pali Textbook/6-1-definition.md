@@ -1,7 +1,7 @@
 ---
-title: "4.1: What a compound is"
+title: "6.1: What a compound is"
 sidebar:
-  label: "4.1: `samāsa`"
+  label: "6.1: `samāsa`"
 description: >
   A `samāsa` ("compound") {316}, and what happens when words join: endings
   dropped {317}, a member back in its lemma form {318}.

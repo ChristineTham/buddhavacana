@@ -1,7 +1,7 @@
 ---
-title: "6.7: `uṇādi` affixes: the agent, the action and the purpose"
+title: "8.7: `uṇādi` affixes: the agent, the action and the purpose"
 sidebar:
-  label: "6.7: `uṇādi` senses"
+  label: "8.7: `uṇādi` senses"
 description: >
   A noun built on a verb's root carries one of a few senses: the doer
   (`kārako` "a doer", `satthā` "the teacher"), the act (`ñāṇaṁ` "knowing",
@@ -107,7 +107,7 @@ is to be eaten / the rice / by you
 ### Exercises
 
 Each of the following you met in chapter [3](../3-awakening/) or
-[5](../5-pbt/), in the form it has there, in the phrase given. Say which
+[5](../7-pbt/), in the form it has there, in the phrase given. Say which
 affix it carries, which root it is built on and which of the four senses it
 has; look the word up in a dictionary and check the root against the changes
 above.
@@ -118,14 +118,14 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. satthā (chapter 5: `satthā no garu`)
-2. sāvako (chapter 5: the last member of `ariyasāvako`)
-3. sāsanaṁ (chapter 5: `etaṁ buddhāna sāsanaṁ`)
-4. dassanaṁ (chapter 5: `ñāṇañca pana me dassanaṁ udapādi`)
-5. cetanā (chapter 5: `na cetanāya karaṇīyaṁ`)
+1. satthā (chapter 7: `satthā no garu`)
+2. sāvako (chapter 7: the last member of `ariyasāvako`)
+3. sāsanaṁ (chapter 7: `etaṁ buddhāna sāsanaṁ`)
+4. dassanaṁ (chapter 7: `ñāṇañca pana me dassanaṁ udapādi`)
+5. cetanā (chapter 7: `na cetanāya karaṇīyaṁ`)
 6. jāti (Bodhikathā 3.10: `bhavapaccayā jāti`)
-7. pahātabbo (chapter 5: `rāgānusayo pahātabbo`)
-8. carituṁ (chapter 5: `brahmacariyaṁ carituṁ`)
+7. pahātabbo (chapter 7: `rāgānusayo pahātabbo`)
+8. carituṁ (chapter 7: `brahmacariyaṁ carituṁ`)
 
 ### Answers
 
@@ -153,13 +153,13 @@ teaching
 
 🚻⨀①🔽(yu)(dassanaṁ)  
 realisation  
-*`yu` {547}: `-ana` on `√disa` (see), shaped `dass-`: the act of seeing, chapter 5's "realisation".*
+*`yu` {547}: `-ana` on `√disa` (see), shaped `dass-`: the act of seeing, chapter 7's "realisation".*
 
 5. > **cetanā**
 
 🚺⨀①🔽(yu)(cetanā)  
 intention  
-*`yu` {553}: `-anā` on `√cita` (intend), `i` as `e`: the act of intending; chapter 5 has its ③.*
+*`yu` {553}: `-anā` on `√cita` (intend), `i` as `e`: the act of intending; chapter 7 has its ③.*
 
 6. > **jāti**
 

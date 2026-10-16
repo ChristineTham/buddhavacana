@@ -1,7 +1,7 @@
 ---
-title: "2.6: kattā and hetu (Agent and Causer)"
+title: "5.6: kattā and hetu (Agent and Causer)"
 sidebar:
-  label: "2.6: `kattā`, `hetu`"
+  label: "5.6: `kattā`, `hetu`"
 description: >
   The one who does the action (`kattā`, the agent) takes the ① ending with an
   active verb and the ③ ending, "by", with a passive one {281}, {284}, {288};
@@ -64,7 +64,7 @@ In each sentence find the agent or the causer and say which ending it carries
 and why. Look up the words in a dictionary, perform the necessary sandhi and
 compound word deconstruction, and take note of the `vibhatti` endings to deduce
 the meaning of the sentence. The first four sentences are from chapters
-[3](../3-awakening/) and [5](../5-pbt/).
+[3](../3-awakening/) and [5](../7-pbt/).
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)

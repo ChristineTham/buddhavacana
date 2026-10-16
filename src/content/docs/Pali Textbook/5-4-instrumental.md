@@ -1,7 +1,7 @@
 ---
-title: "2.4: karaṇa (Instrumental)"
+title: "5.4: karaṇa (Instrumental)"
 sidebar:
-  label: "2.4: `karaṇa`"
+  label: "5.4: `karaṇa`"
 description: >
   The thing an action is done with, `dattena` ("with a sickle"), is the
   `karaṇa` (the instrument) and takes the ③ ending {279}, {286}. The same
@@ -47,12 +47,12 @@ plural `-ehi`, `-ebhi` or `-hi` (`viññūhi`, "by the wise");
 | the distinguishing attribute (`visesana`): the clan or quality someone is known by | a ③ noun beside a name or a word of praise | `gottena gotamo nātho` ("the Protector [is] a Gotama by clan") | {292} |
 
 Three rules elsewhere touch the same ground. The ② ending is sometimes found
-where ③ is expected {307} ([2.5](../2-5-accusative/)); with `maṇḍita`
+where ③ is expected {307} ([5.5](../5-5-accusative/)); with `maṇḍita`
 ("gladdened") and `ussukka` ("zealous") either ③ or ⑦ is used {315}
-([2.3](../2-3-locative/)); and the doer of a passive verb sometimes takes the
+([5.3](../5-3-locative/)); and the doer of a passive verb sometimes takes the
 ⑥ ending instead, `kato me kalyāṇo` ("good has been done by me") {308}
-([2.7](../2-7-genitive/)). With an active verb the doer takes the ① ending
-{284} ([2.6](../2-6-agent/)).
+([5.7](../5-7-genitive/)). With an active verb the doer takes the ① ending
+{284} ([5.6](../5-6-agent/)).
 
 ### Examples
 
@@ -87,7 +87,7 @@ ending: find it and say which row of the table it belongs to. Look up the
 words in a dictionary, perform the necessary sandhi and compound word
 deconstruction, and take note of the `vibhatti` endings to deduce the meaning
 of the sentence. All but the second are sentences from the texts of chapters
-[3](../3-awakening/) and [5](../5-pbt/).
+[3](../3-awakening/) and [5](../7-pbt/).
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)

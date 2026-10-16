@@ -1,7 +1,7 @@
 ---
-title: "4.5: The `tappurisa`: the king's son and the compounds of ② to ⑦"
+title: "6.5: The `tappurisa`: the king's son and the compounds of ② to ⑦"
 sidebar:
-  label: "4.5: `tappurisa`"
+  label: "6.5: `tappurisa`"
 description: >
   `rājaputto` ("the king's son") is `rañño putto` made into one word: the
   first member would carry the ⑥ ending if the two stood apart, and the
@@ -28,16 +28,16 @@ With the `kammadhāraya`, these are the commonest compounds in the texts. When
 you meet a compound, ask two questions. Is it the kind of thing its last member
 names? A `rājaputto` is a `putto`, and the compound takes its gender from that
 member; a compound that names something else, `chinnahattho` ("one whose hand
-is cut off"), is the `bahubbīhi` of section [4.6](../4-6-bahubbihi/), and one
+is cut off"), is the `bahubbīhi` of section [6.6](../6-6-bahubbihi/), and one
 whose members name the same thing, `mahāpuriso` ("a great man"), the
-`kammadhāraya` of [4.3](../4-3-kammadharaya/). And what small English word
+`kammadhāraya` of [6.3](../6-3-kammadharaya/). And what small English word
 links the members, "of", "by", "for", "from", "in"? That word is the ending
 the first member has lost, and it names the kind.
 
 ### The six kinds, by the ending of the first member
 
 One phrase and its compound for each ending, ② to ⑦; the ending is the one
-chapter [2](../2-0-karaka/) gives the first word for its work in the sentence:
+chapter [2](../5-0-karaka/) gives the first word for its work in the sentence:
 
 | ending | the first member is … | phrase → compound | meaning | rule |
 | :-: | --- | --- | --- | :-: |
@@ -75,9 +75,9 @@ example begins with `na`:
 | `na pañcavassaṁ` | `apañcavassaṁ` ("not five years") | a `digu`, `na` with a numeral compound | {326}, {333} |
 | `na dasagavaṁ` | `adasagavaṁ` ("not ten cows") | a `digu`; `go` becomes `gava` at the end of a compound | {326}, {333}, {337} |
 
-The `a-` for `na` is treated in section [4.3](../4-3-kammadharaya/) and the end of a compound in
-[4.8](../4-8-samasanta/); every rule number links to the full rule in the
-Kaccāyana translation, and [chapter 4](../4-0-samasa/) tables them all.
+The `a-` for `na` is treated in section [6.3](../6-3-kammadharaya/) and the end of a compound in
+[6.8](../6-8-samasanta/); every rule number links to the full rule in the
+Kaccāyana translation, and [chapter 6](../6-0-samasa/) tables them all.
 
 ### Examples
 
@@ -96,7 +96,7 @@ to the ground / gone → gone to the ground
 ### Exercises
 
 Each of the following is a `tappurisa` from chapter [3](../3-awakening/) or
-[5](../5-pbt/), in the form it has there. Split it into its members,
+[5](../7-pbt/), in the form it has there. Split it into its members,
 say which ending the first member would carry on its own, and give the
 meaning. Look the word up in a dictionary and check the kind it is given.
 
@@ -159,7 +159,7 @@ by virtue / for one accomplished → for one accomplished in virtue
 
 🚹⨀⑤(vivekā) 🚻⨀②(jaṁ) → 🚻⨀②🆎(viveka+ja)  
 from seclusion / born → born of seclusion  
-*⑤ {327}: "born from"; chapter 5 renders the word "secluded from defilements", the commentary's sense.*
+*⑤ {327}: "born from"; chapter 7 renders the word "secluded from defilements", the commentary's sense.*
 
 8. > kāmesu taṇhā → **kāmataṇhā**
 

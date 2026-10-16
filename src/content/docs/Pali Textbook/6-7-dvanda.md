@@ -1,7 +1,7 @@
 ---
-title: "4.7: `dvanda`, two or more things named together"
+title: "6.7: `dvanda`, two or more things named together"
 sidebar:
-  label: "4.7: `dvanda`"
+  label: "6.7: `dvanda`"
 description: >
   A `dvanda` ("pair") joins nouns that English strings together with "and":
   `samaṇabrāhmaṇā` ("ascetics and brahmins"). It has two shapes, plural when
@@ -51,7 +51,7 @@ a vowel, the `a` is dropped and the join hides the second member: `kāka` and
 compound, `nāsikā` in `mukhanāsikaṁ` ("mouth and nose") {342}, and at the
 join, `dāsī` in `dāsidāsaṁ` ("female and male slaves"). Every rule number
 links to the full rule in the Kaccāyana translation; the
-[chapter overview](../4-0-samasa/) tables all the rules on compounds.
+[chapter overview](../6-0-samasa/) tables all the rules on compounds.
 
 ### Which shape a `dvanda` takes
 
@@ -94,7 +94,7 @@ the eye / and / the ear / and → eye and ear
 Resolve the following compounds into their members, say which shape of
 `dvanda` each has and why, and give the meaning. Look up the words in a
 dictionary and take note of the ending each member would take on its own. All
-six come from the texts of chapters 3 and 5.
+six come from the texts of chapters 3, 4 and 7.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -141,10 +141,10 @@ hair / and / beard / and → hair and beard
 
 🚹⨀①(vitakko) ⏏️(ca) 🚹⨀①(vicāro) ⏏️(ca) → 🚹⨂①🆎(vitakka+vicāra)  
 thought / and / consideration / and → thinking and investigating  
-*`dvanda` {329}, plural: two processes counted apart; chapter 5 renders them "reflection and consideration".*
+*`dvanda` {329}, plural: two processes counted apart; chapter 7 renders them "reflection and consideration".*
 
 6. > assāso ca passāso ca → **assāsapassāsā**
 
 🚹⨀①(assāso) ⏏️(ca) 🚹⨀①(passāso) ⏏️(ca) → 🚹⨂①🆎(assāsa+passāsa)  
 in-breath / and / out-breath / and → breathing in and out  
-*`dvanda` {329}, plural, the two breaths counted apart; chapter 5 renders it "breathing in and out".*
+*`dvanda` {329}, plural, the two breaths counted apart; chapter 7 renders it "breathing in and out".*

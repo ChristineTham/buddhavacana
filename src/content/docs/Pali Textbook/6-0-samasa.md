@@ -1,7 +1,7 @@
 ---
-title: "4: `samāsa` (Compounds)"
+title: "6: `samāsa` (Compounds)"
 sidebar:
-  label: "4: `samāsa`"
+  label: "6: `samāsa`"
 description: >
   How two or more nouns are joined into one compound word, the six kinds of compound and the changes at the end of a compound {316}–{343}
 categories: ["palibook"]
@@ -56,8 +56,8 @@ that order with one section for each kind, and ends with the changes at the end
 of a compound.
 
 :::tip[Reading path]
-On a first reading take [4.3](../4-3-kammadharaya/), [4.5](../4-5-tappurisa/),
-[4.6](../4-6-bahubbihi/) and [4.7](../4-7-dvanda/), the four kinds the texts are
+On a first reading take [6.3](../6-3-kammadharaya/), [6.5](../6-5-tappurisa/),
+[6.6](../6-6-bahubbihi/) and [6.7](../6-7-dvanda/), the four kinds the texts are
 full of, and the diagram above; the rules on the form of the members and the
 rule table below are for looking things up, and every rule number links to the
 full rule in the Kaccāyana translation.
@@ -65,14 +65,14 @@ full rule in the Kaccāyana translation.
 
 | section | compound | English name | members | rules |
 | :-: | --- | --- | --- | --- |
-| [4.1](../4-1-definition/) | `samāsa` | what a compound is | nouns whose meanings are connected | {316}–{318} |
-| [4.2](../4-2-abyayibhava/) | `abyayībhāva` | adverbial | a prefix or particle first | {319}–{320}, {341}–{343} |
-| [4.3](../4-3-kammadharaya/) | `kammadhāraya` | appositional | two words with the same referent | {324}, {330}–{336} |
-| [4.4](../4-4-digu/) | `digu` | numeral | a numeral first | {325}, {321} |
-| [4.5](../4-5-tappurisa/) | `tappurisa` | determinative | a word in the ② to ⑦ ending with the word that follows | {327}, {326} |
-| [4.6](../4-6-bahubbihi/) | `bahubbīhi` | attributive | the compound names a third thing | {328} |
-| [4.7](../4-7-dvanda/) | `dvanda` | copulative | nouns combined with "and" | {329}, {322}–{323} |
-| [4.8](../4-8-samasanta/) | the end of a compound | — | — | {337}–{340} |
+| [6.1](../6-1-definition/) | `samāsa` | what a compound is | nouns whose meanings are connected | {316}–{318} |
+| [6.2](../6-2-abyayibhava/) | `abyayībhāva` | adverbial | a prefix or particle first | {319}–{320}, {341}–{343} |
+| [6.3](../6-3-kammadharaya/) | `kammadhāraya` | appositional | two words with the same referent | {324}, {330}–{336} |
+| [6.4](../6-4-digu/) | `digu` | numeral | a numeral first | {325}, {321} |
+| [6.5](../6-5-tappurisa/) | `tappurisa` | determinative | a word in the ② to ⑦ ending with the word that follows | {327}, {326} |
+| [6.6](../6-6-bahubbihi/) | `bahubbīhi` | attributive | the compound names a third thing | {328} |
+| [6.7](../6-7-dvanda/) | `dvanda` | copulative | nouns combined with "and" | {329}, {322}–{323} |
+| [6.8](../6-8-samasanta/) | the end of a compound | — | — | {337}–{340} |
 
 ## The rules of the Samāsakappa
 

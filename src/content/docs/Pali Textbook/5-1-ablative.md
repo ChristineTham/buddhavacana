@@ -1,7 +1,7 @@
 ---
-title: "2.1: apādāna (Ablative)"
+title: "5.1: apādāna (Ablative)"
 sidebar:
-  label: "2.1: `apādāna`"
+  label: "5.1: `apādāna`"
 description: >
   A noun with the ⑤ ending names the point something moves away from, comes
   from, is kept from or arises from: the `apādāna` {271}–{275}, which takes the
@@ -53,7 +53,7 @@ Kaccāyana defines the `apādāna` in four rules {271}–{274} and gives it the 
 ending in two {295}–{296}; a fifth rule {275} adds twenty rarer senses, mostly
 the same idea of a starting point or a separation. The examples below are its
 own, each translated at the rule; abstaining, seclusion and release are common
-in the texts of [chapter 5](../5-pbt/):
+in the texts of [chapter 7](../7-pbt/):
 
 ### The further senses of the ⑤ ending
 
@@ -97,7 +97,7 @@ teacher and preceptor / lesson / takes / pupil
 
 ### Exercises
 
-Each sentence is from the texts of chapters 3 and 5 and has a word with the ⑤
+Each sentence is from the texts of chapters 3, 4 and 7 and has a word with the ⑤
 ending. Find it, match it to a row of the tables, and translate the sentence.
 Look the words up in a dictionary, do the necessary sandhi and compound word
 deconstruction, and take note of the `vibhatti` endings.

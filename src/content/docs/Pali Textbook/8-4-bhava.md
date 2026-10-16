@@ -1,7 +1,7 @@
 ---
-title: "6.4: The abstract state, and comparison"
+title: "8.4: The abstract state, and comparison"
 sidebar:
-  label: "6.4: `bhāva`, `visesa`"
+  label: "8.4: `bhāva`, `visesa`"
 description: >
   A noun in `-tā` or `-ttaṁ` names a state, "the state of being so":
   `dhammatā` ("nature"), `anodarikattaṁ` ("moderation in eating"). The affixes
@@ -48,7 +48,7 @@ more, or most, than.
 `tā` and `tta` are the pair you will meet. A word in `tā` is feminine and
 stands complete in the ① ending, `dhammatā`; a word in `tta` is neuter,
 `-ttaṁ`. The
-`ṇ` of `ṇya`, `ṇa` and `kaṇ` is the signal you met in [6.1](../6-1-apacca/):
+`ṇ` of `ṇya`, `ṇa` and `kaṇ` is the signal you met in [8.1](../8-1-apacca/):
 it is dropped and the first vowel is lengthened, `a` to `ā`, `i` to `e`, `u`
 to `o` {396}, {400}; and a final `ā` is shortened before `ttana`,
 `vedanattanaṁ` from `vedanā` ("feeling") {403}. [Appendix H](../h-taddhita/)
@@ -101,7 +101,7 @@ this one / among these / by distinction / bad → worst
 ### Exercises
 
 Each of the following carries one of this section's affixes; all but one you
-met in chapter 5, some in another ending. Say which affix it carries, what
+met in chapter 7, some in another ending. Say which affix it carries, what
 word it is built on, and whether it names a state or singles one out. Check
 its make-up in a dictionary against the tables above.
 
@@ -128,7 +128,7 @@ deconstruction.
 
 🚹⨀⑥(dhammassa) 🚹⨀①(bhāvo) → 🚺⨀①🔽(tā)(dhammatā)  
 of nature / the state → the natural state, a characteristic  
-*`tā` {360}: `-tā` on `dhamma` (nature); chapter 5's "Dhammatā esā", "this characteristic".*
+*`tā` {360}: `-tā` on `dhamma` (nature); chapter 7's "Dhammatā esā", "this characteristic".*
 
 2. > sahabyassa bhāvo → **sahabyatā**
 
@@ -140,7 +140,7 @@ of fellowship / the state → companionship
 
 🚹⨀⑥(nemittikassa) 🚹⨀①(bhāvo) → 🚺⨀①🔽(tā)(nemittikatā)  
 of one who drops hints / the state → hinting for gain, indirect begging  
-*`tā` {360}: `-tā` on `nemittika`, itself `nimitta` (a sign) with the `ṇika` of [6.2](../6-2-anekattha/).*
+*`tā` {360}: `-tā` on `nemittika`, itself `nimitta` (a sign) with the `ṇika` of [8.2](../8-2-anekattha/).*
 
 4. > nippesikassa bhāvo → **nippesikatā**
 

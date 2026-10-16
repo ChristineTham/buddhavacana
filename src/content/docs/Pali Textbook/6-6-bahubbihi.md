@@ -1,7 +1,7 @@
 ---
-title: "4.6: bahubbīhi (Compounds that name something else)"
+title: "6.6: bahubbīhi (Compounds that name something else)"
 sidebar:
-  label: "4.6: `bahubbīhi`"
+  label: "6.6: `bahubbīhi`"
 description: >
   A `bahubbīhi` names something outside its own members: `chinnahattho` is
   not a hand but "a man whose hand is cut off", and the compound agrees with
@@ -29,7 +29,7 @@ compound takes the gender, number and ending of that noun: `chinnahattho` is
 🚹⨀① because `puriso` is. When the members join, their endings are dropped
 {317} and each goes back to its lemma form {318}. The Buddha's epithets are
 full of such compounds (`dasabalo`, "who has the ten powers"), and so is the
-jhāna formula of chapter 5 (`avitakkaṁ avicāraṁ … jhānaṁ`).
+jhāna formula of chapter 7 (`avitakkaṁ avicāraṁ … jhānaṁ`).
 
 ### How to recognise a `bahubbīhi`
 
@@ -58,7 +58,7 @@ by the first member:
 The name serves one later rule {167}: a `bahubbīhi` ending in a pronoun,
 `piyapubbā` ("whose former [spouse] was dear"), keeps the ordinary noun
 endings. Every rule number links to the full rule; the
-[chapter overview](../4-0-samasa/) tables them all.
+[chapter overview](../6-0-samasa/) tables them all.
 
 ### Examples
 
@@ -82,7 +82,7 @@ ten / powers / of whom / that [one] → who has the ten powers / the Blessed One
 
 ### Exercises
 
-Each of the following is a `bahubbīhi` from chapter 5, with the word it
+Each of the following is a `bahubbīhi` from chapter 7, with the word it
 agrees with where the sentence has one. Look each up in a dictionary, name its
 members, unfold it into a phrase with `yassa` ("whose"), and say what it names.
 

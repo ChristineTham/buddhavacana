@@ -1,7 +1,7 @@
 ---
-title: "6.3: A collection, an occasion, a likeness, a dependence, an abundance"
+title: "8.3: A collection, an occasion, a likeness, a dependence, an abundance"
 sidebar:
-  label: "6.3: `samūha` and others"
+  label: "8.3: `samūha` and others"
 description: >
   A noun with an affix that adds a sense to it: a collection of what it names,
   `janatā` ("the people") {354}–{355}; an occasion of it, `madaniyaṁ`
@@ -41,7 +41,7 @@ other three are rare, and [Appendix H](../h-taddhita/) tables them all.
 | `la` | `-llaṁ`, the `l` doubled | what depends on it (`nissita`, "dependent on"), or is an occasion of it | `duṭṭhullaṁ` ("coarse, lewd"), `vedallaṁ` ("a catechism") | {358} |
 | `ālu` | `-ālu` in place of the final vowel | one in whom it abounds (`bahula`, "abundant") | `abhijjhālu` ("covetous"), `dayālu` ("compassionate") | {359} |
 
-The `ṇ` of `kaṇ` and `ṇa` is the signal of section [6.1](../6-1-apacca/):
+The `ṇ` of `kaṇ` and `ṇa` is the signal of section [8.1](../8-1-apacca/):
 it is dropped {396} and the first vowel of the word is lengthened {400}, so
 `manussa` ("human being") gives `mānussako`. The new word's gender tells you
 the affix too: a word in `tā` is feminine and keeps its `-ā` as its ① ending,
@@ -52,7 +52,7 @@ describes a person and ends in `-u`.
 One warning about the `-iya` words. The texts spell them with a long vowel,
 `madanīyaṁ`, `dassanīyaṁ`, and the Digital Pāḷi Dictionary reads them from
 the root, `√mad` with the affix `anīya` ("to be done", section
-[6.7](../6-7-sadhana/)), not from the noun `madana` as Kaccāyana does. Read
+[8.7](../8-7-sadhana/)), not from the noun `madana` as Kaccāyana does. Read
 either way, `-anīya` on the end of a word means "an occasion of, fit for":
 `dassanīyaṁ` is "fit to be seen, lovely to look at".
 
