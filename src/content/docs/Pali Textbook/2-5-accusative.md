@@ -1,34 +1,55 @@
----  
-title: "2.5: kamma (Accusative)"  
-sidebar:  
-  label: "2.5: `kamma`"  
-description: >  
- `kamma` words refer to the object of the action, what one does, sees or  
- hears, and are generally translated as the plain English object, without a  
- preposition ("he makes *a pot*"). It is normally (but not always) associated  
- with the second case (②) `vibhatti` endings. It is often referred to as  
- "accusative" in English Pali grammar books.  
-categories: ["palibook"]  
-tags: ["kāraka", "kamma"]  
+---
+title: "2.5: kamma (Accusative)"
+sidebar:
+  label: "2.5: `kamma`"
+description: >
+  The ② ending marks the `kamma`, the object: whatever is made, seen, heard or
+  reached {280}, {297}. The same ending measures a time or a distance that an
+  action fills {298}, goes with a governing particle {299} or a "makes someone
+  do" verb {300}, and in a few places stands where another ending is expected
+  {306}–{307}.
+categories: ["palibook"]
+tags: ["kāraka", "kamma"]
 ---
 
 :::tip[Info]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-The usage examples provided here are not exhaustive, other usages are possible.
+Nearly every sentence has a word for what the action is done to:
+the teaching that is heard, the umbrella that is made, the village that is gone
+to. Kaccāyana names that word the `kamma` (the object): whatever one does, sees
+or hears {280}, and it takes the ② ending {297}, `aṁ` in the singular
+(`dhammaṁ`) and, for a lemma in `a`, `-e` in the plural (`dhamme`), as chapter 1
+tabled. So `dhammaṁ suṇāti` is "he hears the teaching": English shows the
+object by its place after the verb, with no preposition.
 
-### 2.5.1 What one does, sees or hears {280}
+The same ending measures a stretch of time or distance that an action fills,
+`sattāhaṁ nisīdi`, "he sat for seven days" {298}. So ask of a ② word: what
+does the verb do to this, or where does it get to? If neither, look down the
+table.
 
-* Whatever one does or makes
-* Whatever one sees
-* Whatever one hears
+### The uses of the ② ending
 
-That `kāraka` is called `kamma` ("the object", the thing the action is done
-to). The next rule {297} gives it the ② `vibhatti` ending, so the examples
-of this rule already show that ending.
+| what the ② word is doing | what you see | example | rule |
+| --- | --- | --- | :-: |
+| the object: what is made, seen or heard | a noun in ② beside its verb | `chattaṁ karoti`, he makes an umbrella; `dhammaṁ suṇāti`, he hears the teaching | {280}, {297} |
+| the goal of motion: what a going or entering reaches | ② with a verb of movement | `gāmaṁ gāmayati`, he makes [him] go to the village; `anagāriyaṁ pabbajati`, he goes forth into homelessness | {297} |
+| duration: a time or a distance that the action fills from end to end (`accantasaṁyoga`, unbroken connection) | a word of time or length in ②; a meal eaten once in the year does not fill it, so `saṁvacchare` is ⑦ | `māsaṁ sajjhāyati`, he recites for a month; `yojanaṁ dīgho pabbato`, the mountain is a league long | {298} |
+| the noun a governing particle (`kammappavacanīya`) stands with | ② beside `anu` after, `pati` towards, `pari` around, `abhi` about | `pabbajitaṁ anupabbajiṁsu`, they went forth after the one who had gone forth | {299} |
+| the one made to act by a "makes someone do" verb (`kārita` {438}) | a verb in `-eti`, `-ayati`, `-āpeti` or `-āpayati`; the person may take ③ or ⑥ instead | `purisaṁ gāmayati`, he makes the man go | {300} |
+| standing in for ⑥ | `maṁ` where `mama`, "of me, to me", is expected | `maṁ … upamā paṭibhaṁsu`, similes occurred to me | {306} |
+| standing in for ③ | `maṁ` where `mayā`, "with me", is expected | `sace maṁ … ālapissati`, if he will converse with me | {307} |
+| standing in for ⑦: a point of time | a time word in ② where `-e` or `-smiṁ` is expected | `ekaṁ samayaṁ bhagavā`, at one time the Blessed One | {307} |
 
-#### Example
+Every rule number links to the full rule in the Kaccāyana translation;
+[chapter 1](../1-basics/) tables the typical meanings of every ending. The last
+three uses are rare, `ekaṁ samayaṁ`, the opening of most suttas, the one to
+remember.
+
+### Examples
+
+The ② word is in bold. The object, what is made {280}:
 
 > **chattaṁ** karoti
 
@@ -36,67 +57,7 @@ of this rule already show that ending.
 an umbrella / [he] makes  
 *He makes an umbrella.*
 
-#### Exercises
-
-Translate the following from Pali to English. Look up the words in a dictionary,
-perform necessary sandhi and compound word deconstruction, and take note of
-the `vibhatti` endings to deduce the meaning of the sentence.
-
-:::tip[Hint]
-You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
-useful for looking up words, as well as doing the sandhi and compound word
-deconstruction.
-:::
-
-1. rathaṁ karoti
-2. rūpaṁ passati
-3. saddaṁ suṇāti
-4. kaṇṭakaṁ maddati
-5. visaṁ gilati
-
-#### Answers
-
-*Note: please do the exercises first before checking the answers.*
-
-1. > rathaṁ karoti
-
-🚹⨀②(rathaṁ) 🟢⨀🤟▶️(karoti)  
-a chariot / [he] makes  
-*He makes a chariot.*
-
-2. > rūpaṁ passati
-
-🚻⨀②(rūpaṁ) 🟢⨀🤟▶️(passati)  
-a form / [he] sees  
-*He sees a form.*
-
-3. > saddaṁ suṇāti
-
-🚹⨀②(saddaṁ) 🟢⨀🤟▶️(suṇāti)  
-a sound / [he] hears  
-*He hears a sound.*
-
-4. > kaṇṭakaṁ maddati
-
-🚹⨀②(kaṇṭakaṁ) 🟢⨀🤟▶️(maddati)  
-a thorn / [he] tramples on  
-*He tramples on a thorn.*
-
-5. > visaṁ gilati
-
-🚻⨀②(visaṁ) 🟢⨀🤟▶️(gilati)  
-poison / [he] swallows  
-*He swallows poison.*
-
-The object need not be something wanted: a thorn trampled on and poison
-swallowed are the `kamma` of their actions all the same.
-
-### 2.5.2 The object {297}
-
-* The ② `vibhatti` ending is used in the sense of the `kamma`, the object of
-  the action.
-
-#### Example
+The object, what is heard {297}:
 
 > **dhammaṁ** suṇāti
 
@@ -104,86 +65,15 @@ swallowed are the `kamma` of their actions all the same.
 the teaching / [he] hears  
 *He hears the teaching.*
 
-#### Exercises
+The goal of motion, what the going reaches {297}, beside the one made to go {300}:
 
-1. gāvaṁ hanati
-2. vīhayo lunāti
-3. satthaṁ karoti
-4. ghaṭaṁ karoti
-5. rathaṁ karoti
-6. buddhaṁ pūjeti
-7. vācaṁ bhāsati
-8. taṇḍulaṁ pacati
-9. coraṁ ghāteti
+> puriso **purisaṁ gāmaṁ** gāmayati
 
-#### Answers
+🚹⨀①(puriso) 🚹⨀②(purisaṁ) 🚹⨀②(gāmaṁ) 🟠⨀🤟▶️(gāmayati)  
+the man / the man / to the village / makes go  
+*The man makes the man go to the village.*
 
-1. > gāvaṁ hanati
-
-🚹⨀②(gāvaṁ) 🟢⨀🤟▶️(hanati)  
-a cow / [he] kills  
-*He kills a cow.*
-
-`gāvaṁ` is the ② ⨀ form of `go` ("cow"): `go` + `aṁ` → `gāv` + `aṁ` {75} {83}.
-
-2. > vīhayo lunāti
-
-🚹⨂②(vīhayo) 🟢⨀🤟▶️(lunāti)  
-the rice plants / [he] reaps  
-*He reaps the rice.*
-
-3. > satthaṁ karoti
-
-🚻⨀②(satthaṁ) 🟢⨀🤟▶️(karoti)  
-a treatise (a text of science or lore) / [he] makes, composes  
-*He composes a treatise.*
-
-4. > ghaṭaṁ karoti
-
-🚹⨀②(ghaṭaṁ) 🟢⨀🤟▶️(karoti)  
-a water pot / [he] makes  
-*He makes a water pot.*
-
-5. > rathaṁ karoti
-
-🚹⨀②(rathaṁ) 🟢⨀🤟▶️(karoti)  
-a chariot / [he] makes  
-*He makes a chariot.*
-
-6. > buddhaṁ pūjeti
-
-🚹⨀②(buddhaṁ) 🟢⨀🤟▶️(pūjeti)  
-the Buddha / [he] honours  
-*He honours the Buddha.*
-
-7. > vācaṁ bhāsati
-
-🚺⨀②(vācaṁ) 🟢⨀🤟▶️(bhāsati)  
-speech, a word / [he] speaks  
-*He speaks a word.*
-
-8. > taṇḍulaṁ pacati
-
-🚹⨀②(taṇḍulaṁ) 🟢⨀🤟▶️(pacati)  
-rice (dehusked grain) / [he] cooks  
-*He cooks rice.*
-
-9. > coraṁ ghāteti
-
-🚹⨀②(coraṁ) 🟢⨀🤟▶️(ghāteti)  
-a thief / [he] executes (has killed)  
-*He has the thief put to death.*
-
-### 2.5.3 Through a time or distance {298}
-
-* After a word of time (`kāla`), in unbroken connection
-* After a word of distance (`addhāna`), in unbroken connection
-
-Unbroken connection (`accantasaṁyoga`) means that the thing, quality or
-action goes on through the whole of the time or distance named, without a
-break. English says "for a month", "through the autumn", "a league long".
-
-#### Example
+Duration, the month that the eating fills {298}:
 
 > **māsaṁ** maṁsodanaṁ bhuñjati
 
@@ -191,239 +81,74 @@ break. English says "for a month", "through the autumn", "a league long".
 for a month / rice with meat / [he] eats  
 *He eats rice with meat for a month.*
 
-When the connection is not unbroken the ② ending is not used. One meal does
-not fill a year, so here the word of time takes the ⑦ ending instead:
+### Exercises
 
-> saṁvacchare bhojanaṁ bhuñjati
+Translate these sentences, all met in chapter 3 or 5. Each has at least one
+word with the ② ending: find it and say from the table what it is doing.
 
-🚹⨀⑦(saṁvacchare) 🚻⨀②(bhojanaṁ) 🟢⨀🤟▶️(bhuñjati)  
-in the year / a meal / [he] eats  
-*He eats a meal in the year.*
+:::tip[Hint]
+You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
+useful for looking up words, as well as doing the sandhi and compound word
+deconstruction.
+:::
 
-#### Exercises
+1. “Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā aññaṁ satthāraṁ uddiseyyāthā”ti?
+2. Usukārā namayanti tejanaṁ; dāruṁ namayanti tacchakā, attānaṁ damayanti paṇḍitā.
+3. ‘vimuttiñāṇadassanaṁ sacchikaromī’ti.
+4. Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan”ti.
+5. Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī.
+6. Atha kho bhagavā rattiyā paṭhamaṁ yāmaṁ paṭiccasamuppādaṁ anulomapaṭilomaṁ manasākāsi—
 
-1. saradaṁ ramaṇīyā nadī
-2. māsaṁ sajjhāyati
-3. yojanaṁ vanarāji
-4. yojanaṁ dīgho pabbato
-5. kosaṁ sajjhāyati
+### Answers
 
-#### Answers
+*Note: please do the exercises first before checking the answers.*
 
-1. > saradaṁ ramaṇīyā nadī
+1. > “Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā **aññaṁ satthāraṁ** uddiseyyāthā”ti?
 
-🚹⨀②(saradaṁ) 🚺⨀①(🔽(anīya)(ramaṇīyā) nadī)  
-through the autumn / delightful / the river  
-*The river is delightful through the autumn.*
+🔼(apinu) 🤘①⨂(tvaṁ) 🚹⓪⨂(bhikkhu) 🔼(evaṁ) 🚹①⨂(jānanta) 🔼(evaṁ) 🚹①⨂(passanta) 🚹②⨀(añña) 🚹②⨀(satthar) ⏯🤘⨂(uddisati)  
+are? / youse / bhikkhave / thus / knowing / thus / seeing / another / teacher / appoint  
+*Thus knowing and thus seeing, bhikkhave, will you appoint another teacher?*
 
-2. > māsaṁ sajjhāyati
+`aññaṁ satthāraṁ`: the object {297}; `aññaṁ` takes the ending of its noun.
 
-🚹⨀②(māsaṁ) 🟢⨀🤟▶️(sajjhāyati)  
-for a month / [he] recites  
-*He recites for a month.*
+2. > Usukārā namayanti **tejanaṁ**; **dāruṁ** namayanti tacchakā, **attānaṁ** damayanti paṇḍitā.
 
-3. > yojanaṁ vanarāji
+🚹①⨂(usukāra) ▶️🤟⨂(namayati) 🚻②⨀(tejana) 🚻②⨀(dāru) ▶️🤟⨂(namayati) 🚹①⨂(tacchaka) 🚹②⨀(atta) ▶️🤟⨂(damayati) 🚹①⨂(paṇḍita)  
+arrow-maker / straighten / arrow / wood / straighten / carpenters / self / tames / the wise  
+*Arrow makers straighten arrow; carpenters straighten wood, the wise tames the self.*
 
-🚻⨀②(yojanaṁ) 🚺⨀①🆎(vana+rāji)  
-for a league (yojana, about 20 km) / the line of forest  
-*The line of forest [runs] for a league.*
+`tejanaṁ`, `dāruṁ`, `attānaṁ`: the objects {297}, before or after their verbs.
 
-4. > yojanaṁ dīgho pabbato
+3. > ‘**vimuttiñāṇadassanaṁ** sacchikaromī’ti.
 
-🚻⨀②(yojanaṁ) 🚹⨀①(dīgho pabbato)  
-for a league / long / the mountain  
-*The mountain is a league long.*
+🚻②⨀(vimuttiñāṇadassana) ⏹👆⨀(sacchikaroti) 🔼(ti)  
+understanding and insight into liberation / must personally realises / quote  
+*“May I personally realise understanding and insight into liberation.”*
 
-5. > kosaṁ sajjhāyati
+`vimuttiñāṇadassanaṁ`, a compound: the object {297}.
 
-🚹⨀②(kosaṁ) 🟢⨀🤟▶️(sajjhāyati)  
-for a kosa (a measure of length, about a mile) / [he] recites  
-*He recites for a kosa [of the way].*
+4. > Yannūnāhaṁ **kesamassuṁ** ohāretvā **kāsāyāni vatthāni** acchādetvā agārasmā **anagāriyaṁ** pabbajeyyan”ti.
 
-### 2.5.4 With a `kammappavacanīya` {299}
+🔼(yannūnāhaṁ) 🚻②⨀(kesamassu) 🔼(ohāretvā) 🚻②⨂(kāsāya) 🚻②⨂(vattha) 🔼(acchādetvā) 🚻⑤⨀(agāra) 🚻②⨀(anagāriya) 🔵⏯👆⨀(pabbajati) 🔼(ti)  
+what if I were to / hair and beard / having shaved off / ochre / robe / having put on / from household life / to homeless state / renounce / quote  
+*What if I were to renounce from household life to homeless state, having shaved off hair and beard, and having put on ochre robe.*
 
-* The ② `vibhatti` ending is used for a word in construction with a
-  `kammappavacanīya`.
+`anagāriyaṁ`: the goal {297}, paired with `agārasmā` in ⑤, the place left;
+`kesamassuṁ` and `kāsāyāni vatthāni`: the objects.
 
-A `kammappavacanīya` is a particle or prefix that stands with a noun and
-governs it, much as an English preposition does: `anu` ("after", "along"),
-`pati` ("towards"), `pari` ("around"), `abhi` ("about"). The noun it governs
-takes the ② ending.
+5. > Atha kho bhagavā bodhirukkhamūle **sattāhaṁ** ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī.
 
-#### Example
+⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚻⨀⑦🆎(bodhirukkha+mūla) 🚻⨀②🆎(satta+aha) 🚹⨀③🆎(eka+pallaṅka) 🟢⨀🤟⏮(nisīdati) 🚹⨀①🆎(vimuttisukha+paṭisaṁvedī)  
+then / indeed / the Bhagavā / at the root of the bodhi tree / for seven days / in one cross-legged posture / sat down / experiencing the bliss of liberation  
+*Then the Bhagavā sat at the root of the Bodhi tree for seven days in one cross-legged posture, experiencing the bliss of liberation (`vimuttisukhapaṭisaṁvedī`).*
 
-> **taṁ** kho pana **bhavantaṁ gotamaṁ** evaṁ kalyāṇo kittisaddo abbhuggato
+`sattāhaṁ`: the time the sitting fills {298}; the place is in ⑦, the manner in ③.
 
-*️⃣🤟🚹⨀②(taṁ) ⏏️(kho) ⏏️(pana) 🚹⨀②(bhavantaṁ gotamaṁ) ⏏️(evaṁ) 🚹⨀①(kalyāṇo 🆎(kitti+sadda) 🔽(ta)(abbhuggato))  
-that / indeed / now / the venerable / Gotama / such / a fair / report / has spread about  
-*Now about that venerable Gotama such a fair report has spread.*
+6. > Atha kho bhagavā rattiyā **paṭhamaṁ yāmaṁ paṭiccasamuppādaṁ anulomapaṭilomaṁ** manasākāsi—
 
-The `kammappavacanīya` here is the prefix `abhi` ("about") in `abbhuggato`
-(`abhi` + `ud` + `gato`, "gone up about"), and `taṁ bhavantaṁ gotamaṁ`, the
-one the report is about, takes the ② ending.
+⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚺⨀⑥(ratti) 🚹⨀②(paṭhama) 🚹⨀②(yāma) 🚹⨀②🆎(paṭicca+samuppāda) 🚹⨀②🆎(anuloma+paṭiloma) 🟢⨀🤟⏮(manasikaroti)  
+then / indeed / the Bhagavā / of the night / first / watch / dependent origination / in forward and reverse order / attended to  
+*Then the Bhagavā, during the first watch of the night, attended to `paṭiccasamuppādaṁ` (dependent origination) in forward and reverse order —*
 
-#### Exercises
-
-1. pabbajitamanupabbajiṁsu
-
-#### Answers
-
-1. > pabbajita’manupabbajiṁsu
-
-🚹⨀②🔽(ta)(pabbajitaṁ) 🔼(anu) 🟢⨂🤟⏮(pabbajiṁsu)  
-the one who had gone forth / after / they went forth  
-*They went forth after the one who had gone forth.*
-
-The `kammappavacanīya` is `anu` ("after"), and `pabbajitaṁ` takes the ②  
-ending. The Digital Pali Dictionary splits the sentence as `pabbajitaṁ` +  
-`anupabbajiṁsu` ("they followed into the monastic life").
-
-### 2.5.5 The one made to act, in a causative {300}
-
-* In a causative verb (`kārita`, "makes someone do"; the affixes `ṇe`, `ṇaya`,
-  `ṇāpe`, `ṇāpaya` {438}) formed from a root meaning going (`gati`), knowing  
-  (`buddhi`), eating (`bhuja`), reciting (`paṭha`), carrying (`hara`), doing  
-  (`kara`), lying down (`saya`) or the like, the person who is made to act  
-  takes the ② `vibhatti` ending, optionally (`vā`).
-
-#### Example
-
-> puriso **purisaṁ** gāmaṁ gāmayati
-
-🚹⨀①(puriso) 🚹⨀②(purisaṁ) 🚹⨀②(gāmaṁ) 🟠⨀🤟▶️(gāmayati)  
-the man / the man / to the village / makes go  
-*The man makes the man go to the village.*
-
-`gāmayati` is the causative of `gamu` ("to go") with the affix `ṇaya`:
-"makes go". The man who goes is the one made to act, and takes ②;
-`gāmaṁ` is the object of the going and takes ② by {297}.
-
-Can also use with ③ and ⑥ `vibhatti` endings (eg. `purisena`, `purisassa`):
-
-> puriso **purisena** gāmaṁ gāmayati
-> puriso **purisassa** gāmaṁ gāmayati
-
-Kaccāyana adds that it is the same with the other roots named: `bodhayati`,
-`bhojayati`, `pāṭhayati`, `hārayati`, `kārayati`, `sayāpayati`, and so
-everywhere in a causative.
-
-#### Exercises
-
-Give the meaning of the following causative verbs.
-
-1. bodhayati
-2. bhojayati
-3. pāṭhayati
-4. hārayati
-5. kārayati
-6. sayāpayati
-
-#### Answers
-
-1. > bodhayati
-
-🟠⨀🤟▶️(bodhayati)
-[he] makes [him] know, awakens
-*He makes [him] know.* Root `budha` ("to know, to wake up") + `ṇaya`.
-
-2. > bhojayati
-
-🟠⨀🤟▶️(bhojayati)
-[he] makes [him] eat, feeds
-*He feeds [him].* Root `bhuja` ("to eat") + `ṇaya`.
-
-3. > pāṭhayati
-
-🟠⨀🤟▶️(pāṭhayati)
-[he] makes [him] recite
-*He makes [him] recite.* Root `paṭha` ("to recite, to read") + `ṇaya`.
-
-4. > hārayati
-
-🟠⨀🤟▶️(hārayati)
-[he] makes [him] carry
-*He makes [him] carry.* Root `hara` ("to carry") + `ṇaya`.
-
-5. > kārayati
-
-🟠⨀🤟▶️(kārayati)
-[he] makes [him] do
-*He makes [him] do.* Root `kara` ("to do, to make") + `ṇaya`.
-
-6. > sayāpayati
-
-🟠⨀🤟▶️(sayāpayati)
-[he] makes [him] lie down
-*He makes [him] lie down.* Root `si` ("to lie down") + `ṇāpaya`.
-
-### 2.5.6 In the sense of ⑥ {306}
-
-* In some places (`kvaci`) the ② `vibhatti` ending is used in the sense of
-  the ⑥ ending.
-
-The reverse also happens: in some places the ⑥ ending is used in the sense  
-of ② {309}; see [2.7](../2-7-genitive/).
-
-#### Example
-
-> api’ssu **maṁ** aggivessana tisso upamā paṭibhaṁsu
-
-⏏️(api’ssu) *️⃣👆⚧⨀②(maṁ) 🚹⨀⓪(aggivessana) ⨂(🚺①(tisso upamā) 🟢🤟⏮(paṭibhaṁsu))  
-moreover / to me / Aggivessana / three / similes / occurred  
-*Moreover, Aggivessana, three similes occurred to me.*
-
-`maṁ` ("me", ②) stands where the ⑥ form `mama` ("of me, to me") would be  
-expected: the similes occurred to me.
-
-### 2.5.7 In the sense of ③ and ⑦ {307}
-
-* And in some places the ② `vibhatti` ending is used in the sense of the ③
-  ending
-* And in some places the ② `vibhatti` ending is used in the sense of the ⑦
-  ending
-
-#### 2.5.7.1 In the sense of ③
-
-> sace **maṁ** samaṇo gotamo ālapissati
-
-⏏️(sace) *️⃣👆⚧⨀②(maṁ) ⨀(🚹①(samaṇo gotamo) 🟢🤟⏭(ālapissati))  
-if / with me / the ascetic / Gotama / will converse  
-*If the ascetic Gotama will converse with me.*
-
-`maṁ` (②) stands where the ③ form `mayā` ("with me") would be expected.
-
-#### 2.5.7.2 In the sense of ⑦
-
-> **pubbaṇhasamayaṁ** nivāsetvā
-
-🚹⨀②🆎(pubbaṇha+samaya) 🔽(tvā)(nivāsetvā)  
-in the forenoon / having dressed  
-*Having dressed in the forenoon, …*
-
-`pubbaṇhasamayaṁ` (②) stands where the ⑦ form `pubbaṇhasamaye` ("in the  
-forenoon") would be expected: the ② ending marks the time at which.
-
-#### Exercises
-
-1. tvañca maṁ nābhibhāsasi
-2. ekaṁ samayaṁ bhagavā
-
-#### Answers
-
-1. > tvañca maṁ nā’bhibhāsasi
-
-*️⃣🤘⚧⨀①(tvaṁ) ⏏️(ca) *️⃣👆⚧⨀②(maṁ) ⏏️(na) 🟢⨀🤘▶️(abhibhāsasi)  
-you / and / with me / not / speak  
-*And you do not speak with me.*
-
-`tvañca` is `tvaṁ` + `ca` (the niggahīta becomes `ñ` before `c` {31});  
-`maṁ` (②) in the sense of ③ (`mayā`, "with me").
-
-2. > ekaṁ samayaṁ bhagavā
-
-🚹⨀②(*️⃣🤟(ekaṁ) samayaṁ) 🚹⨀①(bhagavā)  
-at one / time / the Blessed One  
-*At one time the Blessed One …*
-
-`ekaṁ samayaṁ` (②) in the sense of ⑦ (`ekasmiṁ samaye`, "at one time"), the  
-familiar opening of the suttas.
+`paṭhamaṁ yāmaṁ`: the time the attending fills {298}; `paṭiccasamuppādaṁ`: its
+object {297}; `anulomapaṭilomaṁ`: the manner.

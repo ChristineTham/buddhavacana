@@ -199,6 +199,10 @@ importers:
       typescript:
         specifier: ^7.0.2
         version: 7.0.2
+    devDependencies:
+      '@astrojs/markdown-satteri':
+        specifier: 0.4.3
+        version: 0.4.3
 
 packages:
 

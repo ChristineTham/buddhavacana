@@ -3,13 +3,12 @@ title: "6.4: The abstract state, and comparison"
 sidebar:
   label: "6.4: `bhāva`, `visesa`"
 description: >
-  The affixes of the abstract state (`bhāva`) make a noun for the quality of
-  being what the base names, "the state of that": `alasassa bhāvo` ("the state
-  of a lazy man") becomes `ālasyaṁ` ("laziness") with `ṇya`, and `tta`, `tā`,
-  `ttana` {360}, `ṇa` {361} and `kaṇ` {362} do the same. The affixes of
-  distinction (`visesa`), `tara`, `tama`, `isika`, `iya` and `iṭṭha` {363},
-  make the comparative and the superlative: `pāpataro` ("worse"), `pāpatamo`
-  ("worst").
+  A noun in `-tā` or `-ttaṁ` names a state, "the state of being so":
+  `dhammatā` ("nature"), `anodarikattaṁ` ("moderation in eating"). The affixes
+  of the abstract state, `tta`, `tā`, `ṇya`, `ttana`, `ṇa` and `kaṇ`
+  {360}–{362}, and the affixes of comparison, `tara`, `tama`, `iya`, `iṭṭha`
+  and `isika` {363}: `pāpataro` ("worse"), `pāpatamo` ("worst"), `katamo`
+  ("which?").
 categories: ["palibook"]
 tags: ["taddhita"]
 ---
@@ -18,51 +17,93 @@ tags: ["taddhita"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-The usage examples provided here are not exhaustive, other usages are possible.
+Two more things an affix can do to a noun. The first makes a noun for a
+state, the quality of being what the base word names: from `dhamma`
+("nature") comes `dhammatā` ("the natural state", a characteristic), from
+`anodarika` ("not greedy for food") comes `anodarikattaṁ` ("moderation in
+eating"). Kaccāyana calls this sense `bhāva` (the state) and reads every such
+word as "the state of that" (`tassa bhāvo`): `dhammassa bhāvo`, "the state
+of nature", is `dhammatā`. English does the same with "-ness" and "-ship":
+`sahabyatā` is "companionship".
 
-A derived word (`taddhitanāma`) is a noun made from another noun by adding an
-affix (`paccaya`) in a stated sense {344}–{405}: the `vibhatti` ending of the
-base is elided {317} and the new word takes a `vibhatti` ending of its own
-{601}. This section covers the affixes of the abstract state (`bhāva`), the
-quality of being what the base names, "the state of that" (`tassa bhāvo`):
-`ṇya`, `tta`, `tā` and `ttana` {360}, `ṇa` after `visama` and the like {361}
-and `kaṇ` after `ramaṇīya` and the like {362}; and the affixes of comparison
-(`visesa`), `tara`, `tama`, `isika`, `iya` and `iṭṭha` {363}.
-[Appendix H](../h-taddhita/) tables every `taddhita` rule.
+The second says "more" or "most". From `pāpa` ("bad") come `pāpataro`
+("worse") and `pāpatamo` ("worst"); Kaccāyana calls this sense `visesa`
+(distinction), one thing singled out among several.
 
-### 6.4.1 `ṇya`, `tta`, `tā` in the sense of the abstract state; and `ttana` {360}
+So when a word ends in `-tā` or `-ttaṁ`, ask what it is the state of: the
+rest of the word names it; when it ends in `-taro` or `-tamo`, ask what it is
+more, or most, than.
 
-* `ṇya`, `tta` and `tā` are added to a noun in the ⑥ ending in the sense of
-  the abstract state (`bhāva`), "the state of that" (`tassa bhāvo`): with
-  `ṇya`, the state of a lazy man (`alasassa bhāvo`) is `ālasyaṁ` ("laziness")
-  and the state of one free from disease `ārogyaṁ` ("health"); with `tta`,
-  the state of a rag-robe wearer is `paṁsukūlikattaṁ` and the state of one not
-  greedy for food `anodarikattaṁ` ("moderation in eating"); with `tā`, the
-  state of one who enjoys company is `saṅgaṇikārāmatā` and the state of one
-  who enjoys sleep `niddārāmatā`.
-* The words in `ṇya` and `tta` are neuter (🚻), those in `tā` feminine (🚺).
-  The `ṇ` of `ṇya` marks the affix as one that strengthens the first vowel of
-  the base (`vuddhi`) {400} and is itself elided {396}; the final `a` of the
-  base is elided before `ya` {261}. `tta` and `tā` are added to the base as it
-  stands.
-* The vutti draws a fourth affix, `ttana`, from the word `tu` ("but") of the
-  sutta: `puthujjanattanaṁ` ("the state of an ordinary person"),
-  `vedanattanaṁ` ("the state of feeling"), where the final `ā` of `vedanā` is
-  shortened before the affix {403}.
+### How to recognise a state
 
-#### Example
+| affix | what you see | example | the state of | rule |
+| :-: | --- | --- | --- | :-: |
+| `tā` | `-tā` on the whole word; feminine | `niddārāmatā` ("delight in sleep"), `dhammatā` ("nature") | `niddārāma` (enjoying sleep), `dhamma` | {360} |
+| `tta` | `-ttaṁ` on the whole word; neuter | `paṁsukūlikattaṁ` ("the state of a rag-robe wearer") | `paṁsukūlika` | {360} |
+| `ṇya` | `-yaṁ` in place of the final vowel, the first vowel lengthened; neuter | `ālasyaṁ` ("laziness"), `ārogyaṁ` ("health") | `alasa` (lazy), `aroga` (healthy) | {360} |
+| `ttana` | `-ttanaṁ`; neuter, and rare | `puthujjanattanaṁ` ("the state of an ordinary person") | `puthujjana` | {360} |
+| `ṇa` | only the first vowel lengthened; neuter; after `visama` and a few more | `vesamaṁ` ("unevenness"), `socaṁ` ("purity") | `visama` (uneven), `suci` (pure) | {361} |
+| `kaṇ` | `-kaṁ`, the first vowel lengthened; neuter; after `ramaṇīya` and a few more | `rāmaṇīyakaṁ` ("delightfulness") | `ramaṇīya` (delightful) | {362} |
 
-> alasassa bhāvo → **ālasyaṁ**
+`tā` and `tta` are the pair you will meet. A word in `tā` is feminine and
+stands complete in the ① ending, `dhammatā`; a word in `tta` is neuter,
+`-ttaṁ`. The
+`ṇ` of `ṇya`, `ṇa` and `kaṇ` is the signal you met in [6.1](../6-1-apacca/):
+it is dropped and the first vowel is lengthened, `a` to `ā`, `i` to `e`, `u`
+to `o` {396}, {400}; and a final `ā` is shortened before `ttana`,
+`vedanattanaṁ` from `vedanā` ("feeling") {403}. [Appendix H](../h-taddhita/)
+tables them all.
 
-🚹⨀⑥(alasassa) 🚹⨀①(bhāvo) → 🚻⨀①🔽(ṇya)(ālasyaṁ)  
-of a lazy man / the state → laziness  
-*`alasassa bhāvo` ("the state of a lazy man") becomes `ālasyaṁ` ("laziness") with the affix `ṇya` {360}: the `ṇ` is elided {396}, the first vowel takes `vuddhi` {400}, and the final `a` of `alasa` is elided before `ya` {261}.*
+### How to recognise a comparison
 
-#### Exercises
+| affix | what you see | it means | example | rule |
+| :-: | --- | --- | --- | :-: |
+| `tara` | `-tara-` on the whole word | more; one singled out of several | `pāpataro` ("worse"), `aññataro` ("a certain one"), `uttaro` ("higher", from `ud`, up) | {363} |
+| `tama` | `-tama-` on the whole word | most; one singled out of many | `pāpatamo` ("worst"), `katamo` ("which of the many?"), `uttamo` ("highest") | {363} |
+| `iya` | `-iya-` in place of the final vowel | more | `pāpiyo` ("worse") | {363} |
+| `iṭṭha` | `-iṭṭha-` in place of the final vowel | most | `pāpiṭṭho` ("worst") | {363} |
+| `isika` | `-isika-` in place of the final vowel; rare | more | `pāpisiko` ("worse") | {363} |
+| `iya`, `iṭṭha` on a changed base | `seyy-`, `jeṭṭh-`, `kaṇiṭṭh-` and the like | better, best; elder, eldest; younger, youngest | `seyyo`, `seṭṭho` for `pasattha` ("praised"); `jeyyo`, `jeṭṭho` for `vuḍḍha` ("old"); `kaṇiyo`, `kaṇiṭṭho` for `appa` ("little") | {262}–{266} |
 
-Resolve the following derived words into their base and affix, and give the
-meaning. Look up the words in a dictionary and take note of the sense the
-affix carries.
+The thing compared with stands in the ③ or the ⑤ ending: `pāpena pāpataro`
+("worse than the bad"), `jīvitā seyyo` ("better than life"). `tara` and
+`tama` are the pair you will meet, often with no comparison left in them:
+`aññataro`, `añña` ("other") with `tara`, is simply "a certain"; `katamo`,
+the question word `ka` with `tama`, is "which of the many?"; `uttamo` is
+"supreme".
+
+### Examples
+
+> paṁsukūlikassa bhāvo → **paṁsukūlikattaṁ**
+
+🚹⨀⑥(paṁsukūlikassa) 🚹⨀①(bhāvo) → 🚻⨀①🔽(tta)(paṁsukūlikattaṁ)  
+of a rag-robe wearer / the state → the state of a rag-robe wearer  
+*`tta` {360}: `-ttaṁ` on the whole word; a neuter noun.*
+
+> niddārāmassa bhāvo → **niddārāmatā**
+
+🚹⨀⑥(niddārāmassa) 🚹⨀①(bhāvo) → 🚺⨀①🔽(tā)(niddārāmatā)  
+of one who enjoys sleep / the state → enjoyment of sleep  
+*`tā` {360}: `-tā` on the whole word; a feminine noun, complete as it stands in the ① ending.*
+
+> ayaṁ imesaṁ visesena pāpo → **pāpataro**
+
+*️⃣🤟🚹⨀①(ayaṁ) *️⃣🤟🚹⨂⑥(imesaṁ) 🚹⨀③(visesena) 🚹⨀①(pāpo) → 🚹⨀①🔽(tara)(pāpataro)  
+this one / among these / by distinction / bad → worse  
+*`tara` {363}: `-tara` on the whole word; of several, the one that is more so.*
+
+> ayaṁ imesaṁ visesena pāpo → **pāpatamo**
+
+*️⃣🤟🚹⨀①(ayaṁ) *️⃣🤟🚹⨂⑥(imesaṁ) 🚹⨀③(visesena) 🚹⨀①(pāpo) → 🚹⨀①🔽(tama)(pāpatamo)  
+this one / among these / by distinction / bad → worst  
+*`tama` {363}: `-tama` on the whole word; of all, the one that is most so.*
+
+### Exercises
+
+Each of the following carries one of this section's affixes; all but one you
+met in chapter 5, some in another ending. Say which affix it carries, what
+word it is built on, and whether it names a state or singles one out. Check
+its make-up in a dictionary against the tables above.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -70,191 +111,63 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. ārogyaṁ
-2. paṁsukūlikattaṁ
-3. anodarikattaṁ
-4. niddārāmatā
+1. dhammatā
+2. sahabyatā
+3. nemittikatā
+4. nippesikatā
+5. anodarikattaṁ
+6. aññataraṁ
+7. katame
+8. anuttaraṁ
 
-#### Answers
+### Answers
 
 *Note: please do the exercises first before checking the answers.*
 
-1. > arogassa bhāvo → **ārogyaṁ**
+1. > dhammassa bhāvo → **dhammatā**
 
-🚹⨀⑥(arogassa) 🚹⨀①(bhāvo) → 🚻⨀①🔽(ṇya)(ārogyaṁ)  
-of one free from disease / the state → health  
-*`arogassa bhāvo` ("the state of one free from disease") becomes `ārogyaṁ` ("health") with the affix `ṇya` {360}: the `ṇ` is elided {396}, the first vowel takes `vuddhi` {400}, and the final `a` of `aroga` is elided before `ya` {261}.*
+🚹⨀⑥(dhammassa) 🚹⨀①(bhāvo) → 🚺⨀①🔽(tā)(dhammatā)  
+of nature / the state → the natural state, a characteristic  
+*`tā` {360}: `-tā` on `dhamma` (nature); chapter 5's "Dhammatā esā", "this characteristic".*
 
-2. > paṁsukūlikassa bhāvo → **paṁsukūlikattaṁ**
+2. > sahabyassa bhāvo → **sahabyatā**
 
-🚹⨀⑥(paṁsukūlikassa) 🚹⨀①(bhāvo) → 🚻⨀①🔽(tta)(paṁsukūlikattaṁ)  
-of a rag-robe wearer / the state → the state of a rag-robe wearer  
-*`paṁsukūlikassa bhāvo` ("the state of a rag-robe wearer") becomes `paṁsukūlikattaṁ` with the affix `tta` {360}, a neuter noun.*
+🚻⨀⑥(sahabyassa) 🚹⨀①(bhāvo) → 🚺⨀①🔽(tā)(sahabyatā)  
+of fellowship / the state → companionship  
+*`tā` {360}: `-tā` on `sahabya` (fellowship); you met it in the ② ending, `sahabyataṁ`.*
 
-3. > anodarikassa bhāvo → **anodarikattaṁ**
+3. > nemittikassa bhāvo → **nemittikatā**
+
+🚹⨀⑥(nemittikassa) 🚹⨀①(bhāvo) → 🚺⨀①🔽(tā)(nemittikatā)  
+of one who drops hints / the state → hinting for gain, indirect begging  
+*`tā` {360}: `-tā` on `nemittika`, itself `nimitta` (a sign) with the `ṇika` of [6.2](../6-2-anekattha/).*
+
+4. > nippesikassa bhāvo → **nippesikatā**
+
+🚹⨀⑥(nippesikassa) 🚹⨀①(bhāvo) → 🚺⨀①🔽(tā)(nippesikatā)  
+of one who puts others down / the state → putting others down  
+*`tā` {360}: `-tā` on `nippesika` (an insulter, one who puts others down), another `ika` word.*
+
+5. > anodarikassa bhāvo → **anodarikattaṁ**
 
 🚹⨀⑥(anodarikassa) 🚹⨀①(bhāvo) → 🚻⨀①🔽(tta)(anodarikattaṁ)  
 of one not greedy for food / the state → moderation in eating  
-*`anodarikassa bhāvo` ("the state of one not greedy for food") becomes `anodarikattaṁ` ("moderation in eating") with the affix `tta` {360}.*
+*`tta` {360}: `-ttaṁ` on `anodarika`, itself `an-` (not) and `odarika` (greedy for food); neuter.*
 
-4. > niddārāmassa bhāvo → **niddārāmatā**
+6. > Yathā **aññataraṁ** bījaṁ
 
-🚹⨀⑥(niddārāmassa) 🚹⨀①(bhāvo) → 🚺⨀①🔽(tā)(niddārāmatā)  
-of one who enjoys sleep / the state → enjoyment of sleep  
-*`niddārāmassa bhāvo` ("the state of one who enjoys sleep") becomes `niddārāmatā` ("enjoyment of sleep") with the affix `tā` {360}, a feminine noun, whose ① ending `si` is elided {220}.*
+🔼(yathā) 🚻①⨀(aññatara) 🚻①⨀(bīja)  
+like / a certain / seed  
+*`tara` {363}: `-tara` on `añña` (other) singles one out of several, "a certain one".*
 
-### 6.4.2 `ṇa` after `visama` and the like {361}
+7. > **Katame** ca, bhikkhave, saṅkhārā?
 
-* After `visama` ("uneven") and the like, the affix in the sense "the state of
-  that" (`tassa bhāvo`) is `ṇa`: the state of what is uneven (`visamassa
-  bhāvo`) is `vesamaṁ` ("unevenness"), and the state of what is pure (`sucissa
-  bhāvo`) `socaṁ` ("purity").
-* The `ṇ` is elided {396} and the first vowel takes `vuddhi` {400}, `i` to `e`
-  and `u` to `o` {405}; the final vowel of the base is elided before the `a`
-  of the affix {83}. The words are neuter (🚻).
+🚹①⨂(katama) 🔼(ca) 🚹⓪⨂(bhikkhu) 🚹①⨂(saṅkhāra)  
+what / and / bhikkhave / mental constructions  
+*`tama` {363}: `-tama` on the question word `ka` (who? what?) asks "which of the many?".*
 
-#### Example
+8. > **anuttaraṁ** yogakkhemaṁ nibbānaṁ
 
-> visamassa bhāvo → **vesamaṁ**
-
-🚻⨀⑥(visamassa) 🚹⨀①(bhāvo) → 🚻⨀①🔽(ṇa)(vesamaṁ)  
-of what is uneven / the state → unevenness  
-*`visamassa bhāvo` ("the state of what is uneven") becomes `vesamaṁ` ("unevenness") with the affix `ṇa` {361}: the `ṇ` is elided {396}, the first vowel `i` takes `vuddhi` to `e` {400}, {405}, and the final `a` of `visama` is elided before the `a` of the affix {83}.*
-
-#### Exercises
-
-Resolve the following derived word into its base and affix, and give the
-meaning. Look up the word in a dictionary and take note of the sense the affix
-carries.
-
-1. socaṁ
-
-#### Answers
-
-*Note: please do the exercises first before checking the answers.*
-
-1. > sucissa bhāvo → **socaṁ**
-
-🚻⨀⑥(sucissa) 🚹⨀①(bhāvo) → 🚻⨀①🔽(ṇa)(socaṁ)  
-of what is pure / the state → purity  
-*`sucissa bhāvo` ("the state of what is pure") becomes `socaṁ` ("purity") with the affix `ṇa` {361}: the `ṇ` is elided {396}, the first vowel `u` takes `vuddhi` to `o` {400}, {405}, and the final `i` of `suci` is elided before the `a` of the affix {83}.*
-
-### 6.4.3 `kaṇ` after `ramaṇīya` and the like {362}
-
-* After `ramaṇīya` ("delightful") and the like, the affix in the sense "the
-  state of that" (`tassa bhāvo`) is `kaṇ`: the state of what is delightful
-  (`ramaṇīyassa bhāvo`) is `rāmaṇīyakaṁ` ("delightfulness"), and the state of
-  what is pleasing (`manuññassa bhāvo`) `mānuññakaṁ` ("pleasantness").
-* The affix adds `ka`: its `ṇ` is elided {396} and the first vowel of the base
-  takes `vuddhi` {400}. The words are neuter (🚻).
-
-#### Example
-
-> ramaṇīyassa bhāvo → **rāmaṇīyakaṁ**
-
-🚻⨀⑥(ramaṇīyassa) 🚹⨀①(bhāvo) → 🚻⨀①🔽(kaṇ)(rāmaṇīyakaṁ)  
-of what is delightful / the state → delightfulness  
-*`ramaṇīyassa bhāvo` ("the state of what is delightful") becomes `rāmaṇīyakaṁ` ("delightfulness") with the affix `kaṇ` {362}: the `ṇ` is elided {396} and the first vowel takes `vuddhi` {400}; the Tipiṭaka spells the word `rāmaṇeyyakaṁ`.*
-
-#### Exercises
-
-Resolve the following derived word into its base and affix, and give the
-meaning. Look up the word in a dictionary and take note of the sense the affix
-carries.
-
-1. mānuññakaṁ
-
-#### Answers
-
-*Note: please do the exercises first before checking the answers.*
-
-1. > manuññassa bhāvo → **mānuññakaṁ**
-
-🚻⨀⑥(manuññassa) 🚹⨀①(bhāvo) → 🚻⨀①🔽(kaṇ)(mānuññakaṁ)  
-of what is pleasing / the state → pleasantness  
-*`manuññassa bhāvo` ("the state of what is pleasing") becomes `mānuññakaṁ` ("pleasantness") with the affix `kaṇ` {362}: the `ṇ` is elided {396} and the first vowel takes `vuddhi` {400}.*
-
-### 6.4.4 `tara`, `tama`, `isika`, `iya`, `iṭṭha` in the sense of distinction {363}
-
-* In the sense of distinction (`visesa`), comparison, the affixes `tara`,
-  `tama`, `isika`, `iya` and `iṭṭha` are added to a noun in the ① ending. The
-  vutti gives one analysis for all five: all these are bad (`sabbe ime pāpā`),
-  and this one among these is bad by distinction (`ayaṁ imesaṁ visesena
-  pāpo`), so `pāpataro` ("worse"); likewise `pāpatamo` ("worst"), `pāpisiko`
-  ("worse"), `pāpiyo` ("worse") and `pāpiṭṭho` ("worst").
-* `tara`, `isika` and `iya` make the comparative, "worse", and `tama` and
-  `iṭṭha` the superlative, "worst". `tara` and `tama` are added to the base as
-  it stands; before `isika`, `iya` and `iṭṭha` the final `a` of the base is
-  elided {83}.
-
-#### 6.4.4.1 `tara`
-
-* `tara` makes the comparative: `pāpataro` ("worse").
-
-> ayaṁ imesaṁ visesena pāpo → **pāpataro**
-
-*️⃣🤟🚹⨀①(ayaṁ) *️⃣🤟🚹⨂⑥(imesaṁ) 🚹⨀③(visesena) 🚹⨀①(pāpo) → 🚹⨀①🔽(tara)(pāpataro)  
-this one / among these / by distinction / bad → worse  
-*`ayaṁ imesaṁ visesena pāpo` ("this one among these is bad by distinction") becomes `pāpataro` ("worse") with the affix `tara` {363}.*
-
-#### 6.4.4.2 `tama`
-
-* `tama` makes the superlative: `pāpatamo` ("worst").
-
-> ayaṁ imesaṁ visesena pāpo → **pāpatamo**
-
-*️⃣🤟🚹⨀①(ayaṁ) *️⃣🤟🚹⨂⑥(imesaṁ) 🚹⨀③(visesena) 🚹⨀①(pāpo) → 🚹⨀①🔽(tama)(pāpatamo)  
-this one / among these / by distinction / bad → worst  
-*`ayaṁ imesaṁ visesena pāpo` ("this one among these is bad by distinction") becomes `pāpatamo` ("worst") with the affix `tama` {363}.*
-
-#### 6.4.4.3 `isika`
-
-* `isika`, a rare affix, makes the comparative: `pāpisiko` ("worse"); the
-  final `a` of `pāpa` is elided before it {83}.
-
-> ayaṁ imesaṁ visesena pāpo → **pāpisiko**
-
-*️⃣🤟🚹⨀①(ayaṁ) *️⃣🤟🚹⨂⑥(imesaṁ) 🚹⨀③(visesena) 🚹⨀①(pāpo) → 🚹⨀①🔽(isika)(pāpisiko)  
-this one / among these / by distinction / bad → worse  
-*`ayaṁ imesaṁ visesena pāpo` ("this one among these is bad by distinction") becomes `pāpisiko` ("worse") with the affix `isika` {363}: the final `a` of `pāpa` is elided before the `i` of the affix {83}.*
-
-#### 6.4.4.4 `iya`
-
-* `iya` makes the comparative: `pāpiyo` ("worse"); the final `a` of `pāpa` is
-  elided before it {83}.
-
-> ayaṁ imesaṁ visesena pāpo → **pāpiyo**
-
-*️⃣🤟🚹⨀①(ayaṁ) *️⃣🤟🚹⨂⑥(imesaṁ) 🚹⨀③(visesena) 🚹⨀①(pāpo) → 🚹⨀①🔽(iya)(pāpiyo)  
-this one / among these / by distinction / bad → worse  
-*`ayaṁ imesaṁ visesena pāpo` ("this one among these is bad by distinction") becomes `pāpiyo` ("worse") with the affix `iya` {363}: the final `a` of `pāpa` is elided before the `i` of the affix {83}.*
-
-#### 6.4.4.5 `iṭṭha`
-
-* `iṭṭha` makes the superlative: `pāpiṭṭho` ("worst"); the final `a` of
-  `pāpa` is elided before it {83}.
-
-> ayaṁ imesaṁ visesena pāpo → **pāpiṭṭho**
-
-*️⃣🤟🚹⨀①(ayaṁ) *️⃣🤟🚹⨂⑥(imesaṁ) 🚹⨀③(visesena) 🚹⨀①(pāpo) → 🚹⨀①🔽(iṭṭha)(pāpiṭṭho)  
-this one / among these / by distinction / bad → worst  
-*`ayaṁ imesaṁ visesena pāpo` ("this one among these is bad by distinction") becomes `pāpiṭṭho` ("worst") with the affix `iṭṭha` {363}: the final `a` of `pāpa` is elided before the `i` of the affix {83}.*
-
-#### Exercises
-
-Translate the following from Pali to English, the vutti's own analysis of
-`pāpataro`. Look up the words in a dictionary, perform necessary sandhi
-deconstruction, and take note of the `vibhatti` endings to deduce the meaning
-of the sentence.
-
-1. sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti pāpataro
-
-#### Answers
-
-*Note: please do the exercises first before checking the answers.*
-
-1. > sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti pāpataro
-
-*️⃣🤟🚹⨂①(sabbe) *️⃣🤟🚹⨂①(ime) 🚹⨂①(pāpā) *️⃣🤟🚹⨀①(ayaṁ) *️⃣🤟🚹⨂⑥(imesaṁ) 🚹⨀③(visesena) 🚹⨀①(pāpo) ⏏️(iti) 🚹⨀①🔽(tara)(pāpataro)  
-all / these / bad / this one / among these / by distinction / bad / (quote) / worse  
-*All these are bad; "this one among these is bad by distinction", so `pāpataro` ("worse"): the niggahīta of `ayaṁ` becomes `m` before the vowel of `imesaṁ` {34}, and the `i` of `iti` is elided after the `o` of `pāpo` {13}.*
+🚻①⨀(anuttara) 🚹②⨀(yogakkhema) 🚻①⨀(nibbāna)  
+unsurpassed / sanctuary / extinguishment  
+*`tara` {363}: `ud` (up) with `-tara` is `uttaro` ("higher"); `an-` (not) in front, "with none higher".*

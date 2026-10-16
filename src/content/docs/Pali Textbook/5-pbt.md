@@ -906,12 +906,12 @@ It is not easy from being settled in domestic living to living a completely perf
 12.8 Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan”ti.  
 🔼(yannūnāhaṃ) 🚻②⨀(kesamassu) 🔼(ohāretvā) 🚻②⨂(kāsāya) 🚻②⨂(vattha) 🔼(acchādetvā) 🚻⑤⨀(agāra) 🚻②⨀(anagāriya) 🔵⏯👆⨀(pabbajati) 🔼(ti)  
 what if I were to | hair and beard | having shaved off | ochre | robe | having put on | from household life | to homeless state | renounce | quote  
-What if I were to renounce from household life to homeless state, having shaved off hair and heard, and having put on ochre robe.
+What if I were to renounce from household life to homeless state, having shaved off hair and beard, and having put on ochre robe.
 
 13.1 So kho ahaṁ, āvuso, aparena samayena appaṁ vā bhogakkhandhaṁ pahāya mahantaṁ vā bhogakkhandhaṁ pahāya, appaṁ vā ñātiparivaṭṭaṁ pahāya mahantaṁ vā ñātiparivaṭṭaṁ pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajiṁ.  
 🚹①⨀(ta) 🔼(kho) 👆①⨀(ahaṃ) 🔼(āvuso) 🚹③⨀(apara) 🚹③⨀(samaya) 🚹②⨀(appa) 🔼(vā) 🚹②⨀(bhogakkhandha) 🔼(pahāya) 🚹②⨀(mahanta) 🔼(vā) 🚹②⨀(bhogakkhandha) 🔼(pahāya) 🚹②⨀(appa) 🔼(vā) 🚹②⨀(ñātiparivaṭṭa) 🔼(pahāya) 🚹②⨀(mahanta) 🔼(vā) 🚹②⨀(ñātiparivaṭṭa) 🔼(pahāya) 🚻②⨀(kesamassu) 🔼(ohāretvā) 🚻②⨂(kāsāya) 🚻②⨂(vattha) 🔼(acchādetvā) 🚻⑤⨀(agāra) 🚻②⨀(anagāriya) ⏮🤟⨀(pabbaji)  
 that | indeed | I | friend | with next | with time | small | or | pile of wealth | leaving behind | large | or | pile of wealth | leaving behind | small | or | family circle | leaving behind | large | or | family circle | leaving behind | hair and beard | having shaved off | ochre | robe | having put on | from household life | to homeless state | renounced  
-Indeed, friend, after some time, having left behind a small or large pile of wealth, and a small or large family circle, I renounced from household life to homeless state, having shaved off hair and heard, and having put on ochre robe.
+Indeed, friend, after some time, having left behind a small or large pile of wealth, and a small or large family circle, I renounced from household life to homeless state, having shaved off hair and beard, and having put on ochre robe.
 
 ## 27. THE FIRST PART OF THE WAY: RIGHT VIEW
 
@@ -1966,8 +1966,8 @@ Having heard that Dhamma, I acquired faith in the Tathāgata.
 I reflected like that, endowed with the the gaining of that faith.  
 Household life is crowded and dirty, renunciation is open space.  
 It is not easy from being settled in domestic living to living a completely perfect and flawless spiritual path.  
-What if I were to renounce from household life to homeless state, having shaved off hair and heard, and having put on ochre robe.  
-Indeed, friend, after some time, having left behind a small or large pile of wealth, and a small or large family circle, I renounced from household life to homeless state, having shaved off hair and heard, and having put on ochre robe.
+What if I were to renounce from household life to homeless state, having shaved off hair and beard, and having put on ochre robe.  
+Indeed, friend, after some time, having left behind a small or large pile of wealth, and a small or large family circle, I renounced from household life to homeless state, having shaved off hair and beard, and having put on ochre robe.
 
 ### sammādiṭṭhi (Right View)
 

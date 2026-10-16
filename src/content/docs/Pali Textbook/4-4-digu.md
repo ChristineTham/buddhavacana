@@ -1,14 +1,12 @@
 ---
-title: "4.4: digu (Numeral compounds)"
+title: "4.4: The numeral compound"
 sidebar:
   label: "4.4: `digu`"
 description: >
-  A `digu` ("numeral compound") is a `kammadhāraya` whose first member is a
-  numeral: `tayo lokā` ("three worlds") made into one word, `tilokaṁ` ("the
-  three worlds"). Kaccāyana names it {325} and rules that the compound is
-  singular and neuter whatever the number and gender of its members {321}, so
-  that a `digu` takes the neuter singular `vibhatti` endings, `aṁ` in the ①
-  and the ②.
+  A word such as `tilokaṁ` ("the three worlds") is a numeral and a noun made
+  into one word, a `digu` {325}. Whatever its members, a `digu` that takes a set
+  as one thing is singular and neuter {321}, so it ends in `-aṁ` like any neuter
+  noun.
 categories: ["palibook"]
 tags: ["samāsa", "digu"]
 ---
@@ -17,56 +15,70 @@ tags: ["samāsa", "digu"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-The usage examples provided here are not exhaustive, other usages are possible.
+Many words of the texts begin with a number: `tilokaṁ` ("the three worlds"),
+`saḷāyatanaṁ` ("the six sense bases"), `pañcindriyaṁ` ("the five faculties"),
+and in the Bodhikathā `sattāhaṁ` ("for seven days"). Each is a numeral
+(`saṅkhyā`, a number word) and a noun made into one word: `tayo lokā` ("three
+worlds") becomes `tilokaṁ`. Kaccāyana calls such a word a `digu` ("numeral
+compound"): a `kammadhāraya` (the compound of section
+[4.3](../4-3-kammadharaya/), two words naming the same thing) whose first
+member is a numeral {325}.
 
-A `samāsa` ("compound") is a joining of nouns whose meanings are connected
-{316}, made into one word by eliding the `vibhatti` endings of its members
-{317}. This section covers the `digu` ("numeral compound"): the rule that
-names it, a `kammadhāraya` ("appositional compound") whose first member is a
-numeral {325}, and the rule that gives every `digu` its number and gender,
-singular and neuter {321}. Kaccāyana states the second rule before the first;
-this book takes the definition first.
+When you meet a word that begins with a number, ask what the number counts and
+whether the set is taken as one thing. If it is, the compound is singular and
+neuter whatever its members were {321}, and so it ends in `-aṁ` in the ① and
+the ② like any neuter noun: `tayo lokā` is masculine and plural, `tilokaṁ`
+neuter and singular.
 
-### 4.4.1 A `digu` is a `kammadhāraya` beginning with a numeral {325}
+### How to recognise a `digu`
 
-* A `kammadhāraya` ("appositional compound", section
-  [4.3](../4-3-kammadharaya/)) whose first member is a numeral (`saṅkhyā`) is
-  named `digu` ("numeral compound").
-* The members have the same referent, as in any `kammadhāraya` {324}: in the
-  analysis phrase the numeral agrees with its noun in gender, number and
-  `vibhatti` ending, `tīṇi malāni` ("three stains"), `tayo lokā` ("three
-  worlds"), `catasso disā` ("four directions").
+| what you see | what it means | example | rule |
+| --- | --- | --- | :-: |
+| a numeral as the first member, a noun as the second | a `kammadhāraya` beginning with a numeral is a `digu` | `tilokaṁ`, the three worlds (`tayo lokā`) | {325} |
+| the compound singular and neuter, in `-aṁ`, whatever its members | a `digu` is singular and neuter, so its ① ending is `-aṁ` | `catuddisaṁ`, the four directions (`catasso disā`) | {321}, {219} |
+| a feminine last member with `-a-` before the `-ṁ` | in the neuter a final `ā` is shortened, and `a` replaces a final `ī` | `catuddisaṁ` from `disā`; `sattagodāvaraṁ`, the seven Godāvarī rivers, from `godāvarī` | {342}, {337} |
 
-The vutti asks what the name `digu` is for and answers with {321}, the next
-rule, which gives the compound its number and gender. The seven words it lists
-are all in the ① ending, singular and neuter, `-aṁ`. A `digu` is also counted
-a `tappurisa` {326}, section [4.5](../4-5-tappurisa/). In `sattagodāvaraṁ`
-the final `ī` of `godāvarī` becomes `a` at the end of the compound {337},
-section [4.8](../4-8-samasanta/).
+A `digu` is also counted a `tappurisa` {326}, section
+[4.5](../4-5-tappurisa/), and like every compound it takes endings of its own
+as a noun {601}. Not every `digu` takes its set as one thing: `ekapallaṅkena`
+("in one cross-legged posture") in the Bodhikathā counts one posture, and
+keeps the gender of `pallaṅka`, masculine. The rule table of
+[chapter 4](../4-0-samasa/) lists every rule of the compounds.
 
-#### Example
+### The numeral as a first member
 
-> tayo daṇḍā → **tidaṇḍaṁ**
+Whatever form a number has on its own (`tayo` with a masculine noun, `tīṇi`
+with a neuter one), as a first member it has one short form:
 
-🚹⨂①(tayo) 🚹⨂①(daṇḍā) → 🚻⨀①🆎(ti+daṇḍa)  
-three / sticks → the three sticks, a triple rod  
-*`tayo daṇḍā` ("three sticks") becomes `tidaṇḍaṁ`, a `digu`: the numeral `ti` ("three") is the first member, and the compound is singular and neuter {321}.*
+| number | as a first member | examples, with the words they join |
+| --- | --- | --- |
+| one | `eka` | `ekapallaṅkena`, in one cross-legged posture (`eko pallaṅko`) |
+| three | `ti` | `tilokaṁ` (`tayo lokā`); `tidaṇḍaṁ`, the triple rod (`tayo daṇḍā`); `timalaṁ`, the three stains (`tīṇi malāni`); `tiphalaṁ`, the three fruits; `tinayanaṁ`, the three eyes; `tisiṅgaṁ`, a triangle |
+| four | `catu`, the consonant after it doubled {28} | `catuddisaṁ`, the four directions (`catasso disā`) |
+| five | `pañca`, its `a` dropped before a vowel {12} | `pañcindriyaṁ`, the five faculties (`pañca indriyāni`) |
+| six | `cha`, which becomes `saḷ` before `āyatana` {571} | `saḷāyatanaṁ`, the six sense bases (`cha āyatanāni`) |
+| seven | `satta`; with `aha` ("day") it runs together as `sattāha` | `sattāhaṁ`, for seven days (`satta ahāni`); `sattagodāvaraṁ` (`satta godāvariyo`) |
 
-The compound in a sentence of the Tipiṭaka ([17A8 1.2.4,
-Assakhaḷuṅkasutta](https://tipitaka2500.github.io/tipitaka/17A8/1/1.2/1.2.4#152)),
-in the ② ending as the object of `bhañjati`:
+### Examples
 
-> kubbaraṁ hanati, **tidaṇḍaṁ** bhañjati
+> tayo lokā → **tilokaṁ**
 
-🚹⨀②(kubbaraṁ) 🟢⨀🤟▶️(hanati) 🚻⨀②🆎(ti+daṇḍa) 🟢⨀🤟▶️(bhañjati)  
-the yoke-frame / strikes / the triple rod / breaks  
-*It strikes the yoke-frame, it breaks the triple rod.*
+🚹⨂①(tayo) 🚹⨂①(lokā) → 🚻⨀①🆎(ti+loka)  
+three / worlds → the three worlds  
+*A `digu` {325}: the numeral `ti` first, the worlds taken as one set; neuter and singular {321}.*
 
-#### Exercises
+> catasso disā → **catuddisaṁ**
 
-Resolve the following compounds into their members, name the type of
-compound, and give the meaning. Look up the words in a dictionary and take
-note of the `vibhatti` endings of the members.
+🚺⨂①(catasso) 🚺⨂①(disā) → 🚻⨀①🆎(catu+disā)  
+four / directions → the four directions  
+*A neuter singular compound from feminine plural members {321}; the `ā` of `disā` shortened {342}, the `d` doubled {28}.*
+
+### Exercises
+
+Each of the following is a `digu`. Say which numeral is its first member and
+what the numeral counts, and give the meaning. The first three you met in the
+Bodhikathā of [chapter 3](../3-awakening/); look each word up in a dictionary
+and compare the number and gender of the members with the compound's.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -74,100 +86,35 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. timalaṁ
-2. tiphalaṁ
-3. catuddisaṁ
-4. sattagodāvaraṁ
+1. saḷāyatanaṁ (Bodhikathā 3.4)
+2. sattāhaṁ (Bodhikathā 2.2)
+3. ekapallaṅkena (Bodhikathā 2.2)
+4. pañcindriyaṁ
 
-#### Answers
-
-*Note: please do the exercises first before checking the answers.*
-
-1. > tīṇi malāni → **timalaṁ**
-
-🚻⨂①(tīṇi) 🚻⨂①(malāni) → 🚻⨀①🆎(ti+mala)  
-three / stains → the three stains  
-*`tīṇi malāni` ("three stains") becomes `timalaṁ`, a `digu`.*
-
-2. > tīṇi phalāni → **tiphalaṁ**
-
-🚻⨂①(tīṇi) 🚻⨂①(phalāni) → 🚻⨀①🆎(ti+phala)  
-three / fruits → the three (medicinal) fruits  
-*`tīṇi phalāni` ("three fruits") becomes `tiphalaṁ`, a `digu`.*
-
-3. > catasso disā → **catuddisaṁ**
-
-🚺⨂①(catasso) 🚺⨂①(disā) → 🚻⨀①🆎(catu+disā)  
-four / directions → the four directions  
-*`catasso disā` ("four directions") becomes `catuddisaṁ`, a `digu`; the members are feminine and plural, the compound neuter and singular {321}.*
-
-4. > satta godāvariyo → **sattagodāvaraṁ**
-
-⚧⨂①(satta) 🚺⨂①(godāvariyo) → 🚻⨀①🆎(satta+godāvarī)  
-seven / Godāvarī (rivers) → the seven Godāvarī rivers  
-*`satta godāvariyo` ("seven Godāvarīs") becomes `sattagodāvaraṁ`, a `digu`; the final `ī` of `godāvarī` becomes `a` {337}.*
-
-### 4.4.2 A `digu` is singular and neuter {321}
-
-* A `digu` compound is singular (⨀) and neuter (🚻), whatever the number and
-  gender of its members: `tayo lokā` ("three worlds"), masculine and plural,
-  becomes `tilokaṁ`, neuter and singular.
-* The sutta itself states only the singular number (`ekattaṁ`, "oneness"); the
-  vutti adds the neuter gender.
-
-A `digu` is a noun {601} and takes `vibhatti` endings of its own; as a neuter
-noun its ① singular `si` becomes `aṁ` {219}: `tiloka + si → tilokaṁ`. A
-feminine last member shortens its final vowel for the neuter {342}, `catu +
-disā → catuddisa`, with the `d` doubled {28}; and `pañca + indriya` joins by
-sandhi, the `a` elided before `i` {12}, `pañcindriya`.
-
-#### Example
-
-> tayo lokā → **tilokaṁ**
-
-🚹⨂①(tayo) 🚹⨂①(lokā) → 🚻⨀①🆎(ti+loka)  
-three / worlds → the three worlds  
-*`tayo lokā` ("three worlds") becomes `tilokaṁ`, a `digu`: the members are masculine and plural, the compound neuter and singular.*
-
-In the Tipiṭaka ([7D 1.2,
-Bodhisattadhammatā](https://tipitaka2500.github.io/tipitaka/7D/1/1.2#36)) the
-compound `catuddisaṁ` stands in the ② ending, singular and neuter, though its
-members `catasso disā` are feminine and plural:
-
-> cattāro naṁ devaputtā **catuddisaṁ** rakkhāya upagacchanti
-
-🚹⨂①(cattāro) *️⃣🤟🚹⨀②(naṁ) 🚹⨂①🆎(deva+putta) 🚻⨀②🆎(catu+disā) 🚺⨀④(rakkhāya) 🟢⨂🤟▶️(upagacchanti)  
-four / him / male deities / in the four directions / for protection / approach  
-*Four male deities approach him for protection in the four directions.*
-
-#### Exercises
-
-Resolve the following compounds into their members, name the type of
-compound, and give the meaning. Look up the words in a dictionary and take
-note of the `vibhatti` endings of the members.
-
-1. tinayanaṁ
-2. tisiṅgaṁ
-3. pañcindriyaṁ
-
-#### Answers
+### Answers
 
 *Note: please do the exercises first before checking the answers.*
 
-1. > tīṇi nayanāni → **tinayanaṁ**
+1. > cha āyatanāni → **saḷāyatanaṁ**
 
-🚻⨂①(tīṇi) 🚻⨂①(nayanāni) → 🚻⨀①🆎(ti+nayana)  
-three / eyes → the three eyes  
-*`tīṇi nayanāni` ("three eyes") becomes `tinayanaṁ`, a `digu`; the members are already neuter, and only the number changes.*
+⚧⨂①(cha) 🚻⨂①(āyatanāni) → 🚻⨀①🆎(cha+āyatana)  
+six / sense bases → the six sense bases  
+*`cha` ("six") becomes `saḷ` before `āyatana` {571}; the six taken as one set, neuter and singular {321}.*
 
-2. > tayo siṅgā → **tisiṅgaṁ**
+2. > satta ahāni → **sattāhaṁ**
 
-🚹⨂①(tayo) 🚹⨂①(siṅgā) → 🚻⨀①🆎(ti+siṅga)  
-three / horns → the three horns (a triangle)  
-*`tayo siṅgā` ("three horns") becomes `tisiṅgaṁ`, a `digu`; the members are masculine and plural, the compound neuter and singular.*
+⚧⨂①(satta) 🚻⨂①(ahāni) → 🚻⨀②🆎(satta+aha)  
+seven / days → for seven days  
+*`satta` and `aha` ("day") run together as `sattāha`; neuter and singular {321}, here in the ② ending for how long.*
 
-3. > pañca indriyāni → **pañcindriyaṁ**
+3. > eko pallaṅko → **ekapallaṅkena**
+
+🚹⨀①(eko) 🚹⨀①(pallaṅko) → 🚹⨀③🆎(eka+pallaṅka)  
+one / cross-legged posture → in one cross-legged posture  
+*`eka` ("one") is a numeral too {325}; one posture is no set taken together, so the gender of `pallaṅka` stays.*
+
+4. > pañca indriyāni → **pañcindriyaṁ**
 
 ⚧⨂①(pañca) 🚻⨂①(indriyāni) → 🚻⨀①🆎(pañca+indriya)  
 five / faculties → the five faculties  
-*`pañca indriyāni` ("five faculties") becomes `pañcindriyaṁ`, a `digu`; the `a` of `pañca` is elided before `i` {12}.*
+*`pañca` + `indriya`: the `a` of `pañca` dropped before `i` {12}; neuter and singular {321}.*

@@ -31,10 +31,37 @@ The compound is marked 🆎 in this book, with its members in their lemma form:
 🚹⨀①🆎(rāja+putta).
 
 Kaccāyana names six kinds of compound by the relation between the members
-{319}–{329}, and then states the changes that some members undergo at the
-beginning {330}–{336} and at the end {337}–{343} of a compound. The chapter
-opens with the three rules that say what a compound is, follows that order with
-one section for each kind, and ends with the changes at the end of a compound.
+{319}–{329}. To tell them apart, ask how the members relate:
+
+```mermaid
+flowchart TD
+  S["two words made into one"] --> A{"is the first member a prefix or a particle?"}
+  A -->|"yes"| AB["abyayībhāva: upanagaraṁ, near the city"]
+  A -->|"no"| B{"does it mean X and Y?"}
+  B -->|"yes"| DV["dvanda: samaṇabrāhmaṇā, recluses and brahmins"]
+  B -->|"no"| C{"does it name a third thing?"}
+  C -->|"yes"| BV["bahubbīhi: chinnahattho, one whose hand is cut off"]
+  C -->|"no"| D{"do both members name the same thing?"}
+  D -->|"yes, the first a numeral"| DG["digu: tilokaṁ, the three worlds"]
+  D -->|"yes"| KD["kammadhāraya: mahāpuriso, a great man"]
+  D -->|"no: of, to, by, in …"| TP["tappurisa: rājaputto, the king's son"]
+```
+
+Of these the `kammadhāraya` and the `tappurisa` are by far the commonest in the
+texts, with the `bahubbīhi` and the `dvanda` next; the `digu` and the
+`abyayībhāva` are rare. Kaccāyana then states the changes that some members
+undergo at the beginning {330}–{336} and at the end {337}–{343} of a compound.
+The chapter opens with the three rules that say what a compound is, follows
+that order with one section for each kind, and ends with the changes at the end
+of a compound.
+
+:::tip[Reading path]
+On a first reading take [4.3](../4-3-kammadharaya/), [4.5](../4-5-tappurisa/),
+[4.6](../4-6-bahubbihi/) and [4.7](../4-7-dvanda/), the four kinds the texts are
+full of, and the diagram above; the rules on the form of the members and the
+rule table below are for looking things up, and every rule number links to the
+full rule in the Kaccāyana translation.
+:::
 
 | section | compound | English name | members | rules |
 | :-: | --- | --- | --- | --- |

@@ -4,11 +4,17 @@ import starlight from "@astrojs/starlight";
 import starlightSiteGraph from "starlight-site-graph";
 import mermaid from "astro-mermaid";
 import plantuml from "astro-plantuml";
+import { satteri } from "@astrojs/markdown-satteri";
+import kaccayanaLinks from "./src/plugins/remark-kaccayana-links.mjs";
 
 // https://astro.build/config
 export default defineConfig({
   site: "https://christham.net",
   base: "/buddhavacana/",
+  markdown: {
+    // `{344}` in the Pāḷi Textbook links to Kaccāyana §344 on kaccayana.github.io
+    processor: satteri({ mdastPlugins: [kaccayanaLinks()] }),
+  },
   fonts: [
     {
       provider: fontProviders.google(),

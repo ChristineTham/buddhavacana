@@ -1,46 +1,95 @@
----  
-title: "2.7: sāmī (Genitive)"  
-sidebar:  
-  label: "2.7: `sāmī`"  
-description: >  
- `sāmī` words refer to the owner or possessor to whom something belongs and  
- are generally translated as "of" or with the English possessive "'s". It is  
- normally (but not always) associated with the sixth case (⑥) `vibhatti`  
- endings. It is often referred to as "genitive" in English Pali grammar books.  
-categories: ["palibook"]  
-tags: ["kāraka", "sāmī"]  
+---
+title: "2.7: sāmī (Genitive)"
+sidebar:
+  label: "2.7: `sāmī`"
+description: >
+  The ⑥ ending marks the owner, the "of" or "'s" of English: `tassa bhikkhuno
+  patto` is "that monk's bowl" {283}, {301}. The same ending goes with words
+  such as `sāmī` (owner) and `kusala` (skilled) {303}, marks the group a thing
+  is singled out from {304} and a person whose doing is disregarded {305}, and
+  in some places stands in for the ③, ⑦, ② and ⑤ endings {308}–{309}.
+categories: ["palibook"]
+tags: ["kāraka", "sāmī"]
 ---
 
 :::tip[Info]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-The usage examples provided here are not exhaustive, other usages are possible.
+Where English says "of" or adds "'s", Pāḷi puts the ⑥ ending on the owner and
+leaves the thing owned in the ending its own part in the sentence gives it.
+Kaccāyana calls the one who has a thing as a possession (`pariggaha`) the
+`sāmī` (owner) {283}, and the ⑥ is the owner's ending {301}: in `tassa
+bhikkhuno patto` ("that monk's bowl") the ⑥ sits on `tassa bhikkhuno` ("of
+that monk"), while `patto` (the bowl) keeps its ① ending.
 
-### 2.7.1 The owner {283}
+The ⑥ is on nearly every page and mostly means no more than "of": the bank of
+the river, the origin of suffering, the teaching of the Buddhas. The rule's `vā`
+("or") lets the Padarūpasiddhi take `sāmī` beyond owning to every relation
+English renders with "of": a part and its whole, a group and its members. Ask
+of a ⑥ word "whose, or of what?" and, when no "of" makes sense, which other
+use in the table it is; every rule number links to the full rule in the
+Kaccāyana translation.
 
-* The one who has a thing as a possession (`pariggaha`) is called `sāmī`
-  ("owner").
+### The uses of the ⑥ ending
 
-The rule says `vā` ("or"), which makes the naming optional. The Padarūpasiddhi
-takes this to extend the name `sāmī`, and with it the ⑥ ending, beyond the
-owner of a thing to the many relations between two words that English renders
-with "of" or "'s": a part and its whole, a group and its members, a quality and
-the thing that has it, and so on.
+| what the noun is doing | what you see | example | rule |
+| --- | --- | --- | :-: |
+| the owner (`sāmī`): the one a thing belongs to | a ⑥ word beside the thing owned: "of", "'s" | `tassa bhikkhuno patto` (that monk's bowl) | {283}, {301} |
+| what one is owner, lord, chief, heir, witness or surety of, intent on or skilled in | a ⑥ word, or a ⑦, beside `sāmī`, `issara`, `adhipati`, `dāyāda`, `sakkhī`, `patibhū`, `pasuta`, `kusala` | `goṇānaṁ sāmī`, `goṇesu sāmī` (the owner of the cattle) | {303} |
+| the whole a part is singled out from (`niddhāraṇa`): "of them", "among them" | a ⑥ plural, or a ⑦, beside a `-tama` word (the most …) | `kaṇhā gāvīnaṁ sampannakhīratamā` (of the cows, the black one is richest in milk) | {304} |
+| the ⑥ absolute: a person whose doing is disregarded (`anādara`), "though", "while" | a noun and its `-nta` word (weeping …) both in the ⑥, or the ⑦, outside the main sentence | `rudato dārakassa pabbaji` (though the boy wept, he went forth) | {305} |
+| standing in for the ③, "by" | `me`, `te` with a `-ta` word such as `kato` (done), where `mayā`, `tayā` is expected | `kato me kalyāṇo` (good has been done by me) | {308} |
+| standing in for the ⑦, "in" | a ⑥ word with `kusala` (skilled) and the like | `kusalā naccagītassa` (skilled in dance and song) | {308} |
+| standing in for the ②, the object | a ⑥ word with a doer word in `-tu`: `vattu` (speaker), `kattu` (doer) | `tassa bhavanti vattāro` (there are those who speak of him) | {309} |
+| standing in for the ⑤, "from", the thing feared | a ⑥ word with a word of fearing or of falling away | `sabbe bhāyanti maccuno` (all fear death) | {309} |
 
-#### Example
+The `kvaci` ("in some places") of {308}–{309} means the ⑥ does not always
+stand in: `mayā` keeps its ③ and `atthesu` its ⑦ in the rule's own
+counter-examples.
+
+### What the ⑥ ending looks like
+
+The ⑥ endings are `sa` ⨀ and `naṁ` ⨂ {55}; these are their shapes on the
+words a beginner meets most ([Appendix G](../g-vibhatti/)
+tables every ending rule).
+
+| what you see | on which words | examples | rule |
+| --- | --- | --- | :-: |
+| `-ssa` | 🚹 🚻 lemmas in `a`, and those in `i`, `u` too | `purisassa`, `cittassa`, `aggissa`, `bhikkhussa` | {61} |
+| `-no` | 🚹 lemmas in `i`, `u`, beside `-ssa` | `aggino`, `bhikkhuno` | {117} |
+| `-āya` | 🚺 lemmas in `ā` | `kaññāya`, `nerañjarāya` | {111} |
+| `-iyā`, `-uyā` | 🚺 lemmas in `i`, `ī`, `u` | `rattiyā`, `itthiyā`, `dhenuyā` | {112} |
+| `-ānaṁ`, `-īnaṁ`, `-ūnaṁ`: the plural, last vowel lengthened | every lemma | `purisānaṁ`, `aggīnaṁ`, `bhikkhūnaṁ` | {89} |
+| `-ssa`, and `assa` for `tassa`; `-esaṁ` in the plural | the pronouns `ta`, `eta`, `ima`, `ya`, `sabba` | `tassa`, `assa`, `etassa`, `imassa`, `yassa`, `tesaṁ`, `imesaṁ` | {176}–{177}, {168} |
+| `mama`, `mayhaṁ`, `me`, `amhākaṁ`, `no`; `tava`, `tuyhaṁ`, `te`, `tumhākaṁ`, `vo` | "I", "we", "you"; `me`, `te`, `no`, `vo` serve as ④ as well | `kataṁ me pāpaṁ`, `satthā no garu` (our teacher is respected) | {141}–{142}, {147}–{148}, {161} |
+
+### Examples
 
 > **tassa bhikkhuno** paṭivīso
 
 🚹⨀⑥(*️⃣🤟(tassa) bhikkhuno) 🚹⨀①(paṭivīso)  
 of that / monk / the share  
-*The share of that monk.*
+*The share of that monk: the owner takes the ⑥, the thing owned keeps its own ending {283}, {301}.*
 
-#### Exercises
+> kaṇhā **gāvīnaṁ** sampannakhīratamā
 
-Translate the following from Pali to English. Look up the words in a dictionary,
-perform necessary sandhi and compound word deconstruction, and take note of
-the `vibhatti` endings to deduce the meaning of the sentence.
+🚺⨀①(kaṇhā) 🚺⨂⑥(gāvīnaṁ) 🚺⨀①🆎🔽(tama)(sampannakhīratamā)  
+the black one / of the cows / richest in milk  
+*Of the cows, the black one is richest in milk: the group takes the ⑥, or the ⑦ (`gāvīsu`) {304}.*
+
+> **rudato dārakassa** pabbaji
+
+🚹⨀⑥(🔽(anta)(rudato) dārakassa) 🟢⨀🤟⏮(pabbaji)  
+weeping / of the boy / [he] went forth  
+*Though the boy wept, he went forth: the boy and his weeping stand apart in the ⑥ {305}.*
+
+### Exercises
+
+Translate the following from Pali to English and find the ⑥ word in each. Look
+up the words in a dictionary, do any sandhi and compound deconstruction needed,
+and take note of the `vibhatti` endings to deduce the meaning. The first four
+are from the texts of chapters 3 and 5, the last two are Kaccāyana's own.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -48,429 +97,49 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. tassa bhikkhuno patto
+1. Evametassa kevalassa dukkhakkhandhassa samudayo hoti
+2. Atha kho bhagavā rattiyā paṭhamaṁ yāmaṁ paṭiccasamuppādaṁ anulomapaṭilomaṁ manasākāsi
+3. Ayaṁ dukkhassa atthaṅgamo
+4. Samaṁ cittassa na labhiṁ
+5. kataṁ me pāpaṁ
+6. sabbe bhāyanti maccuno
 
-#### Answers
+### Answers
 
 *Note: please do the exercises first before checking the answers.*
 
-1. > tassa bhikkhuno patto
+1. > Evametassa kevalassa dukkhakkhandhassa samudayo hoti
 
-🚹⨀⑥(*️⃣🤟(tassa) bhikkhuno) 🚹⨀①(patto)  
-of that / monk / the bowl  
-*The bowl of that monk.*
+⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(samudaya) 🟢⨀🤟▶️(hoti)  
+thus / of this / of the entire / of the mass of suffering / origin / is  
+*Thus is the origin of this whole mass of `dukkha` (suffering).*
 
-### 2.7.2 The ⑥ ending for the owner {301}
+2. > Atha kho bhagavā rattiyā paṭhamaṁ yāmaṁ paṭiccasamuppādaṁ anulomapaṭilomaṁ manasākāsi
 
-* The `vibhatti` ending ⑥ is used for the owner (`sāmī`).
+⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚺⨀⑥(ratti) 🚹⨀②(paṭhama) 🚹⨀②(yāma) 🚹⨀②🆎(paṭicca+samuppāda) 🚹⨀②🆎(anuloma+paṭiloma) 🟢⨀🤟⏮(manasikaroti)  
+then / indeed / the Bhagavā / of the night / first / watch / dependent origination / in forward and reverse order / attended to  
+*Then the Bhagavā, during the first watch of the night, attended to `paṭiccasamuppādaṁ` (dependent origination) in forward and reverse order.*
 
-Kaccāyana illustrates this rule with the same four phrases as {283}: the owner
-takes the ⑥ ending, the thing owned keeps its own ending.
+3. > Ayaṁ dukkhassa atthaṅgamo
 
-#### Example
+🚹①⨀(ima) 🚹⑥⨀(dukkha) 🚹①⨀(atthaṅgama)  
+this / suffering / disappearance of  
+*This is disappearance of dukkha (suffering).*
 
-> **tassa bhikkhuno** cīvaraṁ
+4. > Samaṁ cittassa na labhiṁ
 
-🚹⨀⑥(*️⃣🤟(tassa) bhikkhuno) 🚻⨀①(cīvaraṁ)  
-of that / monk / the robe  
-*The robe of that monk.*
+🚻①⨀(sama) 🚻⑥⨀(citta) 🔼(na) ⏮🤟⨀(labhi)  
+balance / of mind/heart / no / obtained  
+*Didn't obtain balance of mind/heart*
 
-#### Exercises
-
-1. attano mukhaṁ
-
-#### Answers
-
-1. > attano mukhaṁ
-
-🚹⨀⑥(attano) 🚻⨀①(mukhaṁ)  
-of oneself / the face  
-*One's own face.*
-
-### 2.7.3 With words for owner, lord, heir, witness and the like {303}
-
-* In construction with `sāmī` ("owner"), `issara` ("lord"), `adhipati`
-  ("chief"), `dāyāda` ("heir"), `sakkhī` ("witness"), `patibhū` ("surety"),  
-  `pasuta` ("intent on") and `kusala` ("skilled"), the ⑥ ending is used, and  
-  the ⑦ ending as well.
-
-#### 2.7.3.1 `sāmī` (“owner”)
-
-> **goṇānaṁ** sāmī
-
-🚹⨂⑥(goṇānaṁ) 🚹⨀①(sāmī)  
-of the cattle / owner  
-*The owner of the cattle.*
-
-Can also use with the ⑦ `vibhatti` ending (eg. `goṇesu`)
-
-#### 2.7.3.2 `issara` (“lord”)
-
-> **goṇānaṁ** issaro
-
-🚹⨂⑥(goṇānaṁ) 🚹⨀①(issaro)  
-of the cattle / lord  
-*The lord of the cattle.*
-
-Can also use with the ⑦ `vibhatti` ending (eg. `goṇesu`)
-
-#### 2.7.3.3 `adhipati` (“chief”)
-
-> **goṇānaṁ** adhipati
-
-🚹⨂⑥(goṇānaṁ) 🚹⨀①(adhipati)  
-of the cattle / chief  
-*The chief of the cattle.*
-
-Can also use with the ⑦ `vibhatti` ending (eg. `goṇesu`)
-
-#### 2.7.3.4 `dāyāda` (“heir”)
-
-> **goṇānaṁ** dāyādo
-
-🚹⨂⑥(goṇānaṁ) 🚹⨀①🆎(dāya+āda)  
-of the cattle / heir  
-*The heir to the cattle.*
-
-Can also use with the ⑦ `vibhatti` ending (eg. `goṇesu`)
-
-#### 2.7.3.5 `sakkhī` (“witness”)
-
-> **goṇānaṁ** sakkhī
-
-🚹⨂⑥(goṇānaṁ) 🚹⨀①(sakkhī)  
-of the cattle / witness  
-*The witness to the cattle.*
-
-Can also use with the ⑦ `vibhatti` ending (eg. `goṇesu`)
-
-#### 2.7.3.6 `patibhū` (“surety”)
-
-> **goṇānaṁ** patibhū
-
-🚹⨂⑥(goṇānaṁ) 🚹⨀①(patibhū)  
-of the cattle / surety  
-*The surety for the cattle.*
-
-Can also use with the ⑦ `vibhatti` ending (eg. `goṇesu`)
-
-#### 2.7.3.7 `pasuta` (“intent on”)
-
-> **goṇānaṁ** pasuto
-
-🚹⨂⑥(goṇānaṁ) 🚹⨀①🔽(ta)(pasuto)  
-of the cattle / intent on, engaged in  
-*Intent on the cattle.*
-
-Can also use with the ⑦ `vibhatti` ending (eg. `goṇesu`)
-
-#### 2.7.3.8 `kusala` (“skilled”)
-
-> **goṇānaṁ** kusalo
-
-🚹⨂⑥(goṇānaṁ) 🚹⨀①(kusalo)  
-of the cattle / skilled  
-*Skilled in cattle.*
-
-Can also use with the ⑦ `vibhatti` ending (eg. `goṇesu`)
-
-#### Exercises
-
-1. goṇesu sāmī
-2. goṇesu issaro
-3. goṇesu adhipati
-4. goṇesu dāyādo
-5. goṇesu sakkhī
-6. goṇesu patibhū
-7. goṇesu pasuto
-8. goṇesu kusalo
-
-#### Answers
-
-1. > goṇesu sāmī
-
-🚹⨂⑦(goṇesu) 🚹⨀①(sāmī)  
-over the cattle / owner  
-*The owner over the cattle.*
-
-2. > goṇesu issaro
-
-🚹⨂⑦(goṇesu) 🚹⨀①(issaro)  
-over the cattle / lord  
-*The lord over the cattle.*
-
-3. > goṇesu adhipati
-
-🚹⨂⑦(goṇesu) 🚹⨀①(adhipati)  
-over the cattle / chief  
-*The chief over the cattle.*
-
-4. > goṇesu dāyādo
-
-🚹⨂⑦(goṇesu) 🚹⨀①🆎(dāya+āda)  
-in respect of the cattle / heir  
-*The heir in respect of the cattle.*
-
-5. > goṇesu sakkhī
-
-🚹⨂⑦(goṇesu) 🚹⨀①(sakkhī)  
-concerning the cattle / witness  
-*The witness concerning the cattle.*
-
-6. > goṇesu patibhū
-
-🚹⨂⑦(goṇesu) 🚹⨀①(patibhū)  
-in respect of the cattle / surety  
-*The surety in respect of the cattle.*
-
-7. > goṇesu pasuto
-
-🚹⨂⑦(goṇesu) 🚹⨀①🔽(ta)(pasuto)  
-with the cattle / engaged  
-*Engaged with the cattle.*
-
-8. > goṇesu kusalo
-
-🚹⨂⑦(goṇesu) 🚹⨀①(kusalo)  
-with cattle / skilled  
-*Skilled with cattle.*
-
-### 2.7.4 Singling out from a group {304}
-
-* In the sense of singling out (`niddhāraṇa`), the ⑥ ending is used, and the
-  ⑦ ending as well.
-
-Singling out means setting one member apart from a group by its kind, quality,
-action or name ("of the cows, the black one …", "among men, the khattiya …").
-The word for the group takes the ⑥ or the ⑦ ending.
-
-#### Example
-
-> kaṇhā **gāvīnaṁ** sampannakhīratamā
-
-🚺⨀①(kaṇhā) 🚺⨂⑥(gāvīnaṁ) 🚺⨀①🆎🔽(tama)(sampannakhīratamā)  
-the black one / of the cows / richest in milk  
-*Of the cows, the black one is richest in milk.*
-
-Can also use with the ⑦ `vibhatti` ending (eg. `gāvīsu`)
-
-#### Exercises
-
-1. kaṇhā gāvīsu sampannakhīratamā
-2. sāmā nārīnaṁ dassanīyatamā
-3. sāmā nārīsu dassanīyatamā
-4. manussānaṁ khattiyo sūratamo
-5. manussesu khattiyo sūratamo
-6. pathikānaṁ dhāvanto sīghatamo
-7. pathikesu dhāvanto sīghatamo
-
-#### Answers
-
-1. > kaṇhā gāvīsu sampannakhīratamā
-
-🚺⨀①(kaṇhā) 🚺⨂⑦(gāvīsu) 🚺⨀①🆎🔽(tama)(sampannakhīratamā)  
-the black one / among the cows / richest in milk  
-*Among the cows, the black one is richest in milk.*
-
-2. > sāmā nārīnaṁ dassanīyatamā
-
-🚺⨀①(sāmā) 🚺⨂⑥(nārīnaṁ) 🚺⨀①🔽(tama)(dassanīyatamā)  
-the brown-skinned one / of women / loveliest to look at  
-*Of women, the brown-skinned one is the loveliest.*
-
-3. > sāmā nārīsu dassanīyatamā
-
-🚺⨀①(sāmā) 🚺⨂⑦(nārīsu) 🚺⨀①🔽(tama)(dassanīyatamā)  
-the brown-skinned one / among women / loveliest to look at  
-*Among women, the brown-skinned one is the loveliest.*
-
-4. > manussānaṁ khattiyo sūratamo
-
-🚹⨂⑥(manussānaṁ) 🚹⨀①(khattiyo 🔽(tama)(sūratamo))  
-of men / the khattiya / bravest  
-*Of men, the khattiya is the bravest.*
-
-5. > manussesu khattiyo sūratamo
-
-🚹⨂⑦(manussesu) 🚹⨀①(khattiyo 🔽(tama)(sūratamo))  
-among men / the khattiya / bravest  
-*Among men, the khattiya is the bravest.*
-
-6. > pathikānaṁ dhāvanto sīghatamo
-
-🚹⨂⑥(pathikānaṁ) 🚹⨀①(🔽(anta)(dhāvanto) 🔽(tama)(sīghatamo))  
-of travellers / the one running / swiftest  
-*Of travellers, the one running is the swiftest.*
-
-7. > pathikesu dhāvanto sīghatamo
-
-🚹⨂⑦(pathikesu) 🚹⨀①(🔽(anta)(dhāvanto) 🔽(tama)(sīghatamo))  
-among travellers / the one running / swiftest  
-*Among travellers, the one running is the swiftest.*
-
-### 2.7.5 Disregard {305}
-
-* For disregard (`anādara`), the ⑥ ending is used, and the ⑦ ending as well.
-
-The person whose doing is disregarded, together with the participle that says
-what that person is doing, takes the ⑥ or the ⑦ ending; English says
-"though …" or "while …".
-
-#### Example
-
-> **rudato dārakassa** pabbaji
-
-🚹⨀⑥(🔽(anta)(rudato) dārakassa) 🟢⨀🤟⏮(pabbaji)  
-weeping / of the boy / [he] went forth  
-*Though the boy wept, he went forth.*
-
-Can also use with the ⑦ `vibhatti` ending (eg. `rudantasmiṁ dārake`)
-
-#### Exercises
-
-1. rudantasmiṁ dārake pabbaji
-
-#### Answers
-
-1. > rudantasmiṁ dārake pabbaji
-
-🚹⨀⑦(🔽(anta)(rudantasmiṁ) dārake) 🟢⨀🤟⏮(pabbaji)  
-weeping / while the boy / [he] went forth  
-*Though the boy wept, he went forth.*
-
-### 2.7.6 In the sense of ③ and ⑦ {308}
-
-* In some places (`kvaci`) the ⑥ ending is used in the sense of the ③ ending.
-* In some places the ⑥ ending is used in the sense of the ⑦ ending.
-
-#### 2.7.6.1 In the sense of ③
-
-> kato **me** kalyāṇo
-
-🚹⨀①🔽(ta)(kato) *️⃣👆⚧⨀⑥(me) 🚹⨀①(kalyāṇo)  
-done / by me / good  
-*Good has been done by me.*
-
-Here `me` (⑥, "of me, my") is used where the ③ `mayā` ("by me") would be  
-expected; compare the first sentence of 2.7.6.3, which keeps `mayā`.
-
-#### 2.7.6.2 In the sense of ⑦
-
-> kusalā **naccagītassa** sikkhitā cāturitthiyo
-
-🚺⨂①(kusalā) 🚻⨀⑥🆎(nacca+gīta) 🚺⨂①(🔽(ita)(sikkhitā) 🆎(catu+itthī))  
-skilled / in dance and song / trained / clever women  
-*Clever women, trained, skilled in dance and song.*
-
-#### 2.7.6.3 Where the ③ and ⑦ are kept
-
-The rule says `kvaci` ("in some places"): the ⑥ ending does not always stand  
-for the ③ and ⑦. In the following, `mayā` keeps the ③ ending and `atthesu`  
-the ⑦ ending.
-
-> yo vo ānanda **mayā** dhammo ca vinayo ca desito paññatto
-
-*️⃣🤟🚹⨀①(yo) *️⃣🤘⚧⨂④(vo) 🚹⨀⓪(ānanda) *️⃣👆⚧⨀③(mayā) 🚹⨀①(dhammo) ⏏️(ca) 🚹⨀①(vinayo) ⏏️(ca) 🚹⨀①(🔽(ita)(desito) 🔽(ta)(paññatto))  
-which / to you / Ānanda / by me / the Dhamma / and / the Vinaya / and / taught / laid down  
-*The Dhamma and the Vinaya, Ānanda, which have been taught and laid down by me to you.*
-
-> ānando **atthesu** vicakkhaṇo
-
-🚹⨀①(ānando) 🚹⨂⑦(atthesu) 🚹⨀①(vicakkhaṇo)  
-Ānanda / in matters / discerning  
-*Ānanda is discerning in matters.*
-
-#### Exercises
-
-1. kataṁ me pāpaṁ
-2. kusalo tvaṁ rathassa aṅgapaccaṅgānaṁ
-
-#### Answers
-
-1. > kataṁ me pāpaṁ
+5. > kataṁ me pāpaṁ
 
 🚻⨀①🔽(ta)(kataṁ) *️⃣👆⚧⨀⑥(me) 🚻⨀①(pāpaṁ)  
 done / by me / evil  
-*Evil has been done by me.*
+*Evil has been done by me: `me` ⑥ where the ③ `mayā` is expected {308}.*
 
-2. > kusalo tvaṁ rathassa aṅgapaccaṅgānaṁ
-
-🚹⨀①(kusalo) *️⃣🤘⚧⨀①(tvaṁ) 🚹⨀⑥(rathassa) 🚻⨂⑥🆎(aṅga+paccaṅga)  
-skilled / you / of a chariot / in the parts and fittings  
-*You are skilled in the parts and fittings of a chariot.*
-
-### 2.7.7 In the sense of ② and ⑤ {309}
-
-* In some places (`kvaci`) the ⑥ ending is used in the sense of the ② ending.
-* In some places the ⑥ ending is used in the sense of the ⑤ ending.
-
-#### 2.7.7.1 In the sense of ②
-
-> **tassa** bhavanti vattāro
-
-*️⃣🤟🚹⨀⑥(tassa) ⨂(🟢🤟▶️(bhavanti) 🚹①🔽(tu)(vattāro))  
-of him / there are / speakers  
-*There are those who speak of him.*
-
-Here `tassa` (⑥) is the object of the speaking, which would usually take the  
-② ending. The Padarūpasiddhi notes that this happens with an agent noun made  
-with a `kita` affix, such as `vattu` ("speaker") or `kattu` ("doer").
-
-#### 2.7.7.2 In the sense of ⑤
-
-> assavanatā **dhammassa** parihāyanti
-
-🚺⨀③🔽(tā)(assavanatā) 🚹⨀⑥(dhammassa) 🟢⨂🤟▶️(parihāyanti)  
-through not hearing / from the Dhamma / [they] fall away  
-*Through not hearing they fall away from the Dhamma.*
-
-Here `dhammassa` (⑥) is what they fall away from, which would usually take  
-the ⑤ ending. The Padarūpasiddhi notes that this happens with words for  
-falling away (`parihāni`) and fear (`bhaya`).
-
-#### Exercises
-
-1. sahasā kammassa kattāro
-2. kinnu kho ahaṁ tassa sukhassa bhāyāmi
-3. sabbe tasanti daṇḍassa
-4. sabbe bhāyanti maccuno
-5. bhīto catunnaṁ āsīvisānaṁ ghoravisānaṁ
-6. bhāyāmi ghoravisassa nāgassa
-
-#### Answers
-
-1. > sahasā kammassa kattāro
-
-⏏️(sahasā) 🚻⨀⑥(kammassa) 🚹⨂①🔽(tu)(kattāro)  
-in haste / of a deed / doers  
-*Doers of a deed in haste.*
-
-2. > kinnu kho ahaṁ tassa sukhassa bhāyāmi
-
-⏏️(kinnu) ⏏️(kho) *️⃣👆⚧⨀①(ahaṁ) 🚻⨀⑥(*️⃣🤟(tassa) sukhassa) 🟢⨀👆▶️(bhāyāmi)  
-why then / indeed / I / of that / happiness / fear  
-*Why then should I fear that happiness?*
-
-3. > sabbe tasanti daṇḍassa
-
-⨂(*️⃣🤟🚹①(sabbe) 🟢🤟▶️(tasanti)) 🚹⨀⑥(daṇḍassa)  
-all / tremble at / the rod  
-*All tremble at the rod.*
-
-4. > sabbe bhāyanti maccuno
+6. > sabbe bhāyanti maccuno
 
 ⨂(*️⃣🤟🚹①(sabbe) 🟢🤟▶️(bhāyanti)) 🚹⨀⑥(maccuno)  
 all / fear / death  
-*All fear death.*
-
-5. > bhīto catunnaṁ āsīvisānaṁ ghoravisānaṁ
-
-🚹⨀①🔽(ta)(bhīto) 🚹⨂⑥(catunnaṁ 🆎(āsī+visa) 🆎(ghora+visa))  
-frightened / of the four / snakes / of fierce venom  
-*Frightened of the four snakes of fierce venom.*
-
-6. > bhāyāmi ghoravisassa nāgassa
-
-🟢⨀👆▶️(bhāyāmi) 🚹⨀⑥(🆎(ghora+visa) nāgassa)  
-[I] fear / of fierce venom / the serpent  
-*I fear the serpent of fierce venom.*
+*All fear death: `maccuno` ⑥ where the ⑤ of the thing feared is expected {309}.*

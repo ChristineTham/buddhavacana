@@ -1,50 +1,48 @@
----  
-title: "2.6: kattā and hetu (Agent and Causer)"  
-sidebar:  
-  label: "2.6: `kattā`, `hetu`"  
-description: >  
- `kattā` words refer to the one who does the action, the agent, and `hetu`  
- words to the one who makes the agent act, the causer. The agent is normally  
- (but not always) associated with the first case (①) `vibhatti` endings in an  
- active sentence and with the third case (③), "by", in a passive one; the  
- causer takes the first case (①) with a causative verb. They are often referred  
- to as the "subject" (nominative) and the "agent" (instrumental) in English  
- Pali grammar books.  
-categories: ["palibook"]  
-tags: ["kāraka", "kattā", "hetu"]  
+---
+title: "2.6: kattā and hetu (Agent and Causer)"
+sidebar:
+  label: "2.6: `kattā`, `hetu`"
+description: >
+  The one who does the action (`kattā`, the agent) takes the ① ending with an
+  active verb and the ③ ending, "by", with a passive one {281}, {284}, {288};
+  the one who makes another act (`hetu`, the causer) takes the ① ending with a
+  causative verb {282}.
+categories: ["palibook"]
+tags: ["kāraka", "kattā", "hetu"]
 ---
 
 :::tip[Info]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-The usage examples provided here are not exhaustive, other usages are possible.
+This section covers the two `kāraka` (participants in the action) that bring
+the action about: the `kattā` (the agent), the one who does the action {281},
+and the `hetu` (the causer), the one who makes the agent do it {282}. In
+`atha kho bhagavā … nisīdi` ("then the Bhagavā sat down") the agent is
+`bhagavā`: it carries the ① ending, and the verb `nisīdi` agrees with it. The
+causer is an agent as well, which is why the Basics chapter calls it the
+`hetu-kattā`.
 
-A `kāraka` is a participant in the action that a sentence describes: the one
-who does it, the thing done, the means, the recipient, the source, the place.
-Kaccāyana names them one by one {271}–{283} and then states which `vibhatti`
-ending each takes. This section covers the two that bring the action about:
-the `kattā` ("agent"), the one who does it, and the `hetu` ("causer"), the one
-who makes the agent do it.
+The agent does not always stand in ①, so the question to ask of such a
+sentence is what kind of verb it has: active (🟢), passive (🔵) or a past
+participle (🔽(ta)), or causative (🟠). The three sentence patterns are set out
+in the Basics chapter under
+[Example sentence constructions](../1-basics/#example-sentence-constructions),
+and every rule number below links to the full rule in the Kaccāyana
+translation.
 
-In an active sentence (`kattu-vācaka`) the agent takes the ① ending and the  
-verb agrees with it. In a passive sentence (`kamma-vācaka`) the thing done  
-takes the ① ending instead, and the agent takes the ③ ending, "by". The causer  
-takes the ① ending with a causative (🟠) verb. The three sentence patterns are  
-set out in the Basics chapter under  
-[Example sentence constructions](../1-basics/#example-sentence-constructions).
+### How to find the agent and the causer
 
-### 2.6.1 The agent {281}
+| what the noun is doing | what you see | example | rule |
+| --- | --- | --- | :-: |
+| the agent (`kattā`) of an active verb 🟢 | the ① ending; the verb agrees with it in number and person | `bhagavā … nisīdi`, "the Bhagavā sat down" | {281}, {284} |
+| the agent of a passive verb 🔵 or of a past participle 🔽(ta) | the ③ ending, "by"; the thing done takes ① and the verb agrees with that | `ahinā daṭṭho naro`, "the man [is] bitten by a snake" | {281}, {288} |
+| the causer (`hetu`), who makes the agent act | the ① ending with a causative verb 🟠 (`-eti`, `-āpeti`, "makes someone do"): `kāreti`, `hāreti`, `pāṭheti`, `pāceti`, `dhāreti` | `so puriso … kāreti`, "that man makes … do" | {282}, {438} |
+| the one made to act by the causer | the ② ending, or ③, or `-ssa` read as ⑥ | `taṁ purisaṁ`, `tena purisena`, `tassa purisassa` | {282}, {300} |
 
-* The one who does the action is the `kattā` ("agent").
+### Examples
 
-The sentences Kaccāyana gives for this rule all have a past participle  
-(🔽(ta)) for their verb, so they are passive: the agent carries the ③ ending  
-and the one acted on the ① ending. The ③ ending for the agent is stated by  
-{288}, which is treated in section [2.4](../2-4-instrumental/), and the ①  
-ending by {284}, treated in section [2.8](../2-8-nominative/).
-
-#### Example
+The agent of a past participle, in ③ {281}, {288}:
 
 > **ahinā** daṭṭho naro
 
@@ -52,56 +50,7 @@ ending by {284}, treated in section [2.8](../2-8-nominative/).
 by a snake / bitten / the man  
 *The man [is] bitten by a snake.*
 
-#### Exercises
-
-Translate the following from Pali to English. Look up the words in a dictionary,
-perform necessary sandhi and compound word deconstruction, and take note of
-the `vibhatti` endings to deduce the meaning of the sentence.
-
-:::tip[Hint]
-You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
-useful for looking up words, as well as doing the sandhi and compound word
-deconstruction.
-:::
-
-1. garuḷena hato nāgo
-2. buddhena jito māro
-3. upaguttena māro bandho
-
-#### Answers
-
-*Note: please do the exercises first before checking the answers.*
-
-1. > garuḷena hato nāgo
-
-🚹⨀③(garuḷena) ⨀🚹①(🔽(ta)(hato) nāgo)  
-by a garuḷa (mythical bird) / killed / the nāga (serpent)  
-*The nāga [is] killed by a garuḷa.*
-
-2. > buddhena jito māro
-
-🚹⨀③(buddhena) ⨀🚹①(🔽(ta)(jito) māro)  
-by the Buddha / conquered / Māra  
-*Māra [is] conquered by the Buddha.*
-
-3. > upaguttena māro bandho
-
-🚹⨀③(upaguttena) ⨀🚹①(māro 🔽(ta)(bandho))  
-by Upagutta / Māra / bound  
-*Māra [is] bound by Upagutta.*
-
-### 2.6.2 The causer {282}
-
-* The one who makes the agent act is the `hetu` ("causer"), and is a `kattā`
-  ("agent") as well.
-
-The causer is the ① subject of a causative (🟠) verb, which is why the Basics  
-chapter calls it the `hetu-kattā`. In the sentences Kaccāyana gives, the person  
-made to act stands in the ② ending, the ③ ending or the `sa` ending read as ⑥:  
-`taṁ purisaṁ`, `tena purisena`, `tassa purisassa`. The ② ending for the one  
-made to act is the rule {300}, treated in section [2.5](../2-5-accusative/).
-
-#### Example
+The causer, in ① with a causative verb {282}:
 
 > **so puriso** taṁ purisaṁ kammaṁ kāreti
 
@@ -109,29 +58,72 @@ made to act is the rule {300}, treated in section [2.5](../2-5-accusative/).
 that man / that man / the work / makes do  
 *That man makes that man do the work.*
 
-Other causative verbs the rule names, used in the same way (replacing `kāreti`):
+### Exercises
 
-* `hāreti` ("[he] makes [someone] carry")
-* `pāṭheti` ("[he] makes [someone] recite")
-* `pāceti` ("[he] makes [someone] cook")
-* `dhāreti` ("[he] makes [someone] hold")
+In each sentence find the agent or the causer and say which ending it carries
+and why. Look up the words in a dictionary, perform the necessary sandhi and
+compound word deconstruction, and take note of the `vibhatti` endings to deduce
+the meaning of the sentence. The first four sentences are from chapters
+[3](../3-awakening/) and [5](../5-pbt/).
 
-#### Exercises
+:::tip[Hint]
+You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
+useful for looking up words, as well as doing the sandhi and compound word
+deconstruction.
+:::
 
-1. so puriso tena purisena kammaṁ kāreti
-2. so puriso tassa purisassa kammaṁ kāreti
+1. Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī.
+2. Yadā have pātubhavanti dhammā
+3. Vuttaṁ kho panetaṁ bhagavatā kakacūpamovāde
+4. Sabbo rāgo pahīno me
+5. so puriso tena purisena kammaṁ kāreti
+6. so puriso tassa purisassa kammaṁ kāreti
 
-#### Answers
+### Answers
 
 *Note: please do the exercises first before checking the answers.*
 
-1. > so puriso tena purisena kammaṁ kāreti
+1. > Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī.
+
+⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚻⨀⑦🆎(bodhirukkha+mūla) 🚻⨀②🆎(satta+aha) 🚹⨀③🆎(eka+pallaṅka) 🟢⨀🤟⏮(nisīdati) 🚹⨀①🆎(vimuttisukha+paṭisaṁvedī)  
+then / indeed / the Bhagavā / at the root of the bodhi tree / for seven days / in one cross-legged posture / sat down / experiencing the bliss of liberation  
+*Then the Bhagavā sat at the root of the Bodhi tree for seven days in one cross-legged posture, experiencing the bliss of liberation (`vimuttisukhapaṭisaṁvedī`).*
+
+The verb is active, so the agent is the ① word, `bhagavā` {284}; `ekapallaṅkena` in ③ is not the agent.
+
+2. > Yadā have pātubhavanti dhammā
+
+⏏️(yadā) ⏏️(have) 🟢⨂🤟▶️(pātubhavati) 🚹⨂①(dhamma)  
+when / indeed / appear / phenomena  
+*When indeed `dhammā` (phenomena) become manifest*
+
+The agent `dhammā` is plural and in ①; the verb `pātubhavanti` agrees with it, though it comes first {284}.
+
+3. > Vuttaṁ kho panetaṁ bhagavatā kakacūpamovāde
+
+🚻①⨀(vutta) 🔼(kho) 🔼(panetaṁ) 🚹③⨀(bhagavant) 🚹⑦⨀(kakacūpamovāda)  
+said / indeed / but this / by Bhagavant / exhortation with the simile of the saw  
+*But this is indeed said by the Bhagavant in the exhortation with the simile of the saw:*
+
+`vuttaṁ` ("said") is a past participle, so the agent `bhagavatā` is in ③, "by" {288}.
+
+4. > Sabbo rāgo pahīno me
+
+🚹①⨀(sabba) 🚹①⨀(rāga) 🚹①⨀(pahīna) 👆③⨀(ahaṁ)  
+all / passion / abandoned / by me  
+*All passions abandoned by me,*
+
+`pahīno` ("abandoned") is a past participle: `rāgo` in ① agrees with it, and the agent `me` is in ③ {288}.
+
+5. > so puriso tena purisena kammaṁ kāreti
 
 🚹⨀①(*️⃣🤟(so) puriso) 🚹⨀③(*️⃣🤟(tena) purisena) 🚻⨀②(kammaṁ) 🟠⨀🤟▶️(kāreti)  
 that man / by that man / the work / makes do  
 *That man has the work done by that man.*
 
-2. > so puriso tassa purisassa kammaṁ kāreti
+The causer `so puriso` is in ① with the causative `kāreti` {282}; the one made to act is in ③ here.
+
+6. > so puriso tassa purisassa kammaṁ kāreti
 
 🚹⨀①(*️⃣🤟(so) puriso) 🚹⨀⑥(*️⃣🤟(tassa) purisassa) 🚻⨀②(kammaṁ) 🟠⨀🤟▶️(kāreti)  
 that man / of that man / the work / makes do  

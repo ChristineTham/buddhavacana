@@ -1,65 +1,65 @@
----  
-title: "2.3: okāsa (Locative)"  
-sidebar:  
-  label: "2.3: `okāsa`"  
-description: >  
- `okāsa` words refer to the place or support in which an action takes place  
- and are generally translated as "in", "on" or "at". They are normally (but  
- not always) associated with the seventh case (⑦) `vibhatti` endings. The  
- `okāsa` is often referred to as "locative" in English Pali grammar books.  
-categories: ["palibook"]  
-tags: ["kāraka", "okāsa"]  
+---
+title: "2.3: okāsa (Locative)"
+sidebar:
+  label: "2.3: `okāsa`"
+description: >
+  A word with the ⑦ ending names where, or when, an action happens:
+  `sāvatthiyaṁ viharati jetavane`, "[he] dwells at Sāvatthī, in Jeta's Grove".
+  The `okāsa` (location) and its four kinds {278}, the ⑦ ending for it {302},
+  for a time and for an event that sets the time {313}, and its rarer senses
+  {310}–{312}, {314}–{315}.
+categories: ["palibook"]
+tags: ["kāraka", "okāsa"]
 ---
 
 :::tip[Info]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-The usage examples provided here are not exhaustive, other usages are possible.
+Most suttas open by saying where the Buddha was staying: `sāvatthiyaṁ
+viharati jetavane`, "[he] dwells at Sāvatthī, in Jeta's Grove". The two words
+that name the place carry the ⑦ ending, and a word with that ending is the
+`okāsa` (the location): the place, the thing or the time an action is set in,
+its support (`ādhāra`) {278}. Ask of it "in, on or at what does this happen?";
+the ending's other senses, listed below, the sentence itself makes plain.
 
-### 2.3.1 The support of the action {278}
+On the page the ending is `-e`, `-smiṁ`, `-mhi`, `-āyaṁ`, `-iyaṁ` or `-su`
+after a long vowel (`jetavane`, `pāpasmiṁ`, `ajaramhi`, `velāyaṁ`,
+`sāvatthiyaṁ`, `bhikkhūsu`), `smiṁ` and `su` in Kaccāyana's list {55};
+[Appendix G](../g-vibhatti/) tables the endings of every kind of word.
 
-* The support (`ādhāra`) of an action, that in which or on which it takes place, is called `okāsa` ("location"). The support is of four kinds:
-* pervading (`byāpika`)
-* by contact (`opasilesika`)
-* by domain (`vesayika`)
-* by proximity (`sāmīpika`).
+### The uses of the ⑦ ending
 
-#### 2.3.1.1 Pervading (`byāpika`)
+| what the noun is doing | what you see | example | rule |
+| --- | --- | --- | :-: |
+| the place of the action: in, on, at | ⑦ beside a verb of staying, lying or moving | `sāvatthiyaṁ viharati jetavane` — [he] dwells at Sāvatthī, in Jeta's Grove | {278}, {302} |
+| what the action rests on, not a place | ⑦ with a verb of delighting or trusting | `pāpasmiṁ ramati mano` — the mind delights in evil | {302} |
+| the time of the action | ⑦ on `samaya`, `velā` or a time of day | `pubbaṇhasamaye gato` — [he] went in the forenoon | {313} |
+| an event that sets the time: "while", "when" (the ⑦ absolute) | a noun and a participle (`-māna`, `-anta`, `-ta`), both ⑦, with no verb of their own | `bhikkhūsu bhojīyamānesu gato` — [he] went while the monks were being fed | {313} |
+| the object (`kamma`) | ⑦ where ② is expected | `bhikkhūsu abhivādenti` — [they] salute the monks | {310} |
+| the instrument (`karaṇa`) | ⑦ where ③ is expected | `hatthesu piṇḍāya caranti` — [they] go for alms with their hands | {310} |
+| the motive (`nimitta`) | ⑦ on what the action is done for | `dīpi cammesu haññate` — the leopard is killed for its hide | {310} |
+| the recipient (`sampadāna`) | ⑦ with `dinna` (given) where ④ is expected | `saṅghe dinnaṁ` — given to the Saṅgha | {311} |
+| the thing kept away from: "from" | ⑦ with `rakkhati` (keeps off) where ⑤ is expected | `kadalīsu gaje rakkhanti` — [they] keep the elephants off the plantains | {312} |
+| "more than" after `upa`, "lord over" after `adhi` | `upa` or `adhi`, then ⑦ | `upa khāriyaṁ doṇo` — a `doṇa` over a `khārī`; `adhi brahmadatte pañcālā` — the Pañcālas are under Brahmadatta | {314} |
+| gladdened by, zealous in | ⑦, or ③, with `pasīdita`, `ussukka` | `ñāṇasmiṁ pasīdito` — gladdened in knowledge | {315} |
 
-The thing supported spreads through the whole of its support.
+The first four rows are the uses on every page; the rest are rare. A time is
+often in the ③ ending instead, `tena samayena` ("at that time"), the words the
+Bodhikathā opens with {290}; two uses ⑦ shares with ⑥, "among" {304} and
+"despite" {305}, are in [2.7](../2-7-genitive/).
 
-> **jalesu** khīraṁ tiṭṭhati
+Kaccāyana names four kinds of support {278}: pervading (`byāpika`), `jalesu
+khīraṁ tiṭṭhati`, milk stands in water; by contact (`opasilesika`),
+`pariyaṅke rājā seti`, the king lies on the couch; by domain (`vesayika`),
+`bhūmīsu manussā caranti`, men walk on the earth; and by proximity
+(`sāmīpika`), `gaṅgāyaṁ ghoso tiṭṭhati`, the cowherds' village stands on,
+that is near, the Ganges.
 
-🚻⨂⑦(jalesu) ⨀(🚻①(khīraṁ) 🟢🤟▶️(tiṭṭhati))  
-in water / milk / stands  
-*Milk stands in water.*
+### Examples
 
-#### 2.3.1.2 By contact (`opasilesika`)
-
-The thing supported rests on its support, touching it.
-
-> **pariyaṅke** rājā seti
-
-🚹⨀⑦(pariyaṅke) ⨀(🚹①(rājā) 🟢🤟▶️(seti))  
-on the couch / the king / lies  
-*The king lies on the couch.*
-
-#### 2.3.1.3 By domain (`vesayika`)
-
-The support is the domain (`visaya`) within which the thing supported is
-found, and not elsewhere.
-
-> **bhūmīsu** manussā caranti
-
-🚺⨂⑦(bhūmīsu) ⨂(🚹①(manussā) 🟢🤟▶️(caranti))  
-on the earth / men / walk  
-*Men walk on the earth.*
-
-#### 2.3.1.4 By proximity (`sāmīpika`)
-
-The place named is only near the place of the action: Jeta's Grove lies near
-Sāvatthī, not in it.
+The place {278}, {302}; Jeta's Grove lies near Sāvatthī, not in it, a
+support by proximity:
 
 > **sāvatthiyaṁ** viharati **jetavane**
 
@@ -67,190 +67,7 @@ Sāvatthī, not in it.
 at Sāvatthī / [he] dwells / in Jeta's Grove  
 *[He] dwells at Sāvatthī, in Jeta's Grove.*
 
-#### Exercises
-
-Translate the following from Pali to English. Look up the words in a dictionary,
-perform necessary sandhi and compound word deconstruction, and take note of
-the `vibhatti` endings to deduce the meaning of the sentence.
-
-:::tip[Hint]
-You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
-useful for looking up words, as well as doing the sandhi and compound word
-deconstruction.
-:::
-
-1. tilesu telaṁ
-2. ucchūsu raso
-3. āsane upaviṭṭho saṅgho
-4. antalikkhe vāyū vāyanti
-5. ākāse sakuṇā pakkhandanti
-6. vane hatthino caranti
-7. gaṅgāyaṁ ghoso tiṭṭhati
-8. vaje gāvo duhanti
-
-#### Answers
-
-*Note: please do the exercises first before checking the answers.*
-
-1. > tilesu telaṁ
-
-🚻⨂⑦(tilesu) 🚻⨀①(telaṁ)  
-in sesame seeds / oil  
-*[There is] oil in sesame seeds.* (pervading)
-
-2. > ucchūsu raso
-
-🚹⨂⑦(ucchūsu) 🚹⨀①(raso)  
-in sugar canes / juice  
-*[There is] juice in sugar canes.* (pervading)
-
-3. > āsane upaviṭṭho saṅgho
-
-🚻⨀⑦(āsane) ⨀🚹①(🔽(ta)(upaviṭṭho) saṅgho)  
-on the seat / seated (past participle) / the Saṅgha  
-*The Saṅgha [is] seated on the seat.* (by contact)
-
-4. > antalikkhe vāyū vāyanti
-
-🚻⨀⑦(antalikkhe) ⨂(🚻①(vāyū) 🟢🤟▶️(vāyanti))  
-in the sky / winds / blow  
-*Winds blow in the sky.* (by domain)
-
-5. > ākāse sakuṇā pakkhandanti
-
-🚹⨀⑦(ākāse) ⨂(🚹①(sakuṇā) 🟢🤟▶️(pakkhandanti))  
-in the air / birds / leap forth  
-*Birds leap forth in the air.* (by domain)
-
-6. > vane hatthino caranti
-
-🚻⨀⑦(vane) ⨂(🚹①(hatthino) 🟢🤟▶️(caranti))  
-in the forest / elephants / roam  
-*Elephants roam in the forest.* (by proximity)
-
-7. > gaṅgāyaṁ ghoso tiṭṭhati
-
-🚺⨀⑦(gaṅgāyaṁ) ⨀(🚹①(ghoso) 🟢🤟▶️(tiṭṭhati))  
-on the Ganges / the cowherds' village / stands  
-*The cowherds' village stands on (i.e. near) the Ganges.* (by proximity)
-
-8. > vaje gāvo duhanti
-
-🚹⨀⑦(vaje) 🚹⨂②(gāvo) 🟢⨂🤟▶️(duhanti)  
-in the cattle pen / the cows / [they] milk  
-*[They] milk the cows in the cattle pen.* (by proximity)
-
-### 2.3.2 Location {302}
-
-* The ⑦ `vibhatti` ending is used for the `okāsa` (location) `kāraka`, the support defined in 2.3.1.
-
-The ③ ending can also stand in the sense of ⑦, as in `tena samayena` ("at that time") {290}: see 2.4.
-
-#### Example
-
-> **pāpasmiṁ** ramati mano
-
-🚻⨀⑦(pāpasmiṁ) ⨀(🟢🤟▶️(ramati) 🚹①(mano))  
-in evil / delights / the mind  
-*The mind delights in evil.*
-
-#### Exercises
-
-1. gambhīre odakantike
-2. bhagavati brahmacariyaṁ vussati kulaputto
-
-#### Answers
-
-1. > gambhīre odakantike
-
-🚻⨀⑦(gambhīre odakantike)  
-in a deep / [pit] reaching down to water  
-*In a deep [pit] reaching down to the water.*
-
-2. > bhagavati brahmacariyaṁ vussati kulaputto
-
-🚹⨀⑦(bhagavati) 🚻⨀②🆎(brahma+cariya) ⨀(🔵🤟▶️(vussati) 🚹①🆎(kula+putta))  
-under the Blessed One / the holy life / lives / a young man of good family  
-*A young man of good family lives the holy life under the Blessed One.*
-
-### 2.3.3 Object, instrument and motive {310}
-
-* In the sense of the object (`kamma`), the thing the action is done to
-* In the sense of the instrument (`karaṇa`), the means by which the action is done
-* In the sense of the motive (`nimitta`), the reason for which the action is done.
-
-The ⑦ ending is also used for the recipient (`sampadāna`), as in `saṅghe dinnaṁ` ("given to the Saṅgha") {311}: see 2.2.
-
-#### 2.3.3.1 Object (`kamma`)
-
-> sundarā’vuso ime ājīvakā **bhikkhūsu** abhivādenti
-
-🚹⨂①(sundarā) ⏏️(āvuso) 🚹⨂①(*️⃣🤟(ime) ājīvakā) 🚹⨂⑦(bhikkhūsu) 🟢⨂🤟▶️(abhivādenti)  
-fine / friends / these / Ājīvakas (naked ascetics) / the monks / salute  
-*Friends, these Ājīvakas are fine: they salute the monks.*
-
-#### 2.3.3.2 Instrument (`karaṇa`)
-
-> **hatthesu** piṇḍāya caranti
-
-🚹⨂⑦(hatthesu) 🚹⨀④(piṇḍāya) 🟢⨂🤟▶️(caranti)  
-with their hands / for alms / [they] go about  
-*[They] go about for alms with their hands.*
-
-#### 2.3.3.3 Motive (`nimitta`)
-
-> dīpi **cammesu** haññate
-
-🚹⨀①(dīpi) 🚻⨂⑦(cammesu) 🔵⨀🤟▶️(haññate)  
-the leopard / for its hide / is killed  
-*The leopard is killed for its hide.*
-
-#### Exercises
-
-1. pattesu piṇḍāya caranti
-2. pathesu gacchanti
-3. kuñjaro dantesu haññate
-
-#### Answers
-
-1. > pattesu piṇḍāya caranti
-
-🚹⨂⑦(pattesu) 🚹⨀④(piṇḍāya) 🟢⨂🤟▶️(caranti)  
-with bowls / for alms / [they] go about  
-*[They] go about for alms with bowls.* (instrument)
-
-2. > pathesu gacchanti
-
-🚹⨂⑦(pathesu) 🟢⨂🤟▶️(gacchanti)  
-by the roads / [they] go  
-*[They] go by the roads.* (instrument)
-
-3. > kuñjaro dantesu haññate
-
-🚹⨀①(kuñjaro) 🚹⨂⑦(dantesu) 🔵⨀🤟▶️(haññate)  
-the elephant / for its tusks / is killed  
-*The elephant is killed for its tusks.* (motive)
-
-### 2.3.4 In the sense of "from" {312}
-
-* The ⑦ ending is also used in the sense of the fifth ending ⑤ (the `apādāna`, "from", of section 2.1).
-
-#### Example
-
-> **kadalīsu** gaje rakkhanti
-
-🚺⨂⑦(kadalīsu) 🚹⨂②(gaje) 🟢⨂🤟▶️(rakkhanti)  
-from the plantains / the elephants / [they] keep off  
-*[They] keep the elephants off (away from) the plantains.*
-
-Compare `kāke rakkhanti taṇḍulā` in 2.1.3, where the same sense is carried by the ⑤ ending.
-
-### 2.3.5 Time and attendant state {313}
-
-* For time (`kāla`), the time at which the action takes place
-* For a state (`bhāva`) when its agent is expressed: an action going on at the time of the main action, named together with its subject.
-
-#### 2.3.5.1 Time (`kāla`)
+The time {313}, with no "in" or "at" to help it:
 
 > **pubbaṇhasamaye** gato
 
@@ -258,9 +75,10 @@ Compare `kāke rakkhanti taṇḍulā` in 2.1.3, where the same sense is carried
 in the forenoon / gone (past participle)  
 *[He] went in the forenoon.*
 
-#### 2.3.5.2 State (`bhāva`)
-
-Both the state and its subject take the ⑦ ending.
+An event that sets the time {313}, the ⑦ absolute: a noun and a participle,
+both ⑦, agreeing with each other and belonging to no verb of the sentence.
+With a `-ta` word it is "when X had happened": `bhuttesu āgato`, "[he] came
+back when [they had] eaten":
 
 > **bhikkhūsu bhojīyamānesu** gato
 
@@ -268,108 +86,67 @@ Both the state and its subject take the ⑦ ending.
 while the monks / [were] being fed / gone  
 *[He] went while the monks were being fed.*
 
-#### Exercises
+### Exercises
 
-1. sāyanhasamaye āgato
-2. bhuttesu āgato
-3. gosu duyhamānāsu gato
-4. duddhāsu āgato
+Each sentence is from the texts of chapters 3 and 5 and has a ⑦ word. Find
+it, say what it is doing there — the place, the time or an event that sets the
+time — and translate the sentence.
 
-#### Answers
+:::tip[Hint]
+You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
+useful for looking up words, as well as doing the sandhi and compound word
+deconstruction.
+:::
 
-1. > sāyanhasamaye āgato
+1. Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī.
+2. Yathā aññataraṁ bījaṁ, khette vuttaṁ virūhati.
+3. Tāhaṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhiṁ.
+4. Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi.
+5. Evaṁ khandhesu santesu, hoti sattoti sammuti.
+6. Sabbesu dhammesu samohatesu, samūhatā vādapathāpi sabbe”ti.
 
-🚹⨀⑦🆎(sāyanha+samaya) ⨀🚹①(🔽(ta)(āgato))  
-in the evening / come back  
-*[He] came back in the evening.* (time)
+### Answers
 
-2. > bhuttesu āgato
+*Note: please do the exercises first before checking the answers.*
 
-🚹⨂⑦(🔽(ta)(bhuttesu)) ⨀🚹①(🔽(ta)(āgato))  
-when [they had] eaten / come back  
-*[He] came back when [the monks] had eaten.* (state)
+1. > Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī.
 
-3. > gosu duyhamānāsu gato
+⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚻⨀⑦🆎(bodhirukkha+mūla) 🚻⨀②🆎(satta+aha) 🚹⨀③🆎(eka+pallaṅka) 🟢⨀🤟⏮(nisīdati) 🚹⨀①🆎(vimuttisukha+paṭisaṁvedī)  
+then / indeed / the Bhagavā / at the root of the bodhi tree / for seven days / in one cross-legged posture / sat down / experiencing the bliss of liberation  
+*Then the Bhagavā sat at the root of the Bodhi tree for seven days in one cross-legged posture, experiencing the bliss of liberation (`vimuttisukhapaṭisaṁvedī`).*  
+`bodhirukkhamūle`: the place {278}, {302}.
 
-🚺⨂⑦(gosu 🔽(māna)(duyhamānāsu)) ⨀🚹①(🔽(ta)(gato))  
-while the cows / [were] being milked / gone  
-*[He] went while the cows were being milked.* (state)
+2. > Yathā aññataraṁ bījaṁ, khette vuttaṁ virūhati.
 
-4. > duddhāsu āgato
+🔼(yathā) 🚻①⨀(aññatara) 🚻①⨀(bīja) 🚻⑦⨀(khetta) 🚻①⨀(vutta) ▶️🤟⨀(virūhati)  
+like / a certain / seed / in field / sown / grows  
+*Like a certain seed, sown in field, grows.*  
+`khette`: the place {302}.
 
-🚺⨂⑦(🔽(ta)(duddhāsu)) ⨀🚹①(🔽(ta)(āgato))  
-when [they had been] milked / come back  
-*[He] came back when [the cows] had been milked.* (state)
+3. > Tāhaṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhiṁ.
 
-### 2.3.6 "More than" and "lord over" with `upa` and `adhi` {314}
+🔼(tāhaṁ) 🚹②⨀(dhamma) 🔼(sutvā) 🚹⑦⨀(tathāgata) 🚻①⨀(saddha) ⏮👆⨀(paṭilabhi)  
+that I / Dhamma / having heard / in Tathāgata / faith / I acquired  
+*Having heard that Dhamma, I acquired faith in the Tathāgata.*  
+`tathāgate`: what the faith rests on {302}.
 
-* With the prefixes `upa` and `adhi`, the ⑦ ending is used to express exceeding (`adhika`, "more than")
-* and to express lordship (`issara`, "lord over").
+4. > Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi.
 
-#### 2.3.6.1 Exceeding (`adhika`)
+⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) *️⃣🤟🚹⨀②(eta) 🚹⨀②(attha) 🔽(tvā)(vidati) *️⃣🤟🚺⨀⑦(ta) 🚺⨀⑦(velā) *️⃣🤟🚹⨀②(ima) 🚹⨀②(udāna) 🟢⨀🤟⏮(udāneti)  
+then / indeed / the Bhagavā / this / matter / having understood / at that / time / this / inspired utterance / uttered  
+*Then the Bhagavā, having understood this matter, on that occasion uttered this inspired utterance (`udāna`).*  
+`tāyaṁ velāyaṁ`: the time {313}.
 
-> upa **khāriyaṁ** doṇo
+5. > Evaṁ khandhesu santesu, hoti sattoti sammuti.
 
-🔼(upa) 🚺⨀⑦(khāriyaṁ) 🚹⨀①(doṇo)  
-in excess of / a `khārī` (a measure of volume) / a `doṇa` (a measure of volume)  
-*A `doṇa` in excess of a `khārī` (i.e. a `khārī` and a `doṇa` more).*
+🔼(evaṁ) 🚹⑦⨂(khandha) 🚹⑦⨂(santa) ▶️🤟⨀(hoti) 🚹①⨀(satta) 🔼(iti) 🚺①⨀(sammuti)  
+thus / in collections / existence / is / being / like this / general consensus  
+*Thus in the collection of the `khandhā`, is generally regarded as a “being.”*  
+`khandhesu santesu`: the ⑦ absolute {313}; `santesu` agrees with its noun.
 
-#### 2.3.6.2 Lordship (`issara`)
+6. > Sabbesu dhammesu samohatesu, samūhatā vādapathāpi sabbe”ti.
 
-> adhi **brahmadatte** pañcālā
-
-🔼(adhi) 🚹⨀⑦(brahmadatte) 🚹⨂①(pañcālā)  
-under the lordship of / Brahmadatta / the Pañcālas (people of Pañcāla)  
-*The Pañcālas are under Brahmadatta (i.e. Brahmadatta is lord over the Pañcālas).*
-
-#### Exercises
-
-1. upa nikkhe kahāpaṇaṁ
-2. adhi naccesu gotamī
-3. adhi devesu buddho
-
-#### Answers
-
-1. > upa nikkhe kahāpaṇaṁ
-
-🔼(upa) 🚹⨀⑦(nikkhe) 🚻⨀①(kahāpaṇaṁ)  
-in excess of / a `nikkha` (a unit of weight) / a `kahāpaṇa` (a coin)  
-*A `kahāpaṇa` in excess of a `nikkha`.* (exceeding)
-
-2. > adhi naccesu gotamī
-
-🔼(adhi) 🚻⨂⑦(naccesu) 🚺⨀①(gotamī)  
-mistress over / the dances / Gotamī  
-*Gotamī is mistress of the dances.* (lordship)
-
-3. > adhi devesu buddho
-
-🔼(adhi) 🚹⨂⑦(devesu) 🚹⨀①(buddho)  
-above / the gods / the Buddha  
-*The Buddha is above the gods.* (exceeding)
-
-### 2.3.7 Gladdened and zealous {315}
-
-* In the senses of `maṇḍita` (literally "adorned"; here "gladdened") and `ussukka` ("zealous"), the ③ ending is used, and the ⑦ ending as well.
-
-#### Example
-
-> **ñāṇasmiṁ** pasīdito
-
-🚻⨀⑦(ñāṇasmiṁ) ⨀🚹①(🔽(ita)(pasīdito))  
-in knowledge / gladdened (past participle)  
-*[He is] gladdened in knowledge.*
-
-Can also use with the ③ `vibhatti` ending (eg. `ñāṇena pasīdito`)
-
-#### Exercises
-
-1. ñāṇasmiṁ ussukko tathāgato vā tathāgatagotto vā (ñāṇena)
-
-#### Answers
-
-1. > ñāṇasmiṁ ussukko tathāgato vā tathāgatagotto vā
-
-🚻⨀⑦(ñāṇasmiṁ) ⨀🚹①(ussukko tathāgato ⏏️(vā) 🆎(tathāgata+gotta) ⏏️(vā))  
-in knowledge / zealous / the Tathāgata / or / one of the Tathāgata's lineage / or  
-*The Tathāgata, or one of the Tathāgata's lineage, [is] zealous in knowledge.*
+🚹⑦⨂(sabba) 🚹⑦⨂(dhamma) 🚹⑦⨂(samūhata) 🚹①⨂(samūhata) 🚹⑤⨀(vādapatha) 🔼(api) 🚹①⨂(sabba) 🔼(ti)  
+in every / in characteristic / in eradicating / eradicated / from representation / even / all / quote  
+*In eradicating every characteristic, all eradicated from even representation.*  
+`sabbesu dhammesu samohatesu`: the ⑦ absolute {313}, with a `-ta` word.

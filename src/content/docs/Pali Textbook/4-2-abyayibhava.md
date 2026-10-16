@@ -1,14 +1,12 @@
 ---
-title: "4.2: abyayībhāva (Adverbial compounds)"
+title: "4.2: The abyayībhāva, a compound with a prefix or a particle first"
 sidebar:
   label: "4.2: `abyayībhāva`"
 description: >
-  An `abyayībhāva` ("adverbial compound") is a compound whose first member is
-  a prefix (`upasagga`) or a particle (`nipāta`): `upanagaraṁ` ("near the
-  town"), `yathāvuḍḍhaṁ` ("in order of seniority"). It is neuter and keeps one
-  form for every `vibhatti` ending: the endings become `aṁ` after a compound
-  in `a` and are elided after any other, whose final vowel is shortened:
-  `upagaṅgaṁ`, `adhikumāri`, `upavadhu`.
+  A word such as `upanagaraṁ` ("near the town") is a prefix or a particle
+  joined to a noun: an `abyayībhāva` {319}. It is always neuter {320} and keeps
+  one form wherever it stands, `-aṁ` after a compound in `a` {341} and no
+  ending after any other, whose final vowel is shortened {342}–{343}.
 categories: ["palibook"]
 tags: ["samāsa", "abyayībhāva"]
 ---
@@ -17,43 +15,78 @@ tags: ["samāsa", "abyayībhāva"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-The usage examples provided here are not exhaustive, other usages are possible.
+Most compounds join two nouns. A few join a noun to one of the small words
+that never change their form, a prefix (`upasagga`, 🔼) such as `upa` ("near")
+or a particle (`nipāta`, ⏏️) such as `yathā` ("as"): `upanagaraṁ` ("near the
+town") is `upa` with `nagara` ("town"), and `yathābhūtaṁ` ("as it truly is")
+is `yathā` with `bhūta` ("true", "real"). Kaccāyana names such a compound an
+`abyayībhāva` {319}. Its first member carries the meaning, and the whole word
+tells where, when, how or how far something happens, as an adverb does in
+English. Kaccāyana's own examples are a grammarian's, but words of this shape
+are on every page of the texts: `yathābhūtaṁ` and `ajjhattaṁ` ("inwardly"),
+which you met in chapter 5, and `yāvajīvaṁ` ("as long as life lasts").
 
-A `samāsa` ("compound") is two or more nouns whose meanings are connected made
-into one word {316}, the `vibhatti` endings of the members being elided {317}.
-This section covers the `abyayībhāva` ("adverbial compound"), the compound
-whose first member is a prefix or a particle: the two rules that define it
-{319}–{320} and the three rules that state its endings {341}–{343}.
+Two things make an `abyayībhāva` easy to recognise. It is always neuter {320},
+whatever the gender of the noun inside it, and it keeps one form wherever it
+stands in the sentence: a compound ending in `a` ends in `-aṁ` {341}, and one
+ending in `i` or `u` has no ending at all {343}, a long final vowel being
+shortened first {342}. So `upanagaraṁ` says "near the town" whether the town
+is the subject, the object or the place of the sentence. When you meet a word
+that begins with a prefix or a particle and ends in `-aṁ`, or in a bare short
+`i` or `u`, ask what the first member means: that is the meaning of the word,
+and the noun after it is what the first member applies to.
 
-### 4.2.1 An `abyayībhāva` begins with a prefix or a particle {319}
+### How to recognise an `abyayībhāva`
 
-* A compound whose first member is a prefix (`upasagga`, 🔼) or a particle
-  (`nipāta`, ⏏️) is named `abyayībhāva` ("adverbial compound").
+The first members in Kaccāyana's examples, with `anu`, which those examples
+lack, added from the dictionary:
 
-The vutti analyses each compound by a phrase in which the prefix or particle is
-either paraphrased by a noun or stands as a word of its own: `upa` ("near") is
-`samīpe` ("in the vicinity"), `ni` ("without") is `abhāvo` ("absence"), `yathā`
-("according to") is `paṭipāṭi` ("succession"), `yāva` ("as long as") is
-`yattako paricchedo` ("whatever the limit"), `adhi` ("concerning") is
-`adhikicca` ("with reference to"), while `tiro` ("beyond"), `pati` ("against")
-and `anto` ("inside") stand in the phrase themselves. In the analysis lines the
-members of the compound are given in their lemma form, the prefix or particle
-first. The ending `aṁ` that every example takes is stated by {341}, treated in
-4.2.3.
+| first member | its meaning | example | meaning | rule |
+| :-: | --- | --- | --- | :-: |
+| `upa` 🔼 | near | `upanagaraṁ`, `upagaṅgaṁ` | near the town, near the Ganges | {319} |
+| `anu` 🔼 | along; after, every (`anv` before a vowel {18}) | `anvaddhamāsaṁ` | every fortnight | {319} |
+| `yathā` ⏏️ | as, according to | `yathāvuḍḍhaṁ`, `yathābhūtaṁ` | according to seniority, as it truly is | {319} |
+| `adhi` 🔼 | concerning; in (`ajjh` before a vowel {45}) | `adhicittaṁ`, `ajjhattaṁ` | concerning the mind, the higher mind; inwardly | {319} |
+| `pati` 🔼 | against | `patisotaṁ` | against the stream | {319} |
+| `yāva` ⏏️ | as long as, as far as | `yāvajīvaṁ` | as long as life lasts | {319} |
+| `tiro` ⏏️ | through, beyond | `tiropabbataṁ`, `tirokuṭṭaṁ` | beyond the mountain, through the wall | {319} |
+| `anto` ⏏️ | inside | `antopāsādaṁ` | inside the mansion | {319} |
+| `ni` 🔼 (the dictionary's `nir`), the next consonant doubled {28} | without | `niddarathaṁ`, `nimmakasaṁ` | free from distress, free from mosquitoes | {319} |
 
-#### Example
+`anvaddhamāsaṁ`, `yathābhūtaṁ` and `ajjhattaṁ` are not among Kaccāyana's
+examples; the Digital Pali Dictionary classes them as `abyayībhāva`. The
+compound then keeps one form, by four rules:
+
+| what you see | what it means | example | rule |
+| --- | --- | --- | :-: |
+| the compound is neuter, whatever the noun inside it | `gaṅgā` ("the Ganges") is feminine, `upagaṅgaṁ` is not | `upagaṅgaṁ` (near the Ganges), `adhikumāri` (concerning girls) | {320} |
+| a compound in `a` ends in `-aṁ` wherever it stands | one form serves for every ending; only sometimes does an ending keep its shape | `upanagaraṁ`, `yāvajīvaṁ`; but `adhicittassa` ("of the higher mind") | {341} |
+| a long final vowel is shortened, `ā` to `a`, `ī` to `i`, `ū` to `u` | the neuter compound takes the short vowel | `upagaṅgaṁ` from `gaṅgā`, `adhikumāri` from `kumārī`, `upavadhu` from `vadhū` | {342} |
+| a compound in `i` or `u` has no ending at all | the bare word is its only form | `adhikumāri`, `upavadhu` (near the young wife), `adhitthi` (concerning women) | {343} |
+
+Every rule number links to the full rule in the Kaccāyana translation;
+[Appendix F](../f-upasagga/) gives the meanings of every prefix.
+
+### Examples
 
 > nagarassa samīpe pavattati kathā → **upanagaraṁ**
 
 🚻⨀⑥(nagarassa) 🚻⨀⑦(samīpe) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(upa+nagara)  
 of the town / in the vicinity / goes on / talk → near the town  
-*`nagarassa samīpe pavattati kathā` ("talk that goes on near the town") becomes `upanagaraṁ`, the prefix `upa` ("near") standing for `samīpe` and `nagara` ("town") being the last member: an `abyayībhāva`.*
+*`upa` ("near") stands for `samīpe` and comes first {319}; the compound is neuter {320} and ends in `-aṁ` {341}.*
 
-#### Exercises
+> kumārīsu adhikicca pavattati kathā → **adhikumāri**
 
-Resolve the following compounds into their members, name the type of compound,
-and give the meaning. Look up the words in a dictionary and take note of the
-`vibhatti` endings of the members.
+🚺⨂⑦(kumārīsu) 🔽(ya)(adhikicca) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(adhi+kumārī)  
+girls / with reference to / goes on / talk → concerning girls  
+*`kumārī` ("girl") is feminine, but the compound is neuter {320}: its `ī` is shortened {342} and it takes no ending {343}.*
+
+### Exercises
+
+Each of the following is an `abyayībhāva`. Name its first member and say what
+it means, name the noun it is joined to, and give the meaning of the whole
+word; the first two you have met in chapter 5. Look the words up in a
+dictionary and check which of the four rules above each one shows.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -61,279 +94,35 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. niddarathaṁ
-2. nimmakasaṁ
-3. yathāvuḍḍhaṁ
-4. yāvajīvaṁ
-5. adhicittaṁ
-6. tiropabbataṁ
-7. patisotaṁ
-8. antopāsādaṁ
+1. yathābhūtaṁ
+2. ajjhattaṁ
+3. yāvajīvaṁ
+4. tiropabbataṁ
 
-#### Answers
+### Answers
 
 *Note: please do the exercises first before checking the answers.*
 
-1. > darathānaṁ abhāvo → **niddarathaṁ**
+1. > **yathābhūtaṁ**
 
-🚹⨂⑥(darathānaṁ) 🚹⨀①(abhāvo) → 🚻⨀①🆎(ni+daratha)  
-of distresses / absence → free from distress  
-*`darathānaṁ abhāvo` ("the absence of distress") becomes `niddarathaṁ`, the prefix `ni` ("without") standing for `abhāvo` and doubling the `d` of `daratha` {28}: an `abyayībhāva`.*
+🚻⨀①🆎(yathā+bhūta)  
+as it truly is  
+*`yathā` ("as") with `bhūta` ("true", "real"): an `abyayībhāva` {319} in `-aṁ` {341}; chapter 5, `samāhito yathābhūtaṁ jānāti passati`.*
 
-2. > makasānaṁ abhāvo → **nimmakasaṁ**
+2. > **ajjhattaṁ**
 
-🚹⨂⑥(makasānaṁ) 🚹⨀①(abhāvo) → 🚻⨀①🆎(ni+makasa)  
-of mosquitoes / absence → free from mosquitoes  
-*`makasānaṁ abhāvo` ("the absence of mosquitoes") becomes `nimmakasaṁ`, the prefix `ni` ("without") standing for `abhāvo` and doubling the `m` of `makasa` {28}: an `abyayībhāva`.*
+🚻⨀①🆎(adhi+atta)  
+inwardly, internally  
+*`adhi` ("in") becomes `ajjh` before the vowel of `atta` ("self") {45}: an `abyayībhāva` {319}; chapter 5, `ajjhattaṁ vā kāye kāyānupassī viharati`.*
 
-3. > vuḍḍhānaṁ paṭipāṭi → **yathāvuḍḍhaṁ**
-
-🚹⨂⑥(vuḍḍhānaṁ) 🚺⨀①(paṭipāṭi) → 🚻⨀①🆎(yathā+vuḍḍha)  
-of the elders / succession → in order of seniority  
-*`vuḍḍhānaṁ paṭipāṭi` ("the succession of the elders") becomes `yathāvuḍḍhaṁ`, the particle `yathā` ("according to") standing for `paṭipāṭi`: an `abyayībhāva`. The vutti also analyses it distributively, `ye ye vuḍḍhā` ("each elder in turn").*
-
-4. > jīvassa yattako paricchedo → **yāvajīvaṁ**
+3. > jīvassa yattako paricchedo → **yāvajīvaṁ**
 
 🚻⨀⑥(jīvassa) 🚹⨀①(yattako) 🚹⨀①(paricchedo) → 🚻⨀①🆎(yāva+jīva)  
 of life / however much / limit → as long as life lasts  
-*`jīvassa yattako paricchedo` ("whatever the limit of life") becomes `yāvajīvaṁ`, the particle `yāva` ("as long as") standing for `yattako paricchedo`: an `abyayībhāva`.*
+*`yāva` ("as long as") stands for `yattako paricchedo` ("whatever the limit"): an `abyayībhāva` {319} in `-aṁ` {341}.*
 
-5. > cittaṁ adhikicca pavattanti te dhammā → **adhicittaṁ**
-
-🚻⨀②(cittaṁ) 🔽(ya)(adhikicca) 🟢⨂🤟▶️(pavattanti) *️⃣🤟🚹⨂①(te) 🚹⨂①(dhammā) → 🚻⨀①🆎(adhi+citta)  
-the mind / with reference to / go on / those / states → with reference to the mind, the higher mind  
-*`cittaṁ adhikicca pavattanti te dhammā` ("the states that go on with reference to the mind") becomes `adhicittaṁ`, the prefix `adhi` ("concerning") standing for `adhikicca`: an `abyayībhāva`.*
-
-6. > pabbatassa tiro → **tiropabbataṁ**
+4. > pabbatassa tiro → **tiropabbataṁ**
 
 🚹⨀⑥(pabbatassa) ⏏️(tiro) → 🚻⨀①🆎(tiro+pabbata)  
 of the mountain / beyond → beyond the mountain  
-*`pabbatassa tiro` ("beyond the mountain") becomes `tiropabbataṁ`, with the particle `tiro` ("beyond") as its first member: an `abyayībhāva`.*
-
-7. > sotassa pati pavattati nāvā → **patisotaṁ**
-
-🚹⨀⑥(sotassa) 🔼(pati) 🟢⨀🤟▶️(pavattati) 🚺⨀①(nāvā) → 🚻⨀①🆎(pati+sota)  
-of the stream / against / moves / a boat → against the stream  
-*`sotassa pati pavattati nāvā` ("a boat that moves against the stream") becomes `patisotaṁ`, with the prefix `pati` ("against") as its first member: an `abyayībhāva`.*
-
-8. > pāsādassa anto → **antopāsādaṁ**
-
-🚹⨀⑥(pāsādassa) ⏏️(anto) → 🚻⨀①🆎(anto+pāsāda)  
-of the mansion / inside → inside the mansion  
-*`pāsādassa anto` ("inside the mansion") becomes `antopāsādaṁ`, with the particle `anto` ("inside") as its first member: an `abyayībhāva`.*
-
-### 4.2.2 It is neuter {320}
-
-* An `abyayībhāva` is to be regarded as neuter (🚻) only, whatever the gender
-  of its last member.
-
-The last members of the vutti's examples are all feminine nouns, `kumārī`
-("girl"), `vadhū` ("young wife"), `gaṅgā` ("the Ganges") and `maṇikā`
-("water-jar"), and the compounds are neuter all the same. Being neuter, the
-compound shortens its final vowel {342}, treated in 4.2.4, and then takes the
-ending `aṁ` {341} or drops its ending {343}, treated in 4.2.3 and 4.2.5.
-
-#### Example
-
-> gaṅgāya samīpe pavattati kathā → **upagaṅgaṁ**
-
-🚺⨀⑥(gaṅgāya) 🚻⨀⑦(samīpe) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(upa+gaṅgā)  
-of the Ganges / in the vicinity / goes on / talk → near the Ganges  
-*`gaṅgāya samīpe pavattati kathā` ("talk that goes on near the Ganges") becomes `upagaṅgaṁ`: `gaṅgā` is feminine, but the `abyayībhāva` is neuter, so its `ā` is shortened {342} and it takes the ending `aṁ` {341}.*
-
-#### Exercises
-
-1. adhikumāri
-2. upavadhu
-3. upamaṇikaṁ
-
-#### Answers
-
-*Note: please do the exercises first before checking the answers.*
-
-1. > kumārīsu adhikicca pavattati kathā → **adhikumāri**
-
-🚺⨂⑦(kumārīsu) 🔽(ya)(adhikicca) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(adhi+kumārī)  
-girls / with reference to / goes on / talk → concerning girls  
-*`kumārīsu adhikicca pavattati kathā` ("talk that goes on with reference to girls") becomes `adhikumāri`: the `abyayībhāva` is neuter, so the `ī` of `kumārī` is shortened {342} and the ending is elided {343}.*
-
-2. > vadhuyā samīpe pavattati kathā → **upavadhu**
-
-🚺⨀⑥(vadhuyā) 🚻⨀⑦(samīpe) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(upa+vadhū)  
-of the young wife / in the vicinity / goes on / talk → near the young wife  
-*`vadhuyā samīpe pavattati kathā` ("talk that goes on near the young wife") becomes `upavadhu`: the `abyayībhāva` is neuter, so the `ū` of `vadhū` is shortened {342} and the ending is elided {343}.*
-
-3. > maṇikāya samīpe pavattati kathā → **upamaṇikaṁ**
-
-🚺⨀⑥(maṇikāya) 🚻⨀⑦(samīpe) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(upa+maṇikā)  
-of the water-jar / in the vicinity / goes on / talk → near the water-jar  
-*`maṇikāya samīpe pavattati kathā` ("talk that goes on near the water-jar") becomes `upamaṇikaṁ`: the `abyayībhāva` is neuter, so the `ā` of `maṇikā` is shortened {342} and it takes the ending `aṁ` {341}.*
-
-### 4.2.3 `aṁ` for the inflections after an `abyayībhāva` in `a` {341}
-
-* After an `abyayībhāva` whose lemma ends in `a`, the `vibhatti` endings
-  sometimes (`kvaci`) become `aṁ`.
-* By saying `kvaci` ("sometimes") the rule admits the forms in which the ending
-  keeps its shape: `adhicittassa bhikkhuno` ("of a bhikkhu of higher mind").
-
-The word `kvaci` is not in the sutta; it is carried over from {337}. This rule
-is what makes the compound adverbial: whatever ending the sentence would call
-for, `upanagaraṁ` keeps the one form in `aṁ`. The compound takes a `vibhatti`
-ending like any other noun, and the rule replaces that ending by `aṁ`, as the
-derivation of `adhicittaṁ` shows:
-
-| | adhi + cittaṁ (citta + aṁ ②⨀) | rule |
-| --- | --- | :-: |
-| → | adhi + citta + ~~aṁ~~ | {317} |
-| → | adhicitta + si (①⨀) | |
-| → | adhicitta + ~~si~~(aṁ) | {320}, {341} |
-| → | **adhicittaṁ** | |
-
-#### Example
-
-> **adhicittaṁ**
-
-🚻⨀①🆎(adhi+citta)  
-with reference to the mind, the higher mind  
-*`adhicittaṁ` ("with reference to the mind", "the higher mind"), analysed in 4.2.1 as `cittaṁ adhikicca pavattanti te dhammā`, is an `abyayībhāva` in `a`: its ① ending `si` has become `aṁ`.*
-
-By saying `kvaci` ("sometimes") the rule leaves the ending its shape in:
-
-> adhicittassa bhikkhuno
-
-🚻⨀⑥🆎(adhi+citta) 🚹⨀⑥(bhikkhuno)  
-of the higher mind / of a bhikkhu  
-*Of a bhikkhu of higher mind: the ⑥ ending of `adhicitta` keeps its shape here instead of becoming `aṁ`.*
-
-The vutti's other examples, `yathāvuḍḍhaṁ`, `yāvajīvaṁ`, `tiropabbataṁ` and
-`antopāsādaṁ`, were resolved in 4.2.1.
-
-#### Exercises
-
-1. upakumbhaṁ
-2. tiropākāraṁ
-3. tirokuṭṭaṁ
-
-#### Answers
-
-*Note: please do the exercises first before checking the answers.*
-
-1. > **upakumbhaṁ**
-
-🚻⨀①🆎(upa+kumbha)  
-near the pot  
-*`upakumbhaṁ` ("near the pot") is the prefix `upa` ("near") with `kumbha` ("pot"): an `abyayībhāva` in `a`, so its ending has become `aṁ`.*
-
-2. > **tiropākāraṁ**
-
-🚻⨀①🆎(tiro+pākāra)  
-beyond the rampart  
-*`tiropākāraṁ` ("beyond the rampart") is the particle `tiro` ("beyond") with `pākāra` ("rampart"): an `abyayībhāva` in `a`, so its ending has become `aṁ`.*
-
-3. > **tirokuṭṭaṁ**
-
-🚻⨀①🆎(tiro+kuṭṭa)  
-beyond the wall  
-*`tirokuṭṭaṁ` ("beyond the wall") is the particle `tiro` ("beyond") with `kuṭṭa` ("wall"): an `abyayībhāva` in `a`, so its ending has become `aṁ`.*
-
-### 4.2.4 The final vowel is shortened in the neuter {342}
-
-* When an `abyayībhāva` is used in the neuter, the final vowel of its lemma
-  becomes short: `ī` → `i`, `ū` → `u`, `ā` → `a`.
-
-Since every `abyayībhāva` is neuter {320}, the shortening applies whenever the
-last member ends in a long vowel. The compound then takes the ending `aṁ`
-{341} if the shortened vowel is `a` (`upagaṅgaṁ`, `upamaṇikaṁ`) and drops its
-ending {343} if it is `i` or `u` (`adhikumāri`, `upavadhu`), as the derivation
-of `adhikumāri` shows:
-
-| | adhi + kumārīsu (kumārī + su ⑦⨂) | rule |
-| --- | --- | :-: |
-| → | adhi + kumārī + ~~su~~ | {317} |
-| → | adhikumār + ~~ī~~(i) | {320}, {342} |
-| → | adhikumāri + si (①⨀) | |
-| → | adhikumāri + ~~si~~ | {343} |
-| → | **adhikumāri** | |
-
-#### Example
-
-> kumārīsu adhikicca pavattati kathā → **adhikumāri**
-
-🚺⨂⑦(kumārīsu) 🔽(ya)(adhikicca) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(adhi+kumārī)  
-girls / with reference to / goes on / talk → concerning girls  
-*`kumārīsu adhikicca pavattati kathā` ("talk that goes on with reference to girls") becomes `adhikumāri`: the `ī` of `kumārī` is shortened to `i` in the neuter compound, and the ending is then elided {343}.*
-
-#### Exercises
-
-1. upavadhu
-2. upagaṅgaṁ
-3. upamaṇikaṁ
-
-#### Answers
-
-*Note: please do the exercises first before checking the answers.*
-
-1. > vadhuyā samīpe pavattati kathā → **upavadhu**
-
-🚺⨀⑥(vadhuyā) 🚻⨀⑦(samīpe) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(upa+vadhū)  
-of the young wife / in the vicinity / goes on / talk → near the young wife  
-*`vadhuyā samīpe pavattati kathā` ("talk that goes on near the young wife") becomes `upavadhu`: the `ū` of `vadhū` is shortened to `u` in the neuter compound, and the ending is then elided {343}.*
-
-2. > gaṅgāya samīpe pavattati kathā → **upagaṅgaṁ**
-
-🚺⨀⑥(gaṅgāya) 🚻⨀⑦(samīpe) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(upa+gaṅgā)  
-of the Ganges / in the vicinity / goes on / talk → near the Ganges  
-*`gaṅgāya samīpe pavattati kathā` ("talk that goes on near the Ganges") becomes `upagaṅgaṁ`: the `ā` of `gaṅgā` is shortened to `a` in the neuter compound, which then takes the ending `aṁ` {341}.*
-
-3. > maṇikāya samīpe pavattati kathā → **upamaṇikaṁ**
-
-🚺⨀⑥(maṇikāya) 🚻⨀⑦(samīpe) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(upa+maṇikā)  
-of the water-jar / in the vicinity / goes on / talk → near the water-jar  
-*`maṇikāya samīpe pavattati kathā` ("talk that goes on near the water-jar") becomes `upamaṇikaṁ`: the `ā` of `maṇikā` is shortened to `a` in the neuter compound, which then takes the ending `aṁ` {341}.*
-
-### 4.2.5 Elision of the inflections after any other `abyayībhāva` {343}
-
-* And after any other `abyayībhāva`, one whose lemma does not end in `a`, the
-  `vibhatti` endings are elided.
-
-The `ca` ("and") of the sutta joins this rule to {341}: an `abyayībhāva` in
-`a` takes `aṁ`, any other stands without an ending, its final vowel being the
-short one of {342}, as the derivation of `adhitthi` shows:
-
-| | adhi + itthīsu (itthī + su ⑦⨂) | rule |
-| --- | --- | :-: |
-| → | adhi + itthī + ~~su~~ | {317} |
-| → | adh~~i~~ + itthī | {12} |
-| → | adhitth + ~~ī~~(i) | {320}, {342} |
-| → | adhitthi + si (①⨀) | |
-| → | adhitthi + ~~si~~ | {343} |
-| → | **adhitthi** | |
-
-#### Example
-
-> itthīsu adhikicca pavattati kathā → **adhitthi**
-
-🚺⨂⑦(itthīsu) 🔽(ya)(adhikicca) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(adhi+itthī)  
-women / with reference to / goes on / talk → concerning women  
-*`itthīsu adhikicca pavattati kathā` ("talk that goes on with reference to women") becomes `adhitthi`: the `i` of `adhi` is elided before the `i` of `itthī` {12}, the `ī` is shortened {342}, and the ending is elided.*
-
-#### Exercises
-
-1. adhikumāri
-2. upavadhu
-
-#### Answers
-
-*Note: please do the exercises first before checking the answers.*
-
-1. > kumārīsu adhikicca pavattati kathā → **adhikumāri**
-
-🚺⨂⑦(kumārīsu) 🔽(ya)(adhikicca) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(adhi+kumārī)  
-girls / with reference to / goes on / talk → concerning girls  
-*`kumārīsu adhikicca pavattati kathā` ("talk that goes on with reference to girls") becomes `adhikumāri`: an `abyayībhāva` in `i`, so its ending is elided.*
-
-2. > vadhuyā samīpe pavattati kathā → **upavadhu**
-
-🚺⨀⑥(vadhuyā) 🚻⨀⑦(samīpe) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(upa+vadhū)  
-of the young wife / in the vicinity / goes on / talk → near the young wife  
-*`vadhuyā samīpe pavattati kathā` ("talk that goes on near the young wife") becomes `upavadhu`: an `abyayībhāva` in `u`, so its ending is elided.*
+*`tiro` ("beyond") comes first: an `abyayībhāva` {319} in `-aṁ` {341}.*
