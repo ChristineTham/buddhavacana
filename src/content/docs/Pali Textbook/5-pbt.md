@@ -1136,18 +1136,18 @@ In whatever way his body is orientated, in that way he knows clearly.
 
 3.3 Iti ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati.  
 🔼(iti) 🚻①⨀(ajjhatta) 🔼(vā) 🚹②⨂(kāya) 🚹②⨂(kāyānupassī) ▶️🤟⨀(viharati) 🚹①⨂(bahiddha) 🔼(vā) 🚹②⨂(kāya) 🚹 ②⨂(kāyānupassī) ▶️🤟⨀(viharati) 🚹①⨂(ajjhattabahiddha) 🔼(vā) 🚹②⨂(kāya) 🚹 ②⨂(kāyānupassī) ▶️🤟⨀(viharati)  
-like this | internally | or | bodies | observing the bodies | aware | externally | or | bodies | observing the bodies | aware | internal and external | or | bodies | observing the bodies | aware  
-In this way he is aware of observing the body internally, externally, internally and externally (together).
+like this | internally | or | bodies | observing the bodies | stays aware | externally | or | bodies | observing the bodies | stays aware | internal and external | or | bodies | observing the bodies | stays aware  
+In this way he stays aware, observing the body internally, externally, internally and externally (together).
 
 3.4 Samudayadhammānupassī vā kāyasmiṁ viharati, vayadhammānupassī vā kāyasmiṁ viharati, samudayavayadhammānupassī vā kāyasmiṁ viharati.  
 🚹①⨀(samudayadhammānupassī) 🔼(vā) 🚹⑦⨀(kāya) ▶️🤟⨀(viharati) 🚹①⨀(vayadhammānupassī) 🔼(vā) 🚹⑦⨀(kāya) ▶️🤟⨀(viharati) 🚹①⨀(samudayavayadhammānupassī) 🔼(vā) 🚹⑦⨀(kāya) ▶️🤟⨀(viharati)  
-contemplating the nature of arising | or | in physical processes | aware | contemplating the nature of disappearance | or | in physical processes | aware | contemplating the nature of arising and disappearance | or | in physical processes | aware  
-He is aware of contemplating the nature of arising, disappearance, arising and disappearing (together) of physical processes.
+contemplating the nature of arising | or | in physical processes | stays aware | contemplating the nature of disappearance | or | in physical processes | stays aware | contemplating the nature of arising and disappearance | or | in physical processes | stays aware  
+He stays aware, contemplating the nature of arising, disappearance, arising and disappearing (together) of physical processes.
 
 3.5 ‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.  
 ▶️🤟⨀(atthi) 🚹①⨀(kāya) 🔼(ti) 🔼(panassa) 🚺①⨀(sati) 🚹①⨂(paccupaṭṭhita) ▶️🤟⨀(hoti) 🔼(yāvadeva) 🚺③⨀(ñāṇamattā) 🚺③⨀(paṭissatimattā) 🚹①⨀(anissita) 🔼(ca) ▶️🤟⨀(viharati)  🔼(na ca) 🚹②⨀(kaci) 🚹②⨂(loka) ▶️🤟⨀(upādiyati)  
-there exists | physical body | quote | and for him | awareness | presence established | as far as | by measure of understanding | by measure of continuous awareness | independent of | and | aware | not | and | anything | world | cling  
-And for him awareness is established that “there is a body”, and he is independent and aware, just to the extent of understanding and continuous awareness, and he does not cling to anything in the world.
+there exists | physical body | quote | and for him | awareness | presence established | as far as | by measure of understanding | by measure of continuous awareness | independent of | and | stays aware | not | and | anything | world | cling  
+And for him awareness is established that “there is a body”, and he stays aware and independent, just to the extent of understanding and continuous awareness, and he does not cling to anything in the world.
 
 4.1 (Puna caparaṁ, bhikkhave, bhikkhu abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, uccārapassāvakamme sampajānakārī hoti), gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti.  
 🔼(puna) 🔼(caparaṃ) 🚹⓪⨂(bhikkhu) 🚹①⨀(bhikkhu) 🚹②⨂(abhikkanta) 🚹②⨂(paṭikkanta) 🚹①⨀(sampajānakārī) ▶️🤟⨀(hoti) 🚹②⨂(ālokita) 🚹②⨂(vilokita) 🚹①⨀(sampajānakārī) ▶️🤟⨀(hoti) 🚹②⨂(samiñjita) 🚹②⨂(pasārita) 🚹①⨀(sampajānakārī) ▶️🤟⨀(hoti) 🚻②⨂(saṅghāṭipattacīvaradhāraṇa) 🚹①⨀(sampajānakārī) ▶️🤟⨀(hoti) 🚹②⨂(asita) 🚹②⨂(pīta) 🚹②⨂(khāyita) 🚹②⨂(sāyita) 🚹①⨀(sampajānakārī) ▶️🤟⨀(hoti) 🚻②⨂(uccārapassāvakamma) 🚹①⨀(sampajānakārī) ▶️🤟⨀(hoti) 🚹②⨂(gata) 🚹②⨂(ṭhita) 🚹②⨂(nisinna) 🚹②⨂(sutta) 🚻②⨂(jāgarita) 🚻②⨂(bhāsita) 🚹②⨂(tuṇhībhāva) 🚹①⨀(sampajānakārī) ▶️🤟⨀(hoti)  
@@ -1160,7 +1160,7 @@ And what is more, bhikkhave, the bhikkhu is attentive to going forward, coming b
 
 1.11.52 Idhāvuso, bhikkhu mettāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
 🔼(idhāvuso) 🚹①⨀(bhikkhu) 🚹③⨀(mettāsahagata) 🚹③⨀(cetas) 🚺②⨀(eka) 🚺②⨀(disā) 🔼(pharitvā) ▶️🤟⨀(viharati)  
-here friend | bhikkhu | filled with goodwill/friendliness | with intent | one | direction | having filled | dwells  
+here friend | bhikkhu | filled with goodwill/friendliness | with intent | one | direction | having filled | stays aware  
 🔼(tathā) 🚻①⨀(dutiya)  
 similarly for the second direction  
 🔼(tathā) 🚻①⨀(tatiya)  
@@ -1168,12 +1168,12 @@ similarly for the third direction
 🔼(tathā) 🚻①⨀(catuttha)  
 similarly for the fourth direction  
 🔼(iti) 🔼(uddhamadho) 🔼(tiriyaṃ) 🔼(sabbadhi) 🔼(sabbattatāya) 🚹②⨀(loka) 🚹③⨀(mettāsahagata) 🚹③⨀(cetas) 🚹③⨀(vipula) 🚹③⨀(mahaggata) 🚹③⨀(appamāṇa) 🚹③⨀(avera) 🚹③⨀(abyāpajja) 🔼(pharitvā) ▶️🤟⨀(viharati)  
-like this | above and below | horizontally | everywhere | to all beings | universe | filled with goodwill/friendliness | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | dwells  
-Here, friend, a bhikkhu, with intent, dwells having filled an entire compass direction with goodwill/friendliness. Similarly in a second, third, fourth compass directions. Thus, with intent, he dwells having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, goodwill/friendliness.
+like this | above and below | horizontally | everywhere | to all beings | universe | filled with goodwill/friendliness | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | stays aware  
+Here, friend, a bhikkhu, with intent, stays aware having filled an entire compass direction with goodwill/friendliness. Similarly in a second, third, fourth compass directions. Thus, with intent, he stays aware having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, goodwill/friendliness.
 
 1.11.53 Karuṇāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ karuṇāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
 🚹③⨀(karuṇāsahagata) 🚹③⨀(cetas) 🚺②⨀(eka) 🚺②⨀(disā) 🔼(pharitvā) ▶️🤟⨀(viharati)  
-here friend | bhikkhu | filled with compassion/pity | with intent | one | direction | having filled | dwells  
+here friend | bhikkhu | filled with compassion/pity | with intent | one | direction | having filled | stays aware  
 🔼(tathā) 🚻①⨀(dutiya)  
 similarly for the second direction  
 🔼(tathā) 🚻①⨀(tatiya)  
@@ -1181,12 +1181,12 @@ similarly for the third direction
 🔼(tathā) 🚻①⨀(catuttha)  
 similarly for the fourth direction  
 🔼(iti) 🔼(uddhamadho) 🔼(tiriyaṃ) 🔼(sabbadhi) 🔼(sabbattatāya) 🚹②⨀(loka) 🚹③⨀(karuṇāsahagata) 🚹③⨀(cetas) 🚹③⨀(vipula) 🚹③⨀(mahaggata) 🚹③⨀(appamāṇa) 🚹③⨀(avera) 🚹③⨀(abyāpajja) 🔼(pharitvā) ▶️🤟⨀(viharati)  
-like this | above and below | horizontally | everywhere | to all beings | universe | filled with compassion/pity | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | dwells  
-Here, friend, a bhikkhu, with intent, dwells having filled an entire compass direction with compassion/pity. Similarly in a second, third, fourth compass directions. Thus, with intent, he dwells having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, compassion/pity.
+like this | above and below | horizontally | everywhere | to all beings | universe | filled with compassion/pity | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | stays aware  
+Here, friend, a bhikkhu, with intent, stays aware having filled an entire compass direction with compassion/pity. Similarly in a second, third, fourth compass directions. Thus, with intent, he stays aware having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, compassion/pity.
 
 1.11.54 muditāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ muditāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
 🚹③⨀(muditāsahagata) 🚹③⨀(cetas) 🚺②⨀(eka) 🚺②⨀(disā) 🔼(pharitvā) ▶️🤟⨀(viharati)  
-here friend | bhikkhu | filled with happiness for others | with intent | one | direction | having filled | dwells  
+here friend | bhikkhu | filled with happiness for others | with intent | one | direction | having filled | stays aware  
 🔼(tathā) 🚻①⨀(dutiya)  
 similarly for the second direction  
 🔼(tathā) 🚻①⨀(tatiya)  
@@ -1194,12 +1194,12 @@ similarly for the third direction
 🔼(tathā) 🚻①⨀(catuttha)  
 similarly for the fourth direction  
 🔼(iti) 🔼(uddhamadho) 🔼(tiriyaṃ) 🔼(sabbadhi) 🔼(sabbattatāya) 🚹②⨀(loka) 🚹③⨀(muditāsahagata) 🚹③⨀(cetas) 🚹③⨀(vipula) 🚹③⨀(mahaggata) 🚹③⨀(appamāṇa) 🚹③⨀(avera) 🚹③⨀(abyāpajja) 🔼(pharitvā) ▶️🤟⨀(viharati)  
-like this | above and below | horizontally | everywhere | to all beings | universe | filled with happiness for others | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | dwells  
-Here, friend, a bhikkhu, with intent, dwells having filled an entire compass direction with happiness for others. Similarly in a second, third, fourth compass directions. Thus, with intent, he dwells having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, happiness for others.
+like this | above and below | horizontally | everywhere | to all beings | universe | filled with happiness for others | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | stays aware  
+Here, friend, a bhikkhu, with intent, stays aware having filled an entire compass direction with happiness for others. Similarly in a second, third, fourth compass directions. Thus, with intent, he stays aware having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, happiness for others.
 
 1.11.55 upekkhāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
 🚹③⨀(upekkhāsahagata) 🚹③⨀(cetas) 🚺②⨀(eka) 🚺②⨀(disā) 🔼(pharitvā) ▶️🤟⨀(viharati)  
-here friend | bhikkhu | filled with balance/equanimity | with intent | one | direction | having filled | dwells  
+here friend | bhikkhu | filled with balance/equanimity | with intent | one | direction | having filled | stays aware  
 🔼(tathā) 🚻①⨀(dutiya)  
 similarly for the second direction  
 🔼(tathā) 🚻①⨀(tatiya)  
@@ -1207,8 +1207,8 @@ similarly for the third direction
 🔼(tathā) 🚻①⨀(catuttha)  
 similarly for the fourth direction  
 🔼(iti) 🔼(uddhamadho) 🔼(tiriyaṃ) 🔼(sabbadhi) 🔼(sabbattatāya) 🚹②⨀(loka) 🚹③⨀(upekkhāsahagata)) 🚹③⨀(cetas) 🚹③⨀(vipula) 🚹③⨀(mahaggata) 🚹③⨀(appamāṇa) 🚹③⨀(avera) 🚹③⨀(abyāpajja) 🔼(pharitvā) ▶️🤟⨀(viharati)  
-like this | above and below | horizontally | everywhere | to all beings | universe | filled with balance/equanimity | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | dwells  
-Here, friend, a bhikkhu, with intent, dwells having filled an entire compass direction with balance/equanimity. Similarly in a second, third, fourth compass directions. Thus, with intent, he dwells having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, balance/equanimity.
+like this | above and below | horizontally | everywhere | to all beings | universe | filled with balance/equanimity | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | stays aware  
+Here, friend, a bhikkhu, with intent, stays aware having filled an entire compass direction with balance/equanimity. Similarly in a second, third, fourth compass directions. Thus, with intent, he stays aware having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, balance/equanimity.
 
 ## 38. THE FIRST OF THE NINE LEVELS OF FOCUS
 
@@ -2056,7 +2056,7 @@ He is aware of:
 * observing the body internally, externally, internally and externally (together),
 * contemplating the nature of arising, disappearance, arising and disappearing (together) of physical processes.
 
-And for him awareness is established that “there is a body”, and he is independent and aware, just to the extent of understanding and continuous awareness, and he does not cling to anything in the world.
+And for him awareness is established that “there is a body”, and he stays aware and independent, just to the extent of understanding and continuous awareness, and he does not cling to anything in the world.
 
 The bhikkhu is attentive to:
 
@@ -2082,7 +2082,7 @@ The bhikkhu is attentive to:
 
 ### Irradiation Of Friendliness, Compassion, Happiness For Others, And Equanimity
 
-The bhikkhu, with intent, dwells having filled all compass directions, above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will:
+The bhikkhu, with intent, stays aware having filled all compass directions, above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will:
 
 * mettā (goodwill/friendliness)
 * karuṇā (compassion/pity)
