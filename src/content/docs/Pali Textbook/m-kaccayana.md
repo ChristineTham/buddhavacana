@@ -2,7 +2,7 @@
 title: "M: Overview of Kaccāyana"
 sidebar:
   label: "M: Kaccāyana"
-  order: 573
+  order: 575
 description: >
   An overview of Kaccāyana and interpretation guidelines
 categories: ["palibook"]

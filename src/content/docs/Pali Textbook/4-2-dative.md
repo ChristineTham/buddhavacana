@@ -121,19 +121,19 @@ a giver / [he] is / to an ascetic / or / to a brahmin / or
 
 2. > Dhammatā esā, bhikkhave, yaṁ pamuditassa pīti uppajjati.
 
-🚺①⨀(dhammatā) 🚺①⨀(eta) 🚹⓪⨂(bhikkhu) 🚻①⨀(ya) 🚹④⨀(pamudita) 🚺①⨀(pīti) ▶️🤟⨀(uppajjati)  
+🚺⨀①(dhammatā) 🚺⨀①(eta) 🚹⨂⓪(bhikkhu) 🚻⨀①(ya) 🚹⨀④(pamudita) 🚺⨀①(pīti) ▶️🤟⨀(uppajjati)  
 characteristic / this / bhikkhave / whoever / for joyous / delight / arises  
 *This characteristic, Bhikkhave, delight, arises for whoever is joyous.*
 
 3. > Sīlavato, bhikkhave, sīlasampannassa na cetanāya karaṇīyaṁ.
 
-🚹④⨀(sīlavant) 🚹⓪⨂(bhikkhu) 🚹④⨀(sīlasampanna) 🔼(no) 🚺③⨀(cetana) 🚻①⨀(karaṇīya)  
+🚹⨀④(sīlavant) 🚹⨂⓪(bhikkhu) 🚹⨀④(sīlasampanna) 🔼(no) 🚺⨀③(cetana) 🚻⨀①(karaṇīya)  
 for moral / bhikkhave / for accomplished in virtue / no / with intention / ought to be done  
 *Bhikkhave, for the moral and accomplished in virtue, nothing ought to be done with intention.*
 
 4. > uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya chandaṁ janeti
 
-🚹④⨂(uppanna) 🚹⑥⨂(pāpaka) 🚹⑥⨂(akusala) 🚹⑥⨂(dhamma) 🚻④⨀(pahāna) 🚹②⨀(chanda) ▶️🤟⨀(janeti)  
+🚹⨂④(uppanna) 🚹⨂⑥(pāpaka) 🚹⨂⑥(akusala) 🚹⨂⑥(dhamma) 🚻⨀④(pahāna) 🚹⨀②(chanda) ▶️🤟⨀(janeti)  
 for arising / of evil / of unwholesome / of characteristics / for giving up of / desire / generates  
 *He generates a desire for the giving up of the arising of evil and unwholesome characteristics.*
 

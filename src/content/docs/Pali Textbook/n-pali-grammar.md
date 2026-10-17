@@ -2,7 +2,7 @@
 title: "N: Pāḷi grammar (inflections) dictionary"
 sidebar:
   label: "N: Grammar Dictionary"
-  order: 574
+  order: 576
 description: >
   Pali Grammar dictionary for GoldenDict and MDict based on Digital Pali Dictionary
 ---

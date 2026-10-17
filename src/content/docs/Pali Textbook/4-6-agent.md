@@ -102,7 +102,7 @@ The agent `dhammā` is plural and in ①; the verb `pātubhavanti` agrees with i
 
 3. > Vuttaṁ kho panetaṁ bhagavatā kakacūpamovāde
 
-🚻①⨀(vutta) 🔼(kho) 🔼(panetaṁ) 🚹③⨀(bhagavant) 🚹⑦⨀(kakacūpamovāda)  
+🚻⨀①(vutta) 🔼(kho) 🔼(panetaṁ) 🚹⨀③(bhagavant) 🚹⨀⑦(kakacūpamovāda)  
 said / indeed / but this / by Bhagavant / exhortation with the simile of the saw  
 *But this is indeed said by the Bhagavant in the exhortation with the simile of the saw:*
 
@@ -110,7 +110,7 @@ said / indeed / but this / by Bhagavant / exhortation with the simile of the saw
 
 4. > Sabbo rāgo pahīno me
 
-🚹①⨀(sabba) 🚹①⨀(rāga) 🚹①⨀(pahīna) 👆③⨀(ahaṁ)  
+🚹⨀①(sabba) 🚹⨀①(rāga) 🚹⨀①(pahīna) *️⃣👆⚧⨀③(ahaṁ)  
 all / passion / abandoned / by me  
 *All passions abandoned by me,*
 

@@ -2,7 +2,7 @@
 title: "A: Symbols and Glossary of Pali technical terms"
 sidebar:
   label: "A: Symbols"
-  order: 561
+  order: 563
 description: >
   List of symbols used in this book and their meanings
 categories: ["palibook"]

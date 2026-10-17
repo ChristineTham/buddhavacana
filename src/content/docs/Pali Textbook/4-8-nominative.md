@@ -111,30 +111,30 @@ deconstruction.
 
 1. > Evaṁ, bhante.
 
-🔼(evaṁ) 🚹⓪⨀(bhavant)  
+🔼(evaṁ) 🚹⨀⓪(bhavant)  
 yes / Bhante  
 *Yes, Bhante.*
 
 2. > No hetaṁ, bhante.
 
-🔼(no hetaṁ) 🚹⓪⨀(bhavant)  
+🔼(no hetaṁ) 🚹⨀⓪(bhavant)  
 no / certainly / Bhante  
 *Certainly not, Bhante.*
 
 3. > Chayimā, bhikkhave, saññā—
 
-🔼(chayimā) 🚹⓪⨂(bhikkhu) 🚺①⨀(sañña)  
+🔼(chayimā) 🚹⨂⓪(bhikkhu) 🚺⨀①(sañña)  
 these six / bhikkhave / apperceptions  
 *Bhikkhave, these six sañña (apperceptions) -*
 
 4. > Tisso kho imā, āvuso visākha, vedanā—
 
-🚺①⨂(ti) 🔼(kho) 🚺①⨂(ima) 🔼(āvuso) 🚹⓪⨀(visākha) 🚺①⨀(vedanā)  
+🚺⨂①(ti) 🔼(kho) 🚺⨂①(ima) 🔼(āvuso) 🚹⨀⓪(visākha) 🚺⨀①(vedanā)  
 three / indeed / these / friend / Visākha / feelings  
 *There are indeed three types of vedanā (feelings), friend Visākha:*
 
 5. > Tayome, āvuso visākha, saṅkhārā—
 
-🔼(tayome) 🔼(āvuso) 🚹⓪⨀(visākha) 🚹①⨂(saṅkhāra)  
+🔼(tayome) 🔼(āvuso) 🚹⨀⓪(visākha) 🚹⨂①(saṅkhāra)  
 these three / friend / Visākha / mental constructions  
 *Friend Visākha, there are three types of “saṅkhārā” (mental constructions)*

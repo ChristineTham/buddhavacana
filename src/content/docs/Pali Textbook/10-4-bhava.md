@@ -2,7 +2,7 @@
 title: "10.4: The abstract state, and comparison"
 sidebar:
   label: "10.4: `bhāva`, `visesa`"
-  order: 555
+  order: 557
 description: >
   A noun in `-tā` or `-ttaṁ` names a state, "the state of being so":
   `dhammatā` ("nature"), `anodarikattaṁ` ("moderation in eating"). The affixes
@@ -157,18 +157,18 @@ of one not greedy for food / the state → moderation in eating
 
 6. > Yathā **aññataraṁ** bījaṁ
 
-🔼(yathā) 🚻①⨀(aññatara) 🚻①⨀(bīja)  
+🔼(yathā) 🚻⨀①(aññatara) 🚻⨀①(bīja)  
 like / a certain / seed  
 *`tara` {363}: `-tara` on `añña` (other) singles one out of several, "a certain one".*
 
 7. > **Katame** ca, bhikkhave, saṅkhārā?
 
-🚹①⨂(katama) 🔼(ca) 🚹⓪⨂(bhikkhu) 🚹①⨂(saṅkhāra)  
+🚹⨂①(katama) 🔼(ca) 🚹⨂⓪(bhikkhu) 🚹⨂①(saṅkhāra)  
 what / and / bhikkhave / mental constructions  
 *`tama` {363}: `-tama` on the question word `ka` (who? what?) asks "which of the many?".*
 
 8. > **anuttaraṁ** yogakkhemaṁ nibbānaṁ
 
-🚻①⨀(anuttara) 🚹②⨀(yogakkhema) 🚻①⨀(nibbāna)  
+🚻⨀①(anuttara) 🚹⨀②(yogakkhema) 🚻⨀①(nibbāna)  
 unsurpassed / sanctuary / extinguishment  
 *`tara` {363}: `ud` (up) with `-tara` is `uttaro` ("higher"); `an-` (not) in front, "with none higher".*

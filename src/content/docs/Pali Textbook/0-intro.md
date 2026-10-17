@@ -104,13 +104,26 @@ The reader is encouraged to develop their own vocabulary based on the material
 they choose to read, and therefore they only need to learn the words that are
 important to them.
 
-After the initial overview of the Pāḷi language, the textbook alternates between
-diving deeper into aspects of the Pāḷi language and exercises involving
-reading, understanding and translating extracts from the `Tipiṭaka`. The
-reader need not follow the textbook linearly, but may tackle chapters in
-their own order of preference, or embark on their own
-reading journey and read whatever parts of the `Tipiṭaka` they wish to,
-using the textbook merely as a reference and light guidance.
+So the book has a simple shape. Chapter 1 is the overview: it covers every
+key feature of the Pāḷi language, and a reader who has worked through it can
+start reading `sutta`s. The chapters after it are optional, and deepen what
+chapter 1 introduces. They alternate between grammar and texts. Each grammar
+chapter takes one part of the language, the nouns and their endings, what an
+ending says a noun is doing in a sentence, compounds, verbs, words derived
+from other words, with the information taken from my translation of
+Kaccāyana; every rule number in braces, `{104}`, links to the rule itself on
+[kaccayana.github.io](https://kaccayana.github.io). After each grammar
+chapter comes an interlinear translation, a text read word by word with its
+analysis beneath every sentence, that uses what the chapter taught: the
+Buddha's own account of his awakening, then the first three discourses, on
+setting the wheel of the Dhamma in motion, on not-self, and on burning, which
+made the first `arahant`s. The examples and exercises in the grammar chapters
+are taken from these interlinear translations and link back to the sentence
+they come from, so the reader can move between the grammar and the texts in
+either direction, and need not follow the book linearly. The book ends with
+an interlinear translation of the core teachings, the selection of short
+passages from Rune Johansson's *Pali Buddhist Texts*, and with reference
+appendices that table all of Kaccāyana's rules.
 
 ## Prerequisites
 

@@ -2,7 +2,7 @@
 title: "10.8: The `uṇādi` words worth knowing"
 sidebar:
   label: "10.8: `uṇādi` words"
-  order: 559
+  order: 561
 description: >
   The `uṇādi` affixes that each form a few words from named roots {627}–{634},
   {638}, {643}–{649}, {656}–{673}: a look-up table of the words the texts use.

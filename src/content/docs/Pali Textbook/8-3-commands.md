@@ -2,7 +2,7 @@
 title: "8.3: Commands and wishes"
 sidebar:
   label: "8.3: Commands and wishes"
-  order: 545
+  order: 546
 description: >
   The two sets of verb endings that state no time: the `pañcamī`, for a
   command or a blessing (`hotu`, "may it be"), and the `sattamī`, for what
@@ -102,25 +102,25 @@ All from chapter [9](../11-pbt/); the numbers name its selection and sentence.
 
 > ‘kāyo me **passambhatū**’ti.
 
-🚹①⨀(kāya) 👆⑥⨀(ahaṁ) ⏹🤟⨀(passambhati) 🔼(ti)  
+🚹⨀①(kāya) *️⃣👆⚧⨀⑥(ahaṁ) ⏹🤟⨀(passambhati) 🔼(ti)  
 physical body / of me / must calm down / quote  
 *"May my body calm down." (18, 1.11) `passambhatu`: ⏹ `-tu`, third person ⨀ {424}; a wish {415}. The `-tū` before `’ti` is `-tu` lengthened at the join ([Appendix E](../e-sandhi/)).*
 
 > ‘yathābhūtaṁ **jānāmi passāmī**’ti.
 
-🚹②⨀(yathābhūta) ⏹👆⨀(jānāti) ⏹👆⨀(passati) 🔼(ti)  
+🚹⨀②(yathābhūta) ⏹👆⨀(jānāti) ⏹👆⨀(passati) 🔼(ti)  
 reality as it is / must know / must see  
 *"May I see and know reality as it is." (18, 1.20) `jānāmi`, `passāmi`: `-mi`, first person ⨀, the present's ending and the `pañcamī`'s alike {424}; a wish, so ⏹ {415}; `jānāti passati` in the next sentence is a statement, ▶️.*
 
 > “Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā evaṁ **vadeyyātha**—
 
-🔼(apinu) 🤘①⨂(tvaṁ) 🚹⓪⨂(bhikkhu) 🔼(evaṁ) 🚹①⨂(jānanta) 🔼(evaṁ) 🚹①⨂(passanta) ⏯🤘⨂(vadati)  
+🔼(apinu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) 🔼(evaṁ) 🚹⨂①(jānanta) 🔼(evaṁ) 🚹⨂①(passanta) ⏯🤘⨂(vadati)  
 are? / youse / bhikkhave / thus / knowing / thus / seeing / will say  
 *"Thus knowing and thus seeing, bhikkhave, will you say -" (1, 24.4) `vadeyyātha`: ⏯ `-eyyātha`, second person ⨂ {425}; a supposition, "would you say" {416}.*
 
 > khattiyamahāsālānaṁ sahabyataṁ **upapajjeyyan**’ti.
 
-🚹⑥⨂(khattiyamahāsāla) 🚺①⨀(sahabyatā) 🔵⏯👆⨀(upapajjati) 🔼(ti)  
+🚹⨂⑥(khattiyamahāsāla) 🚺⨀①(sahabyatā) 🔵⏯👆⨀(upapajjati) 🔼(ti)  
 (for) wealthy man of the ruling caste / company of / should reborn  
 *"I should be reborn in company of wealthy men of the ruling caste" (24, 3.3) `upapajjeyyaṁ`: ⏯ `-eyyaṁ`, the 🔵 first person ⨀ {425}, a wish for oneself; the `-n’ti` is `-ṁ` before `ti` ([Appendix E](../e-sandhi/)).*
 
@@ -152,48 +152,48 @@ deconstruction.
 
 1. > ‘avippaṭisāro me **uppajjatū**’ti.
 
-🚹①⨀(avippaṭisāra) 👆⑥⨀(ahaṁ) ⏹🤟⨀(uppajjati) 🔼(ti)  
+🚹⨀①(avippaṭisāra) *️⃣👆⚧⨀⑥(ahaṁ) ⏹🤟⨀(uppajjati) 🔼(ti)  
 non-regret / of me / must arise / quote  
 *"May no regrets arise of me." (18, 1.2) `uppajjatu`: ⏹ `-tu`, third person ⨀ {424}; a wish {415}.*
 
 2. > Kāmaṁ dāni imasmiṁ kāye pāṇisamphassāpi **kamantu**,
 
-🚻①⨀(kāma) 🔼(dāni) 🚹⑦⨀(ima) 🚹⑦⨀(kāya) 🚹②⨀(pāṇisamphassa) 🔼(api) ⏹🤟⨂(kamati)  
+🚻⨀①(kāma) 🔼(dāni) 🚹⨀⑦(ima) 🚹⨀⑦(kāya) 🚹⨀②(pāṇisamphassa) 🔼(api) ⏹🤟⨂(kamati)  
 certainly / now / in this / in body / slap / even / must occur  
 *"And now certainly, even when hit by hands … in the body" (45, 9.8) `kamantu`: ⏹ `-ntu`, third person ⨂ {424}; "let them come", a command that concedes {415}.*
 
 3. > ‘sukhaṁ **vediyāmī**’ti.
 
-🚺②⨀(sukha) ⏹👆⨀(vediyati) 🔼(ti)  
+🚺⨀②(sukha) ⏹👆⨀(vediyati) 🔼(ti)  
 happiness / must experience / quote  
 *"May I experience happiness." (18, 1.14) `vediyāmi`: ⏹ `-mi`, first person ⨀ {424}; a wish {415}, though the ending is the present's too.*
 
 4. > tatrāpi yo mano **padūseyya**
 
-🔼(tatrāpi) 🚹①⨀(ya) 🚹②⨀(manas) ⏯🤟⨀(padūseti)  
+🔼(tatrāpi) 🚹⨀①(ya) 🚹⨀②(manas) ⏯🤟⨀(padūseti)  
 even in that situation / whoever / mind / will corrupt  
 *"even in that case whoever will corrupt his mind" (45, 9.6) `padūseyya`: ⏯ `-eyya`, third person ⨀ {425}; a supposition {416}. The `-e-` before the ending is the causative's piece ([8.6](../8-6-voice/)).*
 
 5. > kakacena corā ocarakā aṅgamaṅgāni **okanteyyuṁ**,
 
-🚹③⨀(kakaca) 🚹①⨂(cora) 🚹①⨂(ocaraka) 🚻②⨂(aṅgamaṅgāni) ⏯🤟⨂(okantati)  
+🚹⨀③(kakaca) 🚹⨂①(cora) 🚹⨂①(ocaraka) 🚻⨂②(aṅgamaṅgāni) ⏯🤟⨂(okantati)  
 with saw / robbers / lowlife / all the limbs / cut off  
 *"even if lowlife robbers cut off all the limbs with a doubled handled saw" (45, 9.6) `okanteyyuṁ`: ⏯ `-eyyuṁ`, third person ⨂ {425}; an "if" is a supposition {416}.*
 
 6. > aññaṁ satthāraṁ **uddiseyyāthā**”ti?
 
-🚹②⨀(añña) 🚹②⨀(satthar) ⏯🤘⨂(uddisati)  
+🚹⨀②(añña) 🚹⨀②(satthar) ⏯🤘⨂(uddisati)  
 another / teacher / appoint  
 *"will you appoint another teacher?" (1, 24.10) `uddiseyyātha`: ⏯ `-eyyātha`, second person ⨂ {425}; "would you", a supposition {416}; the `-ā` before `”ti` is the join.*
 
 7. > agārasmā anagāriyaṁ **pabbajeyyan**”ti.
 
-🚻⑤⨀(agāra) 🚻②⨀(anagāriya) 🔵⏯👆⨀(pabbajati) 🔼(ti)  
+🚻⨀⑤(agāra) 🚻⨀②(anagāriya) 🔵⏯👆⨀(pabbajati) 🔼(ti)  
 from household life / to homeless state / renounce / quote  
 *"What if I were to renounce from household life to homeless state" (26, 12.8) `pabbajeyyaṁ`: ⏯ `-eyyaṁ`, the 🔵 first person ⨀ {425}; a wish for oneself, after `yannūnāhaṁ` ("what if I").*
 
 8. > api nu kho kāmabhavo **paññāyethā**”ti?
 
-🔼(apinu kho) 🚹①⨀(kāmabhava) 🔵⏯🤟⨀(paññāyati) 🔼(ti)  
+🔼(apinu kho) 🚹⨀①(kāmabhava) 🔵⏯🤟⨀(paññāyati) 🔼(ti)  
 what / indeed / desire for becoming / is evident / quote  
 *"would desire for becoming be evident?" (15, 2.1) `paññāyetha`: ⏯ `-etha`, the 🔵 third person ⨀ {425}, on a passive, `-ya-` ([8.6](../8-6-voice/)); a supposition {416}.*

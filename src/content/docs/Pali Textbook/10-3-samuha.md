@@ -2,7 +2,7 @@
 title: "10.3: A collection, an occasion, a likeness, a dependence, an abundance"
 sidebar:
   label: "10.3: `samūha` and others"
-  order: 554
+  order: 556
 description: >
   A noun with an affix that adds a sense to it: a collection of what it names,
   `janatā` ("the people") {354}–{355}; an occasion of it, `madaniyaṁ`

@@ -2,7 +2,7 @@
 title: "E: `sandhi` Rules"
 sidebar:
   label: "E: `sandhi`"
-  order: 565
+  order: 567
 description: >
   `sandhi` rules from Kaccāyana {12}-{51}
 categories: ["palibook"]

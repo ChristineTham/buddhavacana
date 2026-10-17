@@ -13,6 +13,10 @@ tags: ["kāraka"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
+:::note[How this chapter fits]
+Chapter 1 gave the typical meanings of the endings in one table; this chapter deepens that table, with the uses from my translation of Kaccāyana's Kārakakappa. Its examples and exercises are sentences from the texts of chapters 3, 5, 7, 9 and 11. The text that follows it is chapter 5, the first discourse.
+:::
+
 `kāraka` means the "cause" or "participants" of actions, and the relationship
 between various words in a Pali sentence. The following are descriptions of
 various `kāraka` categories, and the typical `vibhatti` endings that are

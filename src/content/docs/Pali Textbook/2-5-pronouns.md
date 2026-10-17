@@ -213,7 +213,7 @@ but when / and / indeed / my / bhikkhave
 
 8. > Tassa te saṅkhārā ca vihārā ca.
 
-🚹⑥⨀(ta) 🚹①⨂(ta) 🚹①⨂(saṅkhāra) 🔼(ca) 🚹①⨂(vihāra) 🔼(ca)  
+🚹⨀⑥(ta) 🚹⨂①(ta) 🚹⨂①(saṅkhāra) 🔼(ca) 🚹⨂①(vihāra) 🔼(ca)  
 of that / those / mental constructions / and / state of mind / and  
 *Regarding that, those mental constructions and state of mind …*  
 `tassa`, `ta` ⑥⨀ 🚹 {61}, stands for the bhikkhu of the sentence before; `te`, `ta` ①⨂ 🚹 {164}, agrees with `saṅkhārā` and `vihārā`.

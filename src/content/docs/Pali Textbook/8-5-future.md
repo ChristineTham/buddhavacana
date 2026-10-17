@@ -2,7 +2,7 @@
 title: "8.5: The future and the conditional"
 sidebar:
   label: "8.5: The future"
-  order: 547
+  order: 548
 description: >
   A verb with `ssa` before its ending says what will happen: the `bhavissanti`
   endings `-ssati`, `-ssanti`, `-ssāmi` … {421}, {429}, with an `i` before the
@@ -77,7 +77,7 @@ sits on a lemma; `passati` ("sees") is a present: no `i`.
 
 > Āraddhaṁ kho pana me vīriyaṁ **bhavissati** asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṁ cittaṁ ekaggaṁ.
 
-🚻①⨀(āraddha) 🔼(kho pana) 👆③⨀(ahaṁ) 🚻①⨀(vīriya) ⏭🤟⨀(bhavati) 🚻①⨀(asallīna) 🚹①⨂(upaṭṭhita) 🚺①⨀(sati) 🚹①⨂(asammuṭṭha) 🚹①⨀(passaddha) 🚹①⨀(kāya) 🚹①⨀(asāraddha) 🚻①⨀(samāhita) 🚻①⨀(citta) 🚻①⨀(ekagga)  
+🚻⨀①(āraddha) 🔼(kho pana) *️⃣👆⚧⨀③(ahaṁ) 🚻⨀①(vīriya) ⏭🤟⨀(bhavati) 🚻⨀①(asallīna) 🚹⨂①(upaṭṭhita) 🚺⨀①(sati) 🚹⨂①(asammuṭṭha) 🚹⨀①(passaddha) 🚹⨀①(kāya) 🚹⨀①(asāraddha) 🚻⨀①(samāhita) 🚻⨀①(citta) 🚻⨀①(ekagga)  
 applied / and now /  with me /  determination / will become / active / presence / awareness / unmuddled / tranquility / body / unagitated / composed / mind / focused  
 *`bhavissati`, "will become": `-ssati`, the future, third person singular {429}; `bhū` for `asa` {507}.*
 
@@ -89,7 +89,7 @@ they / will go / will do
 
 > No cetaṁ, bhikkhave, **abhavissa** ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ, nayidha jātassa bhūtassa katassa saṅkhatassa nissaraṇaṁ paññāyetha.
 
-🔼(no) 🔼(cetaṁ) 🚹⓪⨂(bhikkhu) 🔀🤟⨀(abhavissa) 🚻①⨀(ajāta) 🚻①⨀(abhūta) 🚻①⨀(akata) 🚻①⨀(asaṅkhata) 🔼(nayidha) 🚹⑥⨀(jāta) 🚹⑥⨀(bhūta) 🚹⑥⨀(kata) 🚹⑥⨀(saṅkhata) 🚻①⨀(nissaraṇa) 🔵⏯🤟⨀(paññāyati)  
+🔼(no) 🔼(cetaṁ) 🚹⨂⓪(bhikkhu) 🔀🤟⨀(abhavissa) 🚻⨀①(ajāta) 🚻⨀①(abhūta) 🚻⨀①(akata) 🚻⨀①(asaṅkhata) 🔼(nayidha) 🚹⨀⑥(jāta) 🚹⨀⑥(bhūta) 🚹⨀⑥(kata) 🚹⨀⑥(saṅkhata) 🚻⨀①(nissaraṇa) 🔵⏯🤟⨀(paññāyati)  
 surely? / if this / Bhikkhave / could have been / not born / not become / not made / not formed / wouldn't be here / of born / of becoming / of made / of formed / way out of / will be clearly known  
 *`abhavissa`, "could have been": the conditional, third person singular, `a-` {519}, `-ssa` for `-ssā` {430}, after `no ce`.*
 
@@ -124,7 +124,7 @@ deconstruction.
 
 1. > “Kāmadhātuvepakkañca, ānanda, kammaṁ **nābhavissa**, api nu kho kāmabhavo paññāyethā”ti?
 
-🚻①⨀(kāmadhātuvepakka) 🔼(ca) 🚹⓪⨀(ānanda) 🚻①⨀(kamma) 🔀🤟⨀(nābhavissa) 🔼(apinu kho) 🚹①⨀(kāmabhava) 🔵⏯🤟⨀(paññāyati) 🔼(ti)  
+🚻⨀①(kāmadhātuvepakka) 🔼(ca) 🚹⨀⓪(ānanda) 🚻⨀①(kamma) 🔀🤟⨀(nābhavissa) 🔼(apinu kho) 🚹⨀①(kāmabhava) 🔵⏯🤟⨀(paññāyati) 🔼(ti)  
 ripening in the realm of sensual desire / Ānanda / volitional action / would not exist / what / indeed / desire for becoming / is evident / quote  
 *`nābhavissa` = `na` + `abhavissa`, "would not exist": the conditional, third person singular, `a-` {519}, `-ssa` {430}.*
 

@@ -128,30 +128,30 @@ with ignorance as condition / mental constructions
 
 2. > upādānanirodhā bhavanirodho
 
-🚹⑤⨀(upādānanirodha) 🚹①⨀(bhavanirodha)  
+🚹⨀⑤(upādānanirodha) 🚹⨀①(bhavanirodha)  
 from cessation of fuel / cessation of becoming  
 *From cessation of fuel, cessation of becoming.*
 
 3. > Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan”ti
 
-🔼(yannūnāhaṁ) 🚻②⨀(kesamassu) 🔼(ohāretvā) 🚻②⨂(kāsāya) 🚻②⨂(vattha) 🔼(acchādetvā) 🚻⑤⨀(agāra) 🚻②⨀(anagāriya) 🔵⏯👆⨀(pabbajati) 🔼(ti)  
+🔼(yannūnāhaṁ) 🚻⨀②(kesamassu) 🔼(ohāretvā) 🚻⨂②(kāsāya) 🚻⨂②(vattha) 🔼(acchādetvā) 🚻⨀⑤(agāra) 🚻⨀②(anagāriya) 🔵⏯👆⨀(pabbajati) 🔼(ti)  
 what if I were to / hair and beard / having shaved off / ochre / robe / having put on / from household life / to homeless state / renounce / quote  
 *What if I were to renounce from household life to homeless state, having shaved off hair and beard, and having put on ochre robe.*
 
 4. > So tehi dhammehi cittaṁ paṭivāpeti
 
-🚹①⨀(ta) 🚹⑤⨂(ta) 🚹⑤⨂(dhamma) 🚻①⨀(citta) ▶️🤟⨀(paṭivāpeti)  
+🚹⨀①(ta) 🚹⨂⑤(ta) 🚹⨂⑤(dhamma) 🚻⨀①(citta) ▶️🤟⨀(paṭivāpeti)  
 that / from those / from processes / mind / pulls back  
 *That, the mind pulls back from those processes.*
 
 5. > Pāṇātipātā veramaṇī adinnādānā veramaṇī kāmesumicchācārā veramaṇī
 
-🚹⑤⨀(pāṇātipāta) 🚺①⨀(veramaṇī) 🚻⑤⨀(adinnādāna) 🚺①⨀(veramaṇī) 🚹⑤⨀(kāmesumicchācāra) 🚺①⨀(veramaṇī)  
+🚹⨀⑤(pāṇātipāta) 🚺⨀①(veramaṇī) 🚻⨀⑤(adinnādāna) 🚺⨀①(veramaṇī) 🚹⨀⑤(kāmesumicchācāra) 🚺⨀①(veramaṇī)  
 from killing living beings / abstinence from / from theft / abstinence from / from sexual misconduct / abstinence from  
 *Abstinence from killing living beings, abstinence from theft, abstinence from sexual misconduct.*
 
 6. > So vivicceva kāmehi, vivicca akusalehi dhammehi, savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati
 
-🚹①⨀(ta) 🔼(vivicceva) 🚹⑤⨂(kāma) 🔼(vivicca) 🚹⑤⨂(akusala) 🚹⑤⨂(dhamma) 🚹②⨀(savitakka) 🚹②⨀(savicāra) 🚹②⨀(vivekaja) 🚹②⨀(pītisukha) 🚹②⨀(paṭhama) 🚹②⨀(jhāna) 🔼(upasampajja) ▶️🤟⨀(viharati)  
+🚹⨀①(ta) 🔼(vivicceva) 🚹⨂⑤(kāma) 🔼(vivicca) 🚹⨂⑤(akusala) 🚹⨂⑤(dhamma) 🚹⨀②(savitakka) 🚹⨀②(savicāra) 🚹⨀②(vivekaja) 🚹⨀②(pītisukha) 🚹⨀②(paṭhama) 🚹⨀②(jhāna) 🔼(upasampajja) ▶️🤟⨀(viharati)  
 that / just secluding oneself from / sensual pleasures / detaching from / unskillful / behaviour / accompanied by reflection / with consideration / secluded from defilements / with felicity and satisfaction / first / jhāna / entering / remains in  
 *Secluding oneself from sensual pleasures, detaching from unskillful behaviour, one enters and remains in the first jhāna, accompanied by reflection and consideration, secluded from defilements, with felicity and satisfaction.*

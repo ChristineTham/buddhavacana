@@ -259,6 +259,10 @@ attention to his words simply because of the different order.
 
 ## `dhātu` (roots)
 
+:::tip[Going deeper]
+Chapter [8](../8-0-akhyata/) reads the verbs these roots make, and [Appendix D](../d-roots/) tables the roots by class.
+:::
+
 Fundamentally, most lemmas in Pāḷi are said to be derived from one or more `dhātu`
 (roots). These roots are similar to Sanskrit roots. Pāḷi can be regarded as
 a simplified version of Sanskrit, however some of the roots may have different
@@ -307,6 +311,10 @@ various prefixes and affixes will allow the reader to sometimes (not always)
 when applying the various transformation rules (see below).
 
 ## `nāmā` (nouns) {52}
+
+:::tip[Going deeper]
+Chapter [2](../2-0-nama/) tables the endings of every kind of noun, and chapter [4](../4-0-karaka/) what each ending says a noun is doing in the sentence.
+:::
 
 `nāmā` are the most common type of words in Pāḷi, and roughly (but not exactly)
 correspond to the term "noun" in English. `nāmā` also means "name", so these
@@ -599,6 +607,10 @@ In plural:
 
 ### *️⃣ `sabbanāma` (pronouns)
 
+:::tip[Going deeper]
+Section [2.5](../2-5-pronouns/) tables the pronouns and the adverbs made from them.
+:::
+
 `sabba` means "all" so `sabbanāma` are "common" or "generic" nouns that can
 apply in "all' situations.
 
@@ -622,6 +634,10 @@ Examples:
 | `katama` | what | `katamesaṁ` (of which ones) | `katamesānaṁ` (of which ones) |
 
 ## ⏏️ `nipāta` (particles)
+
+:::tip[Going deeper]
+Section [2.8](../2-8-nipata/) groups the particles by what they do, with an example of each from the texts.
+:::
 
 `nipāta` means "to fall. i.e. to be placed anywhere", and refer to words
 that can be found placed in the beginning, in the middle or at the end of
@@ -695,6 +711,10 @@ However, there are quite a few `nipāta` that can be placed before some verbs or
 
 ## 🔼 `upasagga` (prefixes)
 
+:::tip[Going deeper]
+Section [2.7](../2-7-upasagga/) lists the twenty prefixes with what they do to a word and how they change at the join.
+:::
+
 There are 20 `upasagga` which are usually applied as prefixes to
 `ākhyāta` (verbs) and `kita`-affixed nouns (see below). Like `nipāta`,
 `upasagga` also have their `vibhatti` endings elided, but in some cases
@@ -742,6 +762,10 @@ together with various `upasagga` prefixes and the `ṇa`-suffix:
 
 ## 🆎 `samāsa` (compound nouns) {316}-{343}
 
+:::tip[Going deeper]
+Chapter [6](../6-0-samasa/) sorts the compounds into their six kinds and shows how to split them.
+:::
+
 Like German, Pāḷi often combines many nouns to form a compound noun.
 
 The following table summarises the major types of compound nouns, typical
@@ -780,6 +804,10 @@ learn the complex rules associated with them.
 :::
 
 ## ➡️ `taddhita` (affixes) {344}-{405}
+
+:::tip[Going deeper]
+Chapter [10](../10-0-derived/) treats the affixes by the sense they carry, with the ones the texts use most first.
+:::
 
 Various affixes can be added to a noun to create derived nouns and adjectives.
 
@@ -917,6 +945,10 @@ These are often used as a substitute or replacement for case endings
 
 ## `ākhyāta` (verbs) {406}-{523}
 
+:::tip[Going deeper]
+Chapter [8](../8-0-akhyata/) reads a verb from its ending inward: the eight sets of endings, the classes, the voices and the common verbs.
+:::
+
 Like nouns, verbs also have `vibhatti` endings affixed to them when used in
 sentences, but the endings are different from those of nouns. These endings
 depend on:
@@ -959,11 +991,11 @@ will be described later in this chapter.
 | | ⨀ | ⨂ | ⨀ | ⨂ | ⨀ | ⨂ | ⨀ | ⨂ | ⨀ | ⨂ | ⨀ | ⨂ |
 | ▶️ | `ti` | `anti` | `si` | `tha` | `mi` | `ma` | `te` | `ante` | `se` | `vhe` | `e` | `mhe` |
 | ⏹ | `tu` | `antu` | `hi` | `tha` | `mi` | `ma` | `taṁ` | `antaṁ` | `ssu` | `vho` | `e` | `āmase` |
-| ⏯ | `eyya` | `eyyuṁ` | `eyyāsi` | `eyyātha` | `eyyāmi` | `eyyāma` | `etha` | `eraṁ` | `etho` | `eyyāvho` | `eyaṁ` | `eyaṁhe` |
+| ⏯ | `eyya` | `eyyuṁ` | `eyyāsi` | `eyyātha` | `eyyāmi` | `eyyāma` | `etha` | `eraṁ` | `etho` | `eyyāvho` | `eyyaṁ` | `eyyāmhe` |
 | 🔄 | `a` | `u` | `e` | `ttha` | `aṁ` | `mha` | `ttha` | `re` | `ttho` | `vho` | `iṁ` | `mhe` |
 | ↩️ | `ā` | `ū` | `o` | `ttha` | `aṁ` | `mhā` | `ttha` | `tthuṁ` | `se` | `vhaṁ` | `iṁ` | `mhase` |
 | ⏮ | `ī` | `uṁ` | `o` | `ttha` | `iṁ` | `mhā` | `ā` | `ū` | `se` | `vhaṁ` | `aṁ` | `mhe` |
-| ⏭ | `ssati` | `ssanti` | `ssasi` | `ssatha` | `ssaṁi` | `ssāma` | `ssate` | `ssante` | `ssase` | `ssavhe` | `ssaṁ` | `ssāmhe` |
+| ⏭ | `ssati` | `ssanti` | `ssasi` | `ssatha` | `ssāmi` | `ssāma` | `ssate` | `ssante` | `ssase` | `ssavhe` | `ssaṁ` | `ssāmhe` |
 | 🔀 | `ssā` | `ssaṁsu` | `sse` | `ssatha` | `ssaṁ` | `ssāmha` | `ssatha` | `ssiṁsu` | `ssase` | `ssavhe` | `ssaṁ` | `ssāmhase` |
 
 Here is an example of the root `gamu` (to go) with all the verb endings applied.
@@ -1491,6 +1523,10 @@ carry), `duha` (to milk), then there can be three objects.
 
 ## 🔽 `kibbidhāna` (`kita`-affixed nouns) {524}-{623}
 
+:::tip[Going deeper]
+Section [8.8](../8-8-verb-like-forms/) treats the participles, absolutives and infinitives that carry most of a sentence.
+:::
+
 These are derivative nouns which are verbs transformed into "verb nouns" through
 the addition of suffixes.
 
@@ -1585,6 +1621,10 @@ recognise the affix and associated meaning if you can.
 :::
 
 ## ⏬ `uṇādi` (`uṇādi`-affixed nouns) {624}-{673}
+
+:::tip[Going deeper]
+Sections [10.7](../10-7-sadhana/) and [10.8](../10-8-unadi-words/) treat the `uṇādi` affixes and the words worth knowing.
+:::
 
 These are also derivative nouns that can behave like verbs or auxiliary verbs or
 future participles.
@@ -1685,6 +1725,10 @@ and can sometimes have no significant role.
 | `adhikaraṇa` | `ṭhānaṁ` | the place (**where** people stand) | {548} | `tiṭṭhanti tasmin’ti` |
 
 ## `sandhi` (word transformations)
+
+:::tip[Going deeper]
+Section [2.1](../2-1-sandhi/) tables the joins a reader meets on every line and how to undo them.
+:::
 
 As Pāḷi is a spoken language, when words are combined to form a sentence,
 changes may occur between words (or sometimes even within a word) to make

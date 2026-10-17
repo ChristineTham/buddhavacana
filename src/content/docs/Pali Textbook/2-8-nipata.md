@@ -123,7 +123,7 @@ this / suffering / realisation / thus
 
 > “No hetaṁ, bhante”.
 
-🔼(no hetaṁ) 🚹⓪⨀(bhavant)  
+🔼(no hetaṁ) 🚹⨀⓪(bhavant)  
 no / certainly / Bhante  
 *`no` denies; `hetaṁ` is `hi` + `etaṁ` {12}; `bhante` addresses a senior.*
 
@@ -195,6 +195,6 @@ the sun / like / illuminating / the sky / (end quote)
 
 8. > Kiṁ nu sattoti paccesi,
 
-🚻①⨀(ka) 🔼(nu) 🚹①⨀(satta) 🔼(iti) ▶️🤘⨀(pacceti)  
+🚻⨀①(ka) 🔼(nu) 🚹⨀①(satta) 🔼(iti) ▶️🤘⨀(pacceti)  
 what / ? / being / like this / you believes to be  
 *`nu` asks; `sattoti` is `satto` + `iti` {13}, quoting; chapter 11 marks particles 🔼.*

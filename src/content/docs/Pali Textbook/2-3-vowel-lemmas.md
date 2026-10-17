@@ -183,21 +183,21 @@ of the Nimmānaratī / devas / the cry / having heard
 
 6. > paccattaṁ veditabbena **viññūhi**
 
-🚻①⨀(paccatta) 🚹③⨀(veditabba) 🚹③⨂(viññū)  
+🚻⨀①(paccatta) 🚹⨀③(veditabba) 🚹⨂③(viññū)  
 personal / by should be experienced / by intelligent  
 *should be personally experienced by those who are intelligent*  
 *`viññūhi`: masculine `viññū`, `-ūhi`, the ③ plural {89}, the doers of `veditabbena`.*
 
 7. > bhikkhu **pītiyā** ca virāgā upekkhako ca viharati
 
-🚹①⨀(bhikkhu) 🚺③⨀(pīti) 🔼(ca) 🚹③⨀(virāga) 🚹①⨀(upekkhaka) 🔼(ca) ▶️🤟⨀(viharati)  
+🚹⨀①(bhikkhu) 🚺⨀③(pīti) 🔼(ca) 🚹⨀③(virāga) 🚹⨀①(upekkhaka) 🔼(ca) ▶️🤟⨀(viharati)  
 bhikkhu / with felicity / and / with detachment / mentally balanced, equanimous / and / continues in  
 *a bhikkhu, with the detachment from felicity, … remains mentally balanced*  
 *`pītiyā`: feminine `pīti`, `-iyā` {112}, here ③ beside `virāgā`; `bhikkhu`: `-u`, the ① singular {220}.*
 
 8. > Tañce, āvuso, **bhikkhuṁ** pare aniṭṭhehi akantehi amanāpehi samudācaranti—
 
-🔼(tañce) 🔼(āvuso) 🚹②⨀(bhikkhu) 🚹①⨂(para) 🚹③⨂(aniṭṭha) 🚹③⨂(akanta) 🚹③⨂(amanāpa) ▶️🤟⨂(samudācarati)  
+🔼(tañce) 🔼(āvuso) 🚹⨀②(bhikkhu) 🚹⨂①(para) 🚹⨂③(aniṭṭha) 🚹⨂③(akanta) 🚹⨂③(amanāpa) ▶️🤟⨂(samudācarati)  
 if that / friend / bhikkhu / others / with unpleasant / disagreeable / dislikeable / behave  
 *Friend, if others behave with unpleasantness, disagreeableness, dislikeableness to that bhikkhu -*  
 *`bhikkhuṁ`: masculine, `-uṁ`, the ② singular {82}; `taṁ` in `tañce` agrees with it.*

@@ -106,7 +106,7 @@ deconstruction.
 
 1. > “Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā **aññaṁ satthāraṁ** uddiseyyāthā”ti?
 
-🔼(apinu) 🤘①⨂(tvaṁ) 🚹⓪⨂(bhikkhu) 🔼(evaṁ) 🚹①⨂(jānanta) 🔼(evaṁ) 🚹①⨂(passanta) 🚹②⨀(añña) 🚹②⨀(satthar) ⏯🤘⨂(uddisati)  
+🔼(apinu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) 🔼(evaṁ) 🚹⨂①(jānanta) 🔼(evaṁ) 🚹⨂①(passanta) 🚹⨀②(añña) 🚹⨀②(satthar) ⏯🤘⨂(uddisati)  
 are? / youse / bhikkhave / thus / knowing / thus / seeing / another / teacher / appoint  
 *Thus knowing and thus seeing, bhikkhave, will you appoint another teacher?*
 
@@ -114,7 +114,7 @@ are? / youse / bhikkhave / thus / knowing / thus / seeing / another / teacher / 
 
 2. > Usukārā namayanti **tejanaṁ**; **dāruṁ** namayanti tacchakā, **attānaṁ** damayanti paṇḍitā.
 
-🚹①⨂(usukāra) ▶️🤟⨂(namayati) 🚻②⨀(tejana) 🚻②⨀(dāru) ▶️🤟⨂(namayati) 🚹①⨂(tacchaka) 🚹②⨀(atta) ▶️🤟⨂(damayati) 🚹①⨂(paṇḍita)  
+🚹⨂①(usukāra) ▶️🤟⨂(namayati) 🚻⨀②(tejana) 🚻⨀②(dāru) ▶️🤟⨂(namayati) 🚹⨂①(tacchaka) 🚹⨀②(atta) ▶️🤟⨂(damayati) 🚹⨂①(paṇḍita)  
 arrow-maker / straighten / arrow / wood / straighten / carpenters / self / tames / the wise  
 *Arrow makers straighten arrow; carpenters straighten wood, the wise tames the self.*
 
@@ -122,7 +122,7 @@ arrow-maker / straighten / arrow / wood / straighten / carpenters / self / tames
 
 3. > ‘**vimuttiñāṇadassanaṁ** sacchikaromī’ti.
 
-🚻②⨀(vimuttiñāṇadassana) ⏹👆⨀(sacchikaroti) 🔼(ti)  
+🚻⨀②(vimuttiñāṇadassana) ⏹👆⨀(sacchikaroti) 🔼(ti)  
 understanding and insight into liberation / must personally realises / quote  
 *“May I personally realise understanding and insight into liberation.”*
 
@@ -130,7 +130,7 @@ understanding and insight into liberation / must personally realises / quote
 
 4. > Yannūnāhaṁ **kesamassuṁ** ohāretvā **kāsāyāni vatthāni** acchādetvā agārasmā **anagāriyaṁ** pabbajeyyan”ti.
 
-🔼(yannūnāhaṁ) 🚻②⨀(kesamassu) 🔼(ohāretvā) 🚻②⨂(kāsāya) 🚻②⨂(vattha) 🔼(acchādetvā) 🚻⑤⨀(agāra) 🚻②⨀(anagāriya) 🔵⏯👆⨀(pabbajati) 🔼(ti)  
+🔼(yannūnāhaṁ) 🚻⨀②(kesamassu) 🔼(ohāretvā) 🚻⨂②(kāsāya) 🚻⨂②(vattha) 🔼(acchādetvā) 🚻⨀⑤(agāra) 🚻⨀②(anagāriya) 🔵⏯👆⨀(pabbajati) 🔼(ti)  
 what if I were to / hair and beard / having shaved off / ochre / robe / having put on / from household life / to homeless state / renounce / quote  
 *What if I were to renounce from household life to homeless state, having shaved off hair and beard, and having put on ochre robe.*
 

@@ -106,7 +106,7 @@ two / these / bhikkhave / extremes / by one gone forth / not / should be cultiva
 
 > Tisso kho imā, āvuso visākha, vedanā—
 
-🚺①⨂(ti) 🔼(kho) 🚺①⨂(ima) 🔼(āvuso) 🚹⓪⨀(visākha) 🚺①⨀(vedanā)  
+🚺⨂①(ti) 🔼(kho) 🚺⨂①(ima) 🔼(āvuso) 🚹⨀⓪(visākha) 🚺⨀①(vedanā)  
 three / indeed / these / friend / Visākha / feelings  
 *`tisso`: the feminine ①⨂ of `ti` {133}, agreeing with `vedanā`; `tayo` with a masculine noun, `tīṇi` with a neuter.*
 
@@ -166,7 +166,7 @@ of the group of five / bhikkhū
 
 4. > satta vassāni cārihaṁ;
 
-⚧①⨂(satta) 🚻①⨂(vassa) 🚻①⨀(cārī) 👆①⨀(ahaṁ)  
+⚧⨂①(satta) 🚻⨂①(vassa) 🚻⨀①(cārī) *️⃣👆⚧⨀①(ahaṁ)  
 seven / years / wandered / I  
 *`satta`: ①⨂ {134}, "seven", not `sattā` ("beings"); `vassāni` is the 🚻①⨂ it counts.*
 
@@ -178,7 +178,7 @@ with three phases / with twelve aspects
 
 6. > tatiyaṁ jhānaṁ
 
-🚻①⨀(tatiya) 🚹②⨀(jhāna)  
+🚻⨀①(tatiya) 🚹⨀②(jhāna)  
 third / jhāna  
 *`tatiyaṁ`: the ordinal `-tiya` {385} with `ta` for `ti` {386}, agreeing with `jhānaṁ`.*
 

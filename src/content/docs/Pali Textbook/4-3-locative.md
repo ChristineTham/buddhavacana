@@ -119,14 +119,14 @@ then / indeed / the Bhagavā / at the root of the bodhi tree / for seven days / 
 
 2. > Yathā aññataraṁ bījaṁ, khette vuttaṁ virūhati.
 
-🔼(yathā) 🚻①⨀(aññatara) 🚻①⨀(bīja) 🚻⑦⨀(khetta) 🚻①⨀(vutta) ▶️🤟⨀(virūhati)  
+🔼(yathā) 🚻⨀①(aññatara) 🚻⨀①(bīja) 🚻⨀⑦(khetta) 🚻⨀①(vutta) ▶️🤟⨀(virūhati)  
 like / a certain / seed / in field / sown / grows  
 *Like a certain seed, sown in field, grows.*  
 `khette`: the place {302}.
 
 3. > Tāhaṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhiṁ.
 
-🔼(tāhaṁ) 🚹②⨀(dhamma) 🔼(sutvā) 🚹⑦⨀(tathāgata) 🚻①⨀(saddha) ⏮👆⨀(paṭilabhi)  
+🔼(tāhaṁ) 🚹⨀②(dhamma) 🔼(sutvā) 🚹⨀⑦(tathāgata) 🚻⨀①(saddha) ⏮👆⨀(paṭilabhi)  
 that I / Dhamma / having heard / in Tathāgata / faith / I acquired  
 *Having heard that Dhamma, I acquired faith in the Tathāgata.*  
 `tathāgate`: what the faith rests on {302}.
@@ -140,14 +140,14 @@ then / indeed / the Bhagavā / this / matter / having understood / at that / tim
 
 5. > Evaṁ khandhesu santesu, hoti sattoti sammuti.
 
-🔼(evaṁ) 🚹⑦⨂(khandha) 🚹⑦⨂(santa) ▶️🤟⨀(hoti) 🚹①⨀(satta) 🔼(iti) 🚺①⨀(sammuti)  
+🔼(evaṁ) 🚹⨂⑦(khandha) 🚹⨂⑦(santa) ▶️🤟⨀(hoti) 🚹⨀①(satta) 🔼(iti) 🚺⨀①(sammuti)  
 thus / in collections / existence / is / being / like this / general consensus  
 *Thus in the collection of the `khandhā`, is generally regarded as a “being.”*  
 `khandhesu santesu`: the ⑦ absolute {313}; `santesu` agrees with its noun.
 
 6. > Sabbesu dhammesu samohatesu, samūhatā vādapathāpi sabbe”ti.
 
-🚹⑦⨂(sabba) 🚹⑦⨂(dhamma) 🚹⑦⨂(samūhata) 🚹①⨂(samūhata) 🚹⑤⨀(vādapatha) 🔼(api) 🚹①⨂(sabba) 🔼(ti)  
+🚹⨂⑦(sabba) 🚹⨂⑦(dhamma) 🚹⨂⑦(samūhata) 🚹⨂①(samūhata) 🚹⨀⑤(vādapatha) 🔼(api) 🚹⨂①(sabba) 🔼(ti)  
 in every / in characteristic / in eradicating / eradicated / from representation / even / all / quote  
 *In eradicating every characteristic, all eradicated from even representation.*  
 `sabbesu dhammesu samohatesu`: the ⑦ absolute {313}, with a `-ta` word.

@@ -2,7 +2,7 @@
 title: "8.2: The present"
 sidebar:
   label: "8.2: `vattamānā`"
-  order: 544
+  order: 545
 description: >
   The present (`vattamānā`): the endings `-ti`, `-nti`, `-si`, `-tha`, `-mi`,
   `-ma` that show the person and the number {414}, {423}, and the piece each
@@ -90,13 +90,13 @@ when / indeed / appear / phenomena
 
 > Mahāpurisavihārena kira tvaṁ, sāriputta, etarahi bahulaṁ **viharasi**.
 
-🚹③⨀(mahāpurisavihāra) 🔼(kira) 🤘①⨀(tvaṁ) 🚹⓪⨀(sāriputta) 🔼(etarahi) 🚻①⨀(bahula) ▶️🤘⨀(viharati)  
+🚹⨀③(mahāpurisavihāra) 🔼(kira) *️⃣🤘⚧⨀①(tvaṁ) 🚹⨀⓪(sāriputta) 🔼(etarahi) 🚻⨀①(bahula) ▶️🤘⨀(viharati)  
 with internal dwelling of an illustrious being / truly / you / Sāriputta / now / often / dwells in  
 *"Truly, Sāriputta, lately you often dwell in the internal dwelling of an illustrious being." `viharasi`: `-si`, second person singular {423}, with `tvaṁ` and the ⓪ `sāriputta`.*
 
 > bhikkhu gacchanto vā ‘**gacchāmī**’ti **pajānāti**
 
-🚹①⨀(bhikkhu) 🚹①⨀(gacchanta) 🔼(vā) ▶️👆⨀(gacchati) 🔼(ti) ▶️🤟⨀(pajānāti)  
+🚹⨀①(bhikkhu) 🚹⨀①(gacchanta) 🔼(vā) ▶️👆⨀(gacchati) 🔼(ti) ▶️🤟⨀(pajānāti)  
 bhikkhu / walking / or / I walk / quote / knows clearly  
 *"A bhikkhu when walking knows clearly 'I am walking'." `gacchāmi`: `-mi`, first person singular, after a lengthened `a` {478}, on `gaccha`, the shape of `gamu` {476}. `pajānāti`: `-ti` after `nā`, `kī` class {449}; `pa` + `jā`, the root `ñā` {470}.*
 
@@ -124,7 +124,7 @@ deconstruction.
 
 1. > Kittāvatā nu kho, bhante, bhavo **hotī**”ti?
 
-🔼(kittāvatā) 🔼(nu kho) 🚹⓪⨀(bhavant) 🚹①⨀(bhava) ▶️🤟⨀(hoti) 🔼(ti)  
+🔼(kittāvatā) 🔼(nu kho) 🚹⨀⓪(bhavant) 🚹⨀①(bhava) ▶️🤟⨀(hoti) 🔼(ti)  
 In what way / ? / indeed / Bhante / “bhava” / is / quote  
 *"What is the nature of 'bhava,' Bhante?" `hoti`: `-ti`, third person singular, on the root `hū` itself, the piece dropped {510}.*
 
@@ -142,18 +142,18 @@ scattering / stands / the army of Māra
 
 4. > Cakkhuñca paṭicca rūpe ca **uppajjati** cakkhuviññāṇaṁ.
 
-🚻①⨀(cakkhu) 🔼(ca) 🔼(paṭicca) 🚻⑦⨀(rūpa) 🔼(ca) ▶️🤟⨀(uppajjati) 🚻①⨀(cakkhuviññāṇa)  
+🚻⨀①(cakkhu) 🔼(ca) 🔼(paṭicca) 🚻⨀⑦(rūpa) 🔼(ca) ▶️🤟⨀(uppajjati) 🚻⨀①(cakkhuviññāṇa)  
 faculty of seeing / and / dependent on / on form / and / arises / visual-consciousness  
 *"Visual consciousness (`cakkhuviññāṇa`) arises dependent on `rūpa` (form) and the faculty of seeing." `uppajjati`: `-jj-` before `-ati`, `ya` of the `divu` class fused with the root `pada` (to go) {447}.*
 
 5. > Yo yoniso **payuñjati**,
 
-🚹①⨀(ya) 🔼(yoniso) ▶️🤟⨀(payuñjati)  
+🚹⨀①(ya) 🔼(yoniso) ▶️🤟⨀(payuñjati)  
 whoever / properly / applies  
 *"Whoever applies [himself] properly." `payuñjati`: `-ñj-` before `-ati`, the `rudha` class, `ṁ` put into the root {446}, written `ñ` before `j` {31}; root `yuja` (to yoke).*
 
 6. > Atthaṁ **paleti** na upeti saṅkhaṁ;
 
-🚻①⨀(attha) ▶️🤟⨀(paleti) 🔼(na) ▶️🤟⨀(upeti) 🚺②⨀(saṅkhā)  
+🚻⨀①(attha) ▶️🤟⨀(paleti) 🔼(na) ▶️🤟⨀(upeti) 🚺⨀②(saṅkhā)  
 essence / runs away / no / approaches / definition  
 *"The essence runs away and approaches eluding definition." `paleti`: `-ti` after `-e-`, `ṇe` of the `cura` class, its `ṇ` dropped {452}, {523}; root `palā` (to run away). `upeti` beside it is `upa` + the root `i` (to go), not `cura`.*

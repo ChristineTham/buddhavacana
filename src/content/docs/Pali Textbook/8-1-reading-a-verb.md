@@ -2,7 +2,7 @@
 title: "8.1: Reading a verb"
 sidebar:
   label: "8.1: Reading a verb"
-  order: 543
+  order: 544
 description: >
   A verb form is a root, the piece its class adds and an ending, and the
   ending says when, who and how many: the eight sets of endings and their
@@ -164,13 +164,13 @@ one / time / the Bhagavā / at Bārāṇasī / dwells / at Isipatana / in the De
 
 > ‘avippaṭisāro me **uppajjatū**’ti.
 
-🚹①⨀(avippaṭisāra) 👆⑥⨀(ahaṁ) ⏹🤟⨀(uppajjati) 🔼(ti)  
+🚹⨀①(avippaṭisāra) *️⃣👆⚧⨀⑥(ahaṁ) ⏹🤟⨀(uppajjati) 🔼(ti)  
 non-regret / of me / must arise / quote  
 *"May no regrets arise of me." (chapter 11, selection 18, 1.2) `uppajjatu`: `-tu`, `pañcamī` ⏹, third person singular {424}; a wish {415}; the `-tū` before `’ti` is the join ([2.1](../2-1-sandhi/)).*
 
 > “Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā evaṁ **vadeyyātha**—
 
-🔼(apinu) 🤘①⨂(tvaṁ) 🚹⓪⨂(bhikkhu) 🔼(evaṁ) 🚹①⨂(jānanta) 🔼(evaṁ) 🚹①⨂(passanta) ⏯🤘⨂(vadati)  
+🔼(apinu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) 🔼(evaṁ) 🚹⨂①(jānanta) 🔼(evaṁ) 🚹⨂①(passanta) ⏯🤘⨂(vadati)  
 are? / youse / bhikkhave / thus / knowing / thus / seeing / will say  
 *"Thus knowing and thus seeing, bhikkhave, will you say -" (chapter 11, selection 1, 24.4) `vadeyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, the subject `tumhe` {411}; "would you say", a supposition {416}.*
 
@@ -182,13 +182,13 @@ knowledge / and / moreover / for me / insight / arose
 
 > Āraddhaṁ kho pana me vīriyaṁ **bhavissati** asallīnaṁ,
 
-🚻①⨀(āraddha) 🔼(kho pana) 👆③⨀(ahaṁ) 🚻①⨀(vīriya) ⏭🤟⨀(bhavati) 🚻①⨀(asallīna)  
+🚻⨀①(āraddha) 🔼(kho pana) *️⃣👆⚧⨀③(ahaṁ) 🚻⨀①(vīriya) ⏭🤟⨀(bhavati) 🚻⨀①(asallīna)  
 applied / and now / with me / determination / will become / active  
 *"And now applied with me there will be active determination" (chapter 11, selection 45, 9.7) `bhavissati`: `-ssati`, `bhavissantī` ⏭, third person singular {429}; the `i` before `ssa` is the insertion every future takes {516}, `bhav-i-ssati`.*
 
 > No cetaṁ, bhikkhave, **abhavissa** ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ,
 
-🔼(no) 🔼(cetaṁ) 🚹⓪⨂(bhikkhu) 🔀🤟⨀(abhavissa) 🚻①⨀(ajāta) 🚻①⨀(abhūta) 🚻①⨀(akata) 🚻①⨀(asaṅkhata)  
+🔼(no) 🔼(cetaṁ) 🚹⨂⓪(bhikkhu) 🔀🤟⨀(abhavissa) 🚻⨀①(ajāta) 🚻⨀①(abhūta) 🚻⨀①(akata) 🚻⨀①(asaṅkhata)  
 surely? / if this / Bhikkhave / could have been / not born / not become / not made / not formed  
 *"Surely if this could have been, Bhikkhave, …" (chapter 11, selection 50, 3.2) `abhavissa`: the `a` put before the root {519} and the ending `-ssā` {430}, here short {517}; `kālātipatti` 🔀, third person singular, "if it had not been"; the sentence goes on with `paññāyetha`, the `attanopada` `-etha` of the `sattamī` {425}, 🔵.*
 
@@ -232,7 +232,7 @@ when / indeed / appear / phenomena
 
 3. > Tāhaṁ dhammaṁ sutvā tathāgate saddhaṁ **paṭilabhiṁ**.
 
-🔼(tāhaṁ) 🚹②⨀(dhamma) 🔼(sutvā) 🚹⑦⨀(tathāgata) 🚻①⨀(saddha) ⏮👆⨀(paṭilabhi)  
+🔼(tāhaṁ) 🚹⨀②(dhamma) 🔼(sutvā) 🚹⨀⑦(tathāgata) 🚻⨀①(saddha) ⏮👆⨀(paṭilabhi)  
 that I / Dhamma / having heard / in Tathāgata / faith / I acquired  
 *"Having heard that Dhamma, I acquired faith in the Tathāgata." (chapter 11, selection 26, 12.4) `paṭilabhiṁ`: `-iṁ`, `ajjatanī` ⏮, first person singular {428}; the subject `ahaṁ` is inside `tāhaṁ` {412}.*
 
@@ -250,13 +250,13 @@ delighted / of the group of five / bhikkhū / of the Bhagavā / what was spoken 
 
 6. > Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā aññaṁ satthāraṁ **uddiseyyāthā**”ti?
 
-🔼(apinu) 🤘①⨂(tvaṁ) 🚹⓪⨂(bhikkhu) 🔼(evaṁ) 🚹①⨂(jānanta) 🔼(evaṁ) 🚹①⨂(passanta) 🚹②⨀(añña) 🚹②⨀(satthar) ⏯🤘⨂(uddisati)  
+🔼(apinu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) 🔼(evaṁ) 🚹⨂①(jānanta) 🔼(evaṁ) 🚹⨂①(passanta) 🚹⨀②(añña) 🚹⨀②(satthar) ⏯🤘⨂(uddisati)  
 are? / youse / bhikkhave / thus / knowing / thus / seeing / another / teacher / appoint  
 *"Thus knowing and thus seeing, bhikkhave, will you appoint another teacher?" (chapter 11, selection 1, 24.10) `uddiseyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, "would you appoint"; the `-ā` before `”ti` is the join.*
 
 7. > ‘kāyo me **passambhatū**’ti.
 
-🚹①⨀(kāya) 👆⑥⨀(ahaṁ) ⏹🤟⨀(passambhati) 🔼(ti)  
+🚹⨀①(kāya) *️⃣👆⚧⨀⑥(ahaṁ) ⏹🤟⨀(passambhati) 🔼(ti)  
 physical body / of me / must calm down / quote  
 *"May my body calm down." (chapter 11, selection 18, 1.11) `passambhatu`: `-tu`, `pañcamī` ⏹, third person singular {424}; a wish {415}.*
 

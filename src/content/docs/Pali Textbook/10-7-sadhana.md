@@ -2,7 +2,7 @@
 title: "10.7: `uṇādi` affixes: the agent, the action and the purpose"
 sidebar:
   label: "10.7: `uṇādi` senses"
-  order: 558
+  order: 560
 description: >
   A noun built on a verb's root carries one of a few senses: the doer
   (`kārako` "a doer", `satthā` "the teacher"), the act (`ñāṇaṁ` "knowing",

@@ -2,7 +2,7 @@
 title: "8.4: The past"
 sidebar:
   label: "8.4: The past"
-  order: 546
+  order: 547
 description: >
   Nearly every verb of chapters 3 and 4 is in the past: `nisīdi` ("sat down"),
   `udapādi` ("arose"), `āmantesi` ("addressed"), `avoca` ("said"), `ahosi`
@@ -122,14 +122,14 @@ deconstruction.
 
 1. > atha cittaṁ vimucci me”ti.
 
-🔼(atha) 🚻①⨀(citta) ⏮🤟⨀(vimucci) 👆⑥⨀(ahaṁ) 🔼(ti)  
+🔼(atha) 🚻⨀①(citta) ⏮🤟⨀(vimucci) *️⃣👆⚧⨀⑥(ahaṁ) 🔼(ti)  
 then / mind / was liberated / of me / quote  
 *Then my mind was liberated.*  
 `vimucci`: `-i` third person singular {428}; no `a`.
 
 2. > Ñāṇañca pana me dassanaṁ udapādi:
 
-🚻①⨀(ñāṇa) 🔼(ca pana) 👆⑥⨀(ahaṁ)🚻①⨀(dassana) ⏮🤟⨀(udapādi)  
+🚻⨀①(ñāṇa) 🔼(ca pana) *️⃣👆⚧⨀⑥(ahaṁ)🚻⨀①(dassana) ⏮🤟⨀(udapādi)  
 Having insight / and / moreover / for me realisation / arose  
 *Having insight, the realisation arose for me:*  
 `udapādi`: `-i` third person singular {428}; the `a` between prefix and root {519}.
@@ -150,14 +150,14 @@ thus / indeed / this / of the venerable / Koṇḍañña / Aññāsikoṇḍañ�
 
 5. > Tassa me tathāgato vā tathāgatasāvako vā dhammaṁ desesi.
 
-🚹⑥⨀(ta) 👆②⨀(ahaṁ) 🚹①⨀(tathāgata) 🔼(vā) 🚹①⨀(tathāgatasāvaka) 🔼(vā) 🚹②⨀(dhamma) ⏮🤟⨀(desesi)  
+🚹⨀⑥(ta) *️⃣👆⚧⨀②(ahaṁ) 🚹⨀①(tathāgata) 🔼(vā) 🚹⨀①(tathāgatasāvaka) 🔼(vā) 🚹⨀②(dhamma) ⏮🤟⨀(desesi)  
 of that / me / Tathāgata / or / disciple of the Buddha / or / Dhamma / taught  
 *Because of that, the Tathāgata and his disciples taught the Dhamma to me.*  
 `desesi`: `-esi` third person singular {428}, a causative's `e` {438} and `s` {491}.
 
 6. > Tāhaṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhiṁ.
 
-🔼(tāhaṁ) 🚹②⨀(dhamma) 🔼(sutvā) 🚹⑦⨀(tathāgata) 🚻①⨀(saddha) ⏮👆⨀(paṭilabhi)  
+🔼(tāhaṁ) 🚹⨀②(dhamma) 🔼(sutvā) 🚹⨀⑦(tathāgata) 🚻⨀①(saddha) ⏮👆⨀(paṭilabhi)  
 that I / Dhamma / having heard / in Tathāgata / faith / I acquired  
 *Having heard that Dhamma, I acquired faith in the Tathāgata.*  
 `paṭilabhiṁ`: `-iṁ` first person singular {428}; the prefix `pati`, no `a`; `sutvā` is an absolutive.

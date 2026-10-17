@@ -13,6 +13,10 @@ tags: ["nāma", "sandhi", "sabbanāma", "saṅkhyā", "upasagga", "nipāta"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
+:::note[How this chapter fits]
+Chapter 1 introduced nouns, pronouns, numbers, prefixes and particles in a few pages each; this chapter deepens them, with the forms from my translation of Kaccāyana's Nāmakappa and Sandhikappa. Its examples and exercises are sentences from the texts of chapters 3, 5, 7, 9 and 11. The text that follows it is chapter 3, the Buddha's account of his awakening.
+:::
+
 Chapter 1 set out the parts of a Pāḷi sentence. This chapter is about the words
 that carry endings, the nouns (`nāma`), and the words that stand beside them
 without changing: the pronouns and their relatives (`sabbanāma`), the numbers

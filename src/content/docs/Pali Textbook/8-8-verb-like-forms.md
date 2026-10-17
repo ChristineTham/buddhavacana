@@ -2,7 +2,7 @@
 title: "8.8: The verb-like forms"
 sidebar:
   label: "8.8: Verb-like forms"
-  order: 550
+  order: 551
 description: >
   The words that do a verb's work without a verb's ending: the past and
   present participles {555}–{557}, {565}, the "to be done" forms {540}–{541},
@@ -189,12 +189,12 @@ surpassing / of the devas / divine majesty
 
 6. > bhikkhu **gacchanto** vā ‘gacchāmī’ti pajānāti
 
-🚹①⨀(bhikkhu) 🚹①⨀(gacchanta) 🔼(vā) ▶️👆⨀(gacchati) 🔼(ti) ▶️🤟⨀(pajānāti)  
+🚹⨀①(bhikkhu) 🚹⨀①(gacchanta) 🔼(vā) ▶️👆⨀(gacchati) 🔼(ti) ▶️🤟⨀(pajānāti)  
 bhikkhu / walking / or / I walk / quote / knows clearly  
 *`gacchanto`: the present participle, `anta` {565}, "while walking", agreeing with `bhikkhu` 🚹①⨀; the sentence continues with the past participles `ṭhito` {588} and `nisinno` {582}.*
 
 7. > brahmacariyaṁ **carituṁ**
 
-🚻①⨀(brahmacariya) 🔼(carituṁ)  
+🚻⨀①(brahmacariya) 🔼(carituṁ)  
 spiritual path / to live  
 *`carituṁ`: the infinitive, `tuṁ` with the `i` put in {605}, after the sentence's `sukaraṁ`, "easy", a word of the `sakkā` kind {562}; no ending {221}.*

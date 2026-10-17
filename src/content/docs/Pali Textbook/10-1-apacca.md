@@ -2,7 +2,7 @@
 title: "10.1: The descendant, and the shape of an affixed word"
 sidebar:
   label: "10.1: `apacca`"
-  order: 552
+  order: 554
 description: >
   A name such as `vāsiṭṭho` ("Vasiṭṭha's descendant") is an ancestor's name
   with an affix added and its first vowel lengthened. The seven affixes that

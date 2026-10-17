@@ -2,7 +2,7 @@
 title: "10.2: Connected with it: `ṇika`, `ṇa`, `ima` and `iya`"
 sidebar:
   label: "10.2: `ṇika`, `ṇa`, `iya`"
-  order: 553
+  order: 555
 description: >
   A word in `-ika` such as `nāviko` ("a sailor") is a noun with the affix
   `ṇika` added, and it names something connected with the base: mixed with

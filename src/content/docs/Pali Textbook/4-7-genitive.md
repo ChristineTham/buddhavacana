@@ -123,13 +123,13 @@ then / indeed / the Bhagavā / of the night / first / watch / dependent originat
 
 3. > Ayaṁ dukkhassa atthaṅgamo
 
-🚹①⨀(ima) 🚹⑥⨀(dukkha) 🚹①⨀(atthaṅgama)  
+🚹⨀①(ima) 🚹⨀⑥(dukkha) 🚹⨀①(atthaṅgama)  
 this / suffering / disappearance of  
 *This is disappearance of dukkha (suffering).*
 
 4. > Samaṁ cittassa na labhiṁ
 
-🚻①⨀(sama) 🚻⑥⨀(citta) 🔼(na) ⏮🤟⨀(labhi)  
+🚻⨀①(sama) 🚻⨀⑥(citta) 🔼(na) ⏮🤟⨀(labhi)  
 balance / of mind/heart / no / obtained  
 *Didn't obtain balance of mind/heart*
 

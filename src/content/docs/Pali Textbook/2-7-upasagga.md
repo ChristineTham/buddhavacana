@@ -178,13 +178,13 @@ claimed
 
 6. > **nissaraṇaṁ**
 
-🚻①⨀(nissaraṇa)  
+🚻⨀①(nissaraṇa)  
 way out of  
 *`nī` ("out") + `√sar` ("go"), "going out": the `s` doubles after the prefix {28} and the `ī` written short. Chapter 11.*
 
 7. > **ajjhattaṁ**
 
-🚻①⨀(ajjhatta)  
+🚻⨀①(ajjhatta)  
 internally  
 *`adhi` ("in") + `atta` ("self"): `adhi` becomes `ajjh` before a vowel {45}, "in oneself"; an `abyayībhāva` ([6.2](../6-2-abyayibhava/)). Chapter 11.*
 

@@ -2,7 +2,7 @@
 title: "D: `dhātu` (roots)"
 sidebar:
   label: "D: `dhātu`"
-  order: 564
+  order: 566
 description: >
   A listing of Pali roots and conjugations
 categories: ["palibook"]

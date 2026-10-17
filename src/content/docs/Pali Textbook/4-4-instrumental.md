@@ -109,7 +109,7 @@ deconstruction.
 
 1. > Idhāvuso, bhikkhu **mettāsahagatena cetasā** ekaṁ disaṁ pharitvā viharati.
 
-🔼(idhāvuso) 🚹①⨀(bhikkhu) 🚹③⨀(mettāsahagata) 🚹③⨀(cetas) 🚺②⨀(eka) 🚺②⨀(disā) 🔼(pharitvā) ▶️🤟⨀(viharati)  
+🔼(idhāvuso) 🚹⨀①(bhikkhu) 🚹⨀③(mettāsahagata) 🚹⨀③(cetas) 🚺⨀②(eka) 🚺⨀②(disā) 🔼(pharitvā) ▶️🤟⨀(viharati)  
 here friend / bhikkhu / filled with goodwill/friendliness / with intent / one / direction / having filled / stays aware  
 *Here, friend, a bhikkhu, with intent, stays aware having filled an entire compass direction with goodwill/friendliness.*
 
@@ -125,7 +125,7 @@ Accompanied by {287}: `saddhiṁ` ("together with") goes with a ③ noun.
 
 3. > Vuttaṁ kho panetaṁ **bhagavatā** kakacūpamovāde.
 
-🚻①⨀(vutta) 🔼(kho) 🔼(panetaṁ) 🚹③⨀(bhagavant) 🚹⑦⨀(kakacūpamovāda)  
+🚻⨀①(vutta) 🔼(kho) 🔼(panetaṁ) 🚹⨀③(bhagavant) 🚹⨀⑦(kakacūpamovāda)  
 said / indeed / but this / by Bhagavant / exhortation with the simile of the saw  
 *But this is indeed said by the Bhagavant in the exhortation with the simile of the saw.*
 
@@ -133,7 +133,7 @@ The doer of a passive verb {288}: `vuttaṁ` ("said") is passive; the one who sa
 
 4. > Sabbo rāgo pahīno **me**.
 
-🚹①⨀(sabba) 🚹①⨀(rāga) 🚹①⨀(pahīna) 👆③⨀(ahaṁ)  
+🚹⨀①(sabba) 🚹⨀①(rāga) 🚹⨀①(pahīna) *️⃣👆⚧⨀③(ahaṁ)  
 all / passion / abandoned / by me  
 *All passions abandoned by me.*
 
@@ -141,7 +141,7 @@ The doer of a passive verb {288}: `pahīno` ("abandoned") is passive; `me` is th
 
 5. > Viññāṇassa **nirodhena**, natthi dukkhassa sambhavo.
 
-🚻⑥⨀(viññāṇa) 🚹③⨀(nirodha) ▶️🤟⨀(natthi) 🚹⑥⨀(dukkha) 🚹①⨀(sambhava)  
+🚻⨀⑥(viññāṇa) 🚹⨀③(nirodha) ▶️🤟⨀(natthi) 🚹⨀⑥(dukkha) 🚹⨀①(sambhava)  
 of consciousness / with the cessation / there is not / of suffering / birth  
 *With the cessation of consciousness, there is no birth of suffering.*
 

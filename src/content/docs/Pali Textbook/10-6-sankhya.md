@@ -2,7 +2,7 @@
 title: "10.6: The numerals, and the affixes of division and manner"
 sidebar:
   label: "10.6: `saṅkhyā`, `abyaya`"
-  order: 557
+  order: 559
 description: >
   `dutiyaṁ` ("second") is the number two with an ordinal affix {373}–{387};
   `vīsati` ("twenty") and `sataṁ` ("a hundred") are tens run together and
@@ -115,25 +115,25 @@ deconstruction.
 
 1. > paṭhamaṁ jhānaṁ
 
-🚹②⨀(paṭhama) 🚹②⨀(jhāna)  
+🚹⨀②(paṭhama) 🚹⨀②(jhāna)  
 first / jhāna  
 *`paṭhama` ("first") is the one ordinal with no number inside it: `pa` with `tama` ("-most") {363}.*
 
 2. > Tathā dutiyaṁ.
 
-🔼(tathā) 🚻①⨀(dutiya)  
+🔼(tathā) 🚻⨀①(dutiya)  
 similarly for the second direction  
 *`tiya` {385}: `dvi` has become `du` {386}; `tathā` ("so") is `ta` with `thā` {398}.*
 
 3. > Tathā tatiyaṁ.
 
-🔼(tathā) 🚻①⨀(tatiya)  
+🔼(tathā) 🚻⨀①(tatiya)  
 similarly for the third direction  
 *`tiya` {385}: `ti` has become `ta` {386}.*
 
 4. > Tathā catutthaṁ.
 
-🔼(tathā) 🚻①⨀(catuttha)  
+🔼(tathā) 🚻⨀①(catuttha)  
 similarly for the fourth direction  
 *`tha` {384}, doubled to `-ttha` after `catu`.*
 
@@ -145,6 +145,6 @@ altogether
 
 6. > yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti
 
-🔼(yathā yathā) 🔼(vā) 🔼(panassa) 🚹①⨀(kāya) 🚹①⨀(paṇihita) ▶️🤟⨀(hoti) 🔼(tathā tathā) 🚹②⨀(ta) ▶️🤟⨀(pajānāti)  
+🔼(yathā yathā) 🔼(vā) 🔼(panassa) 🚹⨀①(kāya) 🚹⨀①(paṇihita) ▶️🤟⨀(hoti) 🔼(tathā tathā) 🚹⨀②(ta) ▶️🤟⨀(pajānāti)  
 in whatever way / or / and for him / body / orientated / is / in that way / that / knows clearly  
 *In whatever way his body is orientated, in that way he knows clearly.*

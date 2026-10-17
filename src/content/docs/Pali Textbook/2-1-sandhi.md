@@ -123,7 +123,7 @@ not / there is / now / renewed becoming
 
 2. > **Yannūnāhaṁ** kesamassuṁ ohāretvā
 
-🔼(yannūnāhaṁ) 🚻②⨀(kesamassu) 🔼(ohāretvā)  
+🔼(yannūnāhaṁ) 🚻⨀②(kesamassu) 🔼(ohāretvā)  
 what if I were to / hair and beard / having shaved off  
 *`yannūnāhaṁ` = `yaṁ nūna ahaṁ`: `ṁ` becomes `n` before `n` {31}; the `a` of `nūna` dropped {12}, the next `a` lengthened {15}.*
 
@@ -153,7 +153,7 @@ unsurpassed / perfect understanding / fully awakened / thus / claimed
 
 7. > So **vivicceva** kāmehi
 
-🚹①⨀(ta) 🔼(vivicceva) 🚹⑤⨂(kāma)  
+🚹⨀①(ta) 🔼(vivicceva) 🚹⨂⑤(kāma)  
 that / just secluding oneself from / sensual pleasures  
 *`vivicceva` = `vivicca eva`: the `a` of `vivicca` dropped {12}.*
 

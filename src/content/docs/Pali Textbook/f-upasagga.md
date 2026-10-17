@@ -2,7 +2,7 @@
 title: "F: `upasagga ` meanings"
 sidebar:
   label: "F: `upasagga `"
-  order: 566
+  order: 568
 description: >
   Detailed Meanings of `upasagga` Particles
 categories: ["palibook"]

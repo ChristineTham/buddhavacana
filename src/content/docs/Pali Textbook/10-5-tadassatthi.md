@@ -2,7 +2,7 @@
 title: "10.5: Having that, and made of that"
 sidebar:
   label: "10.5: `tadassatthi`, `tappakati`"
-  order: 556
+  order: 558
 description: >
   `bhagavā` ("the Blessed One") is `bhaga` ("good fortune") with an affix
   meaning "having that". The affixes `vantu`, `mantu`, `ī`, `vī`, `sī`, `ika`,

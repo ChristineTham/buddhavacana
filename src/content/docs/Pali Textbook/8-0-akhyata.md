@@ -2,7 +2,7 @@
 title: "8: `ākhyāta` (Verbs)"
 sidebar:
   label: "8: `ākhyāta`"
-  order: 542
+  order: 543
 description: >
   How to read a verb form: the voice, the time, the person and the number its ending shows, the piece that sits between the root and the ending, and the verb-like forms, participles, absolutives and infinitives, that carry most of a Pāḷi sentence
 categories: ["palibook"]
@@ -11,6 +11,10 @@ tags: ["ākhyāta", "kita"]
 
 :::tip[Info]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
+:::
+
+:::note[How this chapter fits]
+Chapter 1 introduced the verbs and the verb-like forms in two sections; this chapter deepens them, with the endings and classes from my translation of Kaccāyana's Ākhyātakappa and Kibbidhānakappa. Its examples and exercises are sentences from the texts of chapters 3, 5, 7, 9 and 11. The text that follows it is chapter 9, the Fire Sermon.
 :::
 
 A verb (`ākhyāta`) is a root (`dhātu`) with an ending that says who acts, how

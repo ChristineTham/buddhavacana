@@ -2,7 +2,7 @@
 title: "8.6: Passive and causative"
 sidebar:
   label: "8.6: Passive and causative"
-  order: 548
+  order: 549
 description: >
   `ya` between the root and the ending makes a verb passive, `vuccati` ("is
   said"), with the doer in ③ {440}–{443}; `e`, `aya`, `āpe` and `āpaya` make it
@@ -96,7 +96,7 @@ The passive with the ending of the active {518}:
 
 > Ime **vuccanti**, bhikkhave, saṅkhārā.
 
-🚹①⨂(ima) ▶️🤟⨂(vuccati) 🚹⓪⨂(bhikkhu) 🚹①⨂(saṅkhāra)  
+🚹⨂①(ima) ▶️🤟⨂(vuccati) 🚹⨂⓪(bhikkhu) 🚹⨂①(saṅkhāra)  
 these / are said to be / bhikkhave / mental constructions → Bhikkhave, these are said to be mental constructions.  
 *`vuccanti` 🔴: `vaca` + `ya`, `c` and `ya` one `cc` {441}, `va` to `vu` {487}; the things said, `ime … saṅkhārā`, are the subject in ①, and the verb is plural with them.*
 
@@ -104,7 +104,7 @@ Kaccāyana's own example of the `ī` {442}, in chapter 11:
 
 > **karīyati** hidaṁ buddhānaṁ sāsanan’ti
 
-▶️🤟⨀(karīyati) 🔼(hidaṁ) 🚹⑥⨂(buddha) 🚻①⨀(sāsana) 🔼(ti)  
+▶️🤟⨀(karīyati) 🔼(hidaṁ) 🚹⨂⑥(buddha) 🚻⨀①(sāsana) 🔼(ti)  
 is practised / surely in this case / of Buddha / teaching / quote → surely in this case the teaching of the Buddha is practised  
 *`karīyati` 🔴: `kara` + `ī` + `ya` {442}; the teaching, `sāsanaṁ`, is the subject in ①.*
 
@@ -128,7 +128,7 @@ The `-aya-` causative:
 
 > Attānaṁ **damayanti** paṇḍitā.
 
-🚹②⨀(atta) ▶️🤟⨂(damayati) 🚹①⨂(paṇḍita)  
+🚹⨀②(atta) ▶️🤟⨂(damayati) 🚹⨂①(paṇḍita)  
 self / tames / the wise → The wise tames the self.  
 *`damayanti` 🟠: `dama` ("be tame") + `aya` {438}, "make tame"; the one made tame, `attānaṁ`, is the object in ② {297}.*
 
@@ -159,25 +159,25 @@ deconstruction.
 
 1. > Ayaṁ **vuccati**, bhikkhave, sammāvāyāmo.
 
-🚹①⨀(ima) ▶️🤟⨀(vuccati) 🚹⓪⨂(bhikkhu) 🚹①⨀(sammāvāyāma)  
+🚹⨀①(ima) ▶️🤟⨀(vuccati) 🚹⨂⓪(bhikkhu) 🚹⨀①(sammāvāyāma)  
 this / is said / bhikkhave / right effort → Bhikkhave, this is said to be "sammāvāyāma" (right effort).  
 *Passive 🔴: `vaca` + `ya` as `-cc-` {441}, with the active ending {518}; `sammāvāyāmo`, the thing said, in ①.*
 
 2. > Tassa me tathāgato vā tathāgatasāvako vā dhammaṁ **desesi**.
 
-🚹⑥⨀(ta) 👆②⨀(ahaṁ) 🚹①⨀(tathāgata) 🔼(vā) 🚹①⨀(tathāgatasāvaka) 🔼(vā) 🚹②⨀(dhamma) ⏮🤟⨀(desesi)  
+🚹⨀⑥(ta) *️⃣👆⚧⨀②(ahaṁ) 🚹⨀①(tathāgata) 🔼(vā) 🚹⨀①(tathāgatasāvaka) 🔼(vā) 🚹⨀②(dhamma) ⏮🤟⨀(desesi)  
 of that / me / Tathāgata / or / disciple of the Buddha / or / Dhamma / taught → Because of that, the Tathāgata and his disciples taught the Dhamma to me.  
 *Causative 🟠: `disa` ("point out", the `bhū` class) + `e` {438} before the past ending `-si`; what is taught, `dhammaṁ`, in ② {297}.*
 
 3. > nayidha **sattupalabbhati**.
 
-🔼(nayidha) 🚹①⨀(satta) ▶️🤟⨀(upalabbhati)  
+🔼(nayidha) 🚹⨀①(satta) ▶️🤟⨀(upalabbhati)  
 not here / being / is found → No being is found in here.  
 *Passive 🔴: `upa` + `labha` + `ya`, `ya` taking the shape of the `bh` {443}; `satto`, the thing found, in ①, joined to the verb by sandhi.*
 
 4. > Usukārā **namayanti** tejanaṁ;
 
-🚹①⨂(usukāra) ▶️🤟⨂(namayati) 🚻②⨀(tejana)  
+🚹⨂①(usukāra) ▶️🤟⨂(namayati) 🚻⨀②(tejana)  
 arrow-maker / straighten / arrow → Arrow makers straighten arrow;  
 *Causative 🟠: `nama` ("bend") + `aya` {438}, "make bend"; the arrow, `tejanaṁ`, in ② {297}.*
 

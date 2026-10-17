@@ -2,7 +2,7 @@
 title: "8.7: The verbs on every page"
 sidebar:
   label: "8.7: Common verbs"
-  order: 549
+  order: 550
 description: >
   The ten verbs a reader meets on every page, `atthi` and `hoti` (to be),
   `karoti`, `gacchati`, `dadāti`, `jānāti`, `vadati`, `passati`, `suṇāti`,
@@ -122,7 +122,7 @@ thus / indeed / this / of the venerable / Koṇḍañña / Aññāsikoṇḍañ�
 
 > **Natthi** dukkhassa sambhavo.
 
-▶️🤟⨀(natthi) 🚹⑥⨀(dukkha) 🚹①⨀(sambhava)  
+▶️🤟⨀(natthi) 🚹⨀⑥(dukkha) 🚹⨀①(sambhava)  
 there is not / of suffering / birth  
 *`natthi`: `na` + `atthi` {12}; `atthi` is the root `asa` with `ti` become `tthi` {494}, and `sambhavo`, what does not exist, takes ①. Chapter 11, 19.4.*
 
@@ -196,24 +196,24 @@ of the earth-dwelling / devas / the cry / having heard
 
 5. > Etamādīnavaṁ **ñatvā**
 
-🚹②⨀(eta) 🚹②⨀(ādīnava) 🔼(ñatvā)  
+🚹⨀②(eta) 🚹⨀②(ādīnava) 🔼(ñatvā)  
 this / danger / having known  
 *`ñatvā`: the absolutive of `jānāti`, the root `ñā` shortened before `-tvā` {564}, {26}. Chapter 11, 20.1.*
 
 6. > Na hi pāpaṁ **kataṁ** kammaṁ
 
-🔼(nahi) 🚻①⨀(pāpa) 🚻①⨀(kata) 🚻①⨀(kamma)  
+🔼(nahi) 🚻⨀①(pāpa) 🚻⨀①(kata) 🚻⨀①(kamma)  
 by no means / wrong / completed / action  
 *`kataṁ`: the past participle of `karoti`, the `r` of `kara` dropped before `ta` {587}; it agrees with `kammaṁ`, 🚻⨀①. Chapter 11, Dhammapada 71.*
 
 7. > **atthi** nibbuti, na nibbuto pumā
 
-▶️🤟⨀(atthi) 🚺①⨀(nibbuti) 🔼(na) 🚹①⨀(nibbuta) 🚹①⨀(puma)  
+▶️🤟⨀(atthi) 🚺⨀①(nibbuti) 🔼(na) 🚹⨀①(nibbuta) 🚹⨀①(puma)  
 there is / extinguishment / not / extinguished / male  
 *`atthi`: the root `asa` with `ti` become `tthi` {494}, "there is"; `nibbuti`, what exists, takes ①; third person singular. Chapter 11, Visuddhimagga XVI.*
 
 8. > **ṭhito** vā ‘**ṭhito**mhī’ti pajānāti, **nisinno** vā ‘**nisinno**mhī’ti pajānāti
 
-🚹①⨀(ṭhita) 🔼(vā) 🔼(ṭhitomhi) 🔼(ti) ▶️🤟⨀(pajānāti) 🚹①⨀(nisinna) 🔼(vā) 🔼(nisinnomhi) 🔼(ti) ▶️🤟⨀(pajānāti)  
+🚹⨀①(ṭhita) 🔼(vā) 🔼(ṭhitomhi) 🔼(ti) ▶️🤟⨀(pajānāti) 🚹⨀①(nisinna) 🔼(vā) 🔼(nisinnomhi) 🔼(ti) ▶️🤟⨀(pajānāti)  
 standing / or / I am standing / quote / knows clearly / sitting / or / I am sitting / quote / knows clearly  
 *`ṭhito`: the past participle of `tiṭṭhati`, the `ā` of `ṭhā` become `i` {588}; `nisinno`: that of `nisīdati`, `-inna` for `-ta` {582}; `ṭhitomhi` and `nisinnomhi` are participle + `amhi`, "I am" {492}; `pajānāti`: the present, third person singular. Chapter 11, DN 22.*

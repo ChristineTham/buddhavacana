@@ -2,7 +2,7 @@
 title: "J: `kibbidhāna` (`kita` affixes)"
 sidebar:
   label: "J: `kibbidhāna`"
-  order: 570
+  order: 572
 description: >
   `kita` affixes and their meanings
 categories: ["palibook"]
