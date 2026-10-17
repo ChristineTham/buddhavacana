@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "2: `nāma` (Nouns) and `sandhi` (Joining words)"
 sidebar:
   label: "2: `nāma`"
@@ -43,14 +42,14 @@ flowchart TD
 
 | section | covers | Kaccāyana | appendix |
 | :-: | --- | --- | :-: |
-| [2.1](../2-1-sandhi/) | `sandhi`: the joins a reader meets on every line, and how to undo them | {1}–{51} | [E](../e-sandhi/) |
-| [2.2](../2-2-nouns/) | gender, number and the eight endings; the inflection tables of `purisa`, `citta` and `kaññā`; adjectives agree | {52}–{125} | [G](../g-vibhatti/) |
-| [2.3](../2-3-vowel-lemmas/) | lemmas in `i`, `ī`, `u`, `ū`: `aggi`, `bhikkhu`, `nadī`, `cakkhu` | {126}–{160} | [G](../g-vibhatti/) |
-| [2.4](../2-4-irregular/) | the lemmas with their own shapes: `rāja`, `attā`, `satthā`, `bhagavā`, `kamma`, `mano` | {178}–{220} | [G](../g-vibhatti/) |
-| [2.5](../2-5-pronouns/) | `sabbanāma`: `so`, `ayaṁ`, `yo`, `ko`, `sabba`, `ahaṁ`, `tvaṁ`, and the adverbs made from them | {161}–{177}, {248}–{270} | [L](../l-sabbanama/) |
-| [2.6](../2-6-numbers/) | `saṅkhyā`: one to a hundred thousand, and the ordinals | {131}–{140}, {373}–{399} | [H](../h-taddhita/) |
-| [2.7](../2-7-upasagga/) | `upasagga`: the twenty prefixes and what they do to a word | {221}–{222} | [F](../f-upasagga/) |
-| [2.8](../2-8-nipata/) | `nipāta`: the particles that join, stress, negate, quote and ask | {221}–{222} | — |
+| [2.1](../2-1-sandhi/) | `sandhi`: the joins a reader meets on every line, and how to undo them | {12}–{51} | [E](../e-sandhi/) |
+| [2.2](../2-2-nouns/) | gender, number and the eight endings; the inflection tables of `purisa`, `citta` and `kaññā`; adjectives agree | {55}–{119}, {216}–{244} | [G](../g-vibhatti/) |
+| [2.3](../2-3-vowel-lemmas/) | lemmas in `i`, `ī`, `u`, `ū`: `aggi`, `bhikkhu`, `nadī`, `cakkhu` | {55}–{119}, {215}–{245} | [G](../g-vibhatti/) |
+| [2.4](../2-4-irregular/) | the lemmas with their own shapes: `rāja`, `attā`, `satthā`, `bhagavā`, `kamma`, `mano` | {126}–{138}, {181}–{214}, {243} | [G](../g-vibhatti/) |
+| [2.5](../2-5-pronouns/) | `sabbanāma`: `so`, `ayaṁ`, `yo`, `ko`, `sabba`, `ahaṁ`, `tvaṁ`, and the adverbs made from them | {139}–{151}, {161}–{177}, {247}–{260}, {398}–{399} | [L](../l-sabbanama/) |
+| [2.6](../2-6-numbers/) | `saṅkhyā`: one to a hundred thousand, and the ordinals | {67}–{90}, {131}–{134}, {205}, {373}–{394} | [H](../h-taddhita/) |
+| [2.7](../2-7-upasagga/) | `upasagga`: the twenty prefixes and what they do to a word | {221}, {12}–{50} | [F](../f-upasagga/) |
+| [2.8](../2-8-nipata/) | `nipāta`: the particles that join, stress, negate, quote and ask | {221}, {248}–{259}, {398}–{399} | — |
 
 Every section is built the same way: a short explanation, a table of the
 shapes to recognise with the rule that makes each, a few worked examples from

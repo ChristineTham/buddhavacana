@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "7: `ākhyāta` (Verbs)"
 sidebar:
   label: "7: `ākhyāta`"
@@ -48,7 +47,7 @@ flowchart TD
 | section | covers | Kaccāyana | appendix |
 | :-: | --- | --- | :-: |
 | [7.1](../7-1-reading-a-verb/) | what a verb form tells you: the eight sets of endings and their times, person and number, the symbols the book uses | {406}–{431} | [I](../i-verbs/) |
-| [7.2](../7-2-present/) | the present (`vattamānā`): `-ti`, `-nti`, `-si`, `-mi`, and the seven classes that put `a`, `ya`, `ṇā`, `o` or `e` before the ending | {414}, {423}, {445}–{453} | [I](../i-verbs/), [D](../d-roots/) |
+| [7.2](../7-2-present/) | the present (`vattamānā`): `-ti`, `-nti`, `-si`, `-mi`, and the eight classes that put `a`, `ya`, `ṇā`, `o` or `e` before the ending | {414}, {423}, {445}–{453} | [I](../i-verbs/), [D](../d-roots/) |
 | [7.3](../7-3-commands/) | commands and wishes: `pañcamī` (`ehi`, `caratha`, `desetu`) and `sattamī` (`labheyyaṁ`, `pabbajeyyaṁ`, `kareyya`) | {415}–{416}, {424}–{425} | [I](../i-verbs/) |
 | [7.4](../7-4-past/) | the past: `ajjatanī` (`udapādi`, `nisīdi`, `āmantesi`, `ahosi`, `avoca`, `paccaññāsiṁ`), the `a-` put before the root, and the rarer `hiyyattanī` and `parokkhā` (`āha`) | {417}–{419}, {428}–{430}, {519} | [I](../i-verbs/) |
 | [7.5](../7-5-future/) | the future (`bhavissanti`: `viharissatha`, `bhavissati`) and the conditional (`kālātipatti`: `abhavissa`) | {421}–{422}, {431} | [I](../i-verbs/) |

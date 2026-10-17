@@ -17,8 +17,9 @@ Besides the compounds of chapter 6, Pāḷi makes new nouns by adding an affix
 noun: `vāsiṭṭho` ("Vasiṭṭha's descendant") is `vasiṭṭha` with `ṇa` added and
 its first vowel lengthened {344}. An `uṇādi` affix is added to a root:
 `samatho` ("calm") is `√samu` with `tha` {628}. The `kita` affixes, which make
-the participles, absolutives, infinitives and agent nouns marked 🔽 in chapter
-2, are tabled in [Appendix J](../j-kita/).
+the participles, absolutives and infinitives marked 🔽 in the texts, are the
+subject of [7.8](../7-8-verb-like-forms/) and are tabled in
+[Appendix J](../j-kita/).
 
 ```mermaid
 flowchart LR

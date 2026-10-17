@@ -68,9 +68,6 @@ export default defineConfig({
             pageInclusionRules: [
               "!**/Pali/**",
               "!**/Buddha/personality.md",
-              // the chapter overviews drafted ahead of their sections (draft: true, not built)
-              "!**/Pali Textbook/2-0-nama.md",
-              "!**/Pali Textbook/7-0-akhyata.md",
               "!**/Sutta/pasarasi.mdx",
               "!**/Sutta/recitation.mdx",
               "!**/Sutta/refuges.md",
