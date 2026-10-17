@@ -1,7 +1,7 @@
 ---
-title: "7.6: bahubbīhi (Compounds that name something else)"
+title: "6.6: bahubbīhi (Compounds that name something else)"
 sidebar:
-  label: "7.6: `bahubbīhi`"
+  label: "6.6: `bahubbīhi`"
   order: 539
 description: >
   A `bahubbīhi` names something outside its own members: `chinnahattho` is
@@ -59,7 +59,7 @@ by the first member:
 The name serves one later rule {167}: a `bahubbīhi` ending in a pronoun,
 `piyapubbā` ("whose former [spouse] was dear"), keeps the ordinary noun
 endings. Every rule number links to the full rule; the
-[chapter overview](../7-0-samasa/) tables them all.
+[chapter overview](../6-0-samasa/) tables them all.
 
 ### Examples
 

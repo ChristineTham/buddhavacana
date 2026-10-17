@@ -1,7 +1,7 @@
 ---
-title: "7.8: The end of a compound"
+title: "6.8: The end of a compound"
 sidebar:
-  label: "7.8: `samāsanta`"
+  label: "6.8: `samāsanta`"
   order: 541
 description: >
   The last member of a compound sometimes changes its shape at the `samāsanta`,
@@ -41,7 +41,7 @@ The first change also shapes `pañcāhaṁ` ("five days"),
 ("sweet-smelling"); its vutti also adds `-ka` after `kattu` ("doer"):
 `bahukattuko` ("with many workers"). The other three are rare. Every rule
 number links to the full rule in the Kaccāyana translation; [the chapter
-overview](../7-0-samasa/) tables them all.
+overview](../6-0-samasa/) tables them all.
 
 ### Examples
 

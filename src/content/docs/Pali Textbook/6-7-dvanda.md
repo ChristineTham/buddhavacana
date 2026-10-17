@@ -1,7 +1,7 @@
 ---
-title: "7.7: `dvanda`, two or more things named together"
+title: "6.7: `dvanda`, two or more things named together"
 sidebar:
-  label: "7.7: `dvanda`"
+  label: "6.7: `dvanda`"
   order: 540
 description: >
   A `dvanda` ("pair") joins nouns that English strings together with "and":
@@ -52,7 +52,7 @@ a vowel, the `a` is dropped and the join hides the second member: `kāka` and
 compound, `nāsikā` in `mukhanāsikaṁ` ("mouth and nose") {342}, and at the
 join, `dāsī` in `dāsidāsaṁ` ("female and male slaves"). Every rule number
 links to the full rule in the Kaccāyana translation; the
-[chapter overview](../7-0-samasa/) tables all the rules on compounds.
+[chapter overview](../6-0-samasa/) tables all the rules on compounds.
 
 ### Which shape a `dvanda` takes
 

@@ -13,7 +13,7 @@ tags: ["taddhita", "uṇādi"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-Besides the compounds of chapter 7, Pāḷi makes new nouns by adding an affix
+Besides the compounds of chapter 6, Pāḷi makes new nouns by adding an affix
 (`paccaya`) to a word that already exists. A `taddhita` affix is added to a
 noun: `vāsiṭṭho` ("Vasiṭṭha's descendant") is `vasiṭṭha` with `ṇa` added and
 its first vowel lengthened {344}. An `uṇādi` affix is added to a root:

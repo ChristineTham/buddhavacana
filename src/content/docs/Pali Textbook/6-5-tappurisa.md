@@ -1,7 +1,7 @@
 ---
-title: "7.5: The `tappurisa`: the king's son and the compounds of ② to ⑦"
+title: "6.5: The `tappurisa`: the king's son and the compounds of ② to ⑦"
 sidebar:
-  label: "7.5: `tappurisa`"
+  label: "6.5: `tappurisa`"
   order: 538
 description: >
   `rājaputto` ("the king's son") is `rañño putto` made into one word: the
@@ -29,9 +29,9 @@ With the `kammadhāraya`, these are the commonest compounds in the texts. When
 you meet a compound, ask two questions. Is it the kind of thing its last member
 names? A `rājaputto` is a `putto`, and the compound takes its gender from that
 member; a compound that names something else, `chinnahattho` ("one whose hand
-is cut off"), is the `bahubbīhi` of section [7.6](../7-6-bahubbihi/), and one
+is cut off"), is the `bahubbīhi` of section [6.6](../6-6-bahubbihi/), and one
 whose members name the same thing, `mahāpuriso` ("a great man"), the
-`kammadhāraya` of [7.3](../7-3-kammadharaya/). And what small English word
+`kammadhāraya` of [6.3](../6-3-kammadharaya/). And what small English word
 links the members, "of", "by", "for", "from", "in"? That word is the ending
 the first member has lost, and it names the kind.
 
@@ -76,9 +76,9 @@ example begins with `na`:
 | `na pañcavassaṁ` | `apañcavassaṁ` ("not five years") | a `digu`, `na` with a numeral compound | {326}, {333} |
 | `na dasagavaṁ` | `adasagavaṁ` ("not ten cows") | a `digu`; `go` becomes `gava` at the end of a compound | {326}, {333}, {337} |
 
-The `a-` for `na` is treated in section [7.3](../7-3-kammadharaya/) and the end of a compound in
-[7.8](../7-8-samasanta/); every rule number links to the full rule in the
-Kaccāyana translation, and [chapter 7](../7-0-samasa/) tables them all.
+The `a-` for `na` is treated in section [6.3](../6-3-kammadharaya/) and the end of a compound in
+[6.8](../6-8-samasanta/); every rule number links to the full rule in the
+Kaccāyana translation, and [chapter 6](../6-0-samasa/) tables them all.
 
 ### Examples
 

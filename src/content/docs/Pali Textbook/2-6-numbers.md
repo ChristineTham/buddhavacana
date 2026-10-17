@@ -85,7 +85,7 @@ jhānaṁ`, or stands alone with the noun understood, `Tathā dutiyaṁ`
 "first, at first".
 
 Most numbers in the texts are the first member of a compound
-([7.4](../7-4-digu/)), `pañcavaggiyā`, `aṭṭhaṅgiko`, `sattāhaṁ`, where the
+([6.4](../6-4-digu/)), `pañcavaggiyā`, `aṭṭhaṅgiko`, `sattāhaṁ`, where the
 number stands bare and the ending belongs to the whole word; `dvi` appears as
 `du-`, `di-` or `dvā-` {380}, {386}, and `cha` as `saḷ-` in `saḷāyatanaṁ`
 {571}.

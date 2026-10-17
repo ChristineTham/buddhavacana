@@ -186,7 +186,7 @@ way out of
 
 🚻①⨀(ajjhatta)  
 internally  
-*`adhi` ("in") + `atta` ("self"): `adhi` becomes `ajjh` before a vowel {45}, "in oneself"; an `abyayībhāva` ([7.2](../7-2-abyayibhava/)). Chapter 10.*
+*`adhi` ("in") + `atta` ("self"): `adhi` becomes `ajjh` before a vowel {45}, "in oneself"; an `abyayībhāva` ([6.2](../6-2-abyayibhava/)). Chapter 10.*
 
 8. > **uppajjati**
 

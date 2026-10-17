@@ -1,7 +1,7 @@
 ---
-title: "7.3: The kammadhāraya, two words for one thing"
+title: "6.3: The kammadhāraya, two words for one thing"
 sidebar:
-  label: "7.3: `kammadhāraya`"
+  label: "6.3: `kammadhāraya`"
   order: 536
 description: >
   A `kammadhāraya` joins two words that name one and the same thing, an
@@ -28,8 +28,8 @@ like any other noun; this book marks the compound 🆎 with its members in their
 lemma form, 🚹⨀①🆎(kaṇha+sappa). The question to ask when you meet one is: do
 both members name the same thing? If the first describes the second ("black" +
 "snake", "great" + "man", "not" + "brahmin"), it is a `kammadhāraya`; if the
-compound means "the X of Y" it is a `tappurisa` ([7.5](../7-5-tappurisa/)), and
-if it names a third thing it is a `bahubbīhi` ([7.6](../7-6-bahubbihi/)).
+compound means "the X of Y" it is a `tappurisa` ([6.5](../6-5-tappurisa/)), and
+if it names a third thing it is a `bahubbīhi` ([6.6](../6-6-bahubbihi/)).
 
 Four first members change their shape when they join, and these are the ones
 to learn to recognise: `mahanta` ("great") becomes `mahā` {330}, a feminine
@@ -38,7 +38,7 @@ becomes `a` or `an` {333}–{334}, and `ku` ("bad") becomes `kad` or `kā`
 {335}–{336}. Kaccāyana counts every `kammadhāraya` as a `tappurisa` as well
 {326}, which is why the rules for `na` speak of a `tappurisa`; and a
 `kammadhāraya` whose first member is a numeral has a name of its own, the
-`digu` {325} ([7.4](../7-4-digu/)).
+`digu` {325} ([6.4](../6-4-digu/)).
 
 ### The kinds of `kammadhāraya`
 
@@ -59,7 +59,7 @@ whose shins are long", `dīghā` + `jaṅghā`) {331}, then extended to the
 go back to, so `brāhmaṇabandhu` ("a brahmin's kinswoman") keeps its form in
 `brāhmaṇabandhudārikā`. `kā-` for `ku` means "a little" and now and then "bad",
 as in `kāpurisā` ("wretched men") {336}. Every rule number links to the full
-rule in the Kaccāyana translation; the [chapter overview](../7-0-samasa/)
+rule in the Kaccāyana translation; the [chapter overview](../6-0-samasa/)
 tables every rule of the Samāsakappa.
 
 ### Examples

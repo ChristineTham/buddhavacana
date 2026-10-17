@@ -1,7 +1,7 @@
 ---
-title: "7.2: The abyayībhāva, a compound with a prefix or a particle first"
+title: "6.2: The abyayībhāva, a compound with a prefix or a particle first"
 sidebar:
-  label: "7.2: `abyayībhāva`"
+  label: "6.2: `abyayībhāva`"
   order: 535
 description: >
   A word such as `upanagaraṁ` ("near the town") is a prefix or a particle

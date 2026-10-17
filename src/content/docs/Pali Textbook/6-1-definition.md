@@ -1,7 +1,7 @@
 ---
-title: "7.1: What a compound is"
+title: "6.1: What a compound is"
 sidebar:
-  label: "7.1: `samāsa`"
+  label: "6.1: `samāsa`"
   order: 534
 description: >
   A `samāsa` ("compound") {316}, and what happens when words join: endings
