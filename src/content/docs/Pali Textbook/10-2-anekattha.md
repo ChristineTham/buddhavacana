@@ -59,7 +59,6 @@ rule with its examples.
 | his craft | `vīṇā assa sippaṁ` | `veṇiko` | a lute-player | {351} |
 | his merchandise | `gandho assa bhaṇḍaṁ` | `gandhiko` | a perfume-seller | {351} |
 | his livelihood | `urabbhaṁ hantvā jīvati` (lives by killing sheep) | `orabbhiko` | a sheep-butcher | {351} |
-| and, by the rule's "and the like": killed with, bound with, his weapon, his ailment, devoted to, the property of, bought with, measuring, a heap of, worth, plays with | `akkhena dibbati` (plays with dice) | `akkhiko` | a gambler | {351} |
 
 ### `ṇa`, `ima` and `iya`
 
@@ -69,7 +68,6 @@ rule with its examples.
 | `ṇa` | this is his | `sūkarassa idaṁ maṁsaṁ` (this meat is the pig's) | `sokaraṁ` | pork | {352} |
 | `ṇa` | born in, come from, lord of | `madhurāya jāto` | `mādhuro` | a man of Madhurā | {352} |
 | `ṇa` | the month of a constellation | `kattikāya niyutto māso` | `kattiko` | the month of Kattikā, October–November | {352} |
-| `ṇa` | a collection, whose deity, who studies, the land of, where a thing grows, produced by, whose dwelling | `sāgarehi nibbatto` (produced by the Sāgaras) | `sāgaro` | the ocean | {352} |
 | `ima` | born after, in the middle, at the end | `pacchā jāto` | `pacchimo` | last; western | {353} |
 | `iya` | born of a kind | `bodhisattajātiyā jāto` | `bodhisattajātiyo` | one of the Bodhisatta's kind | {353} |
 | `ima`, `iya`, `ika` | set at, having (the rule's "and the like") | `anto niyutto`, `putto assa atthi` (he has a son) | `antimo`, `puttiko` | final, one who has a son | {353} |
@@ -102,12 +100,9 @@ after / born → born after, last
 ### Exercises
 
 Each of the following is a word you met in the texts of
-[chapter 3](../3-awakening/), [5](../5-dhammacakka/), [7](../7-anatta/),
-[9](../9-fire/) and [11](../11-pbt/), some in another ending. Say which affix
-it carries, what the base is and what connection with the base the word names;
-then look the word up and compare. (`sandiṭṭhiko`, in the same sentence as the
-first three, [11: 1, 25.1](../11-pbt/#s1-u25-1), is `sandiṭṭhi` with the affix
-`ka`, not `ṇika`.)
+[chapter 3](../3-awakening/), [5](../5-dhammacakka/) and [11](../11-pbt/),
+some in another ending. Say which affix it carries, what the base is and what
+connection with the base the word names; then look the word up and compare.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -115,63 +110,42 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. akāliko
-2. ehipassiko
-3. opaneyyiko
-4. oḷārikaṁ
-5. ponobbhavikā
-6. nerayikā
-7. majjhimaṁ
-8. veyyākaraṇasmiṁ
+1. cetasikaṁ
+2. nerayikā
+3. cātumahārājikā
+4. pothujjaniko
+5. majjhimaṁ
 
 ### Answers
 
 *Note: please do the exercises first before checking the answers.*
 
-1. > akālo → **akāliko**
+1. > cetasā kataṁ kammaṁ → **cetasikaṁ**
 
-🚹⨀①(akālo) → 🚹⨀①🔽(ṇika)(akāliko)  
-not the time → not tied to time, immediate  
-*`ṇika` {350}, a further sense (the rule's `vā`): `-ika` added to `akāla`, nothing lengthened; said of the Dhamma, `akālikena`, [11: 1, 25.1](../11-pbt/#s1-u25-1).*
+🚹⨀③(cetasā) 🚻⨀①🔽(ta)(kataṁ) 🚻⨀①(kammaṁ) → 🚻⨀①🔽(ṇika)(cetasikaṁ)  
+by the mind / done / act → a mental act  
+*`ṇika` {351}, "made by", as `kāyikaṁ`: `-ika` on `cetas` ("mind"), whose `e` is long already; `kāyikaṁ vā cetasikaṁ vā`, [11: 10, 23.2](../11-pbt/#s10-u23-2).*
 
-2. > ehi passa → **ehipassiko**
-
-🟢⨀🤘⏹(ehi) 🟢⨀🤘⏹(passa) → 🚹⨀①🔽(ṇika)(ehipassiko)  
-come! / see! → inviting one to come and see, verifiable  
-*`ṇika` {350}, a further sense (the rule's `vā`): `-ika` added to the saying `ehi passa`; `ehipassikena`, glossed "verifiable", [11: 1, 25.1](../11-pbt/#s1-u25-1).*
-
-3. > upaneyyo → **opaneyyiko**
-
-🚹⨀①(upaneyyo) → 🚹⨀①🔽(ṇika)(opaneyyiko)  
-to be led towards (`upa` + `√nī`, "lead") → leading onward  
-*`ṇika` {350}, a further sense (the rule's `vā`): the first `u` becomes `o`, `-ika` added; `opaneyyikena`, [11: 1, 25.1](../11-pbt/#s1-u25-1).*
-
-4. > **oḷārikaṁ** vā sukhumaṁ vā
-
-🚻⨀①(oḷārika) ⏏️(vā) 🚻⨀①(sukhuma) ⏏️(vā)  
-coarse / or / fine / or  
-*`ṇika` {350}, a further sense (the rule's `vā`): `uḷāra` ("vast") with `-ika`, the `u` becoming `o` as in `orabbhiko`; [7: 7.1](../7-anatta/#u7-1).*
-
-5. > punabbhavo → **ponobbhavikā**
-
-🚹⨀①🆎(puna+bhava) → 🚺⨀①🔽(ṇika)(ponobbhavikā)  
-rebirth → leading to rebirth  
-*`ṇika` {350}, a further sense (the rule's `vā`): `puna` becomes `pono`, `-ika` added; `taṇhā ponobbhavikā`, [5: 4.2](../5-dhammacakka/#u4-2), [11: 3, 19.2](../11-pbt/#s3-u19-2).*
-
-6. > niraye jātā → **nerayikā**
+2. > niraye jātā → **nerayikā**
 
 🚹⨀⑦(niraye) 🚹⨂①🔽(ta)(jātā) → 🚹⨂①🔽(ṇika)(nerayikā)  
 in hell / born → born in hell, living in hell  
 *`ṇika` {350}, "born in", as `rājagahiko`: the first `i` becomes `e`, `-ika` added; `sattā nerayikā`, [11: 23, 1.6](../11-pbt/#s23-u1-6).*
 
-7. > majjhe jātaṁ → **majjhimaṁ**
+3. > **cātumahārājikā** devā
+
+🚹⨂①(cātumahārājika) 🚹⨂①(deva)  
+the Cātumahārājikā / devas  
+*`ṇika` {350}, "lives in", as `rājagahiko`: `-ika` on `catumahārāja`, the first `a` lengthened; the devas of the four great kings' realm; [5: 12.2](../5-dhammacakka/#u12-2).*
+
+4. > hīno gammo **pothujjaniko**
+
+🚹⨀①(hīna) 🚹⨀①(gamma) 🚹⨀①(pothujjanika)  
+low / vulgar / worldly  
+*`ṇika` {351}, "the property of": `-ika` on `puthujjana` ("an ordinary person"), the first `u` becoming `o`; of the common man; [5: 2.3](../5-dhammacakka/#u2-3).*
+
+5. > majjhe jātaṁ → **majjhimaṁ**
 
 🚹⨀⑦(majjhe) 🚹⨀②🔽(ta)(jātaṁ) → 🚹⨀②🔽(ima)(majjhimaṁ)  
 in the middle / born → middle  
 *`ima` {353}, "born in": `-ima` added to `majjha`, nothing lengthened; `majjhimaṁ yāmaṁ`, "the middle watch", [3: 7.1](../3-awakening/#u7-1).*
-
-8. > Imasmiñca pana **veyyākaraṇasmiṁ** bhaññamāne
-
-*️⃣🤟🚻⨀⑦(ima) ⏏️(ca) ⏏️(pana) 🚻⨀⑦(veyyākaraṇa) 🚻⨀⑦🔽(māna)(bhaññamāna)  
-in this / and / moreover / detailed exposition / being spoken  
-*`ṇa` {352}, by the rule's "other senses": `vyākaraṇa` ("explanation") with `-a`, the `vi` sounding `veyy-`; [9: 10.3](../9-fire/#u10-3), [7: 12.3](../7-anatta/#u12-3).*

@@ -99,7 +99,7 @@ plural (`sukhino`). `-iyā` is any of ③ to ⑦ singular of a feminine
 ⏏️(tatra) ⏏️(kho) 🚹⨀①(bhagavant) 🚹⨂②🆎(pañca+vaggiya) 🚹⨂②(bhikkhu) 🟢⨀🤟⏮(āmanteti)  
 there / indeed / the Bhagavā / of the group of five / bhikkhū / addressed  
 *There the Bhagavā addressed the group of five bhikkhū:*  
-*`bhikkhū`: `-ū`, the ② plural, `yo` dropped and the `u` lengthened {118}, {88}; `pañcavaggiye` agrees with it; [5: 1.2](../5-dhammacakka/#u1-2).*
+*`bhikkhū`: `-ū`, the ② plural, `yo` dropped and the `u` lengthened {118}, {88}, the object of `āmantesi`; `pañcavaggiye` agrees with it; [5: 1.2](../5-dhammacakka/#u1-2).*
 
 > **jātipi** dukkhā, jarāpi dukkhā, **byādhipi** dukkho
 
@@ -108,11 +108,11 @@ birth / too / suffering / aging / too / suffering / illness / too / suffering
 *Birth is `dukkha` (suffering), aging is `dukkha`, illness is `dukkha`.*  
 *`jāti`, `byādhi`: `-i`, the ① singular {220}, with `pi` (`api`) joined on; `dukkhā` and `dukkho` show `jāti` feminine, `byādhi` masculine; [5: 4.1](../5-dhammacakka/#u4-1).*
 
-> Atha kho bhagavā **rattiyā** paṭhamaṁ yāmaṁ paṭiccasamuppādaṁ anulomapaṭilomaṁ manasākāsi—
+> **rattiyā** paṭhamaṁ yāmaṁ
 
-⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚺⨀⑥(ratti) 🚹⨀②(paṭhama) 🚹⨀②(yāma) 🚹⨀②🆎(paṭicca+samuppāda) 🚹⨀②🆎(anuloma+paṭiloma) 🟢⨀🤟⏮(manasikaroti)  
-then / indeed / the Bhagavā / of the night / first / watch / dependent origination / in forward and reverse order / attended to  
-*Then the Bhagavā, during the first watch of the night, attended to `paṭiccasamuppādaṁ` (dependent origination) in forward and reverse order —*  
+🚺⨀⑥(ratti) 🚹⨀②(paṭhama) 🚹⨀②(yāma)  
+of the night / first / watch  
+*during the first watch of the night*  
 *`rattiyā`: `-iyā`, the feminine singular shape for ③ to ⑦ {112}; here ⑥, "of the night"; [3: 2.3](../3-awakening/#u2-3).*
 
 > Dveme, **bhikkhave**, antā pabbajitena na sevitabbā.
@@ -124,9 +124,9 @@ two / these / bhikkhave / extremes / by one gone forth / not / should be cultiva
 
 ### Exercises
 
-For the word in bold (from chapters [3](../3-awakening/), [5](../5-dhammacakka/),
-[7](../7-anatta/), [9](../9-fire/) and [11](../11-pbt/)) name the lemma and its
-gender, the ending, the number and the job, and cite the rule.
+For the word in bold (from chapters [5](../5-dhammacakka/), [7](../7-anatta/),
+[9](../9-fire/) and [11](../11-pbt/)) name the lemma and its gender, the
+ending, the number and the job, and cite the rule.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -137,8 +137,8 @@ deconstruction.
 1. akuppā me **vimutti**, ayamantimā **jāti**
 2. anuttaraṁ **sammāsambodhiṁ** abhisambuddho
 3. Attamanā pañcavaggiyā **bhikkhū** bhagavato bhāsitaṁ abhinandunti.
-4. **najjā** nerañjarāya tīre
-5. **Nimmānaratīnaṁ** devānaṁ saddaṁ sutvā
+4. Adhigatamidaṁ **bahūhi**,
+5. Evaṁ khandhā ca **dhātuyo**,
 6. pañcavaggiyānaṁ **bhikkhūnaṁ** anupādāya āsavehi cittāni vimucciṁsūti
 7. **Rāgagginā**, dosagginā, mohagginā ādittaṁ, **jātiyā** jarāya maraṇena
 8. Tañce, āvuso, **bhikkhuṁ** pare aniṭṭhehi akantehi amanāpehi samudācaranti—
@@ -168,19 +168,19 @@ delighted / of the group of five / bhikkhū / of the Bhagavā / what was spoken 
 *The group of five bhikkhū, delighted, rejoiced in the Bhagavā's words.*  
 *`bhikkhū`: masculine, `-ū`, here the ① plural {118}, {88}, the subject of `abhinanduṁ`; in the first example the same shape was ②; [5: 10.4](../5-dhammacakka/#u10-4).*
 
-4. > **najjā** nerañjarāya tīre
+4. > Adhigatamidaṁ **bahūhi**,
 
-🚺⨀⑥(nadī) 🚺⨀⑥(nerañjarā) 🚻⨀⑦(tīra)  
-of the river / Nerañjarā / on the bank  
-*on the bank of the Nerañjarā river*  
-*`najjā`: feminine `nadī`, the ⑥ singular: `-iyā` {112} with the `i` become `y` {72}, `nadyā`, and `dy` said `jj`; [3: 2.1](../3-awakening/#u2-1).*
+🚻⨀①(adhigata) 🚻⨀①(ima) 🚹⨂③(bahu)  
+achieved / this / by many  
+*This is achieved by many,*  
+*`bahūhi`: masculine `bahu` (many), `-ūhi`, the ③ plural, the `u` lengthened before `hi` {89}, "by"; [11: 49, 66.1](../11-pbt/#s49-u66-1).*
 
-5. > **Nimmānaratīnaṁ** devānaṁ saddaṁ sutvā
+5. > Evaṁ khandhā ca **dhātuyo**,
 
-🚹⨂⑥🆎(nimmāna+ratī) 🚹⨂⑥(deva) 🚹⨀②(sadda) 🔽(tvā)(suṇāti)  
-of the Nimmānaratī / devas / the cry / having heard  
-*Hearing the cry of the Nimmānaratī devas*  
-*`nimmānaratīnaṁ`: masculine `-ī` lemma, `-īnaṁ`, the ⑥ plural {89}, agreeing with `devānaṁ`; [5: 12.7](../5-dhammacakka/#u12-7).*
+🔼(evaṁ) 🚹⨂①(khandha) 🔼(ca) 🚺⨂①(dhātu)  
+thus / collections / and / elements  
+*Thus, the collections and elements,*  
+*`dhātuyo`: feminine `dhātu`, `-uyo`, the ① plural, `yo` kept {55}, as `khandhā` beside it; [11: 20, 6.1](../11-pbt/#s20-u6-1).*
 
 6. > pañcavaggiyānaṁ **bhikkhūnaṁ** anupādāya āsavehi cittāni vimucciṁsūti
 

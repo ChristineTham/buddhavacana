@@ -124,8 +124,8 @@ deconstruction.
 1. Pavattite ca pana **bhagavatā** dhammacakke
 2. mārena vā **brahmunā** vā kenaci vā
 3. aññaṁ **satthāraṁ** uddiseyyāthā”ti
-4. **jānato passato** na cetanāya karaṇīyaṁ
-5. So kho ahaṁ, bhikkhave, **attanā** jātidhammo samāno
+4. **āyasmantaṁ** sāriputtaṁ bhagavā etadavoca
+5. eso me **attā**
 6. Yāvajīvaṁ **arahanto** abrahmacariyaṁ pahāya
 7. Evaṁ **passaṁ**, bhikkhave, **sutavā** ariyasāvako
 8. **Mano** āditto, dhammā ādittā, **manoviññāṇaṁ** ādittaṁ, manosamphasso āditto.
@@ -152,17 +152,17 @@ by Māra / or / by Brahmā / or / by anyone / or
 another / teacher / appoint  
 *"Will you appoint another teacher?": `satthāraṁ`, ② singular of `satthu`, with `-ār-` {200}; [11: 1, 24.10](../11-pbt/#s1-u24-10).*
 
-4. > **jānato passato** na cetanāya karaṇīyaṁ
+4. > **āyasmantaṁ** sāriputtaṁ bhagavā etadavoca
 
-🚻⨀④(jānanta) 🚹⨀④(passanta) 🔼(no) 🚺⨀③(cetana) 🚻⨀①(karaṇīya)  
-for knowing / for seeing / no / with intention / ought to be done  
-*"One who sees and know reality as it is": `jānato`, `passato`, ④⑥ singular of the participles {187}, {127}; [11: 18, 1.22](../11-pbt/#s18-u1-22).*
+🚹⨀②(āyasmant) 🚹⨀②(sāriputta) 🚹⨀①(bhagavant) 🔵⏮🤟⨀(etadavoca)  
+Venerable / Sāriputta / Bhagavant / said this  
+*"The Bhagavant said this to Venerable Sāriputta": `āyasmantaṁ`, ② singular of `āyasmantu`, `-antaṁ` {92}; `sāriputtaṁ` agrees with it; [11: 44, 1.3](../11-pbt/#s44-u1-3).*
 
-5. > So kho ahaṁ, bhikkhave, **attanā** jātidhammo samāno
+5. > eso me **attā**
 
-🚹⨀①(ta) 🔼(kho) *️⃣👆⚧⨀①(ahaṁ) 🚹⨂⓪(bhikkhu) 🚹⨀⑤(atta) 🚹⨀①(jātidhamma) 🚹⨀①(samāna)  
-that / indeed / I / Bhikkhave / from self / liable to birth / being  
-*"From my own doing I was liable to birth": `attanā`, ⑤ singular of `atta`, `nā` for `smā` {214}, also ③; [11: 46, 18.1](../11-pbt/#s46-u18-1).*
+*️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨀①(atta)  
+this / my / self  
+*"This is my `attā` (self)": `attā`, ① singular of `atta`, `-ā` {189}, as `rājā`; [7: 6.5](../7-anatta/#u6-5).*
 
 6. > Yāvajīvaṁ **arahanto** abrahmacariyaṁ pahāya
 

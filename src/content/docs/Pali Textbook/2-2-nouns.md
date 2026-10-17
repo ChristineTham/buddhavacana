@@ -139,15 +139,15 @@ birth / too / suffering / aging / too / suffering / illness / too / suffering / 
 
 🚹⨀④(upasama) 🚺⨀④(abhiññā) 🚹⨀④(sambodha) 🚻⨀④(nibbāna) 🟢⨀🤟▶️(saṁvattati)  
 to calm / to direct knowledge / to enlightenment / to extinguishment / leads  
-*`-āya` on an `a` lemma is ④⨀, "to" {109}; on the 🚺 `abhiññā` the same `-āya` serves ③ to ⑦ {111}; [5: 2.4](../5-dhammacakka/#u2-4).*
+*`-āya` on an `a` lemma is ④⨀, "to" {109}; on the 🚺 `abhiññā` the `-āya` of {111} is ④ too, as its three neighbours; [5: 2.4](../5-dhammacakka/#u2-4).*
 
 ### Exercises
 
-Each sentence is from chapter [3](../3-awakening/), [5](../5-dhammacakka/),
-[7](../7-anatta/) or [9](../9-fire/), which translates it. Name the gender,
-number and ending of every noun or adjective in `-a` or `-ā`;
-`bhagavā`, `bhikkhū` and `cakkhuṁ` belong to [2.3](../2-3-vowel-lemmas/) and
-[2.4](../2-4-irregular/).
+Each sentence or phrase is from chapter [3](../3-awakening/),
+[5](../5-dhammacakka/), [9](../9-fire/) or [11](../11-pbt/), which translates
+it. Name the gender, number and ending of every noun or adjective in `-a` or
+`-ā`; `bhagavā`, `bhikkhū` and `cakkhuṁ` belong to [2.3](../2-3-vowel-lemmas/)
+and [2.4](../2-4-irregular/).
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -158,11 +158,11 @@ deconstruction.
 1. Ekaṁ samayaṁ bhagavā gayāyaṁ viharati gayāsīse saddhiṁ bhikkhusahassena.
 2. Evametassa kevalassa dukkhakkhandhassa samudayo hoti.
 3. Athassa kaṅkhā vapayanti sabbā,
-4. pubbe ananussutesu dhammesu cakkhuṁ udapādi
+4. ananussutesu dhammesu cakkhuṁ udapādi
 5. appiyehi sampayogo dukkho, piyehi vippayogo dukkho
 6. Yato khayaṁ paccayānaṁ avedī”ti.
-7. Vidhūpayaṁ tiṭṭhati mārasenaṁ,
-8. Vimuttasmiṁ vimuttamiti ñāṇaṁ hoti.
+7. sabyābajjhaṁ vedanaṁ vedayati
+8. kāyasmiṁ viharati
 
 ### Answers
 
@@ -186,17 +186,17 @@ thus / of this / of the entire / of the mass of suffering / origin / is
 then / his / doubts / vanish / all  
 *`kaṅkhā`: 🚺⨂①, `-ā` {118}, with a plural verb; `sabbā` agrees, 🚺⨂①; [3: 6.3](../3-awakening/#u6-3).*
 
-4. > pubbe ananussutesu dhammesu cakkhuṁ udapādi
+4. > ananussutesu dhammesu cakkhuṁ udapādi
 
-⏏️(pubbe) 🚹⨂⑦🔽(ta)🆎(na+anussuta) 🚹⨂⑦(dhamma) 🚻⨀①(cakkhu) 🟢⨀🤟⏮(uppajjati)  
-before / not heard / in dhammas / insight / arose  
+🚹⨂⑦🔽(ta)🆎(na+anussuta) 🚹⨂⑦(dhamma) 🚻⨀①(cakkhu) 🟢⨀🤟⏮(uppajjati)  
+not heard / in dhammas / insight / arose  
 *`ananussutesu dhammesu`: 🚹⨂⑦, `-esu` {101}, "in", on adjective and noun alike; [5: 5.1](../5-dhammacakka/#u5-1).*
 
 5. > appiyehi sampayogo dukkho, piyehi vippayogo dukkho
 
 🚹⨂③🆎(na+piya) 🚹⨀①(sampayoga) 🚹⨀①(dukkha) 🚹⨂③(piya) 🚹⨀①(vippayoga) 🚹⨀①(dukkha)  
 with the unloved / association / suffering / from the loved / separation / suffering  
-*`appiyehi`, `piyehi`: 🚹⨂③, `-ehi` {101}, "with"; `sampayogo`, `vippayogo` and the agreeing `dukkho`: 🚹⨀①, `-o` {104}; [5: 4.1](../5-dhammacakka/#u4-1).*
+*`appiyehi`, `piyehi`: 🚹⨂③, `-ehi` {101}; `sampayogo`, `vippayogo` and the agreeing `dukkho`: 🚹⨀①, `-o` {104}; [5: 4.1](../5-dhammacakka/#u4-1).*
 
 6. > Yato khayaṁ paccayānaṁ avedī”ti.
 
@@ -204,14 +204,14 @@ with the unloved / association / suffering / from the loved / separation / suffe
 since / the destruction / of conditions / knew / (end quote)  
 *`khayaṁ`: 🚹⨀②, `-aṁ` {83}, the object; `paccayānaṁ`: 🚹⨂⑥, `-ānaṁ` {89}, "of"; [3: 9.4](../3-awakening/#u9-4).*
 
-7. > Vidhūpayaṁ tiṭṭhati mārasenaṁ,
+7. > sabyābajjhaṁ vedanaṁ vedayati
 
-🚹⨀①🔽(anta)(vidhūpayanta) 🟢⨀🤟▶️(tiṭṭhati) 🚺⨀②🆎(māra+senā)  
-scattering / stands / the army of Māra  
-*`mārasenaṁ`: 🚺⨀②, the `-aṁ` of a lemma in `-ā` {83}, as `kaññaṁ`; `senā` ("army") is `fem`; [3: 12.3](../3-awakening/#u12-3).*
+🚺⨀②(sabyābajjha) 🚺⨀②(vedanā) ▶️🤟⨀(vedayati)  
+harmful / feelings / experiences  
+*`vedanaṁ`: 🚺⨀②, the `-aṁ` of a lemma in `-ā` {83}, as `kaññaṁ`, `vedanā` ("feeling") being `fem`; `sabyābajjhaṁ` agrees with it; [11: 23, 1.6](../11-pbt/#s23-u1-6).*
 
-8. > Vimuttasmiṁ vimuttamiti ñāṇaṁ hoti.
+8. > kāyasmiṁ viharati
 
-🚻⨀⑦🔽(ta)(vimutta) 🚻⨀①🔽(ta)(vimutta) ⏏️(iti) 🚻⨀①(ñāṇa) 🟢⨀🤟▶️(hoti)  
-in liberation / liberated / (end quote) / knowledge / there is  
-*`vimuttasmiṁ`: 🚻⨀⑦, `-smiṁ` {55} beside `-e`, "in"; `vimuttaṁ` (in `vimuttamiti`) and `ñāṇaṁ`: 🚻⨀①, `-aṁ` {219}; [7: 11.3](../7-anatta/#u11-3).*
+🚹⨀⑦(kāya) ▶️🤟⨀(viharati)  
+in physical processes / stays aware  
+*`kāyasmiṁ`: 🚹⨀⑦, `-smiṁ` beside `-e`, "in"; [11: 36, 3.4](../11-pbt/#s36-u3-4).*

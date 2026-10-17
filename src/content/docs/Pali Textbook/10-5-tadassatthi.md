@@ -29,8 +29,8 @@ phrase `X yassa atthi` ("of whom there is X") and lists nine affixes
 {364}–{371}. When you meet such a word, ask what noun is left when the `-vā`,
 `-mā` or `-ī` is taken away, and who has it.
 
-One more affix means "made of that" (`tappakati`): `sovaṇṇamayaṁ` is "made of
-gold" {372}.
+One more affix means "made of that" (`tappakati`): `dārumayaṁ` is "made of
+wood" {372}.
 
 ### How to recognise a word meaning "having …"
 
@@ -39,11 +39,11 @@ gold" {372}.
 | `vantu` | `-vā` on a word in `a` or `ā` | `guṇavā`, `bhagavā` | has `guṇa` (virtue), `bhaga` (good fortune): virtuous, the Blessed One | {368} |
 | `mantu` | `-mā` on a word in `i` or `u`; `āyu` becomes `āyas-` before it | `satimā`, `āyasmā` | has `sati` (mindfulness), `āyu` (life): mindful, venerable | {369}, {371} |
 | `ī`, `ika` | `-ī` or `-iko` in place of the final vowel | `daṇḍī`, `daṇḍiko` | has a `daṇḍa` (staff) | {366} |
-| `vī` | `-vī` on a word in `ā`; the rule's `ca` adds `sa`, `-so` | `medhāvī`, `sumedhaso` | has `medhā` (wisdom): wise | {364} |
-| `sī` | `-ssī`, the `s` doubled | `tapassī` | has `tapa` (austerity): an ascetic | {365} |
+| `vī` | `-vī` on a word in `ā` | `medhāvī` | has `medhā` (wisdom): wise | {364} |
+| `sī` | `-ssī` | `tapassī` | has `tapa` (austerity): an ascetic | {365} |
 | `ra` | `-ro` | `madhuro` | has `madhu` (honey): sweet | {367} |
 | `ṇa` | nothing you can see: the noun with `-o`; `ddh`, `ññ` keep the first vowel short ([10.1](../10-1-apacca/)) | `saddho`, `pañño` | has `saddhā` (faith), `paññā` (wisdom): faithful, wise | {370} |
-| `maya` | `-maya` after the name of a material | `sovaṇṇamayaṁ` | made of `suvaṇṇa` (gold) | {372} |
+| `maya` | `-maya` after the name of a material | `dārumayaṁ` | made of `dāru` (wood) | {372} |
 
 The vutti gives every word in the masculine ①; the word takes the gender of
 the noun it describes. Every rule number links to the full rule;
@@ -62,7 +62,7 @@ lemma `bhagavant`, `āyasmant`, as the symbol lines of chapters
 | ① | `-vā`, `-mā` | `bhagavā` ([3: 2.1](../3-awakening/#u2-1), [7: 1.1](../7-anatta/#u1-1)), `sutavā` ([9: 8.1](../9-fire/#u8-1)), `āyasmā` ([11: 44, 1.3](../11-pbt/#s44-u1-3)), `satimā` ([11: 40, 12.1](../11-pbt/#s40-u12-1)) | {124} |
 | ② | `-vantaṁ`, `-mantaṁ` | `bhagavantaṁ`, `āyasmantaṁ` ([11: 44, 1.3](../11-pbt/#s44-u1-3)) | |
 | ③ | `-vatā`, `-matā` | `bhagavatā` ([5: 12.1](../5-dhammacakka/#u12-1), [11: 45, 9.5](../11-pbt/#s45-u9-5)) | {127} |
-| ④ ⑥ | `-vato`, `-mato` | `sīlavato` ([11: 18, 1.1](../11-pbt/#s18-u1-1)), `bhagavato` ([7: 1.3](../7-anatta/#u1-3), [9: 10.2](../9-fire/#u10-2)), `āyasmato` ([5: 11.1](../5-dhammacakka/#u11-1)) | {127} |
+| ④ ⑥ | `-vato`, `-mato` | `bhagavato` ([7: 1.3](../7-anatta/#u1-3): ④, [9: 10.2](../9-fire/#u10-2): ⑥) | {127} |
 | ① ⨂ | `-vanto`, `-manto` | `guṇavanto` | {122} |
 
 Rule {127} is optional: `guṇavantassa`, `guṇavantena`, `guṇavantasmiṁ` occur
@@ -88,18 +88,17 @@ intelligence / of whom / there is → one who has intelligence, wise
 a staff / of whom / there is → one who has a staff  
 *`ī` {366}: the final `a` of `daṇḍa` gives way to `-ī`; `daṇḍiko`, with `ika`, means the same.*
 
-> suvaṇṇena pakataṁ kammaṁ → **sovaṇṇamayaṁ**
+> dārunā pakataṁ kammaṁ → **dārumayaṁ**
 
-🚻⨀③(suvaṇṇena) 🚻⨀①🔽(ta)(pakataṁ) 🚻⨀①(kammaṁ) → 🚻⨀①🔽(maya)(sovaṇṇamayaṁ)  
-with gold / made / a work → made of gold  
-*`maya` {372}: `-maya` after the material; `suvaṇṇa` has the form `sovaṇṇa` here {391}.*
+🚻⨀③(dārunā) 🚻⨀①🔽(ta)(pakataṁ) 🚻⨀①(kammaṁ) → 🚻⨀①🔽(maya)(dārumayaṁ)  
+with wood / made / a work → made of wood, wooden  
+*`maya` {372}: `-maya` after the material `dāru`; neuter (🚻), agreeing with `kammaṁ`.*
 
 ### Exercises
 
 Resolve each word into its noun and affix, and give its meaning; the first
-five you met in the texts, at the sentences linked (`sīlavā` as its ④,
-`sīlavato`). Look the words up in a dictionary and note the sense the affix
-carries.
+four you met in the texts, at the sentences linked. Look the words up in a
+dictionary and note the sense the affix carries.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -110,11 +109,9 @@ deconstruction.
 1. bhagavā ([3: 2.1](../3-awakening/#u2-1), [7: 1.1](../7-anatta/#u1-1))
 2. āyasmā ([11: 44, 1.3](../11-pbt/#s44-u1-3))
 3. satimā ([11: 40, 12.1](../11-pbt/#s40-u12-1))
-4. sīlavā ([11: 18, 1.1](../11-pbt/#s18-u1-1): `sīlavato`)
-5. sutavā ([7: 11.1](../7-anatta/#u11-1): `sutavā ariyasāvako`; also [9: 8.1](../9-fire/#u8-1))
-6. paññavā
-7. medhāvī
-8. dārumayaṁ
+4. sutavā ([7: 11.1](../7-anatta/#u11-1): `sutavā ariyasāvako`; also [9: 8.1](../9-fire/#u8-1))
+5. paññavā
+6. medhāvī
 
 ### Answers
 
@@ -138,32 +135,20 @@ life / his / there is → one who has life, venerable
 mindfulness / of whom / there is → one who has mindfulness, mindful  
 *`mantu` {369}: `sati` + `-mā`; [11: 40, 12.1](../11-pbt/#s40-u12-1) has it in `upekkhako satimā sukhavihārī`.*
 
-4. > sīlaṁ yassa atthi → **sīlavā**
-
-🚻⨀①(sīlaṁ) *️⃣🤟🚹⨀⑥(yassa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(vantu)(sīlavā)  
-ethical conduct / of whom / there is → one who has ethical conduct, virtuous  
-*`vantu` {368}: `sīla` + `-vā`; [11: 18, 1.3](../11-pbt/#s18-u1-3) has its ④, `sīlavato`, "for whoever is moral" {127}.*
-
-5. > sutavā ariyasāvako
+4. > **sutavā** ariyasāvako
 
 🚹⨀①(sutavant) 🚹⨀①🆎(ariya+sāvaka)  
 learned / awakened disciple  
 *`vantu` {368}: `suta` (learning, what is heard) + `-vā`, "one who has learning"; the lemma `sutavant` ends in `-vā` in the ① {124}.*
 
-6. > paññā yassa atthi → **paññavā**
+5. > paññā yassa atthi → **paññavā**
 
 🚺⨀①(paññā) *️⃣🤟🚹⨀⑥(yassa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(vantu)(paññavā)  
 wisdom / of whom / there is → one who has wisdom, wise  
 *`vantu` {368}: `paññā` + `-vā`, the final `ā` shortened before the affix {403}.*
 
-7. > medhā yassa atthi → **medhāvī**
+6. > medhā yassa atthi → **medhāvī**
 
 🚺⨀①(medhā) *️⃣🤟🚹⨀⑥(yassa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(vī)(medhāvī)  
 wisdom / of whom / there is → one who has wisdom, wise  
 *`vī` {364}: `medhā` + `-vī`; so too `māyāvī` ("deceitful") from `māyā`.*
-
-8. > dārunā pakataṁ kammaṁ → **dārumayaṁ**
-
-🚻⨀③(dārunā) 🚻⨀①🔽(ta)(pakataṁ) 🚻⨀①(kammaṁ) → 🚻⨀①🔽(maya)(dārumayaṁ)  
-with wood / made / a work → made of wood, wooden  
-*`maya` {372}: `dāru` + `-maya`; neuter (🚻), agreeing with `kammaṁ`, like all the vutti's `maya` words.*

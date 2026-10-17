@@ -81,8 +81,8 @@ them, `kho me`, `…saccan’ti me` {147}–{151}. Rarer: `mayhaṁ`, `tuyhaṁ`
 :::note[`te` and `taṁ`: two words each]
 `te` is "they, those" (`ta` ①⨂ 🚹: `te bhikkhū`, [7: 1.3](../7-anatta/#u1-3)) and also "you, your" (`tumha`
 ⨀, leaning on the word before it: `kho te, sāriputta, indriyāni`, [11: 44, 2.1](../11-pbt/#s44-u2-1)); `taṁ` is
-"that" (`ta`, ① 🚻 or ② of any gender) and "you" (`tumha` ②⨀). A plural noun in
-① beside it, or a verb in the second person, decides.
+"that" (`ta`, ① 🚻 or ② of any gender) and "you" (`tumha` ②⨀). A noun agreeing
+with it makes it `ta`; none agreeing (`indriyāni` is neuter) makes it `tumha`.
 :::
 
 ### `yo … so`: the pair that makes a clause
@@ -131,11 +131,11 @@ two / these / bhikkhave / extremes
 which / of that / very / craving / remainderless fading away and cessation  
 *"Which is the … cessation of that very craving" ([5: 4.3](../5-dhammacakka/#u4-3)): `tassāyeva` is `tassā` + `eva`; `tassā`, `ta` ⑥⨀ 🚺 {179}, goes with `taṇhāya`, and `yo` {104} with `nirodho`.*
 
-> ‘**etaṁ mama**, **esohamasmi**, **eso me** attā’
+> **etaṁ mama**
 
-*️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨀①(atta)  
-this / mine / this / I / am / this / my / self  
-*"This is mine, this I am, this is my `attā`" ([7: 6.5](../7-anatta/#u6-5)): `etaṁ` 🚻 and `eso` 🚹 {174}, {219} take the gender of what they point to; `mama` {141} and `me` {148} are both ⑥⨀; `esohamasmi` is `eso` + `ahaṁ` + `asmi` ([2.1](../2-1-sandhi/)).*
+*️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ)  
+this / mine  
+*"This is mine" ([7: 6.5](../7-anatta/#u6-5)): `etaṁ`, `eta` ①⨀ 🚻 {219}, points to the `rūpaṁ` under discussion and takes its gender; `mama`, `amha` ⑥⨀ {141}.*
 
 > **yaṁ kiñci** samudayadhammaṁ **sabbaṁ taṁ** nirodhadhamman”ti
 
@@ -161,8 +161,8 @@ deconstruction.
 4. Yo cāyaṁ kāmesu kāmasukhallikānuyogo. ([5: 2.3](../5-dhammacakka/#u2-3))
 5. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne ([7: 12.3](../7-anatta/#u12-3))
 6. neva tāvāhaṁ, bhikkhave ([5: 9.1](../5-dhammacakka/#u9-1))
-7. Yato ca kho me, bhikkhave ([5: 10.1](../5-dhammacakka/#u10-1))
-8. Tassa te saṅkhārā ca vihārā ca. ([11: 24, 3.5](../11-pbt/#s24-u3-5))
+7. Yadā have pātubhavanti dhammā ([3: 6.1](../3-awakening/#u6-1))
+8. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. ([9: 10.2](../9-fire/#u10-2))
 
 ### Answers
 
@@ -210,16 +210,16 @@ not / indeed / so long / I / bhikkhave
 *so long, bhikkhave, I did not …*  
 `tāvāhaṁ` is `tāva` + `ahaṁ` ([2.1](../2-1-sandhi/)): `ahaṁ`, `amha` ①⨀ {140}, the subject of `paccaññāsiṁ`; `tāva` answers the `yāva` before it.
 
-7. > Yato ca kho me, bhikkhave
+7. > Yadā have pātubhavanti dhammā
 
-⏏️(yato) ⏏️(ca) ⏏️(kho) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨂⓪(bhikkhu)  
-but when / and / indeed / my / bhikkhave  
-*But when, bhikkhave, my …*  
-`yato`: `ya` + `to`, "from which", here "when", in the sense of ⑤ {248}; `me`, `amha` ⑥⨀ {148}, "my", leans on `kho`.
+⏏️(yadā) ⏏️(have) 🟢⨂🤟▶️(pātubhavati) 🚹⨂①(dhamma)  
+when / indeed / appear / phenomena  
+*When indeed `dhammā` (phenomena) become manifest*  
+`yadā`: `ya` + `dā` {257}, "when", opening the clause that `atha` ("then", [3: 6.3](../3-awakening/#u6-3)) answers.
 
-8. > Tassa te saṅkhārā ca vihārā ca.
+8. > Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ.
 
-🚹⨀⑥(ta) 🚹⨂①(ta) 🚹⨂①(saṅkhāra) 🔼(ca) 🚹⨂①(vihāra) 🔼(ca)  
-of that / those / mental constructions / and / state of mind / and  
-*Regarding that, those mental constructions and state of mind …*  
-`tassa`, `ta` ⑥⨀ 🚹 {61}, stands for the bhikkhu of the sentence before; `te`, `ta` ①⨂ 🚹 {164}, agrees with `saṅkhārā` and `vihārā`.
+🚹⨂①🆎(atta+mana) *️⃣🤟🚹⨂①(ta) 🚹⨂①(bhikkhu) 🚹⨀⑥(bhagavant) 🚻⨀②🔽(ta)(bhāsita) 🟢⨂🤟⏮(abhinandati)  
+delighted / those / bhikkhū / of the Bhagavā / what was spoken / rejoiced in  
+*Those bhikkhū, delighted, rejoiced in the Bhagavā’s words.*  
+`te`, `ta` ①⨂ 🚹 {164}, "those": it agrees with `bhikkhū`, a masculine plural noun in ①, so it is not the `te` "your" of `tumha`.

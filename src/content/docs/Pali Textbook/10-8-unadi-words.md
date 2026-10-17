@@ -70,7 +70,7 @@ cites.
 | {638} | more words taken as they stand: `pabbajjā` (the going forth), `icchā` (a wish) |
 | {644}, {645}, {646} | `thu`: `vamathu` (vomit); `āni` in reproach: `agamāni` (no going); `kkhattuṁ`: `tikkhattuṁ` (three times) |
 | {647}, {648}, {649} | shapes of `suna` (a dog), `taruṇa` (young), `yuva` (a youth): `soṇo`, `susu`, `yuvā` |
-| {656}, {657}, {658} | `ta`, `ṇitta`, `tti`, `ti`: `chattaṁ` (a parasol), `mettā` (goodwill), `cārittaṁ` (conduct) |
+| {656}, {657}, {658} | `ta`, `ṇitta`, `tti`, `ti`: `chattaṁ` (a parasol), `cārittaṁ` (conduct), `metti` (goodwill) |
 | {659}, {660}, {661} | `ṭha`, `tha`, `da`, `ka`: `raṭṭhaṁ` (a country), `vatthaṁ` (cloth), `soko` (grief) |
 | {662}, {663}, {664} | `heraṇ`, `ka`, `andha`, `gandha`: `pāṭiheraṁ` (a marvel), `daṇḍo` (a staff), `andho` (blind) |
 | {665}, {666}, {667} | `puthu`, `patha` for `putha`: `pathavī` (the earth), `puthujjano` (an ordinary person); `tu`: `sattu` (an enemy) |

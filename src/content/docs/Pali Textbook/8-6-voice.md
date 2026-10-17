@@ -95,11 +95,11 @@ flowchart TD
 
 The passive with the ending of the active {518}:
 
-> Nibbindaṁ virajjati; virāgā **vimuccati**
+> virāgā **vimuccati**
 
-🚹⨀①🔽(anta)(nibbindanta) 🟢⨀🤟▶️(virajjati) 🚹⨀⑤(virāga) 🔵⨀🤟▶️(vimuccati)  
-giving up / becomes detached / from detachment / is liberated → Giving up, he `virajjati` (becomes detached); from detachment he `vimuccati` (becomes liberated).  
-*`vimuccati`, the passive: `muca` + `ya` as `-cc-` {441}, the active ending {518}; `virajjati` beside it is marked 🟢, "becomes detached": the meaning decides; [9: 9.1](../9-fire/#u9-1).*
+🚹⨀⑤(virāga) 🔵⨀🤟▶️(vimuccati)  
+from detachment / is liberated → from detachment he `vimuccati` (becomes liberated)  
+*`vimuccati`, "is liberated", the passive: `muca` + `ya` as `-cc-` {441}, with the active ending {518}; [9: 9.1](../9-fire/#u9-1).*
 
 Kaccāyana's own example of the `ī` {442}, in chapter 11:
 
@@ -123,7 +123,7 @@ The causative in the past, with its lengthening:
 
 🚹⨂①(bhumma) 🚹⨂①(deva) 🟢⨂🤟⏮(saddamanussāveti)  
 earth-dwelling / devas / raised a cry → `bhummā devā` (the earth-dwelling devas) raised a cry  
-*`saddamanussāvesuṁ` 🟠: `saddaṁ anu-sāv-e-suṁ`, "made the sound heard": `su` strengthened to `sāv` {483}, {515}, the causative `e` {438}, then the past ending of 8.4; [5: 12.1](../5-dhammacakka/#u12-1).*
+*`saddamanussāvesuṁ` 🟠, "made the cry heard": `saddaṁ` + `anussāvesuṁ`, causative `e` {438} on `su` strengthened to `sāv` {483}, {515}, before the past ending `-suṁ`; [5: 12.1](../5-dhammacakka/#u12-1).*
 
 The `-aya-` causative:
 
@@ -135,8 +135,8 @@ self / tames / the wise → The wise tames the self.
 
 ### Exercises
 
-Each of the following is from chapter [3](../3-awakening/),
-[5](../5-dhammacakka/), [7](../7-anatta/) or [11](../11-pbt/). Find the verb or verb-like form and
+Each of the following is from chapter [5](../5-dhammacakka/),
+[7](../7-anatta/) or [11](../11-pbt/). Find the verb or verb-like form and
 say which piece stands before its ending, whether it is passive, causative or
 neither, and what its root is; a dictionary gives the root's class.
 
@@ -151,8 +151,7 @@ deconstruction.
 3. labbhetha ca rūpe
 4. Usukārā namayanti tejanaṁ;
 5. dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvetabban’ti
-6. imaṁ udānaṁ udānesi
-7. Yato khayaṁ paccayānaṁ avedī”ti.
+6. Taṁ kiṁ maññatha, bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā”ti?
 
 ### Answers
 
@@ -174,7 +173,7 @@ of that / me / Tathāgata / or / disciple of the Buddha / or / Dhamma / taught �
 
 🔵⨀🤟⏯(labhati) ⏏️(ca) 🚻⨀⑦(rūpa)  
 could be obtained / and / in form → and `rūpa` could be obtained  
-*Passive 🔴: `labha` + `ya` as `-bbh-` {443}, with the `attanopada` ending `-etha` {425}, {453}; the next sentence swaps it for `labbhati` {518}; [7: 2.2](../7-anatta/#u2-2).*
+*Passive 🔴: `labha` + `ya` as `-bbh-` {443}, here with the `attanopada` ending `-etha` {425}, {453}; [7: 2.2](../7-anatta/#u2-2).*
 
 4. > Usukārā **namayanti** tejanaṁ;
 
@@ -186,16 +185,10 @@ arrow-maker / straighten / arrow → Arrow makers straighten arrow;
 
 🚺⨀①🆎(dukkhanirodha+gāmī) 🚺⨀①(paṭipadā) 🚻⨀①🆎(ariya+sacca) 🚻⨀①🔽(tabba)(bhāvetabba) ⏏️(iti)  
 leading to the cessation of suffering / path / realisation / to be developed / thus → ‘This `dukkhanirodhagāminī paṭipadā ariyasacca` should be `bhāvetabbaṁ` (developed)’: thus  
-*Causative 🟠 with `-tabba` ([8.8](../8-8-verb-like-forms/)) on top: `bhū` ("be") + `e` {438}, `bhāveti` "makes be", develops; its past participle `bhāvitaṁ` follows in [5: 8.3](../5-dhammacakka/#u8-3); [5: 8.2](../5-dhammacakka/#u8-2).*
+*Causative 🟠 under the `-tabba` of [8.8](../8-8-verb-like-forms/): `bhū` ("be") strengthened to `bhāv` {483}, {515} + `e` {438}, `bhāveti`, "makes be", develops; [5: 8.2](../5-dhammacakka/#u8-2).*
 
-6. > imaṁ udānaṁ **udānesi**
+6. > Taṁ kiṁ **maññatha**, bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā”ti?
 
-*️⃣🤟🚹⨀②(ima) 🚹⨀②(udāna) 🟢⨀🤟⏮(udāneti)  
-this / inspired utterance / uttered → uttered this inspired utterance  
-*Causative in form 🟠: `ud` + `ana` ("breathe") + `e` {438}, the `a` lengthened {483}, "made breathe up"; in sense "uttered", `udānaṁ` in ②; [3: 5.1](../3-awakening/#u5-1).*
-
-7. > Yato khayaṁ paccayānaṁ **avedī**”ti.
-
-⏏️(yato) 🚹⨀②(khaya) 🚹⨂⑥(paccaya) 🟢⨀🤟⏮(vedeti) ⏏️(iti)  
-since / the destruction / of conditions / knew / (end quote) → since he has understood the destruction of conditions.”  
-*Neither: `vida` ("know"), `√vid (8, e, aya)`, is `cura`-class, so the `e` is its own {452}, not causative; the `a-` marks the past {519}; [3: 9.4](../3-awakening/#u9-4).*
+*️⃣🤟🚻⨀②(ta) *️⃣🤟🚻⨀②(kiṁ) 🟢⨂🤘▶️(maññati) 🚹⨂⓪(bhikkhu) 🚻⨀①(rūpa) 🚻⨀①(nicca) ⏏️(vā) 🚻⨀①🆎(na+nicca) ⏏️(vā) ⏏️(iti)  
+that / what / do you think / bhikkhave / form / permanent / or / impermanent / or / (end quote) → “Bhikkhave, what do you consider: is `rūpa` (form) `nicca` (permanent) or `anicca` (impermanent)?”  
+*Neither: `-ññ-` is the `divu` class's own `ya` {447}, {444}, `√man (3, ya)`, and the dictionary glosses it "think", not "is …": active; [7: 6.1](../7-anatta/#u6-1).*

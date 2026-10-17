@@ -37,8 +37,8 @@ is to be done, the purpose.
 | `-anā`, `-ti`, feminine | the act | `yu`, `ti` | `vedanā` "feeling", `jāti` "birth" | {553}, {585} |
 | `-tabba`, `-anīya` | to be done; must, should, may be done | `tabba`, `anīya` | `kattabbaṁ`, `karaṇīyaṁ` "to be done" | {540}, {625}, {635} |
 | `-iya`, `-eyya`, `-ya`, first vowel lengthened | the same | `ṇya` | `kāriyaṁ` "to be done", `neyyaṁ` "to be led" | {541}, {636} |
-| `-tuṁ`, no ending after it | to do: the purpose, beside "wish", "fit", "able" | `tuṁ` | `sotuṁ` "to hear", `vattuṁ` "to speak"; `samanupassituṁ` "to regard", after `kallaṁ` "it is proper" ([7: 6.5](../7-anatta/#u6-5)) | {561}, {562}, {637} |
-| `-ta` | done, or the thing done; the doer, when the thing done keeps ② | `tta` | `pacito` "cooked"; `ādittaṁ` "burning", `vedayitaṁ` "feeling", what is felt ([9: 2.4](../9-fire/#u2-4)); `dānaṁ dinno devadatto` "Devadatta has given a gift" | {625}, {626} |
+| `-tuṁ`, no ending after it | to do: the purpose, beside "wish", "fit", "able" | `tuṁ` | `sotuṁ` "to hear", `vattuṁ` "to speak" | {561}, {562}, {637} |
+| `-ta` | done, or the thing done; the doer, when the thing done keeps ② | `tta` | `pacito` "cooked"; `bhāsitaṁ` "what was spoken" ([9: 10.2](../9-fire/#u10-2)); `dānaṁ dinno devadatto` "Devadatta has given a gift" | {625}, {626} |
 
 A word in `-tabba`, `-anīya` or `-ya` agrees with the thing to be done, and
 the one who must do it stands in ③: `bhottabbo odano bhavatā`, "the rice is
@@ -91,7 +91,7 @@ he does → a doer
 
 🚻⨀①🔽(yu)(ñāṇaṁ)  
 knowing, knowledge  
-*`yu` {641}: `-ana` on `√ñā` (know), neuter: the act of knowing, `ñāṇaṁ hoti` ([7: 11.3](../7-anatta/#u11-3)); the masculine `ñāṇo` is the knower.*
+*`yu` {641}: `-ana` on `√ñā` (know), neuter: the act of knowing, `ñāṇaṁ hoti` ([7: 11.3](../7-anatta/#u11-3)).*
 
 > vedayati → **vedanā**
 
@@ -104,6 +104,12 @@ one feels → feeling
 🚹⨀①🔽(tabba)(bhottabbo) 🚹⨀①(odano) 🚹⨀③(bhavatā)  
 is to be eaten / the rice / by you  
 *`tabba` {625}: "to be eaten"; it agrees with `odano`, and the one who must eat stands in ③.*
+
+> saddhammaṁ **sotuṁ** icchati
+
+🚹⨀②(saddhamma) 🔽(tuṁ)(suṇāti) 🟢⨀🤟▶️(icchati)  
+the true dhamma / to hear / he wishes  
+*`tuṁ` {561}: `-tuṁ` on `√su` (hear), the `u` as `o` {485}: to hear, after `icchati` "he wishes".*
 
 ### Exercises
 
@@ -121,11 +127,8 @@ deconstruction.
 1. satthā ([11: 1, 24.5](../11-pbt/#s1-u24-5): `satthā no garu`)
 2. sāvako (the last member of `ariyasāvako`, [11: 33, 21.17](../11-pbt/#s33-u21-17), [7: 11.1](../7-anatta/#u11-1), [9: 8.1](../9-fire/#u8-1))
 3. sāsanaṁ ([11: 25, 4](../11-pbt/#s25-u4): `etaṁ buddhāna sāsanaṁ`)
-4. dassanaṁ ([11: 43, 16.3](../11-pbt/#s43-u16-3): `ñāṇañca pana me dassanaṁ udapādi`; also [5: 10.2](../5-dhammacakka/#u10-2))
-5. kataṁ karaṇīyaṁ ([9: 9.2](../9-fire/#u9-2); also [7: 11.4](../7-anatta/#u11-4))
-6. jāti ([3: 3.10](../3-awakening/#u3-10): `bhavapaccayā jāti`)
-7. daṭṭhabbaṁ ([7: 7.1](../7-anatta/#u7-1): `sammappaññāya daṭṭhabbaṁ`)
-8. carituṁ ([11: 26, 12.7](../11-pbt/#s26-u12-7): `brahmacariyaṁ carituṁ`)
+4. karaṇīyaṁ ([9: 9.2](../9-fire/#u9-2): `kataṁ karaṇīyaṁ`; also [7: 11.4](../7-anatta/#u11-4))
+5. jāti ([3: 3.10](../3-awakening/#u3-10): `bhavapaccayā jāti`)
 
 ### Answers
 
@@ -133,9 +136,9 @@ deconstruction.
 
 1. > **satthā**
 
-🚹⨀①🔽(ratthu)(satthā)  
+🚹⨀①🔽(tu)(satthā)  
 teacher  
-*`ratthu` {566}: Kaccāyana's shape of `-tu` after `√sāsa` (instruct): the one who instructs.*
+*`tu` {566}: `-tu` on `√sāsa` (instruct), the root shaped `satth-` before it: the one who instructs.*
 
 2. > **sāvako**
 
@@ -149,32 +152,14 @@ a hearer, a disciple
 teaching  
 *`yu` {547}: `-ana` on `√sāsa` (instruct), neuter: the act of instructing, what `satthā` does.*
 
-4. > **dassanaṁ**
-
-🚻⨀①🔽(yu)(dassanaṁ)  
-realisation  
-*`yu` {547}: `-ana` on `√disa` (see), shaped `dass-`: the act of seeing, chapter 11's "realisation".*
-
-5. > kataṁ karaṇīyaṁ
+4. > kataṁ **karaṇīyaṁ**
 
 🚻⨀①🔽(ta)(kata) 🚻⨀①🔽(anīya)(karaṇīya)  
 done / what had to be done  
-*`anīya` {540}: `-aṇīya` on `√kara` (do), `ṇ` after `r` {549}: what is to be done; `kataṁ` is `-ta` {625} with the `r` dropped {587}: done.*
+*`anīya` {540}: `-aṇīya` on `√kara` (do), its `n` as `ṇ` after `r` {549}: what is to be done.*
 
-6. > **jāti**
+5. > **jāti**
 
 🚺⨀①🔽(ti)(jāti)  
 birth  
 *`ti` {553}: `-ti` on `√jana` (be born), its end `ā` before it {585}: the act of being born.*
-
-7. > sammappaññāya daṭṭhabbaṁ
-
-🚺⨀③🆎(sammā+paññā) 🚻⨀①🔽(tabba)(daṭṭhabba)  
-with correct understanding / should be regarded  
-*`tabba` {540}: `-tabba` on `√disa` (see), shaped `daṭṭh-` before it: to be seen, regarded; it agrees with `sabbaṁ rūpaṁ`, neuter ①.*
-
-8. > **carituṁ**
-
-🔽(tuṁ)(carituṁ)  
-to live  
-*`tuṁ` {562}, {637}: `-tuṁ` on `√cara` (live), `i` inserted {605}: the purpose, after `sukaraṁ` "easy to do".*

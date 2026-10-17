@@ -75,7 +75,7 @@ matter of [10.6](../10-6-sankhya/) and [Appendix H](../h-taddhita/).
 
 | number | ordinal | what you see | rule |
 | :-: | --- | --- | :-: |
-| 1 | `paṭhama` | no number inside it: `pa` with `tama` ("-most"), as the dictionary reads it | — |
+| 1 | `paṭhama` | no number inside it: a word of its own | {666} |
 | 2, 3 | `dutiya`, `tatiya` | `-tiya`, with `du` for `dvi` and `ta` for `ti` | {385}, {386} |
 | 4, 6 | `catuttha`, `chaṭṭha` | `-ttha`, `-ṭṭha`; the `cha` of six may become `sa` | {384}, {374} |
 | 5, 7 to 10 | `pañcama`, `sattama`, `aṭṭhama`, `navama`, `dasama` | `-ma` | {373} |
@@ -103,25 +103,25 @@ hell", the 🚹①⨂ of `satta` ("a being").
 
 ### Examples
 
-> Dveme, bhikkhave, antā pabbajitena na sevitabbā.
+> **Dveme**, bhikkhave, antā pabbajitena na sevitabbā.
 
 ⚧⨂①(dvi) *️⃣🤟🚹⨂①(ima) 🚹⨂⓪(bhikkhu) 🚹⨂①(anta) 🚹⨀③🔽(ta)(pabbajita) ⏏️(na) 🚹⨂①🔽(tabba)(sevitabba)  
 two / these / bhikkhave / extremes / by one gone forth / not / should be cultivated  
 *`dve` ([5: 2.1](../5-dhammacakka/#u2-1)): ①⨂ of `dvi` {132}, one shape for all genders; `dveme` is `dve ime` joined ([2.1](../2-1-sandhi/)).*
 
-> Tisso kho imā, āvuso visākha, vedanā—
+> **Tisso** kho imā, āvuso visākha, vedanā—
 
 🚺⨂①(ti) 🔼(kho) 🚺⨂①(ima) 🔼(āvuso) 🚹⨀⓪(visākha) 🚺⨀①(vedanā)  
 three / indeed / these / friend / Visākha / feelings  
 *`tisso` ([11: 10, 22.2](../11-pbt/#s10-u22-2)): the feminine ①⨂ of `ti` {133}, agreeing with `vedanā`; `tayo` with a masculine noun, `tīṇi` with a neuter.*
 
-> imesu catūsu ariyasaccesu
+> imesu **catūsu** ariyasaccesu
 
 *️⃣🤟🚻⨂⑦(ima) 🚻⨂⑦(catu) 🚻⨂⑦🆎(ariya+sacca)  
 in these / four / realisations  
 *`catūsu` ([5: 9.1](../5-dhammacakka/#u9-1)): `-su`, the ⑦⨂, on `catu` with its `u` lengthened {89}; pronoun, number and noun all carry ⑦⨂.*
 
-> rattiyā paṭhamaṁ yāmaṁ
+> rattiyā **paṭhamaṁ** yāmaṁ
 
 🚺⨀⑥(ratti) 🚹⨀②(paṭhama) 🚹⨀②(yāma)  
 of the night / first / watch  
@@ -142,11 +142,10 @@ deconstruction.
 1. Katame dve? ([5: 2.2](../5-dhammacakka/#u2-2))
 2. Ekaṁ samayaṁ ([5: 1.1](../5-dhammacakka/#u1-1); also [7: 1.1](../7-anatta/#u1-1), [9: 1.1](../9-fire/#u1-1))
 3. pañcavaggiyānaṁ bhikkhūnaṁ ([7: 12.3](../7-anatta/#u12-3))
-4. satta vassāni cārihaṁ; ([11: 45, 3.2](../11-pbt/#s45-u3-2))
+4. Tiṇṇaṁ saṅgati phasso. ([11: 19, 2.2](../11-pbt/#s19-u2-2))
 5. tiparivaṭṭaṁ dvādasākāraṁ ([5: 9.1](../5-dhammacakka/#u9-1))
-6. tatiyaṁ jhānaṁ ([11: 40, 12.1](../11-pbt/#s40-u12-1))
-7. ubho ante ([5: 2.4](../5-dhammacakka/#u2-4))
-8. saddhiṁ bhikkhusahassena ([9: 1.1](../9-fire/#u1-1))
+6. Sattamaṁ. ([7: 13.1](../7-anatta/#the-colophon))
+7. ubho ante anupagamma ([5: 2.4](../5-dhammacakka/#u2-4))
 
 ### Answers
 
@@ -168,13 +167,13 @@ one / time
 
 🚹⨂⑥🆎(pañca+vaggiya) 🚹⨂⑥(bhikkhu)  
 of the group of five / bhikkhū  
-*`pañca` bare inside the compound; the 🚹⑥⨂ ending `-ānaṁ` {89} belongs to the whole word and agrees with `bhikkhūnaṁ`.*
+*`pañca` bare inside the compound, counting the `vagga` ("group"); the 🚹⑥⨂ ending `-ānaṁ` {89} belongs to the whole word and agrees with `bhikkhūnaṁ`.*
 
-4. > satta vassāni cārihaṁ;
+4. > Tiṇṇaṁ saṅgati phasso.
 
-⚧⨂①(satta) 🚻⨂①(vassa) 🚻⨀①(cārī) *️⃣👆⚧⨀①(ahaṁ)  
-seven / years / wandered / I  
-*`satta`: ①⨂ {134}, "seven", not `sattā` ("beings"); `vassāni` is the 🚻①⨂ it counts.*
+🚹⨂⑥(ti) 🚺⨀①(saṅgati) 🚹⨀①(phassa)  
+of 3 / combined together / contact  
+*`tiṇṇaṁ`: ⑥⨂ of `ti` {87}, "of the three", `-nnaṁ` where a noun has `-ānaṁ`; it goes with `saṅgati` ("meeting").*
 
 5. > tiparivaṭṭaṁ dvādasākāraṁ
 
@@ -182,20 +181,14 @@ seven / years / wandered / I
 with three phases / with twelve aspects  
 *`ti-` and `dvādasa-` bare as first members, twelve with `dvi` as `dvā` {383}; each compound takes one ending, 🚻①⨀.*
 
-6. > tatiyaṁ jhānaṁ
+6. > Sattamaṁ.
 
-🚻⨀①(tatiya) 🚹⨀②(jhāna)  
-third / jhāna  
-*`tatiyaṁ`: the ordinal `-tiya` {385} with `ta` for `ti` {386}, agreeing with `jhānaṁ`.*
+🚻⨀①(sattama)  
+the seventh  
+*`sattamaṁ`: `-ma` on `satta` {373}; 🚻⨀① with the noun understood, the seventh discourse of the chapter.*
 
-7. > ubho ante
+7. > ubho ante anupagamma
 
-*️⃣🤟🚹⨂②(ubha) 🚹⨂②(anta)  
-both / extremes  
-*`ubho`: ②⨂ of `ubha` ("both"), `-o` for `yo` {205}; its ④ ⑥ is `ubhinnaṁ` {86}.*
-
-8. > saddhiṁ bhikkhusahassena
-
-⏏️(saddhiṁ) 🚻⨀③🆎(bhikkhu+sahassa)  
-together / with a thousand bhikkhū  
-*`sahassa` ("a thousand") as the last member, the compound a `digu` in the dictionary ([6.4](../6-4-digu/)), 🚻⨀③ `-ena` {103}; `saddhiṁ` ("together with") takes the ③ ([4.4](../4-4-instrumental/)).*
+*️⃣🤟🚹⨂②(ubha) 🚹⨂②(anta) 🔽(ya)(anupagacchati)  
+both / extremes / not approaching  
+*`ubho`: ②⨂ of `ubha` ("both"), `-o` for `yo` {205}, the object of `anupagamma` ("not approaching"), as `ante` beside it.*

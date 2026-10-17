@@ -33,7 +33,7 @@ section takes the first six.
 | :-: | :-: | :-: | :-: | --- | :-: |
 | `-ti` | third 🤟 | ⨀ | `ti` | `viharati`, `hoti`, `labhati` | {423} |
 | `-nti` | third 🤟 | ⨂ | `anti`, one `a` dropped {510} | `sambhavanti`, `pātubhavanti` | {423} |
-| `-si` | second 🤘 | ⨀ | `si` | `viharasi` | {423} |
+| `-si` | second 🤘 | ⨀ | `si` | `viharasi` ([11: 44, 2.5](../11-pbt/#s44-u2-5)) | {423} |
 | `-tha` | second 🤘 | ⨂ | `tha` | `maññatha` ([7: 6.1](../7-anatta/#u6-1)) | {423} |
 | `-āmi` | first 👆 | ⨀ | `mi` after a lengthened `a` {478} | `gacchāmi`, `viharāmi`, `vadāmi` ([9: 2.6](../9-fire/#u2-6)) | {423} |
 | `-āma` | first 👆 | ⨂ | `ma`, likewise {478} | none; Kaccāyana's `gacchāma` | {423} |
@@ -92,7 +92,7 @@ when / indeed / appear / phenomena
 
 *️⃣🤟🚻⨀②(ta) *️⃣🤟🚻⨀②(kiṁ) 🟢⨂🤘▶️(maññati) 🚹⨂⓪(bhikkhu) 🚻⨀①(rūpa) 🚻⨀①(nicca) ⏏️(vā) 🚻⨀①🆎(na+nicca) ⏏️(vā) ⏏️(iti)  
 that / what / do you think / bhikkhave / form / permanent / or / impermanent / or / (end quote)  
-*"Bhikkhave, what do you consider: is `rūpa` (form) `nicca` (permanent) or `anicca` (impermanent)?" ([7: 6.1](../7-anatta/#u6-1)) `maññatha`: `-tha`, second person plural {423}, the ⓪ `bhikkhave` its subject; `-ññ-` is `ya` of the `divu` class fused with the root `mana` (to think) {447}.*
+*"Bhikkhave, what do you consider: is `rūpa` (form) `nicca` (permanent) or `anicca` (impermanent)?" ([7: 6.1](../7-anatta/#u6-1)) `maññatha`: `-tha`, second person plural {423}, the subject `tumhe` unsaid {411}; `-ññ-` is `ya` of the `divu` class fused with the root `mana` (to think) {447}.*
 
 > bhikkhu gacchanto vā ‘**gacchāmī**’ti **pajānāti**
 
@@ -111,22 +111,22 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. tasmā rūpaṁ ābādhāya **saṁvattati**, na ca labbhati rūpe—
+1. tasmā rūpaṁ ābādhāya **saṁvattati**,
 2. **natthi** dāni punabbhavo
-3. Vidhūpayaṁ **tiṭṭhati** mārasenaṁ,
-4. Cakkhuñca paṭicca rūpe ca **uppajjati** cakkhuviññāṇaṁ.
-5. Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako cakkhusmimpi **nibbindati**,
-6. Atthaṁ **paleti** na upeti saṅkhaṁ;
+3. Cakkhuñca paṭicca rūpe ca **uppajjati** cakkhuviññāṇaṁ.
+4. Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako cakkhusmimpi **nibbindati**,
+5. sabyābajjhaṁ vedanaṁ **vedayati** ekantadukkhaṁ,
+6. Dhammatā esā, bhikkhave, yaṁ nibbinno viratto vimuttiñāṇadassanaṁ **sacchikaroti**.
 
 ### Answers
 
 *Note: please do the exercises first before checking the answers.*
 
-1. > tasmā rūpaṁ ābādhāya **saṁvattati**, na ca labbhati rūpe—
+1. > tasmā rūpaṁ ābādhāya **saṁvattati**,
 
-⏏️(tasmā) 🚻⨀①(rūpa) 🚹⨀④(ābādha) 🟢⨀🤟▶️(saṁvattati) ⏏️(na) ⏏️(ca) 🔵⨀🤟▶️(labhati) 🚻⨀⑦(rūpa)  
-therefore / form / to affliction / leads / not / and / is obtained / in form  
-*"therefore `rūpa` leads to affliction, and it cannot be obtained:" ([7: 2.3](../7-anatta/#u2-3)) `saṁvattati`: `-ati`, third person singular {423}, `bhū` class {445}; `saṁ` + `vatt`, the root `vatta` (to proceed). `labbhati` beside it is the passive, `labh` + `ya` as `-bbh-` {443}, 🔵 ([8.6](../8-6-voice/)).*
+⏏️(tasmā) 🚻⨀①(rūpa) 🚹⨀④(ābādha) 🟢⨀🤟▶️(saṁvattati)  
+therefore / form / to affliction / leads  
+*"therefore `rūpa` leads to affliction," ([7: 2.3](../7-anatta/#u2-3)) `saṁvattati`: `-ati`, third person singular {423}, `bhū` class {445}; `saṁ` + `vatt`, the root `vatta` (to proceed).*
 
 2. > **natthi** dāni punabbhavo
 
@@ -134,26 +134,26 @@ therefore / form / to affliction / leads / not / and / is obtained / in form
 not / there is / now / renewed becoming  
 *"There is now no more future existence." ([5: 10.2](../5-dhammacakka/#u10-2)) `natthi` is `na` + `atthi`: the root `asa` (to be) with `-tthi` for `-ti` {494}, third person singular, no piece.*
 
-3. > Vidhūpayaṁ **tiṭṭhati** mārasenaṁ,
-
-🚹⨀①🔽(anta)(vidhūpayanta) 🟢⨀🤟▶️(tiṭṭhati) 🚺⨀②🆎(māra+senā)  
-scattering / stands / the army of Māra  
-*"He stands dispelling Māra's army." ([3: 12.3](../3-awakening/#u12-3)) `tiṭṭhati`: `-ati`, third person singular, `bhū` class {445}; the root `ṭhā` (to stand) as `tiṭṭha` {468}.*
-
-4. > Cakkhuñca paṭicca rūpe ca **uppajjati** cakkhuviññāṇaṁ.
+3. > Cakkhuñca paṭicca rūpe ca **uppajjati** cakkhuviññāṇaṁ.
 
 🚻⨀①(cakkhu) 🔼(ca) 🔼(paṭicca) 🚻⨀⑦(rūpa) 🔼(ca) ▶️🤟⨀(uppajjati) 🚻⨀①(cakkhuviññāṇa)  
 faculty of seeing / and / dependent on / on form / and / arises / visual-consciousness  
 *"Visual consciousness (`cakkhuviññāṇa`) arises dependent on `rūpa` (form) and the faculty of seeing." ([11: 19, 2.2](../11-pbt/#s19-u2-2)) `uppajjati`: `-jj-` before `-ati`, `ya` of the `divu` class fused with the root `pada` (to go) {447}.*
 
-5. > Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako cakkhusmimpi **nibbindati**,
+4. > Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako cakkhusmimpi **nibbindati**,
 
 ⏏️(evaṁ) 🚹⨀①🔽(anta)(passanta) 🚹⨂⓪(bhikkhu) 🚹⨀①(sutavant) 🚹⨀①🆎(ariya+sāvaka) 🚻⨀⑦(cakkhu) ⏏️(api) 🟢⨀🤟▶️(nibbindati)  
 thus / seeing / bhikkhave / learned / awakened disciple / the eye / too / gives up  
-*"Thus seeing, bhikkhave, the `sutavā` (learned) `ariyasāvaka` (awakened disciple) `nibbindati` (gives up) the eye" ([9: 8.1](../9-fire/#u8-1)) `nibbindati`: `-nd-` before `-ati`, the `rudha` class, `ṁ` put into the root `vida` (to feel) {446}, written `n` before `d` {31}; the prefix `ni`.*
+*"Thus seeing, bhikkhave, the `sutavā` (learned) `ariyasāvaka` (awakened disciple) `nibbindati` (gives up) the eye" ([9: 8.1](../9-fire/#u8-1)) `nibbindati`: `-nd-` before `-ati`, the `rudha` class's `ṁ` put into the root `vida` (to feel) {446}; the prefix `ni`.*
 
-6. > Atthaṁ **paleti** na upeti saṅkhaṁ;
+5. > sabyābajjhaṁ vedanaṁ **vedayati** ekantadukkhaṁ,
 
-🚻⨀①(attha) ▶️🤟⨀(paleti) 🔼(na) ▶️🤟⨀(upeti) 🚺⨀②(saṅkhā)  
-essence / runs away / no / approaches / definition  
-*"The essence runs away and approaches eluding definition." ([11: 52, 6.3](../11-pbt/#s52-u6-3)) `paleti`: `-ti` after `-e-`, `ṇe` of the `cura` class, its `ṇ` dropped {452}, {523}; root `palā` (to run away). `upeti` beside it is `upa` + the root `i` (to go), not `cura`.*
+🚺⨀②(sabyābajjha) 🚺⨀②(vedanā) ▶️🤟⨀(vedayati) 🚺⨀②(ekantadukkha)  
+harmful / feelings / experiences / totally painful  
+*"experiences totally painful harmful feelings" ([11: 23, 1.6](../11-pbt/#s23-u1-6)) `vedayati`: `-ayati`, `ṇaya` of the `cura` class, its `ṇ` dropped {452}, {523}; the root `vida` (to feel).*
+
+6. > Dhammatā esā, bhikkhave, yaṁ nibbinno viratto vimuttiñāṇadassanaṁ **sacchikaroti**.
+
+🚺⨀①(dhammatā) 🚺⨀①(eta) 🚹⨂⓪(bhikkhu) 🚻⨀①(ya) 🚹⨀①(nibbinna) 🚹⨀①(viratta) 🚻⨀②(vimuttiñāṇadassana) ▶️🤟⨀(sacchikaroti)  
+characteristic / this / bhikkhave / whoever / one who is dispassionate / one who is detached / understanding and insight into liberation / personally realises  
+*"This characteristic, Bhikkhave, one personally realises understanding and insight into liberation for whoever is dispassionate and detached." ([11: 18, 1.27](../11-pbt/#s18-u1-27)) `sacchikaroti`: `-oti`, `o` of the `tanu` class {451}; `sacchi` + `kar`, the root `kara` (to do).*

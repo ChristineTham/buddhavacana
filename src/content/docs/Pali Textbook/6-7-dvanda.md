@@ -35,10 +35,7 @@ enemies or of unlike things, among other kinds, is treated as a single set,
 and the compound is then singular and neuter, ending in `-aṁ` whatever the
 gender of its members: `cakkhusotaṁ` ("eye and ear") {322}. For trees,
 grasses, animals, wealth, grain and countries the texts use either shape,
-`ajeḷakaṁ` or `ajeḷakā` ("goats and sheep") {323}. A `dvanda` of describing
-words has no shape of its own: `atītānāgatapaccuppannaṁ` ("past, future or
-present") takes the ending of the noun it describes, `-aṁ` with `rūpaṁ` in
-[7: 7.1](../7-anatta/#u7-1), `-ā` with `vedanā` in [7: 8.1](../7-anatta/#u8-1).
+`ajeḷakaṁ` or `ajeḷakā` ("goats and sheep") {323}.
 
 ### How to recognise a `dvanda`
 
@@ -51,10 +48,9 @@ present") takes the ending of the noun it describes, `-aṁ` with `rūpaṁ` in
 Two small changes can disguise the members. Where a member ending in `a` meets
 a vowel, the `a` is dropped and the join hides the second member: `kāka` and
 `ulūka` give `kākolūkaṁ` ("crow and owl"), `aja` and `eḷaka` give `ajeḷakaṁ`
-{12}, and with the next vowel lengthened `atīta` and `anāgata` give
-`atītānāgata-` {15}. And in the singular neuter a long vowel is shortened, at
-the end of the compound, `nāsikā` in `mukhanāsikaṁ` ("mouth and nose") {342},
-and at the join, `dāsī` in `dāsidāsaṁ` ("female and male slaves"). Every rule number
+{12}. And in the singular neuter a long vowel is shortened, at the end of the
+compound, `nāsikā` in `mukhanāsikaṁ` ("mouth and nose") {342}, and at the
+join, `dāsī` in `dāsidāsaṁ` ("female and male slaves"). Every rule number
 links to the full rule in the Kaccāyana translation; the
 [chapter overview](../6-0-samasa/) tables all the rules on compounds.
 
@@ -99,8 +95,8 @@ the eye / and / the ear / and → eye and ear
 Resolve the following compounds into their members, say which shape of
 `dvanda` each has and why, and give the meaning. Look up the words in a
 dictionary and take note of the ending each member would take on its own. All
-six come from the texts of chapters [3](../3-awakening/), [7](../7-anatta/),
-[9](../9-fire/) and [11](../11-pbt/), each with a link to its sentence.
+four come from the texts of chapters [3](../3-awakening/) and [11](../11-pbt/),
+each with a link to its sentence.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -109,11 +105,9 @@ deconstruction.
 :::
 
 1. nāmarūpaṁ ([3: 3.3](../3-awakening/#u3-3))
-2. jarāmaraṇaṁ ([3: 3.11](../3-awakening/#u3-11))
-3. sokaparidevadukkhadomanassupāyāsā ([3: 3.11](../3-awakening/#u3-11))
-4. atītānāgatapaccuppannaṁ ([7: 7.1](../7-anatta/#u7-1))
-5. adukkhamasukhaṁ ([9: 2.4](../9-fire/#u2-4))
-6. kesamassuṁ ([11: 26, 12.8](../11-pbt/#s26-u12-8))
+2. sokaparidevadukkhadomanassupāyāsā ([3: 3.11](../3-awakening/#u3-11))
+3. assāsapassāsā ([11: 12, 14.2](../11-pbt/#s12-u14-2))
+4. kesamassuṁ ([11: 26, 12.8](../11-pbt/#s26-u12-8))
 
 ### Answers
 
@@ -123,34 +117,22 @@ deconstruction.
 
 🚻⨀①(nāmaṁ) ⏏️(ca) 🚻⨀①(rūpaṁ) ⏏️(ca) → 🚻⨀①🆎(nāma+rūpa)  
 name / and / form / and → name and form  
-*`dvanda` of unlike things {322}, singular and neuter; [chapter 3](../3-awakening/) renders it "phenomenal objects".*
+*`dvanda` of unlike things {322}, like `vijjācaraṇaṁ`, singular and neuter; [chapter 3](../3-awakening/) renders it "phenomenal objects".*
 
-2. > jarā ca maraṇañca → **jarāmaraṇaṁ**
-
-🚺⨀①(jarā) ⏏️(ca) 🚻⨀①(maraṇaṁ) ⏏️(ca) → 🚻⨀①🆎(jarā+maraṇa)  
-old age / and / death / and → aging and death  
-*`dvanda` {322}, singular and neuter although `jarā` is feminine: the two taken as one set.*
-
-3. > soko ca paridevo ca dukkhañca domanassañca upāyāso ca → **sokaparidevadukkhadomanassupāyāsā**
+2. > soko ca paridevo ca dukkhañca domanassañca upāyāso ca → **sokaparidevadukkhadomanassupāyāsā**
 
 🚹⨀①(soko) ⏏️(ca) 🚹⨀①(paridevo) ⏏️(ca) 🚻⨀①(dukkhaṁ) ⏏️(ca) 🚻⨀①(domanassaṁ) ⏏️(ca) 🚹⨀①(upāyāso) ⏏️(ca) → 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa)  
 sorrow / and / lamentation / and / pain / and / displeasure / and / despair / and → sorrow, lamentation, pain, displeasure and despair  
 *`dvanda` {329} of five members, plural; the `a` of `domanassa` is dropped before `upāyāsa` {12}; in [9: 2.6](../9-fire/#u2-6) the five stand apart, each in the ③.*
 
-4. > atītañca anāgatañca paccuppannañca → **atītānāgatapaccuppannaṁ** rūpaṁ
+3. > assāso ca passāso ca → **assāsapassāsā**
 
-🚻⨀①(atītaṁ) ⏏️(ca) 🚻⨀①(anāgataṁ) ⏏️(ca) 🚻⨀①(paccuppannaṁ) ⏏️(ca) → 🚻⨀①🆎(atīta+anāgata+paccuppanna) 🚻⨀①(rūpaṁ)  
-past / and / future / and / present / and → past, future or present / form  
-*`dvanda` {329} of three describing words, so it takes its noun's ending: `-aṁ` with `rūpaṁ` here, `-ā` with `vedanā` in [7: 8.1](../7-anatta/#u8-1).*
+🚹⨀①(assāso) ⏏️(ca) 🚹⨀①(passāso) ⏏️(ca) → 🚹⨂①🆎(assāsa+passāsa)  
+in-breath / and / out-breath / and → breathing in and out  
+*`dvanda` {329}, plural like `samaṇabrāhmaṇā`, each breath counted; in [11: 12, 14.2](../11-pbt/#s12-u14-2) they are the `kāyasaṅkhāro`.*
 
-5. > adukkhañca asukhañca → **adukkhamasukhaṁ** vedayitaṁ
+4. > kesā ca massu ca → **kesamassuṁ**
 
-🚻⨀①🆎(na+dukkha) ⏏️(ca) 🚻⨀①🆎(na+sukha) ⏏️(ca) → 🚻⨀①🆎(na+dukkha+na+sukha) 🚻⨀①(🔽(ta)(vedayitaṁ))  
-not painful / and / not pleasant / and → neither painful nor pleasant / feeling  
-*`dvanda` {329} of two `a`- words; it takes the ending of `vedayitaṁ` ("feeling"), and the `m` at the join is a sandhi consonant {35}.*
-
-6. > kesā ca massu ca → **kesamassuṁ**
-
-🚹⨂①(kesā) ⏏️(ca) 🚻⨀①(massu) ⏏️(ca) → 🚻⨀①🆎(kesa+massu)  
+🚹⨂①(kesā) ⏏️(ca) 🚻⨀①(massu) ⏏️(ca) → 🚻⨀②🆎(kesa+massu)  
 hair / and / beard / and → hair and beard  
-*`dvanda` of limbs {322}, singular and neuter: `kesamassuṁ ohāretvā`, "having shaved off hair and beard".*
+*`dvanda` of limbs {322}, singular and neuter, here in the ②: `kesamassuṁ ohāretvā`, "having shaved off hair and beard".*

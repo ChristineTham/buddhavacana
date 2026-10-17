@@ -24,9 +24,9 @@ use it calls the person spoken to, `bho purisa` ("sir, man!"), before
 anything is asked of them. They open Kaccāyana's list of what each ending
 does {284}–{285}, and they close this chapter.
 
-The question to ask is whether the word is aimed at the listener. `vedanā`
-("feelings") and `tisso` ("three") just stand there, naming; `bhikkhave`
-("monks!") and `bhante` ("venerable sir") call whoever is listening. This
+The question to ask is whether the word is aimed at the listener. `rūpaṁ`
+("form") and `saṅkhārā` ("mental constructions") just stand there, naming;
+`bhikkhave` ("monks!") and `bhante` ("venerable sir") call whoever is listening. This
 book marks the second kind ⓪, as chapter 1 does, since its singular usually
 differs from the ① form: `purisa` ("man!") beside `puriso` ("a man").
 
@@ -78,16 +78,6 @@ sir / man
 sirs / men  
 *"Sirs, men!" {285}: in the plural the ⓪ form is the ① form, `purisā`; `bhavanto` shows the calling.*
 
-The same words open a command in the Tipiṭaka ([Dīgha Nikāya 24,
-Pāthikasutta](https://tipitaka2500.github.io/tipitaka/8D/1/1.5#44)): the man
-is called first, then told what to do.
-
-> ehi tvaṁ, **bho purisa**
-
-🟢⨀🤘⏹(ehi) *️⃣🤘⚧⨀①(tvaṁ) 🚹⨀⓪(bho purisa)  
-come / you / sir / man  
-*Come, you, good man!*
-
 ### Exercises
 
 Each sentence is from the texts of chapters 7, 9 and 11, and is linked to its
@@ -102,48 +92,33 @@ deconstruction.
 :::
 
 1. Evaṁ, bhante. ([11: 1, 24.15](../11-pbt/#s1-u24-15))
-2. No hetaṁ, bhante. ([11: 1, 24.6](../11-pbt/#s1-u24-6))
-3. Chayimā, bhikkhave, saññā— ([11: 11, 21.3](../11-pbt/#s11-u21-3))
-4. Tisso kho imā, āvuso visākha, vedanā— ([11: 10, 22.2](../11-pbt/#s10-u22-2))
-5. Tayome, āvuso visākha, saṅkhārā— ([11: 12, 13.2](../11-pbt/#s12-u13-2))
-6. Rūpaṁ, bhikkhave, anattā. ([7: 2.1](../7-anatta/#u2-1))
-7. Cakkhu, bhikkhave, ādittaṁ, rūpā ādittā, cakkhuviññāṇaṁ ādittaṁ, cakkhusamphasso āditto. ([9: 2.3](../9-fire/#u2-3))
+2. Tayome, āvuso visākha, saṅkhārā— ([11: 12, 13.2](../11-pbt/#s12-u13-2))
+3. Rūpaṁ, bhikkhave, anattā. ([7: 2.1](../7-anatta/#u2-1))
+4. Cakkhu, bhikkhave, ādittaṁ, rūpā ādittā, cakkhuviññāṇaṁ ādittaṁ, cakkhusamphasso āditto. ([9: 2.3](../9-fire/#u2-3))
 
 ### Answers
 
 *Note: please do the exercises first before checking the answers.*
 
-1. > Evaṁ, bhante.
+1. > Evaṁ, **bhante**.
 
 🔼(evaṁ) 🚹⨀⓪(bhavant)  
 yes / Bhante  
 *Yes, Bhante.*
 
-2. > No hetaṁ, bhante.
+`bhante`: the ⓪ form of `bhavanta` {285}, calling the one spoken to; `evaṁ`, a
+particle, stands under {284}.
 
-🔼(no hetaṁ) 🚹⨀⓪(bhavant)  
-no / certainly / Bhante  
-*Certainly not, Bhante.*
-
-3. > Chayimā, bhikkhave, saññā—
-
-🔼(chayimā) 🚹⨂⓪(bhikkhu) 🚺⨀①(sañña)  
-these six / bhikkhave / apperceptions  
-*Bhikkhave, these six sañña (apperceptions) -*
-
-4. > Tisso kho imā, āvuso visākha, vedanā—
-
-🚺⨂①(ti) 🔼(kho) 🚺⨂①(ima) 🔼(āvuso) 🚹⨀⓪(visākha) 🚺⨀①(vedanā)  
-three / indeed / these / friend / Visākha / feelings  
-*There are indeed three types of vedanā (feelings), friend Visākha:*
-
-5. > Tayome, āvuso visākha, saṅkhārā—
+2. > Tayome, **āvuso visākha**, saṅkhārā—
 
 🔼(tayome) 🔼(āvuso) 🚹⨀⓪(visākha) 🚹⨂①(saṅkhāra)  
 these three / friend / Visākha / mental constructions  
 *Friend Visākha, there are three types of “saṅkhārā” (mental constructions)*
 
-6. > Rūpaṁ, bhikkhave, anattā.
+`āvuso visākha`: the word of address and the name called, ⓪ {285}, `visākha`
+not `visākho`; `saṅkhārā` simply names, ① plural {284}.
+
+3. > Rūpaṁ, **bhikkhave**, anattā.
 
 🚻⨀①(rūpa) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(na+atta)  
 form / bhikkhave / not-self  
@@ -152,7 +127,7 @@ form / bhikkhave / not-self
 `rūpaṁ` and `anattā` simply name, in ① {284}, with no verb between them;
 `bhikkhave` calls the listeners, ⓪ {285}.
 
-7. > Cakkhu, bhikkhave, ādittaṁ, rūpā ādittā, cakkhuviññāṇaṁ ādittaṁ, cakkhusamphasso āditto.
+4. > Cakkhu, **bhikkhave**, ādittaṁ, rūpā ādittā, cakkhuviññāṇaṁ ādittaṁ, cakkhusamphasso āditto.
 
 🚻⨀①(cakkhu) 🚹⨂⓪(bhikkhu) 🚻⨀①🔽(ta)(āditta) 🚻⨂①(rūpa) 🚻⨂①🔽(ta)(āditta) 🚻⨀①🆎(cakkhu+viññāṇa) 🚻⨀①🔽(ta)(āditta) 🚹⨀①🆎(cakkhu+samphassa) 🚹⨀①🔽(ta)(āditta)  
 the eye / bhikkhave / burning / forms / burning / eye-consciousness / burning / eye-contact / burning  

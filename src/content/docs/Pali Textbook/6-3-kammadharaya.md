@@ -47,15 +47,15 @@ becomes `a` or `an` {333}–{334}, and `ku` ("bad") becomes `kad` or `kā`
 | --- | --- | --- | :-: |
 | an adjective, then its noun | the noun as described: a snake that is black | `kaṇhasappo` ("a black snake", `kaṇha` + `sappa`) | {324} |
 | a noun, then another noun for the same person or thing | both names at once: a brahmin woman who is a girl | `brāhmaṇadārikā` ("a brahmin girl", `brāhmaṇī` + `dārikā`) | {324} |
-| `mahā-`, or `maha-` with the next consonant doubled | "great": `mahanta` in its compound shape | `mahāpuriso` ("a great man"), `mahapphalaṁ` ("of great fruit") | {330} |
+| `mahā-`, or `maha-` with the next consonant doubled | "great": `mahanta` in its compound shape | `mahāpuriso` ("a great man"), `mahabbhayaṁ` ("great danger") | {330} |
 | a feminine word in its masculine shape, then a feminine noun | the first word describes the second | `khattiyakaññā` ("a khattiya maiden", `khattiyā` + `kaññā`) | {331}, {332} |
 | `a-` before a consonant, `an-` before a vowel | "not": the word `na` | `abrāhmaṇo` ("a non-brahmin"), `aniccaṁ` ("impermanent"); `anariyo` ("ignoble"), `anattā` ("not-self") | {333}, {334} |
-| `kad-` before a vowel, `kā-`, or `ku-` before a consonant | "bad", and `kā-` also "a little": the word `ku` | `kadannaṁ` ("bad food"), `kālavaṇaṁ` ("a little salt"), `kujanā` ("bad people") | {335}, {336} |
+| `kad-` before a vowel, `kā-`, or `ku-` before a consonant | "bad", and `kā-` also "a little": the word `ku` | `kadannaṁ` ("bad food"), `kālavaṇaṁ` ("a little salt") | {335}, {336} |
 
-The `maha-` shape doubles the consonant after it {29}, so `mahapphalaṁ` and
-`mahabbhayaṁ` ("great danger") carry the same `mahanta` as `mahāpuriso`. The
-rule for a feminine word is stated first for a `bahubbīhi`, `dīghajaṅgho` ("one
-whose shins are long", `dīghā` + `jaṅghā`) {331}, then extended to the
+The `maha-` shape doubles the consonant after it {29}, so `mahabbhayaṁ`
+carries the same `mahanta` as `mahāpuriso`. The rule for a feminine word is
+stated first for a `bahubbīhi`, `dīghajaṅgho` ("one whose shins are long",
+`dīghā` + `jaṅghā`) {331}, then extended to the
 `kammadhāraya` {332}; it applies only to a word that has a masculine shape to
 go back to, so `brāhmaṇabandhu` ("a brahmin's kinswoman") keeps its form in
 `brāhmaṇabandhudārikā`. `kā-` for `ku` means "a little" and now and then "bad",
@@ -86,7 +86,7 @@ form / bhikkhave / not-self
 ### Exercises
 
 Each of the following compounds you have met in the texts, chapters
-[3](../3-awakening/), [7](../7-anatta/), [9](../9-fire/) or [11](../11-pbt/),
+[5](../5-dhammacakka/), [7](../7-anatta/), [9](../9-fire/) or [11](../11-pbt/),
 in the form it has there; the answers link to the sentences. Resolve it into
 its members, say which kind of `kammadhāraya` it is, and give the meaning. Look
 the word up in a dictionary and check its first member against the table
@@ -98,62 +98,41 @@ useful for looking up words, as well as for resolving a compound into its
 members.
 :::
 
-1. avijjāya
-2. paṭhamābhisambuddho
-3. brahmacariyaṁ
-4. sāyanhasamayaṁ
-5. tathāgato
-6. sammādiṭṭhi
-7. anagāriyaṁ
-8. amataṁ
+1. brahmacariyaṁ
+2. sāyanhasamayaṁ
+3. anuttaraṁ
+4. anagāriyaṁ
+5. amataṁ
 
 ### Answers
 
 *Note: please do the exercises first before checking the answers.*
 
-1. > na + vijjā → **avijjāya**
-
-🚺⨀⑥🆎(na+vijjā)  
-not + knowledge → of ignorance  
-*`a` for `na` {333}: "not-knowledge"; [3: 4.1](../3-awakening/#u4-1), and the first member of `avijjāpaccayā` in [3: 3.1](../3-awakening/#u3-1).*
-
-2. > paṭhama + abhisambuddha → **paṭhamābhisambuddho**
-
-🚹⨀①🆎(paṭhama+abhisambuddha)  
-first + fully awakened → newly fully awakened  
-*`paṭhama` ("first") describes `abhisambuddha` ("fully awakened") {324}; `a` + `a` join as `ā` {12}, {15}; [3: 2.1](../3-awakening/#u2-1).*
-
-3. > brahma + cariya → **brahmacariyaṁ**
+1. > brahma + cariya → **brahmacariyaṁ**
 
 🚻⨀①🆎(brahma+cariya)  
 holy + conduct → pure life  
 *adjective + noun {324}: `brahma` ("holy", "highest") describes `cariya` ("conduct", "way of life"); [9: 9.2](../9-fire/#u9-2), `vusitaṁ brahmacariyaṁ`, and [7: 11.4](../7-anatta/#u11-4).*
 
-4. > sāyanha + samaya → **sāyanhasamayaṁ**
+2. > sāyanha + samaya → **sāyanhasamayaṁ**
 
 🚹⨀②🆎(sāyanha+samaya)  
 evening + time → in the late afternoon  
 *noun + noun {324}: `sāyanha` ("evening") and `samaya` ("time") name one time; [11: 44, 1.3](../11-pbt/#s44-u1-3), `sāyanhasamayaṁ paṭisallānā vuṭṭhito`.*
 
-5. > tathā + gata → **tathāgato**
+3. > na + uttara → **anuttaraṁ**
 
-🚹⨀①🆎(tathā+gata)  
-thus + gone → Tathāgata  
-*`tathā` ("thus") describes `gata` ("gone", "become") {324}: the Buddha's title; [11: 26, 12.3](../11-pbt/#s26-u12-3), `tathāgato vā tathāgatasāvako vā`.*
+🚻⨀①🆎(na+uttara)  
+not + higher → unsurpassed  
+*`an` for `na` before a vowel {334}: `uttara` ("higher"); [5: 12.1](../5-dhammacakka/#u12-1), `anuttaraṁ dhammacakkaṁ pavattitaṁ`.*
 
-6. > sammā + diṭṭhi → **sammādiṭṭhi**
-
-🚺⨀①🆎(sammā+diṭṭhi)  
-rightly + view → right view  
-*`sammā` ("rightly") describes `diṭṭhi` ("view") {324}: the first factor of the path; [5: 3.2](../5-dhammacakka/#u3-2) and [11: 5, 21.3](../11-pbt/#s5-u21-3), `sammādiṭṭhi sammāsaṅkappo`.*
-
-7. > na + agāriya → **anagāriyaṁ**
+4. > na + agāriya → **anagāriyaṁ**
 
 🚻⨀②🆎(na+agāriya)  
 not + belonging to a house → to homeless state  
 *`an` for `na` before a vowel {334}: `agāriya` ("belonging to a house"); [11: 26, 12.8](../11-pbt/#s26-u12-8), `agārasmā anagāriyaṁ`.*
 
-8. > na + mata → **amataṁ**
+5. > na + mata → **amataṁ**
 
 🚻⨀①🆎(na+mata)  
 not + dead → free from death  

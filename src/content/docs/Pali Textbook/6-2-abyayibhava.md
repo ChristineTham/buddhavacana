@@ -25,9 +25,8 @@ is `yathā` with `bhūta` ("true", "real"). Kaccāyana names such a compound an
 tells where, when, how or how far something happens, as an adverb does in
 English. Kaccāyana's own examples are a grammarian's, but words of this shape
 are on every page of the texts: `yathābhūtaṁ` (chapters
-[5](../5-dhammacakka/), [7](../7-anatta/) and [11](../11-pbt/)), `ajjhattaṁ`
-("inwardly", chapters 7 and 11) and `yāvajīvaṁ` ("as long as life lasts",
-chapter 11).
+[5](../5-dhammacakka/), [7](../7-anatta/) and [11](../11-pbt/)) and
+`yāvajīvaṁ` ("as long as life lasts", chapter 11).
 
 Two things make an `abyayībhāva` easy to recognise. It is always neuter {320},
 whatever the gender of the noun inside it, and it keeps one form wherever it
@@ -41,26 +40,20 @@ and the noun after it is what the first member applies to.
 
 ### How to recognise an `abyayībhāva`
 
-The first members in Kaccāyana's examples, with `anu`, which those examples
-lack, added from the dictionary:
+The first members in Kaccāyana's examples:
 
 | first member | its meaning | example | meaning | rule |
 | :-: | --- | --- | --- | :-: |
 | `upa` 🔼 | near | `upanagaraṁ`, `upagaṅgaṁ` | near the town, near the Ganges | {319} |
-| `anu` 🔼 | along; after, every (`anv` before a vowel {18}) | `anvaddhamāsaṁ` | every fortnight | {319} |
 | `yathā` ⏏️ | as, according to | `yathāvuḍḍhaṁ`, `yathābhūtaṁ` | according to seniority, as it truly is | {319} |
-| `adhi` 🔼 | concerning; in (`ajjh` before a vowel {45}) | `adhicittaṁ`, `ajjhattaṁ` | concerning the mind, the higher mind; inwardly | {319} |
+| `adhi` 🔼 | concerning | `adhicittaṁ` | concerning the mind, the higher mind | {319} |
 | `pati` 🔼 | against | `patisotaṁ` | against the stream | {319} |
 | `yāva` ⏏️ | as long as, as far as | `yāvajīvaṁ` | as long as life lasts | {319} |
 | `tiro` ⏏️ | through, beyond | `tiropabbataṁ`, `tirokuṭṭaṁ` | beyond the mountain, through the wall | {319} |
 | `anto` ⏏️ | inside | `antopāsādaṁ` | inside the mansion | {319} |
 | `ni` 🔼 (the dictionary's `nir`), the next consonant doubled {28} | without | `niddarathaṁ`, `nimmakasaṁ` | free from distress, free from mosquitoes | {319} |
 
-`anvaddhamāsaṁ`, `yathābhūtaṁ` and `ajjhattaṁ` are not among Kaccāyana's
-examples; the Digital Pali Dictionary classes them as `abyayībhāva`, and
-`ekamantaṁ` ("to one side", `ekaṁ` + `antaṁ`), the `ekamantaṁ nisīdi` ("sat
-down to one side") of chapter 11 and of countless suttas, with them, though
-its first member is a numeral. The compound then keeps one form, by four rules:
+The compound keeps one form, by four rules:
 
 | what you see | what it means | example | rule |
 | --- | --- | --- | :-: |
@@ -86,19 +79,13 @@ of the town / in the vicinity / goes on / talk → near the town
 girls / with reference to / goes on / talk → concerning girls  
 *`kumārī` ("girl") is feminine, but the compound is neuter {320}: its `ī` is shortened {342} and it takes no ending {343}.*
 
-> **ajjhattaṁ** vā bahiddhā vā
-
-⏏️(ajjhattaṁ) ⏏️(vā) ⏏️(bahiddhā) ⏏️(vā)  
-internal / or / external / or  
-*[7: 7.1](../7-anatta/#u7-1): `adhi` with `atta` ("self") in its one form, `-aṁ` {341}; the text marks it ⏏️, unchanging like `bahiddhā`.*
-
 ### Exercises
 
 Each of the following is an `abyayībhāva`. Name its first member and say what
 it means, name the noun it is joined to, and give the meaning of the whole
-word; the first four you have met in the texts, and the answers link to the
-sentences. Look the words up in a dictionary and check which of the four rules
-above each one shows.
+word; the first two you have met in the texts, and the answers link to the
+sentences; the rest are Kaccāyana's own. Look the words up in a dictionary and
+check which of the four rules above each one shows.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -107,11 +94,10 @@ deconstruction.
 :::
 
 1. yathābhūtaṁ
-2. ajjhattaṁ
-3. yāvajīvaṁ
-4. ekamantaṁ
-5. anvaddhamāsaṁ
-6. tiropabbataṁ
+2. yāvajīvaṁ
+3. tiropabbataṁ
+4. upagaṅgaṁ
+5. upavadhu
 
 ### Answers
 
@@ -123,32 +109,26 @@ deconstruction.
 as it truly is  
 *`yathā` ("as") with `bhūta` ("true", "real"): an `abyayībhāva` {319} in `-aṁ` {341}; [11: 18, 1.21](../11-pbt/#s18-u1-21), `samāhito yathābhūtaṁ jānāti passati`, and [7: 7.1](../7-anatta/#u7-1).*
 
-2. > **ajjhattaṁ**
-
-🚻⨀①🆎(adhi+atta)  
-inwardly, internally  
-*`adhi` ("in") becomes `ajjh` before the vowel of `atta` ("self") {45}: an `abyayībhāva` {319}; [7: 7.1](../7-anatta/#u7-1) and [11: 36, 3.3](../11-pbt/#s36-u3-3), `ajjhattaṁ vā kāye`.*
-
-3. > jīvassa yattako paricchedo → **yāvajīvaṁ**
+2. > jīvassa yattako paricchedo → **yāvajīvaṁ**
 
 🚻⨀⑥(jīvassa) 🚹⨀①(yattako) 🚹⨀①(paricchedo) → 🚻⨀①🆎(yāva+jīva)  
 of life / however much / limit → as long as life lasts  
 *`yāva` ("as long as") stands for `yattako paricchedo` ("whatever the limit"): an `abyayībhāva` {319} in `-aṁ` {341}; [11: 32, 21.1](../11-pbt/#s32-u21-1), `yāvajīvaṁ arahanto`.*
 
-4. > **ekamantaṁ**
-
-🚻⨀①🆎(eka+anta)  
-to one side  
-*`ekaṁ` ("one") with `anta` ("side"), its `ṁ` kept as `m` before the vowel {34}: one form, `-aṁ` {341}; [11: 44, 1.3](../11-pbt/#s44-u1-3), `ekamantaṁ nisīdi`.*
-
-5. > **anvaddhamāsaṁ**
-
-🚻⨀①🆎(anu+addhamāsa)  
-every fortnight  
-*`anu` ("every", "after") with `addhamāsa` ("fortnight"): an `abyayībhāva` {319} in `-aṁ` {341}; `anu` becomes `anv` before the vowel {18}.*
-
-6. > pabbatassa tiro → **tiropabbataṁ**
+3. > pabbatassa tiro → **tiropabbataṁ**
 
 🚹⨀⑥(pabbatassa) ⏏️(tiro) → 🚻⨀①🆎(tiro+pabbata)  
 of the mountain / beyond → beyond the mountain  
 *`tiro` ("beyond") comes first: an `abyayībhāva` {319} in `-aṁ` {341}.*
+
+4. > gaṅgāya samīpe pavattati kathā → **upagaṅgaṁ**
+
+🚺⨀⑥(gaṅgāya) 🚻⨀⑦(samīpe) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(upa+gaṅgā)  
+of the Ganges / in the vicinity / goes on / talk → near the Ganges  
+*`upa` ("near") stands for `samīpe` {319}; `gaṅgā` ("the Ganges") is feminine, but the compound is neuter {320}, its `ā` shortened {342}, in `-aṁ` {341}.*
+
+5. > vadhuyā samīpe pavattati kathā → **upavadhu**
+
+🚺⨀⑥(vadhuyā) 🚻⨀⑦(samīpe) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(upa+vadhū)  
+of the young wife / in the vicinity / goes on / talk → near the young wife  
+*`upa` ("near") with `vadhū` ("young wife"), feminine, but the compound is neuter {320}: its `ū` is shortened {342} and it takes no ending {343}.*

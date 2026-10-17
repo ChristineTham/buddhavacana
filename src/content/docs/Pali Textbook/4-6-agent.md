@@ -40,9 +40,17 @@ translation.
 | the agent (`kattā`) of an active verb 🟢 | the ① ending; the verb agrees with it in number and person | `bhagavā … nisīdi`, "the Bhagavā sat down" ([3: 2.2](../3-awakening/#u2-2)) | {281}, {284} |
 | the agent of a passive verb 🔵 or of a past participle 🔽(ta) | the ③ ending, "by"; the thing done takes ① and the verb agrees with that | `ahinā daṭṭho naro`, "the man [is] bitten by a snake" | {281}, {288} |
 | the causer (`hetu`), who makes the agent act | the ① ending with a causative verb 🟠 (`-eti`, `-āpeti`, "makes someone do"): `kāreti`, `hāreti`, `pāṭheti`, `pāceti`, `dhāreti` | `so puriso … kāreti`, "that man makes … do" | {282}, {438} |
-| the one made to act by the causer | the ② ending, or ③, or `-ssa` read as ⑥ | `taṁ purisaṁ`, `tena purisena`, `tassa purisassa` | {282}, {300} |
+| the one made to act by the causer | the ② ending, or ③, or ⑥ | `taṁ purisaṁ`, `tena purisena`, `tassa purisassa` | {282}, {300} |
 
 ### Examples
+
+The agent of an active verb, in ① {281}, {284} ([9: 1.2](../9-fire/#u1-2)):
+
+> Tatra kho **bhagavā** bhikkhū āmantesi—
+
+⏏️(tatra) ⏏️(kho) 🚹⨀①(bhagavant) 🚹⨂②(bhikkhu) 🟢⨀🤟⏮(āmanteti)  
+there / indeed / the Bhagavā / bhikkhū / addressed  
+*There the Bhagavā addressed the bhikkhū:*
 
 The agent of a past participle, in ③ {281}, {288}:
 
@@ -63,11 +71,10 @@ that man / that man / the work / makes do
 ### Exercises
 
 In each sentence find the agent or the causer and say which ending it carries
-and why, or, where none is named, what the verb tells you. Look up the words in
-a dictionary, perform the necessary sandhi and compound word deconstruction, and
-take note of the `vibhatti` endings to deduce the meaning of the sentence. The
-first six sentences are from the texts, each linked to its sentence; the last
-two are Kaccāyana's own.
+and why. Look up the words in a dictionary, perform the necessary sandhi and
+compound word deconstruction, and take note of the `vibhatti` endings to deduce
+the meaning of the sentence. The first four sentences are from the texts, each
+linked to its sentence; the last is Kaccāyana's own.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -78,17 +85,14 @@ deconstruction.
 1. Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī. ([3: 2.2](../3-awakening/#u2-2))
 2. Yadā have pātubhavanti dhammā ([3: 6.1](../3-awakening/#u6-1))
 3. Vuttaṁ kho panetaṁ bhagavatā kakacūpamovāde ([11: 45, 9.5](../11-pbt/#s45-u9-5))
-4. Sabbo rāgo pahīno me ([11: 47, 1.1](../11-pbt/#s47-u1-1))
-5. “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. ([7: 1.3](../7-anatta/#u1-3))
-6. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne tassa bhikkhusahassassa anupādāya āsavehi cittāni vimucciṁsūti. ([9: 10.3](../9-fire/#u10-3))
-7. so puriso tena purisena kammaṁ kāreti
-8. so puriso tassa purisassa kammaṁ kāreti
+4. majjhimā paṭipadā tathāgatena abhisambuddhā ([5: 2.4](../5-dhammacakka/#u2-4))
+5. so puriso tena purisena kammaṁ kāreti
 
 ### Answers
 
 *Note: please do the exercises first before checking the answers.*
 
-1. > Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī.
+1. > Atha kho **bhagavā** bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī.
 
 ⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚻⨀⑦🆎(bodhirukkha+mūla) 🚻⨀②🆎(satta+aha) 🚹⨀③🆎(eka+pallaṅka) 🟢⨀🤟⏮(nisīdati) 🚹⨀①🆎(vimuttisukha+paṭisaṁvedī)  
 then / indeed / the Bhagavā / at the root of the bodhi tree / for seven days / in one cross-legged posture / sat down / experiencing the bliss of liberation  
@@ -96,7 +100,7 @@ then / indeed / the Bhagavā / at the root of the bodhi tree / for seven days / 
 
 The verb is active, so the agent is the ① word, `bhagavā` {284}; `ekapallaṅkena` in ③ is not the agent.
 
-2. > Yadā have pātubhavanti dhammā
+2. > Yadā have pātubhavanti **dhammā**
 
 ⏏️(yadā) ⏏️(have) 🟢⨂🤟▶️(pātubhavati) 🚹⨂①(dhamma)  
 when / indeed / appear / phenomena  
@@ -104,50 +108,26 @@ when / indeed / appear / phenomena
 
 The agent `dhammā` is plural and in ①; the verb `pātubhavanti` agrees with it, though it comes first {284}.
 
-3. > Vuttaṁ kho panetaṁ bhagavatā kakacūpamovāde
+3. > Vuttaṁ kho panetaṁ **bhagavatā** kakacūpamovāde
 
 🚻⨀①(vutta) 🔼(kho) 🔼(panetaṁ) 🚹⨀③(bhagavant) 🚹⨀⑦(kakacūpamovāda)  
 said / indeed / but this / by Bhagavant / exhortation with the simile of the saw  
 *But this is indeed said by the Bhagavant in the exhortation with the simile of the saw:*
 
-`vuttaṁ` ("said") is a past participle, so the agent `bhagavatā` is in ③, "by" {288}.
+`vuttaṁ` ("said") is a past participle, so the agent `bhagavatā`, the ③ of `bhagavant` (section [2.4](../2-4-irregular/)), is "by" {288}.
 
-4. > Sabbo rāgo pahīno me
+4. > majjhimā paṭipadā **tathāgatena** abhisambuddhā
 
-🚹⨀①(sabba) 🚹⨀①(rāga) 🚹⨀①(pahīna) *️⃣👆⚧⨀③(ahaṁ)  
-all / passion / abandoned / by me  
-*All passions abandoned by me,*
+🚺⨀①(majjhima) 🚺⨀①(paṭipadā) 🚹⨀③🆎(tathā+gata) 🚺⨀①🔽(ta)(abhisambuddha)  
+middle / way / by the Tathāgata / fully awakened  
+*The `majjhimā paṭipadā` (Middle Way) has been `abhisambuddha` (fully awakened) by the Tathāgata.*
 
-`pahīno` ("abandoned") is a past participle: `rāgo` in ① agrees with it, and the agent `me` is in ③ {288}.
+`abhisambuddhā` ("fully awakened") is a past participle: `paṭipadā`, the thing done, is in ① and agrees with it, and the agent `tathāgatena` is in ③, "by" {288}.
 
-5. > “Bhadante”ti te bhikkhū bhagavato paccassosuṁ.
-
-🚹⨀⓪(bhadanta) ⏏️(iti) *️⃣🤟🚹⨂①(ta) 🚹⨂①(bhikkhu) 🚹⨀④(bhagavant) 🟢⨂🤟⏮(paṭissuṇāti)  
-Bhadante / (end quote) / those / bhikkhū / to the Bhagavā / replied  
-*“Bhadante,” those bhikkhū replied to the Bhagavā.*
-
-The verb is active, so the agent is the ① word, `te bhikkhū`, plural, and `paccassosuṁ` agrees with it in the plural {284}; `bhagavato`, the one replied to, is ④.
-
-6. > Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne tassa bhikkhusahassassa anupādāya āsavehi cittāni vimucciṁsūti.
-
-*️⃣🤟🚻⨀⑦(ima) ⏏️(ca) ⏏️(pana) 🚻⨀⑦(veyyākaraṇa) 🚻⨀⑦🔽(māna)(bhaññamāna) *️⃣🤟🚻⨀⑥(ta) 🚻⨀⑥🆎(bhikkhu+sahassa) 🔽(ya)(anupādiyati) 🚹⨂⑤(āsava) 🚻⨂①(citta) 🔵⨂🤟⏮(vimuccati) ⏏️(iti)  
-in this / and / moreover / detailed exposition / being spoken / of that / thousand bhikkhū / not grasping / from the defilements / minds / were liberated / (end quote)  
-*And while this detailed exposition was being spoken, the `cittāni` (minds) of that thousand bhikkhū, `anupādāya` (not grasping), were liberated from the `āsavā` (defilements).*
-
-`vimucciṁsu` is passive 🔵: the thing done, `cittāni`, is in ① and the verb agrees with it in the plural; an agent would be in ③ {288}, but none is named, and `āsavehi` is ⑤, "from the defilements", not "by".
-
-7. > so puriso tena purisena kammaṁ kāreti
+5. > **so puriso** tena purisena kammaṁ kāreti
 
 🚹⨀①(*️⃣🤟(so) puriso) 🚹⨀③(*️⃣🤟(tena) purisena) 🚻⨀②(kammaṁ) 🟠⨀🤟▶️(kāreti)  
 that man / by that man / the work / makes do  
 *That man has the work done by that man.*
 
 The causer `so puriso` is in ① with the causative `kāreti` {282}; the one made to act is in ③ here.
-
-8. > so puriso tassa purisassa kammaṁ kāreti
-
-🚹⨀①(*️⃣🤟(so) puriso) 🚹⨀⑥(*️⃣🤟(tassa) purisassa) 🚻⨀②(kammaṁ) 🟠⨀🤟▶️(kāreti)  
-that man / of that man / the work / makes do  
-*That man makes that man do the work.*
-
-The one made to act is in the `sa` ending here, read as ⑥.

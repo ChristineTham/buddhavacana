@@ -41,13 +41,8 @@ neuter and singular.
 
 A `digu` is also counted a `tappurisa` {326}, section
 [6.5](../6-5-tappurisa/), and like every compound it takes endings of its own
-as a noun {601}. Not every `digu` takes its set as one thing: `ekapallaṅkena`
-("in one cross-legged posture") in the Bodhikathā
-([3: 2.2](../3-awakening/#u2-2)) counts one posture, and keeps the gender of
-`pallaṅka`, masculine; and `pañcavaggiyā` ("of the group of five"), the five
-bhikkhū of chapters [5](../5-dhammacakka/) and [7](../7-anatta/), is an
-adjective, plural like the `bhikkhū` it describes. The rule table of
-[chapter 6](../6-0-samasa/) lists every rule of the compounds.
+as a noun {601}. The rule table of [chapter 6](../6-0-samasa/) lists every
+rule of the compounds.
 
 ### The numeral as a first member
 
@@ -56,10 +51,9 @@ with a neuter one), as a first member it has one short form:
 
 | number | as a first member | examples, with the words they join |
 | --- | --- | --- |
-| one | `eka` | `ekapallaṅkena`, in one cross-legged posture (`eko pallaṅko`) |
-| three | `ti` | `tilokaṁ` (`tayo lokā`); `tiparivaṭṭaṁ`, with three phases (`tayo parivaṭṭā`); `tidaṇḍaṁ`, the triple rod (`tayo daṇḍā`); `timalaṁ`, the three stains (`tīṇi malāni`); `tiphalaṁ`, the three fruits; `tinayanaṁ`, the three eyes; `tisiṅgaṁ`, a triangle |
+| three | `ti` | `tilokaṁ` (`tayo lokā`); `tidaṇḍaṁ`, the triple rod (`tayo daṇḍā`); `timalaṁ`, the three stains (`tīṇi malāni`); `tiphalaṁ`, the three fruits; `tinayanaṁ`, the three eyes; `tisiṅgaṁ`, a triangle |
 | four | `catu`, the consonant after it doubled {28} | `catuddisaṁ`, the four directions (`catasso disā`) |
-| five | `pañca`, its `a` dropped before a vowel {12} | `pañcindriyaṁ`, the five faculties (`pañca indriyāni`); `pañcavaggiyā`, of the group of five |
+| five | `pañca`, its `a` dropped before a vowel {12} | `pañcindriyaṁ`, the five faculties (`pañca indriyāni`) |
 | six | `cha`, which becomes `saḷ` before `āyatana` {571} | `saḷāyatanaṁ`, the six sense bases (`cha āyatanāni`) |
 | seven | `satta`; with `aha` ("day") it runs together as `sattāha` | `sattāhaṁ`, for seven days (`satta ahāni`); `sattagodāvaraṁ` (`satta godāvariyo`) |
 
@@ -80,12 +74,10 @@ four / directions → the four directions
 ### Exercises
 
 Each of the following is a `digu`. Say which numeral it holds and what the
-numeral counts, and give the meaning. The first three you met in the Bodhikathā
-of [chapter 3](../3-awakening/), the fifth in the first discourse
-([chapter 5](../5-dhammacakka/)) and the sixth in the second
-([chapter 7](../7-anatta/)); the Fire Sermon of [chapter 9](../9-fire/) has no
-`digu`. Look each word up in a dictionary and compare the number and gender of
-the members with the compound's.
+numeral counts, and give the meaning. The first two you met in the Bodhikathā
+of [chapter 3](../3-awakening/); the other two are Kaccāyana's own. Look each
+word up in a dictionary and compare the number and gender of the members with
+the compound's.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -95,10 +87,8 @@ deconstruction.
 
 1. saḷāyatanaṁ ([3: 3.4](../3-awakening/#u3-4))
 2. sattāhaṁ ([3: 2.2](../3-awakening/#u2-2))
-3. ekapallaṅkena ([3: 2.2](../3-awakening/#u2-2))
-4. pañcindriyaṁ
-5. tiparivaṭṭaṁ ([5: 9.1](../5-dhammacakka/#u9-1))
-6. pañcavaggiyā ([7: 12.2](../7-anatta/#u12-2))
+3. pañcindriyaṁ
+4. tidaṇḍaṁ
 
 ### Answers
 
@@ -116,26 +106,14 @@ six / sense bases → the six sense bases
 seven / days → for seven days  
 *`satta` and `aha` ("day") run together as `sattāha`; neuter and singular {321}, here in the ② ending for how long.*
 
-3. > eko pallaṅko → **ekapallaṅkena**
-
-🚹⨀①(eko) 🚹⨀①(pallaṅko) → 🚹⨀③🆎(eka+pallaṅka)  
-one / cross-legged posture → in one cross-legged posture  
-*`eka` ("one") is a numeral too {325}; one posture is no set taken together, so the gender of `pallaṅka` stays.*
-
-4. > pañca indriyāni → **pañcindriyaṁ**
+3. > pañca indriyāni → **pañcindriyaṁ**
 
 ⚧⨂①(pañca) 🚻⨂①(indriyāni) → 🚻⨀①🆎(pañca+indriya)  
 five / faculties → the five faculties  
 *`pañca` + `indriya`: the `a` of `pañca` dropped before `i` {12}; neuter and singular {321}.*
 
-5. > tayo parivaṭṭā → **tiparivaṭṭaṁ**
+4. > tayo daṇḍā → **tidaṇḍaṁ**
 
-🚹⨂①(tayo) 🚹⨂①(parivaṭṭā) → 🚻⨀①🆎(ti+parivaṭṭa)  
-three / phases → with three phases  
-*`ti` for `tayo` {325}, as in `tilokaṁ`; the three taken as one set, neuter and singular {321}, though `parivaṭṭa` ("round", "phase") is masculine.*
-
-6. > pañca + vaggiya → **pañcavaggiyā**
-
-🚹⨂①🆎(pañca+vaggiya)  
-five + belonging to a group → of the group of five  
-*`pañca` ("five") with `vaggiya` ("belonging to a group"): the five are the bhikkhū of the group; an adjective, so plural like `bhikkhū`, not neuter singular.*
+🚹⨂①(tayo) 🚹⨂①(daṇḍā) → 🚻⨀①🆎(ti+daṇḍa)  
+three / rods → the triple rod  
+*`ti` for `tayo` {325}, as in `tilokaṁ`; the three rods taken as one set, neuter and singular {321}.*

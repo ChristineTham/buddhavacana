@@ -53,9 +53,9 @@ by the first member:
 | --- | --- | --- |
 | a participle in `-ta` | `chinnahattho`, `jitindriyo` | see the table above |
 | an adjective, often `a`- for `na` {333} | `anantañāṇo` | whose knowledge is endless |
-| a numeral | `catuddiso`, `pañcacakkhu`, `dasabalo` | with the four directions, five eyes, ten powers |
-| a comparison with `iva` or `viya` ("like") | `suvaṇṇavaṇṇo`, `brahmassaro` | whose colour is like gold's; whose voice is like Brahmā's |
-| a compound nested inside; the vutti sorts these by whether the members agree (`tulyādhikaraṇa`) or not (`bhinnādhikaraṇa`) | `amitaghanasarīro`, `pīṇorakkhaṁsabāhu` | whose solid body is measureless (a `kammadhāraya` inside); whose chest, collar-bones, shoulders and arms are full (a `dvanda` inside) |
+| a numeral | `dasabalo` | with the ten powers |
+| a comparison with `iva` or `viya` ("like") | `suvaṇṇavaṇṇo` | whose colour is like gold's |
+| a compound nested inside | `amitaghanasarīro` | whose solid body is measureless (`ghanasarīra`, a `kammadhāraya`, inside) |
 
 The name serves one later rule {167}: a `bahubbīhi` ending in a pronoun,
 `piyapubbā` ("whose former [spouse] was dear"), keeps the ordinary noun
@@ -84,10 +84,11 @@ change / nature / of which / that → what / subject to change
 
 ### Exercises
 
-Each of the following is a `bahubbīhi` from [chapter 11](../11-pbt/), with the
-word it agrees with where the sentence has one and a link to its sentence. Look
-each up in a dictionary, name its members, unfold it into a phrase with `yassa`
-("whose"), and say what it names.
+Each of the following is a `bahubbīhi` from chapters [5](../5-dhammacakka/) and
+[11](../11-pbt/), with the word it agrees with where the sentence has one and a
+link to its sentence. Look each up in a dictionary, name its members, unfold it
+into a phrase with `yassa` ("whose") or `yasmiṁ` ("in which"), and say what it
+names.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -95,63 +96,35 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. passaddhakāyo ([11: 18, 1.15](../11-pbt/#s18-u1-15))
-2. pītimanassa ([11: 18, 1.12](../11-pbt/#s18-u1-12))
-3. maraṇadhammo ([11: 46, 18.1](../11-pbt/#s46-u18-1))
-4. avitakkaṁ (jhānaṁ) ([11: 39, 11.1](../11-pbt/#s39-u11-1))
-5. pītisukhaṁ (jhānaṁ) ([11: 38, 10.1](../11-pbt/#s38-u10-1))
-6. sadevamanussāya (pajāya) ([11: 43, 16.2](../11-pbt/#s43-u16-2))
-7. ekabhattikā (arahanto) ([11: 32, 24.1](../11-pbt/#s32-u24-1))
-8. kaṇṇasukhā (vācā) ([11: 30, 16.1](../11-pbt/#s30-u16-1))
+1. nirodhadhammaṁ ([5: 11.1](../5-dhammacakka/#u11-1))
+2. maraṇadhammo ([11: 46, 18.1](../11-pbt/#s46-u18-1))
+3. avitakkaṁ (jhānaṁ) ([11: 39, 11.1](../11-pbt/#s39-u11-1))
+4. avicāraṁ (jhānaṁ) ([11: 39, 11.1](../11-pbt/#s39-u11-1))
 
 ### Answers
 
 *Note: please do the exercises first before checking the answers.*
 
-1. > passaddho kāyo yassa so → **passaddhakāyo**
+1. > nirodho dhammo yassa taṁ → **nirodhadhammaṁ**
 
-🚹⨀①(🔽(ta)(passaddho) kāyo) *️⃣🤟🚹⨀⑥(yassa) *️⃣🤟🚹⨀①(so) → 🚹⨀①🆎(passaddha+kāya)  
-calmed / body / of whom / that [one] → whose body is calm  
-*{328}: a participle first, like `chinnahattho`; [11: 18, 1.15](../11-pbt/#s18-u1-15), `passaddhakāyo sukhaṁ vediyati`.*
+🚹⨀①(nirodho) 🚹⨀①(dhammo) *️⃣🤟🚻⨀⑥(yassa) *️⃣🤟🚻⨀①(taṁ) → 🚻⨀①🆎(nirodha+dhamma)  
+cessation / nature / of which / that → subject to cessation  
+*{328}: `-dhamma`, "whose nature is …", as `vipariṇāmadhammaṁ`; neuter like the `taṁ` it describes, "whatever is subject to origination" ([5: 11.1](../5-dhammacakka/#u11-1)).*
 
-2. > pītiyā mano yassa so → **pītimano**
-
-🚺⨀③(pītiyā) 🚹⨀①(mano) *️⃣🤟🚹⨀⑥(yassa) *️⃣🤟🚹⨀①(so) → 🚹⨀①🆎(pīti+mana)  
-with joy / mind / of whom / that [one] → whose mind is filled with joy, delighted  
-*{328}: a ③ inside, "with joy"; [11: 18, 1.12](../11-pbt/#s18-u1-12) has the ⑥, `pītimanassa`, "of one who is delighted".*
-
-3. > maraṇaṁ dhammo yassa so → **maraṇadhammo**
+2. > maraṇaṁ dhammo yassa so → **maraṇadhammo**
 
 🚻⨀①(maraṇaṁ) 🚹⨀①(dhammo) *️⃣🤟🚹⨀⑥(yassa) *️⃣🤟🚹⨀①(so) → 🚹⨀①🆎(maraṇa+dhamma)  
 death / nature / of whom / that [one] → whose nature is death, subject to death  
 *{328}: `-dhammo`, "whose nature is": so too `jātidhammo`, `jarādhammo`, `byādhidhammo`, `sokadhammo`, `saṅkilesadhammo` in [11: 46, 18.1](../11-pbt/#s46-u18-1).*
 
-4. > natthi vitakko yasmiṁ taṁ → **avitakkaṁ** jhānaṁ
+3. > natthi vitakko yasmiṁ taṁ → **avitakkaṁ** jhānaṁ
 
 🟢⨀🤟▶️(natthi) 🚹⨀①(vitakko) *️⃣🤟🚻⨀⑦(yasmiṁ) *️⃣🤟🚻⨀①(taṁ) → 🚻⨀①🆎(na+vitakka) 🚻⨀①(jhānaṁ)  
 there is no / thinking / in which / that → without thinking / jhāna  
-*{328}: `a`- for `na` {333}, the outside word in the ⑦; neuter like `jhānaṁ` ([11: 39, 11.1](../11-pbt/#s39-u11-1)), as is `avicāraṁ`.*
+*{328}: `a`- for `na` {333}, the outside word in the ⑦; neuter like the `jhānaṁ` it describes ([11: 39, 11.1](../11-pbt/#s39-u11-1)).*
 
-5. > pīti ca sukhañca yassa taṁ → **pītisukhaṁ** jhānaṁ
+4. > natthi vicāro yasmiṁ taṁ → **avicāraṁ** jhānaṁ
 
-🚺⨀①(pīti) ⏏️(ca) 🚻⨀①(sukhaṁ) ⏏️(ca) *️⃣🤟🚻⨀⑥(yassa) *️⃣🤟🚻⨀①(taṁ) → 🚻⨀①🆎(pīti+sukha) 🚻⨀①(jhānaṁ)  
-delight / and / ease / and / of which / that → having delight and ease / jhāna  
-*{328}: a `dvanda`, "delight and ease", made "having delight and ease"; agreeing with `jhānaṁ` ([11: 38, 10.1](../11-pbt/#s38-u10-1), [11: 39, 11.1](../11-pbt/#s39-u11-1)).*
-
-6. > saha devamanussehi yā sā → **sadevamanussā** pajā
-
-⏏️(saha) 🚹⨂③🆎(deva+manussa) *️⃣🤟🚺⨀①(yā) *️⃣🤟🚺⨀①(sā) → 🚺⨀①🆎(sa+devamanussa) 🚺⨀①(pajā)  
-with / gods and humans / who / that → with its gods and humans / population  
-*{328}: `sa`- is `saha` ("with"), a `dvanda` inside; feminine like `pajā`; [11: 43, 16.2](../11-pbt/#s43-u16-2) has the ⑦, `sadevamanussāya pajāya`.*
-
-7. > ekaṁ bhattaṁ yassa so → **ekabhattiko**
-
-🚻⨀①(ekaṁ bhattaṁ) *️⃣🤟🚹⨀⑥(yassa) *️⃣🤟🚹⨀①(so) → 🚹⨀①🆎(eka+bhattika)  
-one / meal / of whom / that [one] → whose meal is one, eating one meal a day  
-*{328}: a numeral first, like `dasabalo`, with the affix `ika` at the end; plural like `arahanto` ([11: 32, 24.1](../11-pbt/#s32-u24-1)).*
-
-8. > kaṇṇānaṁ sukhaṁ yassā sā → **kaṇṇasukhā** vācā
-
-🚹⨂④(kaṇṇānaṁ) 🚻⨀①(sukhaṁ) *️⃣🤟🚺⨀⑥(yassā) *️⃣🤟🚺⨀①(sā) → 🚺⨀①🆎(kaṇṇa+sukha) 🚺⨀①(vācā)  
-for the ears / ease / of which / that → pleasant to the ear / speech  
-*{328}: a ④ inside, "ease for the ears"; feminine like `vācā` ([11: 30, 16.1](../11-pbt/#s30-u16-1)).*
+🟢⨀🤟▶️(natthi) 🚹⨀①(vicāro) *️⃣🤟🚻⨀⑦(yasmiṁ) *️⃣🤟🚻⨀①(taṁ) → 🚻⨀①🆎(na+vicāra) 🚻⨀①(jhānaṁ)  
+there is no / discursive thought / in which / that → free from discursive thought / jhāna  
+*{328}: the twin of `avitakkaṁ` in the same formula: `vicāra` ("discursive thought") is absent from the second `jhānaṁ`.*

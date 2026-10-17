@@ -64,7 +64,7 @@ tables them all.
 | `iya` | `-iya-` in place of the final vowel | more | `pāpiyo` ("worse") | {363} |
 | `iṭṭha` | `-iṭṭha-` in place of the final vowel | most | `pāpiṭṭho` ("worst") | {363} |
 | `isika` | `-isika-` in place of the final vowel; rare | more | `pāpisiko` ("worse") | {363} |
-| `iya`, `iṭṭha` on a changed base | `seyy-`, `jeṭṭh-`, `kaṇiṭṭh-` and the like | better, best; elder, eldest; younger, youngest | `seyyo`, `seṭṭho` for `pasattha` ("praised"); `jeyyo`, `jeṭṭho` for `vuḍḍha` ("old"); `kaṇiyo`, `kaṇiṭṭho` for `appa` ("little") | {262}–{266} |
+| `iya`, `iṭṭha` on a changed base | `seyy-`, `jeṭṭh-`, `kaniṭṭh-` and the like | better, best; elder, eldest; younger, youngest | `seyyo`, `seṭṭho` for `pasattha` ("praised"); `jeyyo`, `jeṭṭho` for `vuḍḍha` ("old"); `kaniyo`, `kaniṭṭho` for `yuva` ("young") | {262}–{267} |
 
 The thing compared with stands in the ③ or the ⑤ ending: `pāpena pāpataro`
 ("worse than the bad"), `jīvitā seyyo` ("better than life"). `tara` and
@@ -102,10 +102,9 @@ this one / among these / by distinction / bad → worst
 ### Exercises
 
 Each of the following carries one of this section's affixes; you met them in
-the texts of [chapter 7](../7-anatta/), [9](../9-fire/) and [11](../11-pbt/),
-some in another ending. Say which affix it carries, what
-word it is built on, and whether it names a state or singles one out. Check
-its make-up in a dictionary against the tables above.
+the texts of [chapter 11](../11-pbt/), some in another ending. Say which affix
+it carries, what word it is built on, and whether it names a state or singles
+one out. Check its make-up in a dictionary against the tables above.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -115,12 +114,9 @@ deconstruction.
 
 1. dhammatā
 2. sahabyatā
-3. nemittikatā
-4. itthattāyā
-5. domanassehi
-6. aññataraṁ
-7. katame
-8. anuttaraṁ
+3. aññataraṁ
+4. katame
+5. anuttaraṁ
 
 ### Answers
 
@@ -138,37 +134,19 @@ of nature / the state → the natural state, a characteristic
 of fellowship / the state → companionship  
 *`tā` {360}: `-tā` on `sahabya` (fellowship); you met it in the ② ending, `sahabyataṁ`, [11: 24, 3.3](../11-pbt/#s24-u3-3).*
 
-3. > nemittikassa bhāvo → **nemittikatā**
-
-🚹⨀⑥(nemittikassa) 🚹⨀①(bhāvo) → 🚺⨀①🔽(tā)(nemittikatā)  
-of one who drops hints / the state → hinting for gain, indirect begging  
-*`tā` {360}: `-tā` on `nemittika`, itself `nimitta` (a sign) with the `ṇika` of [10.2](../10-2-anekattha/); [11: 34, 29.2](../11-pbt/#s34-u29-2).*
-
-4. > nāparaṁ **itthattāyā**’ti
-
-⏏️(na) 🚻⨀①(apara) 🚻⨀④(itthatta) ⏏️(iti)  
-not / further / for this state of existence / (end quote)  
-*`tta` {360}: `-tta` on `ittha` ("here"), the state of being here, this existence; in the ④ ending; [7: 11.4](../7-anatta/#u11-4), [9: 9.2](../9-fire/#u9-2).*
-
-5. > sokehi paridevehi dukkhehi **domanassehi** upāyāsehi ādittaṁ
-
-🚹⨂③(soka) 🚹⨂③(parideva) 🚻⨂③(dukkha) 🚻⨂③(domanassa) 🚹⨂③(upāyāsa) 🚻⨀①🔽(ta)(āditta)  
-with sorrows / with lamentations / with pains / with griefs / with despairs / burning  
-*`ṇya` {360}: `dummana` ("dejected") with `-ya`, the `u` becoming `o` and the `-ya` joining the `s` of `manas` as `-ssa`; [9: 2.6](../9-fire/#u2-6).*
-
-6. > Yathā **aññataraṁ** bījaṁ
+3. > Yathā **aññataraṁ** bījaṁ
 
 🔼(yathā) 🚻⨀①(aññatara) 🚻⨀①(bīja)  
 like / a certain / seed  
 *`tara` {363}: `-tara` on `añña` (other) singles one out of several, "a certain one"; [11: 20, 5.1](../11-pbt/#s20-u5-1).*
 
-7. > **Katame** ca, bhikkhave, saṅkhārā?
+4. > **Katame** ca, bhikkhave, saṅkhārā?
 
 🚹⨂①(katama) 🔼(ca) 🚹⨂⓪(bhikkhu) 🚹⨂①(saṅkhāra)  
 what / and / bhikkhave / mental constructions  
 *`tama` {363}: `-tama` on the question word `ka` (who? what?) asks "which of the many?"; [11: 13, 10.1](../11-pbt/#s13-u10-1).*
 
-8. > **anuttaraṁ** yogakkhemaṁ nibbānaṁ
+5. > **anuttaraṁ** yogakkhemaṁ nibbānaṁ
 
 🚻⨀①(anuttara) 🚹⨀②(yogakkhema) 🚻⨀①(nibbāna)  
 unsurpassed / sanctuary / extinguishment  

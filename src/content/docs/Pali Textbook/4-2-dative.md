@@ -48,7 +48,7 @@ ending in its place {311}; [Appendix G](../g-vibhatti/) tables the endings.
 | the one longed for or envied | `pihayati` | `samiddhānaṁ pihayanti daliddā` | {277} |
 | the one someone is angry with, hostile to or jealous of | `kujjhati`, `issati`, `usūyati` | `kodhayati devadattassa` | {277} |
 | the one whose favour is won or who is wronged (② too) | `ārādho`, `aparajjhati` | `ārādho'haṁ rañño` | {277} |
-| the speaker assented to | `paṭissuṇāti`, `anugiṇāti`, `patigiṇāti` | `bhagavato paccassosuṁ` ([7: 1.3](../7-anatta/#u1-3)) | {277} |
+| the speaker assented to | `paṭissuṇāti`, `anugiṇāti`, `patigiṇāti` | `āsuṇanti buddhassa bhikkhū` (the bhikkhū listen assenting to the Buddha) | {277} |
 | the one announced to | `āroceti`, `āmanteti`, `paṭivedeti` | `ārocayāmi vo bhikkhave` | {277} |
 | the purpose, "for the sake of" (`tadattha`) | `atthāya` or a noun of purpose | `buddhassa atthāya` | {277} |
 | the aim, "in order to" (`tumattha`) | a noun of action in `-āya` | `bhikkhūnaṁ phāsuvihārāya` | {277} |
@@ -95,8 +95,8 @@ homage / to you / O Buddha / O hero / let there be
 Translate the following from Pāḷi to English and say, for each word with the ④
 ending, which use of the table it shows. Look up the words in a dictionary, do
 the necessary sandhi and compound word deconstruction, and let the endings
-guide the meaning. Sentences 1–5 and 7 are from the texts of chapters 3, 7, 9 and
-11, linked to their place there; 6 is Kaccāyana's own.
+guide the meaning. Sentences 1 and 2 are from the texts of chapters 11 and 3,
+linked to their place there; 3 and 4 are Kaccāyana's own.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -104,56 +104,39 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. ([7: 1.3](../7-anatta/#u1-3))
-2. Dhammatā esā, bhikkhave, yaṁ pamuditassa pīti uppajjati. ([11: 18, 1.9](../11-pbt/#s18-u1-9))
-3. Sīlavato, bhikkhave, sīlasampannassa na cetanāya karaṇīyaṁ. ([11: 18, 1.1](../11-pbt/#s18-u1-1))
-4. uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya chandaṁ janeti ([11: 35, 21.21](../11-pbt/#s35-u21-21))
-5. Yadā have pātubhavanti dhammā, ātāpino jhāyato brāhmaṇassa ([3: 6.1–6.2](../3-awakening/#u6-1))
-6. saṅghe gotami dehi
-7. ‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānātī”ti. ([9: 9.2](../9-fire/#u9-2))
+1. pahānāya chandaṁ janeti ([11: 35, 21.21](../11-pbt/#s35-u21-21))
+2. Yadā have pātubhavanti dhammā, ātāpino jhāyato brāhmaṇassa ([3: 6.1–6.2](../3-awakening/#u6-1))
+3. saṅghe gotami dehi
+4. namo karohi nāgassa
 
 ### Answers
 
 *Note: please do the exercises first before checking the answers.*
 
-1. > “Bhadante”ti te bhikkhū bhagavato paccassosuṁ.
+1. > **pahānāya** chandaṁ janeti
 
-🚹⨀⓪(bhadanta) ⏏️(iti) *️⃣🤟🚹⨂①(ta) 🚹⨂①(bhikkhu) 🚹⨀④(bhagavant) 🟢⨂🤟⏮(paṭissuṇāti)  
-Bhadante / (end quote) / those / bhikkhū / to the Bhagavā / replied  
-*“Bhadante,” those bhikkhū replied to the Bhagavā.*
+🚻⨀④(pahāna) 🚹⨀②(chanda) ▶️🤟⨀(janeti)  
+for giving up of / desire / generates  
+*He generates a desire for the giving up …*  
+`pahānāya`: the aim, "in order to" {277}.
 
-2. > Dhammatā esā, bhikkhave, yaṁ pamuditassa pīti uppajjati.
-
-🚺⨀①(dhammatā) 🚺⨀①(eta) 🚹⨂⓪(bhikkhu) 🚻⨀①(ya) 🚹⨀④(pamudita) 🚺⨀①(pīti) ▶️🤟⨀(uppajjati)  
-characteristic / this / bhikkhave / whoever / for joyous / delight / arises  
-*This characteristic, Bhikkhave, delight, arises for whoever is joyous.*
-
-3. > Sīlavato, bhikkhave, sīlasampannassa na cetanāya karaṇīyaṁ.
-
-🚹⨀④(sīlavant) 🚹⨂⓪(bhikkhu) 🚹⨀④(sīlasampanna) 🔼(no) 🚺⨀③(cetana) 🚻⨀①(karaṇīya)  
-for moral / bhikkhave / for accomplished in virtue / no / with intention / ought to be done  
-*Bhikkhave, for the moral and accomplished in virtue, nothing ought to be done with intention.*
-
-4. > uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya chandaṁ janeti
-
-🚹⨂④(uppanna) 🚹⨂⑥(pāpaka) 🚹⨂⑥(akusala) 🚹⨂⑥(dhamma) 🚻⨀④(pahāna) 🚹⨀②(chanda) ▶️🤟⨀(janeti)  
-for arising / of evil / of unwholesome / of characteristics / for giving up of / desire / generates  
-*He generates a desire for the giving up of the arising of evil and unwholesome characteristics.*
-
-5. > Yadā have pātubhavanti dhammā, ātāpino jhāyato brāhmaṇassa
+2. > Yadā have pātubhavanti dhammā, **ātāpino jhāyato brāhmaṇassa**
 
 ⏏️(yadā) ⏏️(have) 🟢⨂🤟▶️(pātubhavati) 🚹⨂①(dhamma) 🚹⨀④(ātāpī) 🚹⨀④🔽(anta)(jhāyanta) 🚹⨀④(brāhmaṇa)  
 when / indeed / appear / phenomena / to the ardent / meditating / brāhmaṇa  
-*When indeed `dhammā` (phenomena) become manifest to the ardent, contemplating brāhmaṇa.*
+*When indeed `dhammā` (phenomena) become manifest to the ardent, contemplating brāhmaṇa.*  
+`ātāpino jhāyato brāhmaṇassa`: the one something appears to, with `pātubhavati` {277}.
 
-6. > saṅghe gotami dehi
+3. > **saṅghe** gotami dehi
 
 🚹⨀⑦(saṅghe) 🚺⨀⓪(gotami) 🟢⨀🤘⏹(dehi)  
 to the Saṅgha / Gotamī / give  
-*Give to the Saṅgha, Gotamī.*
+*Give to the Saṅgha, Gotamī.*  
+`saṅghe`: the recipient with a ⑦ ending instead {311}.
 
-7. > ‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānātī”ti.
+4. > namo karohi **nāgassa**
 
-🚺⨀①🔽(ta)(khīṇa) 🚺⨀①(jāti) 🚻⨀①🔽(ta)(vusita) 🚻⨀①🆎(brahma+cariya) 🚻⨀①🔽(ta)(kata) 🚻⨀①🔽(anīya)(karaṇīya) ⏏️(na) 🚻⨀①(apara) 🚻⨀④(itthatta) ⏏️(iti) 🟢⨀🤟▶️(pajānāti) ⏏️(iti)  
-finished / birth / lived / pure life / done / what had to be done / not / further / for this state of existence / (end quote) / knows clearly / (end quote)  
-*He `pajānāti` (knows clearly): ‘Birth is finished, the pure life is lived, what had to be done is done, there is nothing further for this present state of existence.’*
+⏏️(namo) 🟢⨀🤘⏹(karohi) 🚹⨀④(nāgassa)  
+homage / make / to the nāga  
+*Pay homage to the nāga.*  
+`nāgassa`: the one homage is wished to, with `namo` {294}.

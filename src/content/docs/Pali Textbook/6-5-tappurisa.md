@@ -47,16 +47,15 @@ chapter [4](../4-0-karaka/) gives the first word for its work in the sentence:
 | ④ `catutthī` | the one it is for {293} | `kathinassa dussaṁ` → `kathinadussaṁ` | cloth for the `kathina` | {327} |
 | ⑤ `pañcamī` | the source, "from" {295}, or the thing feared {271} | `corā bhayaṁ` → `corabhayaṁ` | fear of thieves | {327} |
 | ⑥ `chaṭṭhī` | the owner, "of" {301} | `rañño putto` → `rājaputto` | the king's son | {327} |
-| ⑦ `sattamī` | the place or time, "in", "at" {302} | `rūpe saññā` → `rūpasaññā` | perception of form | {327} |
+| ⑦ `sattamī` | the place or time, "in", "at" {302} | `saṁsāre dukkhaṁ` → `saṁsāradukkhaṁ` | suffering in `saṁsāra` | {327} |
 
 The rule's other examples, `sabbarattisobhaṇo` ("beautiful the whole night",
 ② of a stretch of time {298}), `issarakataṁ` ("made by a lord", ③) and
 `dhaññarāsi` ("a heap of grain", ⑥, from the plural `dhaññānaṁ`) among them,
-run the same way, and so do the Fire Sermon's `cakkhusamphasso` ("eye-contact",
-③: `cakkhunā samphasso`, [9: 2.3](../9-fire/#u2-3)) and `rāgagginā` ("with the
-fire of passion", ⑥: `rāgassa aggi`, [9: 2.6](../9-fire/#u2-6)). The Digital
-Pāḷi Dictionary names the kind by this ending, in the Pāḷi of the first
-column: a `chaṭṭhī tappurisa` had the ⑥ ending on its first member, a `dutiyā
+run the same way, and so does the Fire Sermon's `rāgagginā` ("with the fire of
+passion", ⑥: `rāgassa aggi`, [9: 2.6](../9-fire/#u2-6)). The Digital Pāḷi
+Dictionary names the kind by this ending, in the Pāḷi of the first column: a
+`chaṭṭhī tappurisa` had the ⑥ ending on its first member, a `dutiyā
 tappurisa` the ②.
 
 In each the ending of the first member is dropped {317} and the member
@@ -76,11 +75,10 @@ example begins with `na`:
 | --- | --- | --- | :-: |
 | `na brāhmaṇo` | `abrāhmaṇo` ("a non-brahmin") | a `kammadhāraya`, `na` with a noun | {326}, {333} |
 | `na pañcavassaṁ` | `apañcavassaṁ` ("not five years") | a `digu`, `na` with a numeral compound | {326}, {333} |
-| `na dasagavaṁ` | `adasagavaṁ` ("not ten cows") | a `digu`; `go` becomes `gava` at the end of a compound | {326}, {333}, {337} |
 
-The `a-` for `na` is treated in section [6.3](../6-3-kammadharaya/) and the end of a compound in
-[6.8](../6-8-samasanta/); every rule number links to the full rule in the
-Kaccāyana translation, and [chapter 6](../6-0-samasa/) tables them all.
+The `a-` for `na` is treated in section [6.3](../6-3-kammadharaya/); every rule
+number links to the full rule in the Kaccāyana translation, and
+[chapter 6](../6-0-samasa/) tables them all.
 
 ### Examples
 
@@ -98,11 +96,11 @@ to the ground / gone → gone to the ground
 
 ### Exercises
 
-Each of the following is a `tappurisa` from chapters [3](../3-awakening/),
-[5](../5-dhammacakka/), [7](../7-anatta/), [9](../9-fire/) and [11](../11-pbt/),
-in the form it has there, with a link to its sentence. Split it into its members,
-say which ending the first member would carry on its own, and give the
-meaning. Look the word up in a dictionary and check the kind it is given.
+Each of the following is a `tappurisa` from chapters [3](../3-awakening/) and
+[11](../11-pbt/), in the form it has there, with a link to its sentence. Split
+it into its members, say which ending the first member would carry on its own,
+and give the meaning. Look the word up in a dictionary and check the kind it is
+given.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -110,63 +108,49 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. ariyasāvako ([7: 11.1](../7-anatta/#u11-1))
-2. bodhirukkhamūle ([3: 2.1](../3-awakening/#u2-1))
-3. saṅkhāranirodho ([3: 4.1](../3-awakening/#u4-1))
-4. cakkhuviññāṇaṁ ([9: 2.3](../9-fire/#u2-3))
-5. vimuttisukhapaṭisaṁvedī ([3: 2.2](../3-awakening/#u2-2))
-6. sīlasampannassa ([11: 18, 1.1](../11-pbt/#s18-u1-1))
-7. vivekajaṁ ([11: 38, 10.1](../11-pbt/#s38-u10-1))
-8. kāmataṇhā ([5: 4.2](../5-dhammacakka/#u4-2))
+1. bodhirukkhamūle ([3: 2.1](../3-awakening/#u2-1))
+2. saṅkhāranirodho ([3: 4.1](../3-awakening/#u4-1))
+3. vimuttisukhapaṭisaṁvedī ([3: 2.2](../3-awakening/#u2-2))
+4. samādhijaṁ ([11: 39, 11.1](../11-pbt/#s39-u11-1))
+5. tathāgatasāvako ([11: 26, 12.3](../11-pbt/#s26-u12-3))
+6. sammāsambuddhadesitaṁ ([11: 48, 3.2](../11-pbt/#s48-u3-2))
 
 ### Answers
 
 *Note: please do the exercises first before checking the answers.*
 
-1. > ariyassa sāvako → **ariyasāvako**
-
-🚹⨀⑥(ariyassa) 🚹⨀①(sāvako) → 🚹⨀①🆎(ariya+sāvaka)  
-of the awakened one / disciple → awakened disciple  
-*⑥ {327}: "the disciple of the awakened one"; with `sutavā` ("learned") it is the subject of [7: 11.1](../7-anatta/#u11-1) and [9: 8.1](../9-fire/#u8-1).*
-
-2. > bodhirukkhassa mūle → **bodhirukkhamūle**
+1. > bodhirukkhassa mūle → **bodhirukkhamūle**
 
 🚹⨀⑥🆎(bodhi+rukkha) 🚻⨀⑦(mūle) → 🚻⨀⑦🆎(bodhirukkha+mūla)  
 of the Bodhi tree / at the foot → at the foot of the Bodhi tree  
 *⑥ {327}: two compounds in one, `bodhirukkha` being itself `bodhiyā rukkho`; the whole takes the ⑦ ending.*
 
-3. > saṅkhārānaṁ nirodho → **saṅkhāranirodho**
+2. > saṅkhārānaṁ nirodho → **saṅkhāranirodho**
 
 🚹⨂⑥(saṅkhārānaṁ) 🚹⨀①(nirodho) → 🚹⨀①🆎(saṅkhāra+nirodha)  
 of mental constructions / cessation → the cessation of mental constructions  
 *⑥ {327}: a plural first member, as in `dhaññarāsi`; every `-nirodho` of [chapter 3](../3-awakening/) is built so.*
 
-4. > cakkhusmiṁ viññāṇaṁ → **cakkhuviññāṇaṁ**
-
-🚻⨀⑦(cakkhusmiṁ) 🚻⨀①(viññāṇaṁ) → 🚻⨀①🆎(cakkhu+viññāṇa)  
-in the eye / consciousness → eye-consciousness  
-*⑦ {327}: like `rūpe saññā`, consciousness "at" the eye; the sermon repeats the shape for each sense, `sotaviññāṇaṁ`, `manoviññāṇaṁ`.*
-
-5. > vimuttisukhaṁ paṭisaṁvedī → **vimuttisukhapaṭisaṁvedī**
+3. > vimuttisukhaṁ paṭisaṁvedī → **vimuttisukhapaṭisaṁvedī**
 
 🚻⨀②🆎(vimutti+sukha) 🚹⨀①(paṭisaṁvedī) → 🚹⨀①🆎(vimuttisukha+paṭisaṁvedī)  
 the bliss of liberation / experiencing → experiencing the bliss of liberation  
 *② {327}: the object of `paṭisaṁvedī` ("experiencing"); `vimuttisukhaṁ` is itself `vimuttiyā sukhaṁ`, ⑥.*
 
-6. > sīlena sampannassa → **sīlasampannassa**
+4. > samādhimhā jaṁ → **samādhijaṁ**
 
-🚻⨀③(sīlena) 🚹⨀④(sampannassa) → 🚹⨀④🆎(sīla+sampanna)  
-by virtue / for one accomplished → for one accomplished in virtue  
-*③ {327}: accomplished by means of virtue; the whole carries the sentence's ④ ending, "for".*
+🚹⨀⑤(samādhimhā) 🚻⨀①(jaṁ) → 🚻⨀①🆎(samādhi+ja)  
+from focus / born → born from focus  
+*⑤ {327}: "born from", the source {295}; `-ja` ("born") closes a ⑤ compound as `-gato` closes a ②.*
 
-7. > vivekā jaṁ → **vivekajaṁ**
+5. > tathāgatassa sāvako → **tathāgatasāvako**
 
-🚹⨀⑤(vivekā) 🚻⨀②(jaṁ) → 🚻⨀②🆎(viveka+ja)  
-from seclusion / born → born of seclusion  
-*⑤ {327}: "born from"; [chapter 11](../11-pbt/) renders the word "secluded from defilements", the commentary's sense.*
+🚹⨀⑥(tathāgatassa) 🚹⨀①(sāvako) → 🚹⨀①🆎(tathāgata+sāvaka)  
+of the Tathāgata / disciple → disciple of the Buddha  
+*⑥ {327}: "the disciple of the Tathāgata", as `rājaputto` is "the son of the king".*
 
-8. > kāmesu taṇhā → **kāmataṇhā**
+6. > sammāsambuddhena desitaṁ → **sammāsambuddhadesitaṁ**
 
-🚹⨂⑦(kāmesu) 🚺⨀①(taṇhā) → 🚺⨀①🆎(kāma+taṇhā)  
-in sensual pleasures / craving → craving for sensual pleasure  
-*⑦ {327}: like `rūpe saññā`; a plural first member, and the compound is feminine like `taṇhā`.*
+🚹⨀③🆎(sammā+sambuddha) 🚻⨀①🔽(ta)(desita) → 🚻⨀①🆎(sammāsambuddha+desita)  
+by the perfectly awakened one / taught → taught by the perfectly awakened one  
+*③ {327}: the doer {288} of `desitaṁ` ("taught"), as in `issarakataṁ` ("made by a lord"); the word describes `nibbānaṁ`.*

@@ -19,9 +19,9 @@ When the sages leave a village, the village is `gāmā`, "from the village": the
 noun takes the ⑤ ending, and Kaccāyana calls what it names the `apādāna` (the
 point of departure). The ⑤ ending is the ending of "from": the place one
 leaves, the thief one fears, the teacher one learns from {271}, and the cause
-something arises from {296}. It is the first ending the Bodhikathā of
-[chapter 3](../3-awakening/) shows you, in `avijjāpaccayā saṅkhārā` ("with
-ignorance as condition, mental constructions [arise]", [3: 3.1](../3-awakening/#u3-1)).
+something arises from {296}. The Bodhikathā of [chapter 3](../3-awakening/)
+shows it at each step of its chain of cessation: `bhavanirodhā jātinirodho`,
+"with the cessation of becoming comes the cessation of birth" ([3: 4.10](../3-awakening/#u4-10)).
 
 You know the ⑤ ending by its shape, ⨀ `-smā` (`buddhasmā`), or `-ā` {108} or
 `-mhā` {99} in its place (`gāmā`, `anavatattamhā`), 🚺⨀ `-āya` (`sālāya`), ⨂
@@ -48,7 +48,7 @@ or a word beside it such as `vinā` ("without") or `pubbe` ("before").
 | the time or reason "since which", `yato` | `yato sarāmi attānaṁ`, since I remember myself | {272} |
 | what something is kept away from, with a verb of guarding | `kāke rakkhanti taṇḍulā`, they keep the crows from the rice | {273} |
 | the one hidden from; also ⑦ | `upajjhāyā antaradhāyati sisso`, the pupil vanishes from the preceptor | {274} |
-| the cause of what follows | `avijjāpaccayā saṅkhārā`, with ignorance as condition, mental constructions [arise] ([3: 3.1](../3-awakening/#u3-1)) | {296} |
+| the cause of what follows | `bhavanirodhā jātinirodho`, with the cessation of becoming comes the cessation of birth ([3: 4.10](../3-awakening/#u4-10)) | {296} |
 
 Kaccāyana defines the `apādāna` in four rules {271}–{274} and gives it the ⑤
 ending in two {295}–{296}; a fifth rule {275} adds twenty rarer senses, mostly
@@ -85,13 +85,13 @@ in the texts of [chapter 11](../11-pbt/), release in those of chapters
 from village / depart / sages  
 *The sages depart from the village.*
 
-> corā bhayaṁ jāyate
+> **corā** bhayaṁ jāyate
 
 🚹⨀⑤(corā) ⨀(🚻①(bhayaṁ) 🔵🤟▶️(jāyate))  
 from thief / fear / arises  
 *Fear arises from the thief.*
 
-> ācariyu’pajjhāyehi sikkhaṁ gaṇhāti sisso
+> **ācariyu’pajjhāyehi** sikkhaṁ gaṇhāti sisso
 
 🚹⨀⑤🆎(ācariya+upajjhāya) 🚺⨀②(sikkhaṁ) ⨀(🟢🤟▶️(gaṇhāti) 🚹①(sisso))  
 teacher and preceptor / lesson / takes / pupil  
@@ -99,8 +99,8 @@ teacher and preceptor / lesson / takes / pupil
 
 ### Exercises
 
-Each sentence is from the texts of chapters 3, 7, 9 and 11, linked to its place
-there, and has a word with the ⑤ ending. Find it, match it to a row of the
+Each sentence or phrase is from the texts of chapters 3, 7 and 11, linked to its
+place there, and has a word with the ⑤ ending. Find it, match it to a row of the
 tables, and translate the sentence. Look the words up in a dictionary, do the
 necessary sandhi and compound word deconstruction, and take note of the
 `vibhatti` endings.
@@ -111,50 +111,39 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. Avijjāpaccayā saṅkhārā ([3: 3.1](../3-awakening/#u3-1))
-2. upādānanirodhā bhavanirodho ([11: 19, 2.6](../11-pbt/#s19-u2-6), also [3: 4.9](../3-awakening/#u4-9))
-3. Nibbindaṁ virajjati; virāgā vimuccati. ([7: 11.2](../7-anatta/#u11-2))
-4. So tehi dhammehi cittaṁ paṭivāpeti ([11: 9, 9.4](../11-pbt/#s9-u9-4))
-5. Pāṇātipātā veramaṇī adinnādānā veramaṇī kāmesumicchācārā veramaṇī ([11: 31, 21.14](../11-pbt/#s31-u21-14))
-6. Yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi ādittaṁ. ([9: 2.4](../9-fire/#u2-4))
+1. upādānanirodhā bhavanirodho ([11: 19, 2.6](../11-pbt/#s19-u2-6), also [3: 4.9](../3-awakening/#u4-9))
+2. virāgā vimuccati ([7: 11.2](../7-anatta/#u11-2))
+3. Pāṇātipātā veramaṇī adinnādānā veramaṇī kāmesumicchācārā veramaṇī ([11: 31, 21.14](../11-pbt/#s31-u21-14))
+4. agārasmā anagāriyaṁ pabbajeyyan”ti ([11: 26, 12.8](../11-pbt/#s26-u12-8))
 
 ### Answers
 
 *Note: please do the exercises first before checking the answers.*
 
-1. > Avijjāpaccayā saṅkhārā
-
-🚹⨀⑤🆎(avijjā+paccaya) 🚹⨂①(saṅkhāra)  
-with ignorance as condition / mental constructions  
-*With `avijjā` (ignorance) as condition, `saṅkhārā` (mental constructions) [arise];*
-
-2. > upādānanirodhā bhavanirodho
+1. > **upādānanirodhā** bhavanirodho
 
 🚹⨀⑤(upādānanirodha) 🚹⨀①(bhavanirodha)  
 from cessation of fuel / cessation of becoming  
-*From cessation of fuel, cessation of becoming.*
+*From cessation of fuel, cessation of becoming.*  
+`upādānanirodhā`: the cause of what follows {296}.
 
-3. > Nibbindaṁ virajjati; virāgā vimuccati.
+2. > **virāgā** vimuccati
 
-🚹⨀①🔽(anta)(nibbindanta) 🟢⨀🤟▶️(virajjati) 🚹⨀⑤(virāga) 🔵⨀🤟▶️(vimuccati)  
-giving up / becomes detached / from detachment / is liberated  
-*Giving up, he `virajjati` (becomes detached); from detachment he `vimuccati` (becomes liberated).*
+🚹⨀⑤(virāga) 🔵⨀🤟▶️(vimuccati)  
+from detachment / is liberated  
+*…from detachment he `vimuccati` (becomes liberated).*  
+`virāgā`: what one is freed from, with `muccati` {275}.
 
-4. > So tehi dhammehi cittaṁ paṭivāpeti
-
-🚹⨀①(ta) 🚹⨂⑤(ta) 🚹⨂⑤(dhamma) 🚻⨀①(citta) ▶️🤟⨀(paṭivāpeti)  
-that / from those / from processes / mind / pulls back  
-*That, the mind pulls back from those processes.*
-
-5. > Pāṇātipātā veramaṇī adinnādānā veramaṇī kāmesumicchācārā veramaṇī
+3. > **Pāṇātipātā** veramaṇī **adinnādānā** veramaṇī **kāmesumicchācārā** veramaṇī
 
 🚹⨀⑤(pāṇātipāta) 🚺⨀①(veramaṇī) 🚻⨀⑤(adinnādāna) 🚺⨀①(veramaṇī) 🚹⨀⑤(kāmesumicchācāra) 🚺⨀①(veramaṇī)  
 from killing living beings / abstinence from / from theft / abstinence from / from sexual misconduct / abstinence from  
-*Abstinence from killing living beings, abstinence from theft, abstinence from sexual misconduct.*
+*Abstinence from killing living beings, abstinence from theft, abstinence from sexual misconduct.*  
+`pāṇātipātā`, `adinnādānā`, `kāmesumicchācārā`: what one abstains from, with `veramaṇī` {275}.
 
-6. > Yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi ādittaṁ.
+4. > **agārasmā** anagāriyaṁ pabbajeyyan”ti
 
-*️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(cakkhu+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita) 🚻⨀①(sukha) ⏏️(vā) 🚻⨀①(dukkha) ⏏️(vā) 🚻⨀①🆎(na+dukkha+na+sukha) ⏏️(vā) *️⃣🤟🚻⨀①(ta) ⏏️(api) 🚻⨀①🔽(ta)(āditta)  
-what / too / this / with eye-contact as condition / arises / feeling / pleasant / or / painful / or / neither painful nor pleasant / or / that / too / burning  
-*And whatever `vedayitaṁ` (feeling) arises conditioned by eye-contact, whether pleasant or painful or neutral, that too is burning.*
-
+🚻⨀⑤(agāra) 🚻⨀②(anagāriya) 🔵⏯👆⨀(pabbajati) 🔼(ti)  
+from household life / to homeless state / renounce / quote  
+*What if I were to renounce from household life to homeless state, …*  
+`agārasmā`: the place one leaves {271}, {295}.

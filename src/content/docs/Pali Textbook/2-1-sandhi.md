@@ -39,7 +39,7 @@ here the direction is reversed.
 | the first word's final vowel missing | `pana idaṁ` | `panidaṁ`, `natthi` (`na atthi`), `vivicceva` | {12} |
 | a long vowel for two short ones: the first dropped, the second lengthened | `ca ayaṁ` | `cāyaṁ`, `tāvāhaṁ` (`tāva ahaṁ`), `yannūnāhaṁ` | {12}, {15} |
 | `o’ti`, `ova`: `iti`, `iva` after `o`, the `i` dropped | `abhisambuddho iti` | `abhisambuddho’ti`, `sūriyova` | {13} |
-| `ī”ti`: `iti` after `i`, one `i` dropped, the other lengthened | `hoti iti` | `hotī”ti`, `kiñcī’ti` | {12}, {15} |
+| `ī”ti`: `iti` after `i`, the first `i` dropped, the second lengthened | `hoti iti` | `hotī”ti`, `kiñcī’ti` | {12}, {15} |
 | `n”ti`, `mpi`: `iti`, `api` after `ṁ`, the first vowel dropped, the `ṁ` turned into `n` or `m` (the word's own ending is `-aṁ`, never `-an`) | `nirodhadhammaṁ iti`, `maraṇaṁ api` | `nirodhadhamman”ti`, `maraṇampi`, `yampicchaṁ` (`yaṁ api icchaṁ`) | {40}, {31} |
 | `ṅ`, `ñ`, `ṇ`, `n`, `m` before `k`, `c`, `ṭ`, `t`, `p`: a `ṁ` turned into the nasal of that group | `kiṁ ci` | `kiñci`, `imasmiñca`, `saṅkhittena` ([5: 4.1](../5-dhammacakka/#u4-1) keeps the `ṁ`: `saṁkhittena` {30}) | {31} |
 | `m` or `d` between a word in `ṁ` and a vowel | `evaṁ etassa` | `evametassa`, `ayamantimā`, `yadidaṁ` (`yaṁ idaṁ`) | {34} |
@@ -78,13 +78,13 @@ which / and / this / in sensual pleasures / pursuit of sensual happiness
 
 *️⃣🤟🚻⨀①(ta) ⏏️(kho) ⏏️(pana) *️⃣🤟🚻⨀①(ima) 🚻⨀①(dukkha) 🚻⨀①🆎(ariya+sacca) 🚻⨀①🔽(ṇya)(pariññeyya) ⏏️(iti)  
 that / indeed / now / this / suffering / realisation / to be fully understood / thus  
-*`panidaṁ` = `pana idaṁ`: the `a` of `pana` dropped {12}. `pariññeyyan’ti` = `pariññeyyaṁ iti`: the `i` of `iti` dropped {40}, the `ṁ` turned into `n` before `t` {31}; [5: 5.2](../5-dhammacakka/#u5-2).*
+*`panidaṁ` = `pana idaṁ`: the `a` of `pana` dropped {12}; `pariññeyyan’ti` = `pariññeyyaṁ iti`: the `i` of `iti` dropped {40}, `ṁ` becomes `n` {31}; [5: 5.2](../5-dhammacakka/#u5-2).*
 
-> **Evametassa** kevalassa **dukkhakkhandhassa** nirodho **hotī”ti**
+> **Evametassa** kevalassa **dukkhakkhandhassa** nirodho hotī”ti
 
 ⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(nirodha) 🟢⨀🤟▶️(hoti) ⏏️(iti)  
 thus / of this / of the entire / of the mass of suffering / cessation / is / (end quote)  
-*`evametassa` = `evaṁ etassa`: `ṁ` becomes `m` before a vowel {34}. `dukkhakkhandhassa` = `dukkha` + `khandha`: `kh` doubled as `kkh` {29}. `hotī”ti` = `hoti iti`: one `i` dropped {12}, the other lengthened {15}; [3: 4.12](../3-awakening/#u4-12).*
+*`evametassa` = `evaṁ etassa`: `ṁ` becomes `m` before a vowel {34}; `dukkhakkhandhassa` = `dukkha` + `khandha`: `kh` doubled as `kkh` {29}; [3: 4.12](../3-awakening/#u4-12).*
 
 > yo **tassāyeva** taṇhāya asesavirāganirodho
 
@@ -94,10 +94,9 @@ which / of that / very / craving / remainderless fading away and cessation
 
 ### Exercises
 
-Each phrase, from chapters [3](../3-awakening/), [5](../5-dhammacakka/),
-[7](../7-anatta/), [9](../9-fire/) and [11](../11-pbt/), has a join in bold:
-split it into its words, say what the join dropped, lengthened, changed or
-doubled, and name the rule.
+Each phrase, from chapters [5](../5-dhammacakka/), [9](../9-fire/) and
+[11](../11-pbt/), has a join in bold: split it into its parts, say what the
+join dropped, lengthened, changed or doubled, and name the rule.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -106,13 +105,12 @@ deconstruction.
 :::
 
 1. **natthi** dāni punabbhavo
-2. ‘etaṁ mama, **esohamasmi**, eso me attā’
-3. **Imasmiñca** pana veyyākaraṇasmiṁ bhaññamāne
-4. **Yampidaṁ** cakkhusamphassapaccayā uppajjati vedayitaṁ
-5. yaṁ **kiñci** samudayadhammaṁ sabbaṁ taṁ **nirodhadhamman”ti**
-6. ‘anuttaraṁ sammāsambodhiṁ **abhisambuddho’ti** **paccaññāsiṁ**
-7. So **vivicceva** kāmehi
-8. Yato pajānāti **sahetudhamman”ti**
+2. **Imasmiñca** pana veyyākaraṇasmiṁ bhaññamāne
+3. **Yampidaṁ** cakkhusamphassapaccayā uppajjati vedayitaṁ
+4. yaṁ **kiñci** samudayadhammaṁ sabbaṁ taṁ **nirodhadhamman”ti**
+5. ‘anuttaraṁ sammāsambodhiṁ **abhisambuddho’ti**
+6. So **vivicceva** kāmehi
+7. piyehi **vippayogo** dukkho
 
 ### Answers
 
@@ -124,44 +122,38 @@ deconstruction.
 not / there is / now / renewed becoming  
 *`natthi` = `na atthi`: the `a` of `na` dropped {12}, nothing lengthened; [5: 10.2](../5-dhammacakka/#u10-2).*
 
-2. > ‘etaṁ mama, **esohamasmi**, eso me attā’
-
-*️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨀①(atta)  
-this / mine / this / I / am / this / my / self  
-*`esohamasmi` = `eso ahaṁ asmi`: after `o` the `a` of `ahaṁ` dropped {13}; `ṁ` becomes `m` before a vowel {34}; [7: 6.5](../7-anatta/#u6-5).*
-
-3. > **Imasmiñca** pana veyyākaraṇasmiṁ bhaññamāne
+2. > **Imasmiñca** pana veyyākaraṇasmiṁ bhaññamāne
 
 *️⃣🤟🚻⨀⑦(ima) ⏏️(ca) ⏏️(pana) 🚻⨀⑦(veyyākaraṇa) 🚻⨀⑦🔽(māna)(bhaññamāna)  
 in this / and / moreover / detailed exposition / being spoken  
 *`imasmiñca` = `imasmiṁ ca`: the `ṁ` of the ⑦ ending becomes `ñ` before `c` {31}; [5: 11.1](../5-dhammacakka/#u11-1).*
 
-4. > **Yampidaṁ** cakkhusamphassapaccayā uppajjati vedayitaṁ
+3. > **Yampidaṁ** cakkhusamphassapaccayā uppajjati vedayitaṁ
 
 *️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(cakkhu+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita)  
 what / too / this / with eye-contact as condition / arises / feeling  
 *`yampidaṁ` = `yaṁ api idaṁ`: the `a` of `api` dropped {40}, `ṁ` becomes `m` before `p` {31}, the `i` of `pi` dropped {12}; [9: 2.4](../9-fire/#u2-4).*
 
-5. > yaṁ **kiñci** samudayadhammaṁ sabbaṁ taṁ **nirodhadhamman”ti**
+4. > yaṁ **kiñci** samudayadhammaṁ sabbaṁ taṁ **nirodhadhamman”ti**
 
 *️⃣🤟🚻⨀①(ya) *️⃣🤟🚻⨀①(kaci) 🚻⨀①🆎(samudaya+dhamma) *️⃣🤟🚻⨀①(sabba) *️⃣🤟🚻⨀①(ta) 🚻⨀①🆎(nirodha+dhamma) ⏏️(iti)  
 whatever / anything / subject to origination / all / that / subject to cessation / (end quote)  
 *`kiñci` = `kiṁ ci`: `ṁ` becomes `ñ` before `c` {31}. `nirodhadhamman”ti` = `nirodhadhammaṁ iti`: the `i` of `iti` dropped {40}, `ṁ` becomes `n` {31}; [5: 11.1](../5-dhammacakka/#u11-1).*
 
-6. > ‘anuttaraṁ sammāsambodhiṁ **abhisambuddho’ti** **paccaññāsiṁ**
+5. > ‘anuttaraṁ sammāsambodhiṁ **abhisambuddho’ti**
 
-🚺⨀②🆎(na+uttara) 🚺⨀②🆎(sammā+sambodhi) 🚹⨀①🔽(ta)(abhisambuddha) ⏏️(iti) 🟢⨀👆⏮(paṭijānāti)  
-unsurpassed / perfect understanding / fully awakened / thus / claimed  
-*`abhisambuddho’ti` = `abhisambuddho iti`: after `o` the `i` of `iti` is dropped {13}. `paccaññāsiṁ`: `pati` has become `pacc` before the vowel {19}; [5: 9.1](../5-dhammacakka/#u9-1).*
+🚺⨀②🆎(na+uttara) 🚺⨀②🆎(sammā+sambodhi) 🚹⨀①🔽(ta)(abhisambuddha) ⏏️(iti)  
+unsurpassed / perfect understanding / fully awakened / thus  
+*`abhisambuddho’ti` = `abhisambuddho iti`: after `o` the `i` of `iti` is dropped {13}; [5: 9.1](../5-dhammacakka/#u9-1).*
 
-7. > So **vivicceva** kāmehi
+6. > So **vivicceva** kāmehi
 
 🚹⨀①(ta) 🔼(vivicceva) 🚹⨂⑤(kāma)  
 that / just secluding oneself from / sensual pleasures  
 *`vivicceva` = `vivicca eva`: the `a` of `vivicca` dropped {12}; [11: 38, 10.1](../11-pbt/#s38-u10-1).*
 
-8. > Yato pajānāti **sahetudhamman”ti**
+7. > piyehi **vippayogo** dukkho
 
-⏏️(yato) 🟢⨀🤟▶️(pajānāti) 🚹⨀②🆎(sahetu+dhamma) ⏏️(iti)  
-since / knows / phenomena with their causes / (end quote)  
-*`sahetudhamman”ti` = `sahetudhammaṁ iti` {40}, {31}; the word's own ending is `-aṁ` ②; [3: 6.4](../3-awakening/#u6-4).*
+🚹⨂③(piya) 🚹⨀①(vippayoga) 🚹⨀①(dukkha)  
+from the loved / separation / suffering  
+*`vippayogo` = `vi` + `payogo`: the `p` doubled after the prefix `vi` {28}; [5: 4.1](../5-dhammacakka/#u4-1).*

@@ -84,59 +84,57 @@ The `-ti` of a verb (`hoti`) is not this `ti`: `hotī”ti` has both. `kathaṁ`
 | `yasmā … tasmā` | because … therefore: the ⑤ of `ya`, `ta` {110} | `yasmā ca kho … tasmā` ([7: 2.3](../7-anatta/#u2-3)) |
 | `puna` | again | `puna caparaṁ` ([11: 39, 11.1](../11-pbt/#s39-u11-1)) |
 | `yāva … tāva` | as long as … so long | `yāvakīvañca … neva tāvāhaṁ` ([5: 9.1](../5-dhammacakka/#u9-1)) |
-| `idha`, `iha` | here {254} | `idha, bhikkhave, bhikkhu` ([11: 24, 3.1](../11-pbt/#s24-u3-1)), `tasmātiha` ([7: 7.1](../7-anatta/#u7-1)) |
+| `idha`, `iha` | here {254} | `idha, bhikkhave, bhikkhu` ([11: 24, 3.1](../11-pbt/#s24-u3-1)) |
 | `tattha`, `tatra` | there {249} | `tatra kho bhagavā` ([5: 1.2](../5-dhammacakka/#u1-2)) |
 | `ito` | from here {248} | `ito sutvā` ([11: 30, 15.1](../11-pbt/#s30-u15-1)) |
-| `ajjhattaṁ`, `bahiddhā`; `dūre`, `santike` | inside, outside; far, near | `ajjhattaṁ vā bahiddhā vā … dūre santike vā` ([7: 7.1](../7-anatta/#u7-1)) |
+| `dūre`, `santike` | far, near | `dūre santike vā` ([7: 7.1](../7-anatta/#u7-1)) |
 | `evaṁ` | thus | `evametassa … samudayo hoti` ([3: 3.12](../3-awakening/#u3-12)) |
 | `yathā … tathā` | as … so {398} | `yathā yathā … tathā tathā` ([11: 36, 3.2](../11-pbt/#s36-u3-2)) |
 | `seyyathidaṁ` | that is to say | `seyyathidaṁ— sammādiṭṭhi …` ([5: 3.2](../5-dhammacakka/#u3-2)) |
-| `iva`, `va`, `viya` | like | `sūriyova` ([3: 12.4](../3-awakening/#u12-4)) |
+| `iva`, `viya` | like | `sūriyova` (`sūriyo iva` {13}, [3: 12.4](../3-awakening/#u12-4)) |
 
 ### Address and assent
 
 | particle | meaning | in the texts |
 | --- | --- | --- |
-| `bho` | sir (to an equal) | `aññāsi vata bho, koṇḍañño` ([5: 14.1](../5-dhammacakka/#u14-1)) |
-| `bhante` | venerable sir | `no hetaṁ, bhante` ([7: 6.6](../7-anatta/#u6-6)) |
 | `āvuso` | friend | `tisso kho imā, āvuso visākha` ([11: 10, 22.2](../11-pbt/#s10-u22-2)) |
 | `sādhu` | good!; excellent! | `sādhu sādhu, sāriputta` ([11: 44, 2.4](../11-pbt/#s44-u2-4)) |
 
-`bhikkhave` is a ⓪ form of `bhikkhu` ([2.3](../2-3-vowel-lemmas/)), not a
-particle. `āma` ("yes"), `handa` ("come now!") and `alaṁ` ("enough") are not in
-the texts.
+`bhikkhave`, `bho` and `bhante` are ⓪ forms of `bhikkhu` ([2.3](../2-3-vowel-lemmas/))
+and `bhavanta` ([2.4](../2-4-irregular/)), not particles. `āma` ("yes"), `handa`
+("come now!") and `alaṁ` ("enough") are not in the texts.
 
 ### Examples
 
-> Tatra kho bhagavā
+> **Tatra kho** bhagavā
 
 ⏏️(tatra) ⏏️(kho) 🚹⨀①(bhagavant)  
 there / indeed / the Bhagavā  
 *`tatra` ("there", {249}) sets the place; `kho`, second, stresses, untranslated ([5: 1.2](../5-dhammacakka/#u1-2)).*
 
-> jātipi dukkhā, jarāpi dukkhā
+> **jātipi** dukkhā, **jarāpi** dukkhā
 
 🚺⨀①(jāti) ⏏️(api) 🚺⨀①(dukkha) 🚺⨀①(jarā) ⏏️(api) 🚺⨀①(dukkha)  
 birth / too / suffering / aging / too / suffering  
 *`pi` ("too") after each item adds it to the list ([5: 4.1](../5-dhammacakka/#u4-1)).*
 
-> ‘Idaṁ dukkhaṁ ariyasaccan’ti
+> ‘Idaṁ dukkhaṁ **ariyasaccan’ti**
 
 *️⃣🤟🚻⨀①(ima) 🚻⨀①(dukkha) 🚻⨀①🆎(ariya+sacca) ⏏️(iti)  
 this / suffering / realisation / thus  
 *`ti` closes the thought: the `i` of `iti` dropped after `-aṁ` {40}, `ṁ` now `n` {31} ([5: 5.1](../5-dhammacakka/#u5-1)).*
 
-> Kiñca, bhikkhave, sabbaṁ ādittaṁ?
+> **Kiñca**, bhikkhave, sabbaṁ ādittaṁ?
 
 *️⃣🤟🚻⨀①(kiṁ) ⏏️(ca) 🚹⨂⓪(bhikkhu) *️⃣🤟🚻⨀①(sabba) 🚻⨀①🔽(ta)(āditta)  
 what / and / bhikkhave / all / burning  
 *`kiñca` is `kiṁ` + `ca`, the `ṁ` turned into `ñ` before `c` {31}: `ca` carries the question on, "and what …?" ([9: 2.2](../9-fire/#u2-2)).*
 
-> “No hetaṁ, bhante”.
+> “**No hetaṁ**, bhante”.
 
 ⏏️(no) ⏏️(hi) *️⃣🤟🚻⨀①(eta) 🚹⨀⓪(bhavant)  
 not / indeed / this / bhante  
-*`no` denies; `hetaṁ` is `hi` + `etaṁ` {12}; `bhante` addresses a senior ([7: 6.6](../7-anatta/#u6-6)).*
+*`no` denies; `hetaṁ` is `hi` + `etaṁ` {12} ([7: 6.6](../7-anatta/#u6-6)).*
 
 ### Exercises
 
@@ -153,10 +151,9 @@ deconstruction.
 2. Idaṁ kho pana, bhikkhave, ([5: 4.1](../5-dhammacakka/#u4-1))
 3. Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ ([5: 3.2](../5-dhammacakka/#u3-2))
 4. samaṇena vā brāhmaṇena vā ([5: 12.1](../5-dhammacakka/#u12-1))
-5. ‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti ([7: 2.2](../7-anatta/#u2-2))
+5. evaṁ me rūpaṁ mā ahosī’ti ([7: 2.2](../7-anatta/#u2-2))
 6. Yato pajānāti sahetudhamman”ti ([3: 6.4](../3-awakening/#u6-4))
-7. Sūriyova obhāsayamantalikkhan”ti ([3: 12.4](../3-awakening/#u12-4))
-8. Kiṁ nu sattoti paccesi ([11: 8, 4.1](../11-pbt/#s8-u4-1))
+7. Kiṁ nu sattoti paccesi ([11: 8, 4.1](../11-pbt/#s8-u4-1))
 
 ### Answers
 
@@ -186,10 +183,10 @@ this / very / noble / eightfold / path / that is to say
 by an ascetic / or / by a brahmin / or  
 *`vā` after each word joins the alternatives, "or … or".*
 
-5. > ‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti
+5. > evaṁ me rūpaṁ mā ahosī’ti
 
-⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(rūpa) 🟢⨀🤟⏹(hoti) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(rūpa) ⏏️(mā) 🟢⨀🤟⏮(hoti) ⏏️(iti)  
-thus / my / form / let be / thus / my / form / not / be / (end quote)  
+⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(rūpa) ⏏️(mā) 🟢⨀🤟⏮(hoti) ⏏️(iti)  
+thus / my / form / not / be / (end quote)  
 *`evaṁ` ("thus") sets the manner; `mā` before the past form `ahosi` forbids, "may it not be"; `ahosī’ti` is `ahosi` + `iti` {13}, {16}, closing the wish.*
 
 6. > Yato pajānāti sahetudhamman”ti.
@@ -198,13 +195,7 @@ thus / my / form / let be / thus / my / form / not / be / (end quote)
 since / knows / phenomena with their causes / (end quote)  
 *`yato` ("since", {248}) gives the reason; `sahetudhamman”ti` is `-aṁ` + `iti` {40}, {31}.*
 
-7. > Sūriyova obhāsayamantalikkhan”ti.
-
-🚹⨀①(sūriya) ⏏️(iva) 🚹⨀①🔽(anta)(obhāsayanta) 🚻⨀②(antalikkha) ⏏️(iti)  
-the sun / like / illuminating / the sky / (end quote)  
-*`sūriyova` is `sūriyo` + `iva` {13}, manner; `antalikkhan”ti` is `-aṁ` + `iti` {40}, {31}.*
-
-8. > Kiṁ nu sattoti paccesi,
+7. > Kiṁ nu sattoti paccesi,
 
 🚻⨀①(ka) 🔼(nu) 🚹⨀①(satta) 🔼(iti) ▶️🤘⨀(pacceti)  
 what / ? / being / like this / you believes to be  

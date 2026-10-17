@@ -53,7 +53,7 @@ texts', each linked to its sentence, except `parābhavo` (Kaccāyana's own) and 
 | `saṁ` | together; fully | `sambodhi`, full awakening ([5: 2.4](../5-dhammacakka/#u2-4)) | {31} |
 | `vi` | apart; specially | `vimutti`, liberation ([5: 10.2](../5-dhammacakka/#u10-2)) | {221} |
 | `ava` | down, off | `obhāso`, radiance ([5: 13.2](../5-dhammacakka/#u13-2)) | {50} |
-| `anu` | along, after | `ananussutesu`, not heard before ([5: 5.1](../5-dhammacakka/#u5-1)) | {221} |
+| `anu` | along, after | `ananussutesu`, not heard before ([5: 5.1](../5-dhammacakka/#u5-1)) | {28} |
 | `pari` | all round; fully | `pariññeyyaṁ`, to be fully understood ([5: 5.2](../5-dhammacakka/#u5-2)) | {28} |
 | `adhi` | over; in | `ajjhattaṁ`, inwardly ([7: 7.1](../7-anatta/#u7-1)) | {45} |
 | `abhi` | towards; fully | `abhiññā`, direct knowledge ([5: 2.4](../5-dhammacakka/#u2-4)) | {221} |
@@ -78,7 +78,7 @@ and root meet; each rule number links to the full rule.
 | --- | --- | --- | :-: |
 | `sam`, `saṅ`, `sañ`, `san` | `saṁ`, with the nasal of the next consonant's group; kept before `v`, `s`, `h` | `sambodhi` ([5: 2.4](../5-dhammacakka/#u2-4)), `cakkhusamphasso` ([9: 2.3](../9-fire/#u2-3)), `saṅkhārā` ([7: 4.4](../7-anatta/#u4-4)), `saññā` ([7: 4.1](../7-anatta/#u4-1)), `sandiṭṭhiko`; `saṁvattati` ([7: 2.3](../7-anatta/#u2-3)) | {31}, {30} |
 | `sam` before a vowel | `saṁ` | `samudayo` ([3: 3.12](../3-awakening/#u3-12)), `samanupassituṁ` ([7: 6.5](../7-anatta/#u6-5)) | {34} |
-| a doubled consonant after `vi`, `u`, `pa`, `nī`, `ati` | the next consonant doubled | `vippayogo` ([5: 4.1](../5-dhammacakka/#u4-1)), `uppajjati` ([9: 2.4](../9-fire/#u2-4)), `nissaraṇaṁ` ([11: 50, 3.3](../11-pbt/#s50-u3-3)), `atikkamma` ([5: 13.2](../5-dhammacakka/#u13-2)) | {28} |
+| a doubled consonant after `vi`, `u`, `pa`, `du`, `anu`, `pari`, `nī`, `ati` | the next consonant doubled | `vippayogo` ([5: 4.1](../5-dhammacakka/#u4-1)), `uppajjati` ([9: 2.4](../9-fire/#u2-4)), `nissaraṇaṁ` ([11: 50, 3.3](../11-pbt/#s50-u3-3)), `atikkamma` ([5: 13.2](../5-dhammacakka/#u13-2)) | {28} |
 | `ud` before a vowel | `u` with a `d` inserted | `udapādi` ([5: 5.1](../5-dhammacakka/#u5-1)), `udānesi` ([3: 5.1](../3-awakening/#u5-1)) | {35} |
 | a final vowel gone | a vowel dropped before a vowel | `upādāna` (`upa` + `ādāna`, [3: 3.8](../3-awakening/#u3-8)), `upāyāsehi` (`upa` + `āyāsa`, [9: 2.6](../9-fire/#u2-6)) | {12} |
 | `abbh` before a vowel | `abhi` | `abbhuggacchi` ([5: 13.1](../5-dhammacakka/#u13-1)) | {44} |
@@ -90,8 +90,7 @@ and root meet; each rule number links to the full rule.
 :::note[`anu`, or `an` + `u`?]
 Not every `anu-` is the prefix `anu`: the negative `an-` can stand before a
 prefix beginning with `u`. `anupagamma` ("not approaching", [5: 2.4](../5-dhammacakka/#u2-4)) is
-`an` + `upa` + `√gam`, `anupādāya` ("not grasping", [7: 12.3](../7-anatta/#u12-3)) `an` + `upa` + `√ādā` ("take") and
-`anuttaraṁ` ("unsurpassed", [5: 9.1](../5-dhammacakka/#u9-1)) `an` + `u` + `tara`,
+`an` + `upa` + `√gam` and `anuttaraṁ` ("unsurpassed", [5: 9.1](../5-dhammacakka/#u9-1)) `an` + `u` + `tara`,
 while `ananussutesu` ([5: 5.1](../5-dhammacakka/#u5-1)) is `an` + `anu` + `√su`; the `construction` field
 settles it.
 :::
@@ -108,19 +107,19 @@ there / indeed / the Bhagavā / of the group of five / bhikkhū / addressed
 
 🚹⨂③🆎(na+piya) 🚹⨀①(sampayoga) 🚹⨀①(dukkha) 🚹⨂③(piya) 🚹⨀①(vippayoga) 🚹⨀①(dukkha)  
 with the unloved / association / suffering / from the loved / separation / suffering  
-*One word, `pa` + `√yuj` ("yoke"), under two prefixes: `saṁ` ("together") gives association, `vi` ("apart") separation. Before `p` the `ṁ` becomes `m` {31}; after `vi` the `p` doubles {28} ([5: 4.1](../5-dhammacakka/#u4-1)).*
+*`pa` + `√yuj` ("yoke") under two prefixes: `saṁ` ("together"), `sam` before `p` {31}, gives association, and `vi` ("apart"), the `p` doubled after it {28}, separation ([5: 4.1](../5-dhammacakka/#u4-1)).*
 
-> **upasamāya** **abhiññāya** **sambodhāya** nibbānāya **saṁvattati**
+> **sambodhāya** nibbānāya **saṁvattati**
 
-🚹⨀④(upasama) 🚺⨀④(abhiññā) 🚹⨀④(sambodha) 🚻⨀④(nibbāna) 🟢⨀🤟▶️(saṁvattati)  
-to calm / to direct knowledge / to enlightenment / to extinguishment / leads  
-*`saṁ` twice: `sam` before `b` {31}, `saṁ` kept before `v` {30}. `upasamāya` is `upa` ("near") + `√sam` ("be calm"), `abhiññāya` `abhi` ("fully") + `√ñā` ("know"), `nibbānāya` `nī` + `√vā` ("blow") ([5: 2.4](../5-dhammacakka/#u2-4)).*
+🚹⨀④(sambodha) 🚻⨀④(nibbāna) 🟢⨀🤟▶️(saṁvattati)  
+to enlightenment / to extinguishment / leads  
+*`saṁ` twice: `sam` before `b` {31} in `sambodhāya` (`saṁ` + `√budh`, "wake"), `saṁ` kept before `v` {30} in `saṁvattati` (`saṁ` + `√vatt`, "proceed") ([5: 2.4](../5-dhammacakka/#u2-4)).*
 
-> pubbe **ananussutesu** dhammesu cakkhuṁ **udapādi**
+> cakkhuṁ **udapādi**
 
-⏏️(pubbe) 🚹⨂⑦🔽(ta)🆎(na+anussuta) 🚹⨂⑦(dhamma) 🚻⨀①(cakkhu) 🟢⨀🤟⏮(uppajjati)  
-before / not heard / in dhammas / insight / arose  
-*`udapādi` is `u` ("up") + `√pad` ("go"), "went up": a `d` is inserted after `u` before a vowel {35}, and the `a` after it is the `a` put before the root in the past {519}. `ananussutesu` is `an` + `anu` + `√su` ("hear"), "not heard along" ([5: 5.1](../5-dhammacakka/#u5-1)).*
+🚻⨀①(cakkhu) 🟢⨀🤟⏮(uppajjati)  
+insight / arose  
+*`udapādi` is `u` ("up") + `√pad` ("go"), "went up": a `d` is inserted after `u` before a vowel {35}, and the `a` after it is the `a` put before the root in the past {519} ([5: 5.1](../5-dhammacakka/#u5-1)).*
 
 ### Exercises
 
@@ -135,10 +134,10 @@ deconstruction.
 :::
 
 1. pajānāti ([3: 6.4](../3-awakening/#u6-4))
-2. samanupassituṁ ([7: 6.5](../7-anatta/#u6-5))
+2. abhisambuddho ([5: 9.1](../5-dhammacakka/#u9-1))
 3. saṅkhārā ([3: 3.1](../3-awakening/#u3-1))
 4. pariññeyyaṁ ([5: 5.2](../5-dhammacakka/#u5-2))
-5. paccaññāsiṁ ([5: 10.1](../5-dhammacakka/#u10-1))
+5. paṭipadā ([5: 2.4](../5-dhammacakka/#u2-4))
 6. nissaraṇaṁ ([11: 50, 3.3](../11-pbt/#s50-u3-3))
 7. ajjhattaṁ ([7: 7.1](../7-anatta/#u7-1))
 8. uppajjati ([9: 2.4](../9-fire/#u2-4))
@@ -153,11 +152,11 @@ deconstruction.
 knows  
 *`pa` + `√ñā` ("know"): `pa` sharpens the root, "knows clearly"; nothing changes at the join ([3: 6.4](../3-awakening/#u6-4)).*
 
-2. > **samanupassituṁ**
+2. > **abhisambuddho**
 
-🔽(tuṁ)(samanupassati)  
-to regard  
-*`saṁ` ("together") + `anu` ("along") + `√dis` ("see", shown as `pass`), two prefixes: `sam` before the vowel of `anu` {34}; `-tuṁ` says "to …" ([7: 6.5](../7-anatta/#u6-5)).*
+🚹⨀①🔽(ta)(abhisambuddha)  
+fully awakened  
+*`abhi` ("fully") + `saṁ` ("fully") + `√budh` ("wake"), two prefixes: `abhi` unchanged before `s`, `sam` before `b` {31} ([5: 9.1](../5-dhammacakka/#u9-1)).*
 
 3. > **saṅkhārā**
 
@@ -171,11 +170,11 @@ mental constructions
 to be fully understood  
 *`pari` ("all round") + `√ñā` ("know"): the `ñ` doubles after the short `i` {28}; `-eyya` says "to be … -ed" (chapter 8) ([5: 5.2](../5-dhammacakka/#u5-2)).*
 
-5. > **paccaññāsiṁ**
+5. > **paṭipadā**
 
-🟢⨀👆⏮(paṭijānāti)  
-claimed  
-*`pati` ("back") + `√ñā` ("know"): `pati` becomes `pacc` before a vowel {19}, and the `a` after it marks the past {519}: "knew back", claimed ([5: 10.1](../5-dhammacakka/#u10-1)).*
+🚺⨀①(paṭipadā)  
+way  
+*`pati` ("towards") + `√pad` ("go"), the way: `pati` becomes `paṭi` {48}, nothing else changes ([5: 2.4](../5-dhammacakka/#u2-4)).*
 
 6. > **nissaraṇaṁ**
 
@@ -187,10 +186,10 @@ way out of
 
 ⏏️(ajjhattaṁ)  
 internal  
-*`adhi` ("in") + `atta` ("self"): `adhi` becomes `ajjh` before a vowel {45}, "in oneself"; an `abyayībhāva` ([6.2](../6-2-abyayibhava/)), which chapter 7 marks as a particle ([7: 7.1](../7-anatta/#u7-1)).*
+*`adhi` ("in") + `atta` ("self"): `adhi` becomes `ajjh` before a vowel {45}; "in oneself", inwardly ([7: 7.1](../7-anatta/#u7-1)).*
 
 8. > **uppajjati**
 
 🟢⨀🤟▶️(uppajjati)  
 arises  
-*`u` ("up") + `√pad` ("go"), "goes up": the `p` doubles after `u` {28}; its past `udapādi` has the `d` {35} ([9: 2.4](../9-fire/#u2-4)).*
+*`u` ("up") + `√pad` ("go"), "goes up": the `p` doubles after `u` {28} ([9: 2.4](../9-fire/#u2-4)).*

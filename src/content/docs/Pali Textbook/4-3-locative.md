@@ -78,8 +78,8 @@ in the forenoon / gone (past participle)
 
 An event that sets the time {313}, the ⑦ absolute: a noun and a participle,
 both ⑦, agreeing with each other and belonging to no verb of the sentence.
-With a `-ta` word it is "when X had happened": `bhuttesu āgato`, "[he] came
-back when [they had] eaten":
+With a `-ta` word it is "when X had happened": `pavattite … dhammacakke`,
+"when the `Dhammacakka` had been set in motion" ([5: 12.1](../5-dhammacakka/#u12-1)):
 
 > **bhikkhūsu bhojīyamānesu** gato
 
@@ -89,10 +89,10 @@ while the monks / [were] being fed / gone
 
 ### Exercises
 
-Each sentence is from the texts of chapters 3, 7, 9 and 11, linked to its place
-there, and has a ⑦ word. Find it, say what it is doing there — the place, what
-the action rests on, the time or an event that sets the time — and translate the
-sentence.
+Each sentence or phrase is from the texts of chapters 3, 7 and 11, linked to its
+place there, and has a ⑦ word. Find it, say what it is doing there — the place,
+what the action rests on, the time or an event that sets the time — and
+translate the sentence.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -102,54 +102,45 @@ deconstruction.
 
 1. Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī. ([3: 2.2](../3-awakening/#u2-2))
 2. Yathā aññataraṁ bījaṁ, khette vuttaṁ virūhati. ([11: 20, 5.1–5.2](../11-pbt/#s20-u5-1))
-3. Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi nibbindati, saññāyapi nibbindati, saṅkhāresupi nibbindati, viññāṇasmimpi nibbindati. ([7: 11.1](../7-anatta/#u11-1))
+3. ariyasāvako rūpasmimpi nibbindati ([7: 11.1](../7-anatta/#u11-1))
 4. Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi. ([3: 5.1](../3-awakening/#u5-1))
-5. Evaṁ khandhesu santesu, hoti sattoti sammuti. ([11: 8, 5.3–5.4](../11-pbt/#s8-u5-3))
-6. Nibbindaṁ virajjati; virāgā vimuccati; vimuttasmiṁ vimuttamiti ñāṇaṁ hoti. ([9: 9.1](../9-fire/#u9-1))
+5. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne ([7: 12.3](../7-anatta/#u12-3))
 
 ### Answers
 
 *Note: please do the exercises first before checking the answers.*
 
-1. > Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī.
+1. > Atha kho bhagavā **bodhirukkhamūle** sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī.
 
 ⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚻⨀⑦🆎(bodhirukkha+mūla) 🚻⨀②🆎(satta+aha) 🚹⨀③🆎(eka+pallaṅka) 🟢⨀🤟⏮(nisīdati) 🚹⨀①🆎(vimuttisukha+paṭisaṁvedī)  
 then / indeed / the Bhagavā / at the root of the bodhi tree / for seven days / in one cross-legged posture / sat down / experiencing the bliss of liberation  
 *Then the Bhagavā sat at the root of the Bodhi tree for seven days in one cross-legged posture, experiencing the bliss of liberation (`vimuttisukhapaṭisaṁvedī`).*  
 `bodhirukkhamūle`: the place {278}, {302}.
 
-2. > Yathā aññataraṁ bījaṁ, khette vuttaṁ virūhati.
+2. > Yathā aññataraṁ bījaṁ, **khette** vuttaṁ virūhati.
 
 🔼(yathā) 🚻⨀①(aññatara) 🚻⨀①(bīja) 🚻⨀⑦(khetta) 🚻⨀①(vutta) ▶️🤟⨀(virūhati)  
 like / a certain / seed / in field / sown / grows  
 *Like a certain seed, sown in field, grows.*  
 `khette`: the place {302}.
 
-3. > Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi nibbindati, saññāyapi nibbindati, saṅkhāresupi nibbindati, viññāṇasmimpi nibbindati.
+3. > ariyasāvako **rūpasmimpi** nibbindati
 
-⏏️(evaṁ) 🚹⨀①🔽(anta)(passanta) 🚹⨂⓪(bhikkhu) 🚹⨀①(sutavant) 🚹⨀①🆎(ariya+sāvaka) 🚻⨀⑦(rūpa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚺⨀⑦(vedanā) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚺⨀⑦(saññā) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨂⑦(saṅkhāra) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚻⨀⑦(viññāṇa) ⏏️(api) 🟢⨀🤟▶️(nibbindati)  
-thus / seeing / bhikkhave / learned / awakened disciple / form / too / gives up / feeling / too / gives up / apperception / too / gives up / mental constructions / too / gives up / consciousness / too / gives up  
-*Thus seeing, bhikkhave, the `sutavā` (learned) `ariyasāvaka` (awakened disciple) `nibbindati` (gives up) `rūpa`, gives up `vedanā`, gives up `saññā`, gives up `saṅkhārā`, gives up `viññāṇa`.*  
-`rūpasmiṁ`, `vedanāya`, `saṅkhāresu`: what the giving up rests on {302}; `-āya` is ⑦ on a feminine word.
+🚹⨀①🆎(ariya+sāvaka) 🚻⨀⑦(rūpa) ⏏️(api) 🟢⨀🤟▶️(nibbindati)  
+awakened disciple / form / too / gives up  
+*…the `ariyasāvaka` (awakened disciple) `nibbindati` (gives up) `rūpa`…*  
+`rūpasmiṁ`, with `pi` ("too") joined to it: what the giving up rests on {302}.
 
-4. > Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi.
+4. > Atha kho bhagavā etamatthaṁ viditvā **tāyaṁ velāyaṁ** imaṁ udānaṁ udānesi.
 
 ⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) *️⃣🤟🚹⨀②(eta) 🚹⨀②(attha) 🔽(tvā)(vidati) *️⃣🤟🚺⨀⑦(ta) 🚺⨀⑦(velā) *️⃣🤟🚹⨀②(ima) 🚹⨀②(udāna) 🟢⨀🤟⏮(udāneti)  
 then / indeed / the Bhagavā / this / matter / having understood / at that / time / this / inspired utterance / uttered  
 *Then the Bhagavā, having understood this matter, on that occasion uttered this inspired utterance (`udāna`).*  
 `tāyaṁ velāyaṁ`: the time {313}.
 
-5. > Evaṁ khandhesu santesu, hoti sattoti sammuti.
+5. > Imasmiñca pana **veyyākaraṇasmiṁ bhaññamāne**
 
-🔼(evaṁ) 🚹⨂⑦(khandha) 🚹⨂⑦(santa) ▶️🤟⨀(hoti) 🚹⨀①(satta) 🔼(iti) 🚺⨀①(sammuti)  
-thus / in collections / existence / is / being / like this / general consensus  
-*Thus in the collection of the `khandhā`, is generally regarded as a “being.”*  
-`khandhesu santesu`: the ⑦ absolute {313}; `santesu` agrees with its noun.
-
-6. > Nibbindaṁ virajjati; virāgā vimuccati; vimuttasmiṁ vimuttamiti ñāṇaṁ hoti.
-
-🚹⨀①🔽(anta)(nibbindanta) 🟢⨀🤟▶️(virajjati) 🚹⨀⑤(virāga) 🔵⨀🤟▶️(vimuccati) 🚻⨀⑦🔽(ta)(vimutta) 🚻⨀①🔽(ta)(vimutta) ⏏️(iti) 🚻⨀①(ñāṇa) 🟢⨀🤟▶️(hoti)  
-giving up / becomes detached / from detachment / is liberated / in liberation / liberated / (end quote) / knowledge / there is  
-*Giving up, he `virajjati` (becomes detached); from detachment he `vimuccati` (becomes liberated); in liberation there is the `ñāṇa` (knowledge): ‘liberated’.*  
-`vimuttasmiṁ`: the ⑦ absolute {313} with a `-ta` word and its noun unsaid, "when [the mind is] liberated".
-
+*️⃣🤟🚻⨀⑦(ima) ⏏️(ca) ⏏️(pana) 🚻⨀⑦(veyyākaraṇa) 🚻⨀⑦🔽(māna)(bhaññamāna)  
+in this / and / moreover / detailed exposition / being spoken  
+*And while this detailed exposition was being spoken, …*  
+`veyyākaraṇasmiṁ bhaññamāne`: the ⑦ absolute {313}; `bhaññamāne` agrees with its noun.
