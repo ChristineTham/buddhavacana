@@ -101,8 +101,9 @@ this one / among these / by distinction / bad → worst
 
 ### Exercises
 
-Each of the following carries one of this section's affixes; all but one you
-met in chapter 11, some in another ending. Say which affix it carries, what
+Each of the following carries one of this section's affixes; you met them in
+the texts of [chapter 7](../7-anatta/), [9](../9-fire/) and [11](../11-pbt/),
+some in another ending. Say which affix it carries, what
 word it is built on, and whether it names a state or singles one out. Check
 its make-up in a dictionary against the tables above.
 
@@ -115,8 +116,8 @@ deconstruction.
 1. dhammatā
 2. sahabyatā
 3. nemittikatā
-4. nippesikatā
-5. anodarikattaṁ
+4. itthattāyā
+5. domanassehi
 6. aññataraṁ
 7. katame
 8. anuttaraṁ
@@ -129,46 +130,46 @@ deconstruction.
 
 🚹⨀⑥(dhammassa) 🚹⨀①(bhāvo) → 🚺⨀①🔽(tā)(dhammatā)  
 of nature / the state → the natural state, a characteristic  
-*`tā` {360}: `-tā` on `dhamma` (nature); chapter 11's "Dhammatā esā", "this characteristic".*
+*`tā` {360}: `-tā` on `dhamma` (nature); "Dhammatā esā", "this characteristic", [11: 18, 1.3](../11-pbt/#s18-u1-3).*
 
 2. > sahabyassa bhāvo → **sahabyatā**
 
 🚻⨀⑥(sahabyassa) 🚹⨀①(bhāvo) → 🚺⨀①🔽(tā)(sahabyatā)  
 of fellowship / the state → companionship  
-*`tā` {360}: `-tā` on `sahabya` (fellowship); you met it in the ② ending, `sahabyataṁ`.*
+*`tā` {360}: `-tā` on `sahabya` (fellowship); you met it in the ② ending, `sahabyataṁ`, [11: 24, 3.3](../11-pbt/#s24-u3-3).*
 
 3. > nemittikassa bhāvo → **nemittikatā**
 
 🚹⨀⑥(nemittikassa) 🚹⨀①(bhāvo) → 🚺⨀①🔽(tā)(nemittikatā)  
 of one who drops hints / the state → hinting for gain, indirect begging  
-*`tā` {360}: `-tā` on `nemittika`, itself `nimitta` (a sign) with the `ṇika` of [10.2](../10-2-anekattha/).*
+*`tā` {360}: `-tā` on `nemittika`, itself `nimitta` (a sign) with the `ṇika` of [10.2](../10-2-anekattha/); [11: 34, 29.2](../11-pbt/#s34-u29-2).*
 
-4. > nippesikassa bhāvo → **nippesikatā**
+4. > nāparaṁ **itthattāyā**’ti
 
-🚹⨀⑥(nippesikassa) 🚹⨀①(bhāvo) → 🚺⨀①🔽(tā)(nippesikatā)  
-of one who puts others down / the state → putting others down  
-*`tā` {360}: `-tā` on `nippesika` (an insulter, one who puts others down), another `ika` word.*
+⏏️(na) 🚻⨀①(apara) 🚻⨀④(itthatta) ⏏️(iti)  
+not / further / for this state of existence / (end quote)  
+*`tta` {360}: `-tta` on `ittha` ("here"), the state of being here, this existence; in the ④ ending; [7: 11.4](../7-anatta/#u11-4), [9: 9.2](../9-fire/#u9-2).*
 
-5. > anodarikassa bhāvo → **anodarikattaṁ**
+5. > sokehi paridevehi dukkhehi **domanassehi** upāyāsehi ādittaṁ
 
-🚹⨀⑥(anodarikassa) 🚹⨀①(bhāvo) → 🚻⨀①🔽(tta)(anodarikattaṁ)  
-of one not greedy for food / the state → moderation in eating  
-*`tta` {360}: `-ttaṁ` on `anodarika`, itself `an-` (not) and `odarika` (greedy for food); neuter.*
+🚹⨂③(soka) 🚹⨂③(parideva) 🚻⨂③(dukkha) 🚻⨂③(domanassa) 🚹⨂③(upāyāsa) 🚻⨀①🔽(ta)(āditta)  
+with sorrows / with lamentations / with pains / with griefs / with despairs / burning  
+*`ṇya` {360}: `dummana` ("dejected") with `-ya`, the `u` becoming `o` and the `-ya` joining the `s` of `manas` as `-ssa`; [9: 2.6](../9-fire/#u2-6).*
 
 6. > Yathā **aññataraṁ** bījaṁ
 
 🔼(yathā) 🚻⨀①(aññatara) 🚻⨀①(bīja)  
 like / a certain / seed  
-*`tara` {363}: `-tara` on `añña` (other) singles one out of several, "a certain one".*
+*`tara` {363}: `-tara` on `añña` (other) singles one out of several, "a certain one"; [11: 20, 5.1](../11-pbt/#s20-u5-1).*
 
 7. > **Katame** ca, bhikkhave, saṅkhārā?
 
 🚹⨂①(katama) 🔼(ca) 🚹⨂⓪(bhikkhu) 🚹⨂①(saṅkhāra)  
 what / and / bhikkhave / mental constructions  
-*`tama` {363}: `-tama` on the question word `ka` (who? what?) asks "which of the many?".*
+*`tama` {363}: `-tama` on the question word `ka` (who? what?) asks "which of the many?"; [11: 13, 10.1](../11-pbt/#s13-u10-1).*
 
 8. > **anuttaraṁ** yogakkhemaṁ nibbānaṁ
 
 🚻⨀①(anuttara) 🚹⨀②(yogakkhema) 🚻⨀①(nibbāna)  
 unsurpassed / sanctuary / extinguishment  
-*`tara` {363}: `ud` (up) with `-tara` is `uttaro` ("higher"); `an-` (not) in front, "with none higher".*
+*`tara` {363}: `ud` (up) with `-tara` is `uttaro` ("higher"); `an-` (not) in front, "with none higher"; [11: 46, 18.1](../11-pbt/#s46-u18-1).*

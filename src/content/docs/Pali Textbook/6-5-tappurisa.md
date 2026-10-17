@@ -52,7 +52,9 @@ chapter [4](../4-0-karaka/) gives the first word for its work in the sentence:
 The rule's other examples, `sabbarattisobhaṇo` ("beautiful the whole night",
 ② of a stretch of time {298}), `issarakataṁ` ("made by a lord", ③) and
 `dhaññarāsi` ("a heap of grain", ⑥, from the plural `dhaññānaṁ`) among them,
-run the same way. The Digital
+run the same way, and so do the Fire Sermon's `cakkhusamphasso` ("eye-contact",
+③: `cakkhunā samphasso`, [9: 2.3](../9-fire/#u2-3)) and `rāgagginā` ("with the
+fire of passion", ⑥: `rāgassa aggi`, [9: 2.6](../9-fire/#u2-6)). The Digital
 Pāḷi Dictionary names the kind by this ending, in the Pāḷi of the first
 column: a `chaṭṭhī tappurisa` had the ⑥ ending on its first member, a `dutiyā
 tappurisa` the ②.
@@ -61,7 +63,7 @@ In each the ending of the first member is dropped {317} and the member
 stands in its lemma form, the form a word has before its ending,
 `rañño` as `rāja`, `bhūmiṁ` as `bhūmi` {318}; the whole compound then takes an
 ending of its own, as `bodhirukkhamūle` ("at the foot of the Bodhi tree") in
-chapter 3 carries the ⑦.
+[3: 2.1](../3-awakening/#u2-1) carries the ⑦.
 
 ### The `kammadhāraya` and the `digu` count as `tappurisa` too
 
@@ -96,8 +98,9 @@ to the ground / gone → gone to the ground
 
 ### Exercises
 
-Each of the following is a `tappurisa` from chapter [3](../3-awakening/) or
-[11](../11-pbt/), in the form it has there. Split it into its members,
+Each of the following is a `tappurisa` from chapters [3](../3-awakening/),
+[5](../5-dhammacakka/), [7](../7-anatta/), [9](../9-fire/) and [11](../11-pbt/),
+in the form it has there, with a link to its sentence. Split it into its members,
 say which ending the first member would carry on its own, and give the
 meaning. Look the word up in a dictionary and check the kind it is given.
 
@@ -107,24 +110,24 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. sāriputto
-2. bodhirukkhamūle
-3. saṅkhāranirodho
-4. usukārā
-5. vimuttisukhapaṭisaṁvedī
-6. sīlasampannassa
-7. vivekajaṁ
-8. kāmataṇhā
+1. ariyasāvako ([7: 11.1](../7-anatta/#u11-1))
+2. bodhirukkhamūle ([3: 2.1](../3-awakening/#u2-1))
+3. saṅkhāranirodho ([3: 4.1](../3-awakening/#u4-1))
+4. cakkhuviññāṇaṁ ([9: 2.3](../9-fire/#u2-3))
+5. vimuttisukhapaṭisaṁvedī ([3: 2.2](../3-awakening/#u2-2))
+6. sīlasampannassa ([11: 18, 1.1](../11-pbt/#s18-u1-1))
+7. vivekajaṁ ([11: 38, 10.1](../11-pbt/#s38-u10-1))
+8. kāmataṇhā ([5: 4.2](../5-dhammacakka/#u4-2))
 
 ### Answers
 
 *Note: please do the exercises first before checking the answers.*
 
-1. > sāriyā putto → **sāriputto**
+1. > ariyassa sāvako → **ariyasāvako**
 
-🚺⨀⑥(sāriyā) 🚹⨀①(putto) → 🚹⨀①🆎(sāri+putta)  
-of Sārī / son → Sārī's son, the elder Sāriputta  
-*⑥ {327}: a name built like `rājaputto`; the first member is his mother's name.*
+🚹⨀⑥(ariyassa) 🚹⨀①(sāvako) → 🚹⨀①🆎(ariya+sāvaka)  
+of the awakened one / disciple → awakened disciple  
+*⑥ {327}: "the disciple of the awakened one"; with `sutavā` ("learned") it is the subject of [7: 11.1](../7-anatta/#u11-1) and [9: 8.1](../9-fire/#u8-1).*
 
 2. > bodhirukkhassa mūle → **bodhirukkhamūle**
 
@@ -136,13 +139,13 @@ of the Bodhi tree / at the foot → at the foot of the Bodhi tree
 
 🚹⨂⑥(saṅkhārānaṁ) 🚹⨀①(nirodho) → 🚹⨀①🆎(saṅkhāra+nirodha)  
 of mental constructions / cessation → the cessation of mental constructions  
-*⑥ {327}: a plural first member, as in `dhaññarāsi`; every `-nirodho` of chapter 3 is built so.*
+*⑥ {327}: a plural first member, as in `dhaññarāsi`; every `-nirodho` of [chapter 3](../3-awakening/) is built so.*
 
-4. > usuṁ kārā → **usukārā**
+4. > cakkhusmiṁ viññāṇaṁ → **cakkhuviññāṇaṁ**
 
-🚹⨀②(usuṁ) 🚹⨂①(kārā) → 🚹⨂①🆎(usu+kāra)  
-an arrow / makers → arrow-makers  
-*② {327}: `kāro` ("maker") with the thing made in front; the Dhammapada verse has the plural.*
+🚻⨀⑦(cakkhusmiṁ) 🚻⨀①(viññāṇaṁ) → 🚻⨀①🆎(cakkhu+viññāṇa)  
+in the eye / consciousness → eye-consciousness  
+*⑦ {327}: like `rūpe saññā`, consciousness "at" the eye; the sermon repeats the shape for each sense, `sotaviññāṇaṁ`, `manoviññāṇaṁ`.*
 
 5. > vimuttisukhaṁ paṭisaṁvedī → **vimuttisukhapaṭisaṁvedī**
 
@@ -160,7 +163,7 @@ by virtue / for one accomplished → for one accomplished in virtue
 
 🚹⨀⑤(vivekā) 🚻⨀②(jaṁ) → 🚻⨀②🆎(viveka+ja)  
 from seclusion / born → born of seclusion  
-*⑤ {327}: "born from"; chapter 11 renders the word "secluded from defilements", the commentary's sense.*
+*⑤ {327}: "born from"; [chapter 11](../11-pbt/) renders the word "secluded from defilements", the commentary's sense.*
 
 8. > kāmesu taṇhā → **kāmataṇhā**
 

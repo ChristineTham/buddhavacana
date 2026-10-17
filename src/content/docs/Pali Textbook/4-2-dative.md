@@ -27,11 +27,12 @@ word with this ending is "to whom, or for what?".
 What you see is most often `-ssa`, `-āya` or `-no` in the singular
 (`samaṇassa`, `atthāya`, `bhikkhuno`), `-naṁ` in the plural (`bhikkhūnaṁ`),
 and `te`, `me`, `vo`, `no` ("to you", "to me", "to you all", "to us")
-{147}–{148}. Only `-āya` on a masculine or neuter word (`atthāya`, `hitāya`)
-is ④ alone {109}; the other forms also mean "of", the ⑥ of section 4.7, so the
-sentence decides: is there a giving, a saying, a purpose, a wish? The texts
-sometimes use the ⑦ ending in its place {311}; [Appendix G](../g-vibhatti/)
-tables the endings.
+{147}–{148}. Only `-āya` on a masculine or neuter word (`atthāya`, `hitāya`,
+and `ābādhāya`, "to affliction", which [chapter 7](../7-anatta/) repeats for
+each of the five collections, [7: 2.3](../7-anatta/#u2-3)) is ④ alone {109};
+the other forms also mean "of", the ⑥ of section 4.7, so the sentence decides:
+is there a giving, a saying, a purpose, a wish? The texts sometimes use the ⑦
+ending in its place {311}; [Appendix G](../g-vibhatti/) tables the endings.
 
 ### The uses of the ④ ending
 
@@ -47,7 +48,7 @@ tables the endings.
 | the one longed for or envied | `pihayati` | `samiddhānaṁ pihayanti daliddā` | {277} |
 | the one someone is angry with, hostile to or jealous of | `kujjhati`, `issati`, `usūyati` | `kodhayati devadattassa` | {277} |
 | the one whose favour is won or who is wronged (② too) | `ārādho`, `aparajjhati` | `ārādho'haṁ rañño` | {277} |
-| the speaker assented to | `paṭissuṇāti`, `anugiṇāti`, `patigiṇāti` | `bhagavato paccassosuṁ` | {277} |
+| the speaker assented to | `paṭissuṇāti`, `anugiṇāti`, `patigiṇāti` | `bhagavato paccassosuṁ` ([7: 1.3](../7-anatta/#u1-3)) | {277} |
 | the one announced to | `āroceti`, `āmanteti`, `paṭivedeti` | `ārocayāmi vo bhikkhave` | {277} |
 | the purpose, "for the sake of" (`tadattha`) | `atthāya` or a noun of purpose | `buddhassa atthāya` | {277} |
 | the aim, "in order to" (`tumattha`) | a noun of action in `-āya` | `bhikkhūnaṁ phāsuvihārāya` | {277} |
@@ -94,7 +95,8 @@ homage / to you / O Buddha / O hero / let there be
 Translate the following from Pāḷi to English and say, for each word with the ④
 ending, which use of the table it shows. Look up the words in a dictionary, do
 the necessary sandhi and compound word deconstruction, and let the endings
-guide the meaning. Sentences 2–5 are from chapters 3, 5 and 11.
+guide the meaning. Sentences 1–5 and 7 are from the texts of chapters 3, 7, 9 and
+11, linked to their place there; 6 is Kaccāyana's own.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -102,22 +104,23 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. dātā hoti samaṇassa vā brāhmaṇassa vā
-2. Dhammatā esā, bhikkhave, yaṁ pamuditassa pīti uppajjati.
-3. Sīlavato, bhikkhave, sīlasampannassa na cetanāya karaṇīyaṁ.
-4. uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya chandaṁ janeti
-5. Yadā have pātubhavanti dhammā, ātāpino jhāyato brāhmaṇassa
+1. “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. ([7: 1.3](../7-anatta/#u1-3))
+2. Dhammatā esā, bhikkhave, yaṁ pamuditassa pīti uppajjati. ([11: 18, 1.9](../11-pbt/#s18-u1-9))
+3. Sīlavato, bhikkhave, sīlasampannassa na cetanāya karaṇīyaṁ. ([11: 18, 1.1](../11-pbt/#s18-u1-1))
+4. uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya chandaṁ janeti ([11: 35, 21.21](../11-pbt/#s35-u21-21))
+5. Yadā have pātubhavanti dhammā, ātāpino jhāyato brāhmaṇassa ([3: 6.1–6.2](../3-awakening/#u6-1))
 6. saṅghe gotami dehi
+7. ‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānātī”ti. ([9: 9.2](../9-fire/#u9-2))
 
 ### Answers
 
 *Note: please do the exercises first before checking the answers.*
 
-1. > dātā hoti samaṇassa vā brāhmaṇassa vā
+1. > “Bhadante”ti te bhikkhū bhagavato paccassosuṁ.
 
-⨀(🚹①(dātā) 🟢🤟▶️(hoti)) 🚹⨀④(samaṇassa) ⏏️(vā) 🚹⨀④(brāhmaṇassa) ⏏️(vā)  
-a giver / [he] is / to an ascetic / or / to a brahmin / or  
-*[He] is a giver to an ascetic or to a brahmin.*
+🚹⨀⓪(bhadanta) ⏏️(iti) *️⃣🤟🚹⨂①(ta) 🚹⨂①(bhikkhu) 🚹⨀④(bhagavant) 🟢⨂🤟⏮(paṭissuṇāti)  
+Bhadante / (end quote) / those / bhikkhū / to the Bhagavā / replied  
+*“Bhadante,” those bhikkhū replied to the Bhagavā.*
 
 2. > Dhammatā esā, bhikkhave, yaṁ pamuditassa pīti uppajjati.
 
@@ -148,3 +151,9 @@ when / indeed / appear / phenomena / to the ardent / meditating / brāhmaṇa
 🚹⨀⑦(saṅghe) 🚺⨀⓪(gotami) 🟢⨀🤘⏹(dehi)  
 to the Saṅgha / Gotamī / give  
 *Give to the Saṅgha, Gotamī.*
+
+7. > ‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānātī”ti.
+
+🚺⨀①🔽(ta)(khīṇa) 🚺⨀①(jāti) 🚻⨀①🔽(ta)(vusita) 🚻⨀①🆎(brahma+cariya) 🚻⨀①🔽(ta)(kata) 🚻⨀①🔽(anīya)(karaṇīya) ⏏️(na) 🚻⨀①(apara) 🚻⨀④(itthatta) ⏏️(iti) 🟢⨀🤟▶️(pajānāti) ⏏️(iti)  
+finished / birth / lived / pure life / done / what had to be done / not / further / for this state of existence / (end quote) / knows clearly / (end quote)  
+*He `pajānāti` (knows clearly): ‘Birth is finished, the pure life is lived, what had to be done is done, there is nothing further for this present state of existence.’*

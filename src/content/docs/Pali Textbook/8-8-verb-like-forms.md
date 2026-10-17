@@ -16,8 +16,8 @@ tags: ["ākhyāta", "kita"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-Chapter 5 ends `pavattite ca pana bhagavatā dhammacakke bhummā devā
-saddamanussāvesuṁ`, "when the wheel of the Dhamma had been set in motion by the
+Chapter 5 has `pavattite ca pana bhagavatā dhammacakke bhummā devā
+saddamanussāvesuṁ` ([5: 12.1](../5-dhammacakka/#u12-1)), "when the wheel of the Dhamma had been set in motion by the
 Bhagavā, the earth-dwelling devas raised a cry". Its one finite verb is
 `saddamanussāvesuṁ`; the setting in motion is `pavattite`, a root with an affix
 (`paccaya`) and a noun's ending. Pāḷi prose keeps one finite verb to a sentence
@@ -35,7 +35,7 @@ before the main verb, or its purpose?
 | what you see | example | rule |
 | --- | --- | :-: |
 | `-ita`: the `i` put between the root and `ta` | `pavattitaṁ` (set in motion), `pabbajitena` (by one gone forth) | {605}, {555} |
-| `-ta` on the root, whose last letter changes with it | `abhisambuddhā` (fully awakened) {576}, `vuttaṁ` (said) {579}, `gato` (gone) {586} | {555} |
+| `-ta` on the root, whose last letter changes with it | `abhisambuddhā` (fully awakened) {576}, `vuttaṁ` (said) {579}, `gato` (gone) {586}, `ādittaṁ` (burning, [9: 2.1](../9-fire/#u2-1)) | {555} |
 | `-na` for `-ta` after some roots | `nisinno` (seated), `pahīnaṁ` (given up) | {582} |
 
 "Has been X-ed", the doer in the ③ ([4.6](../4-6-agent/)): `tathāgatena
@@ -47,7 +47,7 @@ it: `gato`, `buddho` {557}. It agrees with its noun, `paṭipadā … abhisambud
 
 | what you see | example | rule |
 | --- | --- | :-: |
-| `-nto`, `-aṁ` ①, `-to` ④ ⑥: the endings of `bhagavā` ([2.4](../2-4-irregular/)) | `gacchanto` (walking), `icchaṁ` (wanting), `jānato` (for one knowing) | {565}, {186}, {187}, {127} |
+| `-nto`, `-aṁ` ①, `-to` ④ ⑥: the endings of `bhagavā` ([2.4](../2-4-irregular/)) | `gacchanto` (walking), `icchaṁ` (wanting), `passaṁ` (seeing, [9: 8.1](../9-fire/#u8-1)), `jānato` (for one knowing) | {565}, {186}, {187}, {127} |
 | `-māno`, `-māne`; on a passive ([8.6](../8-6-voice/)), "being X-ed" | `bhaññamāne` (being spoken), `pariyesamāno` (searching for) | {565} |
 
 At the same time as the main verb: `gacchanto … pajānāti`, "while walking, he
@@ -58,7 +58,7 @@ knows clearly".
 | what you see | example | rule |
 | --- | --- | :-: |
 | `-itabba`, `-etabba`: the `i` of {605}, or a causative's `e` | `sevitabbā` (should be cultivated), `bhāvetabbaṁ` (to be developed) | {540} |
-| `-anīya`, `-aṇīya` after `r` | `karaṇīyaṁ` (to be done) | {540}, {549} |
+| `-anīya`, `-aṇīya` after `r` | `karaṇīyaṁ` (to be done, [7: 11.4](../7-anatta/#u11-4)) | {540}, {549} |
 | `-eyya`: `ṇya` after a root in `ā` | `pariññeyyaṁ` (to be fully understood) | {541}, {544} |
 
 "Should be", "is to be X-ed": the doer in the ③, `pabbajitena na sevitabbā`,
@@ -70,7 +70,7 @@ the word agreeing with the thing to be done, `antā … sevitabbā` 🚹⨂①; 
 | what you see | example | rule |
 | --- | --- | :-: |
 | `-tvā`, `-itvā`; `-tvāna` in verse; `-svā` from `√disa` {599} | `sutvā` (having heard), `gahetvāna` (having taken), `disvā` (having seen) | {564}, {605} |
-| `-ya`; after a root's final `m` it is `-mma`, after `d` `-jja` | `anupagamma` (not approaching), `upasampajja` (entering), `pahāya` (giving up) | {597}, {600} |
+| `-ya`; after a root's final `m` it is `-mma`, after `d` `-jja` | `anupagamma` (not approaching), `anupādāya` (not grasping, [7: 12.3](../7-anatta/#u12-3)), `upasampajja` (entering), `pahāya` (giving up) | {597}, {600} |
 
 The earlier of two actions by one doer {564}: `saddaṁ sutvā …
 saddamanussāvesuṁ`, "having heard the cry, they raised a cry"; a chain of them
@@ -91,7 +91,7 @@ spiritual path".
 
 | what you see | example | rule |
 | --- | --- | :-: |
-| a noun and a participle, both ⑦, outside the main sentence: "when", "while" ([4.3](../4-3-locative/)) | `pavattite … dhammacakke`, `veyyākaraṇasmiṁ bhaññamāne` | {313} |
+| a noun and a participle, both ⑦, outside the main sentence: "when", "while" ([4.3](../4-3-locative/)) | `pavattite … dhammacakke` ([5: 12.1](../5-dhammacakka/#u12-1)), `veyyākaraṇasmiṁ bhaññamāne` ([5: 11.1](../5-dhammacakka/#u11-1), [7: 12.3](../7-anatta/#u12-3), [9: 10.3](../9-fire/#u10-3)) | {313} |
 | both ⑥, for a person whose doing is disregarded: "though" ([4.7](../4-7-genitive/)) | `rudato dārakassa pabbaji` (though the boy wept, he went forth) | {305} |
 
 :::note[`sutvā` or `sutaṁ`?]
@@ -107,35 +107,35 @@ beside a noun with the same ending, and no verb of its own, is the ⑦ absolute.
 
 🚻⨀⑦🔽(ta)(pavattita) ⏏️(ca) ⏏️(pana) 🚹⨀③(bhagavant) 🚻⨀⑦🆎(dhamma+cakka)  
 set in motion / and / now / by the Bhagavā / the wheel of the Dhamma  
-*`pavattite`: `ta` with the `i` put in {605}, {556}; in the ⑦ beside `dhammacakke`, the ⑦ absolute {313}; the doer `bhagavatā` in the ③.*
+*`pavattite`: `ta` with the `i` put in {605}, {556}; in the ⑦ beside `dhammacakke`, the ⑦ absolute {313}; the doer `bhagavatā` in the ③; [5: 12.1](../5-dhammacakka/#u12-1).*
 
 > antā **pabbajitena** na **sevitabbā**
 
 🚹⨂①(anta) 🚹⨀③🔽(ta)(pabbajita) ⏏️(na) 🚹⨂①🔽(tabba)(sevitabba)  
 extremes / by one gone forth / not / should be cultivated  
-*`sevitabbā`: `tabba` {540}, agreeing with `antā` 🚹⨂①, the doer in the ③; `pabbajitena` is itself a `-ta` word used as a noun {555}.*
+*`sevitabbā`: `tabba` {540}, agreeing with `antā` 🚹⨂①, the doer in the ③; `pabbajitena` is itself a `-ta` word used as a noun {555}; [5: 2.1](../5-dhammacakka/#u2-1).*
 
 > saddaṁ **sutvā** cātumahārājikā devā saddamanussāvesuṁ
 
 🚹⨀②(sadda) 🔽(tvā)(suṇāti) 🚹⨂①(cātumahārājika) 🚹⨂①(deva) 🟢⨂🤟⏮(saddamanussāveti)  
 the cry / having heard / the Cātumahārājikā / devas / raised a cry  
-*`sutvā`: `tvā` {564}, the hearing before the crying, both by the same devas; no ending {221}, the object `saddaṁ` in the ②.*
+*`sutvā`: `tvā` {564}, the hearing before the crying, both by the same devas; no ending {221}, the object `saddaṁ` in the ②; [5: 12.2](../5-dhammacakka/#u12-2).*
 
 > ubho ante **anupagamma** majjhimā paṭipadā tathāgatena **abhisambuddhā**
 
 *️⃣🤟🚹⨂②(ubha) 🚹⨂②(anta) 🔽(ya)(anupagacchati) 🚺⨀①(majjhima) 🚺⨀①(paṭipadā) 🚹⨀③🆎(tathā+gata) 🚺⨀①🔽(ta)(abhisambuddha)  
 both / extremes / not approaching / middle / way / by the Tathāgata / fully awakened  
-*`anupagamma`: `ya`, `mma` after the `m` of `√gamu` {600}; `abhisambuddhā`: `ta` on `√budha` {576}, agreeing with `paṭipadā` 🚺⨀①, the doer `tathāgatena` ③ {556}.*
+*`anupagamma`: `ya`, `mma` after the `m` of `√gamu` {600}; `abhisambuddhā`: `ta` on `√budha` {576}, agreeing with `paṭipadā` 🚺⨀①, the doer `tathāgatena` ③ {556}; [5: 2.4](../5-dhammacakka/#u2-4).*
 
-> imasmiñca pana **veyyākaraṇasmiṁ bhaññamāne**
+> **Nibbindaṁ** virajjati; virāgā vimuccati; **vimuttasmiṁ vimuttam**iti ñāṇaṁ hoti.
 
-*️⃣🤟🚻⨀⑦(ima) ⏏️(ca) ⏏️(pana) 🚻⨀⑦(veyyākaraṇa) 🚻⨀⑦🔽(māna)(bhaññamāna)  
-in this / and / moreover / detailed exposition / being spoken  
-*`bhaññamāne`: `māna` {565} on the passive `bhañña-` ([8.6](../8-6-voice/)); in the ⑦ beside `veyyākaraṇasmiṁ`, the ⑦ absolute, "while … was being spoken" {313}.*
+🚹⨀①🔽(anta)(nibbindanta) 🟢⨀🤟▶️(virajjati) 🚹⨀⑤(virāga) 🔵⨀🤟▶️(vimuccati) 🚻⨀⑦🔽(ta)(vimutta) 🚻⨀①🔽(ta)(vimutta) ⏏️(iti) 🚻⨀①(ñāṇa) 🟢⨀🤟▶️(hoti)  
+giving up / becomes detached / from detachment / is liberated / in liberation / liberated / (end quote) / knowledge / there is  
+*`nibbindaṁ`: `anta` {565} in the ① `-aṁ`, "while giving up", with `virajjati`; `vimuttasmiṁ`, `vimuttaṁ`: `ta` on `√muca` {555}, {578}, in ⑦ and ①; [9: 9.1](../9-fire/#u9-1).*
 
 ### Exercises
 
-Each is a phrase from chapters 3, 5 and 11 with a verb-like form in bold. Name
+Each is a phrase from chapters 3, 5, 7 and 11 with a verb-like form in bold. Name
 its affix and what the affix tells you: done, going on, to be done, done
 before, or purpose; for a participle, name the noun it agrees with.
 
@@ -148,10 +148,10 @@ deconstruction.
 1. etamatthaṁ **viditvā**
 2. ariyasaccaṁ **pahātabban**’ti
 3. ariyasaccaṁ **pahīnan**’ti
-4. anuttaraṁ dhammacakkaṁ **pavattitaṁ**
+4. evametaṁ yathābhūtaṁ sammappaññāya **daṭṭhabbaṁ**
 5. **atikkamma** devānaṁ devānubhāvaṁ
 6. bhikkhu **gacchanto** vā ‘gacchāmī’ti pajānāti
-7. brahmacariyaṁ **carituṁ**
+7. kallaṁ nu taṁ **samanupassituṁ**
 
 ### Answers
 
@@ -161,40 +161,40 @@ deconstruction.
 
 *️⃣🤟🚹⨀②(eta) 🚹⨀②(attha) 🔽(tvā)(vidati)  
 this / matter / having understood  
-*`viditvā`: the absolutive, `tvā` with the `i` put in {564}, {605}: understood first, then uttered; its object `etamatthaṁ` in the ②.*
+*`viditvā`: the absolutive, `tvā` with the `i` put in {564}, {605}: understood first, then uttered; its object `etamatthaṁ` in the ②; [3: 5.1](../3-awakening/#u5-1).*
 
 2. > ariyasaccaṁ **pahātabban**’ti
 
 🚻⨀①🆎(ariya+sacca) 🚻⨀①🔽(tabba)(pahātabba) ⏏️(iti)  
 realisation / to be given up / thus  
-*`pahātabbaṁ`: `tabba` {540} on `pa` + `√hā`, "is to be given up", agreeing with `ariyasaccaṁ` 🚻⨀①; `pahātabban’ti` is `pahātabbaṁ iti` joined.*
+*`pahātabbaṁ`: `tabba` {540} on `pa` + `√hā`, "is to be given up", agreeing with `ariyasaccaṁ` 🚻⨀①; `pahātabban’ti` is `pahātabbaṁ iti` joined; [5: 6.2](../5-dhammacakka/#u6-2).*
 
 3. > ariyasaccaṁ **pahīnan**’ti
 
 🚻⨀①🆎(ariya+sacca) 🚻⨀①🔽(ta)(pahīna) ⏏️(iti)  
 realisation / given up / thus  
-*`pahīnaṁ`: the past participle of the same root, `na` for `ta` {582}, "has been given up"; the text goes from "to be done" to "done".*
+*`pahīnaṁ`: the past participle of the same root, `na` for `ta` {582}, "has been given up"; from "to be done" to "done"; [5: 6.3](../5-dhammacakka/#u6-3).*
 
-4. > anuttaraṁ dhammacakkaṁ **pavattitaṁ**
+4. > evametaṁ yathābhūtaṁ sammappaññāya **daṭṭhabbaṁ**
 
-🚻⨀①🆎(na+uttara) 🚻⨀①🆎(dhamma+cakka) 🚻⨀①🔽(ta)(pavattita)  
-unsurpassed / wheel of the Dhamma / set in motion  
-*`pavattitaṁ`: the past participle, `ta` with the `i` put in {605}, {556}, agreeing with `dhammacakkaṁ` 🚻⨀①; the doer `bhagavatā`, ③, stands earlier in the sentence.*
+⏏️(evaṁ) *️⃣🤟🚻⨀①(eta) ⏏️(yathābhūtaṁ) 🚺⨀③🆎(sammā+paññā) 🚻⨀①🔽(tabba)(daṭṭhabba)  
+thus / this / in reality / with correct understanding / should be regarded  
+*`daṭṭhabbaṁ`: `tabba` {540} on `√disa`, `s` + `t` become `ṭṭh` as in `daṭṭho` {573}; "is to be regarded", agreeing with `sabbaṁ rūpaṁ` 🚻⨀①; [7: 7.1](../7-anatta/#u7-1).*
 
 5. > **atikkamma** devānaṁ devānubhāvaṁ
 
 🔽(ya)(atikkamati) 🚹⨂⑥(deva) 🚹⨀②🆎(deva+ānubhāva)  
 surpassing / of the devas / divine majesty  
-*`atikkamma`: the absolutive in `ya`, `mma` after the `m` of `√kamu` {600}, its object `devānubhāvaṁ` in the ②; here "surpassing" rather than "having surpassed".*
+*`atikkamma`: the absolutive in `ya`, `mma` after the `m` of `√kamu` {600}, its object `devānubhāvaṁ` in the ②; here "surpassing" rather than "having surpassed"; [5: 13.2](../5-dhammacakka/#u13-2).*
 
 6. > bhikkhu **gacchanto** vā ‘gacchāmī’ti pajānāti
 
 🚹⨀①(bhikkhu) 🚹⨀①(gacchanta) 🔼(vā) ▶️👆⨀(gacchati) 🔼(ti) ▶️🤟⨀(pajānāti)  
 bhikkhu / walking / or / I walk / quote / knows clearly  
-*`gacchanto`: the present participle, `anta` {565}, "while walking", agreeing with `bhikkhu` 🚹①⨀; the sentence continues with the past participles `ṭhito` {588} and `nisinno` {582}.*
+*`gacchanto`: the present participle, `anta` {565}, "while walking", agreeing with `bhikkhu` 🚹①⨀; then the past participles `ṭhito` {588} and `nisinno` {582}; [11: 36, 3.1](../11-pbt/#s36-u3-1).*
 
-7. > brahmacariyaṁ **carituṁ**
+7. > kallaṁ nu taṁ **samanupassituṁ**
 
-🚻⨀①(brahmacariya) 🔼(carituṁ)  
-spiritual path / to live  
-*`carituṁ`: the infinitive, `tuṁ` with the `i` put in {605}, after the sentence's `sukaraṁ`, "easy", a word of the `sakkā` kind {562}; no ending {221}.*
+⏏️(kallaṁ) ⏏️(nu) *️⃣🤟🚻⨀②(ta) 🔽(tuṁ)(samanupassati)  
+it is proper / (question) / that / to regard  
+*`samanupassituṁ`: the infinitive, `tuṁ` with the `i` {605}, after `kallaṁ` ("is it proper"), a word of the `arahati` kind {562}; its object `taṁ` ②; [7: 6.5](../7-anatta/#u6-5).*

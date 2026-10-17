@@ -16,16 +16,17 @@ tags: ["nāma", "saṅkhyā"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-The texts count on every page: `dveme antā` ("these two extremes"), `catūsu
-ariyasaccesu` ("in the four realisations"), `paṭhamaṁ jhānaṁ` ("the first
-jhāna"). A number
+The texts count on every page: `dveme antā` ("these two extremes",
+[5: 2.1](../5-dhammacakka/#u2-1)), `catūsu
+ariyasaccesu` ("in the four realisations", [5: 9.1](../5-dhammacakka/#u9-1)), `paṭhamaṁ jhānaṁ` ("the first
+jhāna", [11: 38, 10.1](../11-pbt/#s38-u10-1)). A number
 (`saṅkhyā`) is a noun like any other: its ending tells you its job in the
 sentence ([chapter 4](../4-0-karaka/)). But the shape you meet (`dve`,
 `tayo`, `cattāri`) is often far from the lemma (`dvi`, `ti`, `catu`), so ask
 two questions: which number is it, and what ending is it carrying?
 
 `eka` ("one") is singular and takes a pronoun's endings in the gender of its
-noun, `ekaṁ samayaṁ`, `ekā saññā` ([2.5](../2-5-pronouns/),
+noun, `ekaṁ samayaṁ` ([5: 1.1](../5-dhammacakka/#u1-1)), `ekā saññā` ([11: 17, 7.5](../11-pbt/#s17-u7-5)) ([2.5](../2-5-pronouns/),
 [Appendix L](../l-sabbanama/)). `dvi` ("two") to `aṭṭhārasa` ("eighteen")
 are plural only, and from `pañca` ("five") on they have one set of forms for
 all three genders (⚧). From `vīsati` ("twenty") upwards a number is a
@@ -44,7 +45,7 @@ noun.
 | 5 to 18 ⚧ | the bare number: `pañca`, `cha`, `satta`, `aṭṭha`, `nava`, `dasa` {134} | `pañcahi` {90} | `pañcannaṁ`, `dasannaṁ` {90}, {67} | `pañcasu` {90} |
 
 Only `ti` and `catu` change with their noun's gender, and only in ① and ②:
-`tisso … vedanā`, `cattāri ariyasaccāni` {133}; from `pañca` on the shape
+`tisso … vedanā` ([11: 10, 22.2](../11-pbt/#s10-u22-2)), `cattāri ariyasaccāni` {133}; from `pañca` on the shape
 is the same beside any noun. `-nnaṁ` is a number's ④ and ⑥, an `n` put in
 before `naṁ` {67}, where a noun has `-ānaṁ`; before `-hi` and `-su` the
 final vowel is long {89}.
@@ -66,7 +67,8 @@ same endings as `pañca`; nineteen is `ekūnavīsati`, "twenty less one" {327}.
 These are nouns, `vīsati` with the feminine endings of
 [2.3](../2-3-vowel-lemmas/) (`vīsatiyā`, "of twenty"), `sataṁ` with those of
 `citta`; in the texts they sit inside names, `tāvatiṁsā devā`
-("the Thirty-three gods"), `dasasahassilokadhātu`. How they are made is the
+("the Thirty-three gods", [5: 12.3](../5-dhammacakka/#u12-3)), `dasasahassilokadhātu` ([5: 13.2](../5-dhammacakka/#u13-2)), or count a crowd,
+`bhikkhusahassena` ("with a thousand bhikkhū", [9: 1.1](../9-fire/#u1-1)). How they are made is the
 matter of [10.6](../10-6-sankhya/) and [Appendix H](../h-taddhita/).
 
 ### The ordinals
@@ -80,19 +82,22 @@ matter of [10.6](../10-6-sankhya/) and [Appendix H](../h-taddhita/).
 | a day of the fortnight | `cātuddasī`, `pañcadasī`; `pañcadasiṁ` | feminine `-ī` on `dasa`; `-iṁ`, "on the fifteenth" | {375}, {377} |
 
 An ordinal takes the gender, number and ending of its noun, `paṭhamaṁ
-jhānaṁ`, or stands alone with the noun understood, `Tathā dutiyaṁ`
-("likewise the second [direction]"); `paṭhamaṁ` also serves as a particle,
+jhānaṁ` ([11: 38, 10.1](../11-pbt/#s38-u10-1)), or stands alone with the noun understood, `Tathā dutiyaṁ`
+("likewise the second [direction]", [11: 37, 1.11.52](../11-pbt/#s37-u1-11-52)); the colophons of
+[chapter 7](../7-anatta/#the-colophon) and [chapter 9](../9-fire/#the-colophon) count their discourses the same way, `Sattamaṁ`
+("the seventh"), `Chaṭṭhaṁ` ("the sixth"). `paṭhamaṁ` also serves as a particle,
 "first, at first".
 
 Most numbers in the texts are the first member of a compound
-([6.4](../6-4-digu/)), `pañcavaggiyā`, `aṭṭhaṅgiko`, `sattāhaṁ`, where the
+([6.4](../6-4-digu/)), `pañcavaggiyā` ([7: 12.2](../7-anatta/#u12-2)), `aṭṭhaṅgiko` ([5: 3.2](../5-dhammacakka/#u3-2)), `sattāhaṁ` ([3: 2.2](../3-awakening/#u2-2)), where the
 number stands bare and the ending belongs to the whole word; `dvi` appears as
 `du-`, `di-` or `dvā-` {380}, {386}, and `cha` as `saḷ-` in `saḷāyatanaṁ`
-{571}.
+([3: 3.4](../3-awakening/#u3-4)) {571}.
 
 :::note
 How to tell `satta` from `sattā`: a number from `pañca` to `dasa` never ends
-in `-ā`. `satta vassāni` is "seven years", but `sattā nerayikā` is "beings in
+in `-ā`. `satta vassāni` ([11: 45, 3.2](../11-pbt/#s45-u3-2)) is "seven years", but `sattā nerayikā`
+([11: 23, 1.6](../11-pbt/#s23-u1-6)) is "beings in
 hell", the 🚹①⨂ of `satta` ("a being").
 :::
 
@@ -102,29 +107,29 @@ hell", the 🚹①⨂ of `satta` ("a being").
 
 ⚧⨂①(dvi) *️⃣🤟🚹⨂①(ima) 🚹⨂⓪(bhikkhu) 🚹⨂①(anta) 🚹⨀③🔽(ta)(pabbajita) ⏏️(na) 🚹⨂①🔽(tabba)(sevitabba)  
 two / these / bhikkhave / extremes / by one gone forth / not / should be cultivated  
-*`dve`: ①⨂ of `dvi` {132}, one shape for all genders; `dveme` is `dve ime` joined ([2.1](../2-1-sandhi/)).*
+*`dve` ([5: 2.1](../5-dhammacakka/#u2-1)): ①⨂ of `dvi` {132}, one shape for all genders; `dveme` is `dve ime` joined ([2.1](../2-1-sandhi/)).*
 
 > Tisso kho imā, āvuso visākha, vedanā—
 
 🚺⨂①(ti) 🔼(kho) 🚺⨂①(ima) 🔼(āvuso) 🚹⨀⓪(visākha) 🚺⨀①(vedanā)  
 three / indeed / these / friend / Visākha / feelings  
-*`tisso`: the feminine ①⨂ of `ti` {133}, agreeing with `vedanā`; `tayo` with a masculine noun, `tīṇi` with a neuter.*
+*`tisso` ([11: 10, 22.2](../11-pbt/#s10-u22-2)): the feminine ①⨂ of `ti` {133}, agreeing with `vedanā`; `tayo` with a masculine noun, `tīṇi` with a neuter.*
 
 > imesu catūsu ariyasaccesu
 
 *️⃣🤟🚻⨂⑦(ima) 🚻⨂⑦(catu) 🚻⨂⑦🆎(ariya+sacca)  
 in these / four / realisations  
-*`catūsu`: `-su`, the ⑦⨂, on `catu` with its `u` lengthened {89}; pronoun, number and noun all carry ⑦⨂.*
+*`catūsu` ([5: 9.1](../5-dhammacakka/#u9-1)): `-su`, the ⑦⨂, on `catu` with its `u` lengthened {89}; pronoun, number and noun all carry ⑦⨂.*
 
 > rattiyā paṭhamaṁ yāmaṁ
 
 🚺⨀⑥(ratti) 🚹⨀②(paṭhama) 🚹⨀②(yāma)  
 of the night / first / watch  
-*`paṭhamaṁ`: the ordinal with the 🚹②⨀ ending of its noun `yāmaṁ`; the one ordinal with no number inside it.*
+*`paṭhamaṁ` ([3: 2.3](../3-awakening/#u2-3)): the ordinal with the 🚹②⨀ ending of its noun `yāmaṁ`; the one ordinal with no number inside it.*
 
 ### Exercises
 
-Each item comes from the texts of chapters 3, 5 and 11. Name the number, its
+Each item comes from the texts; the link beside it leads to the sentence. Name the number, its
 lemma, and the gender, number and ending it carries; inside a compound, say
 what it counts.
 
@@ -134,13 +139,14 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. Katame dve?
-2. Ekaṁ samayaṁ
-3. pañcavaggiye bhikkhū
-4. satta vassāni cārihaṁ;
-5. tiparivaṭṭaṁ dvādasākāraṁ
-6. tatiyaṁ jhānaṁ
-7. ubho ante
+1. Katame dve? ([5: 2.2](../5-dhammacakka/#u2-2))
+2. Ekaṁ samayaṁ ([5: 1.1](../5-dhammacakka/#u1-1); also [7: 1.1](../7-anatta/#u1-1), [9: 1.1](../9-fire/#u1-1))
+3. pañcavaggiyānaṁ bhikkhūnaṁ ([7: 12.3](../7-anatta/#u12-3))
+4. satta vassāni cārihaṁ; ([11: 45, 3.2](../11-pbt/#s45-u3-2))
+5. tiparivaṭṭaṁ dvādasākāraṁ ([5: 9.1](../5-dhammacakka/#u9-1))
+6. tatiyaṁ jhānaṁ ([11: 40, 12.1](../11-pbt/#s40-u12-1))
+7. ubho ante ([5: 2.4](../5-dhammacakka/#u2-4))
+8. saddhiṁ bhikkhusahassena ([9: 1.1](../9-fire/#u1-1))
 
 ### Answers
 
@@ -158,11 +164,11 @@ which / two
 one / time  
 *`ekaṁ`: `eka`, singular, with the 🚹②⨀ ending of `samayaṁ`; "at one time", the ② of duration.*
 
-3. > pañcavaggiye bhikkhū
+3. > pañcavaggiyānaṁ bhikkhūnaṁ
 
-🚹⨂②🆎(pañca+vaggiya) 🚹⨂②(bhikkhu)  
+🚹⨂⑥🆎(pañca+vaggiya) 🚹⨂⑥(bhikkhu)  
 of the group of five / bhikkhū  
-*`pañca` bare inside the compound; the 🚹②⨂ ending `-e` belongs to the whole word and agrees with `bhikkhū`.*
+*`pañca` bare inside the compound; the 🚹⑥⨂ ending `-ānaṁ` {89} belongs to the whole word and agrees with `bhikkhūnaṁ`.*
 
 4. > satta vassāni cārihaṁ;
 
@@ -187,3 +193,9 @@ third / jhāna
 *️⃣🤟🚹⨂②(ubha) 🚹⨂②(anta)  
 both / extremes  
 *`ubho`: ②⨂ of `ubha` ("both"), `-o` for `yo` {205}; its ④ ⑥ is `ubhinnaṁ` {86}.*
+
+8. > saddhiṁ bhikkhusahassena
+
+⏏️(saddhiṁ) 🚻⨀③🆎(bhikkhu+sahassa)  
+together / with a thousand bhikkhū  
+*`sahassa` ("a thousand") as the last member, the compound a `digu` in the dictionary ([6.4](../6-4-digu/)), 🚻⨀③ `-ena` {103}; `saddhiṁ` ("together with") takes the ③ ([4.4](../4-4-instrumental/)).*

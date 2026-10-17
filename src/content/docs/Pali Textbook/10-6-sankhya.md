@@ -25,7 +25,7 @@ the number with an affix: `dvinnaṁ pūraṇo` ("the completer of two") and the
 is a number or a pronoun with an affix meaning "in so many ways" or "in that
 way", `ekadhā` ("in one way"), `tathā` ("so"); it never changes its ending,
 being a particle (`nipāta`), marked ⏏️ in this book and 🔼 in the texts of
-chapter 11.
+[chapter 11](../11-pbt/).
 
 The question to ask is what ends the word: `-ma`, `-tiya` or `-ttha` makes
 an ordinal; `-dhā`, `-so`, `-thā` or `-thaṁ` a word of division or manner;
@@ -36,12 +36,12 @@ and a number from eleven upwards is two numbers run together, `dvā-dasa`
 
 | number | ordinal | what you see | rule |
 | :-: | --- | --- | :-: |
-| 1 `eka` | `paṭhamo` | no number inside it: the dictionary reads `pa` with `tama` ("-most") | {363} |
-| 2, 3 `dvi`, `ti` | `dutiyo`, `tatiyo` | `-tiya`; `dvi` and `ti` have become `du` and `ta` | {385}, {386} |
-| 4 `catu` | `catuttho` | `-ttha` | {384} |
+| 1 `eka` | `paṭhamo`: `paṭhamaṁ yāmaṁ` ([3: 2.3](../3-awakening/#u2-3)), `paṭhamaṁ jhānaṁ` ([11: 38, 10.1](../11-pbt/#s38-u10-1)) | no number inside it: the dictionary reads `pa` with `tama` ("-most") | {363} |
+| 2, 3 `dvi`, `ti` | `dutiyo`, `tatiyo`: `dutiyaṁ jhānaṁ` ([11: 39, 11.1](../11-pbt/#s39-u11-1)) | `-tiya`; `dvi` and `ti` have become `du` and `ta` | {385}, {386} |
+| 4 `catu` | `catuttho`: `catutthaṁ jhānaṁ` ([11: 41, 13.1](../11-pbt/#s41-u13-1)) | `-ttha` | {384} |
 | 5 `pañca` | `pañcamo` | `-ma` | {373} |
-| 6 `cha` | `chaṭṭho`, `saṭṭho` | `-ṭṭha`; `cha` may become `sa` | {384}, {374} |
-| 7 to 10 `satta`, `aṭṭha`, `nava`, `dasa` | `sattamo`, `aṭṭhamo`, `navamo`, `dasamo` | `-ma` | {373} |
+| 6 `cha` | `chaṭṭho`, `saṭṭho`: `Chaṭṭhaṁ`, "the sixth", closes [chapter 9](../9-fire/#the-colophon) | `-ṭṭha`; `cha` may become `sa` | {384}, {374} |
+| 7 to 10 `satta`, `aṭṭha`, `nava`, `dasa` | `sattamo`, `aṭṭhamo`, `navamo`, `dasamo`: `Sattamaṁ`, "the seventh", closes [chapter 7](../7-anatta/#the-colophon) | `-ma` | {373} |
 | a day of the fortnight | `ekādasī`, `cātuddasī`, `pañcadasī` | feminine `-ī` on `dasa`; `pañcadasiṁ` ("on the fifteenth") ends in `ṁ` | {375}, {377} |
 | one, two, three and a half | `diyaḍḍho` (`divaḍḍho`), `aḍḍhatiyo`, `aḍḍhuḍḍho` | `aḍḍha` ("half") with the ordinal: "the second with a half" is one and a half | {387} |
 
@@ -58,7 +58,7 @@ and a number from eleven upwards is two numbers run together, `dvā-dasa`
 | 20, 30 | `vīsaṁ`, `vīsati`; `tiṁsaṁ`, `tiṁsati` | `dasa dasa` counted as one word and reshaped, `vī`, `ti` + `-saṁ`, or `-ti` on the end | {388}, {389}, {378} |
 | 40 to 90 | `cattālīsaṁ` (`tālīsaṁ`), `paññāsaṁ`, `saṭṭhi`, `sattati` (`sattari`), `asīti`, `navuti` | `cattā`, `paññā`, `sa`, `satta`, `asa`, `nava` with `-līsaṁ`, `-saṁ`, `-ṭṭhi`, `-ti`, `-īti`, `-uti`; forty, with `l` for `r`, may lose its `ca` | {389}, {379}, {390}, {374} |
 | 100 | `sataṁ` | ten tens, one neuter word | {393} |
-| 200 to 1,000 | `dvisataṁ` … `navasataṁ`, `dasasataṁ`, `sahassaṁ` | the number before `sata`; a thousand is ten hundreds; forms no rule reaches are simply stated | {392}, {393}, {391} |
+| 200 to 1,000 | `dvisataṁ` … `navasataṁ`, `dasasataṁ`, `sahassaṁ` (`bhikkhusahassena`, "with a thousand bhikkhū", [9: 1.1](../9-fire/#u1-1)) | the number before `sata`; a thousand is ten hundreds; forms no rule reaches are simply stated | {392}, {393}, {391} |
 | 10,000 and up | `dasasahassaṁ`, `satasahassaṁ`; `koṭi` (ten million) … `asaṅkhyeyyaṁ` ("the incalculable") | each step ten times the last; beyond, names of their own | {394}, {395} |
 | a group | `dvikaṁ` ("a pair"), `tikaṁ`, `catukkaṁ` | `-ka` on a number | {392} |
 | `dvi` in a compound | `durattaṁ` ("two nights"), `diguṇaṁ` ("double") | `du` or `di` for `dvi` | {380}, {386} |
@@ -92,9 +92,9 @@ by one / division → in one way
 
 ### Exercises
 
-Each item comes from the texts of chapter 11. Name the affix each ordinal or
-manner word carries and give its meaning; in the last, find the two words
-made with `thā`.
+Each item comes from the texts, at the sentence linked. Name the number inside
+each item, or the affix its ordinal or manner word carries, and give its
+meaning; in the last, find the two words made with `thā`.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -102,12 +102,13 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. paṭhamaṁ jhānaṁ
-2. Tathā dutiyaṁ.
-3. Tathā tatiyaṁ.
-4. Tathā catutthaṁ.
-5. sabbaso
-6. yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti
+1. paṭhamaṁ jhānaṁ ([11: 38, 10.1](../11-pbt/#s38-u10-1))
+2. Tathā dutiyaṁ. ([11: 37, 1.11.52](../11-pbt/#s37-u1-11-52))
+3. Tathā catutthaṁ. (the same sentence)
+4. pañcavaggiyā bhikkhū ([7: 12.2](../7-anatta/#u12-2))
+5. saddhiṁ bhikkhusahassena ([9: 1.1](../9-fire/#u1-1))
+6. sabbaso ([11: 42, 14.1](../11-pbt/#s42-u14-1))
+7. yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti ([11: 36, 3.2](../11-pbt/#s36-u3-2))
 
 ### Answers
 
@@ -115,7 +116,7 @@ deconstruction.
 
 1. > paṭhamaṁ jhānaṁ
 
-🚹⨀②(paṭhama) 🚹⨀②(jhāna)  
+🚹⨀②(paṭhama) 🚻⨀②(jhāna)  
 first / jhāna  
 *`paṭhama` ("first") is the one ordinal with no number inside it: `pa` with `tama` ("-most") {363}.*
 
@@ -125,25 +126,31 @@ first / jhāna
 similarly for the second direction  
 *`tiya` {385}: `dvi` has become `du` {386}; `tathā` ("so") is `ta` with `thā` {398}.*
 
-3. > Tathā tatiyaṁ.
-
-🔼(tathā) 🚻⨀①(tatiya)  
-similarly for the third direction  
-*`tiya` {385}: `ti` has become `ta` {386}.*
-
-4. > Tathā catutthaṁ.
+3. > Tathā catutthaṁ.
 
 🔼(tathā) 🚻⨀①(catuttha)  
 similarly for the fourth direction  
 *`tha` {384}, doubled to `-ttha` after `catu`.*
 
-5. > sabbaso
+4. > pañcavaggiyā bhikkhū
+
+🚹⨂①🆎(pañca+vaggiya) 🚹⨂①(bhikkhu)  
+of the group of five / bhikkhū  
+*`pañca` (five) stands unchanged before `vagga` (a group), a `digu` compound {325}; the `-iya`, "belonging to", is the affix of [10.2](../10-2-anekattha/).*
+
+5. > saddhiṁ bhikkhusahassena
+
+⏏️(saddhiṁ) 🚻⨀③🆎(bhikkhu+sahassa)  
+together / with a thousand bhikkhū  
+*`sahassa` (a thousand) {393}, the last member of the compound, in ③ after `saddhiṁ` ("together with"); one neuter word, like `sataṁ`.*
+
+6. > sabbaso
 
 🔼(sabbaso)  
 altogether  
 *`so` {397} on `sabba` ("all"), "in every way"; a particle, it never changes.*
 
-6. > yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti
+7. > yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti
 
 🔼(yathā yathā) 🔼(vā) 🔼(panassa) 🚹⨀①(kāya) 🚹⨀①(paṇihita) ▶️🤟⨀(hoti) 🔼(tathā tathā) 🚹⨀②(ta) ▶️🤟⨀(pajānāti)  
 in whatever way / or / and for him / body / orientated / is / in that way / that / knows clearly  

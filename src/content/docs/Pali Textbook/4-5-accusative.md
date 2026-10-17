@@ -26,9 +26,9 @@ tabled. So `dhammaṁ suṇāti` is "he hears the teaching": English shows the
 object by its place after the verb, with no preposition.
 
 The same ending measures a stretch of time or distance that an action fills,
-`sattāhaṁ nisīdi`, "he sat for seven days" {298}. So ask of a ② word: what
-does the verb do to this, or where does it get to? If neither, look down the
-table.
+`sattāhaṁ nisīdi`, "he sat for seven days" ([3: 2.2](../3-awakening/#u2-2))
+{298}. So ask of a ② word: what does the verb do to this, or where does it get
+to? If neither, look down the table.
 
 ### The uses of the ② ending
 
@@ -45,8 +45,9 @@ table.
 
 Every rule number links to the full rule in the Kaccāyana translation;
 [chapter 1](../1-basics/) tables the typical meanings of every ending. The last
-three uses are rare, `ekaṁ samayaṁ`, the opening of most suttas, the one to
-remember.
+three uses are rare, `ekaṁ samayaṁ`, the opening of most suttas
+([5: 1.1](../5-dhammacakka/#u1-1), [7: 1.1](../7-anatta/#u1-1),
+[9: 1.1](../9-fire/#u1-1)), the one to remember.
 
 ### Examples
 
@@ -84,8 +85,9 @@ for a month / rice with meat / [he] eats
 
 ### Exercises
 
-Translate these sentences, all met in chapter 3 or 5. Each has at least one
-word with the ② ending: find it and say from the table what it is doing.
+Translate these sentences, all met in the texts of chapters 3, 7, 9 and 11
+(each is linked to its sentence). Each has at least one word with the ②
+ending: find it and say from the table what it is doing.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -93,12 +95,12 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. “Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā aññaṁ satthāraṁ uddiseyyāthā”ti?
-2. Usukārā namayanti tejanaṁ; dāruṁ namayanti tacchakā, attānaṁ damayanti paṇḍitā.
-3. ‘vimuttiñāṇadassanaṁ sacchikaromī’ti.
-4. Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan”ti.
-5. Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī.
-6. Atha kho bhagavā rattiyā paṭhamaṁ yāmaṁ paṭiccasamuppādaṁ anulomapaṭilomaṁ manasākāsi—
+1. “Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā aññaṁ satthāraṁ uddiseyyāthā”ti? ([11: 1, 24.10](../11-pbt/#s1-u24-10))
+2. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ. ([7: 12.2](../7-anatta/#u12-2))
+3. Tatra kho bhagavā bhikkhū āmantesi— ([9: 1.2](../9-fire/#u1-2))
+4. Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan”ti. ([11: 26, 12.8](../11-pbt/#s26-u12-8))
+5. Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī. ([3: 2.2](../3-awakening/#u2-2))
+6. Atha kho bhagavā rattiyā paṭhamaṁ yāmaṁ paṭiccasamuppādaṁ anulomapaṭilomaṁ manasākāsi— ([3: 2.3](../3-awakening/#u2-3))
 
 ### Answers
 
@@ -112,21 +114,23 @@ are? / youse / bhikkhave / thus / knowing / thus / seeing / another / teacher / 
 
 `aññaṁ satthāraṁ`: the object {297}; `aññaṁ` takes the ending of its noun.
 
-2. > Usukārā namayanti **tejanaṁ**; **dāruṁ** namayanti tacchakā, **attānaṁ** damayanti paṇḍitā.
+2. > Attamanā pañcavaggiyā bhikkhū bhagavato **bhāsitaṁ** abhinanduṁ.
 
-🚹⨂①(usukāra) ▶️🤟⨂(namayati) 🚻⨀②(tejana) 🚻⨀②(dāru) ▶️🤟⨂(namayati) 🚹⨂①(tacchaka) 🚹⨀②(atta) ▶️🤟⨂(damayati) 🚹⨂①(paṇḍita)  
-arrow-maker / straighten / arrow / wood / straighten / carpenters / self / tames / the wise  
-*Arrow makers straighten arrow; carpenters straighten wood, the wise tames the self.*
+🚹⨂①🆎(atta+mana) 🚹⨂①🆎(pañca+vaggiya) 🚹⨂①(bhikkhu) 🚹⨀⑥(bhagavant) 🚻⨀②🔽(ta)(bhāsita) 🟢⨂🤟⏮(abhinandati)  
+delighted / of the group of five / bhikkhū / of the Bhagavā / what was spoken / rejoiced in  
+*The group of five bhikkhū, delighted, rejoiced in the Bhagavā’s words.*
 
-`tejanaṁ`, `dāruṁ`, `attānaṁ`: the objects {297}, before or after their verbs.
+`bhāsitaṁ`: the object {297}, where English says "rejoiced in"; `bhikkhū` is
+① here, the agent, and `bhagavato`, the owner of the words, is ⑥.
 
-3. > ‘**vimuttiñāṇadassanaṁ** sacchikaromī’ti.
+3. > Tatra kho bhagavā **bhikkhū** āmantesi—
 
-🚻⨀②(vimuttiñāṇadassana) ⏹👆⨀(sacchikaroti) 🔼(ti)  
-understanding and insight into liberation / must personally realises / quote  
-*“May I personally realise understanding and insight into liberation.”*
+⏏️(tatra) ⏏️(kho) 🚹⨀①(bhagavant) 🚹⨂②(bhikkhu) 🟢⨀🤟⏮(āmanteti)  
+there / indeed / the Bhagavā / bhikkhū / addressed  
+*There the Bhagavā addressed the bhikkhū:*
 
-`vimuttiñāṇadassanaṁ`, a compound: the object {297}.
+`bhikkhū`: the object {297}, in ② plural, the same shape as the ① plural of
+exercise 2; the agent is `bhagavā`, in ①, so `bhikkhū` is what he addressed.
 
 4. > Yannūnāhaṁ **kesamassuṁ** ohāretvā **kāsāyāni vatthāni** acchādetvā agārasmā **anagāriyaṁ** pabbajeyyan”ti.
 

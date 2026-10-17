@@ -34,8 +34,8 @@ section takes the first six.
 | `-ti` | third 🤟 | ⨀ | `ti` | `viharati`, `hoti`, `labhati` | {423} |
 | `-nti` | third 🤟 | ⨂ | `anti`, one `a` dropped {510} | `sambhavanti`, `pātubhavanti` | {423} |
 | `-si` | second 🤘 | ⨀ | `si` | `viharasi` | {423} |
-| `-tha` | second 🤘 | ⨂ | `tha` | none; Kaccāyana's `paṭhatha` {409} | {423} |
-| `-āmi` | first 👆 | ⨀ | `mi` after a lengthened `a` {478} | `gacchāmi`, `viharāmi` | {423} |
+| `-tha` | second 🤘 | ⨂ | `tha` | `maññatha` ([7: 6.1](../7-anatta/#u6-1)) | {423} |
+| `-āmi` | first 👆 | ⨀ | `mi` after a lengthened `a` {478} | `gacchāmi`, `viharāmi`, `vadāmi` ([9: 2.6](../9-fire/#u2-6)) | {423} |
 | `-āma` | first 👆 | ⨂ | `ma`, likewise {478} | none; Kaccāyana's `gacchāma` | {423} |
 
 The root `asa` (to be) reshapes them: `atthi` ("there is", `-tthi` for `-ti`
@@ -44,7 +44,7 @@ The root `asa` (to be) reshapes them: `atthi` ("there is", `-tthi` for `-ti`
 
 :::note[`-si` now, `-si` then]
 `viharasi` ends in `-si`; so do `āmantesi` ("he addressed") and `ahosi`
-("it was") in chapter 5, the past ([8.4](../8-4-past/)), third person: their
+("it was") in chapter [5](../5-dhammacakka/), the past ([8.4](../8-4-past/)), third person: their
 `-si` follows `-e-`, `-o-` or `-ā-`, while the present `-si` follows the
 class piece (`-asi`) and has `tvaṁ` ("you") as subject.
 :::
@@ -80,25 +80,25 @@ Two shapes have a second owner, settled by the dictionary: a double from
 
 *️⃣🤟🚹⨀②(eka) 🚹⨀②(samaya) 🚹⨀①(bhagavant) 🚺⨀⑦(bārāṇasī) 🟢⨀🤟▶️(viharati) 🚻⨀⑦(isipatana) 🚹⨀⑦(migadāya)  
 one / time / the Bhagavā / at Bārāṇasī / dwells / at Isipatana / in the Deer Park  
-*"At one time the Bhagavā was dwelling at Bārāṇasī, at Isipatana in the Deer Park." `viharati`: `-ti`, third person singular {423}; the piece `a`, `bhū` class {445}; `vi` + `har`, the root `hara`.*
+*"At one time the Bhagavā was dwelling at Bārāṇasī, at Isipatana in the Deer Park." ([5: 1.1](../5-dhammacakka/#u1-1)) `viharati`: `-ti`, third person singular {423}; the piece `a`, `bhū` class {445}; `vi` + `har`, the root `hara`.*
 
 > “Yadā have **pātubhavanti** dhammā,
 
 ⏏️(yadā) ⏏️(have) 🟢⨂🤟▶️(pātubhavati) 🚹⨂①(dhamma)  
 when / indeed / appear / phenomena  
-*"When indeed `dhammā` (phenomena) become manifest." `pātubhavanti`: `-nti`, third person plural {423}, one `a` dropped {510}; `pātu` + `bhav`, the root `bhū` {445}.*
+*"When indeed `dhammā` (phenomena) become manifest." ([3: 6.1](../3-awakening/#u6-1)) `pātubhavanti`: `-nti`, third person plural {423}, one `a` dropped {510}; `pātu` + `bhav`, the root `bhū` {445}.*
 
-> Mahāpurisavihārena kira tvaṁ, sāriputta, etarahi bahulaṁ **viharasi**.
+> Taṁ kiṁ **maññatha**, bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā”ti?
 
-🚹⨀③(mahāpurisavihāra) 🔼(kira) *️⃣🤘⚧⨀①(tvaṁ) 🚹⨀⓪(sāriputta) 🔼(etarahi) 🚻⨀①(bahula) ▶️🤘⨀(viharati)  
-with internal dwelling of an illustrious being / truly / you / Sāriputta / now / often / dwells in  
-*"Truly, Sāriputta, lately you often dwell in the internal dwelling of an illustrious being." `viharasi`: `-si`, second person singular {423}, with `tvaṁ` and the ⓪ `sāriputta`.*
+*️⃣🤟🚻⨀②(ta) *️⃣🤟🚻⨀②(kiṁ) 🟢⨂🤘▶️(maññati) 🚹⨂⓪(bhikkhu) 🚻⨀①(rūpa) 🚻⨀①(nicca) ⏏️(vā) 🚻⨀①🆎(na+nicca) ⏏️(vā) ⏏️(iti)  
+that / what / do you think / bhikkhave / form / permanent / or / impermanent / or / (end quote)  
+*"Bhikkhave, what do you consider: is `rūpa` (form) `nicca` (permanent) or `anicca` (impermanent)?" ([7: 6.1](../7-anatta/#u6-1)) `maññatha`: `-tha`, second person plural {423}, the ⓪ `bhikkhave` its subject; `-ññ-` is `ya` of the `divu` class fused with the root `mana` (to think) {447}.*
 
 > bhikkhu gacchanto vā ‘**gacchāmī**’ti **pajānāti**
 
 🚹⨀①(bhikkhu) 🚹⨀①(gacchanta) 🔼(vā) ▶️👆⨀(gacchati) 🔼(ti) ▶️🤟⨀(pajānāti)  
 bhikkhu / walking / or / I walk / quote / knows clearly  
-*"A bhikkhu when walking knows clearly 'I am walking'." `gacchāmi`: `-mi`, first person singular, after a lengthened `a` {478}, on `gaccha`, the shape of `gamu` {476}. `pajānāti`: `-ti` after `nā`, `kī` class {449}; `pa` + `jā`, the root `ñā` {470}.*
+*"A bhikkhu when walking knows clearly 'I am walking'." ([11: 36, 3.1](../11-pbt/#s36-u3-1)) `gacchāmi`: `-mi`, first person singular, after a lengthened `a` {478}, on `gaccha`, the shape of `gamu` {476}. `pajānāti`: `-ti` after `nā`, `kī` class {449}; `pa` + `jā`, the root `ñā` {470}.*
 
 ### Exercises
 
@@ -111,49 +111,49 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. Kittāvatā nu kho, bhante, bhavo **hotī**”ti?
+1. tasmā rūpaṁ ābādhāya **saṁvattati**, na ca labbhati rūpe—
 2. **natthi** dāni punabbhavo
 3. Vidhūpayaṁ **tiṭṭhati** mārasenaṁ,
 4. Cakkhuñca paṭicca rūpe ca **uppajjati** cakkhuviññāṇaṁ.
-5. Yo yoniso **payuñjati**,
+5. Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako cakkhusmimpi **nibbindati**,
 6. Atthaṁ **paleti** na upeti saṅkhaṁ;
 
 ### Answers
 
 *Note: please do the exercises first before checking the answers.*
 
-1. > Kittāvatā nu kho, bhante, bhavo **hotī**”ti?
+1. > tasmā rūpaṁ ābādhāya **saṁvattati**, na ca labbhati rūpe—
 
-🔼(kittāvatā) 🔼(nu kho) 🚹⨀⓪(bhavant) 🚹⨀①(bhava) ▶️🤟⨀(hoti) 🔼(ti)  
-In what way / ? / indeed / Bhante / “bhava” / is / quote  
-*"What is the nature of 'bhava,' Bhante?" `hoti`: `-ti`, third person singular, on the root `hū` itself, the piece dropped {510}.*
+⏏️(tasmā) 🚻⨀①(rūpa) 🚹⨀④(ābādha) 🟢⨀🤟▶️(saṁvattati) ⏏️(na) ⏏️(ca) 🔵⨀🤟▶️(labhati) 🚻⨀⑦(rūpa)  
+therefore / form / to affliction / leads / not / and / is obtained / in form  
+*"therefore `rūpa` leads to affliction, and it cannot be obtained:" ([7: 2.3](../7-anatta/#u2-3)) `saṁvattati`: `-ati`, third person singular {423}, `bhū` class {445}; `saṁ` + `vatt`, the root `vatta` (to proceed). `labbhati` beside it is the passive, `labh` + `ya` as `-bbh-` {443}, 🔵 ([8.6](../8-6-voice/)).*
 
 2. > **natthi** dāni punabbhavo
 
 ⏏️(na) 🟢⨀🤟▶️(atthi) ⏏️(dāni) 🚹⨀①🆎(puna+bhava)  
 not / there is / now / renewed becoming  
-*"There is now no more future existence." `natthi` is `na` + `atthi`: the root `asa` (to be) with `-tthi` for `-ti` {494}, third person singular, no piece.*
+*"There is now no more future existence." ([5: 10.2](../5-dhammacakka/#u10-2)) `natthi` is `na` + `atthi`: the root `asa` (to be) with `-tthi` for `-ti` {494}, third person singular, no piece.*
 
 3. > Vidhūpayaṁ **tiṭṭhati** mārasenaṁ,
 
 🚹⨀①🔽(anta)(vidhūpayanta) 🟢⨀🤟▶️(tiṭṭhati) 🚺⨀②🆎(māra+senā)  
 scattering / stands / the army of Māra  
-*"He stands dispelling Māra's army." `tiṭṭhati`: `-ati`, third person singular, `bhū` class {445}; the root `ṭhā` (to stand) as `tiṭṭha` {468}.*
+*"He stands dispelling Māra's army." ([3: 12.3](../3-awakening/#u12-3)) `tiṭṭhati`: `-ati`, third person singular, `bhū` class {445}; the root `ṭhā` (to stand) as `tiṭṭha` {468}.*
 
 4. > Cakkhuñca paṭicca rūpe ca **uppajjati** cakkhuviññāṇaṁ.
 
 🚻⨀①(cakkhu) 🔼(ca) 🔼(paṭicca) 🚻⨀⑦(rūpa) 🔼(ca) ▶️🤟⨀(uppajjati) 🚻⨀①(cakkhuviññāṇa)  
 faculty of seeing / and / dependent on / on form / and / arises / visual-consciousness  
-*"Visual consciousness (`cakkhuviññāṇa`) arises dependent on `rūpa` (form) and the faculty of seeing." `uppajjati`: `-jj-` before `-ati`, `ya` of the `divu` class fused with the root `pada` (to go) {447}.*
+*"Visual consciousness (`cakkhuviññāṇa`) arises dependent on `rūpa` (form) and the faculty of seeing." ([11: 19, 2.2](../11-pbt/#s19-u2-2)) `uppajjati`: `-jj-` before `-ati`, `ya` of the `divu` class fused with the root `pada` (to go) {447}.*
 
-5. > Yo yoniso **payuñjati**,
+5. > Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako cakkhusmimpi **nibbindati**,
 
-🚹⨀①(ya) 🔼(yoniso) ▶️🤟⨀(payuñjati)  
-whoever / properly / applies  
-*"Whoever applies [himself] properly." `payuñjati`: `-ñj-` before `-ati`, the `rudha` class, `ṁ` put into the root {446}, written `ñ` before `j` {31}; root `yuja` (to yoke).*
+⏏️(evaṁ) 🚹⨀①🔽(anta)(passanta) 🚹⨂⓪(bhikkhu) 🚹⨀①(sutavant) 🚹⨀①🆎(ariya+sāvaka) 🚻⨀⑦(cakkhu) ⏏️(api) 🟢⨀🤟▶️(nibbindati)  
+thus / seeing / bhikkhave / learned / awakened disciple / the eye / too / gives up  
+*"Thus seeing, bhikkhave, the `sutavā` (learned) `ariyasāvaka` (awakened disciple) `nibbindati` (gives up) the eye" ([9: 8.1](../9-fire/#u8-1)) `nibbindati`: `-nd-` before `-ati`, the `rudha` class, `ṁ` put into the root `vida` (to feel) {446}, written `n` before `d` {31}; the prefix `ni`.*
 
 6. > Atthaṁ **paleti** na upeti saṅkhaṁ;
 
 🚻⨀①(attha) ▶️🤟⨀(paleti) 🔼(na) ▶️🤟⨀(upeti) 🚺⨀②(saṅkhā)  
 essence / runs away / no / approaches / definition  
-*"The essence runs away and approaches eluding definition." `paleti`: `-ti` after `-e-`, `ṇe` of the `cura` class, its `ṇ` dropped {452}, {523}; root `palā` (to run away). `upeti` beside it is `upa` + the root `i` (to go), not `cura`.*
+*"The essence runs away and approaches eluding definition." ([11: 52, 6.3](../11-pbt/#s52-u6-3)) `paleti`: `-ti` after `-e-`, `ṇe` of the `cura` class, its `ṇ` dropped {452}, {523}; root `palā` (to run away). `upeti` beside it is `upa` + the root `i` (to go), not `cura`.*

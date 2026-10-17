@@ -44,9 +44,9 @@ Reading a verb is three questions, asked of the end of the word first:
 
 ```mermaid
 flowchart TD
-  Q1["1. What is the ending? it gives the time, the person and the number (7.1–7.5)"] --> Q2["2. Is there -īya-, -e- or -āpe- before it? passive or causative (7.6)"]
-  Q2 --> Q3["3. What is left? the root, to look up in Appendix D (7.7)"]
-  Q3 --> Q4["Not a finite ending at all? a participle, absolutive or infinitive (7.8)"]
+  Q1["1. What is the ending? it gives the time, the person and the number (8.1–8.5)"] --> Q2["2. Is there -īya-, -e- or -āpe- before it? passive or causative (8.6)"]
+  Q2 --> Q3["3. What is left? the root, to look up in Appendix D (8.7)"]
+  Q3 --> Q4["Not a finite ending at all? a participle, absolutive or infinitive (8.8)"]
 ```
 
 | section | covers | Kaccāyana | appendix |
@@ -70,6 +70,6 @@ seven classes, stays behind the linked rule number and in Appendix I.
 On a first reading take [8.1](../8-1-reading-a-verb/), [8.4](../8-4-past/)
 and [8.8](../8-8-verb-like-forms/): the past tense and the participles are
 what the texts are made of, and the present, the commands and the future
-follow from 7.1's table. The classes in 7.2, the voices in 7.6 and the
-irregular verbs in 7.7 are for looking up a form when it comes.
+follow from 8.1's table. The classes in 8.2, the voices in 8.6 and the
+irregular verbs in 8.7 are for looking up a form when it comes.
 :::

@@ -58,14 +58,15 @@ so what you see is nearly always `-issa-`: `gam-i-ssati`, `kar-i-ssati`. That
 
 | what you see | person | number | example | rule |
 | --- | :-: | :-: | --- | :-: |
-| `a-` … `-ssā`, `-ssa` | third 🤟 | ⨀ | `agacchissā` ("he would have gone"), `alabhissā`; the texts' `abhavissa`, `nābhavissa` | {430}, {519} |
-| `a-` … `-ssaṁsu` | third 🤟 | ⨂ | `agacchissaṁsu`, `alabhissaṁsu` | {430}, {519} |
+| `a-` … `-ssā`, `-ssa` | third 🤟 | ⨀ | `agacchissā` ("he would have gone"), `alabhissā`; the texts' `abhavissa` ([7: 2.2](../7-anatta/#u2-2)), `nābhavissa` ([11: 15, 2.1](../11-pbt/#s15-u2-1)) | {430}, {519} |
+| `a-` … `-ssaṁsu` | third 🤟 | ⨂ | `agacchissaṁsu`, `alabhissaṁsu`; the texts' `abhavissaṁsu` ([7: 4.5](../7-anatta/#u4-5)) | {430}, {519} |
 | `-sse`, `-ssatha`, `-ssaṁ`, `-ssāmhā` | second 🤘, first 👆 | ⨀, ⨂ | none in the rules or the texts | {430} |
 
 The `a-` is the past's, from [8.4](../8-4-past/), and its rule names the
 `kālātipatti` too {519}. In the texts the final vowel is short, `abhavissa`,
-and the sentence carries `ce` ("if") or `no ce` ("if not"), its other half a
-conditional or a `sattamī` (`paññāyetha`, "would be evident").
+and the sentence carries `ce` ("if") or `no ce` ("if not"), or, as in
+[chapter 7](../7-anatta/), no "if" at all; its other half is a conditional or
+a `sattamī` (`paññāyetha`, "would be evident", `saṁvatteyya`, "would lead").
 
 :::note[Look-alikes]
 `-ssatha` belongs to both sets: the `a-` before the root and a `ce` mark the
@@ -79,7 +80,7 @@ sits on a lemma; `passati` ("sees") is a present: no `i`.
 
 🚻⨀①(āraddha) 🔼(kho pana) *️⃣👆⚧⨀③(ahaṁ) 🚻⨀①(vīriya) ⏭🤟⨀(bhavati) 🚻⨀①(asallīna) 🚹⨂①(upaṭṭhita) 🚺⨀①(sati) 🚹⨂①(asammuṭṭha) 🚹⨀①(passaddha) 🚹⨀①(kāya) 🚹⨀①(asāraddha) 🚻⨀①(samāhita) 🚻⨀①(citta) 🚻⨀①(ekagga)  
 applied / and now /  with me /  determination / will become / active / presence / awareness / unmuddled / tranquility / body / unagitated / composed / mind / focused  
-*`bhavissati`, "will become": `-ssati`, the future, third person singular {429}; `bhū` for `asa` {507}.*
+*`bhavissati`, "will become": `-ssati`, the future, third person singular {429}; `bhū` for `asa` {507}; [11: 45, 9.7](../11-pbt/#s45-u9-7).*
 
 > te **gacchissanti**, **karissanti**
 
@@ -91,19 +92,21 @@ they / will go / will do
 
 🔼(no) 🔼(cetaṁ) 🚹⨂⓪(bhikkhu) 🔀🤟⨀(abhavissa) 🚻⨀①(ajāta) 🚻⨀①(abhūta) 🚻⨀①(akata) 🚻⨀①(asaṅkhata) 🔼(nayidha) 🚹⨀⑥(jāta) 🚹⨀⑥(bhūta) 🚹⨀⑥(kata) 🚹⨀⑥(saṅkhata) 🚻⨀①(nissaraṇa) 🔵⏯🤟⨀(paññāyati)  
 surely? / if this / Bhikkhave / could have been / not born / not become / not made / not formed / wouldn't be here / of born / of becoming / of made / of formed / way out of / will be clearly known  
-*`abhavissa`, "could have been": the conditional, third person singular, `a-` {519}, `-ssa` for `-ssā` {430}, after `no ce`.*
+*`abhavissa`, "could have been": the conditional, third person singular, `a-` {519}, `-ssa` for `-ssā` {430}, after `no ce`; [11: 50, 3.2](../11-pbt/#s50-u3-2).*
 
-> te ce taṁ yānaṁ **alabhissaṁsu**, **agacchissaṁsu**
+> Saṅkhārā ca hidaṁ, bhikkhave, attā **abhavissaṁsu**, nayidaṁ saṅkhārā ābādhāya saṁvatteyyuṁ
 
-*️⃣🤟🚹⨂①(ta) ⏏️(ce) *️⃣🤟🚻⨀②(ta) 🚻⨀②(yāna) 🟢⨂🤟🔀(alabhissa) 🟢⨂🤟🔀(agacchissa)  
-they / if / that / vehicle / had got / they would have gone  
-*`-ssaṁsu`, the conditional, third person plural {430}, with the `a-` {519}; Kaccāyana's sentence at {422}.*
+🚹⨂①(saṅkhāra) ⏏️(ca) ⏏️(hi) *️⃣🤟🚻⨀①(ima) 🚹⨂⓪(bhikkhu) 🚹⨀①(atta) 🟢⨂🤟🔀(bhavati) ⏏️(na) *️⃣🤟🚻⨀①(ima) 🚹⨂①(saṅkhāra) 🚹⨀④(ābādha) 🟢⨂🤟⏯(saṁvattati)  
+mental constructions / and / indeed / this / bhikkhave / self / would be / not / this / mental constructions / to affliction / would lead  
+*`abhavissaṁsu`, "would be": `-ssaṁsu`, the conditional, third person plural {430}, with the `a-` {519}; no `ce`, and `saṁvatteyyuṁ`, a `sattamī`, answers it; [7: 4.5](../7-anatta/#u4-5).*
 
 ### Exercises
 
-The first is from [chapter 11](../11-pbt/), the rest Kaccāyana's own, since the
-texts hold only three such forms. Name the verb's set, person and number, and
-what stands before its ending; then look it up.
+The first is from [chapter 11](../11-pbt/) and the second from
+[chapter 7](../7-anatta/); the rest are Kaccāyana's own, since the texts hold
+no future form but `bhavissati` and no conditional but `abhavissa` and its
+plural. Name the verb's set, person and number, and what stands before its
+ending; then look it up.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -112,7 +115,7 @@ deconstruction.
 :::
 
 1. “Kāmadhātuvepakkañca, ānanda, kammaṁ nābhavissa, api nu kho kāmabhavo paññāyethā”ti?
-2. so gacchissati, karissati
+2. Rūpañca hidaṁ, bhikkhave, attā abhavissa, nayidaṁ rūpaṁ ābādhāya saṁvatteyya
 3. kilanto addhānaṁ gamissati
 4. so ce taṁ yānaṁ alabhissā, agacchissā
 5. pabbajjā vā hohiti, maraṇaṁ vā me
@@ -126,13 +129,13 @@ deconstruction.
 
 🚻⨀①(kāmadhātuvepakka) 🔼(ca) 🚹⨀⓪(ānanda) 🚻⨀①(kamma) 🔀🤟⨀(nābhavissa) 🔼(apinu kho) 🚹⨀①(kāmabhava) 🔵⏯🤟⨀(paññāyati) 🔼(ti)  
 ripening in the realm of sensual desire / Ānanda / volitional action / would not exist / what / indeed / desire for becoming / is evident / quote  
-*`nābhavissa` = `na` + `abhavissa`, "would not exist": the conditional, third person singular, `a-` {519}, `-ssa` {430}.*
+*`nābhavissa` = `na` + `abhavissa`, "would not exist": the conditional, third person singular, `a-` {519}, `-ssa` {430}; [11: 15, 2.1](../11-pbt/#s15-u2-1).*
 
-2. > so **gacchissati**, **karissati**
+2. > Rūpañca hidaṁ, bhikkhave, attā **abhavissa**, nayidaṁ rūpaṁ ābādhāya saṁvatteyya
 
-*️⃣🤟🚹⨀①(ta) 🟢⨀🤟⏭(gacchati) 🟢⨀🤟⏭(karoti)  
-he / will go / will do  
-*`-ssati`, the future, third person singular {429}, the `i` {516}; Kaccāyana's sentence at {421}.*
+🚻⨀①(rūpa) ⏏️(ca) ⏏️(hi) *️⃣🤟🚻⨀①(ima) 🚹⨂⓪(bhikkhu) 🚹⨀①(atta) 🟢⨀🤟🔀(bhavati) ⏏️(na) *️⃣🤟🚻⨀①(ima) 🚻⨀①(rūpa) 🚹⨀④(ābādha) 🟢⨀🤟⏯(saṁvattati)  
+form / and / indeed / this / bhikkhave / self / would be / not / this / form / to affliction / would lead  
+*`abhavissa`, "would be": the conditional, third person singular, `a-` {519}, `-ssa` {430}; "if" is unspoken, and `saṁvatteyya` ("would lead") is a `sattamī`; [7: 2.2](../7-anatta/#u2-2).*
 
 3. > kilanto addhānaṁ **gamissati**
 

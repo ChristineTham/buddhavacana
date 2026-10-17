@@ -16,8 +16,10 @@ tags: ["taddhita"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-`bhagavā`, "the Blessed One", the word you meet on every page of the texts, is
-literally "one who has good fortune": `bhaga` ("good fortune") with the affix
+`bhagavā`, "the Blessed One", the word you meet on every page of the texts
+([3: 2.1](../3-awakening/#u2-1), [5: 1.1](../5-dhammacakka/#u1-1),
+[7: 1.1](../7-anatta/#u1-1), [9: 1.1](../9-fire/#u1-1)), is literally "one
+who has good fortune": `bhaga` ("good fortune") with the affix
 `vantu` {368}. A whole family of words is built this way: a noun names a
 thing, the affix adds "having that" (`tadassatthi`, "he has that"), and the
 new word names whoever has it. `sīlavā` is one who has `sīla` (ethical
@@ -51,14 +53,16 @@ the noun it describes. Every rule number links to the full rule;
 
 Only the ① shows `-vā` or `-mā`. Before the other endings you see `-vant-` or
 `-vat-`, `-mant-` or `-mat-`, and the dictionary lists the word under the
-lemma `bhagavant`, `āyasmant`, as the symbol lines of chapters 3, 5 and 11 do:
+lemma `bhagavant`, `āyasmant`, as the symbol lines of chapters
+[3](../3-awakening/), [5](../5-dhammacakka/), [7](../7-anatta/),
+[9](../9-fire/) and [11](../11-pbt/) do:
 
 | ending | what you see | example | rule |
 | :-: | --- | --- | :-: |
-| ① | `-vā`, `-mā` | `bhagavā`, `āyasmā`, `satimā` (chapters 3, 5 and 11) | {124} |
-| ② | `-vantaṁ`, `-mantaṁ` | `bhagavantaṁ`, `āyasmantaṁ` (chapter 11) | |
-| ③ | `-vatā`, `-matā` | `bhagavatā` (chapter 11) | {127} |
-| ④ ⑥ | `-vato`, `-mato` | `sīlavato` (chapter 11) | {127} |
+| ① | `-vā`, `-mā` | `bhagavā` ([3: 2.1](../3-awakening/#u2-1), [7: 1.1](../7-anatta/#u1-1)), `sutavā` ([9: 8.1](../9-fire/#u8-1)), `āyasmā` ([11: 44, 1.3](../11-pbt/#s44-u1-3)), `satimā` ([11: 40, 12.1](../11-pbt/#s40-u12-1)) | {124} |
+| ② | `-vantaṁ`, `-mantaṁ` | `bhagavantaṁ`, `āyasmantaṁ` ([11: 44, 1.3](../11-pbt/#s44-u1-3)) | |
+| ③ | `-vatā`, `-matā` | `bhagavatā` ([5: 12.1](../5-dhammacakka/#u12-1), [11: 45, 9.5](../11-pbt/#s45-u9-5)) | {127} |
+| ④ ⑥ | `-vato`, `-mato` | `sīlavato` ([11: 18, 1.1](../11-pbt/#s18-u1-1)), `bhagavato` ([7: 1.3](../7-anatta/#u1-3), [9: 10.2](../9-fire/#u10-2)), `āyasmato` ([5: 11.1](../5-dhammacakka/#u11-1)) | {127} |
 | ① ⨂ | `-vanto`, `-manto` | `guṇavanto` | {122} |
 
 Rule {127} is optional: `guṇavantassa`, `guṇavantena`, `guṇavantasmiṁ` occur
@@ -93,8 +97,9 @@ with gold / made / a work → made of gold
 ### Exercises
 
 Resolve each word into its noun and affix, and give its meaning; the first
-four you met in chapters 3, 5 and 11 (`sīlavā` as its ④, `sīlavato`). Look the
-words up in a dictionary and note the sense the affix carries.
+five you met in the texts, at the sentences linked (`sīlavā` as its ④,
+`sīlavato`). Look the words up in a dictionary and note the sense the affix
+carries.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -102,13 +107,13 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. bhagavā
-2. āyasmā
-3. satimā
-4. sīlavā
-5. paññavā
-6. medhāvī
-7. mālī
+1. bhagavā ([3: 2.1](../3-awakening/#u2-1), [7: 1.1](../7-anatta/#u1-1))
+2. āyasmā ([11: 44, 1.3](../11-pbt/#s44-u1-3))
+3. satimā ([11: 40, 12.1](../11-pbt/#s40-u12-1))
+4. sīlavā ([11: 18, 1.1](../11-pbt/#s18-u1-1): `sīlavato`)
+5. sutavā ([7: 11.1](../7-anatta/#u11-1): `sutavā ariyasāvako`; also [9: 8.1](../9-fire/#u8-1))
+6. paññavā
+7. medhāvī
 8. dārumayaṁ
 
 ### Answers
@@ -119,7 +124,7 @@ deconstruction.
 
 🚻⨀①(bhagaṁ) *️⃣🤟🚹⨀⑥(yassa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(vantu)(bhagavā)  
 good fortune / of whom / there is → one who has good fortune, the Blessed One  
-*`vantu` {368}: `bhaga` + `-vā`; chapters 3, 5 and 11 write the lemma `bhagavant`.*
+*`vantu` {368}: `bhaga` + `-vā`; the texts write the lemma `bhagavant`.*
 
 2. > āyu assa atthi → **āyasmā**
 
@@ -131,31 +136,31 @@ life / his / there is → one who has life, venerable
 
 🚺⨀①(sati) *️⃣🤟🚹⨀⑥(yassa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(mantu)(satimā)  
 mindfulness / of whom / there is → one who has mindfulness, mindful  
-*`mantu` {369}: `sati` + `-mā`; chapter 11 has it in `upekkhako satimā sukhavihārī`.*
+*`mantu` {369}: `sati` + `-mā`; [11: 40, 12.1](../11-pbt/#s40-u12-1) has it in `upekkhako satimā sukhavihārī`.*
 
 4. > sīlaṁ yassa atthi → **sīlavā**
 
 🚻⨀①(sīlaṁ) *️⃣🤟🚹⨀⑥(yassa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(vantu)(sīlavā)  
 ethical conduct / of whom / there is → one who has ethical conduct, virtuous  
-*`vantu` {368}: `sīla` + `-vā`; chapter 11 has its ④, `sīlavato`, "for whoever is moral" {127}.*
+*`vantu` {368}: `sīla` + `-vā`; [11: 18, 1.3](../11-pbt/#s18-u1-3) has its ④, `sīlavato`, "for whoever is moral" {127}.*
 
-5. > paññā yassa atthi → **paññavā**
+5. > sutavā ariyasāvako
+
+🚹⨀①(sutavant) 🚹⨀①🆎(ariya+sāvaka)  
+learned / awakened disciple  
+*`vantu` {368}: `suta` (learning, what is heard) + `-vā`, "one who has learning"; the lemma `sutavant` ends in `-vā` in the ① {124}.*
+
+6. > paññā yassa atthi → **paññavā**
 
 🚺⨀①(paññā) *️⃣🤟🚹⨀⑥(yassa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(vantu)(paññavā)  
 wisdom / of whom / there is → one who has wisdom, wise  
 *`vantu` {368}: `paññā` + `-vā`, the final `ā` shortened before the affix {403}.*
 
-6. > medhā yassa atthi → **medhāvī**
+7. > medhā yassa atthi → **medhāvī**
 
 🚺⨀①(medhā) *️⃣🤟🚹⨀⑥(yassa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(vī)(medhāvī)  
 wisdom / of whom / there is → one who has wisdom, wise  
 *`vī` {364}: `medhā` + `-vī`; so too `māyāvī` ("deceitful") from `māyā`.*
-
-7. > mālā yassa atthi → **mālī**
-
-🚺⨀①(mālā) *️⃣🤟🚹⨀⑥(yassa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(ī)(mālī)  
-a garland / of whom / there is → one who has a garland, garlanded  
-*`ī` {366}: the final `ā` of `mālā` gives way to `-ī`; `māliko`, with `ika`, means the same.*
 
 8. > dārunā pakataṁ kammaṁ → **dārumayaṁ**
 

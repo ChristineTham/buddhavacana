@@ -63,7 +63,7 @@ tables every ending rule).
 | `-iyā`, `-uyā` | 🚺 lemmas in `i`, `ī`, `u` | `rattiyā`, `itthiyā`, `dhenuyā` | {112} |
 | `-ānaṁ`, `-īnaṁ`, `-ūnaṁ`: the plural, last vowel lengthened | every lemma | `purisānaṁ`, `aggīnaṁ`, `bhikkhūnaṁ` | {89} |
 | `-ssa`, and `assa` for `tassa`; `-esaṁ` in the plural | the pronouns `ta`, `eta`, `ima`, `ya`, `sabba` | `tassa`, `assa`, `etassa`, `imassa`, `yassa`, `tesaṁ`, `imesaṁ` | {176}–{177}, {168} |
-| `mama`, `mayhaṁ`, `me`, `amhākaṁ`, `no`; `tava`, `tuyhaṁ`, `te`, `tumhākaṁ`, `vo` | "I", "we", "you"; `me`, `te`, `no`, `vo` serve as ④ as well | `kataṁ me pāpaṁ`, `satthā no garu` (our teacher is respected) | {141}–{142}, {147}–{148}, {161} |
+| `mama`, `mayhaṁ`, `me`, `amhākaṁ`, `no`; `tava`, `tuyhaṁ`, `te`, `tumhākaṁ`, `vo` | "I", "we", "you"; `me`, `te`, `no`, `vo` serve as ④ as well | `kataṁ me pāpaṁ`, `satthā no garu` (our teacher is respected, [11: 1, 24.5](../11-pbt/#s1-u24-5)) | {141}–{142}, {147}–{148}, {161} |
 
 ### Examples
 
@@ -89,8 +89,8 @@ weeping / of the boy / [he] went forth
 
 Translate the following from Pali to English and find the ⑥ word in each. Look
 up the words in a dictionary, do any sandhi and compound deconstruction needed,
-and take note of the `vibhatti` endings to deduce the meaning. The first four
-are from the texts of chapters 3, 5 and 11, the last two are Kaccāyana's own.
+and take note of the `vibhatti` endings to deduce the meaning. The first five
+are from the texts, each linked to its sentence; the last is Kaccāyana's own.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -98,12 +98,12 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. Evametassa kevalassa dukkhakkhandhassa samudayo hoti
-2. Atha kho bhagavā rattiyā paṭhamaṁ yāmaṁ paṭiccasamuppādaṁ anulomapaṭilomaṁ manasākāsi
-3. Ayaṁ dukkhassa atthaṅgamo
-4. Samaṁ cittassa na labhiṁ
-5. kataṁ me pāpaṁ
-6. sabbe bhāyanti maccuno
+1. Evametassa kevalassa dukkhakkhandhassa samudayo hoti ([3: 3.12](../3-awakening/#u3-12))
+2. Atha kho bhagavā rattiyā paṭhamaṁ yāmaṁ paṭiccasamuppādaṁ anulomapaṭilomaṁ manasākāsi ([3: 2.3](../3-awakening/#u2-3))
+3. Ayaṁ dukkhassa atthaṅgamo ([11: 19, 2.10](../11-pbt/#s19-u2-10))
+4. ‘etaṁ mama, esohamasmi, eso me attā’ ([7: 6.5](../7-anatta/#u6-5))
+5. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. ([9: 10.2](../9-fire/#u10-2))
+6. kataṁ me pāpaṁ
 
 ### Answers
 
@@ -127,20 +127,26 @@ then / indeed / the Bhagavā / of the night / first / watch / dependent originat
 this / suffering / disappearance of  
 *This is disappearance of dukkha (suffering).*
 
-4. > Samaṁ cittassa na labhiṁ
+4. > ‘etaṁ mama, esohamasmi, eso me attā’
 
-🚻⨀①(sama) 🚻⨀⑥(citta) 🔼(na) ⏮🤟⨀(labhi)  
-balance / of mind/heart / no / obtained  
-*Didn't obtain balance of mind/heart*
+*️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨀①(atta)  
+this / mine / this / I / am / this / my / self  
+*‘This is mine, this I am, this is my `attā` (self)’*
 
-5. > kataṁ me pāpaṁ
+`mama` and `me`, two of the ⑥ forms of `ahaṁ` in the table above: the owner
+{301}, "mine", "my"; in exercise 6 the same `me` stands for the ③.
+
+5. > Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ.
+
+🚹⨂①🆎(atta+mana) *️⃣🤟🚹⨂①(ta) 🚹⨂①(bhikkhu) 🚹⨀⑥(bhagavant) 🚻⨀②🔽(ta)(bhāsita) 🟢⨂🤟⏮(abhinandati)  
+delighted / those / bhikkhū / of the Bhagavā / what was spoken / rejoiced in  
+*Those bhikkhū, delighted, rejoiced in the Bhagavā’s words.*
+
+`bhagavato`: the owner of the words, ⑥ {301}, on the lemma `bhagavant`;
+`bhāsitaṁ`, the thing owned, keeps its own ending, ② as the object.
+
+6. > kataṁ me pāpaṁ
 
 🚻⨀①🔽(ta)(kataṁ) *️⃣👆⚧⨀⑥(me) 🚻⨀①(pāpaṁ)  
 done / by me / evil  
 *Evil has been done by me: `me` ⑥ where the ③ `mayā` is expected {308}.*
-
-6. > sabbe bhāyanti maccuno
-
-⨂(*️⃣🤟🚹①(sabbe) 🟢🤟▶️(bhāyanti)) 🚹⨀⑥(maccuno)  
-all / fear / death  
-*All fear death: `maccuno` ⑥ where the ⑤ of the thing feared is expected {309}.*

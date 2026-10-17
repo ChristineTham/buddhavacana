@@ -30,7 +30,8 @@ compound takes the gender, number and ending of that noun: `chinnahattho` is
 🚹⨀① because `puriso` is. When the members join, their endings are dropped
 {317} and each goes back to its lemma form {318}. The Buddha's epithets are
 full of such compounds (`dasabalo`, "who has the ten powers"), and so is the
-jhāna formula of chapter 11 (`avitakkaṁ avicāraṁ … jhānaṁ`).
+jhāna formula of [11: 39, 11.1](../11-pbt/#s39-u11-1) (`avitakkaṁ avicāraṁ …
+jhānaṁ`).
 
 ### How to recognise a `bahubbīhi`
 
@@ -75,17 +76,18 @@ cut off / hand / of whom / of the man / that [one] → whose hand is cut off / m
 conquered / senses / by this / by the ascetic / that [one] → by whom the senses have been conquered / ascetic  
 *{328}: the outside word is the doer, ③; `jita` + `indriya` gives `jitindriya`, `a` dropped before `i` {12}.*
 
-> dasa balāni yassa so → **dasabalo** bhagavā
+> vipariṇāmo dhammo yassa taṁ → yaṁ … **vipariṇāmadhammaṁ**
 
-🚻⨂①(dasa balāni) *️⃣🤟🚹⨀⑥(yassa) *️⃣🤟🚹⨀①(so) → 🚹⨀①🆎(dasa+bala) 🚹⨀①(bhagavā)  
-ten / powers / of whom / that [one] → who has the ten powers / the Blessed One  
-*{328}: a numeral first; `balāni` is neuter plural, but the compound is masculine singular like `bhagavā`.*
+🚹⨀①(vipariṇāmo) 🚹⨀①(dhammo) *️⃣🤟🚻⨀⑥(yassa) *️⃣🤟🚻⨀①(taṁ) → *️⃣🤟🚻⨀①(yaṁ) 🚻⨀①🆎(vipariṇāma+dhamma)  
+change / nature / of which / that → what / subject to change  
+*{328}: `-dhamma`, "whose nature is …", as `maraṇadhammo` below; neuter like the `yaṁ` ("what") it describes, the `rūpaṁ` asked about in [7: 6.5](../7-anatta/#u6-5).*
 
 ### Exercises
 
-Each of the following is a `bahubbīhi` from chapter 11, with the word it
-agrees with where the sentence has one. Look each up in a dictionary, name its
-members, unfold it into a phrase with `yassa` ("whose"), and say what it names.
+Each of the following is a `bahubbīhi` from [chapter 11](../11-pbt/), with the
+word it agrees with where the sentence has one and a link to its sentence. Look
+each up in a dictionary, name its members, unfold it into a phrase with `yassa`
+("whose"), and say what it names.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -93,14 +95,14 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. passaddhakāyo
-2. pītimanassa
-3. maraṇadhammo
-4. avitakkaṁ (jhānaṁ)
-5. pītisukhaṁ (jhānaṁ)
-6. sadevamanussāya (pajāya)
-7. ekabhattikā (arahanto)
-8. kaṇṇasukhā (vācā)
+1. passaddhakāyo ([11: 18, 1.15](../11-pbt/#s18-u1-15))
+2. pītimanassa ([11: 18, 1.12](../11-pbt/#s18-u1-12))
+3. maraṇadhammo ([11: 46, 18.1](../11-pbt/#s46-u18-1))
+4. avitakkaṁ (jhānaṁ) ([11: 39, 11.1](../11-pbt/#s39-u11-1))
+5. pītisukhaṁ (jhānaṁ) ([11: 38, 10.1](../11-pbt/#s38-u10-1))
+6. sadevamanussāya (pajāya) ([11: 43, 16.2](../11-pbt/#s43-u16-2))
+7. ekabhattikā (arahanto) ([11: 32, 24.1](../11-pbt/#s32-u24-1))
+8. kaṇṇasukhā (vācā) ([11: 30, 16.1](../11-pbt/#s30-u16-1))
 
 ### Answers
 
@@ -110,46 +112,46 @@ deconstruction.
 
 🚹⨀①(🔽(ta)(passaddho) kāyo) *️⃣🤟🚹⨀⑥(yassa) *️⃣🤟🚹⨀①(so) → 🚹⨀①🆎(passaddha+kāya)  
 calmed / body / of whom / that [one] → whose body is calm  
-*{328}: a participle first, like `chinnahattho`; selection 18, `passaddhakāyo sukhaṁ vediyati`.*
+*{328}: a participle first, like `chinnahattho`; [11: 18, 1.15](../11-pbt/#s18-u1-15), `passaddhakāyo sukhaṁ vediyati`.*
 
 2. > pītiyā mano yassa so → **pītimano**
 
 🚺⨀③(pītiyā) 🚹⨀①(mano) *️⃣🤟🚹⨀⑥(yassa) *️⃣🤟🚹⨀①(so) → 🚹⨀①🆎(pīti+mana)  
 with joy / mind / of whom / that [one] → whose mind is filled with joy, delighted  
-*{328}: a ③ inside, "with joy"; selection 18 has the ⑥, `pītimanassa`, "of one who is delighted".*
+*{328}: a ③ inside, "with joy"; [11: 18, 1.12](../11-pbt/#s18-u1-12) has the ⑥, `pītimanassa`, "of one who is delighted".*
 
 3. > maraṇaṁ dhammo yassa so → **maraṇadhammo**
 
 🚻⨀①(maraṇaṁ) 🚹⨀①(dhammo) *️⃣🤟🚹⨀⑥(yassa) *️⃣🤟🚹⨀①(so) → 🚹⨀①🆎(maraṇa+dhamma)  
 death / nature / of whom / that [one] → whose nature is death, subject to death  
-*{328}: `-dhammo`, "whose nature is": so too `jātidhammo`, `jarādhammo`, `byādhidhammo`, `sokadhammo`, `saṅkilesadhammo` in selection 46.*
+*{328}: `-dhammo`, "whose nature is": so too `jātidhammo`, `jarādhammo`, `byādhidhammo`, `sokadhammo`, `saṅkilesadhammo` in [11: 46, 18.1](../11-pbt/#s46-u18-1).*
 
 4. > natthi vitakko yasmiṁ taṁ → **avitakkaṁ** jhānaṁ
 
 🟢⨀🤟▶️(natthi) 🚹⨀①(vitakko) *️⃣🤟🚻⨀⑦(yasmiṁ) *️⃣🤟🚻⨀①(taṁ) → 🚻⨀①🆎(na+vitakka) 🚻⨀①(jhānaṁ)  
 there is no / thinking / in which / that → without thinking / jhāna  
-*{328}: `a`- for `na` {333}, the outside word in the ⑦; neuter like `jhānaṁ` (selection 39), as is `avicāraṁ`.*
+*{328}: `a`- for `na` {333}, the outside word in the ⑦; neuter like `jhānaṁ` ([11: 39, 11.1](../11-pbt/#s39-u11-1)), as is `avicāraṁ`.*
 
 5. > pīti ca sukhañca yassa taṁ → **pītisukhaṁ** jhānaṁ
 
 🚺⨀①(pīti) ⏏️(ca) 🚻⨀①(sukhaṁ) ⏏️(ca) *️⃣🤟🚻⨀⑥(yassa) *️⃣🤟🚻⨀①(taṁ) → 🚻⨀①🆎(pīti+sukha) 🚻⨀①(jhānaṁ)  
 delight / and / ease / and / of which / that → having delight and ease / jhāna  
-*{328}: a `dvanda`, "delight and ease", made "having delight and ease"; agreeing with `jhānaṁ` (selections 38, 39).*
+*{328}: a `dvanda`, "delight and ease", made "having delight and ease"; agreeing with `jhānaṁ` ([11: 38, 10.1](../11-pbt/#s38-u10-1), [11: 39, 11.1](../11-pbt/#s39-u11-1)).*
 
 6. > saha devamanussehi yā sā → **sadevamanussā** pajā
 
 ⏏️(saha) 🚹⨂③🆎(deva+manussa) *️⃣🤟🚺⨀①(yā) *️⃣🤟🚺⨀①(sā) → 🚺⨀①🆎(sa+devamanussa) 🚺⨀①(pajā)  
 with / gods and humans / who / that → with its gods and humans / population  
-*{328}: `sa`- is `saha` ("with"), a `dvanda` inside; feminine like `pajā`; selection 43 has the ⑦, `sadevamanussāya pajāya`.*
+*{328}: `sa`- is `saha` ("with"), a `dvanda` inside; feminine like `pajā`; [11: 43, 16.2](../11-pbt/#s43-u16-2) has the ⑦, `sadevamanussāya pajāya`.*
 
 7. > ekaṁ bhattaṁ yassa so → **ekabhattiko**
 
 🚻⨀①(ekaṁ bhattaṁ) *️⃣🤟🚹⨀⑥(yassa) *️⃣🤟🚹⨀①(so) → 🚹⨀①🆎(eka+bhattika)  
 one / meal / of whom / that [one] → whose meal is one, eating one meal a day  
-*{328}: a numeral first, like `dasabalo`, with the affix `ika` at the end; plural like `arahanto` (selection 32).*
+*{328}: a numeral first, like `dasabalo`, with the affix `ika` at the end; plural like `arahanto` ([11: 32, 24.1](../11-pbt/#s32-u24-1)).*
 
 8. > kaṇṇānaṁ sukhaṁ yassā sā → **kaṇṇasukhā** vācā
 
 🚹⨂④(kaṇṇānaṁ) 🚻⨀①(sukhaṁ) *️⃣🤟🚺⨀⑥(yassā) *️⃣🤟🚺⨀①(sā) → 🚺⨀①🆎(kaṇṇa+sukha) 🚺⨀①(vācā)  
 for the ears / ease / of which / that → pleasant to the ear / speech  
-*{328}: a ④ inside, "ease for the ears"; feminine like `vācā` (selection 30).*
+*{328}: a ④ inside, "ease for the ears"; feminine like `vācā` ([11: 30, 16.1](../11-pbt/#s30-u16-1)).*

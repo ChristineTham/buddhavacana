@@ -80,7 +80,7 @@ in `-ī` and one in `-i` differ only in the ① singular (`itthī` against
 
 The other endings are those of `aggi` and `bhikkhu`. In the texts the neuter
 `-uṁ` also serves as ①, as the `-aṁ` of a neuter in `a` does {219}: `cakkhuṁ
-udapādi`, "insight arose" (chapter 5).
+udapādi`, "insight arose" ([5: 5.1](../5-dhammacakka/#u5-1)).
 
 :::note[The same ending, more than one job]
 `-ī` or `-ū` ending a word is the ① or ② plural of an `i`/`u` lemma
@@ -99,32 +99,33 @@ plural (`sukhino`). `-iyā` is any of ③ to ⑦ singular of a feminine
 ⏏️(tatra) ⏏️(kho) 🚹⨀①(bhagavant) 🚹⨂②🆎(pañca+vaggiya) 🚹⨂②(bhikkhu) 🟢⨀🤟⏮(āmanteti)  
 there / indeed / the Bhagavā / of the group of five / bhikkhū / addressed  
 *There the Bhagavā addressed the group of five bhikkhū:*  
-*`bhikkhū`: `-ū`, the ② plural, `yo` dropped and the `u` lengthened {118}, {88}; `pañcavaggiye` agrees with it.*
+*`bhikkhū`: `-ū`, the ② plural, `yo` dropped and the `u` lengthened {118}, {88}; `pañcavaggiye` agrees with it; [5: 1.2](../5-dhammacakka/#u1-2).*
 
 > **jātipi** dukkhā, jarāpi dukkhā, **byādhipi** dukkho
 
 🚺⨀①(jāti) ⏏️(api) 🚺⨀①(dukkha) 🚺⨀①(jarā) ⏏️(api) 🚺⨀①(dukkha) 🚹⨀①(byādhi) ⏏️(api) 🚹⨀①(dukkha)  
 birth / too / suffering / aging / too / suffering / illness / too / suffering  
 *Birth is `dukkha` (suffering), aging is `dukkha`, illness is `dukkha`.*  
-*`jāti`, `byādhi`: `-i`, the ① singular {220}, with `pi` (`api`) joined on; `dukkhā` and `dukkho` show `jāti` feminine, `byādhi` masculine.*
+*`jāti`, `byādhi`: `-i`, the ① singular {220}, with `pi` (`api`) joined on; `dukkhā` and `dukkho` show `jāti` feminine, `byādhi` masculine; [5: 4.1](../5-dhammacakka/#u4-1).*
 
 > Atha kho bhagavā **rattiyā** paṭhamaṁ yāmaṁ paṭiccasamuppādaṁ anulomapaṭilomaṁ manasākāsi—
 
 ⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚺⨀⑥(ratti) 🚹⨀②(paṭhama) 🚹⨀②(yāma) 🚹⨀②🆎(paṭicca+samuppāda) 🚹⨀②🆎(anuloma+paṭiloma) 🟢⨀🤟⏮(manasikaroti)  
 then / indeed / the Bhagavā / of the night / first / watch / dependent origination / in forward and reverse order / attended to  
 *Then the Bhagavā, during the first watch of the night, attended to `paṭiccasamuppādaṁ` (dependent origination) in forward and reverse order —*  
-*`rattiyā`: `-iyā`, the feminine singular shape for ③ to ⑦ {112}; here ⑥, "of the night".*
+*`rattiyā`: `-iyā`, the feminine singular shape for ③ to ⑦ {112}; here ⑥, "of the night"; [3: 2.3](../3-awakening/#u2-3).*
 
 > Dveme, **bhikkhave**, antā pabbajitena na sevitabbā.
 
 ⚧⨂①(dvi) *️⃣🤟🚹⨂①(ima) 🚹⨂⓪(bhikkhu) 🚹⨂①(anta) 🚹⨀③🔽(ta)(pabbajita) ⏏️(na) 🚹⨂①🔽(tabba)(sevitabba)  
 two / these / bhikkhave / extremes / by one gone forth / not / should be cultivated  
 *"These two extremes, bhikkhave, should not be cultivated by one who has gone forth.*  
-*`bhikkhave`: `-ave`, the ⓪ plural {116}, the `u` become `a` before `ve` {97}: "bhikkhus!".*
+*`bhikkhave`: `-ave`, the ⓪ plural {116}, the `u` become `a` before `ve` {97}: "bhikkhus!"; [5: 2.1](../5-dhammacakka/#u2-1).*
 
 ### Exercises
 
-For the word in bold (from chapters 3, 5 and 11) name the lemma and its
+For the word in bold (from chapters [3](../3-awakening/), [5](../5-dhammacakka/),
+[7](../7-anatta/), [9](../9-fire/) and [11](../11-pbt/)) name the lemma and its
 gender, the ending, the number and the job, and cite the rule.
 
 :::tip[Hint]
@@ -138,8 +139,8 @@ deconstruction.
 3. Attamanā pañcavaggiyā **bhikkhū** bhagavato bhāsitaṁ abhinandunti.
 4. **najjā** nerañjarāya tīre
 5. **Nimmānaratīnaṁ** devānaṁ saddaṁ sutvā
-6. paccattaṁ veditabbena **viññūhi**
-7. bhikkhu **pītiyā** ca virāgā upekkhako ca viharati
+6. pañcavaggiyānaṁ **bhikkhūnaṁ** anupādāya āsavehi cittāni vimucciṁsūti
+7. **Rāgagginā**, dosagginā, mohagginā ādittaṁ, **jātiyā** jarāya maraṇena
 8. Tañce, āvuso, **bhikkhuṁ** pare aniṭṭhehi akantehi amanāpehi samudācaranti—
 
 ### Answers
@@ -151,53 +152,53 @@ deconstruction.
 🚺⨀①🆎(na+kuppa) *️⃣👆⚧⨀⑥(ahaṁ) 🚺⨀①(vimutti) *️⃣🤟🚺⨀①(ima) 🚺⨀①(antima) 🚺⨀①(jāti)  
 unshakeable / my / liberation / this / final / birth  
 *Unshakeable is my liberation, this is the final birth.*  
-*`vimutti`, `jāti`: feminine, `-i`, the ① singular {220}; `akuppā` and `antimā` agree in the feminine `-ā`.*
+*`vimutti`, `jāti`: feminine, `-i`, the ① singular {220}; `akuppā` and `antimā` agree in the feminine `-ā`; [5: 10.2](../5-dhammacakka/#u10-2).*
 
 2. > anuttaraṁ **sammāsambodhiṁ** abhisambuddho
 
 🚺⨀②🆎(na+uttara) 🚺⨀②🆎(sammā+sambodhi) 🚹⨀①🔽(ta)(abhisambuddha)  
 unsurpassed / perfect understanding / fully awakened  
 *woken up to perfect understanding unsurpassed by anything*  
-*`sammāsambodhiṁ`: feminine `sammāsambodhi`, `-iṁ`, the ② singular {82}, the object of `abhisambuddho`.*
+*`sammāsambodhiṁ`: feminine `sammāsambodhi`, `-iṁ`, the ② singular {82}, the object of `abhisambuddho`; [5: 10.1](../5-dhammacakka/#u10-1).*
 
 3. > Attamanā pañcavaggiyā **bhikkhū** bhagavato bhāsitaṁ abhinandunti.
 
 🚹⨂①🆎(atta+mana) 🚹⨂①🆎(pañca+vaggiya) 🚹⨂①(bhikkhu) 🚹⨀⑥(bhagavant) 🚻⨀②🔽(ta)(bhāsita) 🟢⨂🤟⏮(abhinandati) ⏏️(iti)  
 delighted / of the group of five / bhikkhū / of the Bhagavā / what was spoken / rejoiced in / (end quote)  
 *The group of five bhikkhū, delighted, rejoiced in the Bhagavā's words.*  
-*`bhikkhū`: masculine, `-ū`, here the ① plural {118}, {88}, the subject of `abhinanduṁ`; in the first example the same shape was ②.*
+*`bhikkhū`: masculine, `-ū`, here the ① plural {118}, {88}, the subject of `abhinanduṁ`; in the first example the same shape was ②; [5: 10.4](../5-dhammacakka/#u10-4).*
 
 4. > **najjā** nerañjarāya tīre
 
 🚺⨀⑥(nadī) 🚺⨀⑥(nerañjarā) 🚻⨀⑦(tīra)  
 of the river / Nerañjarā / on the bank  
 *on the bank of the Nerañjarā river*  
-*`najjā`: feminine `nadī`, the ⑥ singular: `-iyā` {112} with the `i` become `y` {72}, `nadyā`, and `dy` said `jj`.*
+*`najjā`: feminine `nadī`, the ⑥ singular: `-iyā` {112} with the `i` become `y` {72}, `nadyā`, and `dy` said `jj`; [3: 2.1](../3-awakening/#u2-1).*
 
 5. > **Nimmānaratīnaṁ** devānaṁ saddaṁ sutvā
 
 🚹⨂⑥🆎(nimmāna+ratī) 🚹⨂⑥(deva) 🚹⨀②(sadda) 🔽(tvā)(suṇāti)  
 of the Nimmānaratī / devas / the cry / having heard  
 *Hearing the cry of the Nimmānaratī devas*  
-*`nimmānaratīnaṁ`: masculine `-ī` lemma, `-īnaṁ`, the ⑥ plural {89}, agreeing with `devānaṁ`.*
+*`nimmānaratīnaṁ`: masculine `-ī` lemma, `-īnaṁ`, the ⑥ plural {89}, agreeing with `devānaṁ`; [5: 12.7](../5-dhammacakka/#u12-7).*
 
-6. > paccattaṁ veditabbena **viññūhi**
+6. > pañcavaggiyānaṁ **bhikkhūnaṁ** anupādāya āsavehi cittāni vimucciṁsūti
 
-🚻⨀①(paccatta) 🚹⨀③(veditabba) 🚹⨂③(viññū)  
-personal / by should be experienced / by intelligent  
-*should be personally experienced by those who are intelligent*  
-*`viññūhi`: masculine `viññū`, `-ūhi`, the ③ plural {89}, the doers of `veditabbena`.*
+🚹⨂⑥🆎(pañca+vaggiya) 🚹⨂⑥(bhikkhu) 🔽(ya)(anupādiyati) 🚹⨂⑤(āsava) 🚻⨂①(citta) 🔵⨂🤟⏮(vimuccati) ⏏️(iti)  
+of the group of five / bhikkhū / not grasping / from the defilements / minds / were liberated / (end quote)  
+*the `cittāni` (minds) of the group of five bhikkhū, `anupādāya` (not grasping), were liberated from the `āsavā` (defilements).*  
+*`bhikkhūnaṁ`: masculine `bhikkhu`, `-ūnaṁ`, the ⑥ plural, the `u` lengthened before `naṁ` {89}; `pañcavaggiyānaṁ` agrees with it; [7: 12.3](../7-anatta/#u12-3).*
 
-7. > bhikkhu **pītiyā** ca virāgā upekkhako ca viharati
+7. > **Rāgagginā**, dosagginā, mohagginā ādittaṁ, **jātiyā** jarāya maraṇena
 
-🚹⨀①(bhikkhu) 🚺⨀③(pīti) 🔼(ca) 🚹⨀③(virāga) 🚹⨀①(upekkhaka) 🔼(ca) ▶️🤟⨀(viharati)  
-bhikkhu / with felicity / and / with detachment / mentally balanced, equanimous / and / continues in  
-*a bhikkhu, with the detachment from felicity, … remains mentally balanced*  
-*`pītiyā`: feminine `pīti`, `-iyā` {112}, here ③ beside `virāgā`; `bhikkhu`: `-u`, the ① singular {220}.*
+🚹⨀③🆎(rāga+aggi) 🚹⨀③🆎(dosa+aggi) 🚹⨀③🆎(moha+aggi) 🚻⨀①🔽(ta)(āditta) 🚺⨀③(jāti) 🚺⨀③(jarā) 🚻⨀③(maraṇa)  
+with the fire of passion / with the fire of hatred / with the fire of delusion / burning / with birth / with aging / with death  
+*Burning with the fire of passion (`rāgaggi`), with the fire of hatred (`dosaggi`), with the fire of delusion (`mohaggi`); burning with birth, aging, death*  
+*`rāgagginā`: masculine `aggi` ending the compound, `-inā`, the ③ singular {55}; `jātiyā`: feminine `jāti`, `-iyā` {112}, here ③, "with birth"; [9: 2.6](../9-fire/#u2-6).*
 
 8. > Tañce, āvuso, **bhikkhuṁ** pare aniṭṭhehi akantehi amanāpehi samudācaranti—
 
 🔼(tañce) 🔼(āvuso) 🚹⨀②(bhikkhu) 🚹⨂①(para) 🚹⨂③(aniṭṭha) 🚹⨂③(akanta) 🚹⨂③(amanāpa) ▶️🤟⨂(samudācarati)  
 if that / friend / bhikkhu / others / with unpleasant / disagreeable / dislikeable / behave  
 *Friend, if others behave with unpleasantness, disagreeableness, dislikeableness to that bhikkhu -*  
-*`bhikkhuṁ`: masculine, `-uṁ`, the ② singular {82}; `taṁ` in `tañce` agrees with it.*
+*`bhikkhuṁ`: masculine, `-uṁ`, the ② singular {82}; `taṁ` in `tañce` agrees with it; [11: 45, 9.1](../11-pbt/#s45-u9-1).*

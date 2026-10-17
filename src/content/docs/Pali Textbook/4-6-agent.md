@@ -19,7 +19,8 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 This section covers the two `kāraka` (participants in the action) that bring
 the action about: the `kattā` (the agent), the one who does the action {281},
 and the `hetu` (the causer), the one who makes the agent do it {282}. In
-`atha kho bhagavā … nisīdi` ("then the Bhagavā sat down") the agent is
+`atha kho bhagavā … nisīdi` ("then the Bhagavā sat down",
+[3: 2.2](../3-awakening/#u2-2)) the agent is
 `bhagavā`: it carries the ① ending, and the verb `nisīdi` agrees with it. The
 causer is an agent as well, which is why the Basics chapter calls it the
 `hetu-kattā`.
@@ -36,7 +37,7 @@ translation.
 
 | what the noun is doing | what you see | example | rule |
 | --- | --- | --- | :-: |
-| the agent (`kattā`) of an active verb 🟢 | the ① ending; the verb agrees with it in number and person | `bhagavā … nisīdi`, "the Bhagavā sat down" | {281}, {284} |
+| the agent (`kattā`) of an active verb 🟢 | the ① ending; the verb agrees with it in number and person | `bhagavā … nisīdi`, "the Bhagavā sat down" ([3: 2.2](../3-awakening/#u2-2)) | {281}, {284} |
 | the agent of a passive verb 🔵 or of a past participle 🔽(ta) | the ③ ending, "by"; the thing done takes ① and the verb agrees with that | `ahinā daṭṭho naro`, "the man [is] bitten by a snake" | {281}, {288} |
 | the causer (`hetu`), who makes the agent act | the ① ending with a causative verb 🟠 (`-eti`, `-āpeti`, "makes someone do"): `kāreti`, `hāreti`, `pāṭheti`, `pāceti`, `dhāreti` | `so puriso … kāreti`, "that man makes … do" | {282}, {438} |
 | the one made to act by the causer | the ② ending, or ③, or `-ssa` read as ⑥ | `taṁ purisaṁ`, `tena purisena`, `tassa purisassa` | {282}, {300} |
@@ -62,10 +63,11 @@ that man / that man / the work / makes do
 ### Exercises
 
 In each sentence find the agent or the causer and say which ending it carries
-and why. Look up the words in a dictionary, perform the necessary sandhi and
-compound word deconstruction, and take note of the `vibhatti` endings to deduce
-the meaning of the sentence. The first four sentences are from chapters
-[3](../3-awakening/) and [11](../11-pbt/).
+and why, or, where none is named, what the verb tells you. Look up the words in
+a dictionary, perform the necessary sandhi and compound word deconstruction, and
+take note of the `vibhatti` endings to deduce the meaning of the sentence. The
+first six sentences are from the texts, each linked to its sentence; the last
+two are Kaccāyana's own.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -73,12 +75,14 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī.
-2. Yadā have pātubhavanti dhammā
-3. Vuttaṁ kho panetaṁ bhagavatā kakacūpamovāde
-4. Sabbo rāgo pahīno me
-5. so puriso tena purisena kammaṁ kāreti
-6. so puriso tassa purisassa kammaṁ kāreti
+1. Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī. ([3: 2.2](../3-awakening/#u2-2))
+2. Yadā have pātubhavanti dhammā ([3: 6.1](../3-awakening/#u6-1))
+3. Vuttaṁ kho panetaṁ bhagavatā kakacūpamovāde ([11: 45, 9.5](../11-pbt/#s45-u9-5))
+4. Sabbo rāgo pahīno me ([11: 47, 1.1](../11-pbt/#s47-u1-1))
+5. “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. ([7: 1.3](../7-anatta/#u1-3))
+6. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne tassa bhikkhusahassassa anupādāya āsavehi cittāni vimucciṁsūti. ([9: 10.3](../9-fire/#u10-3))
+7. so puriso tena purisena kammaṁ kāreti
+8. so puriso tassa purisassa kammaṁ kāreti
 
 ### Answers
 
@@ -116,7 +120,23 @@ all / passion / abandoned / by me
 
 `pahīno` ("abandoned") is a past participle: `rāgo` in ① agrees with it, and the agent `me` is in ③ {288}.
 
-5. > so puriso tena purisena kammaṁ kāreti
+5. > “Bhadante”ti te bhikkhū bhagavato paccassosuṁ.
+
+🚹⨀⓪(bhadanta) ⏏️(iti) *️⃣🤟🚹⨂①(ta) 🚹⨂①(bhikkhu) 🚹⨀④(bhagavant) 🟢⨂🤟⏮(paṭissuṇāti)  
+Bhadante / (end quote) / those / bhikkhū / to the Bhagavā / replied  
+*“Bhadante,” those bhikkhū replied to the Bhagavā.*
+
+The verb is active, so the agent is the ① word, `te bhikkhū`, plural, and `paccassosuṁ` agrees with it in the plural {284}; `bhagavato`, the one replied to, is ④.
+
+6. > Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne tassa bhikkhusahassassa anupādāya āsavehi cittāni vimucciṁsūti.
+
+*️⃣🤟🚻⨀⑦(ima) ⏏️(ca) ⏏️(pana) 🚻⨀⑦(veyyākaraṇa) 🚻⨀⑦🔽(māna)(bhaññamāna) *️⃣🤟🚻⨀⑥(ta) 🚻⨀⑥🆎(bhikkhu+sahassa) 🔽(ya)(anupādiyati) 🚹⨂⑤(āsava) 🚻⨂①(citta) 🔵⨂🤟⏮(vimuccati) ⏏️(iti)  
+in this / and / moreover / detailed exposition / being spoken / of that / thousand bhikkhū / not grasping / from the defilements / minds / were liberated / (end quote)  
+*And while this detailed exposition was being spoken, the `cittāni` (minds) of that thousand bhikkhū, `anupādāya` (not grasping), were liberated from the `āsavā` (defilements).*
+
+`vimucciṁsu` is passive 🔵: the thing done, `cittāni`, is in ① and the verb agrees with it in the plural; an agent would be in ③ {288}, but none is named, and `āsavehi` is ⑤, "from the defilements", not "by".
+
+7. > so puriso tena purisena kammaṁ kāreti
 
 🚹⨀①(*️⃣🤟(so) puriso) 🚹⨀③(*️⃣🤟(tena) purisena) 🚻⨀②(kammaṁ) 🟠⨀🤟▶️(kāreti)  
 that man / by that man / the work / makes do  
@@ -124,7 +144,7 @@ that man / by that man / the work / makes do
 
 The causer `so puriso` is in ① with the causative `kāreti` {282}; the one made to act is in ③ here.
 
-6. > so puriso tassa purisassa kammaṁ kāreti
+8. > so puriso tassa purisassa kammaṁ kāreti
 
 🚹⨀①(*️⃣🤟(so) puriso) 🚹⨀⑥(*️⃣🤟(tassa) purisassa) 🚻⨀②(kammaṁ) 🟠⨀🤟▶️(kāreti)  
 that man / of that man / the work / makes do  

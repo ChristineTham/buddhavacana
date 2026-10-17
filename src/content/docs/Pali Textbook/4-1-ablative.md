@@ -21,15 +21,15 @@ point of departure). The ⑤ ending is the ending of "from": the place one
 leaves, the thief one fears, the teacher one learns from {271}, and the cause
 something arises from {296}. It is the first ending the Bodhikathā of
 [chapter 3](../3-awakening/) shows you, in `avijjāpaccayā saṅkhārā` ("with
-ignorance as condition, mental constructions [arise]").
+ignorance as condition, mental constructions [arise]", [3: 3.1](../3-awakening/#u3-1)).
 
 You know the ⑤ ending by its shape, ⨀ `-smā` (`buddhasmā`), or `-ā` {108} or
 `-mhā` {99} in its place (`gāmā`, `anavatattamhā`), 🚺⨀ `-āya` (`sālāya`), ⨂
-`-ehi` (`kāmehi`), and by the affix `-to`, which carries the same sense
-(`ito`, `yato`, `tato`) {248}; [Appendix G](../g-vibhatti/) tables the endings. Then
-ask: what is moving away from this word, coming out of it, or being kept apart
-from it? The verb answers, or a word beside it such as `vinā` ("without") or
-`pubbe` ("before").
+`-ehi` (`āsavehi`, "from the defilements", [7: 12.3](../7-anatta/#u12-3)), and
+by the affix `-to`, which carries the same sense (`ito`, `yato`, `tato`) {248};
+[Appendix G](../g-vibhatti/) tables the endings. Then ask: what is moving away
+from this word, coming out of it, or being kept apart from it? The verb answers,
+or a word beside it such as `vinā` ("without") or `pubbe` ("before").
 
 ### The uses of the ⑤ ending
 
@@ -48,13 +48,14 @@ from it? The verb answers, or a word beside it such as `vinā` ("without") or
 | the time or reason "since which", `yato` | `yato sarāmi attānaṁ`, since I remember myself | {272} |
 | what something is kept away from, with a verb of guarding | `kāke rakkhanti taṇḍulā`, they keep the crows from the rice | {273} |
 | the one hidden from; also ⑦ | `upajjhāyā antaradhāyati sisso`, the pupil vanishes from the preceptor | {274} |
-| the cause of what follows | `avijjāpaccayā saṅkhārā`, with ignorance as condition, mental constructions [arise] | {296} |
+| the cause of what follows | `avijjāpaccayā saṅkhārā`, with ignorance as condition, mental constructions [arise] ([3: 3.1](../3-awakening/#u3-1)) | {296} |
 
 Kaccāyana defines the `apādāna` in four rules {271}–{274} and gives it the ⑤
 ending in two {295}–{296}; a fifth rule {275} adds twenty rarer senses, mostly
 the same idea of a starting point or a separation. The examples below are its
 own, each translated at the rule; abstaining, seclusion and release are common
-in the texts of [chapter 11](../11-pbt/):
+in the texts of [chapter 11](../11-pbt/), release in those of chapters
+[7](../7-anatta/) and [9](../9-fire/) as well:
 
 ### The further senses of the ⑤ ending
 
@@ -98,10 +99,11 @@ teacher and preceptor / lesson / takes / pupil
 
 ### Exercises
 
-Each sentence is from the texts of chapters 3, 5 and 11 and has a word with the ⑤
-ending. Find it, match it to a row of the tables, and translate the sentence.
-Look the words up in a dictionary, do the necessary sandhi and compound word
-deconstruction, and take note of the `vibhatti` endings.
+Each sentence is from the texts of chapters 3, 7, 9 and 11, linked to its place
+there, and has a word with the ⑤ ending. Find it, match it to a row of the
+tables, and translate the sentence. Look the words up in a dictionary, do the
+necessary sandhi and compound word deconstruction, and take note of the
+`vibhatti` endings.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -109,12 +111,12 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. Avijjāpaccayā saṅkhārā
-2. upādānanirodhā bhavanirodho
-3. Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan”ti
-4. So tehi dhammehi cittaṁ paṭivāpeti
-5. Pāṇātipātā veramaṇī adinnādānā veramaṇī kāmesumicchācārā veramaṇī
-6. So vivicceva kāmehi, vivicca akusalehi dhammehi, savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati
+1. Avijjāpaccayā saṅkhārā ([3: 3.1](../3-awakening/#u3-1))
+2. upādānanirodhā bhavanirodho ([11: 19, 2.6](../11-pbt/#s19-u2-6), also [3: 4.9](../3-awakening/#u4-9))
+3. Nibbindaṁ virajjati; virāgā vimuccati. ([7: 11.2](../7-anatta/#u11-2))
+4. So tehi dhammehi cittaṁ paṭivāpeti ([11: 9, 9.4](../11-pbt/#s9-u9-4))
+5. Pāṇātipātā veramaṇī adinnādānā veramaṇī kāmesumicchācārā veramaṇī ([11: 31, 21.14](../11-pbt/#s31-u21-14))
+6. Yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi ādittaṁ. ([9: 2.4](../9-fire/#u2-4))
 
 ### Answers
 
@@ -132,11 +134,11 @@ with ignorance as condition / mental constructions
 from cessation of fuel / cessation of becoming  
 *From cessation of fuel, cessation of becoming.*
 
-3. > Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan”ti
+3. > Nibbindaṁ virajjati; virāgā vimuccati.
 
-🔼(yannūnāhaṁ) 🚻⨀②(kesamassu) 🔼(ohāretvā) 🚻⨂②(kāsāya) 🚻⨂②(vattha) 🔼(acchādetvā) 🚻⨀⑤(agāra) 🚻⨀②(anagāriya) 🔵⏯👆⨀(pabbajati) 🔼(ti)  
-what if I were to / hair and beard / having shaved off / ochre / robe / having put on / from household life / to homeless state / renounce / quote  
-*What if I were to renounce from household life to homeless state, having shaved off hair and beard, and having put on ochre robe.*
+🚹⨀①🔽(anta)(nibbindanta) 🟢⨀🤟▶️(virajjati) 🚹⨀⑤(virāga) 🔵⨀🤟▶️(vimuccati)  
+giving up / becomes detached / from detachment / is liberated  
+*Giving up, he `virajjati` (becomes detached); from detachment he `vimuccati` (becomes liberated).*
 
 4. > So tehi dhammehi cittaṁ paṭivāpeti
 
@@ -150,8 +152,9 @@ that / from those / from processes / mind / pulls back
 from killing living beings / abstinence from / from theft / abstinence from / from sexual misconduct / abstinence from  
 *Abstinence from killing living beings, abstinence from theft, abstinence from sexual misconduct.*
 
-6. > So vivicceva kāmehi, vivicca akusalehi dhammehi, savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati
+6. > Yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi ādittaṁ.
 
-🚹⨀①(ta) 🔼(vivicceva) 🚹⨂⑤(kāma) 🔼(vivicca) 🚹⨂⑤(akusala) 🚹⨂⑤(dhamma) 🚹⨀②(savitakka) 🚹⨀②(savicāra) 🚹⨀②(vivekaja) 🚹⨀②(pītisukha) 🚹⨀②(paṭhama) 🚹⨀②(jhāna) 🔼(upasampajja) ▶️🤟⨀(viharati)  
-that / just secluding oneself from / sensual pleasures / detaching from / unskillful / behaviour / accompanied by reflection / with consideration / secluded from defilements / with felicity and satisfaction / first / jhāna / entering / remains in  
-*Secluding oneself from sensual pleasures, detaching from unskillful behaviour, one enters and remains in the first jhāna, accompanied by reflection and consideration, secluded from defilements, with felicity and satisfaction.*
+*️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(cakkhu+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita) 🚻⨀①(sukha) ⏏️(vā) 🚻⨀①(dukkha) ⏏️(vā) 🚻⨀①🆎(na+dukkha+na+sukha) ⏏️(vā) *️⃣🤟🚻⨀①(ta) ⏏️(api) 🚻⨀①🔽(ta)(āditta)  
+what / too / this / with eye-contact as condition / arises / feeling / pleasant / or / painful / or / neither painful nor pleasant / or / that / too / burning  
+*And whatever `vedayitaṁ` (feeling) arises conditioned by eye-contact, whether pleasant or painful or neutral, that too is burning.*
+

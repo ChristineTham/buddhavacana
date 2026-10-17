@@ -47,8 +47,8 @@ after a long vowel (`jetavane`, `pāpasmiṁ`, `ajaramhi`, `velāyaṁ`,
 
 The first four rows are the uses on every page; the rest are rare. A time is
 often in the ③ ending instead, `tena samayena` ("at that time"), the words the
-Bodhikathā opens with {290}; two uses ⑦ shares with ⑥, "among" {304} and
-"despite" {305}, are in [4.7](../4-7-genitive/).
+Bodhikathā opens with ([3: 2.1](../3-awakening/#u2-1)) {290}; two uses ⑦
+shares with ⑥, "among" {304} and "despite" {305}, are in [4.7](../4-7-genitive/).
 
 Kaccāyana names four kinds of support {278}: pervading (`byāpika`), `jalesu
 khīraṁ tiṭṭhati`, milk stands in water; by contact (`opasilesika`),
@@ -89,9 +89,10 @@ while the monks / [were] being fed / gone
 
 ### Exercises
 
-Each sentence is from the texts of chapters 3, 5 and 11 and has a ⑦ word. Find
-it, say what it is doing there — the place, the time or an event that sets the
-time — and translate the sentence.
+Each sentence is from the texts of chapters 3, 7, 9 and 11, linked to its place
+there, and has a ⑦ word. Find it, say what it is doing there — the place, what
+the action rests on, the time or an event that sets the time — and translate the
+sentence.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -99,12 +100,12 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī.
-2. Yathā aññataraṁ bījaṁ, khette vuttaṁ virūhati.
-3. Tāhaṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhiṁ.
-4. Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi.
-5. Evaṁ khandhesu santesu, hoti sattoti sammuti.
-6. Sabbesu dhammesu samohatesu, samūhatā vādapathāpi sabbe”ti.
+1. Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī. ([3: 2.2](../3-awakening/#u2-2))
+2. Yathā aññataraṁ bījaṁ, khette vuttaṁ virūhati. ([11: 20, 5.1–5.2](../11-pbt/#s20-u5-1))
+3. Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi nibbindati, saññāyapi nibbindati, saṅkhāresupi nibbindati, viññāṇasmimpi nibbindati. ([7: 11.1](../7-anatta/#u11-1))
+4. Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi. ([3: 5.1](../3-awakening/#u5-1))
+5. Evaṁ khandhesu santesu, hoti sattoti sammuti. ([11: 8, 5.3–5.4](../11-pbt/#s8-u5-3))
+6. Nibbindaṁ virajjati; virāgā vimuccati; vimuttasmiṁ vimuttamiti ñāṇaṁ hoti. ([9: 9.1](../9-fire/#u9-1))
 
 ### Answers
 
@@ -124,12 +125,12 @@ like / a certain / seed / in field / sown / grows
 *Like a certain seed, sown in field, grows.*  
 `khette`: the place {302}.
 
-3. > Tāhaṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhiṁ.
+3. > Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi nibbindati, saññāyapi nibbindati, saṅkhāresupi nibbindati, viññāṇasmimpi nibbindati.
 
-🔼(tāhaṁ) 🚹⨀②(dhamma) 🔼(sutvā) 🚹⨀⑦(tathāgata) 🚻⨀①(saddha) ⏮👆⨀(paṭilabhi)  
-that I / Dhamma / having heard / in Tathāgata / faith / I acquired  
-*Having heard that Dhamma, I acquired faith in the Tathāgata.*  
-`tathāgate`: what the faith rests on {302}.
+⏏️(evaṁ) 🚹⨀①🔽(anta)(passanta) 🚹⨂⓪(bhikkhu) 🚹⨀①(sutavant) 🚹⨀①🆎(ariya+sāvaka) 🚻⨀⑦(rūpa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚺⨀⑦(vedanā) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚺⨀⑦(saññā) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨂⑦(saṅkhāra) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚻⨀⑦(viññāṇa) ⏏️(api) 🟢⨀🤟▶️(nibbindati)  
+thus / seeing / bhikkhave / learned / awakened disciple / form / too / gives up / feeling / too / gives up / apperception / too / gives up / mental constructions / too / gives up / consciousness / too / gives up  
+*Thus seeing, bhikkhave, the `sutavā` (learned) `ariyasāvaka` (awakened disciple) `nibbindati` (gives up) `rūpa`, gives up `vedanā`, gives up `saññā`, gives up `saṅkhārā`, gives up `viññāṇa`.*  
+`rūpasmiṁ`, `vedanāya`, `saṅkhāresu`: what the giving up rests on {302}; `-āya` is ⑦ on a feminine word.
 
 4. > Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi.
 
@@ -145,9 +146,10 @@ thus / in collections / existence / is / being / like this / general consensus
 *Thus in the collection of the `khandhā`, is generally regarded as a “being.”*  
 `khandhesu santesu`: the ⑦ absolute {313}; `santesu` agrees with its noun.
 
-6. > Sabbesu dhammesu samohatesu, samūhatā vādapathāpi sabbe”ti.
+6. > Nibbindaṁ virajjati; virāgā vimuccati; vimuttasmiṁ vimuttamiti ñāṇaṁ hoti.
 
-🚹⨂⑦(sabba) 🚹⨂⑦(dhamma) 🚹⨂⑦(samūhata) 🚹⨂①(samūhata) 🚹⨀⑤(vādapatha) 🔼(api) 🚹⨂①(sabba) 🔼(ti)  
-in every / in characteristic / in eradicating / eradicated / from representation / even / all / quote  
-*In eradicating every characteristic, all eradicated from even representation.*  
-`sabbesu dhammesu samohatesu`: the ⑦ absolute {313}, with a `-ta` word.
+🚹⨀①🔽(anta)(nibbindanta) 🟢⨀🤟▶️(virajjati) 🚹⨀⑤(virāga) 🔵⨀🤟▶️(vimuccati) 🚻⨀⑦🔽(ta)(vimutta) 🚻⨀①🔽(ta)(vimutta) ⏏️(iti) 🚻⨀①(ñāṇa) 🟢⨀🤟▶️(hoti)  
+giving up / becomes detached / from detachment / is liberated / in liberation / liberated / (end quote) / knowledge / there is  
+*Giving up, he `virajjati` (becomes detached); from detachment he `vimuccati` (becomes liberated); in liberation there is the `ñāṇa` (knowledge): ‘liberated’.*  
+`vimuttasmiṁ`: the ⑦ absolute {313} with a `-ta` word and its noun unsaid, "when [the mind is] liberated".
+

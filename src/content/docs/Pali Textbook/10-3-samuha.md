@@ -55,7 +55,9 @@ One warning about the `-iya` words. The texts spell them with a long vowel,
 the root, `√mad` with the affix `anīya` ("to be done", section
 [10.7](../10-7-sadhana/)), not from the noun `madana` as Kaccāyana does. Read
 either way, `-anīya` on the end of a word means "an occasion of, fit for":
-`dassanīyaṁ` is "fit to be seen, lovely to look at".
+`dassanīyaṁ` is "fit to be seen, lovely to look at". The `karaṇīyaṁ` ("what
+had to be done") that closes [7: 11.4](../7-anatta/#u11-4) and
+[9: 9.2](../9-fire/#u9-2) is that root reading, `√kar` with `anīya`.
 
 ### Examples
 

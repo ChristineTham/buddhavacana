@@ -220,7 +220,8 @@ merely a pile of processes | this
 <a id="s8-u4-4"></a>4.4 nayidha sattupalabbhati.  
 🔼(nayidha) 🚹⨀①(satta) ▶️🤟⨀(upalabbhati)  
 not here | being | is found  
-5.1 Yathā hi aṅgasambhārā,🔼(yathā hi) 🚹①⨂(aṅgasambhāra)  
+<a id="s8-u5-1"></a>5.1 Yathā hi aṅgasambhārā,  
+🔼(yathā hi) 🚹⨂①(aṅgasambhāra)  
 like | definitely | collection of parts  
 <a id="s8-u5-2"></a>5.2 hoti saddo ratho iti;  
 ▶️🤟⨀(hoti) 🚹⨀①(sadda) 🚹⨀①(ratha) 🔼(iti)  
@@ -754,16 +755,16 @@ Disintegration of dependence, ceases
 
 [Paṇḍitavagga Dhp 76–89 PTS (1st ed) 12–13 PTS (2nd ed) 22–25](https://suttacentral.net/dhp76-89) Paṇḍitasāmaṇeravatthu (Dhammapada, verse 80):
 
-1 Udakañhi nayanti nettikā,  
+<a id="s21-u1"></a>1 Udakañhi nayanti nettikā,  
 🚻⨀①(udaka) 🔼(hi) ▶️🤟⨂(nayati) 🚹⨂①(nettika)  
 water | certainly | guides | irrigator  
-2 Usukārā namayanti tejanaṁ;  
+<a id="s21-u2"></a>2 Usukārā namayanti tejanaṁ;  
 🚹⨂①(usukāra) ▶️🤟⨂(namayati) 🚻⨀②(tejana)  
 arrow-maker | straighten | arrow  
-3 Dāruṁ namayanti tacchakā,  
+<a id="s21-u3"></a>3 Dāruṁ namayanti tacchakā,  
 🚻⨀②(dāru) ▶️🤟⨂(namayati) 🚹⨂①(tacchaka)  
 wood | straighten | carpenters  
-4 Attānaṁ damayanti paṇḍitā.  
+<a id="s21-u4"></a>4 Attānaṁ damayanti paṇḍitā.  
 🚹⨀②(atta) ▶️🤟⨂(damayati) 🚹⨂①(paṇḍita)  
 self | tames | the wise
 
@@ -776,16 +777,16 @@ The wise tames the self.
 
 [Bālavagga Dhp 60–75 PTS (1st ed) 10–11 PTS (2nd ed) 17–20](https://suttacentral.net/dhp76-89) Ahipetavatthu (Dhammapada, verse 71):
 
-1 Na hi pāpaṁ kataṁ kammaṁ,  
+<a id="s22-u1"></a>1 Na hi pāpaṁ kataṁ kammaṁ,  
 🔼(nahi) 🚻⨀①(pāpa) 🚻⨀①(kata) 🚻⨀①(kamma)  
 by no means | wrong | completed | action  
-2 Sajjukhīraṁva muccati;  
+<a id="s22-u2"></a>2 Sajjukhīraṁva muccati;  
 🔼(sajju) 🚻⨀①(khīra) 🔼(iva) ▶️🤟⨀(muccati)  
 quickly | milk | like | thicken  
-3 Ḍahantaṁ bālamanveti,  
+<a id="s22-u3"></a>3 Ḍahantaṁ bālamanveti,  
 🚹⨀②(ḍahanta) 🚻⨀①(bāla) ▶️🤟⨀(anveti)  
 smouldering | foolish | follow  
-4 Bhasmacchannova pāvako.  
+<a id="s22-u4"></a>4 Bhasmacchannova pāvako.  
 🚹⨀①(bhasmacchanna) 🔼(iva) 🚹⨀①(pāvaka)  
 covered with ashes | like | fire
 
@@ -856,16 +857,16 @@ This way, Bhikkhave, this path of progress leads to rebirth.
 
 [Buddhavagga Dhp 179–196 PTS (1st ed) 27–29 PTS (2nd ed) 51–55](https://suttacentral.net/dhp179-196) Buddhavagga (Dhammapada, verse 183):
 
-1 Sabbapāpassa akaraṇaṁ,  
+<a id="s25-u1"></a>1 Sabbapāpassa akaraṇaṁ,  
 🚻⨀⑥(sabbapāpa) 🚻⨀①(akaraṇa)  
 of all wrongdoing | non-doing of  
-2 kusalassa upasampadā;  
+<a id="s25-u2"></a>2 kusalassa upasampadā;  
 🚹⨀⑥(kusala) 🚺⨀①(upasampadā)  
 of wholesome | taking up  
-3 Sacittapariyodapanaṁ,  
+<a id="s25-u3"></a>3 Sacittapariyodapanaṁ,  
 🚺⨀②(sacittapariyodapanā)  
 purifying one's own mind  
-4 etaṁ buddhāna sāsanaṁ.  
+<a id="s25-u4"></a>4 etaṁ buddhāna sāsanaṁ.  
 🚻⨀①(eta) 🚹⨂⑥(buddha) 🚻⨀①(sāsana)  
 this | of Buddha | teaching
 
@@ -1163,7 +1164,7 @@ And what is more, bhikkhave, the bhikkhu is attentive to going forward, coming b
 
 [Saṅgītisutta DN 33 PTS 3.207–3.271](https://suttacentral.net/dn33) (Digha Nikaya III 223 f):
 
-1.11.52 Idhāvuso, bhikkhu mettāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
+<a id="s37-u1-11-52"></a>1.11.52 Idhāvuso, bhikkhu mettāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
 🔼(idhāvuso) 🚹⨀①(bhikkhu) 🚹⨀③(mettāsahagata) 🚹⨀③(cetas) 🚺⨀②(eka) 🚺⨀②(disā) 🔼(pharitvā) ▶️🤟⨀(viharati)  
 here friend | bhikkhu | filled with goodwill/friendliness | with intent | one | direction | having filled | stays aware  
 🔼(tathā) 🚻⨀①(dutiya)  
@@ -1176,7 +1177,7 @@ similarly for the fourth direction
 like this | above and below | horizontally | everywhere | to all beings | universe | filled with goodwill/friendliness | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | stays aware  
 Here, friend, a bhikkhu, with intent, stays aware having filled an entire compass direction with goodwill/friendliness. Similarly in a second, third, fourth compass directions. Thus, with intent, he stays aware having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, goodwill/friendliness.
 
-1.11.53 Karuṇāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ karuṇāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
+<a id="s37-u1-11-53"></a>1.11.53 Karuṇāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ karuṇāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
 🚹⨀③(karuṇāsahagata) 🚹⨀③(cetas) 🚺⨀②(eka) 🚺⨀②(disā) 🔼(pharitvā) ▶️🤟⨀(viharati)  
 here friend | bhikkhu | filled with compassion/pity | with intent | one | direction | having filled | stays aware  
 🔼(tathā) 🚻⨀①(dutiya)  
@@ -1189,7 +1190,7 @@ similarly for the fourth direction
 like this | above and below | horizontally | everywhere | to all beings | universe | filled with compassion/pity | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | stays aware  
 Here, friend, a bhikkhu, with intent, stays aware having filled an entire compass direction with compassion/pity. Similarly in a second, third, fourth compass directions. Thus, with intent, he stays aware having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, compassion/pity.
 
-1.11.54 muditāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ muditāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
+<a id="s37-u1-11-54"></a>1.11.54 muditāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ muditāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
 🚹⨀③(muditāsahagata) 🚹⨀③(cetas) 🚺⨀②(eka) 🚺⨀②(disā) 🔼(pharitvā) ▶️🤟⨀(viharati)  
 here friend | bhikkhu | filled with happiness for others | with intent | one | direction | having filled | stays aware  
 🔼(tathā) 🚻⨀①(dutiya)  
@@ -1202,7 +1203,7 @@ similarly for the fourth direction
 like this | above and below | horizontally | everywhere | to all beings | universe | filled with happiness for others | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | stays aware  
 Here, friend, a bhikkhu, with intent, stays aware having filled an entire compass direction with happiness for others. Similarly in a second, third, fourth compass directions. Thus, with intent, he stays aware having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, happiness for others.
 
-1.11.55 upekkhāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
+<a id="s37-u1-11-55"></a>1.11.55 upekkhāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
 🚹⨀③(upekkhāsahagata) 🚹⨀③(cetas) 🚺⨀②(eka) 🚺⨀②(disā) 🔼(pharitvā) ▶️🤟⨀(viharati)  
 here friend | bhikkhu | filled with balance/equanimity | with intent | one | direction | having filled | stays aware  
 🔼(tathā) 🚻⨀①(dutiya)  

@@ -41,8 +41,10 @@ of the king / son → the king's son
 
 ### Exercises
 
-Resolve each of these words from the Bodhikathā ([chapter 3](../3-awakening/))
-into its members and say which ending the whole carries.
+Resolve each of these words from the Bodhikathā ([chapter 3](../3-awakening/)),
+the Anattalakkhaṇasutta ([chapter 7](../7-anatta/)) and the Fire Sermon
+([chapter 9](../9-fire/)) into its members and say which ending the whole
+carries; each is linked to the sentence it stands in.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -50,10 +52,12 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. mārasenaṁ
-2. jarāmaraṇaṁ
-3. ekapallaṅkena
-4. bodhirukkhamūle
+1. mārasenaṁ ([3: 12.3](../3-awakening/#u12-3))
+2. jarāmaraṇaṁ ([3: 3.11](../3-awakening/#u3-11))
+3. ekapallaṅkena ([3: 2.2](../3-awakening/#u2-2))
+4. bodhirukkhamūle ([3: 2.1](../3-awakening/#u2-1))
+5. ariyasāvako ([7: 11.1](../7-anatta/#u11-1))
+6. cakkhuviññāṇaṁ ([9: 2.3](../9-fire/#u2-3))
 
 ### Answers
 
@@ -82,3 +86,15 @@ one / cross-legged posture → in one cross-legged posture
 🚹⨀⑥🆎(bodhi+rukkha) 🚻⨀①(mūlaṁ) → 🚻⨀⑦🆎(bodhirukkha+mūla)  
 of the Bodhi tree / foot → at the root of the bodhi tree  
 *`bodhirukkha` (Bodhi tree, itself `bodhi` + `rukkha`) and `mūla` (root): ⑦ on the whole.*
+
+5. > ariyassa sāvako → **ariyasāvako**
+
+🚹⨀⑥(ariyassa) 🚹⨀①(sāvako) → 🚹⨀①🆎(ariya+sāvaka)  
+of the awakened one / disciple → awakened disciple  
+*`ariya` (awakened one) and `sāvaka` (disciple): `ariyassa` loses its ending; ① on the whole, the one who `nibbindati`.*
+
+6. > cakkhusmiṁ viññāṇaṁ → **cakkhuviññāṇaṁ**
+
+🚻⨀⑦(cakkhusmiṁ) 🚻⨀①(viññāṇaṁ) → 🚻⨀①🆎(cakkhu+viññāṇa)  
+in the eye / consciousness → eye-consciousness  
+*`cakkhu` (eye) and `viññāṇa` (consciousness): `cakkhusmiṁ` loses its ending; ① on the whole, and the same shape for the other five senses.*

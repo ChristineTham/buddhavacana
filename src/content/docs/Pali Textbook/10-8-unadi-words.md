@@ -30,7 +30,8 @@ meaning: `samatho`, "it calms".
 
 ### Words worth knowing
 
-Mostly from the texts of chapters [3](../3-awakening/) and [11](../11-pbt/).
+Mostly from the texts of chapters [3](../3-awakening/), [7](../7-anatta/),
+[9](../9-fire/) and [11](../11-pbt/).
 
 | word | meaning | root + affix | rule |
 | --- | --- | --- | :-: |
