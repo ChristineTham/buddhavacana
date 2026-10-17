@@ -2,6 +2,7 @@
 title: "5.4: karaṇa (Instrumental)"
 sidebar:
   label: "5.4: `karaṇa`"
+  order: 528
 description: >
   The thing an action is done with, `dattena` ("with a sickle"), is the
   `karaṇa` (the instrument) and takes the ③ ending {279}, {286}. The same
@@ -87,7 +88,7 @@ ending: find it and say which row of the table it belongs to. Look up the
 words in a dictionary, perform the necessary sandhi and compound word
 deconstruction, and take note of the `vibhatti` endings to deduce the meaning
 of the sentence. All but the second are sentences from the texts of chapters
-[3](../3-awakening/) and [5](../9-pbt/).
+[3](../3-awakening/) and [5](../10-pbt/).
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)

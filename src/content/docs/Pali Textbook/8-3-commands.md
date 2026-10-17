@@ -1,7 +1,8 @@
 ---
-title: "7.3: Commands and wishes"
+title: "8.3: Commands and wishes"
 sidebar:
-  label: "7.3: Commands and wishes"
+  label: "8.3: Commands and wishes"
+  order: 545
 description: >
   The two sets of verb endings that state no time: the `pañcamī`, for a
   command or a blessing (`hotu`, "may it be"), and the `sattamī`, for what
@@ -15,7 +16,7 @@ tags: ["ākhyāta"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-Two of the eight sets of endings in [7.1](../7-1-reading-a-verb/) state no
+Two of the eight sets of endings in [8.1](../8-1-reading-a-verb/) state no
 time; they state what the speaker wants. The `pañcamī` (the fifth set, ⏹) is
 for a command (`āṇatti`) and a blessing (`āsīsa`) {415}: `karotu kusalaṁ`
 ("let him do good"), `sukhaṁ te hotu` ("may there be happiness for you"). The
@@ -78,9 +79,9 @@ statement, ▶️. The short `-e` (`kare`) looks like a ⑦ noun ending; a root 
 front of it, not a noun, tells. `-etha` is the 🔵 third person ⨀
 (`paññāyetha`) or the short 🟢 second person ⨂ (`vadetha`); the subject
 decides. A prohibition is `mā` with a past ending, `mā gamā` ("do not go")
-{420}, in chapter 1's note on `mā` and in [7.4](../7-4-past/). `siyā` and
+{420}, in chapter 1's note on `mā` and in [8.4](../8-4-past/). `siyā` and
 `assa` are both "would be", the `sattamī` of `atthi`
-([7.7](../7-7-common-verbs/)).
+([8.7](../8-7-common-verbs/)).
 :::
 
 ```mermaid
@@ -97,7 +98,7 @@ All twelve endings of each set are in [Appendix I](../i-verbs/) and chapter
 
 ### Examples
 
-All from chapter [9](../9-pbt/); the numbers name its selection and sentence.
+All from chapter [9](../10-pbt/); the numbers name its selection and sentence.
 
 > ‘kāyo me **passambhatū**’ti.
 
@@ -125,7 +126,7 @@ are? / youse / bhikkhave / thus / knowing / thus / seeing / will say
 
 ### Exercises
 
-Each of the following is a verb from chapter [9](../9-pbt/), in the form it
+Each of the following is a verb from chapter [9](../10-pbt/), in the form it
 has there. Name the set, the ending, the person and the number, and say
 whether it is a command, a wish or a supposition. Look each up in a
 dictionary and check its ending against the tables.
@@ -171,7 +172,7 @@ happiness / must experience / quote
 
 🔼(tatrāpi) 🚹①⨀(ya) 🚹②⨀(manas) ⏯🤟⨀(padūseti)  
 even in that situation / whoever / mind / will corrupt  
-*"even in that case whoever will corrupt his mind" (45, 9.6) `padūseyya`: ⏯ `-eyya`, third person ⨀ {425}; a supposition {416}. The `-e-` before the ending is the causative's piece ([7.6](../7-6-voice/)).*
+*"even in that case whoever will corrupt his mind" (45, 9.6) `padūseyya`: ⏯ `-eyya`, third person ⨀ {425}; a supposition {416}. The `-e-` before the ending is the causative's piece ([8.6](../8-6-voice/)).*
 
 5. > kakacena corā ocarakā aṅgamaṅgāni **okanteyyuṁ**,
 
@@ -195,4 +196,4 @@ from household life / to homeless state / renounce / quote
 
 🔼(apinu kho) 🚹①⨀(kāmabhava) 🔵⏯🤟⨀(paññāyati) 🔼(ti)  
 what / indeed / desire for becoming / is evident / quote  
-*"would desire for becoming be evident?" (15, 2.1) `paññāyetha`: ⏯ `-etha`, the 🔵 third person ⨀ {425}, on a passive, `-ya-` ([7.6](../7-6-voice/)); a supposition {416}.*
+*"would desire for becoming be evident?" (15, 2.1) `paññāyetha`: ⏯ `-etha`, the 🔵 third person ⨀ {425}, on a passive, `-ya-` ([8.6](../8-6-voice/)); a supposition {416}.*

@@ -1,7 +1,8 @@
 ---
-title: "7.8: The verb-like forms"
+title: "8.8: The verb-like forms"
 sidebar:
-  label: "7.8: Verb-like forms"
+  label: "8.8: Verb-like forms"
+  order: 550
 description: >
   The words that do a verb's work without a verb's ending: the past and
   present participles {555}–{557}, {565}, the "to be done" forms {540}–{541},
@@ -47,7 +48,7 @@ it: `gato`, `buddho` {557}. It agrees with its noun, `paṭipadā … abhisambud
 | what you see | example | rule |
 | --- | --- | :-: |
 | `-nto`, `-aṁ` ①, `-to` ④ ⑥: the endings of `bhagavā` ([2.4](../2-4-irregular/)) | `gacchanto` (walking), `icchaṁ` (wanting), `jānato` (for one knowing) | {565}, {186}, {187}, {127} |
-| `-māno`, `-māne`; on a passive ([7.6](../7-6-voice/)), "being X-ed" | `bhaññamāne` (being spoken), `pariyesamāno` (searching for) | {565} |
+| `-māno`, `-māne`; on a passive ([8.6](../8-6-voice/)), "being X-ed" | `bhaññamāne` (being spoken), `pariyesamāno` (searching for) | {565} |
 
 At the same time as the main verb: `gacchanto … pajānāti`, "while walking, he
 knows clearly".
@@ -130,11 +131,11 @@ both / extremes / not approaching / middle / way / by the Tathāgata / fully awa
 
 *️⃣🤟🚻⨀⑦(ima) ⏏️(ca) ⏏️(pana) 🚻⨀⑦(veyyākaraṇa) 🚻⨀⑦🔽(māna)(bhaññamāna)  
 in this / and / moreover / detailed exposition / being spoken  
-*`bhaññamāne`: `māna` {565} on the passive `bhañña-` ([7.6](../7-6-voice/)); in the ⑦ beside `veyyākaraṇasmiṁ`, the ⑦ absolute, "while … was being spoken" {313}.*
+*`bhaññamāne`: `māna` {565} on the passive `bhañña-` ([8.6](../8-6-voice/)); in the ⑦ beside `veyyākaraṇasmiṁ`, the ⑦ absolute, "while … was being spoken" {313}.*
 
 ### Exercises
 
-Each is a phrase from chapters 3, 4 and 9 with a verb-like form in bold. Name
+Each is a phrase from chapters 3, 4 and 10 with a verb-like form in bold. Name
 its affix and what the affix tells you: done, going on, to be done, done
 before, or purpose; for a participle, name the noun it agrees with.
 

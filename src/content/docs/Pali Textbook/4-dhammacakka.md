@@ -2,6 +2,7 @@
 title: "4: Turning the wheel"
 sidebar:
   label: "4: Turning the wheel"
+  order: 523
 description: >
   Translation of the Dhammacakkappavattanasutta, the discourse on setting the wheel of the Dhamma in motion, Saṁyutta Nikāya 56.11 (14S5 12.2.1)
 categories: ["palibook"]
@@ -14,7 +15,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 
 ## Dhammacakkappavattanasutta
 
-The text is the World Tipiṭaka Edition's [Dhammacakkappavattanasutta, Saṁyutta Nikāya 56.11](https://tipitaka2500.github.io/tipitaka/14S5/12/12.2/12.2.1.html), paragraphs 2206–2220, numbered 1–15 here; the paragraph numbers link to it, and the edition's abbreviations (`…pe…`) are written out in full. This is the Buddha's first discourse, to the five bhikkhū at Isipatana near Bārāṇasī. The Vinaya tells it again in the Mahākhandhaka, and the translation line of each sentence follows my translation of that telling at [tidipa.github.io](https://tidipa.github.io/Khandhaka/1.6), where the discourse is discussed. Read it after chapter 2: every sentence is made of the forms that chapter tables, and the four realisations and the eightfold path are named with the words chapter 9 uses.
+The text is the World Tipiṭaka Edition's [Dhammacakkappavattanasutta, Saṁyutta Nikāya 56.11](https://tipitaka2500.github.io/tipitaka/14S5/12/12.2/12.2.1.html), paragraphs 2206–2220, numbered 1–15 here; the paragraph numbers link to it, and the edition's abbreviations (`…pe…`) are written out in full. This is the Buddha's first discourse, to the five bhikkhū at Isipatana near Bārāṇasī. The Vinaya tells it again in the Mahākhandhaka, and the translation line of each sentence follows my translation of that telling at [tidipa.github.io](https://tidipa.github.io/Khandhaka/1.6), where the discourse is discussed. Read it after chapter 2: every sentence is made of the forms that chapter tables, and the four realisations and the eightfold path are named with the words chapter 10 uses.
 
 The analysis line gives, for every word, its gender, number and ending (or voice, number, person and tense for a verb) and the lemma to look up; the gloss line gives one gloss per word; the fourth line is the translation.
 

@@ -2,6 +2,7 @@
 title: "2.8: `nipāta` (Particles)"
 sidebar:
   label: "2.8: `nipāta`"
+  order: 521
 description: >
   The small unchanging words that join, stress, negate, quote and ask (`ca`, `vā`, `pi`, `kho`, `eva`, `na`, `iti`, `nu`) and the ones that set time, place and manner, grouped by job with an example from the texts for each; what `ti` does to the word before it; the rule that drops their endings {221}.
 categories: ["palibook"]
@@ -128,7 +129,7 @@ no / certainly / Bhante
 
 ### Exercises
 
-Name the particles of each (chapter 3: 1, 5–7; chapter 4: 2–4; chapter 9: 8),
+Name the particles of each (chapter 3: 1, 5–7; chapter 4: 2–4; chapter 10: 8),
 say what job each does, and split any merged with the word beside it.
 
 :::tip[Hint]
@@ -196,4 +197,4 @@ the sun / like / illuminating / the sky / (end quote)
 
 🚻①⨀(ka) 🔼(nu) 🚹①⨀(satta) 🔼(iti) ▶️🤘⨀(pacceti)  
 what / ? / being / like this / you believes to be  
-*`nu` asks; `sattoti` is `satto` + `iti` {13}, quoting; chapter 9 marks particles 🔼.*
+*`nu` asks; `sattoti` is `satto` + `iti` {13}, quoting; chapter 10 marks particles 🔼.*

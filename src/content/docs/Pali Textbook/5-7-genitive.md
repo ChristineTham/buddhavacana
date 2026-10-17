@@ -2,6 +2,7 @@
 title: "5.7: sāmī (Genitive)"
 sidebar:
   label: "5.7: `sāmī`"
+  order: 531
 description: >
   The ⑥ ending marks the owner, the "of" or "'s" of English: `tassa bhikkhuno
   patto` is "that monk's bowl" {283}, {301}. The same ending goes with words
@@ -89,7 +90,7 @@ weeping / of the boy / [he] went forth
 Translate the following from Pali to English and find the ⑥ word in each. Look
 up the words in a dictionary, do any sandhi and compound deconstruction needed,
 and take note of the `vibhatti` endings to deduce the meaning. The first four
-are from the texts of chapters 3, 4 and 9, the last two are Kaccāyana's own.
+are from the texts of chapters 3, 4 and 10, the last two are Kaccāyana's own.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)

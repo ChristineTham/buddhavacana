@@ -2,6 +2,7 @@
 title: "H: `taddhita` (affixes)"
 sidebar:
   label: "H: `taddhita`"
+  order: 568
 description: >
   `taddhita` affixes and their meanings
 categories: ["palibook"]

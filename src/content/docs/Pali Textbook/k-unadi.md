@@ -2,6 +2,7 @@
 title: "K: `uṇādi` (`kita` affixes)"
 sidebar:
   label: "K: `uṇādi`"
+  order: 571
 description: >
   `uṇādi` affixes and their meanings
 categories: ["palibook"]

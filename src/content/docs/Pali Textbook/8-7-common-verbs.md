@@ -1,7 +1,8 @@
 ---
-title: "7.7: The verbs on every page"
+title: "8.7: The verbs on every page"
 sidebar:
-  label: "7.7: Common verbs"
+  label: "8.7: Common verbs"
+  order: 549
 description: >
   The ten verbs a reader meets on every page, `atthi` and `hoti` (to be),
   `karoti`, `gacchati`, `dadāti`, `jānāti`, `vadati`, `passati`, `suṇāti`,
@@ -18,9 +19,9 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 
 A handful of verbs do most of the work of the texts: to be, to do, to go, to
 give, to know, to say, to see, to hear, to stand and to sit. Their present
-forms follow the classes of [7.2](../7-2-present/), but their past forms,
+forms follow the classes of [8.2](../8-2-present/), but their past forms,
 absolutives and participles are mostly not what the endings of
-[7.4](../7-4-past/) and [7.8](../7-8-verb-like-forms/) lead you to expect:
+[8.4](../8-4-past/) and [8.8](../8-8-verb-like-forms/) lead you to expect:
 `ahosi` ("was") shows nothing of `hoti`, `akāsi` ("did") nothing of `karoti`,
 and `diṭṭha` ("seen") and `dinna` ("given") are the participles of `passati`
 and `dadāti`. Each shape has its rule in Kaccāyana, linked by its number; the
@@ -41,7 +42,7 @@ is not". What exists takes the ① ending, and the plural is `santi`. `hoti`
 joins a subject to what it is or becomes: `samudayo hoti` ("[this] is the
 origin"), `nāmaṁ ahosi` ("the name was"), and with a past participle it makes
 a tense of its own, `samannāgato hoti` ("he is endowed"), on every page of
-chapter 9. The two share their other forms: the past of both is `ahosi`, the
+chapter 10. The two share their other forms: the past of both is `ahosi`, the
 future `bhavissati`, the wish `siyā` or `assa`; `bhavati`, the regular verb
 of the root `bhū` ("to become") {445}, is the grammar's model, and the texts
 prefer `hoti`.
@@ -123,7 +124,7 @@ thus / indeed / this / of the venerable / Koṇḍañña / Aññāsikoṇḍañ�
 
 ▶️🤟⨀(natthi) 🚹⑥⨀(dukkha) 🚹①⨀(sambhava)  
 there is not / of suffering / birth  
-*`natthi`: `na` + `atthi` {12}; `atthi` is the root `asa` with `ti` become `tthi` {494}, and `sambhavo`, what does not exist, takes ①. Chapter 9, 19.4.*
+*`natthi`: `na` + `atthi` {12}; `atthi` is the root `asa` with `ti` become `tthi` {494}, and `sambhavo`, what does not exist, takes ①. Chapter 10, 19.4.*
 
 > Idam**avoca** bhagavā.
 
@@ -197,22 +198,22 @@ of the earth-dwelling / devas / the cry / having heard
 
 🚹②⨀(eta) 🚹②⨀(ādīnava) 🔼(ñatvā)  
 this / danger / having known  
-*`ñatvā`: the absolutive of `jānāti`, the root `ñā` shortened before `-tvā` {564}, {26}. Chapter 9, 20.1.*
+*`ñatvā`: the absolutive of `jānāti`, the root `ñā` shortened before `-tvā` {564}, {26}. Chapter 10, 20.1.*
 
 6. > Na hi pāpaṁ **kataṁ** kammaṁ
 
 🔼(nahi) 🚻①⨀(pāpa) 🚻①⨀(kata) 🚻①⨀(kamma)  
 by no means / wrong / completed / action  
-*`kataṁ`: the past participle of `karoti`, the `r` of `kara` dropped before `ta` {587}; it agrees with `kammaṁ`, 🚻⨀①. Chapter 9, Dhammapada 71.*
+*`kataṁ`: the past participle of `karoti`, the `r` of `kara` dropped before `ta` {587}; it agrees with `kammaṁ`, 🚻⨀①. Chapter 10, Dhammapada 71.*
 
 7. > **atthi** nibbuti, na nibbuto pumā
 
 ▶️🤟⨀(atthi) 🚺①⨀(nibbuti) 🔼(na) 🚹①⨀(nibbuta) 🚹①⨀(puma)  
 there is / extinguishment / not / extinguished / male  
-*`atthi`: the root `asa` with `ti` become `tthi` {494}, "there is"; `nibbuti`, what exists, takes ①; third person singular. Chapter 9, Visuddhimagga XVI.*
+*`atthi`: the root `asa` with `ti` become `tthi` {494}, "there is"; `nibbuti`, what exists, takes ①; third person singular. Chapter 10, Visuddhimagga XVI.*
 
 8. > **ṭhito** vā ‘**ṭhito**mhī’ti pajānāti, **nisinno** vā ‘**nisinno**mhī’ti pajānāti
 
 🚹①⨀(ṭhita) 🔼(vā) 🔼(ṭhitomhi) 🔼(ti) ▶️🤟⨀(pajānāti) 🚹①⨀(nisinna) 🔼(vā) 🔼(nisinnomhi) 🔼(ti) ▶️🤟⨀(pajānāti)  
 standing / or / I am standing / quote / knows clearly / sitting / or / I am sitting / quote / knows clearly  
-*`ṭhito`: the past participle of `tiṭṭhati`, the `ā` of `ṭhā` become `i` {588}; `nisinno`: that of `nisīdati`, `-inna` for `-ta` {582}; `ṭhitomhi` and `nisinnomhi` are participle + `amhi`, "I am" {492}; `pajānāti`: the present, third person singular. Chapter 9, DN 22.*
+*`ṭhito`: the past participle of `tiṭṭhati`, the `ā` of `ṭhā` become `i` {588}; `nisinno`: that of `nisīdati`, `-inna` for `-ta` {582}; `ṭhitomhi` and `nisinnomhi` are participle + `amhi`, "I am" {492}; `pajānāti`: the present, third person singular. Chapter 10, DN 22.*

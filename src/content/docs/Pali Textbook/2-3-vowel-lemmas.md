@@ -2,6 +2,7 @@
 title: "2.3: Lemmas in `i`, `ī`, `u`, `ū`"
 sidebar:
   label: "2.3: `i` and `u` lemmas"
+  order: 516
 description: >
   The shapes of the nouns whose lemma ends in `i`, `ī`, `u` or `ū`: `aggi`,
   `bhikkhu`, `ratti`, `nadī`, `cakkhu`. The endings that differ from `purisa`
@@ -123,7 +124,7 @@ two / these / bhikkhave / extremes / by one gone forth / not / should be cultiva
 
 ### Exercises
 
-For the word in bold (from chapters 3, 4 and 9) name the lemma and its
+For the word in bold (from chapters 3, 4 and 10) name the lemma and its
 gender, the ending, the number and the job, and cite the rule.
 
 :::tip[Hint]

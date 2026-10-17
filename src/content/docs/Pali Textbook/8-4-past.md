@@ -1,7 +1,8 @@
 ---
-title: "7.4: The past"
+title: "8.4: The past"
 sidebar:
-  label: "7.4: The past"
+  label: "8.4: The past"
+  order: 546
 description: >
   Nearly every verb of chapters 3 and 4 is in the past: `nisīdi` ("sat down"),
   `udapādi` ("arose"), `āmantesi` ("addressed"), `avoca` ("said"), `ahosi`
@@ -22,7 +23,7 @@ sets of past endings: the `ajjatanī` (from `ajja`, "today") {419}, the
 "unseen", unwitnessed past) {417}; the texts use the first for any past event.
 
 Ask three things of a past form: its ending, which gives the person and number
-as in [7.1](../7-1-reading-a-verb/); whether an `a` is put before the root,
+as in [8.1](../8-1-reading-a-verb/); whether an `a` is put before the root,
 `a-gamī` {519}; and whether an `s` stands before the ending, `aho-s-i` {491}.
 
 ### The endings of the `ajjatanī`
@@ -60,7 +61,7 @@ After a prefix it sits between prefix and root: `ud-a-pādi`, `pacc-a-ññāsi�
 ### The rarer pasts
 
 The `-ta` words (`pavattitaṁ`, "set in motion", `abhisambuddhā`) are the
-other past, adjectives tabled in [7.8](../7-8-verb-like-forms/).
+other past, adjectives tabled in [8.8](../8-8-verb-like-forms/).
 
 | set | symbol | endings (same order) | example | rule |
 | --- | :-: | --- | --- | :-: |

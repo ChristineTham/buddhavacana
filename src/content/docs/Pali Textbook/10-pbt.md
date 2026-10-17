@@ -2,7 +2,8 @@
 draft: false
 title: '5: My Translations from "Pali Buddhist Texts"'
 sidebar:
-  label: "9: Pali Buddhist Texts"
+  label: "10: Pali Buddhist Texts"
+  order: 560
 description: >
   My independent translation of the excerpts from the Tipiṭaka in **Pali Buddhist Texts** Explained to the Beginner, Rune E A Johansson, Curzon Press, Copenhagen, Scandinavian Institute of Asian Studies Monograph Series, Third Edition, 1981.
 ---

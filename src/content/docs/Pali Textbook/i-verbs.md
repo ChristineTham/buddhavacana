@@ -2,6 +2,7 @@
 title: "I: `ākhyāta` (verb endings)"
 sidebar:
   label: "I: `ākhyāta`"
+  order: 569
 description: >
   `ākhyāta` ending rules
 categories: ["palibook"]

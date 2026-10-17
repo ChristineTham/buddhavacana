@@ -1,7 +1,8 @@
 ---
-title: "6.3: The kammadhāraya, two words for one thing"
+title: "7.3: The kammadhāraya, two words for one thing"
 sidebar:
-  label: "6.3: `kammadhāraya`"
+  label: "7.3: `kammadhāraya`"
+  order: 536
 description: >
   A `kammadhāraya` joins two words that name one and the same thing, an
   adjective and its noun or two nouns: `kaṇhasappo` ("a black snake") is
@@ -27,8 +28,8 @@ like any other noun; this book marks the compound 🆎 with its members in their
 lemma form, 🚹⨀①🆎(kaṇha+sappa). The question to ask when you meet one is: do
 both members name the same thing? If the first describes the second ("black" +
 "snake", "great" + "man", "not" + "brahmin"), it is a `kammadhāraya`; if the
-compound means "the X of Y" it is a `tappurisa` ([6.5](../6-5-tappurisa/)), and
-if it names a third thing it is a `bahubbīhi` ([6.6](../6-6-bahubbihi/)).
+compound means "the X of Y" it is a `tappurisa` ([7.5](../7-5-tappurisa/)), and
+if it names a third thing it is a `bahubbīhi` ([7.6](../7-6-bahubbihi/)).
 
 Four first members change their shape when they join, and these are the ones
 to learn to recognise: `mahanta` ("great") becomes `mahā` {330}, a feminine
@@ -37,7 +38,7 @@ becomes `a` or `an` {333}–{334}, and `ku` ("bad") becomes `kad` or `kā`
 {335}–{336}. Kaccāyana counts every `kammadhāraya` as a `tappurisa` as well
 {326}, which is why the rules for `na` speak of a `tappurisa`; and a
 `kammadhāraya` whose first member is a numeral has a name of its own, the
-`digu` {325} ([6.4](../6-4-digu/)).
+`digu` {325} ([7.4](../7-4-digu/)).
 
 ### The kinds of `kammadhāraya`
 
@@ -58,7 +59,7 @@ whose shins are long", `dīghā` + `jaṅghā`) {331}, then extended to the
 go back to, so `brāhmaṇabandhu` ("a brahmin's kinswoman") keeps its form in
 `brāhmaṇabandhudārikā`. `kā-` for `ku` means "a little" and now and then "bad",
 as in `kāpurisā` ("wretched men") {336}. Every rule number links to the full
-rule in the Kaccāyana translation; the [chapter overview](../6-0-samasa/)
+rule in the Kaccāyana translation; the [chapter overview](../7-0-samasa/)
 tables every rule of the Samāsakappa.
 
 ### Examples
@@ -73,7 +74,7 @@ black / and / it / a snake / and → a black snake
 
 🚹⨀①(mahanto) ⏏️(ca) *️⃣🤟🚹⨀①(so) 🚹⨀①(puriso) ⏏️(ca) → 🚹⨀①🆎(mahanta+purisa)  
 great / and / he / a man / and → a great man  
-*`mahā` for `mahanta` {330}: "great" + "man"; it is the first part of `mahāpurisavihāro` in chapter 9.*
+*`mahā` for `mahanta` {330}: "great" + "man"; it is the first part of `mahāpurisavihāro` in chapter 10.*
 
 > na brāhmaṇo → **abrāhmaṇo**
 
@@ -84,7 +85,7 @@ not / a brahmin → a non-brahmin
 ### Exercises
 
 Each of the following compounds you have met in the Bodhikathā (chapter 3) or
-in the Pali Buddhist Texts (chapter 9), in the form it has there. Resolve it
+in the Pali Buddhist Texts (chapter 10), in the form it has there. Resolve it
 into its members, say which kind of `kammadhāraya` it is, and give the meaning.
 Look the word up in a dictionary and check its first member against the table
 above.
@@ -124,34 +125,34 @@ first + fully awakened → newly fully awakened
 
 🚺⨀②🆎(nīca+seyyā)  
 low + bed → low bed  
-*adjective + noun {324}: `nīca` ("low") describes `seyyā` ("bed"); chapter 9, `nīcaseyyaṁ kappenti`.*
+*adjective + noun {324}: `nīca` ("low") describes `seyyā` ("bed"); chapter 10, `nīcaseyyaṁ kappenti`.*
 
 4. > sāyanha + samaya → **sāyanhasamayaṁ**
 
 🚹⨀②🆎(sāyanha+samaya)  
 evening + time → in the late afternoon  
-*noun + noun {324}: `sāyanha` ("evening") and `samaya` ("time") name one time; chapter 9, `sāyanhasamayaṁ paṭisallānā vuṭṭhito`.*
+*noun + noun {324}: `sāyanha` ("evening") and `samaya` ("time") name one time; chapter 10, `sāyanhasamayaṁ paṭisallānā vuṭṭhito`.*
 
 5. > tathā + gata → **tathāgato**
 
 🚹⨀①🆎(tathā+gata)  
 thus + gone → Tathāgata  
-*`tathā` ("thus") describes `gata` ("gone", "become") {324}: the Buddha's title; chapter 9, `tathāgato vā tathāgatasāvako vā`.*
+*`tathā` ("thus") describes `gata` ("gone", "become") {324}: the Buddha's title; chapter 10, `tathāgato vā tathāgatasāvako vā`.*
 
 6. > sammā + diṭṭhi → **sammādiṭṭhi**
 
 🚺⨀①🆎(sammā+diṭṭhi)  
 rightly + view → right view  
-*`sammā` ("rightly") describes `diṭṭhi` ("view") {324}: the first factor of the path; chapter 9, `sammādiṭṭhi sammāsaṅkappo`.*
+*`sammā` ("rightly") describes `diṭṭhi` ("view") {324}: the first factor of the path; chapter 10, `sammādiṭṭhi sammāsaṅkappo`.*
 
 7. > na + agāriya → **anagāriyaṁ**
 
 🚻⨀②🆎(na+agāriya)  
 not + belonging to a house → to homeless state  
-*`an` for `na` before a vowel {334}: `agāriya` ("belonging to a house"); chapter 9, `agārasmā anagāriyaṁ`.*
+*`an` for `na` before a vowel {334}: `agāriya` ("belonging to a house"); chapter 10, `agārasmā anagāriyaṁ`.*
 
 8. > na + mata → **amataṁ**
 
 🚻⨀①🆎(na+mata)  
 not + dead → free from death  
-*`a` for `na` {333}: "not dead", the deathless, a name of nibbāna; chapter 9, `amataṁ ajjāpi ca labhanīyamidaṁ`.*
+*`a` for `na` {333}: "not dead", the deathless, a name of nibbāna; chapter 10, `amataṁ ajjāpi ca labhanīyamidaṁ`.*

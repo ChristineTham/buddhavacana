@@ -1,7 +1,8 @@
 ---
-title: "6: `samāsa` (Compounds)"
+title: "7: `samāsa` (Compounds)"
 sidebar:
-  label: "6: `samāsa`"
+  label: "7: `samāsa`"
+  order: 533
 description: >
   How two or more nouns are joined into one compound word, the six kinds of compound and the changes at the end of a compound {316}–{343}
 categories: ["palibook"]
@@ -56,8 +57,8 @@ that order with one section for each kind, and ends with the changes at the end
 of a compound.
 
 :::tip[Reading path]
-On a first reading take [6.3](../6-3-kammadharaya/), [6.5](../6-5-tappurisa/),
-[6.6](../6-6-bahubbihi/) and [6.7](../6-7-dvanda/), the four kinds the texts are
+On a first reading take [7.3](../7-3-kammadharaya/), [7.5](../7-5-tappurisa/),
+[7.6](../7-6-bahubbihi/) and [7.7](../7-7-dvanda/), the four kinds the texts are
 full of, and the diagram above; the rules on the form of the members and the
 rule table below are for looking things up, and every rule number links to the
 full rule in the Kaccāyana translation.
@@ -65,14 +66,14 @@ full rule in the Kaccāyana translation.
 
 | section | compound | English name | members | rules |
 | :-: | --- | --- | --- | --- |
-| [6.1](../6-1-definition/) | `samāsa` | what a compound is | nouns whose meanings are connected | {316}–{318} |
-| [6.2](../6-2-abyayibhava/) | `abyayībhāva` | adverbial | a prefix or particle first | {319}–{320}, {341}–{343} |
-| [6.3](../6-3-kammadharaya/) | `kammadhāraya` | appositional | two words with the same referent | {324}, {330}–{336} |
-| [6.4](../6-4-digu/) | `digu` | numeral | a numeral first | {325}, {321} |
-| [6.5](../6-5-tappurisa/) | `tappurisa` | determinative | a word in the ② to ⑦ ending with the word that follows | {327}, {326} |
-| [6.6](../6-6-bahubbihi/) | `bahubbīhi` | attributive | the compound names a third thing | {328} |
-| [6.7](../6-7-dvanda/) | `dvanda` | copulative | nouns combined with "and" | {329}, {322}–{323} |
-| [6.8](../6-8-samasanta/) | the end of a compound | — | — | {337}–{340} |
+| [7.1](../7-1-definition/) | `samāsa` | what a compound is | nouns whose meanings are connected | {316}–{318} |
+| [7.2](../7-2-abyayibhava/) | `abyayībhāva` | adverbial | a prefix or particle first | {319}–{320}, {341}–{343} |
+| [7.3](../7-3-kammadharaya/) | `kammadhāraya` | appositional | two words with the same referent | {324}, {330}–{336} |
+| [7.4](../7-4-digu/) | `digu` | numeral | a numeral first | {325}, {321} |
+| [7.5](../7-5-tappurisa/) | `tappurisa` | determinative | a word in the ② to ⑦ ending with the word that follows | {327}, {326} |
+| [7.6](../7-6-bahubbihi/) | `bahubbīhi` | attributive | the compound names a third thing | {328} |
+| [7.7](../7-7-dvanda/) | `dvanda` | copulative | nouns combined with "and" | {329}, {322}–{323} |
+| [7.8](../7-8-samasanta/) | the end of a compound | — | — | {337}–{340} |
 
 ## The rules of the Samāsakappa
 

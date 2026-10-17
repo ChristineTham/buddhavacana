@@ -2,6 +2,7 @@
 title: "5.8: liṅgattha and ālapana (Nominative and Vocative)"
 sidebar:
   label: "5.8: `liṅgattha`, `ālapana`"
+  order: 532
 description: >
   The two uses of the ① ending that name no `kāraka`: a word that simply
   names its thing, `puriso` ("a man") {284}, and a word that calls the person
@@ -42,7 +43,7 @@ and why its singular looks different, `purisa`, `rāja`, `sakhe`. In the
 plural the two are usually one form, `purisā`, `rājāno`, `sakhino`, that
 only the sentence tells apart, though `bhikkhu` has `bhikkhave` {116}. The
 surest sign of a ⓪ form is the word of address before it, `bho` and `he` in
-Kaccāyana, `bhante` and `āvuso` in the texts of chapter 9:
+Kaccāyana, `bhante` and `āvuso` in the texts of chapter 10:
 
 | word of address | meaning | where you meet it |
 | --- | --- | --- |
@@ -88,7 +89,7 @@ come / you / sir / man
 
 ### Exercises
 
-Each sentence is from the texts of chapter 9. Say which words simply name
+Each sentence is from the texts of chapter 10. Say which words simply name
 their thing (①) and which call the listener (⓪), then translate; look the
 words up in a dictionary and note their endings.
 

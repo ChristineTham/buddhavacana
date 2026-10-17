@@ -2,6 +2,7 @@
 title: "L: `sabbanāma` (Pronouns)"
 sidebar:
   label: "L: `sabbanāma`"
+  order: 572
 description: >
   List of `sabbanāma` and their `vibhatti` endings
 categories: ["palibook"]

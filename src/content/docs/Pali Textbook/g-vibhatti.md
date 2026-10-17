@@ -2,6 +2,7 @@
 title: "G: `vibhatti` Rules"
 sidebar:
   label: "G: `vibhatti`"
+  order: 567
 description: >
   `vibhatti` rules from Kaccāyana
 categories: ["palibook"]

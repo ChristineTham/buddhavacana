@@ -2,6 +2,7 @@
 title: "2.1: `sandhi` (How words join)"
 sidebar:
   label: "2.1: `sandhi`"
+  order: 514
 description: >
   The joins a reader meets on every line, `cāyaṁ`, `natthi`, `kiñci`,
   `evametassa`, `…dhamman”ti`, and how to undo each: a vowel dropped or
@@ -18,7 +19,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 Pāḷi was spoken before it was written, and the texts print it as it was said:
 when a word ending in a vowel or in `ṁ` meets the next word, the two run
 together and the seam changes shape. The joined form is a `sandhi` (a join),
-and the texts of chapters 3, 4 and 9 have one in almost every line: `yo cāyaṁ`
+and the texts of chapters 3, 4 and 10 have one in almost every line: `yo cāyaṁ`
 is `yo ca ayaṁ`, `natthi` is `na atthi`, `kiñci` is `kiṁ ci`, and the `”ti`
 that closes every quotation is `iti` with its vowel gone.
 
@@ -59,7 +60,7 @@ here the direction is reversed.
    nearly every join.
 3. Look both halves up: the Digital Pali Dictionary lists the common joins as
    headwords (`cāyaṁ`: `ca + ayaṁ`) and splits the rest. If no split gives two
-   dictionary words, it is one word, a compound ([chapter 6](../6-0-samasa/))
+   dictionary words, it is one word, a compound ([chapter 7](../7-0-samasa/))
    or a prefixed word ([2.7](../2-7-upasagga/)) with the join inside it:
    `dukkhakkhandha`, `vippayoga`.
 
@@ -91,7 +92,7 @@ which / of that / very / craving / remainderless fading away and cessation
 
 ### Exercises
 
-Each phrase, from chapters 3, 4 and 9, has a join in bold: split it into its
+Each phrase, from chapters 3, 4 and 10, has a join in bold: split it into its
 words, say what the join dropped, lengthened, changed or doubled, and name the
 rule.
 

@@ -1,7 +1,8 @@
 ---
-title: "7.6: Passive and causative"
+title: "8.6: Passive and causative"
 sidebar:
-  label: "7.6: Passive and causative"
+  label: "8.6: Passive and causative"
+  order: 548
 description: >
   `ya` between the root and the ending makes a verb passive, `vuccati` ("is
   said"), with the doer in ③ {440}–{443}; `e`, `aya`, `āpe` and `āpaya` make it
@@ -15,7 +16,7 @@ tags: ["ākhyāta", "kamma", "kārita"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-Section [7.1](../7-1-reading-a-verb/) read a verb from its ending: the time,
+Section [8.1](../8-1-reading-a-verb/) read a verb from its ending: the time,
 the person and the number. Two pieces that sit between the root and that
 ending change who the subject of the sentence is. With `ya` the verb is
 passive (`kamma`, 🔴): the subject is the thing acted on, `ayaṁ vuccati`
@@ -48,7 +49,7 @@ that consonant, after a vowel it stays, and an `ī` may be put in before it.
 Kaccāyana writes the four pieces `ṇe`, `ṇaya`, `ṇāpe`, `ṇāpaya` {438}. The `ṇ`
 is not a sound of the word: it is dropped {523}, and it signals that the
 root's vowel is strengthened {483}, `a` to `ā`, `i` to `e`, `u` to `o`:
-`kara` gives `kār-`, and `pabbajati` ("goes forth", chapter 9's
+`kara` gives `kār-`, and `pabbajati` ("goes forth", chapter 10's
 `pabbajeyyaṁ`) gives `pabbājeti` ("makes go forth", ordains). Before a vowel
 that `o` or `e` opens out into `āv` or `āy` {515}: `su` ("hear") gives
 `sāveti` ("makes hear"). A root ending in two consonants keeps its vowel,
@@ -99,7 +100,7 @@ The passive with the ending of the active {518}:
 these / are said to be / bhikkhave / mental constructions → Bhikkhave, these are said to be mental constructions.  
 *`vuccanti` 🔴: `vaca` + `ya`, `c` and `ya` one `cc` {441}, `va` to `vu` {487}; the things said, `ime … saṅkhārā`, are the subject in ①, and the verb is plural with them.*
 
-Kaccāyana's own example of the `ī` {442}, in chapter 9:
+Kaccāyana's own example of the `ī` {442}, in chapter 10:
 
 > **karīyati** hidaṁ buddhānaṁ sāsanan’ti
 
@@ -107,7 +108,7 @@ Kaccāyana's own example of the `ī` {442}, in chapter 9:
 is practised / surely in this case / of Buddha / teaching / quote → surely in this case the teaching of the Buddha is practised  
 *`karīyati` 🔴: `kara` + `ī` + `ya` {442}; the teaching, `sāsanaṁ`, is the subject in ①.*
 
-The passive piece inside a participle of [7.8](../7-8-verb-like-forms/), with the ⑦ of "while":
+The passive piece inside a participle of [8.8](../8-8-verb-like-forms/), with the ⑦ of "while":
 
 > Imasmiñca pana veyyākaraṇasmiṁ **bhaññamāne**
 
@@ -134,7 +135,7 @@ self / tames / the wise → The wise tames the self.
 ### Exercises
 
 Each of the following is from chapter [3](../3-awakening/),
-[4](../4-dhammacakka/) or [9](../9-pbt/). Find the verb or verb-like form and
+[4](../4-dhammacakka/) or [9](../10-pbt/). Find the verb or verb-like form and
 say which piece stands before its ending, whether it is passive, causative or
 neither, and what its root is; a dictionary gives the root's class.
 

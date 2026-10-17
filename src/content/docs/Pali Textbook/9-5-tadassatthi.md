@@ -1,7 +1,8 @@
 ---
-title: "8.5: Having that, and made of that"
+title: "9.5: Having that, and made of that"
 sidebar:
-  label: "8.5: `tadassatthi`, `tappakati`"
+  label: "9.5: `tadassatthi`, `tappakati`"
+  order: 556
 description: >
   `bhagavā` ("the Blessed One") is `bhaga` ("good fortune") with an affix
   meaning "having that". The affixes `vantu`, `mantu`, `ī`, `vī`, `sī`, `ika`,
@@ -39,7 +40,7 @@ gold" {372}.
 | `vī` | `-vī` on a word in `ā`; the rule's `ca` adds `sa`, `-so` | `medhāvī`, `sumedhaso` | has `medhā` (wisdom): wise | {364} |
 | `sī` | `-ssī`, the `s` doubled | `tapassī` | has `tapa` (austerity): an ascetic | {365} |
 | `ra` | `-ro` | `madhuro` | has `madhu` (honey): sweet | {367} |
-| `ṇa` | nothing you can see: the noun with `-o`; `ddh`, `ññ` keep the first vowel short ([8.1](../8-1-apacca/)) | `saddho`, `pañño` | has `saddhā` (faith), `paññā` (wisdom): faithful, wise | {370} |
+| `ṇa` | nothing you can see: the noun with `-o`; `ddh`, `ññ` keep the first vowel short ([9.1](../9-1-apacca/)) | `saddho`, `pañño` | has `saddhā` (faith), `paññā` (wisdom): faithful, wise | {370} |
 | `maya` | `-maya` after the name of a material | `sovaṇṇamayaṁ` | made of `suvaṇṇa` (gold) | {372} |
 
 The vutti gives every word in the masculine ①; the word takes the gender of
@@ -50,14 +51,14 @@ the noun it describes. Every rule number links to the full rule;
 
 Only the ① shows `-vā` or `-mā`. Before the other endings you see `-vant-` or
 `-vat-`, `-mant-` or `-mat-`, and the dictionary lists the word under the
-lemma `bhagavant`, `āyasmant`, as the symbol lines of chapters 3, 4 and 9 do:
+lemma `bhagavant`, `āyasmant`, as the symbol lines of chapters 3, 4 and 10 do:
 
 | ending | what you see | example | rule |
 | :-: | --- | --- | :-: |
-| ① | `-vā`, `-mā` | `bhagavā`, `āyasmā`, `satimā` (chapters 3, 4 and 9) | {124} |
-| ② | `-vantaṁ`, `-mantaṁ` | `bhagavantaṁ`, `āyasmantaṁ` (chapter 9) | |
-| ③ | `-vatā`, `-matā` | `bhagavatā` (chapter 9) | {127} |
-| ④ ⑥ | `-vato`, `-mato` | `sīlavato` (chapter 9) | {127} |
+| ① | `-vā`, `-mā` | `bhagavā`, `āyasmā`, `satimā` (chapters 3, 4 and 10) | {124} |
+| ② | `-vantaṁ`, `-mantaṁ` | `bhagavantaṁ`, `āyasmantaṁ` (chapter 10) | |
+| ③ | `-vatā`, `-matā` | `bhagavatā` (chapter 10) | {127} |
+| ④ ⑥ | `-vato`, `-mato` | `sīlavato` (chapter 10) | {127} |
 | ① ⨂ | `-vanto`, `-manto` | `guṇavanto` | {122} |
 
 Rule {127} is optional: `guṇavantassa`, `guṇavantena`, `guṇavantasmiṁ` occur
@@ -92,7 +93,7 @@ with gold / made / a work → made of gold
 ### Exercises
 
 Resolve each word into its noun and affix, and give its meaning; the first
-four you met in chapters 3, 4 and 9 (`sīlavā` as its ④, `sīlavato`). Look the
+four you met in chapters 3, 4 and 10 (`sīlavā` as its ④, `sīlavato`). Look the
 words up in a dictionary and note the sense the affix carries.
 
 :::tip[Hint]
@@ -118,7 +119,7 @@ deconstruction.
 
 🚻⨀①(bhagaṁ) *️⃣🤟🚹⨀⑥(yassa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(vantu)(bhagavā)  
 good fortune / of whom / there is → one who has good fortune, the Blessed One  
-*`vantu` {368}: `bhaga` + `-vā`; chapters 3, 4 and 9 write the lemma `bhagavant`.*
+*`vantu` {368}: `bhaga` + `-vā`; chapters 3, 4 and 10 write the lemma `bhagavant`.*
 
 2. > āyu assa atthi → **āyasmā**
 
@@ -130,13 +131,13 @@ life / his / there is → one who has life, venerable
 
 🚺⨀①(sati) *️⃣🤟🚹⨀⑥(yassa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(mantu)(satimā)  
 mindfulness / of whom / there is → one who has mindfulness, mindful  
-*`mantu` {369}: `sati` + `-mā`; chapter 9 has it in `upekkhako satimā sukhavihārī`.*
+*`mantu` {369}: `sati` + `-mā`; chapter 10 has it in `upekkhako satimā sukhavihārī`.*
 
 4. > sīlaṁ yassa atthi → **sīlavā**
 
 🚻⨀①(sīlaṁ) *️⃣🤟🚹⨀⑥(yassa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(vantu)(sīlavā)  
 ethical conduct / of whom / there is → one who has ethical conduct, virtuous  
-*`vantu` {368}: `sīla` + `-vā`; chapter 9 has its ④, `sīlavato`, "for whoever is moral" {127}.*
+*`vantu` {368}: `sīla` + `-vā`; chapter 10 has its ④, `sīlavato`, "for whoever is moral" {127}.*
 
 5. > paññā yassa atthi → **paññavā**
 

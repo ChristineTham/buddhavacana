@@ -2,6 +2,7 @@
 title: "B: The Pali Alphabet"
 sidebar:
   label: "B: Alphabet"
+  order: 562
 description: >
   Concise summary of the romanised Pali Alphabet
 ---

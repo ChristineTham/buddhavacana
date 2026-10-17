@@ -2,6 +2,7 @@
 title: "2.6: `saṅkhyā` (Numbers)"
 sidebar:
   label: "2.6: `saṅkhyā`"
+  order: 519
 description: >
   How to recognise a number and its ending: `dve`, `tayo`, `cattāri`, `pañca`
   and the `-nnaṁ`, `-hi`, `-su` they carry {67}, {87}, {89}, {90},
@@ -66,7 +67,7 @@ These are nouns, `vīsati` with the feminine endings of
 [2.3](../2-3-vowel-lemmas/) (`vīsatiyā`, "of twenty"), `sataṁ` with those of
 `citta`; in the texts they sit inside names, `tāvatiṁsā devā`
 ("the Thirty-three gods"), `dasasahassilokadhātu`. How they are made is the
-matter of [8.6](../8-6-sankhya/) and [Appendix H](../h-taddhita/).
+matter of [9.6](../9-6-sankhya/) and [Appendix H](../h-taddhita/).
 
 ### The ordinals
 
@@ -84,7 +85,7 @@ jhānaṁ`, or stands alone with the noun understood, `Tathā dutiyaṁ`
 "first, at first".
 
 Most numbers in the texts are the first member of a compound
-([6.4](../6-4-digu/)), `pañcavaggiyā`, `aṭṭhaṅgiko`, `sattāhaṁ`, where the
+([7.4](../7-4-digu/)), `pañcavaggiyā`, `aṭṭhaṅgiko`, `sattāhaṁ`, where the
 number stands bare and the ending belongs to the whole word; `dvi` appears as
 `du-`, `di-` or `dvā-` {380}, {386}, and `cha` as `saḷ-` in `saḷāyatanaṁ`
 {571}.
@@ -123,7 +124,7 @@ of the night / first / watch
 
 ### Exercises
 
-Each item comes from the texts of chapters 3, 4 and 9. Name the number, its
+Each item comes from the texts of chapters 3, 4 and 10. Name the number, its
 lemma, and the gender, number and ending it carries; inside a compound, say
 what it counts.
 

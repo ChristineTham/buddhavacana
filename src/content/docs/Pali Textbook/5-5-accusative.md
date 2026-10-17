@@ -2,6 +2,7 @@
 title: "5.5: kamma (Accusative)"
 sidebar:
   label: "5.5: `kamma`"
+  order: 529
 description: >
   The ② ending marks the `kamma`, the object: whatever is made, seen, heard or
   reached {280}, {297}. The same ending measures a time or a distance that an

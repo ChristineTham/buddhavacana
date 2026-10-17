@@ -2,6 +2,7 @@
 title: "2.5: `sabbanāma` (Pronouns and their relatives)"
 sidebar:
   label: "2.5: `sabbanāma`"
+  order: 518
 description: >
   `so`, `sā`, `taṁ`, `ayaṁ`, `idaṁ`, `yo`, `ko`, `sabbe`, `ahaṁ`, `tvaṁ`: the
   pronouns, the endings only they take {161}–{177}, the pair `yo … so`, and
@@ -138,7 +139,7 @@ whatever / anything / subject to origination / all / that / subject to cessation
 
 ### Exercises
 
-Each is from the texts of chapters 3, 4 and 9. For each pronoun give its lemma,
+Each is from the texts of chapters 3, 4 and 10. For each pronoun give its lemma,
 gender, number and ending, and the noun it agrees with or stands for; for an
 adverb, the pronoun and the affix.
 

@@ -1,7 +1,8 @@
 ---
-title: "6.2: The abyayībhāva, a compound with a prefix or a particle first"
+title: "7.2: The abyayībhāva, a compound with a prefix or a particle first"
 sidebar:
-  label: "6.2: `abyayībhāva`"
+  label: "7.2: `abyayībhāva`"
+  order: 535
 description: >
   A word such as `upanagaraṁ` ("near the town") is a prefix or a particle
   joined to a noun: an `abyayībhāva` {319}. It is always neuter {320} and keeps
@@ -24,7 +25,7 @@ is `yathā` with `bhūta` ("true", "real"). Kaccāyana names such a compound an
 tells where, when, how or how far something happens, as an adverb does in
 English. Kaccāyana's own examples are a grammarian's, but words of this shape
 are on every page of the texts: `yathābhūtaṁ` and `ajjhattaṁ` ("inwardly"),
-which you met in chapter 9, and `yāvajīvaṁ` ("as long as life lasts").
+which you met in chapter 10, and `yāvajīvaṁ` ("as long as life lasts").
 
 Two things make an `abyayībhāva` easy to recognise. It is always neuter {320},
 whatever the gender of the noun inside it, and it keeps one form wherever it
@@ -85,7 +86,7 @@ girls / with reference to / goes on / talk → concerning girls
 
 Each of the following is an `abyayībhāva`. Name its first member and say what
 it means, name the noun it is joined to, and give the meaning of the whole
-word; the first two you have met in chapter 9. Look the words up in a
+word; the first two you have met in chapter 10. Look the words up in a
 dictionary and check which of the four rules above each one shows.
 
 :::tip[Hint]
@@ -107,13 +108,13 @@ deconstruction.
 
 🚻⨀①🆎(yathā+bhūta)  
 as it truly is  
-*`yathā` ("as") with `bhūta` ("true", "real"): an `abyayībhāva` {319} in `-aṁ` {341}; chapter 9, `samāhito yathābhūtaṁ jānāti passati`.*
+*`yathā` ("as") with `bhūta` ("true", "real"): an `abyayībhāva` {319} in `-aṁ` {341}; chapter 10, `samāhito yathābhūtaṁ jānāti passati`.*
 
 2. > **ajjhattaṁ**
 
 🚻⨀①🆎(adhi+atta)  
 inwardly, internally  
-*`adhi` ("in") becomes `ajjh` before the vowel of `atta` ("self") {45}: an `abyayībhāva` {319}; chapter 9, `ajjhattaṁ vā kāye kāyānupassī viharati`.*
+*`adhi` ("in") becomes `ajjh` before the vowel of `atta` ("self") {45}: an `abyayībhāva` {319}; chapter 10, `ajjhattaṁ vā kāye kāyānupassī viharati`.*
 
 3. > jīvassa yattako paricchedo → **yāvajīvaṁ**
 

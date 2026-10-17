@@ -1,7 +1,8 @@
 ---
-title: "6.4: The numeral compound"
+title: "7.4: The numeral compound"
 sidebar:
-  label: "6.4: `digu`"
+  label: "7.4: `digu`"
+  order: 537
 description: >
   A word such as `tilokaṁ` ("the three worlds") is a numeral and a noun made
   into one word, a `digu` {325}. Whatever its members, a `digu` that takes a set
@@ -21,7 +22,7 @@ and in the Bodhikathā `sattāhaṁ` ("for seven days"). Each is a numeral
 (`saṅkhyā`, a number word) and a noun made into one word: `tayo lokā` ("three
 worlds") becomes `tilokaṁ`. Kaccāyana calls such a word a `digu` ("numeral
 compound"): a `kammadhāraya` (the compound of section
-[6.3](../6-3-kammadharaya/), two words naming the same thing) whose first
+[7.3](../7-3-kammadharaya/), two words naming the same thing) whose first
 member is a numeral {325}.
 
 When you meet a word that begins with a number, ask what the number counts and
@@ -39,11 +40,11 @@ neuter and singular.
 | a feminine last member with `-a-` before the `-ṁ` | in the neuter a final `ā` is shortened, and `a` replaces a final `ī` | `catuddisaṁ` from `disā`; `sattagodāvaraṁ`, the seven Godāvarī rivers, from `godāvarī` | {342}, {337} |
 
 A `digu` is also counted a `tappurisa` {326}, section
-[6.5](../6-5-tappurisa/), and like every compound it takes endings of its own
+[7.5](../7-5-tappurisa/), and like every compound it takes endings of its own
 as a noun {601}. Not every `digu` takes its set as one thing: `ekapallaṅkena`
 ("in one cross-legged posture") in the Bodhikathā counts one posture, and
 keeps the gender of `pallaṅka`, masculine. The rule table of
-[chapter 6](../6-0-samasa/) lists every rule of the compounds.
+[chapter 7](../7-0-samasa/) lists every rule of the compounds.
 
 ### The numeral as a first member
 

@@ -2,6 +2,7 @@
 title: "C: Pali Grammar Specification"
 sidebar:
   label: "C: Grammar"
+  order: 563
 description: >
   A concise diagrammatic representation of Pali Grammar
 categories: ["palibook"]

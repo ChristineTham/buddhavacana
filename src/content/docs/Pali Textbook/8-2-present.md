@@ -1,7 +1,8 @@
 ---
-title: "7.2: The present"
+title: "8.2: The present"
 sidebar:
-  label: "7.2: `vattamānā`"
+  label: "8.2: `vattamānā`"
+  order: 544
 description: >
   The present (`vattamānā`): the endings `-ti`, `-nti`, `-si`, `-tha`, `-mi`,
   `-ma` that show the person and the number {414}, {423}, and the piece each
@@ -23,7 +24,7 @@ stands between root and ending: the dictionary lists the root.
 Kaccāyana names twelve endings {423}: `ti`, `anti`, `si`, `tha`, `mi`, `ma`,
 the `parassapada` (🟢), carry nearly every verb of the texts; `te`, `ante`,
 `se`, `vhe`, `e`, `mhe`, the `attanopada` (🔵), serve the passive and the
-impersonal {453}. [7.1](../7-1-reading-a-verb/) has the whole key; this
+impersonal {453}. [8.1](../8-1-reading-a-verb/) has the whole key; this
 section takes the first six.
 
 ### The six endings of the present
@@ -39,11 +40,11 @@ section takes the first six.
 
 The root `asa` (to be) reshapes them: `atthi` ("there is", `-tthi` for `-ti`
 {494}; `natthi` is `na` + `atthi`), `santi` ("there are" {506}); `hoti`
-(root `hū`) is the other "is", both in [7.7](../7-7-common-verbs/).
+(root `hū`) is the other "is", both in [8.7](../8-7-common-verbs/).
 
 :::note[`-si` now, `-si` then]
 `viharasi` ends in `-si`; so do `āmantesi` ("he addressed") and `ahosi`
-("it was") in chapter 4, the past ([7.4](../7-4-past/)), third person: their
+("it was") in chapter 4, the past ([8.4](../8-4-past/)), third person: their
 `-si` follows `-e-`, `-o-` or `-ā-`, while the present `-si` follows the
 class piece (`-asi`) and has `tvaṁ` ("you") as subject.
 :::
@@ -70,7 +71,7 @@ signal, dropped {523}.
 
 Two shapes have a second owner, settled by the dictionary: a double from
 `ya` is also the passive (`vuccati`, "is called"), `-e-` also the causative
-(`bhāveti`, "develops"), both in [7.6](../7-6-voice/);
+(`bhāveti`, "develops"), both in [8.6](../8-6-voice/);
 [Appendix I](../i-verbs/) tables the verb chapter.
 
 ### Examples

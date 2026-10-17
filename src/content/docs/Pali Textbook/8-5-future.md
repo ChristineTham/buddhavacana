@@ -1,7 +1,8 @@
 ---
-title: "7.5: The future and the conditional"
+title: "8.5: The future and the conditional"
 sidebar:
-  label: "7.5: The future"
+  label: "8.5: The future"
+  order: 547
 description: >
   A verb with `ssa` before its ending says what will happen: the `bhavissanti`
   endings `-ssati`, `-ssanti`, `-ssāmi` … {421}, {429}, with an `i` before the
@@ -26,7 +27,7 @@ about: "if he had got the vehicle, he would have gone" {422}, {430}.
 
 So ask what follows the `ssa`: `-ti`, `-nti`, `-si`, `-tha`, `-mi`, `-ma` make
 the future, `-ā` and `-aṁsu` with the `a-` in front the conditional; person
-and number as in [7.1](../7-1-reading-a-verb/), the rules in
+and number as in [8.1](../8-1-reading-a-verb/), the rules in
 [Appendix I](../i-verbs/). Kaccāyana gives the name `sabbadhātuka` to the
 present, the command, the wish and the `hiyyattanī` {431}; the other four
 sets, these two among them, take an `i` between the root and the ending {516},
@@ -61,7 +62,7 @@ so what you see is nearly always `-issa-`: `gam-i-ssati`, `kar-i-ssati`. That
 | `a-` … `-ssaṁsu` | third 🤟 | ⨂ | `agacchissaṁsu`, `alabhissaṁsu` | {430}, {519} |
 | `-sse`, `-ssatha`, `-ssaṁ`, `-ssāmhā` | second 🤘, first 👆 | ⨀, ⨂ | none in the rules or the texts | {430} |
 
-The `a-` is the past's, from [7.4](../7-4-past/), and its rule names the
+The `a-` is the past's, from [8.4](../8-4-past/), and its rule names the
 `kālātipatti` too {519}. In the texts the final vowel is short, `abhavissa`,
 and the sentence carries `ce` ("if") or `no ce` ("if not"), its other half a
 conditional or a `sattamī` (`paññāyetha`, "would be evident").
@@ -100,7 +101,7 @@ they / if / that / vehicle / had got / they would have gone
 
 ### Exercises
 
-The first is from [chapter 9](../9-pbt/), the rest Kaccāyana's own, since the
+The first is from [chapter 10](../10-pbt/), the rest Kaccāyana's own, since the
 texts hold only three such forms. Name the verb's set, person and number, and
 what stands before its ending; then look it up.
 

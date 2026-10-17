@@ -2,6 +2,7 @@
 title: "2.2: Nouns, gender, number and the endings"
 sidebar:
   label: "2.2: Nouns"
+  order: 515
 description: >
   How to read a noun's ending: gender (`liṅga`), number and the eight sets
   of endings; the inflection tables of `purisa`, `citta` and `kaññā`, the
@@ -72,7 +73,7 @@ The inflection table of `citta` ("mind"), 🚻, where it differs from `purisa`:
 | ⓪ | `citta` | `cittāni` | {220}; {218} |
 
 The rest is as `purisa`. So `cittaṁ` may be ① or ②, and `-āni` is always a
-neuter plural: `kāsāyāni vatthāni` ("ochre robes") in chapter 9.
+neuter plural: `kāsāyāni vatthāni` ("ochre robes") in chapter 10.
 
 The inflection table of `kaññā` ("girl"), 🚺:
 

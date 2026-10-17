@@ -2,6 +2,7 @@
 title: "5.3: okāsa (Locative)"
 sidebar:
   label: "5.3: `okāsa`"
+  order: 527
 description: >
   A word with the ⑦ ending names where, or when, an action happens:
   `sāvatthiyaṁ viharati jetavane`, "[he] dwells at Sāvatthī, in Jeta's Grove".
@@ -88,7 +89,7 @@ while the monks / [were] being fed / gone
 
 ### Exercises
 
-Each sentence is from the texts of chapters 3, 4 and 9 and has a ⑦ word. Find
+Each sentence is from the texts of chapters 3, 4 and 10 and has a ⑦ word. Find
 it, say what it is doing there — the place, the time or an event that sets the
 time — and translate the sentence.
 
