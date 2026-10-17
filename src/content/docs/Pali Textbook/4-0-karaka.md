@@ -1,7 +1,7 @@
 ---
-title: "4: `kāraka` (word ending) meanings"
+title: "4: Grammar: Nouns in the sentence (`kāraka`)"
 sidebar:
-  label: "4: `kāraka`"
+  label: "4: Grammar: Nouns in the sentence"
   order: 523
 description: >
   Various meanings and usage-rules of word endings in sentences after `vibhatti` has been applied {271}-{315}

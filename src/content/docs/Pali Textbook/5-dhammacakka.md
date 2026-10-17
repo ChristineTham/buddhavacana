@@ -1,7 +1,7 @@
 ---
-title: "5: Turning the wheel"
+title: "5: Translation: Turning the wheel (Dhammacakkappavattanasutta)"
 sidebar:
-  label: "5: Turning the wheel"
+  label: "5: Translation: Turning the wheel"
   order: 532
 description: >
   Translation of the Dhammacakkappavattanasutta, the discourse on setting the wheel of the Dhamma in motion, Saṁyutta Nikāya 56.11 (14S5 12.2.1)

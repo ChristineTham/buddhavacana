@@ -1,7 +1,7 @@
 ---
-title: "6: `samāsa` (Compounds)"
+title: "6: Grammar: Compounds (`samāsa`)"
 sidebar:
-  label: "6: `samāsa`"
+  label: "6: Grammar: Compounds"
   order: 533
 description: >
   How two or more nouns are joined into one compound word, the six kinds of compound and the changes at the end of a compound {316}–{343}

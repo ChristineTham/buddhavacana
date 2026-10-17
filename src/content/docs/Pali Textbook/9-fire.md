@@ -1,7 +1,7 @@
 ---
-title: "9: The Fire Sermon"
+title: "9: Translation: The Fire Sermon (Ādittapariyāyasutta)"
 sidebar:
-  label: "9: The Fire Sermon"
+  label: "9: Translation: The Fire Sermon"
   order: 552
 description: >
   Translation of the Ādittapariyāyasutta, the discourse on burning, to the thousand former fire-worshippers at Gayāsīsa, Saṁyutta Nikāya 35.28 (13S4 1.1.3.6)
