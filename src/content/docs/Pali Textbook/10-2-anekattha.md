@@ -59,6 +59,7 @@ rule with its examples.
 | his craft | `vīṇā assa sippaṁ` | `veṇiko` | a lute-player | {351} |
 | his merchandise | `gandho assa bhaṇḍaṁ` | `gandhiko` | a perfume-seller | {351} |
 | his livelihood | `urabbhaṁ hantvā jīvati` (lives by killing sheep) | `orabbhiko` | a sheep-butcher | {351} |
+| plays with | `akkhena dibbati` (plays with dice) | `akkhiko` | a gambler | {351} |
 
 ### `ṇa`, `ima` and `iya`
 
@@ -68,6 +69,7 @@ rule with its examples.
 | `ṇa` | this is his | `sūkarassa idaṁ maṁsaṁ` (this meat is the pig's) | `sokaraṁ` | pork | {352} |
 | `ṇa` | born in, come from, lord of | `madhurāya jāto` | `mādhuro` | a man of Madhurā | {352} |
 | `ṇa` | the month of a constellation | `kattikāya niyutto māso` | `kattiko` | the month of Kattikā, October–November | {352} |
+| `ṇa` | produced by | `sāgarehi nibbatto` (produced by the Sāgaras) | `sāgaro` | the ocean | {352} |
 | `ima` | born after, in the middle, at the end | `pacchā jāto` | `pacchimo` | last; western | {353} |
 | `iya` | born of a kind | `bodhisattajātiyā jāto` | `bodhisattajātiyo` | one of the Bodhisatta's kind | {353} |
 | `ima`, `iya`, `ika` | set at, having (the rule's "and the like") | `anto niyutto`, `putto assa atthi` (he has a son) | `antimo`, `puttiko` | final, one who has a son | {353} |

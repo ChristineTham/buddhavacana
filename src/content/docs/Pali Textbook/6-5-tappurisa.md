@@ -47,7 +47,7 @@ chapter [4](../4-0-karaka/) gives the first word for its work in the sentence:
 | ④ `catutthī` | the one it is for {293} | `kathinassa dussaṁ` → `kathinadussaṁ` | cloth for the `kathina` | {327} |
 | ⑤ `pañcamī` | the source, "from" {295}, or the thing feared {271} | `corā bhayaṁ` → `corabhayaṁ` | fear of thieves | {327} |
 | ⑥ `chaṭṭhī` | the owner, "of" {301} | `rañño putto` → `rājaputto` | the king's son | {327} |
-| ⑦ `sattamī` | the place or time, "in", "at" {302} | `saṁsāre dukkhaṁ` → `saṁsāradukkhaṁ` | suffering in `saṁsāra` | {327} |
+| ⑦ `sattamī` | the place or time, "in", "at" {302} | `rūpe saññā` → `rūpasaññā`; `saṁsāre dukkhaṁ` → `saṁsāradukkhaṁ` | perception of form; suffering in `saṁsāra` | {327} |
 
 The rule's other examples, `sabbarattisobhaṇo` ("beautiful the whole night",
 ② of a stretch of time {298}), `issarakataṁ` ("made by a lord", ③) and

@@ -28,7 +28,7 @@ Vasiṭṭha") and the one word `vāsiṭṭho` say the same thing.
 | affix | what you see | example | the ancestor | rule |
 | :-: | --- | --- | --- | :-: |
 | `ṇa` | the first vowel lengthened, `-a` | `vāsiṭṭho` | `vasiṭṭha` | {344} |
-| `ṇāyana`, `ṇāna` | `-āyana` or `-āna` after a clan name | `vacchāyano` | `vaccha` | {345} |
+| `ṇāyana`, `ṇāna` | `-āyana` or `-āna` after a clan name | `kaccāyano`, `moggallāno` | `kacca`, `moggalla` | {345} |
 | `ṇeyya` | `-eyya`, usually after a woman's name | `kattikeyyo` | `kattikā` | {346} |
 | `ṇi` | `-i` | `dakkhi` | `dakkha` | {347} |
 | `ṇava` | `-ava` after a name in `u` | `mānavo` | `manu` | {348} |
@@ -103,9 +103,12 @@ deconstruction.
 
 1. bhāradvājo
 2. vāsudevo
-3. venateyyo
-4. bhaggavo
-5. sāmaṇero
+3. moggallāno
+4. kaccāyano
+5. gaṅgeyyo
+6. venateyyo
+7. bhaggavo
+8. sāmaṇero
 
 ### Answers
 
@@ -123,19 +126,35 @@ of Bharadvāja / descendant → Bharadvāja's descendant
 of Vasudeva / descendant → Vasudeva's descendant  
 *`ṇa` {344}: the first `a` lengthened, `-a` added.*
 
-3. > vinatāya apaccaṁ → **venateyyo**
+3. > moggallassa apaccaṁ → **moggallāno**
+
+🚹⨀⑥(moggallassa) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇāna)(moggallāno)  
+of Moggalla / descendant → Moggalla's descendant  
+*`ṇāna` {345}: `-āna` added; `gg` keeps the first vowel short.*
+4. > kaccassa apaccaṁ → **kaccāyano**
+
+🚹⨀⑥(kaccassa) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇāyana)(kaccāyano)  
+of Kacca / descendant → Kacca's descendant  
+*`ṇāyana` {345}: `-āyana` added; `cc` keeps the first vowel short.*
+5. > gaṅgāya apaccaṁ → **gaṅgeyyo**
+
+🚺⨀⑥(gaṅgāya) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇeyya)(gaṅgeyyo)  
+of Gaṅgā / descendant → Gaṅgā's descendant  
+*`ṇeyya` {346}: `-eyya` added; `ṅg` keeps the first vowel short.*
+
+6. > vinatāya apaccaṁ → **venateyyo**
 
 🚺⨀⑥(vinatāya) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇeyya)(venateyyo)  
 of Vinatā / descendant → Vinatā's descendant  
 *`ṇeyya` {346}: the first `i` becomes `e`, `-eyya` added.*
 
-4. > bhaggussa apaccaṁ → **bhaggavo**
+7. > bhaggussa apaccaṁ → **bhaggavo**
 
 🚹⨀⑥(bhaggussa) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇava)(bhaggavo)  
 of Bhaggu / descendant → Bhaggu's descendant  
 *`ṇava` {348}: `-ava` in place of the final `u`; `gg` keeps the first vowel short.*
 
-5. > samaṇassa apaccaṁ → **sāmaṇero**
+8. > samaṇassa apaccaṁ → **sāmaṇero**
 
 🚹⨀⑥(samaṇassa) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇera)(sāmaṇero)  
 of a recluse / descendant → a recluse's "son", a novice  

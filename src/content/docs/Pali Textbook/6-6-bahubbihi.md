@@ -53,8 +53,8 @@ by the first member:
 | --- | --- | --- |
 | a participle in `-ta` | `chinnahattho`, `jitindriyo` | see the table above |
 | an adjective, often `a`- for `na` {333} | `anantañāṇo` | whose knowledge is endless |
-| a numeral | `dasabalo` | with the ten powers |
-| a comparison with `iva` or `viya` ("like") | `suvaṇṇavaṇṇo` | whose colour is like gold's |
+| a numeral | `catuddiso`, `pañcacakkhu`, `dasabalo` | with the four directions, five eyes, ten powers |
+| a comparison with `iva` or `viya` ("like") | `suvaṇṇavaṇṇo`, `brahmassaro` | whose colour is like gold's; whose voice is like Brahmā's |
 | a compound nested inside | `amitaghanasarīro` | whose solid body is measureless (`ghanasarīra`, a `kammadhāraya`, inside) |
 
 The name serves one later rule {167}: a `bahubbīhi` ending in a pronoun,

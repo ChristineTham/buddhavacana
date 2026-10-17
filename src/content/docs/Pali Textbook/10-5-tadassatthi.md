@@ -39,8 +39,8 @@ wood" {372}.
 | `vantu` | `-vā` on a word in `a` or `ā` | `guṇavā`, `bhagavā` | has `guṇa` (virtue), `bhaga` (good fortune): virtuous, the Blessed One | {368} |
 | `mantu` | `-mā` on a word in `i` or `u`; `āyu` becomes `āyas-` before it | `satimā`, `āyasmā` | has `sati` (mindfulness), `āyu` (life): mindful, venerable | {369}, {371} |
 | `ī`, `ika` | `-ī` or `-iko` in place of the final vowel | `daṇḍī`, `daṇḍiko` | has a `daṇḍa` (staff) | {366} |
-| `vī` | `-vī` on a word in `ā` | `medhāvī` | has `medhā` (wisdom): wise | {364} |
-| `sī` | `-ssī` | `tapassī` | has `tapa` (austerity): an ascetic | {365} |
+| `vī` | `-vī` on a word in `ā`; the rule's `ca` adds `sa`, `-so` | `medhāvī`, `sumedhaso` | has `medhā` (wisdom): wise | {364} |
+| `sī` | `-ssī`, the `s` doubled | `tapassī` | has `tapa` (austerity): an ascetic | {365} |
 | `ra` | `-ro` | `madhuro` | has `madhu` (honey): sweet | {367} |
 | `ṇa` | nothing you can see: the noun with `-o`; `ddh`, `ññ` keep the first vowel short ([10.1](../10-1-apacca/)) | `saddho`, `pañño` | has `saddhā` (faith), `paññā` (wisdom): faithful, wise | {370} |
 | `maya` | `-maya` after the name of a material | `dārumayaṁ` | made of `dāru` (wood) | {372} |

@@ -51,7 +51,7 @@ with a neuter one), as a first member it has one short form:
 
 | number | as a first member | examples, with the words they join |
 | --- | --- | --- |
-| three | `ti` | `tilokaṁ` (`tayo lokā`); `tidaṇḍaṁ`, the triple rod (`tayo daṇḍā`); `timalaṁ`, the three stains (`tīṇi malāni`); `tiphalaṁ`, the three fruits; `tinayanaṁ`, the three eyes; `tisiṅgaṁ`, a triangle |
+| three | `ti` | `tilokaṁ` (`tayo lokā`); `tiparivaṭṭaṁ`, with three phases (`tayo parivaṭṭā`); `tidaṇḍaṁ`, the triple rod (`tayo daṇḍā`); `timalaṁ`, the three stains (`tīṇi malāni`); `tiphalaṁ`, the three fruits; `tinayanaṁ`, the three eyes; `tisiṅgaṁ`, a triangle |
 | four | `catu`, the consonant after it doubled {28} | `catuddisaṁ`, the four directions (`catasso disā`) |
 | five | `pañca`, its `a` dropped before a vowel {12} | `pañcindriyaṁ`, the five faculties (`pañca indriyāni`) |
 | six | `cha`, which becomes `saḷ` before `āyatana` {571} | `saḷāyatanaṁ`, the six sense bases (`cha āyatanāni`) |
@@ -74,8 +74,7 @@ four / directions → the four directions
 ### Exercises
 
 Each of the following is a `digu`. Say which numeral it holds and what the
-numeral counts, and give the meaning. The first two you met in the Bodhikathā
-of [chapter 3](../3-awakening/); the other two are Kaccāyana's own. Look each
+numeral counts, and give the meaning. The first two you met in the Bodhikathā of [chapter 3](../3-awakening/) and the last in the first discourse ([chapter 5](../5-dhammacakka/)); the other two are Kaccāyana's own. Look each
 word up in a dictionary and compare the number and gender of the members with
 the compound's.
 
@@ -89,6 +88,7 @@ deconstruction.
 2. sattāhaṁ ([3: 2.2](../3-awakening/#u2-2))
 3. pañcindriyaṁ
 4. tidaṇḍaṁ
+5. tiparivaṭṭaṁ ([5: 9.1](../5-dhammacakka/#u9-1))
 
 ### Answers
 
@@ -117,3 +117,9 @@ five / faculties → the five faculties
 🚹⨂①(tayo) 🚹⨂①(daṇḍā) → 🚻⨀①🆎(ti+daṇḍa)  
 three / rods → the triple rod  
 *`ti` for `tayo` {325}, as in `tilokaṁ`; the three rods taken as one set, neuter and singular {321}.*
+
+5. > tayo parivaṭṭā → **tiparivaṭṭaṁ**
+
+🚹⨂①(tayo) 🚹⨂①(parivaṭṭā) → 🚻⨀①🆎(ti+parivaṭṭa)  
+three / phases → with three phases  
+*`ti` for `tayo` {325}, as in `tilokaṁ`; the three taken as one set, neuter and singular {321}, as every `digu` is.*

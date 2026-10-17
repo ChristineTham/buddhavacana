@@ -36,7 +36,7 @@ an abundance of it. `tā` is the one you will meet; the others are rare, and
 | :-: | --- | --- | --- | :-: |
 | `kaṇ`, `ṇa` | the first vowel lengthened, `-ako` or `-o` | a collection of what the word names (`samūha`, "a collection") | `rājaputtako` ("a body of princes") | {354} |
 | `tā` | `-tā` after `gāma`, `jana`, `bandhu`, `sahāya` and the like | a collection of them | `gāmatā` ("a group of villages"), `janatā` ("the people") | {355} |
-| `iya` | `-iyaṁ` after a word for an act | what is an occasion of it (`ṭhāna`, "occasion") | `madaniyaṁ` ("an occasion of intoxication") | {356} |
+| `iya` | `-iyaṁ` after a word for an act | what is an occasion of it (`ṭhāna`, "occasion") | `madaniyaṁ` ("an occasion of intoxication"), `dassaniyaṁ` ("fit to be seen") | {356} |
 | `āyitatta` | `-āyitattaṁ` | a likeness (`upamā`, "comparison"): a state that looks like it | `dhūmāyitattaṁ` ("smokiness, a cloud of smoke") | {357} |
 | `la` | `-llaṁ`, the `l` doubled | what depends on it (`nissita`, "dependent on"), or is an occasion of it | `duṭṭhullaṁ` ("coarse, lewd"), `vedallaṁ` ("a catechism") | {358} |
 | `ālu` | `-ālu` in place of the final vowel | one in whom it abounds (`bahula`, "abundant") | `abhijjhālu` ("covetous"), `dayālu` ("compassionate") | {359} |
@@ -57,6 +57,12 @@ describes a person and ends in `-u`.
 of villages / a collection → a group of villages  
 *`tā` {355}: `-tā` added to `gāma` ("village"); the new word is feminine and ends in `-ā`.*
 
+> madanassa ṭhānaṁ → **madaniyaṁ**
+
+🚻⨀⑥(madanassa) 🚻⨀①(ṭhānaṁ) → 🚻⨀①🔽(iya)(madaniyaṁ)  
+of intoxication / the occasion → an occasion of intoxication  
+*`iya` {356}: `-iya` in place of the final `a` of `madana` ("intoxication"); Kaccāyana's own example.*
+
 ### Exercises
 
 Each of the following is a noun with one of this section's affixes. Say which
@@ -70,9 +76,11 @@ deconstruction.
 :::
 
 1. janatā
-2. abhijjhālu
-3. sītālu
-4. dayālu
+2. sahāyatā
+3. timirāyitattaṁ
+4. abhijjhālu
+5. sītālu
+6. dayālu
 
 ### Answers
 
@@ -84,19 +92,31 @@ deconstruction.
 of people / a collection → the people, the populace  
 *`tā` {355}: `-tā` added to `jana` ("person"); a word you will meet often.*
 
-2. > abhijjhā assa pakati → **abhijjhālu**
+2. > sahāyānaṁ samūho → **sahāyatā**
+
+🚹⨂⑥(sahāyānaṁ) 🚹⨀①(samūho) → 🚺⨀①🔽(tā)(sahāyatā)  
+of companions / a collection → companionship  
+*`tā` {355}: `-tā` added to `sahāya` ("companion"): a company of companions; Kaccāyana's own example.*
+
+3. > timiraṁ viya dissati aduṁ vanaṁ → **timirāyitattaṁ**
+
+🚻⨀①(timiraṁ) ⏏️(viya) 🔴⨀🤟▶️(dissati) *️⃣🤟🚻⨀①(aduṁ) 🚻⨀①(vanaṁ) → 🚻⨀①🔽(āyitatta)(timirāyitattaṁ)  
+darkness / like / appears / that / forest → gloom, a darkness-like state  
+*`āyitatta` {357}: `-āyitattaṁ` in place of the final `a` of `timira` ("darkness"): what looks like darkness; Kaccāyana's own example.*
+
+4. > abhijjhā assa pakati → **abhijjhālu**
 
 🚺⨀①(abhijjhā) *️⃣🤟🚹⨀⑥(assa) 🚺⨀①(pakati) → 🚹⨀①🔽(ālu)(abhijjhālu)  
 covetousness / his / nature → covetous  
 *`ālu` {359}: `-ālu` in place of the final `ā` of `abhijjhā`; the word describes the person.*
 
-3. > sītaṁ assa pakati → **sītālu**
+5. > sītaṁ assa pakati → **sītālu**
 
 🚻⨀①(sītaṁ) *️⃣🤟🚹⨀⑥(assa) 🚺⨀①(pakati) → 🚹⨀①🔽(ālu)(sītālu)  
 cold / his / nature → sensitive to cold  
 *`ālu` {359}: `-ālu` in place of the final `a` of `sīta` ("cold"); one in whom cold abounds.*
 
-4. > dayā assa pakati → **dayālu**
+6. > dayā assa pakati → **dayālu**
 
 🚺⨀①(dayā) *️⃣🤟🚹⨀⑥(assa) 🚺⨀①(pakati) → 🚹⨀①🔽(ālu)(dayālu)  
 compassion / his / nature → kind, compassionate  

@@ -54,7 +54,7 @@ flowchart TD
 
 Of these the `kammadhāraya` and the `tappurisa` are by far the commonest in the
 texts, with the `bahubbīhi` and the `dvanda` next; the `digu` and the
-`abyayībhāva` are rare. Kaccāyana then states the changes that some members
+`abyayībhāva` are rare.[^dpd] Kaccāyana then states the changes that some members
 undergo at the beginning {330}–{336} and at the end {337}–{343} of a compound.
 The chapter opens with the three rules that say what a compound is, follows
 that order with one section for each kind, and ends with the changes at the end
@@ -111,3 +111,5 @@ full rule in the Kaccāyana translation.
 | {341} | Aṁ vibhattīnamakārantā abyayībhāvā | `aṁ` for the inflections after an `abyayībhāva` in `a` |
 | {342} | Saro rasso napuṁsake | the final vowel is shortened in the neuter |
 | {343} | Aññasmā lopo ca | and elision of the inflections after any other `abyayībhāva` |
+
+[^dpd]: The Digital Pāḷi Dictionary is the place to look up what a word means, but it is weak at saying how a derived word is made: its construction and compound-type fields often cut a word differently from Kaccāyana, reading `rūpasaññā` as a ⑥ compound rather than the ⑦ of Kaccāyana's rule, `bhikkhusahassa` as a `digu` though its numeral stands last, and `brahmassaro` as a `tappurisa` where Kaccāyana's rule makes it a `bahubbīhi`. Where the two differ, this book follows Kaccāyana: the examples are the rules' own, and the dictionary's cut is no evidence against them.

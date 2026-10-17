@@ -57,7 +57,7 @@ itself is dropped {396}. The affix `ṇa` therefore adds only `a`; `ṇika` adds
 Kaccāyana treats some sixty `taddhita` affixes and fifty `uṇādi` affixes. A
 handful account for most of the derived words in the texts. The counts are of
 the words the Digital Pāḷi Dictionary assigns to each affix and of their
-occurrences in the early discourses:
+occurrences in the early discourses[^dpd]:
 
 | affix | sense | a word you will meet | words | occurrences | section |
 | :-: | --- | --- | --: | --: | :-: |
@@ -98,3 +98,5 @@ then [10.5](../10-5-tadassatthi/), [10.4](../10-4-bhava/) and
 rarer senses and on the individual `uṇādi` words are for looking things up,
 and every rule number links to the full rule in the Kaccāyana translation.
 :::
+
+[^dpd]: The Digital Pāḷi Dictionary is the place to look up what a word means, but it is weak at saying how a derived word is made: its construction and compound-type fields often cut a word differently from Kaccāyana, deriving `kaccāyano` from `kati` rather than `kacca`, `madaniyaṁ` from `√mad` with `anīya` rather than `madana` with `iya`, and reading `rūpasaññā` as a ⑥ compound rather than the ⑦ of Kaccāyana's rule. Where the two differ, this book follows Kaccāyana: the examples are the rules' own, and the dictionary's cut is no evidence against them.

@@ -47,10 +47,10 @@ becomes `a` or `an` {333}–{334}, and `ku` ("bad") becomes `kad` or `kā`
 | --- | --- | --- | :-: |
 | an adjective, then its noun | the noun as described: a snake that is black | `kaṇhasappo` ("a black snake", `kaṇha` + `sappa`) | {324} |
 | a noun, then another noun for the same person or thing | both names at once: a brahmin woman who is a girl | `brāhmaṇadārikā` ("a brahmin girl", `brāhmaṇī` + `dārikā`) | {324} |
-| `mahā-`, or `maha-` with the next consonant doubled | "great": `mahanta` in its compound shape | `mahāpuriso` ("a great man"), `mahabbhayaṁ` ("great danger") | {330} |
+| `mahā-`, or `maha-` with the next consonant doubled | "great": `mahanta` in its compound shape | `mahāpuriso` ("a great man"), `mahapphalaṁ` ("of great fruit"), `mahabbhayaṁ` ("great danger") | {330} |
 | a feminine word in its masculine shape, then a feminine noun | the first word describes the second | `khattiyakaññā` ("a khattiya maiden", `khattiyā` + `kaññā`) | {331}, {332} |
 | `a-` before a consonant, `an-` before a vowel | "not": the word `na` | `abrāhmaṇo` ("a non-brahmin"), `aniccaṁ` ("impermanent"); `anariyo` ("ignoble"), `anattā` ("not-self") | {333}, {334} |
-| `kad-` before a vowel, `kā-`, or `ku-` before a consonant | "bad", and `kā-` also "a little": the word `ku` | `kadannaṁ` ("bad food"), `kālavaṇaṁ` ("a little salt") | {335}, {336} |
+| `kad-` before a vowel, `kā-`, or `ku-` before a consonant | "bad", and `kā-` also "a little": the word `ku` | `kadannaṁ` ("bad food"), `kālavaṇaṁ` ("a little salt"), `kujanā` ("bad people") | {335}, {336} |
 
 The `maha-` shape doubles the consonant after it {29}, so `mahabbhayaṁ`
 carries the same `mahanta` as `mahāpuriso`. The rule for a feminine word is
