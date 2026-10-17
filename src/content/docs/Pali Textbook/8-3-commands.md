@@ -98,7 +98,7 @@ All twelve endings of each set are in [Appendix I](../i-verbs/) and chapter
 
 ### Examples
 
-All from chapter [9](../11-pbt/); the numbers name its selection and sentence.
+All from chapter [11](../11-pbt/); the numbers name its selection and sentence.
 
 > ‘kāyo me **passambhatū**’ti.
 
@@ -126,7 +126,7 @@ are? / youse / bhikkhave / thus / knowing / thus / seeing / will say
 
 ### Exercises
 
-Each of the following is a verb from chapter [9](../11-pbt/), in the form it
+Each of the following is a verb from chapter [11](../11-pbt/), in the form it
 has there. Name the set, the ending, the person and the number, and say
 whether it is a command, a wish or a supposition. Look each up in a
 dictionary and check its ending against the tables.

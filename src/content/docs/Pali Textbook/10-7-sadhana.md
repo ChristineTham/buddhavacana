@@ -108,7 +108,7 @@ is to be eaten / the rice / by you
 ### Exercises
 
 Each of the following you met in chapter [3](../3-awakening/) or
-[5](../11-pbt/), in the form it has there, in the phrase given. Say which
+[11](../11-pbt/), in the form it has there, in the phrase given. Say which
 affix it carries, which root it is built on and which of the four senses it
 has; look the word up in a dictionary and check the root against the changes
 above.

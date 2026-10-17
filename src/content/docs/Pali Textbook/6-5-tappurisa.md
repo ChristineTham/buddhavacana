@@ -38,7 +38,7 @@ the first member has lost, and it names the kind.
 ### The six kinds, by the ending of the first member
 
 One phrase and its compound for each ending, ② to ⑦; the ending is the one
-chapter [2](../4-0-karaka/) gives the first word for its work in the sentence:
+chapter [4](../4-0-karaka/) gives the first word for its work in the sentence:
 
 | ending | the first member is … | phrase → compound | meaning | rule |
 | :-: | --- | --- | --- | :-: |
@@ -97,7 +97,7 @@ to the ground / gone → gone to the ground
 ### Exercises
 
 Each of the following is a `tappurisa` from chapter [3](../3-awakening/) or
-[5](../11-pbt/), in the form it has there. Split it into its members,
+[11](../11-pbt/), in the form it has there. Split it into its members,
 say which ending the first member would carry on its own, and give the
 meaning. Look the word up in a dictionary and check the kind it is given.
 

@@ -135,7 +135,7 @@ self / tames / the wise → The wise tames the self.
 ### Exercises
 
 Each of the following is from chapter [3](../3-awakening/),
-[4](../5-dhammacakka/) or [9](../11-pbt/). Find the verb or verb-like form and
+[5](../5-dhammacakka/) or [11](../11-pbt/). Find the verb or verb-like form and
 say which piece stands before its ending, whether it is passive, causative or
 neither, and what its root is; a dictionary gives the root's class.
 
