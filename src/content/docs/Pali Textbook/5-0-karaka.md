@@ -39,7 +39,7 @@ Kaccāyana first defines the seven `kāraka` {271}–{283}, in the order below, 
 On a first reading take the first use or two of each section, the ones the diagram names,
 and their examples; the later uses of each ending are rarer, and every rule number links to
 the full rule in the Kaccāyana translation. Come back for the rest once the texts of
-chapters 3, 4 and 7 have made the endings familiar.
+chapters 3, 4 and 9 have made the endings familiar.
 :::
 
 | section | `kāraka` | English name | usual ending | definition | uses of the ending |

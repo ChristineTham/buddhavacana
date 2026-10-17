@@ -24,7 +24,7 @@ the number with an affix: `dvinnaṁ pūraṇo` ("the completer of two") and the
 is a number or a pronoun with an affix meaning "in so many ways" or "in that
 way", `ekadhā` ("in one way"), `tathā` ("so"); it never changes its ending,
 being a particle (`nipāta`), marked ⏏️ in this book and 🔼 in the texts of
-chapter 7.
+chapter 9.
 
 The question to ask is what ends the word: `-ma`, `-tiya` or `-ttha` makes
 an ordinal; `-dhā`, `-so`, `-thā` or `-thaṁ` a word of division or manner;
@@ -91,7 +91,7 @@ by one / division → in one way
 
 ### Exercises
 
-Each item comes from the texts of chapter 7. Name the affix each ordinal or
+Each item comes from the texts of chapter 9. Name the affix each ordinal or
 manner word carries and give its meaning; in the last, find the two words
 made with `thā`.
 

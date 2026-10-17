@@ -90,7 +90,7 @@ by boat / crosses → one who crosses by boat, a sailor
 
 🚹⨀③(kāyena) 🚻⨀①🔽(ta)(kataṁ) 🚻⨀①(kammaṁ) → 🚻⨀①🔽(ṇika)(kāyikaṁ)  
 by the body / done / act → a bodily act  
-*`ṇika` {351}, "made by": `-ika` on `kāya`; chapter 7's `kāyikaṁ vā cetasikaṁ vā`, "relating to the body or to the mind".*
+*`ṇika` {351}, "made by": `-ika` on `kāya`; chapter 9's `kāyikaṁ vā cetasikaṁ vā`, "relating to the body or to the mind".*
 
 > pacchā jāto → **pacchimo**
 
@@ -100,7 +100,7 @@ after / born → born after, last
 
 ### Exercises
 
-Each of the following is a word you met in the texts of chapters 3, 4 and 7.
+Each of the following is a word you met in the texts of chapters 3, 4 and 9.
 Say which affix it carries, what the base is and what connection with the
 base the word names; then look the word up and compare. (`sandiṭṭhiko`, in
 the same sentence as the first three, is `sandiṭṭhi` with the affix `ka`, not
@@ -129,13 +129,13 @@ deconstruction.
 
 🚹⨀①(akālo) → 🚹⨀①🔽(ṇika)(akāliko)  
 not the time → not tied to time, immediate  
-*`ṇika` {350}, a further sense (the rule's `vā`): `-ika` added to `akāla`, nothing lengthened; said of the Dhamma in chapter 7.*
+*`ṇika` {350}, a further sense (the rule's `vā`): `-ika` added to `akāla`, nothing lengthened; said of the Dhamma in chapter 9.*
 
 2. > ehi passa → **ehipassiko**
 
 🟢⨀🤘⏹(ehi) 🟢⨀🤘⏹(passa) → 🚹⨀①🔽(ṇika)(ehipassiko)  
 come! / see! → inviting one to come and see, verifiable  
-*`ṇika` {350}, a further sense (the rule's `vā`): `-ika` added to the saying `ehi passa`; chapter 7 glosses it "verifiable".*
+*`ṇika` {350}, a further sense (the rule's `vā`): `-ika` added to the saying `ehi passa`; chapter 9 glosses it "verifiable".*
 
 3. > upaneyyo → **opaneyyiko**
 
@@ -147,19 +147,19 @@ to be led towards (`upa` + `√nī`, "lead") → leading onward
 
 🚹⨀③(cetasā) 🚻⨀①🔽(ta)(kataṁ) → 🚻⨀①🔽(ṇika)(cetasikaṁ)  
 by the mind / done → mental  
-*`ṇika` {351}, "made by", as `kāyikaṁ`: `-ika` added to `cetas`; chapter 7's `kāyikaṁ vā cetasikaṁ vā`.*
+*`ṇika` {351}, "made by", as `kāyikaṁ`: `-ika` added to `cetas`; chapter 9's `kāyikaṁ vā cetasikaṁ vā`.*
 
 5. > punabbhavo → **ponobbhavikā**
 
 🚹⨀①🆎(puna+bhava) → 🚺⨀①🔽(ṇika)(ponobbhavikā)  
 rebirth → leading to rebirth  
-*`ṇika` {350}, a further sense (the rule's `vā`): `puna` becomes `pono`, `-ika` added; chapter 7's `taṇhā ponobbhavikā`.*
+*`ṇika` {350}, a further sense (the rule's `vā`): `puna` becomes `pono`, `-ika` added; chapter 9's `taṇhā ponobbhavikā`.*
 
 6. > niraye jātā → **nerayikā**
 
 🚹⨀⑦(niraye) 🚹⨂①🔽(ta)(jātā) → 🚹⨂①🔽(ṇika)(nerayikā)  
 in hell / born → born in hell, living in hell  
-*`ṇika` {350}, "born in", as `rājagahiko`: the first `i` becomes `e`, `-ika` added; chapter 7's `sattā nerayikā`.*
+*`ṇika` {350}, "born in", as `rājagahiko`: the first `i` becomes `e`, `-ika` added; chapter 9's `sattā nerayikā`.*
 
 7. > majjhe jātaṁ → **majjhimaṁ**
 
@@ -171,4 +171,4 @@ in the middle / born → middle
 
 ⏏️(anto) 🚺⨀①🔽(ta)(niyuttā) → 🚺⨀①🔽(ima)(antimā)  
 at the end / set → final, the last  
-*`ima` {353}, "set at the end", by the rule's "and the like": `-ima` added to `anta`; chapter 7's `ayamantimā jāti`.*
+*`ima` {353}, "set at the end", by the rule's "and the like": `-ima` added to `anta`; chapter 9's `ayamantimā jāti`.*

@@ -29,7 +29,7 @@ meaning: `samatho`, "it calms".
 
 ### Words worth knowing
 
-Mostly from the texts of chapters [3](../3-awakening/) and [5](../7-pbt/).
+Mostly from the texts of chapters [3](../3-awakening/) and [5](../9-pbt/).
 
 | word | meaning | root + affix | rule |
 | --- | --- | --- | :-: |

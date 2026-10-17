@@ -54,7 +54,7 @@ flowchart TD
 
 Every section is built the same way: a short explanation, a table of the
 shapes to recognise with the rule that makes each, a few worked examples from
-the texts of chapters 3, 4 and 7, and one block of exercises on sentences from
+the texts of chapters 3, 4 and 9, and one block of exercises on sentences from
 those texts. Kaccāyana's own account of each form, the derivation, stays behind
 the rule number, which links to it.
 

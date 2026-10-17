@@ -101,7 +101,7 @@ this one / among these / by distinction / bad → worst
 ### Exercises
 
 Each of the following carries one of this section's affixes; all but one you
-met in chapter 7, some in another ending. Say which affix it carries, what
+met in chapter 9, some in another ending. Say which affix it carries, what
 word it is built on, and whether it names a state or singles one out. Check
 its make-up in a dictionary against the tables above.
 
@@ -128,7 +128,7 @@ deconstruction.
 
 🚹⨀⑥(dhammassa) 🚹⨀①(bhāvo) → 🚺⨀①🔽(tā)(dhammatā)  
 of nature / the state → the natural state, a characteristic  
-*`tā` {360}: `-tā` on `dhamma` (nature); chapter 7's "Dhammatā esā", "this characteristic".*
+*`tā` {360}: `-tā` on `dhamma` (nature); chapter 9's "Dhammatā esā", "this characteristic".*
 
 2. > sahabyassa bhāvo → **sahabyatā**
 

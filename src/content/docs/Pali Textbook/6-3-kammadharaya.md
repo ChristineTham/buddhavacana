@@ -73,7 +73,7 @@ black / and / it / a snake / and → a black snake
 
 🚹⨀①(mahanto) ⏏️(ca) *️⃣🤟🚹⨀①(so) 🚹⨀①(puriso) ⏏️(ca) → 🚹⨀①🆎(mahanta+purisa)  
 great / and / he / a man / and → a great man  
-*`mahā` for `mahanta` {330}: "great" + "man"; it is the first part of `mahāpurisavihāro` in chapter 7.*
+*`mahā` for `mahanta` {330}: "great" + "man"; it is the first part of `mahāpurisavihāro` in chapter 9.*
 
 > na brāhmaṇo → **abrāhmaṇo**
 
@@ -84,7 +84,7 @@ not / a brahmin → a non-brahmin
 ### Exercises
 
 Each of the following compounds you have met in the Bodhikathā (chapter 3) or
-in the Pali Buddhist Texts (chapter 7), in the form it has there. Resolve it
+in the Pali Buddhist Texts (chapter 9), in the form it has there. Resolve it
 into its members, say which kind of `kammadhāraya` it is, and give the meaning.
 Look the word up in a dictionary and check its first member against the table
 above.
@@ -124,34 +124,34 @@ first + fully awakened → newly fully awakened
 
 🚺⨀②🆎(nīca+seyyā)  
 low + bed → low bed  
-*adjective + noun {324}: `nīca` ("low") describes `seyyā` ("bed"); chapter 7, `nīcaseyyaṁ kappenti`.*
+*adjective + noun {324}: `nīca` ("low") describes `seyyā` ("bed"); chapter 9, `nīcaseyyaṁ kappenti`.*
 
 4. > sāyanha + samaya → **sāyanhasamayaṁ**
 
 🚹⨀②🆎(sāyanha+samaya)  
 evening + time → in the late afternoon  
-*noun + noun {324}: `sāyanha` ("evening") and `samaya` ("time") name one time; chapter 7, `sāyanhasamayaṁ paṭisallānā vuṭṭhito`.*
+*noun + noun {324}: `sāyanha` ("evening") and `samaya` ("time") name one time; chapter 9, `sāyanhasamayaṁ paṭisallānā vuṭṭhito`.*
 
 5. > tathā + gata → **tathāgato**
 
 🚹⨀①🆎(tathā+gata)  
 thus + gone → Tathāgata  
-*`tathā` ("thus") describes `gata` ("gone", "become") {324}: the Buddha's title; chapter 7, `tathāgato vā tathāgatasāvako vā`.*
+*`tathā` ("thus") describes `gata` ("gone", "become") {324}: the Buddha's title; chapter 9, `tathāgato vā tathāgatasāvako vā`.*
 
 6. > sammā + diṭṭhi → **sammādiṭṭhi**
 
 🚺⨀①🆎(sammā+diṭṭhi)  
 rightly + view → right view  
-*`sammā` ("rightly") describes `diṭṭhi` ("view") {324}: the first factor of the path; chapter 7, `sammādiṭṭhi sammāsaṅkappo`.*
+*`sammā` ("rightly") describes `diṭṭhi` ("view") {324}: the first factor of the path; chapter 9, `sammādiṭṭhi sammāsaṅkappo`.*
 
 7. > na + agāriya → **anagāriyaṁ**
 
 🚻⨀②🆎(na+agāriya)  
 not + belonging to a house → to homeless state  
-*`an` for `na` before a vowel {334}: `agāriya` ("belonging to a house"); chapter 7, `agārasmā anagāriyaṁ`.*
+*`an` for `na` before a vowel {334}: `agāriya` ("belonging to a house"); chapter 9, `agārasmā anagāriyaṁ`.*
 
 8. > na + mata → **amataṁ**
 
 🚻⨀①🆎(na+mata)  
 not + dead → free from death  
-*`a` for `na` {333}: "not dead", the deathless, a name of nibbāna; chapter 7, `amataṁ ajjāpi ca labhanīyamidaṁ`.*
+*`a` for `na` {333}: "not dead", the deathless, a name of nibbāna; chapter 9, `amataṁ ajjāpi ca labhanīyamidaṁ`.*

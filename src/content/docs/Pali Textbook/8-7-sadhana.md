@@ -107,7 +107,7 @@ is to be eaten / the rice / by you
 ### Exercises
 
 Each of the following you met in chapter [3](../3-awakening/) or
-[5](../7-pbt/), in the form it has there, in the phrase given. Say which
+[5](../9-pbt/), in the form it has there, in the phrase given. Say which
 affix it carries, which root it is built on and which of the four senses it
 has; look the word up in a dictionary and check the root against the changes
 above.
@@ -118,14 +118,14 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. satthā (chapter 7: `satthā no garu`)
-2. sāvako (chapter 7: the last member of `ariyasāvako`)
-3. sāsanaṁ (chapter 7: `etaṁ buddhāna sāsanaṁ`)
-4. dassanaṁ (chapter 7: `ñāṇañca pana me dassanaṁ udapādi`)
-5. cetanā (chapter 7: `na cetanāya karaṇīyaṁ`)
+1. satthā (chapter 9: `satthā no garu`)
+2. sāvako (chapter 9: the last member of `ariyasāvako`)
+3. sāsanaṁ (chapter 9: `etaṁ buddhāna sāsanaṁ`)
+4. dassanaṁ (chapter 9: `ñāṇañca pana me dassanaṁ udapādi`)
+5. cetanā (chapter 9: `na cetanāya karaṇīyaṁ`)
 6. jāti (Bodhikathā 3.10: `bhavapaccayā jāti`)
-7. pahātabbo (chapter 7: `rāgānusayo pahātabbo`)
-8. carituṁ (chapter 7: `brahmacariyaṁ carituṁ`)
+7. pahātabbo (chapter 9: `rāgānusayo pahātabbo`)
+8. carituṁ (chapter 9: `brahmacariyaṁ carituṁ`)
 
 ### Answers
 
@@ -153,13 +153,13 @@ teaching
 
 🚻⨀①🔽(yu)(dassanaṁ)  
 realisation  
-*`yu` {547}: `-ana` on `√disa` (see), shaped `dass-`: the act of seeing, chapter 7's "realisation".*
+*`yu` {547}: `-ana` on `√disa` (see), shaped `dass-`: the act of seeing, chapter 9's "realisation".*
 
 5. > **cetanā**
 
 🚺⨀①🔽(yu)(cetanā)  
 intention  
-*`yu` {553}: `-anā` on `√cita` (intend), `i` as `e`: the act of intending; chapter 7 has its ③.*
+*`yu` {553}: `-anā` on `√cita` (intend), `i` as `e`: the act of intending; chapter 9 has its ③.*
 
 6. > **jāti**
 

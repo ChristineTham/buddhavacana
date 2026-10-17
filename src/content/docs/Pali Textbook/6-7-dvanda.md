@@ -94,7 +94,7 @@ the eye / and / the ear / and → eye and ear
 Resolve the following compounds into their members, say which shape of
 `dvanda` each has and why, and give the meaning. Look up the words in a
 dictionary and take note of the ending each member would take on its own. All
-six come from the texts of chapters 3, 4 and 7.
+six come from the texts of chapters 3, 4 and 9.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -141,10 +141,10 @@ hair / and / beard / and → hair and beard
 
 🚹⨀①(vitakko) ⏏️(ca) 🚹⨀①(vicāro) ⏏️(ca) → 🚹⨂①🆎(vitakka+vicāra)  
 thought / and / consideration / and → thinking and investigating  
-*`dvanda` {329}, plural: two processes counted apart; chapter 7 renders them "reflection and consideration".*
+*`dvanda` {329}, plural: two processes counted apart; chapter 9 renders them "reflection and consideration".*
 
 6. > assāso ca passāso ca → **assāsapassāsā**
 
 🚹⨀①(assāso) ⏏️(ca) 🚹⨀①(passāso) ⏏️(ca) → 🚹⨂①🆎(assāsa+passāsa)  
 in-breath / and / out-breath / and → breathing in and out  
-*`dvanda` {329}, plural, the two breaths counted apart; chapter 7 renders it "breathing in and out".*
+*`dvanda` {329}, plural, the two breaths counted apart; chapter 9 renders it "breathing in and out".*

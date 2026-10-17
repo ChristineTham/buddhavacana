@@ -88,7 +88,7 @@ while the monks / [were] being fed / gone
 
 ### Exercises
 
-Each sentence is from the texts of chapters 3, 4 and 7 and has a ⑦ word. Find
+Each sentence is from the texts of chapters 3, 4 and 9 and has a ⑦ word. Find
 it, say what it is doing there — the place, the time or an event that sets the
 time — and translate the sentence.
 
