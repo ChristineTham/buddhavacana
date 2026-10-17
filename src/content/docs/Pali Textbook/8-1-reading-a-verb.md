@@ -35,7 +35,7 @@ one at a time.
 
 The book marks a verb with four symbols and the lemma to look up:
 `🟢⨀🤟▶️(viharati)` is active, singular, third person, present, lemma
-`viharati`; chapter 11's lines, made earlier, order them time, person,
+`viharati`; the bonus chapter's lines, made earlier, order them time, person,
 number: `⏮👆⨀(paṭilabhi)`.
 
 ### The three persons
@@ -77,8 +77,8 @@ met below.
 
 `pañcamī` and `sattamī` are labels, shared with the ⑤ and ⑦ noun endings;
 the other names describe their time. The `hiyyattanī` occurs once in the
-texts (`ajjhagamaṁ`, "I achieved", [11: 46, 18.1](../11-pbt/#s46-u18-1)) and the
-`parokkhā` once (`āha` inside `evamāha`, [11: 1, 24.8](../11-pbt/#s1-u24-8)); the `ajjatanī` is on
+texts (`ajjhagamaṁ`, "I achieved", [Bonus: 46, 18.1](../11-pbt/#s46-u18-1)) and the
+`parokkhā` once (`āha` inside `evamāha`, [Bonus: 1, 24.8](../11-pbt/#s1-u24-8)); the `ajjatanī` is on
 every page. Three more rules shape what you see: `vattamānā`, `pañcamī`,
 `sattamī` and `hiyyattanī` are grouped as `sabbadhātuka` {431}, and the other
 four put an `i` before the ending, the `i` of `bhav-i-ssati` {516}; the three
@@ -136,7 +136,7 @@ forth", 🔵⏯👆⨀) and `-etha` in `paññāyetha` ("it would be evident", �
 :::note[How to tell the lookalike endings apart]
 `-tha` is "you (plural)" in the present and in a command, `-ttha` in the past;
 `-mi` and `-ma` are "I" and "we" in the present and in a wish alike
-([11: 18, 1.20](../11-pbt/#s18-u1-20) marks `jānāmi passāmi`, "may I know and see", ⏹); and `-ssa-` is the future
+([Bonus: 18, 1.20](../11-pbt/#s18-u1-20) marks `jānāmi passāmi`, "may I know and see", ⏹); and `-ssa-` is the future
 when the word ends `-ssati`, `-ssanti`, `-ssāmi`, but "would have" when an
 `a` stands before the root and the word ends in `-ssa` (`bhavissati`,
 `abhavissa`). Where the ending alone does not decide, the sentence does: a
@@ -172,7 +172,7 @@ thus / my / form / let be
 
 🔼(apinu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) 🔼(evaṁ) 🚹⨂①(jānanta) 🔼(evaṁ) 🚹⨂①(passanta) ⏯🤘⨂(vadati)  
 are? / youse / bhikkhave / thus / knowing / thus / seeing / will say  
-*"Thus knowing and thus seeing, bhikkhave, will you say -" ([11: 1, 24.4](../11-pbt/#s1-u24-4)) `vadeyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, the subject `tumhe` {411}; "would you say", a supposition {416}.*
+*"Thus knowing and thus seeing, bhikkhave, will you say -" ([Bonus: 1, 24.4](../11-pbt/#s1-u24-4)) `vadeyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, the subject `tumhe` {411}; "would you say", a supposition {416}.*
 
 > Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena **nisīdi** vimuttisukhapaṭisaṁvedī.
 
@@ -184,7 +184,7 @@ then / indeed / the Bhagavā / at the root of the bodhi tree / for seven days / 
 
 🚻⨀①(āraddha) 🔼(kho pana) *️⃣👆⚧⨀③(ahaṁ) 🚻⨀①(vīriya) ⏭🤟⨀(bhavati) 🚻⨀①(asallīna)  
 applied / and now / with me / determination / will become / active  
-*"And now applied with me there will be active determination" ([11: 45, 9.7](../11-pbt/#s45-u9-7)) `bhavissati`: `-ssati`, `bhavissantī` ⏭, third person singular {429}; the `i` before `ssa` is the insertion every future takes {516}, `bhav-i-ssati`.*
+*"And now applied with me there will be active determination" ([Bonus: 45, 9.7](../11-pbt/#s45-u9-7)) `bhavissati`: `-ssati`, `bhavissantī` ⏭, third person singular {429}; the `i` before `ssa` is the insertion every future takes {516}, `bhav-i-ssati`.*
 
 > Rūpañca hidaṁ, bhikkhave, attā **abhavissa**,
 
@@ -195,7 +195,7 @@ form / and / indeed / this / bhikkhave / self / would be
 ### Exercises
 
 Each of the following is a verb from the texts of chapters [3](../3-awakening/),
-[5](../5-dhammacakka/), [7](../7-anatta/), [9](../9-fire/) and [11](../11-pbt/), in
+[5](../5-dhammacakka/), [7](../7-anatta/), [9](../9-fire/) and the [bonus chapter](../11-pbt/), in
 the form it has there. Name its set, its ending, its person and its number,
 and say what the sentence means. Look the word up in a dictionary and check
 the ending against the tables above.
@@ -246,7 +246,7 @@ delighted / those / bhikkhū / of the Bhagavā / what was spoken / rejoiced in
 
 🔼(apinu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) 🔼(evaṁ) 🚹⨂①(jānanta) 🔼(evaṁ) 🚹⨂①(passanta) 🚹⨀②(añña) 🚹⨀②(satthar) ⏯🤘⨂(uddisati)  
 are? / youse / bhikkhave / thus / knowing / thus / seeing / another / teacher / appoint  
-*"Thus knowing and thus seeing, bhikkhave, will you appoint another teacher?" ([11: 1, 24.10](../11-pbt/#s1-u24-10)) `uddiseyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, "would you appoint"; the `-ā` before `”ti` is the join.*
+*"Thus knowing and thus seeing, bhikkhave, will you appoint another teacher?" ([Bonus: 1, 24.10](../11-pbt/#s1-u24-10)) `uddiseyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, "would you appoint"; the `-ā` before `”ti` is the join.*
 
 6. > evaṁ me saṅkhārā **hontu**
 

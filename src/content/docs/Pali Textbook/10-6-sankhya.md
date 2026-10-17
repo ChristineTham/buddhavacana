@@ -25,7 +25,7 @@ the number with an affix: `dvinnaṁ pūraṇo` ("the completer of two") and the
 is a number or a pronoun with an affix meaning "in so many ways" or "in that
 way", `ekadhā` ("in one way"), `tathā` ("so"); it never changes its ending,
 being a particle (`nipāta`), marked ⏏️ in this book and 🔼 in the texts of
-[chapter 11](../11-pbt/).
+[the bonus chapter](../11-pbt/).
 
 The question to ask is what ends the word: `-ma`, `-tiya` or `-ttha` makes
 an ordinal; `-dhā`, `-so`, `-thā` or `-thaṁ` a word of division or manner;
@@ -36,9 +36,9 @@ and a number from eleven upwards is two numbers run together, `dvā-dasa`
 
 | number | ordinal | what you see | rule |
 | :-: | --- | --- | :-: |
-| 1 `eka` | `paṭhamo`: `paṭhamaṁ yāmaṁ` ([3: 2.3](../3-awakening/#u2-3)), `paṭhamaṁ jhānaṁ` ([11: 38, 10.1](../11-pbt/#s38-u10-1)) | no number inside it: a word of its own | {666} |
-| 2, 3 `dvi`, `ti` | `dutiyo`, `tatiyo`: `dutiyaṁ jhānaṁ` ([11: 39, 11.1](../11-pbt/#s39-u11-1)) | `-tiya`; `dvi` and `ti` have become `du` and `ta` | {385}, {386} |
-| 4 `catu` | `catuttho`: `catutthaṁ jhānaṁ` ([11: 41, 13.1](../11-pbt/#s41-u13-1)) | `-ttha` | {384} |
+| 1 `eka` | `paṭhamo`: `paṭhamaṁ yāmaṁ` ([3: 2.3](../3-awakening/#u2-3)), `paṭhamaṁ jhānaṁ` ([Bonus: 38, 10.1](../11-pbt/#s38-u10-1)) | no number inside it: a word of its own | {666} |
+| 2, 3 `dvi`, `ti` | `dutiyo`, `tatiyo`: `dutiyaṁ jhānaṁ` ([Bonus: 39, 11.1](../11-pbt/#s39-u11-1)) | `-tiya`; `dvi` and `ti` have become `du` and `ta` | {385}, {386} |
+| 4 `catu` | `catuttho`: `catutthaṁ jhānaṁ` ([Bonus: 41, 13.1](../11-pbt/#s41-u13-1)) | `-ttha` | {384} |
 | 5 `pañca` | `pañcamo` | `-ma` | {373} |
 | 6 `cha` | `chaṭṭho`, `saṭṭho` | `-ṭṭha`; `cha` may become `sa` | {384}, {374} |
 | 7 to 10 `satta`, `aṭṭha`, `nava`, `dasa` | `sattamo`, `aṭṭhamo`, `navamo`, `dasamo` | `-ma` | {373} |
@@ -102,10 +102,10 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. Tathā dutiyaṁ. ([11: 37, 1.11.52](../11-pbt/#s37-u1-11-52))
+1. Tathā dutiyaṁ. ([Bonus: 37, 1.11.52](../11-pbt/#s37-u1-11-52))
 2. Tathā catutthaṁ. (the same sentence)
-3. sabbaso ([11: 42, 14.1](../11-pbt/#s42-u14-1))
-4. yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti ([11: 36, 3.2](../11-pbt/#s36-u3-2))
+3. sabbaso ([Bonus: 42, 14.1](../11-pbt/#s42-u14-1))
+4. yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti ([Bonus: 36, 3.2](../11-pbt/#s36-u3-2))
 
 ### Answers
 

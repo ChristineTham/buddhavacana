@@ -102,7 +102,7 @@ this one / among these / by distinction / bad → worst
 ### Exercises
 
 Each of the following carries one of this section's affixes; you met them in
-the texts of [chapter 11](../11-pbt/), some in another ending. Say which affix
+the texts of [the bonus chapter](../11-pbt/), some in another ending. Say which affix
 it carries, what word it is built on, and whether it names a state or singles
 one out. Check its make-up in a dictionary against the tables above.
 
@@ -126,28 +126,28 @@ deconstruction.
 
 🚹⨀⑥(dhammassa) 🚹⨀①(bhāvo) → 🚺⨀①🔽(tā)(dhammatā)  
 of nature / the state → the natural state, a characteristic  
-*`tā` {360}: `-tā` on `dhamma` (nature); "Dhammatā esā", "this characteristic", [11: 18, 1.3](../11-pbt/#s18-u1-3).*
+*`tā` {360}: `-tā` on `dhamma` (nature); "Dhammatā esā", "this characteristic", [Bonus: 18, 1.3](../11-pbt/#s18-u1-3).*
 
 2. > sahabyassa bhāvo → **sahabyatā**
 
 🚻⨀⑥(sahabyassa) 🚹⨀①(bhāvo) → 🚺⨀①🔽(tā)(sahabyatā)  
 of fellowship / the state → companionship  
-*`tā` {360}: `-tā` on `sahabya` (fellowship); you met it in the ② ending, `sahabyataṁ`, [11: 24, 3.3](../11-pbt/#s24-u3-3).*
+*`tā` {360}: `-tā` on `sahabya` (fellowship); you met it in the ② ending, `sahabyataṁ`, [Bonus: 24, 3.3](../11-pbt/#s24-u3-3).*
 
 3. > Yathā **aññataraṁ** bījaṁ
 
 🔼(yathā) 🚻⨀①(aññatara) 🚻⨀①(bīja)  
 like / a certain / seed  
-*`tara` {363}: `-tara` on `añña` (other) singles one out of several, "a certain one"; [11: 20, 5.1](../11-pbt/#s20-u5-1).*
+*`tara` {363}: `-tara` on `añña` (other) singles one out of several, "a certain one"; [Bonus: 20, 5.1](../11-pbt/#s20-u5-1).*
 
 4. > **Katame** ca, bhikkhave, saṅkhārā?
 
 🚹⨂①(katama) 🔼(ca) 🚹⨂⓪(bhikkhu) 🚹⨂①(saṅkhāra)  
 what / and / bhikkhave / mental constructions  
-*`tama` {363}: `-tama` on the question word `ka` (who? what?) asks "which of the many?"; [11: 13, 10.1](../11-pbt/#s13-u10-1).*
+*`tama` {363}: `-tama` on the question word `ka` (who? what?) asks "which of the many?"; [Bonus: 13, 10.1](../11-pbt/#s13-u10-1).*
 
 5. > **anuttaraṁ** yogakkhemaṁ nibbānaṁ
 
 🚻⨀①(anuttara) 🚹⨀②(yogakkhema) 🚻⨀①(nibbāna)  
 unsurpassed / sanctuary / extinguishment  
-*`tara` {363}: `ud` (up) with `-tara` is `uttaro` ("higher"); `an-` (not) in front, "with none higher"; [11: 46, 18.1](../11-pbt/#s46-u18-1).*
+*`tara` {363}: `ud` (up) with `-tara` is `uttaro` ("higher"); `an-` (not) in front, "with none higher"; [Bonus: 46, 18.1](../11-pbt/#s46-u18-1).*

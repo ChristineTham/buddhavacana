@@ -14,7 +14,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
 :::note[How this chapter fits]
-Chapter 1 introduced the affixes in its sections on `taddhita`, `uṇādi` and `sādhana`; this chapter deepens them, with the senses from my translation of Kaccāyana's Taddhitakappa and Uṇādikappa. Its examples and exercises are words from the texts of chapters 3, 5, 7, 9 and 11. The text that follows it is chapter 11, the core teachings.
+Chapter 1 introduced the affixes in its sections on `taddhita`, `uṇādi` and `sādhana`; this chapter deepens them, with the senses from my translation of Kaccāyana's Taddhitakappa and Uṇādikappa. Its examples and exercises are words from the texts of chapters 3, 5, 7 and 9 and the bonus chapter. The text that follows it is the bonus chapter, the core teachings.
 :::
 
 Besides the compounds of chapter 6, Pāḷi makes new nouns by adding an affix

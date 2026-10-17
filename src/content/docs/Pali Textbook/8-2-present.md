@@ -33,7 +33,7 @@ section takes the first six.
 | :-: | :-: | :-: | :-: | --- | :-: |
 | `-ti` | third 🤟 | ⨀ | `ti` | `viharati`, `hoti`, `labhati` | {423} |
 | `-nti` | third 🤟 | ⨂ | `anti`, one `a` dropped {510} | `sambhavanti`, `pātubhavanti` | {423} |
-| `-si` | second 🤘 | ⨀ | `si` | `viharasi` ([11: 44, 2.5](../11-pbt/#s44-u2-5)) | {423} |
+| `-si` | second 🤘 | ⨀ | `si` | `viharasi` ([Bonus: 44, 2.5](../11-pbt/#s44-u2-5)) | {423} |
 | `-tha` | second 🤘 | ⨂ | `tha` | `maññatha` ([7: 6.1](../7-anatta/#u6-1)) | {423} |
 | `-āmi` | first 👆 | ⨀ | `mi` after a lengthened `a` {478} | `gacchāmi`, `viharāmi`, `vadāmi` ([9: 2.6](../9-fire/#u2-6)) | {423} |
 | `-āma` | first 👆 | ⨂ | `ma`, likewise {478} | none; Kaccāyana's `gacchāma` | {423} |
@@ -98,7 +98,7 @@ that / what / do you think / bhikkhave / form / permanent / or / impermanent / o
 
 🚹⨀①(bhikkhu) 🚹⨀①(gacchanta) 🔼(vā) ▶️👆⨀(gacchati) 🔼(ti) ▶️🤟⨀(pajānāti)  
 bhikkhu / walking / or / I walk / quote / knows clearly  
-*"A bhikkhu when walking knows clearly 'I am walking'." ([11: 36, 3.1](../11-pbt/#s36-u3-1)) `gacchāmi`: `-mi`, first person singular, after a lengthened `a` {478}, on `gaccha`, the shape of `gamu` {476}. `pajānāti`: `-ti` after `nā`, `kī` class {449}; `pa` + `jā`, the root `ñā` {470}.*
+*"A bhikkhu when walking knows clearly 'I am walking'." ([Bonus: 36, 3.1](../11-pbt/#s36-u3-1)) `gacchāmi`: `-mi`, first person singular, after a lengthened `a` {478}, on `gaccha`, the shape of `gamu` {476}. `pajānāti`: `-ti` after `nā`, `kī` class {449}; `pa` + `jā`, the root `ñā` {470}.*
 
 ### Exercises
 
@@ -138,7 +138,7 @@ not / there is / now / renewed becoming
 
 🚻⨀①(cakkhu) 🔼(ca) 🔼(paṭicca) 🚻⨀⑦(rūpa) 🔼(ca) ▶️🤟⨀(uppajjati) 🚻⨀①(cakkhuviññāṇa)  
 faculty of seeing / and / dependent on / on form / and / arises / visual-consciousness  
-*"Visual consciousness (`cakkhuviññāṇa`) arises dependent on `rūpa` (form) and the faculty of seeing." ([11: 19, 2.2](../11-pbt/#s19-u2-2)) `uppajjati`: `-jj-` before `-ati`, `ya` of the `divu` class fused with the root `pada` (to go) {447}.*
+*"Visual consciousness (`cakkhuviññāṇa`) arises dependent on `rūpa` (form) and the faculty of seeing." ([Bonus: 19, 2.2](../11-pbt/#s19-u2-2)) `uppajjati`: `-jj-` before `-ati`, `ya` of the `divu` class fused with the root `pada` (to go) {447}.*
 
 4. > Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako cakkhusmimpi **nibbindati**,
 
@@ -150,10 +150,10 @@ thus / seeing / bhikkhave / learned / awakened disciple / the eye / too / gives 
 
 🚺⨀②(sabyābajjha) 🚺⨀②(vedanā) ▶️🤟⨀(vedayati) 🚺⨀②(ekantadukkha)  
 harmful / feelings / experiences / totally painful  
-*"experiences totally painful harmful feelings" ([11: 23, 1.6](../11-pbt/#s23-u1-6)) `vedayati`: `-ayati`, `ṇaya` of the `cura` class, its `ṇ` dropped {452}, {523}; the root `vida` (to feel).*
+*"experiences totally painful harmful feelings" ([Bonus: 23, 1.6](../11-pbt/#s23-u1-6)) `vedayati`: `-ayati`, `ṇaya` of the `cura` class, its `ṇ` dropped {452}, {523}; the root `vida` (to feel).*
 
 6. > Dhammatā esā, bhikkhave, yaṁ nibbinno viratto vimuttiñāṇadassanaṁ **sacchikaroti**.
 
 🚺⨀①(dhammatā) 🚺⨀①(eta) 🚹⨂⓪(bhikkhu) 🚻⨀①(ya) 🚹⨀①(nibbinna) 🚹⨀①(viratta) 🚻⨀②(vimuttiñāṇadassana) ▶️🤟⨀(sacchikaroti)  
 characteristic / this / bhikkhave / whoever / one who is dispassionate / one who is detached / understanding and insight into liberation / personally realises  
-*"This characteristic, Bhikkhave, one personally realises understanding and insight into liberation for whoever is dispassionate and detached." ([11: 18, 1.27](../11-pbt/#s18-u1-27)) `sacchikaroti`: `-oti`, `o` of the `tanu` class {451}; `sacchi` + `kar`, the root `kara` (to do).*
+*"This characteristic, Bhikkhave, one personally realises understanding and insight into liberation for whoever is dispassionate and detached." ([Bonus: 18, 1.27](../11-pbt/#s18-u1-27)) `sacchikaroti`: `-oti`, `o` of the `tanu` class {451}; `sacchi` + `kar`, the root `kara` (to do).*

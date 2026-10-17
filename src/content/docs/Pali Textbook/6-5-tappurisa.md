@@ -97,7 +97,7 @@ to the ground / gone → gone to the ground
 ### Exercises
 
 Each of the following is a `tappurisa` from chapters [3](../3-awakening/) and
-[11](../11-pbt/), in the form it has there, with a link to its sentence. Split
+the [bonus chapter](../11-pbt/), in the form it has there, with a link to its sentence. Split
 it into its members, say which ending the first member would carry on its own,
 and give the meaning. Look the word up in a dictionary and check the kind it is
 given.
@@ -111,9 +111,9 @@ deconstruction.
 1. bodhirukkhamūle ([3: 2.1](../3-awakening/#u2-1))
 2. saṅkhāranirodho ([3: 4.1](../3-awakening/#u4-1))
 3. vimuttisukhapaṭisaṁvedī ([3: 2.2](../3-awakening/#u2-2))
-4. samādhijaṁ ([11: 39, 11.1](../11-pbt/#s39-u11-1))
-5. tathāgatasāvako ([11: 26, 12.3](../11-pbt/#s26-u12-3))
-6. sammāsambuddhadesitaṁ ([11: 48, 3.2](../11-pbt/#s48-u3-2))
+4. samādhijaṁ ([Bonus: 39, 11.1](../11-pbt/#s39-u11-1))
+5. tathāgatasāvako ([Bonus: 26, 12.3](../11-pbt/#s26-u12-3))
+6. sammāsambuddhadesitaṁ ([Bonus: 48, 3.2](../11-pbt/#s48-u3-2))
 
 ### Answers
 

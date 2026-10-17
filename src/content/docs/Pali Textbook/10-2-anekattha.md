@@ -91,7 +91,7 @@ by boat / crosses → one who crosses by boat, a sailor
 
 🚹⨀③(kāyena) 🚻⨀①🔽(ta)(kataṁ) 🚻⨀①(kammaṁ) → 🚻⨀①🔽(ṇika)(kāyikaṁ)  
 by the body / done / act → a bodily act  
-*`ṇika` {351}, "made by": `-ika` on `kāya`; `kāyikaṁ vā cetasikaṁ vā`, "relating to the body or to the mind", [11: 10, 23.2](../11-pbt/#s10-u23-2).*
+*`ṇika` {351}, "made by": `-ika` on `kāya`; `kāyikaṁ vā cetasikaṁ vā`, "relating to the body or to the mind", [Bonus: 10, 23.2](../11-pbt/#s10-u23-2).*
 
 > pacchā jāto → **pacchimo**
 
@@ -102,7 +102,7 @@ after / born → born after, last
 ### Exercises
 
 Each of the following is a word you met in the texts of
-[chapter 3](../3-awakening/), [5](../5-dhammacakka/) and [11](../11-pbt/),
+[chapter 3](../3-awakening/), [5](../5-dhammacakka/) and the [bonus chapter](../11-pbt/),
 some in another ending. Say which affix it carries, what the base is and what
 connection with the base the word names; then look the word up and compare.
 
@@ -126,13 +126,13 @@ deconstruction.
 
 🚹⨀③(cetasā) 🚻⨀①🔽(ta)(kataṁ) 🚻⨀①(kammaṁ) → 🚻⨀①🔽(ṇika)(cetasikaṁ)  
 by the mind / done / act → a mental act  
-*`ṇika` {351}, "made by", as `kāyikaṁ`: `-ika` on `cetas` ("mind"), whose `e` is long already; `kāyikaṁ vā cetasikaṁ vā`, [11: 10, 23.2](../11-pbt/#s10-u23-2).*
+*`ṇika` {351}, "made by", as `kāyikaṁ`: `-ika` on `cetas` ("mind"), whose `e` is long already; `kāyikaṁ vā cetasikaṁ vā`, [Bonus: 10, 23.2](../11-pbt/#s10-u23-2).*
 
 2. > niraye jātā → **nerayikā**
 
 🚹⨀⑦(niraye) 🚹⨂①🔽(ta)(jātā) → 🚹⨂①🔽(ṇika)(nerayikā)  
 in hell / born → born in hell, living in hell  
-*`ṇika` {350}, "born in", as `rājagahiko`: the first `i` becomes `e`, `-ika` added; `sattā nerayikā`, [11: 23, 1.6](../11-pbt/#s23-u1-6).*
+*`ṇika` {350}, "born in", as `rājagahiko`: the first `i` becomes `e`, `-ika` added; `sattā nerayikā`, [Bonus: 23, 1.6](../11-pbt/#s23-u1-6).*
 
 3. > **cātumahārājikā** devā
 

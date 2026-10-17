@@ -101,19 +101,19 @@ bhikkhū / of the Bhagavā / what was spoken / rejoiced in / (end quote)
 
 🚹⨀①(satthar) *️⃣👆⚧⨂⑥(ahaṁ) 🚹⨀①(garu)  
 teacher / of us / respected  
-*"Our teacher is respected": `satthā`, ① singular of `satthu` {199}, the `u` become `ā`; [11: 1, 24.5](../11-pbt/#s1-u24-5).*
+*"Our teacher is respected": `satthā`, ① singular of `satthu` {199}, the `u` become `ā`; [Bonus: 1, 24.5](../11-pbt/#s1-u24-5).*
 
 > mettāsahagatena **cetasā**
 
 🚹⨀③(mettāsahagata) 🚹⨀③(cetas)  
 filled with goodwill/friendliness / with intent  
-*"With intent": `cetasā`, ③ singular of the `mano` group, `ā` for `nā` with `s` inserted {181}, {184}; [11: 37, 1.11.52](../11-pbt/#s37-u1-11-52).*
+*"With intent": `cetasā`, ③ singular of the `mano` group, `ā` for `nā` with `s` inserted {181}, {184}; [Bonus: 37, 1.11.52](../11-pbt/#s37-u1-11-52).*
 
 ### Exercises
 
 Name the lemma, ending, number and rule of each word in bold; the sentences are
 from chapters [5](../5-dhammacakka/), [7](../7-anatta/), [9](../9-fire/) and
-[11](../11-pbt/).
+the [bonus chapter](../11-pbt/).
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -150,13 +150,13 @@ by Māra / or / by Brahmā / or / by anyone / or
 
 🚹⨀②(añña) 🚹⨀②(satthar) ⏯🤘⨂(uddisati)  
 another / teacher / appoint  
-*"Will you appoint another teacher?": `satthāraṁ`, ② singular of `satthu`, with `-ār-` {200}; [11: 1, 24.10](../11-pbt/#s1-u24-10).*
+*"Will you appoint another teacher?": `satthāraṁ`, ② singular of `satthu`, with `-ār-` {200}; [Bonus: 1, 24.10](../11-pbt/#s1-u24-10).*
 
 4. > **āyasmantaṁ** sāriputtaṁ bhagavā etadavoca
 
 🚹⨀②(āyasmant) 🚹⨀②(sāriputta) 🚹⨀①(bhagavant) 🔵⏮🤟⨀(etadavoca)  
 Venerable / Sāriputta / Bhagavant / said this  
-*"The Bhagavant said this to Venerable Sāriputta": `āyasmantaṁ`, ② singular of `āyasmantu`, `-antaṁ` {92}; `sāriputtaṁ` agrees with it; [11: 44, 1.3](../11-pbt/#s44-u1-3).*
+*"The Bhagavant said this to Venerable Sāriputta": `āyasmantaṁ`, ② singular of `āyasmantu`, `-antaṁ` {92}; `sāriputtaṁ` agrees with it; [Bonus: 44, 1.3](../11-pbt/#s44-u1-3).*
 
 5. > eso me **attā**
 
@@ -168,7 +168,7 @@ this / my / self
 
 🚻⨀①(yāvajīva) 🚹⨂①(arahant) 🚻⨀①(abrahmacariya) 🔼(pahāya)  
 life-long / liberated ones / incelibacy / giving up  
-*"Life long arahants (liberated ones) give up incelibacy": `arahanto`, ① plural of `arahanta` {122}, singular `arahaṁ` {186}; [11: 32, 21.1](../11-pbt/#s32-u21-1).*
+*"Life long arahants (liberated ones) give up incelibacy": `arahanto`, ① plural of `arahanta` {122}, singular `arahaṁ` {186}; [Bonus: 32, 21.1](../11-pbt/#s32-u21-1).*
 
 7. > Evaṁ **passaṁ**, bhikkhave, **sutavā** ariyasāvako
 

@@ -125,7 +125,7 @@ two / these / bhikkhave / extremes / by one gone forth / not / should be cultiva
 ### Exercises
 
 For the word in bold (from chapters [5](../5-dhammacakka/), [7](../7-anatta/),
-[9](../9-fire/) and [11](../11-pbt/)) name the lemma and its gender, the
+[9](../9-fire/) and the [bonus chapter](../11-pbt/)) name the lemma and its gender, the
 ending, the number and the job, and cite the rule.
 
 :::tip[Hint]
@@ -173,14 +173,14 @@ delighted / of the group of five / bhikkhū / of the Bhagavā / what was spoken 
 🚻⨀①(adhigata) 🚻⨀①(ima) 🚹⨂③(bahu)  
 achieved / this / by many  
 *This is achieved by many,*  
-*`bahūhi`: masculine `bahu` (many), `-ūhi`, the ③ plural, the `u` lengthened before `hi` {89}, "by"; [11: 49, 66.1](../11-pbt/#s49-u66-1).*
+*`bahūhi`: masculine `bahu` (many), `-ūhi`, the ③ plural, the `u` lengthened before `hi` {89}, "by"; [Bonus: 49, 66.1](../11-pbt/#s49-u66-1).*
 
 5. > Evaṁ khandhā ca **dhātuyo**,
 
 🔼(evaṁ) 🚹⨂①(khandha) 🔼(ca) 🚺⨂①(dhātu)  
 thus / collections / and / elements  
 *Thus, the collections and elements,*  
-*`dhātuyo`: feminine `dhātu`, `-uyo`, the ① plural, `yo` kept {55}, as `khandhā` beside it; [11: 20, 6.1](../11-pbt/#s20-u6-1).*
+*`dhātuyo`: feminine `dhātu`, `-uyo`, the ① plural, `yo` kept {55}, as `khandhā` beside it; [Bonus: 20, 6.1](../11-pbt/#s20-u6-1).*
 
 6. > pañcavaggiyānaṁ **bhikkhūnaṁ** anupādāya āsavehi cittāni vimucciṁsūti
 
@@ -201,4 +201,4 @@ with the fire of passion / with the fire of hatred / with the fire of delusion /
 🔼(tañce) 🔼(āvuso) 🚹⨀②(bhikkhu) 🚹⨂①(para) 🚹⨂③(aniṭṭha) 🚹⨂③(akanta) 🚹⨂③(amanāpa) ▶️🤟⨂(samudācarati)  
 if that / friend / bhikkhu / others / with unpleasant / disagreeable / dislikeable / behave  
 *Friend, if others behave with unpleasantness, disagreeableness, dislikeableness to that bhikkhu -*  
-*`bhikkhuṁ`: masculine, `-uṁ`, the ② singular {82}; `taṁ` in `tañce` agrees with it; [11: 45, 9.1](../11-pbt/#s45-u9-1).*
+*`bhikkhuṁ`: masculine, `-uṁ`, the ② singular {82}; `taṁ` in `tañce` agrees with it; [Bonus: 45, 9.1](../11-pbt/#s45-u9-1).*

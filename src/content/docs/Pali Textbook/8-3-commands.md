@@ -42,7 +42,7 @@ symbols ⏹ and ⏯ keep the verb sets apart.
 | `-ntu` | third | ⨂ | `hontu` ("may they be", [7: 4.6](../7-anatta/#u4-6)), `kamantu` ("let them come") | {424} |
 | `-hi`, the `a` before it long {478}; `hi` sometimes dropped {479} | second | ⨀ | `gacchāhi`, `gaccha` ("go!"), `ehi` ("come!") | {424} |
 | `-tha` | second | ⨂ | `etha` ("come, all of you!") | {424} |
-| `-mi`, the `a` before it long {478} | first | ⨀ | `jānāmi` ("may I know", [11: 18, 1.20](../11-pbt/#s18-u1-20)) | {424} |
+| `-mi`, the `a` before it long {478} | first | ⨀ | `jānāmi` ("may I know", [Bonus: 18, 1.20](../11-pbt/#s18-u1-20)) | {424} |
 | `-ma`, the `a` before it long {478} | first | ⨂ | `gacchāma` ("let us go") | {424} |
 | `-taṁ`, `-antaṁ`, `-ssu`, `-vho`, `-e`, `-āmase` | the `attanopada` 🔵 set | | none in our texts | {424} |
 
@@ -57,7 +57,7 @@ symbols ⏹ and ⏯ keep the verb sets apart.
 | `-eyyāmi` | first | ⨀ | `kareyyāmi` | {425} |
 | `-eyyāma` | first | ⨂ | none in our texts; they have the short `vadema` below | {425} |
 | `-eyyaṁ`, the 🔵 ending, common for a wish | first | ⨀ | `pabbajeyyaṁ`, `upapajjeyyaṁ` | {425} |
-| `-etha`, the 🔵 ending | third | ⨀ | `paññāyetha` ("it would be evident", [11: 15, 2.1](../11-pbt/#s15-u2-1)) | {425} |
+| `-etha`, the 🔵 ending | third | ⨀ | `paññāyetha` ("it would be evident", [Bonus: 15, 2.1](../11-pbt/#s15-u2-1)) | {425} |
 | `-eraṁ`, `-etho`, `-eyyāvho`, `-eyyāmhe` | the rest of the 🔵 set | | none in our texts | {425} |
 
 The `sattamī` is often shortened; {517} allows the short shapes, which are the
@@ -66,8 +66,8 @@ ones a reader meets most:
 | what you see | stands for | example | rule |
 | --- | --- | --- | :-: |
 | `-e` | `-eyya`, third person ⨀ | `kare` ("he would do"), `gacche` ("he would go") | {517} |
-| `-etha` | `-eyyātha`, second person ⨂ | `vadetha` ("would you say", [11: 1, 24.14](../11-pbt/#s1-u24-14)) | {517} |
-| `-ema` | `-eyyāma`, first person ⨂ | `vadema` ("would we say", [11: 1, 24.5](../11-pbt/#s1-u24-5)) | {517} |
+| `-etha` | `-eyyātha`, second person ⨂ | `vadetha` ("would you say", [Bonus: 1, 24.14](../11-pbt/#s1-u24-14)) | {517} |
+| `-ema` | `-eyyāma`, first person ⨂ | `vadema` ("would we say", [Bonus: 1, 24.5](../11-pbt/#s1-u24-5)) | {517} |
 | `siyā` | `-eyya` of `atthi` ("is"): "there would be" | `siyā` | {506}, {517} |
 | `jaññā`, `jāniyā` | `-eyya` of `jānāti` ("knows"): "he would know" | `jaññā` | {508} |
 
@@ -98,7 +98,7 @@ All twelve endings of each set are in [Appendix I](../i-verbs/) and chapter
 
 ### Examples
 
-From chapters [7](../7-anatta/) and [11](../11-pbt/); each citation links to the sentence.
+From chapters [7](../7-anatta/) and the [bonus chapter](../11-pbt/); each citation links to the sentence.
 
 > evaṁ me saṅkhārā **hontu**
 
@@ -110,13 +110,13 @@ thus / my / mental constructions / let be
 
 🚹⨀②(yathābhūta) ⏹👆⨀(jānāti) ⏹👆⨀(passati) 🔼(ti)  
 reality as it is / must know / must see  
-*"May I see and know reality as it is." ([11: 18, 1.20](../11-pbt/#s18-u1-20)) `jānāmi`, `passāmi`: `-mi`, first person ⨀ {424}, the present's ending too; the sentence is a wish, so ⏹ {415}.*
+*"May I see and know reality as it is." ([Bonus: 18, 1.20](../11-pbt/#s18-u1-20)) `jānāmi`, `passāmi`: `-mi`, first person ⨀ {424}, the present's ending too; the sentence is a wish, so ⏹ {415}.*
 
 > “Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā evaṁ **vadeyyātha**—
 
 🔼(apinu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) 🔼(evaṁ) 🚹⨂①(jānanta) 🔼(evaṁ) 🚹⨂①(passanta) ⏯🤘⨂(vadati)  
 are? / youse / bhikkhave / thus / knowing / thus / seeing / will say  
-*"Thus knowing and thus seeing, bhikkhave, will you say -" ([11: 1, 24.4](../11-pbt/#s1-u24-4)) `vadeyyātha`: ⏯ `-eyyātha`, second person ⨂ {425}; a supposition, "would you say" {416}.*
+*"Thus knowing and thus seeing, bhikkhave, will you say -" ([Bonus: 1, 24.4](../11-pbt/#s1-u24-4)) `vadeyyātha`: ⏯ `-eyyātha`, second person ⨂ {425}; a supposition, "would you say" {416}.*
 
 > nayidaṁ saṅkhārā ābādhāya **saṁvatteyyuṁ**,
 
@@ -126,7 +126,7 @@ not / this / mental constructions / to affliction / would lead
 
 ### Exercises
 
-Each of the following is a verb from chapter [7](../7-anatta/) or [11](../11-pbt/), in
+Each of the following is a verb from chapter [7](../7-anatta/) or the [bonus chapter](../11-pbt/), in
 the form it has there. Name the set, the ending, the person and the number, and say
 whether it is a command, a wish or a supposition. Look each up in a
 dictionary and check its ending against the tables.
@@ -158,7 +158,7 @@ thus / my / form / let be
 
 🔼(tatrāpi) 🚹⨀①(ya) 🚹⨀②(manas) ⏯🤟⨀(padūseti)  
 even in that situation / whoever / mind / will corrupt  
-*"even in that case whoever will corrupt his mind" ([11: 45, 9.6](../11-pbt/#s45-u9-6)) `padūseyya`: ⏯ `-eyya`, third person ⨀ {425}, the subject `yo`; a supposition {416}.*
+*"even in that case whoever will corrupt his mind" ([Bonus: 45, 9.6](../11-pbt/#s45-u9-6)) `padūseyya`: ⏯ `-eyya`, third person ⨀ {425}, the subject `yo`; a supposition {416}.*
 
 3. > nayidaṁ rūpaṁ ābādhāya **saṁvatteyya**,
 
@@ -170,16 +170,16 @@ not / this / form / to affliction / would lead
 
 🚹⨀②(añña) 🚹⨀②(satthar) ⏯🤘⨂(uddisati)  
 another / teacher / appoint  
-*"will you appoint another teacher?" ([11: 1, 24.10](../11-pbt/#s1-u24-10)) `uddiseyyātha`: ⏯ `-eyyātha`, second person ⨂ {425}; "would you", a supposition {416}; the `-ā` before `”ti` is the join.*
+*"will you appoint another teacher?" ([Bonus: 1, 24.10](../11-pbt/#s1-u24-10)) `uddiseyyātha`: ⏯ `-eyyātha`, second person ⨂ {425}; "would you", a supposition {416}; the `-ā` before `”ti` is the join.*
 
 5. > agārasmā anagāriyaṁ **pabbajeyyan**”ti.
 
 🚻⨀⑤(agāra) 🚻⨀②(anagāriya) 🔵⏯👆⨀(pabbajati) 🔼(ti)  
 from household life / to homeless state / renounce / quote  
-*"What if I were to renounce from household life to homeless state" ([11: 26, 12.8](../11-pbt/#s26-u12-8)) `pabbajeyyaṁ`: ⏯ `-eyyaṁ`, the 🔵 first person ⨀ {425}; a wish for oneself, after `yannūnāhaṁ` ("what if I").*
+*"What if I were to renounce from household life to homeless state" ([Bonus: 26, 12.8](../11-pbt/#s26-u12-8)) `pabbajeyyaṁ`: ⏯ `-eyyaṁ`, the 🔵 first person ⨀ {425}; a wish for oneself, after `yannūnāhaṁ` ("what if I").*
 
 6. > api nu kho kāmabhavo **paññāyethā**”ti?
 
 🔼(apinu kho) 🚹⨀①(kāmabhava) 🔵⏯🤟⨀(paññāyati) 🔼(ti)  
 what / indeed / desire for becoming / is evident / quote  
-*"would desire for becoming be evident?" ([11: 15, 2.1](../11-pbt/#s15-u2-1)) `paññāyetha`: ⏯ `-etha`, the 🔵 third person ⨀ {425}, the subject `kāmabhavo`; a supposition {416}; the `-ā` before `”ti` is the join.*
+*"would desire for becoming be evident?" ([Bonus: 15, 2.1](../11-pbt/#s15-u2-1)) `paññāyetha`: ⏯ `-etha`, the 🔵 third person ⨀ {425}, the subject `kāmabhavo`; a supposition {416}; the `-ā` before `”ti` is the join.*

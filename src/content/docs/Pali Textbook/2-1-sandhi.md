@@ -20,7 +20,7 @@ Pāḷi was spoken before it was written, and the texts print it as it was said:
 when a word ending in a vowel or in `ṁ` meets the next word, the two run
 together and the seam changes shape. The joined form is a `sandhi` (a join),
 and the texts of chapters [3](../3-awakening/), [5](../5-dhammacakka/),
-[7](../7-anatta/), [9](../9-fire/) and [11](../11-pbt/) have one in almost
+[7](../7-anatta/), [9](../9-fire/) and the [bonus chapter](../11-pbt/) have one in almost
 every line: `yo cāyaṁ` is `yo ca ayaṁ`, `natthi` is `na atthi`, `kiñci` is
 `kiṁ ci`, and the `”ti` that closes every quotation is `iti` with its vowel
 gone.
@@ -95,7 +95,7 @@ which / of that / very / craving / remainderless fading away and cessation
 ### Exercises
 
 Each phrase, from chapters [5](../5-dhammacakka/), [9](../9-fire/) and
-[11](../11-pbt/), has a join in bold: split it into its parts, say what the
+the [bonus chapter](../11-pbt/), has a join in bold: split it into its parts, say what the
 join dropped, lengthened, changed or doubled, and name the rule.
 
 :::tip[Hint]
@@ -150,7 +150,7 @@ unsurpassed / perfect understanding / fully awakened / thus
 
 🚹⨀①(ta) 🔼(vivicceva) 🚹⨂⑤(kāma)  
 that / just secluding oneself from / sensual pleasures  
-*`vivicceva` = `vivicca eva`: the `a` of `vivicca` dropped {12}; [11: 38, 10.1](../11-pbt/#s38-u10-1).*
+*`vivicceva` = `vivicca eva`: the `a` of `vivicca` dropped {12}; [Bonus: 38, 10.1](../11-pbt/#s38-u10-1).*
 
 7. > piyehi **vippayogo** dukkho
 

@@ -49,17 +49,17 @@ before a past form, `mā ahosi`, "may it not be".
 | --- | --- | --- |
 | `eva` | only; just; the very | `ayameva ariyo aṭṭhaṅgiko maggo` ([5: 3.2](../5-dhammacakka/#u3-2)) |
 | `kho` | indeed | `atha kho bhagavā` ([3: 2.2](../3-awakening/#u2-2)) |
-| `hi` | for; indeed | `sahetū hi, poṭṭhapāda` ([11: 17, 7.4](../11-pbt/#s17-u7-4)) |
+| `hi` | for; indeed | `sahetū hi, poṭṭhapāda` ([Bonus: 17, 7.4](../11-pbt/#s17-u7-4)) |
 | `vata` | indeed; oh! | `aññāsi vata bho, koṇḍañño` ([5: 14.1](../5-dhammacakka/#u14-1)) |
 | `have` | truly | `yadā have pātubhavanti dhammā` ([3: 6.1](../3-awakening/#u6-1)) |
-| `kira` | it is said; truly | `kira tvaṁ, sāriputta` ([11: 44, 2.5](../11-pbt/#s44-u2-5)) |
+| `kira` | it is said; truly | `kira tvaṁ, sāriputta` ([Bonus: 44, 2.5](../11-pbt/#s44-u2-5)) |
 
 ### Quoting and asking
 
 | particle | meaning | in the texts |
 | --- | --- | --- |
 | `iti`, `ti` | thus; end of a quotation | `‘idaṁ dukkhaṁ ariyasaccan’ti` ([5: 5.1](../5-dhammacakka/#u5-1)) |
-| `nu`, `api nu` | makes a question | `kiṁ nu sattoti paccesi` ([11: 8, 4.1](../11-pbt/#s8-u4-1)), `kallaṁ nu taṁ samanupassituṁ` ([7: 6.5](../7-anatta/#u6-5)) |
+| `nu`, `api nu` | makes a question | `kiṁ nu sattoti paccesi` ([Bonus: 8, 4.1](../11-pbt/#s8-u4-1)), `kallaṁ nu taṁ samanupassituṁ` ([7: 6.5](../7-anatta/#u6-5)) |
 
 Read back from `ti` to the opening quotation mark; the ending before it
 changes:
@@ -69,7 +69,7 @@ changes:
 | `-an”ti` | `-aṁ` + `iti` | `ariyasaccan’ti` ([5: 5.1](../5-dhammacakka/#u5-1)) | {40}, {31} |
 | `-amiti` | `-aṁ` + `iti`, the `ṁ` turned into `m` | `vimuttamiti` ([7: 11.3](../7-anatta/#u11-3)) | {34} |
 | `-o’ti` | `-o` + `iti` | `abhisambuddho’ti` ([5: 9.1](../5-dhammacakka/#u9-1)) | {13} |
-| `-ā”ti`, `-ī”ti` | `-a`, `-i` + `iti` | `vademā”ti` ([11: 1, 24.5](../11-pbt/#s1-u24-5)), `hotī”ti` ([3: 4.12](../3-awakening/#u4-12)) | {13}, {16} |
+| `-ā”ti`, `-ī”ti` | `-a`, `-i` + `iti` | `vademā”ti` ([Bonus: 1, 24.5](../11-pbt/#s1-u24-5)), `hotī”ti` ([3: 4.12](../3-awakening/#u4-12)) | {13}, {16} |
 
 The `-ti` of a verb (`hoti`) is not this `ti`: `hotī”ti` has both. `kathaṁ`
 ("how?", {399}) is not in the texts.
@@ -82,14 +82,14 @@ The `-ti` of a verb (`hoti`) is not this `ti`: `hotī”ti` has both. `kathaṁ`
 | `yadā` | when {257} | `yadā have pātubhavanti dhammā` ([3: 6.1](../3-awakening/#u6-1)) |
 | `yato` | since; when {248} | `yato pajānāti` ([3: 6.4](../3-awakening/#u6-4)) |
 | `yasmā … tasmā` | because … therefore: the ⑤ of `ya`, `ta` {110} | `yasmā ca kho … tasmā` ([7: 2.3](../7-anatta/#u2-3)) |
-| `puna` | again | `puna caparaṁ` ([11: 39, 11.1](../11-pbt/#s39-u11-1)) |
+| `puna` | again | `puna caparaṁ` ([Bonus: 39, 11.1](../11-pbt/#s39-u11-1)) |
 | `yāva … tāva` | as long as … so long | `yāvakīvañca … neva tāvāhaṁ` ([5: 9.1](../5-dhammacakka/#u9-1)) |
-| `idha`, `iha` | here {254} | `idha, bhikkhave, bhikkhu` ([11: 24, 3.1](../11-pbt/#s24-u3-1)) |
+| `idha`, `iha` | here {254} | `idha, bhikkhave, bhikkhu` ([Bonus: 24, 3.1](../11-pbt/#s24-u3-1)) |
 | `tattha`, `tatra` | there {249} | `tatra kho bhagavā` ([5: 1.2](../5-dhammacakka/#u1-2)) |
-| `ito` | from here {248} | `ito sutvā` ([11: 30, 15.1](../11-pbt/#s30-u15-1)) |
+| `ito` | from here {248} | `ito sutvā` ([Bonus: 30, 15.1](../11-pbt/#s30-u15-1)) |
 | `dūre`, `santike` | far, near | `dūre santike vā` ([7: 7.1](../7-anatta/#u7-1)) |
 | `evaṁ` | thus | `evametassa … samudayo hoti` ([3: 3.12](../3-awakening/#u3-12)) |
-| `yathā … tathā` | as … so {398} | `yathā yathā … tathā tathā` ([11: 36, 3.2](../11-pbt/#s36-u3-2)) |
+| `yathā … tathā` | as … so {398} | `yathā yathā … tathā tathā` ([Bonus: 36, 3.2](../11-pbt/#s36-u3-2)) |
 | `seyyathidaṁ` | that is to say | `seyyathidaṁ— sammādiṭṭhi …` ([5: 3.2](../5-dhammacakka/#u3-2)) |
 | `iva`, `viya` | like | `sūriyova` (`sūriyo iva` {13}, [3: 12.4](../3-awakening/#u12-4)) |
 
@@ -97,8 +97,8 @@ The `-ti` of a verb (`hoti`) is not this `ti`: `hotī”ti` has both. `kathaṁ`
 
 | particle | meaning | in the texts |
 | --- | --- | --- |
-| `āvuso` | friend | `tisso kho imā, āvuso visākha` ([11: 10, 22.2](../11-pbt/#s10-u22-2)) |
-| `sādhu` | good!; excellent! | `sādhu sādhu, sāriputta` ([11: 44, 2.4](../11-pbt/#s44-u2-4)) |
+| `āvuso` | friend | `tisso kho imā, āvuso visākha` ([Bonus: 10, 22.2](../11-pbt/#s10-u22-2)) |
+| `sādhu` | good!; excellent! | `sādhu sādhu, sāriputta` ([Bonus: 44, 2.4](../11-pbt/#s44-u2-4)) |
 
 `bhikkhave`, `bho` and `bhante` are ⓪ forms of `bhikkhu` ([2.3](../2-3-vowel-lemmas/))
 and `bhavanta` ([2.4](../2-4-irregular/)), not particles. `āma` ("yes"), `handa`
@@ -153,7 +153,7 @@ deconstruction.
 4. samaṇena vā brāhmaṇena vā ([5: 12.1](../5-dhammacakka/#u12-1))
 5. evaṁ me rūpaṁ mā ahosī’ti ([7: 2.2](../7-anatta/#u2-2))
 6. Yato pajānāti sahetudhamman”ti ([3: 6.4](../3-awakening/#u6-4))
-7. Kiṁ nu sattoti paccesi ([11: 8, 4.1](../11-pbt/#s8-u4-1))
+7. Kiṁ nu sattoti paccesi ([Bonus: 8, 4.1](../11-pbt/#s8-u4-1))
 
 ### Answers
 
@@ -199,4 +199,4 @@ since / knows / phenomena with their causes / (end quote)
 
 🚻⨀①(ka) 🔼(nu) 🚹⨀①(satta) 🔼(iti) ▶️🤘⨀(pacceti)  
 what / ? / being / like this / you believes to be  
-*`nu` asks; `sattoti` is `satto` + `iti` {13}, quoting; chapter 11 marks particles 🔼.*
+*`nu` asks; `sattoti` is `satto` + `iti` {13}, quoting; the bonus chapter marks particles 🔼.*

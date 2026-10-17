@@ -54,7 +54,7 @@ Kaccāyana defines the `apādāna` in four rules {271}–{274} and gives it the 
 ending in two {295}–{296}; a fifth rule {275} adds twenty rarer senses, mostly
 the same idea of a starting point or a separation. The examples below are its
 own, each translated at the rule; abstaining, seclusion and release are common
-in the texts of [chapter 11](../11-pbt/), release in those of chapters
+in the texts of [the bonus chapter](../11-pbt/), release in those of chapters
 [7](../7-anatta/) and [9](../9-fire/) as well:
 
 ### The further senses of the ⑤ ending
@@ -99,7 +99,7 @@ teacher and preceptor / lesson / takes / pupil
 
 ### Exercises
 
-Each sentence or phrase is from the texts of chapters 3, 7 and 11, linked to its
+Each sentence or phrase is from the texts of chapters 3 and 7 and the bonus chapter, linked to its
 place there, and has a word with the ⑤ ending. Find it, match it to a row of the
 tables, and translate the sentence. Look the words up in a dictionary, do the
 necessary sandhi and compound word deconstruction, and take note of the
@@ -111,10 +111,10 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. upādānanirodhā bhavanirodho ([11: 19, 2.6](../11-pbt/#s19-u2-6), also [3: 4.9](../3-awakening/#u4-9))
+1. upādānanirodhā bhavanirodho ([Bonus: 19, 2.6](../11-pbt/#s19-u2-6), also [3: 4.9](../3-awakening/#u4-9))
 2. virāgā vimuccati ([7: 11.2](../7-anatta/#u11-2))
-3. Pāṇātipātā veramaṇī adinnādānā veramaṇī kāmesumicchācārā veramaṇī ([11: 31, 21.14](../11-pbt/#s31-u21-14))
-4. agārasmā anagāriyaṁ pabbajeyyan”ti ([11: 26, 12.8](../11-pbt/#s26-u12-8))
+3. Pāṇātipātā veramaṇī adinnādānā veramaṇī kāmesumicchācārā veramaṇī ([Bonus: 31, 21.14](../11-pbt/#s31-u21-14))
+4. agārasmā anagāriyaṁ pabbajeyyan”ti ([Bonus: 26, 12.8](../11-pbt/#s26-u12-8))
 
 ### Answers
 

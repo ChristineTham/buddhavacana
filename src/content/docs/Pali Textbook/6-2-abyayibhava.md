@@ -25,8 +25,8 @@ is `yathā` with `bhūta` ("true", "real"). Kaccāyana names such a compound an
 tells where, when, how or how far something happens, as an adverb does in
 English. Kaccāyana's own examples are a grammarian's, but words of this shape
 are on every page of the texts: `yathābhūtaṁ` (chapters
-[5](../5-dhammacakka/), [7](../7-anatta/) and [11](../11-pbt/)) and
-`yāvajīvaṁ` ("as long as life lasts", chapter 11).
+[5](../5-dhammacakka/), [7](../7-anatta/) and the [bonus chapter](../11-pbt/)) and
+`yāvajīvaṁ` ("as long as life lasts", the bonus chapter).
 
 Two things make an `abyayībhāva` easy to recognise. It is always neuter {320},
 whatever the gender of the noun inside it, and it keeps one form wherever it
@@ -107,13 +107,13 @@ deconstruction.
 
 🚻⨀①🆎(yathā+bhūta)  
 as it truly is  
-*`yathā` ("as") with `bhūta` ("true", "real"): an `abyayībhāva` {319} in `-aṁ` {341}; [11: 18, 1.21](../11-pbt/#s18-u1-21), `samāhito yathābhūtaṁ jānāti passati`, and [7: 7.1](../7-anatta/#u7-1).*
+*`yathā` ("as") with `bhūta` ("true", "real"): an `abyayībhāva` {319} in `-aṁ` {341}; [Bonus: 18, 1.21](../11-pbt/#s18-u1-21), `samāhito yathābhūtaṁ jānāti passati`, and [7: 7.1](../7-anatta/#u7-1).*
 
 2. > jīvassa yattako paricchedo → **yāvajīvaṁ**
 
 🚻⨀⑥(jīvassa) 🚹⨀①(yattako) 🚹⨀①(paricchedo) → 🚻⨀①🆎(yāva+jīva)  
 of life / however much / limit → as long as life lasts  
-*`yāva` ("as long as") stands for `yattako paricchedo` ("whatever the limit"): an `abyayībhāva` {319} in `-aṁ` {341}; [11: 32, 21.1](../11-pbt/#s32-u21-1), `yāvajīvaṁ arahanto`.*
+*`yāva` ("as long as") stands for `yattako paricchedo` ("whatever the limit"): an `abyayībhāva` {319} in `-aṁ` {341}; [Bonus: 32, 21.1](../11-pbt/#s32-u21-1), `yāvajīvaṁ arahanto`.*
 
 3. > pabbatassa tiro → **tiropabbataṁ**
 

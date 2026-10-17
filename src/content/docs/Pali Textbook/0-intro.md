@@ -121,9 +121,11 @@ made the first `arahant`s. The examples and exercises in the grammar chapters
 are taken from these interlinear translations and link back to the sentence
 they come from, so the reader can move between the grammar and the texts in
 either direction, and need not follow the book linearly. The book ends with
-an interlinear translation of the core teachings, the selection of short
-passages from Rune Johansson's *Pali Buddhist Texts*, and with reference
-appendices that table all of Kaccāyana's rules.
+a bonus chapter, an interlinear translation of the core teachings in the
+selection of short passages from Rune Johansson's *Pali Buddhist Texts*: my
+earliest translation effort, made before the rest of the book and since
+updated to my latest understanding; and with reference appendices that table
+all of Kaccāyana's rules.
 
 ## Prerequisites
 

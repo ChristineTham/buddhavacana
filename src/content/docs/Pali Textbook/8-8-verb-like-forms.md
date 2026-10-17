@@ -131,7 +131,7 @@ both / extremes / not approaching
 
 🚹⨀①(bhikkhu) 🚹⨀①(gacchanta) 🔼(vā) ▶️👆⨀(gacchati) 🔼(ti) ▶️🤟⨀(pajānāti)  
 bhikkhu / walking / or / I walk / quote / knows clearly  
-*`gacchanto`, "while walking": `anta` {565}, at the same time as `pajānāti`, agreeing with `bhikkhu` 🚹⨀①; [11: 36, 3.1](../11-pbt/#s36-u3-1).*
+*`gacchanto`, "while walking": `anta` {565}, at the same time as `pajānāti`, agreeing with `bhikkhu` 🚹⨀①; [Bonus: 36, 3.1](../11-pbt/#s36-u3-1).*
 
 > alameva dānāni **dātuṁ**
 

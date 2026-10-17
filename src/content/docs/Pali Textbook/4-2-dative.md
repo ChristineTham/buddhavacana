@@ -95,7 +95,7 @@ homage / to you / O Buddha / O hero / let there be
 Translate the following from Pāḷi to English and say, for each word with the ④
 ending, which use of the table it shows. Look up the words in a dictionary, do
 the necessary sandhi and compound word deconstruction, and let the endings
-guide the meaning. Sentences 1 and 2 are from the texts of chapters 11 and 3,
+guide the meaning. Sentences 1 and 2 are from the texts of the bonus chapter and chapter 3,
 linked to their place there; 3 and 4 are Kaccāyana's own.
 
 :::tip[Hint]
@@ -104,7 +104,7 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. pahānāya chandaṁ janeti ([11: 35, 21.21](../11-pbt/#s35-u21-21))
+1. pahānāya chandaṁ janeti ([Bonus: 35, 21.21](../11-pbt/#s35-u21-21))
 2. Yadā have pātubhavanti dhammā, ātāpino jhāyato brāhmaṇassa ([3: 6.1–6.2](../3-awakening/#u6-1))
 3. saṅghe gotami dehi
 4. namo karohi nāgassa

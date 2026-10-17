@@ -89,7 +89,7 @@ while the monks / [were] being fed / gone
 
 ### Exercises
 
-Each sentence or phrase is from the texts of chapters 3, 7 and 11, linked to its
+Each sentence or phrase is from the texts of chapters 3 and 7 and the bonus chapter, linked to its
 place there, and has a ⑦ word. Find it, say what it is doing there — the place,
 what the action rests on, the time or an event that sets the time — and
 translate the sentence.
@@ -101,7 +101,7 @@ deconstruction.
 :::
 
 1. Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī. ([3: 2.2](../3-awakening/#u2-2))
-2. Yathā aññataraṁ bījaṁ, khette vuttaṁ virūhati. ([11: 20, 5.1–5.2](../11-pbt/#s20-u5-1))
+2. Yathā aññataraṁ bījaṁ, khette vuttaṁ virūhati. ([Bonus: 20, 5.1–5.2](../11-pbt/#s20-u5-1))
 3. ariyasāvako rūpasmimpi nibbindati ([7: 11.1](../7-anatta/#u11-1))
 4. Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi. ([3: 5.1](../3-awakening/#u5-1))
 5. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne ([7: 12.3](../7-anatta/#u12-3))

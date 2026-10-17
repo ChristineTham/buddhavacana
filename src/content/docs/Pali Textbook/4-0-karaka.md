@@ -14,7 +14,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
 :::note[How this chapter fits]
-Chapter 1 gave the typical meanings of the endings in one table; this chapter deepens that table, with the uses from my translation of Kaccāyana's Kārakakappa. Its examples and exercises are sentences from the texts of chapters 3, 5, 7, 9 and 11. The text that follows it is chapter 5, the first discourse.
+Chapter 1 gave the typical meanings of the endings in one table; this chapter deepens that table, with the uses from my translation of Kaccāyana's Kārakakappa. Its examples and exercises are sentences from the texts of chapters 3, 5, 7 and 9 and the bonus chapter. The text that follows it is chapter 5, the first discourse.
 :::
 
 `kāraka` means the "cause" or "participants" of actions, and the relationship
@@ -44,7 +44,7 @@ Kaccāyana first defines the seven `kāraka` {271}–{283}, in the order below, 
 On a first reading take the first use or two of each section, the ones the diagram names,
 and their examples; the later uses of each ending are rarer, and every rule number links to
 the full rule in the Kaccāyana translation. Come back for the rest once the texts of
-chapters 3, 5 and 11 have made the endings familiar.
+chapters 3 and 5 and the bonus chapter have made the endings familiar.
 :::
 
 | section | `kāraka` | English name | usual ending | definition | uses of the ending |

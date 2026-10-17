@@ -74,7 +74,7 @@ The inflection table of `citta` ("mind"), 🚻, where it differs from `purisa`:
 | ⓪ | `citta` | `cittāni` | {220}; {218} |
 
 The rest is as `purisa`. So `cittaṁ` may be ① or ②, and `-āni` is always a
-neuter plural: `kāsāyāni vatthāni` ("ochre robes") in [11: 26, 12.8](../11-pbt/#s26-u12-8),
+neuter plural: `kāsāyāni vatthāni` ("ochre robes") in [Bonus: 26, 12.8](../11-pbt/#s26-u12-8),
 `cittāni` ("minds") in [7: 12.3](../7-anatta/#u12-3).
 
 The inflection table of `kaññā` ("girl"), 🚺:
@@ -144,7 +144,7 @@ to calm / to direct knowledge / to enlightenment / to extinguishment / leads
 ### Exercises
 
 Each sentence or phrase is from chapter [3](../3-awakening/),
-[5](../5-dhammacakka/), [9](../9-fire/) or [11](../11-pbt/), which translates
+[5](../5-dhammacakka/), [9](../9-fire/) or the [bonus chapter](../11-pbt/), which translates
 it. Name the gender, number and ending of every noun or adjective in `-a` or
 `-ā`; `bhagavā`, `bhikkhū` and `cakkhuṁ` belong to [2.3](../2-3-vowel-lemmas/)
 and [2.4](../2-4-irregular/).
@@ -208,10 +208,10 @@ since / the destruction / of conditions / knew / (end quote)
 
 🚺⨀②(sabyābajjha) 🚺⨀②(vedanā) ▶️🤟⨀(vedayati)  
 harmful / feelings / experiences  
-*`vedanaṁ`: 🚺⨀②, the `-aṁ` of a lemma in `-ā` {83}, as `kaññaṁ`, `vedanā` ("feeling") being `fem`; `sabyābajjhaṁ` agrees with it; [11: 23, 1.6](../11-pbt/#s23-u1-6).*
+*`vedanaṁ`: 🚺⨀②, the `-aṁ` of a lemma in `-ā` {83}, as `kaññaṁ`, `vedanā` ("feeling") being `fem`; `sabyābajjhaṁ` agrees with it; [Bonus: 23, 1.6](../11-pbt/#s23-u1-6).*
 
 8. > kāyasmiṁ viharati
 
 🚹⨀⑦(kāya) ▶️🤟⨀(viharati)  
 in physical processes / stays aware  
-*`kāyasmiṁ`: 🚹⨀⑦, `-smiṁ` beside `-e`, "in"; [11: 36, 3.4](../11-pbt/#s36-u3-4).*
+*`kāyasmiṁ`: 🚹⨀⑦, `-smiṁ` beside `-e`, "in"; [Bonus: 36, 3.4](../11-pbt/#s36-u3-4).*

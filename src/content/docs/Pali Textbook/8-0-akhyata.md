@@ -14,14 +14,14 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
 :::note[How this chapter fits]
-Chapter 1 introduced the verbs and the verb-like forms in two sections; this chapter deepens them, with the endings and classes from my translation of Kaccāyana's Ākhyātakappa and Kibbidhānakappa. Its examples and exercises are sentences from the texts of chapters 3, 5, 7, 9 and 11. The text that follows it is chapter 9, the Fire Sermon.
+Chapter 1 introduced the verbs and the verb-like forms in two sections; this chapter deepens them, with the endings and classes from my translation of Kaccāyana's Ākhyātakappa and Kibbidhānakappa. Its examples and exercises are sentences from the texts of chapters 3, 5, 7 and 9 and the bonus chapter. The text that follows it is chapter 9, the Fire Sermon.
 :::
 
 A verb (`ākhyāta`) is a root (`dhātu`) with an ending that says who acts, how
 many, when, and whether the subject acts or is acted on. Kaccāyana spends a
 hundred and twenty rules on how the endings are added; a reader needs only to
 tell them apart, and this chapter is the table of what each ending looks like,
-with the sentences of chapters 3, 5 and 11 as its examples. Most of what does the
+with the sentences of chapters 3 and 5 and the bonus chapter as its examples. Most of what does the
 work of a verb in a Pāḷi sentence is not a finite verb at all but a verb-like
 noun, a participle, an absolutive or an infinitive, so those end the chapter.
 

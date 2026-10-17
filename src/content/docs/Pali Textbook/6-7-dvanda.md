@@ -95,7 +95,7 @@ the eye / and / the ear / and → eye and ear
 Resolve the following compounds into their members, say which shape of
 `dvanda` each has and why, and give the meaning. Look up the words in a
 dictionary and take note of the ending each member would take on its own. All
-four come from the texts of chapters [3](../3-awakening/) and [11](../11-pbt/),
+four come from the texts of chapters [3](../3-awakening/) and the [bonus chapter](../11-pbt/),
 each with a link to its sentence.
 
 :::tip[Hint]
@@ -106,8 +106,8 @@ deconstruction.
 
 1. nāmarūpaṁ ([3: 3.3](../3-awakening/#u3-3))
 2. sokaparidevadukkhadomanassupāyāsā ([3: 3.11](../3-awakening/#u3-11))
-3. assāsapassāsā ([11: 12, 14.2](../11-pbt/#s12-u14-2))
-4. kesamassuṁ ([11: 26, 12.8](../11-pbt/#s26-u12-8))
+3. assāsapassāsā ([Bonus: 12, 14.2](../11-pbt/#s12-u14-2))
+4. kesamassuṁ ([Bonus: 26, 12.8](../11-pbt/#s26-u12-8))
 
 ### Answers
 
@@ -129,7 +129,7 @@ sorrow / and / lamentation / and / pain / and / displeasure / and / despair / an
 
 🚹⨀①(assāso) ⏏️(ca) 🚹⨀①(passāso) ⏏️(ca) → 🚹⨂①🆎(assāsa+passāsa)  
 in-breath / and / out-breath / and → breathing in and out  
-*`dvanda` {329}, plural like `samaṇabrāhmaṇā`, each breath counted; in [11: 12, 14.2](../11-pbt/#s12-u14-2) they are the `kāyasaṅkhāro`.*
+*`dvanda` {329}, plural like `samaṇabrāhmaṇā`, each breath counted; in [Bonus: 12, 14.2](../11-pbt/#s12-u14-2) they are the `kāyasaṅkhāro`.*
 
 4. > kesā ca massu ca → **kesamassuṁ**
 

@@ -1,15 +1,15 @@
 ---
 draft: false
-title: "11: Translation: Core teachings (Pali Buddhist Texts)"
+title: "Bonus: Translation: Core teachings (Pali Buddhist Texts)"
 sidebar:
-  label: "11: Translation: Core teachings"
+  label: "Bonus: Translation: Core teachings"
   order: 562
 description: >
   My independent translation of the excerpts from the Tipiṭaka in **Pali Buddhist Texts** Explained to the Beginner, Rune E A Johansson, Curzon Press, Copenhagen, Scandinavian Institute of Asian Studies Monograph Series, Third Edition, 1981.
 ---
 
 :::note[How this chapter fits]
-This is the last of the interlinear translations: fifty-two short passages on the core teachings, chosen after Rune Johansson's *Pali Buddhist Texts*, each read word by word as the earlier text chapters are. Chapter 1 is enough to read them; the grammar chapters take many of their examples and exercises from these passages.
+This bonus chapter is the last of the interlinear translations: fifty-two short passages on the core teachings, chosen after Rune Johansson's *Pali Buddhist Texts*, each read word by word as the earlier text chapters are. It is my earliest translation effort, made in 2023 before the rest of this book existed, and it has since been updated to my latest understanding. Chapter 1 is enough to read it; the grammar chapters take many of their examples and exercises from these passages.
 :::
 
 My independent translation of the excerpts from the Tipiṭaka in **Pali Buddhist Texts** Explained to the Beginner, Rune E A Johansson, Curzon Press, Copenhagen, Scandinavian Institute of Asian Studies Monograph Series, Third Edition, 1981.
@@ -18,7 +18,7 @@ I translated these excerpts immediately after attending the Pali course held by 
 
 To this day, I like to credit these excerpts as my first serious attempt at translating Pali texts, which resulted in my finally understanding and appreciating these texts.
 
-I have recently updated the translations to reflect my current preferred English renditions of various technical terms.
+I have since updated the translations to my latest understanding: the English renderings of the technical terms now follow the glossary used throughout this book, and the analysis lines use the book's symbols, so that the passages read as the earlier text chapters do.
 
 ## 1. EXPERIENCE IS THE ONLY CRITERION
 

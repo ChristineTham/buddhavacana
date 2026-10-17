@@ -75,7 +75,7 @@ black / and / it / a snake / and → a black snake
 
 🚹⨀①(mahanto) ⏏️(ca) *️⃣🤟🚹⨀①(so) 🚹⨀①(puriso) ⏏️(ca) → 🚹⨀①🆎(mahanta+purisa)  
 great / and / he / a man / and → a great man  
-*`mahā` for `mahanta` {330}: "great" + "man"; it is the first part of `mahāpurisavihāro` in [11: 44, 2.6](../11-pbt/#s44-u2-6).*
+*`mahā` for `mahanta` {330}: "great" + "man"; it is the first part of `mahāpurisavihāro` in [Bonus: 44, 2.6](../11-pbt/#s44-u2-6).*
 
 > Rūpaṁ, bhikkhave, **anattā**.
 
@@ -86,7 +86,7 @@ form / bhikkhave / not-self
 ### Exercises
 
 Each of the following compounds you have met in the texts, chapters
-[5](../5-dhammacakka/), [7](../7-anatta/), [9](../9-fire/) or [11](../11-pbt/),
+[5](../5-dhammacakka/), [7](../7-anatta/), [9](../9-fire/) or the [bonus chapter](../11-pbt/),
 in the form it has there; the answers link to the sentences. Resolve it into
 its members, say which kind of `kammadhāraya` it is, and give the meaning. Look
 the word up in a dictionary and check its first member against the table
@@ -118,7 +118,7 @@ holy + conduct → pure life
 
 🚹⨀②🆎(sāyanha+samaya)  
 evening + time → in the late afternoon  
-*noun + noun {324}: `sāyanha` ("evening") and `samaya` ("time") name one time; [11: 44, 1.3](../11-pbt/#s44-u1-3), `sāyanhasamayaṁ paṭisallānā vuṭṭhito`.*
+*noun + noun {324}: `sāyanha` ("evening") and `samaya` ("time") name one time; [Bonus: 44, 1.3](../11-pbt/#s44-u1-3), `sāyanhasamayaṁ paṭisallānā vuṭṭhito`.*
 
 3. > na + uttara → **anuttaraṁ**
 
@@ -130,10 +130,10 @@ not + higher → unsurpassed
 
 🚻⨀②🆎(na+agāriya)  
 not + belonging to a house → to homeless state  
-*`an` for `na` before a vowel {334}: `agāriya` ("belonging to a house"); [11: 26, 12.8](../11-pbt/#s26-u12-8), `agārasmā anagāriyaṁ`.*
+*`an` for `na` before a vowel {334}: `agāriya` ("belonging to a house"); [Bonus: 26, 12.8](../11-pbt/#s26-u12-8), `agārasmā anagāriyaṁ`.*
 
 5. > na + mata → **amataṁ**
 
 🚻⨀①🆎(na+mata)  
 not + dead → free from death  
-*`a` for `na` {333}: "not dead", the deathless, a name of nibbāna; [11: 49, 66.2](../11-pbt/#s49-u66-2), `amataṁ ajjāpi ca labhanīyamidaṁ`.*
+*`a` for `na` {333}: "not dead", the deathless, a name of nibbāna; [Bonus: 49, 66.2](../11-pbt/#s49-u66-2), `amataṁ ajjāpi ca labhanīyamidaṁ`.*

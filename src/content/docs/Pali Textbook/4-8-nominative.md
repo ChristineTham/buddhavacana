@@ -44,14 +44,14 @@ plural the two are usually one form, `purisā`, `rājāno`, `sakhino`, that
 only the sentence tells apart, though `bhikkhu` has `bhikkhave` {116}. The
 surest sign of a ⓪ form is the word of address before it, `bho` and `he` in
 Kaccāyana, `bhante` in the texts of chapters [7](../7-anatta/) and
-[11](../11-pbt/), `āvuso` in chapter 11:
+the [bonus chapter](../11-pbt/), `āvuso` in the bonus chapter:
 
 | word of address | meaning | where you meet it |
 | --- | --- | --- |
 | `bho` | sir | `bho purisa`, `bho rāja`, with a singular {285} |
 | `bhavanto` | sirs | `bhavanto purisā`, `bhavanto rājāno`, with a plural {285} |
-| `bhante` | venerable sir, another ⓪ form of `bhavanta` | the monks answering the Buddha: `evaṁ, bhante` ("yes, Bhante", [11: 1, 24.15](../11-pbt/#s1-u24-15)), `aniccaṁ, bhante` ([7: 6.2](../7-anatta/#u6-2)) |
-| `āvuso` | friend, a particle | one monk to another: `āvuso visākha` ("friend Visākha", [11: 10, 22.2](../11-pbt/#s10-u22-2)) |
+| `bhante` | venerable sir, another ⓪ form of `bhavanta` | the monks answering the Buddha: `evaṁ, bhante` ("yes, Bhante", [Bonus: 1, 24.15](../11-pbt/#s1-u24-15)), `aniccaṁ, bhante` ([7: 6.2](../7-anatta/#u6-2)) |
+| `āvuso` | friend, a particle | one monk to another: `āvuso visākha` ("friend Visākha", [Bonus: 10, 22.2](../11-pbt/#s10-u22-2)) |
 | `he`, `ahe`, `re`, `are` | hey!; friend! (to an equal); hey, you! (in contempt); away with you! | `he sakhe` ("hey, friend!") {285}; alone they are particles under {284} |
 
 Every rule number links to the full rule in the Kaccāyana translation;
@@ -80,7 +80,7 @@ sirs / men
 
 ### Exercises
 
-Each sentence is from the texts of chapters 7, 9 and 11, and is linked to its
+Each sentence is from the texts of chapters 7 and 9 and the bonus chapter, and is linked to its
 place there. Say which words simply name their thing (①) and which call the
 listener (⓪), then translate; look the words up in a dictionary and note their
 endings.
@@ -91,8 +91,8 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. Evaṁ, bhante. ([11: 1, 24.15](../11-pbt/#s1-u24-15))
-2. Tayome, āvuso visākha, saṅkhārā— ([11: 12, 13.2](../11-pbt/#s12-u13-2))
+1. Evaṁ, bhante. ([Bonus: 1, 24.15](../11-pbt/#s1-u24-15))
+2. Tayome, āvuso visākha, saṅkhārā— ([Bonus: 12, 13.2](../11-pbt/#s12-u13-2))
 3. Rūpaṁ, bhikkhave, anattā. ([7: 2.1](../7-anatta/#u2-1))
 4. Cakkhu, bhikkhave, ādittaṁ, rūpā ādittā, cakkhuviññāṇaṁ ādittaṁ, cakkhusamphasso āditto. ([9: 2.3](../9-fire/#u2-3))
 

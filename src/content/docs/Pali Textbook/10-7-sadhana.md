@@ -124,9 +124,9 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. satthā ([11: 1, 24.5](../11-pbt/#s1-u24-5): `satthā no garu`)
-2. sāvako (the last member of `ariyasāvako`, [11: 33, 21.17](../11-pbt/#s33-u21-17), [7: 11.1](../7-anatta/#u11-1), [9: 8.1](../9-fire/#u8-1))
-3. sāsanaṁ ([11: 25, 4](../11-pbt/#s25-u4): `etaṁ buddhāna sāsanaṁ`)
+1. satthā ([Bonus: 1, 24.5](../11-pbt/#s1-u24-5): `satthā no garu`)
+2. sāvako (the last member of `ariyasāvako`, [Bonus: 33, 21.17](../11-pbt/#s33-u21-17), [7: 11.1](../7-anatta/#u11-1), [9: 8.1](../9-fire/#u8-1))
+3. sāsanaṁ ([Bonus: 25, 4](../11-pbt/#s25-u4): `etaṁ buddhāna sāsanaṁ`)
 4. karaṇīyaṁ ([9: 9.2](../9-fire/#u9-2): `kataṁ karaṇīyaṁ`; also [7: 11.4](../7-anatta/#u11-4))
 5. jāti ([3: 3.10](../3-awakening/#u3-10): `bhavapaccayā jāti`)
 

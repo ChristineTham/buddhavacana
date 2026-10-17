@@ -42,7 +42,7 @@ is not". What exists takes the ① ending, and the plural is `santi`. `hoti`
 joins a subject to what it is or becomes: `samudayo hoti` ("[this] is the
 origin"), `nāmaṁ ahosi` ("the name was"), and with a past participle it makes
 a tense of its own, `samannāgato hoti` ("he is endowed"), on every page of
-[chapter 11](../11-pbt/). The two share their other forms: the past of both is `ahosi`, the
+[the bonus chapter](../11-pbt/). The two share their other forms: the past of both is `ahosi`, the
 future `bhavissati`, the wish `siyā` or `assa`; `bhavati`, the regular verb
 of the root `bhū` ("to become") {445}, is the grammar's model, and the texts
 prefer `hoti`.
@@ -205,10 +205,10 @@ done / what had to be done
 
 ▶️🤟⨀(atthi) 🚺⨀①(nibbuti) 🔼(na) 🚹⨀①(nibbuta) 🚹⨀①(puma)  
 there is / extinguishment / not / extinguished / male  
-*`atthi`: the root `asa` with `ti` become `tthi` {494}, "there is"; `nibbuti`, what exists, takes ①; third person singular; [11: 7](../11-pbt/#7-there-is-no-soul) (Visuddhimagga XVI).*
+*`atthi`: the root `asa` with `ti` become `tthi` {494}, "there is"; `nibbuti`, what exists, takes ①; third person singular; [Bonus: 7](../11-pbt/#7-there-is-no-soul) (Visuddhimagga XVI).*
 
 8. > **nisinno** vā ‘nisinnomhī’ti pajānāti
 
 🚹⨀①(nisinna) 🔼(vā) 🔼(nisinnomhi) 🔼(ti) ▶️🤟⨀(pajānāti)  
 sitting / or / I am sitting / quote / knows clearly  
-*`nisinno`, "sitting": the past participle of `nisīdati`, `-inna` for `-ta` {582}, agreeing with the bhikkhu 🚹⨀①; `nisinnomhi` is `nisinno` + `amhi`, "I am"; [11: 36, 3.1](../11-pbt/#s36-u3-1).*
+*`nisinno`, "sitting": the past participle of `nisīdati`, `-inna` for `-ta` {582}, agreeing with the bhikkhu 🚹⨀①; `nisinnomhi` is `nisinno` + `amhi`, "I am"; [Bonus: 36, 3.1](../11-pbt/#s36-u3-1).*

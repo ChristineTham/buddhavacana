@@ -80,7 +80,7 @@ them, `kho me`, `…saccan’ti me` {147}–{151}. Rarer: `mayhaṁ`, `tuyhaṁ`
 
 :::note[`te` and `taṁ`: two words each]
 `te` is "they, those" (`ta` ①⨂ 🚹: `te bhikkhū`, [7: 1.3](../7-anatta/#u1-3)) and also "you, your" (`tumha`
-⨀, leaning on the word before it: `kho te, sāriputta, indriyāni`, [11: 44, 2.1](../11-pbt/#s44-u2-1)); `taṁ` is
+⨀, leaning on the word before it: `kho te, sāriputta, indriyāni`, [Bonus: 44, 2.1](../11-pbt/#s44-u2-1)); `taṁ` is
 "that" (`ta`, ① 🚻 or ② of any gender) and "you" (`tumha` ②⨀). A noun agreeing
 with it makes it `ta`; none agreeing (`indriyāni` is neuter) makes it `tumha`.
 :::

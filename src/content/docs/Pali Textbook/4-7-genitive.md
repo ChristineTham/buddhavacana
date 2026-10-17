@@ -100,7 +100,7 @@ deconstruction.
 
 1. Evametassa kevalassa dukkhakkhandhassa samudayo hoti ([3: 3.12](../3-awakening/#u3-12))
 2. Bhummānaṁ devānaṁ saddaṁ sutvā ([5: 12.2](../5-dhammacakka/#u12-2))
-3. Ayaṁ dukkhassa atthaṅgamo ([11: 19, 2.10](../11-pbt/#s19-u2-10))
+3. Ayaṁ dukkhassa atthaṅgamo ([Bonus: 19, 2.10](../11-pbt/#s19-u2-10))
 4. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. ([9: 10.2](../9-fire/#u10-2))
 
 ### Answers

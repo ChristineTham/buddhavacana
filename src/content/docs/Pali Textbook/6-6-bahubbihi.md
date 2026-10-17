@@ -30,7 +30,7 @@ compound takes the gender, number and ending of that noun: `chinnahattho` is
 🚹⨀① because `puriso` is. When the members join, their endings are dropped
 {317} and each goes back to its lemma form {318}. The Buddha's epithets are
 full of such compounds (`dasabalo`, "who has the ten powers"), and so is the
-jhāna formula of [11: 39, 11.1](../11-pbt/#s39-u11-1) (`avitakkaṁ avicāraṁ …
+jhāna formula of [Bonus: 39, 11.1](../11-pbt/#s39-u11-1) (`avitakkaṁ avicāraṁ …
 jhānaṁ`).
 
 ### How to recognise a `bahubbīhi`
@@ -85,7 +85,7 @@ change / nature / of which / that → what / subject to change
 ### Exercises
 
 Each of the following is a `bahubbīhi` from chapters [5](../5-dhammacakka/) and
-[11](../11-pbt/), with the word it agrees with where the sentence has one and a
+the [bonus chapter](../11-pbt/), with the word it agrees with where the sentence has one and a
 link to its sentence. Look each up in a dictionary, name its members, unfold it
 into a phrase with `yassa` ("whose") or `yasmiṁ` ("in which"), and say what it
 names.
@@ -97,9 +97,9 @@ deconstruction.
 :::
 
 1. nirodhadhammaṁ ([5: 11.1](../5-dhammacakka/#u11-1))
-2. maraṇadhammo ([11: 46, 18.1](../11-pbt/#s46-u18-1))
-3. avitakkaṁ (jhānaṁ) ([11: 39, 11.1](../11-pbt/#s39-u11-1))
-4. avicāraṁ (jhānaṁ) ([11: 39, 11.1](../11-pbt/#s39-u11-1))
+2. maraṇadhammo ([Bonus: 46, 18.1](../11-pbt/#s46-u18-1))
+3. avitakkaṁ (jhānaṁ) ([Bonus: 39, 11.1](../11-pbt/#s39-u11-1))
+4. avicāraṁ (jhānaṁ) ([Bonus: 39, 11.1](../11-pbt/#s39-u11-1))
 
 ### Answers
 
@@ -115,13 +115,13 @@ cessation / nature / of which / that → subject to cessation
 
 🚻⨀①(maraṇaṁ) 🚹⨀①(dhammo) *️⃣🤟🚹⨀⑥(yassa) *️⃣🤟🚹⨀①(so) → 🚹⨀①🆎(maraṇa+dhamma)  
 death / nature / of whom / that [one] → whose nature is death, subject to death  
-*{328}: `-dhammo`, "whose nature is": so too `jātidhammo`, `jarādhammo`, `byādhidhammo`, `sokadhammo`, `saṅkilesadhammo` in [11: 46, 18.1](../11-pbt/#s46-u18-1).*
+*{328}: `-dhammo`, "whose nature is": so too `jātidhammo`, `jarādhammo`, `byādhidhammo`, `sokadhammo`, `saṅkilesadhammo` in [Bonus: 46, 18.1](../11-pbt/#s46-u18-1).*
 
 3. > natthi vitakko yasmiṁ taṁ → **avitakkaṁ** jhānaṁ
 
 🟢⨀🤟▶️(natthi) 🚹⨀①(vitakko) *️⃣🤟🚻⨀⑦(yasmiṁ) *️⃣🤟🚻⨀①(taṁ) → 🚻⨀①🆎(na+vitakka) 🚻⨀①(jhānaṁ)  
 there is no / thinking / in which / that → without thinking / jhāna  
-*{328}: `a`- for `na` {333}, the outside word in the ⑦; neuter like the `jhānaṁ` it describes ([11: 39, 11.1](../11-pbt/#s39-u11-1)).*
+*{328}: `a`- for `na` {333}, the outside word in the ⑦; neuter like the `jhānaṁ` it describes ([Bonus: 39, 11.1](../11-pbt/#s39-u11-1)).*
 
 4. > natthi vicāro yasmiṁ taṁ → **avicāraṁ** jhānaṁ
 

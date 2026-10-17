@@ -14,7 +14,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
 :::note[How this chapter fits]
-Chapter 1 introduced compounds in one section; this chapter deepens it, with the kinds and the changes from my translation of Kaccāyana's Samāsakappa. Its examples and exercises are compounds from the texts of chapters 3, 5, 7, 9 and 11. The text that follows it is chapter 7, the second discourse.
+Chapter 1 introduced compounds in one section; this chapter deepens it, with the kinds and the changes from my translation of Kaccāyana's Samāsakappa. Its examples and exercises are compounds from the texts of chapters 3, 5, 7 and 9 and the bonus chapter. The text that follows it is chapter 7, the second discourse.
 :::
 
 Like German, Pāḷi joins nouns into compound words: `rājaputto` ("the king's
