@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "Bonus: Translation: Core teachings (Pali Buddhist Texts)"
+title: "Bonus: Core Teachings"
 sidebar:
-  label: "Bonus: Translation: Core teachings"
+  label: "Bonus: Core Teachings"
   order: 562
 description: >
   My independent translation of the excerpts from the Tipiṭaka in **Pali Buddhist Texts** Explained to the Beginner, Rune E A Johansson, Curzon Press, Copenhagen, Scandinavian Institute of Asian Studies Monograph Series, Third Edition, 1981.
