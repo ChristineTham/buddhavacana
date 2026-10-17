@@ -38,7 +38,7 @@ this chapter follow it:
 flowchart TD
   S1["1. Is it two words joined? split them (2.1)"] --> S2["2. What is the ending, and so the number and the job? (2.2–2.4)"]
   S2 --> S3["3. What is the lemma? look it up"]
-  S3 --> S4["4. What is the word doing in the sentence? chapter 5"]
+  S3 --> S4["4. What is the word doing in the sentence? chapter 4"]
 ```
 
 | section | covers | Kaccāyana | appendix |
@@ -54,7 +54,7 @@ flowchart TD
 
 Every section is built the same way: a short explanation, a table of the
 shapes to recognise with the rule that makes each, a few worked examples from
-the texts of chapters 3, 4 and 10, and one block of exercises on sentences from
+the texts of chapters 3, 5 and 10, and one block of exercises on sentences from
 those texts. Kaccāyana's own account of each form, the derivation, stays behind
 the rule number, which links to it.
 

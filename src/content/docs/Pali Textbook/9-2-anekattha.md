@@ -101,7 +101,7 @@ after / born → born after, last
 
 ### Exercises
 
-Each of the following is a word you met in the texts of chapters 3, 4 and 10.
+Each of the following is a word you met in the texts of chapters 3, 5 and 10.
 Say which affix it carries, what the base is and what connection with the
 base the word names; then look the word up and compare. (`sandiṭṭhiko`, in
 the same sentence as the first three, is `sandiṭṭhi` with the affix `ka`, not

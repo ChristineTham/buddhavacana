@@ -95,7 +95,7 @@ the eye / and / the ear / and → eye and ear
 Resolve the following compounds into their members, say which shape of
 `dvanda` each has and why, and give the meaning. Look up the words in a
 dictionary and take note of the ending each member would take on its own. All
-six come from the texts of chapters 3, 4 and 10.
+six come from the texts of chapters 3, 5 and 10.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)

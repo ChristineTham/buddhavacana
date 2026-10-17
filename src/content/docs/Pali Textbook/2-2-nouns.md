@@ -34,12 +34,12 @@ singular (`ekavacana`) ⨀ or plural (`bahuvacana`) ⨂.
 | `itthiliṅga` 🚺 | `fem` | `-ā` (`kaññā`); `-i`, `-ī`, `-u`, `-ū` |
 
 The ending (`vibhatti`) is one of eight sets {55}, each an answer to "what is
-this noun doing?": ① the doer or the thing itself ([5.6](../5-6-agent/),
-[5.8](../5-8-nominative/)), ② the object ([5.5](../5-5-accusative/)), ③ "by",
-"with" ([5.4](../5-4-instrumental/)), ④ "to", "for" ([5.2](../5-2-dative/)),
-⑤ "from" ([5.1](../5-1-ablative/)), ⑥ "of" ([5.7](../5-7-genitive/)), ⑦ "in",
-"at", "when" ([5.3](../5-3-locative/)), ⓪ calling someone (`ālapana`) {57}.
-Chapter 5 gives the answers in full.
+this noun doing?": ① the doer or the thing itself ([4.6](../4-6-agent/),
+[4.8](../4-8-nominative/)), ② the object ([4.5](../4-5-accusative/)), ③ "by",
+"with" ([4.4](../4-4-instrumental/)), ④ "to", "for" ([4.2](../4-2-dative/)),
+⑤ "from" ([4.1](../4-1-ablative/)), ⑥ "of" ([4.7](../4-7-genitive/)), ⑦ "in",
+"at", "when" ([4.3](../4-3-locative/)), ⓪ calling someone (`ālapana`) {57}.
+Chapter 4 gives the answers in full.
 
 ### The three inflection tables
 
@@ -89,7 +89,7 @@ The inflection table of `kaññā` ("girl"), 🚺:
 | ⓪ | `kaññe` | `kaññā`, `kaññāyo` | {114}; {118} |
 
 One shape, `-āya`, serves the five singular endings ③ to ⑦ {111}: `taṇhāya`
-in chapter 4 is ⑥, "of craving", by the sense alone. The plural ③ to ⑦ add
+in chapter 5 is ⑥, "of craving", by the sense alone. The plural ③ to ⑦ add
 the endings of {55} to the `-ā` unchanged; the ⓪ singular is `-e` {114},
 `bhoti kaññe` ("madam, girl!").
 

@@ -1,8 +1,8 @@
 ---
-title: "5.3: okāsa (Locative)"
+title: "4.3: okāsa (Locative)"
 sidebar:
-  label: "5.3: `okāsa`"
-  order: 527
+  label: "4.3: `okāsa`"
+  order: 526
 description: >
   A word with the ⑦ ending names where, or when, an action happens:
   `sāvatthiyaṁ viharati jetavane`, "[he] dwells at Sāvatthī, in Jeta's Grove".
@@ -48,7 +48,7 @@ after a long vowel (`jetavane`, `pāpasmiṁ`, `ajaramhi`, `velāyaṁ`,
 The first four rows are the uses on every page; the rest are rare. A time is
 often in the ③ ending instead, `tena samayena` ("at that time"), the words the
 Bodhikathā opens with {290}; two uses ⑦ shares with ⑥, "among" {304} and
-"despite" {305}, are in [5.7](../5-7-genitive/).
+"despite" {305}, are in [4.7](../4-7-genitive/).
 
 Kaccāyana names four kinds of support {278}: pervading (`byāpika`), `jalesu
 khīraṁ tiṭṭhati`, milk stands in water; by contact (`opasilesika`),
@@ -89,7 +89,7 @@ while the monks / [were] being fed / gone
 
 ### Exercises
 
-Each sentence is from the texts of chapters 3, 4 and 10 and has a ⑦ word. Find
+Each sentence is from the texts of chapters 3, 5 and 10 and has a ⑦ word. Find
 it, say what it is doing there — the place, the time or an event that sets the
 time — and translate the sentence.
 

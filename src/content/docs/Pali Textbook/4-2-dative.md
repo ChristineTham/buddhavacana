@@ -1,8 +1,8 @@
 ---
-title: "5.2: sampadāna (Dative)"
+title: "4.2: sampadāna (Dative)"
 sidebar:
-  label: "5.2: `sampadāna`"
-  order: 526
+  label: "4.2: `sampadāna`"
+  order: 525
 description: >
   The one something is given to, done for, said to or wished for takes the
   ④ ending: `samaṇassa cīvaraṁ dadāti`, "[he] gives a robe to the ascetic".
@@ -28,7 +28,7 @@ What you see is most often `-ssa`, `-āya` or `-no` in the singular
 (`samaṇassa`, `atthāya`, `bhikkhuno`), `-naṁ` in the plural (`bhikkhūnaṁ`),
 and `te`, `me`, `vo`, `no` ("to you", "to me", "to you all", "to us")
 {147}–{148}. Only `-āya` on a masculine or neuter word (`atthāya`, `hitāya`)
-is ④ alone {109}; the other forms also mean "of", the ⑥ of section 5.7, so the
+is ④ alone {109}; the other forms also mean "of", the ⑥ of section 4.7, so the
 sentence decides: is there a giving, a saying, a purpose, a wish? The texts
 sometimes use the ⑦ ending in its place {311}; [Appendix G](../g-vibhatti/)
 tables the endings.
@@ -94,7 +94,7 @@ homage / to you / O Buddha / O hero / let there be
 Translate the following from Pāḷi to English and say, for each word with the ④
 ending, which use of the table it shows. Look up the words in a dictionary, do
 the necessary sandhi and compound word deconstruction, and let the endings
-guide the meaning. Sentences 2–5 are from chapters 3, 4 and 10.
+guide the meaning. Sentences 2–5 are from chapters 3, 5 and 10.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)

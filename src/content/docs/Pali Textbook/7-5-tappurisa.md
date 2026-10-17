@@ -38,7 +38,7 @@ the first member has lost, and it names the kind.
 ### The six kinds, by the ending of the first member
 
 One phrase and its compound for each ending, ② to ⑦; the ending is the one
-chapter [2](../5-0-karaka/) gives the first word for its work in the sentence:
+chapter [2](../4-0-karaka/) gives the first word for its work in the sentence:
 
 | ending | the first member is … | phrase → compound | meaning | rule |
 | :-: | --- | --- | --- | :-: |

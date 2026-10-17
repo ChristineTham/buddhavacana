@@ -95,7 +95,7 @@ The `s` of `manasā` is inserted before a vowel ending {184}.
 
 🚹⨂①(bhikkhu) 🚹⨀⑥(bhagavant) 🚻⨀②🔽(ta)(bhāsita) 🟢⨂🤟⏮(abhinandati) ⏏️(iti)  
 bhikkhū / of the Bhagavā / what was spoken / rejoiced in / (end quote)  
-*"Rejoiced in the Bhagavā’s words": `bhagavato`, `-ato`, ④⑥ singular of a word in `ntu` {127}, here ⑥; chapter 4, 10.4.*
+*"Rejoiced in the Bhagavā’s words": `bhagavato`, `-ato`, ④⑥ singular of a word in `ntu` {127}, here ⑥; chapter 5, 10.4.*
 
 > **satthā** no garu
 
@@ -134,13 +134,13 @@ deconstruction.
 
 🚻⨀⑦🔽(ta)(pavattita) ⏏️(ca) ⏏️(pana) 🚹⨀③(bhagavant) 🚻⨀⑦🆎(dhamma+cakka)  
 set in motion / and / now / by the Bhagavā / the wheel of the Dhamma  
-*"Set in motion by the Bhagavā": `bhagavatā`, `-atā`, ③ singular of `bhagavantu` {127}; chapter 4, 12.1.*
+*"Set in motion by the Bhagavā": `bhagavatā`, `-atā`, ③ singular of `bhagavantu` {127}; chapter 5, 12.1.*
 
 2. > mārena vā **brahmunā** vā kenaci vā
 
 🚹⨀③(māra) ⏏️(vā) 🚹⨀③(brahma) ⏏️(vā) *️⃣🤟🚹⨀③(kaci) ⏏️(vā)  
 by Māra / or / by Brahmā / or / by anyone / or  
-*"Māra or Brahmā or by anyone": `brahmunā`, ③ singular of `brahma`, `a` become `u` before `nā` {198}; chapter 4, 12.1.*
+*"Māra or Brahmā or by anyone": `brahmunā`, ③ singular of `brahma`, `a` become `u` before `nā` {198}; chapter 5, 12.1.*
 
 3. > aññaṁ **satthāraṁ** uddiseyyāthā”ti
 

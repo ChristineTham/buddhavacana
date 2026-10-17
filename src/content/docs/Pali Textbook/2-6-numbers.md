@@ -20,7 +20,7 @@ The texts count on every page: `dveme antā` ("these two extremes"), `catūsu
 ariyasaccesu` ("in the four realisations"), `paṭhamaṁ jhānaṁ` ("the first
 jhāna"). A number
 (`saṅkhyā`) is a noun like any other: its ending tells you its job in the
-sentence ([chapter 5](../5-0-karaka/)). But the shape you meet (`dve`,
+sentence ([chapter 4](../4-0-karaka/)). But the shape you meet (`dve`,
 `tayo`, `cattāri`) is often far from the lemma (`dvi`, `ti`, `catu`), so ask
 two questions: which number is it, and what ending is it carrying?
 
@@ -124,7 +124,7 @@ of the night / first / watch
 
 ### Exercises
 
-Each item comes from the texts of chapters 3, 4 and 10. Name the number, its
+Each item comes from the texts of chapters 3, 5 and 10. Name the number, its
 lemma, and the gender, number and ending it carries; inside a compound, say
 what it counts.
 

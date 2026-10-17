@@ -15,7 +15,7 @@ tags: ["sabbanāma"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-Every sentence of chapter 4 has one of these words: `idaṁ kho pana, bhikkhave,
+Every sentence of chapter 5 has one of these words: `idaṁ kho pana, bhikkhave,
 dukkhaṁ ariyasaccaṁ`, `yo cāyaṁ`, `me`. Kaccāyana calls them `sabbanāma`
 (pronouns, literally "all-names"): a word that names nothing of its own but
 stands for any noun, and takes that noun's gender, number and ending. There
@@ -27,7 +27,7 @@ she, it), `eta` (this), `ima` (this), `ya` (which, whoever: the relative),
 Ask of a pronoun what you ask of a noun, "what gender, number and ending?",
 and one thing more: "which noun does it stand for?" Beside a noun it carries
 the noun's ending, `sā majjhimā paṭipadā`, `ete ubho ante`; alone, its ending
-gives its job (chapter 5) and its noun is the one named before. The endings
+gives its job (chapter 4) and its noun is the one named before. The endings
 are those of `purisa`, `citta` and `kaññā` ([2.2](../2-2-nouns/)) with a few
 of their own {161}–{177}; the tables give each form's rule.
 
@@ -108,7 +108,7 @@ inflections {247}; the word made never changes.
 | how: `-thā`, `-thaṁ` | `tathā` so, thus {398} | `yathā` as, like {398} | `kathaṁ` how? {399} | `itthaṁ` in this way {399} |
 
 `evaṁ` (thus) and the pair `yāva … tāva` (as long as … so long: `tāvāhaṁ` in
-chapter 4) are particles, not made by these rules; [2.8](../2-8-nipata/) lists
+chapter 5) are particles, not made by these rules; [2.8](../2-8-nipata/) lists
 them with the rule that drops their endings {221}.
 
 ### Examples
@@ -139,7 +139,7 @@ whatever / anything / subject to origination / all / that / subject to cessation
 
 ### Exercises
 
-Each is from the texts of chapters 3, 4 and 10. For each pronoun give its lemma,
+Each is from the texts of chapters 3, 5 and 10. For each pronoun give its lemma,
 gender, number and ending, and the noun it agrees with or stands for; for an
 adverb, the pronoun and the affix.
 

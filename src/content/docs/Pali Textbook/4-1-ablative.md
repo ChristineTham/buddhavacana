@@ -1,8 +1,8 @@
 ---
-title: "5.1: apādāna (Ablative)"
+title: "4.1: apādāna (Ablative)"
 sidebar:
-  label: "5.1: `apādāna`"
-  order: 525
+  label: "4.1: `apādāna`"
+  order: 524
 description: >
   A noun with the ⑤ ending names the point something moves away from, comes
   from, is kept from or arises from: the `apādāna` {271}–{275}, which takes the
@@ -98,7 +98,7 @@ teacher and preceptor / lesson / takes / pupil
 
 ### Exercises
 
-Each sentence is from the texts of chapters 3, 4 and 10 and has a word with the ⑤
+Each sentence is from the texts of chapters 3, 5 and 10 and has a word with the ⑤
 ending. Find it, match it to a row of the tables, and translate the sentence.
 Look the words up in a dictionary, do the necessary sandhi and compound word
 deconstruction, and take note of the `vibhatti` endings.

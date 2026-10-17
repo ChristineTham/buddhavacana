@@ -16,7 +16,7 @@ tags: ["ākhyāta", "kita"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-Chapter 4 ends `pavattite ca pana bhagavatā dhammacakke bhummā devā
+Chapter 5 ends `pavattite ca pana bhagavatā dhammacakke bhummā devā
 saddamanussāvesuṁ`, "when the wheel of the Dhamma had been set in motion by the
 Bhagavā, the earth-dwelling devas raised a cry". Its one finite verb is
 `saddamanussāvesuṁ`; the setting in motion is `pavattite`, a root with an affix
@@ -38,7 +38,7 @@ before the main verb, or its purpose?
 | `-ta` on the root, whose last letter changes with it | `abhisambuddhā` (fully awakened) {576}, `vuttaṁ` (said) {579}, `gato` (gone) {586} | {555} |
 | `-na` for `-ta` after some roots | `nisinno` (seated), `pahīnaṁ` (given up) | {582} |
 
-"Has been X-ed", the doer in the ③ ([5.6](../5-6-agent/)): `tathāgatena
+"Has been X-ed", the doer in the ③ ([4.6](../4-6-agent/)): `tathāgatena
 abhisambuddhā` {556}; after roots meaning go, know or awaken, the one who did
 it: `gato`, `buddho` {557}. It agrees with its noun, `paṭipadā … abhisambuddhā`
 🚺⨀①, or stands alone as one, `pabbajitena` 🚹⨀③.
@@ -91,8 +91,8 @@ spiritual path".
 
 | what you see | example | rule |
 | --- | --- | :-: |
-| a noun and a participle, both ⑦, outside the main sentence: "when", "while" ([5.3](../5-3-locative/)) | `pavattite … dhammacakke`, `veyyākaraṇasmiṁ bhaññamāne` | {313} |
-| both ⑥, for a person whose doing is disregarded: "though" ([5.7](../5-7-genitive/)) | `rudato dārakassa pabbaji` (though the boy wept, he went forth) | {305} |
+| a noun and a participle, both ⑦, outside the main sentence: "when", "while" ([4.3](../4-3-locative/)) | `pavattite … dhammacakke`, `veyyākaraṇasmiṁ bhaññamāne` | {313} |
+| both ⑥, for a person whose doing is disregarded: "though" ([4.7](../4-7-genitive/)) | `rudato dārakassa pabbaji` (though the boy wept, he went forth) | {305} |
 
 :::note[`sutvā` or `sutaṁ`?]
 Both say the hearing is over. `sutvā` keeps one shape, has no ending and
@@ -135,7 +135,7 @@ in this / and / moreover / detailed exposition / being spoken
 
 ### Exercises
 
-Each is a phrase from chapters 3, 4 and 10 with a verb-like form in bold. Name
+Each is a phrase from chapters 3, 5 and 10 with a verb-like form in bold. Name
 its affix and what the affix tells you: done, going on, to be done, done
 before, or purpose; for a participle, name the noun it agrees with.
 

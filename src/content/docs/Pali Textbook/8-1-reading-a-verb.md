@@ -160,7 +160,7 @@ flowchart TD
 
 *️⃣🤟🚹⨀②(eka) 🚹⨀②(samaya) 🚹⨀①(bhagavant) 🚺⨀⑦(bārāṇasī) 🟢⨀🤟▶️(viharati) 🚻⨀⑦(isipatana) 🚹⨀⑦(migadāya)  
 one / time / the Bhagavā / at Bārāṇasī / dwells / at Isipatana / in the Deer Park  
-*"At one time the Bhagavā was dwelling at Bārāṇasī, at Isipatana in the Deer Park." (chapter 4, 1.1) `viharati`: `-ti`, `vattamānā` ▶️, third person singular {423}; before it the `a` of the `bhū` class {445}, `vi-har-a-ti`; the texts' present often reads as an English past.*
+*"At one time the Bhagavā was dwelling at Bārāṇasī, at Isipatana in the Deer Park." (chapter 5, 1.1) `viharati`: `-ti`, `vattamānā` ▶️, third person singular {423}; before it the `a` of the `bhū` class {445}, `vi-har-a-ti`; the texts' present often reads as an English past.*
 
 > ‘avippaṭisāro me **uppajjatū**’ti.
 
@@ -178,7 +178,7 @@ are? / youse / bhikkhave / thus / knowing / thus / seeing / will say
 
 🚻⨀①(ñāṇa) ⏏️(ca) ⏏️(pana) *️⃣👆⚧⨀④(ahaṁ) 🚻⨀①(dassana) 🟢⨀🤟⏮(uppajjati)  
 knowledge / and / moreover / for me / insight / arose  
-*"And knowledge and insight arose in me:" (chapter 4, 10.2) `udapādi`: `-i`, `ajjatanī` ⏮, third person singular {428}, its `ī` shortened {517}; the `a` put before the root `pad` marks the past {519}, `ud-a-pād-i`.*
+*"And knowledge and insight arose in me:" (chapter 5, 10.2) `udapādi`: `-i`, `ajjatanī` ⏮, third person singular {428}, its `ī` shortened {517}; the `a` put before the root `pad` marks the past {519}, `ud-a-pād-i`.*
 
 > Āraddhaṁ kho pana me vīriyaṁ **bhavissati** asallīnaṁ,
 
@@ -194,7 +194,7 @@ surely? / if this / Bhikkhave / could have been / not born / not become / not ma
 
 ### Exercises
 
-Each of the following is a verb from the texts of chapters 3, 4 and 10, in
+Each of the following is a verb from the texts of chapters 3, 5 and 10, in
 the form it has there. Name its set, its ending, its person and its number,
 and say what the sentence means. Look the word up in a dictionary and check
 the ending against the tables above.
@@ -222,7 +222,7 @@ deconstruction.
 
 *️⃣🤟🚻⨀②(ima) 🟢⨀🤟⏮(vadati) 🚹⨀①(bhagavant)  
 this / said / the Bhagavā  
-*"This the Bhagavā said." (chapter 4, 10.3) `avoca`: `ajjatanī` ⏮, third person singular {428}; the `a` put before the root {519} and the `o` that `vaca` takes in this set {477}; `idamavoca` is `idaṁ` + `avoca`.*
+*"This the Bhagavā said." (chapter 5, 10.3) `avoca`: `ajjatanī` ⏮, third person singular {428}; the `a` put before the root {519} and the `o` that `vaca` takes in this set {477}; `idamavoca` is `idaṁ` + `avoca`.*
 
 2. > Yadā have **pātubhavanti** dhammā,
 
@@ -240,13 +240,13 @@ that I / Dhamma / having heard / in Tathāgata / faith / I acquired
 
 ⏏️(tatra) ⏏️(kho) 🚹⨀①(bhagavant) 🚹⨂②🆎(pañca+vaggiya) 🚹⨂②(bhikkhu) 🟢⨀🤟⏮(āmanteti)  
 there / indeed / the Bhagavā / of the group of five / bhikkhū / addressed  
-*"There the Bhagavā addressed the group of five bhikkhū:" (chapter 4, 1.2) `āmantesi`: `-si`, `ajjatanī` ⏮, third person singular {428}, the shape of the verbs in `e` ([8.4](../8-4-past/)); no `a` shows before the root, which the prefix `ā` precedes.*
+*"There the Bhagavā addressed the group of five bhikkhū:" (chapter 5, 1.2) `āmantesi`: `-si`, `ajjatanī` ⏮, third person singular {428}, the shape of the verbs in `e` ([8.4](../8-4-past/)); no `a` shows before the root, which the prefix `ā` precedes.*
 
 5. > Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ **abhinandun**ti.
 
 🚹⨂①🆎(atta+mana) 🚹⨂①🆎(pañca+vaggiya) 🚹⨂①(bhikkhu) 🚹⨀⑥(bhagavant) 🚻⨀②🔽(ta)(bhāsita) 🟢⨂🤟⏮(abhinandati) ⏏️(iti)  
 delighted / of the group of five / bhikkhū / of the Bhagavā / what was spoken / rejoiced in / (end quote)  
-*"The group of five bhikkhū, delighted, rejoiced in the Bhagavā's words." (chapter 4, 10.4) `abhinanduṁ`: `-uṁ`, `ajjatanī` ⏮, third person plural {428}; the `-n` before `ti` is `-ṁ` at the join ([2.1](../2-1-sandhi/)).*
+*"The group of five bhikkhū, delighted, rejoiced in the Bhagavā's words." (chapter 5, 10.4) `abhinanduṁ`: `-uṁ`, `ajjatanī` ⏮, third person plural {428}; the `-n` before `ti` is `-ṁ` at the join ([2.1](../2-1-sandhi/)).*
 
 6. > Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā aññaṁ satthāraṁ **uddiseyyāthā**”ti?
 

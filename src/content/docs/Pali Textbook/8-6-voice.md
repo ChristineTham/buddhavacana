@@ -135,7 +135,7 @@ self / tames / the wise → The wise tames the self.
 ### Exercises
 
 Each of the following is from chapter [3](../3-awakening/),
-[4](../4-dhammacakka/) or [9](../10-pbt/). Find the verb or verb-like form and
+[4](../5-dhammacakka/) or [9](../10-pbt/). Find the verb or verb-like form and
 say which piece stands before its ending, whether it is passive, causative or
 neither, and what its root is; a dictionary gives the root's class.
 
@@ -185,7 +185,7 @@ arrow-maker / straighten / arrow → Arrow makers straighten arrow;
 
 🚺⨀①🆎(dukkhanirodha+gāmī) 🚺⨀①(paṭipadā) 🚻⨀①🆎(ariya+sacca) 🚻⨀①🔽(tabba)(bhāvetabba) ⏏️(iti)  
 leading to the cessation of suffering / path / realisation / to be developed / thus → ‘This `dukkhanirodhagāminī paṭipadā ariyasacca` should be `bhāvetabbaṁ` (developed)’: thus  
-*Causative 🟠 inside a verb-like form (7.8): `bhū` ("be") + `e` {438}, `bhāveti` "makes be", develops, with `-tabba` ("to be …") on top; the next sentence of chapter 4 has its past participle `bhāvitaṁ`.*
+*Causative 🟠 inside a verb-like form (7.8): `bhū` ("be") + `e` {438}, `bhāveti` "makes be", develops, with `-tabba` ("to be …") on top; the next sentence of chapter 5 has its past participle `bhāvitaṁ`.*
 
 6. > imaṁ udānaṁ **udānesi**
 

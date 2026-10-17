@@ -51,11 +51,11 @@ the noun it describes. Every rule number links to the full rule;
 
 Only the ① shows `-vā` or `-mā`. Before the other endings you see `-vant-` or
 `-vat-`, `-mant-` or `-mat-`, and the dictionary lists the word under the
-lemma `bhagavant`, `āyasmant`, as the symbol lines of chapters 3, 4 and 10 do:
+lemma `bhagavant`, `āyasmant`, as the symbol lines of chapters 3, 5 and 10 do:
 
 | ending | what you see | example | rule |
 | :-: | --- | --- | :-: |
-| ① | `-vā`, `-mā` | `bhagavā`, `āyasmā`, `satimā` (chapters 3, 4 and 10) | {124} |
+| ① | `-vā`, `-mā` | `bhagavā`, `āyasmā`, `satimā` (chapters 3, 5 and 10) | {124} |
 | ② | `-vantaṁ`, `-mantaṁ` | `bhagavantaṁ`, `āyasmantaṁ` (chapter 10) | |
 | ③ | `-vatā`, `-matā` | `bhagavatā` (chapter 10) | {127} |
 | ④ ⑥ | `-vato`, `-mato` | `sīlavato` (chapter 10) | {127} |
@@ -93,7 +93,7 @@ with gold / made / a work → made of gold
 ### Exercises
 
 Resolve each word into its noun and affix, and give its meaning; the first
-four you met in chapters 3, 4 and 10 (`sīlavā` as its ④, `sīlavato`). Look the
+four you met in chapters 3, 5 and 10 (`sīlavā` as its ④, `sīlavato`). Look the
 words up in a dictionary and note the sense the affix carries.
 
 :::tip[Hint]
@@ -119,7 +119,7 @@ deconstruction.
 
 🚻⨀①(bhagaṁ) *️⃣🤟🚹⨀⑥(yassa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(vantu)(bhagavā)  
 good fortune / of whom / there is → one who has good fortune, the Blessed One  
-*`vantu` {368}: `bhaga` + `-vā`; chapters 3, 4 and 10 write the lemma `bhagavant`.*
+*`vantu` {368}: `bhaga` + `-vā`; chapters 3, 5 and 10 write the lemma `bhagavant`.*
 
 2. > āyu assa atthi → **āyasmā**
 

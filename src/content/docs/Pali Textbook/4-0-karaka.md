@@ -1,8 +1,8 @@
 ---
-title: "5: `kāraka` (word ending) meanings"
+title: "4: `kāraka` (word ending) meanings"
 sidebar:
-  label: "5: `kāraka`"
-  order: 524
+  label: "4: `kāraka`"
+  order: 523
 description: >
   Various meanings and usage-rules of word endings in sentences after `vibhatti` has been applied {271}-{315}
 categories: ["palibook"]
@@ -40,17 +40,17 @@ Kaccāyana first defines the seven `kāraka` {271}–{283}, in the order below, 
 On a first reading take the first use or two of each section, the ones the diagram names,
 and their examples; the later uses of each ending are rarer, and every rule number links to
 the full rule in the Kaccāyana translation. Come back for the rest once the texts of
-chapters 3, 4 and 10 have made the endings familiar.
+chapters 3, 5 and 10 have made the endings familiar.
 :::
 
 | section | `kāraka` | English name | usual ending | definition | uses of the ending |
 | :-: | --- | --- | :-: | :-: | --- |
-| [5.1](../5-1-ablative/) | `apādāna` | ablative, "from" | ⑤ | {271}–{275} | {295}–{296} |
-| [5.2](../5-2-dative/) | `sampadāna` | dative, "to", "for" | ④ | {276}–{277} | {293}–{294}, {311} |
-| [5.3](../5-3-locative/) | `okāsa` | locative, "in", "at", "on" | ⑦ | {278} | {302}, {310}, {312}–{315} |
-| [5.4](../5-4-instrumental/) | `karaṇa` | instrumental, "by", "with" | ③ | {279} | {286}–{292} |
-| [5.5](../5-5-accusative/) | `kamma` | accusative, the object | ② | {280} | {297}–{300}, {306}–{307} |
-| [5.6](../5-6-agent/) | `kattā`, `hetu` | the agent and the causer | ① (③ in the passive) | {281}–{282} | {284}, {288} |
-| [5.7](../5-7-genitive/) | `sāmī` | genitive, "of" | ⑥ | {283} | {301}, {303}–{305}, {308}–{309} |
-| [5.8](../5-8-nominative/) | `liṅgattha`, `ālapana` | nominative and vocative | ①, ⓪ | — | {284}–{285} |
+| [4.1](../4-1-ablative/) | `apādāna` | ablative, "from" | ⑤ | {271}–{275} | {295}–{296} |
+| [4.2](../4-2-dative/) | `sampadāna` | dative, "to", "for" | ④ | {276}–{277} | {293}–{294}, {311} |
+| [4.3](../4-3-locative/) | `okāsa` | locative, "in", "at", "on" | ⑦ | {278} | {302}, {310}, {312}–{315} |
+| [4.4](../4-4-instrumental/) | `karaṇa` | instrumental, "by", "with" | ③ | {279} | {286}–{292} |
+| [4.5](../4-5-accusative/) | `kamma` | accusative, the object | ② | {280} | {297}–{300}, {306}–{307} |
+| [4.6](../4-6-agent/) | `kattā`, `hetu` | the agent and the causer | ① (③ in the passive) | {281}–{282} | {284}, {288} |
+| [4.7](../4-7-genitive/) | `sāmī` | genitive, "of" | ⑥ | {283} | {301}, {303}–{305}, {308}–{309} |
+| [4.8](../4-8-nominative/) | `liṅgattha`, `ālapana` | nominative and vocative | ①, ⓪ | — | {284}–{285} |
 

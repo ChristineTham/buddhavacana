@@ -104,7 +104,7 @@ Three things to notice in the table:
 - The absolutives. `katvā`, `gantvā` and `sutvā` are the root with `-tvā`
   {564}; a root in `ā` shortens it, `datvā`, `ñatvā` {26}; `disvā` has `svā`
   for `tvā` {599}; after a prefix a root in `m` takes `-ya`, so that
-  `anupagamma` ("not approaching") in chapter 4 belongs to `gacchati` {600}.
+  `anupagamma` ("not approaching") in chapter 5 belongs to `gacchati` {600}.
 
 ### Examples
 
@@ -118,7 +118,7 @@ thus / of this / of the entire / of the mass of suffering / origin / is
 
 ⏏️(iti) ⏏️(hi) *️⃣🤟🚻⨀①(ima) 🚹⨀⑥(āyasmant) 🚹⨀⑥(koṇḍañña) 🚹⨀①(aññāsikoṇḍañña) ⏏️(tu) ⏏️(eva) 🚻⨀①(nāma) 🟢⨀🤟⏮(hoti) ⏏️(iti)  
 thus / indeed / this / of the venerable / Koṇḍañña / Aññāsikoṇḍañña / just / so / the name / was / (end quote)  
-*`ahosi`: the past of `hoti`, the `a` before the root {519} and the `s` inserted {491}; `-ī` is `-i` lengthened where `ti` joins. Chapter 4, 14.2.*
+*`ahosi`: the past of `hoti`, the `a` before the root {519} and the `s` inserted {491}; `-ī` is `-i` lengthened where `ti` joins. Chapter 5, 14.2.*
 
 > **Natthi** dukkhassa sambhavo.
 
@@ -130,7 +130,7 @@ there is not / of suffering / birth
 
 *️⃣🤟🚻⨀②(ima) 🟢⨀🤟⏮(vadati) 🚹⨀①(bhagavant)  
 this / said / the Bhagavā  
-*`avoca`: the past of saying, from the root `vaca`: the `a` of the past {519}, the root's `a` turned to `o` {477}; `idaṁ` + `avoca` joins as `idamavoca` {34}. Chapter 4, 10.3.*
+*`avoca`: the past of saying, from the root `vaca`: the `a` of the past {519}, the root's `a` turned to `o` {477}; `idaṁ` + `avoca` joins as `idamavoca` {34}. Chapter 5, 10.3.*
 
 > Atha kho bhagavā rattiyā paṭhamaṁ yāmaṁ paṭiccasamuppādaṁ anulomapaṭilomaṁ manas**ākāsi**—
 
@@ -186,13 +186,13 @@ scattering / stands / the army of Māra
 
 🟢⨀🤟⏮(ājānāti) ⏏️(vata) 🚹⨀⓪(bhavant) 🚹⨀①(koṇḍañña)  
 has understood / indeed / bho / Koṇḍañña  
-*`aññāsi`: the past of `jānāti` with the prefix `ā` (lemma `ājānāti`): the `a` of the past {519}, the piece `nā` dropped {509}, the `s` inserted {491}; third person singular, "he understood". Chapter 4, 14.1.*
+*`aññāsi`: the past of `jānāti` with the prefix `ā` (lemma `ājānāti`): the `a` of the past {519}, the piece `nā` dropped {509}, the `s` inserted {491}; third person singular, "he understood". Chapter 5, 14.1.*
 
 4. > Bhummānaṁ devānaṁ saddaṁ **sutvā**
 
 🚹⨂⑥(bhumma) 🚹⨂⑥(deva) 🚹⨀②(sadda) 🔽(tvā)(suṇāti)  
 of the earth-dwelling / devas / the cry / having heard  
-*`sutvā`: the absolutive of `suṇāti`, the root `su` with `-tvā` {564}, "having heard"; not a finite verb, so no person or number. Chapter 4, 12.2.*
+*`sutvā`: the absolutive of `suṇāti`, the root `su` with `-tvā` {564}, "having heard"; not a finite verb, so no person or number. Chapter 5, 12.2.*
 
 5. > Etamādīnavaṁ **ñatvā**
 

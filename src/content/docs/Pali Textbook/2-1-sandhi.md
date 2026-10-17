@@ -19,7 +19,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 Pāḷi was spoken before it was written, and the texts print it as it was said:
 when a word ending in a vowel or in `ṁ` meets the next word, the two run
 together and the seam changes shape. The joined form is a `sandhi` (a join),
-and the texts of chapters 3, 4 and 10 have one in almost every line: `yo cāyaṁ`
+and the texts of chapters 3, 5 and 10 have one in almost every line: `yo cāyaṁ`
 is `yo ca ayaṁ`, `natthi` is `na atthi`, `kiñci` is `kiṁ ci`, and the `”ti`
 that closes every quotation is `iti` with its vowel gone.
 
@@ -39,7 +39,7 @@ here the direction is reversed.
 | `o’ti`, `ova`: `iti`, `iva` after `o`, the `i` dropped | `abhisambuddho iti` | `abhisambuddho’ti`, `sūriyova` | {13} |
 | `ī”ti`: `iti` after `i`, one `i` dropped, the other lengthened | `hoti iti` | `hotī”ti`, `kiñcī’ti` | {12}, {15} |
 | `n”ti`, `mpi`: `iti`, `api` after `ṁ`, the first vowel dropped, the `ṁ` turned into `n` or `m` (the word's own ending is `-aṁ`, never `-an`) | `nirodhadhammaṁ iti`, `maraṇaṁ api` | `nirodhadhamman”ti`, `maraṇampi`, `yampicchaṁ` (`yaṁ api icchaṁ`) | {40}, {31} |
-| `ṅ`, `ñ`, `ṇ`, `n`, `m` before `k`, `c`, `ṭ`, `t`, `p`: a `ṁ` turned into the nasal of that group | `kiṁ ci` | `kiñci`, `imasmiñca`, `saṅkhittena` (chapter 4 keeps the `ṁ`: `saṁkhittena` {30}) | {31} |
+| `ṅ`, `ñ`, `ṇ`, `n`, `m` before `k`, `c`, `ṭ`, `t`, `p`: a `ṁ` turned into the nasal of that group | `kiṁ ci` | `kiñci`, `imasmiñca`, `saṅkhittena` (chapter 5 keeps the `ṁ`: `saṁkhittena` {30}) | {31} |
 | `m` or `d` between a word in `ṁ` and a vowel | `evaṁ etassa` | `evametassa`, `ayamantimā`, `yadidaṁ` (`yaṁ idaṁ`) | {34} |
 | a `y` (or `v`, `m`, `d`, `n`, `t`, `r`, `ḷ`) between two vowels, neither dropped | `tassā eva` | `tassāyeva`, `nayidaṁ` (`na idaṁ`) | {35} |
 | a doubled consonant after a short prefix or first word | `vi payogo` | `vippayogo`, `appaṭivattiyaṁ` | {28} |
@@ -92,7 +92,7 @@ which / of that / very / craving / remainderless fading away and cessation
 
 ### Exercises
 
-Each phrase, from chapters 3, 4 and 10, has a join in bold: split it into its
+Each phrase, from chapters 3, 5 and 10, has a join in bold: split it into its
 words, say what the join dropped, lengthened, changed or doubled, and name the
 rule.
 

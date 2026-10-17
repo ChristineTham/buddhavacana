@@ -17,7 +17,7 @@ A verb (`ākhyāta`) is a root (`dhātu`) with an ending that says who acts, how
 many, when, and whether the subject acts or is acted on. Kaccāyana spends a
 hundred and twenty rules on how the endings are added; a reader needs only to
 tell them apart, and this chapter is the table of what each ending looks like,
-with the sentences of chapters 3, 4 and 10 as its examples. Most of what does the
+with the sentences of chapters 3, 5 and 10 as its examples. Most of what does the
 work of a verb in a Pāḷi sentence is not a finite verb at all but a verb-like
 noun, a participle, an absolutive or an infinitive, so those end the chapter.
 

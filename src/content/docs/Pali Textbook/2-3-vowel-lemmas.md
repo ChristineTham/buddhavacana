@@ -80,7 +80,7 @@ in `-ī` and one in `-i` differ only in the ① singular (`itthī` against
 
 The other endings are those of `aggi` and `bhikkhu`. In the texts the neuter
 `-uṁ` also serves as ①, as the `-aṁ` of a neuter in `a` does {219}: `cakkhuṁ
-udapādi`, "insight arose" (chapter 4).
+udapādi`, "insight arose" (chapter 5).
 
 :::note[The same ending, more than one job]
 `-ī` or `-ū` ending a word is the ① or ② plural of an `i`/`u` lemma
@@ -88,7 +88,7 @@ udapādi`, "insight arose" (chapter 4).
 (`itthī`, `daṇḍī`, `viññū` "wise"): the dictionary form decides. `-ino` is ④
 or ⑥ singular (`aggino`, `ātāpino`), but after a long-`ī` lemma also ① or ②
 plural (`sukhino`). `-iyā` is any of ③ to ⑦ singular of a feminine
-(`rattiyā`): the sentence decides, as [chapter 5](../5-0-karaka/) explains.
+(`rattiyā`): the sentence decides, as [chapter 4](../4-0-karaka/) explains.
 `-iṁ`/`-uṁ` is ② singular (`bhikkhuṁ`), but for a neuter ① too (`cakkhuṁ`).
 :::
 
@@ -124,7 +124,7 @@ two / these / bhikkhave / extremes / by one gone forth / not / should be cultiva
 
 ### Exercises
 
-For the word in bold (from chapters 3, 4 and 10) name the lemma and its
+For the word in bold (from chapters 3, 5 and 10) name the lemma and its
 gender, the ending, the number and the job, and cite the rule.
 
 :::tip[Hint]

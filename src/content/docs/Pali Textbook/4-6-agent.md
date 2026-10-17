@@ -1,8 +1,8 @@
 ---
-title: "5.6: kattā and hetu (Agent and Causer)"
+title: "4.6: kattā and hetu (Agent and Causer)"
 sidebar:
-  label: "5.6: `kattā`, `hetu`"
-  order: 530
+  label: "4.6: `kattā`, `hetu`"
+  order: 529
 description: >
   The one who does the action (`kattā`, the agent) takes the ① ending with an
   active verb and the ③ ending, "by", with a passive one {281}, {284}, {288};

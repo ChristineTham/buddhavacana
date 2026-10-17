@@ -89,7 +89,7 @@ and root meet; each rule number links to the full rule.
 
 :::note[`anu`, or `an` + `u`?]
 Not every `anu-` is the prefix `anu`: the negative `an-` can stand before a
-prefix beginning with `u`. `anupagamma` ("not approaching", chapter 4) is
+prefix beginning with `u`. `anupagamma` ("not approaching", chapter 5) is
 `an` + `upa` + `√gam` and `anuttaraṁ` ("unsurpassed") `an` + `u` + `tara`,
 while `ananussutesu` is `an` + `anu` + `√su`; the `construction` field
 settles it.
@@ -123,7 +123,7 @@ before / not heard / in dhammas / insight / arose
 
 ### Exercises
 
-Each word below is from the texts of chapters 3, 4 and 10. Name its prefix,
+Each word below is from the texts of chapters 3, 5 and 10. Name its prefix,
 the shape it has at the join and the root or word after it, and say what it
 adds to the meaning, and check the dictionary's `construction` field.
 
@@ -168,13 +168,13 @@ mental constructions
 
 🚻⨀①🔽(ṇya)(pariññeyya)  
 to be fully understood  
-*`pari` ("all round") + `√ñā` ("know"): the `ñ` doubles after the short `i` {28}; `-eyya` says "to be … -ed" (chapter 8). Chapter 4.*
+*`pari` ("all round") + `√ñā` ("know"): the `ñ` doubles after the short `i` {28}; `-eyya` says "to be … -ed" (chapter 8). Chapter 5.*
 
 5. > **paccaññāsiṁ**
 
 🟢⨀👆⏮(paṭijānāti)  
 claimed  
-*`pati` ("back") + `√ñā` ("know"): `pati` becomes `pacc` before a vowel {19}, and the `a` after it marks the past {519}: "knew back", claimed. Chapter 4.*
+*`pati` ("back") + `√ñā` ("know"): `pati` becomes `pacc` before a vowel {19}, and the `a` after it marks the past {519}: "knew back", claimed. Chapter 5.*
 
 6. > **nissaraṇaṁ**
 

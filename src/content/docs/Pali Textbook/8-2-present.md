@@ -44,7 +44,7 @@ The root `asa` (to be) reshapes them: `atthi` ("there is", `-tthi` for `-ti`
 
 :::note[`-si` now, `-si` then]
 `viharasi` ends in `-si`; so do `āmantesi` ("he addressed") and `ahosi`
-("it was") in chapter 4, the past ([8.4](../8-4-past/)), third person: their
+("it was") in chapter 5, the past ([8.4](../8-4-past/)), third person: their
 `-si` follows `-e-`, `-o-` or `-ā-`, while the present `-si` follows the
 class piece (`-asi`) and has `tvaṁ` ("you") as subject.
 :::

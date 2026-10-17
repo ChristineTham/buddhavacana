@@ -1,8 +1,8 @@
 ---
-title: "5.8: liṅgattha and ālapana (Nominative and Vocative)"
+title: "4.8: liṅgattha and ālapana (Nominative and Vocative)"
 sidebar:
-  label: "5.8: `liṅgattha`, `ālapana`"
-  order: 532
+  label: "4.8: `liṅgattha`, `ālapana`"
+  order: 531
 description: >
   The two uses of the ① ending that name no `kāraka`: a word that simply
   names its thing, `puriso` ("a man") {284}, and a word that calls the person
