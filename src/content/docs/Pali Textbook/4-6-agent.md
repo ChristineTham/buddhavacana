@@ -65,7 +65,7 @@ In each sentence find the agent or the causer and say which ending it carries
 and why. Look up the words in a dictionary, perform the necessary sandhi and
 compound word deconstruction, and take note of the `vibhatti` endings to deduce
 the meaning of the sentence. The first four sentences are from chapters
-[3](../3-awakening/) and [5](../10-pbt/).
+[3](../3-awakening/) and [5](../11-pbt/).
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)

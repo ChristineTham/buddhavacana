@@ -135,7 +135,7 @@ in this / and / moreover / detailed exposition / being spoken
 
 ### Exercises
 
-Each is a phrase from chapters 3, 5 and 10 with a verb-like form in bold. Name
+Each is a phrase from chapters 3, 5 and 11 with a verb-like form in bold. Name
 its affix and what the affix tells you: done, going on, to be done, done
 before, or purpose; for a participle, name the noun it agrees with.
 

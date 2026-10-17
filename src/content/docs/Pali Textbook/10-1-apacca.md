@@ -1,7 +1,7 @@
 ---
-title: "9.1: The descendant, and the shape of an affixed word"
+title: "10.1: The descendant, and the shape of an affixed word"
 sidebar:
-  label: "9.1: `apacca`"
+  label: "10.1: `apacca`"
   order: 552
 description: >
   A name such as `vāsiṭṭho` ("Vasiṭṭha's descendant") is an ancestor's name

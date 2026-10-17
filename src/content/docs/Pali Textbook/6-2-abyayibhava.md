@@ -25,7 +25,7 @@ is `yathā` with `bhūta` ("true", "real"). Kaccāyana names such a compound an
 tells where, when, how or how far something happens, as an adverb does in
 English. Kaccāyana's own examples are a grammarian's, but words of this shape
 are on every page of the texts: `yathābhūtaṁ` and `ajjhattaṁ` ("inwardly"),
-which you met in chapter 10, and `yāvajīvaṁ` ("as long as life lasts").
+which you met in chapter 11, and `yāvajīvaṁ` ("as long as life lasts").
 
 Two things make an `abyayībhāva` easy to recognise. It is always neuter {320},
 whatever the gender of the noun inside it, and it keeps one form wherever it
@@ -86,7 +86,7 @@ girls / with reference to / goes on / talk → concerning girls
 
 Each of the following is an `abyayībhāva`. Name its first member and say what
 it means, name the noun it is joined to, and give the meaning of the whole
-word; the first two you have met in chapter 10. Look the words up in a
+word; the first two you have met in chapter 11. Look the words up in a
 dictionary and check which of the four rules above each one shows.
 
 :::tip[Hint]
@@ -108,13 +108,13 @@ deconstruction.
 
 🚻⨀①🆎(yathā+bhūta)  
 as it truly is  
-*`yathā` ("as") with `bhūta` ("true", "real"): an `abyayībhāva` {319} in `-aṁ` {341}; chapter 10, `samāhito yathābhūtaṁ jānāti passati`.*
+*`yathā` ("as") with `bhūta` ("true", "real"): an `abyayībhāva` {319} in `-aṁ` {341}; chapter 11, `samāhito yathābhūtaṁ jānāti passati`.*
 
 2. > **ajjhattaṁ**
 
 🚻⨀①🆎(adhi+atta)  
 inwardly, internally  
-*`adhi` ("in") becomes `ajjh` before the vowel of `atta` ("self") {45}: an `abyayībhāva` {319}; chapter 10, `ajjhattaṁ vā kāye kāyānupassī viharati`.*
+*`adhi` ("in") becomes `ajjh` before the vowel of `atta` ("self") {45}: an `abyayībhāva` {319}; chapter 11, `ajjhattaṁ vā kāye kāyānupassī viharati`.*
 
 3. > jīvassa yattako paricchedo → **yāvajīvaṁ**
 

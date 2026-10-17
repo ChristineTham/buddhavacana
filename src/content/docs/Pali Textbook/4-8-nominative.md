@@ -43,7 +43,7 @@ and why its singular looks different, `purisa`, `rāja`, `sakhe`. In the
 plural the two are usually one form, `purisā`, `rājāno`, `sakhino`, that
 only the sentence tells apart, though `bhikkhu` has `bhikkhave` {116}. The
 surest sign of a ⓪ form is the word of address before it, `bho` and `he` in
-Kaccāyana, `bhante` and `āvuso` in the texts of chapter 10:
+Kaccāyana, `bhante` and `āvuso` in the texts of chapter 11:
 
 | word of address | meaning | where you meet it |
 | --- | --- | --- |
@@ -89,7 +89,7 @@ come / you / sir / man
 
 ### Exercises
 
-Each sentence is from the texts of chapter 10. Say which words simply name
+Each sentence is from the texts of chapter 11. Say which words simply name
 their thing (①) and which call the listener (⓪), then translate; look the
 words up in a dictionary and note their endings.
 

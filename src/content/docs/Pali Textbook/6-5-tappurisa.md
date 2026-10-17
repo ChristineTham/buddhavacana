@@ -97,7 +97,7 @@ to the ground / gone → gone to the ground
 ### Exercises
 
 Each of the following is a `tappurisa` from chapter [3](../3-awakening/) or
-[5](../10-pbt/), in the form it has there. Split it into its members,
+[5](../11-pbt/), in the form it has there. Split it into its members,
 say which ending the first member would carry on its own, and give the
 meaning. Look the word up in a dictionary and check the kind it is given.
 
@@ -160,7 +160,7 @@ by virtue / for one accomplished → for one accomplished in virtue
 
 🚹⨀⑤(vivekā) 🚻⨀②(jaṁ) → 🚻⨀②🆎(viveka+ja)  
 from seclusion / born → born of seclusion  
-*⑤ {327}: "born from"; chapter 10 renders the word "secluded from defilements", the commentary's sense.*
+*⑤ {327}: "born from"; chapter 11 renders the word "secluded from defilements", the commentary's sense.*
 
 8. > kāmesu taṇhā → **kāmataṇhā**
 

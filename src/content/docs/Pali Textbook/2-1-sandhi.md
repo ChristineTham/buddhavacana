@@ -19,7 +19,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 Pāḷi was spoken before it was written, and the texts print it as it was said:
 when a word ending in a vowel or in `ṁ` meets the next word, the two run
 together and the seam changes shape. The joined form is a `sandhi` (a join),
-and the texts of chapters 3, 5 and 10 have one in almost every line: `yo cāyaṁ`
+and the texts of chapters 3, 5 and 11 have one in almost every line: `yo cāyaṁ`
 is `yo ca ayaṁ`, `natthi` is `na atthi`, `kiñci` is `kiṁ ci`, and the `”ti`
 that closes every quotation is `iti` with its vowel gone.
 
@@ -92,7 +92,7 @@ which / of that / very / craving / remainderless fading away and cessation
 
 ### Exercises
 
-Each phrase, from chapters 3, 5 and 10, has a join in bold: split it into its
+Each phrase, from chapters 3, 5 and 11, has a join in bold: split it into its
 words, say what the join dropped, lengthened, changed or doubled, and name the
 rule.
 

@@ -1,7 +1,7 @@
 ---
-title: "9.7: `uṇādi` affixes: the agent, the action and the purpose"
+title: "10.7: `uṇādi` affixes: the agent, the action and the purpose"
 sidebar:
-  label: "9.7: `uṇādi` senses"
+  label: "10.7: `uṇādi` senses"
   order: 558
 description: >
   A noun built on a verb's root carries one of a few senses: the doer
@@ -108,7 +108,7 @@ is to be eaten / the rice / by you
 ### Exercises
 
 Each of the following you met in chapter [3](../3-awakening/) or
-[5](../10-pbt/), in the form it has there, in the phrase given. Say which
+[5](../11-pbt/), in the form it has there, in the phrase given. Say which
 affix it carries, which root it is built on and which of the four senses it
 has; look the word up in a dictionary and check the root against the changes
 above.
@@ -119,14 +119,14 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. satthā (chapter 10: `satthā no garu`)
-2. sāvako (chapter 10: the last member of `ariyasāvako`)
-3. sāsanaṁ (chapter 10: `etaṁ buddhāna sāsanaṁ`)
-4. dassanaṁ (chapter 10: `ñāṇañca pana me dassanaṁ udapādi`)
-5. cetanā (chapter 10: `na cetanāya karaṇīyaṁ`)
+1. satthā (chapter 11: `satthā no garu`)
+2. sāvako (chapter 11: the last member of `ariyasāvako`)
+3. sāsanaṁ (chapter 11: `etaṁ buddhāna sāsanaṁ`)
+4. dassanaṁ (chapter 11: `ñāṇañca pana me dassanaṁ udapādi`)
+5. cetanā (chapter 11: `na cetanāya karaṇīyaṁ`)
 6. jāti (Bodhikathā 3.10: `bhavapaccayā jāti`)
-7. pahātabbo (chapter 10: `rāgānusayo pahātabbo`)
-8. carituṁ (chapter 10: `brahmacariyaṁ carituṁ`)
+7. pahātabbo (chapter 11: `rāgānusayo pahātabbo`)
+8. carituṁ (chapter 11: `brahmacariyaṁ carituṁ`)
 
 ### Answers
 
@@ -154,13 +154,13 @@ teaching
 
 🚻⨀①🔽(yu)(dassanaṁ)  
 realisation  
-*`yu` {547}: `-ana` on `√disa` (see), shaped `dass-`: the act of seeing, chapter 10's "realisation".*
+*`yu` {547}: `-ana` on `√disa` (see), shaped `dass-`: the act of seeing, chapter 11's "realisation".*
 
 5. > **cetanā**
 
 🚺⨀①🔽(yu)(cetanā)  
 intention  
-*`yu` {553}: `-anā` on `√cita` (intend), `i` as `e`: the act of intending; chapter 10 has its ③.*
+*`yu` {553}: `-anā` on `√cita` (intend), `i` as `e`: the act of intending; chapter 11 has its ③.*
 
 6. > **jāti**
 

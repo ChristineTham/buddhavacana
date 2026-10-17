@@ -101,13 +101,13 @@ bhikkhū / of the Bhagavā / what was spoken / rejoiced in / (end quote)
 
 🚹①⨀(satthar) 👆⑥⨂(ahaṁ) 🚹①⨀(garu)  
 teacher / of us / respected  
-*"Our teacher is respected": `satthā`, ① singular of `satthu` {199}, the `u` become `ā`; chapter 10, 24.5.*
+*"Our teacher is respected": `satthā`, ① singular of `satthu` {199}, the `u` become `ā`; chapter 11, 24.5.*
 
 > mettāsahagatena **cetasā**
 
 🚹③⨀(mettāsahagata) 🚹③⨀(cetas)  
 filled with goodwill/friendliness / with intent  
-*"With intent": `cetasā`, ③ singular of the `mano` group, `ā` for `nā` with `s` inserted {181}, {184}; chapter 10, 1.11.52.*
+*"With intent": `cetasā`, ③ singular of the `mano` group, `ā` for `nā` with `s` inserted {181}, {184}; chapter 11, 1.11.52.*
 
 ### Exercises
 
@@ -146,22 +146,22 @@ by Māra / or / by Brahmā / or / by anyone / or
 
 🚹②⨀(añña) 🚹②⨀(satthar) ⏯🤘⨂(uddisati)  
 another / teacher / appoint  
-*"Will you appoint another teacher?": `satthāraṁ`, ② singular of `satthu`, with `-ār-` {200}; chapter 10, 24.10.*
+*"Will you appoint another teacher?": `satthāraṁ`, ② singular of `satthu`, with `-ār-` {200}; chapter 11, 24.10.*
 
 4. > **jānato passato** na cetanāya karaṇīyaṁ
 
 🚻④⨀(jānanta) 🚹④⨀(passanta) 🔼(no) 🚺③⨀(cetana) 🚻①⨀(karaṇīya)  
 for knowing / for seeing / no / with intention / ought to be done  
-*"One who sees and know reality as it is": `jānato`, `passato`, ④⑥ singular of the participles {187}, {127}; chapter 10, 1.22.*
+*"One who sees and know reality as it is": `jānato`, `passato`, ④⑥ singular of the participles {187}, {127}; chapter 11, 1.22.*
 
 5. > So kho ahaṁ, bhikkhave, **attanā** jātidhammo samāno
 
 🚹①⨀(ta) 🔼(kho) 👆①⨀(ahaṁ) 🚹⓪⨂(bhikkhu) 🚹⑤⨀(atta) 🚹①⨀(jātidhamma) 🚹①⨀(samāna)  
 that / indeed / I / Bhikkhave / from self / liable to birth / being  
-*"From my own doing I was liable to birth": `attanā`, ⑤ singular of `atta`, `nā` for `smā` {214}, also ③; chapter 10, 18.1.*
+*"From my own doing I was liable to birth": `attanā`, ⑤ singular of `atta`, `nā` for `smā` {214}, also ③; chapter 11, 18.1.*
 
 6. > Yāvajīvaṁ **arahanto** abrahmacariyaṁ pahāya
 
 🚻①⨀(yāvajīva) 🚹①⨂(arahant) 🚻①⨀(abrahmacariya) 🔼(pahāya)  
 life-long / liberated ones / incelibacy / giving up  
-*"Life long arahants (liberated ones) give up incelibacy": `arahanto`, ① plural of `arahanta` {122}, singular `arahaṁ` {186}; chapter 10, 21.1.*
+*"Life long arahants (liberated ones) give up incelibacy": `arahanto`, ① plural of `arahanta` {122}, singular `arahaṁ` {186}; chapter 11, 21.1.*

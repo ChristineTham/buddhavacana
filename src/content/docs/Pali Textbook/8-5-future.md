@@ -101,7 +101,7 @@ they / if / that / vehicle / had got / they would have gone
 
 ### Exercises
 
-The first is from [chapter 10](../10-pbt/), the rest Kaccāyana's own, since the
+The first is from [chapter 11](../11-pbt/), the rest Kaccāyana's own, since the
 texts hold only three such forms. Name the verb's set, person and number, and
 what stands before its ending; then look it up.
 

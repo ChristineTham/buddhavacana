@@ -88,7 +88,7 @@ ending: find it and say which row of the table it belongs to. Look up the
 words in a dictionary, perform the necessary sandhi and compound word
 deconstruction, and take note of the `vibhatti` endings to deduce the meaning
 of the sentence. All but the second are sentences from the texts of chapters
-[3](../3-awakening/) and [5](../10-pbt/).
+[3](../3-awakening/) and [5](../11-pbt/).
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)

@@ -139,7 +139,7 @@ whatever / anything / subject to origination / all / that / subject to cessation
 
 ### Exercises
 
-Each is from the texts of chapters 3, 5 and 10. For each pronoun give its lemma,
+Each is from the texts of chapters 3, 5 and 11. For each pronoun give its lemma,
 gender, number and ending, and the noun it agrees with or stands for; for an
 adverb, the pronoun and the affix.
 

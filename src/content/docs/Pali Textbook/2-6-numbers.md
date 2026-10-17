@@ -67,7 +67,7 @@ These are nouns, `vīsati` with the feminine endings of
 [2.3](../2-3-vowel-lemmas/) (`vīsatiyā`, "of twenty"), `sataṁ` with those of
 `citta`; in the texts they sit inside names, `tāvatiṁsā devā`
 ("the Thirty-three gods"), `dasasahassilokadhātu`. How they are made is the
-matter of [9.6](../9-6-sankhya/) and [Appendix H](../h-taddhita/).
+matter of [10.6](../10-6-sankhya/) and [Appendix H](../h-taddhita/).
 
 ### The ordinals
 
@@ -124,7 +124,7 @@ of the night / first / watch
 
 ### Exercises
 
-Each item comes from the texts of chapters 3, 5 and 10. Name the number, its
+Each item comes from the texts of chapters 3, 5 and 11. Name the number, its
 lemma, and the gender, number and ending it carries; inside a compound, say
 what it counts.
 

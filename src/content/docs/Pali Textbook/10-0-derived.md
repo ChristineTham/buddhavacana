@@ -1,7 +1,7 @@
 ---
-title: "9: derived words (`taddhita` and `uṇādi`)"
+title: "10: derived words (`taddhita` and `uṇādi`)"
 sidebar:
-  label: "9: derived words"
+  label: "10: derived words"
   order: 551
 description: >
   How new nouns are made from other nouns with the `taddhita` affixes {344}–{405} and from roots with the `uṇādi` affixes {624}–{673}, and the senses the affixes carry
@@ -57,16 +57,16 @@ occurrences in the early discourses:
 
 | affix | sense | a word you will meet | words | occurrences | section |
 | :-: | --- | --- | --: | --: | :-: |
-| `vantu`, `mantu` | having | `bhagavā` ("the Blessed One"), `āyasmā` ("venerable") | 222 | 45,000 | [9.5](../9-5-tadassatthi/) |
-| `ka` | a small or ordinary one of its kind, an adjective | `pāpako` ("bad") | 1,300 | 19,000 | [9.3](../9-3-samuha/) |
-| `ṇa` | a descendant, belonging to | `vāsiṭṭho`, `māṇavo` ("a young brahmin") | 685 | 64,000 | [9.1](../9-1-apacca/) |
-| `ṇika`, `ika` | connected with, living by | `nāviko` ("a sailor"), `santiko` ("near") | 513 | 7,600 | [9.2](../9-2-anekattha/) |
-| `tā`, `tta` | the abstract state, "-ness" | `devatā` ("a deity"), `sahabyatā` ("companionship") | 1,108 | 10,200 | [9.4](../9-4-bhava/) |
-| `tara`, `tama` | comparison, "more", "most" | `aññataro` ("a certain one"), `katamo` ("which?") | 183 | 17,600 | [9.4](../9-4-bhava/) |
-| `tiya`, `ma` | the ordinals | `dutiyo` ("second"), `pañcamo` ("fifth") | 33 | 12,900 | [9.6](../9-6-sankhya/) |
-| `dhā`, `so`, `thā`, `thaṁ` | division and manner | `sabbaso` ("in every way"), `yathā` ("as"), `kathaṁ` ("how?") | 82 | 21,200 | [9.6](../9-6-sankhya/) |
-| `aka`, `tu` (`uṇādi`) | the doer | `kārako` ("a doer"), `satthā` ("the teacher") | 368 | 16,800 | [9.7](../9-7-sadhana/) |
-| `ana`, `ti` (`uṇādi`) | the act | `ṭhānaṁ` ("a place"), `āpatti` ("an offence") | 1,697 | 87,000 | [9.7](../9-7-sadhana/) |
+| `vantu`, `mantu` | having | `bhagavā` ("the Blessed One"), `āyasmā` ("venerable") | 222 | 45,000 | [10.5](../10-5-tadassatthi/) |
+| `ka` | a small or ordinary one of its kind, an adjective | `pāpako` ("bad") | 1,300 | 19,000 | [10.3](../10-3-samuha/) |
+| `ṇa` | a descendant, belonging to | `vāsiṭṭho`, `māṇavo` ("a young brahmin") | 685 | 64,000 | [10.1](../10-1-apacca/) |
+| `ṇika`, `ika` | connected with, living by | `nāviko` ("a sailor"), `santiko` ("near") | 513 | 7,600 | [10.2](../10-2-anekattha/) |
+| `tā`, `tta` | the abstract state, "-ness" | `devatā` ("a deity"), `sahabyatā` ("companionship") | 1,108 | 10,200 | [10.4](../10-4-bhava/) |
+| `tara`, `tama` | comparison, "more", "most" | `aññataro` ("a certain one"), `katamo` ("which?") | 183 | 17,600 | [10.4](../10-4-bhava/) |
+| `tiya`, `ma` | the ordinals | `dutiyo` ("second"), `pañcamo` ("fifth") | 33 | 12,900 | [10.6](../10-6-sankhya/) |
+| `dhā`, `so`, `thā`, `thaṁ` | division and manner | `sabbaso` ("in every way"), `yathā` ("as"), `kathaṁ` ("how?") | 82 | 21,200 | [10.6](../10-6-sankhya/) |
+| `aka`, `tu` (`uṇādi`) | the doer | `kārako` ("a doer"), `satthā` ("the teacher") | 368 | 16,800 | [10.7](../10-7-sadhana/) |
+| `ana`, `ti` (`uṇādi`) | the act | `ṭhānaṁ` ("a place"), `āpatti` ("an offence") | 1,697 | 87,000 | [10.7](../10-7-sadhana/) |
 
 Kaccāyana orders the `taddhita` affixes by the sense they carry, from the
 descendant {344} to the ordinals and the adverbs {373}–{399}, and ends with the
@@ -78,19 +78,19 @@ affixes that form individual words. The chapter follows that order.
 
 | section | sense | affixes | rules |
 | :-: | --- | --- | --- |
-| [9.1](../9-1-apacca/) | the descendant, and the shape of an affixed word | `ṇa`, `ṇāyana`, `ṇāna`, `ṇeyya`, `ṇi`, `ṇava`, `ṇera`; what the `ṇ` signals | {344}–{349}, {396}, {400}–{405} |
-| [9.2](../9-2-anekattha/) | mixed with, crossing by, studying, made by, and the other senses | `ṇika`, `ṇa`, `ima`, `iya` | {350}–{353} |
-| [9.3](../9-3-samuha/) | a collection, an occasion, a likeness, a dependence, an abundance | `kaṇ`, `ṇa`, `tā`, `iya`, `āyitatta`, `la`, `ālu` | {354}–{359} |
-| [9.4](../9-4-bhava/) | the abstract state, and comparison | `ṇya`, `tta`, `tā`, `ttana`, `ṇa`, `kaṇ`; `tara`, `tama`, `isika`, `iya`, `iṭṭha` | {360}–{363} |
-| [9.5](../9-5-tadassatthi/) | "having that", and "made of that" | `vī`, `sī`, `ika`, `ī`, `ra`, `vantu`, `mantu`, `ṇa`; `maya` | {364}–{372} |
-| [9.6](../9-6-sankhya/) | the numerals: ordinals, the forms of the numbers, division and manner | `ma`, `tha`, `ṭha`, `tiya`, `ī`, `ka`; `dhā`, `so`, `thā`, `thaṁ` | {373}–{399} |
-| [9.7](../9-7-sadhana/) | `uṇādi`: the agent, the action and the purpose | `kita`, `kicca`, `tta`, `yu`, `ṇvu`, `ṇī`, `tuṁ` and the rest | {624}–{626}, {635}–{637}, {639}–{642}, {650}–{655} |
-| [9.8](../9-8-unadi-words/) | `uṇādi`: the affixes that form individual words | `tha`, `ma`, `la`, `ya`, `tti`, `īvara`, `ūra`, `ṭha` and the rest | {627}–{634}, {638}, {643}–{649}, {656}–{673} |
+| [10.1](../10-1-apacca/) | the descendant, and the shape of an affixed word | `ṇa`, `ṇāyana`, `ṇāna`, `ṇeyya`, `ṇi`, `ṇava`, `ṇera`; what the `ṇ` signals | {344}–{349}, {396}, {400}–{405} |
+| [10.2](../10-2-anekattha/) | mixed with, crossing by, studying, made by, and the other senses | `ṇika`, `ṇa`, `ima`, `iya` | {350}–{353} |
+| [10.3](../10-3-samuha/) | a collection, an occasion, a likeness, a dependence, an abundance | `kaṇ`, `ṇa`, `tā`, `iya`, `āyitatta`, `la`, `ālu` | {354}–{359} |
+| [10.4](../10-4-bhava/) | the abstract state, and comparison | `ṇya`, `tta`, `tā`, `ttana`, `ṇa`, `kaṇ`; `tara`, `tama`, `isika`, `iya`, `iṭṭha` | {360}–{363} |
+| [10.5](../10-5-tadassatthi/) | "having that", and "made of that" | `vī`, `sī`, `ika`, `ī`, `ra`, `vantu`, `mantu`, `ṇa`; `maya` | {364}–{372} |
+| [10.6](../10-6-sankhya/) | the numerals: ordinals, the forms of the numbers, division and manner | `ma`, `tha`, `ṭha`, `tiya`, `ī`, `ka`; `dhā`, `so`, `thā`, `thaṁ` | {373}–{399} |
+| [10.7](../10-7-sadhana/) | `uṇādi`: the agent, the action and the purpose | `kita`, `kicca`, `tta`, `yu`, `ṇvu`, `ṇī`, `tuṁ` and the rest | {624}–{626}, {635}–{637}, {639}–{642}, {650}–{655} |
+| [10.8](../10-8-unadi-words/) | `uṇādi`: the affixes that form individual words | `tha`, `ma`, `la`, `ya`, `tti`, `īvara`, `ūra`, `ṭha` and the rest | {627}–{634}, {638}, {643}–{649}, {656}–{673} |
 
 :::tip[Reading path]
-On a first reading take [9.1](../9-1-apacca/) for the shape of an affixed word,
-then [9.5](../9-5-tadassatthi/), [9.4](../9-4-bhava/) and
-[9.7](../9-7-sadhana/), the affixes of the table above; the sections on the
+On a first reading take [10.1](../10-1-apacca/) for the shape of an affixed word,
+then [10.5](../10-5-tadassatthi/), [10.4](../10-4-bhava/) and
+[10.7](../10-7-sadhana/), the affixes of the table above; the sections on the
 rarer senses and on the individual `uṇādi` words are for looking things up,
 and every rule number links to the full rule in the Kaccāyana translation.
 :::

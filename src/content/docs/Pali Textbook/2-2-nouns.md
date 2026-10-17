@@ -73,7 +73,7 @@ The inflection table of `citta` ("mind"), 🚻, where it differs from `purisa`:
 | ⓪ | `citta` | `cittāni` | {220}; {218} |
 
 The rest is as `purisa`. So `cittaṁ` may be ① or ②, and `-āni` is always a
-neuter plural: `kāsāyāni vatthāni` ("ochre robes") in chapter 10.
+neuter plural: `kāsāyāni vatthāni` ("ochre robes") in chapter 11.
 
 The inflection table of `kaññā` ("girl"), 🚺:
 

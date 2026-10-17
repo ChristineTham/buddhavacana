@@ -124,7 +124,7 @@ two / these / bhikkhave / extremes / by one gone forth / not / should be cultiva
 
 ### Exercises
 
-For the word in bold (from chapters 3, 5 and 10) name the lemma and its
+For the word in bold (from chapters 3, 5 and 11) name the lemma and its
 gender, the ending, the number and the job, and cite the rule.
 
 :::tip[Hint]

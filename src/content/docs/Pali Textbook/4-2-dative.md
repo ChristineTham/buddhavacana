@@ -94,7 +94,7 @@ homage / to you / O Buddha / O hero / let there be
 Translate the following from Pāḷi to English and say, for each word with the ④
 ending, which use of the table it shows. Look up the words in a dictionary, do
 the necessary sandhi and compound word deconstruction, and let the endings
-guide the meaning. Sentences 2–5 are from chapters 3, 5 and 10.
+guide the meaning. Sentences 2–5 are from chapters 3, 5 and 11.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)

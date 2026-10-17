@@ -1,7 +1,7 @@
 ---
-title: "9.2: Connected with it: `ṇika`, `ṇa`, `ima` and `iya`"
+title: "10.2: Connected with it: `ṇika`, `ṇa`, `ima` and `iya`"
 sidebar:
-  label: "9.2: `ṇika`, `ṇa`, `iya`"
+  label: "10.2: `ṇika`, `ṇa`, `iya`"
   order: 553
 description: >
   A word in `-ika` such as `nāviko` ("a sailor") is a noun with the affix
@@ -34,7 +34,7 @@ phrase beside each sense shows the base at work, with the ending the sense
 needs: ③ "by which" (`nāvāya`), ② the thing studied (`vinayaṁ`), ⑦ the
 place (`dvāre`), `assa` ("his") for what is someone's.
 
-`ṇika` and `ṇa` carry the `ṇ` of section [9.1](../9-1-apacca/): the `ṇ` is
+`ṇika` and `ṇa` carry the `ṇ` of section [10.1](../10-1-apacca/): the `ṇ` is
 dropped {396} and the first vowel of the base is lengthened, `a` to `ā`, `i`
 to `e`, `u` to `o` {400}, unless two consonants follow it or it is long
 already. So `sakaṭa` ("a cart") gives `sākaṭiko` and `urabbha` ("a ram")
@@ -91,7 +91,7 @@ by boat / crosses → one who crosses by boat, a sailor
 
 🚹⨀③(kāyena) 🚻⨀①🔽(ta)(kataṁ) 🚻⨀①(kammaṁ) → 🚻⨀①🔽(ṇika)(kāyikaṁ)  
 by the body / done / act → a bodily act  
-*`ṇika` {351}, "made by": `-ika` on `kāya`; chapter 10's `kāyikaṁ vā cetasikaṁ vā`, "relating to the body or to the mind".*
+*`ṇika` {351}, "made by": `-ika` on `kāya`; chapter 11's `kāyikaṁ vā cetasikaṁ vā`, "relating to the body or to the mind".*
 
 > pacchā jāto → **pacchimo**
 
@@ -101,7 +101,7 @@ after / born → born after, last
 
 ### Exercises
 
-Each of the following is a word you met in the texts of chapters 3, 5 and 10.
+Each of the following is a word you met in the texts of chapters 3, 5 and 11.
 Say which affix it carries, what the base is and what connection with the
 base the word names; then look the word up and compare. (`sandiṭṭhiko`, in
 the same sentence as the first three, is `sandiṭṭhi` with the affix `ka`, not
@@ -130,13 +130,13 @@ deconstruction.
 
 🚹⨀①(akālo) → 🚹⨀①🔽(ṇika)(akāliko)  
 not the time → not tied to time, immediate  
-*`ṇika` {350}, a further sense (the rule's `vā`): `-ika` added to `akāla`, nothing lengthened; said of the Dhamma in chapter 10.*
+*`ṇika` {350}, a further sense (the rule's `vā`): `-ika` added to `akāla`, nothing lengthened; said of the Dhamma in chapter 11.*
 
 2. > ehi passa → **ehipassiko**
 
 🟢⨀🤘⏹(ehi) 🟢⨀🤘⏹(passa) → 🚹⨀①🔽(ṇika)(ehipassiko)  
 come! / see! → inviting one to come and see, verifiable  
-*`ṇika` {350}, a further sense (the rule's `vā`): `-ika` added to the saying `ehi passa`; chapter 10 glosses it "verifiable".*
+*`ṇika` {350}, a further sense (the rule's `vā`): `-ika` added to the saying `ehi passa`; chapter 11 glosses it "verifiable".*
 
 3. > upaneyyo → **opaneyyiko**
 
@@ -148,19 +148,19 @@ to be led towards (`upa` + `√nī`, "lead") → leading onward
 
 🚹⨀③(cetasā) 🚻⨀①🔽(ta)(kataṁ) → 🚻⨀①🔽(ṇika)(cetasikaṁ)  
 by the mind / done → mental  
-*`ṇika` {351}, "made by", as `kāyikaṁ`: `-ika` added to `cetas`; chapter 10's `kāyikaṁ vā cetasikaṁ vā`.*
+*`ṇika` {351}, "made by", as `kāyikaṁ`: `-ika` added to `cetas`; chapter 11's `kāyikaṁ vā cetasikaṁ vā`.*
 
 5. > punabbhavo → **ponobbhavikā**
 
 🚹⨀①🆎(puna+bhava) → 🚺⨀①🔽(ṇika)(ponobbhavikā)  
 rebirth → leading to rebirth  
-*`ṇika` {350}, a further sense (the rule's `vā`): `puna` becomes `pono`, `-ika` added; chapter 10's `taṇhā ponobbhavikā`.*
+*`ṇika` {350}, a further sense (the rule's `vā`): `puna` becomes `pono`, `-ika` added; chapter 11's `taṇhā ponobbhavikā`.*
 
 6. > niraye jātā → **nerayikā**
 
 🚹⨀⑦(niraye) 🚹⨂①🔽(ta)(jātā) → 🚹⨂①🔽(ṇika)(nerayikā)  
 in hell / born → born in hell, living in hell  
-*`ṇika` {350}, "born in", as `rājagahiko`: the first `i` becomes `e`, `-ika` added; chapter 10's `sattā nerayikā`.*
+*`ṇika` {350}, "born in", as `rājagahiko`: the first `i` becomes `e`, `-ika` added; chapter 11's `sattā nerayikā`.*
 
 7. > majjhe jātaṁ → **majjhimaṁ**
 
@@ -172,4 +172,4 @@ in the middle / born → middle
 
 ⏏️(anto) 🚺⨀①🔽(ta)(niyuttā) → 🚺⨀①🔽(ima)(antimā)  
 at the end / set → final, the last  
-*`ima` {353}, "set at the end", by the rule's "and the like": `-ima` added to `anta`; chapter 10's `ayamantimā jāti`.*
+*`ima` {353}, "set at the end", by the rule's "and the like": `-ima` added to `anta`; chapter 11's `ayamantimā jāti`.*

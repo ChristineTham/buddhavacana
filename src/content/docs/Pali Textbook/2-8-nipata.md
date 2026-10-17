@@ -129,7 +129,7 @@ no / certainly / Bhante
 
 ### Exercises
 
-Name the particles of each (chapter 3: 1, 5–7; chapter 5: 2–4; chapter 10: 8),
+Name the particles of each (chapter 3: 1, 5–7; chapter 5: 2–4; chapter 11: 8),
 say what job each does, and split any merged with the word beside it.
 
 :::tip[Hint]
@@ -197,4 +197,4 @@ the sun / like / illuminating / the sky / (end quote)
 
 🚻①⨀(ka) 🔼(nu) 🚹①⨀(satta) 🔼(iti) ▶️🤘⨀(pacceti)  
 what / ? / being / like this / you believes to be  
-*`nu` asks; `sattoti` is `satto` + `iti` {13}, quoting; chapter 10 marks particles 🔼.*
+*`nu` asks; `sattoti` is `satto` + `iti` {13}, quoting; chapter 11 marks particles 🔼.*

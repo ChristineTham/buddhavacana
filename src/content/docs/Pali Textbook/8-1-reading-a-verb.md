@@ -35,7 +35,7 @@ one at a time.
 
 The book marks a verb with four symbols and the lemma to look up:
 `🟢⨀🤟▶️(viharati)` is active, singular, third person, present, lemma
-`viharati`; chapter 10's lines, made earlier, order them time, person,
+`viharati`; chapter 11's lines, made earlier, order them time, person,
 number: `⏮👆⨀(paṭilabhi)`.
 
 ### The three persons
@@ -77,7 +77,7 @@ met below.
 
 `pañcamī` and `sattamī` are labels, shared with the ⑤ and ⑦ noun endings;
 the other names describe their time. The `hiyyattanī` occurs once in the
-texts (`ajjhagamaṁ`, "I achieved", chapter 10, selection 46) and the
+texts (`ajjhagamaṁ`, "I achieved", chapter 11, selection 46) and the
 `parokkhā` once (`āha` inside `evamāha`, selection 1); the `ajjatanī` is on
 every page. Three more rules shape what you see: `vattamānā`, `pañcamī`,
 `sattamī` and `hiyyattanī` are grouped as `sabbadhātuka` {431}, and the other
@@ -166,13 +166,13 @@ one / time / the Bhagavā / at Bārāṇasī / dwells / at Isipatana / in the De
 
 🚹①⨀(avippaṭisāra) 👆⑥⨀(ahaṁ) ⏹🤟⨀(uppajjati) 🔼(ti)  
 non-regret / of me / must arise / quote  
-*"May no regrets arise of me." (chapter 10, selection 18, 1.2) `uppajjatu`: `-tu`, `pañcamī` ⏹, third person singular {424}; a wish {415}; the `-tū` before `’ti` is the join ([2.1](../2-1-sandhi/)).*
+*"May no regrets arise of me." (chapter 11, selection 18, 1.2) `uppajjatu`: `-tu`, `pañcamī` ⏹, third person singular {424}; a wish {415}; the `-tū` before `’ti` is the join ([2.1](../2-1-sandhi/)).*
 
 > “Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā evaṁ **vadeyyātha**—
 
 🔼(apinu) 🤘①⨂(tvaṁ) 🚹⓪⨂(bhikkhu) 🔼(evaṁ) 🚹①⨂(jānanta) 🔼(evaṁ) 🚹①⨂(passanta) ⏯🤘⨂(vadati)  
 are? / youse / bhikkhave / thus / knowing / thus / seeing / will say  
-*"Thus knowing and thus seeing, bhikkhave, will you say -" (chapter 10, selection 1, 24.4) `vadeyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, the subject `tumhe` {411}; "would you say", a supposition {416}.*
+*"Thus knowing and thus seeing, bhikkhave, will you say -" (chapter 11, selection 1, 24.4) `vadeyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, the subject `tumhe` {411}; "would you say", a supposition {416}.*
 
 > Ñāṇañca pana me dassanaṁ **udapādi**—
 
@@ -184,17 +184,17 @@ knowledge / and / moreover / for me / insight / arose
 
 🚻①⨀(āraddha) 🔼(kho pana) 👆③⨀(ahaṁ) 🚻①⨀(vīriya) ⏭🤟⨀(bhavati) 🚻①⨀(asallīna)  
 applied / and now / with me / determination / will become / active  
-*"And now applied with me there will be active determination" (chapter 10, selection 45, 9.7) `bhavissati`: `-ssati`, `bhavissantī` ⏭, third person singular {429}; the `i` before `ssa` is the insertion every future takes {516}, `bhav-i-ssati`.*
+*"And now applied with me there will be active determination" (chapter 11, selection 45, 9.7) `bhavissati`: `-ssati`, `bhavissantī` ⏭, third person singular {429}; the `i` before `ssa` is the insertion every future takes {516}, `bhav-i-ssati`.*
 
 > No cetaṁ, bhikkhave, **abhavissa** ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ,
 
 🔼(no) 🔼(cetaṁ) 🚹⓪⨂(bhikkhu) 🔀🤟⨀(abhavissa) 🚻①⨀(ajāta) 🚻①⨀(abhūta) 🚻①⨀(akata) 🚻①⨀(asaṅkhata)  
 surely? / if this / Bhikkhave / could have been / not born / not become / not made / not formed  
-*"Surely if this could have been, Bhikkhave, …" (chapter 10, selection 50, 3.2) `abhavissa`: the `a` put before the root {519} and the ending `-ssā` {430}, here short {517}; `kālātipatti` 🔀, third person singular, "if it had not been"; the sentence goes on with `paññāyetha`, the `attanopada` `-etha` of the `sattamī` {425}, 🔵.*
+*"Surely if this could have been, Bhikkhave, …" (chapter 11, selection 50, 3.2) `abhavissa`: the `a` put before the root {519} and the ending `-ssā` {430}, here short {517}; `kālātipatti` 🔀, third person singular, "if it had not been"; the sentence goes on with `paññāyetha`, the `attanopada` `-etha` of the `sattamī` {425}, 🔵.*
 
 ### Exercises
 
-Each of the following is a verb from the texts of chapters 3, 5 and 10, in
+Each of the following is a verb from the texts of chapters 3, 5 and 11, in
 the form it has there. Name its set, its ending, its person and its number,
 and say what the sentence means. Look the word up in a dictionary and check
 the ending against the tables above.
@@ -234,7 +234,7 @@ when / indeed / appear / phenomena
 
 🔼(tāhaṁ) 🚹②⨀(dhamma) 🔼(sutvā) 🚹⑦⨀(tathāgata) 🚻①⨀(saddha) ⏮👆⨀(paṭilabhi)  
 that I / Dhamma / having heard / in Tathāgata / faith / I acquired  
-*"Having heard that Dhamma, I acquired faith in the Tathāgata." (chapter 10, selection 26, 12.4) `paṭilabhiṁ`: `-iṁ`, `ajjatanī` ⏮, first person singular {428}; the subject `ahaṁ` is inside `tāhaṁ` {412}.*
+*"Having heard that Dhamma, I acquired faith in the Tathāgata." (chapter 11, selection 26, 12.4) `paṭilabhiṁ`: `-iṁ`, `ajjatanī` ⏮, first person singular {428}; the subject `ahaṁ` is inside `tāhaṁ` {412}.*
 
 4. > Tatra kho bhagavā pañcavaggiye bhikkhū **āmantesi**—
 
@@ -252,13 +252,13 @@ delighted / of the group of five / bhikkhū / of the Bhagavā / what was spoken 
 
 🔼(apinu) 🤘①⨂(tvaṁ) 🚹⓪⨂(bhikkhu) 🔼(evaṁ) 🚹①⨂(jānanta) 🔼(evaṁ) 🚹①⨂(passanta) 🚹②⨀(añña) 🚹②⨀(satthar) ⏯🤘⨂(uddisati)  
 are? / youse / bhikkhave / thus / knowing / thus / seeing / another / teacher / appoint  
-*"Thus knowing and thus seeing, bhikkhave, will you appoint another teacher?" (chapter 10, selection 1, 24.10) `uddiseyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, "would you appoint"; the `-ā` before `”ti` is the join.*
+*"Thus knowing and thus seeing, bhikkhave, will you appoint another teacher?" (chapter 11, selection 1, 24.10) `uddiseyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, "would you appoint"; the `-ā` before `”ti` is the join.*
 
 7. > ‘kāyo me **passambhatū**’ti.
 
 🚹①⨀(kāya) 👆⑥⨀(ahaṁ) ⏹🤟⨀(passambhati) 🔼(ti)  
 physical body / of me / must calm down / quote  
-*"May my body calm down." (chapter 10, selection 18, 1.11) `passambhatu`: `-tu`, `pañcamī` ⏹, third person singular {424}; a wish {415}.*
+*"May my body calm down." (chapter 11, selection 18, 1.11) `passambhatu`: `-tu`, `pañcamī` ⏹, third person singular {424}; a wish {415}.*
 
 8. > Evametassa kevalassa dukkhakkhandhassa samudayo **hoti**.
 

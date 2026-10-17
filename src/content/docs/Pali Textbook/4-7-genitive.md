@@ -90,7 +90,7 @@ weeping / of the boy / [he] went forth
 Translate the following from Pali to English and find the ⑥ word in each. Look
 up the words in a dictionary, do any sandhi and compound deconstruction needed,
 and take note of the `vibhatti` endings to deduce the meaning. The first four
-are from the texts of chapters 3, 5 and 10, the last two are Kaccāyana's own.
+are from the texts of chapters 3, 5 and 11, the last two are Kaccāyana's own.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)

@@ -123,7 +123,7 @@ before / not heard / in dhammas / insight / arose
 
 ### Exercises
 
-Each word below is from the texts of chapters 3, 5 and 10. Name its prefix,
+Each word below is from the texts of chapters 3, 5 and 11. Name its prefix,
 the shape it has at the join and the root or word after it, and say what it
 adds to the meaning, and check the dictionary's `construction` field.
 
@@ -180,16 +180,16 @@ claimed
 
 🚻①⨀(nissaraṇa)  
 way out of  
-*`nī` ("out") + `√sar` ("go"), "going out": the `s` doubles after the prefix {28} and the `ī` written short. Chapter 10.*
+*`nī` ("out") + `√sar` ("go"), "going out": the `s` doubles after the prefix {28} and the `ī` written short. Chapter 11.*
 
 7. > **ajjhattaṁ**
 
 🚻①⨀(ajjhatta)  
 internally  
-*`adhi` ("in") + `atta` ("self"): `adhi` becomes `ajjh` before a vowel {45}, "in oneself"; an `abyayībhāva` ([6.2](../6-2-abyayibhava/)). Chapter 10.*
+*`adhi` ("in") + `atta` ("self"): `adhi` becomes `ajjh` before a vowel {45}, "in oneself"; an `abyayībhāva` ([6.2](../6-2-abyayibhava/)). Chapter 11.*
 
 8. > **uppajjati**
 
 ▶️🤟⨀(uppajjati)  
 arise  
-*`u` ("up") + `√pad` ("go"), "goes up": the `p` doubles after `u` {28}; its past `udapādi` has the `d` {35}. Chapter 10.*
+*`u` ("up") + `√pad` ("go"), "goes up": the `p` doubles after `u` {28}; its past `udapādi` has the `d` {35}. Chapter 11.*

@@ -1,7 +1,7 @@
 ---
-title: "9.8: The `uṇādi` words worth knowing"
+title: "10.8: The `uṇādi` words worth knowing"
 sidebar:
-  label: "9.8: `uṇādi` words"
+  label: "10.8: `uṇādi` words"
   order: 559
 description: >
   The `uṇādi` affixes that each form a few words from named roots {627}–{634},
@@ -14,7 +14,7 @@ tags: ["uṇādi"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-The affixes of section [9.7](../9-7-sadhana/) make words by the hundred. Those
+The affixes of section [10.7](../10-7-sadhana/) make words by the hundred. Those
 here each go after a few named roots, and Kaccāyana lists the words one by
 one: `tha` after the root `samu` gives `samatho` ("calm") {628}, `īvara` after
 `ci` gives `cīvaraṁ` ("a robe") {668}, `tu` after `hi` gives `hetu` ("a
@@ -30,7 +30,7 @@ meaning: `samatho`, "it calms".
 
 ### Words worth knowing
 
-Mostly from the texts of chapters [3](../3-awakening/) and [5](../10-pbt/).
+Mostly from the texts of chapters [3](../3-awakening/) and [5](../11-pbt/).
 
 | word | meaning | root + affix | rule |
 | --- | --- | --- | :-: |

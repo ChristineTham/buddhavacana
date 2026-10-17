@@ -30,7 +30,7 @@ compound takes the gender, number and ending of that noun: `chinnahattho` is
 🚹⨀① because `puriso` is. When the members join, their endings are dropped
 {317} and each goes back to its lemma form {318}. The Buddha's epithets are
 full of such compounds (`dasabalo`, "who has the ten powers"), and so is the
-jhāna formula of chapter 10 (`avitakkaṁ avicāraṁ … jhānaṁ`).
+jhāna formula of chapter 11 (`avitakkaṁ avicāraṁ … jhānaṁ`).
 
 ### How to recognise a `bahubbīhi`
 
@@ -83,7 +83,7 @@ ten / powers / of whom / that [one] → who has the ten powers / the Blessed One
 
 ### Exercises
 
-Each of the following is a `bahubbīhi` from chapter 10, with the word it
+Each of the following is a `bahubbīhi` from chapter 11, with the word it
 agrees with where the sentence has one. Look each up in a dictionary, name its
 members, unfold it into a phrase with `yassa` ("whose"), and say what it names.
 
