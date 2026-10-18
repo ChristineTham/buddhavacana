@@ -41,7 +41,7 @@ first arahants to a selection of the core teachings.
 | [9](../9-fire/) | text | the Ādittapariyāyasutta: the Fire Sermon, all is burning (SN 35.28) |
 | [10](../10-0-derived/) | grammar | `taddhita` and `uṇādi`: words made from other words with affixes |
 | [Bonus](../11-pbt/) | text | Pali Buddhist Texts: fifty-two short passages on the core teachings, after Johansson; my earliest translation effort, since updated to my latest understanding |
-| A–N | reference | the symbols, the alphabet, a glossary of terms, and the full rule tables of Kaccāyana: roots, sandhi, prefixes, endings, affixes, verbs, pronouns |
+| A–P | reference | the symbols, the alphabet, a glossary of terms, the full rule tables of Kaccāyana (roots, sandhi, prefixes, endings, affixes, verbs, pronouns), and the endings by frequency |
 
 ## How to read it
 
