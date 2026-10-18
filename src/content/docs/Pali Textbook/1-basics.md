@@ -113,10 +113,11 @@ European languages).
 
 Strictly speaking, Pāḷi does not use an "alphabet", it uses an "abugida".
 
-> [!INFO]
-> An "abugida" is a segmental writing system in which consonant–vowel sequences are written as units; each unit is based on a consonant letter, and vowel notation is secondary, similar to a diacritical mark. This contrasts with a full alphabet, in which vowels have status equal to consonants.
-> 
-> Pāḷi is generally written in various Brahmic scripts (also known as Indic scripts), which are abugida writing systems. Brahmic scripts are used throughout the Indian subcontinent, Southeast Asia and parts of East Asia. They are descended from the Brahmi script of ancient India. Brahmi is clearly attested from the 3rd century BCE during the reign of Áshoka, who used the script for imperial edicts.
+:::note[Info]
+An "abugida" is a segmental writing system in which consonant–vowel sequences are written as units; each unit is based on a consonant letter, and vowel notation is secondary, similar to a diacritical mark. This contrasts with a full alphabet, in which vowels have status equal to consonants.
+
+Pāḷi is generally written in various Brahmic scripts (also known as Indic scripts), which are abugida writing systems. Brahmic scripts are used throughout the Indian subcontinent, Southeast Asia and parts of East Asia. They are descended from the Brahmi script of ancient India. Brahmi is clearly attested from the 3rd century BCE during the reign of Áshoka, who used the script for imperial edicts.
+:::
 
 In Roman script, Pali consists of 8 vowels (`sara`) and 33 consonants (`vyañjana`), arranged in the following order (the letters in round brackets are not commonly encountered):
 
@@ -732,7 +733,7 @@ Example:
 > parābhavo
 
 🔼(parā) 🚹⨀①(bhava)  
-opposite / to be, being
+opposite / to be, being\
 *loss, ruin*
 
 Here are various words that can be formed from the word `hara` ("carrying")
@@ -1338,8 +1339,8 @@ happiness / for you / be
 
 at a non-specific time (`anuttakāla`).
 
-> `tvaṁ gaccheyyāsi`
-you / can go
+> `tvaṁ gaccheyyāsi`\
+you / can go\
 *You can go.*
 
 > `kima’haṁ kareyyāmi`  
@@ -1413,7 +1414,7 @@ being witnessed or not witnessed (by the speaker)
 he / road / gone  
 *He has (just) gone along the road.*
 
-> te maggaṁ agamuṁ
+> te maggaṁ agamuṁ\
 they / road / gone  
 *They have (just) gone along the road.*
 
@@ -2471,14 +2472,14 @@ This is a very well known `sutta` commonly referred to as the **Three Jewels**
 recited by disciples of the Buddha as part of a ceremony by which one
 formally declares oneself a Buddhist.
 
-> Buddhaṁ saraṇaṁ gacchāmi
-> Dhammaṁ saraṇaṁ gacchāmi
-> Saṅghaṁ saraṇaṁ gacchāmi
-> Dutiyampi buddhaṁ saraṇaṁ gacchāmi
-> Dutiyampi dhammaṁ saraṇaṁ gacchāmi
-> Dutiyampi saṅghaṁ saraṇaṁ gacchāmi
-> Tatiyampi buddhaṁ saraṇaṁ gacchāmi
-> Tatiyampi dhammaṁ saraṇaṁ gacchāmi
+> Buddhaṁ saraṇaṁ gacchāmi\
+> Dhammaṁ saraṇaṁ gacchāmi\
+> Saṅghaṁ saraṇaṁ gacchāmi\
+> Dutiyampi buddhaṁ saraṇaṁ gacchāmi\
+> Dutiyampi dhammaṁ saraṇaṁ gacchāmi\
+> Dutiyampi saṅghaṁ saraṇaṁ gacchāmi\
+> Tatiyampi buddhaṁ saraṇaṁ gacchāmi\
+> Tatiyampi dhammaṁ saraṇaṁ gacchāmi\
 > Tatiyampi saṅghaṁ saraṇaṁ gacchāmi
 
 Let's start by examining only the first line. Analysing each word by
@@ -2516,14 +2517,14 @@ as these are well known terms to Buddhists.
 
 ## Answer
 
-> *I go to the Buddha as refuge.
-> I go to the Dhamma as refuge.
-> I go to the Sangha as refuge.
-> For the second time too, I go to the Buddha as refuge.
-> For the second time too, I go to the Dhamma as refuge.
-> For the second time too, I go to the Sangha as refuge.
-> For the third time too, I go to the Buddha as refuge.
-> For the third time too, I go to the Dhamma as refuge.
+> *I go to the Buddha as refuge.\
+> I go to the Dhamma as refuge.\
+> I go to the Sangha as refuge.\
+> For the second time too, I go to the Buddha as refuge.\
+> For the second time too, I go to the Dhamma as refuge.\
+> For the second time too, I go to the Sangha as refuge.\
+> For the third time too, I go to the Buddha as refuge.\
+> For the third time too, I go to the Dhamma as refuge.\
 > For the third time too, I go to the Sangha as refuge.*
 
 Note that `dutiyaṃ` and `tatiyaṃ` are being used as `nipāta`. `pi`is a `nipāta`

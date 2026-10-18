@@ -1039,7 +1039,7 @@ Life long arahants (liberated ones) give up incelibacy, practice celibacy, keep 
 life-long | liberated ones | wine, spirits, drugs and states of intoxication | giving up | wine, spirits, drugs and states of intoxication | abstained from  
 
 Life long arahants (liberated ones) give up and abstains from wine, spirits, drugs and states of intoxication.  
-<a id="s32-u24-1"></a>24.1 Yāvajīvaṁ arahanto ekabhattikā rattūparatā viratā vikālabhojanā;
+<a id="s32-u24-1"></a>24.1 Yāvajīvaṁ arahanto ekabhattikā rattūparatā viratā vikālabhojanā;\
 🚻⨀①(yāvajīva) 🚹⨂①(arahant) 🚹⨂①(ekabhattika) 🚹⨂①(rattūparata) 🚹⨂①(virata) 🚻⨂①(vikālabhojana)  
 life-long | liberated ones | who eats one meal a day | abstaining from eating at night | stopped | eating between midday and dawn  
 Life long arahants (liberated ones) eat one meal a day, abstain from eating at night, and between midday and dawn.
@@ -1357,32 +1357,32 @@ tranquil | indeed | you | Sāriputta | faculties | pure | complexion | bright
 “You are tranquil indeed, Sāriputta, and your faculties are serene and complexion bright.”
 
 <a id="s44-u2-2"></a>2.2 Katamena kho tvaṁ, sāriputta, vihārena etarahi bahulaṁ viharasī”ti?  
-🚹⨀③(katama) 🔼(kho) *️⃣🤘⚧⨀①(tvaṁ) 🚹⨀⓪(sāriputta) 🚹⨀③(vi  hāra) 🔼(etarahi) 🚻⨀①(bahula) ▶️🤘⨀(viharati) 🔼(ti)
+🚹⨀③(katama) 🔼(kho) *️⃣🤘⚧⨀①(tvaṁ) 🚹⨀⓪(sāriputta) 🚹⨀③(vi  hāra) 🔼(etarahi) 🚻⨀①(bahula) ▶️🤘⨀(viharati) 🔼(ti)\
 with what | indeed | you | Sāriputta | with way of spending time | now | often | dwells in | quote  
 “How have you been spending time lately, Sāriputta?”
 
 <a id="s44-u2-3"></a>2.3 “Suññatāvihārena kho ahaṁ, bhante, etarahi bahulaṁ viharāmī”ti.  
-🚹⨀③(suññatāvihāra) 🔼(kho) *️⃣👆⚧⨀①(ahaṁ) 🚹⨀⓪(bhavant) 🔼(etarahi) 🚻⨀①(bahula) ▶️👆⨀(viharati)) 🔼(ti)  
+🚹⨀③(suññatāvihāra) 🔼(kho) *️⃣👆⚧⨀①(ahaṁ) 🚹⨀⓪(bhavant) 🔼(etarahi) 🚻⨀①(bahula) ▶️👆⨀(viharati) 🔼(ti)  
 with contemplation on emptiness | indeed |  I | Bhante | now | often | dwells in | quote  
 “Lately, I often dwell on emptiness, Bhante.”
 
-<a id="s44-u2-4"></a>2.4 “Sādhu sādhu, sāriputta.
-🚹⨀①(sādhu) 🚹⨀①(sādhu) 🚹⨀⓪(sāriputta)
+<a id="s44-u2-4"></a>2.4 “Sādhu sādhu, sāriputta.\
+🚹⨀①(sādhu) 🚹⨀①(sādhu) 🚹⨀⓪(sāriputta)\
 Excellent | Sāriputta
 “Excellent, Sāriputta.”
 
-<a id="s44-u2-5"></a>2.5 Mahāpurisavihārena kira tvaṁ, sāriputta, etarahi bahulaṁ viharasi.
-🚹⨀③(mahāpurisavihāra) 🔼(kira) *️⃣🤘⚧⨀①(tvaṁ) 🚹⨀⓪(sāriputta) 🔼(etarahi) 🚻⨀①(bahula) ▶️🤘⨀(viharati)
+<a id="s44-u2-5"></a>2.5 Mahāpurisavihārena kira tvaṁ, sāriputta, etarahi bahulaṁ viharasi.\
+🚹⨀③(mahāpurisavihāra) 🔼(kira) *️⃣🤘⚧⨀①(tvaṁ) 🚹⨀⓪(sāriputta) 🔼(etarahi) 🚻⨀①(bahula) ▶️🤘⨀(viharati)\
 with internal dwelling of an illustrious being | truly | you | Sāriputta | now | often | dwells in  
 “Truly, Sāriputta, lately you often dwell in the internal dwelling of an illustrious being.”
 
-<a id="s44-u2-6"></a>2.6 Mahāpurisavihāro eso, sāriputta, yadidaṁ—
-🚹⨀①(mahāpurisavihāra) 🚹⨀①(eta) 🚹⨀⓪(sāriputta) 🔼(yadidaṁ)
+<a id="s44-u2-6"></a>2.6 Mahāpurisavihāro eso, sāriputta, yadidaṁ—\
+🚹⨀①(mahāpurisavihāra) 🚹⨀①(eta) 🚹⨀⓪(sāriputta) 🔼(yadidaṁ)\
 internal dwelling of an illustrious being | this | Sāriputta | that is
 Sāriputta, this is the internal dwelling of an illustrious being:
 
-<a id="s44-u2-7"></a>2.7 suññatā.
-🚹⨂①(suññata)
+<a id="s44-u2-7"></a>2.7 suññatā.\
+🚹⨂①(suññata)\
 emptiness
 “That is the internal dwelling of an illustrious being, Sāriputta, this emptiness.”
 
