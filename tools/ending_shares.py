@@ -18,17 +18,23 @@ The --appendix option rewrites the tables of the textbook's Appendix P below its
 """
 import sqlite3, re, collections, pathlib, json, sys
 IDX = pathlib.Path.home() / ".cache/tipitaka2500/index.sqlite"; DPD = pathlib.Path("dpd.db")
-GROUPS = {
- "-a": ["a"], "-aṁ": ["aṃ"], "-assa": ["assa"], "-asmā, -amhā": ["asmā", "amhā"], "-asmiṁ, -amhi": ["asmiṃ", "amhi"], "-ato, -to": ["ato"], "-atā": ["atā"],
- "-asā, -aso, -asi": ["asā", "aso", "asi"], "-ā": ["ā"], "-āni, -īni, -ūni": ["āni", "īni", "ūni"], "-ānaṁ, -īnaṁ, -ūnaṁ": ["ānaṃ", "īnaṃ", "ūnaṃ"], "-āya": ["āya"],
- "-āyaṁ, -iyaṁ": ["āyaṃ", "iyaṃ"], "-āyo, -iyo": ["āyo", "iyo"], "-e": ["e"], "-ehi, -īhi, -ūhi, -āhi": ["ehi", "īhi", "ūhi", "āhi", "ebhi"], "-ena": ["ena"],
- "-esu, -īsu, -ūsu, -āsu": ["esu", "īsu", "ūsu", "āsu"], "-etha": ["etha"], "-eyya…": ["eyya", "eyyuṃ", "eyyaṃ", "eyyātha", "eyyāma", "eyyāsi", "eyyāmi"],
- "-i": ["i"], "-iṁ": ["iṃ"], "-iṁsu": ["iṃsu"], "-inā, -unā": ["inā", "unā"], "-ino, -uno, -issa, -ussa": ["ino", "uno", "issa", "ussa"], "-iyā, -uyā": ["iyā", "uyā"],
- "-ī": ["ī"], "-īhi, -ūhi, -īnaṁ, -ūnaṁ, -īsu, -ūsu": ["īhi", "ūhi", "īnaṃ", "ūnaṃ", "īsu", "ūsu"], "-o": ["o"], "-u": ["u"], "-uṁ": ["uṃ"], "-ū": ["ū"],
- "-ti": ["ti"], "-nti": ["nti"], "-si": ["si"], "-mi, -ma": ["mi", "ma"], "-tha, -ttha": ["tha"], "-tu, -ntu": ["tu", "ntu"], "-nto, -ntā, -ntaṁ, -nte": ["nto", "ntā", "ntaṃ", "nte"],
- "-māno, -mānā, -māne": ["māno", "mānā", "māne"], "-ssati…": ["ssati", "ssanti", "ssāmi", "ssāma", "ssatha"], "-tabba…, -anīyaṁ": ["tabbaṃ", "tabbo", "tabbā", "anīyaṃ", "anīyo", "anīyā"],
- "-tvā, -tvāna": ["tvā", "tvāna"], "-tuṁ": ["tuṃ"], "-te": ["te"],
+GROUPS = {   # every group ends in one letter, so that a chart sits under the letter the reader sees; no ending is in two groups
+ "-a": ["a"], "-ma": ["ma"], "-tha, -ttha": ["tha"], "-ena": ["ena"], "-assa": ["assa"], "-issa, -ussa": ["issa", "ussa"], "-āya": ["āya"],
+ "-eyya, -eyyātha, -eyyāma": ["eyya", "eyyātha", "eyyāma"], "-etha": ["etha"], "-ssāma, -ssatha": ["ssāma", "ssatha"],
+ "-ā": ["ā"], "-asā": ["asā"], "-atā": ["atā"], "-ntā": ["ntā"], "-mānā": ["mānā"], "-tabbā, -anīyā": ["tabbā", "anīyā"], "-tvā": ["tvā"], "-asmā, -amhā": ["asmā", "amhā"], "-inā, -unā": ["inā", "unā"], "-iyā, -uyā": ["iyā", "uyā"],
+ "-i": ["i"], "-ti": ["ti"], "-nti": ["nti"], "-si": ["si"], "-mi": ["mi"], "-asi": ["asi"], "-amhi": ["amhi"], "-āni, -īni, -ūni": ["āni", "īni", "ūni"],
+ "-ehi, -īhi, -ūhi, -āhi": ["ehi", "īhi", "ūhi", "āhi", "ebhi"], "-ssati, -ssanti, -ssāmi": ["ssati", "ssanti", "ssāmi"], "-eyyāsi, -eyyāmi": ["eyyāsi", "eyyāmi"],
+ "-ī": ["ī"], "-u": ["u"], "-tu, -ntu": ["tu", "ntu"], "-esu, -īsu, -ūsu, -āsu": ["esu", "īsu", "ūsu", "āsu"], "-iṁsu": ["iṃsu"], "-ū": ["ū"],
+ "-e": ["e"], "-te": ["te"], "-nte": ["nte"], "-māne": ["māne"],
+ "-o": ["o"], "-ato, -to": ["ato"], "-aso": ["aso"], "-ino, -uno": ["ino", "uno"], "-āyo, -iyo": ["āyo", "iyo"], "-nto": ["nto"], "-māno": ["māno"], "-tabbo, -anīyo": ["tabbo", "anīyo"],
+ "-aṁ": ["aṃ"], "-iṁ": ["iṃ"], "-uṁ": ["uṃ"], "-āyaṁ, -iyaṁ": ["āyaṃ", "iyaṃ"], "-ānaṁ, -īnaṁ, -ūnaṁ": ["ānaṃ", "īnaṃ", "ūnaṃ"], "-asmiṁ": ["asmiṃ"], "-ntaṁ": ["ntaṃ"], "-tuṁ": ["tuṃ"],
+ "-tabbaṁ, -anīyaṁ": ["tabbaṃ", "anīyaṃ"], "-eyyaṁ, -eyyuṁ": ["eyyaṃ", "eyyuṃ"],
 }
+# the families whose charts cross-link ("see also")
+FAMILIES = [["-asmiṁ", "-amhi"], ["-mi", "-ma"], ["-tabbaṁ, -anīyaṁ", "-tabbo, -anīyo", "-tabbā, -anīyā"], ["-assa", "-issa, -ussa", "-ino, -uno"],
+            ["-nto", "-ntā", "-ntaṁ", "-nte"], ["-māno", "-mānā", "-māne"], ["-ssati, -ssanti, -ssāmi", "-ssāma, -ssatha"],
+            ["-eyya, -eyyātha, -eyyāma", "-eyyaṁ, -eyyuṁ", "-eyyāsi, -eyyāmi", "-etha"], ["-asā", "-aso", "-asi"],
+            ["-ehi, -īhi, -ūhi, -āhi", "-ānaṁ, -īnaṁ, -ūnaṁ", "-esu, -īsu, -ūsu, -āsu"], ["-asmā, -amhā", "-ato, -to"], ["-ti", "-nti"], ["-iṁsu", "-uṁ"], ["-inā, -unā", "-ena"]]
 G = {"masc": "🚹", "fem": "🚺", "nt": "🚻"}; CASE = {"nom": "①", "acc": "②", "instr": "③", "dat": "④", "abl": "⑤", "gen": "⑥", "loc": "⑦", "voc": "⓪"}
 NUM = {"sg": "⨀", "pl": "⨂"}; TENSE = {"pr": "▶️", "aor": "⏮", "fut": "⏭", "imp": "⏹", "opt": "⏯", "cond": "🔀", "perf": "🔄", "imperf": "↩️"}; PERS = {"1st": "👆", "2nd": "🤘", "3rd": "🤟"}
 META = {"letter", "root", "suffix", "ve", "cs", "idiom", "abbrev", "prefix"}; NOUN_POS = {"masc", "fem", "nt"}
@@ -76,6 +82,7 @@ def readings_of(gram, lemma, pos, form, own_grammar):
 # Appendix P: the charts grouped by the last letter of the word, the commonest endings first, so that a
 # reader who sees only the letters can find the ending: nouns, verbs and particles side by side in each chart.
 LETTERS = [("a", "…a"), ("ā", "…ā"), ("i", "…i"), ("ī", "…ī"), ("u", "…u"), ("ū", "…ū"), ("e", "…e"), ("o", "…o"), ("ṁ", "…ṁ")]
+def anchor(row): return "e-" + re.sub(r"[^a-zāīūṁṅñṭḍṇḷ]+", "-", row.split(",")[0].strip().lstrip("-")).strip("-")
 def last_letter(row): return row.split(",")[0].split(";")[0].strip().split(" ")[0].rstrip("…")[-1]
 def write_appendix(result, path):
     """Rewrite Appendix P from its first '## Words that end in' heading (or an older layout) on: one chart per ending."""
@@ -87,7 +94,10 @@ def write_appendix(result, path):
         out.append(f"\n## Words that end in `{title}`\n")
         for row in rows:
             g = groups[row]; n = g["known"] + g["unknown"]; cov = 100 * g["known"] / n if n else 0
-            lines = [f"{row} · {n:,} words end so, {g['per_mille']:g} in every thousand · {cov:.0f}% of them classed"]
+            fam = next((f for f in FAMILIES if row in f), [])
+            also = " · see also " + ", ".join(f"[`{r.split(',')[0]}`](#{anchor(r)})" for r in fam if r != row) if fam else ""
+            out.append(f'<a id="{anchor(row)}"></a>\n')
+            lines = [f"{row} · {n:,} words end so, {g['per_mille']:g} in every thousand · {cov:.0f}% of them classed{also}"]
             rest = 0.0; restn = 0
             for d in g["readings"]:
                 if d["share"] >= 0.5: lines.append(f"{d['reading']} | {d['share']:.1f} | {ex(d['examples'])}")
@@ -165,4 +175,4 @@ def main(out, tests=(), appendix=None):
 if __name__ == "__main__":
     out = sys.argv[sys.argv.index("-o") + 1] if "-o" in sys.argv else None
     appendix = sys.argv[sys.argv.index("--appendix") + 1] if "--appendix" in sys.argv else None
-    main(out, appendix=appendix, tests=("na", "so", "te", "me", "ti", "nāma", "hetu", "dukkhaṃ", "vācāya", "tato", "tena", "paccayā", "pubbe", "kiṃ", "evaṃ", "bhante", "āyasmā", "tasmā"))
+    main(out, appendix=appendix, tests=("amhi", "lokamhi", "vadāma", "nāma", "kātabbo", "tabbā"))
