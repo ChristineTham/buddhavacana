@@ -36,7 +36,7 @@ PART = {"pp": "a past participle (-ta)", "prp": "a present participle (-anta, -m
 OTHER = {"ind": "a particle or adverb", "abs": "an absolutive (-tvā)", "ger": "an absolutive (-ya)", "inf": "an infinitive (-tuṁ)", "sandhi": "a sandhi join, to be split", "card": "a number", "ordin": "a number", "adj": "an adjective, agreeing with its noun"}
 ORDER = "①②③④⑤⑥⑦⓪"
 def nc(tokens):
-    """number+case from a grammar phrase such as 'masc acc sg', '2nd dat sg', 'voc sg & pl'."""
+    """number and inflection form from a grammar phrase such as 'masc acc sg', '2nd dat sg', 'voc sg & pl'."""
     case = next((CASE[t] for t in tokens if t in CASE), None); nums = [NUM[t] for t in tokens if t in NUM]
     return case, nums
 def join(rd):
@@ -73,31 +73,30 @@ def readings_of(gram, lemma, pos, form, own_grammar):
         if rd: return " or ".join(rd)
         return "a verb with iti joined on (…tīti)" if re.search(r"[āīū]ti$", form) else "a verb form the table does not list"
     return OTHER.get(pos, pos)
-LETTER = [("a", ["-a", "-aṁ", "-assa", "-asmā, -amhā", "-asmiṁ, -amhi", "-ato, -to", "-atā", "-asā, -aso, -asi"]),
-          ("ā", ["-ā", "-āni, -īni, -ūni", "-ānaṁ, -īnaṁ, -ūnaṁ", "-āya", "-āyaṁ, -iyaṁ", "-āyo, -iyo"]),
-          ("e", ["-e", "-ehi, -īhi, -ūhi, -āhi", "-ena", "-esu, -īsu, -ūsu, -āsu", "-etha", "-eyya…"]),
-          ("i and ī", ["-i", "-iṁ", "-iṁsu", "-inā, -unā", "-ino, -uno, -issa, -ussa", "-iyā, -uyā", "-ī", "-īhi, -ūhi, -īnaṁ, -ūnaṁ, -īsu, -ūsu"]),
-          ("o, u and ū", ["-o", "-u", "-uṁ", "-ū"]),
-          ("a consonant", ["-ti", "-nti", "-si", "-mi, -ma", "-tha, -ttha", "-tu, -ntu", "-nto, -ntā, -ntaṁ, -nte", "-māno, -mānā, -māne", "-ssati…", "-tabba…, -anīyaṁ", "-tvā, -tvāna", "-tuṁ", "-te"])]
+# Appendix P: the charts grouped by the last letter of the word, the commonest endings first, so that a
+# reader who sees only the letters can find the ending: nouns, verbs and particles side by side in each chart.
+LETTERS = [("a", "…a"), ("ā", "…ā"), ("i", "…i"), ("ī", "…ī"), ("u", "…u"), ("ū", "…ū"), ("e", "…e"), ("o", "…o"), ("ṁ", "…ṁ")]
+def last_letter(row): return row.split(",")[0].split(";")[0].strip().split(" ")[0].rstrip("…")[-1]
 def write_appendix(result, path):
-    """Rewrite the tables of Appendix P (everything from its '## Endings in `a`' heading on) from the result."""
+    """Rewrite Appendix P from its first '## Words that end in' heading (or an older layout) on: one chart per ending."""
     groups = result["groups"]; ex = lambda words: ", ".join(f"`{w.replace('ṃ', 'ṁ')}`" for w in words[:5])
     out = []
-    for letter, rows in LETTER:
-        out.append(f"\n## Endings in `{letter}`\n")
+    for letter, title in LETTERS:
+        rows = sorted([r for r in GROUPS if last_letter(r) == letter], key=lambda r: -groups[r]["per_mille"])
+        if not rows: continue
+        out.append(f"\n## Words that end in `{title}`\n")
         for row in rows:
             g = groups[row]; n = g["known"] + g["unknown"]; cov = 100 * g["known"] / n if n else 0
-            out.append(f"\n### `{row}`\n\n{n:,} words in the Tipiṭaka end so ({g['per_mille']:g} in every thousand); {cov:.0f}% of them are in the dictionary and are classed below.\n")
-            out.append("| it reads as | share | words | for example |\n| --- | --: | --: | --- |")
+            lines = [f"{row} · {n:,} words end so, {g['per_mille']:g} in every thousand · {cov:.0f}% of them classed"]
             rest = 0.0; restn = 0
             for d in g["readings"]:
-                if d["share"] >= 0.5: out.append(f"| {d['reading']} | {d['share']:.1f}% | {d['count']:,} | {ex(d['examples'])} |")
+                if d["share"] >= 0.5: lines.append(f"{d['reading']} | {d['share']:.1f} | {ex(d['examples'])}")
                 else: rest += d["share"]; restn += d["count"]
-            if restn: out.append(f"| other readings, each under 0.5% | {rest:.1f}% | {restn:,} | |")
-            out.append("")
+            if restn: lines.append(f"other readings, each under 0.5% | {rest:.1f} |")
+            out.append("```endings\n" + "\n".join(lines) + "\n```\n")
     page = pathlib.Path(path); t = page.read_text(encoding="utf-8")
-    head = t[:t.index("\n## Endings in `a`")]
-    head = re.sub(r"\d{1,3}(,\d{3})+ words\. The method", f"{result['total_tokens']:,} words. The method", head)
+    cut = min(k for k in (t.find("\n## Words that end in"), t.find("\n## ① The subject"), t.find("\n## Endings in `a`")) if k >= 0)
+    head = re.sub(r"\d{1,3}(,\d{3})+ words\. The method", f"{result['total_tokens']:,} words. The method", t[:cut])
     page.write_text(head + "\n".join(out) + "\n", encoding="utf-8")
 
 def main(out, tests=(), appendix=None):
@@ -131,7 +130,7 @@ def main(out, tests=(), appendix=None):
         if own_fn:
             if any(hw[i][1] in ("pron", "interr") for i in own_fn) or not decl:   # a pronoun, or a particle with no declinable homograph
                 cands = [i for i in cands if hw[i][1] in FUNCTION or hw[i][0] == w]
-            elif not any(hw[i][0] == w for i in decl):   # a particle that is a frozen case form of a noun (dukkhaṁ, vācāya, tato): read it as that noun
+            elif not any(hw[i][0] == w for i in decl):   # a particle that is a frozen inflected form of a noun (dukkhaṁ, vācāya, tato): read it as that noun
                 cands = [i for i in cands if not (hw[i][1] == "ind" and hw[i][0] == w)]
         groups = collections.defaultdict(float); own = collections.defaultdict(list)
         for i in cands:

@@ -6,6 +6,7 @@ import mermaid from "astro-mermaid";
 import plantuml from "astro-plantuml";
 import { satteri } from "@astrojs/markdown-satteri";
 import kaccayanaLinks from "./src/plugins/remark-kaccayana-links.mjs";
+import endingsChart from "./src/plugins/remark-endings-chart.mjs";
 
 // https://astro.build/config
 export default defineConfig({
@@ -22,7 +23,7 @@ export default defineConfig({
   },
   markdown: {
     // `{344}` in the Pāḷi Textbook links to Kaccāyana §344 on kaccayana.github.io
-    processor: satteri({ mdastPlugins: [kaccayanaLinks()] }),
+    processor: satteri({ mdastPlugins: [kaccayanaLinks(), endingsChart()] }),
   },
   fonts: [
     {

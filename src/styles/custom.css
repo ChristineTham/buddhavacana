@@ -29,3 +29,71 @@
   --sl-color-gray-7: #f4dede;
   --sl-color-black: #f4eee8;
 }
+
+/* The endings charts of the Pāḷi Textbook (src/plugins/remark-endings-chart.mjs): one bar per reading. */
+.endings {
+  margin: 1.25rem 0 1.5rem;
+  font-size: var(--sl-text-sm);
+}
+.endings figcaption {
+  margin-bottom: 0.4rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.75rem;
+  align-items: baseline;
+}
+.endings .endings-ending {
+  font-size: var(--sl-text-lg);
+  font-weight: 600;
+}
+.endings .endings-note,
+.endings .endings-see {
+  color: var(--sl-color-gray-2);
+  font-size: var(--sl-text-xs);
+}
+.endings .endings-row {
+  display: grid;
+  grid-template-columns: minmax(11rem, 2fr) 3fr;
+  gap: 0.2rem 0.75rem;
+  align-items: start;
+  padding: 0.2rem 0;
+  border-top: 1px solid var(--sl-color-gray-6);
+}
+.endings .endings-label {
+  line-height: 1.35;
+}
+.endings .endings-ex {
+  color: var(--sl-color-gray-2);
+  font-size: var(--sl-text-xs);
+  line-height: 1.3;
+  margin-top: 0.1rem;
+}
+.endings .endings-bar {
+  position: relative;
+  height: 1.25rem;
+  margin-top: 0.1rem;
+  background: var(--sl-color-gray-6);
+  border-radius: 0.25rem;
+  overflow: hidden;
+}
+.endings .endings-fill {
+  position: absolute;
+  inset: 0 auto 0 0;
+  background: var(--sl-color-accent);
+  border-radius: 0.25rem;
+}
+.endings .endings-pct {
+  position: absolute;
+  inset: 0 0.4rem 0 auto;
+  display: flex;
+  align-items: center;
+  font-size: var(--sl-text-xs);
+  font-variant-numeric: tabular-nums;
+  color: var(--sl-color-white);
+}
+@media (max-width: 40rem) {
+  .endings .endings-row {
+    grid-template-columns: 1fr;
+    gap: 0.1rem;
+  }
+}
