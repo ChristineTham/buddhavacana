@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "preview",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["preview", "--port", "4322", "--host", "localhost"],
+      "port": 4322
+    }
+  ]
+}
