@@ -22,7 +22,6 @@ tags:
   - kibbidhāna
   - uṇādi
   - sādhana
-math: true
 ---
 
 :::tip[Info]
