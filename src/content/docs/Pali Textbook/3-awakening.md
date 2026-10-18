@@ -492,4 +492,7 @@ like the sun illuminating the sky.”
 
 ### The colophon
 
-> Bodhikathā niṭṭhitā. <a class="col order-1 btn btn-outline-secondary" href="/tipitaka/3V/1.html"
+<a id="u13-1"></a>[13.1](https://tipitaka2500.github.io/tipitaka/3V/1/1.1.html#12) Bodhikathā niṭṭhitā.  
+🚺⨀①🆎(bodhi+kathā) 🚺⨀①🔽(ta)(niṭṭhita)  
+the Bodhikathā | finished  
+The Bodhikathā is finished.
