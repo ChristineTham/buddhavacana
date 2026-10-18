@@ -1814,7 +1814,7 @@ analyses: a word in `-āna` with the ending `-aṁ` stands among the words in
 `-ānaṁ`, and an adjective or a participle is counted as such, to be read as a
 noun of its noun's gender would be.
 
-Find the ending you see: [`-a`](#e-a) · [`-asmiṁ`](#e-asmiṁ) · [`-asmā`](#e-asmā) · [`-assa`](#e-assa) · [`-asā`](#e-asā) · [`-ato`](#e-ato) · [`-atā`](#e-atā) · [`-aṁ`](#e-aṁ) · [`-e`](#e-e) · [`-ehi`](#e-ehi) · [`-ena`](#e-ena) · [`-esu`](#e-esu) · [`-etha`](#e-etha) · [`-eyya`](#e-eyya) · [`-i`](#e-i) · [`-ino`](#e-ino) · [`-inā`](#e-inā) · [`-iyā`](#e-iyā) · [`-iṁ`](#e-iṁ) · [`-iṁsu`](#e-iṁsu) · [`-mi`](#e-mi) · [`-māno`](#e-māno) · [`-nti`](#e-nti) · [`-nto`](#e-nto) · [`-o`](#e-o) · [`-si`](#e-si) · [`-ssa`](#e-ssa) · [`-ssati`](#e-ssati) · [`-tabbaṁ`](#e-tabbaṁ) · [`-te`](#e-te) · [`-tha`](#e-tha) · [`-ti`](#e-ti) · [`-tu`](#e-tu) · [`-tuṁ`](#e-tuṁ) · [`-tvā`](#e-tvā) · [`-u`](#e-u) · [`-uṁ`](#e-uṁ) · [`-ā`](#e-ā) · [`-ānaṁ`](#e-ānaṁ) · [`-āni`](#e-āni) · [`-āya`](#e-āya) · [`-āyaṁ`](#e-āyaṁ) · [`-āyo`](#e-āyo) · [`-ī`](#e-ī) · [`-īhi`](#e-īhi) · [`-ū`](#e-ū).
+Find the ending you see: [`-a`](#e-a) · [`-amhi`](#e-amhi) · [`-asi`](#e-asi) · [`-asmiṁ`](#e-asmiṁ) · [`-asmā`](#e-asmā) · [`-aso`](#e-aso) · [`-assa`](#e-assa) · [`-asā`](#e-asā) · [`-ato`](#e-ato) · [`-atā`](#e-atā) · [`-aṁ`](#e-aṁ) · [`-e`](#e-e) · [`-ehi`](#e-ehi) · [`-ena`](#e-ena) · [`-esu`](#e-esu) · [`-etha`](#e-etha) · [`-eyya`](#e-eyya) · [`-eyyaṁ`](#e-eyyaṁ) · [`-eyyāsi`](#e-eyyāsi) · [`-i`](#e-i) · [`-ino`](#e-ino) · [`-inā`](#e-inā) · [`-issa`](#e-issa) · [`-iyā`](#e-iyā) · [`-iṁ`](#e-iṁ) · [`-iṁsu`](#e-iṁsu) · [`-ma`](#e-ma) · [`-mi`](#e-mi) · [`-māne`](#e-māne) · [`-māno`](#e-māno) · [`-mānā`](#e-mānā) · [`-ntaṁ`](#e-ntaṁ) · [`-nte`](#e-nte) · [`-nti`](#e-nti) · [`-nto`](#e-nto) · [`-ntā`](#e-ntā) · [`-o`](#e-o) · [`-si`](#e-si) · [`-ssati`](#e-ssati) · [`-ssāma`](#e-ssāma) · [`-tabbaṁ`](#e-tabbaṁ) · [`-tabbo`](#e-tabbo) · [`-tabbā`](#e-tabbā) · [`-te`](#e-te) · [`-tha`](#e-tha) · [`-ti`](#e-ti) · [`-tu`](#e-tu) · [`-tuṁ`](#e-tuṁ) · [`-tvā`](#e-tvā) · [`-u`](#e-u) · [`-uṁ`](#e-uṁ) · [`-ā`](#e-ā) · [`-ānaṁ`](#e-ānaṁ) · [`-āni`](#e-āni) · [`-āya`](#e-āya) · [`-āyaṁ`](#e-āyaṁ) · [`-āyo`](#e-āyo) · [`-ī`](#e-ī) · [`-ū`](#e-ū).
 
 ### Words that end in `…a`
 
@@ -1831,7 +1831,7 @@ a number | 5 | `pañca`, `cha`
 <a id="e-assa"></a>
 
 ```endings
--assa · 32.3 in every thousand words · see [2.2](../2-2-nouns/), [4.7](../4-7-genitive/)
+-assa · 32.3 in every thousand words · see [2.2](../2-2-nouns/), [4.7](../4-7-genitive/) · see also [`-issa`](#e-issa), [`-ino`](#e-ino)
 🚹⨀④ or ⑥ | 35 | `dhammassa`, `kāyassa`
 the pronouns `tassa`, `yassa`, `imassa` | 20 |
 🚻⨀④ or ⑥ | 20 | `cittassa`, `kammassa`
@@ -1841,7 +1841,7 @@ an adjective or a participle agreeing with its noun | 15 | `purejātassa`, `sama
 <a id="e-ena"></a>
 
 ```endings
--ena · 29.2 in every thousand words · see [4.4](../4-4-instrumental/)
+-ena · 29.2 in every thousand words · see [4.4](../4-4-instrumental/) · see also [`-inā`](#e-inā)
 🚹⨀③, "with", "by" | 45 | `samayena`, `kāyena`
 🚻⨀③ | 20 | `dassanena`, `cittena`
 the pronouns `tena`, `yena`, `kena` | 15 |
@@ -1883,27 +1883,50 @@ the adverbs `tattha`, `yattha`, `ettha`, `atha` | 80 |
 <a id="e-eyya"></a>
 
 ```endings
--eyya, -eyyuṁ, -eyyaṁ, -eyyātha · 6.1 in every thousand words · see [8.3](../8-3-commands/)
-⏯🤟⨀, "would", "should" | 60 | `vadeyya`, `kareyya`
-⏯🤟⨂ | 10 | `vadeyyuṁ`
-⏯👆⨀ `-eyyaṁ`, "I would …" | 10 | `pabbajeyyaṁ`, `deseyyaṁ`
-a participle in `-eyya`, "to be …" | 5 | `abhiññeyyaṁ`
-⏯🤘⨂ `-eyyātha` | 5 | `uddiseyyātha`
+-eyya, -eyyātha, -eyyāma · 4.2 in every thousand words · see [8.3](../8-3-commands/) · see also [`-eyyaṁ`](#e-eyyaṁ), [`-eyyāsi`](#e-eyyāsi), [`-etha`](#e-etha)
+⏯🤟⨀, "would", "should", "may" | 85 | `vadeyya`, `kareyya`
+⏯🤘⨂ `-eyyātha`, "you would …" | 5 | `uddiseyyātha`
+⏯👆⨂ `-eyyāma`, "we would …" | 5 | `labheyyāma`
+```
+
+<a id="e-ma"></a>
+
+```endings
+-ma · 3.9 in every thousand words · see [2.7](../2-7-nipata/), [8.2](../8-2-present/) · see also [`-mi`](#e-mi)
+the particle `nāma` ("namely", "called") | 25 |
+🚻⨀⓪, or the noun `nāma` ("name") | 20 | `samma`, `nāma`
+🚹⨀⓪ | 15 | `gotama`, `mahānāma`
+the pronoun `mama` ("my", "to me") | 15 |
+an absolutive in `-amma` | 10 | `āgamma`, `atikkamma`
+▶️ or ⏹ 👆⨂, "we …" | 5 | `gacchāma`, `jānāma`
+```
+
+<a id="e-issa"></a>
+
+```endings
+-issa, -ussa · 2.5 in every thousand words · see [2.2](../2-2-nouns/), [8.5](../8-5-future/) · see also [`-assa`](#e-assa), [`-ino`](#e-ino)
+🚹⨀④ or ⑥ of a lemma in `-i` or `-u` | 45 | `bhikkhussa`, `hetussa`
+the pronouns `kissa`, `amussa`, ⨀④ or ⑥ | 20 |
+an adjective agreeing with its noun | 10 | `anāgāmissa`
+🚻⨀④ or ⑥ | 5 | `vatthussa`, `cakkhussa`
+🔀 `abhavissa`, "would have been", with `a-` in front | rare |
 ```
 
 <a id="e-etha"></a>
 
 ```endings
--etha · 0.4 in every thousand words · see [8.3](../8-3-commands/), [8.6](../8-6-voice/)
+-etha · 0.4 in every thousand words · see [8.3](../8-3-commands/), [8.6](../8-6-voice/) · see also [`-eyya`](#e-eyya), [`-eyyaṁ`](#e-eyyaṁ), [`-eyyāsi`](#e-eyyāsi)
 ⏯🤘⨂, "you would …" | 60 | `labhetha`, `vadetha`); on a passive the `attanopada` ⏯🤟⨀ (`labbhetha`, `paññāyetha`
 ▶️ or ⏹ 🤘⨂, "you …" | 40 | `detha`, `dhāretha`
 ```
 
-<a id="e-ssa"></a>
+<a id="e-ssāma"></a>
 
 ```endings
--ssa, -ssaṁsu with a- in front · see [8.5](../8-5-future/)
-🔀, "would have …", a past that did not happen (`abhavissa`) | rare |
+-ssāma, -ssatha · 0.4 in every thousand words · see [8.5](../8-5-future/) · see also [`-ssati`](#e-ssati)
+⏭👆⨂, "we will …" | 55 | `bhavissāma`, `karissāma`
+`passāma`, `passatha` and their compounds, present | 20 |
+⏭🤘⨂, "you will …" | 15 | `karissatha`
 ```
 
 ### Words that end in `…ā`
@@ -1948,8 +1971,8 @@ an adjective agreeing with its noun | 30 | `adhipatiyā`
 <a id="e-tvā"></a>
 
 ```endings
--tvā, -tvāna · 11.2 in every thousand words · see [8.8](../8-8-verb-like-forms/)
-the absolutive, "having …", never changes | 100 | `sutvā`, `katvā`
+-tvā · 10.5 in every thousand words · see [8.8](../8-8-verb-like-forms/)
+the absolutive, "having …", never changes | 100 | `sutvā`, `katvā`, `viditvā`
 ```
 
 <a id="e-atā"></a>
@@ -1962,20 +1985,20 @@ a participle or an adjective in `-ata` with `-ā` | 45 | `abyākatā`, `sahagat�
 the adverbs `yāvatā`, `ettāvatā` | 5 |
 ```
 
-<a id="e-asā"></a>
+<a id="e-ntā"></a>
 
 ```endings
--asā, -aso, -asi · 3.5 in every thousand words · see [2.3](../2-3-irregular/), [8.2](../8-2-present/)
-③, ④⑥ and ⑦ of the `mano` group | 30 | `cetasā`, `manaso`, `manasi`
-▶️🤘⨀, "you …" | 20 | `maññasi`, `passasi`
-the adverbs in `-so` | 15 | `sabbaso`, `antamaso`
-⏭🤘⨀, "you will …" | 5 | `bhavissasi`
+-ntā · 3.1 in every thousand words · see [2.7](../2-7-nipata/), [8.8](../8-8-verb-like-forms/) · see also [`-nto`](#e-nto), [`-ntaṁ`](#e-ntaṁ), [`-nte`](#e-nte)
+the adverbs `āmantā`, `samantā` | 70 |
+a present participle ⨂① | 10 | `santā`, `kukkuccāyantā`
+an adjective or a participle agreeing with its noun | 10 | `mahantā`, `kantā`
+🚹⨂① of a lemma in `-anta` | 5 | `kammantā`
 ```
 
 <a id="e-asmā"></a>
 
 ```endings
--asmā, -amhā · 2.8 in every thousand words · see [2.3](../2-3-irregular/), [2.7](../2-7-nipata/), [4.1](../4-1-ablative/)
+-asmā, -amhā · 2.8 in every thousand words · see [2.3](../2-3-irregular/), [2.7](../2-7-nipata/), [4.1](../4-1-ablative/) · see also [`-ato`](#e-ato)
 `āyasmā`, the ⨀① of `āyasmant` ("the venerable") | 45 |
 the pronouns `tasmā`, `yasmā` ("therefore", "because") | 30 |
 ⨀⑤ of a lemma in `-a`, "from" | 15 | `agārasmā`, `lokamhā`
@@ -1985,11 +2008,36 @@ a sandhi join with `āyasmā` inside | 10 | `yenāyasmā`
 <a id="e-inā"></a>
 
 ```endings
--inā, -unā · 2 in every thousand words · see [2.2](../2-2-nouns/), [4.4](../4-4-instrumental/)
+-inā, -unā · 2 in every thousand words · see [2.2](../2-2-nouns/), [4.4](../4-4-instrumental/) · see also [`-ena`](#e-ena)
 🚹⨀③ | 50 | `bhikkhunā`, `brahmunā`
 🚻⨀③ | 15 | `cakkhunā`, `kammunā`
 the pronoun `iminā` | 15 |
 the particle `vinā` | 5 |
+```
+
+<a id="e-tabbā"></a>
+
+```endings
+-tabbā, -anīyā · 1.4 in every thousand words · see [8.8](../8-8-verb-like-forms/) · see also [`-tabbaṁ`](#e-tabbaṁ), [`-tabbo`](#e-tabbo)
+"to be …ed", "should be …", agreeing with a 🚺 noun in ① or a 🚹 noun in ⨂① | 95 | `sevitabbā`, `vattabbā`
+```
+
+<a id="e-asā"></a>
+
+```endings
+-asā · 1.2 in every thousand words · see [2.3](../2-3-irregular/) · see also [`-aso`](#e-aso), [`-asi`](#e-asi)
+⨀③ of the `mano` group, "with", "by" | 60 | `cetasā`, `manasā`
+an adjective in `-asa` agreeing with its noun | 15 | `ekarasā`
+↩️🤟⨀ `addasā`, "saw" | 10 |
+🚹⨂① of a lemma in `-asa` | 10 | `rasā`
+```
+
+<a id="e-mānā"></a>
+
+```endings
+-mānā · 0.6 in every thousand words · see [8.8](../8-8-verb-like-forms/) · see also [`-māno`](#e-māno), [`-māne`](#e-māne)
+a present participle ⨂① or 🚺⨀① on a passive or an `attanopada` verb | 90 | `saṁvijjamānā`, `uppajjamānā`
+an adjective agreeing with its noun | 5 | `samānā`
 ```
 
 ### Words that end in `…i`
@@ -1997,7 +2045,7 @@ the particle `vinā` | 5 |
 <a id="e-ti"></a>
 
 ```endings
--ti · 61.7 in every thousand words · see [8.2](../8-2-present/), [2.1](../2-1-sandhi/)
+-ti · 61.7 in every thousand words · see [8.2](../8-2-present/), [2.1](../2-1-sandhi/) · see also [`-nti`](#e-nti)
 ▶️🤟⨀, the present, "he, she, it …" | 70 | `hoti`, `uppajjati`
 a verb with `iti` joined on | 10 | `uppajjatīti`
 🚺⨀① of a `-ti` noun | 5 | `āpatti`, `jāti`
@@ -2018,10 +2066,21 @@ a number | 10 | `tīṇi`, `cattāri`
 <a id="e-nti"></a>
 
 ```endings
--nti · 14 in every thousand words · see [8.2](../8-2-present/), [2.1](../2-1-sandhi/)
+-nti · 14 in every thousand words · see [8.2](../8-2-present/), [2.1](../2-1-sandhi/) · see also [`-ti`](#e-ti)
 ▶️🤟⨂, "they …" | 80 | `honti`, `uppajjanti`
 a noun with `iti` joined on | 10 | `indriyanti`
 a participle with `iti` joined on | 5 | `avigatanti`
+```
+
+<a id="e-ehi"></a>
+
+```endings
+-ehi, -īhi, -ūhi, -āhi · 8.1 in every thousand words · see [4.4](../4-4-instrumental/), [4.1](../4-1-ablative/), [8.3](../8-3-commands/) · see also [`-ānaṁ`](#e-ānaṁ), [`-esu`](#e-esu)
+🚹⨂③ or ⑤ | 35 | `dhammehi`, `kāmehi`
+the pronouns `tehi`, `imehi` | 20 |
+🚻⨂③ or ⑤ | 20 | `aṅgehi`, `ṭhānehi`
+an adjective agreeing with its noun | 10 | `dibbehi`
+⏹🤘⨀, "you …!" | 5 | `dehi`, `jānāhi`
 ```
 
 <a id="e-āni"></a>
@@ -2033,37 +2092,15 @@ an adjective or a participle agreeing with its noun | 25 | `pantāni`, `pahīnā
 the pronouns `imāni`, `tāni` | 15 |
 ```
 
-<a id="e-mi"></a>
-
-```endings
--mi, -ma · 8.5 in every thousand words · see [8.2](../8-2-present/), [8.4](../8-4-past/)
-▶️ or ⏹ 👆⨀, "I …" | 40 | `vadāmi`, `anujānāmi`
-the particle and the noun `nāma` | 20 |
-⏮🤟⨀ of the `-kami`, `-gami` verbs | 10 | `upasaṅkami`, `upāgami`
-a ⓪ | 10 | `gotama`, `samma`
-the pronoun `mama` | 5 |
-an absolutive in `-amma` | 5 | `āgamma`, `atikkamma`
-```
-
-<a id="e-ehi"></a>
-
-```endings
--ehi, -īhi, -ūhi, -āhi · 8.1 in every thousand words · see [4.4](../4-4-instrumental/), [4.1](../4-1-ablative/), [8.3](../8-3-commands/)
-🚹⨂③ or ⑤ | 35 | `dhammehi`, `kāmehi`
-the pronouns `tehi`, `imehi` | 20 |
-🚻⨂③ or ⑤ | 20 | `aṅgehi`, `ṭhānehi`
-an adjective agreeing with its noun | 10 | `dibbehi`
-⏹🤘⨀, "you …!" | 5 | `dehi`, `jānāhi`
-```
-
 <a id="e-ssati"></a>
 
 ```endings
--ssati, -ssanti, -ssāmi, -ssāma · 7.1 in every thousand words · see [8.5](../8-5-future/)
-⏭🤟⨀, "will …" | 45 | `bhavissati`
-⏭🤟⨂ | 20 | `bhavissanti`
-`passati`, `passāmi` and their compounds, present | 20 |
-⏭👆⨀, "I will …" | 10 | `desessāmi`
+-ssati, -ssanti, -ssāmi · 6.7 in every thousand words · see [8.5](../8-5-future/) · see also [`-ssāma`](#e-ssāma)
+⏭🤟⨀, "will …" | 45 | `bhavissati`, `uppajjissati`
+⏭🤟⨂, "they will …" | 20 | `bhavissanti`
+`passati` and its compounds, present | 15 | `passati`, `samanupassati`
+⏭👆⨀, "I will …" | 10 | `desessāmi`, `bhavissāmi`
+`passāmi`, present | 5 |
 ```
 
 <a id="e-si"></a>
@@ -2075,16 +2112,40 @@ an adjective agreeing with its noun | 10 | `dibbehi`
 a sandhi join with `asi` ("you are") inside | 10 | `kallosi`
 ```
 
-<a id="e-īhi"></a>
+<a id="e-mi"></a>
 
 ```endings
--īhi, -ūhi; -īnaṁ, -ūnaṁ; -īsu, -ūsu · 4.6 in every thousand words · see [2.5](../2-5-numbers/), [2.2](../2-2-nouns/)
-the numbers `catūhi`, `tīhi`, `dvīhi` | 30 |
-🚹⨂④ or ⑥ | 20 | `bhikkhūnaṁ`
-🚺⨂④ or ⑥ | 10 | `itthīnaṁ`
-🚺⨂③ or ⑤ | 10 | `dhātūhi`
-🚹⨂③ or ⑤ | 10 | `bhikkhūhi`
-⨂⑦ | 5 | `bhūmīsu`
+-mi · 4.6 in every thousand words · see [8.2](../8-2-present/), [8.3](../8-3-commands/) · see also [`-ma`](#e-ma)
+▶️ or ⏹ 👆⨀, "I …", the vowel before it long | 70 | `vadāmi`, `anujānāmi`
+⏮🤟⨀ of the `-kami`, `-gami` verbs | 20 | `upasaṅkami`, `upāgami`
+a sandhi join with `asmi` ("I am") inside | 5 | `esohamasmi`
+```
+
+<a id="e-asi"></a>
+
+```endings
+-asi · 1.2 in every thousand words · see [8.2](../8-2-present/), [2.3](../2-3-irregular/) · see also [`-asā`](#e-asā), [`-aso`](#e-aso)
+▶️🤘⨀, "you …" | 50 | `maññasi`, `passasi`
+⨀⑦ of the `mano` group | 25 | `manasi`, `sirasi`
+⏭🤘⨀, "you will …" | 20 | `bhavissasi`, `karissasi`
+```
+
+<a id="e-amhi"></a>
+
+```endings
+-amhi · 0.6 in every thousand words · see [2.2](../2-2-nouns/), [4.3](../4-3-locative/) · see also [`-asmiṁ`](#e-asmiṁ)
+🚹⨀⑦, "in", "at" | 30 | `saggamhi`, `kappamhi`
+the pronouns `tamhi`, `imamhi`, ⨀⑦ | 25 |
+🚻⨀⑦ | 20 | `kappasatasahassamhi`
+an adjective or a participle agreeing with its noun | 15 | `paramhi`, `anāgatamhi`
+```
+
+<a id="e-eyyāsi"></a>
+
+```endings
+-eyyāsi, -eyyāmi · 0.2 in every thousand words · see [8.3](../8-3-commands/) · see also [`-eyya`](#e-eyya), [`-eyyaṁ`](#e-eyyaṁ), [`-etha`](#e-etha)
+⏯🤘⨀ `-eyyāsi`, "you would …" | 95 | `jāneyyāsi`, `bhāveyyāsi`
+⏯👆⨀ `-eyyāmi`, "I would …" | 5 |
 ```
 
 ### Words that end in `…ī`
@@ -2112,6 +2173,17 @@ the particles `nu`, `nanu` | 20 |
 a sandhi join with `assu` inside | 5 | `kudāssu`
 ```
 
+<a id="e-esu"></a>
+
+```endings
+-esu, -īsu, -ūsu, -āsu · 4.3 in every thousand words · see [4.3](../4-3-locative/) · see also [`-ehi`](#e-ehi), [`-ānaṁ`](#e-ānaṁ)
+🚹⨂⑦, "in", "among" | 45 | `dhammesu`, `kāmesu`
+🚻⨂⑦ | 20 | `indriyesu`, `sikkhāpadesu`
+an adjective or a participle agreeing with its noun | 15 | `aṇumattesu`, `sattesu`
+🚺⨂⑦ | 10 | `vedanāsu`
+the pronouns `tesu`, `imesu` | 5 |
+```
+
 <a id="e-tu"></a>
 
 ```endings
@@ -2122,21 +2194,10 @@ the noun `hetu` ("cause"), on its own and in `-hetu` ("because of") | 45 |
 ⏹🤟⨂, "let them …" | 10 | `hontu`
 ```
 
-<a id="e-esu"></a>
-
-```endings
--esu, -īsu, -ūsu, -āsu · 4.3 in every thousand words · see [4.3](../4-3-locative/)
-🚹⨂⑦, "in", "among" | 45 | `dhammesu`, `kāmesu`
-🚻⨂⑦ | 20 | `indriyesu`, `sikkhāpadesu`
-an adjective or a participle agreeing with its noun | 15 | `aṇumattesu`, `sattesu`
-🚺⨂⑦ | 10 | `vedanāsu`
-the pronouns `tesu`, `imesu` | 5 |
-```
-
 <a id="e-iṁsu"></a>
 
 ```endings
--iṁsu · 0.8 in every thousand words · see [8.4](../8-4-past/)
+-iṁsu · 0.8 in every thousand words · see [8.4](../8-4-past/) · see also [`-uṁ`](#e-uṁ)
 ⏮🤟⨂, the past, "they …" | 95 | `nisīdiṁsu`, `vimucciṁsu`
 ```
 
@@ -2189,6 +2250,23 @@ an adjective agreeing with its noun | 20 | `sahajāte`
 the `attanopada` ▶️🤟⨀ | 5 | `labhate`, `vuccate`
 ```
 
+<a id="e-nte"></a>
+
+```endings
+-nte · 4 in every thousand words · see [2.3](../2-3-irregular/), [8.8](../8-8-verb-like-forms/) · see also [`-nto`](#e-nto), [`-ntā`](#e-ntā), [`-ntaṁ`](#e-ntaṁ)
+`bhante`, the ⓪, "venerable sir" | 85 |
+a present participle ⨀⑦ or ⨂② | 5 | `karonte`, `viharante`
+⨀⑦ or ⨂② of an `-ant` word | 5 | `āyasmante`, `ante`
+```
+
+<a id="e-māne"></a>
+
+```endings
+-māne · 0.3 in every thousand words · see [8.8](../8-8-verb-like-forms/) · see also [`-māno`](#e-māno), [`-mānā`](#e-mānā)
+a present participle ⨀⑦ or ⨂② on a passive or an `attanopada` verb | 90 | `bhaññamāne`, `upapajjamāne`
+🚻⨀⑦ of a lemma in `-māna` | 10 | `vimāne`
+```
+
 ### Words that end in `…o`
 
 <a id="e-o"></a>
@@ -2201,36 +2279,16 @@ a particle | 15 | `kho`, `āvuso`, `no`
 the pronouns `so`, `yo`, `ko` | 10 |
 ```
 
-<a id="e-nto"></a>
-
-```endings
--nto, -ntā, -ntaṁ, -nte · 14.3 in every thousand words · see [2.3](../2-3-irregular/), [8.8](../8-8-verb-like-forms/)
-`bhante`, the ⓪ | 25 |
-the adverbs `ekamantaṁ`, `āmantā`, `samantā` | 25 |
-a present participle | 15 | `santo`, `passanto`
-⨀② of an `-ant` word | 15 | `bhagavantaṁ`, `āyasmantaṁ`
-an adjective or a participle agreeing with its noun | 10 | `mahantaṁ`, `nikkhanto`
-```
-
 <a id="e-ato"></a>
 
 ```endings
--ato, -to · 13.4 in every thousand words · see [2.3](../2-3-irregular/), [4.1](../4-1-ablative/)
+-ato, -to · 13.4 in every thousand words · see [2.3](../2-3-irregular/), [4.1](../4-1-ablative/) · see also [`-asmā`](#e-asmā)
 a participle or an adjective in `-ata` with the plain `-o` | 35 | `samannāgato`, `sato`
 ⨀④ or ⑥ of an `-ant` word | 15 | `bhagavato`, `āyasmato`
 the pronouns `tato`, `yato`, "from that" | 15 |
 ⨀⑤, "from", "as" | 10 | `aniccato`, `dukkhato`
 ④ or ⑥ of a present participle | 10 | `viharato`, `passato`
 🚹⨀① of a lemma in `-ata` | 5 | `tathāgato`
-```
-
-<a id="e-ino"></a>
-
-```endings
--ino, -uno, -issa, -ussa · 5.4 in every thousand words · see [2.2](../2-2-nouns/)
-🚹⨀④ or ⑥ | 45 | `bhikkhuno`, `bhikkhussa`
-an `-ī` adjective, ⨀④ or ⑥, or ⨂① | 35 | `ātāpino`, `sukhino`
-the pronouns `kissa`, `amussa` | 5 |
 ```
 
 <a id="e-āyo"></a>
@@ -2242,12 +2300,48 @@ the pronouns `kissa`, `amussa` | 5 |
 an adjective or an ordinal with the plain `-o` | 15 | `tatiyo`, `lokiyo`
 ```
 
+<a id="e-nto"></a>
+
+```endings
+-nto · 3.1 in every thousand words · see [8.8](../8-8-verb-like-forms/), [2.3](../2-3-irregular/) · see also [`-ntā`](#e-ntā), [`-ntaṁ`](#e-ntaṁ), [`-nte`](#e-nte)
+a present participle 🚹⨀①, "…ing" | 60 | `passanto`, `santo`
+a lemma in `-anta` with the plain `-o` | 15 | `anto`, `nikkhanto`
+⨀① or ⨂① of an `-ant` word | 10 | `arahanto`, `āyasmanto`
+an adjective agreeing with its noun | 10 | `piṇḍapātapaṭikkanto`
+```
+
+<a id="e-ino"></a>
+
+```endings
+-ino, -uno · 2.9 in every thousand words · see [2.2](../2-2-nouns/) · see also [`-assa`](#e-assa), [`-issa`](#e-issa)
+🚹⨀④ or ⑥ of a lemma in `-i` or `-u` | 40 | `bhikkhuno`, `satthuno`
+an `-ī` adjective, ⨀④ or ⑥ | 35 | `evaṁvādino`, `tādino`
+an `-ī` adjective, ⨂①, "those who have …" | 15 | `arūpino`, `sukhino`
+```
+
+<a id="e-tabbo"></a>
+
+```endings
+-tabbo, -anīyo · 1.9 in every thousand words · see [8.8](../8-8-verb-like-forms/) · see also [`-tabbaṁ`](#e-tabbaṁ), [`-tabbā`](#e-tabbā)
+"to be …ed", "should be …", agreeing with a 🚹 noun in ① | 95 | `pahātabbo`, `vattabbo`
+```
+
 <a id="e-māno"></a>
 
 ```endings
--māno, -mānā, -māne · 2.6 in every thousand words · see [8.8](../8-8-verb-like-forms/)
-a present participle on a passive or an `attanopada` verb | 85 | `vadamāno`, `bhaññamāne`
-`samāno`, "being" | 10 |
+-māno · 1.6 in every thousand words · see [8.8](../8-8-verb-like-forms/) · see also [`-mānā`](#e-mānā), [`-māne`](#e-māne)
+a present participle 🚹⨀① on a passive or an `attanopada` verb | 85 | `vadamāno`, `samāno`
+`samāno`, "being", as an adjective | 15 |
+```
+
+<a id="e-aso"></a>
+
+```endings
+-aso · 1 in every thousand words · see [2.7](../2-7-nipata/), [2.3](../2-3-irregular/) · see also [`-asā`](#e-asā), [`-asi`](#e-asi)
+the adverbs in `-so` | 40 | `sabbaso`, `antamaso`
+⨀④ or ⑥ of the `mano` group | 20 | `cetaso`, `manaso`
+an adjective in `-asa` agreeing with its noun | 20 | `mahāyaso`
+🚹⨀① of a lemma in `-asa` | 15 | `yaso`, `divaso`
 ```
 
 ### Words that end in `…ṁ`
@@ -2279,7 +2373,7 @@ flowchart TD
 <a id="e-ānaṁ"></a>
 
 ```endings
--ānaṁ, -īnaṁ, -ūnaṁ · 20.9 in every thousand words · see [2.2](../2-2-nouns/), [4.7](../4-7-genitive/)
+-ānaṁ, -īnaṁ, -ūnaṁ · 20.9 in every thousand words · see [2.2](../2-2-nouns/), [4.7](../4-7-genitive/) · see also [`-ehi`](#e-ehi), [`-esu`](#e-esu)
 🚹⨂④ or ⑥ | 30 | `khandhānaṁ`, `devānaṁ`
 an adjective or a participle agreeing with its noun | 30 | `sampayuttakānaṁ`, `upapajjantānaṁ`
 🚻⨀① or ② of a lemma in `-āna` | 15 | `jhānaṁ`, `nibbānaṁ`
@@ -2308,29 +2402,40 @@ the ordinals `dutiyaṁ`, `tatiyaṁ` | 10 |
 🚺⨀② of a lemma in `-iyā` | 5 | `anagāriyaṁ`
 ```
 
-<a id="e-tabbaṁ"></a>
+<a id="e-ntaṁ"></a>
 
 ```endings
--tabbaṁ, -tabbo, -tabbā; -anīyaṁ · 6.8 in every thousand words · see [8.8](../8-8-verb-like-forms/)
-"to be …ed", "should be …", agreeing with its noun | 95 | `pahātabbaṁ`, `sevitabbā`, `karaṇīyaṁ`
+-ntaṁ · 4.1 in every thousand words · see [2.3](../2-3-irregular/), [8.8](../8-8-verb-like-forms/) · see also [`-nto`](#e-nto), [`-ntā`](#e-ntā), [`-nte`](#e-nte)
+⨀② of an `-ant` word | 45 | `bhagavantaṁ`, `āyasmantaṁ`
+the adverbs `ekamantaṁ`, `yathābhirantaṁ` | 25 |
+a present participle ⨀② | 15 | `viharantaṁ`, `santaṁ`
+an adjective agreeing with its noun | 10 | `mahantaṁ`, `sabbāvantaṁ`
 ```
 
 <a id="e-uṁ"></a>
 
 ```endings
--uṁ · 3.8 in every thousand words · see [8.4](../8-4-past/), [2.2](../2-2-nouns/)
+-uṁ · 3.8 in every thousand words · see [8.4](../8-4-past/), [2.2](../2-2-nouns/) · see also [`-iṁsu`](#e-iṁsu)
 ⏮🤟⨂, the past, "they …" | 35 | `ārocesuṁ`, `ahesuṁ`
 🚻⨀① or ② of a lemma in `-u` | 25 | `vatthuṁ`, `cakkhuṁ`
 🚹⨀② of a lemma in `-u` | 25 | `bhikkhuṁ`, `garuṁ`
 an adjective agreeing with its noun | 5 | `bahuṁ`
 ```
 
+<a id="e-tabbaṁ"></a>
+
+```endings
+-tabbaṁ, -anīyaṁ · 3.4 in every thousand words · see [8.8](../8-8-verb-like-forms/) · see also [`-tabbo`](#e-tabbo), [`-tabbā`](#e-tabbā)
+"to be …ed", "should be …", agreeing with a 🚻 noun in ① or ② or a 🚹 noun in ② | 90 | `pahātabbaṁ`, `karaṇīyaṁ`
+🚻⨀① or ② of a noun in `-anīya` | 10 | `bhojanīyaṁ`
+```
+
 <a id="e-asmiṁ"></a>
 
 ```endings
--asmiṁ, -amhi · 3.4 in every thousand words · see [2.4](../2-4-pronouns/), [4.3](../4-3-locative/)
-the pronouns `tasmiṁ`, `yasmiṁ`, `imasmiṁ`, ⨀⑦ | 65 |
-🚹⨀⑦, "in" | 15 | `lokasmiṁ`, `kāyasmiṁ`
+-asmiṁ · 2.8 in every thousand words · see [2.4](../2-4-pronouns/), [4.3](../4-3-locative/) · see also [`-amhi`](#e-amhi)
+the pronouns `tasmiṁ`, `yasmiṁ`, `imasmiṁ`, ⨀⑦ | 75 |
+🚹⨀⑦, "in", "at" | 15 | `lokasmiṁ`, `kāyasmiṁ`
 🚻⨀⑦ | 10 | `rūpasmiṁ`, `viññāṇasmiṁ`
 ```
 
@@ -2341,6 +2446,16 @@ the pronouns `tasmiṁ`, `yasmiṁ`, `imasmiṁ`, ⨀⑦ | 65 |
 the infinitive, "to …", never changes | 65 | `kātuṁ`, `pahātuṁ`
 ⨀② of a lemma in `-u` | 30 | `hetuṁ`, `dhātuṁ`
 the adverbs in `-kkhattuṁ`, "… times" | 5 | `tikkhattuṁ`
+```
+
+<a id="e-eyyaṁ"></a>
+
+```endings
+-eyyaṁ, -eyyuṁ · 1.7 in every thousand words · see [8.3](../8-3-commands/) · see also [`-eyya`](#e-eyya), [`-eyyāsi`](#e-eyyāsi), [`-etha`](#e-etha)
+⏯🤟⨂ `-eyyuṁ`, "they would …" | 35 | `vadeyyuṁ`, `uppajjeyyuṁ`
+⏯👆⨀ `-eyyaṁ`, "I would …" | 30 | `pabbajeyyaṁ`, `pajāneyyaṁ`
+a participle in `-eyya` agreeing with its noun, "to be …" | 25 | `abhiññeyyaṁ`, `viññeyyaṁ`
+🚻⨀① or ② of a noun in `-eyya` | 10 | `sāṭheyyaṁ`
 ```
 
 ### Two shapes inside a word
