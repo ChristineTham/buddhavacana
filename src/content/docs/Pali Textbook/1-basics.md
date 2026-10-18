@@ -2489,8 +2489,8 @@ identifying the form of the `vibhatti` ending yields:
 
 :::note
 The notation used here is inspired by functional programming conventions.
-In mathematics, we refer to \\(f(x)\\) as the function \\(f\\) applying on the
-variable \\(x\\), so 🚹⨀②(`x`) means all words in `x` are in the 2nd
+In mathematics, we refer to `f(x)` as the function `f` applying on the
+variable `x`, so 🚹⨀②(`x`) means all words in `x` are in the 2nd
 case, singular (`ekavacana`) and `pulliṅga` in gender.
 Similarly, 🟢⨀🤟▶️(`y`) means all
 words in `y` are present indicative (`vattamāna`) active (`parassapada`) verbs
