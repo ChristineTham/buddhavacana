@@ -1,8 +1,8 @@
 ---
-title: "2.6: `saṅkhyā` (Numbers)"
+title: "2.5: `saṅkhyā` (Numbers)"
 sidebar:
-  label: "2.6: `saṅkhyā`"
-  order: 519
+  label: "2.5: `saṅkhyā`"
+  order: 518
 description: >
   How to recognise a number and its ending: `dve`, `tayo`, `cattāri`, `pañca`
   and the `-nnaṁ`, `-hi`, `-su` they carry {67}, {87}, {89}, {90},
@@ -26,7 +26,7 @@ sentence ([chapter 4](../4-0-karaka/)). But the shape you meet (`dve`,
 two questions: which number is it, and what ending is it carrying?
 
 `eka` ("one") is singular and takes a pronoun's endings in the gender of its
-noun, `ekaṁ samayaṁ` ([5: 1.1](../5-dhammacakka/#u1-1)), `ekā saññā` ([Bonus: 17, 7.5](../11-pbt/#s17-u7-5)) ([2.5](../2-5-pronouns/),
+noun, `ekaṁ samayaṁ` ([5: 1.1](../5-dhammacakka/#u1-1)), `ekā saññā` ([Bonus: 17, 7.5](../11-pbt/#s17-u7-5)) ([2.4](../2-4-pronouns/),
 [Appendix L](../l-sabbanama/)). `dvi` ("two") to `aṭṭhārasa` ("eighteen")
 are plural only, and from `pañca` ("five") on they have one set of forms for
 all three genders (⚧). From `vīsati` ("twenty") upwards a number is a
@@ -65,7 +65,7 @@ same endings as `pañca`; nineteen is `ekūnavīsati`, "twenty less one" {327}.
 | 10,000, 100,000 | `dasasahassaṁ`, `satasahassaṁ` | 🚻⨀ | {394} |
 
 These are nouns, `vīsati` with the feminine endings of
-[2.3](../2-3-vowel-lemmas/) (`vīsatiyā`, "of twenty"), `sataṁ` with those of
+[2.2](../2-2-nouns/) (`vīsatiyā`, "of twenty"), `sataṁ` with those of
 `citta`; in the texts they sit inside names, `tāvatiṁsā devā`
 ("the Thirty-three gods", [5: 12.3](../5-dhammacakka/#u12-3)), `dasasahassilokadhātu` ([5: 13.2](../5-dhammacakka/#u13-2)), or count a crowd,
 `bhikkhusahassena` ("with a thousand bhikkhū", [9: 1.1](../9-fire/#u1-1)). How they are made is the

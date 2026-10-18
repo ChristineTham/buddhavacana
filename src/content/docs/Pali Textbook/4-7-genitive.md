@@ -141,5 +141,5 @@ delighted / those / bhikkhū / of the Bhagavā / what was spoken / rejoiced in
 *Those bhikkhū, delighted, rejoiced in the Bhagavā’s words.*
 
 `bhagavato`: the owner of the words, ⑥ {301}, the `-ato` of `bhagavant`
-(section [2.4](../2-4-irregular/)); `bhāsitaṁ`, the thing owned, keeps its own
+(section [2.3](../2-3-irregular/)); `bhāsitaṁ`, the thing owned, keeps its own
 ending, ② as the object.

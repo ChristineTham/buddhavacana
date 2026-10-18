@@ -1,8 +1,8 @@
 ---
-title: "2.5: `sabbanāma` (Pronouns and their relatives)"
+title: "2.4: `sabbanāma` (Pronouns and their relatives)"
 sidebar:
-  label: "2.5: `sabbanāma`"
-  order: 518
+  label: "2.4: `sabbanāma`"
+  order: 517
 description: >
   `so`, `sā`, `taṁ`, `ayaṁ`, `idaṁ`, `yo`, `ko`, `sabbe`, `ahaṁ`, `tvaṁ`: the
   pronouns, the endings only they take {161}–{177}, the pair `yo … so`, and
@@ -114,7 +114,7 @@ inflections {247}; the word made never changes.
 | how: `-thā`, `-thaṁ` | `tathā` so, thus {398} | `yathā` as, like {398} | `kathaṁ` how? {399} | `itthaṁ` in this way {399} |
 
 `evaṁ` (thus) and the pair `yāva … tāva` (as long as … so long: `tāvāhaṁ`,
-[5: 9.1](../5-dhammacakka/#u9-1)) are particles, not made by these rules; [2.8](../2-8-nipata/) lists
+[5: 9.1](../5-dhammacakka/#u9-1)) are particles, not made by these rules; [2.7](../2-7-nipata/) lists
 them with the rule that drops their endings {221}.
 
 ### Examples

@@ -1,8 +1,8 @@
 ---
-title: "2.7: `upasagga` (Prefixes)"
+title: "2.6: `upasagga` (Prefixes)"
 sidebar:
-  label: "2.7: `upasagga`"
-  order: 520
+  label: "2.6: `upasagga`"
+  order: 519
 description: >
   The twenty prefixes, what each adds to a root's meaning, their shapes at the
   join (`sam`, `saṅ`, a doubled consonant, `abbh`, `ajjh`, `pacc`, `paṭi`, `o`)

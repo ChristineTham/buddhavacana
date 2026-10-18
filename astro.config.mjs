@@ -11,6 +11,15 @@ import kaccayanaLinks from "./src/plugins/remark-kaccayana-links.mjs";
 export default defineConfig({
   site: "https://christham.net",
   base: "/buddhavacana/",
+  // the chapter 2 sections of the Pāḷi textbook were renumbered on 2026-10-18 (2.2–2.4 merged into 2.2 and 2.3)
+  redirects: {
+    "/pali-textbook/2-3-vowel-lemmas": "/buddhavacana/pali-textbook/2-2-nouns/",
+    "/pali-textbook/2-4-irregular": "/buddhavacana/pali-textbook/2-3-irregular/",
+    "/pali-textbook/2-5-pronouns": "/buddhavacana/pali-textbook/2-4-pronouns/",
+    "/pali-textbook/2-6-numbers": "/buddhavacana/pali-textbook/2-5-numbers/",
+    "/pali-textbook/2-7-upasagga": "/buddhavacana/pali-textbook/2-6-upasagga/",
+    "/pali-textbook/2-8-nipata": "/buddhavacana/pali-textbook/2-7-nipata/",
+  },
   markdown: {
     // `{344}` in the Pāḷi Textbook links to Kaccāyana §344 on kaccayana.github.io
     processor: satteri({ mdastPlugins: [kaccayanaLinks()] }),

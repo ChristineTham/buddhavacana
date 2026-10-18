@@ -47,7 +47,7 @@ it: `gato`, `buddho` {557}. It agrees with its noun, `paṭipadā … abhisambud
 
 | what you see | example | rule |
 | --- | --- | :-: |
-| `-nto`, `-aṁ` ①, `-to` ④ ⑥: the endings of `bhagavā` ([2.4](../2-4-irregular/)) | `gacchanto` (walking), `icchaṁ` (wanting), `passaṁ` (seeing, [9: 8.1](../9-fire/#u8-1)), `jānato` (for one knowing) | {565}, {186}, {187}, {127} |
+| `-nto`, `-aṁ` ①, `-to` ④ ⑥: the endings of `bhagavā` ([2.3](../2-3-irregular/)) | `gacchanto` (walking), `icchaṁ` (wanting), `passaṁ` (seeing, [9: 8.1](../9-fire/#u8-1)), `jānato` (for one knowing) | {565}, {186}, {187}, {127} |
 | `-māno`, `-māne`; on a passive ([8.6](../8-6-voice/)), "being X-ed" | `bhaññamāne` (being spoken), `pariyesamāno` (searching for) | {565} |
 
 At the same time as the main verb: `gacchanto … pajānāti`, "while walking, he

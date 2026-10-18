@@ -1,8 +1,8 @@
 ---
-title: "2.4: Lemmas with their own shapes"
+title: "2.3: Irregular inflections"
 sidebar:
-  label: "2.4: Own shapes"
-  order: 517
+  label: "2.3: Irregular inflections"
+  order: 516
 description: >
   The common nouns that do not follow `purisa`: `rājā`, `attā`, `brahmā`,
   `satthā`, `pitā`, `mātā`, `bhagavā`, `āyasmā`, `arahaṁ`, the participles in
@@ -16,7 +16,7 @@ tags: ["nāma", "vibhatti"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-Most nouns follow [2.2](../2-2-nouns/) and [2.3](../2-3-vowel-lemmas/). A few
+Most nouns follow [2.2](../2-2-nouns/). A few
 dozen very common words do not. Their endings do the same jobs; what differs
 is the shape, and the lemma never shows itself: no text has `rāja`, only
 `rājā`, `rañño`.

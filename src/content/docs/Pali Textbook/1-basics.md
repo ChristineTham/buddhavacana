@@ -608,7 +608,7 @@ In plural:
 ### *️⃣ `sabbanāma` (pronouns)
 
 :::tip[Going deeper]
-Section [2.5](../2-5-pronouns/) tables the pronouns and the adverbs made from them.
+Section [2.4](../2-4-pronouns/) tables the pronouns and the adverbs made from them.
 :::
 
 `sabba` means "all" so `sabbanāma` are "common" or "generic" nouns that can
@@ -636,7 +636,7 @@ Examples:
 ## ⏏️ `nipāta` (particles)
 
 :::tip[Going deeper]
-Section [2.8](../2-8-nipata/) groups the particles by what they do, with an example of each from the texts.
+Section [2.7](../2-7-nipata/) groups the particles by what they do, with an example of each from the texts.
 :::
 
 `nipāta` means "to fall. i.e. to be placed anywhere", and refer to words
@@ -712,7 +712,7 @@ However, there are quite a few `nipāta` that can be placed before some verbs or
 ## 🔼 `upasagga` (prefixes)
 
 :::tip[Going deeper]
-Section [2.7](../2-7-upasagga/) lists the twenty prefixes with what they do to a word and how they change at the join.
+Section [2.6](../2-6-upasagga/) lists the twenty prefixes with what they do to a word and how they change at the join.
 :::
 
 There are 20 `upasagga` which are usually applied as prefixes to
@@ -1768,6 +1768,97 @@ Another example {11}
 This introduction will not go into detail on these rules but the reader should
 be aware that endings and beginning letters in words may change in a sentence.
 Eventually, as reading proficiency increases, these changes will become easier to recognise.
+
+## Recognising a word: the endings at a glance
+
+Everything above comes down to one habit when a sentence is in front of you:
+look at the end of each word, decide what kind of word it is, and read the
+ending. The chart gives the kinds, and the two tables that follow give the
+endings a reader meets most, in the order of how often they occur, so that the
+common ones come first. The tables are the whole book in miniature: each row
+names the section that explains it.
+
+```mermaid
+flowchart LR
+  W["a word in a sentence"] --> A["abyaya: never changes"]
+  W --> N["nāma: carries a noun ending ①…⑦ ⓪, ⨀ or ⨂"]
+  W --> V["ākhyāta: carries a verb ending (chapter 8)"]
+  A --> A1["upasagga: a prefix (2.6)"]
+  A --> A2["nipāta: a particle (2.7)"]
+  A --> A3["an absolutive -tvā or an infinitive -tuṁ (8.8)"]
+  N --> N1["a noun or an adjective (2.2, 2.3)"]
+  N --> N2["sabbanāma: a pronoun (2.4)"]
+  N --> N3["saṅkhyā: a number (2.5)"]
+  N --> N4["samāsa: a compound (chapter 6)"]
+  N --> N5["taddhita, kita, uṇādi: a derived word (chapter 10)"]
+  N --> N6["a participle -ta, -anta, -māna, -tabba (8.8)"]
+```
+
+A compound, a derived word and a participle all end as a noun does, so the
+noun table reads them too; a prefix sits at the front of a noun or a verb and
+changes nothing at the end. The frequencies are counts of the words that end
+in each shape in the whole Tipiṭaka (the Chaṭṭha Saṅgāyana text, 2.8 million
+words), per thousand words; they count letters, not analyses, so `-aṁ`
+includes `evaṁ` and `-ti` includes `iti`, which is also what the eye meets.
+
+### Noun endings
+
+| what you see | ‰ | it reads as | in the texts | where |
+| --- | --: | --- | --- | :-: |
+| `-aṁ` | 145 | 🚹⨀② of a lemma in `-a`; 🚻⨀① or ② of a lemma in `-a`; 🚺⨀② of a lemma in `-ā`; also many particles and adverbs (`evaṁ`, `ekaṁ samayaṁ`) | `dhammaṁ`, `rūpaṁ`, `taṇhaṁ` | [2.2](../2-2-nouns/) |
+| `-o` | 110 | 🚹⨀① of a lemma in `-a`; the `mano` group ① (`mano`, `tejo`); particles `kho`, `no` | `puriso`, `dhammo` | [2.2](../2-2-nouns/), [2.3](../2-3-irregular/) |
+| `-ā` | 94 | 🚹⨂① of a lemma in `-a`; 🚹⨀⑤ of a lemma in `-a`; 🚺⨀① and ⨂①② of a lemma in `-ā`; ① of `bhagavā`, `rājā`, `satthā`, `attā` | `dhammā`, `avijjāpaccayā`, `taṇhā`, `bhagavā` | [2.2](../2-2-nouns/), [2.3](../2-3-irregular/) |
+| `-a` | 72 | a particle or a prefix (`pana`, `atha`, `paṭicca`); the first member of a compound; the ⓪ of a lemma in `-a` | `pana`, `atha`, `paṭicca` | [2.7](../2-7-nipata/), [2.6](../2-6-upasagga/) |
+| `-e` | 49 | 🚹⨀⑦ or ⨂② of a lemma in `-a`; 🚺⨀⓪ of a lemma in `-ā`; the ⨂① of the pronouns (`te`, `ime`, `ye`); the ⓪⨂ `-ave` of `bhikkhu` | `loke`, `ante`, `bhikkhave` | [2.2](../2-2-nouns/), [2.4](../2-4-pronouns/) |
+| `-assa` | 25 | ⨀④ or ⑥ of a lemma in `-a`, and of the pronouns (`tassa`, `imassa`) | `dhammassa`, `cittassa` | [2.2](../2-2-nouns/) |
+| `-i` | 25 | ⨀① or ⓪ of a lemma in `-i` (`jāti`, `aggi`, `aṭṭhi`); the ① of the `-ti` nouns (`sati`); numbers (`tīṇi`); `iti` | `jāti`, `sati` | [2.2](../2-2-nouns/) |
+| `-ena` | 25 | ⨀③ of a lemma in `-a`, "with", "by" | `samayena`, `tathāgatena` | [2.2](../2-2-nouns/) |
+| `-ānaṁ` | 18 | ⨂④ or ⑥ of a lemma in `-a` or `-ā` | `khandhānaṁ`, `devānaṁ` | [2.2](../2-2-nouns/) |
+| `-āya` | 17 | 🚺⨀③ to ⑦ of a lemma in `-ā`, one shape for five jobs; ⨀④ of a lemma in `-a` ("to", "for") | `vedanāya`, `taṇhāya`, `upasamāya` | [2.2](../2-2-nouns/) |
+| `-ī` | 14 | ⨂① or ② of a lemma in `-i` or `-ī`; 🚺⨀① of a lemma in `-ī` (`nadī`, `bhikkhunī`); the `-ī` adjectives, "one who has …" (`ātāpī`) | `aggī`, `nadī`, `ātāpī` | [2.2](../2-2-nouns/) |
+| `-ato`, `-to` | 11 | ⨀④ or ⑥ of the `-ant` words (`bhagavato`, `jānato`); the adverbs in `-to`, "from" (`ito`, `tato`); otherwise a plain `-o` on a lemma in `-ata` (`tathāgato`) | `bhagavato`, `tathāgato` | [2.3](../2-3-irregular/) |
+| `-iṁ` | 11 | ⨀② of a lemma in `-i` or `-ī`; the ⑦ `-smiṁ` of the pronouns (`tasmiṁ`, `imasmiṁ`); the particle `saddhiṁ` | `sammāsambodhiṁ`, `tasmiṁ` | [2.2](../2-2-nouns/), [2.4](../2-4-pronouns/) |
+| `-ehi`, `-īhi`, `-ūhi`, `-āhi` | 9 | ⨂③ or ⑤, "with", "by", "from" | `dhammehi`, `āsavehi`, `bahūhi` | [2.2](../2-2-nouns/) |
+| `-iyaṁ`, `-āyaṁ` | 9 | 🚺⨀⑦ of a lemma in `-i`, `-ī` or `-ā`; the ordinals `dutiyaṁ`, `tatiyaṁ` | `sāvatthiyaṁ`, `gayāyaṁ` | [2.2](../2-2-nouns/) |
+| `-u` | 8 | ⨀① or ⓪ of a lemma in `-u` (`bhikkhu`, `cakkhu`); particles (`nanu`, `sādhu`) | `bhikkhu`, `cakkhu` | [2.2](../2-2-nouns/) |
+| `-iyā`, `-uyā` | 10 | 🚺⨀③ to ⑦ of a lemma in `-i`, `-ī` or `-u`, one shape for five jobs | `rattiyā`, `jātiyā`, `dhātuyā` | [2.2](../2-2-nouns/) |
+| `-āni`, `-īni`, `-ūni` | 8 | 🚻⨂① or ② | `cittāni`, `vassāni`, `imāni` | [2.2](../2-2-nouns/) |
+| `-atā` | 6 | ⨀③ of the `-ant` words; the abstract nouns in `-tā` (`dhammatā`); ⨂① of a participle in `-ata` (`abyākatā`) | `bhagavatā`, `dhammatā` | [2.3](../2-3-irregular/), [10.4](../10-4-bhava/) |
+| `-ntaṁ`, `-nte`, `-nto`, `-ntā` | 14 | the `-ant` words and the present participles: ⨀② `bhagavantaṁ`, ① `arahanto`, `santo`, ⨂① `arahantā`; the ⓪ `bhante`; ⑦ `sante` | `bhagavantaṁ`, `bhante`, `arahanto` | [2.3](../2-3-irregular/), [8.8](../8-8-verb-like-forms/) |
+| `-ū`, `-uṁ` | 8 | ⨂① or ② of a lemma in `-u` (`bhikkhū`); ⨀② of a lemma in `-u` (`bhikkhuṁ`, `cakkhuṁ`); 🚺⨀① of a lemma in `-ū` | `bhikkhū`, `bhikkhuṁ` | [2.2](../2-2-nouns/) |
+| `-iyo`, `-āyo` | 5 | 🚺⨂① or ② of a lemma in `-i`, `-ī` or `-ā`; the ordinals and adjectives in `-iyo` (`dutiyo`, `ariyo`) | `rattiyo`, `gāthāyo` | [2.2](../2-2-nouns/) |
+| `-esu`, `-īsu`, `-ūsu`, `-āsu` | 4 | ⨂⑦, "in", "among" | `dhammesu`, `kāmesu` | [2.2](../2-2-nouns/) |
+| `-asmā`, `-amhā` | 2 | ⨀⑤ of a lemma in `-a`, "from" (`āyasmā` is ① of `āyasmant`) | `agārasmā` | [2.2](../2-2-nouns/) |
+| `-ino`, `-uno`, `-issa`, `-ussa` | 5 | ⨀④ or ⑥ of a lemma in `-i` or `-u` | `bhikkhuno`, `bhikkhussa` | [2.2](../2-2-nouns/) |
+| `-asmiṁ`, `-amhi` | 1 | ⨀⑦ of a lemma in `-a`, "in" | `lokasmiṁ`, `imasmiṁ` | [2.2](../2-2-nouns/) |
+| `-īnaṁ`, `-ūnaṁ`; `-inā`, `-unā` | 4 | ⨂④ or ⑥, and ⨀③, of a lemma in `-i` or `-u` | `bhikkhūnaṁ`, `agginā`, `bhikkhunā` | [2.2](../2-2-nouns/) |
+| `-asā`, `-aso`, `-asi` | — | ③, ④⑥ and ⑦ of the `mano` group (`cetasā`, `manaso`, `manasi`) | `cetasā` | [2.3](../2-3-irregular/) |
+
+### Verb endings and verb-like forms
+
+| what you see | ‰ | it reads as | in the texts | where |
+| --- | --: | --- | --- | :-: |
+| `-ti` | 60 | ▶️🤟⨀, the present, "he, she, it …" (`iti` and the `-ti` nouns aside) | `hoti`, `viharati`, `uppajjati` | [8.2](../8-2-present/) |
+| `-nti` | 14 | ▶️🤟⨂, "they …" | `honti`, `pātubhavanti` | [8.2](../8-2-present/) |
+| `-tvā` | 10 | the absolutive, "having …", never changes | `sutvā`, `viditvā`, `katvā` | [8.8](../8-8-verb-like-forms/) |
+| `-tha`, `-ttha` | 10 | ▶️🤘⨂ "you …" (`maññatha`), ⏯🤘⨂ `-eyyātha`; but the adverbs `tattha`, `yattha`, "there", "where" | `maññatha`, `vadetha`, `tattha` | [8.2](../8-2-present/), [8.3](../8-3-commands/) |
+| `-i` after a root | — | ⏮🤟⨀, the past, "he, she, it …" (the texts' usual past); with an `s`, `-si`, `-esi` | `nisīdi`, `udapādi`, `ahosi`, `āmantesi` | [8.4](../8-4-past/) |
+| `-si` | 6 | ⏮🤟⨀ with the `s` (`ahosi`, `āmantesi`); ▶️🤘⨀ "you …" (`viharasi`) | `ahosi`, `viharasi` | [8.4](../8-4-past/), [8.2](../8-2-present/) |
+| `-mi`, `-ma` | 8 | ▶️👆⨀ "I …" and ⨂ "we …", the vowel before them long (`vadāmi`, `vadema`); the same in ⏹ | `vadāmi`, `pajānāmi` | [8.2](../8-2-present/) |
+| `-ssati`, `-ssanti`, `-ssāmi` | 7 | ⏭, the future, "will …" (`passati`, `passāmi` are present: the `ss` is their root's) | `bhavissati`, `desessāmi` | [8.5](../8-5-future/) |
+| `-tu`, `-ntu` | 4 | ⏹🤟⨀ and ⨂, a command or a wish, "may it …", "let them …" (`hetu`, `satthu` are nouns) | `hotu`, `hontu` | [8.3](../8-3-commands/) |
+| `-eyya`, `-eyyuṁ`, `-eyyaṁ`, `-eyyātha` | 5 | ⏯, "would", "should", "may" | `saṁvatteyya`, `pabbajeyyaṁ`, `vadeyyātha` | [8.3](../8-3-commands/) |
+| `-tabbaṁ`, `-tabbo`, `-tabbā`; `-anīyaṁ` | 7 | "to be done", "should be …": a participle that agrees with its noun | `pahātabbaṁ`, `sevitabbā`, `karaṇīyaṁ` | [8.8](../8-8-verb-like-forms/) |
+| `-uṁ`, `-iṁsu` after a root | — | ⏮🤟⨂, the past, "they …" | `abhinanduṁ`, `vimucciṁsu` | [8.4](../8-4-past/) |
+| `-iṁ` after a root | — | ⏮👆⨀, the past, "I …" | `paccaññāsiṁ`, `paṭilabhiṁ` | [8.4](../8-4-past/) |
+| `-tuṁ` | 2 | the infinitive, "to …", never changes (`hetuṁ` is a noun) | `samanupassituṁ`, `kātuṁ` | [8.8](../8-8-verb-like-forms/) |
+| `-to`, `-taṁ`, `-tā` after a root; `-ito` | — | the past participle 🔽(ta), "done", agreeing with its noun as an adjective does | `vimutto`, `kataṁ`, `ādittā`, `bhāsitaṁ` | [8.8](../8-8-verb-like-forms/) |
+| `-anto`, `-antaṁ`, `-aṁ` after a root; `-māno`, `-māne` | — | the present participle, "…ing", agreeing with its noun; `-māna` on a passive | `passaṁ`, `nibbindaṁ`, `gacchanto`, `bhaññamāne` | [8.8](../8-8-verb-like-forms/) |
+| `-te`, `-nte`, `-etha` | 12 | the `attanopada` endings, mostly on a passive 🔵: ▶️🤟⨀ `-te`, ⨂ `-nte`, ⏯ `-etha` | `labbhetha`, `paññāyetha` | [8.6](../8-6-voice/) |
+| `-īyati`, `-iyyati`; `-cc-`, `-jj-`, `-bbh-` before `-ati` | 10 | the passive 🔵, "is …ed"; but `-jj-` is also the mark of the `divu` class (`uppajjati`, active), and the dictionary decides | `karīyati`, `vuccati`, `vimuccati`, `labbhati` | [8.6](../8-6-voice/) |
+| `-eti`, `-āpeti` | 5 | the causative 🟠 "makes … do", or a verb of the `cura` class; `-ayati` the same | `desesi`, `pabbājeti`, `vedayati` | [8.6](../8-6-voice/) |
+| `-ssa`, `-ssaṁsu` with `a-` in front | — | 🔀, "would have …", a past that did not happen | `abhavissa`, `abhavissaṁsu` | [8.5](../8-5-future/) |
+| `-a` after a root, with `a-` or a prefix in front | — | 🔄 `āha` and ↩️ `avoca`, the rarer pasts | `evamāha`, `idamavoca` | [8.7](../8-7-common-verbs/) |
 
 ## Exercise
 

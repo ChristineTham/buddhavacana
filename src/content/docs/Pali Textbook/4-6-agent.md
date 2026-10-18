@@ -114,7 +114,7 @@ The agent `dhammā` is plural and in ①; the verb `pātubhavanti` agrees with i
 said / indeed / but this / by Bhagavant / exhortation with the simile of the saw  
 *But this is indeed said by the Bhagavant in the exhortation with the simile of the saw:*
 
-`vuttaṁ` ("said") is a past participle, so the agent `bhagavatā`, the ③ of `bhagavant` (section [2.4](../2-4-irregular/)), is "by" {288}.
+`vuttaṁ` ("said") is a past participle, so the agent `bhagavatā`, the ③ of `bhagavant` (section [2.3](../2-3-irregular/)), is "by" {288}.
 
 4. > majjhimā paṭipadā **tathāgatena** abhisambuddhā
 

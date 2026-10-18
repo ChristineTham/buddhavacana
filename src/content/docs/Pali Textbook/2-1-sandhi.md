@@ -63,7 +63,7 @@ here the direction is reversed.
 3. Look both halves up: the Digital Pali Dictionary lists the common joins as
    headwords (`cāyaṁ`: `ca + ayaṁ`) and splits the rest. If no split gives two
    dictionary words, it is one word, a compound ([chapter 6](../6-0-samasa/))
-   or a prefixed word ([2.7](../2-7-upasagga/)) with the join inside it:
+   or a prefixed word ([2.6](../2-6-upasagga/)) with the join inside it:
    `dukkhakkhandha`, `vippayoga`.
 
 ### Examples

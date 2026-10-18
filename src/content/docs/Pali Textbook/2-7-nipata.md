@@ -1,8 +1,8 @@
 ---
-title: "2.8: `nipāta` (Particles)"
+title: "2.7: `nipāta` (Particles)"
 sidebar:
-  label: "2.8: `nipāta`"
-  order: 521
+  label: "2.7: `nipāta`"
+  order: 520
 description: >
   The small unchanging words that join, stress, negate, quote and ask (`ca`, `vā`, `pi`, `kho`, `eva`, `na`, `iti`, `nu`) and the ones that set time, place and manner, grouped by job with an example from the texts for each; what `ti` does to the word before it; the rule that drops their endings {221}.
 categories: ["palibook"]
@@ -15,7 +15,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 
 A `nipāta` (particle) is a small word that never changes: no gender, no number,
 no ending to read. Kaccāyana's rule {221} drops every ending after a particle,
-as after an `upasagga` ([2.7](../2-7-upasagga/)) and after `āvuso` ("friend").
+as after an `upasagga` ([2.6](../2-6-upasagga/)) and after `āvuso` ("friend").
 The texts mark a particle ⏏️.
 
 Ask what it does to the words around it: joins (`ca`), offers a choice
@@ -100,8 +100,8 @@ The `-ti` of a verb (`hoti`) is not this `ti`: `hotī”ti` has both. `kathaṁ`
 | `āvuso` | friend | `tisso kho imā, āvuso visākha` ([Bonus: 10, 22.2](../11-pbt/#s10-u22-2)) |
 | `sādhu` | good!; excellent! | `sādhu sādhu, sāriputta` ([Bonus: 44, 2.4](../11-pbt/#s44-u2-4)) |
 
-`bhikkhave`, `bho` and `bhante` are ⓪ forms of `bhikkhu` ([2.3](../2-3-vowel-lemmas/))
-and `bhavanta` ([2.4](../2-4-irregular/)), not particles. `āma` ("yes"), `handa`
+`bhikkhave`, `bho` and `bhante` are ⓪ forms of `bhikkhu` ([2.2](../2-2-nouns/))
+and `bhavanta` ([2.3](../2-3-irregular/)), not particles. `āma` ("yes"), `handa`
 ("come now!") and `alaṁ` ("enough") are not in the texts.
 
 ### Examples
