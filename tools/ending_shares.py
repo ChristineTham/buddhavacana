@@ -13,7 +13,8 @@ readings the DPD's inflection table gives it (the lookup table's grammar entries
 letters, roots, suffixes and verb endings are not candidates; a noun's own adjectival homonym (its sense as the
 last member of a compound) is not a candidate for a free-standing form; an address form the DPD lists as a
 headword of its own (bhikkhave, bhante) takes the reading of that headword's grammar note.
-Usage: python3 tools/ending_shares.py [-o shares.json]   (run at the kaccayana repo root, where dpd.db is)
+Usage: python3 tools/ending_shares.py [-o shares.json] [--appendix p-endings.md]   (run where dpd.db is)
+The --appendix option rewrites the tables of the textbook's Appendix P below its "## Endings in `a`" heading from the result.
 """
 import sqlite3, re, collections, pathlib, json, sys
 IDX = pathlib.Path.home() / ".cache/tipitaka2500/index.sqlite"; DPD = pathlib.Path("dpd.db")
@@ -72,7 +73,34 @@ def readings_of(gram, lemma, pos, form, own_grammar):
         if rd: return " or ".join(rd)
         return "a verb with iti joined on (…tīti)" if re.search(r"[āīū]ti$", form) else "a verb form the table does not list"
     return OTHER.get(pos, pos)
-def main(out, tests=()):
+LETTER = [("a", ["-a", "-aṁ", "-assa", "-asmā, -amhā", "-asmiṁ, -amhi", "-ato, -to", "-atā", "-asā, -aso, -asi"]),
+          ("ā", ["-ā", "-āni, -īni, -ūni", "-ānaṁ, -īnaṁ, -ūnaṁ", "-āya", "-āyaṁ, -iyaṁ", "-āyo, -iyo"]),
+          ("e", ["-e", "-ehi, -īhi, -ūhi, -āhi", "-ena", "-esu, -īsu, -ūsu, -āsu", "-etha", "-eyya…"]),
+          ("i and ī", ["-i", "-iṁ", "-iṁsu", "-inā, -unā", "-ino, -uno, -issa, -ussa", "-iyā, -uyā", "-ī", "-īhi, -ūhi, -īnaṁ, -ūnaṁ, -īsu, -ūsu"]),
+          ("o, u and ū", ["-o", "-u", "-uṁ", "-ū"]),
+          ("a consonant", ["-ti", "-nti", "-si", "-mi, -ma", "-tha, -ttha", "-tu, -ntu", "-nto, -ntā, -ntaṁ, -nte", "-māno, -mānā, -māne", "-ssati…", "-tabba…, -anīyaṁ", "-tvā, -tvāna", "-tuṁ", "-te"])]
+def write_appendix(result, path):
+    """Rewrite the tables of Appendix P (everything from its '## Endings in `a`' heading on) from the result."""
+    groups = result["groups"]; ex = lambda words: ", ".join(f"`{w.replace('ṃ', 'ṁ')}`" for w in words[:5])
+    out = []
+    for letter, rows in LETTER:
+        out.append(f"\n## Endings in `{letter}`\n")
+        for row in rows:
+            g = groups[row]; n = g["known"] + g["unknown"]; cov = 100 * g["known"] / n if n else 0
+            out.append(f"\n### `{row}`\n\n{n:,} words in the Tipiṭaka end so ({g['per_mille']:g} in every thousand); {cov:.0f}% of them are in the dictionary and are classed below.\n")
+            out.append("| it reads as | share | words | for example |\n| --- | --: | --: | --- |")
+            rest = 0.0; restn = 0
+            for d in g["readings"]:
+                if d["share"] >= 0.5: out.append(f"| {d['reading']} | {d['share']:.1f}% | {d['count']:,} | {ex(d['examples'])} |")
+                else: rest += d["share"]; restn += d["count"]
+            if restn: out.append(f"| other readings, each under 0.5% | {rest:.1f}% | {restn:,} | |")
+            out.append("")
+    page = pathlib.Path(path); t = page.read_text(encoding="utf-8")
+    head = t[:t.index("\n## Endings in `a`")]
+    head = re.sub(r"\d{1,3}(,\d{3})+ words\. The method", f"{result['total_tokens']:,} words. The method", head)
+    page.write_text(head + "\n".join(out) + "\n", encoding="utf-8")
+
+def main(out, tests=(), appendix=None):
     member = {e: row for row, es in GROUPS.items() for e in es}; ENDS = sorted(member, key=len, reverse=True)
     dpd = sqlite3.connect(DPD); idx = sqlite3.connect(IDX)
     print("counting the corpus …", file=sys.stderr)
@@ -130,10 +158,12 @@ def main(out, tests=()):
         result["groups"][row] = {"endings": GROUPS[row], "known": known, "unknown": unknown, "per_mille": round(1000 * (known + unknown) / total_tokens, 1),
                                  "readings": [{"reading": c, "share": round(100 * v / tot, 1), "count": round(v), "examples": [x for x, _ in ex[c].most_common(5)]} for c, v in agg.most_common()]}
     if out: json.dump(result, open(out, "w"), ensure_ascii=False, indent=1)
+    if appendix: write_appendix(result, appendix)
     print(total_tokens, "word tokens")
     for row, r in result["groups"].items():
         cov = r["known"] / (r["known"] + r["unknown"] or 1)
         print(f"{row:34} {r['known']+r['unknown']:7} words, {cov:4.0%} classed  " + " · ".join(f"{d['reading']} {d['share']:.0f}% ({'/'.join(d['examples'][:3])})" for d in r["readings"][:6] if d["share"] >= 2))
 if __name__ == "__main__":
     out = sys.argv[sys.argv.index("-o") + 1] if "-o" in sys.argv else None
-    main(out, tests=("na", "so", "te", "me", "ti", "nāma", "hetu", "dukkhaṃ", "vācāya", "tato", "tena", "paccayā", "pubbe", "kiṃ", "evaṃ", "bhante", "āyasmā", "tasmā"))
+    appendix = sys.argv[sys.argv.index("--appendix") + 1] if "--appendix" in sys.argv else None
+    main(out, appendix=appendix, tests=("na", "so", "te", "me", "ti", "nāma", "hetu", "dukkhaṃ", "vācāya", "tato", "tena", "paccayā", "pubbe", "kiṃ", "evaṃ", "bhante", "āyasmā", "tasmā"))
