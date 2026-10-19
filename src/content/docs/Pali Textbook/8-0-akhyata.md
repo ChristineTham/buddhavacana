@@ -1,7 +1,7 @@
 ---
 title: "8: Grammar: Verbs (`ākhyāta`)"
 sidebar:
-  label: "8: Grammar: Verbs"
+  label: "8: Verbs"
   order: 543
 description: >
   How to read a verb form: the voice, the time, the person and the number its ending shows, the piece that sits between the root and the ending, and the verb-like forms, participles, absolutives and infinitives, that carry most of a Pāḷi sentence

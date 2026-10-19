@@ -1,7 +1,7 @@
 ---
-title: "4: Grammar: Nouns in the sentence (`kāraka`)"
+title: "4: Grammar: Noun roles (`kāraka`)"
 sidebar:
-  label: "4: Grammar: Nouns in the sentence"
+  label: "4: Noun roles"
   order: 523
 description: >
   Various meanings and usage-rules of word endings in sentences after `vibhatti` has been applied {271}-{315}
