@@ -1,7 +1,7 @@
 ---
 title: "2: Grammar: Nouns and more (`nāma`, `sandhi`)"
 sidebar:
-  label: "2: Grammar: Nouns and more"
+  label: "2: Nouns and more"
   order: 513
 description: >
   How to read a noun form: split the joined words, recognise the ending, find the lemma; the shapes of nouns, pronouns, numbers, prefixes and particles a reader meets on every page

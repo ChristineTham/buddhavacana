@@ -1,7 +1,7 @@
 ---
 title: "10: Grammar: Derived words (`taddhita`, `uṇādi`)"
 sidebar:
-  label: "10: Grammar: Derived words"
+  label: "10: Derived words"
   order: 553
 description: >
   How new nouns are made from other nouns with the `taddhita` affixes {344}–{405} and from roots with the `uṇādi` affixes {624}–{673}, and the senses the affixes carry
