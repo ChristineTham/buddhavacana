@@ -1,7 +1,7 @@
 ---
 title: "3: Translation: Awakening (Bodhikathā)"
 sidebar:
-  label: "3: Translation: Awakening"
+  label: "3: Awakening"
   order: 522
 description: >
   Translation of the Bodhikathā, the account of the awakening, Vinaya Mahāvagga 1.1 (3V 1.1), paragraphs 2–13

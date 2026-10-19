@@ -1,7 +1,7 @@
 ---
 title: "1: Overview: Pali Essentials"
 sidebar:
-  label: "1: Overview: Pali Essentials"
+  label: "1: Pali Essentials"
   order: 503
 description: >
   A concise overview of the Pali language covering key features

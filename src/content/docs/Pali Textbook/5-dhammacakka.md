@@ -1,7 +1,7 @@
 ---
 title: "5: Translation: Turning the wheel (Dhammacakkappavattanasutta)"
 sidebar:
-  label: "5: Translation: Turning the wheel"
+  label: "5: Turning the wheel"
   order: 532
 description: >
   Translation of the Dhammacakkappavattanasutta, the discourse on setting the wheel of the Dhamma in motion, Saṁyutta Nikāya 56.11 (14S5 12.2.1)
@@ -53,7 +53,7 @@ That which is this pursuit of sensual happiness in sensual pleasures, which is l
 <a id="u2-4"></a>2.4 Ete kho, bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.  
 *️⃣🤟🚹⨂②(eta) ⏏️(kho) 🚹⨂⓪(bhikkhu) *️⃣🤟🚹⨂②(ubha) 🚹⨂②(anta) 🔽(ya)(anupagacchati) 🚺⨀①(majjhima) 🚺⨀①(paṭipadā) 🚹⨀③🆎(tathā+gata) 🚺⨀①🔽(ta)(abhisambuddha) 🚺⨀①🆎(cakkhu+karaṇa) 🚺⨀①🆎(ñāṇa+karaṇa) 🚹⨀④(upasama) 🚺⨀④(abhiññā) 🚹⨀④(sambodha) 🚻⨀④(nibbāna) 🟢⨀🤟▶️(saṁvattati)  
 these | indeed | bhikkhave | both | extremes | not approaching | middle | way | by the Tathāgata | fully awakened | producing vision | producing knowledge | to calm | to direct knowledge | to enlightenment | to extinguishment | leads  
-Without veering towards either of these two extremes, bhikkhave, the `majjhimā paṭipadā` (Middle Way) has been `abhisambuddha` (fully awakened) by the Tathāgata, which produces vision, produces knowledge, leads to calm, to `abhiññā`, to `sambodhi` (enlightenment), to `nibbāna` (extinguishment).
+Without veering towards either of these two extremes, bhikkhave, the `majjhimā paṭipadā` (Middle Way) has been `abhisambuddha` (fully realised) by the Tathāgata, which produces vision, produces knowledge, leads to calm, to `abhiññā`, to `sambodhi` (enlightenment), to `nibbāna` (extinguishment).
 
 <a id="u3-1"></a>[3.1](https://tipitaka2500.github.io/tipitaka/14S5/12/12.2/12.2.1.html#p_14S5_2208) Katamā ca sā, bhikkhave, majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati?  
 *️⃣🤟🚺⨀①(katama) ⏏️(ca) *️⃣🤟🚺⨀①(ta) 🚹⨂⓪(bhikkhu) 🚺⨀①(majjhima) 🚺⨀①(paṭipadā) 🚹⨀③🆎(tathā+gata) 🚺⨀①🔽(ta)(abhisambuddha) 🚺⨀①🆎(cakkhu+karaṇa) 🚺⨀①🆎(ñāṇa+karaṇa) 🚹⨀④(upasama) 🚺⨀④(abhiññā) 🚹⨀④(sambodha) 🚻⨀④(nibbāna) 🟢⨀🤟▶️(saṁvattati)  

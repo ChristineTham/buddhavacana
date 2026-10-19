@@ -1,7 +1,7 @@
 ---
 title: "7: Translation: Not-self (Anattalakkhaṇasutta)"
 sidebar:
-  label: "7: Translation: Not-self"
+  label: "7: Not-self"
   order: 542
 description: >
   Translation of the Anattalakkhaṇasutta, the discourse on the mark of not-self, the second discourse to the group of five, Saṁyutta Nikāya 22.59 (13S3 1.2.1.7)
