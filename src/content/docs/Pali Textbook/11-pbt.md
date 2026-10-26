@@ -27,68 +27,68 @@ I have since updated the translations to my latest understanding: the English re
 [Mahātaṇhāsaṅkhayasutta MN 38 PTS 1.257–1.271](https://suttacentral.net/mn38) (Majjhima Nikaya I 265):
 
 <a id="s1-u24-4"></a>24.4 “Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā evaṁ vadeyyātha—  
-🔼(apinu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) 🔼(evaṁ) 🚹⨂①(jānanta) 🔼(evaṁ) 🚹⨂①(passanta) ⏯🤘⨂(vadati)  
-are? | you | bhikkhave | thus | knowing | thus | seeing | would say  
+⏏️(api) ⏏️(nu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) ⏏️(evaṁ) 🚹⨂①🔽(anta)(jānanta) ⏏️(evaṁ) 🚹⨂①🔽(anta)(passanta) ⏏️(evaṁ) 🟢⨂🤘⏯(vadati)  
+perhaps | (question) | you | bhikkhave | thus | knowing | thus | seeing | thus | would say  
 Thus knowing and thus seeing, bhikkhave, would you say -
 
 <a id="s1-u24-5"></a>24.5 satthā no garu, satthugāravena ca mayaṁ evaṁ vademā”ti?  
-🚹⨀①(satthar) *️⃣👆⚧⨂⑥(ahaṁ) 🚹⨀①(garu) , 🚹⨀③(satthugārava) 🔼(ca) *️⃣👆⚧⨂①(ahaṁ) 🔼(evaṁ) ⏯👆⨂(vadati) 🔼(ti)  
-teacher | of us | respected , with respect for the teacher | and | we | thus | will say | quote  
+🚹⨀①(satthar) *️⃣👆⚧⨂⑥(ahaṁ) 🚹⨀①(garu) 🚹⨀③🆎(satthu+gārava) ⏏️(ca) *️⃣👆⚧⨂①(ahaṁ) ⏏️(evaṁ) 🟢⨂👆⏯(vadati) ⏏️(iti)  
+teacher | of us | respected | with respect for the teacher | and | we | thus | would say | (end quote)  
 “Our teacher is respected, and we would say thus with (relying on) the respect for our teacher.”
 
 <a id="s1-u24-6"></a>24.6 “No hetaṁ, bhante”.  
-🔼(no hetaṁ) 🚹⨀⓪(bhavant)  
-no | certainly | Bhante  
+⏏️(no) ⏏️(hi) *️⃣🤟🚻⨀①(eta) 🚹⨀⓪(bhavant)  
+no | certainly | this | Bhante  
 Certainly not, Bhante.
 
 <a id="s1-u24-7"></a>24.7 “Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā evaṁ vadeyyātha—  
-🔼(apinu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) 🔼(evaṁ) 🚹⨂①(jānanta) 🔼(evaṁ) 🚹⨂①(passanta) ⏯🤘⨂(vadati)  
-are? | you | bhikkhave | thus | knowing | thus | seeing | would say  
+⏏️(api) ⏏️(nu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) ⏏️(evaṁ) 🚹⨂①🔽(anta)(jānanta) ⏏️(evaṁ) 🚹⨂①🔽(anta)(passanta) ⏏️(evaṁ) 🟢⨂🤘⏯(vadati)  
+perhaps | (question) | you | bhikkhave | thus | knowing | thus | seeing | thus | would say  
 Thus knowing and thus seeing, bhikkhave, would you say -
 
 <a id="s1-u24-8"></a>24.8 samaṇo evamāha, samaṇā ca nāma mayaṁ evaṁ vademā”ti?  
-🚹⨀①(samaṇa) 🔼(evamāha) 🚹⨂①(samaṇa) 🔼(ca) 🔼(nāma) *️⃣👆⚧⨂①(ahaṁ) 🔼(evaṁ) ⏯👆⨂(vadati) 🔼(ti)  
-renunciant | one said thus | ascetics | and | name | we | thus | will say | quote  
+🚹⨀①(samaṇa) ⏏️(evaṁ) 🟢⨀🤟🔄(āha) 🚹⨂①(samaṇa) ⏏️(ca) ⏏️(nāma) *️⃣👆⚧⨂①(ahaṁ) ⏏️(evaṁ) 🟢⨂👆⏯(vadati) ⏏️(iti)  
+renunciant | thus | said | ascetics | and | called | we | thus | would say | (end quote)  
 A renunciant said thus, and (those) renunciants named ..., (so) we say thus.
 
 <a id="s1-u24-9"></a>24.9 “No hetaṁ, bhante”.  
-🔼(no hetaṁ) 🚹⨀⓪(bhavant)  
-no | certainly | Bhante  
+⏏️(no) ⏏️(hi) *️⃣🤟🚻⨀①(eta) 🚹⨀⓪(bhavant)  
+no | certainly | this | Bhante  
 Certainly not, Bhante.
 
 <a id="s1-u24-10"></a>24.10 “Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā aññaṁ satthāraṁ uddiseyyāthā”ti?  
-🔼(apinu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) 🔼(evaṁ) 🚹⨂①(jānanta) 🔼(evaṁ) 🚹⨂①(passanta) 🚹⨀②(añña) 🚹⨀②(satthar) ⏯🤘⨂(uddisati)  
-are? | you | bhikkhave | thus | knowing | thus | seeing | another | teacher | appoint  
+⏏️(api) ⏏️(nu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) ⏏️(evaṁ) 🚹⨂①🔽(anta)(jānanta) ⏏️(evaṁ) 🚹⨂①🔽(anta)(passanta) *️⃣🤟🚹⨀②(añña) 🚹⨀②(satthar) 🟢⨂🤘⏯(uddisati) ⏏️(iti)  
+perhaps | (question) | you | bhikkhave | thus | knowing | thus | seeing | another | teacher | appoint | (end quote)  
 Thus knowing and thus seeing, bhikkhave, will you appoint another teacher?
 
 <a id="s1-u24-11"></a>24.11 “No hetaṁ, bhante”.  
-🔼(no hetaṁ) 🚹⨀⓪(bhavant)  
-no | certainly | Bhante  
+⏏️(no) ⏏️(hi) *️⃣🤟🚻⨀①(eta) 🚹⨀⓪(bhavant)  
+no | certainly | this | Bhante  
 Certainly not, Bhante.
 
 <a id="s1-u24-12"></a>24.12 “Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā yāni tāni puthusamaṇabrāhmaṇānaṁ vata kotūhalamaṅgalāni tāni sārato paccāgaccheyyāthā”ti?  
-🔼(apinu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) 🔼(evaṁ) 🚹⨂①(jānanta) 🔼(evaṁ) 🚹⨂①(passanta) 🚻⨂①(ya) 🚻⨂①(ta) 🚹⨂①(puthusamaṇabrāhmaṇā) 🔼(vata) 🚻⨂①(kotūhalamaṅgala) 🚻⨂①(ta) 🔼(sārato) ⏯🤘⨂(paccāgacchati)  
-are? | you | bhikkhave | thus | knowing | thus | seeing | whatever | that | various religious practitioners | certainly | noisy debates and auspicious ceremonies | that | as essential/valuable | will return to  
+⏏️(api) ⏏️(nu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) ⏏️(evaṁ) 🚹⨂①🔽(anta)(jānanta) ⏏️(evaṁ) 🚹⨂①🔽(anta)(passanta) *️⃣🤟🚻⨂①(ya) *️⃣🤟🚻⨂①(ta) 🚹⨂⑥🆎(puthu+samaṇa+brāhmaṇa) ⏏️(vata) 🚻⨂①🆎(kotūhala+maṅgala) *️⃣🤟🚻⨂②(ta) 🚹⨀⑤(sāra) 🟢⨂🤘⏯(paccāgacchati) ⏏️(iti)  
+perhaps | (question) | you | bhikkhave | thus | knowing | thus | seeing | whatever | that | of various religious practitioners | certainly | noisy debates and auspicious ceremonies | that | as essential/valuable | will return to | (end quote)  
 Thus knowing and thus seeing, bhikkhave, will you return to whatever (you regarded as) valuable, such as various religious practitioners, noisy debates and auspicious ceremonies?
 
 <a id="s1-u24-13"></a>24.13 “No hetaṁ, bhante”.  
-🔼(no hetaṁ) 🚹⨀⓪(bhavant)  
-no | certainly | Bhante  
+⏏️(no) ⏏️(hi) *️⃣🤟🚻⨀①(eta) 🚹⨀⓪(bhavant)  
+no | certainly | this | Bhante  
 Certainly not, Bhante.
 
 <a id="s1-u24-14"></a>24.14 “Nanu, bhikkhave, yadeva tumhākaṁ sāmaṁ ñātaṁ sāmaṁ diṭṭhaṁ sāmaṁ viditaṁ, tadeva tumhe vadethā”ti.  
-🔼(nanu) 🚹⨂⓪(bhikkhu) 🔼(yadeva) *️⃣🤘⚧⨂⑥(tvaṁ) 🚻⨀①(sāma) 🚻⨀①(ñāta) 🚻⨀①(sāma) 🚻⨀①(diṭṭha) 🚻⨀①(sāma) 🚻⨀①(vidita) , 🔼(tadeva) *️⃣🤘⚧⨂①(tvaṁ) ⏯🤘⨂(vadati)  
-surely? | bhikkhave | whatever | of you | oneself | known | oneself | seen | experienced , that very thing | you | would say  
+⏏️(nanu) 🚹⨂⓪(bhikkhu) *️⃣🤟🚻⨀①(ya) ⏏️(eva) *️⃣🤘⚧⨂⑥(tvaṁ) ⏏️(sāmaṁ) 🚻⨀①🔽(ta)(ñāta) ⏏️(sāmaṁ) 🚻⨀①🔽(ta)(diṭṭha) ⏏️(sāmaṁ) 🚻⨀①🔽(ta)(vidita) *️⃣🤟🚻⨀②(ta) ⏏️(eva) *️⃣🤘⚧⨂①(tvaṁ) 🟢⨂🤘⏯(vadati) ⏏️(iti)  
+surely? | bhikkhave | whatever | just | of you | oneself | known | oneself | seen | oneself | experienced | that | very | you | would say | (end quote)  
 Would you say whatever amongst you that you have known by yourselves, seen by yourselves, experienced by yourselves?
 
 <a id="s1-u24-15"></a>24.15 “Evaṁ, bhante”.  
-🔼(evaṁ)  🚹⨀⓪(bhavant)  
+⏏️(evaṁ) 🚹⨀⓪(bhavant)  
 yes | Bhante  
 Yes, Bhante.
 
 <a id="s1-u25-1"></a>25.1 “Sādhu, bhikkhave, upanītā kho me tumhe, bhikkhave, iminā sandiṭṭhikena dhammena akālikena ehipassikena opaneyyikena paccattaṁ veditabbena viññūhi.  
-🚹⨀①(sādhu) 🚹⨂⓪(bhikkhu) 🚹⨂①(upanīta) 🔼(kho) *️⃣👆⚧⨀③(ahaṁ) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) 🚹⨀③(ima) 🚹⨀③(sandiṭṭhika) 🚹⨀③(dhamma) 🚹⨀③(ehipassika) 🚻⨀①(paccatta) 🚹⨀③(veditabba) 🚹⨂③(viññū)  
-Excellent | bhikkhave | instructed | indeed | by me | you | bhikkhave | by this | by evident | by the principle | by verifiable | personal | by should be experienced | by intelligent  
+⏏️(sādhu) 🚹⨂⓪(bhikkhu) 🚹⨂①🔽(ta)(upanīta) ⏏️(kho) *️⃣👆⚧⨀③(ahaṁ) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) *️⃣🤟🚹⨀③(ima) 🚹⨀③(sandiṭṭhika) 🚹⨀③(dhamma) 🚹⨀③(akālika) 🚹⨀③(ehipassika) 🚹⨀③(opaneyyika) ⏏️(paccattaṁ) 🚹⨀③🔽(tabba)(veditabba) 🚹⨂③(viññū)  
+Excellent | bhikkhave | instructed | indeed | by me | you | bhikkhave | by this | by evident | by the principle | by immediate | by verifiable | by leading onward | personally | by should be experienced | by intelligent  
 Excellent, bhikkhave. Bhikkhave, you have indeed been instructed by me with an evident principle that is verifiable and should be personally experienced by those who are intelligent.
 
 ## 2. DEFINITION OF SUFFERING
@@ -96,13 +96,13 @@ Excellent, bhikkhave. Bhikkhave, you have indeed been instructed by me with an e
 [Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315](https://suttacentral.net/dn22) (Digha Nikaya II 305):
 
 <a id="s2-u18-1"></a>18.1 Katamañca, bhikkhave, dukkhaṁ ariyasaccaṁ?  
-🚻⨀①(katama) 🔼(ca) 🚹⨂⓪(bhikkhu) 🚹⨀②(dukkha) 🚻⨀①(ariyasacca)  
+*️⃣🤟🚻⨀①(katama) ⏏️(ca) 🚹⨂⓪(bhikkhu) 🚻⨀①(dukkha) 🚻⨀①🆎(ariya+sacca)  
 what? | and | bhikkhave | suffering | realisation  
 And what, bhikkhave, is the realisation of dukkha (suffering)?[^1]
 
 <a id="s2-u18-2"></a>18.2 Jātipi dukkhā, jarāpi dukkhā, maraṇampi dukkhaṁ, sokaparidevadukkhadomanassupāyāsāpi dukkhā, appiyehi sampayogopi dukkho, piyehi vippayogopi dukkho, yampicchaṁ na labhati tampi dukkhaṁ, saṅkhittena pañcupādānakkhandhā dukkhā.  
-🚺⨀①(jāti) 🔼(pi) 🚺⨀①(dukkha) 🚺⨀①(jara) 🔼(pi) 🚺⨀①(dukkha) 🚻⨀①(maraṇa) 🔼(pi) 🚻⨀①(dukkha) 🚹⨂①(sokaparidevadukkhadomanassupāyāsā) 🔼(pi) 🚹⨂①(dukkha) 🚹⨂③(appiya) 🚹⨀①(sampayoga) 🔼(pi) 🚹⨀①(dukkha) 🚹⨂⑤(piya) 🚹⨀①(vippayoga) 🔼(pi) 🚹⨀①(dukkha) 🔼(yampicchaṁ) 🔼(na) ▶️🤟⨀(labhati) 🚻⨀①(ta) 🔼(pi) 🚻⨀①(dukkha) 🚹⨀③(saṅkhitta) 🚹⨂①(pañcupādānakkhandhā) 🚹⨂①(dukkha)  
-birth | too | dukkha | old age | too | dukkha | death | too | dukkha | sorrow, lamentation, pain, displeasure and despair | too | dukkha | with disliked | association with | too | dukkha | from loved | separation from | too | dukkha | what one desires | gets | that | too | dukkha | in summary | the five collections of fuel | dukkha  
+🚺⨀①(jāti) ⏏️(api) 🚺⨀①(dukkha) 🚺⨀①(jarā) ⏏️(api) 🚺⨀①(dukkha) 🚻⨀①(maraṇa) ⏏️(api) 🚻⨀①(dukkha) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) ⏏️(api) 🚹⨂①(dukkha) 🚹⨂③(appiya) 🚹⨀①(sampayoga) ⏏️(api) 🚹⨀①(dukkha) 🚹⨂③(piya) 🚹⨀①(vippayoga) ⏏️(api) 🚹⨀①(dukkha) *️⃣🤟🚻⨀②(ya) ⏏️(api) 🚹⨀①🔽(anta)(icchanta) ⏏️(na) 🟢⨀🤟▶️(labhati) *️⃣🤟🚻⨀①(ta) ⏏️(api) 🚻⨀①(dukkha) 🚹⨀③🔽(ta)(saṅkhitta) 🚹⨂①🆎(pañca+upādāna+khandha) 🚹⨂①(dukkha)  
+birth | too | dukkha | old age | too | dukkha | death | too | dukkha | sorrow, lamentation, pain, displeasure and despair | too | dukkha | with disliked | association with | too | dukkha | from loved | separation from | too | dukkha | what | too | desiring | not | gets | that | too | dukkha | in summary | the five collections of fuel | dukkha  
 Birth, too, is dukkha, old age, too, is dukkha, death, too, is dukkha, sorrow, lamentation, pain, displeasure and despair, too, are dukkha, association with disliked, too, is dukkha, separation from loved, too, is dukkha, not getting what one desires, too, is dukkha, in summary, the five collections of fuel are dukkha.[^2]
 
 ## 3. THE CAUSE OF SUFFERING
@@ -110,17 +110,17 @@ Birth, too, is dukkha, old age, too, is dukkha, death, too, is dukkha, sorrow, l
 [Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315](https://suttacentral.net/dn22) (Digha Nikaya II 308):
 
 <a id="s3-u19-1"></a>19.1 Katamañca, bhikkhave, dukkhasamudayaṁ ariyasaccaṁ?  
-🚻⨀①(katama) 🔼(ca) 🚹⨂⓪(bhikkhu) 🚹⨀②(dukkhasamudaya) 🚻⨀①(ariyasacca)  
+*️⃣🤟🚻⨀①(katama) ⏏️(ca) 🚹⨂⓪(bhikkhu) 🚻⨀①🆎(dukkha+samudaya) 🚻⨀①🆎(ariya+sacca)  
 what? | and | bhikkhave | source of dukkha | realisation  
 And what, bhikkhave, is the realisation of the source of dukkha?
 
 <a id="s3-u19-2"></a>19.2 Yāyaṁ taṇhā ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī, seyyathidaṁ  
-🔼(yāyaṁ) 🚹⨂①(taṇhā) 🚹⨂①(ponobbhavika) 🚹⨂①(nandīrāgasahagata) 🚺⨀①(tatratatrābhinandī) 🔼(seyyathidaṁ)  
-whatever | craving | leading to renewed existence | accompanied by delight and desire | who takes delight here and there; thoroughly enjoying this and that | as follows  
+*️⃣🤟🚺⨀①(ya) *️⃣🤟🚺⨀①(ima) 🚺⨀①(taṇhā) 🚺⨀①(ponobbhavika) 🚺⨀①🆎(nandī+rāga+sahagata) 🚺⨀①🆎(tatra+tatra+abhinandī) ⏏️(seyyathidaṁ)  
+whatever | this | craving | leading to renewed existence | accompanied by delight and desire | who takes delight here and there; thoroughly enjoying this and that | as follows  
 Whatever craving, leading to renewed existence, accompanied by delight and desire, experienced by one who takes delight here and there; thoroughly enjoying this and that, as follows:
 
 <a id="s3-u19-3"></a>19.3 kāmataṇhā bhavataṇhā vibhavataṇhā.  
-🚺⨀①(kāmataṇhā) 🚺⨀①(bhavataṇhā) 🚺⨀①(vibhavataṇhā)  
+🚺⨀①🆎(kāma+taṇhā) 🚺⨀①🆎(bhava+taṇhā) 🚺⨀①🆎(vibhava+taṇhā)  
 craving for sensual pleasure | craving for existence | craving for non-existence  
 Craving for sensual pleasure, craving for existence, craving for non-existence.
 
@@ -129,13 +129,13 @@ Craving for sensual pleasure, craving for existence, craving for non-existence.
 [Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315](https://suttacentral.net/dn22) (Digha Nikaya II 310):
 
 <a id="s4-u20-1"></a>20.1 Katamañca, bhikkhave, dukkhanirodhaṁ ariyasaccaṁ?  
-🚻⨀①(katama) 🔼(ca) 🚹⨂⓪(bhikkhu) 🚹⨀②(dukkhanirodha) 🚻⨀①(ariyasacca)  
+*️⃣🤟🚻⨀①(katama) ⏏️(ca) 🚹⨂⓪(bhikkhu) 🚻⨀①🆎(dukkha+nirodha) 🚻⨀①🆎(ariya+sacca)  
 what? | and | bhikkhave | end of dukkha | realisation  
 And what, bhikkhave, is the realisation of the end of dukkha?
 
 <a id="s4-u20-2"></a>20.2 Yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo.  
-🚹⨀①(ya) 🔼(tassāyeva) 🚹⨀⑥(taṇhā) 🚹⨀①(asesavirāganirodha) 🚹⨀①(cāga) 🚹⨀①(paṭinissagga) 🚺⨀①(mutti) 🚹⨀①(anālaya)  
-whatever | of that exact | of craving | complete fading away and ending | giving up | relinquishing | freedom | non-attachment  
+*️⃣🤟🚹⨀①(ya) *️⃣🤟🚺⨀⑥(ta) ⏏️(eva) 🚺⨀⑥(taṇhā) 🚹⨀①🆎(asesa+virāga+nirodha) 🚹⨀①(cāga) 🚹⨀①(paṭinissagga) 🚺⨀①(mutti) 🚹⨀①🆎(na+ālaya)  
+whatever | of that | exact | of craving | complete fading away and ending | giving up | relinquishing | freedom | non-attachment  
 It is the complete fading away and ending, giving up, relinquishing, freedom, non-attachment of whatever craving (there is).
 
 ## 5. THE WAY TO FREEDOM FROM SUFFERING
@@ -143,17 +143,17 @@ It is the complete fading away and ending, giving up, relinquishing, freedom, no
 [Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315](https://suttacentral.net/dn22) (Digha Nikaya II 311):
 
 <a id="s5-u21-1"></a>21.1 Katamañca, bhikkhave, dukkhanirodhagāminī paṭipadā ariyasaccaṁ?  
-🚻⨀①(katama) 🔼(ca) 🚹⨂⓪(bhikkhu) 🚺⨀①(dukkhanirodhagāmī) 🚺⨀①(paṭipada) 🚻⨀①(ariyasacca)  
+*️⃣🤟🚻⨀①(katama) ⏏️(ca) 🚹⨂⓪(bhikkhu) 🚺⨀①🆎(dukkha+nirodha+gāmī) 🚺⨀①(paṭipadā) 🚻⨀①🆎(ariya+sacca)  
 what? | and | bhikkhave | leading to the end of dukkha | path of progress | realisation  
 And what, bhikkhave, is the realisation of the path of progress leading to the end of dukkha?
 
 <a id="s5-u21-2"></a>21.2 Ayameva ariyo aṭṭhaṅgiko maggo seyyathidaṁ—  
-🔼(ayameva) 🚹⨀①(ariya) 🚹⨀①(aṭṭhaṅgika) 🚹⨀①(magga) 🔼(seyyathidaṁ)  
-just this | pure | 8-part | path | as follows  
+*️⃣🤟🚹⨀①(ima) ⏏️(eva) 🚹⨀①(ariya) 🚹⨀①🆎(aṭṭha+aṅgika) 🚹⨀①(magga) ⏏️(seyyathidaṁ)  
+this | just | noble | 8-part | path | as follows  
 It is just this, the noble path in eight parts, as follows:
 
 <a id="s5-u21-3"></a>21.3 sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi.  
-🚺⨀①(sammādiṭṭhi) 🚹⨀①(sammāsaṅkappa) 🚺⨀①(sammāvācā) 🚹⨀①(sammākammanta) 🚹⨀①(sammāājīva) 🚹⨀①(sammāvāyāma) 🚺⨀①(sammāsati) 🚹⨀①(sammāsamādhi)  
+🚺⨀①🆎(sammā+diṭṭhi) 🚹⨀①🆎(sammā+saṅkappa) 🚺⨀①🆎(sammā+vācā) 🚹⨀①🆎(sammā+kammanta) 🚹⨀①🆎(sammā+ājīva) 🚹⨀①🆎(sammā+vāyāma) 🚺⨀①🆎(sammā+sati) 🚹⨀①🆎(sammā+samādhi)  
 right view | right resolve | right speech | right action | right livelihood | right effort | right awareness | right focus  
 Right view, right resolve, right speech, right action, right livelihood, right effort, right awareness, right focus.
 
@@ -162,17 +162,17 @@ Right view, right resolve, right speech, right action, right livelihood, right e
 [Dutiyaāyusutta SN 4.10 PTS (1st ed) 1.109 PTS (2nd ed) 1.243](https://suttacentral.net/sn4.10) (Samyutta Nikaya I 109):
 
 <a id="s6-u5-1"></a>5.1 “Accayanti ahorattā,  
-▶️🤟⨂(accayati) 🚻⨂①(ahoratta)  
+🟢⨂🤟▶️(accayati) 🚻⨂①🆎(aha+ratta)  
 passes | time  
 <a id="s6-u5-2"></a>5.2 jīvitaṁ uparujjhati;  
-🚻⨀①(jīvita) ▶️🤟⨀(uparujjhati)  
+🚻⨀①(jīvita) 🔴⨀🤟▶️(uparujjhati)  
 life | is finished  
 <a id="s6-u5-3"></a>5.3 Āyu khīyati maccānaṁ,  
-🚻⨀①(āyu) ▶️🤟⨀(khīyati) 🚹⨂⑥(macca)  
+🚻⨀①(āyu) 🔴⨀🤟▶️(khīyati) 🚹⨂⑥(macca)  
 life energy | is exhausted | of mortal men  
 <a id="s6-u5-4"></a>5.4 kunnadīnaṁva odakan”ti.  
-🚺⨂⑥(kunnadī) 🚻⨀①(odaka)  
-of stream | water
+🚺⨂⑥(kunnadī) ⏏️(iva) 🚻⨀①(odaka) ⏏️(iti)  
+of streams | like | water | (end quote)  
 
 Time passes,  
 life is finished;  
@@ -187,17 +187,17 @@ water of stream.
 Saccāni suññatekavidhādīhi 513 (Buddhaghosa, Visuddhimagga XVI 90):
 
 <a id="s7-u1-1"></a>1.1 Dukkham eva hi na koci dukkhito  
-🚻⨀①(dukkha) 🔼(eva) 🔼(hi) 🔼(na) 🚹⨀①(kaci) 🚹⨀①(dukkhita)  
+🚻⨀①(dukkha) ⏏️(eva) ⏏️(hi) ⏏️(na) *️⃣🤟🚹⨀①(kaci) 🚹⨀①🔽(ta)(dukkhita)  
 dukkha | only | for | no | anyone | suffering  
 <a id="s7-u1-2"></a>1.2 kārako na kiriyā va vijjati,  
-🚹⨀①(kāraka) 🔼(na) 🚻⨂①(kiriya) 🔼(va) ▶️🤟⨀(vijjati)  
-doer | no | one who is doing | or | exists  
+🚹⨀①(kāraka) ⏏️(na) 🚺⨀①(kiriyā) ⏏️(va) 🔴⨀🤟▶️(vijjati)  
+doer | no | action | only | exists  
 <a id="s7-u1-3"></a>1.3 atthi nibbuti, na nibbuto pumā,  
-▶️🤟⨀(atthi) 🚺⨀①(nibbuti) 🔼(na) 🚹⨀①(nibbuta) 🚹⨀①(puma)  
+🟢⨀🤟▶️(atthi) 🚺⨀①(nibbuti) ⏏️(na) 🚹⨀①🔽(ta)(nibbuta) 🚹⨀①(puma)  
 there is | extinguishment | not | extinguished | male  
 <a id="s7-u1-4"></a>1.4 maggam atthi, gamako na vijjatī ti.  
-🚻⨀①(magga) ▶️🤟⨀(atthi) 🚹⨀①(gamaka) ▶️🤟⨀(vijjati) 🔼(ti)  
-path | there is | one who goes | no | exist | quote
+🚻⨀①(magga) 🟢⨀🤟▶️(atthi) 🚹⨀①(gamaka) ⏏️(na) 🔴⨀🤟▶️(vijjati) ⏏️(iti)  
+path | there is | one who goes | no | exist | (end quote)  
 
 There is suffering, but no one is suffering  
 There is action, but no one is performing  
@@ -211,29 +211,29 @@ The nun Vajirā was harassed with doubts by Māra, the Tempter or god of Death: 
 [Vajirāsutta SN 5.10 PTS (1st ed) 1.135 PTS (2nd ed) 1.296–1.297](https://suttacentral.net/sn5.10) (Samyutta Nikaya I 135):
 
 <a id="s8-u4-1"></a>4.1 “Kiṁ nu sattoti paccesi,  
-🚻⨀①(ka) 🔼(nu) 🚹⨀①(satta) 🔼(iti) ▶️🤘⨀(pacceti)  
-what | ? | being | like this | you believe to be  
+*️⃣🤟🚻⨀②(kiṁ) ⏏️(nu) 🚹⨀①(satta) ⏏️(iti) 🟢⨀🤘▶️(pacceti)  
+what | (question) | being | (end quote) | you believe to be  
 <a id="s8-u4-2"></a>4.2 māra diṭṭhigataṁ nu te;  
-🚹⨀⓪(māra) 🚻⨀①(diṭṭhigata) 🔼(nu) *️⃣🤘⚧⨀⑥(tvaṁ)  
-Māra | misconception | ? | of you  
+🚹⨀⓪(māra) 🚻⨀①🆎(diṭṭhi+gata) ⏏️(nu) *️⃣🤘⚧⨀⑥(tvaṁ)  
+Māra | misconception | (question) | of you  
 <a id="s8-u4-3"></a>4.3 Suddhasaṅkhārapuñjoyaṁ,  
-🚹⨀①(suddhasaṅkhārapuñja) 🚹⨀①(ima)  
-merely a pile of processes | this  
+🚹⨀①🆎(suddha+saṅkhāra+puñja) *️⃣🤟🚹⨀①(ima)  
+merely a pile of mental constructions | this  
 <a id="s8-u4-4"></a>4.4 nayidha sattupalabbhati.  
-🔼(nayidha) 🚹⨀①(satta) ▶️🤟⨀(upalabbhati)  
-not here | being | is found  
+⏏️(na) ⏏️(idha) 🚹⨀①(satta) 🔴⨀🤟▶️(upalabbhati)  
+not | here | being | is found  
 <a id="s8-u5-1"></a>5.1 Yathā hi aṅgasambhārā,  
-🔼(yathā hi) 🚹⨂①(aṅgasambhāra)  
-like | definitely | collection of parts  
+⏏️(yathā) ⏏️(hi) 🚹⨀⑤🆎(aṅga+sambhāra)  
+like | definitely | from a collection of parts  
 <a id="s8-u5-2"></a>5.2 hoti saddo ratho iti;  
-▶️🤟⨀(hoti) 🚹⨀①(sadda) 🚹⨀①(ratha) 🔼(iti)  
-is | sound | chariot | like this  
+🟢⨀🤟▶️(hoti) 🚹⨀①(sadda) 🚹⨀①(ratha) ⏏️(iti)  
+is | word | chariot | (end quote)  
 <a id="s8-u5-3"></a>5.3 Evaṁ khandhesu santesu,  
-🔼(evaṁ) 🚹⨂⑦(khandha) 🚹⨂⑦(santa)  
-thus | in collections | existence  
+⏏️(evaṁ) 🚹⨂⑦(khandha) 🚹⨂⑦🔽(anta)(santa)  
+thus | in collections | existing  
 <a id="s8-u5-4"></a>5.4 hoti sattoti sammuti.  
-▶️🤟⨀(hoti) 🚹⨀①(satta) 🔼(iti) 🚺⨀①(sammuti)  
-is | being | like this | general consensus
+🟢⨀🤟▶️(hoti) 🚹⨀①(satta) ⏏️(iti) 🚺⨀①(sammuti)  
+is | being | (end quote) | general consensus  
 
 What you refer as a “being”,  
 Māra, a misconception of yours?  
@@ -251,12 +251,12 @@ The five collections of fuel (“pañcupādānakkhandhā”).
 [Mahāmālukyasutta MN 64 PTS 1.433–1.437](https://suttacentral.net/mn64) (Majjhima Nikaya I 435):
 
 <a id="s9-u9-3"></a>9.3 So yadeva tattha hoti rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato suññato anattato samanupassati.  
-🚹⨀①(ta) 🔼(yadeva) 🔼(tattha) ▶️🤟⨀(hoti) 🚻⨀①(rūpagata) 🚻⨀①(vedanāgata) 🚻⨀①(saññāgata) 🚻⨀①(saṅkhāragata) 🚻⨀①(viññāṇagata) 🚹⨂①(ta) 🚹⨂②(dhamma) 🚹⨀⑤(anicca) 🚹⨀⑤(dukkha) 🚹⨀⑤(roga) 🚹⨀⑤(gaṇḍa) 🚹⨀⑤(salla) 🚹⨀⑤(agha) 🚹⨀⑤(ābādha) 🚹⨀⑤(para) 🚹⨀⑤(paloka) 🚹⨀⑤(suñña) 🚹⨀⑤(anatta) ▶️🤟⨀(samanupassati)  
-that | whichever | in that regard | is | related to form | related to feelings | related to apperception | related to mental constructions | related to consciousness | those | characteristics/processes | from impermanence | from suffering | from disease | from body disfigurement | from sharp objects | from trouble | from oppression | from infliction by others | from disintegration | from emptiness | as not-self | perceived as  
+*️⃣🤟🚹⨀①(ta) *️⃣🤟🚻⨀①(ya) ⏏️(eva) ⏏️(tattha) 🟢⨀🤟▶️(hoti) 🚻⨀①🆎(rūpa+gata) 🚻⨀①🆎(vedanā+gata) 🚻⨀①🆎(saññā+gata) 🚻⨀①🆎(saṅkhāra+gata) 🚻⨀①🆎(viññāṇa+gata) *️⃣🤟🚹⨂②(ta) 🚹⨂②(dhamma) 🚹⨀⑤(anicca) 🚹⨀⑤(dukkha) 🚹⨀⑤(roga) 🚹⨀⑤(gaṇḍa) 🚹⨀⑤(salla) 🚹⨀⑤(agha) 🚹⨀⑤(ābādha) 🚹⨀⑤(para) 🚹⨀⑤(paloka) 🚹⨀⑤(suñña) 🚹⨀⑤(anatta) 🟢⨀🤟▶️(samanupassati)  
+that | whichever | just | in that regard | is | related to form | related to feelings | related to apperception | related to mental constructions | related to consciousness | those | characteristics/processes | from impermanence | from suffering | from disease | from body disfigurement | from sharp objects | from trouble | from oppression | from infliction by others | from disintegration | from emptiness | as not-self | perceived as  
 Whatever that is regarded as related to rūpa (form), vedanā (feelings), saññā (apperceptions), saṅkhāra (mental constructions), viññāṇa (consciousness), those processes are perceived as impermanent, suffering, disease, body disfigurements, cuts from sharp objects, trouble and misfortune, oppression, inflictions by others, disintegration, emptiness, and not-self.
 
 <a id="s9-u9-4"></a>9.4 So tehi dhammehi cittaṁ paṭivāpeti.  
-🚹⨀①(ta) 🚹⨂⑤(ta) 🚹⨂⑤(dhamma) 🚻⨀①(citta) ▶️🤟⨀(paṭivāpeti)  
+*️⃣🤟🚹⨀①(ta) *️⃣🤟🚹⨂⑤(ta) 🚹⨂⑤(dhamma) 🚻⨀②(citta) 🟠⨀🤟▶️(paṭivāpeti)  
 that | from those | from processes | mind | pulls back  
 That, the mind pulls back from those processes.
 
@@ -265,53 +265,53 @@ That, the mind pulls back from those processes.
 [Cūḷavedallasutta MN 44 PTS 1.299–1.305](https://suttacentral.net/mn44) (Majjhima Nikaya I 302 f):
 
 <a id="s10-u22-2"></a>22.2 “Tisso kho imā, āvuso visākha, vedanā—  
-🚺⨂①(ti) 🔼(kho) 🚺⨂①(ima) 🔼(āvuso) 🚹⨀⓪(visākha) 🚺⨂①(vedanā)  
+🚺⨂①(ti) ⏏️(kho) *️⃣🤟🚺⨂①(ima) ⏏️(āvuso) 🚹⨀⓪(visākha) 🚺⨂①(vedanā)  
 three | indeed | these | friend | Visākha | feelings  
 There are indeed three types of vedanā (feelings), friend Visākha:
 
 <a id="s10-u22-3"></a>22.3 sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā”ti.  
-🚺⨂①(sukha) 🚺⨂①(vedanā) 🚺⨂①(dukkha) 🚺⨂①(vedanā) 🚺⨂①(adukkhamasukha) 🚺⨂①(vedanā) 🔼(ti)  
-happy | feelings | painful | feelings | neutral | quote  
+🚺⨀①(sukha) 🚺⨀①(vedanā) 🚺⨀①(dukkha) 🚺⨀①(vedanā) 🚺⨀①🆎(na+dukkha+na+sukha) 🚺⨀①(vedanā) ⏏️(iti)  
+happy | feeling | painful | feeling | neutral | feeling | (end quote)  
 “Happy/pleasant feelings, unhappy/painful feelings, neutral feelings.”
 
 <a id="s10-u23-1"></a>23.1 “Katamā panāyye, sukhā vedanā, katamā dukkhā vedanā, katamā adukkhamasukhā vedanā”ti?  
-🚺⨀①(katama) 🔼(pana) 🚺⨀⑦(ayya) 🚺⨂①(sukha) 🚺⨂①(vedanā) 🚺⨀①(katama) 🚺⨂①(dukkha) 🚺⨂①(vedanā) 🚺⨀①(katama) 🚺⨂①(adukkhamasukha) 🚺⨂①(vedanā) 🔼(ti)  
-what | moreover | pure | happy | feelings | what | painful | feelings | what | neutral | quote  
+*️⃣🤟🚺⨀①(katama) ⏏️(pana) 🚺⨀⓪(ayyā) 🚺⨀①(sukha) 🚺⨀①(vedanā) *️⃣🤟🚺⨀①(katama) 🚺⨀①(dukkha) 🚺⨀①(vedanā) *️⃣🤟🚺⨀①(katama) 🚺⨀①🆎(na+dukkha+na+sukha) 🚺⨀①(vedanā) ⏏️(iti)  
+what | moreover | lady | happy | feeling | what | painful | feeling | what | neutral | feeling | (end quote)  
 And furthermore: “What are happy feelings, what are painful feelings, what are neutral feelings?”
 
 <a id="s10-u23-2"></a>23.2 “Yaṁ kho, āvuso visākha, kāyikaṁ vā cetasikaṁ vā sukhaṁ sātaṁ vedayitaṁ—  
-🚻⨀①(ya) 🔼(kho) 🔼(āvuso) 🚹⨀⓪(visākha) 🚻⨀①(kāyika) 🔼(vā) 🚻⨀①(cetasika) 🔼(vā) 🚻⨀①(sukha) 🚻⨀①(vedayita)  
-whatever | indeed | friend | Visākha | related to body | or | related to mind | or | pleasant | which is felt  
+*️⃣🤟🚻⨀①(ya) ⏏️(kho) ⏏️(āvuso) 🚹⨀⓪(visākha) 🚻⨀①(kāyika) ⏏️(vā) 🚻⨀①(cetasika) ⏏️(vā) 🚻⨀①(sukha) 🚻⨀①🔽(ta)(sāta) 🚻⨀①🔽(ta)(vedayita)  
+whatever | indeed | friend | Visākha | related to body | or | related to mind | or | pleasant | agreeable | which is felt  
 Friend Visākha, whatever is felt that is pleasant, either relating to the body or to the mind.
 
 <a id="s10-u23-3"></a>23.3 ayaṁ sukhā vedanā.  
-🚺⨀①(ima) 🚺⨂①(sukha) 🚺⨂①(vedanā)  
-these | happy | feelings  
+*️⃣🤟🚺⨀①(ima) 🚺⨀①(sukha) 🚺⨀①(vedanā)  
+this | happy | feeling  
 These are happy feelings.
 
 <a id="s10-u23-4"></a>23.4 Yaṁ kho, āvuso visākha, kāyikaṁ vā cetasikaṁ vā dukkhaṁ asātaṁ vedayitaṁ—  
-🚻⨀①(ya) 🔼(kho) 🔼(āvuso) 🚹⨀⓪(visākha) 🚻⨀①(kāyika) 🔼(vā) 🚻⨀①(cetasika) 🔼(vā) 🚻⨀①(dukkha) 🚻⨀①(vedayita)  
-whatever | indeed | friend | Visākha | related to body | or | related to mind | or | unpleasant | which is felt  
+*️⃣🤟🚻⨀①(ya) ⏏️(kho) ⏏️(āvuso) 🚹⨀⓪(visākha) 🚻⨀①(kāyika) ⏏️(vā) 🚻⨀①(cetasika) ⏏️(vā) 🚻⨀①(dukkha) 🚻⨀①🔽(ta)🆎(na+sāta) 🚻⨀①🔽(ta)(vedayita)  
+whatever | indeed | friend | Visākha | related to body | or | related to mind | or | unpleasant | disagreeable | which is felt  
 Friend Visākha, whatever is felt that is unpleasant, either relating to the body or to the mind.
 
 <a id="s10-u23-5"></a>23.5 ayaṁ dukkhā vedanā.  
-🚺⨀①(ima) 🚺⨂①(dukkha) 🚺⨂①(vedanā)  
-these | painful | feelings  
+*️⃣🤟🚺⨀①(ima) 🚺⨀①(dukkha) 🚺⨀①(vedanā)  
+this | painful | feeling  
 These are painful feelings.
 
 <a id="s10-u23-6"></a>23.6 Yaṁ kho, āvuso visākha, kāyikaṁ vā cetasikaṁ vā neva sātaṁ nāsātaṁ vedayitaṁ—  
-🚻⨀①(ya) 🔼(kho) 🔼(āvuso) 🚹⨀⓪(visākha) 🚻⨀①(kāyika) 🔼(vā) 🚻⨀①(cetasika) 🔼(vā) 🔼(neva) 🚻⨀①(sāta) 🚻⨀①(nāsāta) 🚻⨀①(vedayita)  
-whatever | indeed | friend | Visākha | related to body | or | related to mind | or | neither | pleasant | nor unpleasant | which is felt  
+*️⃣🤟🚻⨀①(ya) ⏏️(kho) ⏏️(āvuso) 🚹⨀⓪(visākha) 🚻⨀①(kāyika) ⏏️(vā) 🚻⨀①(cetasika) ⏏️(vā) ⏏️(na) ⏏️(eva) 🚻⨀①🔽(ta)(sāta) ⏏️(na) 🚻⨀①🔽(ta)🆎(na+sāta) 🚻⨀①🔽(ta)(vedayita)  
+whatever | indeed | friend | Visākha | related to body | or | related to mind | or | neither | just | pleasant | nor | unpleasant | which is felt  
 Friend Visākha, whatever is felt that is neither pleasant nor unpleasant, either relating to the body or to the mind.
 
 <a id="s10-u23-7"></a>23.7 ayaṁ adukkhamasukhā vedanā”ti.  
-🚺⨀①(ima) 🚺⨂①(adukkhamasukha) 🚺⨂①(vedanā) 🔼(ti)  
-this | neutral | feelings | quote  
+*️⃣🤟🚺⨀①(ima) 🚺⨀①🆎(na+dukkha+na+sukha) 🚺⨀①(vedanā) ⏏️(iti)  
+this | neutral | feeling | (end quote)  
 “These are neutral feelings.”
 
 <a id="s10-u27-2"></a>27.2 “Sukhāya kho, āvuso visākha, vedanāya rāgānusayo pahātabbo, dukkhāya vedanāya paṭighānusayo pahātabbo, adukkhamasukhāya vedanāya avijjānusayo pahātabbo”ti.  
-🚺⨀③(sukha) 🔼(kho) 🔼(āvuso) 🚹⨀⓪(visākha) 🚺⨀③(vedanā) 🚹⨀①(rāgānusaya) 🚹⨀①(pahātabba) 🚺⨀③(dukkha) 🚺⨀③(vedanā) 🚹⨀①(paṭighānusaya) 🚹⨀①(pahātabba) 🚺⨀③(adukkhamasukha) 🚺⨀③(vedanā) 🚹⨀①(avijjānusaya) 🚹⨀①(pahātabba)  🔼(ti)  
-with happy | indeed | friend | Visākha | with feelings | underlying tendency towards desire | should be given up | with painful | with feelings | underlying tendency towards aversion | should be given up | with neutral | with feelings | underlying tendency towards ignorance | should be given up | quote  
+🚺⨀⑦(sukha) ⏏️(kho) ⏏️(āvuso) 🚹⨀⓪(visākha) 🚺⨀⑦(vedanā) 🚹⨀①🆎(rāga+anusaya) 🚹⨀①🔽(tabba)(pahātabba) 🚺⨀⑦(dukkha) 🚺⨀⑦(vedanā) 🚹⨀①🆎(paṭigha+anusaya) 🚹⨀①🔽(tabba)(pahātabba) 🚺⨀⑦🆎(na+dukkha+na+sukha) 🚺⨀⑦(vedanā) 🚹⨀①🆎(avijjā+anusaya) 🚹⨀①🔽(tabba)(pahātabba) ⏏️(iti)  
+in happy | indeed | friend | Visākha | in feeling | underlying tendency towards desire | should be given up | in painful | in feeling | underlying tendency towards aversion | should be given up | in neutral | in feeling | underlying tendency towards ignorance | should be given up | (end quote)  
 “Friend Visākha, with happy feelings, there is an underlying tendency towards desire, which should be given up. With painful feelings, there is an underlying tendency towards aversion, which should be given up. With neutral feelings, there is an underlying tendency towards ignorance, which should be given up.”
 
 ## 11. APPERCEPTION AND IDEATION
@@ -319,29 +319,29 @@ with happy | indeed | friend | Visākha | with feelings | underlying tendency to
 [Nibbedhikasutta AN 6.63 PTS 3.410–3.417](https://suttacentral.net/an6.63) (Anguttara Nikaya III 413):
 
 <a id="s11-u21-3"></a>21.3 Chayimā, bhikkhave, saññā—  
-🔼(chayimā) 🚹⨂⓪(bhikkhu) 🚺⨂①(saññā)  
-these six | bhikkhave | apperceptions  
+⚧⨂①(cha) *️⃣🤟🚺⨂①(ima) 🚹⨂⓪(bhikkhu) 🚺⨂①(saññā)  
+six | these | bhikkhave | apperceptions  
 Bhikkhave, these six saññā (apperceptions) -
 
 <a id="s11-u21-4"></a>21.4 rūpasaññā, saddasaññā, gandhasaññā, rasasaññā, phoṭṭhabbasaññā, dhammasaññā.  
-🚺⨀①(rūpasaññā) 🚺⨀①(saddasaññā)🚺⨀①(gandhasaññā) 🚺⨀①(rasasaññā) 🚺⨀①(phoṭṭhabbasaññā) 🚺⨀①(dhammasaññā)  
+🚺⨀①🆎(rūpa+saññā) 🚺⨀①🆎(sadda+saññā) 🚺⨀①🆎(gandha+saññā) 🚺⨀①🆎(rasa+saññā) 🚺⨀①🆎(phoṭṭhabba+saññā) 🚺⨀①🆎(dhamma+saññā)  
 apperception of form | apperception of sound | apperception of smells | apperception of taste | apperception of touch | apperception of mental characteristics  
 Apperception of form, apperception of sound, apperception of smells, apperception of taste, apperception of touch, apperception of mental characteristics.
 
 [Mahāvedallasutta MN 43 PTS 1.292–1.298](https://suttacentral.net/mn43) (Majjhima Nikaya I 293):
 
 <a id="s11-u8-3"></a>8.3 “‘Sañjānāti sañjānātī’ti kho, āvuso, tasmā saññāti vuccati.  
-▶️🤟⨀(sañjānāti) ▶️🤟⨀(sañjānāti) 🔼(ti kho) 🔼(āvuso) 🚹⨀⑤(ta) 🚹⨂①(saññā) 🔼(ti) ▶️🤟⨀(vuccati)  
-apperception | apperceiving | quote | indeed | friend | from that | apperception | quote | is said to be  
+🟢⨀🤟▶️(sañjānāti) 🟢⨀🤟▶️(sañjānāti) ⏏️(iti) ⏏️(kho) ⏏️(āvuso) ⏏️(tasmā) 🚺⨀①(saññā) ⏏️(iti) 🔴⨀🤟▶️(vuccati)  
+apperceives | apperceives | (end quote) | indeed | friend | therefore | apperception | (end quote) | is said to be  
 “Apperceiving apperception” indeed, friend, from that is said to be “saññā” (apperception).
 
 <a id="s11-u8-4"></a>8.4 Kiñca sañjānāti?  
-🔼(kiñca) ▶️🤟⨀(sañjānāti)  
-and what | apperception  
+*️⃣🤟🚻⨀②(kiṁ) ⏏️(ca) 🟢⨀🤟▶️(sañjānāti)  
+what | and | apperceives  
 And what is “apperception”?
 
 <a id="s11-u8-5"></a>8.5 Nīlakampi sañjānāti, pītakampi sañjānāti, lohitakampi sañjānāti, odātampi sañjānāti.  
-🚻⨀①(nīlaka) 🔼(pi) ▶️🤟⨀(sañjānāti) 🚻⨀①(pītaka) 🔼(pi) ▶️🤟⨀(sañjānāti) 🚻⨀①(lohitaka) 🔼(pi) ▶️🤟⨀(sañjānāti) 🚻⨀①(odāta) 🔼(pi) ▶️🤟⨀(sañjānāti)  
+🚻⨀②(nīlaka) ⏏️(api) 🟢⨀🤟▶️(sañjānāti) 🚻⨀②(pītaka) ⏏️(api) 🟢⨀🤟▶️(sañjānāti) 🚻⨀②(lohitaka) ⏏️(api) 🟢⨀🤟▶️(sañjānāti) 🚻⨀②🔽(ta)(odāta) ⏏️(api) 🟢⨀🤟▶️(sañjānāti)  
 blue | too | recognise | yellow | too | recognise | red | too | recognise | white | too | recognise  
 The apperception of “blue”, “yellow”, “red”, “white”, (etc.)
 
@@ -350,23 +350,23 @@ The apperception of “blue”, “yellow”, “red”, “white”, (etc.)
 [Cūḷavedallasutta MN 44 PTS 1.299–1.305](https://suttacentral.net/mn44) (Majjhima Nikaya I 301):
 
 <a id="s12-u13-2"></a>13.2 “Tayome, āvuso visākha, saṅkhārā—  
-🔼(tayome) 🔼(āvuso) 🚹⨀⓪(visākha) 🚹⨂①(saṅkhāra)  
-these three | friend | Visākha | mental constructions  
+🚹⨂①(ti) *️⃣🤟🚹⨂①(ima) ⏏️(āvuso) 🚹⨀⓪(visākha) 🚹⨂①(saṅkhāra)  
+three | these | friend | Visākha | mental constructions  
 Friend Visākha, there are three types of “saṅkhārā” (mental constructions)
 
 <a id="s12-u13-3"></a>13.3 kāyasaṅkhāro, vacīsaṅkhāro, cittasaṅkhāro”ti.  
-🚹⨀①(kāyasaṅkhāra) 🚹⨀①(vacīsaṅkhāra) 🚹⨀①(cittasaṅkhāra) 🔼(ti)  
-intention which results in bodily action | intention which results in verbal action | intention which result in thought formation | quote  
+🚹⨀①🆎(kāya+saṅkhāra) 🚹⨀①🆎(vacī+saṅkhāra) 🚹⨀①🆎(citta+saṅkhāra) ⏏️(iti)  
+intention which results in bodily action | intention which results in verbal action | intention which result in thought formation | (end quote)  
 “Bodily thought process (intention which result in bodily action), verbal thought process (intention which result in verbal action), mental thought process (intention which result in thought formation).”
 
 <a id="s12-u14-1"></a>14.1 “Katamo panāyye, kāyasaṅkhāro, katamo vacīsaṅkhāro, katamo cittasaṅkhāro”ti?  
-🚹⨀①(katama) 🔼(pana) 🚹⨀⑦(ayya) 🚹⨀①(kāyasaṅkhāra) 🚹⨀①(katama) 🚹⨀①(vacīsaṅkhāra) 🚹⨀①(katama) 🚹⨀①(cittasaṅkhāra) 🔼(ti)  
-what | moreover | pure | bodily thought process | verbal thought process | mental thought process | quote  
+*️⃣🤟🚹⨀①(katama) ⏏️(pana) 🚺⨀⓪(ayyā) 🚹⨀①🆎(kāya+saṅkhāra) *️⃣🤟🚹⨀①(katama) 🚹⨀①🆎(vacī+saṅkhāra) *️⃣🤟🚹⨀①(katama) 🚹⨀①🆎(citta+saṅkhāra) ⏏️(iti)  
+what | moreover | lady | bodily thought process | what | verbal thought process | what | mental thought process | (end quote)  
 “And furthermore, what is a bodily thought process, a verbal thought process, a mental thought process?”
 
 <a id="s12-u14-2"></a>14.2 “Assāsapassāsā kho, āvuso visākha, kāyasaṅkhāro, vitakkavicārā vacīsaṅkhāro, saññā ca vedanā ca cittasaṅkhāro”ti.  
-🚹⨂①(assāsapassāsa) 🔼(kho) 🔼(āvuso) 🚹⨀⓪(visākha) 🚹⨀①(kāyasaṅkhāra) 🚹⨂①(vitakkavicārā) 🚹⨀①(vacīsaṅkhāra) 🚺⨂①(saññā) 🔼(ca) 🚺⨀①(vedanā) 🔼(ca) 🚹⨀①(cittasaṅkhāra) 🔼(ti)  
-breathing in and out | indeed | friend | Visākha | bodily thought process | inner dialogue | verbal thought process | apperceptions | and | feelings | mental thought process | quote  
+🚹⨂①🆎(assāsa+passāsa) ⏏️(kho) ⏏️(āvuso) 🚹⨀⓪(visākha) 🚹⨀①🆎(kāya+saṅkhāra) 🚹⨂①🆎(vitakka+vicāra) 🚹⨀①🆎(vacī+saṅkhāra) 🚺⨀①(saññā) ⏏️(ca) 🚺⨀①(vedanā) ⏏️(ca) 🚹⨀①🆎(citta+saṅkhāra) ⏏️(iti)  
+breathing in and out | indeed | friend | Visākha | bodily thought process | inner dialogue | verbal thought process | apperception | and | feeling | and | mental thought process | (end quote)  
 “Breathing in and out is (an example of) a bodily thought process, inner dialogue is a verbal thought process, apperceptions and feelings are mental thought processes.”
 
 ## 13. VOLITION AND THE MENTAL CONSTRUCTIONS
@@ -374,22 +374,22 @@ breathing in and out | indeed | friend | Visākha | bodily thought process | inn
 [Upādānaparipavattasutta SN 22.56 PTS 3.59–3.61](https://suttacentral.net/sn22.56) (Samyutta Nikaya III 60):
 
 <a id="s13-u10-1"></a>10.1 Katame ca, bhikkhave, saṅkhārā?  
-🚹⨂①(katama) 🔼(ca) 🚹⨂⓪(bhikkhu) 🚹⨂①(saṅkhāra)  
+*️⃣🤟🚹⨂①(katama) ⏏️(ca) 🚹⨂⓪(bhikkhu) 🚹⨂①(saṅkhāra)  
 what | and | bhikkhave | mental constructions  
 Bhikkhave, and what are mental constructions?
 
 <a id="s13-u10-2"></a>10.2 Chayime, bhikkhave, cetanākāyā—  
-🔼(chayime) 🚹⨂⓪(bhikkhu) 🚹⨂①(cetanākāyā)  
-these six | bhikkhave | classes of volitional thoughts (intentions)  
+⚧⨂①(cha) *️⃣🤟🚹⨂①(ima) 🚹⨂⓪(bhikkhu) 🚹⨂①🆎(cetanā+kāya)  
+six | these | bhikkhave | classes of volitional thoughts (intentions)  
 Bhikkhave, these six classes of volitional thoughts (intentions) -
 
 <a id="s13-u10-3"></a>10.3 rūpasañcetanā, saddasañcetanā, gandhasañcetanā, rasasañcetanā, phoṭṭhabbasañcetanā, dhammasañcetanā.  
-🚺⨀①(rūpasañcetanā) 🚺⨀①(saddasañcetanā) 🚺⨀①(gandhasañcetanā) 🚺⨀①(rasasañcetanā) 🚺⨀①(phoṭṭhabbasañcetanā) 🚺⨀①(dhammasañcetanā)  
+🚺⨀①🆎(rūpa+sañcetanā) 🚺⨀①🆎(sadda+sañcetanā) 🚺⨀①🆎(gandha+sañcetanā) 🚺⨀①🆎(rasa+sañcetanā) 🚺⨀①🆎(phoṭṭhabba+sañcetanā) 🚺⨀①🆎(dhamma+sañcetanā)  
 thoughts about forms | thoughts about sounds | thoughts about smells | thoughts about tastes | thoughts about contacts | thoughts about mental characteristics  
 Thoughts about forms, thoughts about sounds, thoughts about smells, thoughts about tastes, thoughts about contacts, thoughts about mental characteristics.
 
 <a id="s13-u10-4"></a>10.4 Ime vuccanti, bhikkhave, saṅkhārā.  
-🚹⨂①(ima) ▶️🤟⨂(vuccati) 🚹⨂⓪(bhikkhu) 🚹⨂①(saṅkhāra)  
+*️⃣🤟🚹⨂①(ima) 🔴⨂🤟▶️(vuccati) 🚹⨂⓪(bhikkhu) 🚹⨂①(saṅkhāra)  
 these | are said to be | bhikkhave | mental constructions  
 Bhikkhave, these are said to be mental constructions.
 
@@ -398,38 +398,38 @@ Bhikkhave, these are said to be mental constructions.
 [Mahātaṇhāsaṅkhayasutta MN 38 PTS 1.257–1.271](https://suttacentral.net/mn38) (Majjhima Nikaya I 259):
 
 <a id="s14-u8-1"></a>8.1 “Yaṁ yadeva, bhikkhave, paccayaṁ paṭicca uppajjati viññāṇaṁ, tena teneva viññāṇantveva saṅkhyaṁ gacchati.  
-🚻⨀①(ya) 🔼(yadeva) 🚹⨂⓪(bhikkhu) 🚹⨀②(paccaya) 🔼(paṭicca) ▶️🤟⨀(uppajjati) 🚻⨀①(viññāṇa) 🚹⨀③(ta) 🔼(teneva) 🔼(viññāṇantveva) 🚺⨀②(saṅkhyā) ▶️🤟⨀(gacchati)  
-whenever | any | bhikkhave | prerequisite | dependency | arise | consciousness | by that | by that alone | just consciousness | definition | becomes  
+*️⃣🤟🚹⨀②(ya) *️⃣🤟🚹⨀②(ya) ⏏️(eva) 🚹⨂⓪(bhikkhu) 🚹⨀②(paccaya) 🔽(ya)(paṭicceti) 🟢⨀🤟▶️(uppajjati) 🚻⨀①(viññāṇa) *️⃣🤟🚹⨀③(ta) *️⃣🤟🚹⨀③(ta) ⏏️(eva) 🚻⨀①(viññāṇa) ⏏️(iti) ⏏️(eva) 🚺⨀②(saṅkhyā) 🟢⨀🤟▶️(gacchati)  
+whichever | whatever | just | bhikkhave | cause | dependent on | arise | consciousness | by that | by that | alone | consciousness | (end quote) | just | definition | becomes  
 “Whenever any prerequisite or dependency causing consciousness arises, just by that alone “consciousness” becomes defined.
 
 <a id="s14-u8-2"></a>8.2 Cakkhuñca paṭicca rūpe ca uppajjati viññāṇaṁ, cakkhuviññāṇantveva saṅkhyaṁ gacchati;  
-🚻⨀①(cakkhu) 🔼(ca) 🚹⨀②(paccaya) 🚹⨀⑦(rūpa) ▶️🤟⨀(uppajjati) 🚻⨀①(viññāṇa) 🔼(cakkhuviññāṇantveva) 🚺⨀②(saṅkhyā) ▶️🤟⨀(gacchati)  
-eye (faculty of seeing) | and | dependency | in form | arise | consciousness | just sight-consciousness | categorisation | becomes  
+🚻⨀②(cakkhu) ⏏️(ca) 🔽(ya)(paṭicceti) 🚻⨂②(rūpa) ⏏️(ca) 🟢⨀🤟▶️(uppajjati) 🚻⨀①(viññāṇa) 🚻⨀①🆎(cakkhu+viññāṇa) ⏏️(iti) ⏏️(eva) 🚺⨀②(saṅkhyā) 🟢⨀🤟▶️(gacchati)  
+eye (faculty of seeing) | and | dependent on | forms | and | arise | consciousness | sight-consciousness | (end quote) | just | categorisation | becomes  
 The eye (faculty of seeing) is a dependency of form causing consciousness to arise, to become categorised as “visual-consciousness”.
 
 <a id="s14-u8-3"></a>8.3 sotañca paṭicca sadde ca uppajjati viññāṇaṁ, sotaviññāṇantveva saṅkhyaṁ gacchati;  
-🚻⨀①(sota) 🔼(ca) 🚹⨀②(paccaya) 🚹⨀⑦(sadda) ▶️🤟⨀(uppajjati) 🚻⨀①(viññāṇa) 🔼(sotaviññāṇantveva) 🚺⨀②(saṅkhyā) ▶️🤟⨀(gacchati)  
-ear (faculty of hearing) | and | dependency | in sound | arise | consciousness | just auditory-consciousness | categorisation | becomes  
+🚻⨀②(sota) ⏏️(ca) 🔽(ya)(paṭicceti) 🚹⨂②(sadda) ⏏️(ca) 🟢⨀🤟▶️(uppajjati) 🚻⨀①(viññāṇa) 🚻⨀①🆎(sota+viññāṇa) ⏏️(iti) ⏏️(eva) 🚺⨀②(saṅkhyā) 🟢⨀🤟▶️(gacchati)  
+ear (faculty of hearing) | and | dependent on | sounds | and | arise | consciousness | auditory-consciousness | (end quote) | just | categorisation | becomes  
 The ear (faculty of hearing) is a dependency of sound causing consciousness to arise, to become categorised as “auditory-consciousness”.
 
 <a id="s14-u8-4"></a>8.4 ghānañca paṭicca gandhe ca uppajjati viññāṇaṁ, ghānaviññāṇantveva saṅkhyaṁ gacchati;  
-🚻⨀①(ghāna) 🔼(ca) 🚹⨀②(paccaya) 🚹⨀⑦(gandha) ▶️🤟⨀(uppajjati) 🚻⨀①(viññāṇa) 🔼(ghānaviññāṇantveva) 🚺⨀②(saṅkhyā) ▶️🤟⨀(gacchati)  
-nose (faculty of smelling) | and | dependency | in smell | arise | consciousness | just olfactory-consciousness | categorisation | becomes  
+🚻⨀②(ghāna) ⏏️(ca) 🔽(ya)(paṭicceti) 🚹⨂②(gandha) ⏏️(ca) 🟢⨀🤟▶️(uppajjati) 🚻⨀①(viññāṇa) 🚻⨀①🆎(ghāna+viññāṇa) ⏏️(iti) ⏏️(eva) 🚺⨀②(saṅkhyā) 🟢⨀🤟▶️(gacchati)  
+nose (faculty of smelling) | and | dependent on | smells | and | arise | consciousness | olfactory-consciousness | (end quote) | just | categorisation | becomes  
 The nose (faculty of smelling) is a dependency of smell causing consciousness to arise, to become categorised as “olfactory-consciousness”.
 
 <a id="s14-u8-5"></a>8.5 jivhañca paṭicca rase ca uppajjati viññāṇaṁ, jivhāviññāṇantveva saṅkhyaṁ gacchati;  
-🚻⨀①(jivha) 🔼(ca) 🚹⨀②(paccaya) 🚹⨀⑦(rasa) ▶️🤟⨀(uppajjati) 🚻⨀①(viññāṇa) 🔼(jivhāviññāṇantveva) 🚺⨀②(saṅkhyā) ▶️🤟⨀(gacchati)  
-tongue (faculty of tasting) | and | dependency | in taste | arise | consciousness | just gustatory-consciousness | categorisation | becomes  
+🚺⨀②(jivhā) ⏏️(ca) 🔽(ya)(paṭicceti) 🚹⨂②(rasa) ⏏️(ca) 🟢⨀🤟▶️(uppajjati) 🚻⨀①(viññāṇa) 🚻⨀①🆎(jivhā+viññāṇa) ⏏️(iti) ⏏️(eva) 🚺⨀②(saṅkhyā) 🟢⨀🤟▶️(gacchati)  
+tongue (faculty of tasting) | and | dependent on | tastes | and | arise | consciousness | gustatory-consciousness | (end quote) | just | categorisation | becomes  
 The tongue (faculty of tasting) is a dependency of taste causing consciousness to arise, to become categorised as “gustatory-consciousness”.
 
 <a id="s14-u8-6"></a>8.6 kāyañca paṭicca phoṭṭhabbe ca uppajjati viññāṇaṁ, kāyaviññāṇantveva saṅkhyaṁ gacchati;  
-🚻⨀①(kaya) 🔼(ca) 🚹⨀②(paccaya) 🚹⨀⑦(phoṭṭhabba) ▶️🤟⨀(uppajjati) 🚻⨀①(viññāṇa) 🔼(kāyaviññāṇantveva) 🚺⨀②(saṅkhyā) ▶️🤟⨀(gacchati)  
-body (faculty of touch) | and | dependency | in physical sensation | arise | consciousness | just tactile-consciousness | categorisation | becomes  
+🚹⨀②(kāya) ⏏️(ca) 🔽(ya)(paṭicceti) 🚻⨂②(phoṭṭhabba) ⏏️(ca) 🟢⨀🤟▶️(uppajjati) 🚻⨀①(viññāṇa) 🚻⨀①🆎(kāya+viññāṇa) ⏏️(iti) ⏏️(eva) 🚺⨀②(saṅkhyā) 🟢⨀🤟▶️(gacchati)  
+body (faculty of touch) | and | dependent on | physical sensations | and | arise | consciousness | tactile-consciousness | (end quote) | just | categorisation | becomes  
 The body (faculty of touch) is a dependency of physical sensation causing consciousness to arise, to become categorised as “tactile-consciousness”.
 
 <a id="s14-u8-7"></a>8.7 manañca paṭicca dhamme ca uppajjati viññāṇaṁ, manoviññāṇantveva saṅkhyaṁ gacchati.  
-🚻⨀①(mana) 🔼(ca) 🚹⨀②(paccaya) 🚹⨀⑦(dhamma) ▶️🤟⨀(uppajjati) 🚻⨀①(viññāṇa) 🔼(manoviññāṇantveva) 🚺⨀②(saṅkhyā) ▶️🤟⨀(gacchati)  
-mind (faculty of thought) | and | dependency | in mental states | arise | consciousness | just mental-consciousness | categorisation | becomes  
+🚹⨀②(manas) ⏏️(ca) 🔽(ya)(paṭicceti) 🚹⨂②(dhamma) ⏏️(ca) 🟢⨀🤟▶️(uppajjati) 🚻⨀①(viññāṇa) 🚻⨀①🆎(mano+viññāṇa) ⏏️(iti) ⏏️(eva) 🚺⨀②(saṅkhyā) 🟢⨀🤟▶️(gacchati)  
+mind (faculty of thought) | and | dependent on | mental states | and | arise | consciousness | mental-consciousness | (end quote) | just | categorisation | becomes  
 The mind (faculty of thought) is a dependency of mental states causing consciousness to arise, to become categorised as “mental-consciousness”.
 
 ## 15. CONSCIOUSNESS AND REOCCURRENCE (OF SUFFERING)
@@ -437,38 +437,38 @@ The mind (faculty of thought) is a dependency of mental states causing conscious
 [Paṭhamabhavasutta AN 3.76 PTS 1.224](https://suttacentral.net/an3.76) (Anguttara Nikaya I 223):
 
 <a id="s15-u1-2"></a>1.2 “bhavo, bhavoti, bhante, vuccati.  
-🚹⨀①(bhava) 🚹⨀①(bhava) 🚹⨀⓪(bhavant) ▶️🤟⨀(vuccati)  
-bhava | existence | Bhante | is said to be  
+🚹⨀①(bhava) 🚹⨀①(bhava) ⏏️(iti) 🚹⨀⓪(bhavant) 🔴⨀🤟▶️(vuccati)  
+bhava | existence | (end quote) | Bhante | is said to be  
 Existence is called ‘bhava’, Bhante.
 
 <a id="s15-u1-3"></a>1.3 Kittāvatā nu kho, bhante, bhavo hotī”ti?  
-🔼(kittāvatā) 🔼(nu kho) 🚹⨀⓪(bhavant) 🚹⨀①(bhava) ▶️🤟⨀(hoti) 🔼(ti)  
-In what way | ? | indeed | Bhante | “bhava” | is | quote  
+⏏️(kittāvatā) ⏏️(nu) ⏏️(kho) 🚹⨀⓪(bhavant) 🚹⨀①(bhava) 🟢⨀🤟▶️(hoti) ⏏️(iti)  
+In what way | (question) | indeed | Bhante | “bhava” | is | (end quote)  
 What is the nature of ‘bhava,’ Bhante?
 
 <a id="s15-u2-1"></a>2.1 “Kāmadhātuvepakkañca, ānanda, kammaṁ nābhavissa, api nu kho kāmabhavo paññāyethā”ti?  
-🚻⨀①(kāmadhātuvepakka) 🔼(ca) 🚹⨀⓪(ānanda) 🚻⨀①(kamma) 🔀🤟⨀(nābhavissa) 🔼(apinu kho) 🚹⨀①(kāmabhava) 🔵⏯🤟⨀(paññāyati) 🔼(ti)  
-ripening in the realm of sensual desire | Ānanda | volitional action | would not exist | what | indeed | existence in the realm of sensual desire | would be evident | quote  
+🚻⨀①🆎(kāma+dhātu+vepakka) ⏏️(ca) 🚹⨀⓪(ānanda) 🚻⨀①(kamma) ⏏️(na) 🟢⨀🤟🔀(bhavati) ⏏️(api) ⏏️(nu) ⏏️(kho) 🚹⨀①🆎(kāma+bhava) 🔵⨀🤟⏯(paññāyati) ⏏️(iti)  
+ripening in the realm of sensual desire | if | Ānanda | volitional action | not | would exist | what | (question) | indeed | existence in the realm of sensual desire | would be evident | (end quote)  
 “If, Ānanda, there were no volitional action ripening in the realm of sensual desire, would existence (of suffering) in the realm of sensual desire be evident?”
 
 <a id="s15-u2-2"></a>2.2 “No hetaṁ, bhante”.  
-🔼(no hetaṁ) 🚹⨀⓪(bhavant)  
-no | certainly | Bhante  
+⏏️(no) ⏏️(hi) *️⃣🤟🚻⨀①(eta) 🚹⨀⓪(bhavant)  
+no | certainly | this | Bhante  
 Certainly not, Bhante.
 
 <a id="s15-u2-3"></a>2.3 “Iti kho, ānanda, kammaṁ khettaṁ, viññāṇaṁ bījaṁ, taṇhā sneho.  
-🔼(iti kho) 🚹⨀⓪(ānanda) 🚻⨀①(kamma) 🚻⨀①(khetta) 🚻⨀①(viññāṇa) 🚻⨀①(bīja) 🚹⨂①(taṇhā) 🚹⨀①(sneha)  
+⏏️(iti) ⏏️(kho) 🚹⨀⓪(ānanda) 🚻⨀①(kamma) 🚻⨀①(khetta) 🚻⨀①(viññāṇa) 🚻⨀①(bīja) 🚺⨀①(taṇhā) 🚹⨀①(sneha)  
 like this | indeed | Ānanda | action | field | consciousness | seed | craving | moisture  
 It is like this, Ānanda. Action is the field, consciousness is the seed, and craving is the moisture.
 
 <a id="s15-u2-4"></a>2.4 Avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ hīnāya dhātuyā viññāṇaṁ patiṭṭhitaṁ evaṁ āyatiṁ punabbhavābhinibbatti hoti.  
-🚻⨂⑥(avijjānīvaraṇa) 🚹⨂⑥(satta) 🚹⨂⑥(taṇhāsaṁyojana) 🚺⨀⑥(hīna) 🚺⨀⑥(dhātu) 🚻⨀①(viññāṇa) 🚻⨀①(patiṭṭhita) 🔼(evaṁ) 🚻⨀①(āyati) 🚺⨀①(punabbhavābhinibbatti) ▶️🤟⨀(hoti)  
-of impeded by ignorance; obstructed by not understanding | of beings | of bound by craving | of fallen away | of root | consciousness | well established | thus | future | production of reoccurring existence | is  
+🚹⨂⑥🆎(avijjā+nīvaraṇa) 🚹⨂⑥(satta) 🚹⨂⑥🆎(taṇhā+saṁyojana) 🚺⨀⑦(hīna) 🚺⨀⑦(dhātu) 🚻⨀①(viññāṇa) 🚻⨀①🔽(ta)(patiṭṭhita) ⏏️(evaṁ) ⏏️(āyatiṁ) 🚺⨀①🆎(puna+bhava+abhinibbatti) 🟢⨀🤟▶️(hoti)  
+of impeded by ignorance; obstructed by not understanding | of beings | of bound by craving | in a low | realm | consciousness | well established | thus | in future | production of reoccurring existence | is  
 While beings are impeded by ignorance, bound by craving, fallen away from their roots, consciousness is well established and in the future produces reoccurrence (of suffering).
 
 <a id="s15-u4-5"></a>4.5 Evaṁ kho, ānanda, bhavo hotī”ti.  
-🔼(evaṁ) 🔼(kho) 🚹⨀⓪(ānanda) 🚹⨀①(bhava) ▶️🤟⨀(hoti) 🔼(ti)  
-thus | indeed | Ānanda | “bhava” | is | quote  
+⏏️(evaṁ) ⏏️(kho) 🚹⨀⓪(ānanda) 🚹⨀①(bhava) 🟢⨀🤟▶️(hoti) ⏏️(iti)  
+thus | indeed | Ānanda | “bhava” | is | (end quote)  
 “Thus indeed, Ānanda, is ‘bhava.’”
 
 ## 16. CONSCIOUSNESS MAY BE CALMED
@@ -476,30 +476,30 @@ thus | indeed | Ānanda | “bhava” | is | quote
 [Dvayatānupassanāsutta Snp 3.12 PTS 140–150 Verse 730–772](https://suttacentral.net/snp3.12) (Sutta Nipata, verses 734, 735):
 
 <a id="s16-u19-1"></a>19.1 “Yaṁ kiñci dukkhaṁ sambhoti,  
-🚻⨀①(ya) 🔼(kiñci) 🚹⨀②(dukkha) ▶️🤟⨀(sambhoti)  
-whenever | something/anything | suffering | arises  
+*️⃣🤟🚻⨀①(ya) *️⃣🤟🚻⨀①(kaci) 🚻⨀①(dukkha) 🟢⨀🤟▶️(sambhoti)  
+whatever | something/anything | suffering | arises  
 <a id="s16-u19-2"></a>19.2 Sabbaṁ viññāṇapaccayā;  
-🚻⨀①(sabba) 🔼(viññāṇapaccayā)  
+*️⃣🤟🚻⨀①(sabba) 🚹⨀⑤🆎(viññāṇa+paccaya)  
 all | caused by consciousness  
 <a id="s16-u19-3"></a>19.3 Viññāṇassa nirodhena,  
 🚻⨀⑥(viññāṇa) 🚹⨀③(nirodha)  
 of consciousness | with the cessation  
 <a id="s16-u19-4"></a>19.4 Natthi dukkhassa sambhavo.  
-▶️🤟⨀(natthi) 🚹⨀⑥(dukkha) 🚹⨀①(sambhava)  
-there is not | of suffering | birth
+⏏️(na) 🟢⨀🤟▶️(atthi) 🚻⨀⑥(dukkha) 🚹⨀①(sambhava)  
+not | there is | of suffering | birth
 
 <a id="s16-u20-1"></a>20.1 Etamādīnavaṁ ñatvā,  
-🚹⨀②(eta) 🚹⨀②(ādīnava) 🔼(ñatvā)  
+*️⃣🤟🚹⨀②(eta) 🚹⨀②(ādīnava) 🔽(tvā)(jānāti)  
 this | danger | having known  
 <a id="s16-u20-2"></a>20.2 Dukkhaṁ viññāṇapaccayā;  
-🚻⨀①(dukkha) 🔼(viññāṇapaccayā)  
+🚻⨀①(dukkha) 🚹⨀⑤🆎(viññāṇa+paccaya)  
 suffering | caused by consciousness  
 <a id="s16-u20-3"></a>20.3 Viññāṇūpasamā bhikkhu,  
-🚹⨂①(viññāṇūpasama) 🚹⨀①(bhikkhu)  
-stilling of consciousness | bhikkhu  
+🚹⨀⑤🆎(viññāṇa+upasama) 🚹⨀①(bhikkhu)  
+from the stilling of consciousness | bhikkhu  
 <a id="s16-u20-4"></a>20.4 Nicchāto parinibbutoti.  
-🚹⨀①(nicchāta) 🚹⨀①(parinibbuta) 🔼(iti)  
-satisfied | attained final extinguishment | and so
+🚹⨀①(nicchāta) 🚹⨀①🔽(ta)(parinibbuta) ⏏️(iti)  
+satisfied | attained final extinguishment | (end quote)
 
 Whenever any suffering arises,  
 All caused by consciousness;  
@@ -516,13 +516,13 @@ And so attained final extinguishment satisfied.
 [Poṭṭhapādasutta DN 9 PTS 1.178–1.203](https://suttacentral.net/dn9) (Digha Nikaya I 180 f):
 
 <a id="s17-u7-4"></a>7.4 Sahetū hi, poṭṭhapāda, sappaccayā purisassa saññā uppajjantipi nirujjhantipi.  
-🚹⨂①(sahetu) 🔼(hi) 🚹⨀⓪(poṭṭhapāda) 🚹⨂①(sappaccaya) 🚹⨀④(purisa) 🚹⨂①(saññā) ▶️🤟⨂(uppajjati) 🔼(pi) ▶️🤟⨂(nirujjhati)  🔼(pi)  
+🚺⨂①(sahetu) ⏏️(hi) 🚹⨀⓪(poṭṭhapāda) 🚺⨂①(sappaccaya) 🚹⨀④(purisa) 🚺⨂①(saññā) 🟢⨂🤟▶️(uppajjati) ⏏️(api) 🔴⨂🤟▶️(nirujjhati) ⏏️(api)  
 with a reason | indeed | Poṭṭhapāda | with a cause | for person | apperceptions | arise | too | cease | too  
 Indeed, Poṭṭhapāda, with a reason and with a cause, saññā (apperceptions) arise and also cease for a person.
 
 <a id="s17-u7-5"></a>7.5 Sikkhā ekā saññā uppajjati, sikkhā ekā saññā nirujjhati.  
-🚺⨀①(sikkhā) 🚺⨀①(eka) 🚺⨀①(saññā) ▶️🤟⨀(uppajjati) 🚺⨀①(sikkhā) 🚺⨀①(eka) 🚺⨀①(saññā) ▶️🤟⨀(nirujjhati)  
-practice | a single | apperception | arise | practice | a single | apperception | cease  
+🚺⨀③(sikkhā) *️⃣🤟🚺⨀①(eka) 🚺⨀①(saññā) 🟢⨀🤟▶️(uppajjati) 🚺⨀③(sikkhā) *️⃣🤟🚺⨀①(eka) 🚺⨀①(saññā) 🔴⨀🤟▶️(nirujjhati)  
+by practice | a single | apperception | arise | by practice | a single | apperception | cease  
 Practice arising a single apperception, and ceasing a single apperception.
 
 ## 18. LIBERATION IS A NATURAL PROCESS
@@ -530,138 +530,138 @@ Practice arising a single apperception, and ceasing a single apperception.
 [Cetanākaraṇīyasutta AN 10.2 PTS 5.3–5.4](https://suttacentral.net/an10.2) (Anguttara Nikaya V 2 f):
 
 <a id="s18-u1-1"></a>1.1 “Sīlavato, bhikkhave, sīlasampannassa na cetanāya karaṇīyaṁ:  
-🚹⨀④(sīlavant) 🚹⨂⓪(bhikkhu) 🚹⨀④(sīlasampanna) 🔼(no) 🚺⨀③(cetanā) 🚻⨀①(karaṇīya)  
+🚹⨀④(sīlavant) 🚹⨂⓪(bhikkhu) 🚹⨀④🆎(sīla+sampanna) ⏏️(na) 🚺⨀③(cetanā) 🚻⨀①🔽(anīya)(karaṇīya)  
 for moral | bhikkhave | for accomplished in virtue | no | with intention | ought to be done  
 Bhikkhave, for the moral and accomplished in virtue, nothing ought to be done with intention.
 
 <a id="s18-u1-2"></a>1.2 ‘avippaṭisāro me uppajjatū’ti.  
-🚹⨀①(avippaṭisāra) *️⃣👆⚧⨀⑥(ahaṁ) ⏹🤟⨀(uppajjati) 🔼(ti)  
-non-regret | of me | may arise | quote  
+🚹⨀①🆎(na+vippaṭisāra) *️⃣👆⚧⨀⑥(ahaṁ) 🟢⨀🤟⏹(uppajjati) ⏏️(iti)  
+non-regret | of me | may arise | (end quote)  
 “May no regrets arise of me.”
 
 <a id="s18-u1-3"></a>1.3 Dhammatā esā, bhikkhave, yaṁ sīlavato sīlasampannassa avippaṭisāro uppajjati.  
-🚺⨀①(dhammatā) 🚺⨀①(eta) 🚹⨂⓪(bhikkhu) 🚻⨀①(ya) 🚹⨀④(sīlavant) 🚹⨀④(sīlasampanna) 🚹⨀①(avippaṭisāra) ▶️🤟⨀(uppajjati)  
-characteristic | this | bhikkhave | whoever | for moral | for accomplished in virtue | non-regret | arise  
+🚺⨀①(dhammatā) *️⃣🤟🚺⨀①(eta) 🚹⨂⓪(bhikkhu) ⏏️(yaṁ) 🚹⨀④(sīlavant) 🚹⨀④🆎(sīla+sampanna) 🚹⨀①🆎(na+vippaṭisāra) 🟢⨀🤟▶️(uppajjati)  
+characteristic | this | bhikkhave | that | for moral | for accomplished in virtue | non-regret | arise  
 This characteristic, Bhikkhave, non-regret, arises for whoever is moral and accomplished in virtue.
 
 <a id="s18-u1-4"></a>1.4 Avippaṭisārissa, bhikkhave, na cetanāya karaṇīyaṁ:  
-🚹⨀①(avippaṭisārī) 🚹⨂⓪(bhikkhu) 🔼(no) 🚺⨀③(cetanā) 🚻⨀①(karaṇīya)  
-one who has no regrets | bhikkhave | no | with intention | ought to be done  
+🚹⨀④🆎(na+vippaṭisārī) 🚹⨂⓪(bhikkhu) ⏏️(na) 🚺⨀③(cetanā) 🚻⨀①🔽(anīya)(karaṇīya)  
+for one who has no regrets | bhikkhave | no | with intention | ought to be done  
 One who has no regrets, Bhikkhave, has nothing that ought to be done with intention.
 
 <a id="s18-u1-5"></a>1.5 ‘pāmojjaṁ me uppajjatū’ti.  
-🚻⨀①(pāmojja) *️⃣👆⚧⨀⑥(ahaṁ) ⏹🤟⨀(uppajjati) 🔼(ti)  
-joy | of me | may arise | quote  
+🚻⨀①(pāmojja) *️⃣👆⚧⨀⑥(ahaṁ) 🟢⨀🤟⏹(uppajjati) ⏏️(iti)  
+joy | of me | may arise | (end quote)  
 “May joy arise of me.”
 
 <a id="s18-u1-6"></a>1.6 Dhammatā esā, bhikkhave, yaṁ avippaṭisārissa pāmojjaṁ jāyati.  
-🚺⨀①(dhammatā) 🚺⨀①(eta) 🚹⨂⓪(bhikkhu) 🚻⨀①(ya) 🚻⨀④(avippaṭisārī) 🚻⨀①(pāmojja) ▶️🤟⨀(jāyati)  
-characteristic | this | bhikkhave | whoever | for non-regret | joy | is born  
+🚺⨀①(dhammatā) *️⃣🤟🚺⨀①(eta) 🚹⨂⓪(bhikkhu) ⏏️(yaṁ) 🚹⨀④🆎(na+vippaṭisārī) 🚻⨀①(pāmojja) 🟢⨀🤟▶️(jāyati)  
+characteristic | this | bhikkhave | that | for one who has no regrets | joy | is born  
 This characteristic, Bhikkhave, joy, is born for whoever has no regrets.
 
 <a id="s18-u1-7"></a>1.7 Pamuditassa, bhikkhave, na cetanāya karaṇīyaṁ:  
-🚹⨀⑥(pamudita) 🚹⨂⓪(bhikkhu) 🔼(no) 🚺⨀③(cetanā) 🚻⨀①(karaṇīya)  
-joyous | bhikkhave | no | with intention | ought to be done  
+🚹⨀④🔽(ta)(pamudita) 🚹⨂⓪(bhikkhu) ⏏️(na) 🚺⨀③(cetanā) 🚻⨀①🔽(anīya)(karaṇīya)  
+for joyous | bhikkhave | no | with intention | ought to be done  
 One who is joyous, Bhikkhave, has nothing that ought to be done with intention.
 
 <a id="s18-u1-8"></a>1.8 ‘pīti me uppajjatū’ti.  
-🚺⨀①(pīti)*️⃣👆⚧⨀⑥(ahaṁ) ⏹🤟⨀(uppajjati) 🔼(ti)  
-delight | of me | may arise | quote  
+🚺⨀①(pīti) *️⃣👆⚧⨀⑥(ahaṁ) 🟢⨀🤟⏹(uppajjati) ⏏️(iti)  
+delight | of me | may arise | (end quote)  
 “May delight arise of me.”
 
 <a id="s18-u1-9"></a>1.9 Dhammatā esā, bhikkhave, yaṁ pamuditassa pīti uppajjati.  
-🚺⨀①(dhammatā) 🚺⨀①(eta) 🚹⨂⓪(bhikkhu) 🚻⨀①(ya) 🚹⨀④(pamudita) 🚺⨀①(pīti) ▶️🤟⨀(uppajjati)  
-characteristic | this | bhikkhave | whoever | for joyous | delight | arises  
+🚺⨀①(dhammatā) *️⃣🤟🚺⨀①(eta) 🚹⨂⓪(bhikkhu) ⏏️(yaṁ) 🚹⨀④🔽(ta)(pamudita) 🚺⨀①(pīti) 🟢⨀🤟▶️(uppajjati)  
+characteristic | this | bhikkhave | that | for joyous | delight | arises  
 This characteristic, Bhikkhave, delight, arises for whoever is joyous.
 
 <a id="s18-u1-10"></a>1.10 Pītimanassa, bhikkhave, na cetanāya karaṇīyaṁ:  
-🚹⨀⑥(pītimana) 🚹⨂⓪(bhikkhu) 🔼(no) 🚺⨀③(cetanā) 🚻⨀①(karaṇīya)  
-of delight | bhikkhave | no | with intention | ought to be done  
+🚹⨀④🆎(pīti+mana) 🚹⨂⓪(bhikkhu) ⏏️(na) 🚺⨀③(cetanā) 🚻⨀①🔽(anīya)(karaṇīya)  
+for delighted | bhikkhave | no | with intention | ought to be done  
 One who is delighted, Bhikkhave, has nothing that ought to be done with intention.
 
 <a id="s18-u1-11"></a>1.11 ‘kāyo me passambhatū’ti.  
-🚹⨀①(kāya) *️⃣👆⚧⨀⑥(ahaṁ) ⏹🤟⨀(passambhati) 🔼(ti)  
-physical body | of me | may calm down | quote  
+🚹⨀①(kāya) *️⃣👆⚧⨀⑥(ahaṁ) 🟢⨀🤟⏹(passambhati) ⏏️(iti)  
+physical body | of me | may calm down | (end quote)  
 “May my body calm down.”
 
 <a id="s18-u1-12"></a>1.12 Dhammatā esā, bhikkhave, yaṁ pītimanassa kāyo passambhati.  
-🚺⨀①(dhammatā) 🚺⨀①(eta) 🚹⨂⓪(bhikkhu) 🚻⨀①(ya) 🚻⨀④(pītimana) 🚹⨀①(kāya) ▶️🤟⨀(passambhati)  
-characteristic | this | bhikkhave | whoever | for delighted | body | calm down  
+🚺⨀①(dhammatā) *️⃣🤟🚺⨀①(eta) 🚹⨂⓪(bhikkhu) ⏏️(yaṁ) 🚹⨀④🆎(pīti+mana) 🚹⨀①(kāya) 🟢⨀🤟▶️(passambhati)  
+characteristic | this | bhikkhave | that | for delighted | body | calm down  
 This characteristic, Bhikkhave, body, calms down for whoever is delighted.
 
 <a id="s18-u1-13"></a>1.13 Passaddhakāyassa, bhikkhave, na cetanāya karaṇīyaṁ:  
-🚹⨀⑥(passaddhakāya) 🚹⨂⓪(bhikkhu) 🔼(no) 🚺⨀③(cetanā) 🚻⨀①(karaṇīya)  
-of calm body | bhikkhave | no | with intention | ought to be done  
+🚹⨀④🆎(passaddha+kāya) 🚹⨂⓪(bhikkhu) ⏏️(na) 🚺⨀③(cetanā) 🚻⨀①🔽(anīya)(karaṇīya)  
+for one of calm body | bhikkhave | no | with intention | ought to be done  
 One of calm body, Bhikkhave, has nothing that ought to be done with intention.
 
 <a id="s18-u1-14"></a>1.14 ‘sukhaṁ vediyāmī’ti.  
-🚺⨀②(sukha) ⏹👆⨀(vediyati) 🔼(ti)  
-happiness | may experience | quote  
+🚻⨀②(sukha) 🟢⨀👆▶️(vediyati) ⏏️(iti)  
+happiness | I experience | (end quote)  
 “May I experience happiness.”
 
 <a id="s18-u1-15"></a>1.15 Dhammatā esā, bhikkhave, yaṁ passaddhakāyo sukhaṁ vediyati.  
-🚺⨀①(dhammatā) 🚺⨀①(eta) 🚹⨂⓪(bhikkhu) 🚻⨀①(ya) 🚹⨀①(passaddhakāya) 🚻⨀①(sukha) ▶️🤟⨀(vediyati)  
-characteristic | this | bhikkhave | whoever | calm body | happiness | experience  
+🚺⨀①(dhammatā) *️⃣🤟🚺⨀①(eta) 🚹⨂⓪(bhikkhu) ⏏️(yaṁ) 🚹⨀①🆎(passaddha+kāya) 🚻⨀②(sukha) 🟢⨀🤟▶️(vediyati)  
+characteristic | this | bhikkhave | that | one of calm body | happiness | experience  
 This characteristic, Bhikkhave, happiness, is experienced for whoever has a calm body.
 
 <a id="s18-u1-16"></a>1.16 Sukhino, bhikkhave, na cetanāya karaṇīyaṁ:  
-🚹⨂①(sukhī) 🚹⨂⓪(bhikkhu) 🔼(no) 🚺⨀③(cetanā) 🚻⨀①(karaṇīya)  
-one who is happy | bhikkhave | no | with intention | ought to be done  
+🚹⨀④(sukhī) 🚹⨂⓪(bhikkhu) ⏏️(na) 🚺⨀③(cetanā) 🚻⨀①🔽(anīya)(karaṇīya)  
+for one who is happy | bhikkhave | no | with intention | ought to be done  
 One who is happy, Bhikkhave, has nothing that ought to be done with intention.
 
 <a id="s18-u1-17"></a>1.17 ‘cittaṁ me samādhiyatū’ti.  
-🚻⨀①(citta) *️⃣👆⚧⨀⑥(ahaṁ) ⏹🤟⨀(samādhiyati) 🔼(ti)  
-mind | of me | must become composed | quote  
+🚻⨀①(citta) *️⃣👆⚧⨀⑥(ahaṁ) 🔴⨀🤟⏹(samādhiyati) ⏏️(iti)  
+mind | of me | must become composed | (end quote)  
 “May my mind become composed.”
 
 <a id="s18-u1-18"></a>1.18 Dhammatā esā, bhikkhave, yaṁ sukhino cittaṁ samādhiyati.  
-🚺⨀①(dhammatā) 🚺⨀①(eta) 🚹⨂⓪(bhikkhu) 🚻⨀①(ya) 🚹⨀④(sukhī) 🚻⨀①(citta) ▶️🤟⨀(samādhiyati)  
-characteristic | this | bhikkhave | whoever | for happy | mind | become composed  
+🚺⨀①(dhammatā) *️⃣🤟🚺⨀①(eta) 🚹⨂⓪(bhikkhu) ⏏️(yaṁ) 🚹⨀④(sukhī) 🚻⨀①(citta) 🔴⨀🤟▶️(samādhiyati)  
+characteristic | this | bhikkhave | that | for happy | mind | become composed  
 This characteristic, Bhikkhave, mind, becomes composed for whoever is happy.
 
 <a id="s18-u1-19"></a>1.19 Samāhitassa, bhikkhave, na cetanāya karaṇīyaṁ:  
-🚹⨀⑥(samāhita) 🚹⨂⓪(bhikkhu) 🔼(no) 🚺⨀③(cetanā) 🚻⨀①(karaṇīya)  
-composed | bhikkhave | no | with intention | ought to be done  
+🚹⨀④🔽(ta)(samāhita) 🚹⨂⓪(bhikkhu) ⏏️(na) 🚺⨀③(cetanā) 🚻⨀①🔽(anīya)(karaṇīya)  
+for composed | bhikkhave | no | with intention | ought to be done  
 One who is composed, Bhikkhave, has nothing that ought to be done with intention.
 
 <a id="s18-u1-20"></a>1.20 ‘yathābhūtaṁ jānāmi passāmī’ti.  
-🚹⨀②(yathābhūta) ⏹👆⨀(jānāti) ⏹👆⨀(passati) 🔼(ti)  
-reality as it is | may know | may see  
+⏏️🆎(yathā+bhūta) 🟢⨀👆▶️(jānāti) 🟢⨀👆▶️(passati) ⏏️(iti)  
+reality as it is | I know | I see | (end quote)  
 “May I see and know reality as it is.”
 
 <a id="s18-u1-21"></a>1.21 Dhammatā esā, bhikkhave, yaṁ samāhito yathābhūtaṁ jānāti passati.  
-🚺⨀①(dhammatā) 🚺⨀①(eta) 🚹⨂⓪(bhikkhu) 🚻⨀①(ya) 🚹⨀①(samāhita) 🚻⨀①(yathābhūta) ▶️👆⨀(jānāti) ▶️👆⨀(passati)  
-characteristic | this | bhikkhave | whoever | is composed | reality as it is | know | see  
+🚺⨀①(dhammatā) *️⃣🤟🚺⨀①(eta) 🚹⨂⓪(bhikkhu) ⏏️(yaṁ) 🚹⨀①🔽(ta)(samāhita) ⏏️🆎(yathā+bhūta) 🟢⨀🤟▶️(jānāti) 🟢⨀🤟▶️(passati)  
+characteristic | this | bhikkhave | that | is composed | reality as it is | know | see  
 This characteristic, Bhikkhave, reality as it is, is seen and known for whoever is composed.
 
 <a id="s18-u1-22"></a>1.22 Yathābhūtaṁ, bhikkhave, jānato passato na cetanāya karaṇīyaṁ:  
-🚹⨀②(yathābhūta) 🚹⨂⓪(bhikkhu) 🚻⨀④(jānanta) 🚹⨀④(passanta) 🔼(no) 🚺⨀③(cetanā) 🚻⨀①(karaṇīya)  
+⏏️🆎(yathā+bhūta) 🚹⨂⓪(bhikkhu) 🚹⨀④🔽(anta)(jānanta) 🚹⨀④🔽(anta)(passanta) ⏏️(na) 🚺⨀③(cetanā) 🚻⨀①🔽(anīya)(karaṇīya)  
 reality as it is | bhikkhave | for knowing | for seeing | no | with intention | ought to be done  
 One who sees and know reality as it is, Bhikkhave, has nothing that ought to be done with intention.
 
 <a id="s18-u1-23"></a>1.23 ‘nibbindāmi virajjāmī’ti.  
-⏹👆⨀(nibbindati) ⏹👆⨀(virajjati) 🔼(ti)  
-must be dispassionate | must be detached | quote  
+🟢⨀👆▶️(nibbindati) 🟢⨀👆▶️(virajjati) ⏏️(iti)  
+I give up | I become detached | (end quote)  
 “May I be dispassionate and detached.”
 
 <a id="s18-u1-24"></a>1.24 Dhammatā esā, bhikkhave, yaṁ yathābhūtaṁ jānaṁ passaṁ nibbindati virajjati.  
-🚺⨀①(dhammatā) 🚺⨀①(eta) 🚹⨂⓪(bhikkhu) 🚻⨀①(ya) 🚹⨀②(yathābhūta) 🚹⨂④(ja) 🚹⨂④(passanta) ▶️🤟⨀(nibbindati) ▶️🤟⨀(virajjati)  
-characteristic | this | bhikkhave | whoever | reality as it is | knowing | seeing | become dispassionate | become detached  
+🚺⨀①(dhammatā) *️⃣🤟🚺⨀①(eta) 🚹⨂⓪(bhikkhu) ⏏️(yaṁ) ⏏️🆎(yathā+bhūta) 🚹⨀①🔽(anta)(jānanta) 🚹⨀①🔽(anta)(passanta) 🟢⨀🤟▶️(nibbindati) 🟢⨀🤟▶️(virajjati)  
+characteristic | this | bhikkhave | that | reality as it is | knowing | seeing | gives up | becomes detached  
 This characteristic, Bhikkhave, one becomes dispassionate and detached for whoever seeing and knowing reality as it is.
 
 <a id="s18-u1-25"></a>1.25 Nibbinnassa, bhikkhave, virattassa na cetanāya karaṇīyaṁ:  
-🚹⨀⑥(nibbinna) 🚹⨂⓪(bhikkhu) 🚹⨀⑥(viratta) 🔼(no) 🚺⨀③(cetanā) 🚻⨀①(karaṇīya)  
-of dispassionate | bhikkhave | of detached | no | with intention | ought to be done  
+🚹⨀④🔽(ta)(nibbinna) 🚹⨂⓪(bhikkhu) 🚹⨀④🔽(ta)(viratta) ⏏️(na) 🚺⨀③(cetanā) 🚻⨀①🔽(anīya)(karaṇīya)  
+for one who has given up | bhikkhave | for detached | no | with intention | ought to be done  
 One who becomes dispassionate and detached, Bhikkhave, has nothing that ought to be done with intention.
 
 <a id="s18-u1-26"></a>1.26 ‘vimuttiñāṇadassanaṁ sacchikaromī’ti.  
-🚻⨀②(vimuttiñāṇadassana) ⏹👆⨀(sacchikaroti) 🔼(ti)  
-understanding and insight into liberation | may personally realise | quote  
+🚻⨀②🆎(vimutti+ñāṇa+dassana) 🟢⨀👆▶️(sacchikaroti) ⏏️(iti)  
+understanding and insight into liberation | I personally realise | (end quote)  
 “May I personally realise understanding and insight into liberation.”
 
 <a id="s18-u1-27"></a>1.27 Dhammatā esā, bhikkhave, yaṁ nibbinno viratto vimuttiñāṇadassanaṁ sacchikaroti.  
-🚺⨀①(dhammatā) 🚺⨀①(eta) 🚹⨂⓪(bhikkhu) 🚻⨀①(ya) 🚹⨀①(nibbinna) 🚹⨀①(viratta) 🚻⨀②(vimuttiñāṇadassana) ▶️🤟⨀(sacchikaroti)  
-characteristic | this | bhikkhave | whoever | one who is dispassionate | one who is detached | understanding and insight into liberation | personally realises  
+🚺⨀①(dhammatā) *️⃣🤟🚺⨀①(eta) 🚹⨂⓪(bhikkhu) ⏏️(yaṁ) 🚹⨀①🔽(ta)(nibbinna) 🚹⨀①🔽(ta)(viratta) 🚻⨀②🆎(vimutti+ñāṇa+dassana) 🟢⨀🤟▶️(sacchikaroti)  
+characteristic | this | bhikkhave | that | one who has given up | one who is detached | understanding and insight into liberation | personally realises  
 This characteristic, Bhikkhave, one personally realises understanding and insight into liberation for whoever is dispassionate and detached.
 
 ## 19. THE ORIGIN AND CONTROL OF SUFFERING
@@ -669,48 +669,48 @@ This characteristic, Bhikkhave, one personally realises understanding and insigh
 [Dukkhasamudayasutta SN 35.106 PTS 4.87](https://suttacentral.net/sn35.106) (Samyutta Nikaya IV 86):
 
 <a id="s19-u2-2"></a>2.2 Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ. Tiṇṇaṁ saṅgati phasso.  
-🚻⨀①(cakkhu) 🔼(ca) 🔼(paṭicca) 🚻⨀⑦(rūpa) 🔼(ca) ▶️🤟⨀(uppajjati) 🚻⨀①(cakkhuviññāṇa) 🚹⨂⑥(ti) 🚺⨀①(saṅgati) 🚹⨀①(phassa)  
-faculty of seeing | and | dependent on | on form | and | arises | visual-consciousness | of 3 | combined together | contact  
+🚻⨀②(cakkhu) ⏏️(ca) 🔽(ya)(paṭicceti) 🚻⨂②(rūpa) ⏏️(ca) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🆎(cakkhu+viññāṇa) 🚻⨂⑥(ti) 🚺⨀①(saṅgati) 🚹⨀①(phassa)  
+faculty of seeing | and | dependent on | forms | and | arises | visual-consciousness | of three | combined together | contact  
 Visual consciousness (cakkhuviññāṇa) arises dependent on rūpa (form) and the faculty of seeing. The three combined together is phassa (contact).
 
 <a id="s19-u2-3"></a>2.3 Phassapaccayā vedanā;  
-🚺⨂①(phassapaccaya) 🚺⨂①(vedanā)  
-with contact as cause | feelings  
+🚹⨀⑤🆎(phassa+paccaya) 🚺⨀①(vedanā)  
+with contact as cause | feeling  
 With phassa (contact) as cause, vedanā (feelings).
 
 <a id="s19-u2-4"></a>2.4 vedanāpaccayā taṇhā.  
-🚺⨂①(vedanāpaccayā) 🚺⨂①(taṇhā)  
+🚹⨀⑤🆎(vedanā+paccaya) 🚺⨀①(taṇhā)  
 with feelings as cause | craving  
 With vedanā (feelings) as cause, taṇhā (craving).
 
 <a id="s19-u2-5"></a>2.5 Tassāyeva taṇhāya asesavirāganirodhā upādānanirodho;  
-🔼(tassāyeva) 🚺⨀⑥(taṇhā) 🚹⨂①(asesavirāganirodha) 🚹⨀①(upādānanirodha)  
-of that very | of craving | complete fading away and ending | cessation of fuel  
+*️⃣🤟🚺⨀⑥(ta) ⏏️(eva) 🚺⨀⑥(taṇhā) 🚹⨀⑤🆎(asesa+virāga+nirodha) 🚹⨀①🆎(upādāna+nirodha)  
+of that | very | of craving | with the complete fading away and ending | cessation of fuel  
 While completely fading away and ending of craving, cessation of fuel for suffering.
 
 <a id="s19-u2-6"></a>2.6 upādānanirodhā bhavanirodho;  
-🚹⨀⑤(upādānanirodha) 🚹⨀①(bhavanirodha)  
+🚹⨀⑤🆎(upādāna+nirodha) 🚹⨀①🆎(bhava+nirodha)  
 from cessation of fuel | cessation of existence  
 From cessation of fuel, cessation of the existence of suffering.
 
 <a id="s19-u2-7"></a>2.7 bhavanirodhā jātinirodho;  
-🚹⨀⑤(bhavanirodha) 🚹⨀①(jātinirodha)  
+🚹⨀⑤🆎(bhava+nirodha) 🚹⨀①🆎(jāti+nirodha)  
 from cessation of existence | cessation of birth  
 From cessation of existence, cessation of the birth of suffering.
 
 <a id="s19-u2-8"></a>2.8 jātinirodhā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā nirujjhanti.  
-🚹⨀⑤(jātinirodha) 🚻⨀①(jarāmaraṇa) 🚹⨂①(sokaparidevadukkhadomanassupāyāsā) ▶️🤟⨂(nirujjhati)  
+🚹⨀⑤🆎(jāti+nirodha) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🔴⨂🤟▶️(nirujjhati)  
 From cessation of birth | aging and death | sorrow, lamentation, pain, displeasure and despair | cease  
 From cessation of birth, aging and death, sorrow, lamentation, pain, displeasure and despair cease.
 
 <a id="s19-u2-9"></a>2.9 Evametassa kevalassa dukkhakkhandhassa nirodho hoti.  
-🔼(evametassa) 🚹⨀⑥(kevala) 🚹⨀⑥(dukkhakkhandha) 🚹⨀①(nirodha) ▶️🤟⨀(hoti)  
-thus of this | of whole lot | of mass of suffering | cessation | is  
+⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(nirodha) 🟢⨀🤟▶️(hoti)  
+thus | of this | of whole lot | of mass of suffering | cessation | is  
 Thus of this whole lot, there is cessation of mass of suffering.
 
 <a id="s19-u2-10"></a>2.10 Ayaṁ dukkhassa atthaṅgamo  
-🚹⨀①(ima) 🚹⨀⑥(dukkha) 🚹⨀①(atthaṅgama)  
-this | suffering | disappearance of  
+*️⃣🤟🚹⨀①(ima) 🚻⨀⑥(dukkha) 🚹⨀①🆎(attha+gama)  
+this | of suffering | disappearance  
 This is disappearance of dukkha (suffering).
 
 ## 20. EVERYTHING IS CAUSED
@@ -718,30 +718,30 @@ This is disappearance of dukkha (suffering).
 [Selāsutta SN 5.9 PTS (1st ed) SN i 134 PTS (2nd ed) 1.295](https://suttacentral.net/sn5.9) (Samyutta Nikaya I 134):
 
 <a id="s20-u5-1"></a>5.1 Yathā aññataraṁ bījaṁ,  
-🔼(yathā) 🚻⨀①(aññatara) 🚻⨀①(bīja)  
+⏏️(yathā) *️⃣🤟🚻⨀①(aññatara) 🚻⨀①(bīja)  
 like | a certain | seed  
 <a id="s20-u5-2"></a>5.2 khette vuttaṁ virūhati;  
-🚻⨀⑦(khetta) 🚻⨀①(vutta) ▶️🤟⨀(virūhati)  
+🚻⨀⑦(khetta) 🚻⨀①🔽(ta)(vutta) 🟢⨀🤟▶️(virūhati)  
 in field | sown | grows  
 <a id="s20-u5-3"></a>5.3 Pathavīrasañcāgamma,  
-🚹⨀②(pathavīrasa) 🔼(ca) 🔼(āgamma)  
+🚹⨀②🆎(pathavī+rasa) ⏏️(ca) 🔽(ya)(āgacchati)  
 soil nutrients | and | meeting with  
 <a id="s20-u5-4"></a>5.4 sinehañca tadūbhayaṁ.  
-🚹⨀②(sineha) 🔼(ca) 🚻⨀①(tadūbhaya)  
+🚹⨀②(sineha) ⏏️(ca) 🚻⨀②🆎(ta+ubhaya)  
 moisture | and | both of those
 
 <a id="s20-u6-1"></a>6.1 Evaṁ khandhā ca dhātuyo,  
-🔼(evaṁ) 🚹⨂①(khandha) 🔼(ca) 🚺⨂①(dhātu)  
+⏏️(evaṁ) 🚹⨂①(khandha) ⏏️(ca) 🚺⨂①(dhātu)  
 thus | collections | and | elements  
 <a id="s20-u6-2"></a>6.2 cha ca āyatanā ime;  
-⚧⨂①(cha) 🔼(ca) 🚻⨂①(āyatana) 🚹⨂①(ima)  
+⚧⨂①(cha) ⏏️(ca) 🚻⨂①(āyatana) *️⃣🤟🚻⨂①(ima)  
 six | and | sense bases | these  
 <a id="s20-u6-3"></a>6.3 Hetuṁ paṭicca sambhūtā,  
-🚹⨀②(hetu) 🔼(paṭicca) 🚹⨂①(sambhūta)  
-reason for | dependence | arisen  
+🚹⨀②(hetu) 🔽(ya)(paṭicceti) 🚹⨂①🔽(ta)(sambhūta)  
+cause | dependent on | arisen  
 <a id="s20-u6-4"></a>6.4 hetubhaṅgā nirujjhare”ti.  
-🚹⨂①(hetubhaṅga) 🔵▶️🤟⨂(nirujjhati)  
-disintegration of dependence | ceases
+🚹⨀⑤🆎(hetu+bhaṅga) 🔵⨂🤟▶️(nirujjhati) ⏏️(iti)  
+from disintegration of cause | cease | (end quote)
 
 Like a certain seed,  
 Sown in field, grows;  
@@ -758,16 +758,16 @@ Disintegration of dependence, ceases
 [Paṇḍitavagga Dhp 76–89 PTS (1st ed) 12–13 PTS (2nd ed) 22–25](https://suttacentral.net/dhp76-89) Paṇḍitasāmaṇeravatthu (Dhammapada, verse 80):
 
 <a id="s21-u1"></a>1 Udakañhi nayanti nettikā,  
-🚻⨀①(udaka) 🔼(hi) ▶️🤟⨂(nayati) 🚹⨂①(nettika)  
-water | certainly | guides | irrigator  
+🚻⨀②(udaka) ⏏️(hi) 🟢⨂🤟▶️(nayati) 🚹⨂①(nettika)  
+water | certainly | guide | irrigators  
 <a id="s21-u2"></a>2 Usukārā namayanti tejanaṁ;  
-🚹⨂①(usukāra) ▶️🤟⨂(namayati) 🚻⨀②(tejana)  
-arrow-maker | straighten | arrow  
+🚹⨂①🆎(usu+kāra) 🟠⨂🤟▶️(namayati) 🚻⨀②(tejana)  
+arrow-makers | straighten | arrow  
 <a id="s21-u3"></a>3 Dāruṁ namayanti tacchakā,  
-🚻⨀②(dāru) ▶️🤟⨂(namayati) 🚹⨂①(tacchaka)  
+🚻⨀②(dāru) 🟠⨂🤟▶️(namayati) 🚹⨂①(tacchaka)  
 wood | straighten | carpenters  
 <a id="s21-u4"></a>4 Attānaṁ damayanti paṇḍitā.  
-🚹⨀②(atta) ▶️🤟⨂(damayati) 🚹⨂①(paṇḍita)  
+🚹⨀②(atta) 🟠⨂🤟▶️(damayati) 🚹⨂①(paṇḍita)  
 self | tame | the wise
 
 Irrigators guide water,  
@@ -780,16 +780,16 @@ The wise tame the self.
 [Bālavagga Dhp 60–75 PTS (1st ed) 10–11 PTS (2nd ed) 17–20](https://suttacentral.net/dhp60-75) Ahipetavatthu (Dhammapada, verse 71):
 
 <a id="s22-u1"></a>1 Na hi pāpaṁ kataṁ kammaṁ,  
-🔼(nahi) 🚻⨀①(pāpa) 🚻⨀①(kata) 🚻⨀①(kamma)  
-by no means | wrong | completed | action  
+⏏️(na) ⏏️(hi) 🚻⨀①(pāpa) 🚻⨀①🔽(ta)(kata) 🚻⨀①(kamma)  
+not | indeed | wrong | completed | action  
 <a id="s22-u2"></a>2 Sajjukhīraṁva muccati;  
-🔼(sajju) 🚻⨀①(khīra) 🔼(iva) ▶️🤟⨀(muccati)  
+⏏️(sajju) 🚻⨀①(khīra) ⏏️(iva) 🟢⨀🤟▶️(muccati)  
 quickly | milk | like | thicken  
 <a id="s22-u3"></a>3 Ḍahantaṁ bālamanveti,  
-🚹⨀②(ḍahanta) 🚻⨀①(bāla) ▶️🤟⨀(anveti)  
-smouldering | foolish | follow  
+🚻⨀①🔽(anta)(ḍahanta) 🚹⨀②(bāla) 🟢⨀🤟▶️(anveti)  
+smouldering | the fool | follows  
 <a id="s22-u4"></a>4 Bhasmacchannova pāvako.  
-🚹⨀①(bhasmacchanna) 🔼(iva) 🚹⨀①(pāvaka)  
+🚹⨀①🆎(bhasma+channa) ⏏️(iva) 🚹⨀①(pāvaka)  
 covered with ashes | like | fire
 
 By no means completed wrong action,  
@@ -802,23 +802,23 @@ Like fire covered with ashes.
 [Saṅkhārasutta AN 3.23 PTS 1.123](https://suttacentral.net/an3.23)(Anguttara Nikaya I 122):
 
 <a id="s23-u1-3"></a>1.3 Idha,, ekacco puggalo sabyābajjhaṁ kāyasaṅkhāraṁ abhisaṅkharoti, sabyābajjhaṁ vacīsaṅkhāraṁ abhisaṅkharoti, sabyābajjhaṁ manosaṅkhāraṁ abhisaṅkharoti.  
-🔼(idha) 🚹⨀①(ekacca) 🚹⨀①(puggala) 🚹⨀②(sabyābajjha) 🚹⨀②(kāyasaṅkhāra) ▶️🤟⨀(abhisaṅkharoti) 🚹⨀②(sabyābajjha) 🚹⨀②(vacīsaṅkhāra) ▶️🤟⨀(abhisaṅkharoti) 🚹⨀②(sabyābajjha) 🚹⨀②(manosaṅkhāra) ▶️🤟⨀(abhisaṅkharoti)  
+⏏️(idha) *️⃣🤟🚹⨀①(ekacca) 🚹⨀①(puggala) 🚹⨀②(sabyābajjha) 🚹⨀②🆎(kāya+saṅkhāra) 🟢⨀🤟▶️(abhisaṅkharoti) 🚹⨀②(sabyābajjha) 🚹⨀②🆎(vacī+saṅkhāra) 🟢⨀🤟▶️(abhisaṅkharoti) 🚹⨀②(sabyābajjha) 🚹⨀②🆎(mano+saṅkhāra) 🟢⨀🤟▶️(abhisaṅkharoti)  
 here | a certain | person | harmful | intention which results in bodily action | generates | harmful | intention which results in verbal action | generates | harmful | intention which results in mental action | generates  
 Here, a certain person generates harmful intentions resulting in bodily, verbal and mental actions.
 
 <a id="s23-u1-4"></a>1.4 So sabyābajjhaṁ kāyasaṅkhāraṁ abhisaṅkharitvā, sabyābajjhaṁ vacīsaṅkhāraṁ abhisaṅkharitvā, sabyābajjhaṁ manosaṅkhāraṁ abhisaṅkharitvā sabyābajjhaṁ lokaṁ upapajjati.  
-🚹⨀①(ta) 🚹⨀②(sabyābajjha) 🚹⨀②(kāyasaṅkhāra) 🔼(abhisaṅkharitvā) 🚹⨀②(sabyābajjha) 🚹⨀②(vacīsaṅkhāra) 🔼(abhisaṅkharitvā) 🚹⨀②(sabyābajjha) 🚹⨀②(manosaṅkhāra) 🔼(abhisaṅkharitvā) 🚹⨀②(sabyābajjha) 🚹⨀②(loka) ▶️🤟⨀(upapajjati)  
+*️⃣🤟🚹⨀①(ta) 🚹⨀②(sabyābajjha) 🚹⨀②🆎(kāya+saṅkhāra) 🔽(tvā)(abhisaṅkharoti) 🚹⨀②(sabyābajjha) 🚹⨀②🆎(vacī+saṅkhāra) 🔽(tvā)(abhisaṅkharoti) 🚹⨀②(sabyābajjha) 🚹⨀②🆎(mano+saṅkhāra) 🔽(tvā)(abhisaṅkharoti) 🚹⨀②(sabyābajjha) 🚹⨀②(loka) 🟢⨀🤟▶️(upapajjati)  
 he | harmful | intention which results in bodily action | having generated | harmful | intention which results in verbal action | having generated | harmful | intention which results in mental action | having generated | harmful | world | is reborn in  
 Having generated harmful intentions resulting in bodily, verbal and mental actions, he is reborn in a harmful world.
 
 <a id="s23-u1-5"></a>1.5 Tamenaṁ sabyābajjhaṁ lokaṁ upapannaṁ samānaṁ sabyābajjhā phassā phusanti.  
-🔼(tamenaṁ) 🚹⨀②(sabyābajjha) 🚹⨀②(loka) 🚹⨀②(upapanna) 🚻⨀①(samāna) 🚹⨀③(sabyābajjha) 🚹⨀③(phassa) ▶️🤟⨂(phusati)  
-that person | harmful | world | is reborn in | being | with harmful | with contact | afflicted  
+*️⃣🤟🚹⨀②(ta) *️⃣🤟🚹⨀②(eta) 🚹⨀②(sabyābajjha) 🚹⨀②(loka) 🚹⨀②🔽(ta)(upapanna) 🚹⨀②🔽(māna)(samāna) 🚹⨂①(sabyābajjha) 🚹⨂①(phassa) 🟢⨂🤟▶️(phusati)  
+that | this one | harmful | world | is reborn in | being | harmful | contacts | afflict  
 That being, who is reborn in a harmful world, is afflicted with harmful contact.
 
 <a id="s23-u1-6"></a>1.6 So sabyābajjhehi phassehi phuṭṭho samāno sabyābajjhaṁ vedanaṁ vedayati ekantadukkhaṁ, seyyathāpi sattā nerayikā.  
-🚹⨀①(ta) 🚹⨂③(sabyābajjha) 🚹⨂③(phassa) 🚹⨀①(phuṭṭha) 🚹⨀①(samāna) 🚺⨀②(sabyābajjha) 🚺⨀②(vedanā) ▶️🤟⨀(vedayati) 🚺⨀②(ekantadukkha) 🔼(seyyathāpi) 🚹⨂①(satta) 🚹⨂①(nerayika)  
-that | with harmful | with contact | afflicted with | being | harmful | feelings | totally painful | just like | being | living in hell  
+*️⃣🤟🚹⨀①(ta) 🚹⨂③(sabyābajjha) 🚹⨂③(phassa) 🚹⨀①🔽(ta)(phuṭṭha) 🚹⨀①🔽(māna)(samāna) 🚺⨀②(sabyābajjha) 🚺⨀②(vedanā) 🟢⨀🤟▶️(vedayati) 🚺⨀②🆎(ekanta+dukkha) ⏏️(seyyathāpi) 🚹⨂①(satta) 🚹⨂①(nerayika)  
+that | with harmful | with contact | afflicted with | being | harmful | feeling | experiences | totally painful | just like | beings | living in hell  
 That being, who is afflicted with harmful contact, experiences totally painful harmful feelings just like beings living in hell.
 
 ## 24. A STRONG WISH MAY INFLUENCE REBIRTH
@@ -826,33 +826,33 @@ That being, who is afflicted with harmful contact, experiences totally painful h
 [Saṅkhārupapattisutta MN 120 PTS 3.100–3.103](https://suttacentral.net/mn120) (Majjhima Nikaya III 99 f):
 
 <a id="s24-u3-1"></a>3.1 “Idha, bhikkhave, bhikkhu saddhāya samannāgato hoti, sīlena samannāgato hoti, sutena samannāgato hoti, cāgena samannāgato hoti, paññāya samannāgato hoti.  
-🔼(idha) 🚹⨂⓪(bhikkhu) 🚹⨀①(bhikkhu) 🚺⨀③(saddhā) 🚹⨀①(samannāgata) ▶️🤟⨀(hoti) 🚻⨀③(sīla) 🚹⨀①(samannāgata) ▶️🤟⨀(hoti) 🚹⨀③(suta) 🚹⨀①(samannāgata) ▶️🤟⨀(hoti) 🚹⨀③(cāga) 🚹⨀①(samannāgata) ▶️🤟⨀(hoti) 🚺⨀③(paññā) 🚹⨀①(samannāgata) ▶️🤟⨀(hoti)  
+⏏️(idha) 🚹⨂⓪(bhikkhu) 🚹⨀①(bhikkhu) 🚺⨀③(saddhā) 🚹⨀①🔽(ta)(samannāgata) 🟢⨀🤟▶️(hoti) 🚻⨀③(sīla) 🚹⨀①🔽(ta)(samannāgata) 🟢⨀🤟▶️(hoti) 🚻⨀③(suta) 🚹⨀①🔽(ta)(samannāgata) 🟢⨀🤟▶️(hoti) 🚹⨀③(cāga) 🚹⨀①🔽(ta)(samannāgata) 🟢⨀🤟▶️(hoti) 🚺⨀③(paññā) 🚹⨀①🔽(ta)(samannāgata) 🟢⨀🤟▶️(hoti)  
 here | bhikkhave | bhikkhu | with faith | endowed (with) | is | with virtue | endowed (with) | is | with learning | endowed (with) | is | with generosity | endowed (with) | is | with wisdom | endowed (with) | is  
 Here, Bhikkhave, a bhikkhu is endowed with faith, virtue, learning, generosity and wisdom.
 
 <a id="s24-u3-2"></a>3.2 Tassa evaṁ hoti:  
-🔼(tassa evaṁ hoti)  
+*️⃣🤟🚹⨀⑥(ta) ⏏️(evaṁ) 🟢⨀🤟▶️(hoti)  
 of that | thus | is  
 It occurred to him:
 
 <a id="s24-u3-3"></a>3.3 ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā khattiyamahāsālānaṁ sahabyataṁ upapajjeyyan’ti.  
-🔼(aho) 🔼(vatāhaṁ) 🚹⨀⑥(kāya) 🚹⨂①(bheda) 🚻⨀①(para) 🚻⨂①(maraṇa) 🚹⨂⑥(khattiyamahāsāla) 🚺⨀①(sahabyatā) 🔵⏯👆⨀(upapajjati) 🔼(ti)  
-oh dear! | oh no! | of body | death | another | following | death | (for) wealthy man of the ruling caste | company of | should reborn  
+⏏️(aho) ⏏️(vata) *️⃣👆⚧⨀①(ahaṁ) 🚹⨀⑥(kāya) 🚹⨀⑤(bheda) ⏏️(paraṁ) 🚻⨀⑤(maraṇa) 🚹⨂⑥🆎(khattiya+mahāsāla) 🚺⨀②(sahabyatā) 🔵⨀👆⏯(upapajjati) ⏏️(iti)  
+oh! | indeed | I | of body | from the breakup | after | from death | of wealthy men of the ruling caste | company | should be reborn | (end quote)  
 “Oh dear, oh no, death (of my) body, following death, I should be reborn in company of wealthy men of the ruling caste.”
 
 <a id="s24-u3-4"></a>3.4 So taṁ cittaṁ dahati, taṁ cittaṁ adhiṭṭhāti, taṁ cittaṁ bhāveti.  
-🚹⨀①(ta) 🚹⨀②(ta) 🚹⨀②(citta) ▶️🤟⨀(dahati) 🚹⨀②(ta) 🚹⨀②(citta) ▶️🤟⨀(adhiṭṭhāti) 🚹⨀②(ta) 🚹⨀②(citta)  
-he | his | mind | takes as | his | mind | focuses | his | mind | cultivates  
+*️⃣🤟🚹⨀①(ta) *️⃣🤟🚻⨀②(ta) 🚻⨀②(citta) 🟢⨀🤟▶️(dahati) *️⃣🤟🚻⨀②(ta) 🚻⨀②(citta) 🟢⨀🤟▶️(adhiṭṭhāti) *️⃣🤟🚻⨀②(ta) 🚻⨀②(citta) 🟠⨀🤟▶️(bhāveti)  
+he | that | mind | takes as | that | mind | focuses | that | mind | cultivates  
 He takes his mind, focuses and cultivates it.
 
 <a id="s24-u3-5"></a>3.5 Tassa te saṅkhārā ca vihārā ca evaṁ bhāvitā evaṁ bahulīkatā tatrupapattiyā saṁvattanti.  
-🚹⨀⑥(ta) 🚹⨂①(ta) 🚹⨂①(saṅkhāra) 🔼(ca) 🚹⨂①(vihāra)🔼(ca) 🔼(evaṁ) 🚹⨂①(bhāvita) 🔼(evaṁ) 🚹⨂①(bahulīkata) 🚺⨀⑦(tatrupapatti) ▶️🤟⨂(saṁvattati)  
-of that | those | mental constructions | and | state of mind | and | thus | cultivated | thus | practised often | in rebirth | leads to  
+*️⃣🤟🚹⨀⑥(ta) *️⃣🤟🚹⨂①(ta) 🚹⨂①(saṅkhāra) ⏏️(ca) 🚹⨂①(vihāra) ⏏️(ca) ⏏️(evaṁ) 🚹⨂①🔽(ta)(bhāvita) ⏏️(evaṁ) 🚹⨂①🆎(bahula+kata) 🚺⨀④🆎(tatra+upapatti) 🟢⨂🤟▶️(saṁvattati)  
+of that | those | mental constructions | and | states of mind | and | thus | cultivated | thus | practised often | to rebirth there | lead to  
 Regarding that, those mental constructions and state of mind, thus cultivated and practised often, leads to rebirth.
 
 <a id="s24-u3-6"></a>3.6 Ayaṁ, bhikkhave, maggo ayaṁ paṭipadā tatrupapattiyā saṁvattati.  
-🚹⨀①(ima) 🚹⨂⓪(bhikkhu) 🚹⨀①(magga) 🚹⨀①(ima) 🚹⨂①(paṭipada) 🚺⨀⑦(tatrupapatti) ▶️🤟⨂(saṁvattati)  
-this | bhikkhave | way | this | path of progress | in rebirth | leads to  
+*️⃣🤟🚹⨀①(ima) 🚹⨂⓪(bhikkhu) 🚹⨀①(magga) *️⃣🤟🚺⨀①(ima) 🚺⨀①(paṭipadā) 🚺⨀④🆎(tatra+upapatti) 🟢⨀🤟▶️(saṁvattati)  
+this | bhikkhave | way | this | path of progress | to rebirth there | leads to  
 This way, Bhikkhave, this path of progress leads to rebirth.
 
 ## 25. A SUMMARY OF THE WAY
@@ -860,17 +860,17 @@ This way, Bhikkhave, this path of progress leads to rebirth.
 [Buddhavagga Dhp 179–196 PTS (1st ed) 27–29 PTS (2nd ed) 51–55](https://suttacentral.net/dhp179-196) Buddhavagga (Dhammapada, verse 183):
 
 <a id="s25-u1"></a>1 Sabbapāpassa akaraṇaṁ,  
-🚻⨀⑥(sabbapāpa) 🚻⨀①(akaraṇa)  
-of all wrongdoing | non-doing of  
+🚻⨀⑥🆎(sabba+pāpa) 🚻⨀①🆎(na+karaṇa)  
+of all wrongdoing | non-doing  
 <a id="s25-u2"></a>2 kusalassa upasampadā;  
-🚹⨀⑥(kusala) 🚺⨀①(upasampadā)  
+🚻⨀⑥(kusala) 🚺⨀①(upasampadā)  
 of wholesome | taking up  
 <a id="s25-u3"></a>3 Sacittapariyodapanaṁ,  
-🚺⨀②(sacittapariyodapanā)  
+🚻⨀①🆎(sa+citta+pariyodapana)  
 purifying one's own mind  
 <a id="s25-u4"></a>4 etaṁ buddhāna sāsanaṁ.  
-🚻⨀①(eta) 🚹⨂⑥(buddha) 🚻⨀①(sāsana)  
-this | of Buddha | teaching
+*️⃣🤟🚻⨀①(eta) 🚹⨂⑥(buddha) 🚻⨀①(sāsana)  
+this | of the Buddhas | teaching
 
 Non-doing of all wrongdoing,  
 Taking up of wholesome;  
@@ -882,43 +882,43 @@ This is the teaching of the Buddha.
 [Chabbisodhanasutta MN 112 PTS 3.30–3.37](https://suttacentral.net/mn112) (Majjhima Nikaya III 33):
 
 <a id="s26-u12-2"></a>12.2 ‘pubbe kho ahaṁ, āvuso, agāriyabhūto samāno aviddasu ahosiṁ.  
-🔼(pubbe) 🔼(kho) *️⃣👆⚧⨀①(ahaṁ) 🔼(āvuso) 🚹⨀①(agāriyabhūta) 🚹⨀①(samāna) 🚹⨀①(aviddasu) ⏮👆⨀(ahosi)  
-formerly | indeed | I | friend | living as a layman | being | ignorant | was  
+⏏️(pubbe) ⏏️(kho) *️⃣👆⚧⨀①(ahaṁ) ⏏️(āvuso) 🚹⨀①🆎(agāriya+bhūta) 🚹⨀①🔽(māna)(samāna) 🚹⨀①🆎(na+viddasu) 🟢⨀👆⏮(hoti)  
+formerly | indeed | I | friends | living as a layman | being | ignorant | was  
 Formerly, I was similar to an ignorant being, living as a layman.
 
 <a id="s26-u12-3"></a>12.3 Tassa me tathāgato vā tathāgatasāvako vā dhammaṁ desesi.  
-🚹⨀⑥(ta) *️⃣👆⚧⨀②(ahaṁ) 🚹⨀①(tathāgata) 🔼(vā) 🚹⨀①(tathāgatasāvaka) 🔼(vā) 🚹⨀②(dhamma) ⏮🤟⨀(desesi)  
-of that | me | Tathāgata | or | disciple of the Buddha | or | Dhamma | taught  
+*️⃣🤟🚹⨀④(ta) *️⃣👆⚧⨀④(ahaṁ) 🚹⨀①🆎(tathā+gata) ⏏️(vā) 🚹⨀①🆎(tathāgata+sāvaka) ⏏️(vā) 🚹⨀②(dhamma) 🟠⨀🤟⏮(deseti)  
+to that | to me | Tathāgata | or | disciple of the Buddha | or | Dhamma | taught  
 Because of that, the Tathāgata and his disciples taught the Dhamma to me.
 
 <a id="s26-u12-4"></a>12.4 Tāhaṁ dhammaṁ sutvā tathāgate saddhaṁ paṭilabhiṁ.  
-🔼(tāhaṁ) 🚹⨀②(dhamma) 🔼(sutvā) 🚹⨀⑦(tathāgata) 🚻⨀①(saddhā) ⏮👆⨀(paṭilabhi)  
-that I | Dhamma | having heard | in Tathāgata | faith | I acquired  
+*️⃣🤟🚹⨀②(ta) *️⃣👆⚧⨀①(ahaṁ) 🚹⨀②(dhamma) 🔽(tvā)(suṇāti) 🚹⨀⑦🆎(tathā+gata) 🚺⨀②(saddhā) 🟢⨀👆⏮(paṭilabhati)  
+that | I | Dhamma | having heard | in Tathāgata | faith | I acquired  
 Having heard that Dhamma, I acquired faith in the Tathāgata.
 
 <a id="s26-u12-5"></a>12.5 So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhiṁ:  
-🚹⨀①(ta) 🚹⨀③(ta) 🚹⨀③(saddhāpaṭilābha) 🚹⨀①(samannāgata) 🔼(iti) ⏮👆⨀(paṭisañcikkhi)  
+*️⃣🤟🚹⨀①(ta) *️⃣🤟🚹⨀③(ta) 🚹⨀③🆎(saddhā+paṭilābha) 🚹⨀①🔽(ta)(samannāgata) ⏏️(iti) 🟢⨀👆⏮(paṭisañcikkhati)  
 that | by that | gaining of faith | endowed with | like this | reflected  
 I reflected like that, endowed with the gaining of that faith.
 
 <a id="s26-u12-6"></a>12.6 “sambādho gharāvāso rajāpatho, abbhokāso pabbajjā.  
-🚹⨀①(sambādha) 🚹⨀①(gharāvāsa) 🚹⨀①(rajāpatha) 🚺⨀①(pabbajjā)  
+🚹⨀①(sambādha) 🚹⨀①🆎(ghara+āvāsa) 🚹⨀①🆎(rajo+patha) 🚹⨀①(abbhokāsa) 🚺⨀①(pabbajjā)  
 crowded | household life | dirty | open space | renunciation  
 Household life is crowded and dirty, renunciation is open space.
 
 <a id="s26-u12-7"></a>12.7 Nayidaṁ sukaraṁ agāraṁ ajjhāvasatā ekantaparipuṇṇaṁ ekantaparisuddhaṁ saṅkhalikhitaṁ brahmacariyaṁ carituṁ.  
-🔼(nayidaṁ) 🚻⨀①(sukara) 🚻⨀①(agāra) 🚹⨀⑤(ajjhāvasanta) 🚻⨀①(ekantaparipuṇṇa) 🚻⨀①(saṅkhalikhita) 🚻⨀①(brahmacariya) 🔼(carituṁ)  
-not this | easy to do | domestic living | domestic settled | completely perfect | flawless | spiritual path | to live  
+⏏️(na) *️⃣🤟🚻⨀①(ima) 🚻⨀①🆎(su+kara) 🚻⨀②(agāra) 🚹⨀③🔽(anta)(ajjhāvasanta) 🚻⨀②🆎(ekanta+paripuṇṇa) 🚻⨀②🆎(ekanta+parisuddha) 🚻⨀②🆎(saṅkha+likhita) 🚻⨀②🆎(brahma+cariya) 🔽(tuṁ)(carati)  
+not | this | easy to do | domestic living | by one domestically settled | completely perfect | completely pure | flawless | spiritual path | to live  
 It is not easy from being settled in domestic living to living a completely perfect and flawless spiritual path.
 
 <a id="s26-u12-8"></a>12.8 Yannūnāhaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajeyyan”ti.  
-🔼(yannūnāhaṁ) 🚻⨀②(kesamassu) 🔼(ohāretvā) 🚻⨂②(kāsāya) 🚻⨂②(vattha) 🔼(acchādetvā) 🚻⨀⑤(agāra) 🚻⨀②(anagāriya) 🔵⏯👆⨀(pabbajati) 🔼(ti)  
-what if I were to | hair and beard | having shaved off | ochre | robe | having put on | from household life | to homeless state | renounce | quote  
+⏏️(yaṁ) ⏏️(nūna) *️⃣👆⚧⨀①(ahaṁ) 🚻⨀②🆎(kesa+massu) 🔽(tvā)(ohāreti) 🚻⨂②(kāsāya) 🚻⨂②(vattha) 🔽(tvā)(acchādeti) 🚻⨀⑤(agāra) 🚻⨀②🆎(na+agāriya) 🔵⨀👆⏯(pabbajati) ⏏️(iti)  
+what | if | I | hair and beard | having shaved off | ochre | robes | having put on | from household life | to homeless state | renounce | (end quote)  
 What if I were to renounce from household life to homeless state, having shaved off hair and beard, and having put on ochre robe.
 
 <a id="s26-u13-1"></a>13.1 So kho ahaṁ, āvuso, aparena samayena appaṁ vā bhogakkhandhaṁ pahāya mahantaṁ vā bhogakkhandhaṁ pahāya, appaṁ vā ñātiparivaṭṭaṁ pahāya mahantaṁ vā ñātiparivaṭṭaṁ pahāya kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajiṁ.  
-🚹⨀①(ta) 🔼(kho) *️⃣👆⚧⨀①(ahaṁ) 🔼(āvuso) 🚹⨀③(apara) 🚹⨀③(samaya) 🚹⨀②(appa) 🔼(vā) 🚹⨀②(bhogakkhandha) 🔼(pahāya) 🚹⨀②(mahanta) 🔼(vā) 🚹⨀②(bhogakkhandha) 🔼(pahāya) 🚹⨀②(appa) 🔼(vā) 🚹⨀②(ñātiparivaṭṭa) 🔼(pahāya) 🚹⨀②(mahanta) 🔼(vā) 🚹⨀②(ñātiparivaṭṭa) 🔼(pahāya) 🚻⨀②(kesamassu) 🔼(ohāretvā) 🚻⨂②(kāsāya) 🚻⨂②(vattha) 🔼(acchādetvā) 🚻⨀⑤(agāra) 🚻⨀②(anagāriya) ⏮🤟⨀(pabbaji)  
-that | indeed | I | friend | with next | with time | small | or | pile of wealth | leaving behind | large | or | pile of wealth | leaving behind | small | or | family circle | leaving behind | large | or | family circle | leaving behind | hair and beard | having shaved off | ochre | robe | having put on | from household life | to homeless state | renounced  
+*️⃣🤟🚹⨀①(ta) ⏏️(kho) *️⃣👆⚧⨀①(ahaṁ) ⏏️(āvuso) 🚹⨀③(apara) 🚹⨀③(samaya) 🚹⨀②(appa) ⏏️(vā) 🚹⨀②🆎(bhoga+khandha) 🔽(ya)(pajahati) 🚹⨀②(mahanta) ⏏️(vā) 🚹⨀②🆎(bhoga+khandha) 🔽(ya)(pajahati) 🚹⨀②(appa) ⏏️(vā) 🚹⨀②🆎(ñāti+parivaṭṭa) 🔽(ya)(pajahati) 🚹⨀②(mahanta) ⏏️(vā) 🚹⨀②🆎(ñāti+parivaṭṭa) 🔽(ya)(pajahati) 🚻⨀②🆎(kesa+massu) 🔽(tvā)(ohāreti) 🚻⨂②(kāsāya) 🚻⨂②(vattha) 🔽(tvā)(acchādeti) 🚻⨀⑤(agāra) 🚻⨀②🆎(na+agāriya) 🟢⨀👆⏮(pabbajati)  
+that | indeed | I | friends | with next | with time | small | or | pile of wealth | leaving behind | large | or | pile of wealth | leaving behind | small | or | family circle | leaving behind | large | or | family circle | leaving behind | hair and beard | having shaved off | ochre | robes | having put on | from household life | to homeless state | renounced  
 Indeed, friend, after some time, having left behind a small or large pile of wealth, and a small or large family circle, I renounced from household life to homeless state, having shaved off hair and beard, and having put on ochre robe.
 
 ## 27. THE FIRST PART OF THE WAY: RIGHT VIEW
@@ -926,17 +926,17 @@ Indeed, friend, after some time, having left behind a small or large pile of wea
 [Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315](https://suttacentral.net/dn22) (Digha Nikaya II 311 f):
 
 <a id="s27-u21-4"></a>21.4 Katamā ca, bhikkhave, sammādiṭṭhi?  
-🚺⨀①(katama) 🔼(ca) 🚹⨂⓪(bhikkhu) 🚹⨀①(sammādiṭṭhi)  
+*️⃣🤟🚺⨀①(katama) ⏏️(ca) 🚹⨂⓪(bhikkhu) 🚺⨀①🆎(sammā+diṭṭhi)  
 what? | and | bhikkhave | right view  
 Bhikkhave, and what is "sammādiṭṭhi" (right view)?
 
 <a id="s27-u21-5"></a>21.5 Yaṁ kho, bhikkhave, dukkhe ñāṇaṁ, dukkhasamudaye ñāṇaṁ, dukkhanirodhe ñāṇaṁ, dukkhanirodhagāminiyā paṭipadāya ñāṇaṁ.  
-🚻⨀①(ya) 🔼(kho) 🚹⨂⓪(bhikkhu) 🚹⨂②(dukkha) 🚻⨀①(ñāṇa) 🚹⨂②(dukkhasamudaya) 🚻⨀①(ñāṇa) 🚹⨂②(dukkhanirodha) 🚻⨀①(ñāṇa) 🚺⨀④(dukkhanirodhagāmī) 🚺⨀⑥(paṭipadā) 🚻⨀①(ñāṇa)  
-whatever | indeed | bhikkhave | suffering | understanding | origin of suffering | understanding | end of suffering | understanding | of leading to the end of suffering | of path of progress | understanding  
+*️⃣🤟🚻⨀①(ya) ⏏️(kho) 🚹⨂⓪(bhikkhu) 🚻⨀⑦(dukkha) 🚻⨀①(ñāṇa) 🚹⨀⑦🆎(dukkha+samudaya) 🚻⨀①(ñāṇa) 🚹⨀⑦🆎(dukkha+nirodha) 🚻⨀①(ñāṇa) 🚺⨀⑦🆎(dukkha+nirodha+gāmī) 🚺⨀⑦(paṭipadā) 🚻⨀①(ñāṇa)  
+whatever | indeed | bhikkhave | in suffering | understanding | in the origin of suffering | understanding | in the end of suffering | understanding | leading to the end of suffering | in the path of progress | understanding  
 Whatever indeed, Bhikkhave, understanding suffering, understanding source of suffering, understanding end of suffering, understanding of the path of progress leading to the end of suffering.
 
 <a id="s27-u21-6"></a>21.6 Ayaṁ vuccati, bhikkhave, sammādiṭṭhi.  
-🚹⨀①(ima) ▶️🤟⨀(vuccati) 🚹⨂⓪(bhikkhu) 🚹⨀①(sammādiṭṭhi)  
+*️⃣🤟🚺⨀①(ima) 🔴⨀🤟▶️(vuccati) 🚹⨂⓪(bhikkhu) 🚺⨀①🆎(sammā+diṭṭhi)  
 this | is said | bhikkhave | right view  
 Bhikkhave, this is said to be "sammādiṭṭhi" (right view).
 
@@ -945,18 +945,18 @@ Bhikkhave, this is said to be "sammādiṭṭhi" (right view).
 [Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315](https://suttacentral.net/dn22) (Digha Nikaya II 312):
 
 <a id="s28-u21-7"></a>21.7 Katamo ca, bhikkhave, sammāsaṅkappo?  
-🚺⨀①(katama) 🔼(ca) 🚹⨂⓪(bhikkhu) 🚹⨀①(sammāsaṅkappa)  
+*️⃣🤟🚹⨀①(katama) ⏏️(ca) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(sammā+saṅkappa)  
 what? | and | bhikkhave | right resolve  
 Bhikkhave, and what is "sammāsaṅkappa" (right resolve)?
 
 <a id="s28-u21-8"></a>21.8 Nekkhammasaṅkappo abyāpādasaṅkappo avihiṁsāsaṅkappo.  
-🚹⨀①(nekkhammasaṅkappa) 🚹⨀①(abyāpādasaṅkappa) 🚹⨀①(avihiṁsāsaṅkappa)  
+🚹⨀①🆎(nekkhamma+saṅkappa) 🚹⨀①🆎(na+byāpāda+saṅkappa) 🚹⨀①🆎(na+vihiṁsā+saṅkappa)  
 intention of renunciation | intention of good | intention of not harming  
 Intention of renunciation, intention of good, intention of not harming.
 
 <a id="s28-u21-9"></a>21.9 Ayaṁ vuccati, bhikkhave, sammāsaṅkappo.  
-🚹⨀①(ima) ▶️🤟⨀(vuccati) 🚹⨂⓪(bhikkhu) 🚹⨀①(sammāsaṅkappa)  
-this | is said | bhikkhave | right view  
+*️⃣🤟🚹⨀①(ima) 🔴⨀🤟▶️(vuccati) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(sammā+saṅkappa)  
+this | is said | bhikkhave | right resolve  
 Bhikkhave, this is said to be "sammāsaṅkappo" (right resolve).
 
 ## 29. RIGHT SPEECH
@@ -964,17 +964,17 @@ Bhikkhave, this is said to be "sammāsaṅkappo" (right resolve).
 [Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315](https://suttacentral.net/dn22) (Digha Nikaya II 312):
 
 <a id="s29-u21-10"></a>21.10 Katamā ca, bhikkhave, sammāvācā?  
-🚺⨀①(katama) 🔼(ca) 🚹⨂⓪(bhikkhu) 🚹⨂①(sammāvācā)  
+*️⃣🤟🚺⨀①(katama) ⏏️(ca) 🚹⨂⓪(bhikkhu) 🚺⨀①🆎(sammā+vācā)  
 what? | and | bhikkhave | right speech  
 Bhikkhave, and what is "sammāvācā" (right speech)?
 
 <a id="s29-u21-11"></a>21.11 Musāvādā veramaṇī pisuṇāya vācāya veramaṇī pharusāya vācāya veramaṇī samphappalāpā veramaṇī.  
-🚹⨂①(musāvāda) 🚺⨀①(veramaṇī) 🚺⨀⑤(pisuṇa) 🚺⨀⑤(vāca) 🚺⨀①(veramaṇī) 🚺⨀⑤(pharusa) 🚺⨀⑤(vāca) 🚺⨀①(veramaṇī) 🚹⨂①(samphappalāpa) 🚺⨀①(veramaṇī)  
-false speech | abstinence from | from slanderous | from speech | abstinence from | from harsh | from speech | abstinence from | gossip | abstinence from  
+🚹⨀⑤🆎(musā+vāda) 🚺⨀①(veramaṇī) 🚺⨀⑤(pisuṇa) 🚺⨀⑤(vācā) 🚺⨀①(veramaṇī) 🚺⨀⑤(pharusa) 🚺⨀⑤(vācā) 🚺⨀①(veramaṇī) 🚹⨀⑤🆎(sampha+palāpa) 🚺⨀①(veramaṇī)  
+from false speech | abstinence from | from slanderous | from speech | abstinence from | from harsh | from speech | abstinence from | from gossip | abstinence from  
 Abstinence from false speech, abstinence from slanderous speech, abstinence from harsh speech, abstinence from gossip.
 
 <a id="s29-u21-12"></a>21.12 Ayaṁ vuccati, bhikkhave, sammāvācā.  
-🚹⨀①(ima) ▶️🤟⨀(vuccati) 🚹⨂⓪(bhikkhu) 🚹⨀①(sammāvācā)  
+*️⃣🤟🚺⨀①(ima) 🔴⨀🤟▶️(vuccati) 🚹⨂⓪(bhikkhu) 🚺⨀①🆎(sammā+vācā)  
 this | is said | bhikkhave | right speech  
 Bhikkhave, this is said to be "sammāvācā" (right speech).
 
@@ -983,29 +983,29 @@ Bhikkhave, this is said to be "sammāvācā" (right speech).
 [Upālisutta AN 10.99 PTS 5.202–5.209](https://suttacentral.net/an10.99) (Anguttara Nikaya V 205):
 
 <a id="s30-u14-1"></a>14.1 Musāvādaṁ pahāya musāvādā paṭivirato hoti saccavādī saccasandho theto paccayiko avisaṁvādako lokassa.  
-🚹⨀②(musāvāda) 🔼(pahāya) 🚹⨀⑤(musāvāda) 🚹⨀①(paṭivirata) ▶️🤟⨀(hoti) 🚹⨀①(saccavādī) 🚹⨀①(saccasandha) 🚹⨀①(theta) 🚹⨀①(paccayika) 🚹⨀①(avisaṁvādaka) 🚹⨀④(loka)  
+🚹⨀②🆎(musā+vāda) 🔽(ya)(pajahati) 🚹⨀⑤🆎(musā+vāda) 🚹⨀①🔽(ta)(paṭivirata) 🟢⨀🤟▶️(hoti) 🚹⨀①🆎(sacca+vādī) 🚹⨀①🆎(sacca+sandha) 🚹⨀①(theta) 🚹⨀①(paccayika) 🚹⨀①🆎(na+visaṁvādaka) 🚹⨀④(loka)  
 false speech | giving up | from false speech | abstaining from | is | truthful | true to one's word | honest | reliable | keeping promises | for people of the world  
 Giving up false speech, abstaining from false speech, being truthful, true to one's word, honest, reliable, keeping promises for everyone in the world.
 
 <a id="s30-u15-1"></a>15.1 Pisuṇaṁ vācaṁ pahāya pisuṇāya vācāya paṭivirato hoti, ito sutvā na amutra akkhātā imesaṁ bhedāya, amutra vā sutvā na imesaṁ akkhātā amūsaṁ bhedāya. Iti bhinnānaṁ vā sandhātā sahitānaṁ vā anuppadātā, samaggārāmo samaggarato samagganandī; samaggakaraṇiṁ vācaṁ bhāsitā hoti.  
-🚹⨀②(pisuṇa) 🚹⨀②(vāca) 🔼(pahāya) 🚹⨀②(pisuṇa) 🚹⨀②(vāca) 🚹⨀①(paṭivirata) ▶️🤟⨀(hoti) 🔼(ito) 🔼(sutvā) 🔼(na) 🔼(amutra) 🚹⨂①(akkhāta) 🚹⨂④(ima) 🚹⨀④(bheda) 🔼(amutra) 🔼(vā) 🔼(sutvā) 🔼(na) 🚹⨂④(ima) 🚹⨂①(akkhāta) 🚹⨂④(amu) 🚹⨀④(bheda) ▶️🤟⨀(hoti)  
-slanderous | speech | giving up | slanderous | speech | abstaining from | is | here | having listened | no | in such-and-such a place | told | for this | for disturbing/upsetting | in such-and-such a place | or | having listened | no | for this | told | for so-and-so | for disturbing.  
+🚺⨀②(pisuṇa) 🚺⨀②(vācā) 🔽(ya)(pajahati) 🚺⨀⑤(pisuṇa) 🚺⨀⑤(vācā) 🚹⨀①🔽(ta)(paṭivirata) 🟢⨀🤟▶️(hoti) ⏏️(ito) 🔽(tvā)(suṇāti) ⏏️(na) ⏏️(amutra) 🚹⨀①(akkhātar) *️⃣🤟🚹⨂⑥(ima) 🚹⨀④(bheda) ⏏️(amutra) ⏏️(vā) 🔽(tvā)(suṇāti) ⏏️(na) *️⃣🤟🚹⨂⑥(ima) 🚹⨀①(akkhātar) *️⃣🤟🚹⨂⑥(amu) 🚹⨀④(bheda)  
+slanderous | speech | giving up | from slanderous | from speech | abstaining from | is | here | having listened | not | in such-and-such a place | one who tells | of these | for disturbing/upsetting | in such-and-such a place | or | having listened | not | of these | one who tells | of so-and-so | for disturbing  
 Giving up slanderous speech, abstaining from slanderous speech. Having listened here, does not tell in such-and-such place for the purposes of disturbance, or having listened in such and such place, does not tell here for the purposes of disturbance.  
-🔼(iti) 🚹⨂⑥(bhinna) 🔼(vā) 🚹⨀①(sandhātar) 🚹⨂⑥(sahita) 🔼(vā) 🚹⨀①(anuppadātar) 🚹⨀①(samaggārāma) 🚹⨀①(samaggarata) 🚹⨀①(samagganandī) 🚺⨀②(samaggakaraṇa) 🚹⨀②(vāca) 🚻⨂①(bhāsita)  
-like this | of broken | conciliator | of friendly terms | or provider of | enjoying concord | liking harmony | delights in unity | peace-making | speech | talking  
+⏏️(iti) 🚹⨂⑥🔽(ta)(bhinna) ⏏️(vā) 🚹⨀①(sandhātar) 🚹⨂⑥🔽(ta)(sahita) ⏏️(vā) 🚹⨀①(anuppadātar) 🚹⨀①🆎(samagga+ārāma) 🚹⨀①🆎(samagga+rata) 🚹⨀①🆎(samagga+nandī) 🚺⨀②🆎(samagga+karaṇa) 🚺⨀②(vācā) 🚹⨀①(bhāsitar) 🟢⨀🤟▶️(hoti)  
+like this | of the broken | or | conciliator | of those on friendly terms | or | provider | enjoying concord | liking harmony | delighting in unity | peace-making | speech | speaker | is  
 Conciliator of the broken, provider of friendly terms, enjoying concord, liking harmony, delighting in unity, talking peace-making speech.
 
 <a id="s30-u16-1"></a>16.1 Pharusaṁ vācaṁ pahāya pharusāya vācāya paṭivirato hoti. Yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā, tathārūpiṁ vācaṁ bhāsitā hoti.  
-🚹⨀②(pharusa) 🚹⨀②(vāca) 🔼(pahāya) 🚺⨀⑤(pharusa) 🚹⨀②(vāca) 🚹⨀①(paṭivirata) ▶️🤟⨀(hoti)  
-harsh speech | giving up | from harsh speech | abstaining from | is
+🚺⨀②(pharusa) 🚺⨀②(vācā) 🔽(ya)(pajahati) 🚺⨀⑤(pharusa) 🚺⨀⑤(vācā) 🚹⨀①🔽(ta)(paṭivirata) 🟢⨀🤟▶️(hoti)  
+harsh | speech | giving up | from harsh | from speech | abstaining from | is  
 Giving up harsh speech, abstaining from harsh speech.  
-🚺⨀①(ya) 🚺⨀①(ta) 🚺⨀①(vāca) 🚺⨀①(nela) 🚺⨀①(kaṇṇasukha) 🚺⨀①(pemanīya) 🚺⨀①(hadayaṅgama) 🚺⨀①(porī) 🚺⨀①(bahujanakanta) 🚺⨀①(bahujanamanāpa) 🚺⨀②(tathārūpa) 🚺⨀②(vāca) 🚺⨀①(bhāsita) ▶️🤟⨀(hoti)  
-whatever | that | speech | gentle | pleasant to hear | friendly | heart warming | polite | loved by the people | charming to the collections | appropriate | speech | talking | is  
-Whatever that speech is, it is gentle, pleasant to hear, friendly, heart-warming, polite, loved by the people, charming to the collections, talking appropriate speech.
+*️⃣🤟🚺⨀①(ya) *️⃣🤟🚺⨀①(ta) 🚺⨀①(vācā) 🚺⨀①🆎(na+ela) 🚺⨀①🆎(kaṇṇa+sukha) 🚺⨀①(pemanīya) 🚺⨀①🆎(hadayaṁ+gama) 🚺⨀①(porī) 🚺⨀①🆎(bahu+jana+kanta) 🚺⨀①🆎(bahu+jana+manāpa) 🚺⨀②🆎(tathā+rūpa) 🚺⨀②(vācā) 🚹⨀①(bhāsitar) 🟢⨀🤟▶️(hoti)  
+whatever | that | speech | gentle | pleasant to hear | friendly | heart warming | polite | loved by the people | charming to the people | appropriate | speech | speaker | is  
+Whatever that speech is, it is gentle, pleasant to hear, friendly, heart-warming, polite, loved by the people, charming to the people, talking appropriate speech.
 
 <a id="s30-u17-1"></a>17.1 Samphappalāpaṁ pahāya samphappalāpā paṭivirato hoti kālavādī bhūtavādī atthavādī dhammavādī vinayavādī, nidhānavatiṁ vācaṁ bhāsitā hoti kālena sāpadesaṁ pariyantavatiṁ atthasaṁhitaṁ.  
-🚹⨀②(samphappalāpa) 🔼(pahāya) 🚹⨀⑤(samphappalāpa) 🚹⨀①(paṭivirata) ▶️🤟⨀(hoti) 🚹⨀①(kālavādī) 🚹⨀①(bhūtavādī) 🚹⨀①(atthavādī) 🚹⨀①(dhammavādī) 🚹⨀①(vinayavādī) 🚺⨀②(nidhānavant) 🚹⨀②(vāca) 🚺⨀①(bhāsita) ▶️🤟⨀(hoti) 🚹⨀③(kāla) 🚹⨀②(sāpadesa) 🚺⨀②(pariyantavant) 🚻⨀①(atthasaṁhita)  
-gossip | giving up | from gossip | abstaining from | is | speaking at the proper time | speaking what is true | speaking what is meaningful | speaking about the Dhamma | speaking about the discipline | worth remembering | speech | talking | is | timely | reasonable | purposeful | beneficial  
+🚹⨀②🆎(sampha+palāpa) 🔽(ya)(pajahati) 🚹⨀⑤🆎(sampha+palāpa) 🚹⨀①🔽(ta)(paṭivirata) 🟢⨀🤟▶️(hoti) 🚹⨀①🆎(kāla+vādī) 🚹⨀①🆎(bhūta+vādī) 🚹⨀①🆎(attha+vādī) 🚹⨀①🆎(dhamma+vādī) 🚹⨀①🆎(vinaya+vādī) 🚺⨀②(nidhānavant) 🚺⨀②(vācā) 🚹⨀①(bhāsitar) 🟢⨀🤟▶️(hoti) 🚹⨀③(kāla) 🚺⨀②🆎(sa+apadesa) 🚺⨀②(pariyantavant) 🚺⨀②🆎(attha+saṁhita)  
+gossip | giving up | from gossip | abstaining from | is | speaking at the proper time | speaking what is true | speaking what is meaningful | speaking about the Dhamma | speaking about the discipline | worth remembering | speech | speaker | is | timely | reasonable | purposeful | beneficial  
 Giving up gossip, abstaining from gossip, speaking at the proper time, speaking what is true, speaking what is meaningful, speaking about the Dhamma, speaking about the discipline, talking speech worth remembering, timely, reasonable, purposeful, beneficial.
 
 ## 31. RIGHT ACTION
@@ -1013,17 +1013,17 @@ Giving up gossip, abstaining from gossip, speaking at the proper time, speaking 
 [Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315](https://suttacentral.net/dn22) (Digha Nikaya II 312):
 
 <a id="s31-u21-13"></a>21.13 Katamo ca, bhikkhave, sammākammanto?  
-🚺⨀①(katama) 🔼(ca) 🚹⨂⓪(bhikkhu) 🚹⨂①(sammākammanta)  
+*️⃣🤟🚹⨀①(katama) ⏏️(ca) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(sammā+kammanta)  
 what? | and | bhikkhave | right action  
 Bhikkhave, and what is "sammākammanta" (right action)?
 
 <a id="s31-u21-14"></a>21.14 Pāṇātipātā veramaṇī adinnādānā veramaṇī kāmesumicchācārā veramaṇī.  
-🚹⨀⑤(pāṇātipāta) 🚺⨀①(veramaṇī) 🚻⨀⑤(adinnādāna) 🚺⨀①(veramaṇī) 🚹⨀⑤(kāmesumicchācāra) 🚺⨀①(veramaṇī)  
+🚹⨀⑤🆎(pāṇa+atipāta) 🚺⨀①(veramaṇī) 🚻⨀⑤🆎(na+dinna+ādāna) 🚺⨀①(veramaṇī) 🚹⨀⑤🆎(kāmesu+micchā+ācāra) 🚺⨀①(veramaṇī)  
 from killing living beings | abstinence from | from theft | abstinence from | from sexual misconduct | abstinence from  
 Abstinence from killing living beings, abstinence from theft, abstinence from sexual misconduct.
 
 <a id="s31-u21-15"></a>21.15 Ayaṁ vuccati, bhikkhave, sammākammanto.  
-🚹⨀①(ima) ▶️🤟⨀(vuccati) 🚹⨂⓪(bhikkhu) 🚹⨀①(sammākammanta)  
+*️⃣🤟🚹⨀①(ima) 🔴⨀🤟▶️(vuccati) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(sammā+kammanta)  
 this | is said | bhikkhave | right action  
 Bhikkhave, this is said to be "sammākammanta" (right action).
 
@@ -1032,28 +1032,28 @@ Bhikkhave, this is said to be "sammākammanta" (right action).
 [Uposathasutta AN 3.70 PTS 1.206–1.215](https://suttacentral.net/an3.70) (Anguttara Nikaya I 211 f):
 
 <a id="s32-u21-1"></a>21.1 Yāvajīvaṁ arahanto abrahmacariyaṁ pahāya brahmacārī ārācārī viratā methunā gāmadhammā;  
-🚻⨀①(yāvajīva) 🚹⨂①(arahant) 🚻⨀①(abrahmacariya) 🔼(pahāya) 🚹⨂①(brahmacāri) 🚹⨀①(ārācārī) 🚹⨂①(virata) 🚹⨀⑤(methuna) 🚹⨀⑤(gāmadhamma)  
+⏏️🆎(yāva+jīva) 🚹⨂①(arahant) 🚻⨀②🆎(na+brahma+cariya) 🔽(ya)(pajahati) 🚹⨂①🆎(brahma+cārī) 🚹⨂①🆎(ārā+cārī) 🚹⨂①🔽(ta)(virata) 🚻⨀⑤(methuna) 🚹⨀⑤🆎(gāma+dhamma)  
 life-long | liberated ones | incelibacy | giving up | celibate spiritual practitioner | keeping far away from | abstained from | from sexual intercourse | from vulgar practice  
 Life long arahants (liberated ones) give up incelibacy, practice celibacy, keep far away from sexual intercourse, abstain from vulgar practice.
 
 <a id="s32-u23-1"></a>23.1 Yāvajīvaṁ arahanto surāmerayamajjapamādaṭṭhānaṁ pahāya surāmerayamajjapamādaṭṭhānā paṭiviratā;  
-🚻⨀①(yāvajīva) 🚹⨂①(arahant) 🚻⨀②(surāmerayamajjapamādaṭṭhāna) 🔼(pahāya) 🚻⨀⑤(surāmerayamajjapamādaṭṭhāna) 🚹⨂①(paṭivirata)  
-life-long | liberated ones | wine, spirits, drugs and states of intoxication | giving up | wine, spirits, drugs and states of intoxication | abstained from  
+⏏️🆎(yāva+jīva) 🚹⨂①(arahant) 🚻⨀②🆎(surā+meraya+majja+pamāda+ṭhāna) 🔽(ya)(pajahati) 🚻⨀⑤🆎(surā+meraya+majja+pamāda+ṭhāna) 🚹⨂①🔽(ta)(paṭivirata)  
+life-long | liberated ones | wine, spirits, drugs and states of intoxication | giving up | from wine, spirits, drugs and states of intoxication | abstained from  
 
 Life long arahants (liberated ones) give up and abstain from wine, spirits, drugs and states of intoxication.  
 <a id="s32-u24-1"></a>24.1 Yāvajīvaṁ arahanto ekabhattikā rattūparatā viratā vikālabhojanā;\
-🚻⨀①(yāvajīva) 🚹⨂①(arahant) 🚹⨂①(ekabhattika) 🚹⨂①(rattūparata) 🚹⨂①(virata) 🚻⨂①(vikālabhojana)  
-life-long | liberated ones | who eats one meal a day | abstaining from eating at night | stopped | eating between midday and dawn  
+⏏️🆎(yāva+jīva) 🚹⨂①(arahant) 🚹⨂①🆎(eka+bhattika) 🚹⨂①🆎(ratti+uparata) 🚹⨂①🔽(ta)(virata) 🚻⨀⑤🆎(vikāla+bhojana)  
+life-long | liberated ones | who eats one meal a day | abstaining from eating at night | stopped | from eating between midday and dawn  
 Life long arahants (liberated ones) eat one meal a day, abstain from eating at night, and between midday and dawn.
 
 <a id="s32-u25-1"></a>25.1 Yāvajīvaṁ arahanto naccagītavāditavisūkadassanamālāgandhavilepanadhāraṇamaṇḍanavibhūsanaṭṭhānā paṭiviratā;  
-🚻⨀①(yāvajīva) 🚹⨂①((arahant) 🚻 ⑤⨂(naccagītavāditavisūkadassanamālāgandhavilepanadhāraṇamaṇḍanavibhūsanaṭṭhāna) 🚹⨂①(paṭivirata)  
-life-long | liberated ones | dancing, singing, instrumental music, watching shows, using garlands, perfumes, oils, adornments and decorations | abstained from  
+⏏️🆎(yāva+jīva) 🚹⨂①(arahant) 🚻⨀⑤🆎(nacca+gīta+vādita+visūka+dassana+mālā+gandha+vilepana+dhāraṇa+maṇḍana+vibhūsana+ṭhāna) 🚹⨂①🔽(ta)(paṭivirata)  
+life-long | liberated ones | from dancing, singing, instrumental music, watching shows, using garlands, perfumes, oils, adornments and decorations | abstained from  
 Life long arahants (liberated ones) abstain from dancing, singing, instrumental music, watching shows, using garlands, perfumes, oils, adornments and decorations.
 
 <a id="s32-u26-1"></a>26.1 Yāvajīvaṁ arahanto uccāsayanamahāsayanaṁ pahāya uccāsayanamahāsayanā paṭiviratā nīcaseyyaṁ kappenti mañcake vā tiṇasanthārake vā;  
-🚻⨀①(yāvajīva) 🚹⨂①((arahant) 🚻⨀②(uccāsayanamahāsayana) 🔼(pahāya) 🚻⨀⑤(uccāsayanamahāsayana) 🚹⨂①(paṭivirata) 🚺⨀②(nīcaseyyā) ▶️🤟⨂(kappeti) 🚹⨂②(mañcaka) 🔼(vā) 🚹⨂②(tiṇasanthāraka) 🔼(vā)  
-life-long | liberated ones | large and luxurious beds | giving up | from large and luxurious beds | abstained from | low bed | prepare | small bed | or | spread of grass | or  
+⏏️🆎(yāva+jīva) 🚹⨂①(arahant) 🚻⨀②🆎(uccā+sayana+mahā+sayana) 🔽(ya)(pajahati) 🚻⨀⑤🆎(uccā+sayana+mahā+sayana) 🚹⨂①🔽(ta)(paṭivirata) 🚺⨀②🆎(nīca+seyyā) 🟠⨂🤟▶️(kappeti) 🚹⨀⑦(mañcaka) ⏏️(vā) 🚹⨀⑦🆎(tiṇa+santhāraka) ⏏️(vā)  
+life-long | liberated ones | large and luxurious beds | giving up | from large and luxurious beds | abstained from | low bed | prepare | on a small bed | or | on a spread of grass | or  
 Life long arahants (liberated ones) give up and abstain from large and luxurious beds, prepare low or small beds, or spread of grass.
 
 ## 33. RIGHT LIVELIHOOD
@@ -1061,17 +1061,17 @@ Life long arahants (liberated ones) give up and abstain from large and luxurious
 [Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315](https://suttacentral.net/dn22) (Digha Nikaya II 312):
 
 <a id="s33-u21-16"></a>21.16 Katamo ca, bhikkhave, sammāājīvo?  
-🚺⨀①(katama) 🔼(ca) 🚹⨂⓪(bhikkhu) 🚹⨂①(sammāājīva)  
+*️⃣🤟🚹⨀①(katama) ⏏️(ca) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(sammā+ājīva)  
 what? | and | bhikkhave | right livelihood  
 Bhikkhave, and what is "sammāājīva" (right livelihood)?
 
 <a id="s33-u21-17"></a>21.17 Idha, bhikkhave, ariyasāvako micchāājīvaṁ pahāya sammāājīvena jīvitaṁ kappeti.  
-🔼(idha) 🚹⨂⓪(bhikkhu) 🚹⨀①(ariyasāvaka) 🚹⨀②(micchāājīva) 🔼(pahāya) 🚹⨀③(sammāājīva) 🚻⨀①(jīvita) ▶️🤟⨀(kappeti)  
-here | bhikkhave | awakened disciples | wrong livelihood | giving up | with right livelihood | way of life | prepares  
+⏏️(idha) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(ariya+sāvaka) 🚹⨀②🆎(micchā+ājīva) 🔽(ya)(pajahati) 🚹⨀③🆎(sammā+ājīva) 🚻⨀②(jīvita) 🟠⨀🤟▶️(kappeti)  
+here | bhikkhave | awakened disciple | wrong livelihood | giving up | with right livelihood | way of life | prepares  
 Here, Bhikkhave, awakened disciples give up wrong livelihood, prepares for a way of life with right livelihood.
 
 <a id="s33-u21-18"></a>21.18 Ayaṁ vuccati, bhikkhave, sammāājīvo.  
-🚹⨀①(ima) ▶️🤟⨀(vuccati) 🚹⨂⓪(bhikkhu) 🚹⨀①(sammāājīva)  
+*️⃣🤟🚹⨀①(ima) 🔴⨀🤟▶️(vuccati) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(sammā+ājīva)  
 this | is said | bhikkhave | right livelihood  
 Bhikkhave, this is said to be "sammāājīva" (right livelihood).
 
@@ -1080,17 +1080,17 @@ Bhikkhave, this is said to be "sammāājīva" (right livelihood).
 [Mahācattārīsakasutta MN 117 PTS 3.72–3.78](https://suttacentral.net/mn117) (Majjhima Nikaya III 75):
 
 <a id="s34-u29-1"></a>29.1 Katamo ca, bhikkhave, micchāājīvo?  
-🚺⨀①(katama) 🔼(ca) 🚹⨂⓪(bhikkhu) 🚹⨂①(micchāājīva)  
+*️⃣🤟🚹⨀①(katama) ⏏️(ca) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(micchā+ājīva)  
 what? | and | bhikkhave | wrong livelihood  
 Bhikkhave, and what is "micchāājīva" (wrong livelihood)?
 
 <a id="s34-u29-2"></a>29.2 Kuhanā, lapanā, nemittikatā, nippesikatā, lābhena lābhaṁ nijigīsanatā—  
-🚻⨂①(kuhana) 🚻⨂①(lapana) 🚺⨀①(nemittikatā) 🚺⨀①(nippesikatā) 🚹⨀③(lābha) 🚹⨀②(lābha) 🚺⨀①(nijigīsanatā)  
+🚺⨀①(kuhanā) 🚺⨀①(lapanā) 🚺⨀①(nemittikatā) 🚺⨀①(nippesikatā) 🚹⨀③(lābha) 🚹⨀②(lābha) 🚺⨀①(nijigīsanatā)  
 cheating | cajoling | indirect begging | putting others down | with profit | acquisition | desiring  
 Cheating, cajoling, indirect begging, putting others down, desiring acquisition with profit.
 
 <a id="s34-u29-3"></a>29.3 ayaṁ, bhikkhave, micchāājīvo.  
-🚹⨀①(ima) 🚹⨂⓪(bhikkhu) 🚹⨀①(micchāājīva)  
+*️⃣🤟🚹⨀①(ima) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(micchā+ājīva)  
 this | bhikkhave | wrong livelihood  
 Bhikkhave, this is "micchāājīva" (wrong livelihood).
 
@@ -1099,32 +1099,32 @@ Bhikkhave, this is "micchāājīva" (wrong livelihood).
 [Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315](https://suttacentral.net/dn22) (Digha Nikaya II 312):
 
 <a id="s35-u21-19"></a>21.19 Katamo ca, bhikkhave, sammāvāyāmo?  
-🚺⨀①(katama) 🔼(ca) 🚹⨂⓪(bhikkhu) 🚹⨂①(sammāvāyāma)  
+*️⃣🤟🚹⨀①(katama) ⏏️(ca) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(sammā+vāyāma)  
 what? | and | bhikkhave | right effort  
 Bhikkhave, and what is "sammāvāyāma" (right effort)?
 
 <a id="s35-u21-20"></a>21.20 Idha, bhikkhave, bhikkhu anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati;  
-🔼(idha) 🚹⨂⓪(bhikkhu) 🚹⨀①(bhikkhu) 🚹⨂④(anuppanna) 🚹⨂⑥(pāpaka) 🚹⨂⑥(akusala) 🚹⨂⑥(dhamma) 🚹⨀④(anuppāda) 🚹 ②⨀(chanda) ▶️🤟⨀(janeti) ▶️🤟⨀(vāyamati) 🚻⨀②(vīriya) ▶️🤟⨀(ārabhati) 🚻⨀②(citta) ▶️🤟⨀(paggaṇhāti) ▶️🤟⨀(padahati)  
-here | bhikkhave | bhikkhu | for non-arising | of evil | of unwholesome | of characteristics | for non-arising | desire | generates | tries to make an effort to | effort | start | mind | strives on | exerts oneself  
+⏏️(idha) 🚹⨂⓪(bhikkhu) 🚹⨀①(bhikkhu) 🚹⨂⑥🔽(ta)🆎(na+uppanna) 🚹⨂⑥(pāpaka) 🚹⨂⑥🆎(na+kusala) 🚹⨂⑥(dhamma) 🚹⨀④🆎(na+uppāda) 🚹⨀②(chanda) 🟠⨀🤟▶️(janeti) 🟢⨀🤟▶️(vāyamati) 🚻⨀②(vīriya) 🟢⨀🤟▶️(ārabhati) 🚻⨀②(citta) 🟢⨀🤟▶️(paggaṇhāti) 🟢⨀🤟▶️(padahati)  
+here | bhikkhave | bhikkhu | of unarisen | of evil | of unwholesome | of characteristics | for non-arising | desire | generates | tries to make an effort to | effort | start | mind | strives on | exerts oneself  
 Here, Bhikkhave, a bhikkhu, for the non-arising of evil and unwholesome characteristics, generates a desire for non-arising, tries to make an effort, start, strives on the mind, and exerts himself.
 
 <a id="s35-u21-21"></a>21.21 uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati;  
-🚹⨂⑥(uppanna) 🚹⨂⑥(pāpaka) 🚹⨂⑥(akusala) 🚹⨂⑥(dhamma) 🚻⨀④(pahāna) 🚹 ②⨀(chanda) ▶️🤟⨀(janeti) ▶️🤟⨀(vāyamati) 🚻⨀②(vīriya) ▶️🤟⨀(ārabhati) 🚻⨀②(citta) ▶️🤟⨀(paggaṇhāti) ▶️🤟⨀(padahati)  
-for arising | of evil | of unwholesome | of characteristics | for giving up of | desire | generates | tries to make an effort to | effort | start | mind | strives on | exerts oneself  
+🚹⨂⑥🔽(ta)(uppanna) 🚹⨂⑥(pāpaka) 🚹⨂⑥🆎(na+kusala) 🚹⨂⑥(dhamma) 🚻⨀④(pahāna) 🚹⨀②(chanda) 🟠⨀🤟▶️(janeti) 🟢⨀🤟▶️(vāyamati) 🚻⨀②(vīriya) 🟢⨀🤟▶️(ārabhati) 🚻⨀②(citta) 🟢⨀🤟▶️(paggaṇhāti) 🟢⨀🤟▶️(padahati)  
+of arisen | of evil | of unwholesome | of characteristics | for giving up of | desire | generates | tries to make an effort to | effort | start | mind | strives on | exerts oneself  
 He generates a desire for the giving up of the arising of evil and unwholesome characteristics, tries to make an effort, start, strives on the mind, and exerts himself.
 
 <a id="s35-u21-22"></a>21.22 anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati;  
-🚹⨂④(anuppanna) 🚹⨂⑥(kusala) 🚹⨂⑥(dhamma) 🚹⨀④(uppāda) 🚹 ②⨀(chanda) ▶️🤟⨀(janeti) ▶️🤟⨀(vāyamati) 🚻⨀②(vīriya) ▶️🤟⨀(ārabhati) 🚻⨀②(citta) ▶️🤟⨀(paggaṇhāti) ▶️🤟⨀(padahati)  
-for non-arising | of unwholesome | of characteristics | for arising of | desire | generates | tries to make an effort to | effort | start | mind | strives on | exerts oneself  
-For the non-arising of wholesome characteristics, he generates a desire for arising, tries to make an effort, start, strives on the mind, and exerts himself.
+🚹⨂⑥🔽(ta)🆎(na+uppanna) 🚹⨂⑥(kusala) 🚹⨂⑥(dhamma) 🚹⨀④(uppāda) 🚹⨀②(chanda) 🟠⨀🤟▶️(janeti) 🟢⨀🤟▶️(vāyamati) 🚻⨀②(vīriya) 🟢⨀🤟▶️(ārabhati) 🚻⨀②(citta) 🟢⨀🤟▶️(paggaṇhāti) 🟢⨀🤟▶️(padahati)  
+of unarisen | of wholesome | of characteristics | for arising of | desire | generates | tries to make an effort to | effort | start | mind | strives on | exerts oneself  
+For the arising of unarisen wholesome characteristics, he generates a desire for arising, tries to make an effort, start, strives on the mind, and exerts himself.
 
 <a id="s35-u21-23"></a>21.23 uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati.  
-🚹⨂⑥(uppanna) 🚹⨂⑥(kusala) 🚹⨂⑥(dhamma) 🚺⨀④(ṭhiti) 🚹⨀④(asammosa) 🚹⨀④(bhiyyobhāva) 🚻⨀④(vepulla) 🚺⨀④(bhāvanā) 🚺⨀④(pāripūri)🚹 ②⨀(chanda) ▶️🤟⨀(janeti) ▶️🤟⨀(vāyamati) 🚻⨀②(vīriya) ▶️🤟⨀(ārabhati) 🚻⨀②(citta) ▶️🤟⨀(paggaṇhāti) ▶️🤟⨀(padahati)  
-for arising | of wholesome | of characteristics | for persistence of | for non-confusion | for increase of | for maturity | for developing | for fulfillment |desire | generates | tries to make an effort to | effort | start | mind | strives on | exerts oneself  
+🚹⨂⑥🔽(ta)(uppanna) 🚹⨂⑥(kusala) 🚹⨂⑥(dhamma) 🚺⨀④(ṭhiti) 🚹⨀④🆎(na+sammosa) 🚹⨀④🆎(bhiyyo+bhāva) 🚻⨀④(vepulla) 🚺⨀④(bhāvanā) 🚺⨀④(pāripūri) 🚹⨀②(chanda) 🟠⨀🤟▶️(janeti) 🟢⨀🤟▶️(vāyamati) 🚻⨀②(vīriya) 🟢⨀🤟▶️(ārabhati) 🚻⨀②(citta) 🟢⨀🤟▶️(paggaṇhāti) 🟢⨀🤟▶️(padahati)  
+of arisen | of wholesome | of characteristics | for persistence of | for non-confusion | for increase of | for maturity | for developing | for fulfillment | desire | generates | tries to make an effort to | effort | start | mind | strives on | exerts oneself  
 He generates a desire for the persistence of, non-confusion of, increase of, maturity of, developing of, fulfillment of the arising of wholesome characteristics, tries to make an effort, start, strives on the mind, and exerts himself.
 
 <a id="s35-u21-24"></a>21.24 Ayaṁ vuccati, bhikkhave, sammāvāyāmo.  
-🚹⨀①(ima) ▶️🤟⨀(vuccati) 🚹⨂⓪(bhikkhu) 🚹⨀①(sammāvāyāma)  
+*️⃣🤟🚹⨀①(ima) 🔴⨀🤟▶️(vuccati) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(sammā+vāyāma)  
 this | is said | bhikkhave | right effort  
 Bhikkhave, this is said to be "sammāvāyāma" (right effort).
 
@@ -1133,33 +1133,33 @@ Bhikkhave, this is said to be "sammāvāyāma" (right effort).
 [Mahāsatipaṭṭhānasutta DN 22 PTS 2.290–2.315](https://suttacentral.net/dn22) (Digha Nikaya II 292):
 
 <a id="s36-u3-1"></a>3.1 (Puna caparaṁ), bhikkhave, bhikkhu gacchanto vā ‘gacchāmī’ti pajānāti, ṭhito vā ‘ṭhitomhī’ti pajānāti, nisinno vā ‘nisinnomhī’ti pajānāti, sayāno vā ‘sayānomhī’ti pajānāti,  
-🔼(puna) 🔼(caparaṁ) 🚹⨂⓪(bhikkhu) 🚹⨀①(bhikkhu) 🚹⨀①(gacchanta) 🔼(vā) ▶️👆⨀(gacchati) 🔼(ti) ▶️🤟⨀(pajānāti) 🚹⨀①(ṭhita) 🔼(vā) 🔼(ṭhitomhi) 🔼(ti) ▶️🤟⨀(pajānāti) 🚹⨀①(nisinna) 🔼(vā) 🔼(nisinnomhi) 🔼(ti) ▶️🤟⨀(pajānāti) 🚹⨀①(sayāna) 🔼(vā) 🔼(sayānomhi) 🔼(ti) ▶️🤟⨀(pajānāti)  
-again | and what is more | bhikkhave | bhikkhu | walking | or | I walk | quote | knows clearly | standing | or | I am standing | quote | knows clearly | sitting | or | I am sitting | quote | knows clearly | lying down | or | I am lying down | quote | knows clearly  
+⏏️(puna) ⏏️(ca) ⏏️(paraṁ) 🚹⨂⓪(bhikkhu) 🚹⨀①(bhikkhu) 🚹⨀①🔽(anta)(gacchanta) ⏏️(vā) 🟢⨀👆▶️(gacchati) ⏏️(iti) 🟢⨀🤟▶️(pajānāti) 🚹⨀①🔽(ta)(ṭhita) ⏏️(vā) 🚹⨀①🔽(ta)(ṭhita) 🟢⨀👆▶️(atthi) ⏏️(iti) 🟢⨀🤟▶️(pajānāti) 🚹⨀①🔽(ta)(nisinna) ⏏️(vā) 🚹⨀①🔽(ta)(nisinna) 🟢⨀👆▶️(atthi) ⏏️(iti) 🟢⨀🤟▶️(pajānāti) 🚹⨀①🔽(āna)(sayāna) ⏏️(vā) 🚹⨀①🔽(āna)(sayāna) 🟢⨀👆▶️(atthi) ⏏️(iti) 🟢⨀🤟▶️(pajānāti)  
+again | and | what is more | bhikkhave | bhikkhu | walking | or | I walk | (end quote) | knows clearly | standing | or | standing | I am | (end quote) | knows clearly | sitting | or | sitting | I am | (end quote) | knows clearly | lying down | or | lying down | I am | (end quote) | knows clearly  
 (And furthermore) a bhikkhu when walking knows clearly “I am walking”, when standing knows clearly “I am standing”, when sitting knows clearly “I am sitting”, when lying down knows clearly “I am lying down”.
 
 <a id="s36-u3-2"></a>3.2 yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti.  
-🔼(yathā yathā) 🔼(vā) 🔼(panassa) 🚹⨀①(kāya) 🚹⨀①(paṇihita) ▶️🤟⨀(hoti) 🔼(tathā tathā) 🚹⨀②(ta) ▶️🤟⨀(pajānāti)  
-in whatever way | or | and for him | body | orientated | is | in that way | that | knows clearly  
+⏏️(yathā) ⏏️(yathā) ⏏️(vā) ⏏️(pana) *️⃣🤟🚹⨀⑥(ta) 🚹⨀①(kāya) 🚹⨀①🔽(ta)(paṇihita) 🟢⨀🤟▶️(hoti) ⏏️(tathā) ⏏️(tathā) *️⃣🤟🚹⨀②(ta) 🟢⨀🤟▶️(pajānāti)  
+in whatever way | (repeated) | or | and | his | body | orientated | is | in that way | (repeated) | that | knows clearly  
 In whatever way his body is orientated, in that way he knows clearly.
 
 <a id="s36-u3-3"></a>3.3 Iti ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati.  
-🔼(iti) 🚻⨀①(ajjhatta) 🔼(vā) 🚹⨂②(kāya) 🚹⨂②(kāyānupassī) ▶️🤟⨀(viharati) 🚹⨂①(bahiddha) 🔼(vā) 🚹⨂②(kāya) 🚹 ②⨂(kāyānupassī) ▶️🤟⨀(viharati) 🚹⨂①(ajjhattabahiddha) 🔼(vā) 🚹⨂②(kāya) 🚹 ②⨂(kāyānupassī) ▶️🤟⨀(viharati)  
-like this | internally | or | bodies | observing the bodies | stays aware | externally | or | bodies | observing the bodies | stays aware | internal and external | or | bodies | observing the bodies | stays aware  
+⏏️(iti) ⏏️(ajjhattaṁ) ⏏️(vā) 🚹⨀⑦(kāya) 🚹⨀①🆎(kāya+anupassī) 🟢⨀🤟▶️(viharati) ⏏️(bahiddhā) ⏏️(vā) 🚹⨀⑦(kāya) 🚹⨀①🆎(kāya+anupassī) 🟢⨀🤟▶️(viharati) ⏏️🆎(ajjhatta+bahiddhā) ⏏️(vā) 🚹⨀⑦(kāya) 🚹⨀①🆎(kāya+anupassī) 🟢⨀🤟▶️(viharati)  
+like this | internally | or | in the body | observing the body | stays aware | externally | or | in the body | observing the body | stays aware | internally and externally | or | in the body | observing the body | stays aware  
 In this way he stays aware, observing the body internally, externally, internally and externally (together).
 
 <a id="s36-u3-4"></a>3.4 Samudayadhammānupassī vā kāyasmiṁ viharati, vayadhammānupassī vā kāyasmiṁ viharati, samudayavayadhammānupassī vā kāyasmiṁ viharati.  
-🚹⨀①(samudayadhammānupassī) 🔼(vā) 🚹⨀⑦(kāya) ▶️🤟⨀(viharati) 🚹⨀①(vayadhammānupassī) 🔼(vā) 🚹⨀⑦(kāya) ▶️🤟⨀(viharati) 🚹⨀①(samudayavayadhammānupassī) 🔼(vā) 🚹⨀⑦(kāya) ▶️🤟⨀(viharati)  
+🚹⨀①🆎(samudaya+dhamma+anupassī) ⏏️(vā) 🚹⨀⑦(kāya) 🟢⨀🤟▶️(viharati) 🚹⨀①🆎(vaya+dhamma+anupassī) ⏏️(vā) 🚹⨀⑦(kāya) 🟢⨀🤟▶️(viharati) 🚹⨀①🆎(samudaya+vaya+dhamma+anupassī) ⏏️(vā) 🚹⨀⑦(kāya) 🟢⨀🤟▶️(viharati)  
 contemplating the nature of arising | or | in physical processes | stays aware | contemplating the nature of disappearance | or | in physical processes | stays aware | contemplating the nature of arising and disappearance | or | in physical processes | stays aware  
 He stays aware, contemplating the nature of arising, disappearance, arising and disappearing (together) of physical processes.
 
 <a id="s36-u3-5"></a>3.5 ‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.  
-▶️🤟⨀(atthi) 🚹⨀①(kāya) 🔼(ti) 🔼(panassa) 🚺⨀①(sati) 🚹⨂①(paccupaṭṭhita) ▶️🤟⨀(hoti) 🔼(yāvadeva) 🚺⨀③(ñāṇamattā) 🚺⨀③(paṭissatimattā) 🚹⨀①(anissita) 🔼(ca) ▶️🤟⨀(viharati)  🔼(na ca) 🚹⨀②(kaci) 🚹⨂②(loka) ▶️🤟⨀(upādiyati)  
-there exists | physical body | quote | and for him | awareness | presence established | as far as | by measure of understanding | by measure of continuous awareness | independent of | and | stays aware | not | and | anything | world | cling  
+🟢⨀🤟▶️(atthi) 🚹⨀①(kāya) ⏏️(iti) ⏏️(vā) ⏏️(pana) *️⃣🤟🚹⨀⑥(ta) 🚺⨀①(sati) 🚺⨀①🔽(ta)(paccupaṭṭhita) 🟢⨀🤟▶️(hoti) ⏏️(yāva) ⏏️(eva) 🚺⨀④🆎(ñāṇa+mattā) 🚺⨀④🆎(paṭissati+mattā) 🚹⨀①🔽(ta)🆎(na+nissita) ⏏️(ca) 🟢⨀🤟▶️(viharati) ⏏️(na) ⏏️(ca) *️⃣🤟🚻⨀②(kaci) 🚹⨀⑦(loka) 🟢⨀🤟▶️(upādiyati)  
+there exists | physical body | (end quote) | or | and | his | awareness | presence established | is | as far as | just | for a measure of understanding | for a measure of continuous awareness | independent of | and | stays aware | not | and | anything | in the world | clings to  
 And for him awareness is established that “there is a body”, and he stays aware and independent, just to the extent of understanding and continuous awareness, and he does not cling to anything in the world.
 
 <a id="s36-u4-1"></a>4.1 (Puna caparaṁ, bhikkhave, bhikkhu abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, uccārapassāvakamme sampajānakārī hoti), gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti.  
-🔼(puna) 🔼(caparaṁ) 🚹⨂⓪(bhikkhu) 🚹⨀①(bhikkhu) 🚹⨂②(abhikkanta) 🚹⨂②(paṭikkanta) 🚹⨀①(sampajānakārī) ▶️🤟⨀(hoti) 🚹⨂②(ālokita) 🚹⨂②(vilokita) 🚹⨀①(sampajānakārī) ▶️🤟⨀(hoti) 🚹⨂②(samiñjita) 🚹⨂②(pasārita) 🚹⨀①(sampajānakārī) ▶️🤟⨀(hoti) 🚻⨂②(saṅghāṭipattacīvaradhāraṇa) 🚹⨀①(sampajānakārī) ▶️🤟⨀(hoti) 🚹⨂②(asita) 🚹⨂②(pīta) 🚹⨂②(khāyita) 🚹⨂②(sāyita) 🚹⨀①(sampajānakārī) ▶️🤟⨀(hoti) 🚻⨂②(uccārapassāvakamma) 🚹⨀①(sampajānakārī) ▶️🤟⨀(hoti) 🚹⨂②(gata) 🚹⨂②(ṭhita) 🚹⨂②(nisinna) 🚹⨂②(sutta) 🚻⨂②(jāgarita) 🚻⨂②(bhāsita) 🚹⨂②(tuṇhībhāva) 🚹⨀①(sampajānakārī) ▶️🤟⨀(hoti)  
-again | and what is more | bhikkhave | bhikkhu | going forward | coming back | attentive to | is | looking ahead | looking around | attentive to | is | flexing | stretching | attentive to | is | carrying the outer robe, bowl and robe | attentive to | is | eating | drinking | chewing | tasting | attentive to | is | going to the toilet | attentive to | is | walking | standing | sitting | sleeping | being awake | talking | keeping quiet | attentive to | is  
+⏏️(puna) ⏏️(ca) ⏏️(paraṁ) 🚹⨂⓪(bhikkhu) 🚹⨀①(bhikkhu) 🚻⨀⑦🔽(ta)(abhikkanta) 🚻⨀⑦🔽(ta)(paṭikkanta) 🚹⨀①🆎(sampajāna+kārī) 🟢⨀🤟▶️(hoti) 🚻⨀⑦🔽(ta)(ālokita) 🚻⨀⑦🔽(ta)(vilokita) 🚹⨀①🆎(sampajāna+kārī) 🟢⨀🤟▶️(hoti) 🚻⨀⑦🔽(ta)(samiñjita) 🚻⨀⑦🔽(ta)(pasārita) 🚹⨀①🆎(sampajāna+kārī) 🟢⨀🤟▶️(hoti) 🚻⨀⑦🆎(saṅghāṭi+patta+cīvara+dhāraṇa) 🚹⨀①🆎(sampajāna+kārī) 🟢⨀🤟▶️(hoti) 🚻⨀⑦🔽(ta)(asita) 🚻⨀⑦🔽(ta)(pīta) 🚻⨀⑦🔽(ta)(khāyita) 🚻⨀⑦🔽(ta)(sāyita) 🚹⨀①🆎(sampajāna+kārī) 🟢⨀🤟▶️(hoti) 🚻⨀⑦🆎(uccāra+passāva+kamma) 🚹⨀①🆎(sampajāna+kārī) 🟢⨀🤟▶️(hoti) 🚻⨀⑦🔽(ta)(gata) 🚻⨀⑦🔽(ta)(ṭhita) 🚻⨀⑦🔽(ta)(nisinna) 🚻⨀⑦🔽(ta)(sutta) 🚻⨀⑦🔽(ta)(jāgarita) 🚻⨀⑦🔽(ta)(bhāsita) 🚹⨀⑦🆎(tuṇhī+bhāva) 🚹⨀①🆎(sampajāna+kārī) 🟢⨀🤟▶️(hoti)  
+again | and | what is more | bhikkhave | bhikkhu | going forward | coming back | attentive to | is | looking ahead | looking around | attentive to | is | flexing | stretching | attentive to | is | carrying the outer robe, bowl and robe | attentive to | is | eating | drinking | chewing | tasting | attentive to | is | going to the toilet | attentive to | is | walking | standing | sitting | sleeping | being awake | talking | keeping quiet | attentive to | is  
 And what is more, bhikkhave, the bhikkhu is attentive to going forward, coming back, looking ahead, looking around, flexing, stretching, carrying the outer robe, bowl and robe, eating, drinking, chewing, tasting, going to the toilet, walking, standing, sitting, sleeping, being awake, talking, keeping quiet.
 
 ## 37. IRRADIATION OF FRIENDLINESS, COMPASSION, HAPPINESS FOR OTHERS, AND EQUANIMITY
@@ -1167,55 +1167,55 @@ And what is more, bhikkhave, the bhikkhu is attentive to going forward, coming b
 [Saṅgītisutta DN 33 PTS 3.207–3.271](https://suttacentral.net/dn33) (Digha Nikaya III 223 f):
 
 <a id="s37-u1-11-52"></a>1.11.52 Idhāvuso, bhikkhu mettāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
-🔼(idhāvuso) 🚹⨀①(bhikkhu) 🚹⨀③(mettāsahagata) 🚹⨀③(cetas) 🚺⨀②(eka) 🚺⨀②(disā) 🔼(pharitvā) ▶️🤟⨀(viharati)  
-here friend | bhikkhu | filled with goodwill/friendliness | with intent | one | direction | having filled | stays aware  
-🔼(tathā) 🚻⨀①(dutiya)  
-similarly for the second direction  
-🔼(tathā) 🚻⨀①(tatiya)  
-similarly for the third direction  
-🔼(tathā) 🚻⨀①(catuttha)  
-similarly for the fourth direction  
-🔼(iti) 🔼(uddhamadho) 🔼(tiriyaṁ) 🔼(sabbadhi) 🔼(sabbattatāya) 🚹⨀②(loka) 🚹⨀③(mettāsahagata) 🚹⨀③(cetas) 🚹⨀③(vipula) 🚹⨀③(mahaggata) 🚹⨀③(appamāṇa) 🚹⨀③(avera) 🚹⨀③(abyāpajja) 🔼(pharitvā) ▶️🤟⨀(viharati)  
-like this | above and below | horizontally | everywhere | to all beings | universe | filled with goodwill/friendliness | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | stays aware  
+⏏️(idha) ⏏️(āvuso) 🚹⨀①(bhikkhu) 🚹⨀③🆎(mettā+sahagata) 🚹⨀③(cetas) *️⃣🤟🚺⨀②(eka) 🚺⨀②(disā) 🔽(tvā)(pharati) 🟢⨀🤟▶️(viharati)  
+here | friend | bhikkhu | filled with goodwill/friendliness | with intent | one | direction | having filled | stays aware  
+⏏️(tathā) 🚺⨀②(dutiya)  
+similarly | the second  
+⏏️(tathā) 🚺⨀②(tatiya)  
+similarly | the third  
+⏏️(tathā) 🚺⨀②(catuttha)  
+similarly | the fourth  
+⏏️(iti) ⏏️(uddhaṁ) ⏏️(adho) ⏏️(tiriyaṁ) ⏏️(sabbadhi) ⏏️🆎(sabba+attatā) 🚹⨀②(sabbāvant) 🚹⨀②(loka) 🚹⨀③🆎(mettā+sahagata) 🚹⨀③(cetas) 🚹⨀③(vipula) 🚹⨀③🆎(mahā+gata) 🚹⨀③🆎(na+pamāṇa) 🚹⨀③🆎(na+vera) 🚹⨀③🆎(na+byāpajja) 🔽(tvā)(pharati) 🟢⨀🤟▶️(viharati)  
+like this | above | below | horizontally | everywhere | to all beings | entire | universe | filled with goodwill/friendliness | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | stays aware  
 Here, friend, a bhikkhu, with intent, stays aware having filled an entire compass direction with goodwill/friendliness. Similarly in a second, third, fourth compass directions. Thus, with intent, he stays aware having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, goodwill/friendliness.
 
 <a id="s37-u1-11-53"></a>1.11.53 Karuṇāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ karuṇāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
-🚹⨀③(karuṇāsahagata) 🚹⨀③(cetas) 🚺⨀②(eka) 🚺⨀②(disā) 🔼(pharitvā) ▶️🤟⨀(viharati)  
-here friend | bhikkhu | filled with compassion/pity | with intent | one | direction | having filled | stays aware  
-🔼(tathā) 🚻⨀①(dutiya)  
-similarly for the second direction  
-🔼(tathā) 🚻⨀①(tatiya)  
-similarly for the third direction  
-🔼(tathā) 🚻⨀①(catuttha)  
-similarly for the fourth direction  
-🔼(iti) 🔼(uddhamadho) 🔼(tiriyaṁ) 🔼(sabbadhi) 🔼(sabbattatāya) 🚹⨀②(loka) 🚹⨀③(karuṇāsahagata) 🚹⨀③(cetas) 🚹⨀③(vipula) 🚹⨀③(mahaggata) 🚹⨀③(appamāṇa) 🚹⨀③(avera) 🚹⨀③(abyāpajja) 🔼(pharitvā) ▶️🤟⨀(viharati)  
-like this | above and below | horizontally | everywhere | to all beings | universe | filled with compassion/pity | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | stays aware  
+🚹⨀③🆎(karuṇā+sahagata) 🚹⨀③(cetas) *️⃣🤟🚺⨀②(eka) 🚺⨀②(disā) 🔽(tvā)(pharati) 🟢⨀🤟▶️(viharati)  
+filled with compassion/pity | with intent | one | direction | having filled | stays aware  
+⏏️(tathā) 🚺⨀②(dutiya)  
+similarly | the second  
+⏏️(tathā) 🚺⨀②(tatiya)  
+similarly | the third  
+⏏️(tathā) 🚺⨀②(catuttha)  
+similarly | the fourth  
+⏏️(iti) ⏏️(uddhaṁ) ⏏️(adho) ⏏️(tiriyaṁ) ⏏️(sabbadhi) ⏏️🆎(sabba+attatā) 🚹⨀②(sabbāvant) 🚹⨀②(loka) 🚹⨀③🆎(karuṇā+sahagata) 🚹⨀③(cetas) 🚹⨀③(vipula) 🚹⨀③🆎(mahā+gata) 🚹⨀③🆎(na+pamāṇa) 🚹⨀③🆎(na+vera) 🚹⨀③🆎(na+byāpajja) 🔽(tvā)(pharati) 🟢⨀🤟▶️(viharati)  
+like this | above | below | horizontally | everywhere | to all beings | entire | universe | filled with compassion/pity | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | stays aware  
 Here, friend, a bhikkhu, with intent, stays aware having filled an entire compass direction with compassion/pity. Similarly in a second, third, fourth compass directions. Thus, with intent, he stays aware having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, compassion/pity.
 
 <a id="s37-u1-11-54"></a>1.11.54 muditāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ muditāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
-🚹⨀③(muditāsahagata) 🚹⨀③(cetas) 🚺⨀②(eka) 🚺⨀②(disā) 🔼(pharitvā) ▶️🤟⨀(viharati)  
-here friend | bhikkhu | filled with happiness for others | with intent | one | direction | having filled | stays aware  
-🔼(tathā) 🚻⨀①(dutiya)  
-similarly for the second direction  
-🔼(tathā) 🚻⨀①(tatiya)  
-similarly for the third direction  
-🔼(tathā) 🚻⨀①(catuttha)  
-similarly for the fourth direction  
-🔼(iti) 🔼(uddhamadho) 🔼(tiriyaṁ) 🔼(sabbadhi) 🔼(sabbattatāya) 🚹⨀②(loka) 🚹⨀③(muditāsahagata) 🚹⨀③(cetas) 🚹⨀③(vipula) 🚹⨀③(mahaggata) 🚹⨀③(appamāṇa) 🚹⨀③(avera) 🚹⨀③(abyāpajja) 🔼(pharitvā) ▶️🤟⨀(viharati)  
-like this | above and below | horizontally | everywhere | to all beings | universe | filled with happiness for others | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | stays aware  
+🚹⨀③🆎(muditā+sahagata) 🚹⨀③(cetas) *️⃣🤟🚺⨀②(eka) 🚺⨀②(disā) 🔽(tvā)(pharati) 🟢⨀🤟▶️(viharati)  
+filled with happiness for others | with intent | one | direction | having filled | stays aware  
+⏏️(tathā) 🚺⨀②(dutiya)  
+similarly | the second  
+⏏️(tathā) 🚺⨀②(tatiya)  
+similarly | the third  
+⏏️(tathā) 🚺⨀②(catuttha)  
+similarly | the fourth  
+⏏️(iti) ⏏️(uddhaṁ) ⏏️(adho) ⏏️(tiriyaṁ) ⏏️(sabbadhi) ⏏️🆎(sabba+attatā) 🚹⨀②(sabbāvant) 🚹⨀②(loka) 🚹⨀③🆎(muditā+sahagata) 🚹⨀③(cetas) 🚹⨀③(vipula) 🚹⨀③🆎(mahā+gata) 🚹⨀③🆎(na+pamāṇa) 🚹⨀③🆎(na+vera) 🚹⨀③🆎(na+byāpajja) 🔽(tvā)(pharati) 🟢⨀🤟▶️(viharati)  
+like this | above | below | horizontally | everywhere | to all beings | entire | universe | filled with happiness for others | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | stays aware  
 Here, friend, a bhikkhu, with intent, stays aware having filled an entire compass direction with happiness for others. Similarly in a second, third, fourth compass directions. Thus, with intent, he stays aware having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, happiness for others.
 
 <a id="s37-u1-11-55"></a>1.11.55 upekkhāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
-🚹⨀③(upekkhāsahagata) 🚹⨀③(cetas) 🚺⨀②(eka) 🚺⨀②(disā) 🔼(pharitvā) ▶️🤟⨀(viharati)  
-here friend | bhikkhu | filled with balance/equanimity | with intent | one | direction | having filled | stays aware  
-🔼(tathā) 🚻⨀①(dutiya)  
-similarly for the second direction  
-🔼(tathā) 🚻⨀①(tatiya)  
-similarly for the third direction  
-🔼(tathā) 🚻⨀①(catuttha)  
-similarly for the fourth direction  
-🔼(iti) 🔼(uddhamadho) 🔼(tiriyaṁ) 🔼(sabbadhi) 🔼(sabbattatāya) 🚹⨀②(loka) 🚹⨀③(upekkhāsahagata)) 🚹⨀③(cetas) 🚹⨀③(vipula) 🚹⨀③(mahaggata) 🚹⨀③(appamāṇa) 🚹⨀③(avera) 🚹⨀③(abyāpajja) 🔼(pharitvā) ▶️🤟⨀(viharati)  
-like this | above and below | horizontally | everywhere | to all beings | universe | filled with balance/equanimity | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | stays aware  
+🚹⨀③🆎(upekkhā+sahagata) 🚹⨀③(cetas) *️⃣🤟🚺⨀②(eka) 🚺⨀②(disā) 🔽(tvā)(pharati) 🟢⨀🤟▶️(viharati)  
+filled with balance/equanimity | with intent | one | direction | having filled | stays aware  
+⏏️(tathā) 🚺⨀②(dutiya)  
+similarly | the second  
+⏏️(tathā) 🚺⨀②(tatiya)  
+similarly | the third  
+⏏️(tathā) 🚺⨀②(catuttha)  
+similarly | the fourth  
+⏏️(iti) ⏏️(uddhaṁ) ⏏️(adho) ⏏️(tiriyaṁ) ⏏️(sabbadhi) ⏏️🆎(sabba+attatā) 🚹⨀②(sabbāvant) 🚹⨀②(loka) 🚹⨀③🆎(upekkhā+sahagata) 🚹⨀③(cetas) 🚹⨀③(vipula) 🚹⨀③🆎(mahā+gata) 🚹⨀③🆎(na+pamāṇa) 🚹⨀③🆎(na+vera) 🚹⨀③🆎(na+byāpajja) 🔽(tvā)(pharati) 🟢⨀🤟▶️(viharati)  
+like this | above | below | horizontally | everywhere | to all beings | entire | universe | filled with balance/equanimity | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | stays aware  
 Here, friend, a bhikkhu, with intent, stays aware having filled an entire compass direction with balance/equanimity. Similarly in a second, third, fourth compass directions. Thus, with intent, he stays aware having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, balance/equanimity.
 
 ## 38. THE FIRST OF THE NINE LEVELS OF FOCUS
@@ -1223,18 +1223,18 @@ Here, friend, a bhikkhu, with intent, stays aware having filled an entire compas
 [Poṭṭhapādasutta DN 9 PTS 1.178–1.203](https://suttacentral.net/dn9) (Digha Nikaya I 182):
 
 <a id="s38-u10-1"></a>10.1 So vivicceva kāmehi, vivicca akusalehi dhammehi, savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.  
-🚹⨀①(ta) 🔼(vivicceva) 🚹⨂⑤(kāma) 🔼(vivicca) 🚹⨂⑤(akusala) 🚹⨂⑤(dhamma) 🚹⨀②(savitakka) 🚹⨀②(savicāra) 🚹⨀②(vivekaja) 🚹⨀②(pītisukha) 🚹⨀②(paṭhama) 🚻⨀②(jhāna) 🔼(upasampajja) ▶️🤟⨀(viharati)  
-that | just secluding oneself from | sensual pleasures | detaching from | unskillful | behaviour | accompanied by reflection | with consideration | secluded from defilements | with felicity and satisfaction | first | jhāna | entering | remains in  
+*️⃣🤟🚹⨀①(ta) 🔽(ya)(viviccati) ⏏️(eva) 🚹⨂⑤(kāma) 🔽(ya)(viviccati) 🚹⨂⑤🆎(na+kusala) 🚹⨂⑤(dhamma) 🚻⨀②🆎(sa+vitakka) 🚻⨀②🆎(sa+vicāra) 🚻⨀②🆎(viveka+ja) 🚻⨀②🆎(pīti+sukha) 🚻⨀②(paṭhama) 🚻⨀②(jhāna) 🔽(ya)(upasampajjati) 🟢⨀🤟▶️(viharati)  
+he | secluding oneself from | just | sensual pleasures | detaching from | unskillful | behaviour | accompanied by reflection | with consideration | secluded from defilements | with felicity and satisfaction | first | jhāna | entering | remains in  
 Secluding oneself from sensual pleasures, detaching from unskillful behaviour, one enters and remains in the first jhāna, accompanied by reflection and consideration, secluded from defilements, with felicity and satisfaction.
 
 <a id="s38-u10-2"></a>10.2 Tassa yā purimā kāmasaññā, sā nirujjhati.  
-🚹⨀⑥(ta) 🚹⨂①(ya) 🚹⨂①(purima) 🚺⨀①(kāmasaññā) 🚺⨀①(ta) ▶️🤟⨀(nirujjhati)  
-of that | whatever | past | apperceptions of sensual pleasure | that | ceases  
+*️⃣🤟🚹⨀⑥(ta) *️⃣🤟🚺⨀①(ya) 🚺⨀①(purima) 🚺⨀①🆎(kāma+saññā) *️⃣🤟🚺⨀①(ta) 🔴⨀🤟▶️(nirujjhati)  
+of that | whatever | past | apperception of sensual pleasure | that | ceases  
 Of that, whatever past apperceptions of sensual pleasure cease.
 
 <a id="s38-u10-3"></a>10.3 Vivekajapītisukhasukhumasaccasaññā tasmiṁ samaye hoti, vivekajapītisukhasukhumasaccasaññīyeva tasmiṁ samaye hoti.  
-🚺⨀①(vivekajapītisukhasukhumasaccasaññā) 🚹⨀⑦(ta) 🚹⨀⑦(samaya) ▶️🤟⨀(hoti) 🚺⨀①(vivekajapītisukhasukhumasaccasaññī) 🔼(eva) 🚹⨀⑦(ta) 🚹⨀⑦(samaya) ▶️🤟⨀(hoti)  
-refined and true apperception of felicity and satisfaction born from seclusion | in that | in occasion | is | with a refined and true apperception of felicity and satisfaction born from seclusion | only | in that | in occasion | is  
+🚺⨀①🆎(viveka+ja+pīti+sukha+sukhuma+sacca+saññā) *️⃣🤟🚹⨀⑦(ta) 🚹⨀⑦(samaya) 🟢⨀🤟▶️(hoti) 🚹⨀①🆎(viveka+ja+pīti+sukha+sukhuma+sacca+saññī) ⏏️(eva) *️⃣🤟🚹⨀⑦(ta) 🚹⨀⑦(samaya) 🟢⨀🤟▶️(hoti)  
+refined and true apperception of felicity and satisfaction born from seclusion | in that | occasion | is | with a refined and true apperception of felicity and satisfaction born from seclusion | only | in that | occasion | is  
 In that occasion, there is refined and true apperception of felicity and satisfaction born from seclusion, and in that occasion there is only a refined and true apperception of felicity and satisfaction born from seclusion.
 
 ## 39. THE SECOND LEVEL OF FOCUS
@@ -1242,18 +1242,18 @@ In that occasion, there is refined and true apperception of felicity and satisfa
 [Poṭṭhapādasutta DN 9 PTS 1.178–1.203](https://suttacentral.net/dn9) (Digha Nikaya I 182):
 
 <a id="s39-u11-1"></a>11.1 “Puna caparaṁ, poṭṭhapāda, bhikkhu vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati.  
-🔼(puna) 🔼(caparaṁ) 🚹⨀⓪(poṭṭhapāda) 🚹⨀①(bhikkhu) 🚹⨂①(vitakkavicārā) 🚹⨂①(vūpasama) 🚻⨀①(ajjhatta) 🚻⨀①(sampasādana) 🚹⨀⑥(cetas) 🚹⨀②(ekodibhāva) 🚻⨀①(avitakka) 🚻⨀①(avicāra) 🚻⨀①(samādhija) 🚹⨀②(pītisukha) 🚹⨀②(dutiya) 🚻⨀②(jhāna) 🔼(upasampajja) ▶️🤟⨀(viharati)  
-again | and what is more | Poṭṭhapāda | bhikkhu | thinking and investigating | subsiding of | inner | calming | of intention | focused | free from thought | free from discursive thought | born from focus | with felicity and satisfaction | first | jhāna | entering | remains in  
+⏏️(puna) ⏏️(ca) ⏏️(paraṁ) 🚹⨀⓪(poṭṭhapāda) 🚹⨀①(bhikkhu) 🚹⨂⑥🆎(vitakka+vicāra) 🚹⨀⑤(vūpasama) 🚻⨀②(ajjhatta) 🚻⨀②(sampasādana) 🚹⨀⑥(cetas) 🚹⨀②🆎(ekodi+bhāva) 🚻⨀②🆎(na+vitakka) 🚻⨀②🆎(na+vicāra) 🚻⨀②🆎(samādhi+ja) 🚻⨀②🆎(pīti+sukha) 🚻⨀②(dutiya) 🚻⨀②(jhāna) 🔽(ya)(upasampajjati) 🟢⨀🤟▶️(viharati)  
+again | and | what is more | Poṭṭhapāda | bhikkhu | of thinking and investigating | from the subsiding | inner | calming | of intention | focused | free from thought | free from discursive thought | born from focus | with felicity and satisfaction | second | jhāna | entering | remains in  
 And furthermore, Poṭṭhapāda, a bhikkhu, with the conclusion of reflection and consideration, enters and remains in the second jhāna, accompanied by an inner calming of intention, focused and free of thought or inner dialogue, born from focus, with felicity and satisfaction.
 
 <a id="s39-u11-2"></a>11.2 Tassa yā purimā vivekajapītisukhasukhumasaccasaññā, sā nirujjhati.  
-🚹⨀⑥(ta) 🚹⨂①(ya) 🚹⨂①(purima) 🚺⨀①(vivekajapītisukhasukhumasaccasaññā) 🚺⨀①(ta) ▶️🤟⨀(nirujjhati)  
+*️⃣🤟🚹⨀⑥(ta) *️⃣🤟🚺⨀①(ya) 🚺⨀①(purima) 🚺⨀①🆎(viveka+ja+pīti+sukha+sukhuma+sacca+saññā) *️⃣🤟🚺⨀①(ta) 🔴⨀🤟▶️(nirujjhati)  
 of that | whatever | past | refined and true apperception of felicity and satisfaction born from seclusion | that | ceases  
 Of that, whatever past refined and true apperception of felicity and satisfaction born from seclusion cease.
 
 <a id="s39-u11-3"></a>11.3 Samādhijapītisukhasukhumasaccasaññā tasmiṁ samaye hoti, samādhijapītisukhasukhumasaccasaññīyeva tasmiṁ samaye hoti.  
-🚺⨀①(samādhijapītisukhasukhumasaccasaññā) 🚹⨀⑦(ta) 🚹⨀⑦(samaya) ▶️🤟⨀(hoti) 🚺⨀①(samādhijapītisukhasukhumasaccasaññī) 🔼(eva) 🚹⨀⑦(ta) 🚹⨀⑦(samaya) ▶️🤟⨀(hoti)  
-refined and true apperception of the delight and ease born from focus | in that | in occasion | is | refined and true apperception of the delight and ease born from focus | only | in that | in occasion | is  
+🚺⨀①🆎(samādhi+ja+pīti+sukha+sukhuma+sacca+saññā) *️⃣🤟🚹⨀⑦(ta) 🚹⨀⑦(samaya) 🟢⨀🤟▶️(hoti) 🚹⨀①🆎(samādhi+ja+pīti+sukha+sukhuma+sacca+saññī) ⏏️(eva) *️⃣🤟🚹⨀⑦(ta) 🚹⨀⑦(samaya) 🟢⨀🤟▶️(hoti)  
+refined and true apperception of the delight and ease born from focus | in that | occasion | is | with a refined and true apperception of the delight and ease born from focus | only | in that | occasion | is  
 In that occasion, there is refined and true apperception of the felicity and satisfaction born from focus, and in that occasion there is only a refined and true apperception of the felicity and satisfaction born from focus.
 
 ## 40. THE THIRD LEVEL OF FOCUS
@@ -1261,18 +1261,18 @@ In that occasion, there is refined and true apperception of the felicity and sat
 [Poṭṭhapādasutta DN 9 PTS 1.178–1.203](https://suttacentral.net/dn9) (Digha Nikaya I 183):
 
 <a id="s40-u12-1"></a>12.1 “Puna caparaṁ, poṭṭhapāda, bhikkhu pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena paṭisaṁvedeti, yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti, tatiyaṁ jhānaṁ upasampajja viharati.  
-🔼(puna) 🔼(caparaṁ) 🚹⨀⓪(poṭṭhapāda) 🚹⨀①(bhikkhu) 🚺⨀③(pīti) 🔼(ca) 🚹⨀③(virāga) 🚹⨀①(upekkhaka) 🔼(ca) ▶️🤟⨀(viharati) 🚹⨀⑤(sa) 🔼(ca) 🚹⨀①(sampajāna) 🚻⨀①(sukha) 🚹⨀③(kāya) ▶️🤟⨀(paṭisaṁvedeti) 🚻⨀①(ya) 🚻⨀①(ta) 🚹⨂①(ariya) ▶️🤟⨂(ācikkhati) : 🚹⨀①(upekkhaka) 🚹⨀①(satimant) 🚻⨀①(sukhavihārī) 🔼(ti) 🚻⨀①(tatiya) 🚻⨀②(jhāna) 🔼(upasampajja) ▶️🤟⨀(viharati)  
-again | and what is more | Poṭṭhapāda | bhikkhu | with felicity | and | with detachment | mentally balanced, equanimous | and | continues in | being present | and | purposeful/fully aware | pleasant | and | with body | experiences | whatever | those | pure | describes : mentally balanced, equanimous | attentive | living at ease | quote | third | jhāna | entering | remains in  
+⏏️(puna) ⏏️(ca) ⏏️(paraṁ) 🚹⨀⓪(poṭṭhapāda) 🚹⨀①(bhikkhu) 🚺⨀⑥(pīti) ⏏️(ca) 🚹⨀⑤(virāga) 🚹⨀①(upekkhaka) ⏏️(ca) 🟢⨀🤟▶️(viharati) 🚹⨀①🔽(ta)(sata) ⏏️(ca) 🚹⨀①(sampajāna) 🚻⨀②(sukha) ⏏️(ca) 🚹⨀③(kāya) 🟢⨀🤟▶️(paṭisaṁvedeti) *️⃣🤟🚻⨀②(ya) *️⃣🤟🚻⨀②(ta) 🚹⨂①(ariya) 🟢⨂🤟▶️(ācikkhati) 🚹⨀①(upekkhaka) 🚹⨀①(satimant) 🚹⨀①🆎(sukha+vihārī) ⏏️(iti) 🚻⨀②(tatiya) 🚻⨀②(jhāna) 🔽(ya)(upasampajjati) 🟢⨀🤟▶️(viharati)  
+again | and | further | Poṭṭhapāda | bhikkhu | of felicity | and | with detachment | mentally balanced, equanimous | and | continues in | being present | and | purposeful/fully aware | pleasant | and | with body | experiences | which | that | noble ones | describe | mentally balanced, equanimous | attentive | living at ease | (end quote) | third | jhāna | entering | remains in  
 And furthermore, Poṭṭhapāda, a bhikkhu, with the detachment from felicity, enters and remains in the third jhāna, remains mentally balanced, is fully aware and being present, experiences body comfort, as the noble ones describe: “equanimous, attentive, living at ease.”
 
 <a id="s40-u12-2"></a>12.2 Tassa yā purimā samādhijapītisukhasukhumasaccasaññā, sā nirujjhati.  
-🚹⨀⑥(ta) 🚹⨂①(ya) 🚹⨂①(purima) 🚺⨀①(samādhijapītisukhasukhumasaccasaññā) 🚺⨀①(ta) ▶️🤟⨀(nirujjhati)  
+*️⃣🤟🚹⨀⑥(ta) *️⃣🤟🚺⨀①(ya) 🚺⨀①(purima) 🚺⨀①🆎(samādhi+ja+pīti+sukha+sukhuma+sacca+saññā) *️⃣🤟🚺⨀①(ta) 🔴⨀🤟▶️(nirujjhati)  
 of that | whatever | past | refined and true apperception of the felicity and satisfaction born from focus | that | ceases  
 Of that, whatever past refined and true apperception of the felicity and satisfaction born from focus cease.
 
 <a id="s40-u12-3"></a>12.3 Upekkhāsukhasukhumasaccasaññā tasmiṁ samaye hoti, upekkhāsukhasukhumasaccasaññīyeva tasmiṁ samaye hoti.  
-🚺⨀①(upekkhāsukhasukhumasaccasaññā) 🚹⨀⑦(ta) 🚹⨀⑦(samaya) ▶️🤟⨀(hoti) 🚺⨀①(upekkhāsukhasukhumasaccasaññī) 🔼(eva) 🚹⨀⑦(ta) 🚹⨀⑦(samaya) ▶️🤟⨀(hoti)  
-refined and true apperception of equanimity | in that | in occasion | is | refined and true apperception of equanimity | only | in that | in occasion | is  
+🚺⨀①🆎(upekkhā+sukha+sukhuma+sacca+saññā) *️⃣🤟🚹⨀⑦(ta) 🚹⨀⑦(samaya) 🟢⨀🤟▶️(hoti) 🚹⨀①🆎(upekkhā+sukha+sukhuma+sacca+saññī) ⏏️(eva) *️⃣🤟🚹⨀⑦(ta) 🚹⨀⑦(samaya) 🟢⨀🤟▶️(hoti)  
+refined and true apperception of equanimity | in that | in occasion | is | with refined and true apperception of equanimity | only | in that | in occasion | is  
 In that occasion, there is refined and true apperception of equanimity, and in that occasion there is only a refined and true apperception of equanimity.
 
 ## 41. THE FOURTH LEVEL OF FOCUS
@@ -1280,18 +1280,18 @@ In that occasion, there is refined and true apperception of equanimity, and in t
 [Poṭṭhapādasutta DN 9 PTS 1.178–1.203](https://suttacentral.net/dn9) (Digha Nikaya I 183):
 
 <a id="s41-u13-1"></a>13.1 “Puna caparaṁ, poṭṭhapāda, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati.  
-🔼(puna) 🔼(caparaṁ) 🚹⨀⓪(poṭṭhapāda) 🚹⨀①(bhikkhu) 🚹⨀⑥(sukha) 🔼(ca) 🚻⨂①(pahāna) 🚹⨀⑥(dukkha) 🔼(ca) 🚻⨂①(pahāna) 🔼(pubbeva) 🚻⨂⑥(somanassadomanassa) 🚹⨂①(atthaṅgama) 🚻⨀①(adukkhamasukha) 🚹⨀①(upekkhāsatipārisuddhi) 🚻⨀①(catuttha) 🚻⨀②(jhāna) 🔼(upasampajja) ▶️🤟⨀(viharati)  
-again | and what is more | Poṭṭhapāda | bhikkhu | of pleasant | and | giving up of | unpleasant | and giving up of | just before | of (mental) pleasure and displeasure; satisfaction and dissatisfaction | disappearance of | neutral | which possesses purification of awareness by equanimity | fourth | jhāna | entering | remains in  
+⏏️(puna) ⏏️(ca) ⏏️(paraṁ) 🚹⨀⓪(poṭṭhapāda) 🚹⨀①(bhikkhu) 🚻⨀⑥(sukha) ⏏️(ca) 🚻⨀⑤(pahāna) 🚻⨀⑥(dukkha) ⏏️(ca) 🚻⨀⑤(pahāna) ⏏️(pubbe) ⏏️(eva) 🚻⨂⑥🆎(somanassa+domanassa) 🚹⨀⑤(atthaṅgama) 🚻⨀②🆎(na+dukkha+na+sukha) 🚻⨀②🆎(upekkhā+sati+pārisuddhi) 🚻⨀②(catuttha) 🚻⨀②(jhāna) 🔽(ya)(upasampajjati) 🟢⨀🤟▶️(viharati)  
+again | and | further | Poṭṭhapāda | bhikkhu | of pleasant | and | giving up of | of unpleasant | and | giving up of | before | just | of (mental) pleasure and displeasure; satisfaction and dissatisfaction | disappearance of | neutral | which possesses purification of awareness by equanimity | fourth | jhāna | entering | remains in  
 And furthermore, Poṭṭhapāda, a bhikkhu, just before the giving up of the pleasant and the unpleasant and the disappearance of mental pleasure and displeasure, satisfaction and dissatisfaction, enters and remains in the fourth jhāna, in a neutral state, and possessing purification of awareness by equanimity.
 
 <a id="s41-u13-2"></a>13.2 Tassa yā purimā upekkhāsukhasukhumasaccasaññā, sā nirujjhati.  
-🚹⨀⑥(ta) 🚹⨂①(ya) 🚹⨂①(purima) 🚺⨀①(upekkhāsukhasukhumasaccasaññā) 🚺⨀①(ta) ▶️🤟⨀(nirujjhati)  
+*️⃣🤟🚹⨀⑥(ta) *️⃣🤟🚺⨀①(ya) 🚺⨀①(purima) 🚺⨀①🆎(upekkhā+sukha+sukhuma+sacca+saññā) *️⃣🤟🚺⨀①(ta) 🔴⨀🤟▶️(nirujjhati)  
 of that | whatever | past | refined and true apperception of equanimity | that | ceases  
 Of that, whatever past refined and true apperception of equanimity cease.
 
 <a id="s41-u13-3"></a>13.3 Adukkhamasukhasukhumasaccasaññā tasmiṁ samaye hoti, adukkhamasukhasukhumasaccasaññīyeva tasmiṁ samaye hoti.  
-🚺⨀①(adukkhamasukhasukhumasaccasaññā) 🚹⨀⑦(ta) 🚹⨀⑦(samaya) ▶️🤟⨀(hoti) 🚺⨀①(adukkhamasukhasukhumasaccasaññī) 🔼(eva) 🚹⨀⑦(ta) 🚹⨀⑦(samaya) ▶️🤟⨀(hoti)  
-refined and true apperception of neither unpleasant nor pleasant feeling | in that | in occasion | is | refined and true apperception of neither unpleasant nor pleasant feeling | only | in that | in occasion | is  
+🚺⨀①🆎(na+dukkha+na+sukha+sukhuma+sacca+saññā) *️⃣🤟🚹⨀⑦(ta) 🚹⨀⑦(samaya) 🟢⨀🤟▶️(hoti) 🚹⨀①🆎(na+dukkha+na+sukha+sukhuma+sacca+saññī) ⏏️(eva) *️⃣🤟🚹⨀⑦(ta) 🚹⨀⑦(samaya) 🟢⨀🤟▶️(hoti)  
+refined and true apperception of neither unpleasant nor pleasant feeling | in that | in occasion | is | with refined and true apperception of neither unpleasant nor pleasant feeling | only | in that | in occasion | is  
 In that occasion, there is refined and true apperception of neither unpleasant nor pleasant feeling, and in that occasion there is only a refined and true apperception of neither unpleasant nor pleasant feeling.
 
 ## 42. THE FIFTH, SIXTH AND SEVENTH LEVELS OF FOCUS
@@ -1299,18 +1299,18 @@ In that occasion, there is refined and true apperception of neither unpleasant n
 [Poṭṭhapādasutta DN 9 PTS 1.178–1.203](https://suttacentral.net/dn9) (Digha Nikaya I 183):
 
 <a id="s42-u14-1"></a>14.1 “Puna caparaṁ, poṭṭhapāda, bhikkhu sabbaso rūpasaññānaṁ samatikkamā paṭighasaññānaṁ atthaṅgamā nānattasaññānaṁ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṁ upasampajja viharati.  
-🔼(puna) 🔼(caparaṁ) 🚹⨀⓪(poṭṭhapāda) 🚹⨀①(bhikkhu) 🔼(sabbaso) 🚺⨀①(rūpasaññā) 🚹⨂①(samatikkama) 🚺⨂⑥(paṭighasaññā) 🚹⨂①(atthaṅgama) 🚺⨀①(nānattasaññā) 🚹⨂①(amanasikāra) 🚹⨀①(ananta) 🚹⨀①(ākāsa) 🔼(ti) 🚻⨀①(ākāsānañcāyatana) 🔼(upasampajja) ▶️🤟⨀(viharati)  
-again | and what is more | Poṭṭhapāda | bhikkhu | altogether | apperception of form | going beyond | of apperception of sense impression | disappearance of | apperception of multiplicity/diversity | ignoring | infinite | space | quote | base of infinity of space | entering | remains in  
+⏏️(puna) ⏏️(ca) ⏏️(paraṁ) 🚹⨀⓪(poṭṭhapāda) 🚹⨀①(bhikkhu) ⏏️(sabbaso) 🚺⨂⑥🆎(rūpa+saññā) 🚹⨀⑤(samatikkama) 🚺⨂⑥🆎(paṭigha+saññā) 🚹⨀⑤(atthaṅgama) 🚺⨂⑥🆎(nānatta+saññā) 🚹⨀⑤🆎(na+manasikāra) 🚹⨀①🆎(na+anta) 🚹⨀①(ākāsa) ⏏️(iti) 🚻⨀②🆎(ākāsa+ānañca+āyatana) 🔽(ya)(upasampajjati) 🟢⨀🤟▶️(viharati)  
+again | and | further | Poṭṭhapāda | bhikkhu | altogether | of apperception of form | going beyond | of apperception of sense impression | disappearance of | of apperception of multiplicity/diversity | ignoring | infinite | space | (end quote) | base of infinity of space | entering | remains in  
 And furthermore, Poṭṭhapāda, a bhikkhu, going beyond apperception of form altogether, with the disappearance of apperception of sense impressions, ignoring the apperception of multiple/diverse things, enters and remains in the base of the infinity of space, ie. “infinite space”.
 
 <a id="s42-u15-1"></a>15.1 “Puna caparaṁ, poṭṭhapāda, bhikkhu sabbaso ākāsānañcāyatanaṁ samatikkamma ‘anantaṁ viññāṇan’ti viññāṇañcāyatanaṁ upasampajja viharati.  
-🔼(puna) 🔼(caparaṁ) 🚹⨀⓪(poṭṭhapāda) 🚹⨀①(bhikkhu) 🔼(sabbaso) 🚻⨀①(ākāsānañcāyatana)  🚹⨂①(samatikkama) 🚹⨀①(ananta) 🚻⨀①(viññāṇa) 🔼(ti) 🚻⨀①(viññāṇañcāyatana) 🔼(upasampajja) ▶️🤟⨀(viharati)  
-again | and what is more | Poṭṭhapāda | bhikkhu | altogether | base of infinity of space | going beyond | infinite | consciousness | quote | base of infinity consciousness | entering | remains in  
+⏏️(puna) ⏏️(ca) ⏏️(paraṁ) 🚹⨀⓪(poṭṭhapāda) 🚹⨀①(bhikkhu) ⏏️(sabbaso) 🚻⨀②🆎(ākāsa+ānañca+āyatana) 🔽(ya)(samatikkamati) 🚻⨀①🆎(na+anta) 🚻⨀①(viññāṇa) ⏏️(iti) 🚻⨀②🆎(viññāṇa+ānañca+āyatana) 🔽(ya)(upasampajjati) 🟢⨀🤟▶️(viharati)  
+again | and | further | Poṭṭhapāda | bhikkhu | altogether | base of infinity of space | going beyond | infinite | consciousness | (end quote) | base of infinity of consciousness | entering | remains in  
 And furthermore, Poṭṭhapāda, a bhikkhu, going beyond the base of infinite space altogether, enters and remains in the base of the infinite consciousness, ie. “infinite consciousness”.
 
 <a id="s42-u16-1"></a>16.1 “Puna caparaṁ, poṭṭhapāda, bhikkhu sabbaso viññāṇañcāyatanaṁ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṁ upasampajja viharati.  
-🔼(puna) 🔼(caparaṁ) 🚹⨀⓪(poṭṭhapāda) 🚹⨀①(bhikkhu) 🔼(sabbaso) 🚻⨀①(viññāṇañcāyatana)  🚹⨂①(samatikkama) ▶️🤟⨀(natthi) 🚹⨀②(kaci) 🔼(ti) 🚻⨀①(ākiñcaññāyatana) 🔼(upasampajja) ▶️🤟⨀(viharati)  
-again | and what is more | Poṭṭhapāda | bhikkhu | altogether | base of infinity of space | going beyond | there is not | anything | quote | base of nothingness | entering | remains in  
+⏏️(puna) ⏏️(ca) ⏏️(paraṁ) 🚹⨀⓪(poṭṭhapāda) 🚹⨀①(bhikkhu) ⏏️(sabbaso) 🚻⨀②🆎(viññāṇa+ānañca+āyatana) 🔽(ya)(samatikkamati) ⏏️(na) 🟢⨀🤟▶️(atthi) *️⃣🤟🚻⨀①(kaci) ⏏️(iti) 🚻⨀②🆎(ākiñcañña+āyatana) 🔽(ya)(upasampajjati) 🟢⨀🤟▶️(viharati)  
+again | and | further | Poṭṭhapāda | bhikkhu | altogether | base of infinity of consciousness | going beyond | not | there is | anything | (end quote) | base of nothingness | entering | remains in  
 And furthermore, Poṭṭhapāda, a bhikkhu, going beyond the base of infinite consciousness altogether, enters and remains in the base of nothingness, ie. “there is nothing”.
 
 ## 43. THE EIGHTH AND NINTH LEVELS OF FOCUS
@@ -1318,18 +1318,18 @@ And furthermore, Poṭṭhapāda, a bhikkhu, going beyond the base of infinite c
 [Tapussasutta AN 9.41 PTS 4.439–4.448](https://suttacentral.net/an9.41) (Anguttara Nikaya IV 448):
 
 <a id="s43-u15-11"></a>15.11 So kho ahaṁ, ānanda, aparena samayena (nevasaññānāsaññāyatane ādīnavaṁ disvā taṁ bahulamakāsiṁ, saññāvedayitanirodhe ānisaṁsaṁ adhigamma tamāseviṁ).  
-🚹⨀①(ta) 🔼(kho) *️⃣👆⚧⨀①(ahaṁ) 🚹⨀⓪(ānanda) 🚹⨀③(apara) 🚹⨀③(samaya) 🚻⨂②(nevasaññānāsaññāyatana) 🚹⨀②(ādīnava) 🔼(disvā) 🚻⨀①(ta) ⏮🤟⨀(bahulamakāsi) 🚹⨂②(saññāvedayitanirodha) 🚹⨀②(ānisaṁsa) 🔼(adhigamma) ⏮👆⨀(tamāsevi)  
-that | indeed | I | Ānanda | with another | with occasion | base of neither apperception nor non-apperception | inadequacy of | having seen | that | one | practised often | ending of apperception and feeling | expecting | attaining | applied oneself to that  
+*️⃣🤟🚹⨀①(ta) ⏏️(kho) *️⃣👆⚧⨀①(ahaṁ) 🚹⨀⓪(ānanda) *️⃣🤟🚹⨀③(apara) 🚹⨀③(samaya) 🚻⨀⑦🆎(na+eva+saññā+na+saññā+āyatana) 🚹⨀②(ādīnava) 🔽(tvā)(passati) *️⃣🤟🚻⨀②(ta) 🚻⨀②(bahula) 🟢⨀👆⏮(karoti) 🚹⨀⑦🆎(saññā+vedayita+nirodha) 🚹⨀②(ānisaṁsa) 🔽(ya)(adhigacchati) *️⃣🤟🚻⨀②(ta) 🟢⨀👆⏮(āsevati)  
+that | indeed | I | Ānanda | with another | with occasion | in the base of neither apperception nor non-apperception | inadequacy of | having seen | that | often | I practised | in the ending of apperception and feeling | benefit | attaining | that | I applied myself to  
 Indeed I, Ānanda, at that other time, having seen the inadequacy of the base of neither apperception nor non-apperception that is practised often, applied myself to expecting and attaining the ending of apperception and feeling.
 
 <a id="s43-u15-13"></a>15.13 (So kho ahaṁ, ānanda), sabbaso nevasaññānāsaññāyatanaṁ samatikkamma saññāvedayitanirodhaṁ upasampajja viharāmi, paññāya ca me disvā āsavā parikkhayaṁ agamaṁsu.  
-🚹⨀①(ta) 🔼(kho) *️⃣👆⚧⨀①(ahaṁ) 🚹⨀⓪(ānanda) 🔼(sabbaso) 🚻⨀①(nevasaññānāsaññāyatana) 🔼(samatikkamma) 🚹⨀②(saññāvedayitanirodha) 🔼(upasampajja) ▶️👆⨀(viharati) 🚺⨀③(paññā) *️⃣👆⚧⨀③(ahaṁ) 🔼(disvā) 🚹⨀⑤(āsava) 🚹⨀②(parikkhaya) ⏮🤟⨂(agamāsi)  
-that | indeed | I | Ānanda | altogether | base of neither apperception nor non-apperception | going beyond | ending of apperception and feeling | entering | I remain in | by knowledge | by me | having seen | from defilement | exhaustion of | arrived at  
+*️⃣🤟🚹⨀①(ta) ⏏️(kho) *️⃣👆⚧⨀①(ahaṁ) 🚹⨀⓪(ānanda) ⏏️(sabbaso) 🚻⨀②🆎(na+eva+saññā+na+saññā+āyatana) 🔽(ya)(samatikkamati) 🚹⨀②🆎(saññā+vedayita+nirodha) 🔽(ya)(upasampajjati) 🟢⨀👆▶️(viharati) 🚺⨀③(paññā) ⏏️(ca) *️⃣👆⚧⨀⑥(ahaṁ) 🔽(tvā)(passati) 🚹⨂①(āsava) 🚹⨀②(parikkhaya) 🟢⨂🤟⏮(gacchati)  
+that | indeed | I | Ānanda | altogether | base of neither apperception nor non-apperception | going beyond | ending of apperception and feeling | entering | I remain in | by knowledge | and | my | having seen | defilements | exhaustion of | arrived at  
 Indeed I, Ānanda, going beyond the base of neither apperception nor non-apperception altogether, enter and remain in the ending of apperception and feeling, having seen by my knowledge, and arrived at the exhaustion of the defilements.
 
 <a id="s43-u16-2"></a>16.2 Yato ca kho ahaṁ, ānanda, imā nava anupubbavihārasamāpattiyo evaṁ anulomapaṭilomaṁ samāpajjimpi vuṭṭhahimpi, athāhaṁ, ānanda, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṁ sammāsambodhiṁ abhisambuddho’ti paccaññāsiṁ.  
-🚹⨀⑤(ya) 🔼(ca kho) *️⃣👆⚧⨀①(ahaṁ) 🚹⨀⓪(ānanda) 🚺⨂①(ima) ⚧⨂①(nava) 🚺⨂①(anupubbavihārasamāpatti) 🔼(evaṁ) 🔼(anulomapaṭilomaṁ) ⏮👆⨀(samāpajji) 🔼(pi) ⏮👆⨀(vuṭṭhahi) 🔼(pi) 🔼(athāhaṁ) 🚹⨀⓪(ānanda) 🚹⨀⑦(sadevaka) 🚹⨀⑦(loka) 🚹⨀⑦(samāraka) 🚹⨀⑦(sabrahmaka) 🚺⨀⑦(sassamaṇabrāhmaṇa) 🚺⨀⑦(pajā) 🚺⨀⑦(sadevamanussa) 🚻⨀①(anuttara) 🚺⨀①(sammāsambodhi) 🚹⨀①(abhisambuddha) 🔼(ti) ⏮👆⨀(paccaññāsi)  
-from whatever | and | indeed | I | Ānanda | these | nine | attainment of the successive stages in meditation | thus | forwards and backwards | entered | too | emerged from | too | then I | Ānanda | in with deities | in universe | with Māra | with Brahmas | with religious practitioners | with people | with kings and commoners | unsurpassed | perfect awakening | fully awakened | quote | I claimed  
+⏏️(yato) ⏏️(ca) ⏏️(kho) *️⃣👆⚧⨀①(ahaṁ) 🚹⨀⓪(ānanda) *️⃣🤟🚺⨂②(ima) ⚧⨂②(nava) 🚺⨂②🆎(anupubba+vihāra+samāpatti) ⏏️(evaṁ) ⏏️🆎(anuloma+paṭiloma) 🟢⨀👆⏮(samāpajjati) ⏏️(api) 🟢⨀👆⏮(vuṭṭhahati) ⏏️(api) ⏏️(atha) *️⃣👆⚧⨀①(ahaṁ) 🚹⨀⓪(ānanda) 🚹⨀⑦(sadevaka) 🚹⨀⑦(loka) 🚹⨀⑦(samāraka) 🚹⨀⑦(sabrahmaka) 🚺⨀⑦🆎(sa+samaṇa+brāhmaṇa) 🚺⨀⑦(pajā) 🚺⨀⑦🆎(sa+deva+manussa) 🚺⨀②🆎(na+uttara) 🚺⨀②🆎(sammā+sambodhi) 🚹⨀①🔽(ta)(abhisambuddha) ⏏️(iti) 🟢⨀👆⏮(paṭijānāti)  
+when | and | indeed | I | Ānanda | these | nine | attainment of the successive stages in meditation | thus | forwards and backwards | entered | too | emerged from | too | then | I | Ānanda | in with deities | in universe | with Māra | with Brahmas | with religious practitioners | with people | with kings and commoners | unsurpassed | perfect awakening | fully awakened | (end quote) | I claimed  
 And from whatever indeed, Ānanda, I entered and emerged from these nine attainments of the successive stages in meditation forwards and backwards, then I claimed to the deities in the world, Māra, Brahmas, religious practitioners, general population, kings and commoners: “I am fully awakened to the unsurpassed, perfect awakening!”
 
 <a id="s43-u16-3"></a>16.3 Ñāṇañca pana me dassanaṁ udapādi:  
@@ -1338,8 +1338,8 @@ knowledge | and | moreover | for me | insight | arose
 And knowledge and insight arose in me:
 
 <a id="s43-u16-4"></a>16.4 ‘akuppā me cetovimutti, ayamantimā jāti, natthi dāni punabbhavo’”ti.  
-🚹⨂①(akuppa) *️⃣👆⚧⨀⑥(ahaṁ)🚺⨀①(cetovimutti) 🔼(ayamantimā) 🚺⨀①(jāti) ▶️🤟⨀(natthi) 🔼(dāni) 🚹⨀①(punabbhava) 🔼(ti)  
-Unshakeable | of me | mental liberation | this is the final | birth | there is no | now | appearing again | quote  
+🚺⨀①🆎(na+kuppa) *️⃣👆⚧⨀⑥(ahaṁ) 🚺⨀①🆎(ceto+vimutti) *️⃣🤟🚺⨀①(ima) 🚺⨀①(antima) 🚺⨀①(jāti) ⏏️(na) 🟢⨀🤟▶️(atthi) ⏏️(dāni) 🚹⨀①🆎(puna+bhava) ⏏️(iti)  
+Unshakeable | of me | mental liberation | this | final | birth | not | there is | now | appearing again | (end quote)  
 “Unshakeable is my mental liberation, this is the final birth (of suffering), there is now no more appearing again (of suffering).”[^3]
 
 ## 44. THE STATE OF EMPTINESS
@@ -1347,44 +1347,44 @@ Unshakeable | of me | mental liberation | this is the final | birth | there is n
 [Piṇḍapātapārisuddhisutta MN 151 PTS 3.294–3.297](https://suttacentral.net/mn151) (Majjhima Nikaya III 293 f):
 
 <a id="s44-u1-3"></a>1.3 (Atha kho āyasmā sāriputto sāyanhasamayaṁ paṭisallānā vuṭṭhito yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi.) Ekamantaṁ nisinnaṁ kho āyasmantaṁ sāriputtaṁ bhagavā etadavoca:  
-🔼(atha kho) 🚹⨀①(āyasmant) 🚹⨀①(sāriputta) 🚹⨀②(sāyanhasamaya) 🚻⨀⑤(paṭisallāna) 🚹⨀①(vuṭṭhita) 🚹⨀③(ya) 🚹⨂①(bhagavant) ⏮🤟⨀(tenupasaṅkami) 🔼(upasaṅkamitvā) 🚹⨀②(bhagavant) 🔼(abhivādetvā) 🔼(ekamantaṁ) ⏮🤟⨀(nisīdi)  
-after that | Venerable | Sāriputta | in the late afternoon | from seclusion | come out of | by where | Bhagavā | by there approached | having approached | Bhagavā | having bowed down to | to one side | sat down  
-🔼(ekamantaṁ) 🚻⨀①(nisinna) 🔼(kho) 🚹⨀②(āyasmant) 🚹⨀②(sāriputta) 🚹⨀①(bhagavant) 🔵⏮🤟⨀(etadavoca)  
-to one side | sitting | indeed | Venerable | Sāriputta | Bhagavā | said this :  
+⏏️(atha) ⏏️(kho) 🚹⨀①(āyasmant) 🚹⨀①(sāriputta) 🚹⨀②🆎(sāyanha+samaya) 🚻⨀⑤(paṭisallāna) 🚹⨀①🔽(ta)(vuṭṭhita) *️⃣🤟🚹⨀③(ya) 🚹⨀①(bhagavant) *️⃣🤟🚹⨀③(ta) 🟢⨀🤟⏮(upasaṅkamati) 🔽(tvā)(upasaṅkamati) 🚹⨀②(bhagavant) 🔽(tvā)(abhivādeti) ⏏️(ekamantaṁ) 🟢⨀🤟⏮(nisīdati)  
+after that | indeed | Venerable | Sāriputta | in the late afternoon | from seclusion | come out of | by where | the Bhagavā | by there | approached | having approached | the Bhagavā | having bowed down to | to one side | sat down  
+⏏️(ekamantaṁ) 🚹⨀②🔽(ta)(nisinna) ⏏️(kho) 🚹⨀②(āyasmant) 🚹⨀②(sāriputta) 🚹⨀①(bhagavant) *️⃣🤟🚻⨀②(eta) 🟢⨀🤟⏮(vadati)  
+to one side | sitting | indeed | Venerable | Sāriputta | the Bhagavā | this | said  
 (After that, Venerable Sāriputta came out of seclusion in the late afternoon and approached the Bhagavā. Having approached, he bowed to the Bhagavā and sat down to one side.) The Bhagavā said this to Venerable Sāriputta sitting on one side:
 
 <a id="s44-u2-1"></a>2.1 “Vippasannāni kho te, sāriputta, indriyāni, parisuddho chavivaṇṇo pariyodāto.  
-🚻⨂①(vippasanna) 🔼(kho) *️⃣🤘⚧⨀⑥(tvaṁ) 🚹⨀⓪(sāriputta) 🚻⨂①(indriya) 🚹⨀①(parisuddha) 🚹⨀①(chavivaṇṇa) 🚹⨀①(pariyodāta)  
-tranquil | indeed | you | Sāriputta | faculties | pure | complexion | bright  
+🚻⨂①🔽(ta)(vippasanna) ⏏️(kho) *️⃣🤘⚧⨀⑥(tvaṁ) 🚹⨀⓪(sāriputta) 🚻⨂①(indriya) 🚹⨀①🔽(ta)(parisuddha) 🚹⨀①🆎(chavi+vaṇṇa) 🚹⨀①🔽(ta)(pariyodāta)  
+tranquil | indeed | your | Sāriputta | faculties | pure | complexion | bright  
 “You are tranquil indeed, Sāriputta, and your faculties are serene and complexion bright.”
 
 <a id="s44-u2-2"></a>2.2 Katamena kho tvaṁ, sāriputta, vihārena etarahi bahulaṁ viharasī”ti?  
-🚹⨀③(katama) 🔼(kho) *️⃣🤘⚧⨀①(tvaṁ) 🚹⨀⓪(sāriputta) 🚹⨀③(vi  hāra) 🔼(etarahi) 🚻⨀①(bahula) ▶️🤘⨀(viharati) 🔼(ti)\
-with what | indeed | you | Sāriputta | with way of spending time | now | often | dwells in | quote  
+*️⃣🤟🚹⨀③(katama) ⏏️(kho) *️⃣🤘⚧⨀①(tvaṁ) 🚹⨀⓪(sāriputta) 🚹⨀③(vihāra) ⏏️(etarahi) 🚻⨀②(bahula) 🟢⨀🤘▶️(viharati) ⏏️(iti)  
+with what | indeed | you | Sāriputta | with way of spending time | now | often | dwell in | (end quote)  
 “How have you been spending time lately, Sāriputta?”
 
 <a id="s44-u2-3"></a>2.3 “Suññatāvihārena kho ahaṁ, bhante, etarahi bahulaṁ viharāmī”ti.  
-🚹⨀③(suññatāvihāra) 🔼(kho) *️⃣👆⚧⨀①(ahaṁ) 🚹⨀⓪(bhavant) 🔼(etarahi) 🚻⨀①(bahula) ▶️👆⨀(viharati) 🔼(ti)  
-with contemplation on emptiness | indeed | I | Bhante | now | often | dwells in | quote  
+🚹⨀③🆎(suññatā+vihāra) ⏏️(kho) *️⃣👆⚧⨀①(ahaṁ) 🚹⨀⓪(bhavant) ⏏️(etarahi) 🚻⨀②(bahula) 🟢⨀👆▶️(viharati) ⏏️(iti)  
+with contemplation on emptiness | indeed | I | Bhante | now | often | dwell in | (end quote)  
 “Lately, I often dwell on emptiness, Bhante.”
 
-<a id="s44-u2-4"></a>2.4 “Sādhu sādhu, sāriputta.\
-🚹⨀①(sādhu) 🚹⨀①(sādhu) 🚹⨀⓪(sāriputta)\
-Excellent | Sāriputta
+<a id="s44-u2-4"></a>2.4 “Sādhu sādhu, sāriputta.  
+⏏️(sādhu) ⏏️(sādhu) 🚹⨀⓪(sāriputta)  
+Excellent | excellent | Sāriputta
 “Excellent, Sāriputta.”
 
-<a id="s44-u2-5"></a>2.5 Mahāpurisavihārena kira tvaṁ, sāriputta, etarahi bahulaṁ viharasi.\
-🚹⨀③(mahāpurisavihāra) 🔼(kira) *️⃣🤘⚧⨀①(tvaṁ) 🚹⨀⓪(sāriputta) 🔼(etarahi) 🚻⨀①(bahula) ▶️🤘⨀(viharati)\
-with internal dwelling of an illustrious being | truly | you | Sāriputta | now | often | dwells in  
+<a id="s44-u2-5"></a>2.5 Mahāpurisavihārena kira tvaṁ, sāriputta, etarahi bahulaṁ viharasi.  
+🚹⨀③🆎(mahā+purisa+vihāra) ⏏️(kira) *️⃣🤘⚧⨀①(tvaṁ) 🚹⨀⓪(sāriputta) ⏏️(etarahi) 🚻⨀②(bahula) 🟢⨀🤘▶️(viharati)  
+with internal dwelling of an illustrious being | truly | you | Sāriputta | now | often | dwell in  
 “Truly, Sāriputta, lately you often dwell in the internal dwelling of an illustrious being.”
 
-<a id="s44-u2-6"></a>2.6 Mahāpurisavihāro eso, sāriputta, yadidaṁ—\
-🚹⨀①(mahāpurisavihāra) 🚹⨀①(eta) 🚹⨀⓪(sāriputta) 🔼(yadidaṁ)\
-internal dwelling of an illustrious being | this | Sāriputta | that is
+<a id="s44-u2-6"></a>2.6 Mahāpurisavihāro eso, sāriputta, yadidaṁ—  
+🚹⨀①🆎(mahā+purisa+vihāra) *️⃣🤟🚹⨀①(eta) 🚹⨀⓪(sāriputta) *️⃣🤟🚻⨀①(ya) *️⃣🤟🚻⨀①(ima)  
+internal dwelling of an illustrious being | this | Sāriputta | which | this
 Sāriputta, this is the internal dwelling of an illustrious being:
 
-<a id="s44-u2-7"></a>2.7 suññatā.\
-🚹⨂①(suññata)\
+<a id="s44-u2-7"></a>2.7 suññatā.  
+🚺⨀①(suññatā)  
 emptiness
 “That is the internal dwelling of an illustrious being, Sāriputta, this emptiness.”
 
@@ -1393,43 +1393,43 @@ emptiness
 [Mahāhatthipadopamasutta MN 28 PTS 1.185–1.191](https://suttacentral.net/mn28) (Majjhima Nikaya I 186):
 
 <a id="s45-u9-1"></a>9.1 Tañce, āvuso, bhikkhuṁ pare aniṭṭhehi akantehi amanāpehi samudācaranti—  
-🔼(tañce) 🔼(āvuso) 🚹⨀②(bhikkhu) 🚹⨂①(para) 🚹⨂③(aniṭṭha) 🚹⨂③(akanta) 🚹⨂③(amanāpa) ▶️🤟⨂(samudācarati)  
-if that | friend | bhikkhu | others | with unpleasant | disagreeable | dislikeable | behave  
+*️⃣🤟🚹⨀②(ta) ⏏️(ce) ⏏️(āvuso) 🚹⨀②(bhikkhu) *️⃣🤟🚹⨂①(para) 🚹⨂③🔽(ta)🆎(na+iṭṭha) 🚹⨂③🔽(ta)🆎(na+kanta) 🚹⨂③🆎(na+manāpa) 🟢⨂🤟▶️(samudācarati)  
+that | if | friend | bhikkhu | others | with unpleasant | disagreeable | dislikeable | behave  
 Friend, if others behave with unpleasantness, disagreeableness, dislikeableness to that bhikkhu -
 
 <a id="s45-u9-2"></a>9.2 pāṇisamphassenapi leḍḍusamphassenapi daṇḍasamphassenapi satthasamphassenapi.  
-🚹⨀③(pāṇisamphassa) 🔼(api) 🚹⨀③(leḍḍusamphassa) 🔼(api) 🚹⨀③(daṇḍasamphassa) 🔼(api) 🚹⨀③(satthasamphassa) 🔼(api)  
+🚹⨀③🆎(pāṇi+samphassa) ⏏️(api) 🚹⨀③🆎(leḍḍu+samphassa) ⏏️(api) 🚹⨀③🆎(daṇḍa+samphassa) ⏏️(api) 🚹⨀③🆎(sattha+samphassa) ⏏️(api)  
 with slap | even | with throwing stones | even | with beating with a stick | even | with stabbing with a weapon | even  
 even hitting him with hands, stones, sticks, weapons.
 
 <a id="s45-u9-3"></a>9.3 So evaṁ pajānāti:  
-🚹⨀①(ta) 🔼(evaṁ) ▶️🤟⨀(pajānāti)  
-he | thus | knows:  
+*️⃣🤟🚹⨀①(ta) ⏏️(evaṁ) 🟢⨀🤟▶️(pajānāti)  
+he | thus | knows  
 Thus he knows:
 
 <a id="s45-u9-4"></a>9.4 ‘tathābhūto kho ayaṁ kāyo yathābhūtasmiṁ kāye pāṇisamphassāpi kamanti, leḍḍusamphassāpi kamanti, daṇḍasamphassāpi kamanti, satthasamphassāpi kamanti.  
-🚹⨀①(tathābhūta) 🔼(kho) 🚹⨀①(ima) 🚹⨀①(kāya) 🚹⨀⑦(yathābhūta) 🚹⨀⑦(kāya) 🚹⨀②(pāṇisamphassa) 🔼(api) ▶️🤟⨂(kamati) 🚹⨀②(leḍḍusamphassa) 🔼(api) ▶️🤟⨂(kamati) 🚹⨀②(daṇḍasamphassa) 🔼(api) ▶️🤟⨂(kamati) 🚹⨀②(satthasamphassa)  
+🚹⨀①🆎(tathā+bhūta) ⏏️(kho) *️⃣🤟🚹⨀①(ima) 🚹⨀①(kāya) 🚹⨀⑦🆎(yathā+bhūta) 🚹⨀⑦(kāya) 🚹⨂①🆎(pāṇi+samphassa) ⏏️(api) 🟢⨂🤟▶️(kamati) 🚹⨂①🆎(leḍḍu+samphassa) ⏏️(api) 🟢⨂🤟▶️(kamati) 🚹⨂①🆎(daṇḍa+samphassa) ⏏️(api) 🟢⨂🤟▶️(kamati) 🚹⨂①🆎(sattha+samphassa) ⏏️(api) 🟢⨂🤟▶️(kamati)  
 of such nature | indeed | this | body | in reality | in body | slap | even | occurs | throwing stones | even | occurs | beating with a stick | even | occurs | stabbing with a weapon | even | occurs  
 This body is of such nature that it is possible to physically hit it with hands, stones, sticks, weapons.
 
 <a id="s45-u9-5"></a>9.5 Vuttaṁ kho panetaṁ bhagavatā kakacūpamovāde:  
-🚻⨀①(vutta) 🔼(kho) 🔼(panetaṁ) 🚹⨀③(bhagavant)🚹⨀⑦(kakacūpamovāda)  
-said | indeed | but this | by Bhagavā | exhortation with the simile of the saw  
+🚻⨀①🔽(ta)(vutta) ⏏️(kho) ⏏️(pana) *️⃣🤟🚻⨀①(eta) 🚹⨀③(bhagavant) 🚹⨀⑦🆎(kakaca+upamā+ovāda)  
+said | indeed | but | this | by the Bhagavā | in the exhortation with the simile of the saw  
 But this is indeed said by the Bhagavā in the exhortation with the simile of the saw:
 
 <a id="s45-u9-6"></a>9.6 “ubhatodaṇḍakena cepi, bhikkhave, kakacena corā ocarakā aṅgamaṅgāni okanteyyuṁ, tatrāpi yo mano padūseyya na me so tena sāsanakaro”ti.  
-🚹⨀③(ubhatodaṇḍaka) 🔼(cepi) 🚹⨂⓪(bhikkhu) 🚹⨀③(kakaca) 🚹⨂①(cora) 🚹⨂①(ocaraka) 🚻⨂②(aṅgamaṅgāni) ⏯🤟⨂(okantati) 🔼(tatrāpi) 🚹⨀①(ya) 🚹⨀②(manas) ⏯🤟⨀(padūseti) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨀①(ta) 🚹⨀③(ta) 🚹⨀①(sāsanakara) 🔼(ti)  
-with double-handled | even if | Bhikkhave | with saw | robbers | lowlife | all the limbs | cut off | even in that situation | whoever | mind | will corrupt | no | of me | that | by that | practising the teaching | quote  
+🚹⨀③🆎(ubhato+daṇḍaka) ⏏️(ce) ⏏️(api) 🚹⨂⓪(bhikkhu) 🚹⨀③(kakaca) 🚹⨂①(cora) 🚹⨂①(ocaraka) 🚻⨂②🆎(aṅga+aṅga) 🟢⨂🤟⏯(okantati) ⏏️(tatra) ⏏️(api) *️⃣🤟🚹⨀①(ya) 🚹⨀②(manas) 🟢⨀🤟⏯(padūseti) ⏏️(na) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(ta) *️⃣🤟🚹⨀③(ta) 🚹⨀①🆎(sāsana+kara) ⏏️(iti)  
+with double-handled | if | even | Bhikkhave | with saw | robbers | lowlife | all the limbs | cut off | in that situation | even | whoever | mind | will corrupt | no | of me | that | by that | practising the teaching | (end quote)  
 “Bhikkhave, even if lowlife robbers cut off all the limbs with a double-handled saw, even in that case whoever will corrupt his mind is not practising the teaching of mine.”
 
 <a id="s45-u9-7"></a>9.7 Āraddhaṁ kho pana me vīriyaṁ bhavissati asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṁ cittaṁ ekaggaṁ.  
-🚻⨀①(āraddha) 🔼(kho pana) *️⃣👆⚧⨀③(ahaṁ) 🚻⨀①(vīriya) ⏭🤟⨀(bhavati) 🚻⨀①(asallīna) 🚹⨂①(upaṭṭhita) 🚺⨀①(sati) 🚹⨂①(asammuṭṭha) 🚹⨀①(passaddha) 🚹⨀①(kāya) 🚹⨀①(asāraddha) 🚻⨀①(samāhita) 🚻⨀①(citta) 🚻⨀①(ekagga)  
-applied | and now | with me | determination | will become | active | presence | awareness | unmuddled | tranquility | body | unagitated | composed | mind | focused  
+🚻⨀①🔽(ta)(āraddha) ⏏️(kho) ⏏️(pana) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(vīriya) 🟢⨀🤟⏭(bhavati) 🚻⨀①🔽(ta)🆎(na+sallīna) 🚺⨀①🔽(ta)(upaṭṭhita) 🚺⨀①(sati) 🚺⨀①🔽(ta)🆎(na+sammuṭṭha) 🚹⨀①🔽(ta)(passaddha) 🚹⨀①(kāya) 🚹⨀①🔽(ta)🆎(na+sāraddha) 🚻⨀①🔽(ta)(samāhita) 🚻⨀①(citta) 🚻⨀①🆎(eka+agga)  
+applied | and | now | my | determination | will become | active | presence | awareness | unmuddled | tranquility | body | unagitated | composed | mind | focused  
 And now applied with me there will be active determination, presence and awareness, unmuddled, tranquility, unagitated body, composed and focused mind.
 
 <a id="s45-u9-8"></a>9.8 Kāmaṁ dāni imasmiṁ kāye pāṇisamphassāpi kamantu, leḍḍusamphassāpi kamantu, daṇḍasamphassāpi kamantu, satthasamphassāpi kamantu, karīyati hidaṁ buddhānaṁ sāsanan’ti.  
-🚻⨀①(kāma) 🔼(dāni) 🚹⨀⑦(ima) 🚹⨀⑦(kāya) 🚹⨀②(pāṇisamphassa) 🔼(api) ⏹🤟⨂(kamati) 🚹⨀②(leḍḍusamphassa) 🔼(api) ▶️🤟⨂(kamati) 🚹⨀②(daṇḍasamphassa) 🔼(api) ▶️🤟⨂(kamati) 🚹⨀②(satthasamphassa) ▶️🤟⨀(karīyati) 🔼(hidaṁ) 🚹⨂⑥(buddha) 🚻⨀①(sāsana) 🔼(ti)  
-certainly | now | in this | in body | slap | even | must occur | throwing stones | even | must occur | beating with a stick | even | must occur | stabbing with a weapon | even | must occur | is practised | surely in this case | of Buddha | teaching | quote  
+⏏️(kāmaṁ) ⏏️(dāni) *️⃣🤟🚹⨀⑦(ima) 🚹⨀⑦(kāya) 🚹⨂①🆎(pāṇi+samphassa) ⏏️(api) 🟢⨂🤟⏹(kamati) 🚹⨂①🆎(leḍḍu+samphassa) ⏏️(api) 🟢⨂🤟⏹(kamati) 🚹⨂①🆎(daṇḍa+samphassa) ⏏️(api) 🟢⨂🤟⏹(kamati) 🚹⨂①🆎(sattha+samphassa) ⏏️(api) 🟢⨂🤟⏹(kamati) 🔴⨀🤟▶️(karīyati) ⏏️(hi) *️⃣🤟🚻⨀①(ima) 🚹⨂⑥(buddha) 🚻⨀①(sāsana) ⏏️(iti)  
+certainly | now | in this | in body | slap | even | must occur | throwing stones | even | must occur | beating with a stick | even | must occur | stabbing with a weapon | even | must occur | is practised | surely | this | of Buddha | teaching | (end quote)  
 “And now certainly, even when hit by hands, stones, sticks, weapons in the body, surely in this case the teaching of the Buddha is practised.”
 
 ## 46. A NUN TELLS HER STORY
@@ -1437,55 +1437,55 @@ certainly | now | in this | in body | slap | even | must occur | throwing stones
 [Sīhātherīgāthā Thig 5.3 PTS 132 Verse 77–81](https://suttacentral.net/thig5.3) (Therigatha, verses 78-81):
 
 <a id="s46-u2-1"></a>2.1 Pariyuṭṭhitā klesehi,  
-🚹⨂①(pariyuṭṭhita) 🚹⨂③(klesa)  
-consumed by | defilements  
+🚺⨀①🔽(ta)(pariyuṭṭhita) 🚹⨂③(klesa)  
+consumed | by defilements  
 <a id="s46-u2-2"></a>2.2 subhasaññānuvattinī;  
-🚺⨀①(subhasaññānuvattī)  
+🚺⨀①🆎(subha+saññā+anuvattī)  
 pursuing beautiful apperceptions  
 <a id="s46-u2-3"></a>2.3 Samaṁ cittassa na labhiṁ,  
-🚻⨀①(sama) 🚻⨀⑥(citta) 🔼(na) ⏮🤟⨀(labhi)  
+🚻⨀②(sama) 🚻⨀⑥(citta) ⏏️(na) 🟢⨀👆⏮(labhati)  
 balance | of mind/heart | no | obtained  
 Didn’t obtain balance of mind/heart  
 <a id="s46-u2-4"></a>2.4 rāgacittavasānugā.  
-🚹⨂①(rāgacittavasānuga)  
+🚺⨀①🆎(rāga+citta+vasa+anuga)  
 slave of the impassioned heart  
 <a id="s46-u3-1"></a>3.1 Kisā paṇḍu vivaṇṇā ca,  
-🚹⨂①(kisa) 🚹⨀①(paṇḍu) 🚹⨂①(vivaṇṇa) 🔼(ca)  
+🚺⨀①(kisa) 🚺⨀①(paṇḍu) 🚺⨀①(vivaṇṇa) ⏏️(ca)  
 thin | pale | sickly | and  
 <a id="s46-u3-2"></a>3.2 satta vassāni cārihaṁ;  
-⚧⨂①(satta) 🚻⨂①(vassa) 🚻⨀①(cārī) *️⃣👆⚧⨀①(ahaṁ)  
+⚧⨂②(satta) 🚻⨂②(vassa) 🟢⨀👆⏮(carati) *️⃣👆⚧⨀①(ahaṁ)  
 seven | years | wandered | I  
 <a id="s46-u3-3"></a>3.3 Nāhaṁ divā vā rattiṁ vā,  
-🔼(nāhaṁ) 🚹⨀③(diva) 🔼(vā) 🔼(rattiṁ) 🔼(vā)  
-not I | by day | or | by night | or  
+⏏️(na) *️⃣👆⚧⨀①(ahaṁ) ⏏️(divā) ⏏️(vā) 🚺⨀②(ratti) ⏏️(vā)  
+not | I | by day | or | by night | or  
 <a id="s46-u3-4"></a>3.4 sukhaṁ vindiṁ sudukkhitā.  
-🚻⨀①(sukha) ⏮🤟⨀(vindi) 🚹⨂①(sudukkhita)  
+🚻⨀②(sukha) 🟢⨀👆⏮(vindati) 🚺⨀①🆎(su+dukkhita)  
 pleasant | experienced | suffering miserably
 
 <a id="s46-u4-1"></a>4.1 Tato rajjuṁ gahetvāna,  
-🚹⨀⑤(ta) 🚺⨀②(rajju) 🔼(gahetvāna)  
+⏏️(tato) 🚺⨀②(rajju) 🔽(tvāna)(gaṇhāti)  
 from that | rope | having taken  
 <a id="s46-u4-2"></a>4.2 pāvisiṁ vanamantaraṁ;  
-⏮🤟⨀(pāvisi) 🚻⨀①(vanamantara)  
+🟢⨀👆⏮(pavisati) 🚻⨀②🆎(vana+antara)  
 entered | inner forest  
 <a id="s46-u4-3"></a>4.3 Varaṁ me idha ubbandhaṁ,  
-🚹⨀②(vara) *️⃣👆⚧⨀⑥(ahaṁ) 🔼(idha) 🚹⨀②(ubbandha)  
-wish | of me | now | suicide  
+⏏️(varaṁ) *️⃣👆⚧⨀④(ahaṁ) ⏏️(idha) 🚹⨀②(ubbandha)  
+better | for me | here | suicide  
 <a id="s46-u4-4"></a>4.4 yañca hīnaṁ punācare.  
-🔼(yañca) 🚻⨀①(hīna) ⏯🤟⨀(punācarati)  
-but whatever | deficiencies | will repeat again  
+*️⃣🤟🚻⨀②(ya) ⏏️(ca) 🚻⨀②(hīna) ⏏️(puna) 🟢⨀👆⏯(ācarati)  
+whatever | but | deficiencies | again | would practise  
 <a id="s46-u5-1"></a>5.1 Daḷhapāsaṁ karitvāna,  
-🚹⨀②(daḷhapāsa) 🔼(karitvāna)  
+🚹⨀②🆎(daḷha+pāsa) 🔽(tvāna)(karoti)  
 strong noose | having made  
 <a id="s46-u5-2"></a>5.2 rukkhasākhāya bandhiya;  
-🚺⨀⑦(rukkhasākhā) 🔼(bandhiya)  
+🚺⨀⑦🆎(rukkha+sākhā) 🔽(ya)(bandhati)  
 at branch of tree | having tied  
 <a id="s46-u5-3"></a>5.3 Pakkhipiṁ pāsaṁ gīvāyaṁ,  
-⏮🤟⨀(pakkhipi) 🚹⨀②(pāsa) 🚺⨀⑦(gīvā)  
+🟢⨀👆⏮(pakkhipati) 🚹⨀②(pāsa) 🚺⨀⑦(gīvā)  
 placed | noose | on neck  
 <a id="s46-u5-4"></a>5.4 atha cittaṁ vimucci me”ti.  
-🔼(atha) 🚻⨀①(citta) ⏮🤟⨀(vimucci) *️⃣👆⚧⨀⑥(ahaṁ) 🔼(ti)  
-then | mind | was liberated | of me | quote
+⏏️(atha) 🚻⨀①(citta) 🔴⨀🤟⏮(vimuccati) *️⃣👆⚧⨀⑥(ahaṁ) ⏏️(iti)  
+then | mind | was liberated | of me | (end quote)
 
 Consumed by defilements,  
 Pursuing beautiful apperceptions;  
@@ -1512,8 +1512,8 @@ Then my mind was liberated.
 [Pāsarāsisutta MN 26 PTS 1.161–1.175](https://suttacentral.net/mn26) (Majjhima Nikaya I 167):
 
 <a id="s47-u18-1"></a>18.1 (So kho ahaṁ, bhikkhave, attanā jātidhammo samāno jātidhamme ādīnavaṁ viditvā ajātaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesamāno ajātaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ ajjhagamaṁ, attanā jarādhammo samāno jarādhamme ādīnavaṁ viditvā ajaraṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesamāno ajaraṁ anuttaraṁ yogakkhemaṁ nibbānaṁ ajjhagamaṁ, attanā byādhidhammo samāno byādhidhamme ādīnavaṁ viditvā abyādhiṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesamāno abyādhiṁ anuttaraṁ yogakkhemaṁ nibbānaṁ ajjhagamaṁ, attanā maraṇadhammo samāno maraṇadhamme ādīnavaṁ viditvā amataṁ anuttaraṁ yogakkhemaṁ nibbānaṁ ajjhagamaṁ, attanā sokadhammo samāno sokadhamme ādīnavaṁ viditvā asokaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ ajjhagamaṁ), attanā saṅkilesadhammo samāno saṅkilesadhamme ādīnavaṁ viditvā asaṅkiliṭṭhaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesamāno asaṅkiliṭṭhaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ ajjhagamaṁ.  
-🚹⨀①(ta) 🔼(kho) *️⃣👆⚧⨀①(ahaṁ) 🚹⨂⓪(bhikkhu) 🚹⨀⑤(atta) 🚹⨀①(jātidhamma) 🚹⨀①(samāna) 🚹⨀⑦(jātidhamma) 🚹⨀②(ādīnava) 🔼(viditvā) 🚻⨀①(ajāta) 🚻⨀①(anuttara) 🚹⨀②(yogakkhema) 🚻⨀①(nibbāna) 🚹⨀①(pariyesamāna) 🚻⨀①(ajāta) 🚻⨀①(anuttara) 🚹⨀②(yogakkhema) 🚻⨀①(nibbāna) ↩️👆⨀(ajjhagamā) 🚹⨀⑤(atta) 🚹⨀①(jarādhamma) 🚹⨀①(samāna) 🚹⨀⑦(jarādhamma) 🚹⨀②(ādīnava) 🔼(viditvā) 🚻⨀①(ajaras) 🚻⨀①(anuttara) 🚹⨀②(yogakkhema) 🚻⨀①(nibbāna) 🚹⨀①(pariyesamāna) 🚻⨀①(ajaras) 🚻⨀①(anuttara) 🚹⨀②(yogakkhema) 🚻⨀①(nibbāna) ↩️👆⨀(ajjhagamā) 🚹⨀⑤(atta) 🚹⨀①(byādhidhamma) 🚹⨀①(samāna) 🚹⨀⑦(byādhidhamma) 🚹⨀②(ādīnava) 🔼(viditvā) 🚹⨀①(abyādhi) 🚻⨀①(anuttara) 🚹⨀②(yogakkhema) 🚻⨀①(nibbāna) 🚹⨀①(pariyesamāna) 🚹⨀①(abyādhi) 🚻⨀①(anuttara) 🚹⨀②(yogakkhema) 🚻⨀①(nibbāna) ↩️👆⨀(ajjhagamā) 🚹⨀⑤(atta) 🚹⨀①(maraṇadhamma) 🚹⨀①(samāna) 🚹⨀⑦(maraṇadhamma) 🚹⨀②(ādīnava) 🔼(viditvā) 🚻⨀①(amata) 🚻⨀①(anuttara) 🚹⨀②(yogakkhema) 🚻⨀①(nibbāna) 🚹⨀①(pariyesamāna) 🚻⨀①(amata) 🚻⨀①(anuttara) 🚹⨀②(yogakkhema) 🚻⨀①(nibbāna) ↩️👆⨀(ajjhagamā) 🚹⨀⑤(atta) 🚹⨀①(sokadhamma) 🚹⨀①(samāna) 🚹⨀⑦(sokadhamma) 🚹⨀②(ādīnava) 🔼(viditvā) 🚻⨀①(asoka) 🚻⨀①(anuttara) 🚹⨀②(yogakkhema) 🚻⨀①(nibbāna) 🚹⨀①(pariyesamāna) 🚻⨀①(asoka) 🚻⨀①(anuttara) 🚹⨀②(yogakkhema) 🚻⨀①(nibbāna) ↩️👆⨀(ajjhagamā) 🚹⨀⑤(atta) 🚹⨀①(saṅkilesadhamma) 🚹⨀①(samāna) 🚹⨀⑦(saṅkilesadhamma) 🚹⨀②(ādīnava) 🔼(viditvā) 🚻⨀①(asaṅkiliṭṭha) 🚻⨀①(anuttara) 🚹⨀②(yogakkhema) 🚻⨀①(nibbāna) 🚹⨀①(pariyesamāna) 🚻⨀①(asaṅkiliṭṭha) 🚻⨀①(anuttara) 🚹⨀②(yogakkhema) 🚻⨀①(nibbāna) ↩️👆⨀(ajjhagamā)  
-that | indeed | I | Bhikkhave | from self | liable to birth | being | in liable to birth | unsatisfactoriness | having perceived | unborn | unsurpassed | sanctuary | extinguishment | searching for | unborn | unsurpassed | sanctuary | extinguishment | achieved | from self | liable to old age | being | in liable to old age | unsatisfactoriness | having perceived | not aging | unsurpassed | sanctuary | extinguishment | searching for | not aging | unsurpassed | sanctuary | extinguishment | achieved | from self | liable to get sick | being | in liable to get sick | unsatisfactoriness | having perceived | healthy | unsurpassed | sanctuary | extinguishment | searching for | healthy | unsurpassed | sanctuary | extinguishment | achieved | from self | liable to death | being | in liable to death | unsatisfactoriness | having perceived | non death | unsurpassed | sanctuary | extinguishment | searching for | non death | unsurpassed | sanctuary | extinguishment | achieved | from self | liable to sorrow | being | in liable to sorrow | unsatisfactoriness | having perceived | non sorrow | unsurpassed | sanctuary | extinguishment | searching for | non sorrow | unsurpassed | sanctuary | extinguishment | achieved | from self | liable to defilement | being | in liable to defilement | unsatisfactoriness | having perceived | undefiled | unsurpassed | sanctuary | extinguishment | searching for | undefiled | unsurpassed | sanctuary | extinguishment | achieved  
+*️⃣🤟🚹⨀①(ta) ⏏️(kho) *️⃣👆⚧⨀①(ahaṁ) 🚹⨂⓪(bhikkhu) 🚹⨀③(atta) 🚹⨀①🆎(jāti+dhamma) 🚹⨀①🔽(māna)(samāna) 🚹⨀⑦🆎(jāti+dhamma) 🚹⨀②(ādīnava) 🔽(tvā)(vidati) 🚻⨀②🔽(ta)🆎(na+jāta) 🚻⨀②🆎(na+uttara) 🚻⨀②🆎(yoga+khema) 🚻⨀②(nibbāna) 🚹⨀①🔽(māna)(pariyesamāna) 🚻⨀②🔽(ta)🆎(na+jāta) 🚻⨀②🆎(na+uttara) 🚻⨀②🆎(yoga+khema) 🚻⨀②(nibbāna) 🟢⨀👆↩️(adhigacchati) 🚹⨀③(atta) 🚹⨀①🆎(jarā+dhamma) 🚹⨀①🔽(māna)(samāna) 🚹⨀⑦🆎(jarā+dhamma) 🚹⨀②(ādīnava) 🔽(tvā)(vidati) 🚻⨀②🆎(na+jara) 🚻⨀②🆎(na+uttara) 🚻⨀②🆎(yoga+khema) 🚻⨀②(nibbāna) 🚹⨀①🔽(māna)(pariyesamāna) 🚻⨀②🆎(na+jara) 🚻⨀②🆎(na+uttara) 🚻⨀②🆎(yoga+khema) 🚻⨀②(nibbāna) 🟢⨀👆↩️(adhigacchati) 🚹⨀③(atta) 🚹⨀①🆎(byādhi+dhamma) 🚹⨀①🔽(māna)(samāna) 🚹⨀⑦🆎(byādhi+dhamma) 🚹⨀②(ādīnava) 🔽(tvā)(vidati) 🚻⨀②🆎(na+byādhi) 🚻⨀②🆎(na+uttara) 🚻⨀②🆎(yoga+khema) 🚻⨀②(nibbāna) 🚹⨀①🔽(māna)(pariyesamāna) 🚻⨀②🆎(na+byādhi) 🚻⨀②🆎(na+uttara) 🚻⨀②🆎(yoga+khema) 🚻⨀②(nibbāna) 🟢⨀👆↩️(adhigacchati) 🚹⨀③(atta) 🚹⨀①🆎(maraṇa+dhamma) 🚹⨀①🔽(māna)(samāna) 🚹⨀⑦🆎(maraṇa+dhamma) 🚹⨀②(ādīnava) 🔽(tvā)(vidati) 🚻⨀②🔽(ta)🆎(na+mata) 🚻⨀②🆎(na+uttara) 🚻⨀②🆎(yoga+khema) 🚻⨀②(nibbāna) 🟢⨀👆↩️(adhigacchati) 🚹⨀③(atta) 🚹⨀①🆎(soka+dhamma) 🚹⨀①🔽(māna)(samāna) 🚹⨀⑦🆎(soka+dhamma) 🚹⨀②(ādīnava) 🔽(tvā)(vidati) 🚻⨀②🆎(na+soka) 🚻⨀②🆎(na+uttara) 🚻⨀②🆎(yoga+khema) 🚻⨀②(nibbāna) 🟢⨀👆↩️(adhigacchati) 🚹⨀③(atta) 🚹⨀①🆎(saṅkilesa+dhamma) 🚹⨀①🔽(māna)(samāna) 🚹⨀⑦🆎(saṅkilesa+dhamma) 🚹⨀②(ādīnava) 🔽(tvā)(vidati) 🚻⨀②🔽(ta)🆎(na+saṅkiliṭṭha) 🚻⨀②🆎(na+uttara) 🚻⨀②🆎(yoga+khema) 🚻⨀②(nibbāna) 🚹⨀①🔽(māna)(pariyesamāna) 🚻⨀②🔽(ta)🆎(na+saṅkiliṭṭha) 🚻⨀②🆎(na+uttara) 🚻⨀②🆎(yoga+khema) 🚻⨀②(nibbāna) 🟢⨀👆↩️(adhigacchati)  
+that | indeed | I | Bhikkhave | by myself | liable to birth | being | in liable to birth | unsatisfactoriness | having perceived | unborn | unsurpassed | sanctuary | extinguishment | searching for | unborn | unsurpassed | sanctuary | extinguishment | achieved | by myself | liable to old age | being | in liable to old age | unsatisfactoriness | having perceived | not aging | unsurpassed | sanctuary | extinguishment | searching for | not aging | unsurpassed | sanctuary | extinguishment | achieved | by myself | liable to get sick | being | in liable to get sick | unsatisfactoriness | having perceived | healthy | unsurpassed | sanctuary | extinguishment | searching for | healthy | unsurpassed | sanctuary | extinguishment | achieved | by myself | liable to death | being | in liable to death | unsatisfactoriness | having perceived | non death | unsurpassed | sanctuary | extinguishment | achieved | by myself | liable to sorrow | being | in liable to sorrow | unsatisfactoriness | having perceived | non sorrow | unsurpassed | sanctuary | extinguishment | achieved | by myself | liable to defilement | being | in liable to defilement | unsatisfactoriness | having perceived | undefiled | unsurpassed | sanctuary | extinguishment | searching for | undefiled | unsurpassed | sanctuary | extinguishment | achieved  
 (That indeed, Bhikkhave, from my own doing I was liable to birth, and having perceived the unsatisfactoriness of being liable to birth, searching for the unsurpassed sanctuary of extinguishment from being born, achieved the unsurpassed sanctuary of extinguishment from being born. From my own doing I was liable to old age, and having perceived the unsatisfactoriness of being liable to old age, searching for the unsurpassed sanctuary of non-aging through extinguishment, achieved the unsurpassed sanctuary of non-aging through extinguishment. From my own doing I was liable to sickness, and having perceived the unsatisfactoriness of being liable to sickness, searching for the unsurpassed sanctuary of health through extinguishment, achieved the unsurpassed sanctuary of health through extinguishment. From my own doing I was liable to death, and having perceived the unsatisfactoriness of being liable to death, searching for the unsurpassed sanctuary of non-death through extinguishment, achieved the unsurpassed sanctuary of non-death through extinguishment. From my own doing I was liable to sorrow, and having perceived the unsatisfactoriness of being liable to sorrow, searching for the unsurpassed sanctuary of non-sorrow through extinguishment, achieved the unsurpassed sanctuary of non-sorrow through extinguishment.) From my own doing I was liable to defilement, and having perceived the unsatisfactoriness of being liable to defilement, searching for the unsurpassed sanctuary of undefilement through extinguishment, achieved the unsurpassed sanctuary of undefilement through extinguishment.
 
 <a id="s47-u18-2"></a>18.2 Ñāṇañca pana me dassanaṁ udapādi:  
@@ -1522,8 +1522,8 @@ knowledge | and | moreover | for me | insight | arose
 And knowledge and insight arose in me:
 
 <a id="s47-u18-3"></a>18.3 ‘akuppā me vimutti, ayamantimā jāti, natthi dāni punabbhavo’ti.  
-🚹⨂①(akuppa) *️⃣👆⚧⨀⑥(ahaṁ)🚺⨀①(vimutti) 🔼(ayamantimā) 🚺⨀①(jāti) ▶️🤟⨀(natthi) 🔼(dāni) 🚹⨀①(punabbhava) 🔼(ti)  
-Unshakeable | of me | liberation | this is the final | birth | there is no | now | appearing again | quote  
+🚺⨀①🆎(na+kuppa) *️⃣👆⚧⨀⑥(ahaṁ) 🚺⨀①(vimutti) *️⃣🤟🚺⨀①(ima) 🚺⨀①(antima) 🚺⨀①(jāti) ⏏️(na) 🟢⨀🤟▶️(atthi) ⏏️(dāni) 🚹⨀①🆎(puna+bhava) ⏏️(iti)  
+Unshakeable | of me | liberation | this | final | birth | not | there is | now | appearing again | (end quote)  
 “Unshakeable is my liberation, this is the final birth (of suffering), there is now no more appearing again (of suffering).”[^3]
 
 ## 48. EXTINGUISHMENT
@@ -1531,20 +1531,20 @@ Unshakeable | of me | liberation | this is the final | birth | there is no | now
 [Rakkhitattheragāthā Thag 1.79 Verse 79](https://suttacentral.net/thag1.79) (Theragatha, verse 79):
 
 <a id="s48-u1-1"></a>1.1 “Sabbo rāgo pahīno me,  
-🚹⨀①(sabba) 🚹⨀①(rāga) 🚹⨀①(pahīna) *️⃣👆⚧⨀③(ahaṁ)  
+*️⃣🤟🚹⨀①(sabba) 🚹⨀①(rāga) 🚹⨀①🔽(ta)(pahīna) *️⃣👆⚧⨀③(ahaṁ)  
 all | passion | abandoned | by me  
 <a id="s48-u1-2"></a>1.2 sabbo doso samūhato;  
-🚹⨀①(sabba) 🚹⨀①(dosa) 🚹⨀⑤(samūha)  
-all | ill will | from the collections  
+*️⃣🤟🚹⨀①(sabba) 🚹⨀①(dosa) 🚹⨀①🔽(ta)(samūhata)  
+all | ill will | uprooted  
 <a id="s48-u1-3"></a>1.3 Sabbo me vigato moho,  
-🚹⨀①(sabba) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨀①(vigata) 🚹⨀①(moha)  
-all | by me | gone | delusion  
+*️⃣🤟🚹⨀①(sabba) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨀①🔽(ta)(vigata) 🚹⨀①(moha)  
+all | my | gone | delusion  
 <a id="s48-u1-4"></a>1.4 sītibhūtosmi nibbuto”ti.  
-🚹⨀①(sītibhūta) ▶️👆⨀(atthi) 🚹⨀①(nibbuta) 🔼(ti)  
-liberated | I am | quenched | quote
+🚹⨀①🆎(sīta+bhūta) 🟢⨀👆▶️(atthi) 🚹⨀①🔽(ta)(nibbuta) ⏏️(iti)  
+liberated | I am | quenched | (end quote)
 
 All passions abandoned by me,  
-All ill will from the collections (of fuel);  
+All ill will uprooted;  
 All delusions of me gone,  
 I am liberated and quenched.
 
@@ -1553,17 +1553,17 @@ I am liberated and quenched.
 [Bākulattheragāthā Thag 3.3 Verse 225–227](https://suttacentral.net/thag3.3) (Theragatha, verse 227):
 
 <a id="s49-u3-1"></a>3.1 Susukhaṁ vata nibbānaṁ,  
-🚻⨀①(susukha) 🔼(vata) 🚻⨀①(nibbāna)  
+🚻⨀①🆎(su+sukha) ⏏️(vata) 🚻⨀①(nibbāna)  
 very satisfying | certainly | extinguishment  
 <a id="s49-u3-2"></a>3.2 sammāsambuddhadesitaṁ;  
-🚻⨀①(sammāsambuddhadesita)  
+🚻⨀①🆎(sammā+sambuddha+desita)  
 taught by the perfectly awakened one  
 <a id="s49-u3-3"></a>3.3 Asokaṁ virajaṁ khemaṁ,  
-🚻⨀①(asoka) 🚻⨀①(viraja) 🚻⨀①(khema)  
+🚻⨀①🆎(na+soka) 🚻⨀①(viraja) 🚻⨀①(khema)  
 free from sorrow | pure | sanctuary  
 <a id="s49-u3-4"></a>3.4 yattha dukkhaṁ nirujjhatī”ti.  
-🔼(yattha) 🚻⨀①(dukkha) ▶️🤟⨀(nirujjhati)  
-whenever | suffering | ceases | quote
+⏏️(yattha) 🚻⨀①(dukkha) 🔴⨀🤟▶️(nirujjhati) ⏏️(iti)  
+whenever | suffering | ceases | (end quote)
 
 Certainly extinguishment is very satisfying,  
 Taught by the perfectly awakened one;  
@@ -1575,41 +1575,41 @@ Whenever dukkha ceases.
 [Adhimuttattheragāthā Thag 16.1 PTS 71–72 Verse 705–725](https://suttacentral.net/thag16.1) (Theragāthā, verses 705–725):
 
 <a id="s50-u64-1"></a>64.1 Ajaramhi vijjamāne,  
-🚹⨀⑦(ajaras) 🚹⨀⑦(vijjamāna)  
+🚹⨀⑦🆎(na+jara) 🚹⨀⑦🔽(māna)(vijjamāna)  
 in not aging | in existing/possible  
 <a id="s50-u64-2"></a>64.2 Kiṁ tava kāmehi yesu jarā;  
-🚻⨀①(ka) *️⃣🤘⚧⨀④(tvaṁ) 🚹⨂⑤(kāma) 🚹⨂⑦(ya) 🚹⨀③(jara)  
-why | for you | from sensual pleasure | in whatever | with old age  
+*️⃣🤟🚻⨀①(kiṁ) *️⃣🤘⚧⨀④(tvaṁ) 🚹⨂③(kāma) *️⃣🤟🚹⨂⑦(ya) 🚺⨀①(jarā)  
+why | for you | with sensual pleasures | in whatever | old age  
 <a id="s50-u64-3"></a>64.3 Maraṇabyādhigahitā,  
-🚹⨂①(maraṇabyādhigahita)  
+🚺⨂①🆎(maraṇa+byādhi+gahita)  
 seized by death and illness  
 <a id="s50-u64-4"></a>64.4 Sabbā sabbattha jātiyo.  
-🚹⨀①(sabba) 🔼(sabbattha) 🚺⨂①(jāti)  
+*️⃣🤟🚺⨂①(sabba) ⏏️(sabbattha) 🚺⨂①(jāti)  
 all | everywhere | classes of beings  
 <a id="s50-u65-1"></a>65.1 Idamajaramidamamaraṁ,  
-🚻⨀①(ima) 🚹⨀②(ajaras) 🚻⨀①(ima) 🚻⨀①(amara)  
+*️⃣🤟🚻⨀①(ima) 🚻⨀①🆎(na+jara) *️⃣🤟🚻⨀①(ima) 🚻⨀①🆎(na+mara)  
 this | not aging | this | not subject to death  
 <a id="s50-u65-2"></a>65.2 Idamajarāmaraṁ padamasokaṁ;  
-🚻⨀①(ima) 🚻⨀①(ajarāmara) 🚻⨀①(pada) 🚻⨀①(asoka)  
+*️⃣🤟🚻⨀①(ima) 🚻⨀①🆎(na+jara+na+mara) 🚻⨀①(pada) 🚻⨀①🆎(na+soka)  
 this | free from old age and death | way | free from sorrow  
 <a id="s50-u65-3"></a>65.3 Asapattamasambādhaṁ,  
-🚻⨀①(asapatta) 🚻⨀①(asambādha)  
+🚻⨀①🆎(na+sapatta) 🚻⨀①🆎(na+sambādha)  
 peaceful | unobstructed  
 <a id="s50-u65-4"></a>65.4 Akhalitamabhayaṁ nirupatāpaṁ.  
-🚻⨀①(akhalita) 🚻⨀①(abhaya)  
-free from stumbling | free from fear  
+🚻⨀①🔽(ta)🆎(na+khalita) 🚻⨀①🆎(na+bhaya) 🚻⨀①(nirupatāpa)  
+free from stumbling | free from fear | free from distress  
 <a id="s50-u66-1"></a>66.1 Adhigatamidaṁ bahūhi,  
-🚻⨀①(adhigata) 🚻⨀①(ima) 🚹⨂③(bahu)  
+🚻⨀①🔽(ta)(adhigata) *️⃣🤟🚻⨀①(ima) 🚹⨂③(bahu)  
 achieved | this | by many  
 <a id="s50-u66-2"></a>66.2 Amataṁ ajjāpi ca labhanīyamidaṁ;  
-🚻⨀①(amata) 🔼(ajja api ca) 🚻⨀①(labhanīya)  🚻⨀①(ima)  
-free from death | now | surely | and | obtainable | this  
+🚻⨀①🔽(ta)🆎(na+mata) ⏏️(ajja) ⏏️(api) ⏏️(ca) 🚻⨀①🔽(anīya)(labhanīya) *️⃣🤟🚻⨀①(ima)  
+free from death | now | even | and | obtainable | this  
 <a id="s50-u66-3"></a>66.3 Yo yoniso payuñjati,  
-🚹⨀①(ya) 🔼(yoniso) ▶️🤟⨀(payuñjati)  
+*️⃣🤟🚹⨀①(ya) ⏏️(yoniso) 🟢⨀🤟▶️(payuñjati)  
 whoever | properly | applies  
 <a id="s50-u66-4"></a>66.4 Na ca sakkā aghaṭamānena”  
-🔼(na ca) 🚹⨂①(sakka) 🚹⨀③(aghaṭamāna)  
-no | and | able | not striving
+⏏️(na) ⏏️(ca) ⏏️(sakkā) 🚹⨀③🔽(māna)🆎(na+ghaṭamāna)  
+no | and | able | by one not striving
 
 In possibility of non-aging,  
 What good in whatever from aging sensual pleasures for you?  
@@ -1631,18 +1631,18 @@ Not able without striving.
 [Tatiyanibbānapaṭisaṁyuttasutta Ud 8.3 PTS 81](https://suttacentral.net/ud8.3) (Udana, p 80):
 
 <a id="s51-u3-1"></a>3.1 “Atthi, bhikkhave, ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ.  
-▶️🤟⨀(atthi) 🚹⨂⓪(bhikkhu) 🚻⨀①(ajāta) 🚻⨀①(abhūta) 🚻⨀①(akata) 🚻⨀①(asaṅkhata)  
+🟢⨀🤟▶️(atthi) 🚹⨂⓪(bhikkhu) 🚻⨀①🔽(ta)🆎(na+jāta) 🚻⨀①🔽(ta)🆎(na+bhūta) 🚻⨀①🔽(ta)🆎(na+kata) 🚻⨀①🔽(ta)🆎(na+saṅkhata)  
 there exists | Bhikkhave | not born | not become | not made | not formed  
 "There exists, Bhikkhave, that which is not born, not become, not made, not formed."
 
 <a id="s51-u3-2"></a>3.2 No cetaṁ, bhikkhave, abhavissa ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ, nayidha jātassa bhūtassa katassa saṅkhatassa nissaraṇaṁ paññāyetha.  
-🔼(no) 🔼(cetaṁ) 🚹⨂⓪(bhikkhu) 🔀🤟⨀(abhavissa) 🚻⨀①(ajāta) 🚻⨀①(abhūta) 🚻⨀①(akata) 🚻⨀①(asaṅkhata) 🔼(nayidha) 🚹⨀⑥(jāta) 🚹⨀⑥(bhūta) 🚹⨀⑥(kata) 🚹⨀⑥(saṅkhata) 🚻⨀①(nissaraṇa) 🔵⏯🤟⨀(paññāyati)  
-surely? | if this | Bhikkhave | could have been | not born | not become | not made | not formed | wouldn't be here | of born | of becoming | of made | of formed | way out of | will be clearly known  
+⏏️(no) ⏏️(ce) *️⃣🤟🚻⨀①(eta) 🚹⨂⓪(bhikkhu) 🟢⨀🤟🔀(bhavati) 🚻⨀①🔽(ta)🆎(na+jāta) 🚻⨀①🔽(ta)🆎(na+bhūta) 🚻⨀①🔽(ta)🆎(na+kata) 🚻⨀①🔽(ta)🆎(na+saṅkhata) ⏏️(na) ⏏️(idha) 🚻⨀⑥🔽(ta)(jāta) 🚻⨀⑥🔽(ta)(bhūta) 🚻⨀⑥🔽(ta)(kata) 🚻⨀⑥🔽(ta)(saṅkhata) 🚻⨀①(nissaraṇa) 🔵⨀🤟⏯(paññāyati)  
+not | if | this | Bhikkhave | could have been | not born | not become | not made | not formed | not | here | of born | of becoming | of made | of formed | way out of | would be clearly known  
 "Surely if this could have been, Bhikkhave, wouldn't there be a way out of being born, becoming, made, formed be clearly known?"
 
 <a id="s51-u3-3"></a>3.3 Yasmā ca kho, bhikkhave, atthi ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ, tasmā jātassa bhūtassa katassa saṅkhatassa nissaraṇaṁ paññāyatī”ti.  
-🚹⨀⑤(ya) 🔼(ca kho) 🚹⨂⓪(bhikkhu) ▶️🤟⨀(atthi) 🚻⨀①(ajāta) 🚻⨀①(abhūta) 🚻⨀①(akata) 🚻⨀①(asaṅkhata) 🚹⨀⑤(ta) 🚹⨀⑥(jāta) 🚹⨀⑥(bhūta) 🚹⨀⑥(kata) 🚹⨀⑥(saṅkhata) 🚻⨀①(nissaraṇa) ▶️🤟⨀(paññāyati) 🔼(ti)  
-from whatever | and | indeed | Bhikkhave | there exists | not born | not become | not made | not formed | from that | of born | of becoming | of made | of formed | way out of | is clearly known | quote  
+⏏️(yasmā) ⏏️(ca) ⏏️(kho) 🚹⨂⓪(bhikkhu) 🟢⨀🤟▶️(atthi) 🚻⨀①🔽(ta)🆎(na+jāta) 🚻⨀①🔽(ta)🆎(na+bhūta) 🚻⨀①🔽(ta)🆎(na+kata) 🚻⨀①🔽(ta)🆎(na+saṅkhata) ⏏️(tasmā) 🚻⨀⑥🔽(ta)(jāta) 🚻⨀⑥🔽(ta)(bhūta) 🚻⨀⑥🔽(ta)(kata) 🚻⨀⑥🔽(ta)(saṅkhata) 🚻⨀①(nissaraṇa) 🔴⨀🤟▶️(paññāyati) ⏏️(iti)  
+because | and | indeed | Bhikkhave | there exists | not born | not become | not made | not formed | therefore | of born | of becoming | of made | of formed | way out of | is clearly known | (end quote)  
 "And indeed, Bhikkhave, from that which is not born, not become, not made, not formed, a way out of being born, becoming, made, formed is clearly known."
 
 ## 52. EXTINGUISHMENT AND DEATH
@@ -1650,30 +1650,30 @@ from whatever | and | indeed | Bhikkhave | there exists | not born | not become 
 [Upasīvamāṇavapucchā Snp 5.7 PTS 206–207 Verse 1076–1083](https://suttacentral.net/snp5.7) (Sutta Nipata, verses 1074, 1076):
 
 <a id="s52-u6-1"></a>6.1 “Accī yathā vātavegena khittā,  
-🚺⨂①(acci) 🔼(yathā) 🚹⨀③(vātavega) 🚹⨂①(khitta)  
-flame | is like | gust of wind | blown  
+🚺⨀①(acci) ⏏️(yathā) 🚹⨀③🆎(vāta+vega) 🚺⨀①🔽(ta)(khitta)  
+flame | like | by a gust of wind | blown  
 <a id="s52-u6-3"></a>6.3 Atthaṁ paleti na upeti saṅkhaṁ;  
-🚻⨀①(attha) ▶️🤟⨀(paleti) 🔼(na) ▶️🤟⨀(upeti) 🚺⨀②(saṅkhā)  
-essence | runs away | no | approaches | definition  
+🚹⨀②(attha) 🟢⨀🤟▶️(paleti) ⏏️(na) 🟢⨀🤟▶️(upeti) 🚺⨀②(saṅkhā)  
+to rest | goes away | no | approaches | definition  
 <a id="s52-u6-4"></a>6.4 Evaṁ munī nāmakāyā vimutto,  
-🔼(evaṁ) 🚹⨂①(muni) 🚹⨀⑤(nāmakāya) 🚹⨀①(vimutta)  
+⏏️(evaṁ) 🚹⨀①(muni) 🚹⨀⑤🆎(nāma+kāya) 🚹⨀①🔽(ta)(vimutta)  
 thus | sage | from name (representation) and body | freed from  
 <a id="s52-u6-5"></a>6.5 Atthaṁ paleti na upeti saṅkhaṁ”.  
-🚻⨀①(attha) ▶️🤟⨀(paleti) 🔼(na) ▶️🤟⨀(upeti) 🚺⨀②(saṅkhā)  
-essence | runs away | no | approaches | definition
+🚹⨀②(attha) 🟢⨀🤟▶️(paleti) ⏏️(na) 🟢⨀🤟▶️(upeti) 🚺⨀②(saṅkhā)  
+to rest | goes away | no | approaches | definition
 
 <a id="s52-u8-1"></a>8.1 “Atthaṅgatassa na pamāṇamatthi,  
-🚹⨀⑥(atthaṅgata) 🔼(na) 🚻⨀①(pamāṇa) ▶️🤟⨀(atthi)  
-of disappearance | no | quantification of | there exists  
+🚹⨀⑥🔽(ta)(atthaṅgata) ⏏️(na) 🚻⨀①(pamāṇa) 🟢⨀🤟▶️(atthi)  
+of the disappeared | no | quantification of | there exists  
 <a id="s52-u8-3"></a>8.3 Yena naṁ vajjuṁ taṁ tassa natthi;  
-🚹⨀③(ya) 🚹⨀②(ta) 🚺⨀①(vajja) 🚻⨀①(ta) 🚹⨀④(ta) ▶️🤟⨀(natthi)  
-by whatever | that | saying | that | for him | there is no  
+*️⃣🤟🚹⨀③(ya) *️⃣🤟🚹⨀②(ta) 🟢⨂🤟⏯(vadati) *️⃣🤟🚻⨀①(ta) *️⃣🤟🚹⨀④(ta) ⏏️(na) 🟢⨀🤟▶️(atthi)  
+by whatever | that | would say | that | for him | not | there is  
 <a id="s52-u8-4"></a>8.4 Sabbesu dhammesu samohatesu,  
-🚹⨂⑦(sabba) 🚹⨂⑦(dhamma) 🚹⨂⑦(samūhata)  
-in every | in characteristic | in eradicating  
+*️⃣🤟🚹⨂⑦(sabba) 🚹⨂⑦(dhamma) 🚹⨂⑦🔽(ta)(samūhata)  
+in every | in characteristic | eradicated  
 <a id="s52-u8-5"></a>8.5 Samūhatā vādapathāpi sabbe”ti.  
-🚹⨂①(samūhata) 🚹⨀⑤(vādapatha) 🔼(api) 🚹⨂①(sabba) 🔼(ti)  
-Eradicated | from representation | even | all | quote
+🚹⨂①🔽(ta)(samūhata) 🚹⨂①🆎(vāda+patha) ⏏️(api) *️⃣🤟🚹⨂①(sabba) ⏏️(iti)  
+Eradicated | ways of speaking | even | all | (end quote)
 
 Like a flame blown by a gust of wind,  
 The essence runs away and approaches eluding definition;  
@@ -1683,7 +1683,7 @@ The essence runs away and approaches eluding definition.
 There is no quantification of the disappeared,  
 By whatever that is said, that is not for him;  
 In eradicating every characteristic,  
-All eradicated from even representation.
+All ways of speaking eradicated too.
 
 ## CONCLUDING SUMMARY
 
@@ -2011,7 +2011,7 @@ Giving up slanderous speech, abstaining from slanderous speech. Having listened 
 Conciliator of the broken, provider of friendly terms, enjoying concord, liking harmony, delighting in unity, talking peace-making speech.
 
 Giving up harsh speech, abstaining from harsh speech.
-Whatever that speech is, it is gentle, pleasant to hear, friendly, heart-warming, polite, loved by the people, charming to the collections, talking appropriate speech.
+Whatever that speech is, it is gentle, pleasant to hear, friendly, heart-warming, polite, loved by the people, charming to the people, talking appropriate speech.
 
 Giving up gossip, abstaining from gossip, speaking at the proper time, speaking what is true, speaking what is meaningful, speaking about the Dhamma, speaking about the discipline, talking speech worth remembering, timely, reasonable, purposeful, beneficial.
 
@@ -2048,7 +2048,7 @@ Wrong livelihood:
 
 * For the non-arising of evil and unwholesome characteristics, he generates a desire for non-arising, tries to make an effort, start, strives on the mind, and exerts himself.
 * He generates a desire for the giving up of the arising of evil and unwholesome characteristics, tries to make an effort, start, strives on the mind, and exerts himself.
-* For the non-arising of wholesome characteristics, he generates a desire for arising, tries to make an effort, start, strives on the mind, and exerts himself.
+* For the arising of unarisen wholesome characteristics, he generates a desire for arising, tries to make an effort, start, strives on the mind, and exerts himself.
 * He generates a desire for the persistence of, non-confusion of, increase of, maturity of, developing of, fulfillment of the arising of wholesome characteristics, tries to make an effort, start, strives on the mind, and exerts himself.
 
 ### sammāsati (Right Awareness)
@@ -2170,7 +2170,7 @@ And knowledge and insight arose in me: “Unshakeable is my liberation, this is 
 ### Extinguishment
 
 All passions abandoned by me,  
-All ill will from the `khandhā`;  
+All ill will uprooted;  
 All my delusions gone,  
 I am liberated and quenched.
 
@@ -2213,7 +2213,7 @@ The essence runs away and approaches eluding definition.
 There is no quantification of the disappeared,  
 By whatever that is said, that is not for him;  
 In eradicating every characteristic,  
-All eradicated from even representation.
+All ways of speaking eradicated too.
 
 [^1]: `ariyasacca` is rendered “realisation” rather than the usual “noble truth”: the four are things to be realised, suffering, its origin in craving, its cessation, and the path to its cessation. See [the four realisations](https://tidipa.github.io/Khandhaka/1.6#the-four-realisations).
 

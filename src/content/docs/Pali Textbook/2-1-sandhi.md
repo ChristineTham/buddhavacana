@@ -70,7 +70,7 @@ here the direction is reversed.
 
 > Yo **cāyaṁ** kāmesu kāmasukhallikānuyogo
 
-*️⃣🤟🚹⨀①(ya) ⏏️(ca) *️⃣🤟🚹⨀①(ima) 🚹⨂⑦(kāma) 🚹⨀①🆎(kāmasukhallikā+anuyoga)  
+*️⃣🤟🚹⨀①(ya) ⏏️(ca) *️⃣🤟🚹⨀①(ima) 🚹⨂⑦(kāma) 🚹⨀①🆎(kāma+sukhallikā+anuyoga)  
 which / and / this / in sensual pleasures / pursuit of sensual happiness  
 *`cāyaṁ` = `ca ayaṁ`: the `a` of `ca` dropped {12}, the next `a` lengthened {15}; [5: 2.3](../5-dhammacakka/#u2-3).*
 
@@ -148,8 +148,8 @@ unsurpassed / perfect awakening / fully awakened / thus
 
 6. > So **vivicceva** kāmehi
 
-🚹⨀①(ta) 🔼(vivicceva) 🚹⨂⑤(kāma)  
-that / just secluding oneself from / sensual pleasures  
+*️⃣🤟🚹⨀①(ta) 🔽(ya)(viviccati) ⏏️(eva) 🚹⨂⑤(kāma)  
+that / secluding oneself from / just / sensual pleasures  
 *`vivicceva` = `vivicca eva`: the `a` of `vivicca` dropped {12}; [Bonus: 38, 10.1](../11-pbt/#s38-u10-1).*
 
 7. > piyehi **vippayogo** dukkho

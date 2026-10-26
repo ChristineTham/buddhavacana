@@ -64,7 +64,7 @@ support by proximity:
 
 > **sāvatthiyaṁ** viharati **jetavane**
 
-🚺⨀⑦(sāvatthiyaṁ) 🟢⨀🤟▶️(viharati) 🚻⨀⑦(jetavane)  
+🚺⨀⑦(sāvatthī) 🟢⨀🤟▶️(viharati) 🚻⨀⑦(jetavana)  
 at Sāvatthī / [he] dwells / in Jeta's Grove  
 *[He] dwells at Sāvatthī, in Jeta's Grove.*
 
@@ -72,7 +72,7 @@ The time {313}, with no "in" or "at" to help it:
 
 > **pubbaṇhasamaye** gato
 
-🚹⨀⑦🆎(pubbaṇha+samaya) ⨀🚹①(🔽(ta)(gato))  
+🚹⨀⑦🆎(pubbaṇha+samaya) 🚹⨀①🔽(ta)(gata)  
 in the forenoon / gone (past participle)  
 *[He] went in the forenoon.*
 
@@ -83,7 +83,7 @@ With a `-ta` word it is "when X had happened": `pavattite … dhammacakke`,
 
 > **bhikkhūsu bhojīyamānesu** gato
 
-🚹⨂⑦(bhikkhūsu 🔽(māna)(bhojīyamānesu)) ⨀🚹①(🔽(ta)(gato))  
+🚹⨂⑦(bhikkhu) 🚹⨂⑦🔽(māna)(bhojīyamāna) 🚹⨀①🔽(ta)(gata)  
 while the monks / [were] being fed / gone  
 *[He] went while the monks were being fed.*
 
@@ -119,7 +119,7 @@ then / indeed / the Bhagavā / at the root of the bodhi tree / for seven days / 
 
 2. > Yathā aññataraṁ bījaṁ, **khette** vuttaṁ virūhati.
 
-🔼(yathā) 🚻⨀①(aññatara) 🚻⨀①(bīja) 🚻⨀⑦(khetta) 🚻⨀①(vutta) ▶️🤟⨀(virūhati)  
+⏏️(yathā) *️⃣🤟🚻⨀①(aññatara) 🚻⨀①(bīja) 🚻⨀⑦(khetta) 🚻⨀①🔽(ta)(vutta) 🟢⨀🤟▶️(virūhati)  
 like / a certain / seed / in field / sown / grows  
 *Like a certain seed, sown in field, grows.*  
 `khette`: the place {302}.

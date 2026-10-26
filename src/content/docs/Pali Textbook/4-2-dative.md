@@ -70,7 +70,7 @@ The one given to {276}, {293}:
 
 > **samaṇassa** cīvaraṁ dadāti
 
-🚹⨀④(samaṇassa) 🚻⨀②(cīvaraṁ) 🟢⨀🤟▶️(dadāti)  
+🚹⨀④(samaṇa) 🚻⨀②(cīvara) 🟢⨀🤟▶️(dadāti)  
 to the ascetic / a robe / [he] gives  
 *[He] gives a robe to the ascetic.*
 
@@ -78,7 +78,7 @@ The purpose, "for the sake of" {277}:
 
 > ūnassa **pāripūriyā** taṁ cīvaraṁ nikkhipitabbaṁ
 
-🚻⨀⑥(ūnassa) 🚺⨀④(pāripūriyā) 🚻⨀①(*️⃣🤟(taṁ) cīvaraṁ 🔽(tabba)(nikkhipitabbaṁ))  
+🚻⨀⑥(ūna) 🚺⨀④(pāripūri) *️⃣🤟🚻⨀①(ta) 🚻⨀①(cīvara) 🚻⨀①🔽(tabba)(nikkhipitabba)  
 of what is lacking / for the completion / that / robe / is to be laid aside  
 *That robe is to be laid aside for the completion of what is lacking.*
 
@@ -86,7 +86,7 @@ The one honoured, with `namo` {294}:
 
 > namo **te** buddha vīr’atthu
 
-⏏️(namo) *️⃣🤘⚧⨀④(te) 🚹⨀⓪(buddha) 🚹⨀⓪(vīra) 🟢⨀🤟⏹(atthu)  
+⏏️(namo) *️⃣🤘⚧⨀④(tvaṁ) 🚹⨀⓪(buddha) 🚹⨀⓪(vīra) 🟢⨀🤟⏹(atthi)  
 homage / to you / O Buddha / O hero / let there be  
 *Homage be to you, O Buddha, O hero.*
 
@@ -115,7 +115,7 @@ deconstruction.
 
 1. > **pahānāya** chandaṁ janeti
 
-🚻⨀④(pahāna) 🚹⨀②(chanda) ▶️🤟⨀(janeti)  
+🚻⨀④(pahāna) 🚹⨀②(chanda) 🟠⨀🤟▶️(janeti)  
 for giving up of / desire / generates  
 *He generates a desire for the giving up …*  
 `pahānāya`: the aim, "in order to" {277}.
@@ -129,14 +129,14 @@ when / indeed / appear / phenomena / to the ardent / meditating / brāhmaṇa
 
 3. > **saṅghe** gotami dehi
 
-🚹⨀⑦(saṅghe) 🚺⨀⓪(gotami) 🟢⨀🤘⏹(dehi)  
+🚹⨀⑦(saṅgha) 🚺⨀⓪(gotamī) 🟢⨀🤘⏹(deti)  
 to the Saṅgha / Gotamī / give  
 *Give to the Saṅgha, Gotamī.*  
 `saṅghe`: the recipient with a ⑦ ending instead {311}.
 
 4. > namo karohi **nāgassa**
 
-⏏️(namo) 🟢⨀🤘⏹(karohi) 🚹⨀④(nāgassa)  
+⏏️(namo) 🟢⨀🤘⏹(karoti) 🚹⨀④(nāga)  
 homage / make / to the nāga  
 *Pay homage to the nāga.*  
 `nāgassa`: the one homage is wished to, with `namo` {294}.

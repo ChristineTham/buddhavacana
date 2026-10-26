@@ -191,7 +191,7 @@ which / and / that / bhikkhave / middle / way
 
 4. > Yo cāyaṁ kāmesu kāmasukhallikānuyogo.
 
-*️⃣🤟🚹⨀①(ya) ⏏️(ca) *️⃣🤟🚹⨀①(ima) 🚹⨂⑦(kāma) 🚹⨀①🆎(kāmasukhallikā+anuyoga)  
+*️⃣🤟🚹⨀①(ya) ⏏️(ca) *️⃣🤟🚹⨀①(ima) 🚹⨂⑦(kāma) 🚹⨀①🆎(kāma+sukhallikā+anuyoga)  
 which / and / this / in sensual pleasures / pursuit of sensual happiness  
 *That which is this pursuit of sensual happiness in sensual pleasures …*  
 `cāyaṁ` is `ca` + `ayaṁ` ([2.1](../2-1-sandhi/)): `yo` {104} and `ayaṁ` {172}, both 🚹⨀① with `kāmasukhallikānuyogo`; `yo` opens the clause answering `katame dve`.

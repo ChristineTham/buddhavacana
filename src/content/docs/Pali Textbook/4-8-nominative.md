@@ -62,19 +62,19 @@ among them {116}.
 
 > **puriso**
 
-🚹⨀①(puriso)  
+🚹⨀①(purisa)  
 a man  
 *"A man" {284}: the ① ending names him, and nothing is said of what he does.*
 
 > **bho purisa**
 
-🚹⨀⓪(bho purisa)  
+🚹⨀⓪(bhavant) 🚹⨀⓪(purisa)  
 sir / man  
 *"Sir, man!" {285}: `purisa`, not `puriso`, after the word of address `bho`; the man is called, not described.*
 
 > **bhavanto purisā**
 
-🚹⨂⓪(bhavanto purisā)  
+🚹⨂⓪(bhavant) 🚹⨂⓪(purisa)  
 sirs / men  
 *"Sirs, men!" {285}: in the plural the ⓪ form is the ① form, `purisā`; `bhavanto` shows the calling.*
 
@@ -102,7 +102,7 @@ deconstruction.
 
 1. > Evaṁ, **bhante**.
 
-🔼(evaṁ) 🚹⨀⓪(bhavant)  
+⏏️(evaṁ) 🚹⨀⓪(bhavant)  
 yes / Bhante  
 *Yes, Bhante.*
 
@@ -111,8 +111,8 @@ particle, stands under {284}.
 
 2. > Tayome, **āvuso visākha**, saṅkhārā—
 
-🔼(tayome) 🔼(āvuso) 🚹⨀⓪(visākha) 🚹⨂①(saṅkhāra)  
-these three / friend / Visākha / mental constructions  
+🚹⨂①(ti) *️⃣🤟🚹⨂①(ima) ⏏️(āvuso) 🚹⨀⓪(visākha) 🚹⨂①(saṅkhāra)  
+three / these / friend / Visākha / mental constructions  
 *Friend Visākha, there are three types of “saṅkhārā” (mental constructions)*
 
 `āvuso visākha`: the word of address and the name called, ⓪ {285}, `visākha`

@@ -111,7 +111,7 @@ two / these / bhikkhave / extremes / by one gone forth / not / should be cultiva
 
 > **Tisso** kho imā, āvuso visākha, vedanā—
 
-🚺⨂①(ti) 🔼(kho) 🚺⨂①(ima) 🔼(āvuso) 🚹⨀⓪(visākha) 🚺⨀①(vedanā)  
+🚺⨂①(ti) ⏏️(kho) *️⃣🤟🚺⨂①(ima) ⏏️(āvuso) 🚹⨀⓪(visākha) 🚺⨂①(vedanā)  
 three / indeed / these / friend / Visākha / feelings  
 *`tisso` ([Bonus: 10, 22.2](../11-pbt/#s10-u22-2)): the feminine ①⨂ of `ti` {133}, agreeing with `vedanā`; `tayo` with a masculine noun, `tīṇi` with a neuter.*
 

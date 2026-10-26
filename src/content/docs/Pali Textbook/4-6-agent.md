@@ -56,7 +56,7 @@ The agent of a past participle, in ③ {281}, {288}:
 
 > **ahinā** daṭṭho naro
 
-🚹⨀③(ahinā) ⨀🚹①(🔽(ta)(daṭṭho) naro)  
+🚹⨀③(ahi) 🚹⨀①🔽(ta)(daṭṭha) 🚹⨀①(nara)  
 by a snake / bitten / the man  
 *The man [is] bitten by a snake.*
 
@@ -64,8 +64,8 @@ The causer, in ① with a causative verb {282}:
 
 > **so puriso** taṁ purisaṁ kammaṁ kāreti
 
-🚹⨀①(*️⃣🤟(so) puriso) 🚹⨀②(*️⃣🤟(taṁ) purisaṁ) 🚻⨀②(kammaṁ) 🟠⨀🤟▶️(kāreti)  
-that man / that man / the work / makes do  
+*️⃣🤟🚹⨀①(ta) 🚹⨀①(purisa) *️⃣🤟🚹⨀②(ta) 🚹⨀②(purisa) 🚻⨀②(kamma) 🟠⨀🤟▶️(kāreti)  
+that / man / that / man / the work / makes do  
 *That man makes that man do the work.*
 
 ### Exercises
@@ -110,8 +110,8 @@ The agent `dhammā` is plural and in ①; the verb `pātubhavanti` agrees with i
 
 3. > Vuttaṁ kho panetaṁ **bhagavatā** kakacūpamovāde
 
-🚻⨀①(vutta) 🔼(kho) 🔼(panetaṁ) 🚹⨀③(bhagavant) 🚹⨀⑦(kakacūpamovāda)  
-said / indeed / but this / by the Bhagavā / exhortation with the simile of the saw  
+🚻⨀①🔽(ta)(vutta) ⏏️(kho) ⏏️(pana) *️⃣🤟🚻⨀①(eta) 🚹⨀③(bhagavant) 🚹⨀⑦(kakacūpamovāda)  
+said / indeed / but / this / by the Bhagavā / exhortation with the simile of the saw  
 *But this is indeed said by the Bhagavā in the exhortation with the simile of the saw:*
 
 `vuttaṁ` ("said") is a past participle, so the agent `bhagavatā`, the ③ of `bhagavant` (section [2.3](../2-3-irregular/)), is "by" {288}.
@@ -126,8 +126,8 @@ middle / way / by the Tathāgata / fully awakened
 
 5. > **so puriso** tena purisena kammaṁ kāreti
 
-🚹⨀①(*️⃣🤟(so) puriso) 🚹⨀③(*️⃣🤟(tena) purisena) 🚻⨀②(kammaṁ) 🟠⨀🤟▶️(kāreti)  
-that man / by that man / the work / makes do  
+*️⃣🤟🚹⨀①(ta) 🚹⨀①(purisa) *️⃣🤟🚹⨀③(ta) 🚹⨀③(purisa) 🚻⨀②(kamma) 🟠⨀🤟▶️(kāreti)  
+that / man / by that / man / the work / makes do  
 *That man has the work done by that man.*
 
 The causer `so puriso` is in ① with the causative `kāreti` {282}; the one made to act is in ③ here.

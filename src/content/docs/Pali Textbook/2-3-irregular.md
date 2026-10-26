@@ -105,7 +105,7 @@ teacher / of us / respected
 
 > mettāsahagatena **cetasā**
 
-🚹⨀③(mettāsahagata) 🚹⨀③(cetas)  
+🚹⨀③🆎(mettā+sahagata) 🚹⨀③(cetas)  
 filled with goodwill/friendliness / with intent  
 *"With intent": `cetasā`, ③ singular of the `mano` group, `ā` for `nā` with `s` inserted {181}, {184}; [Bonus: 37, 1.11.52](../11-pbt/#s37-u1-11-52).*
 
@@ -148,14 +148,14 @@ by Māra / or / by Brahmā / or / by anyone / or
 
 3. > aññaṁ **satthāraṁ** uddiseyyāthā”ti
 
-🚹⨀②(añña) 🚹⨀②(satthar) ⏯🤘⨂(uddisati)  
-another / teacher / appoint  
+*️⃣🤟🚹⨀②(añña) 🚹⨀②(satthar) 🟢⨂🤘⏯(uddisati) ⏏️(iti)  
+another / teacher / appoint / (end quote)  
 *"Will you appoint another teacher?": `satthāraṁ`, ② singular of `satthu`, with `-ār-` {200}; [Bonus: 1, 24.10](../11-pbt/#s1-u24-10).*
 
 4. > **āyasmantaṁ** sāriputtaṁ bhagavā etadavoca
 
-🚹⨀②(āyasmant) 🚹⨀②(sāriputta) 🚹⨀①(bhagavant) 🔵⏮🤟⨀(etadavoca)  
-Venerable / Sāriputta / Bhagavant / said this  
+🚹⨀②(āyasmant) 🚹⨀②(sāriputta) 🚹⨀①(bhagavant) *️⃣🤟🚻⨀②(eta) 🟢⨀🤟⏮(vadati)  
+Venerable / Sāriputta / Bhagavant / this / said  
 *"The Bhagavant said this to Venerable Sāriputta": `āyasmantaṁ`, ② singular of `āyasmantu`, `-antaṁ` {92}; `sāriputtaṁ` agrees with it; [Bonus: 44, 1.3](../11-pbt/#s44-u1-3).*
 
 5. > eso me **attā**
@@ -166,7 +166,7 @@ this / my / self
 
 6. > Yāvajīvaṁ **arahanto** abrahmacariyaṁ pahāya
 
-🚻⨀①(yāvajīva) 🚹⨂①(arahant) 🚻⨀①(abrahmacariya) 🔼(pahāya)  
+⏏️🆎(yāva+jīva) 🚹⨂①(arahant) 🚻⨀②🆎(na+brahmacariya) 🔽(ya)(pajahati)  
 life-long / liberated ones / incelibacy / giving up  
 *"Life long arahants (liberated ones) give up incelibacy": `arahanto`, ① plural of `arahanta` {122}, singular `arahaṁ` {186}; [Bonus: 32, 21.1](../11-pbt/#s32-u21-1).*
 

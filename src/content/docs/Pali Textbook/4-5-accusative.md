@@ -55,7 +55,7 @@ The ② word is in bold. The object, what is made {280}:
 
 > **chattaṁ** karoti
 
-🚻⨀②(chattaṁ) 🟢⨀🤟▶️(karoti)  
+🚻⨀②(chatta) 🟢⨀🤟▶️(karoti)  
 an umbrella / [he] makes  
 *He makes an umbrella.*
 
@@ -63,7 +63,7 @@ The object, what is heard {297}:
 
 > **dhammaṁ** suṇāti
 
-🚹⨀②(dhammaṁ) 🟢⨀🤟▶️(suṇāti)  
+🚹⨀②(dhamma) 🟢⨀🤟▶️(suṇāti)  
 the teaching / [he] hears  
 *He hears the teaching.*
 
@@ -71,15 +71,15 @@ The goal of motion, what the going forth reaches {297} ([Bonus: 26, 12.8](../11-
 
 > agārasmā **anagāriyaṁ** pabbajeyyan”ti
 
-🚻⨀⑤(agāra) 🚻⨀②(anagāriya) 🔵⏯👆⨀(pabbajati) 🔼(ti)  
-from household life / to homeless state / renounce / quote  
+🚻⨀⑤(agāra) 🚻⨀②🆎(na+agāriya) 🔵⨀👆⏯(pabbajati) ⏏️(iti)  
+from household life / to homeless state / renounce / (end quote)  
 *What if I were to renounce from household life to homeless state, …*
 
 Duration, the month that the eating fills {298}:
 
 > **māsaṁ** maṁsodanaṁ bhuñjati
 
-🚹⨀②(māsaṁ) 🚹⨀②🆎(maṁsa+odana) 🟢⨀🤟▶️(bhuñjati)  
+🚹⨀②(māsa) 🚹⨀②🆎(maṁsa+odana) 🟢⨀🤟▶️(bhuñjati)  
 for a month / rice with meat / [he] eats  
 *He eats rice with meat for a month.*
 
