@@ -1418,7 +1418,7 @@ said | indeed | but | this | by the Bhagavā | in the exhortation with the simil
 But this is indeed said by the Bhagavā in the exhortation with the simile of the saw:
 
 <a id="s45-u9-6"></a>9.6 “ubhatodaṇḍakena cepi, bhikkhave, kakacena corā ocarakā aṅgamaṅgāni okanteyyuṁ, tatrāpi yo mano padūseyya na me so tena sāsanakaro”ti.  
-🚹⨀③🆎(ubhato+daṇḍaka) ⏏️(ce) ⏏️(api) 🚹⨂⓪(bhikkhu) 🚹⨀③(kakaca) 🚹⨂①(cora) 🚹⨂①(ocaraka) 🚻⨂②🆎(aṅga+aṅga) 🟢⨂🤟⏯(okantati) ⏏️(tatra) ⏏️(api) *️⃣🤟🚹⨀①(ya) 🚹⨀②(manas) 🟢⨀🤟⏯(padūseti) ⏏️(na) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(ta) *️⃣🤟🚹⨀③(ta) 🚹⨀①🆎(sāsana+kara) ⏏️(iti)  
+🚹⨀③🆎(ubhato+daṇḍaka) ⏏️(ce) ⏏️(api) 🚹⨂⓪(bhikkhu) 🚹⨀③(kakaca) 🚹⨂①(cora) 🚹⨂①(ocaraka) 🚻⨂②🆎(aṅga+aṅga) 🟢⨂🤟⏯(okantati) ⏏️(tatra) ⏏️(api) *️⃣🤟🚹⨀①(ya) 🚹⨀②(manas) 🟠⨀🤟⏯(padūseti) ⏏️(na) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(ta) *️⃣🤟🚹⨀③(ta) 🚹⨀①🆎(sāsana+kara) ⏏️(iti)  
 with double-handled | if | even | Bhikkhave | with saw | robbers | lowlife | all the limbs | cut off | in that situation | even | whoever | mind | will corrupt | no | of me | that | by that | practising the teaching | (end quote)  
 “Bhikkhave, even if lowlife robbers cut off all the limbs with a double-handled saw, even in that case whoever will corrupt his mind is not practising the teaching of mine.”
 

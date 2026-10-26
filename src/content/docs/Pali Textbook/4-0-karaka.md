@@ -49,12 +49,12 @@ chapters 3, 5, 7 and 9 and the bonus chapter have made the endings familiar.
 
 | section | `kāraka` | meaning | usual ending | definition | uses of the ending |
 | :-: | --- | --- | :-: | :-: | --- |
-| [4.1](../4-1-ablative/) | `apādāna` | the source, "from" | ⑤ | {271}–{275} | {295}–{296} |
-| [4.2](../4-2-dative/) | `sampadāna` | the recipient, "to", "for" | ④ | {276}–{277} | {293}–{294}, {311} |
-| [4.3](../4-3-locative/) | `okāsa` | the place or time, "in", "at", "on" | ⑦ | {278} | {302}, {310}–{315} |
-| [4.4](../4-4-instrumental/) | `karaṇa` | the means, "by", "with" | ③ | {279} | {286}–{292} |
-| [4.5](../4-5-accusative/) | `kamma` | the object | ② | {280} | {297}–{300}, {306}–{307} |
-| [4.6](../4-6-agent/) | `kattā`, `hetu` | the agent and the causer | ① (③ in the passive) | {281}–{282} | {284}, {288} |
-| [4.7](../4-7-genitive/) | `sāmī` | the owner, "of" | ⑥ | {283} | {301}, {303}–{305}, {308}–{309} |
-| [4.8](../4-8-nominative/) | `liṅgattha`, `ālapana` | the bare noun and the calling form | ①, ⓪ | — | {284}–{285} |
+| [4.1](../4-1-apadana/) | `apādāna` | the source, "from" | ⑤ | {271}–{275} | {295}–{296} |
+| [4.2](../4-2-sampadana/) | `sampadāna` | the recipient, "to", "for" | ④ | {276}–{277} | {293}–{294}, {311} |
+| [4.3](../4-3-okasa/) | `okāsa` | the place or time, "in", "at", "on" | ⑦ | {278} | {302}, {310}–{315} |
+| [4.4](../4-4-karana/) | `karaṇa` | the means, "by", "with" | ③ | {279} | {286}–{292} |
+| [4.5](../4-5-kamma/) | `kamma` | the object | ② | {280} | {297}–{300}, {306}–{307} |
+| [4.6](../4-6-katta/) | `kattā`, `hetu` | the agent and the causer | ① (③ in the passive) | {281}–{282} | {284}, {288} |
+| [4.7](../4-7-sami/) | `sāmī` | the owner, "of" | ⑥ | {283} | {301}, {303}–{305}, {308}–{309} |
+| [4.8](../4-8-lingattha/) | `liṅgattha`, `ālapana` | the bare noun and the calling form | ①, ⓪ | — | {284}–{285} |
 

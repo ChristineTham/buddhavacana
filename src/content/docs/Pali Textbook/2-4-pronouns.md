@@ -201,7 +201,7 @@ which / and / this / in sensual pleasures / pursuit of sensual happiness
 *️⃣🤟🚻⨀⑦(ima) ⏏️(ca) ⏏️(pana) 🚻⨀⑦(veyyākaraṇa) 🚻⨀⑦🔽(māna)(bhaññamāna)  
 in this / and / moreover / detailed exposition / being spoken  
 *And while this detailed exposition was being spoken, …*  
-`imasmiñca` is `imasmiṁ` + `ca` {31}: `imasmiṁ`, `ima` ⑦⨀ 🚻, keeps `-smiṁ` {110} and agrees with `veyyākaraṇasmiṁ`; the ⑦ of "while" ([4.3](../4-3-locative/)).
+`imasmiñca` is `imasmiṁ` + `ca` {31}: `imasmiṁ`, `ima` ⑦⨀ 🚻, keeps `-smiṁ` {110} and agrees with `veyyākaraṇasmiṁ`; the ⑦ of "while" ([4.3](../4-3-okasa/)).
 
 6. > neva tāvāhaṁ, bhikkhave
 
