@@ -170,8 +170,8 @@ thus / my / form / let be
 
 > “Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā evaṁ **vadeyyātha**—
 
-🔼(apinu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) 🔼(evaṁ) 🚹⨂①(jānanta) 🔼(evaṁ) 🚹⨂①(passanta) ⏯🤘⨂(vadati)  
-are? / youse / bhikkhave / thus / knowing / thus / seeing / will say  
+⏏️(api) ⏏️(nu) *️⃣🤘⚧⨂①(tumhe) 🚹⨂⓪(bhikkhu) ⏏️(evaṁ) 🚹⨂①🔽(anta)(jānanta) ⏏️(evaṁ) 🚹⨂①🔽(anta)(passanta) ⏏️(evaṁ) 🟢⨂🤘⏯(vadati)  
+perhaps? / surely? / youse / bhikkhave / thus / knowing / thus / seeing / thus / will say  
 *"Thus knowing and thus seeing, bhikkhave, will you say -" ([Bonus: 1, 24.4](../11-pbt/#s1-u24-4)) `vadeyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, the subject `tumhe` {411}; "would you say", a supposition {416}.*
 
 > Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena **nisīdi** vimuttisukhapaṭisaṁvedī.
@@ -182,8 +182,8 @@ then / indeed / the Bhagavā / at the root of the bodhi tree / for seven days / 
 
 > Āraddhaṁ kho pana me vīriyaṁ **bhavissati** asallīnaṁ,
 
-🚻⨀①(āraddha) 🔼(kho pana) *️⃣👆⚧⨀③(ahaṁ) 🚻⨀①(vīriya) ⏭🤟⨀(bhavati) 🚻⨀①(asallīna)  
-applied / and now / with me / determination / will become / active  
+🚻⨀①🔽(ta)(āraddha) ⏏️(kho) ⏏️(pana) *️⃣👆⚧⨀③(ahaṁ) 🚻⨀①(vīriya) 🟢⨀🤟⏭(bhavati) 🚻⨀①🔽(ta)🆎(na+sallīna)  
+applied / indeed / now / with me / determination / will become / active  
 *"And now applied with me there will be active determination" ([Bonus: 45, 9.7](../11-pbt/#s45-u9-7)) `bhavissati`: `-ssati`, `bhavissantī` ⏭, third person singular {429}; the `i` before `ssa` is the insertion every future takes {516}, `bhav-i-ssati`.*
 
 > Rūpañca hidaṁ, bhikkhave, attā **abhavissa**,
@@ -244,8 +244,8 @@ delighted / those / bhikkhū / of the Bhagavā / what was spoken / rejoiced in
 
 5. > Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā aññaṁ satthāraṁ **uddiseyyāthā**”ti?
 
-🔼(apinu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) 🔼(evaṁ) 🚹⨂①(jānanta) 🔼(evaṁ) 🚹⨂①(passanta) 🚹⨀②(añña) 🚹⨀②(satthar) ⏯🤘⨂(uddisati)  
-are? / youse / bhikkhave / thus / knowing / thus / seeing / another / teacher / appoint  
+⏏️(api) ⏏️(nu) *️⃣🤘⚧⨂①(tumhe) 🚹⨂⓪(bhikkhu) ⏏️(evaṁ) 🚹⨂①🔽(anta)(jānanta) ⏏️(evaṁ) 🚹⨂①🔽(anta)(passanta) *️⃣🤟🚹⨀②(añña) 🚹⨀②(satthar) 🟢⨂🤘⏯(uddisati) ⏏️(iti)  
+perhaps? / surely? / youse / bhikkhave / thus / knowing / thus / seeing / another / teacher / appoint / (end quote)  
 *"Thus knowing and thus seeing, bhikkhave, will you appoint another teacher?" ([Bonus: 1, 24.10](../11-pbt/#s1-u24-10)) `uddiseyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, "would you appoint"; the `-ā` before `”ti` is the join.*
 
 6. > evaṁ me saṅkhārā **hontu**

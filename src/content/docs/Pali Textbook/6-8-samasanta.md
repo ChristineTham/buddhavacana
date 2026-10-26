@@ -50,13 +50,13 @@ overview](../6-0-samasa/) tables them all.
 
 > devānaṁ rājā → **devarājo**
 
-🚹⨂⑥(devānaṁ) 🚹⨀①(rājā) → 🚹⨀①🆎(deva+rāja)  
+🚹⨂⑥(deva) 🚹⨀①(rāja) → 🚹⨀①🆎(deva+rāja)  
 of the gods / king → the king of the gods  
 *{337}: `rājā` on its own, `-rājo` at the end of a compound, with the ending of `puriso`.*
 
 > bahū nadiyo yasmiṁ so → **bahunadiko**
 
-🚺⨂①(bahū nadiyo) *️⃣🤟🚹⨀⑦(yasmiṁ) *️⃣🤟🚹⨀①(so) → 🚹⨀①🆎(bahu+nadī+ka)  
+🚺⨂①(bahu) 🚺⨂①(nadī) *️⃣🤟🚹⨀⑦(ya) *️⃣🤟🚹⨀①(ta) → 🚹⨀①🆎(bahu+nadī)  
 many / rivers / in which / that → with many rivers  
 *{338}: `nadī` ("river"), feminine in `ī`, takes `-ka` at the end, its `ī` short.*
 
@@ -68,6 +68,6 @@ wife / and / husband / and → wife and husband
 
 > gāṇḍīvo dhanu yassa so → **gāṇḍīvadhanvā**
 
-🚹⨀①(gāṇḍīvo) 🚻⨀①(dhanu) *️⃣🤟🚹⨀⑥(yassa) *️⃣🤟🚹⨀①(so) → 🚹⨀①🆎(gāṇḍīva+dhanu+ā)  
+🚹⨀①(gāṇḍīva) 🚻⨀①(dhanu) *️⃣🤟🚹⨀⑥(ya) *️⃣🤟🚹⨀①(ta) → 🚹⨀①🆎(gāṇḍīva+dhanu)  
 Gāṇḍīva / bow / whose / he → he whose bow is Gāṇḍīva  
 *{340}: `dhanu` ("bow") with the affix `ā` ends the compound as `-dhanvā`; it names Arjuna.*

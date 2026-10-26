@@ -77,19 +77,19 @@ every `uṇādi` rule, [Appendix J](../j-kita/) every `kita` rule.
 
 > karoti → **kārako**
 
-🟢⨀🤟▶️(karoti) → 🚹⨀①🔽(ṇvu)(kārako)  
+🟢⨀🤟▶️(karoti) → 🚹⨀①🔽(ṇvu)(kāraka)  
 he does → a doer  
 *`ṇvu` {624}: `-aka` on `√kara` (do), first vowel lengthened: the one who does.*
 
 > karoti → **kattā**
 
-🟢⨀🤟▶️(karoti) → 🚹⨀①🔽(tu)(kattā)  
+🟢⨀🤟▶️(karoti) → 🚹⨀①🔽(tu)(kattar)  
 he does → a doer  
 *`tu` {624}: `-tu` on `√kara`, shown as `kat-` before it {619}; ① ends in `-tā` {199}.*
 
 > **ñāṇaṁ**
 
-🚻⨀①🔽(yu)(ñāṇaṁ)  
+🚻⨀①🔽(yu)(ñāṇa)  
 knowing, knowledge  
 *`yu` {641}: `-ana` on `√ñā` (know), neuter: the act of knowing, `ñāṇaṁ hoti` ([7: 11.3](../7-anatta/#u11-3)).*
 
@@ -101,13 +101,13 @@ one feels → feeling
 
 > **bhottabbo** odano bhavatā
 
-🚹⨀①🔽(tabba)(bhottabbo) 🚹⨀①(odano) 🚹⨀③(bhavatā)  
+🚹⨀①🔽(tabba)(bhottabba) 🚹⨀①(odana) 🚹⨀③(bhavant)  
 is to be eaten / the rice / by you  
 *`tabba` {625}: "to be eaten"; it agrees with `odano`, and the one who must eat stands in ③.*
 
 > saddhammaṁ **sotuṁ** icchati
 
-🚹⨀②(saddhamma) 🔽(tuṁ)(suṇāti) 🟢⨀🤟▶️(icchati)  
+🚹⨀②🆎(sat+dhamma) 🔽(tuṁ)(suṇāti) 🟢⨀🤟▶️(icchati)  
 the true dhamma / to hear / he wishes  
 *`tuṁ` {561}: `-tuṁ` on `√su` (hear), the `u` as `o` {485}: to hear, after `icchati` "he wishes".*
 
@@ -136,19 +136,19 @@ deconstruction.
 
 1. > **satthā**
 
-🚹⨀①🔽(ratthu)(satthā)  
+🚹⨀①🔽(ratthu)(satthar)  
 teacher  
 *`ratthu` {566}: on `√sāsa` (instruct), root and affix shaped together to `satth-`: the one who instructs.*
 
 2. > **sāvako**
 
-🚹⨀①🔽(ṇvu)(sāvako)  
+🚹⨀①🔽(ṇvu)(sāvaka)  
 a hearer, a disciple  
 *`ṇvu` {641}: `-aka` on `√su` (hear), the `u` as `āva` {515}: the one who hears.*
 
 3. > **sāsanaṁ**
 
-🚻⨀①🔽(yu)(sāsanaṁ)  
+🚻⨀①🔽(yu)(sāsana)  
 teaching  
 *`yu` {547}: `-ana` on `√sāsa` (instruct), neuter: the act of instructing, what `satthā` does.*
 

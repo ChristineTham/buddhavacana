@@ -76,7 +76,7 @@ other past, adjectives tabled in [8.8](../8-8-verb-like-forms/).
 
 > Ayañca dasasahassilokadhātu **saṅkampi sampakampi sampavedhi**,
 
-*️⃣🤟🚺⨀①(ima) ⏏️(ca) 🚺⨀①🆎(dasa+sahassi+lokadhātu) 🟢⨀🤟⏮(saṅkampati) 🟢⨀🤟⏮(sampakampati) 🟢⨀🤟⏮(sampavedhati)  
+*️⃣🤟🚺⨀①(ima) ⏏️(ca) 🚺⨀①🆎(dasa+sahassi+loka+dhātu) 🟢⨀🤟⏮(saṅkampati) 🟢⨀🤟⏮(sampakampati) 🟢⨀🤟⏮(sampavedhati)  
 this / and / ten-thousand-fold world system / trembled / shook / quaked  
 *"And this `dasasahassilokadhātu` (ten-thousand-fold world system) trembled, shook, quaked;" ([5: 13.2](../5-dhammacakka/#u13-2)) `saṅkampi`, `sampakampi`, `sampavedhi`: `-i` third person singular {428}, the subject `lokadhātu`; no `a` before the root, no `s`.*
 
@@ -132,12 +132,12 @@ then / indeed / the Bhagavā / this / inspired utterance / uttered
 
 3. > Tassa me tathāgato vā tathāgatasāvako vā dhammaṁ **desesi**.
 
-🚹⨀⑥(ta) *️⃣👆⚧⨀②(ahaṁ) 🚹⨀①(tathāgata) 🔼(vā) 🚹⨀①(tathāgatasāvaka) 🔼(vā) 🚹⨀②(dhamma) ⏮🤟⨀(desesi)  
-of that / me / Tathāgata / or / disciple of the Buddha / or / Dhamma / taught  
+*️⃣🤟🚹⨀⑥(ta) *️⃣👆⚧⨀④(ahaṁ) 🚹⨀①🆎(tathā+gata) ⏏️(vā) 🚹⨀①🆎(tathā+gata+sāvaka) ⏏️(vā) 🚹⨀②(dhamma) 🟠⨀🤟⏮(deseti)  
+of that / to me / Tathāgata / or / disciple of the Buddha / or / Dhamma / taught  
 *"Because of that, the Tathāgata and his disciples taught the Dhamma to me." ([Bonus: 26, 12.3](../11-pbt/#s26-u12-3)) `desesi`: `-i` third person singular {428} after the `s` {491} and the `e` of `deseti`; no `a`.*
 
 4. > Tāhaṁ dhammaṁ sutvā tathāgate saddhaṁ **paṭilabhiṁ**.
 
-🔼(tāhaṁ) 🚹⨀②(dhamma) 🔼(sutvā) 🚹⨀⑦(tathāgata) 🚻⨀①(saddha) ⏮👆⨀(paṭilabhi)  
-that I / Dhamma / having heard / in Tathāgata / faith / I acquired  
+*️⃣🤟🚹⨀②(ta) *️⃣👆⚧⨀①(ahaṁ) 🚹⨀②(dhamma) 🔽(tvā)(suṇāti) 🚹⨀⑦🆎(tathā+gata) 🚺⨀②(saddhā) 🟢⨀👆⏮(paṭilabhati)  
+that / I / Dhamma / having heard / in Tathāgata / faith / I acquired  
 *"Having heard that Dhamma, I acquired faith in the Tathāgata." ([Bonus: 26, 12.4](../11-pbt/#s26-u12-4)) `paṭilabhiṁ`: `-iṁ` first person singular {428}; the prefix `pati`, no `a`, no `s`.*

@@ -53,13 +53,13 @@ describes a person and ends in `-u`.
 
 > gāmānaṁ samūho → **gāmatā**
 
-🚹⨂⑥(gāmānaṁ) 🚹⨀①(samūho) → 🚺⨀①🔽(tā)(gāmatā)  
+🚹⨂⑥(gāma) 🚹⨀①(samūha) → 🚺⨀①🔽(tā)(gāmatā)  
 of villages / a collection → a group of villages  
 *`tā` {355}: `-tā` added to `gāma` ("village"); the new word is feminine and ends in `-ā`.*
 
 > madanassa ṭhānaṁ → **madaniyaṁ**
 
-🚻⨀⑥(madanassa) 🚻⨀①(ṭhānaṁ) → 🚻⨀①🔽(iya)(madaniyaṁ)  
+🚻⨀⑥(madana) 🚻⨀①(ṭhāna) → 🚻⨀①🔽(iya)(madaniya)  
 of intoxication / the occasion → an occasion of intoxication  
 *`iya` {356}: `-iya` in place of the final `a` of `madana` ("intoxication"); Kaccāyana's own example.*
 
@@ -88,36 +88,36 @@ deconstruction.
 
 1. > janānaṁ samūho → **janatā**
 
-🚹⨂⑥(janānaṁ) 🚹⨀①(samūho) → 🚺⨀①🔽(tā)(janatā)  
+🚹⨂⑥(jana) 🚹⨀①(samūha) → 🚺⨀①🔽(tā)(janatā)  
 of people / a collection → the people, the populace  
 *`tā` {355}: `-tā` added to `jana` ("person"); a word you will meet often.*
 
 2. > sahāyānaṁ samūho → **sahāyatā**
 
-🚹⨂⑥(sahāyānaṁ) 🚹⨀①(samūho) → 🚺⨀①🔽(tā)(sahāyatā)  
+🚹⨂⑥(sahāya) 🚹⨀①(samūha) → 🚺⨀①🔽(tā)(sahāyatā)  
 of companions / a collection → companionship  
 *`tā` {355}: `-tā` added to `sahāya` ("companion"): a company of companions; Kaccāyana's own example.*
 
 3. > timiraṁ viya dissati aduṁ vanaṁ → **timirāyitattaṁ**
 
-🚻⨀①(timiraṁ) ⏏️(viya) 🔴⨀🤟▶️(dissati) *️⃣🤟🚻⨀①(aduṁ) 🚻⨀①(vanaṁ) → 🚻⨀①🔽(āyitatta)(timirāyitattaṁ)  
+🚻⨀①(timira) ⏏️(viya) 🔴⨀🤟▶️(dissati) *️⃣🤟🚻⨀①(amu) 🚻⨀①(vana) → 🚻⨀①🔽(āyitatta)(timirāyitatta)  
 darkness / like / appears / that / forest → gloom, a darkness-like state  
 *`āyitatta` {357}: `-āyitattaṁ` in place of the final `a` of `timira` ("darkness"): what looks like darkness; Kaccāyana's own example.*
 
 4. > abhijjhā assa pakati → **abhijjhālu**
 
-🚺⨀①(abhijjhā) *️⃣🤟🚹⨀⑥(assa) 🚺⨀①(pakati) → 🚹⨀①🔽(ālu)(abhijjhālu)  
+🚺⨀①(abhijjhā) *️⃣🤟🚹⨀⑥(ima) 🚺⨀①(pakati) → 🚹⨀①🔽(ālu)(abhijjhālu)  
 covetousness / his / nature → covetous  
 *`ālu` {359}: `-ālu` in place of the final `ā` of `abhijjhā`; the word describes the person.*
 
 5. > sītaṁ assa pakati → **sītālu**
 
-🚻⨀①(sītaṁ) *️⃣🤟🚹⨀⑥(assa) 🚺⨀①(pakati) → 🚹⨀①🔽(ālu)(sītālu)  
+🚻⨀①(sīta) *️⃣🤟🚹⨀⑥(ima) 🚺⨀①(pakati) → 🚹⨀①🔽(ālu)(sītālu)  
 cold / his / nature → sensitive to cold  
 *`ālu` {359}: `-ālu` in place of the final `a` of `sīta` ("cold"); one in whom cold abounds.*
 
 6. > dayā assa pakati → **dayālu**
 
-🚺⨀①(dayā) *️⃣🤟🚹⨀⑥(assa) 🚺⨀①(pakati) → 🚹⨀①🔽(ālu)(dayālu)  
+🚺⨀①(dayā) *️⃣🤟🚹⨀⑥(ima) 🚺⨀①(pakati) → 🚹⨀①🔽(ālu)(dayālu)  
 compassion / his / nature → kind, compassionate  
 *`ālu` {359}: `-ālu` in place of the final `ā` of `dayā` ("compassion"); one in whom compassion abounds.*

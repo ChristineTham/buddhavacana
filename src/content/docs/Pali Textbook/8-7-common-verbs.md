@@ -203,12 +203,12 @@ done / what had to be done
 
 7. > **atthi** nibbuti, na nibbuto pumā
 
-▶️🤟⨀(atthi) 🚺⨀①(nibbuti) 🔼(na) 🚹⨀①(nibbuta) 🚹⨀①(puma)  
+🟢⨀🤟▶️(atthi) 🚺⨀①(nibbuti) ⏏️(na) 🚹⨀①🔽(ta)(nibbuta) 🚹⨀①(puma)  
 there is / extinguishment / not / extinguished / male  
 *`atthi`: the root `asa` with `ti` become `tthi` {494}, "there is"; `nibbuti`, what exists, takes ①; third person singular; [Bonus: 7, 1.3](../11-pbt/#s7-u1-3) (Visuddhimagga XVI).*
 
 8. > **nisinno** vā ‘nisinnomhī’ti pajānāti
 
-🚹⨀①(nisinna) 🔼(vā) 🔼(nisinnomhi) 🔼(ti) ▶️🤟⨀(pajānāti)  
-sitting / or / I am sitting / quote / knows clearly  
+🚹⨀①🔽(ta)(nisinna) ⏏️(vā) 🚹⨀①🔽(ta)(nisinna) 🟢⨀👆▶️(atthi) ⏏️(iti) 🟢⨀🤟▶️(pajānāti)  
+sitting / or / sitting / I am / (end quote) / knows clearly  
 *`nisinno`, "sitting": the past participle of `nisīdati`, `-inna` for `-ta` {582}, agreeing with the bhikkhu 🚹⨀①; `nisinnomhi` is `nisinno` + `amhi`, "I am"; [Bonus: 36, 3.1](../11-pbt/#s36-u3-1).*

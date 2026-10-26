@@ -199,4 +199,4 @@ since / knows / phenomena with their causes / (end quote)
 
 *️⃣🤟🚻⨀①(kiṁ) ⏏️(nu) 🚹⨀①(satta) ⏏️(iti) 🟢⨀🤘▶️(pacceti)  
 what / ? / being / (end quote) / you believe to be  
-*`nu` asks; `sattoti` is `satto` + `iti` {13}, quoting; the bonus chapter marks particles 🔼.*
+*`nu` asks; `sattoti` is `satto` + `iti` {13}, quoting.*

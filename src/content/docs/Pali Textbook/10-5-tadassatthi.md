@@ -72,25 +72,25 @@ beside `guṇavato`, `guṇavatā`, `guṇavati`.
 
 > guṇo yassa atthi → **guṇavā**
 
-🚹⨀①(guṇo) *️⃣🤟🚹⨀⑥(yassa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(vantu)(guṇavā)  
+🚹⨀①(guṇa) *️⃣🤟🚹⨀⑥(ya) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(vantu)(guṇavant)  
 virtue / of whom / there is → one who has virtue, virtuous  
 *`vantu` {368}: `guṇa` + `-vā`; the lemma is `guṇavant`, and the ① ends in `-vā` {124}.*
 
 > mati yassa atthi → **matimā**
 
-🚺⨀①(mati) *️⃣🤟🚹⨀⑥(yassa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(mantu)(matimā)  
+🚺⨀①(mati) *️⃣🤟🚹⨀⑥(ya) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(mantu)(matimant)  
 intelligence / of whom / there is → one who has intelligence, wise  
 *`mantu` {369}: `mati` + `-mā`; the `mantu` words of the rule all end in `i` or `u`.*
 
 > daṇḍo yassa atthi → **daṇḍī**
 
-🚹⨀①(daṇḍo) *️⃣🤟🚹⨀⑥(yassa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(ī)(daṇḍī)  
+🚹⨀①(daṇḍa) *️⃣🤟🚹⨀⑥(ya) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(ī)(daṇḍī)  
 a staff / of whom / there is → one who has a staff  
 *`ī` {366}: the final `a` of `daṇḍa` gives way to `-ī`; `daṇḍiko`, with `ika`, means the same.*
 
 > dārunā pakataṁ kammaṁ → **dārumayaṁ**
 
-🚻⨀③(dārunā) 🚻⨀①🔽(ta)(pakataṁ) 🚻⨀①(kammaṁ) → 🚻⨀①🔽(maya)(dārumayaṁ)  
+🚻⨀③(dāru) 🚻⨀①🔽(ta)(pakata) 🚻⨀①(kamma) → 🚻⨀①🔽(maya)(dārumaya)  
 with wood / made / a work → made of wood, wooden  
 *`maya` {372}: `-maya` after the material `dāru`; neuter (🚻), agreeing with `kammaṁ`.*
 
@@ -119,19 +119,19 @@ deconstruction.
 
 1. > bhagaṁ yassa atthi → **bhagavā**
 
-🚻⨀①(bhagaṁ) *️⃣🤟🚹⨀⑥(yassa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(vantu)(bhagavā)  
+🚻⨀①(bhaga) *️⃣🤟🚹⨀⑥(ya) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(vantu)(bhagavant)  
 good fortune / of whom / there is → one who has good fortune, the Blessed One  
 *`vantu` {368}: `bhaga` + `-vā`; the texts write the lemma `bhagavant`.*
 
 2. > āyu assa atthi → **āyasmā**
 
-🚻⨀①(āyu) *️⃣🤟🚹⨀⑥(assa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(mantu)(āyasmā)  
+🚻⨀①(āyu) *️⃣🤟🚹⨀⑥(ima) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(mantu)(āyasmant)  
 life / his / there is → one who has life, venerable  
 *`mantu` {369}: `āyu` + `-mā`, the `u` of `āyu` becoming `asa` before the affix {371}.*
 
 3. > sati yassa atthi → **satimā**
 
-🚺⨀①(sati) *️⃣🤟🚹⨀⑥(yassa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(mantu)(satimā)  
+🚺⨀①(sati) *️⃣🤟🚹⨀⑥(ya) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(mantu)(satimant)  
 mindfulness / of whom / there is → one who has mindfulness, mindful  
 *`mantu` {369}: `sati` + `-mā`; [Bonus: 40, 12.1](../11-pbt/#s40-u12-1) has it in `upekkhako satimā sukhavihārī`.*
 
@@ -143,12 +143,12 @@ learned / awakened disciple
 
 5. > paññā yassa atthi → **paññavā**
 
-🚺⨀①(paññā) *️⃣🤟🚹⨀⑥(yassa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(vantu)(paññavā)  
+🚺⨀①(paññā) *️⃣🤟🚹⨀⑥(ya) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(vantu)(paññavant)  
 wisdom / of whom / there is → one who has wisdom, wise  
 *`vantu` {368}: `paññā` + `-vā`, the final `ā` shortened before the affix {403}.*
 
 6. > medhā yassa atthi → **medhāvī**
 
-🚺⨀①(medhā) *️⃣🤟🚹⨀⑥(yassa) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(vī)(medhāvī)  
+🚺⨀①(medhā) *️⃣🤟🚹⨀⑥(ya) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(vī)(medhāvī)  
 wisdom / of whom / there is → one who has wisdom, wise  
 *`vī` {364}: `medhā` + `-vī`; so too `māyāvī` ("deceitful") from `māyā`.*

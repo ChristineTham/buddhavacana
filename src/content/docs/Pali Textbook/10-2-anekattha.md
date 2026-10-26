@@ -83,19 +83,19 @@ are the ones you will meet most.
 
 > nāvāya tarati → **nāviko**
 
-🚺⨀③(nāvāya) 🟢⨀🤟▶️(tarati) → 🚹⨀①🔽(ṇika)(nāviko)  
+🚺⨀③(nāvā) 🟢⨀🤟▶️(tarati) → 🚹⨀①🔽(ṇika)(nāvika)  
 by boat / crosses → one who crosses by boat, a sailor  
 *`ṇika` {350}, "crosses by": `-ika` added to `nāvā`, whose first vowel is long already.*
 
 > kāyena kataṁ kammaṁ → **kāyikaṁ**
 
-🚹⨀③(kāyena) 🚻⨀①🔽(ta)(kataṁ) 🚻⨀①(kammaṁ) → 🚻⨀①🔽(ṇika)(kāyikaṁ)  
+🚹⨀③(kāya) 🚻⨀①🔽(ta)(kata) 🚻⨀①(kamma) → 🚻⨀①🔽(ṇika)(kāyika)  
 by the body / done / act → a bodily act  
 *`ṇika` {351}, "made by": `-ika` on `kāya`; `kāyikaṁ vā cetasikaṁ vā`, "relating to the body or to the mind", [Bonus: 10, 23.2](../11-pbt/#s10-u23-2).*
 
 > pacchā jāto → **pacchimo**
 
-⏏️(pacchā) 🚹⨀①🔽(ta)(jāto) → 🚹⨀①🔽(ima)(pacchimo)  
+⏏️(pacchā) 🚹⨀①🔽(ta)(jāta) → 🚹⨀①🔽(ima)(pacchima)  
 after / born → born after, last  
 *`ima` {353}, "born": `-ima` added to `pacchā`, nothing lengthened; `pacchimaṁ yāmaṁ`, "the last watch", [3: 10.1](../3-awakening/#u10-1).*
 
@@ -124,13 +124,13 @@ deconstruction.
 
 1. > cetasā kataṁ kammaṁ → **cetasikaṁ**
 
-🚹⨀③(cetasā) 🚻⨀①🔽(ta)(kataṁ) 🚻⨀①(kammaṁ) → 🚻⨀①🔽(ṇika)(cetasikaṁ)  
+🚹⨀③(cetas) 🚻⨀①🔽(ta)(kata) 🚻⨀①(kamma) → 🚻⨀①🔽(ṇika)(cetasika)  
 by the mind / done / act → a mental act  
 *`ṇika` {351}, "made by", as `kāyikaṁ`: `-ika` on `cetas` ("mind"), whose `e` is long already; `kāyikaṁ vā cetasikaṁ vā`, [Bonus: 10, 23.2](../11-pbt/#s10-u23-2).*
 
 2. > niraye jātā → **nerayikā**
 
-🚹⨀⑦(niraye) 🚹⨂①🔽(ta)(jātā) → 🚹⨂①🔽(ṇika)(nerayikā)  
+🚹⨀⑦(niraya) 🚹⨂①🔽(ta)(jāta) → 🚹⨂①🔽(ṇika)(nerayika)  
 in hell / born → born in hell, living in hell  
 *`ṇika` {350}, "born in", as `rājagahiko`: the first `i` becomes `e`, `-ika` added; `sattā nerayikā`, [Bonus: 23, 1.6](../11-pbt/#s23-u1-6).*
 
@@ -148,6 +148,6 @@ low / vulgar / worldly
 
 5. > majjhe jātaṁ → **majjhimaṁ**
 
-🚹⨀⑦(majjhe) 🚹⨀②🔽(ta)(jātaṁ) → 🚹⨀②🔽(ima)(majjhimaṁ)  
+🚹⨀⑦(majjha) 🚹⨀②🔽(ta)(jāta) → 🚹⨀②🔽(ima)(majjhima)  
 in the middle / born → middle  
 *`ima` {353}, "born in": `-ima` added to `majjha`, nothing lengthened; `majjhimaṁ yāmaṁ`, "the middle watch", [3: 7.1](../3-awakening/#u7-1).*

@@ -55,37 +55,37 @@ tables them all.
 
 > vasiṭṭhassa apaccaṁ → **vāsiṭṭho**
 
-🚹⨀⑥(vasiṭṭhassa) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇa)(vāsiṭṭho)  
+🚹⨀⑥(vasiṭṭha) 🚻⨀①(apacca) → 🚹⨀①🔽(ṇa)(vāsiṭṭha)  
 of Vasiṭṭha / descendant → Vasiṭṭha's descendant  
 *`ṇa` {344}: the first `a` lengthened, `-a` added.*
 
 > vacchassa apaccaṁ → **vacchāyano**
 
-🚹⨀⑥(vacchassa) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇāyana)(vacchāyano)  
+🚹⨀⑥(vaccha) 🚻⨀①(apacca) → 🚹⨀①🔽(ṇāyana)(vacchāyana)  
 of Vaccha / descendant → Vaccha's descendant  
 *`ṇāyana` {345}: `-āyana` added; no lengthening, since `cch` follows the first vowel.*
 
 > kattikāya apaccaṁ → **kattikeyyo**
 
-🚺⨀⑥(kattikāya) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇeyya)(kattikeyyo)  
+🚺⨀⑥(kattikā) 🚻⨀①(apacca) → 🚹⨀①🔽(ṇeyya)(kattikeyya)  
 of Kattikā / descendant → Kattikā's descendant  
 *`ṇeyya` {346}: `-eyya` added to a mother's name; `tt` keeps the first vowel short.*
 
 > dakkhassa apaccaṁ → **dakkhi**
 
-🚹⨀⑥(dakkhassa) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇi)(dakkhi)  
+🚹⨀⑥(dakkha) 🚻⨀①(apacca) → 🚹⨀①🔽(ṇi)(dakkhi)  
 of Dakkha / descendant → Dakkha's descendant  
 *`ṇi` {347}: `-i` added; `kkh` keeps the first vowel short.*
 
 > manuno apaccaṁ → **mānavo**
 
-🚹⨀⑥(manuno) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇava)(mānavo)  
+🚹⨀⑥(manu) 🚻⨀①(apacca) → 🚹⨀①🔽(ṇava)(mānava)  
 of Manu / descendant → Manu's descendant, a human being  
 *`ṇava` {348}: the first `a` lengthened, `-ava` added in place of the final `u`.*
 
 > vidhavāya apaccaṁ → **vedhavero**
 
-🚺⨀⑥(vidhavāya) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇera)(vedhavero)  
+🚺⨀⑥(vidhavā) 🚻⨀①(apacca) → 🚹⨀①🔽(ṇera)(vedhavera)  
 of a widow / descendant → a widow's son  
 *`ṇera` {349}: the first `i` becomes `e`, `-era` added.*
 
@@ -116,48 +116,48 @@ deconstruction.
 
 1. > bharadvājassa apaccaṁ → **bhāradvājo**
 
-🚹⨀⑥(bharadvājassa) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇa)(bhāradvājo)  
+🚹⨀⑥(bharadvāja) 🚻⨀①(apacca) → 🚹⨀①🔽(ṇa)(bhāradvāja)  
 of Bharadvāja / descendant → Bharadvāja's descendant  
 *`ṇa` {344}: the first `a` lengthened, `-a` added.*
 
 2. > vasudevassa apaccaṁ → **vāsudevo**
 
-🚹⨀⑥(vasudevassa) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇa)(vāsudevo)  
+🚹⨀⑥(vasudeva) 🚻⨀①(apacca) → 🚹⨀①🔽(ṇa)(vāsudeva)  
 of Vasudeva / descendant → Vasudeva's descendant  
 *`ṇa` {344}: the first `a` lengthened, `-a` added.*
 
 3. > moggallassa apaccaṁ → **moggallāno**
 
-🚹⨀⑥(moggallassa) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇāna)(moggallāno)  
+🚹⨀⑥(moggalla) 🚻⨀①(apacca) → 🚹⨀①🔽(ṇāna)(moggallāna)  
 of Moggalla / descendant → Moggalla's descendant  
 *`ṇāna` {345}: `-āna` added; `gg` keeps the first vowel short.*
 
 4. > kaccassa apaccaṁ → **kaccāyano**
 
-🚹⨀⑥(kaccassa) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇāyana)(kaccāyano)  
+🚹⨀⑥(kacca) 🚻⨀①(apacca) → 🚹⨀①🔽(ṇāyana)(kaccāyana)  
 of Kacca / descendant → Kacca's descendant  
 *`ṇāyana` {345}: `-āyana` added; `cc` keeps the first vowel short.*
 
 5. > gaṅgāya apaccaṁ → **gaṅgeyyo**
 
-🚺⨀⑥(gaṅgāya) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇeyya)(gaṅgeyyo)  
+🚺⨀⑥(gaṅgā) 🚻⨀①(apacca) → 🚹⨀①🔽(ṇeyya)(gaṅgeyya)  
 of Gaṅgā / descendant → Gaṅgā's descendant  
 *`ṇeyya` {346}: `-eyya` added; `ṅg` keeps the first vowel short.*
 
 6. > vinatāya apaccaṁ → **venateyyo**
 
-🚺⨀⑥(vinatāya) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇeyya)(venateyyo)  
+🚺⨀⑥(vinatā) 🚻⨀①(apacca) → 🚹⨀①🔽(ṇeyya)(venateyya)  
 of Vinatā / descendant → Vinatā's descendant  
 *`ṇeyya` {346}: the first `i` becomes `e`, `-eyya` added.*
 
 7. > bhaggussa apaccaṁ → **bhaggavo**
 
-🚹⨀⑥(bhaggussa) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇava)(bhaggavo)  
+🚹⨀⑥(bhaggu) 🚻⨀①(apacca) → 🚹⨀①🔽(ṇava)(bhaggava)  
 of Bhaggu / descendant → Bhaggu's descendant  
 *`ṇava` {348}: `-ava` in place of the final `u`; `gg` keeps the first vowel short.*
 
 8. > samaṇassa apaccaṁ → **sāmaṇero**
 
-🚹⨀⑥(samaṇassa) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇera)(sāmaṇero)  
+🚹⨀⑥(samaṇa) 🚻⨀①(apacca) → 🚹⨀①🔽(ṇera)(sāmaṇera)  
 of a recluse / descendant → a recluse's "son", a novice  
 *`ṇera` {349}: the first `a` lengthened, `-era` added.*

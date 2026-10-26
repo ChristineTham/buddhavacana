@@ -84,13 +84,13 @@ number links to the full rule in the Kaccāyana translation, and
 
 > rañño putto → **rājaputto**
 
-🚹⨀⑥(rañño) 🚹⨀①(putto) → 🚹⨀①🆎(rāja+putta)  
+🚹⨀⑥(rāja) 🚹⨀①(putta) → 🚹⨀①🆎(rāja+putta)  
 of the king / son → the king's son  
 *⑥ {327}: the first member answers "whose?"; `rañño` loses its ending and stands as `rāja`.*
 
 > bhūmiṁ gato → **bhūmigato**
 
-🚺⨀②(bhūmiṁ) 🚹⨀①(🔽(ta)(gato)) → 🚹⨀①🆎(bhūmi+gata)  
+🚺⨀②(bhūmi) 🚹⨀①🔽(ta)(gata) → 🚹⨀①🆎(bhūmi+gata)  
 to the ground / gone → gone to the ground  
 *② {327}: the first member is where one has gone; a word like `gato` ("gone") often ends a ② compound.*
 
@@ -121,13 +121,13 @@ deconstruction.
 
 1. > bodhirukkhassa mūle → **bodhirukkhamūle**
 
-🚹⨀⑥🆎(bodhi+rukkha) 🚻⨀⑦(mūle) → 🚻⨀⑦🆎(bodhirukkha+mūla)  
+🚹⨀⑥🆎(bodhi+rukkha) 🚻⨀⑦(mūla) → 🚻⨀⑦🆎(bodhirukkha+mūla)  
 of the Bodhi tree / at the root → at the root of the Bodhi tree  
 *⑥ {327}: two compounds in one, `bodhirukkha` being itself `bodhiyā rukkho`; the whole takes the ⑦ ending.*
 
 2. > saṅkhārānaṁ nirodho → **saṅkhāranirodho**
 
-🚹⨂⑥(saṅkhārānaṁ) 🚹⨀①(nirodho) → 🚹⨀①🆎(saṅkhāra+nirodha)  
+🚹⨂⑥(saṅkhāra) 🚹⨀①(nirodha) → 🚹⨀①🆎(saṅkhāra+nirodha)  
 of mental constructions / cessation → the cessation of mental constructions  
 *⑥ {327}: a plural first member, as in `dhaññarāsi`; every `-nirodho` of [chapter 3](../3-awakening/) is built so.*
 
@@ -139,13 +139,13 @@ the bliss of liberation / experiencing → experiencing the bliss of liberation
 
 4. > samādhimhā jaṁ → **samādhijaṁ**
 
-🚹⨀⑤(samādhimhā) 🚻⨀①(jaṁ) → 🚻⨀①🆎(samādhi+ja)  
+🚹⨀⑤(samādhi) 🚻⨀①(ja) → 🚻⨀①🆎(samādhi+ja)  
 from focus / born → born from focus  
 *⑤ {327}: "born from", the source {295}; `-ja` ("born") closes a ⑤ compound as `-gato` closes a ②.*
 
 5. > tathāgatassa sāvako → **tathāgatasāvako**
 
-🚹⨀⑥(tathāgatassa) 🚹⨀①(sāvako) → 🚹⨀①🆎(tathāgata+sāvaka)  
+🚹⨀⑥🆎(tathā+gata) 🚹⨀①(sāvaka) → 🚹⨀①🆎(tathāgata+sāvaka)  
 of the Tathāgata / disciple → disciple of the Buddha  
 *⑥ {327}: "the disciple of the Tathāgata", as `rājaputto` is "the son of the king".*
 

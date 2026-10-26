@@ -69,13 +69,13 @@ Every rule number links to the full rule in the Kaccāyana translation;
 
 > nagarassa samīpe pavattati kathā → **upanagaraṁ**
 
-🚻⨀⑥(nagarassa) 🚻⨀⑦(samīpe) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(upa+nagara)  
+🚻⨀⑥(nagara) 🚻⨀⑦(samīpa) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(upa+nagara)  
 of the town / in the vicinity / goes on / talk → near the town  
 *`upa` ("near") stands for `samīpe` and comes first {319}; the compound is neuter {320} and ends in `-aṁ` {341}.*
 
 > kumārīsu adhikicca pavattati kathā → **adhikumāri**
 
-🚺⨂⑦(kumārīsu) 🔽(ya)(adhikaroti) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(adhi+kumārī)  
+🚺⨂⑦(kumārī) 🔽(ya)(adhikaroti) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(adhi+kumārī)  
 girls / with reference to / goes on / talk → concerning girls  
 *`kumārī` ("girl") is feminine, but the compound is neuter {320}: its `ī` is shortened {342} and it takes no ending {343}.*
 
@@ -111,24 +111,24 @@ as it truly is
 
 2. > jīvassa yattako paricchedo → **yāvajīvaṁ**
 
-🚻⨀⑥(jīvassa) 🚹⨀①(yattako) 🚹⨀①(paricchedo) → 🚻⨀①🆎(yāva+jīva)  
+🚻⨀⑥(jīva) 🚹⨀①(yattaka) 🚹⨀①(pariccheda) → 🚻⨀①🆎(yāva+jīva)  
 of life / however much / limit → as long as life lasts  
 *`yāva` ("as long as") stands for `yattako paricchedo` ("whatever the limit"): an `abyayībhāva` {319} in `-aṁ` {341}; [Bonus: 32, 21.1](../11-pbt/#s32-u21-1), `yāvajīvaṁ arahanto`.*
 
 3. > pabbatassa tiro → **tiropabbataṁ**
 
-🚹⨀⑥(pabbatassa) ⏏️(tiro) → 🚻⨀①🆎(tiro+pabbata)  
+🚹⨀⑥(pabbata) ⏏️(tiro) → 🚻⨀①🆎(tiro+pabbata)  
 of the mountain / beyond → beyond the mountain  
 *`tiro` ("beyond") comes first: an `abyayībhāva` {319} in `-aṁ` {341}.*
 
 4. > gaṅgāya samīpe pavattati kathā → **upagaṅgaṁ**
 
-🚺⨀⑥(gaṅgāya) 🚻⨀⑦(samīpe) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(upa+gaṅgā)  
+🚺⨀⑥(gaṅgā) 🚻⨀⑦(samīpa) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(upa+gaṅgā)  
 of the Ganges / in the vicinity / goes on / talk → near the Ganges  
 *`upa` ("near") stands for `samīpe` {319}; `gaṅgā` ("the Ganges") is feminine, but the compound is neuter {320}, its `ā` shortened {342}, in `-aṁ` {341}.*
 
 5. > vadhuyā samīpe pavattati kathā → **upavadhu**
 
-🚺⨀⑥(vadhuyā) 🚻⨀⑦(samīpe) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(upa+vadhū)  
+🚺⨀⑥(vadhū) 🚻⨀⑦(samīpa) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(upa+vadhū)  
 of the young wife / in the vicinity / goes on / talk → near the young wife  
 *`upa` ("near") with `vadhū` ("young wife"), feminine, but the compound is neuter {320}: its `ū` is shortened {342} and it takes no ending {343}.*
