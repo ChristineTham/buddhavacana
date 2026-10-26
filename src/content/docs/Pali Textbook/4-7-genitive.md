@@ -69,19 +69,19 @@ tables every ending rule).
 
 > **tassa bhikkhuno** paṭivīso
 
-🚹⨀⑥(*️⃣🤟(tassa) bhikkhuno) 🚹⨀①(paṭivīso)  
+*️⃣🤟🚹⨀⑥(ta) 🚹⨀⑥(bhikkhu) 🚹⨀①(paṭivīsa)  
 of that / monk / the share  
 *The share of that monk: the owner takes the ⑥, the thing owned keeps its own ending {283}, {301}.*
 
 > kaṇhā **gāvīnaṁ** sampannakhīratamā
 
-🚺⨀①(kaṇhā) 🚺⨂⑥(gāvīnaṁ) 🚺⨀①🆎🔽(tama)(sampannakhīratamā)  
+🚺⨀①(kaṇha) 🚺⨂⑥(gāvī) 🚺⨀①🔽(tama)🆎(sampanna+khīra)  
 the black one / of the cows / richest in milk  
 *Of the cows, the black one is richest in milk: the group takes the ⑥, or the ⑦ (`gāvīsu`) {304}.*
 
 > **rudato dārakassa** pabbaji
 
-🚹⨀⑥(🔽(anta)(rudato) dārakassa) 🟢⨀🤟⏮(pabbaji)  
+🚹⨀⑥🔽(anta)(rudanta) 🚹⨀⑥(dāraka) 🟢⨀🤟⏮(pabbajati)  
 weeping / of the boy / [he] went forth  
 *Though the boy wept, he went forth: the boy and his weeping stand apart in the ⑥ {305}.*
 
@@ -127,7 +127,7 @@ of the earth-dwelling / devas / the cry / having heard
 
 3. > Ayaṁ **dukkhassa** atthaṅgamo
 
-🚹⨀①(ima) 🚹⨀⑥(dukkha) 🚹⨀①(atthaṅgama)  
+*️⃣🤟🚹⨀①(ima) 🚻⨀⑥(dukkha) 🚹⨀①🆎(atthaṁ+gama)  
 this / suffering / disappearance of  
 *This is disappearance of dukkha (suffering).*
 

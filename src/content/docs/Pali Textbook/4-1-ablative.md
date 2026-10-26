@@ -81,19 +81,19 @@ in the texts of [the bonus chapter](../11-pbt/), release in those of chapters
 
 > **gāmā** apenti munayo
 
-🚹⨀⑤(gāmā) ⨂(🟢🤟▶️(apenti) 🚹①(munayo))  
+🚹⨀⑤(gāma) 🟢⨂🤟▶️(apeti) 🚹⨂①(muni)  
 from village / depart / sages  
 *The sages depart from the village.*
 
 > **corā** bhayaṁ jāyate
 
-🚹⨀⑤(corā) ⨀(🚻①(bhayaṁ) 🔵🤟▶️(jāyate))  
+🚹⨀⑤(cora) 🚻⨀①(bhaya) 🔵⨀🤟▶️(jāyati)  
 from thief / fear / arises  
 *Fear arises from the thief.*
 
 > **ācariyu’pajjhāyehi** sikkhaṁ gaṇhāti sisso
 
-🚹⨀⑤🆎(ācariya+upajjhāya) 🚺⨀②(sikkhaṁ) ⨀(🟢🤟▶️(gaṇhāti) 🚹①(sisso))  
+🚹⨂⑤🆎(ācariya+upajjhāya) 🚺⨀②(sikkhā) 🟢⨀🤟▶️(gaṇhāti) 🚹⨀①(sissa)  
 teacher and preceptor / lesson / takes / pupil  
 *The pupil takes lesson from the teacher/preceptor.*
 
@@ -136,14 +136,14 @@ from detachment / is liberated
 
 3. > **Pāṇātipātā** veramaṇī **adinnādānā** veramaṇī **kāmesumicchācārā** veramaṇī
 
-🚹⨀⑤(pāṇātipāta) 🚺⨀①(veramaṇī) 🚻⨀⑤(adinnādāna) 🚺⨀①(veramaṇī) 🚹⨀⑤(kāmesumicchācāra) 🚺⨀①(veramaṇī)  
+🚹⨀⑤🆎(pāṇa+atipāta) 🚺⨀①(veramaṇī) 🚻⨀⑤🆎(adinna+ādāna) 🚺⨀①(veramaṇī) 🚹⨀⑤🆎(kāmesu+micchā+cāra) 🚺⨀①(veramaṇī)  
 from killing living beings / abstinence from / from theft / abstinence from / from sexual misconduct / abstinence from  
 *Abstinence from killing living beings, abstinence from theft, abstinence from sexual misconduct.*  
 `pāṇātipātā`, `adinnādānā`, `kāmesumicchācārā`: what one abstains from, with `veramaṇī` {275}.
 
 4. > **agārasmā** anagāriyaṁ pabbajeyyan”ti
 
-🚻⨀⑤(agāra) 🚻⨀②(anagāriya) 🔵⏯👆⨀(pabbajati) 🔼(ti)  
-from household life / to homeless state / renounce / quote  
+🚻⨀⑤(agāra) 🚻⨀②🆎(na+agāriya) 🔵⨀👆⏯(pabbajati) ⏏️(iti)  
+from household life / to homeless state / renounce / (end quote)  
 *What if I were to renounce from household life to homeless state, …*  
 `agārasmā`: the place one leaves {271}, {295}.

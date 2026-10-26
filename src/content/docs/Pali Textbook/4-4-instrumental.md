@@ -63,7 +63,7 @@ The instrument {279}, {286}:
 
 > **dattena** vīhiṁ lunāti
 
-🚻⨀③(dattena) 🚹⨀②(vīhiṁ) 🟢⨀🤟▶️(lunāti)  
+🚻⨀③(datta) 🚹⨀②(vīhi) 🟢⨀🤟▶️(lunāti)  
 with a sickle / the rice / [he] reaps  
 *[He] reaps the rice with a sickle.*
 
@@ -71,7 +71,7 @@ Accompanied by {287}:
 
 > sahā’pi **gaggena** saṅgho uposathaṁ kareyya
 
-⏏️(saha) ⏏️(api) 🚹⨀③(gaggena) ⨀(🚹①(saṅgho) 🚹②(uposathaṁ) 🟢🤟⏯(kareyya))  
+⏏️(saha) ⏏️(api) 🚹⨀③(gagga) 🚹⨀①(saṅgha) 🚹⨀②(uposatha) 🟢⨀🤟⏯(karoti)  
 together with / even / Gagga / the Saṅgha / the uposatha (observance day ceremony) / may perform  
 *The Saṅgha may perform the uposatha even together with Gagga.*
 
@@ -79,7 +79,7 @@ The doer of a passive verb {288}:
 
 > **yakkhena** dinno varo
 
-🚹⨀③(yakkhena) ⨀🚹①(🔽(ta)(dinno) varo)  
+🚹⨀③(yakkha) 🚹⨀①🔽(ta)(dinna) 🚹⨀①(vara)  
 by the yakkha / given / the boon  
 *The boon [was] given by the yakkha.*
 
@@ -134,8 +134,8 @@ The instrument {286}: what it burns with, the answer to `kena ādittaṁ?`; `-in
 
 4. > Viññāṇassa **nirodhena**, natthi dukkhassa sambhavo.
 
-🚻⨀⑥(viññāṇa) 🚹⨀③(nirodha) ▶️🤟⨀(natthi) 🚹⨀⑥(dukkha) 🚹⨀①(sambhava)  
-of consciousness / with the cessation / there is not / of suffering / birth  
+🚻⨀⑥(viññāṇa) 🚹⨀③(nirodha) ⏏️(na) 🟢⨀🤟▶️(atthi) 🚻⨀⑥(dukkha) 🚹⨀①(sambhava)  
+of consciousness / with the cessation / not / there is / of suffering / birth  
 *With the cessation of consciousness, there is no birth of suffering.*
 
 The cause {289}: the cessation is the reason there is no birth of suffering.
