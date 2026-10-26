@@ -119,7 +119,7 @@ deconstruction.
 1. > **natthi** dāni punabbhavo
 
 ⏏️(na) 🟢⨀🤟▶️(atthi) ⏏️(dāni) 🚹⨀①🆎(puna+bhava)  
-not / there is / now / renewed becoming  
+not / there is / now / appearing again  
 *`natthi` = `na atthi`: the `a` of `na` dropped {12}, nothing lengthened; [5: 10.2](../5-dhammacakka/#u10-2).*
 
 2. > **Imasmiñca** pana veyyākaraṇasmiṁ bhaññamāne
