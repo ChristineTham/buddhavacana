@@ -48,7 +48,7 @@ The Bhagavā said this:
 <a id="u2-1"></a>[2.1](https://tipitaka2500.github.io/tipitaka/13S3/1/1.2/1.2.1/1.2.1.7.html#p_13S3_298) “Rūpaṁ, bhikkhave, anattā.  
 🚻⨀①(rūpa) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(na+atta)  
 form | bhikkhave | not-self  
-`rūpa` (form), bhikkhave, is `anattā` (not-self).
+`rūpa` (form), bhikkhave, is `anattā` (not-self).[^atta]
 
 <a id="u2-2"></a>2.2 Rūpañca hidaṁ, bhikkhave, attā abhavissa, nayidaṁ rūpaṁ ābādhāya saṁvatteyya, labbhetha ca rūpe— ‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti.  
 🚻⨀①(rūpa) ⏏️(ca) ⏏️(hi) *️⃣🤟🚻⨀①(ima) 🚹⨂⓪(bhikkhu) 🚹⨀①(atta) 🟢⨀🤟🔀(bhavati) ⏏️(na) *️⃣🤟🚻⨀①(ima) 🚻⨀①(rūpa) 🚹⨀④(ābādha) 🟢⨀🤟⏯(saṁvattati) 🔵⨀🤟⏯(labhati) ⏏️(ca) 🚻⨀⑦(rūpa) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(rūpa) 🟢⨀🤟⏹(hoti) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(rūpa) ⏏️(mā) 🟢⨀🤟⏮(hoti) ⏏️(iti)  
@@ -345,3 +345,5 @@ the seventh
 The seventh [discourse of the chapter].
 
 [^jati]: `jāti` here is the birth of suffering, as in the Dhammacakka's "this is the final birth": see the note at [5: 10.2](../5-dhammacakka/#u10-2).
+
+[^atta]: `attā` is not just "self" but the concept of an eternal, permanent self independent of the body (the DPD gives self, soul, spirit, essence). The Buddha is repudiating the concept of Ātman (/ˈɑːtmən/; Sanskrit आत्मन्) in Hinduism, the true, innermost essence or self of a living being, conceived as eternal and unchanging. According to the Buddha, our sense of self is impermanent and constructed, and therefore has no independent existence: `anattā` (not-self) says of each of the five collections in turn that it is not such a self.
