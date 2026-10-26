@@ -26,7 +26,7 @@ The text is the World Tipiṭaka Edition's [Bodhikathā, Mahāvagga 1.1](https:/
 <a id="u2-1"></a>[2.1](https://tipitaka2500.github.io/tipitaka/3V/1/1.1.html#2) Tena samayena buddho bhagavā uruvelāyaṁ viharati najjā nerañjarāya tīre bodhirukkhamūle paṭhamābhisambuddho.  
 *️⃣🤟🚹⨀③(ta) 🚹⨀③(samaya) 🚹⨀①(buddha) 🚹⨀①(bhagavant) 🚺⨀⑦(uruvelā) 🟢⨀🤟▶️(viharati) 🚺⨀⑥(nadī) 🚺⨀⑥(nerañjarā) 🚻⨀⑦(tīra) 🚻⨀⑦🆎(bodhirukkha+mūla) 🚹⨀①🆎(paṭhama+abhisambuddha)  
 at that | time | the Buddha | the Bhagavā | at Uruvelā | dwells | of the river | Nerañjarā | on the bank | at the root of the bodhi tree | newly fully awakened  
-At that time the Buddha, the Bhagavā, was dwelling at Uruvelā on the bank of the Nerañjarā river at the root of the Bodhi tree, having just attained full understanding (`abhisambuddha`).
+At that time the Buddha, the Bhagavā, was dwelling at Uruvelā on the bank of the Nerañjarā river at the root of the Bodhi tree, newly fully awakened (`abhisambuddha`).
 
 <a id="u2-2"></a>2.2 Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī.  
 ⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚻⨀⑦🆎(bodhirukkha+mūla) 🚻⨀②🆎(satta+aha) 🚹⨀③🆎(eka+pallaṅka) 🟢⨀🤟⏮(nisīdati) 🚹⨀①🆎(vimuttisukha+paṭisaṁvedī)  
@@ -51,7 +51,7 @@ With mental constructions as cause, `viññāṇaṁ` (consciousness) [arises];
 <a id="u3-3"></a>3.3 viññāṇapaccayā nāmarūpaṁ,  
 🚹⨀⑤🆎(viññāṇa+paccaya) 🚻⨀①🆎(nāma+rūpa)  
 with consciousness as cause | phenomenal objects  
-With consciousness as cause, `nāmarūpaṁ` (phenomenal objects) [arises];
+With consciousness as cause, `nāmarūpaṁ` (phenomenal objects) [arise];
 
 <a id="u3-4"></a>3.4 nāmarūpapaccayā saḷāyatanaṁ,  
 🚹⨀⑤🆎(nāmarūpa+paccaya) 🚻⨀①🆎(cha+āyatana)  
@@ -99,7 +99,7 @@ thus | of this | of the entire | of the mass of suffering | origin | is
 Thus is the origin of this whole mass of `dukkha` (suffering).
 
 <a id="u4-1"></a>[4.1](https://tipitaka2500.github.io/tipitaka/3V/1/1.1.html#4) Avijjāya tveva asesavirāganirodhā saṅkhāranirodho,  
-🚺⨀⑥🆎(na+vijjā) ⏏️(tu) ⏏️(eva) 🚹⨀⑤🆎(asesa+virāga+nirodha) 🚹⨀①🆎(saṅkhāra+nirodha)  
+🚺⨀⑥(avijjā) ⏏️(tu) ⏏️(eva) 🚹⨀⑤🆎(asesa+virāga+nirodha) 🚹⨀①🆎(saṅkhāra+nirodha)  
 of ignorance | but | just | with the complete fading away and cessation | the cessation of mental constructions  
 But with the remainderless fading away and cessation of ignorance comes the cessation of mental constructions;
 
@@ -161,7 +161,7 @@ Thus is the cessation of this whole mass of suffering.”
 <a id="u5-1"></a>[5.1](https://tipitaka2500.github.io/tipitaka/3V/1/1.1.html#5) Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi—  
 ⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) *️⃣🤟🚹⨀②(eta) 🚹⨀②(attha) 🔽(tvā)(vidati) *️⃣🤟🚺⨀⑦(ta) 🚺⨀⑦(velā) *️⃣🤟🚹⨀②(ima) 🚹⨀②(udāna) 🟢⨀🤟⏮(udāneti)  
 then | indeed | the Bhagavā | this | matter | having understood | at that | time | this | inspired utterance | uttered  
-Then the Bhagavā, having understood this matter, on that occasion uttered this inspired utterance (`udāna` (udāna)) —
+Then the Bhagavā, having understood this matter, on that occasion uttered this inspired utterance (`udāna`) —
 
 <a id="u6-1"></a>[6.1](https://tipitaka2500.github.io/tipitaka/3V/1/1.1.html#6) “Yadā have pātubhavanti dhammā,  
 ⏏️(yadā) ⏏️(have) 🟢⨂🤟▶️(pātubhavati) 🚹⨂①(dhamma)  
@@ -252,7 +252,7 @@ thus | of this | of the entire | of the mass of suffering | origin | is
 Thus is the origin of this whole mass of suffering.
 
 <a id="u7-14"></a>7.14 Avijjāya tveva asesavirāganirodhā saṅkhāranirodho,  
-🚺⨀⑥🆎(na+vijjā) ⏏️(tu) ⏏️(eva) 🚹⨀⑤🆎(asesa+virāga+nirodha) 🚹⨀①🆎(saṅkhāra+nirodha)  
+🚺⨀⑥(avijjā) ⏏️(tu) ⏏️(eva) 🚹⨀⑤🆎(asesa+virāga+nirodha) 🚹⨀①🆎(saṅkhāra+nirodha)  
 of ignorance | but | just | with the complete fading away and cessation | the cessation of mental constructions  
 But with the remainderless fading away and cessation of ignorance comes the cessation of mental constructions;
 
@@ -405,7 +405,7 @@ thus | of this | of the entire | of the mass of suffering | origin | is
 Thus is the origin of this whole mass of suffering.
 
 <a id="u10-14"></a>10.14 Avijjāya tveva asesavirāganirodhā saṅkhāranirodho,  
-🚺⨀⑥🆎(na+vijjā) ⏏️(tu) ⏏️(eva) 🚹⨀⑤🆎(asesa+virāga+nirodha) 🚹⨀①🆎(saṅkhāra+nirodha)  
+🚺⨀⑥(avijjā) ⏏️(tu) ⏏️(eva) 🚹⨀⑤🆎(asesa+virāga+nirodha) 🚹⨀①🆎(saṅkhāra+nirodha)  
 of ignorance | but | just | with the complete fading away and cessation | the cessation of mental constructions  
 But with the remainderless fading away and cessation of ignorance comes the cessation of mental constructions;
 

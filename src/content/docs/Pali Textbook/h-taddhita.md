@@ -21,24 +21,24 @@ Kaccāyana - consult the book for a full set of examples.
 | sutta | phrase | base | affix | transformation | word | meaning |
 | --- | --- | --- | --- | --- | --- | --- |
 | {344} | vasiṭṭhassa apaccaṁ vā | vasiṭṭha | ṇa | vasiṭṭh~~a~~ + ~~ṇ~~a + ~~si~~ [o/ī/aṁ] | vāsiṭṭho(🚹) vāsiṭṭhī(🚺) vāsiṭṭhaṁ(🚻) | Vasiṭṭha's son/daughter/clan |
-| {345} | vacchassa apaccaṁ vā | vaccha | ṇāyana | vasiṭṭh~~a~~ + ~~ṇ~~āyana + ~~si~~ [o/ī/aṁ] | vacchāyano(🚹) vacchāyanī(🚺) vacchāyanaṁ(🚻) | Vaccha's son/daughter/clan |
-| {345} | vacchassa apaccaṁ vā | vaccha | ṇāna | vasiṭṭh~~a~~ + ~~ṇ~~āna + ~~si~~ [o/ī/aṁ] | vacchāno(🚹) vacchānī(🚺) vacchānaṁ(🚻) | Vaccha's son/daughter/clan |
+| {345} | vacchassa apaccaṁ vā | vaccha | ṇāyana | vacch~~a~~ + ~~ṇ~~āyana + ~~si~~ [o/ī/aṁ] | vacchāyano(🚹) vacchāyanī(🚺) vacchāyanaṁ(🚻) | Vaccha's son/daughter/clan |
+| {345} | vacchassa apaccaṁ vā | vaccha | ṇāna | vacch~~a~~ + ~~ṇ~~āna + ~~si~~ [o/ī/aṁ] | vacchāno(🚹) vacchānī(🚺) vacchānaṁ(🚻) | Vaccha's son/daughter/clan |
 | {346} | kattikāya apaccaṁ vā | kattikā | ṇeyya | kattik~~ā~~ + ~~ṇ~~eyya + ~~si~~ (o) | kattikeyyo | (a woman) Kattikā's son or descendant |
 | {347} | dakkhassa apaccaṁ vā | dakkha | ṇi | dakkh~~a~~ + ~~ṇ~~i + ~~si~~ (o) | dakkhi | Dakkha's son or descendant |
-| {347} | sakyaputtassa apaccaṁ | sakyaputta | ṇika | sakyaputta~~a~~ + ~~ṇ~~ika + ~~si~~ (o) | sakyaputtiko | Sakyaputta's son or descendant |
-| {348} | upakussa apaccaṁ vā | upaku | ṇava | ~~u~~(o)paku~~a~~ + ~~ṇ~~ava + ~~si~~ (o) | opakavo | Upaku's son or descendant |
+| {347} | sakyaputtassa apaccaṁ | sakyaputta | ṇika | sakyaputt~~a~~ + ~~ṇ~~ika + ~~si~~ (o) | sakyaputtiko | Sakyaputta's son or descendant |
+| {348} | upakussa apaccaṁ vā | upaku | ṇava | ~~u~~(o)pak~~u~~ + ~~ṇ~~ava + ~~si~~ (o) | opakavo | Upaku's son or descendant |
 | {349} | vidhavāya apaccaṁ vā | vidhavā | ṇera | v~~i~~(e)dhav~~ā~~ + ~~ṇ~~era + ~~si~~ (o) | vedhavero | widow's son or descendant |
 
 ## `ane’ka’ttha` (various meanings)
 
 | sutta | expression | phrase | base | affix | transformation | word | meaning |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | {350} | `saṁsaṭṭha` “being mixed in as an ingredient” | tilena saṁsaṭṭhaṁ bhojanaṁ | tila | ṇika | t~~i~~(e)l~~a~~ + ~~ṇ~~ika + ~~si~~ (ṁ) | telikaṁ | food mixed with sesame |
-| {350} | `tarati` “mode of crossing a river etc.” | nāvāya taratī’ti | nāvā | ṇika | nāv~~ā~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | nāviko | traveler by boat |
-| {350} | `carati` “mode of travel or practice” | sakaṭena caratī’ti | nāvā | ṇika | sakaṭ~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | sākaṭiko | bullock-cart-traveler |
+| {350} | `tarati` “mode of crossing a river etc.” | nāvāya taratī’ti | nāvā | ṇika | nāv~~ā~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | nāviko | traveller by boat |
+| {350} | `carati` “mode of travel or practice” | sakaṭena caratī’ti | sakaṭa | ṇika | sakaṭ~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | sākaṭiko | bullock-cart-traveller |
 | {350} | `vahati` “mode of carriage” | sīsena vahatī’ti | sīsa | ṇika | sīs~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | sīsiko | one who carries (something) on head |
 | {350} | `vasatī` "residency" | rājagahe vasatī’ti | rājagaha | ṇika | rājagah~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | rājagahiko | resident/native of Rājagaha city |
-| {351} | `adhīte` “learning or subject of study” | rvinaya’madhīte | vinaya | ṇika | v~~i~~(e)nay~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | venayiko (i>e vuddhi) | Vinaya-learner. i.e. the student of Vinaya texts |
+| {351} | `adhīte` “learning or subject of study” | vinaya’madhīte | vinaya | ṇika | v~~i~~(e)nay~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | venayiko (i>e vuddhi) | Vinaya-learner. i.e. the student of Vinaya texts |
 | {351} | `tena kataṁ` “modes of action” | kāyena kataṁ kammaṁ | kāya | ṇika | kāy~~a~~ + ~~ṇ~~ika + ~~si~~ (ṁ) | kāyikaṁ | bodily action |
 | {351} | `sannidhāna` “originated in” | sarīre sannidhānā vedanā | sarīra | ṇika | sarīr~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (ā) | sārīrikā | the bodily feeling. i.e. bodily pain etc. |
 | {351} | `niyutta` “being involved in or related to” | dvāre niyutto | dvāra | ṇika | d(o)vār~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | dovāriko | the door-keeper, guard |
@@ -60,7 +60,7 @@ Kaccāyana - consult the book for a full set of examples.
 | {352} | `avidūra` "not far off, in proximity" | udumbarassa avidūre pavattaṁ vimānaṁ | udumbara | ṇa | udumbar~~a~~ + ~~ṇ~~a + ~~si~~ (ṁ) | odumbaraṁ | the mansion near fig tree |
 | {352} | `jāta` "native" | mathurāya jāto | mathurā | ṇa | mathur~~ā~~ + ~~ṇa~~ + ~~si~~ (o) | māthuro | the native of Mathurā |
 | {352} | `āgata` "comer" | mathurāya āgato | mathurā | ṇa | mathur~~ā~~ + ~~ṇa~~ + ~~si~~ (o) | māthuro | the person coming from the city of Mathurā |
-| {352} | `niyutta` "being related to or with" | mattikāya niyutto māso | kattikā | ṇa | kattik~~ā~~ + ~~ṇa~~ + ~~si~~ (o) | kattiko | the month when the star named “Kattikā (Kṛittika)” is prominent |
+| {352} | `niyutta` "being related to or with" | kattikāya niyutto māso | kattikā | ṇa | kattik~~ā~~ + ~~ṇa~~ + ~~si~~ (o) | kattiko | the month when the star named “Kattikā (Kṛittika)” is prominent |
 | {352} | `samūha` "collective grouping" | sikkhānaṁ samūho | sikkhā | ṇa | sikkh~~ā~~ + ~~ṇa~~ + ~~si~~ (o) | sikkho | the collection of the precepts |
 | {352} | `devatā` "being devoted like a deity" | buddho assa devatā | buddha | ṇa | buddh~~a~~ + ~~ṇa~~ + ~~si~~ (o) | buddho | the one who devotes Buddha like a deity |
 | {352} | "being related for a certain period such as a year etc." | saṁvacchara’madhīte | saṁvacchara | ṇa | saṁvacchar~~a~~ + ~~ṇa~~ + ~~si~~ (o) | saṁvaccharo | annual learner, yearly student |
@@ -77,7 +77,7 @@ Kaccāyana - consult the book for a full set of examples.
 ## `samūha` (collective grouping/assembly)
 
 | sutta | phrase | base | affix | transformation | word | meaning |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | {354} | rājaputtānaṁ samūho | rājaputta | ṇa | rājaputta + ~~ṇa~~ + ~~si~~ (o) | rājaputto | the collective group of princes |
 | {354} | rājaputtānaṁ samūho | rājaputta | kaṇ | rājaputta + k~~aṇ~~ + ~~si~~ (o) | rājaputtako | the collective group of princes |
 | {355} | gāmānaṁ samūho | gāma, jana, bandhu, sahāya | tā | gāma + t~~ā~~ + ~~si~~ (ā) | gāmatā | the collective group of villages |
@@ -87,7 +87,7 @@ Kaccāyana - consult the book for a full set of examples.
 an instigating source or a cause for passion, arrest, release, joy, etc.
 
 | sutta | phrase | base | affix | transformation | word | meaning |
-| --- |  --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | {356} | madanassa ṭhānaṁ | madana | iya | madan~~a~~ + iya + ~~si~~ (ṁ) | madaniyaṁ | the source of infatuation or inebriation, something alluring or extremely tempting or attractive thus causing lust or madness etc. |
 | {356} | bandhanassa ṭhānaṁ | bandana | iya | bandan~~a~~ + iya + ~~si~~ (ṁ) | bandhaniyaṁ | the cause of imprisonment |
 
@@ -96,24 +96,24 @@ an instigating source or a cause for passion, arrest, release, joy, etc.
 a simile or a metaphoric likeness
 
 | sutta | phrase | base | affix | transformation | word | meaning |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | {357} | dhūmo viya dissati aduṁ vanaṁ ta’didaṁ | dhūma | āyitatta | dhūm~~a~~ + āyitatta + ~~si~~ (ṁ) | dhūmāyitattaṁ | the smoky forest (whose color is like green-greyish when seen from a distance) |
-| {357} | timiraṁ viya dissati aduṁ vanaṁ ta’didaṁṁ | timira | āyitatta | timir~~a~~ + āyitatta + ~~si~~ (ṁ) | timirāyitattaṁ | the darkish-looking forest |
+| {357} | timiraṁ viya dissati aduṁ vanaṁ ta’didaṁ | timira | āyitatta | timir~~a~~ + āyitatta + ~~si~~ (ṁ) | timirāyitattaṁ | the darkish-looking forest |
 
 ## `tannissita` (“dependent nature and source”)
 
 "on which something depends or being associated to or being the source of"
 
 | sutta | phrase | base | affix | transformation | word | meaning |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| {358} | duṭṭhu nissitaṁ | duṭṭhu | la | duṭṭhu~~a~~ + (l)la + ~~si~~ (ṁ) | duṭṭhullaṁ | related to bad nature, indecent, obscene |
+| --- | --- | --- | --- | --- | --- | --- |
+| {358} | duṭṭhu nissitaṁ | duṭṭhu | la | duṭṭhu + (l)la + ~~si~~ (ṁ) | duṭṭhullaṁ | related to bad nature, indecent, obscene |
 
 ## `tabbahula` (the prominent nature)
 
 "a state of being a common prominent nature"
 
 | sutta | phrase | base | affix | transformation | word | meaning |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | {359} | abhijjhā assa pakati | abhijjhā | ālu | abhijjh~~ā~~ + ālu + ~~si~~ | abhijjhālu | the one whose nature is covetousness |
 
 ## `bhāva` (the abstract condition)
@@ -123,11 +123,11 @@ condition or state or a qualitative character of someone or something
 someone or something)
 
 | sutta | phrase | base | affix | transformation | word | meaning |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | {360} | alasassa bhāvo | alasa | ṇya | alas~~a~~ + ~~ṇ~~ya + ~~si~~ (ṁ) | ālasyaṁ | the state of being lazy, the laziness |
 | {360} | paṁsukūlikassa bhāvo | paṁsukūlika | tta | paṁsukūlika + tta + ~~si~~ (ṁ) | paṁsukūlikattaṁ | practitioner-hood of Paṁsukūlika austerity-practice |
 | {360} | saṅgaṇikā’rāmassa bhāvo | saṅgaṇikārāma | tā | saṅgaṇikārāma + tā + ~~si~~ | saṅgaṇikā’rāmatā | gregariousness, being fond of socializing |
-| {360} | puthujjanassa bhāvo | puthujjana | ttana | puthujjana + ttana + ~~si~~ (ṁ) | puthujjanattanaṁ | the state of an ordinary person, a common worldling still subject to the defilements |
+| {360} | puthujjanassa bhāvo | puthujjana | ttana | puthujjana + ttana + ~~si~~ (ṁ) | puthujjanattanaṁ | the state of an ordinary person, still subject to the defilements |
 | {361} | visamassa bhāvo | visama | ṇa | visama + ~~ṇa~~ + ~~si~~ (ṁ) | vesamaṁ | state of being uneven, ruggedness, uneven-ness, non-level place of the earth |
 | {362} | ramaṇīyassa bhāvo | ramaṇīya | kaṇ | ramaṇīya + ka~~ṇ~~ + ~~si~~ (ṁ) | rāmaṇīyakaṁ | pleasantness |
 
@@ -136,22 +136,22 @@ someone or something)
 a comparative comparison for the superlative
 
 | sutta | expression | phrase | base | affix | transformation | word | meaning |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| {363} | 1. positive | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | tara | pāpa + tar~~a~~ + ~~si~~ (o) | pāpataro | specially bad among the bad. i.e. especially bad of the bad |
-| {363} | 1. superlative | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | tama | pāpa + tam~~a~~ + ~~si~~ (o) | pāpatamo | the most bad, the worst |
-| {363} | 2. positive | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | isika | pāp~~a~~ + isik~~a~~ + ~~si~~ (o) | pāpisiko | specially bad |
-| {363} | 2. comparative | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | iya | pāp~~a~~ + iy~~a~~ + ~~si~~ (o) | pāpiyo | more bad |
-| {363} | 2. superlative | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | iṭṭha | pāp~~a~~ + iṭṭh~~a~~ + ~~si~~ (o) | pāpiṭṭho | more bad |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| {363} | more | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | tara | pāpa + tar~~a~~ + ~~si~~ (o) | pāpataro | specially bad among the bad. i.e. especially bad of the bad |
+| {363} | most | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | tama | pāpa + tam~~a~~ + ~~si~~ (o) | pāpatamo | the most bad, the worst |
+| {363} | more | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | isika | pāp~~a~~ + isik~~a~~ + ~~si~~ (o) | pāpisiko | specially bad |
+| {363} | more | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | iya | pāp~~a~~ + iy~~a~~ + ~~si~~ (o) | pāpiyo | more bad |
+| {363} | most | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | iṭṭha | pāp~~a~~ + iṭṭh~~a~~ + ~~si~~ (o) | pāpiṭṭho | the most bad, the worst |
 
 ## `ta’dassa’tthi` (possessed quality or inherent nature)
 
 a quality being possessed by someone (or something)
 
 | sutta | phrase | base | affix | transformation | word | meaning |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | {364} | medhā yassa atthi, tasmiṁ vā vijjatī’ti | medhā | vī | medhā + vī + ~~si~~ | medhāvī | the one who has intellect or wisdom, the wise |
 | {364} | sumedhā yassa atthi, tasmiṁ vā vijjatī’ti  | sumedhā | so | sumedh~~ā~~(a) + so + ~~si~~ | sumedhaso | the one who has good intellect |
-| {365} | tapo yassa atthi tasmiṁ vā vijjatī’ti  | tapa | ssī | tapa + ssī + ~~si~~ | tapassī | the one having austerity practices, an ascetic, a hermit |
+| {365} | tapo yassa atthi tasmiṁ vā vijjatī’ti  | tapa | sī | tapa + (s)sī + ~~si~~ | tapassī | the one having austerity practices, an ascetic, a hermit |
 | {366} | daṇḍo yassa atthi, tasmiṁ vā vijjatī’ti | daṇḍa | ika | daṇḍ~~a~~ + ik~~a~~ + ~~si~~ (o) | daṇḍiko | the one having stick |
 | {366} | daṇḍo yassa atthi, tasmiṁ vā vijjatī’ti | daṇḍa | ī | daṇḍ~~a~~ + ī + ~~si~~ | daṇḍī | the one having stick |
 | {367} | madhu yassa atthi, tasmiṁ vā vijjatī’ti | madhu | ra | madhu + r~~a~~ + ~~si~~ (o) | madhuro | something having sweet taste, sweet |
@@ -165,13 +165,13 @@ a quality being possessed by someone (or something)
 by means of which something is made up of, or crafted with
 
 | sutta | phrase | base | affix | transformation | word | meaning |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | {372} | suvaṇṇena pakataṁ kammaṁ | suvaṇṇa | maya | suvaṇṇa + maya + ~~si~~ (ṁ) | sovaṇṇamayaṁ | made of gold |
 
-## `abyaya` (Nouns in indeclinable affixes)
+## `abyaya` (uninflected words made with affixes)
 
 | sutta | expression | phrase | base | affix | transformation | word | meaning |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | {397} | distributive adjective or adverb | ekena vibhāgena | eka | dhā | eka + dhā + ~~si~~ | ekadhā | by one portion, in one kind |
 | {398} | manner and mode (after sabbanāma) | tena pakāro | ta | thā | ta + thā + ~~si~~ | tathā | by that manner |
 | {398} | manner and mode (after sabbanāma) | so pakāro | ta | thattā | ta + thattā + ~~si~~ | tathattā | by that manner |

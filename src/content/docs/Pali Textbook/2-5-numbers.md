@@ -28,8 +28,8 @@ two questions: which number is it, and what ending is it carrying?
 `eka` ("one") is singular and takes a pronoun's endings in the gender of its
 noun, `ekaṁ samayaṁ` ([5: 1.1](../5-dhammacakka/#u1-1)), `ekā saññā` ([Bonus: 17, 7.5](../11-pbt/#s17-u7-5)) ([2.4](../2-4-pronouns/),
 [Appendix L](../l-sabbanama/)). `dvi` ("two") to `aṭṭhārasa` ("eighteen")
-are plural only, and from `pañca` ("five") on they have one set of forms for
-all three genders (⚧). From `vīsati` ("twenty") upwards a number is a
+are plural only, and `dvi` and the numbers from `pañca` ("five") on have one set
+of forms for all three genders (⚧). From `vīsati` ("twenty") upwards a number is a
 singular noun, feminine for the tens and neuter for `sataṁ` ("a hundred") and
 `sahassaṁ` ("a thousand"). The ordinals are adjectives and agree with their
 noun.
@@ -51,7 +51,7 @@ before `naṁ` {67}, where a noun has `-ānaṁ`; before `-hi` and `-su` the
 final vowel is long {89}.
 
 Eleven to eighteen put `dasa` ("ten") after the unit, reshaped: `ekādasa`,
-`dvādasa` {383}, `terasa` {381}, `catuddasa` (`cuddasa`) {375}, {390},
+`dvādasa` {383}, `terasa` {381}, `catuddasa` (`cuddasa`) {390},
 `pañcadasa`, `soḷasa` {376}, `sattarasa`, `aṭṭhārasa` {382}. They take the
 same endings as `pañca`; nineteen is `ekūnavīsati`, "twenty less one" {327}.
 
@@ -67,7 +67,7 @@ same endings as `pañca`; nineteen is `ekūnavīsati`, "twenty less one" {327}.
 These are nouns, `vīsati` with the feminine endings of
 [2.2](../2-2-nouns/) (`vīsatiyā`, "of twenty"), `sataṁ` with those of
 `citta`; in the texts they sit inside names, `tāvatiṁsā devā`
-("the Thirty-three gods", [5: 12.3](../5-dhammacakka/#u12-3)), `dasasahassilokadhātu` ([5: 13.2](../5-dhammacakka/#u13-2)), or count a crowd,
+("the Tāvatiṁsa devas", [5: 12.3](../5-dhammacakka/#u12-3)), `dasasahassilokadhātu` ([5: 13.2](../5-dhammacakka/#u13-2)), or count a crowd,
 `bhikkhusahassena` ("with a thousand bhikkhū", [9: 1.1](../9-fire/#u1-1)). How they are made is the
 matter of [10.6](../10-6-sankhya/) and [Appendix H](../h-taddhita/).
 
@@ -144,7 +144,7 @@ deconstruction.
 3. pañcavaggiyānaṁ bhikkhūnaṁ ([7: 12.3](../7-anatta/#u12-3))
 4. Tiṇṇaṁ saṅgati phasso. ([Bonus: 19, 2.2](../11-pbt/#s19-u2-2))
 5. tiparivaṭṭaṁ dvādasākāraṁ ([5: 9.1](../5-dhammacakka/#u9-1))
-6. Sattamaṁ. ([7: 13.1](../7-anatta/#the-colophon))
+6. Sattamaṁ. ([7: 13.1](../7-anatta/#u13-1))
 7. ubho ante anupagamma ([5: 2.4](../5-dhammacakka/#u2-4))
 
 ### Answers

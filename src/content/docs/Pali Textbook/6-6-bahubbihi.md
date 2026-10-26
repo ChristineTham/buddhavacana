@@ -114,13 +114,13 @@ cessation / nature / of which / that → subject to cessation
 2. > maraṇaṁ dhammo yassa so → **maraṇadhammo**
 
 🚻⨀①(maraṇaṁ) 🚹⨀①(dhammo) *️⃣🤟🚹⨀⑥(yassa) *️⃣🤟🚹⨀①(so) → 🚹⨀①🆎(maraṇa+dhamma)  
-death / nature / of whom / that [one] → whose nature is death, subject to death  
+death / nature / of whom / that [one] → whose nature is death, liable to death  
 *{328}: `-dhammo`, "whose nature is": so too `jātidhammo`, `jarādhammo`, `byādhidhammo`, `sokadhammo`, `saṅkilesadhammo` in [Bonus: 46, 18.1](../11-pbt/#s46-u18-1).*
 
 3. > natthi vitakko yasmiṁ taṁ → **avitakkaṁ** jhānaṁ
 
 🟢⨀🤟▶️(natthi) 🚹⨀①(vitakko) *️⃣🤟🚻⨀⑦(yasmiṁ) *️⃣🤟🚻⨀①(taṁ) → 🚻⨀①🆎(na+vitakka) 🚻⨀①(jhānaṁ)  
-there is no / thinking / in which / that → without thinking / jhāna  
+there is no / thinking / in which / that → free from thought / jhāna  
 *{328}: `a`- for `na` {333}, the outside word in the ⑦; neuter like the `jhānaṁ` it describes ([Bonus: 39, 11.1](../11-pbt/#s39-u11-1)).*
 
 4. > natthi vicāro yasmiṁ taṁ → **avicāraṁ** jhānaṁ

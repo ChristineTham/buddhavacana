@@ -1,5 +1,5 @@
 ---
-title: "4.8: liṅgattha and ālapana (Nominative and Vocative)"
+title: "4.8: liṅgattha and ālapana (the bare noun and the calling form, ① and ⓪)"
 sidebar:
   label: "4.8: `liṅgattha`, `ālapana`"
   order: 531
@@ -131,7 +131,7 @@ form / bhikkhave / not-self
 
 🚻⨀①(cakkhu) 🚹⨂⓪(bhikkhu) 🚻⨀①🔽(ta)(āditta) 🚻⨂①(rūpa) 🚻⨂①🔽(ta)(āditta) 🚻⨀①🆎(cakkhu+viññāṇa) 🚻⨀①🔽(ta)(āditta) 🚹⨀①🆎(cakkhu+samphassa) 🚹⨀①🔽(ta)(āditta)  
 the eye / bhikkhave / burning / forms / burning / eye-consciousness / burning / eye-contact / burning  
-*The `cakkhu` (eye) is burning, `rūpā` (things) are burning, `cakkhuviññāṇaṁ` (eye-consciousness) is burning, `cakkhusamphasso` (eye-contact) is burning.*
+*The `cakkhu` (eye) is burning, `rūpā` (forms) are burning, `cakkhuviññāṇaṁ` (eye-consciousness) is burning, `cakkhusamphasso` (eye-contact) is burning.*
 
 Every word but `bhikkhave` (⓪ {285}) is in ① {284}: `cakkhu`, `rūpā`,
 `cakkhuviññāṇaṁ` and `cakkhusamphasso` name their things in four shapes of the

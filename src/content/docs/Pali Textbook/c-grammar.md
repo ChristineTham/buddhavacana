@@ -81,8 +81,8 @@ The grouped consonants can be either voiced or unvoiced.
 @startebnf
 Title Voicing
 grouped =
-  7 * voiceless (* aghosā *) |
-  25 * voiced (* ghosā *) ;
+  10 * voiceless (* aghosā *) |
+  15 * voiced (* ghosā *) ;
 voiceless = "ka" | "kha" | "ca" | "cha" | "ṭa" | "ṭha" | "ta" | "tha" | "pa" | "pha" ;
 voiced = "ga" | "gha" | "ṅa" | "ja" | "jha" | "ña" | "ḍa" | "ḍha" | "ṇa" | "da" | "dha" | "na" | "ba" | "bha" | "ma" ;
 @endebnf
@@ -123,9 +123,9 @@ substantive =
 @endebnf
 ```
 
-Nouns are constructed from a base, or stem. Kaccāyana refers to the nominal base as the `liṅga`, but this word is also used to refer to the grammatical gender of nouns. `liṅga` technically means defining "characteristic" or "attribute" and hence the term is appropriate for both, as the defining characteristic of a noun is the base together with the gender. Other words that can be used to represent the base are `pāṭipadika` or `sadda`.
+Nouns are constructed from a base, the lemma. Kaccāyana refers to the nominal base as the `liṅga`, but this word is also used to refer to the grammatical gender of nouns. `liṅga` technically means defining "characteristic" or "attribute" and hence the term is appropriate for both, as the defining characteristic of a noun is the base together with the gender. Other words that can be used to represent the base are `pāṭipadika` or `sadda`.
 
-A fully formed noun-word is constructed by combining the base with optional prefixes, infixes, affixes and suffixes. The final suffix is the inflectional-ending and expresses the syntactic case (relationship of the noun to other parts of a sentence), number (singular or plural) and gender (masculine, feminine, or neuter).
+A fully formed noun-word is constructed by combining the base with optional prefixes, infixes, affixes and suffixes. The final suffix is the inflectional-ending and expresses the inflection form (the relationship of the noun to other parts of a sentence), number (singular or plural) and gender (masculine, feminine, or neuter).
 
 ```plantuml
 @startebnf
@@ -142,7 +142,7 @@ affixes =
 noun_ending =
   gender (* liṅga*),
   multiplicity (* vacana *),
-  syntactic_case (* vibhatti *) ;
+  inflection_form (* vibhatti *) ;
 gender =
   ?🚹 masculine (pulliṅga)? |
   ?🚺 feminine (itthiliṅga)? |
@@ -150,40 +150,40 @@ gender =
 multiplicity =
   ?⨀ singular (ekavacana)? |
   ?⨂ plural (bahuvacana)? ;
-syntactic_case = case0 | case1 | case2 | case3 | case4 | case5 | case6 | case7 ;
+inflection_form = form0 | form1 | form2 | form3 | form4 | form5 | form6 | form7 ;
 @endebnf
 ```
 
-### Semantic cases
+### `kāraka` (the roles)
 
-Semantic cases (kāraka) represent the relationship between words in a sentence (representing various participants) in the context of an action (verb). Pali has 7 different semantic cases, in addition to a vocative case which is sometimes denoted as an 8th case.
+The `kāraka` (roles) represent the relationship between words in a sentence (representing various participants) in the context of an action (verb). Kaccāyana defines seven `kāraka` {271}–{283}, and the calling form (`ālapana`) stands beside them.
 
-There is a strong association between semantic cases and syntactic cases, but the association is not an equivalence as a semantic case can be represented by more than one syntactic case, and a syntactic case can be used to represent more than one semantic case.
+There is a strong association between the roles and the inflection forms, but the association is not an equivalence, as a role can be represented by more than one inflection form, and an inflection form can represent more than one role.
 
 ```plantuml
 @startebnf
-semantic_case =
-  vocative (* ālapana *) |
-  nominative (* kattar, agent or "doer" of action *) |
-  accusative (* kamma, object or "deed" of action *) |
-  instrumental (* karaṇa, means or implement of agent *) |
-  dative (* sampadāna, beneficiary of action *) |
-  ablative (* apādāna, source or cause of action *) |
-  genitive (* sāmi, owner of object *) |
-  locative (* okāsa, place of action *) ;
+role =
+  ālapana (* the calling form, the one spoken to *) |
+  kattā (* the agent or "doer" of the action *) |
+  kamma (* the object or "deed" of the action *) |
+  karaṇa (* the means or implement *) |
+  sampadāna (* the recipient *) |
+  apādāna (* the source or point of departure *) |
+  sāmī (* the owner *) |
+  okāsa (* the place or time of the action *) ;
 @endebnf
 ```
 
 ## Verbs
 
-Technically, verbs in Pali are finite verbs, conjugated by applying verb endings which represent the perspective and voice of the actor, multiplicity, and the mood/tense of the action.
+Technically, verbs in Pali are finite verbs, inflected by applying verb endings which represent the perspective and voice of the actor, multiplicity, and the mood/tense of the action.
 
-Infinitives, participles (past, present, future), absolutives and other forms of words considered as verbs in other languages are technically nouns in Pali - they are created by combining a verbal stem (root) with an affix (`kita` or `kicca`) and then inflected/declined by adding a noun ending.
+Infinitives, participles (past, present, future), absolutives and other forms of words considered as verbs in other languages are technically nouns in Pali - they are created by combining a root with an affix (`kita` or `kicca`) and then inflected by adding a noun ending.
 
 ```plantuml
 @startebnf
 title Verb types
-verb = Bhuvadi | Rudhadi | Divadi | Svadi | Kiyadi| Tanadi | Curadi;
+verb = Bhuvadi | Rudhadi | Divadi | Svadi | Kiyadi | Gahadi | Tanadi | Curadi;
 voice_affixes = Kattupaccaya | Kammapaccaya | Bhavapaccaya | Hetukattupaccaya | Hetukammapaccaya;
 @endebnf
 ```
@@ -198,7 +198,7 @@ verb =
   voice_affixes (* paccaya *),
   verb_ending (* vibhatti *) ;
 verb_ending =
-  case_relation (* kāraka *),
+  kāraka_relation (* kāraka *),
   person (* purisa *),
   multiplicity (* vacana *),
   (tense (* kāla *) | mood);
@@ -206,7 +206,7 @@ time =
   past |
   present |
   future ;
-case_relation =
+kāraka_relation =
   ?Kattukaraka : Active voice? |
   ?Kammakaraka : passive? ;
 person =
@@ -220,14 +220,14 @@ voice =
   ?parassapada : active, action favours non-agent? |
   ?attanopada : reflective, action favours self/object?;
 mood =
-  ?pañcamī : Imperative, command or wish? |
-  ?sattamī : Optative, permission or thought? |
+  ?pañcamī : a command or a wish? |
+  ?sattamī : permission or supposition? |
   ?kālātipatti : Conditional, should have happened except for ...? ;
 tense =
   ?vattamānā : Present tense (paccupannakāla)? |
-  ?parokkhā : Perfect, actions completed that was not witnessed? |
-  ?hīyyattanī : Imperfect, past action excluding today? |
-  ?ajjattanī : Aorist, past action completed today? |
+  ?parokkhā : the unwitnessed past? |
+  ?hiyyattanī : the past before today? |
+  ?ajjatanī : the near past, from today back? |
   ?bhavissantī : Future tense? ;
 @endebnf
 ```
@@ -236,7 +236,7 @@ tense =
 
 Complex nouns include compounds, verbal derivatives (primary) and nominal derivatives (secondary).
 
-Derivatives are nouns formed by combining either a verbal or nominal stem with an affix, and then inflected/declined by applying noun endings.
+Derivatives are nouns formed by combining either a root or a lemma with an affix, and then inflected by applying noun endings.
 
 ```plantuml
 @startebnf
@@ -251,15 +251,15 @@ compound =
   ?tappurisa : Determinative? |
   ?bahubbīhi : Relative? |
   ?dvandva : Copulative? ;
-verb_derivative = verb_stem (* liṅga *), primary_affix, noun_ending ;
-noun_derivative = noun_stem (* liṅga *), secondary_affix (* taddhita *), noun_ending ;
+verb_derivative = root (* dhātu *), primary_affix, noun_ending ;
+noun_derivative = lemma (* liṅga *), secondary_affix (* taddhita *), noun_ending ;
 primary_affix = kita | kicca | unadi;
 @endebnf
 ```
 
 ## Prefixes
 
-Prefixes can be used as words in a sentence (in which case they are indeclinable), or embedded in another word (in which case they act as prepositions and form part of the word).
+Prefixes can be used as words in a sentence (in which case they are uninflected), or embedded in another word (in which case they act as prepositions and form part of the word).
 
 ## Particles
 
@@ -267,8 +267,8 @@ Prefixes can be used as words in a sentence (in which case they are indeclinable
 @startebnf
 
 (* avyaya *)
-indeclinable = particle (* nipāta *) | prefix (* upasagga *);
-particle = conjunction | preposition | adverb | indeclinable ;
+uninflected = particle (* nipāta *) | prefix (* upasagga *);
+particle = conjunction | preposition | adverb | uninflected ;
 @endebnf
 ```
 

@@ -1,7 +1,7 @@
 ---
-title: "F: `upasagga ` meanings"
+title: "F: `upasagga` meanings"
 sidebar:
-  label: "F: `upasagga `"
+  label: "F: `upasagga`"
   order: 568
 description: >
   Detailed Meanings of `upasagga` Particles
@@ -43,8 +43,8 @@ Sometimes, certain `upasagga` words shown by the ◊ mark can also be used indep
 | | `pakkhitto` | `pa` + `khitto` | having put inside |
 | | `pasassati` | `pa` + `sassati` | (He) breathes in |
 | | `passāso` | `pa` + `ssāso` | inhalation |
-| intensifier | `padahati` | `pa` + `dahati` | (He) puts inside |
-| | `padhānaṁ` | `pa` + `khitto` | Effort in meditation practice or in any pursuit |
+| intensifier | `padahati` | `pa` + `dahati` | (He) strives |
+| | `padhānaṁ` | `pa` + `dhānaṁ` | Effort in meditation practice or in any pursuit |
 | | `pavassati` | `pa` + `vassati` | (It) rains heavily |
 | | `pavanaṁ` | `pa` + `vanaṁ` | thick forest |
 
@@ -90,7 +90,7 @@ Sometimes, certain `upasagga` words shown by the ◊ mark can also be used indep
 | | `nīharaṇaṁ` | `nī` + `haraṇaṁ` | act of taking out, removal |
 
 :::note
-Both Ni and Nī are not different from each other except the fact that one is a lengthened-form of upasagga.
+`ni` and `nī` are the same `upasagga`, the second a lengthened form of the first.
 :::
 
 ## `u`
@@ -136,12 +136,12 @@ Both Ni and Nī are not different from each other except the fact that one is a 
 | | `saṁyogo` | `saṁ` + `yogo` | act of joining together |
 | well, unitedly | `saṅgāyati` | `saṁ` + `gāyati` | (He) sings or chants together |
 | | `saṅgīti` | `saṁ` + `gīti` | act of singing together |
-| | `saṅkharoti` | `saṁ` + `karoti` | act of singing together |
-| | `saṅkhāro` | `saṁ` + `karo` | such an act or state, i.e. conditioned things |
-| | `saṅgahṇāti` | `saṁ` + `gaṇhāti` | (He) takes well, such as by means of praise, support etc. |
+| | `saṅkharoti` | `saṁ` + `karoti` | (He) constructs, prepares |
+| | `saṅkhāro` | `saṁ` + `karo` | such an act or state, i.e. a mental construction |
+| | `saṅgaṇhāti` | `saṁ` + `gaṇhāti` | (He) takes well, such as by means of praise, support etc. |
 | | `saṅgaho` | `saṁ` + `gaho` | such an act |
-| self, oneself | `sambhujjhati` | `saṁ` + `bhujjhati` | (He) knows by himself (without any outside help) |
-| | `sambuddho` | `saṁ` + `bhuddho` | the one who knows by himself, i.e. a Buddha |
+| self, oneself | `sambujjhati` | `saṁ` + `bujjhati` | (He) knows by himself (without any outside help) |
+| | `sambuddho` | `saṁ` + `buddho` | the one who knows by himself, i.e. a Buddha |
 | | `sandiṭṭhiko` | `saṁ` + `diṭṭhiko` | seen by oneself |
 | again and again | `sandhāvati` | `saṁ` + `dhāvati` | (It) runs again and again (from one life to another etc) |
 | | `saṁsarati` | `saṁ` + `sarati` | (It) happens again and again |
@@ -162,7 +162,7 @@ Both Ni and Nī are not different from each other except the fact that one is a 
 | transformed | `vikaroti` | `vi` + `karoti` | (He) makes so that it becomes something else |
 | | `vikati` | `vi` + `kati` | such an act, a non-natural state (Compare `pakati` "natural" with `vikati` "non-natural") |
 | | `vimukho` | `vi` + `mukho` | face being changed, the changed face due to unhappiness or anger etc. |
-| | `vipatisāro` | `vi` + `patisāro` | thinking with guilt, regret |
+| | `vippaṭisāro` | `vi` + `paṭisāro` | thinking with guilt, regret |
 | variously, in different ways | `vimati` | `vi` + `mati` | various thought, different view, doubt |
 | opposite of, against | `vivadati` | `vi` + `vadati` | (He) speaks against, disputes or quarrels |
 | | `vivādo` | `vi` + `vādo` | dispute, bickering, conflicting talk |
@@ -221,11 +221,11 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | | `Sisso ācariyaṁ anugacchati ca anuvattati ca` | `anu` + `gacchati` / `vattati` | The pupil follows teacher and imitates too |
 | inferior or lower in rank, sub-standard | `anutherā` | `anu` + `therā` | those below senior monks, i.e. less-senior monks |
 | | `anunāyakā` | `anu` + `nāyakā` | those below senior leaders, i.e. less-senior leaders |
-| in compliance with, suitable, being appropriate, favorable, agreeable, according to | `anurūpaṁ` | `anu` + `rūpaṁ` | suitable, appropriate (compare `patirūpaṁ` "suitable") |
+| in compliance with, suitable, being appropriate, favourable, agreeable, according to | `anurūpaṁ` | `anu` + `rūpaṁ` | suitable, appropriate (compare `patirūpaṁ` "suitable") |
 | | `anukūlaṁ` | `anu` + `kūlaṁ` | suitable, agreeable. following (the bank of a river etc. a figurative expression, compare `paṭikūlaṁ` "disagreeable, unlikable" - also a figurative expression) |
 | | `anulomaṁ` | `anu` + `lomaṁ`| in sequential order ("following the hair", a figurative expression, compare `paṭilomaṁ` "in reverse order", also a figurative expression) |
-| | `anurujjhati` | `anu` + `rujjhati`| (he) favors, likes |
-| | `anurodho` | `anu` + `rodho`| favour, agreement (compare `virodho` "disfavor, dislike") |
+| | `anurujjhati` | `anu` + `rujjhati`| (he) favours, likes |
+| | `anurodho` | `anu` + `rodho`| favour, agreement (compare `virodho` "disfavour, dislike") |
 | small, in detail | `anubyañjanaṁ` | `anu` + `byañjanaṁ` | small bodily marks or parts and figure |
 | | `anusaṁvaṇṇeti` | `anu` + `saṁ` + `vaṇṇeti`| explains in detail |
 
@@ -258,8 +258,8 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | specially, superior, supreme | `adhisīlaṁ` | `adhi` + `sīlaṁ` | superior Sīla |
 | | `adhirājā` | `adhi` + `rājā` | the supreme king |
 | | `adhidevatā` | `adhi` + `devatā` | the supreme deity |
-| being dominant of, the lord over (usually followed by a noun in 7th case when it means being “the lord over” as an independently used word) | `Adhi devesu Buddho` | `adhi` | The Buddha is supreme lord of deities |
-| | `adhigahṇāti` | `adhi` + `gahṇāti` | (It) takes up all, i.e. exceeds (as a prefix to a verb) |
+| being dominant of, the lord over (usually followed by a noun with the ⑦ ending when it means being “the lord over” as an independently used word) | `Adhi devesu Buddho` | `adhi` | The Buddha is supreme lord of deities |
+| | `adhigaṇhāti` | `adhi` + `gaṇhāti` | (It) takes up all, i.e. exceeds (as a prefix to a verb) |
 | | `adhipati` | `adhi` + `pati` | lord |
 | | `ajjhāvasati` | `adhi` + `ā` + `vasati` | (He) lives as a lord or being dominant, reigns. (as a king or chief authority of a location) |
 | | `ajjhāvāso` | `adhi` + `ā` + `vāso` | such an act |
@@ -290,7 +290,7 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | towards | `abhimukhaṁ` | `abhi` + `mukhaṁ` | face-ward, toward oneself |
 | opposite, recklessly, wrongly | `abbhācikkhati` | `abhi` + `ācikkhati` | (he) wrongly accuses, says the opposite |
 | up, above, upward | `Abhiruhati` | `abhi` + `ruhati` | (It) climbs up, grows up (as a tree) |
-| | `abhisiñjati` | `abhi` + `siñjati` | (It) pours on, sprinkles on (as on a tree or on the hand or head) |
+| | `abhisiñcati` | `abhi` + `siñcati` | (It) pours on, sprinkles on (as on a tree or on the hand or head) |
 | | `abhiseko` | `abhi` + `seko` | such an act of sprinkling, in times of coronation of kings in ancient times, coronation itself is called `abhiseka` |
 
 ## ◊ `pati`
@@ -309,12 +309,12 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | instead of, in exchange for* | `telasmā pati ghataṁ dadāti` | `pati` | Instead of sesame oil, (he) gives ghee |
 | | `tilehi pati māse dadāti` | `pati` | Instead of sesame, (he) gives beans |
 | opposite of, against, contrary to | `pativirujjhati` | `pati` + `virujjhati` | (It) counteracts, opposes |
-| | `pativirodho` | `pati` + `virodho` | opposition, disfavor |
+| | `pativirodho` | `pati` + `virodho` | opposition, disfavour |
 | | `patipakkho` | `pati` + `pakkho` | opposite party |
 | | `patimukhaṁ` | `pati` + `mukhaṁ` | facing against, face to face |
 | | `patisotaṁ` | `pati` + `sotaṁ` | against current, upstream |
 | | `pativātaṁ` | `pati` + `vātaṁ` | against the direction of the wind |
-| | `patikūlaṁ` | `pati` + `kūlaṁ` | disagreeable, unfavorable |
+| | `patikūlaṁ` | `pati` + `kūlaṁ` | disagreeable, unfavourable |
 | back, backward | `patikkamati` | `pati` + `kamati` | (He) moves back, returns |
 | | `patikkante` | `pati` + `kante` | when returned |
 | | `patilomaṁ` | `pati` + `lomaṁ` ("hair") | backward order, reversely |
@@ -327,7 +327,7 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | | `patigho` | `pati` + `gho` | anger, stress |
 | | `pativijjhati` | `pati` + `vijjhati` | knows penetratingly, sees through |
 
-\* *(usually preceded by a word to be represented in the ablative case, used as independent word)*
+\* *(usually preceded by a word with the ⑤ ending, used as independent word)*
 
 ## `su`
 
@@ -342,7 +342,7 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | being easy of | `sukaraṁ` | `su` + `karaṁ` | easy to do |
 | | `sulabhaṁ` | `su` + `labhaṁ` | easy to obtain |
 | | `sujjānaṁ` | `su` + `jānaṁ` | easy to know |
-| abundance | `sukaraṁ` | `su` + `bhikkhaṁ` | abundance of food |
+| abundance | `subhikkhaṁ` | `su` + `bhikkhaṁ` | abundance of food |
 
 ## ◊ `ā`
 
@@ -378,8 +378,8 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | meaning | example | combination | example meaning |
 | --- | --- | --- | --- |
 | also, too | `Dhammaṁ api` | `api` | to the Dhamma also |
-| even though, although, even if, despite | `Api dibbesu kāmesu-even in divine pleasures` | `api` | he does not enjoy |
-| introducing a question | `Api bhante bhikkham labhittha?` | `api` | Have you got food, Venerable Sir? |
+| even though, although, even if, despite | `Api dibbesu kāmesu` | `api` | even in divine pleasures he does not enjoy |
+| introducing a question | `Api bhante bhikkhaṁ labhittha?` | `api` | Have you got food, Venerable Sir? |
 | above, cover up, close on (used as prefix) | `pidahati` | `api` + `dahati` | (He) closes, covers (Here, `a` is to be elided always) |
 | | `apidhānaṁ` | `api` + `dhānaṁ` | cover of a pot etc. |
 
@@ -407,7 +407,7 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | | `upagacchati` | `upa` + `gacchati` | approaches, i.e. goes near, toward |
 | | `upapajjati` | `upa` + `pajjati` | closely happens, i.e. conceives or born |
 | | `Upapatti` | `upa` + `patti` | conception or birth |
-| firmly, intensifier | `upādānaṁ` | `upa` + `ā` + `dānaṁ` | clinging |
+| firmly, intensifier | `upādānaṁ` | `upa` + `ā` + `dānaṁ` | fuel: what is taken up and burns |
 | up, high (as in good-willed act, attaining a high condition etc.) | `upakaroti` | `upa` + `karoti` | highly acts, i.e. helps |
 | | `upakāro` | `upa` + `karo` | such an act, a good-willed help (done usually by parents, good friends etc.) |
 | | `upasampajjati`* | `upa` + `saṁ` + `pajjati` | attains higher state |
@@ -416,6 +416,6 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | | `upavādo` | `upa` + `vado` | accusation |
 | deputy or assistant or the second in rank, subordinate | `uparājā` | `upa` + `rājā` | the crown prince |
 | | `ppaukkaṭho` | `upa` + `ukkaṭho` | vice-chairman |
-| over, exceeds (usually followed by a locative word in its context denoting the lesser amount or value) | `Upa khāriyaṁ doṇo` | `upa` | A measure of “doṇa` is in excess of a `khāri` |
+| over, exceeds (usually followed by a word with the ⑦ ending in its context denoting the lesser amount or value) | `Upa khāriyaṁ doṇo` | `upa` | A measure of `doṇa` is in excess of a `khāri` |
 
 \* *(`ṁ` becomes `m` as it precedes `p`)*

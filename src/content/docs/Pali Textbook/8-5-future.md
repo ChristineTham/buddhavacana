@@ -4,7 +4,7 @@ sidebar:
   label: "8.5: The future"
   order: 548
 description: >
-  A verb with `ssa` before its ending says what will happen: the `bhavissanti`
+  A verb with `ssa` before its ending says what will happen: the `bhavissantī`
   endings `-ssati`, `-ssanti`, `-ssāmi` … {421}, {429}, with an `i` before the
   `ssa` {516}. The same `ssa` with `-ā` or `-aṁsu` after it and an `a-` before
   the root is the `kālātipatti`, what would have happened but did not {422},
@@ -19,7 +19,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 
 A verb that says what is still to come carries `ssa` before the ending that
 gives its person and number: `bhavissati`, `gacchissanti`. Kaccāyana names
-these endings `bhavissanti` (the rule spells it `bhavissantī`), the future, ⏭:
+these endings `bhavissantī` (the rule spells it `bhavissantī`), the future, ⏭:
 one rule says when they are used, in time to come {421}, and one lists the
 twelve {429}. The same `ssa` with a past-looking tail and an `a-` before the
 root is the `kālātipatti` ("the lapse of time"), 🔀, an action that never came
@@ -35,12 +35,12 @@ so what you see is nearly always `-issa-`: `gam-i-ssati`, `kar-i-ssati`. That
 `i` is the surest sign; each rule's `attanopada` six, rare in the texts, are in
 [chapter 1](../1-basics/#verb-terminations-423-430).
 
-### The future: `bhavissanti` ⏭
+### The future: `bhavissantī` ⏭
 
 | what you see | person | number | example | rule |
 | --- | :-: | :-: | --- | :-: |
 | `-ssati` | third 🤟 | ⨀ | `bhavissati`, `gacchissati`, `karissati` | {429} |
-| `-ssanti` | third 🤟 | ⨂ | `gacchissanti`, `karissanti`, `bhavissanti` | {429} |
+| `-ssanti` | third 🤟 | ⨂ | `gacchissanti`, `karissanti`, `bhavissantī` | {429} |
 | `-ssasi`, `-ssatha` | second 🤘 | ⨀, ⨂ | none in the rules or the texts | {429} |
 | `-ssāmi` | first 👆 | ⨀ | `āharissāmi`, `karissāmi` | {429} |
 | `-ssāma` | first 👆 | ⨂ | `karissāma`, `gamissāma` | {429} |
@@ -50,7 +50,7 @@ so what you see is nearly always `-issa-`: `gam-i-ssati`, `kar-i-ssati`. That
 | what you see | what it is | example | rule |
 | --- | --- | --- | :-: |
 | `-issa-` | the `i` before the ending; a root ending in a vowel does without it | `gamissati`, `labhissati`, `pacissati` | {516} |
-| `bhavissa-` | `bhū` for `asa`, the root of `atthi` | `bhavissati`, `bhavissanti` | {507} |
+| `bhavissa-` | `bhū` for `asa`, the root of `atthi` | `bhavissati`, `bhavissantī` | {507} |
 | `hessa-`, `hehi-`, `hohi-` | the future of `hoti`, its `ssa` often dropped | `hessati`, `hohiti` | {480} |
 | `kāha-` | `karoti`'s future: `kāha` for `kara` and the `ssa` | `kāhati`, `kāhasi` ("you will do"), `kāhāmi` | {481} |
 

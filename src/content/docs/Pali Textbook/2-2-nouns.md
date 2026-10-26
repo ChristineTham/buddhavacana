@@ -89,7 +89,7 @@ same class, so the rest of each column reads as `purisa`, `aggi` and
 | ⓪ | `citta` | `cittāni` | `aṭṭhi` | `aṭṭhīni` | `cakkhu` | `cakkhūni` |
 
 Two habits of the tables are worth fixing in the eye. The plural ③ to ⑦ of
-every class are the same four shapes, `-hi`, `-naṁ`, `-hi`, `-su`, on the
+every class are the same three shapes, `-hi`, `-naṁ`, `-hi`, `-su`, on the
 lemma's final vowel, long in `i` and `u` words (`bhikkhūhi`, `rattīnaṁ`,
 `aggīsu`) and `e` for `a` (`purisehi`, `purisesu`). And a feminine has one
 singular shape for ③ to ⑦, `-āya` after `ā` {111} and `-iyā` after `i` or `ī`
@@ -147,7 +147,7 @@ to calm / to experiential understanding / to full awakening / to extinguishment 
 ⏏️(tatra) ⏏️(kho) 🚹⨀①(bhagavant) 🚹⨂②🆎(pañca+vaggiya) 🚹⨂②(bhikkhu) 🟢⨀🤟⏮(āmanteti)  
 there / indeed / the Bhagavā / of the group of five / bhikkhū / addressed  
 *There the Bhagavā addressed the group of five bhikkhū:*  
-*`bhikkhū`: `-ū`, the ② plural, `yo` dropped and the `u` lengthened {118}, {88}, the object of `āmantesi`; `pañcavaggiye` agrees with it; [5: 1.2](../5-dhammacakka/#u1-2).*
+*`bhikkhū`: `-ū`, the ② plural, `yo` dropped and the `u` lengthened {119}, {88}, the object of `āmantesi`; `pañcavaggiye` agrees with it; [5: 1.2](../5-dhammacakka/#u1-2).*
 
 > **rattiyā** paṭhamaṁ yāmaṁ
 

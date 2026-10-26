@@ -110,7 +110,7 @@ thus / my / mental constructions / let be
 
 🚹⨀②(yathābhūta) ⏹👆⨀(jānāti) ⏹👆⨀(passati) 🔼(ti)  
 reality as it is / must know / must see  
-*"May I see and know reality as it is." ([Bonus: 18, 1.20](../11-pbt/#s18-u1-20)) `jānāmi`, `passāmi`: `-mi`, first person ⨀ {424}, the present's ending too; the sentence is a wish, so ⏹ {415}.*
+*"May I know and see reality as it is." ([Bonus: 18, 1.20](../11-pbt/#s18-u1-20)) `jānāmi`, `passāmi`: `-mi`, first person ⨀ {424}, the present's ending too; the sentence is a wish, so ⏹ {415}.*
 
 > “Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā evaṁ **vadeyyātha**—
 

@@ -55,7 +55,6 @@ says that any vowel (vowel) in the environment before another vowel (/ __ vowel)
 | | | te+ahaṁ | yā’haṁ evaṁ vadeyyaṁ |
 | | (exception) | ne+anāgatā | ne’nāgatā |
 | | (exception) | na+ettha | iti ne’ttha |
-| | (exception) | na+ettha | iti ne’ttha |
 | {18} | o → v [occasionally] / __ dissimilar vowel | kho+assa | atha • khva’ssa |
 | | | so+assa | sva’ssa hoti |
 | | (exception) | cattāro+ime  | cattāro’me bhikkhave dhammā |
@@ -164,4 +163,4 @@ says that any vowel (vowel) in the environment before another vowel (/ __ vowel)
 | | | pariyudāhāsi | payirudāhāsi |
 | | | ariyassa | ayirassa |
 
-Rules {12}–{51} are Kaccāyana's Sandhikappa: {12}–{22} the vowel `sandhi`, {23}–{26} vowels kept, lengthened or shortened, {27}–{29} consonants, {30}–{41} the `niggahīta` (ṁ), {42}–{51} the prefixes and the rest. The "before" column gives the words as they stand apart, the "after" column Kaccāyana's example as it is found in the texts. The full rules with their vutti and derivations are at <https://kaccayana.github.io/kaccayana/1-sandhikappa>.
+Rules {12}–{51} are Kaccāyana's Sandhikappa: {12}–{22} the vowel `sandhi`, {23}–{27} vowels kept, lengthened, shortened or changed, {28}–{29} consonants, {30}–{41} the `niggahīta` (ṁ), {42}–{51} the prefixes and the rest. The "before" column gives the words as they stand apart, the "after" column Kaccāyana's example as it is found in the texts. The full rules with their vutti and derivations are at <https://kaccayana.github.io/kaccayana/1-sandhikappa>.

@@ -1,5 +1,5 @@
 ---
-title: "4.1: apādāna (Ablative)"
+title: "4.1: apādāna (the source, ⑤)"
 sidebar:
   label: "4.1: `apādāna`"
   order: 524
@@ -122,14 +122,14 @@ deconstruction.
 
 1. > **upādānanirodhā** bhavanirodho
 
-🚹⨀⑤(upādānanirodha) 🚹⨀①(bhavanirodha)  
-from cessation of fuel / cessation of existence  
-*From cessation of fuel, cessation of the existence of suffering.*  
+🚹⨀⑤🆎(upādāna+nirodha) 🚹⨀①🆎(bhava+nirodha)  
+with the cessation of fuel / the cessation of existence  
+*With the cessation of fuel comes the cessation of the existence of suffering.*  
 `upādānanirodhā`: the cause of what follows {296}.
 
 2. > **virāgā** vimuccati
 
-🚹⨀⑤(virāga) 🔵⨀🤟▶️(vimuccati)  
+🚹⨀⑤(virāga) 🔴⨀🤟▶️(vimuccati)  
 from detachment / is liberated  
 *…from detachment he `vimuccati` (becomes liberated).*  
 `virāgā`: what one is freed from, with `muccati` {275}.

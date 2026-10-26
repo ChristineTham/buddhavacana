@@ -62,7 +62,7 @@ occurrences in the early discourses[^dpd]:
 | affix | sense | a word you will meet | words | occurrences | section |
 | :-: | --- | --- | --: | --: | :-: |
 | `vantu`, `mantu` | having | `bhagavā` ("the Blessed One"), `āyasmā` ("venerable") | 222 | 45,000 | [10.5](../10-5-tadassatthi/) |
-| `ka` | a small or ordinary one of its kind, an adjective | `pāpako` ("bad") | 1,300 | 19,000 | [10.3](../10-3-samuha/) |
+| `ka` | a small or ordinary one of its kind, an adjective | `pāpako` ("bad") | 1,300 | 19,000 | — |
 | `ṇa` | a descendant, belonging to | `vāsiṭṭho`, `māṇavo` ("a young brahmin") | 685 | 64,000 | [10.1](../10-1-apacca/) |
 | `ṇika`, `ika` | connected with, living by | `nāviko` ("a sailor"), `santiko` ("near") | 513 | 7,600 | [10.2](../10-2-anekattha/) |
 | `tā`, `tta` | the abstract state, "-ness" | `devatā` ("a deity"), `sahabyatā` ("companionship") | 1,108 | 10,200 | [10.4](../10-4-bhava/) |

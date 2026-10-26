@@ -21,34 +21,34 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 | ⚧ | `aliṅga` | without gender: one set of forms for all three genders, as the pronouns `amha` and `tumha` and the numeral `dvi` have |
 | ⨀ | `ekavacana` | singular |
 | ⨂ | `bahuvacana` | plural |
-| 🟢 | `parassapada`, `kattu` | active voice |
-| 🔵 | `attanopada`, `bhāva` | middle voice - impersonal |
-| 🔴 | `kamma` | passive voice |
+| 🟢 | `parassapada` | the first set of verb endings: the active voice (`kattu`) |
+| 🔵 | `attanopada` | the second set of verb endings, used in the passive and the impersonal (`bhāva`) and sometimes in the active |
+| 🔴 | `kamma` | the passive voice, even when it takes the `parassapada` endings |
 | 🟠 | `kārita` | causative |
-| 🤟 | `paṭhama purisa` | first person, equivalent to 'third person' in English |
+| 🤟 | `paṭhama purisa` | first person, equivalent to 'third person' in English; on a pronoun, the person it stands for |
 | 🤘 | `majjhima purisa` | middle person, equivalent to 'second person' in English |
 | 👆 | `uttama purisa` | primary person, equivalent to 'first person' in English |
-| ⓪ | `ālapana` | vocative |
-| ① | `paṭhamā` | first case (nominative) |
-| ② | `dutiyā` | second case (accusative) |
-| ③ | `tatiyā` | third case (instrumental) |
-| ④ | `catutthī` | fourth case (dative) |
-| ⑤ | `pañcamī` | fifth case (ablative) |
-| ⑥ | `chaṭṭhī` | sixth case (genitive) |
-| ⑦ | `sattamī` | seventh case (locative) |
+| ⓪ | `ālapana` | the calling form: the one spoken to |
+| ① | `paṭhamā` | the first inflection form |
+| ② | `dutiyā` | the second inflection form |
+| ③ | `tatiyā` | the third inflection form |
+| ④ | `catutthī` | the fourth inflection form |
+| ⑤ | `pañcamī` | the fifth inflection form |
+| ⑥ | `chaṭṭhī` | the sixth inflection form |
+| ⑦ | `sattamī` | the seventh inflection form |
 | ⏏️ | `nipāta` | particle |
 | 🔼 | `upasagga` |prefix |
 | 🆎 | `samāsa` | compound noun |
-| 🔽 | `taddhita` | affix |
+| 🔽 | `taddhita`, `kita`, `uṇādi` | a derived word, with its affix in parentheses: 🔽(ta)(desita) |
 | *️⃣ | `sabbanāma` | pronoun |
-| ▶️ | `vattamāna` | present |
-| ⏹ | `pañcamī` | imperative |
-| ⏯ | `sattamī` | potential |
-| 🔄 | `parokkhā` | perfect |
-| ↩️ | `hiyyattanī` | imperfect |
-| ⏮ | `ajjatanī`| aorist |
-| ⏭ | `bhavissanti` | future |
-| 🔀 | `kālātipatti` | conditional |
+| ▶️ | `vattamānā` | the present |
+| ⏹ | `pañcamī` | a command or a wish |
+| ⏯ | `sattamī` | permission or supposition: may, should, would |
+| 🔄 | `parokkhā` | the unwitnessed past |
+| ↩️ | `hiyyattanī` | the past before today |
+| ⏮ | `ajjatanī` | the near past |
+| ⏭ | `bhavissantī` | the future |
+| 🔀 | `kālātipatti` | the conditional: what would have happened |
 
 ## Phonological Terminology
 
@@ -82,16 +82,18 @@ niggahīta
 vimutta
 : oral
 
-## Case terminology
+## The inflection forms in other books
 
-Symbol | English | Aṭṭhakathā
+English grammars of Pāḷi name the inflection forms after Latin, and the commentaries have names of their own:
+
+Symbol | in English grammars | in the commentaries
 :-: | :-: | :-:
 ① | nominative | paccatta
 ② | accusative | upayoga
 ③ | instrumental | karaṇa
 ④ | dative | sampadāna
 ⑤ | ablative | nissakka
-⑥ | genitive | sāmi
+⑥ | genitive | sāmī
 ⑦ | locative | bhumma
 ⓪ | vocative | ālapana
 

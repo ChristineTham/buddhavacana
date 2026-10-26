@@ -4,7 +4,7 @@ sidebar:
   label: "Status and contents"
   order: 501
 description: >
-  My textbook on learning Pali, based on **Kaccāyana Pali Vyākaraṇam**, the oldest extant Pali grammar book: its status, its contents and the order to read it in
+  My textbook on learning Pali, based on Kaccāyana Pali Vyākaraṇam, the oldest extant Pali grammar book: its status, its contents and the order to read it in
 ---
 
 The current status of this work is **Early Draft for Review**: every chapter is
@@ -41,7 +41,7 @@ first arahants to a selection of the core teachings.
 | [9](../9-fire/) | text | the Ādittapariyāyasutta: the Fire Sermon, all is burning (SN 35.28) |
 | [10](../10-0-derived/) | grammar | `taddhita` and `uṇādi`: words made from other words with affixes |
 | [Bonus](../11-pbt/) | text | Pali Buddhist Texts: fifty-two short passages on the core teachings, after Johansson; my earliest translation effort, since updated to my latest understanding |
-| A–P | reference | the symbols, the alphabet, a glossary of terms, the full rule tables of Kaccāyana (roots, sandhi, prefixes, endings, affixes, verbs, pronouns), and the endings by frequency |
+| A–P | reference | the symbols, the alphabet, a glossary of terms, the full rule tables of Kaccāyana (roots, sandhi, prefixes, endings, affixes, verbs, pronouns), an overview of Kaccāyana, the endings by frequency, and two downloads, a grammar dictionary and a spell-checker word list |
 
 ## How to read it
 

@@ -69,7 +69,7 @@ changes:
 | `-an”ti` | `-aṁ` + `iti` | `ariyasaccan’ti` ([5: 5.1](../5-dhammacakka/#u5-1)) | {40}, {31} |
 | `-amiti` | `-aṁ` + `iti`, the `ṁ` turned into `m` | `vimuttamiti` ([7: 11.3](../7-anatta/#u11-3)) | {34} |
 | `-o’ti` | `-o` + `iti` | `abhisambuddho’ti` ([5: 9.1](../5-dhammacakka/#u9-1)) | {13} |
-| `-ā”ti`, `-ī”ti` | `-a`, `-i` + `iti` | `vademā”ti` ([Bonus: 1, 24.5](../11-pbt/#s1-u24-5)), `hotī”ti` ([3: 4.12](../3-awakening/#u4-12)) | {13}, {16} |
+| `-ā”ti`, `-ī”ti` | `-a`, `-i` + `iti` | `vademā”ti` ([Bonus: 1, 24.5](../11-pbt/#s1-u24-5)), `hotī”ti` ([3: 4.12](../3-awakening/#u4-12)) | {12}–{13}, {15}–{16} |
 
 The `-ti` of a verb (`hoti`) is not this `ti`: `hotī”ti` has both. `kathaṁ`
 ("how?", {399}) is not in the texts.
@@ -187,7 +187,7 @@ by an ascetic / or / by a brahmin / or
 
 ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(rūpa) ⏏️(mā) 🟢⨀🤟⏮(hoti) ⏏️(iti)  
 thus / my / form / not / be / (end quote)  
-*`evaṁ` ("thus") sets the manner; `mā` before the past form `ahosi` forbids, "may it not be"; `ahosī’ti` is `ahosi` + `iti` {13}, {16}, closing the wish.*
+*`evaṁ` ("thus") sets the manner; `mā` before the past form `ahosi` forbids, "may it not be"; `ahosī’ti` is `ahosi` + `iti` {12}, {15}, closing the wish.*
 
 6. > Yato pajānāti sahetudhamman”ti.
 
