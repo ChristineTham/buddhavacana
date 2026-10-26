@@ -82,7 +82,7 @@ one / cross-legged posture → in one cross-legged posture
 
 4. > bodhirukkhassa mūle → **bodhirukkhamūle**
 
-🚹⨀⑥🆎(bodhi+rukkha) 🚻⨀⑦(mūla) → 🚻⨀⑦🆎(bodhirukkha+mūla)  
+🚹⨀⑥🆎(bodhi+rukkha) 🚻⨀⑦(mūla) → 🚻⨀⑦🆎(bodhi+rukkha+mūla)  
 of the Bodhi tree / at the root → at the root of the Bodhi tree  
 *`bodhirukkha` (Bodhi tree, itself `bodhi` + `rukkha`) and `mūla` (root): ⑦ on the whole.*
 

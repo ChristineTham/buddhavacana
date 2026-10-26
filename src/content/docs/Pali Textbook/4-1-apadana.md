@@ -136,7 +136,7 @@ from detachment / is liberated
 
 3. > **Pāṇātipātā** veramaṇī **adinnādānā** veramaṇī **kāmesumicchācārā** veramaṇī
 
-🚹⨀⑤🆎(pāṇa+atipāta) 🚺⨀①(veramaṇī) 🚻⨀⑤🆎(adinna+ādāna) 🚺⨀①(veramaṇī) 🚹⨀⑤🆎(kāmesu+micchā+cāra) 🚺⨀①(veramaṇī)  
+🚹⨀⑤🆎(pāṇa+atipāta) 🚺⨀①(veramaṇī) 🚻⨀⑤🆎(adinna+ādāna) 🚺⨀①(veramaṇī) 🚹⨀⑤🆎(kāma+micchā+cāra) 🚺⨀①(veramaṇī)  
 from killing living beings / abstinence from / from theft / abstinence from / from sexual misconduct / abstinence from  
 *Abstinence from killing living beings, abstinence from theft, abstinence from sexual misconduct.*  
 `pāṇātipātā`, `adinnādānā`, `kāmesumicchācārā`: what one abstains from, with `veramaṇī` {275}.

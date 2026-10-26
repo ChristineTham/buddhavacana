@@ -24,12 +24,12 @@ The text is the World Tipiṭaka Edition's [Bodhikathā, Mahāvagga 1.1](https:/
 ### 1. The first watch of the night
 
 <a id="u2-1"></a>[2.1](https://tipitaka2500.github.io/tipitaka/3V/1/1.1.html#2) Tena samayena buddho bhagavā uruvelāyaṁ viharati najjā nerañjarāya tīre bodhirukkhamūle paṭhamābhisambuddho.  
-*️⃣🤟🚹⨀③(ta) 🚹⨀③(samaya) 🚹⨀①(buddha) 🚹⨀①(bhagavant) 🚺⨀⑦(uruvelā) 🟢⨀🤟▶️(viharati) 🚺⨀⑥(nadī) 🚺⨀⑥(nerañjarā) 🚻⨀⑦(tīra) 🚻⨀⑦🆎(bodhirukkha+mūla) 🚹⨀①🆎(paṭhama+abhisambuddha)  
+*️⃣🤟🚹⨀③(ta) 🚹⨀③(samaya) 🚹⨀①(buddha) 🚹⨀①(bhagavant) 🚺⨀⑦(uruvelā) 🟢⨀🤟▶️(viharati) 🚺⨀⑥(nadī) 🚺⨀⑥(nerañjarā) 🚻⨀⑦(tīra) 🚻⨀⑦🆎(bodhi+rukkha+mūla) 🚹⨀①🆎(paṭhama+abhisambuddha)  
 at that | time | the Buddha | the Bhagavā | at Uruvelā | dwells | of the river | Nerañjarā | on the bank | at the root of the bodhi tree | newly fully awakened  
 At that time the Buddha, the Bhagavā, was dwelling at Uruvelā on the bank of the Nerañjarā river at the root of the Bodhi tree, newly fully awakened (`abhisambuddha`).
 
 <a id="u2-2"></a>2.2 Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī.  
-⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚻⨀⑦🆎(bodhirukkha+mūla) 🚻⨀②🆎(satta+aha) 🚹⨀③🆎(eka+pallaṅka) 🟢⨀🤟⏮(nisīdati) 🚹⨀①🆎(vimuttisukha+paṭisaṁvedī)  
+⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚻⨀⑦🆎(bodhi+rukkha+mūla) 🚻⨀②🆎(satta+aha) 🚹⨀③🆎(eka+pallaṅka) 🟢⨀🤟⏮(nisīdati) 🚹⨀①🆎(vimutti+sukha+paṭisaṁvedī)  
 then | indeed | the Bhagavā | at the root of the bodhi tree | for seven days | in one cross-legged posture | sat down | experiencing the bliss of liberation  
 Then the Bhagavā sat at the root of the Bodhi tree for seven days in one cross-legged posture, experiencing the bliss of liberation (`vimuttisukhapaṭisaṁvedī`).
 
@@ -159,7 +159,7 @@ thus | of this | of the entire | of the mass of suffering | cessation | is | (en
 Thus is the cessation of this whole mass of suffering.”
 
 <a id="u5-1"></a>[5.1](https://tipitaka2500.github.io/tipitaka/3V/1/1.1.html#5) Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi—  
-⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) *️⃣🤟🚹⨀②(eta) 🚹⨀②(attha) 🔽(tvā)(vidati) *️⃣🤟🚺⨀⑦(ta) 🚺⨀⑦(velā) *️⃣🤟🚹⨀②(ima) 🚹⨀②(udāna) 🟢⨀🤟⏮(udāneti)  
+⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) *️⃣🤟🚹⨀②(eta) 🚹⨀②(attha) 🔽(tvā)(vidati) *️⃣🤟🚺⨀⑦(ta) 🚺⨀⑦(velā) *️⃣🤟🚹⨀②(ima) 🚹⨀②(udāna) 🟠⨀🤟⏮(udāneti)  
 then | indeed | the Bhagavā | this | matter | having understood | at that | time | this | inspired utterance | uttered  
 Then the Bhagavā, having understood this matter, on that occasion uttered this inspired utterance (`udāna`) —
 
@@ -312,7 +312,7 @@ thus | of this | of the entire | of the mass of suffering | cessation | is | (en
 Thus is the cessation of this whole mass of suffering.”
 
 <a id="u8-1"></a>[8.1](https://tipitaka2500.github.io/tipitaka/3V/1/1.1.html#8) Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi—  
-⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) *️⃣🤟🚹⨀②(eta) 🚹⨀②(attha) 🔽(tvā)(vidati) *️⃣🤟🚺⨀⑦(ta) 🚺⨀⑦(velā) *️⃣🤟🚹⨀②(ima) 🚹⨀②(udāna) 🟢⨀🤟⏮(udāneti)  
+⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) *️⃣🤟🚹⨀②(eta) 🚹⨀②(attha) 🔽(tvā)(vidati) *️⃣🤟🚺⨀⑦(ta) 🚺⨀⑦(velā) *️⃣🤟🚹⨀②(ima) 🚹⨀②(udāna) 🟠⨀🤟⏮(udāneti)  
 then | indeed | the Bhagavā | this | matter | having understood | at that | time | this | inspired utterance | uttered  
 Then the Bhagavā, having understood this matter, on that occasion uttered this inspired utterance (udāna) —
 
@@ -465,7 +465,7 @@ thus | of this | of the entire | of the mass of suffering | cessation | is | (en
 Thus is the cessation of this whole mass of suffering.”
 
 <a id="u11-1"></a>[11.1](https://tipitaka2500.github.io/tipitaka/3V/1/1.1.html#11) Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi—  
-⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) *️⃣🤟🚹⨀②(eta) 🚹⨀②(attha) 🔽(tvā)(vidati) *️⃣🤟🚺⨀⑦(ta) 🚺⨀⑦(velā) *️⃣🤟🚹⨀②(ima) 🚹⨀②(udāna) 🟢⨀🤟⏮(udāneti)  
+⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) *️⃣🤟🚹⨀②(eta) 🚹⨀②(attha) 🔽(tvā)(vidati) *️⃣🤟🚺⨀⑦(ta) 🚺⨀⑦(velā) *️⃣🤟🚹⨀②(ima) 🚹⨀②(udāna) 🟠⨀🤟⏮(udāneti)  
 then | indeed | the Bhagavā | this | matter | having understood | at that | time | this | inspired utterance | uttered  
 Then the Bhagavā, having understood this matter, on that occasion uttered this inspired utterance (udāna) —
 

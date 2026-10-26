@@ -203,7 +203,7 @@ then / his / doubts / vanish / all
 
 4. > appiyehi sampayogo dukkho, piyehi vippayogo dukkho
 
-🚹⨂③🆎(na+piya) 🚹⨀①(sampayoga) 🚹⨀①(dukkha) 🚹⨂③(piya) 🚹⨀①(vippayoga) 🚹⨀①(dukkha)  
+🚹⨂③🆎(na+piya) 🚹⨀①(sampayoga) 🚹⨀①(dukkha) 🚹⨂⑤(piya) 🚹⨀①(vippayoga) 🚹⨀①(dukkha)  
 with the unloved / association / suffering / from the loved / separation / suffering  
 *`appiyehi`, `piyehi`: 🚹⨂③, `-ehi` {101}; `sampayogo`, `vippayogo` and the agreeing `dukkho`: 🚹⨀①, `-o` {104}; [5: 4.1](../5-dhammacakka/#u4-1).*
 

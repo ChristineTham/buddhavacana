@@ -112,7 +112,7 @@ deconstruction.
 
 1. > Atha kho bhagavā **bodhirukkhamūle** sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī.
 
-⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚻⨀⑦🆎(bodhirukkha+mūla) 🚻⨀②🆎(satta+aha) 🚹⨀③🆎(eka+pallaṅka) 🟢⨀🤟⏮(nisīdati) 🚹⨀①🆎(vimuttisukha+paṭisaṁvedī)  
+⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚻⨀⑦🆎(bodhi+rukkha+mūla) 🚻⨀②🆎(satta+aha) 🚹⨀③🆎(eka+pallaṅka) 🟢⨀🤟⏮(nisīdati) 🚹⨀①🆎(vimutti+sukha+paṭisaṁvedī)  
 then / indeed / the Bhagavā / at the root of the bodhi tree / for seven days / in one cross-legged posture / sat down / experiencing the bliss of liberation  
 *Then the Bhagavā sat at the root of the Bodhi tree for seven days in one cross-legged posture, experiencing the bliss of liberation (`vimuttisukhapaṭisaṁvedī`).*  
 `bodhirukkhamūle`: the place {278}, {302}.
@@ -133,7 +133,7 @@ awakened disciple / form / too / gives up
 
 4. > Atha kho bhagavā etamatthaṁ viditvā **tāyaṁ velāyaṁ** imaṁ udānaṁ udānesi.
 
-⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) *️⃣🤟🚹⨀②(eta) 🚹⨀②(attha) 🔽(tvā)(vidati) *️⃣🤟🚺⨀⑦(ta) 🚺⨀⑦(velā) *️⃣🤟🚹⨀②(ima) 🚹⨀②(udāna) 🟢⨀🤟⏮(udāneti)  
+⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) *️⃣🤟🚹⨀②(eta) 🚹⨀②(attha) 🔽(tvā)(vidati) *️⃣🤟🚺⨀⑦(ta) 🚺⨀⑦(velā) *️⃣🤟🚹⨀②(ima) 🚹⨀②(udāna) 🟠⨀🤟⏮(udāneti)  
 then / indeed / the Bhagavā / this / matter / having understood / at that / time / this / inspired utterance / uttered  
 *Then the Bhagavā, having understood this matter, on that occasion uttered this inspired utterance (`udāna`).*  
 `tāyaṁ velāyaṁ`: the time {313}.

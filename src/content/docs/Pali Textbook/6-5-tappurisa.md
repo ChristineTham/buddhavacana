@@ -121,7 +121,7 @@ deconstruction.
 
 1. > bodhirukkhassa mūle → **bodhirukkhamūle**
 
-🚹⨀⑥🆎(bodhi+rukkha) 🚻⨀⑦(mūla) → 🚻⨀⑦🆎(bodhirukkha+mūla)  
+🚹⨀⑥🆎(bodhi+rukkha) 🚻⨀⑦(mūla) → 🚻⨀⑦🆎(bodhi+rukkha+mūla)  
 of the Bodhi tree / at the root → at the root of the Bodhi tree  
 *⑥ {327}: two compounds in one, `bodhirukkha` being itself `bodhiyā rukkho`; the whole takes the ⑦ ending.*
 
@@ -133,7 +133,7 @@ of mental constructions / cessation → the cessation of mental constructions
 
 3. > vimuttisukhaṁ paṭisaṁvedī → **vimuttisukhapaṭisaṁvedī**
 
-🚻⨀②🆎(vimutti+sukha) 🚹⨀①(paṭisaṁvedī) → 🚹⨀①🆎(vimuttisukha+paṭisaṁvedī)  
+🚻⨀②🆎(vimutti+sukha) 🚹⨀①(paṭisaṁvedī) → 🚹⨀①🆎(vimutti+sukha+paṭisaṁvedī)  
 the bliss of liberation / experiencing → experiencing the bliss of liberation  
 *② {327}: the object of `paṭisaṁvedī` ("experiencing"); `vimuttisukhaṁ` is itself `vimuttiyā sukhaṁ`, ⑥.*
 
@@ -145,7 +145,7 @@ from focus / born → born from focus
 
 5. > tathāgatassa sāvako → **tathāgatasāvako**
 
-🚹⨀⑥🆎(tathā+gata) 🚹⨀①(sāvaka) → 🚹⨀①🆎(tathāgata+sāvaka)  
+🚹⨀⑥🆎(tathā+gata) 🚹⨀①(sāvaka) → 🚹⨀①🆎(tathā+gata+sāvaka)  
 of the Tathāgata / disciple → disciple of the Buddha  
 *⑥ {327}: "the disciple of the Tathāgata", as `rājaputto` is "the son of the king".*
 
