@@ -24,8 +24,7 @@ the number with an affix: `dvinnaṁ pūraṇo` ("the completer of two") and the
 `dutiyo` ("second") say the same thing {385}. A word of division or manner
 is a number or a pronoun with an affix meaning "in so many ways" or "in that
 way", `ekadhā` ("in one way"), `tathā` ("so"); it never changes its ending,
-being a particle (`nipāta`), marked ⏏️ in this book and 🔼 in the texts of
-[the bonus chapter](../11-pbt/).
+being a particle (`nipāta`), marked ⏏️ in this book](../11-pbt/).
 
 The question to ask is what ends the word: `-ma`, `-tiya` or `-ttha` makes
 an ordinal; `-dhā`, `-so`, `-thā` or `-thaṁ` a word of division or manner;
@@ -80,13 +79,13 @@ Every rule number links to the full rule in the Kaccāyana translation;
 
 > pañcannaṁ pūraṇo → **pañcamo**
 
-⚧⨂⑥(pañcannaṁ) 🚹⨀①(pūraṇo) → 🚹⨀①🔽(ma)(pañcamo)  
+⚧⨂⑥(pañca) 🚹⨀①(pūraṇa) → 🚹⨀①🔽(ma)(pañcama)  
 of five / the completer → the fifth  
 *`ma` {373}: the number with `-ma`; the ordinal takes the gender, number and ending of its noun.*
 
 > ekena vibhāgena → **ekadhā**
 
-🚹⨀③(ekena) 🚹⨀③(vibhāgena) → ⏏️🔽(dhā)(ekadhā)  
+*️⃣🤟🚹⨀③(eka) 🚹⨀③(vibhāga) → ⏏️🔽(dhā)(ekadhā)  
 by one / division → in one way  
 *`dhā` {397}: the number with `-dhā`, "in so many ways"; a particle, it never changes.*
 
@@ -113,24 +112,24 @@ deconstruction.
 
 1. > Tathā **dutiyaṁ**.
 
-🔼(tathā) 🚻⨀①(dutiya)  
-similarly for the second direction  
+⏏️(tathā) 🚺⨀②(dutiya)  
+similarly / the second [direction]  
 *`tiya` {385}: `dvi` has become `du` before it {386}.*
 
 2. > Tathā **catutthaṁ**.
 
-🔼(tathā) 🚻⨀①(catuttha)  
-similarly for the fourth direction  
+⏏️(tathā) 🚺⨀②(catuttha)  
+similarly / the fourth [direction]  
 *`tha` {384}: `catu` with `-ttha`.*
 
 3. > **sabbaso**
 
-🔼(sabbaso)  
+⏏️(sabbaso)  
 altogether  
 *`so` {397} on `sabba` ("all"), "in every way"; a particle, it never changes.*
 
 4. > **yathā yathā** vā panassa kāyo paṇihito hoti **tathā tathā** naṁ pajānāti
 
-🔼(yathā yathā) 🔼(vā) 🔼(panassa) 🚹⨀①(kāya) 🚹⨀①(paṇihita) ▶️🤟⨀(hoti) 🔼(tathā tathā) 🚹⨀②(ta) ▶️🤟⨀(pajānāti)  
-in whatever way / or / and for him / body / orientated / is / in that way / that / knows clearly  
+⏏️(yathā) ⏏️(yathā) ⏏️(vā) ⏏️(pana) *️⃣🤟🚹⨀⑥(ima) 🚹⨀①(kāya) 🚹⨀①🔽(ta)(paṇihita) 🟢⨀🤟▶️(hoti) ⏏️(tathā) ⏏️(tathā) *️⃣🤟🚹⨀②(ta) 🟢⨀🤟▶️(pajānāti)  
+in whatever way / in whatever way / or / and / for him / body / orientated / is / in that way / in that way / that / knows clearly  
 *`thā` {398}: `-thā` on the pronouns `ya` and `ta`, "in whatever way … in that way"; particles, they never change.*

@@ -41,12 +41,12 @@ flowchart LR
 
 > vasiṭṭhassa apaccaṁ → **vāsiṭṭho**
 
-🚹⨀⑥(vasiṭṭhassa) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇa)(vāsiṭṭho)  
+🚹⨀⑥(vasiṭṭha) 🚻⨀①(apacca) → 🚹⨀①🔽(ṇa)(vāsiṭṭha)  
 of Vasiṭṭha / descendant → Vasiṭṭha's descendant  
 *The phrase becomes one word: the `vibhatti` ending of `vasiṭṭha` and the word `apacca` drop away, the affix takes their place, and the new word takes its own ending.*
 
 The derived word is marked 🔽 in this book, with the affix as Kaccāyana names
-it: 🚹⨀①🔽(ṇa)(vāsiṭṭho), 🚹⨀①🔽(tha)(samatho). Many affixes are written
+it: 🚹⨀①🔽(ṇa)(vāsiṭṭha), 🚹⨀①🔽(tha)(samatha). Many affixes are written
 with a `ṇ` that is not part of the affix: it is a signal that the first vowel of
 the base is lengthened, `a` to `ā`, `i` to `e`, `u` to `o` {400}, and the `ṇ`
 itself is dropped {396}. The affix `ṇa` therefore adds only `a`; `ṇika` adds

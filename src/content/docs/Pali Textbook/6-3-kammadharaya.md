@@ -67,13 +67,13 @@ tables every rule of the Samāsakappa.
 
 > kaṇho ca so sappo ca → **kaṇhasappo**
 
-🚹⨀①(kaṇho) ⏏️(ca) *️⃣🤟🚹⨀①(so) 🚹⨀①(sappo) ⏏️(ca) → 🚹⨀①🆎(kaṇha+sappa)  
+🚹⨀①(kaṇha) ⏏️(ca) *️⃣🤟🚹⨀①(ta) 🚹⨀①(sappa) ⏏️(ca) → 🚹⨀①🆎(kaṇha+sappa)  
 black / and / it / a snake / and → a black snake  
 *adjective + noun {324}: `kaṇha` ("black") describes `sappa` ("snake"); both endings drop and the compound takes its own.*
 
 > mahanto ca so puriso ca → **mahāpuriso**
 
-🚹⨀①(mahanto) ⏏️(ca) *️⃣🤟🚹⨀①(so) 🚹⨀①(puriso) ⏏️(ca) → 🚹⨀①🆎(mahanta+purisa)  
+🚹⨀①(mahanta) ⏏️(ca) *️⃣🤟🚹⨀①(ta) 🚹⨀①(purisa) ⏏️(ca) → 🚹⨀①🆎(mahanta+purisa)  
 great / and / he / a man / and → a great man  
 *`mahā` for `mahanta` {330}: "great" + "man"; it is the first part of `mahāpurisavihāro` in [Bonus: 44, 2.6](../11-pbt/#s44-u2-6).*
 

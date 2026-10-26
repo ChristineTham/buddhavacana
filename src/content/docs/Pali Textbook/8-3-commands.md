@@ -108,14 +108,14 @@ thus / my / mental constructions / let be
 
 > ‘yathābhūtaṁ **jānāmi passāmī**’ti.
 
-🚹⨀②(yathābhūta) ⏹👆⨀(jānāti) ⏹👆⨀(passati) 🔼(ti)  
-reality as it is / must know / must see  
+⏏️🆎(yathā+bhūta) 🟢⨀👆⏹(jānāti) 🟢⨀👆⏹(passati) ⏏️(iti)  
+reality as it is / must know / must see / (end quote)  
 *"May I know and see reality as it is." ([Bonus: 18, 1.20](../11-pbt/#s18-u1-20)) `jānāmi`, `passāmi`: `-mi`, first person ⨀ {424}, the present's ending too; the sentence is a wish, so ⏹ {415}.*
 
 > “Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā evaṁ **vadeyyātha**—
 
-🔼(apinu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) 🔼(evaṁ) 🚹⨂①(jānanta) 🔼(evaṁ) 🚹⨂①(passanta) ⏯🤘⨂(vadati)  
-are? / youse / bhikkhave / thus / knowing / thus / seeing / will say  
+⏏️(api) ⏏️(nu) *️⃣🤘⚧⨂①(tumhe) 🚹⨂⓪(bhikkhu) ⏏️(evaṁ) 🚹⨂①🔽(anta)(jānanta) ⏏️(evaṁ) 🚹⨂①🔽(anta)(passanta) ⏏️(evaṁ) 🟢⨂🤘⏯(vadati)  
+perhaps? / surely? / youse / bhikkhave / thus / knowing / thus / seeing / thus / will say  
 *"Thus knowing and thus seeing, bhikkhave, will you say -" ([Bonus: 1, 24.4](../11-pbt/#s1-u24-4)) `vadeyyātha`: ⏯ `-eyyātha`, second person ⨂ {425}; a supposition, "would you say" {416}.*
 
 > nayidaṁ saṅkhārā ābādhāya **saṁvatteyyuṁ**,
@@ -156,8 +156,8 @@ thus / my / form / let be
 
 2. > tatrāpi yo mano **padūseyya**
 
-🔼(tatrāpi) 🚹⨀①(ya) 🚹⨀②(manas) ⏯🤟⨀(padūseti)  
-even in that situation / whoever / mind / will corrupt  
+⏏️(tatra) ⏏️(api) *️⃣🤟🚹⨀①(ya) 🚹⨀②(mano) 🟠⨀🤟⏯(padūseti)  
+in that situation / even / whoever / mind / will corrupt  
 *"even in that case whoever will corrupt his mind" ([Bonus: 45, 9.6](../11-pbt/#s45-u9-6)) `padūseyya`: ⏯ `-eyya`, third person ⨀ {425}, the subject `yo`; a supposition {416}.*
 
 3. > nayidaṁ rūpaṁ ābādhāya **saṁvatteyya**,
@@ -168,18 +168,18 @@ not / this / form / to affliction / would lead
 
 4. > aññaṁ satthāraṁ **uddiseyyāthā**”ti?
 
-🚹⨀②(añña) 🚹⨀②(satthar) ⏯🤘⨂(uddisati)  
-another / teacher / appoint  
+*️⃣🤟🚹⨀②(añña) 🚹⨀②(satthar) 🟢⨂🤘⏯(uddisati) ⏏️(iti)  
+another / teacher / appoint / (end quote)  
 *"will you appoint another teacher?" ([Bonus: 1, 24.10](../11-pbt/#s1-u24-10)) `uddiseyyātha`: ⏯ `-eyyātha`, second person ⨂ {425}; "would you", a supposition {416}; the `-ā` before `”ti` is the join.*
 
 5. > agārasmā anagāriyaṁ **pabbajeyyan**”ti.
 
-🚻⨀⑤(agāra) 🚻⨀②(anagāriya) 🔵⏯👆⨀(pabbajati) 🔼(ti)  
-from household life / to homeless state / renounce / quote  
+🚻⨀⑤(agāra) 🚻⨀②🆎(na+agāriya) 🔵⨀👆⏯(pabbajati) ⏏️(iti)  
+from household life / to homeless state / renounce / (end quote)  
 *"What if I were to renounce from household life to homeless state" ([Bonus: 26, 12.8](../11-pbt/#s26-u12-8)) `pabbajeyyaṁ`: ⏯ `-eyyaṁ`, the 🔵 first person ⨀ {425}; a wish for oneself, after `yannūnāhaṁ` ("what if I").*
 
 6. > api nu kho kāmabhavo **paññāyethā**”ti?
 
-🔼(apinu kho) 🚹⨀①(kāmabhava) 🔵⏯🤟⨀(paññāyati) 🔼(ti)  
-what / indeed / existence in the realm of sensual desire / is evident / quote  
+⏏️(api) ⏏️(nu) ⏏️(kho) 🚹⨀①🆎(kāma+bhava) 🔵⨀🤟⏯(paññāyati) ⏏️(iti)  
+perhaps? / surely? / indeed / existence in the realm of sensual desire / is evident / (end quote)  
 *"would existence (of suffering) in the realm of sensual desire be evident?" ([Bonus: 15, 2.1](../11-pbt/#s15-u2-1)) `paññāyetha`: ⏯ `-etha`, the 🔵 third person ⨀ {425}, the subject `kāmabhavo`; a supposition {416}; the `-ā` before `”ti` is the join.*

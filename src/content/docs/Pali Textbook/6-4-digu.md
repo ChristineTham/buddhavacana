@@ -61,13 +61,13 @@ with a neuter one), as a first member it has one short form:
 
 > tayo lokā → **tilokaṁ**
 
-🚹⨂①(tayo) 🚹⨂①(lokā) → 🚻⨀①🆎(ti+loka)  
+🚹⨂①(ti) 🚹⨂①(loka) → 🚻⨀①🆎(ti+loka)  
 three / worlds → the three worlds  
 *A `digu` {325}: the numeral `ti` first, the worlds taken as one set; neuter and singular {321}.*
 
 > catasso disā → **catuddisaṁ**
 
-🚺⨂①(catasso) 🚺⨂①(disā) → 🚻⨀①🆎(catu+disā)  
+🚺⨂①(catu) 🚺⨂①(disā) → 🚻⨀①🆎(catu+disā)  
 four / directions → the four directions  
 *A neuter singular compound from feminine plural members {321}; the `ā` of `disā` shortened {342}, the `d` doubled {28}.*
 
@@ -96,30 +96,30 @@ deconstruction.
 
 1. > cha āyatanāni → **saḷāyatanaṁ**
 
-⚧⨂①(cha) 🚻⨂①(āyatanāni) → 🚻⨀①🆎(cha+āyatana)  
+⚧⨂①(cha) 🚻⨂①(āyatana) → 🚻⨀①🆎(cha+āyatana)  
 six / sense bases → the six sense bases  
 *`cha` ("six") becomes `saḷ` before `āyatana` {571}; the six taken as one set, neuter and singular {321}.*
 
 2. > satta ahāni → **sattāhaṁ**
 
-⚧⨂①(satta) 🚻⨂①(ahāni) → 🚻⨀②🆎(satta+aha)  
+⚧⨂①(satta) 🚻⨂①(aha) → 🚻⨀②🆎(satta+aha)  
 seven / days → for seven days  
 *`satta` and `aha` ("day") run together as `sattāha`; neuter and singular {321}, here in the ② ending for how long.*
 
 3. > pañca indriyāni → **pañcindriyaṁ**
 
-⚧⨂①(pañca) 🚻⨂①(indriyāni) → 🚻⨀①🆎(pañca+indriya)  
+⚧⨂①(pañca) 🚻⨂①(indriya) → 🚻⨀①🆎(pañca+indriya)  
 five / faculties → the five faculties  
 *`pañca` + `indriya`: the `a` of `pañca` dropped before `i` {12}; neuter and singular {321}.*
 
 4. > tayo daṇḍā → **tidaṇḍaṁ**
 
-🚹⨂①(tayo) 🚹⨂①(daṇḍā) → 🚻⨀①🆎(ti+daṇḍa)  
+🚹⨂①(ti) 🚹⨂①(daṇḍa) → 🚻⨀①🆎(ti+daṇḍa)  
 three / rods → the triple rod  
 *`ti` for `tayo` {325}, as in `tilokaṁ`; the three rods taken as one set, neuter and singular {321}.*
 
 5. > tayo parivaṭṭā → **tiparivaṭṭaṁ**
 
-🚹⨂①(tayo) 🚹⨂①(parivaṭṭā) → 🚻⨀①🆎(ti+parivaṭṭa)  
+🚹⨂①(ti) 🚹⨂①(parivaṭṭa) → 🚻⨀①🆎(ti+parivaṭṭa)  
 three / phases → with three phases  
 *`ti` for `tayo` {325}, as in `tilokaṁ`; the three taken as one set, neuter and singular {321}, as every `digu` is.*

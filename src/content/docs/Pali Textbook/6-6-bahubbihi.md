@@ -66,19 +66,19 @@ endings. Every rule number links to the full rule; the
 
 > chinno hattho yassa purisassa so → **chinnahattho** puriso
 
-🚹⨀①(🔽(ta)(chinno) hattho) *️⃣🤟🚹⨀⑥(yassa) 🚹⨀⑥(purisassa) *️⃣🤟🚹⨀①(so) → 🚹⨀①🆎(chinna+hattha) 🚹⨀①(puriso)  
+🚹⨀①🔽(ta)(chinna) 🚹⨀①(hattha) *️⃣🤟🚹⨀⑥(ya) 🚹⨀⑥(purisa) *️⃣🤟🚹⨀①(ta) → 🚹⨀①🆎(chinna+hattha) 🚹⨀①(purisa)  
 cut off / hand / of whom / of the man / that [one] → whose hand is cut off / man  
 *{328}: not a hand but the man whose hand it is; the compound takes the ending of `puriso`.*
 
 > jitāni indriyāni anena samaṇena so → **jitindriyo** samaṇo
 
-🚻⨂①(🔽(ta)(jitāni) indriyāni) *️⃣🤟🚹⨀③(anena) 🚹⨀③(samaṇena) *️⃣🤟🚹⨀①(so) → 🚹⨀①🆎(jita+indriya) 🚹⨀①(samaṇo)  
+🚻⨂①🔽(ta)(jita) 🚻⨂①(indriya) *️⃣🤟🚹⨀③(ima) 🚹⨀③(samaṇa) *️⃣🤟🚹⨀①(ta) → 🚹⨀①🆎(jita+indriya) 🚹⨀①(samaṇa)  
 conquered / senses / by this / by the ascetic / that [one] → by whom the senses have been conquered / ascetic  
 *{328}: the outside word is the doer, ③; `jita` + `indriya` gives `jitindriya`, `a` dropped before `i` {12}.*
 
 > vipariṇāmo dhammo yassa taṁ → yaṁ … **vipariṇāmadhammaṁ**
 
-🚹⨀①(vipariṇāmo) 🚹⨀①(dhammo) *️⃣🤟🚻⨀⑥(yassa) *️⃣🤟🚻⨀①(taṁ) → *️⃣🤟🚻⨀①(yaṁ) 🚻⨀①🆎(vipariṇāma+dhamma)  
+🚹⨀①(vipariṇāma) 🚹⨀①(dhamma) *️⃣🤟🚻⨀⑥(ya) *️⃣🤟🚻⨀①(ta) → *️⃣🤟🚻⨀①(ya) 🚻⨀①🆎(vipariṇāma+dhamma)  
 change / nature / of which / that → what / subject to change  
 *{328}: `-dhamma`, "whose nature is …", as `maraṇadhammo` below; neuter like the `yaṁ` ("what") it describes, the `rūpaṁ` asked about in [7: 6.5](../7-anatta/#u6-5).*
 
@@ -107,24 +107,24 @@ deconstruction.
 
 1. > nirodho dhammo yassa taṁ → **nirodhadhammaṁ**
 
-🚹⨀①(nirodho) 🚹⨀①(dhammo) *️⃣🤟🚻⨀⑥(yassa) *️⃣🤟🚻⨀①(taṁ) → 🚻⨀①🆎(nirodha+dhamma)  
+🚹⨀①(nirodha) 🚹⨀①(dhamma) *️⃣🤟🚻⨀⑥(ya) *️⃣🤟🚻⨀①(ta) → 🚻⨀①🆎(nirodha+dhamma)  
 cessation / nature / of which / that → subject to cessation  
 *{328}: `-dhamma`, "whose nature is …", as `vipariṇāmadhammaṁ`; neuter like the `taṁ` it describes, "whatever is subject to origination" ([5: 11.1](../5-dhammacakka/#u11-1)).*
 
 2. > maraṇaṁ dhammo yassa so → **maraṇadhammo**
 
-🚻⨀①(maraṇaṁ) 🚹⨀①(dhammo) *️⃣🤟🚹⨀⑥(yassa) *️⃣🤟🚹⨀①(so) → 🚹⨀①🆎(maraṇa+dhamma)  
+🚻⨀①(maraṇa) 🚹⨀①(dhamma) *️⃣🤟🚹⨀⑥(ya) *️⃣🤟🚹⨀①(ta) → 🚹⨀①🆎(maraṇa+dhamma)  
 death / nature / of whom / that [one] → whose nature is death, liable to death  
 *{328}: `-dhammo`, "whose nature is": so too `jātidhammo`, `jarādhammo`, `byādhidhammo`, `sokadhammo`, `saṅkilesadhammo` in [Bonus: 47, 18.1](../11-pbt/#s47-u18-1).*
 
 3. > natthi vitakko yasmiṁ taṁ → **avitakkaṁ** jhānaṁ
 
-🟢⨀🤟▶️(natthi) 🚹⨀①(vitakko) *️⃣🤟🚻⨀⑦(yasmiṁ) *️⃣🤟🚻⨀①(taṁ) → 🚻⨀①🆎(na+vitakka) 🚻⨀①(jhānaṁ)  
-there is no / thinking / in which / that → free from thought / jhāna  
+⏏️(na) 🟢⨀🤟▶️(atthi) 🚹⨀①(vitakka) *️⃣🤟🚻⨀⑦(ya) *️⃣🤟🚻⨀①(ta) → 🚻⨀①🆎(na+vitakka) 🚻⨀①(jhāna)  
+not / there is / thinking / in which / that → free from thought / jhāna  
 *{328}: `a`- for `na` {333}, the outside word in the ⑦; neuter like the `jhānaṁ` it describes ([Bonus: 39, 11.1](../11-pbt/#s39-u11-1)).*
 
 4. > natthi vicāro yasmiṁ taṁ → **avicāraṁ** jhānaṁ
 
-🟢⨀🤟▶️(natthi) 🚹⨀①(vicāro) *️⃣🤟🚻⨀⑦(yasmiṁ) *️⃣🤟🚻⨀①(taṁ) → 🚻⨀①🆎(na+vicāra) 🚻⨀①(jhānaṁ)  
-there is no / discursive thought / in which / that → free from discursive thought / jhāna  
+⏏️(na) 🟢⨀🤟▶️(atthi) 🚹⨀①(vicāra) *️⃣🤟🚻⨀⑦(ya) *️⃣🤟🚻⨀①(ta) → 🚻⨀①🆎(na+vicāra) 🚻⨀①(jhāna)  
+not / there is / discursive thought / in which / that → free from discursive thought / jhāna  
 *{328}: the twin of `avitakkaṁ` in the same formula: `vicāra` ("discursive thought") is absent from the second `jhānaṁ`.*

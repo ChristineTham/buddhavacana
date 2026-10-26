@@ -35,7 +35,7 @@ holds and what ending it carries.
 
 > rañño putto → **rājaputto**
 
-🚹⨀⑥(rañño) 🚹⨀①(putto) → 🚹⨀①🆎(rāja+putta)  
+🚹⨀⑥(rāja) 🚹⨀①(putta) → 🚹⨀①🆎(rāja+putta)  
 of the king / son → the king's son  
 *Endings of `rañño` and `putto` dropped {317}, `rañño` back to its lemma `rāja` {318}, one ending on the whole.*
 
@@ -64,36 +64,36 @@ deconstruction.
 
 1. > mārassa senā → **mārasenaṁ**
 
-🚹⨀⑥(mārassa) 🚺⨀①(senā) → 🚺⨀②🆎(māra+senā)  
+🚹⨀⑥(māra) 🚺⨀①(senā) → 🚺⨀②🆎(māra+senā)  
 of Māra / army → the army of Māra  
 *`māra` (Māra) and `senā` (army): `mārassa` loses its ending; ② on the whole.*
 
 2. > jarā ca maraṇaṁ ca → **jarāmaraṇaṁ**
 
-🚺⨀①(jarā) ⏏️(ca) 🚻⨀①(maraṇaṁ) ⏏️(ca) → 🚻⨀①🆎(jarā+maraṇa)  
+🚺⨀①(jarā) ⏏️(ca) 🚻⨀①(maraṇa) ⏏️(ca) → 🚻⨀①🆎(jarā+maraṇa)  
 aging / and / death / and → aging and death  
 *`jarā` (aging) and `maraṇa` (death), joined as "and"; ① on the whole.*
 
 3. > eko pallaṅko → **ekapallaṅkena**
 
-🚹⨀①(eko) 🚹⨀①(pallaṅko) → 🚹⨀③🆎(eka+pallaṅka)  
+*️⃣🤟🚹⨀①(eka) 🚹⨀①(pallaṅka) → 🚹⨀③🆎(eka+pallaṅka)  
 one / cross-legged posture → in one cross-legged posture  
 *`eka` (one) and `pallaṅka` (cross-legged posture): endings dropped; ③ on the whole.*
 
 4. > bodhirukkhassa mūle → **bodhirukkhamūle**
 
-🚹⨀⑥🆎(bodhi+rukkha) 🚻⨀⑦(mūle) → 🚻⨀⑦🆎(bodhirukkha+mūla)  
+🚹⨀⑥🆎(bodhi+rukkha) 🚻⨀⑦(mūla) → 🚻⨀⑦🆎(bodhirukkha+mūla)  
 of the Bodhi tree / at the root → at the root of the Bodhi tree  
 *`bodhirukkha` (Bodhi tree, itself `bodhi` + `rukkha`) and `mūla` (root): ⑦ on the whole.*
 
 5. > saṅkhārānaṁ nirodho → **saṅkhāranirodho**
 
-🚹⨂⑥(saṅkhārānaṁ) 🚹⨀①(nirodho) → 🚹⨀①🆎(saṅkhāra+nirodha)  
+🚹⨂⑥(saṅkhāra) 🚹⨀①(nirodha) → 🚹⨀①🆎(saṅkhāra+nirodha)  
 of mental constructions / cessation → the cessation of mental constructions  
 *`saṅkhāra` (mental construction) and `nirodha` (cessation): `saṅkhārānaṁ` loses its ending; ① on the whole.*
 
 6. > cakkhusmiṁ viññāṇaṁ → **cakkhuviññāṇaṁ**
 
-🚻⨀⑦(cakkhusmiṁ) 🚻⨀①(viññāṇaṁ) → 🚻⨀①🆎(cakkhu+viññāṇa)  
+🚻⨀⑦(cakkhu) 🚻⨀①(viññāṇa) → 🚻⨀①🆎(cakkhu+viññāṇa)  
 in the eye / consciousness → eye-consciousness  
 *`cakkhu` (eye) and `viññāṇa` (consciousness): `cakkhusmiṁ` loses its ending; ① on the whole, and the same shape for the other five senses.*

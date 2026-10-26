@@ -117,7 +117,7 @@ two / these / bhikkhave / extremes / by one gone forth / not / should be cultiva
 
 > saddaṁ **sutvā** cātumahārājikā devā saddamanussāvesuṁ
 
-🚹⨀②(sadda) 🔽(tvā)(suṇāti) 🚹⨂①(cātumahārājika) 🚹⨂①(deva) 🟢⨂🤟⏮(saddamanussāveti)  
+🚹⨀②(sadda) 🔽(tvā)(suṇāti) 🚹⨂①(cātumahārājika) 🚹⨂①(deva) 🟠⨂🤟⏮(saddamanussāveti)  
 the cry / having heard / the Cātumahārājikā / devas / raised a cry  
 *`sutvā`: `tvā` {564}, the hearing before the crying, both by the same devas; no ending {221}, the object `saddaṁ` in the ②; [5: 12.2](../5-dhammacakka/#u12-2).*
 
@@ -129,8 +129,8 @@ both / extremes / not approaching
 
 > bhikkhu **gacchanto** vā ‘gacchāmī’ti pajānāti
 
-🚹⨀①(bhikkhu) 🚹⨀①(gacchanta) 🔼(vā) ▶️👆⨀(gacchati) 🔼(ti) ▶️🤟⨀(pajānāti)  
-bhikkhu / walking / or / I walk / quote / knows clearly  
+🚹⨀①(bhikkhu) 🚹⨀①🔽(anta)(gacchanta) ⏏️(vā) 🟢⨀👆▶️(gacchati) ⏏️(iti) 🟢⨀🤟▶️(pajānāti)  
+bhikkhu / walking / or / I walk / (end quote) / knows clearly  
 *`gacchanto`, "while walking": `anta` {565}, at the same time as `pajānāti`, agreeing with `bhikkhu` 🚹⨀①; [Bonus: 36, 3.1](../11-pbt/#s36-u3-1).*
 
 > alameva dānāni **dātuṁ**

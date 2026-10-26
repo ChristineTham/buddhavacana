@@ -80,13 +80,13 @@ becomes `ñ` before `ca` {31}.
 
 > samaṇo ca brāhmaṇo ca → **samaṇabrāhmaṇā**
 
-🚹⨀①(samaṇo) ⏏️(ca) 🚹⨀①(brāhmaṇo) ⏏️(ca) → 🚹⨂①🆎(samaṇa+brāhmaṇa)  
+🚹⨀①(samaṇa) ⏏️(ca) 🚹⨀①(brāhmaṇa) ⏏️(ca) → 🚹⨂①🆎(samaṇa+brāhmaṇa)  
 an ascetic / and / a brahmin / and → ascetics and brahmins  
 *`dvanda` {329}: nouns joined with "and", plural because each member is counted.*
 
 > cakkhu ca sotañca → **cakkhusotaṁ**
 
-🚻⨀①(cakkhu) ⏏️(ca) 🚻⨀①(sotaṁ) ⏏️(ca) → 🚻⨀①🆎(cakkhu+sota)  
+🚻⨀①(cakkhu) ⏏️(ca) 🚻⨀①(sota) ⏏️(ca) → 🚻⨀①🆎(cakkhu+sota)  
 the eye / and / the ear / and → eye and ear  
 *`dvanda` of limbs {322}: the pair taken as one set, so singular and neuter in `-aṁ`.*
 
@@ -115,24 +115,24 @@ deconstruction.
 
 1. > nāmañca rūpañca → **nāmarūpaṁ**
 
-🚻⨀①(nāmaṁ) ⏏️(ca) 🚻⨀①(rūpaṁ) ⏏️(ca) → 🚻⨀①🆎(nāma+rūpa)  
+🚻⨀①(nāma) ⏏️(ca) 🚻⨀①(rūpa) ⏏️(ca) → 🚻⨀①🆎(nāma+rūpa)  
 name / and / form / and → name and form  
 *`dvanda` of unlike things {322}, like `vijjācaraṇaṁ`, singular and neuter; [chapter 3](../3-awakening/) renders it "phenomenal objects".*
 
 2. > soko ca paridevo ca dukkhañca domanassañca upāyāso ca → **sokaparidevadukkhadomanassupāyāsā**
 
-🚹⨀①(soko) ⏏️(ca) 🚹⨀①(paridevo) ⏏️(ca) 🚻⨀①(dukkhaṁ) ⏏️(ca) 🚻⨀①(domanassaṁ) ⏏️(ca) 🚹⨀①(upāyāso) ⏏️(ca) → 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa)  
+🚹⨀①(soka) ⏏️(ca) 🚹⨀①(parideva) ⏏️(ca) 🚻⨀①(dukkha) ⏏️(ca) 🚻⨀①(domanassa) ⏏️(ca) 🚹⨀①(upāyāsa) ⏏️(ca) → 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa)  
 sorrow / and / lamentation / and / pain / and / displeasure / and / despair / and → sorrow, lamentation, pain, displeasure and despair  
 *`dvanda` {329} of five members, plural; the `a` of `domanassa` is dropped before `upāyāsa` {12}; in [9: 2.6](../9-fire/#u2-6) the five stand apart, each in the ③.*
 
 3. > assāso ca passāso ca → **assāsapassāsā**
 
-🚹⨀①(assāso) ⏏️(ca) 🚹⨀①(passāso) ⏏️(ca) → 🚹⨂①🆎(assāsa+passāsa)  
+🚹⨀①(assāsa) ⏏️(ca) 🚹⨀①(passāsa) ⏏️(ca) → 🚹⨂①🆎(assāsa+passāsa)  
 in-breath / and / out-breath / and → breathing in and out  
 *`dvanda` {329}, plural like `samaṇabrāhmaṇā`, each breath counted; in [Bonus: 12, 14.2](../11-pbt/#s12-u14-2) they are the `kāyasaṅkhāro`.*
 
 4. > kesā ca massu ca → **kesamassuṁ**
 
-🚹⨂①(kesā) ⏏️(ca) 🚻⨀①(massu) ⏏️(ca) → 🚻⨀②🆎(kesa+massu)  
+🚹⨂①(kesa) ⏏️(ca) 🚻⨀①(massu) ⏏️(ca) → 🚻⨀②🆎(kesa+massu)  
 hair / and / beard / and → hair and beard  
 *`dvanda` of limbs {322}, singular and neuter, here in the ②: `kesamassuṁ ohāretvā`, "having shaved off hair and beard".*
