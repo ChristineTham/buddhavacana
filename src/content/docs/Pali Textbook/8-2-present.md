@@ -131,8 +131,8 @@ therefore / form / to affliction / leads
 2. > **natthi** dāni punabbhavo
 
 ⏏️(na) 🟢⨀🤟▶️(atthi) ⏏️(dāni) 🚹⨀①🆎(puna+bhava)  
-not / there is / now / renewed becoming  
-*"There is now no more future existence." ([5: 10.2](../5-dhammacakka/#u10-2)) `natthi` is `na` + `atthi`: the root `asa` (to be) with `-tthi` for `-ti` {494}, third person singular, no piece.*
+not / there is / now / appearing again  
+*"There is now no more appearing again (of suffering)." ([5: 10.2](../5-dhammacakka/#u10-2)) `natthi` is `na` + `atthi`: the root `asa` (to be) with `-tthi` for `-ti` {494}, third person singular, no piece.*
 
 3. > Cakkhuñca paṭicca rūpe ca **uppajjati** cakkhuviññāṇaṁ.
 

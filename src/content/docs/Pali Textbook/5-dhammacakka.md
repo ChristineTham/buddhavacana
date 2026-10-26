@@ -33,7 +33,7 @@ Buddhists often use the word `dhamma` to refer to the Buddha's teachings, but th
 > - (ii) the (stages to) freedom from the world of experience, culminating in nibbāna; 
 > - (iii) (sg.) the behaviour, conduct, practice required to realise and understand the way the world of experience works; the way to arahatship;
 
-According to the Buddha, this insight into the world of experience have "never been heard before" (`pubbe ananussutesu dhammesu cakkhuṁ`). Hence the "wheel of Dhamma" are the four realisations across three phases (fully understood, personally experienced, and developed).
+According to the Buddha, this insight into the world of experience have "never been heard before" (`pubbe ananussutesu dhammesu cakkhuṁ`). Hence the "wheel of Dhamma" are the four realisations across three phases (arising, actioning, actioned).
 :::
 
 ### 1. The two extremes and the middle way
@@ -179,8 +179,8 @@ But when, bhikkhave, I had `yathābhūta` (in reality) `ñāṇadassana` (total 
 
 <a id="u10-2"></a>10.2 Ñāṇañca pana me dassanaṁ udapādi— ‘akuppā me vimutti, ayamantimā jāti, natthi dāni punabbhavo’”ti.  
 🚻⨀①(ñāṇa) ⏏️(ca) ⏏️(pana) *️⃣👆⚧⨀④(ahaṁ) 🚻⨀①(dassana) 🟢⨀🤟⏮(uppajjati) 🚺⨀①🆎(na+kuppa) *️⃣👆⚧⨀⑥(ahaṁ) 🚺⨀①(vimutti) *️⃣🤟🚺⨀①(ima) 🚺⨀①(antima) 🚺⨀①(jāti) ⏏️(na) 🟢⨀🤟▶️(atthi) ⏏️(dāni) 🚹⨀①🆎(puna+bhava) ⏏️(iti)  
-knowledge | and | moreover | for me | insight | arose | unshakeable | my | liberation | this | final | birth | not | there is | now | renewed becoming | (end quote)  
-And knowledge and insight arose in me: “Unshakeable is my liberation, this is the final birth, there is now no more future existence.”
+knowledge | and | moreover | for me | insight | arose | unshakeable | my | liberation | this | final | birth | not | there is | now | appearing again | (end quote)  
+And knowledge and insight arose in me: “Unshakeable is my liberation, this is the final birth (of suffering), there is now no more appearing again (of suffering).”[^jati]
 
 <a id="u10-3"></a>10.3 Idamavoca bhagavā.  
 *️⃣🤟🚻⨀②(ima) 🟢⨀🤟⏮(vadati) 🚹⨀①(bhagavant)  
@@ -270,3 +270,5 @@ Thus it was that `āyasmā` Koṇḍañña came to be known as Aññāsikoṇḍ
 🚻⨀①(paṭhama)
 the first
 The first [discourse of the chapter].
+
+[^jati]: `jāti` (birth) and `punabbhava` (appearing again, literally "being again") are often translated here as birth and rebirth, as if the sentence were about future lives. But the discourse has been about suffering all along: the four realisations are of suffering, its origin, its ending and the way to its ending, and it is the knowledge and insight into them that the Buddha has just described. The birth that is final is therefore the birth of suffering, and what will not appear again is suffering. The gloss line keeps the bare words and the translation adds "(of suffering)". The same reading applies to the formula that closes the Anattalakkhaṇa and the Ādittapariyāya, `khīṇā jāti`, "birth (of suffering) is finished" ([7: 11.4](../7-anatta/#u11-4), [9: 9.2](../9-fire/#u9-2)), and to the sentence as the bonus chapter quotes it ([Bonus: 43, 16.4](../11-pbt/#s43-u16-4), [Bonus: 46, 18.3](../11-pbt/#s46-u18-3)); the Dvayatānupassanāsutta says the same outright: `natthi dukkhassa sambhavo`, "there is no birth of suffering" ([Bonus: 16, 19.4](../11-pbt/#s16-u19-4)).

@@ -114,8 +114,8 @@ And what, bhikkhave, is the realisation of the source of dukkha?
 
 <a id="s3-u19-2"></a>19.2 Yāyaṁ taṇhā ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī, seyyathidaṁ  
 🔼(yāyaṁ) 🚹⨂①(taṇha) 🚹⨂①(ponobbhavika) 🚹⨂①(nandīrāgasahagata) 🚺⨀①(tatratatrābhinandī) 🔼(seyyathidaṁ)  
-whatever | craving | leading to rebirth | accompanied by delight and desire | who takes delight here and there; thoroughly enjoying this and that | as follows  
-Whatever craving, leading to rebirth, accompanied by delight and desire, experienced by one who takes delight here and there; thoroughly enjoying this and that, as follows:
+whatever | craving | leading to renewed becoming | accompanied by delight and desire | who takes delight here and there; thoroughly enjoying this and that | as follows  
+Whatever craving, leading to renewed becoming, accompanied by delight and desire, experienced by one who takes delight here and there; thoroughly enjoying this and that, as follows:
 
 <a id="s3-u19-3"></a>19.3 kāmataṇhā bhavataṇhā vibhavataṇhā.  
 🚺⨀①(kāmataṇhā) 🚺⨀①(bhavataṇhā) 🚺⨀①(vibhavataṇhā)  
@@ -1337,8 +1337,8 @@ Having insight, the realisation arose for me:
 
 <a id="s43-u16-4"></a>16.4 ‘akuppā me cetovimutti, ayamantimā jāti, natthi dāni punabbhavo’”ti.  
 🚹⨂①(akuppa) *️⃣👆⚧⨀⑥(ahaṁ)🚺⨀①(cetovimutti) 🔼(ayamantimā) 🚺⨀①(jāti) ▶️🤟⨀(natthi) 🔼(dāni) 🚹⨀①(punabbhava) 🔼(ti)  
-Unshakeable | of me | mental liberation | this is the final | birth | there is no | now | rebirth | quote  
-“Unshakeable is the mental liberation of me, this is the final birth, now there is no rebirth.”
+Unshakeable | of me | mental liberation | this is the final | birth | there is no | now | appearing again | quote  
+“Unshakeable is my mental liberation, this is the final birth (of suffering), there is now no more appearing again (of suffering).”[^3]
 
 ## 44. THE STATE OF EMPTINESS
 
@@ -1520,9 +1520,9 @@ Having insight | and | moreover | for me realisation | arose
 Having insight, the realisation arose for me:
 
 <a id="s46-u18-3"></a>18.3 ‘akuppā me vimutti, ayamantimā jāti, natthi dāni punabbhavo’ti.  
-🚹⨂①(akuppa) *️⃣👆⚧⨀⑥(ahaṁ)🚺⨀①(cetovimutti) 🔼(ayamantimā) 🚺⨀①(jāti) ▶️🤟⨀(natthi) 🔼(dāni) 🚹⨀①(punabbhava) 🔼(ti)  
-Unshakeable | of me | mental liberation | this is the final | birth | there is no | now | rebirth | quote  
-“Unshakeable is the mental liberation of me, this is the final birth, now there is no rebirth.”
+🚹⨂①(akuppa) *️⃣👆⚧⨀⑥(ahaṁ)🚺⨀①(vimutti) 🔼(ayamantimā) 🚺⨀①(jāti) ▶️🤟⨀(natthi) 🔼(dāni) 🚹⨀①(punabbhava) 🔼(ti)  
+Unshakeable | of me | liberation | this is the final | birth | there is no | now | appearing again | quote  
+“Unshakeable is my liberation, this is the final birth (of suffering), there is now no more appearing again (of suffering).”[^3]
 
 ## 47. NIBBĀNA
 
@@ -1747,7 +1747,7 @@ There is a path, but no “self” is travelling.
 
 ### The source of dukkha.
 
-Dukkha is caused by craving, leading to rebirth, accompanied by delight and desire, and experienced by one who takes delight here and there; thoroughly enjoying this and that:
+Dukkha is caused by craving, leading to renewed becoming, accompanied by delight and desire, and experienced by one who takes delight here and there; thoroughly enjoying this and that:
 
 * craving for sensual pleasure,
 * craving for existence,
@@ -2113,7 +2113,7 @@ Nine levels of focus:
 
 >And from whatever indeed, I entered and emerged from these nine attainments of the successive stages in focus forwards and backwards, then I claimed to the deities in the world, Māra, Brahmas, religious practitioners, general population, kings and commoners: “I am fully awakened to the unsurpassed, perfect awakening!”
 >
->Having insight, the realisation arose for me: “Unshakeable is my mental liberation, this is the final birth, now there is no rebirth.”
+>Having insight, the realisation arose for me: “Unshakeable is my mental liberation, this is the final birth (of suffering), there is now no more appearing again (of suffering).”
 
 ### The State Of Emptiness
 
@@ -2163,7 +2163,7 @@ From my own doing, I was liable to:
 
 Searching for the unsurpassed sanctuary of extinguishment from (birth, old age, sickness, death, sorrow, defilement), I achieved the unsurpassed sanctuary of (non birth, non-aging, health, non-death, non-sorrow, undefiled).
 
-Having insight, the realisation arose for me: “Unshakeable is the my mental liberation, this is the final birth, now there is no rebirth.”
+Having insight, the realisation arose for me: “Unshakeable is my liberation, this is the final birth (of suffering), there is now no more appearing again (of suffering).”
 
 ### Nibbāna
 
@@ -2216,3 +2216,5 @@ All eradicated from even representation.
 [^1]: `ariyasacca` is rendered “realisation” rather than the usual “noble truth”: the four are things to be realised, suffering, its origin in craving, its cessation, and the path to its cessation. See [the four realisations](https://tidipa.github.io/Khandhaka/1.6#the-four-realisations).
 
 [^2]: `khandha` “collection” and `upādāna` “fuel” follow Richard Gombrich, *What the Buddha Thought* (Equinox, 2009), “Everything is burning: the centrality of fire in the Buddha’s thought”, pp. 111–128: `upādāna` literally means fuel, and the five `khandhā` are the bundles of fuel on which the fire of existence burns, a metaphor that “aggregates of clinging” loses.
+
+[^3]: `jāti` and `punabbhava` here are the birth and the appearing again of suffering, not a birth into future lives: see the note at [5: 10.2](../5-dhammacakka/#u10-2).

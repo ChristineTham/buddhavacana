@@ -319,7 +319,7 @@ In liberation there is the `ñāṇa` (knowledge): ‘liberated’.
 <a id="u11-4"></a>11.4 ‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānātī”ti.  
 🚺⨀①🔽(ta)(khīṇa) 🚺⨀①(jāti) 🚻⨀①🔽(ta)(vusita) 🚻⨀①🆎(brahma+cariya) 🚻⨀①🔽(ta)(kata) 🚻⨀①🔽(anīya)(karaṇīya) ⏏️(na) 🚻⨀①(apara) 🚻⨀④(itthatta) ⏏️(iti) 🟢⨀🤟▶️(pajānāti) ⏏️(iti)  
 finished | birth | lived | pure life | done | what had to be done | not | further | for this state of existence | (end quote) | knows clearly | (end quote)  
-He `pajānāti` (knows clearly): ‘Birth is finished, the pure life is lived, what had to be done is done, there is nothing further for this present state of existence.’
+He `pajānāti` (knows clearly): ‘Birth (of suffering) is finished, the pure life is lived, what had to be done is done, there is nothing further for this present state of existence.’[^jati]
 
 <a id="u12-1"></a>[12.1](https://tipitaka2500.github.io/tipitaka/13S3/1/1.2/1.2.1/1.2.1.7.html#p_13S3_308) Idamavoca bhagavā.  
 *️⃣🤟🚻⨀②(ima) 🟢⨀🤟⏮(vadati) 🚹⨀①(bhagavant)  
@@ -343,3 +343,5 @@ And while this detailed exposition was being spoken, the `cittāni` (minds) of t
 🚻⨀①(sattama)
 the seventh
 The seventh [discourse of the chapter].
+
+[^jati]: `jāti` here is the birth of suffering, as in the Dhammacakka's "this is the final birth": see the note at [5: 10.2](../5-dhammacakka/#u10-2).

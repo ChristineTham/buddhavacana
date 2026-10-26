@@ -217,7 +217,7 @@ since / the destruction / of conditions / knew / (end quote)
 
 🚺⨀①🆎(na+kuppa) *️⃣👆⚧⨀⑥(ahaṁ) 🚺⨀①(vimutti) *️⃣🤟🚺⨀①(ima) 🚺⨀①(antima) 🚺⨀①(jāti)  
 unshakeable / my / liberation / this / final / birth  
-*Unshakeable is my liberation, this is the final birth.*  
+*Unshakeable is my liberation, this is the final birth (of suffering).*  
 
 7. > pañcavaggiyānaṁ **bhikkhūnaṁ** anupādāya āsavehi cittāni vimucciṁsūti
 
