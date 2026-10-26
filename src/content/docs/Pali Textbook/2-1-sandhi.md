@@ -131,7 +131,7 @@ in this / and / moreover / detailed exposition / being spoken
 3. > **Yampidaṁ** cakkhusamphassapaccayā uppajjati vedayitaṁ
 
 *️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(cakkhu+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita)  
-what / too / this / with eye-contact as condition / arises / feeling  
+what / too / this / with eye-contact as cause / arises / feeling  
 *`yampidaṁ` = `yaṁ api idaṁ`: the `a` of `api` dropped {40}, `ṁ` becomes `m` before `p` {31}, the `i` of `pi` dropped {12}; [9: 2.4](../9-fire/#u2-4).*
 
 4. > yaṁ **kiñci** samudayadhammaṁ sabbaṁ taṁ **nirodhadhamman”ti**

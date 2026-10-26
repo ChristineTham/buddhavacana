@@ -95,8 +95,8 @@ delighted / those / bhikkhū / of the Bhagavā / what was spoken / rejoiced in
 > Yato khayaṁ paccayānaṁ **avedī**”ti.
 
 ⏏️(yato) 🚹⨀②(khaya) 🚹⨂⑥(paccaya) 🟢⨀🤟⏮(vedeti) ⏏️(iti)  
-since / the destruction / of conditions / knew / (end quote)  
-*"since he has understood the destruction of conditions.”" ([3: 9.4](../3-awakening/#u9-4)) `avedi`: the `a` put before the root {519}, `-i` third person singular {428}; the `ī` is the join with `ti` ([2.1](../2-1-sandhi/)).*
+since / the destruction / of causes / knew / (end quote)  
+*"since he has understood the destruction of causes.”" ([3: 9.4](../3-awakening/#u9-4)) `avedi`: the `a` put before the root {519}, `-i` third person singular {428}; the `ī` is the join with `ti` ([2.1](../2-1-sandhi/)).*
 
 ### Exercises
 

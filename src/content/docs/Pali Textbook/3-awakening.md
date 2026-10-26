@@ -40,58 +40,58 @@ Then the Bhagavā, during the first watch of the night, attended to `paṭiccasa
 
 <a id="u3-1"></a>[3.1](https://tipitaka2500.github.io/tipitaka/3V/1/1.1.html#3) “Avijjāpaccayā saṅkhārā,  
 🚹⨀⑤🆎(avijjā+paccaya) 🚹⨂①(saṅkhāra)  
-with ignorance as condition | mental constructions  
-With `avijjā` (ignorance) as condition, `saṅkhārā` (mental constructions) [arise];
+with ignorance as cause | mental constructions  
+With `avijjā` (ignorance) as cause, `saṅkhārā` (mental constructions) [arise];
 
 <a id="u3-2"></a>3.2 saṅkhārapaccayā viññāṇaṁ,  
 🚹⨀⑤🆎(saṅkhāra+paccaya) 🚻⨀①(viññāṇa)  
-with mental constructions as condition | consciousness  
-With mental constructions as condition, `viññāṇaṁ` (consciousness) [arises];
+with mental constructions as cause | consciousness  
+With mental constructions as cause, `viññāṇaṁ` (consciousness) [arises];
 
 <a id="u3-3"></a>3.3 viññāṇapaccayā nāmarūpaṁ,  
 🚹⨀⑤🆎(viññāṇa+paccaya) 🚻⨀①🆎(nāma+rūpa)  
-with consciousness as condition | phenomenal objects  
-With consciousness as condition, `nāmarūpaṁ` (phenomenal objects) [arises];
+with consciousness as cause | phenomenal objects  
+With consciousness as cause, `nāmarūpaṁ` (phenomenal objects) [arises];
 
 <a id="u3-4"></a>3.4 nāmarūpapaccayā saḷāyatanaṁ,  
 🚹⨀⑤🆎(nāmarūpa+paccaya) 🚻⨀①🆎(cha+āyatana)  
-with phenomenal objects as condition | the six sense bases  
-With phenomenal objects as condition, `saḷāyatanaṁ` (the six sense bases) [arise];
+with phenomenal objects as cause | the six sense bases  
+With phenomenal objects as cause, `saḷāyatanaṁ` (the six sense bases) [arise];
 
 <a id="u3-5"></a>3.5 saḷāyatanapaccayā phasso,  
 🚹⨀⑤🆎(saḷāyatana+paccaya) 🚹⨀①(phassa)  
-with the six sense bases as condition | contact  
-With the six sense bases as condition, `phasso` (contact) [arises];
+with the six sense bases as cause | contact  
+With the six sense bases as cause, `phasso` (contact) [arises];
 
 <a id="u3-6"></a>3.6 phassapaccayā vedanā,  
 🚹⨀⑤🆎(phassa+paccaya) 🚺⨀①(vedanā)  
-with contact as condition | feeling  
-With contact as condition, `vedanā` (feeling) [arises];
+with contact as cause | feeling  
+With contact as cause, `vedanā` (feeling) [arises];
 
 <a id="u3-7"></a>3.7 vedanāpaccayā taṇhā,  
 🚹⨀⑤🆎(vedanā+paccaya) 🚺⨀①(taṇhā)  
-with feeling as condition | craving  
-With feeling as condition, `taṇhā` (craving) [arises];
+with feeling as cause | craving  
+With feeling as cause, `taṇhā` (craving) [arises];
 
 <a id="u3-8"></a>3.8 taṇhāpaccayā upādānaṁ,  
 🚹⨀⑤🆎(taṇhā+paccaya) 🚻⨀①(upādāna)  
-with craving as condition | fuel  
-With craving as condition, `upādānaṁ` (fuel for suffering) [arises];
+with craving as cause | fuel  
+With craving as cause, `upādānaṁ` (fuel for suffering) [arises];
 
 <a id="u3-9"></a>3.9 upādānapaccayā bhavo,  
 🚹⨀⑤🆎(upādāna+paccaya) 🚹⨀①(bhava)  
-with fuel as condition | existence  
-With fuel as condition, `bhavo` (existence of suffering) [arises];
+with fuel as cause | existence  
+With fuel as cause, `bhavo` (existence of suffering) [arises];
 
 <a id="u3-10"></a>3.10 bhavapaccayā jāti,  
 🚹⨀⑤🆎(bhava+paccaya) 🚺⨀①(jāti)  
-with existence as condition | birth  
-With existence as condition, `jāti` (birth of suffering) [arises];
+with existence as cause | birth  
+With existence as cause, `jāti` (birth of suffering) [arises];
 
 <a id="u3-11"></a>3.11 jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.  
 🚹⨀⑤🆎(jāti+paccaya) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🟢⨂🤟▶️(sambhavati)  
-with birth as condition | aging and death | sorrow, lamentation, pain, displeasure and despair | come into being  
-With birth as condition, `jarāmaraṇaṁ` (aging and death), `soka` (sorrow), `parideva` (lamentation), `dukkha` (pain), `domanassa` (displeasure), and `upāyāsā` (despair) come into being.
+with birth as cause | aging and death | sorrow, lamentation, pain, displeasure and despair | come into being  
+With birth as cause, `jarāmaraṇaṁ` (aging and death), `soka` (sorrow), `parideva` (lamentation), `dukkha` (pain), `domanassa` (displeasure), and `upāyāsā` (despair) come into being.
 
 <a id="u3-12"></a>3.12 Evametassa kevalassa dukkhakkhandhassa samudayo hoti.  
 ⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(samudaya) 🟢⨀🤟▶️(hoti)  
@@ -193,58 +193,58 @@ Then the Bhagavā, during the middle watch of the night, attended to dependent o
 
 <a id="u7-2"></a>7.2 “avijjāpaccayā saṅkhārā,  
 🚹⨀⑤🆎(avijjā+paccaya) 🚹⨂①(saṅkhāra)  
-with ignorance as condition | mental constructions  
-With ignorance as condition, mental constructions [arise];
+with ignorance as cause | mental constructions  
+With ignorance as cause, mental constructions [arise];
 
 <a id="u7-3"></a>7.3 saṅkhārapaccayā viññāṇaṁ,  
 🚹⨀⑤🆎(saṅkhāra+paccaya) 🚻⨀①(viññāṇa)  
-with mental constructions as condition | consciousness  
-With mental constructions as condition, consciousness [arises];
+with mental constructions as cause | consciousness  
+With mental constructions as cause, consciousness [arises];
 
 <a id="u7-4"></a>7.4 viññāṇapaccayā nāmarūpaṁ,  
 🚹⨀⑤🆎(viññāṇa+paccaya) 🚻⨀①🆎(nāma+rūpa)  
-with consciousness as condition | phenomenal objects  
-With consciousness as condition, phenomenal objects [arises];
+with consciousness as cause | phenomenal objects  
+With consciousness as cause, phenomenal objects [arises];
 
 <a id="u7-5"></a>7.5 nāmarūpapaccayā saḷāyatanaṁ,  
 🚹⨀⑤🆎(nāmarūpa+paccaya) 🚻⨀①🆎(cha+āyatana)  
-with phenomenal objects as condition | the six sense bases  
-With phenomenal objects as condition, the six sense bases [arise];
+with phenomenal objects as cause | the six sense bases  
+With phenomenal objects as cause, the six sense bases [arise];
 
 <a id="u7-6"></a>7.6 saḷāyatanapaccayā phasso,  
 🚹⨀⑤🆎(saḷāyatana+paccaya) 🚹⨀①(phassa)  
-with the six sense bases as condition | contact  
-With the six sense bases as condition, contact [arises];
+with the six sense bases as cause | contact  
+With the six sense bases as cause, contact [arises];
 
 <a id="u7-7"></a>7.7 phassapaccayā vedanā,  
 🚹⨀⑤🆎(phassa+paccaya) 🚺⨀①(vedanā)  
-with contact as condition | feeling  
-With contact as condition, feeling [arises];
+with contact as cause | feeling  
+With contact as cause, feeling [arises];
 
 <a id="u7-8"></a>7.8 vedanāpaccayā taṇhā,  
 🚹⨀⑤🆎(vedanā+paccaya) 🚺⨀①(taṇhā)  
-with feeling as condition | craving  
-With feeling as condition, craving [arises];
+with feeling as cause | craving  
+With feeling as cause, craving [arises];
 
 <a id="u7-9"></a>7.9 taṇhāpaccayā upādānaṁ,  
 🚹⨀⑤🆎(taṇhā+paccaya) 🚻⨀①(upādāna)  
-with craving as condition | fuel  
-With craving as condition, fuel for suffering [arises];
+with craving as cause | fuel  
+With craving as cause, fuel for suffering [arises];
 
 <a id="u7-10"></a>7.10 upādānapaccayā bhavo,  
 🚹⨀⑤🆎(upādāna+paccaya) 🚹⨀①(bhava)  
-with fuel as condition | existence  
-With fuel as condition, the existence of suffering [arises];
+with fuel as cause | existence  
+With fuel as cause, the existence of suffering [arises];
 
 <a id="u7-11"></a>7.11 bhavapaccayā jāti,  
 🚹⨀⑤🆎(bhava+paccaya) 🚺⨀①(jāti)  
-with existence as condition | birth  
-With existence as condition, the birth of suffering [arises];
+with existence as cause | birth  
+With existence as cause, the birth of suffering [arises];
 
 <a id="u7-12"></a>7.12 jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.  
 🚹⨀⑤🆎(jāti+paccaya) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🟢⨂🤟▶️(sambhavati)  
-with birth as condition | aging and death | sorrow, lamentation, pain, displeasure and despair | come into being  
-With birth as condition, `jarāmaraṇaṁ` (aging and death), `soka` (sorrow), `parideva` (lamentation), `dukkha` (pain), `domanassa` (displeasure), and `upāyāsā` (despair) come into being.
+with birth as cause | aging and death | sorrow, lamentation, pain, displeasure and despair | come into being  
+With birth as cause, `jarāmaraṇaṁ` (aging and death), `soka` (sorrow), `parideva` (lamentation), `dukkha` (pain), `domanassa` (displeasure), and `upāyāsā` (despair) come into being.
 
 <a id="u7-13"></a>7.13 Evametassa kevalassa dukkhakkhandhassa samudayo hoti.  
 ⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(samudaya) 🟢⨀🤟▶️(hoti)  
@@ -330,12 +330,12 @@ then | his | doubts | vanish | all
 
 <a id="u9-4"></a>9.4 Yato khayaṁ paccayānaṁ avedī”ti.  
 ⏏️(yato) 🚹⨀②(khaya) 🚹⨂⑥(paccaya) 🟢⨀🤟⏮(vedeti) ⏏️(iti)  
-since | the destruction | of conditions | knew | (end quote)
+since | the destruction | of causes | knew | (end quote)
 
 When indeed phenomena become manifest  
 to the ardent, contemplating brāhmaṇa;  
 then all his doubts disappear,  
-since he has understood the destruction of conditions.”
+since he has understood the destruction of causes.”
 
 ### 3. The last watch of the night
 
@@ -346,58 +346,58 @@ Then the Bhagavā, during the last watch of the night, attended to dependent ori
 
 <a id="u10-2"></a>10.2 “avijjāpaccayā saṅkhārā,  
 🚹⨀⑤🆎(avijjā+paccaya) 🚹⨂①(saṅkhāra)  
-with ignorance as condition | mental constructions  
-With ignorance as condition, mental constructions [arise];
+with ignorance as cause | mental constructions  
+With ignorance as cause, mental constructions [arise];
 
 <a id="u10-3"></a>10.3 saṅkhārapaccayā viññāṇaṁ,  
 🚹⨀⑤🆎(saṅkhāra+paccaya) 🚻⨀①(viññāṇa)  
-with mental constructions as condition | consciousness  
-With mental constructions as condition, consciousness [arises];
+with mental constructions as cause | consciousness  
+With mental constructions as cause, consciousness [arises];
 
 <a id="u10-4"></a>10.4 viññāṇapaccayā nāmarūpaṁ,  
 🚹⨀⑤🆎(viññāṇa+paccaya) 🚻⨀①🆎(nāma+rūpa)  
-with consciousness as condition | phenomenal objects  
-With consciousness as condition, phenomenal objects [arises];
+with consciousness as cause | phenomenal objects  
+With consciousness as cause, phenomenal objects [arises];
 
 <a id="u10-5"></a>10.5 nāmarūpapaccayā saḷāyatanaṁ,  
 🚹⨀⑤🆎(nāmarūpa+paccaya) 🚻⨀①🆎(cha+āyatana)  
-with phenomenal objects as condition | the six sense bases  
-With phenomenal objects as condition, the six sense bases [arise];
+with phenomenal objects as cause | the six sense bases  
+With phenomenal objects as cause, the six sense bases [arise];
 
 <a id="u10-6"></a>10.6 saḷāyatanapaccayā phasso,  
 🚹⨀⑤🆎(saḷāyatana+paccaya) 🚹⨀①(phassa)  
-with the six sense bases as condition | contact  
-With the six sense bases as condition, contact [arises];
+with the six sense bases as cause | contact  
+With the six sense bases as cause, contact [arises];
 
 <a id="u10-7"></a>10.7 phassapaccayā vedanā,  
 🚹⨀⑤🆎(phassa+paccaya) 🚺⨀①(vedanā)  
-with contact as condition | feeling  
-With contact as condition, feeling [arises];
+with contact as cause | feeling  
+With contact as cause, feeling [arises];
 
 <a id="u10-8"></a>10.8 vedanāpaccayā taṇhā,  
 🚹⨀⑤🆎(vedanā+paccaya) 🚺⨀①(taṇhā)  
-with feeling as condition | craving  
-With feeling as condition, craving [arises];
+with feeling as cause | craving  
+With feeling as cause, craving [arises];
 
 <a id="u10-9"></a>10.9 taṇhāpaccayā upādānaṁ,  
 🚹⨀⑤🆎(taṇhā+paccaya) 🚻⨀①(upādāna)  
-with craving as condition | fuel  
-With craving as condition, fuel for suffering [arises];
+with craving as cause | fuel  
+With craving as cause, fuel for suffering [arises];
 
 <a id="u10-10"></a>10.10 upādānapaccayā bhavo,  
 🚹⨀⑤🆎(upādāna+paccaya) 🚹⨀①(bhava)  
-with fuel as condition | existence  
-With fuel as condition, the existence of suffering [arises];
+with fuel as cause | existence  
+With fuel as cause, the existence of suffering [arises];
 
 <a id="u10-11"></a>10.11 bhavapaccayā jāti,  
 🚹⨀⑤🆎(bhava+paccaya) 🚺⨀①(jāti)  
-with existence as condition | birth  
-With existence as condition, the birth of suffering [arises];
+with existence as cause | birth  
+With existence as cause, the birth of suffering [arises];
 
 <a id="u10-12"></a>10.12 jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.  
 🚹⨀⑤🆎(jāti+paccaya) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🟢⨂🤟▶️(sambhavati)  
-with birth as condition | aging and death | sorrow, lamentation, pain, displeasure and despair | come into being  
-With birth as condition, `jarāmaraṇaṁ` (aging and death), `soka` (sorrow), `parideva` (lamentation), `dukkha` (pain), `domanassa` (displeasure), and `upāyāsā` (despair) come into being.
+with birth as cause | aging and death | sorrow, lamentation, pain, displeasure and despair | come into being  
+With birth as cause, `jarāmaraṇaṁ` (aging and death), `soka` (sorrow), `parideva` (lamentation), `dukkha` (pain), `domanassa` (displeasure), and `upāyāsā` (despair) come into being.
 
 <a id="u10-13"></a>10.13 Evametassa kevalassa dukkhakkhandhassa samudayo hoti.  
 ⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(samudaya) 🟢⨀🤟▶️(hoti)  

@@ -121,7 +121,7 @@ noun takes the feminine `-ā` {237} and follows `kaññā`: `majjhimā paṭipad
 > **Avijjāpaccayā saṅkhārā**,
 
 🚹⨀⑤🆎(avijjā+paccaya) 🚹⨂①(saṅkhāra)  
-with ignorance as condition / mental constructions  
+with ignorance as cause / mental constructions  
 *Two `-ā`, two jobs: `avijjāpaccayā` is ⑤⨀, "from" {108}, `saṅkhārā` ①⨂ {107}; [3: 3.1](../3-awakening/#u3-1).*
 
 > **saṁkhittena pañcupādānakkhandhā dukkhā**
@@ -210,7 +210,7 @@ with the unloved / association / suffering / from the loved / separation / suffe
 5. > Yato khayaṁ paccayānaṁ avedī”ti.
 
 ⏏️(yato) 🚹⨀②(khaya) 🚹⨂⑥(paccaya) 🟢⨀🤟⏮(vedeti) ⏏️(iti)  
-since / the destruction / of conditions / knew / (end quote)  
+since / the destruction / of causes / knew / (end quote)  
 *`khayaṁ`: 🚹⨀②, `-aṁ` {83}, the object; `paccayānaṁ`: 🚹⨂⑥, `-ānaṁ` {89}, "of"; [3: 9.4](../3-awakening/#u9-4).*
 
 6. > akuppā me **vimutti**, ayamantimā **jāti**
