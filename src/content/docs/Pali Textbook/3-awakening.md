@@ -76,17 +76,17 @@ With feeling as condition, `taṇhā` (craving) [arises];
 <a id="u3-8"></a>3.8 taṇhāpaccayā upādānaṁ,  
 🚹⨀⑤🆎(taṇhā+paccaya) 🚻⨀①(upādāna)  
 with craving as condition | fuel  
-With craving as condition, `upādānaṁ` (fuel) [arises];
+With craving as condition, `upādānaṁ` (fuel for suffering) [arises];
 
 <a id="u3-9"></a>3.9 upādānapaccayā bhavo,  
 🚹⨀⑤🆎(upādāna+paccaya) 🚹⨀①(bhava)  
-with fuel as condition | becoming  
-With fuel as condition, `bhavo` (becoming) [arises];
+with fuel as condition | existence  
+With fuel as condition, `bhavo` (existence of suffering) [arises];
 
 <a id="u3-10"></a>3.10 bhavapaccayā jāti,  
 🚹⨀⑤🆎(bhava+paccaya) 🚺⨀①(jāti)  
-with becoming as condition | birth  
-With becoming as condition, `jāti` (birth) [arises];
+with existence as condition | birth  
+With existence as condition, `jāti` (birth of suffering) [arises];
 
 <a id="u3-11"></a>3.11 jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.  
 🚹⨀⑤🆎(jāti+paccaya) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🟢⨂🤟▶️(sambhavati)  
@@ -136,17 +136,17 @@ with the cessation of feeling comes the cessation of craving;
 <a id="u4-8"></a>4.8 taṇhānirodhā upādānanirodho,  
 🚹⨀⑤🆎(taṇhā+nirodha) 🚹⨀①🆎(upādāna+nirodha)  
 with the cessation of craving | the cessation of fuel  
-with the cessation of craving comes the cessation of fuel;
+with the cessation of craving comes the cessation of fuel for suffering;
 
 <a id="u4-9"></a>4.9 upādānanirodhā bhavanirodho,  
 🚹⨀⑤🆎(upādāna+nirodha) 🚹⨀①🆎(bhava+nirodha)  
-with the cessation of fuel | the cessation of becoming  
-with the cessation of fuel comes the cessation of becoming;
+with the cessation of fuel | the cessation of existence  
+with the cessation of fuel comes the cessation of the existence of suffering;
 
 <a id="u4-10"></a>4.10 bhavanirodhā jātinirodho,  
 🚹⨀⑤🆎(bhava+nirodha) 🚹⨀①🆎(jāti+nirodha)  
-with the cessation of becoming | the cessation of birth  
-with the cessation of becoming comes the cessation of birth;
+with the cessation of existence | the cessation of birth  
+with the cessation of existence comes the cessation of the birth of suffering;
 
 <a id="u4-11"></a>4.11 jātinirodhā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā nirujjhanti.  
 🚹⨀⑤🆎(jāti+nirodha) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🔴⨂🤟▶️(nirujjhati)  
@@ -229,17 +229,17 @@ With feeling as condition, craving [arises];
 <a id="u7-9"></a>7.9 taṇhāpaccayā upādānaṁ,  
 🚹⨀⑤🆎(taṇhā+paccaya) 🚻⨀①(upādāna)  
 with craving as condition | fuel  
-With craving as condition, fuel [arises];
+With craving as condition, fuel for suffering [arises];
 
 <a id="u7-10"></a>7.10 upādānapaccayā bhavo,  
 🚹⨀⑤🆎(upādāna+paccaya) 🚹⨀①(bhava)  
-with fuel as condition | becoming  
-With fuel as condition, becoming [arises];
+with fuel as condition | existence  
+With fuel as condition, the existence of suffering [arises];
 
 <a id="u7-11"></a>7.11 bhavapaccayā jāti,  
 🚹⨀⑤🆎(bhava+paccaya) 🚺⨀①(jāti)  
-with becoming as condition | birth  
-With becoming as condition, birth [arises];
+with existence as condition | birth  
+With existence as condition, the birth of suffering [arises];
 
 <a id="u7-12"></a>7.12 jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.  
 🚹⨀⑤🆎(jāti+paccaya) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🟢⨂🤟▶️(sambhavati)  
@@ -289,17 +289,17 @@ with the cessation of feeling comes the cessation of craving;
 <a id="u7-21"></a>7.21 taṇhānirodhā upādānanirodho,  
 🚹⨀⑤🆎(taṇhā+nirodha) 🚹⨀①🆎(upādāna+nirodha)  
 with the cessation of craving | the cessation of fuel  
-with the cessation of craving comes the cessation of fuel;
+with the cessation of craving comes the cessation of fuel for suffering;
 
 <a id="u7-22"></a>7.22 upādānanirodhā bhavanirodho,  
 🚹⨀⑤🆎(upādāna+nirodha) 🚹⨀①🆎(bhava+nirodha)  
-with the cessation of fuel | the cessation of becoming  
-with the cessation of fuel comes the cessation of becoming;
+with the cessation of fuel | the cessation of existence  
+with the cessation of fuel comes the cessation of the existence of suffering;
 
 <a id="u7-23"></a>7.23 bhavanirodhā jātinirodho,  
 🚹⨀⑤🆎(bhava+nirodha) 🚹⨀①🆎(jāti+nirodha)  
-with the cessation of becoming | the cessation of birth  
-with the cessation of becoming comes the cessation of birth;
+with the cessation of existence | the cessation of birth  
+with the cessation of existence comes the cessation of the birth of suffering;
 
 <a id="u7-24"></a>7.24 jātinirodhā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā nirujjhanti.  
 🚹⨀⑤🆎(jāti+nirodha) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🔴⨂🤟▶️(nirujjhati)  
@@ -382,17 +382,17 @@ With feeling as condition, craving [arises];
 <a id="u10-9"></a>10.9 taṇhāpaccayā upādānaṁ,  
 🚹⨀⑤🆎(taṇhā+paccaya) 🚻⨀①(upādāna)  
 with craving as condition | fuel  
-With craving as condition, fuel [arises];
+With craving as condition, fuel for suffering [arises];
 
 <a id="u10-10"></a>10.10 upādānapaccayā bhavo,  
 🚹⨀⑤🆎(upādāna+paccaya) 🚹⨀①(bhava)  
-with fuel as condition | becoming  
-With fuel as condition, becoming [arises];
+with fuel as condition | existence  
+With fuel as condition, the existence of suffering [arises];
 
 <a id="u10-11"></a>10.11 bhavapaccayā jāti,  
 🚹⨀⑤🆎(bhava+paccaya) 🚺⨀①(jāti)  
-with becoming as condition | birth  
-With becoming as condition, birth [arises];
+with existence as condition | birth  
+With existence as condition, the birth of suffering [arises];
 
 <a id="u10-12"></a>10.12 jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.  
 🚹⨀⑤🆎(jāti+paccaya) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🟢⨂🤟▶️(sambhavati)  
@@ -442,17 +442,17 @@ with the cessation of feeling comes the cessation of craving;
 <a id="u10-21"></a>10.21 taṇhānirodhā upādānanirodho,  
 🚹⨀⑤🆎(taṇhā+nirodha) 🚹⨀①🆎(upādāna+nirodha)  
 with the cessation of craving | the cessation of fuel  
-with the cessation of craving comes the cessation of fuel;
+with the cessation of craving comes the cessation of fuel for suffering;
 
 <a id="u10-22"></a>10.22 upādānanirodhā bhavanirodho,  
 🚹⨀⑤🆎(upādāna+nirodha) 🚹⨀①🆎(bhava+nirodha)  
-with the cessation of fuel | the cessation of becoming  
-with the cessation of fuel comes the cessation of becoming;
+with the cessation of fuel | the cessation of existence  
+with the cessation of fuel comes the cessation of the existence of suffering;
 
 <a id="u10-23"></a>10.23 bhavanirodhā jātinirodho,  
 🚹⨀⑤🆎(bhava+nirodha) 🚹⨀①🆎(jāti+nirodha)  
-with the cessation of becoming | the cessation of birth  
-with the cessation of becoming comes the cessation of birth;
+with the cessation of existence | the cessation of birth  
+with the cessation of existence comes the cessation of the birth of suffering;
 
 <a id="u10-24"></a>10.24 jātinirodhā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā nirujjhanti.  
 🚹⨀⑤🆎(jāti+nirodha) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🔴⨂🤟▶️(nirujjhati)  

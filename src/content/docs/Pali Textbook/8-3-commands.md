@@ -181,5 +181,5 @@ from household life / to homeless state / renounce / quote
 6. > api nu kho kāmabhavo **paññāyethā**”ti?
 
 🔼(apinu kho) 🚹⨀①(kāmabhava) 🔵⏯🤟⨀(paññāyati) 🔼(ti)  
-what / indeed / desire for becoming / is evident / quote  
-*"would desire for becoming be evident?" ([Bonus: 15, 2.1](../11-pbt/#s15-u2-1)) `paññāyetha`: ⏯ `-etha`, the 🔵 third person ⨀ {425}, the subject `kāmabhavo`; a supposition {416}; the `-ā` before `”ti` is the join.*
+what / indeed / existence in the realm of sensual desire / is evident / quote  
+*"would existence (of suffering) in the realm of sensual desire be evident?" ([Bonus: 15, 2.1](../11-pbt/#s15-u2-1)) `paññāyetha`: ⏯ `-etha`, the 🔵 third person ⨀ {425}, the subject `kāmabhavo`; a supposition {416}; the `-ā` before `”ti` is the join.*
