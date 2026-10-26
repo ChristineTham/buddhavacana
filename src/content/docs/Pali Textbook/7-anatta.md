@@ -143,7 +143,7 @@ suffering | bhante
 “`Dukkha`, bhante.”
 
 <a id="u6-5"></a>6.5 “Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ— ‘etaṁ mama, esohamasmi, eso me attā’”ti?  
-*️⃣🤟🚻⨀①(ya) ⏏️(pana) 🚻⨀①🆎(na+nicca) 🚻⨀①(dukkha) 🚻⨀①🆎(vipariṇāma+dhamma) ⏏️(kallaṁ) ⏏️(nu) *️⃣🤟🚻⨀②(ta) 🔽(tuṁ)(samanupassati) *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨀①(atta) ⏏️(iti)  
+*️⃣🤟🚻⨀①(ya) ⏏️(pana) 🚻⨀①🆎(na+nicca) 🚻⨀①(dukkha) 🚻⨀①🆎(vipariṇāma+dhamma) 🚻⨀①(kalla) ⏏️(nu) *️⃣🤟🚻⨀②(ta) 🔽(tuṁ)(samanupassati) *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨀①(atta) ⏏️(iti)  
 what | now | impermanent | suffering | subject to change | it is proper | (question) | that | to regard | this | mine | this | I | am | this | my | self | (end quote)  
 “Now, is it proper to regard that which is `anicca`, `dukkha`, and `vipariṇāmadhamma` (subject to change), as: ‘This is mine, this I am, this is my `attā` (self)’?”
 
@@ -173,7 +173,7 @@ suffering | bhante
 “Suffering, bhante.”
 
 <a id="u6-11"></a>6.11 “Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ— ‘etaṁ mama, esohamasmi, eso me attā’”ti?  
-*️⃣🤟🚻⨀①(ya) ⏏️(pana) 🚻⨀①🆎(na+nicca) 🚻⨀①(dukkha) 🚻⨀①🆎(vipariṇāma+dhamma) ⏏️(kallaṁ) ⏏️(nu) *️⃣🤟🚻⨀②(ta) 🔽(tuṁ)(samanupassati) *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨀①(atta) ⏏️(iti)  
+*️⃣🤟🚻⨀①(ya) ⏏️(pana) 🚻⨀①🆎(na+nicca) 🚻⨀①(dukkha) 🚻⨀①🆎(vipariṇāma+dhamma) 🚻⨀①(kalla) ⏏️(nu) *️⃣🤟🚻⨀②(ta) 🔽(tuṁ)(samanupassati) *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨀①(atta) ⏏️(iti)  
 what | now | impermanent | suffering | subject to change | it is proper | (question) | that | to regard | this | mine | this | I | am | this | my | self | (end quote)  
 “Now, is it proper to regard that which is impermanent, suffering, and subject to change, as: ‘This is mine, this I am, this is my `attā`’?”
 
@@ -203,7 +203,7 @@ suffering | bhante
 “Suffering, bhante.”
 
 <a id="u6-17"></a>6.17 “Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ— ‘etaṁ mama, esohamasmi, eso me attā’”ti?  
-*️⃣🤟🚻⨀①(ya) ⏏️(pana) 🚻⨀①🆎(na+nicca) 🚻⨀①(dukkha) 🚻⨀①🆎(vipariṇāma+dhamma) ⏏️(kallaṁ) ⏏️(nu) *️⃣🤟🚻⨀②(ta) 🔽(tuṁ)(samanupassati) *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨀①(atta) ⏏️(iti)  
+*️⃣🤟🚻⨀①(ya) ⏏️(pana) 🚻⨀①🆎(na+nicca) 🚻⨀①(dukkha) 🚻⨀①🆎(vipariṇāma+dhamma) 🚻⨀①(kalla) ⏏️(nu) *️⃣🤟🚻⨀②(ta) 🔽(tuṁ)(samanupassati) *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨀①(atta) ⏏️(iti)  
 what | now | impermanent | suffering | subject to change | it is proper | (question) | that | to regard | this | mine | this | I | am | this | my | self | (end quote)  
 “Now, is it proper to regard that which is impermanent, suffering, and subject to change, as: ‘This is mine, this I am, this is my `attā`’?”
 
@@ -233,7 +233,7 @@ suffering | bhante
 “Suffering, bhante.”
 
 <a id="u6-23"></a>6.23 “Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ— ‘etaṁ mama, esohamasmi, eso me attā’”ti?  
-*️⃣🤟🚻⨀①(ya) ⏏️(pana) 🚻⨀①🆎(na+nicca) 🚻⨀①(dukkha) 🚻⨀①🆎(vipariṇāma+dhamma) ⏏️(kallaṁ) ⏏️(nu) *️⃣🤟🚻⨀②(ta) 🔽(tuṁ)(samanupassati) *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨀①(atta) ⏏️(iti)  
+*️⃣🤟🚻⨀①(ya) ⏏️(pana) 🚻⨀①🆎(na+nicca) 🚻⨀①(dukkha) 🚻⨀①🆎(vipariṇāma+dhamma) 🚻⨀①(kalla) ⏏️(nu) *️⃣🤟🚻⨀②(ta) 🔽(tuṁ)(samanupassati) *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨀①(atta) ⏏️(iti)  
 what | now | impermanent | suffering | subject to change | it is proper | (question) | that | to regard | this | mine | this | I | am | this | my | self | (end quote)  
 “Now, is it proper to regard that which is impermanent, suffering, and subject to change, as: ‘This is mine, this I am, this is my `attā`’?”
 
@@ -263,7 +263,7 @@ suffering | bhante
 “Suffering, bhante.”
 
 <a id="u6-29"></a>6.29 “Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ— ‘etaṁ mama, esohamasmi, eso me attā’”ti?  
-*️⃣🤟🚻⨀①(ya) ⏏️(pana) 🚻⨀①🆎(na+nicca) 🚻⨀①(dukkha) 🚻⨀①🆎(vipariṇāma+dhamma) ⏏️(kallaṁ) ⏏️(nu) *️⃣🤟🚻⨀②(ta) 🔽(tuṁ)(samanupassati) *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨀①(atta) ⏏️(iti)  
+*️⃣🤟🚻⨀①(ya) ⏏️(pana) 🚻⨀①🆎(na+nicca) 🚻⨀①(dukkha) 🚻⨀①🆎(vipariṇāma+dhamma) 🚻⨀①(kalla) ⏏️(nu) *️⃣🤟🚻⨀②(ta) 🔽(tuṁ)(samanupassati) *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨀①(atta) ⏏️(iti)  
 what | now | impermanent | suffering | subject to change | it is proper | (question) | that | to regard | this | mine | this | I | am | this | my | self | (end quote)  
 “Now, is it proper to regard that which is impermanent, suffering, and subject to change, as: ‘This is mine, this I am, this is my `attā`’?”
 
@@ -317,7 +317,7 @@ in liberation | liberated | (end quote) | knowledge | there is
 In liberation there is the `ñāṇa` (knowledge): ‘liberated’.
 
 <a id="u11-4"></a>11.4 ‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānātī”ti.  
-🚺⨀①🔽(ta)(khīṇa) 🚺⨀①(jāti) 🚻⨀①🔽(ta)(vusita) 🚻⨀①🆎(brahma+cariya) 🚻⨀①🔽(ta)(kata) 🚻⨀①🔽(anīya)(karaṇīya) ⏏️(na) 🚻⨀①(apara) 🚻⨀④(itthatta) ⏏️(iti) 🟢⨀🤟▶️(pajānāti) ⏏️(iti)  
+🚺⨀①🔽(ta)(khīṇa) 🚺⨀①(jāti) 🚻⨀①🔽(ta)(vusita) 🚻⨀①🆎(brahma+cariya) 🚻⨀①🔽(ta)(kata) 🚻⨀①🔽(anīya)(karaṇīya) ⏏️(na) *️⃣🤟🚻⨀①(apara) 🚻⨀④(itthatta) ⏏️(iti) 🟢⨀🤟▶️(pajānāti) ⏏️(iti)  
 finished | birth | lived | pure life | done | what had to be done | not | further | for this state of existence | (end quote) | knows clearly | (end quote)  
 He `pajānāti` (knows clearly): ‘Birth (of suffering) is finished, the pure life is lived, what had to be done is done, there is nothing further for this present state of existence.’[^jati]
 

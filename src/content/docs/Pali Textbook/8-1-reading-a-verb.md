@@ -176,14 +176,14 @@ perhaps? / surely? / youse / bhikkhave / thus / knowing / thus / seeing / thus /
 
 > Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena **nisīdi** vimuttisukhapaṭisaṁvedī.
 
-⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚻⨀⑦🆎(bodhirukkha+mūla) 🚻⨀②🆎(satta+aha) 🚹⨀③🆎(eka+pallaṅka) 🟢⨀🤟⏮(nisīdati) 🚹⨀①🆎(vimuttisukha+paṭisaṁvedī)  
+⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚻⨀⑦🆎(bodhi+rukkha+mūla) 🚻⨀②🆎(satta+aha) 🚹⨀③🆎(eka+pallaṅka) 🟢⨀🤟⏮(nisīdati) 🚹⨀①🆎(vimutti+sukha+paṭisaṁvedī)  
 then / indeed / the Bhagavā / at the root of the bodhi tree / for seven days / in one cross-legged posture / sat down / experiencing the bliss of liberation  
 *"Then the Bhagavā sat at the root of the Bodhi tree for seven days in one cross-legged posture, experiencing the bliss of liberation (`vimuttisukhapaṭisaṁvedī`)." ([3: 2.2](../3-awakening/#u2-2)) `nisīdi`: `-i`, `ajjatanī` ⏮, third person singular {428}, the ending `ī` written short {517}; the subject `bhagavā`.*
 
 > Āraddhaṁ kho pana me vīriyaṁ **bhavissati** asallīnaṁ,
 
-🚻⨀①🔽(ta)(āraddha) ⏏️(kho) ⏏️(pana) *️⃣👆⚧⨀③(ahaṁ) 🚻⨀①(vīriya) 🟢⨀🤟⏭(bhavati) 🚻⨀①🔽(ta)🆎(na+sallīna)  
-applied / indeed / now / with me / determination / will become / active  
+🚻⨀①🔽(ta)(āraddha) ⏏️(kho) ⏏️(pana) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(vīriya) 🟢⨀🤟⏭(bhavati) 🚻⨀①🔽(ta)🆎(na+sallīna)  
+applied / indeed / now / my / determination / will become / active  
 *"And now applied with me there will be active determination" ([Bonus: 45, 9.7](../11-pbt/#s45-u9-7)) `bhavissati`: `-ssati`, `bhavissantī` ⏭, third person singular {429}; the `i` before `ssa` is the insertion every future takes {516}, `bhav-i-ssati`.*
 
 > Rūpañca hidaṁ, bhikkhave, attā **abhavissa**,

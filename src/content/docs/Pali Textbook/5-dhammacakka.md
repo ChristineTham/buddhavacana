@@ -86,7 +86,7 @@ This, bhikkhave, is that `majjhimā paṭipadā` (Middle Way), `abhisambuddha` (
 ### 2. The four realisations
 
 <a id="u4-1"></a>[4.1](https://tipitaka2500.github.io/tipitaka/14S5/12/12.2/12.2.1.html#p_14S5_2209) Idaṁ kho pana, bhikkhave, dukkhaṁ ariyasaccaṁ— jātipi dukkhā, jarāpi dukkhā, byādhipi dukkho, maraṇampi dukkhaṁ, appiyehi sampayogo dukkho, piyehi vippayogo dukkho, yampicchaṁ na labhati tampi dukkhaṁ— saṁkhittena pañcupādānakkhandhā dukkhā.  
-*️⃣🤟🚻⨀①(ima) ⏏️(kho) ⏏️(pana) 🚹⨂⓪(bhikkhu) 🚻⨀①(dukkha) 🚻⨀①🆎(ariya+sacca) 🚺⨀①(jāti) ⏏️(api) 🚺⨀①(dukkha) 🚺⨀①(jarā) ⏏️(api) 🚺⨀①(dukkha) 🚹⨀①(byādhi) ⏏️(api) 🚹⨀①(dukkha) 🚻⨀①(maraṇa) ⏏️(api) 🚻⨀①(dukkha) 🚹⨂③🆎(na+piya) 🚹⨀①(sampayoga) 🚹⨀①(dukkha) 🚹⨂③(piya) 🚹⨀①(vippayoga) 🚹⨀①(dukkha) *️⃣🤟🚻⨀②(ya) ⏏️(api) 🚹⨀①🔽(anta)(icchanta) ⏏️(na) 🟢⨀🤟▶️(labhati) *️⃣🤟🚻⨀①(ta) ⏏️(api) 🚻⨀①(dukkha) 🚹⨀③🔽(ta)(saṁkhitta) 🚹⨂①🆎(pañca+upādāna+khandha) 🚹⨂①(dukkha)  
+*️⃣🤟🚻⨀①(ima) ⏏️(kho) ⏏️(pana) 🚹⨂⓪(bhikkhu) 🚻⨀①(dukkha) 🚻⨀①🆎(ariya+sacca) 🚺⨀①(jāti) ⏏️(api) 🚺⨀①(dukkha) 🚺⨀①(jarā) ⏏️(api) 🚺⨀①(dukkha) 🚹⨀①(byādhi) ⏏️(api) 🚹⨀①(dukkha) 🚻⨀①(maraṇa) ⏏️(api) 🚻⨀①(dukkha) 🚹⨂③🆎(na+piya) 🚹⨀①(sampayoga) 🚹⨀①(dukkha) 🚹⨂⑤(piya) 🚹⨀①(vippayoga) 🚹⨀①(dukkha) *️⃣🤟🚻⨀②(ya) ⏏️(api) 🚹⨀①🔽(anta)(icchanta) ⏏️(na) 🟢⨀🤟▶️(labhati) *️⃣🤟🚻⨀①(ta) ⏏️(api) 🚻⨀①(dukkha) 🚹⨀③🔽(ta)(saṁkhitta) 🚹⨂①🆎(pañca+upādāna+khandha) 🚹⨂①(dukkha)  
 this | indeed | now | bhikkhave | suffering | realisation | birth | too | suffering | aging | too | suffering | illness | too | suffering | death | too | suffering | with the unloved | association | suffering | from the loved | separation | suffering | what | too | wanting | not | gets | that | too | suffering | in short | the five collections of fuel | suffering  
 Now this, bhikkhave, is the `dukkha ariyasacca` (realisation of suffering). Birth is `dukkha` (suffering), aging is `dukkha`, illness is `dukkha`, death is `dukkha`, association with the unloved is `dukkha`, separation from the loved is `dukkha`, not getting what one wants is `dukkha`. In short, the `pañcupādānakkhandhā` (the five collections of fuel) are `dukkha`.
 
@@ -254,7 +254,7 @@ And this `dasasahassilokadhātu` (ten-thousand-fold world system) trembled, shoo
 ### 6. Aññāsikoṇḍañña
 
 <a id="u14-1"></a>[14.1](https://tipitaka2500.github.io/tipitaka/14S5/12/12.2/12.2.1.html#p_14S5_2219) Atha kho bhagavā imaṁ udānaṁ udānesi— “aññāsi vata bho, koṇḍañño, aññāsi vata bho, koṇḍañño”ti.  
-⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) *️⃣🤟🚻⨀②(ima) 🚻⨀②(udāna) 🟢⨀🤟⏮(udāneti) 🟢⨀🤟⏮(ājānāti) ⏏️(vata) 🚹⨀⓪(bhavant) 🚹⨀①(koṇḍañña) 🟢⨀🤟⏮(ājānāti) ⏏️(vata) 🚹⨀⓪(bhavant) 🚹⨀①(koṇḍañña) ⏏️(iti)  
+⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) *️⃣🤟🚻⨀②(ima) 🚻⨀②(udāna) 🟠⨀🤟⏮(udāneti) 🟢⨀🤟⏮(ājānāti) ⏏️(vata) 🚹⨀⓪(bhavant) 🚹⨀①(koṇḍañña) 🟢⨀🤟⏮(ājānāti) ⏏️(vata) 🚹⨀⓪(bhavant) 🚹⨀①(koṇḍañña) ⏏️(iti)  
 then | indeed | the Bhagavā | this | inspired utterance | uttered | has understood | indeed | bho | Koṇḍañña | has understood | indeed | bho | Koṇḍañña | (end quote)  
 Then the Bhagavā uttered this inspired utterance: “Indeed, bho Koṇḍañña has understood! Indeed, bho Koṇḍañña has understood!”
 

@@ -120,20 +120,20 @@ deconstruction.
 
 1. > Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena **nisīdi** vimuttisukhapaṭisaṁvedī.
 
-⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚻⨀⑦🆎(bodhirukkha+mūla) 🚻⨀②🆎(satta+aha) 🚹⨀③🆎(eka+pallaṅka) 🟢⨀🤟⏮(nisīdati) 🚹⨀①🆎(vimuttisukha+paṭisaṁvedī)  
+⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚻⨀⑦🆎(bodhi+rukkha+mūla) 🚻⨀②🆎(satta+aha) 🚹⨀③🆎(eka+pallaṅka) 🟢⨀🤟⏮(nisīdati) 🚹⨀①🆎(vimutti+sukha+paṭisaṁvedī)  
 then / indeed / the Bhagavā / at the root of the bodhi tree / for seven days / in one cross-legged posture / sat down / experiencing the bliss of liberation  
 *"Then the Bhagavā sat at the root of the Bodhi tree for seven days in one cross-legged posture, experiencing the bliss of liberation (`vimuttisukhapaṭisaṁvedī`)." ([3: 2.2](../3-awakening/#u2-2)) `nisīdi`: `-i` third person singular {428}, the subject `bhagavā`; the prefix `ni`, no `a`, no `s`.*
 
 2. > Atha kho bhagavā imaṁ udānaṁ **udānesi**—
 
-⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) *️⃣🤟🚻⨀②(ima) 🚻⨀②(udāna) 🟢⨀🤟⏮(udāneti)  
+⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) *️⃣🤟🚻⨀②(ima) 🚻⨀②(udāna) 🟠⨀🤟⏮(udāneti)  
 then / indeed / the Bhagavā / this / inspired utterance / uttered  
 *"Then the Bhagavā uttered this inspired utterance:" ([5: 14.1](../5-dhammacakka/#u14-1)) `udānesi`: `-i` third person singular {428} after the `s` {491} and the `e` of `udāneti`; the prefix `ud`, no `a`.*
 
 3. > Tassa me tathāgato vā tathāgatasāvako vā dhammaṁ **desesi**.
 
-*️⃣🤟🚹⨀⑥(ta) *️⃣👆⚧⨀④(ahaṁ) 🚹⨀①🆎(tathā+gata) ⏏️(vā) 🚹⨀①🆎(tathā+gata+sāvaka) ⏏️(vā) 🚹⨀②(dhamma) 🟠⨀🤟⏮(deseti)  
-of that / to me / Tathāgata / or / disciple of the Buddha / or / Dhamma / taught  
+*️⃣🤟🚹⨀④(ta) *️⃣👆⚧⨀④(ahaṁ) 🚹⨀①🆎(tathā+gata) ⏏️(vā) 🚹⨀①🆎(tathā+gata+sāvaka) ⏏️(vā) 🚹⨀②(dhamma) 🟠⨀🤟⏮(deseti)  
+to that / to me / Tathāgata / or / disciple of the Buddha / or / Dhamma / taught  
 *"Because of that, the Tathāgata and his disciples taught the Dhamma to me." ([Bonus: 26, 12.3](../11-pbt/#s26-u12-3)) `desesi`: `-i` third person singular {428} after the `s` {491} and the `e` of `deseti`; no `a`.*
 
 4. > Tāhaṁ dhammaṁ sutvā tathāgate saddhaṁ **paṭilabhiṁ**.

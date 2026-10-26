@@ -105,7 +105,7 @@ there / indeed / the Bhagavā / of the group of five / bhikkhū / addressed
 
 > appiyehi **sampayogo** dukkho, piyehi **vippayogo** dukkho
 
-🚹⨂③🆎(na+piya) 🚹⨀①(sampayoga) 🚹⨀①(dukkha) 🚹⨂③(piya) 🚹⨀①(vippayoga) 🚹⨀①(dukkha)  
+🚹⨂③🆎(na+piya) 🚹⨀①(sampayoga) 🚹⨀①(dukkha) 🚹⨂⑤(piya) 🚹⨀①(vippayoga) 🚹⨀①(dukkha)  
 with the unloved / association / suffering / from the loved / separation / suffering  
 *`pa` + `√yuj` ("yoke") under two prefixes: `saṁ` ("together"), `sam` before `p` {31}, gives association, and `vi` ("apart"), the `p` doubled after it {28}, separation ([5: 4.1](../5-dhammacakka/#u4-1)).*
 

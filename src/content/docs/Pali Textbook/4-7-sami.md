@@ -127,7 +127,7 @@ of the earth-dwelling / devas / the cry / having heard
 
 3. > Ayaṁ **dukkhassa** atthaṅgamo
 
-*️⃣🤟🚹⨀①(ima) 🚻⨀⑥(dukkha) 🚹⨀①🆎(atthaṁ+gama)  
+*️⃣🤟🚹⨀①(ima) 🚻⨀⑥(dukkha) 🚹⨀①🆎(attha+gama)  
 this / suffering / disappearance of  
 *This is disappearance of dukkha (suffering).*
 

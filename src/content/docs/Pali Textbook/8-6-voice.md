@@ -171,8 +171,8 @@ this / is said / bhikkhave / right effort
 
 2. > Tassa me tathāgato vā tathāgatasāvako vā dhammaṁ **desesi**.
 
-*️⃣🤟🚹⨀⑥(ta) *️⃣👆⚧⨀④(ahaṁ) 🚹⨀①🆎(tathā+gata) ⏏️(vā) 🚹⨀①🆎(tathā+gata+sāvaka) ⏏️(vā) 🚹⨀②(dhamma) 🟠⨀🤟⏮(deseti)  
-of that / to me / Tathāgata / or / disciple of the Buddha / or / Dhamma / taught  
+*️⃣🤟🚹⨀④(ta) *️⃣👆⚧⨀④(ahaṁ) 🚹⨀①🆎(tathā+gata) ⏏️(vā) 🚹⨀①🆎(tathā+gata+sāvaka) ⏏️(vā) 🚹⨀②(dhamma) 🟠⨀🤟⏮(deseti)  
+to that / to me / Tathāgata / or / disciple of the Buddha / or / Dhamma / taught  
 *Because of that, the Tathāgata and his disciples taught the Dhamma to me.*  
 *Causative 🟠: `disa` ("point out", the `bhū` class) + `e` {438} before the past ending `-si`; what is taught, `dhammaṁ`, in ② {297}; [Bonus: 26, 12.3](../11-pbt/#s26-u12-3).*
 

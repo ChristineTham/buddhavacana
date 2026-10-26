@@ -148,7 +148,7 @@ thus / seeing / bhikkhave / learned / awakened disciple / the eye / too / gives 
 
 5. > sabyābajjhaṁ vedanaṁ **vedayati** ekantadukkhaṁ,
 
-🚺⨀②(sabyābajjha) 🚺⨀②(vedanā) 🟢⨀🤟▶️(vedayati) 🚺⨀②🆎(ekanta+dukkha)  
+🚺⨀②🆎(sa+byābajjha) 🚺⨀②(vedanā) 🟢⨀🤟▶️(vedayati) 🚺⨀②🆎(ekanta+dukkha)  
 harmful / feelings / experiences / totally painful  
 *"experiences totally painful harmful feelings" ([Bonus: 23, 1.6](../11-pbt/#s23-u1-6)) `vedayati`: `-ayati`, `ṇaya` of the `cura` class, its `ṇ` dropped {452}, {523}; the root `vida` (to feel).*
 

@@ -154,6 +154,6 @@ that / secluding oneself from / just / sensual pleasures
 
 7. > piyehi **vippayogo** dukkho
 
-🚹⨂③(piya) 🚹⨀①(vippayoga) 🚹⨀①(dukkha)  
+🚹⨂⑤(piya) 🚹⨀①(vippayoga) 🚹⨀①(dukkha)  
 from the loved / separation / suffering  
 *`vippayogo` = `vi` + `payogo`: the `p` doubled after the prefix `vi` {28}; [5: 4.1](../5-dhammacakka/#u4-1).*
