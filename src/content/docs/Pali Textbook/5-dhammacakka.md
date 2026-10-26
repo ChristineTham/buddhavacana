@@ -33,7 +33,7 @@ Buddhists often use the word `dhamma` to refer to the Buddha's teachings, but th
 > - (ii) the (stages to) freedom from the world of experience, culminating in nibbāna; 
 > - (iii) (sg.) the behaviour, conduct, practice required to realise and understand the way the world of experience works; the way to arahatship;
 
-According to the Buddha, this insight into the world of experience have "never been heard before" (`pubbe ananussutesu dhammesu cakkhuṁ`). Hence the "wheel of Dhamma" are the four realisations across three phases (arising, actioning, actioned).
+According to the Buddha, this insight into the world of experience has "never been heard before" (`pubbe ananussutesu dhammesu cakkhuṁ`). Hence the "wheel of Dhamma" is the four realisations across three phases (arising, actioning, actioned).
 :::
 
 ### 1. The two extremes and the middle way

@@ -37,7 +37,7 @@ Pali consists of 8 vowels (sara) and 33 consonants (vyañjana), arranged in the 
 |---------|:---:|:--:|:-------:|:-------:|:---------:|:------:|:---------:|:------:|:---:|:-----:|:-----:|:------:|
 |kaṇṭhaja |  a  |  ā |         |         |     k     |   kh   |     g     |    gh  |  ṅ  |       |    h  |        |
 |tāluja   |  i  |  ī |    e    |         |     c     |   ch   |     j     |    jh  |  ñ  |   y   |       |        |
-|muḍḍhaja |     |    |    o    |    ṁ    |     ṭ     |   ṭh   |     ḍ     |    ḍh  |  ṇ  |  r ḷ  |       |        |
+|muddhaja |     |    |    o    |    ṁ    |     ṭ     |   ṭh   |     ḍ     |    ḍh  |  ṇ  |  r ḷ  |       |        |
 |dantaja  |     |    |         |         |     t     |   th   |     d     |    dh  |  n  |  v l  |       |    s   |
 |oṭṭhaja  |  u  |  ū |         |         |     p     |   ph   |     b     |    bh  |  m  |       |       |        |
 
@@ -47,7 +47,7 @@ Pali consists of 8 vowels (sara) and 33 consonants (vyañjana), arranged in the 
 |-----|-----|-----|
 |kaṇṭhaja|Gutturals|pronounced in the throat|
 |tāluja|Palatals|pressing the tongue on the front-palate|
-|muḍḍhaja|Linguals (Cerebrals, Retroflex)|bringing the up-turned tip of the tongue in contact with the back of the palate|
+|muddhaja|Linguals (Cerebrals, Retroflex)|bringing the up-turned tip of the tongue in contact with the back of the palate|
 |dantaja|Dentals|pronounced with the aid of the teeth|
 |oṭṭhaja|Labials|formed by means of the lips|
 |hakāra|Spirant|a strong aspirated breathing|

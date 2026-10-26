@@ -204,7 +204,7 @@ With mental constructions as cause, consciousness [arises];
 <a id="u7-4"></a>7.4 viññāṇapaccayā nāmarūpaṁ,  
 🚹⨀⑤🆎(viññāṇa+paccaya) 🚻⨀①🆎(nāma+rūpa)  
 with consciousness as cause | phenomenal objects  
-With consciousness as cause, phenomenal objects [arises];
+With consciousness as cause, phenomenal objects [arise];
 
 <a id="u7-5"></a>7.5 nāmarūpapaccayā saḷāyatanaṁ,  
 🚹⨀⑤🆎(nāmarūpa+paccaya) 🚻⨀①🆎(cha+āyatana)  
@@ -357,7 +357,7 @@ With mental constructions as cause, consciousness [arises];
 <a id="u10-4"></a>10.4 viññāṇapaccayā nāmarūpaṁ,  
 🚹⨀⑤🆎(viññāṇa+paccaya) 🚻⨀①🆎(nāma+rūpa)  
 with consciousness as cause | phenomenal objects  
-With consciousness as cause, phenomenal objects [arises];
+With consciousness as cause, phenomenal objects [arise];
 
 <a id="u10-5"></a>10.5 nāmarūpapaccayā saḷāyatanaṁ,  
 🚹⨀⑤🆎(nāmarūpa+paccaya) 🚻⨀①🆎(cha+āyatana)  

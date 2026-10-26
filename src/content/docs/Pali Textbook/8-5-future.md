@@ -79,7 +79,7 @@ sits on a lemma; `passati` ("sees") is a present: no `i`.
 > Āraddhaṁ kho pana me vīriyaṁ **bhavissati** asallīnaṁ
 
 🚻⨀①(āraddha) 🔼(kho pana) *️⃣👆⚧⨀③(ahaṁ) 🚻⨀①(vīriya) ⏭🤟⨀(bhavati) 🚻⨀①(asallīna)  
-applied / and now /  with me /  determination / will become / active  
+applied / and now / with me / determination / will become / active  
 *`bhavissati`, "will become": `-ssati`, the future, third person singular {429}, with the `i` before `ssa` {516}; [Bonus: 45, 9.7](../11-pbt/#s45-u9-7).*
 
 > te **gacchissanti**, **karissanti**

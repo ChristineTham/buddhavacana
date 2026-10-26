@@ -98,7 +98,7 @@ All twelve endings of each set are in [Appendix I](../i-verbs/) and chapter
 
 ### Examples
 
-From chapters [7](../7-anatta/) and the [bonus chapter](../11-pbt/); each citation links to the sentence.
+From chapter [7](../7-anatta/) and the [bonus chapter](../11-pbt/); each citation links to the sentence.
 
 > evaṁ me saṅkhārā **hontu**
 

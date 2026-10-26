@@ -69,7 +69,7 @@ This is used as the pronoun for `uttama purisa` (in English, "1st" person)
 
 ## `ta(d)`
 
-This is used as the pronoun for `majjima purisa` (in English, "2nd" person)
+This is used as the pronoun for `majjhima purisa` (in English, "2nd" person)
 
 | `vibhatti` | ⨀ | ⨂ |
 | :-: | --- | --- |

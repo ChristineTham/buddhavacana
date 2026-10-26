@@ -26,7 +26,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 | 🔴 | `kamma` | passive voice |
 | 🟠 | `kārita` | causative |
 | 🤟 | `paṭhama purisa` | first person, equivalent to 'third person' in English |
-| 🤘 | `majjima purisa` | middle person, equivalent to 'second person' in English |
+| 🤘 | `majjhima purisa` | middle person, equivalent to 'second person' in English |
 | 👆 | `uttama purisa` | primary person, equivalent to 'first person' in English |
 | ⓪ | `ālapana` | vocative |
 | ① | `paṭhamā` | first case (nominative) |
