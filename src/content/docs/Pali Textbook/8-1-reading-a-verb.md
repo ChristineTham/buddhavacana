@@ -77,7 +77,7 @@ met below.
 
 `pañcamī` and `sattamī` are labels, shared with the ⑤ and ⑦ noun endings;
 the other names describe their time. The `hiyyattanī` occurs once in the
-texts (`ajjhagamaṁ`, "I achieved", [Bonus: 46, 18.1](../11-pbt/#s46-u18-1)) and the
+texts (`ajjhagamaṁ`, "I achieved", [Bonus: 47, 18.1](../11-pbt/#s47-u18-1)) and the
 `parokkhā` once (`āha` inside `evamāha`, [Bonus: 1, 24.8](../11-pbt/#s1-u24-8)); the `ajjatanī` is on
 every page. Three more rules shape what you see: `vattamānā`, `pañcamī`,
 `sattamī` and `hiyyattanī` are grouped as `sabbadhātuka` {431}, and the other

@@ -47,7 +47,7 @@ texts', each linked to its sentence, except `parābhavo` (Kaccāyana's own) and 
 | `pa` | forth; clearly | `pajānāti`, knows clearly ([3: 6.4](../3-awakening/#u6-4)) | {221} |
 | `parā` | away; the reverse | `parābhavo`, ruin | {221} |
 | `ni` | down, into | `nirodho`, cessation ([3: 4.12](../3-awakening/#u4-12)) | {221} |
-| `nī` | out | `nissaraṇaṁ`, the way out ([Bonus: 50, 3.3](../11-pbt/#s50-u3-3)) | {28} |
+| `nī` | out | `nissaraṇaṁ`, the way out ([Bonus: 51, 3.3](../11-pbt/#s51-u3-3)) | {28} |
 | `u` | up | `udapādi`, arose ([5: 5.1](../5-dhammacakka/#u5-1)) | {35} |
 | `du` | badly; hard to | `dukkaraṁ`, hard to do | {28} |
 | `saṁ` | together; fully | `sambodhi`, full awakening ([5: 2.4](../5-dhammacakka/#u2-4)) | {31} |
@@ -78,11 +78,11 @@ and root meet; each rule number links to the full rule.
 | --- | --- | --- | :-: |
 | `sam`, `saṅ`, `sañ`, `san` | `saṁ`, with the nasal of the next consonant's group; kept before `v`, `s`, `h` | `sambodhi` ([5: 2.4](../5-dhammacakka/#u2-4)), `cakkhusamphasso` ([9: 2.3](../9-fire/#u2-3)), `saṅkhārā` ([7: 4.4](../7-anatta/#u4-4)), `saññā` ([7: 4.1](../7-anatta/#u4-1)), `sandiṭṭhiko`; `saṁvattati` ([7: 2.3](../7-anatta/#u2-3)) | {31}, {30} |
 | `sam` before a vowel | `saṁ` | `samudayo` ([3: 3.12](../3-awakening/#u3-12)), `samanupassituṁ` ([7: 6.5](../7-anatta/#u6-5)) | {34} |
-| a doubled consonant after `vi`, `u`, `pa`, `du`, `anu`, `pari`, `nī`, `ati` | the next consonant doubled | `vippayogo` ([5: 4.1](../5-dhammacakka/#u4-1)), `uppajjati` ([9: 2.4](../9-fire/#u2-4)), `nissaraṇaṁ` ([Bonus: 50, 3.3](../11-pbt/#s50-u3-3)), `atikkamma` ([5: 13.2](../5-dhammacakka/#u13-2)) | {28} |
+| a doubled consonant after `vi`, `u`, `pa`, `du`, `anu`, `pari`, `nī`, `ati` | the next consonant doubled | `vippayogo` ([5: 4.1](../5-dhammacakka/#u4-1)), `uppajjati` ([9: 2.4](../9-fire/#u2-4)), `nissaraṇaṁ` ([Bonus: 51, 3.3](../11-pbt/#s51-u3-3)), `atikkamma` ([5: 13.2](../5-dhammacakka/#u13-2)) | {28} |
 | `ud` before a vowel | `u` with a `d` inserted | `udapādi` ([5: 5.1](../5-dhammacakka/#u5-1)), `udānesi` ([3: 5.1](../3-awakening/#u5-1)) | {35} |
 | a final vowel gone | a vowel dropped before a vowel | `upādāna` (`upa` + `ādāna`, [3: 3.8](../3-awakening/#u3-8)), `upāyāsehi` (`upa` + `āyāsa`, [9: 2.6](../9-fire/#u2-6)) | {12} |
 | `abbh` before a vowel | `abhi` | `abbhuggacchi` ([5: 13.1](../5-dhammacakka/#u13-1)) | {44} |
-| `ajjh` before a vowel | `adhi` | `ajjhattaṁ` ([7: 7.1](../7-anatta/#u7-1)), `ajjhagamaṁ` ([Bonus: 46, 18.1](../11-pbt/#s46-u18-1)) | {45} |
+| `ajjh` before a vowel | `adhi` | `ajjhattaṁ` ([7: 7.1](../7-anatta/#u7-1)), `ajjhagamaṁ` ([Bonus: 47, 18.1](../11-pbt/#s47-u18-1)) | {45} |
 | `pacc` before a vowel | `pati`, the `ti` become `cc` | `paccaññāsiṁ` ([5: 10.1](../5-dhammacakka/#u10-1)), `paccassosuṁ` ([7: 1.3](../7-anatta/#u1-3)), `paccayā` ([9: 2.4](../9-fire/#u2-4)) | {19} |
 | `paṭi` | `pati`, in most words | `paṭipadā` ([5: 2.4](../5-dhammacakka/#u2-4)), `paṭicca` ([Bonus: 14, 8.1](../11-pbt/#s14-u8-1)), `paṭilabhiṁ` ([Bonus: 26, 12.4](../11-pbt/#s26-u12-4)) | {48} |
 | `o` before a consonant | `ava` | `obhāso` ([5: 13.2](../5-dhammacakka/#u13-2)), `ohāretvā` ([Bonus: 26, 12.8](../11-pbt/#s26-u12-8)) | {50} |
@@ -138,7 +138,7 @@ deconstruction.
 3. saṅkhārā ([3: 3.1](../3-awakening/#u3-1))
 4. pariññeyyaṁ ([5: 5.2](../5-dhammacakka/#u5-2))
 5. paṭipadā ([5: 2.4](../5-dhammacakka/#u2-4))
-6. nissaraṇaṁ ([Bonus: 50, 3.3](../11-pbt/#s50-u3-3))
+6. nissaraṇaṁ ([Bonus: 51, 3.3](../11-pbt/#s51-u3-3))
 7. ajjhattaṁ ([7: 7.1](../7-anatta/#u7-1))
 8. uppajjati ([9: 2.4](../9-fire/#u2-4))
 
@@ -180,7 +180,7 @@ way
 
 🚻⨀①(nissaraṇa)  
 way out of  
-*`nī` ("out") + `√sar` ("go"), "going out": the `s` doubles after the prefix {28} and the `ī` written short ([Bonus: 50, 3.3](../11-pbt/#s50-u3-3)).*
+*`nī` ("out") + `√sar` ("go"), "going out": the `s` doubles after the prefix {28} and the `ī` written short ([Bonus: 51, 3.3](../11-pbt/#s51-u3-3)).*
 
 7. > **ajjhattaṁ**
 

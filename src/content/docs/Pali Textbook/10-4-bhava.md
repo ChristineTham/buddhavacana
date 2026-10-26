@@ -150,4 +150,4 @@ what / and / bhikkhave / mental constructions
 
 🚻⨀①(anuttara) 🚹⨀②(yogakkhema) 🚻⨀①(nibbāna)  
 unsurpassed / sanctuary / extinguishment  
-*`tara` {363}: `ud` (up) with `-tara` is `uttaro` ("higher"); `an-` (not) in front, "with none higher"; [Bonus: 46, 18.1](../11-pbt/#s46-u18-1).*
+*`tara` {363}: `ud` (up) with `-tara` is `uttaro` ("higher"); `an-` (not) in front, "with none higher"; [Bonus: 47, 18.1](../11-pbt/#s47-u18-1).*

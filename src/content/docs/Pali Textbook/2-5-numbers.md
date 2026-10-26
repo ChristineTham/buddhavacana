@@ -96,7 +96,7 @@ number stands bare and the ending belongs to the whole word; `dvi` appears as
 
 :::note
 How to tell `satta` from `sattā`: a number from `pañca` to `dasa` never ends
-in `-ā`. `satta vassāni` ([Bonus: 45, 3.2](../11-pbt/#s45-u3-2)) is "seven years", but `sattā nerayikā`
+in `-ā`. `satta vassāni` ([Bonus: 46, 3.2](../11-pbt/#s46-u3-2)) is "seven years", but `sattā nerayikā`
 ([Bonus: 23, 1.6](../11-pbt/#s23-u1-6)) is "beings in
 hell", the 🚹①⨂ of `satta` ("a being").
 :::
