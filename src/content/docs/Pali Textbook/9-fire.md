@@ -52,8 +52,8 @@ The `cakkhu` (eye) is burning, `rūpā` (things) are burning, `cakkhuviññāṇ
 
 <a id="u2-4"></a>2.4 Yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi ādittaṁ.  
 *️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(cakkhu+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita) 🚻⨀①(sukha) ⏏️(vā) 🚻⨀①(dukkha) ⏏️(vā) 🚻⨀①🆎(na+dukkha+na+sukha) ⏏️(vā) *️⃣🤟🚻⨀①(ta) ⏏️(api) 🚻⨀①🔽(ta)(āditta)  
-what | too | this | with eye-contact as condition | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | burning  
-And whatever `vedayitaṁ` (feeling) arises conditioned by eye-contact, whether pleasant or painful or neutral, that too is burning.
+what | too | this | with eye-contact as cause | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | burning  
+And whatever `vedayitaṁ` (feeling) arises with eye-contact as cause, whether pleasant or painful or neutral, that too is burning.
 
 <a id="u2-5"></a>2.5 Kena ādittaṁ?  
 *️⃣🤟🚻⨀③(kiṁ) 🚻⨀①🔽(ta)(āditta)  
@@ -74,8 +74,8 @@ The ear is burning, sounds are burning, ear-consciousness is burning, ear-contac
 
 <a id="u3-2"></a>3.2 Yampidaṁ sotasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi ādittaṁ.  
 *️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(sota+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita) 🚻⨀①(sukha) ⏏️(vā) 🚻⨀①(dukkha) ⏏️(vā) 🚻⨀①🆎(na+dukkha+na+sukha) ⏏️(vā) *️⃣🤟🚻⨀①(ta) ⏏️(api) 🚻⨀①🔽(ta)(āditta)  
-what | too | this | with ear-contact as condition | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | burning  
-And whatever feeling arises conditioned by ear-contact, whether pleasant or painful or neutral, that too is burning.
+what | too | this | with ear-contact as cause | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | burning  
+And whatever feeling arises with ear-contact as cause, whether pleasant or painful or neutral, that too is burning.
 
 <a id="u3-3"></a>3.3 Kena ādittaṁ?  
 *️⃣🤟🚻⨀③(kiṁ) 🚻⨀①🔽(ta)(āditta)  
@@ -94,8 +94,8 @@ The nose is burning, odors are burning, nose-consciousness is burning, nose-cont
 
 <a id="u4-2"></a>4.2 Yampidaṁ ghānasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi ādittaṁ.  
 *️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(ghāna+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita) 🚻⨀①(sukha) ⏏️(vā) 🚻⨀①(dukkha) ⏏️(vā) 🚻⨀①🆎(na+dukkha+na+sukha) ⏏️(vā) *️⃣🤟🚻⨀①(ta) ⏏️(api) 🚻⨀①🔽(ta)(āditta)  
-what | too | this | with nose-contact as condition | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | burning  
-And whatever feeling arises conditioned by nose-contact, whether pleasant or painful or neutral, that too is burning.
+what | too | this | with nose-contact as cause | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | burning  
+And whatever feeling arises with nose-contact as cause, whether pleasant or painful or neutral, that too is burning.
 
 <a id="u4-3"></a>4.3 Kena ādittaṁ?  
 *️⃣🤟🚻⨀③(kiṁ) 🚻⨀①🔽(ta)(āditta)  
@@ -114,8 +114,8 @@ The tongue is burning, tastes are burning, tongue-consciousness is burning, tong
 
 <a id="u5-2"></a>5.2 Yampidaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi ādittaṁ.  
 *️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(jivhā+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita) 🚻⨀①(sukha) ⏏️(vā) 🚻⨀①(dukkha) ⏏️(vā) 🚻⨀①🆎(na+dukkha+na+sukha) ⏏️(vā) *️⃣🤟🚻⨀①(ta) ⏏️(api) 🚻⨀①🔽(ta)(āditta)  
-what | too | this | with tongue-contact as condition | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | burning  
-And whatever feeling arises conditioned by tongue-contact, whether pleasant or painful or neutral, that too is burning.
+what | too | this | with tongue-contact as cause | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | burning  
+And whatever feeling arises with tongue-contact as cause, whether pleasant or painful or neutral, that too is burning.
 
 <a id="u5-3"></a>5.3 Kena ādittaṁ?  
 *️⃣🤟🚻⨀③(kiṁ) 🚻⨀①🔽(ta)(āditta)  
@@ -134,8 +134,8 @@ The body is burning, tangibles are burning, body-consciousness is burning, body-
 
 <a id="u6-2"></a>6.2 Yampidaṁ kāyasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi ādittaṁ.  
 *️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(kāya+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita) 🚻⨀①(sukha) ⏏️(vā) 🚻⨀①(dukkha) ⏏️(vā) 🚻⨀①🆎(na+dukkha+na+sukha) ⏏️(vā) *️⃣🤟🚻⨀①(ta) ⏏️(api) 🚻⨀①🔽(ta)(āditta)  
-what | too | this | with body-contact as condition | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | burning  
-And whatever feeling arises conditioned by body-contact, whether pleasant or painful or neutral, that too is burning.
+what | too | this | with body-contact as cause | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | burning  
+And whatever feeling arises with body-contact as cause, whether pleasant or painful or neutral, that too is burning.
 
 <a id="u6-3"></a>6.3 Kena ādittaṁ?  
 *️⃣🤟🚻⨀③(kiṁ) 🚻⨀①🔽(ta)(āditta)  
@@ -154,8 +154,8 @@ The mind is burning, mental phenomena (`dhammā`) are burning, mind-consciousnes
 
 <a id="u7-2"></a>7.2 Yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi ādittaṁ.  
 *️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(mano+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita) 🚻⨀①(sukha) ⏏️(vā) 🚻⨀①(dukkha) ⏏️(vā) 🚻⨀①🆎(na+dukkha+na+sukha) ⏏️(vā) *️⃣🤟🚻⨀①(ta) ⏏️(api) 🚻⨀①🔽(ta)(āditta)  
-what | too | this | with mind-contact as condition | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | burning  
-And whatever feeling arises conditioned by mind-contact, whether pleasant or painful or neutral, that too is burning.
+what | too | this | with mind-contact as cause | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | burning  
+And whatever feeling arises with mind-contact as cause, whether pleasant or painful or neutral, that too is burning.
 
 <a id="u7-3"></a>7.3 Kena ādittaṁ?  
 *️⃣🤟🚻⨀③(kiṁ) 🚻⨀①🔽(ta)(āditta)  
@@ -171,33 +171,33 @@ Burning with the fire of passion, with the fire of hatred, with the fire of delu
 
 <a id="u8-1"></a>[8.1](https://tipitaka2500.github.io/tipitaka/13S4/1/1.1/1.1.3/1.1.3.6.html#p_13S4_75) Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako cakkhusmimpi nibbindati, rūpesupi nibbindati, cakkhuviññāṇepi nibbindati, cakkhusamphassepi nibbindati, yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.  
 ⏏️(evaṁ) 🚹⨀①🔽(anta)(passanta) 🚹⨂⓪(bhikkhu) 🚹⨀①(sutavant) 🚹⨀①🆎(ariya+sāvaka) 🚻⨀⑦(cakkhu) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚻⨂⑦(rūpa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚻⨀⑦🆎(cakkhu+viññāṇa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨀⑦🆎(cakkhu+samphassa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) *️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(cakkhu+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita) 🚻⨀①(sukha) ⏏️(vā) 🚻⨀①(dukkha) ⏏️(vā) 🚻⨀①🆎(na+dukkha+na+sukha) ⏏️(vā) *️⃣🤟🚻⨀⑦(ta) ⏏️(api) 🟢⨀🤟▶️(nibbindati)  
-thus | seeing | bhikkhave | learned | awakened disciple | the eye | too | gives up | forms | too | gives up | eye-consciousness | too | gives up | eye-contact | too | gives up | what | too | this | with eye-contact as condition | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | gives up  
-Thus seeing, bhikkhave, the `sutavā` (learned) `ariyasāvaka` (awakened disciple) `nibbindati` (gives up) the eye, gives up forms, gives up eye-consciousness, gives up eye-contact, and whatever feeling arises conditioned by eye-contact, whether pleasant or painful or neutral, that too he gives up.
+thus | seeing | bhikkhave | learned | awakened disciple | the eye | too | gives up | forms | too | gives up | eye-consciousness | too | gives up | eye-contact | too | gives up | what | too | this | with eye-contact as cause | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | gives up  
+Thus seeing, bhikkhave, the `sutavā` (learned) `ariyasāvaka` (awakened disciple) `nibbindati` (gives up) the eye, gives up forms, gives up eye-consciousness, gives up eye-contact, and whatever feeling arises with eye-contact as cause, whether pleasant or painful or neutral, that too he gives up.
 
 <a id="u8-2"></a>8.2 Sotasmimpi nibbindati, saddesupi nibbindati, sotaviññāṇepi nibbindati, sotasamphassepi nibbindati, yampidaṁ sotasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.  
 🚻⨀⑦(sota) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨂⑦(sadda) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚻⨀⑦🆎(sota+viññāṇa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨀⑦🆎(sota+samphassa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) *️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(sota+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita) 🚻⨀①(sukha) ⏏️(vā) 🚻⨀①(dukkha) ⏏️(vā) 🚻⨀①🆎(na+dukkha+na+sukha) ⏏️(vā) *️⃣🤟🚻⨀⑦(ta) ⏏️(api) 🟢⨀🤟▶️(nibbindati)  
-the ear | too | gives up | sounds | too | gives up | ear-consciousness | too | gives up | ear-contact | too | gives up | what | too | this | with ear-contact as condition | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | gives up  
-He gives up the ear, gives up sounds, gives up ear-consciousness, gives up ear-contact, and whatever feeling arises conditioned by ear-contact, whether pleasant or painful or neutral, that too he gives up.
+the ear | too | gives up | sounds | too | gives up | ear-consciousness | too | gives up | ear-contact | too | gives up | what | too | this | with ear-contact as cause | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | gives up  
+He gives up the ear, gives up sounds, gives up ear-consciousness, gives up ear-contact, and whatever feeling arises with ear-contact as cause, whether pleasant or painful or neutral, that too he gives up.
 
 <a id="u8-3"></a>8.3 Ghānasmimpi nibbindati, gandhesupi nibbindati, ghānaviññāṇepi nibbindati, ghānasamphassepi nibbindati, yampidaṁ ghānasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.  
 🚻⨀⑦(ghāna) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨂⑦(gandha) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚻⨀⑦🆎(ghāna+viññāṇa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨀⑦🆎(ghāna+samphassa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) *️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(ghāna+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita) 🚻⨀①(sukha) ⏏️(vā) 🚻⨀①(dukkha) ⏏️(vā) 🚻⨀①🆎(na+dukkha+na+sukha) ⏏️(vā) *️⃣🤟🚻⨀⑦(ta) ⏏️(api) 🟢⨀🤟▶️(nibbindati)  
-the nose | too | gives up | odors | too | gives up | nose-consciousness | too | gives up | nose-contact | too | gives up | what | too | this | with nose-contact as condition | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | gives up  
-He gives up the nose, gives up odors, gives up nose-consciousness, gives up nose-contact, and whatever feeling arises conditioned by nose-contact, whether pleasant or painful or neutral, that too he gives up.
+the nose | too | gives up | odors | too | gives up | nose-consciousness | too | gives up | nose-contact | too | gives up | what | too | this | with nose-contact as cause | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | gives up  
+He gives up the nose, gives up odors, gives up nose-consciousness, gives up nose-contact, and whatever feeling arises with nose-contact as cause, whether pleasant or painful or neutral, that too he gives up.
 
 <a id="u8-4"></a>8.4 Jivhāyapi nibbindati, rasesupi nibbindati, jivhāviññāṇepi nibbindati, jivhāsamphassepi nibbindati, yampidaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.  
 🚺⨀⑦(jivhā) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨂⑦(rasa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚻⨀⑦🆎(jivhā+viññāṇa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨀⑦🆎(jivhā+samphassa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) *️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(jivhā+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita) 🚻⨀①(sukha) ⏏️(vā) 🚻⨀①(dukkha) ⏏️(vā) 🚻⨀①🆎(na+dukkha+na+sukha) ⏏️(vā) *️⃣🤟🚻⨀⑦(ta) ⏏️(api) 🟢⨀🤟▶️(nibbindati)  
-the tongue | too | gives up | tastes | too | gives up | tongue-consciousness | too | gives up | tongue-contact | too | gives up | what | too | this | with tongue-contact as condition | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | gives up  
-He gives up the tongue, gives up tastes, gives up tongue-consciousness, gives up tongue-contact, and whatever feeling arises conditioned by tongue-contact, whether pleasant or painful or neutral, that too he gives up.
+the tongue | too | gives up | tastes | too | gives up | tongue-consciousness | too | gives up | tongue-contact | too | gives up | what | too | this | with tongue-contact as cause | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | gives up  
+He gives up the tongue, gives up tastes, gives up tongue-consciousness, gives up tongue-contact, and whatever feeling arises with tongue-contact as cause, whether pleasant or painful or neutral, that too he gives up.
 
 <a id="u8-5"></a>8.5 Kāyasmimpi nibbindati, phoṭṭhabbesupi nibbindati, kāyaviññāṇepi nibbindati, kāyasamphassepi nibbindati, yampidaṁ kāyasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.  
 🚹⨀⑦(kāya) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚻⨂⑦(phoṭṭhabba) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚻⨀⑦🆎(kāya+viññāṇa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨀⑦🆎(kāya+samphassa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) *️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(kāya+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita) 🚻⨀①(sukha) ⏏️(vā) 🚻⨀①(dukkha) ⏏️(vā) 🚻⨀①🆎(na+dukkha+na+sukha) ⏏️(vā) *️⃣🤟🚻⨀⑦(ta) ⏏️(api) 🟢⨀🤟▶️(nibbindati)  
-the body | too | gives up | tangibles | too | gives up | body-consciousness | too | gives up | body-contact | too | gives up | what | too | this | with body-contact as condition | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | gives up  
-He gives up the body, gives up tangibles, gives up body-consciousness, gives up body-contact, and whatever feeling arises conditioned by body-contact, whether pleasant or painful or neutral, that too he gives up.
+the body | too | gives up | tangibles | too | gives up | body-consciousness | too | gives up | body-contact | too | gives up | what | too | this | with body-contact as cause | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | gives up  
+He gives up the body, gives up tangibles, gives up body-consciousness, gives up body-contact, and whatever feeling arises with body-contact as cause, whether pleasant or painful or neutral, that too he gives up.
 
 <a id="u8-6"></a>8.6 Manasmimpi nibbindati, dhammesupi nibbindati, manoviññāṇepi nibbindati, manosamphassepi nibbindati, yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.  
 🚹⨀⑦(mano) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨂⑦(dhamma) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚻⨀⑦🆎(mano+viññāṇa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨀⑦🆎(mano+samphassa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) *️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(mano+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita) 🚻⨀①(sukha) ⏏️(vā) 🚻⨀①(dukkha) ⏏️(vā) 🚻⨀①🆎(na+dukkha+na+sukha) ⏏️(vā) *️⃣🤟🚻⨀⑦(ta) ⏏️(api) 🟢⨀🤟▶️(nibbindati)  
-the mind | too | gives up | mental phenomena | too | gives up | mind-consciousness | too | gives up | mind-contact | too | gives up | what | too | this | with mind-contact as condition | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | gives up  
-He gives up the mind, gives up mental phenomena (`dhammā`), gives up mind-consciousness, gives up mind-contact, and whatever feeling arises conditioned by mind-contact, whether pleasant or painful or neutral, that too he gives up.
+the mind | too | gives up | mental phenomena | too | gives up | mind-consciousness | too | gives up | mind-contact | too | gives up | what | too | this | with mind-contact as cause | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | gives up  
+He gives up the mind, gives up mental phenomena (`dhammā`), gives up mind-consciousness, gives up mind-contact, and whatever feeling arises with mind-contact as cause, whether pleasant or painful or neutral, that too he gives up.
 
 <a id="u9-1"></a>[9.1](https://tipitaka2500.github.io/tipitaka/13S4/1/1.1/1.1.3/1.1.3.6.html#p_13S4_75) Nibbindaṁ virajjati; virāgā vimuccati; vimuttasmiṁ vimuttamiti ñāṇaṁ hoti.  
 🚹⨀①🔽(anta)(nibbindanta) 🟢⨀🤟▶️(virajjati) 🚹⨀⑤(virāga) 🔵⨀🤟▶️(vimuccati) 🚻⨀⑦🔽(ta)(vimutta) 🚻⨀①🔽(ta)(vimutta) ⏏️(iti) 🚻⨀①(ñāṇa) 🟢⨀🤟▶️(hoti)  

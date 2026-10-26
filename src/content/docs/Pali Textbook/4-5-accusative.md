@@ -107,10 +107,10 @@ deconstruction.
 1. > Yato **khayaṁ** paccayānaṁ avedī”ti.
 
 ⏏️(yato) 🚹⨀②(khaya) 🚹⨂⑥(paccaya) 🟢⨀🤟⏮(vedeti) ⏏️(iti)  
-since / the destruction / of conditions / knew / (end quote)  
-*Since he has understood the destruction of conditions.*
+since / the destruction / of causes / knew / (end quote)  
+*Since he has understood the destruction of causes.*
 
-`khayaṁ`: the object {297}, what he understood; `paccayānaṁ`, "of conditions",
+`khayaṁ`: the object {297}, what he understood; `paccayānaṁ`, "of causes",
 is ⑥ plural.
 
 2. > Attamanā pañcavaggiyā bhikkhū bhagavato **bhāsitaṁ** abhinanduṁ.

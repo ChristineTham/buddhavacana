@@ -515,8 +515,8 @@ And so attained final Nibbāna satisfied.
 
 <a id="s17-u7-4"></a>7.4 Sahetū hi, poṭṭhapāda, sappaccayā purisassa saññā uppajjantipi nirujjhantipi.  
 🚹⨂①(sahetu) 🔼(hi) 🚹⨀⓪(poṭṭhapāda) 🚹⨂①(sappaccaya) 🚹⨀④(purisa) 🚹⨂①(sañña) ▶️🤟⨂(uppajjati) 🔼(pi) ▶️🤟⨂(nirujjhati)  🔼(pi)  
-having a cause | definitely | Poṭṭhapāda | conditional | for person | apperceptions | arises | too | ceases | too  
-Poṭṭhapāda, having a cause is definitely a condition for saññā (apperceptions) arising and ceasing for a person.
+with a reason | indeed | Poṭṭhapāda | with a cause | for person | apperceptions | arise | too | cease | too  
+Indeed, Poṭṭhapāda, with a reason and with a cause, saññā (apperceptions) arise and also cease for a person.
 
 <a id="s17-u7-5"></a>7.5 Sikkhā ekā saññā uppajjati, sikkhā ekā saññā nirujjhati.  
 🚺⨀①(sikkhā) 🚺⨀①(eka) 🚺⨀①(sañña) ▶️🤟⨀(uppajjati) 🚺⨀①(sikkhā) 🚺⨀①(eka) 🚺⨀①(sañña) ▶️🤟⨀(nirujjhati)  
@@ -673,13 +673,13 @@ Visual consciousness (cakkhuviññāṇa) arises dependent on rūpa (form) and t
 
 <a id="s19-u2-3"></a>2.3 Phassapaccayā vedanā;  
 🚺⨂①(phassapaccaya) 🚺⨂①(vedanā)  
-dependent on contact | feelings  
-Dependent on phassa (contact), vedanā (feelings).
+with contact as cause | feelings  
+With phassa (contact) as cause, vedanā (feelings).
 
 <a id="s19-u2-4"></a>2.4 vedanāpaccayā taṇhā.  
 🚺⨂①(vedanāpaccayā) 🚺⨂①(taṇhā)  
-dependent on feelings | craving  
-Dependent on vedanā (feelings), taṇhā (craving).
+with feelings as cause | craving  
+With vedanā (feelings) as cause, taṇhā (craving).
 
 <a id="s19-u2-5"></a>2.5 Tassāyeva taṇhāya asesavirāganirodhā upādānanirodho;  
 🔼(tassāyeva) 🚺⨀⑥(taṇhā) 🚹⨂①(asesavirāganirodha) 🚹⨀①(upādānanirodha)  
@@ -1863,7 +1863,7 @@ And so attained final Nibbāna satisfied.
 
 ### The Psychological Law Of Causality And Its Use
 
-Having a cause is a condition for saññā (apperceptions) arising and ceasing for a person.  
+With a reason and with a cause, saññā (apperceptions) arise and also cease for a person.  
 Practice arising a single apperception, and ceasing a single apperception.
 
 ### Liberation Is A Natural Process
@@ -1908,8 +1908,8 @@ This characteristic, one personally realises understanding and insight into libe
 ### The Origin And Control Of Suffering
 
 Visual consciousness (cakkhuviññāṇa) arises dependent on rūpa (form) and the faculty of seeing. The three combined together is phassa (contact).  
-Dependent on phassa (contact), vedanā (feelings).  
-Dependent on vedanā (feelings), taṇhā (craving).  
+With phassa (contact) as cause, vedanā (feelings).  
+With vedanā (feelings) as cause, taṇhā (craving).  
 While completely fading away and ending of craving, cessation of fuel for suffering.  
 From cessation of fuel, cessation of the existence of suffering.  
 From cessation of existence, cessation of the birth of suffering.  
