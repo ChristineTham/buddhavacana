@@ -97,7 +97,7 @@ deconstruction.
 :::
 
 1. nirodhadhammaṁ ([5: 11.1](../5-dhammacakka/#u11-1))
-2. maraṇadhammo ([Bonus: 46, 18.1](../11-pbt/#s46-u18-1))
+2. maraṇadhammo ([Bonus: 47, 18.1](../11-pbt/#s47-u18-1))
 3. avitakkaṁ (jhānaṁ) ([Bonus: 39, 11.1](../11-pbt/#s39-u11-1))
 4. avicāraṁ (jhānaṁ) ([Bonus: 39, 11.1](../11-pbt/#s39-u11-1))
 
@@ -115,7 +115,7 @@ cessation / nature / of which / that → subject to cessation
 
 🚻⨀①(maraṇaṁ) 🚹⨀①(dhammo) *️⃣🤟🚹⨀⑥(yassa) *️⃣🤟🚹⨀①(so) → 🚹⨀①🆎(maraṇa+dhamma)  
 death / nature / of whom / that [one] → whose nature is death, liable to death  
-*{328}: `-dhammo`, "whose nature is": so too `jātidhammo`, `jarādhammo`, `byādhidhammo`, `sokadhammo`, `saṅkilesadhammo` in [Bonus: 46, 18.1](../11-pbt/#s46-u18-1).*
+*{328}: `-dhammo`, "whose nature is": so too `jātidhammo`, `jarādhammo`, `byādhidhammo`, `sokadhammo`, `saṅkilesadhammo` in [Bonus: 47, 18.1](../11-pbt/#s47-u18-1).*
 
 3. > natthi vitakko yasmiṁ taṁ → **avitakkaṁ** jhānaṁ
 

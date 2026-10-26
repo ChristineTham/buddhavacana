@@ -205,7 +205,7 @@ done / what had to be done
 
 ▶️🤟⨀(atthi) 🚺⨀①(nibbuti) 🔼(na) 🚹⨀①(nibbuta) 🚹⨀①(puma)  
 there is / extinguishment / not / extinguished / male  
-*`atthi`: the root `asa` with `ti` become `tthi` {494}, "there is"; `nibbuti`, what exists, takes ①; third person singular; [Bonus: 7](../11-pbt/#7-there-is-no-soul) (Visuddhimagga XVI).*
+*`atthi`: the root `asa` with `ti` become `tthi` {494}, "there is"; `nibbuti`, what exists, takes ①; third person singular; [Bonus: 7, 1.3](../11-pbt/#s7-u1-3) (Visuddhimagga XVI).*
 
 8. > **nisinno** vā ‘nisinnomhī’ti pajānāti
 

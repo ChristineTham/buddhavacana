@@ -136,4 +136,4 @@ not + belonging to a house → to homeless state
 
 🚻⨀①🆎(na+mata)  
 not + dead → free from death  
-*`a` for `na` {333}: "not dead", the deathless, a name of nibbāna; [Bonus: 49, 66.2](../11-pbt/#s49-u66-2), `amataṁ ajjāpi ca labhanīyamidaṁ`.*
+*`a` for `na` {333}: "not dead", the deathless, a name of nibbāna; [Bonus: 50, 66.2](../11-pbt/#s50-u66-2), `amataṁ ajjāpi ca labhanīyamidaṁ`.*

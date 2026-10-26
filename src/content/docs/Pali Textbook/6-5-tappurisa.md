@@ -113,7 +113,7 @@ deconstruction.
 3. vimuttisukhapaṭisaṁvedī ([3: 2.2](../3-awakening/#u2-2))
 4. samādhijaṁ ([Bonus: 39, 11.1](../11-pbt/#s39-u11-1))
 5. tathāgatasāvako ([Bonus: 26, 12.3](../11-pbt/#s26-u12-3))
-6. sammāsambuddhadesitaṁ ([Bonus: 48, 3.2](../11-pbt/#s48-u3-2))
+6. sammāsambuddhadesitaṁ ([Bonus: 49, 3.2](../11-pbt/#s49-u3-2))
 
 ### Answers
 

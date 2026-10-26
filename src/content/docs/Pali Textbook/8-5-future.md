@@ -92,7 +92,7 @@ they / will go / will do
 
 🔼(no) 🔼(cetaṁ) 🚹⨂⓪(bhikkhu) 🔀🤟⨀(abhavissa) 🚻⨀①(ajāta) 🚻⨀①(abhūta) 🚻⨀①(akata) 🚻⨀①(asaṅkhata)  
 surely? / if this / Bhikkhave / could have been / not born / not become / not made / not formed  
-*`abhavissa`, "could have been": the conditional, third person singular, `a-` {519}, `-ssa` for `-ssā` {430}, after `no ce` ("if not"); [Bonus: 50, 3.2](../11-pbt/#s50-u3-2).*
+*`abhavissa`, "could have been": the conditional, third person singular, `a-` {519}, `-ssa` for `-ssā` {430}, after `no ce` ("if not"); [Bonus: 51, 3.2](../11-pbt/#s51-u3-2).*
 
 > Saṅkhārā ca hidaṁ, bhikkhave, attā **abhavissaṁsu**
 
