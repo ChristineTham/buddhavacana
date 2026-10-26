@@ -114,13 +114,13 @@ And what, bhikkhave, is the realisation of the source of dukkha?
 
 <a id="s3-u19-2"></a>19.2 Yāyaṁ taṇhā ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī, seyyathidaṁ  
 🔼(yāyaṁ) 🚹⨂①(taṇha) 🚹⨂①(ponobbhavika) 🚹⨂①(nandīrāgasahagata) 🚺⨀①(tatratatrābhinandī) 🔼(seyyathidaṁ)  
-whatever | craving | leading to renewed becoming | accompanied by delight and desire | who takes delight here and there; thoroughly enjoying this and that | as follows  
-Whatever craving, leading to renewed becoming, accompanied by delight and desire, experienced by one who takes delight here and there; thoroughly enjoying this and that, as follows:
+whatever | craving | leading to renewed existence | accompanied by delight and desire | who takes delight here and there; thoroughly enjoying this and that | as follows  
+Whatever craving, leading to renewed existence, accompanied by delight and desire, experienced by one who takes delight here and there; thoroughly enjoying this and that, as follows:
 
 <a id="s3-u19-3"></a>19.3 kāmataṇhā bhavataṇhā vibhavataṇhā.  
 🚺⨀①(kāmataṇhā) 🚺⨀①(bhavataṇhā) 🚺⨀①(vibhavataṇhā)  
-craving for sensual pleasure | craving for becoming | craving for annihilation  
-Craving for sensual pleasure, craving for becoming, craving for annihilation.
+craving for sensual pleasure | craving for existence | craving for non-existence  
+Craving for sensual pleasure, craving for existence, craving for non-existence.
 
 ## 4. THE CESSATION OF SUFFERING
 
@@ -1747,11 +1747,11 @@ There is a path, but no “self” is travelling.
 
 ### The source of dukkha.
 
-Dukkha is caused by craving, leading to renewed becoming, accompanied by delight and desire, and experienced by one who takes delight here and there; thoroughly enjoying this and that:
+Dukkha is caused by craving, leading to renewed existence, accompanied by delight and desire, and experienced by one who takes delight here and there; thoroughly enjoying this and that:
 
 * craving for sensual pleasure,
 * craving for existence,
-* craving for annihilation.
+* craving for non-existence.
 
 ### The end of dukkha
 
