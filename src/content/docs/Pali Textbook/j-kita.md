@@ -57,7 +57,7 @@ Kaccāyana - consult the book for a full set of examples.
 | {532} | piyaṁ pasaṁsituṁ sīlaṁ yassa rañño, so hoti rājā | piya | saṁsa | ṇī | piya + pa + saṁs~~a~~ + ~~ṇ~~ī | piyapasaṁsī | the king who used to praise the loved ones |
 | {532} | pasayha pavattituṁ sīlaṁ yassa rañño, so hoti rājā | pasayha | vatu | tu | pasayha + pa + vat~~u~~ + t~~u~~ (ā) | pasayhapavattā | the king who used to behave overbearingly |
 | {532} | bhayaṁ passituṁ sīlaṁ yassa samaṇassa so hoti samaṇo | bhaya | disa | āvī | bhaya + d~~i~~(as)s~~a~~ + āvī | bhayadassāvī | the monk who used to see dangers (of unwholesome actions) |
-| {534} | bhavapāraṁ gantuṁ sīlaṁ yassa purisassa, so hoti puriso | pāra | gamu | rū | bhavapāra + g~~amu~~ + ~~r~~ū | bhavapāragū | the man whose habit is to go the other shore of life, i.e. an enlightened Arahanta monk |
+| {534} | bhavapāraṁ gantuṁ sīlaṁ yassa purisassa, so hoti puriso | pāra | gamu | rū | bhavapāra + g~~amu~~ + ~~r~~ū | bhavapāragū | the man whose habit is to go the other shore of life, i.e. an arahant, a liberated one |
 
 | rule | phrase | dhātu | affix | transformation | word | meaning |
 | :-: | --- | :-: | :-: | --- | :-: | --- |

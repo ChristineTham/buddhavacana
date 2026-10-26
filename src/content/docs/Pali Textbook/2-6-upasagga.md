@@ -56,7 +56,7 @@ texts', each linked to its sentence, except `parābhavo` (Kaccāyana's own) and 
 | `anu` | along, after | `ananussutesu`, not heard before ([5: 5.1](../5-dhammacakka/#u5-1)) | {28} |
 | `pari` | all round; fully | `pariññeyyaṁ`, to be fully understood ([5: 5.2](../5-dhammacakka/#u5-2)) | {28} |
 | `adhi` | over; in | `ajjhattaṁ`, inwardly ([7: 7.1](../7-anatta/#u7-1)) | {45} |
-| `abhi` | towards; fully | `abhiññā`, direct knowledge ([5: 2.4](../5-dhammacakka/#u2-4)) | {221} |
+| `abhi` | towards; fully | `abhiññā`, experiential understanding ([5: 2.4](../5-dhammacakka/#u2-4)) | {221} |
 | `pati` | back, against | `paṭipadā`, the way ([5: 2.4](../5-dhammacakka/#u2-4)) | {48} |
 | `su` | well | `suvisuddhaṁ`, fully purified ([5: 9.1](../5-dhammacakka/#u9-1)) | {221} |
 | `ā` | to; the reverse | `āmantesi`, addressed ([9: 1.2](../9-fire/#u1-2)); `ādittaṁ`, burning ([9: 2.1](../9-fire/#u2-1)) | {221} |
@@ -112,7 +112,7 @@ with the unloved / association / suffering / from the loved / separation / suffe
 > **sambodhāya** nibbānāya **saṁvattati**
 
 🚹⨀④(sambodha) 🚻⨀④(nibbāna) 🟢⨀🤟▶️(saṁvattati)  
-to enlightenment / to extinguishment / leads  
+to full awakening / to extinguishment / leads  
 *`saṁ` twice: `sam` before `b` {31} in `sambodhāya` (`saṁ` + `√budh`, "wake"), `saṁ` kept before `v` {30} in `saṁvattati` (`saṁ` + `√vatt`, "proceed") ([5: 2.4](../5-dhammacakka/#u2-4)).*
 
 > cakkhuṁ **udapādi**

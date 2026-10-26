@@ -1327,8 +1327,8 @@ Indeed I, Ānanda, going beyond the base of neither apperception nor non-apperce
 
 <a id="s43-u16-2"></a>16.2 Yato ca kho ahaṁ, ānanda, imā nava anupubbavihārasamāpattiyo evaṁ anulomapaṭilomaṁ samāpajjimpi vuṭṭhahimpi, athāhaṁ, ānanda, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṁ sammāsambodhiṁ abhisambuddho’ti paccaññāsiṁ.  
 🚹⨀⑤(ya) 🔼(ca kho) *️⃣👆⚧⨀①(ahaṁ) 🚹⨀⓪(ānanda) 🚺⨂①(ima) ⚧⨂①(nava) 🚺⨂①(anupubbavihārasamāpatti) 🔼(evaṁ) 🔼(anulomapaṭilomaṁ) ⏮👆⨀(samāpajji) 🔼(pi) ⏮👆⨀(vuṭṭhahi) 🔼(pi) 🔼(athāhaṁ) 🚹⨀⓪(ānanda) 🚹⨀⑦(sadevaka) 🚹⨀⑦(loka) 🚹⨀⑦(samāraka) 🚹⨀⑦(sabrahmaka) 🚺⨀⑦(sassamaṇabrāhmaṇa) 🚺⨀⑦(pajā) 🚺⨀⑦(sadevamanussa) 🚻⨀①(anuttara) 🚺⨀①(sammāsambodhi) 🚹⨀①(abhisambuddha) 🔼(ti) ⏮👆⨀(paccaññāsi)  
-from whatever | and | indeed | I | Ānanda | these | nine | attainment of the successive stages in meditation | thus | forwards and backwards | entered | too | emerged from | too | then I | Ānanda | in with deities | in universe | with Māra | with Brahmas | with religious practitioners | with people | with kings and commoners | highest | perfect awakening | perfect enlightenment | quote | I claimed  
-And from whatever indeed, Ānanda, I entered and emerged from these nine attainments of the successive stages in meditation forwards and backwards, then I claimed to the deities in the world, Māra, Brahmas, religious practitioners, general population, kings and commoners: “This is the highest, perfect awakening, and perfect enlightenment!”
+from whatever | and | indeed | I | Ānanda | these | nine | attainment of the successive stages in meditation | thus | forwards and backwards | entered | too | emerged from | too | then I | Ānanda | in with deities | in universe | with Māra | with Brahmas | with religious practitioners | with people | with kings and commoners | unsurpassed | perfect awakening | fully awakened | quote | I claimed  
+And from whatever indeed, Ānanda, I entered and emerged from these nine attainments of the successive stages in meditation forwards and backwards, then I claimed to the deities in the world, Māra, Brahmas, religious practitioners, general population, kings and commoners: “I am fully awakened to the unsurpassed, perfect awakening!”
 
 <a id="s43-u16-3"></a>16.3 Ñāṇañca pana me dassanaṁ udapādi:  
 🚻⨀①(ñāṇa) 🔼(ca pana) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(dassana) ⏮🤟⨀(udapādi)  
@@ -2111,7 +2111,7 @@ Nine levels of focus:
 8. Having seen the inadequacy of the base of neither apperception nor non-apperception that is practiced often, one applies oneself to expecting and attaining the ending of recognition and feeling.
 9. Going beyond the base of neither apperception nor non-apperception altogether, one enters and remains in the ending of recognition and feeling, having seen by that knowledge, one arrives at the exhaustion of the defilements.
 
->And from whatever indeed, I entered and emerged from these nine attainments of the successive stages in focus forwards and backwards, then I claimed to the deities in the world, Māra, Brahmas, religious practitioners, general population, kings and commoners: “This is the highest, perfect awakening, and perfect enlightenment!”
+>And from whatever indeed, I entered and emerged from these nine attainments of the successive stages in focus forwards and backwards, then I claimed to the deities in the world, Māra, Brahmas, religious practitioners, general population, kings and commoners: “I am fully awakened to the unsurpassed, perfect awakening!”
 >
 >Having insight, the realisation arose for me: “Unshakeable is my mental liberation, this is the final birth, now there is no rebirth.”
 

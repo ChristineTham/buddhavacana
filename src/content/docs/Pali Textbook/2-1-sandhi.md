@@ -143,7 +143,7 @@ whatever / anything / subject to origination / all / that / subject to cessation
 5. > ‘anuttaraṁ sammāsambodhiṁ **abhisambuddho’ti**
 
 🚺⨀②🆎(na+uttara) 🚺⨀②🆎(sammā+sambodhi) 🚹⨀①🔽(ta)(abhisambuddha) ⏏️(iti)  
-unsurpassed / perfect understanding / fully awakened / thus  
+unsurpassed / perfect awakening / fully awakened / thus  
 *`abhisambuddho’ti` = `abhisambuddho iti`: after `o` the `i` of `iti` is dropped {13}; [5: 9.1](../5-dhammacakka/#u9-1).*
 
 6. > So **vivicceva** kāmehi

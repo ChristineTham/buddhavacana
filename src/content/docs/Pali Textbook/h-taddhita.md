@@ -127,7 +127,7 @@ someone or something)
 | {360} | alasassa bhāvo | alasa | ṇya | alas~~a~~ + ~~ṇ~~ya + ~~si~~ (ṁ) | ālasyaṁ | the state of being lazy, the laziness |
 | {360} | paṁsukūlikassa bhāvo | paṁsukūlika | tta | paṁsukūlika + tta + ~~si~~ (ṁ) | paṁsukūlikattaṁ | practitioner-hood of Paṁsukūlika austerity-practice |
 | {360} | saṅgaṇikā’rāmassa bhāvo | saṅgaṇikārāma | tā | saṅgaṇikārāma + tā + ~~si~~ | saṅgaṇikā’rāmatā | gregariousness, being fond of socializing |
-| {360} | puthujjanassa bhāvo | puthujjana | ttana | puthujjana + ttana + ~~si~~ (ṁ) | puthujjanattanaṁ | state of being unenlightened, a common worldling who is still a victim of defilements |
+| {360} | puthujjanassa bhāvo | puthujjana | ttana | puthujjana + ttana + ~~si~~ (ṁ) | puthujjanattanaṁ | the state of an ordinary person, a common worldling still subject to the defilements |
 | {361} | visamassa bhāvo | visama | ṇa | visama + ~~ṇa~~ + ~~si~~ (ṁ) | vesamaṁ | state of being uneven, ruggedness, uneven-ness, non-level place of the earth |
 | {362} | ramaṇīyassa bhāvo | ramaṇīya | kaṇ | ramaṇīya + ka~~ṇ~~ + ~~si~~ (ṁ) | rāmaṇīyakaṁ | pleasantness |
 
