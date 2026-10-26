@@ -276,7 +276,7 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | meaning | example | combination | example meaning |
 | --- | --- | --- | --- |
 | specially, being special, distinctive | `abhijānāti` | `abhi` + `jānāti` | (One) knows in a special manner |
-| | `abhiññā` | `abhi` + `ñā` | special knowledge, psychic powers etc. |
+| | `abhiññā` | `abhi` + `ñā` | experiential understanding |
 | | `abhidhammo` | `abhi` + `dhamma` | special Dhamma |
 | beyond | `abhikkamati` | `abhi` + `kamati` | (It) goes beyond, proceeds, pleased |
 | | `abhikkanto` | `abhi` + `kanto` | gone ahead, pleased |
@@ -325,7 +325,7 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | minor parts or limbs of the body such as fingers etc. | `paccaṅgāni` | `pati` + `aṅgāni` | minor parts of the body |
 | intensifier | `patihaññati` | `pati` + `haññati` | (he) feels hurt, stresses out |
 | | `patigho` | `pati` + `gho` | anger, stress |
-| | `pativijjhati` | `pati` + `vijjhati` | knows penetratingly, enlightened |
+| | `pativijjhati` | `pati` + `vijjhati` | knows penetratingly, sees through |
 
 \* *(usually preceded by a word to be represented in the ablative case, used as independent word)*
 

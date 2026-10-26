@@ -139,7 +139,7 @@ birth / too / suffering / aging / too / suffering / illness / too / suffering / 
 > **upasamāya abhiññāya sambodhāya nibbānāya** saṁvattati
 
 🚹⨀④(upasama) 🚺⨀④(abhiññā) 🚹⨀④(sambodha) 🚻⨀④(nibbāna) 🟢⨀🤟▶️(saṁvattati)  
-to calm / to direct knowledge / to enlightenment / to extinguishment / leads  
+to calm / to experiential understanding / to full awakening / to extinguishment / leads  
 *`-āya` on an `a` lemma is ④⨀, "to" {109}; on the 🚺 `abhiññā` the `-āya` of {111} is ④ too, as its three neighbours; [5: 2.4](../5-dhammacakka/#u2-4).*
 
 > Tatra kho bhagavā pañcavaggiye **bhikkhū** āmantesi—

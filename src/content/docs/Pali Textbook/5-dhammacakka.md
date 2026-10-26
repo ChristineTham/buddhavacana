@@ -1,5 +1,5 @@
 ---
-title: "5: Translation: Turning the wheel (Dhammacakkappavattanasutta)"
+title: "5: Translation: Turning the wheel of Dhamma (Dhammacakkappavattanasutta)"
 sidebar:
   label: "5: Turning the wheel"
   order: 532
@@ -19,9 +19,22 @@ This is the second of the interlinear translations, placed after chapter 4 becau
 
 ## Dhammacakkappavattanasutta
 
-The text is the World Tipiṭaka Edition's [Dhammacakkappavattanasutta, Saṁyutta Nikāya 56.11](https://tipitaka2500.github.io/tipitaka/14S5/12/12.2/12.2.1.html), paragraphs 2206–2220, numbered 1–15 here; the paragraph numbers link to it, and the edition's abbreviations (`…pe…`) are written out in full. This is the Buddha's first discourse, to the five bhikkhū at Isipatana near Bārāṇasī. The Vinaya tells it again in the Mahākhandhaka, and the translation line of each sentence follows my translation of that telling at [tidipa.github.io](https://tidipa.github.io/Khandhaka/1.6), where the discourse is discussed. Read it after chapter 2: every sentence is made of the forms that chapter tables, and the four realisations and the eightfold path are named with the words the bonus chapter uses.
+The text is the World Tipiṭaka Edition's [Dhammacakkappavattanasutta, Saṁyutta Nikāya 56.11](https://tipitaka2500.github.io/tipitaka/14S5/12/12.2/12.2.1.html), paragraphs 2206–2220, numbered 1–15 here; the paragraph numbers link to it, and the edition's abbreviations (`…pe…`) are written out in full. This is the Buddha's first discourse, to the five bhikkhū at Isipatana near Bārāṇasī. The Vinaya tells it again in the Mahākhandhaka, and the translation line of each sentence follows my translation of that telling at [tidipa.github.io](https://tidipa.github.io/Khandhaka/1.6), where the discourse is discussed.
 
 The analysis line gives, for every word, its gender, number and ending (or voice, number, person and tense for a verb) and the lemma to look up; the gloss line gives one gloss per word; the fourth line is the translation.
+
+:::note[Meaning of Dhamma]
+Buddhists often use the word `dhamma` to refer to the Buddha's teachings, but the definition of `dhamma` in `Dhammacakkappavattanasutta` is best described by Margaret Cone's **Dictionary of Pali** (references elided):
+
+> dhamma denotes (an interpretation of) the essential nature and reality of existence and experience, the way things are: it is descriptive and prescriptive; it denotes also an essential attribute of men or animals; a quality or characteristic; ...
+>
+> — for Buddhists dhamma is used to denote an interlocking and interdependent assembly of concepts: the true nature of the world of experience, how that world works, and the way to transcend it, as understood by the Buddha; the progressive stages of understanding and nibbāna ; the behaviour, the practice, required to achieve understanding of the way the world of experience works, ie the way to reach arhatship, nibbāna ; the understanding and practice taught by the Buddha, the substance of his teaching, the texts of the Canon, especially the Suttapiṭaka ; all constituents of the world of experience, physical and mental, external and internal, progressively more and more minutely analysed; all constituents of prescribed practice, appropriate and beneficial actions; prescriptions for the members of the saṅgha ; — for people generally dhamma is an interpretation of the essential nature of existence and experience; the way one should act, depending on who one is, to maintain the way things are and should be; duty; right; justice; normative and beneficial actions;
+> — 1. (i) how the world of experience works, the processes by which it works and is explained (especially as formulated in cattāri ariyasaccāni and paṭiccasamuppāda ), and the possibility and way of transcending it, as understood by the Buddha and taught by him (so that knowledge and understanding of it might bring enlightenment, arhatship, to others);
+> - (ii) the (stages to) freedom from the world of experience, culminating in nibbāna; 
+> - (iii) (sg.) the behaviour, conduct, practice required to realise and understand the way the world of experience works; the way to arahatship;
+
+According to the Buddha, this insight into the world of experience have "never been heard before" (`pubbe ananussutesu dhammesu cakkhuṁ`). Hence the "wheel of Dhamma" are the four realisations across three phases (fully understood, personally experienced, and developed).
+:::
 
 ### 1. The two extremes and the middle way
 
@@ -52,12 +65,12 @@ That which is this pursuit of sensual happiness in sensual pleasures, which is l
 
 <a id="u2-4"></a>2.4 Ete kho, bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.  
 *️⃣🤟🚹⨂②(eta) ⏏️(kho) 🚹⨂⓪(bhikkhu) *️⃣🤟🚹⨂②(ubha) 🚹⨂②(anta) 🔽(ya)(anupagacchati) 🚺⨀①(majjhima) 🚺⨀①(paṭipadā) 🚹⨀③🆎(tathā+gata) 🚺⨀①🔽(ta)(abhisambuddha) 🚺⨀①🆎(cakkhu+karaṇa) 🚺⨀①🆎(ñāṇa+karaṇa) 🚹⨀④(upasama) 🚺⨀④(abhiññā) 🚹⨀④(sambodha) 🚻⨀④(nibbāna) 🟢⨀🤟▶️(saṁvattati)  
-these | indeed | bhikkhave | both | extremes | not approaching | middle | way | by the Tathāgata | fully awakened | producing vision | producing knowledge | to calm | to direct knowledge | to enlightenment | to extinguishment | leads  
-Without veering towards either of these two extremes, bhikkhave, the `majjhimā paṭipadā` (Middle Way) has been `abhisambuddha` (fully realised) by the Tathāgata, which produces vision, produces knowledge, leads to calm, to `abhiññā`, to `sambodhi` (enlightenment), to `nibbāna` (extinguishment).
+these | indeed | bhikkhave | both | extremes | not approaching | middle | way | by the Tathāgata | fully awakened | producing vision | producing knowledge | to calm | to experiential understanding | to full awakening | to extinguishment | leads  
+Without veering towards either of these two extremes, bhikkhave, the `majjhimā paṭipadā` (Middle Way) has been `abhisambuddha` (fully realised) by the Tathāgata, which produces vision, produces knowledge, leads to calm, to `abhiññā` (experiential understanding), to `sambodhi` (full awakening), to `nibbāna` (extinguishment).
 
 <a id="u3-1"></a>[3.1](https://tipitaka2500.github.io/tipitaka/14S5/12/12.2/12.2.1.html#p_14S5_2208) Katamā ca sā, bhikkhave, majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati?  
 *️⃣🤟🚺⨀①(katama) ⏏️(ca) *️⃣🤟🚺⨀①(ta) 🚹⨂⓪(bhikkhu) 🚺⨀①(majjhima) 🚺⨀①(paṭipadā) 🚹⨀③🆎(tathā+gata) 🚺⨀①🔽(ta)(abhisambuddha) 🚺⨀①🆎(cakkhu+karaṇa) 🚺⨀①🆎(ñāṇa+karaṇa) 🚹⨀④(upasama) 🚺⨀④(abhiññā) 🚹⨀④(sambodha) 🚻⨀④(nibbāna) 🟢⨀🤟▶️(saṁvattati)  
-which | and | that | bhikkhave | middle | way | by the Tathāgata | fully awakened | producing vision | producing knowledge | to calm | to direct knowledge | to enlightenment | to extinguishment | leads  
+which | and | that | bhikkhave | middle | way | by the Tathāgata | fully awakened | producing vision | producing knowledge | to calm | to experiential understanding | to full awakening | to extinguishment | leads  
 And what, bhikkhave, is that `majjhimā paṭipadā` (Middle Way) by the Tathāgata, which produces vision, produces knowledge, leads to calm, to `abhiññā`, to `sambodhi`, to `nibbāna`?
 
 <a id="u3-2"></a>3.2 Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ— sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi.  
@@ -67,8 +80,8 @@ It is this very `ariyo aṭṭhaṅgiko maggo` (Eightfold Path), that is to say:
 
 <a id="u3-3"></a>3.3 Ayaṁ kho sā, bhikkhave, majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.  
 *️⃣🤟🚺⨀①(ima) ⏏️(kho) *️⃣🤟🚺⨀①(ta) 🚹⨂⓪(bhikkhu) 🚺⨀①(majjhima) 🚺⨀①(paṭipadā) 🚹⨀③🆎(tathā+gata) 🚺⨀①🔽(ta)(abhisambuddha) 🚺⨀①🆎(cakkhu+karaṇa) 🚺⨀①🆎(ñāṇa+karaṇa) 🚹⨀④(upasama) 🚺⨀④(abhiññā) 🚹⨀④(sambodha) 🚻⨀④(nibbāna) 🟢⨀🤟▶️(saṁvattati)  
-this | indeed | that | bhikkhave | middle | way | by the Tathāgata | fully awakened | producing vision | producing knowledge | to calm | to direct knowledge | to enlightenment | to extinguishment | leads  
-This, bhikkhave, is that `majjhimā paṭipadā` `abhisambuddha` by the Tathāgata, which produces vision, produces knowledge, leads to calm, to `abhiññā`, to `sambodhi`, to `nibbāna`.
+this | indeed | that | bhikkhave | middle | way | by the Tathāgata | fully awakened | producing vision | producing knowledge | to calm | to experiential understanding | to full awakening | to extinguishment | leads  
+This, bhikkhave, is that `majjhimā paṭipadā` (Middle Way), `abhisambuddha` by the Tathāgata, which produces vision, produces knowledge, leads to calm, to `abhiññā`, to `sambodhi`, to `nibbāna`.
 
 ### 2. The four realisations
 
@@ -156,13 +169,13 @@ that | indeed | now | this | leading to the cessation of suffering | path | real
 
 <a id="u9-1"></a>[9.1](https://tipitaka2500.github.io/tipitaka/14S5/12/12.2/12.2.1.html#p_14S5_2214) Yāvakīvañca me, bhikkhave, imesu catūsu ariyasaccesu evaṁ tiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ na suvisuddhaṁ ahosi, neva tāvāhaṁ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṁ sammāsambodhiṁ abhisambuddho’ti paccaññāsiṁ.  
 ⏏️(yāvakīvaṁ) ⏏️(ca) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨂⓪(bhikkhu) *️⃣🤟🚻⨂⑦(ima) 🚻⨂⑦(catu) 🚻⨂⑦🆎(ariya+sacca) ⏏️(evaṁ) 🚻⨀①🆎(ti+parivaṭṭa) 🚻⨀①🆎(dvādasa+ākāra) ⏏️(yathābhūtaṁ) 🚻⨀①🆎(ñāṇa+dassana) ⏏️(na) 🚻⨀①🆎(su+visuddha) 🟢⨀🤟⏮(hoti) ⏏️(na) ⏏️(eva) ⏏️(tāva) *️⃣👆⚧⨀①(ahaṁ) 🚹⨂⓪(bhikkhu) 🚹⨀⑦(sadevaka) 🚹⨀⑦(loka) 🚹⨀⑦(samāraka) 🚹⨀⑦(sabrahmaka) 🚺⨀⑦🆎(sa+samaṇa+brāhmaṇa) 🚺⨀⑦(pajā) 🚺⨀⑦🆎(sa+deva+manussa) 🚺⨀②🆎(na+uttara) 🚺⨀②🆎(sammā+sambodhi) 🚹⨀①🔽(ta)(abhisambuddha) ⏏️(iti) 🟢⨀👆⏮(paṭijānāti)  
-as long as | and | my | bhikkhave | in these | four | realisations | thus | with three phases | with twelve aspects | in reality | total understanding | not | totally purified | was | not | indeed | so long | I | bhikkhave | with its devas | in the world | with Māra | with Brahmā | with its ascetics and brahmins | among living beings | with kings and commoners | unsurpassed | perfect understanding | fully awakened | thus | claimed  
-And as long as, bhikkhave, I did not have `yathābhūta` (in reality) `ñāṇadassana` (total understanding) and `suvisuddha` (total purification) in these four realisations with `tiparivaṭṭa` (three phases) and `dvādasākāra` (twelve aspects), then, bhikkhave, I did not claim to have `abhisambuddha anuttara sammāsambodhi` (woken up to perfect understanding) in this world having devas, Māra, Brahmā, ascetics and brahmins, `pajā` (living beings), `sadevamanussa` (kings and commoners).
+as long as | and | my | bhikkhave | in these | four | realisations | thus | with three phases | with twelve aspects | in reality | total understanding | not | totally purified | was | not | indeed | so long | I | bhikkhave | with its devas | in the world | with Māra | with Brahmā | with its ascetics and brahmins | among living beings | with kings and commoners | unsurpassed | perfect awakening | fully awakened | thus | claimed  
+And as long as, bhikkhave, I did not have `yathābhūta` (in reality) `ñāṇadassana` (total understanding) and `suvisuddha` (total purification) in these four realisations with `tiparivaṭṭa` (three phases) and `dvādasākāra` (twelve aspects), then, bhikkhave, I did not claim to have `abhisambuddha anuttara sammāsambodhi` (fully awakened to the perfect awakening) in this world having devas, Māra, Brahmā, ascetics and brahmins, `pajā` (living beings), `sadevamanussa` (kings and commoners).
 
 <a id="u10-1"></a>[10.1](https://tipitaka2500.github.io/tipitaka/14S5/12/12.2/12.2.1.html#p_14S5_2215) Yato ca kho me, bhikkhave, imesu catūsu ariyasaccesu evaṁ tiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ suvisuddhaṁ ahosi, athāhaṁ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṁ sammāsambodhiṁ abhisambuddho’ti paccaññāsiṁ.  
 ⏏️(yato) ⏏️(ca) ⏏️(kho) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨂⓪(bhikkhu) *️⃣🤟🚻⨂⑦(ima) 🚻⨂⑦(catu) 🚻⨂⑦🆎(ariya+sacca) ⏏️(evaṁ) 🚻⨀①🆎(ti+parivaṭṭa) 🚻⨀①🆎(dvādasa+ākāra) ⏏️(yathābhūtaṁ) 🚻⨀①🆎(ñāṇa+dassana) 🚻⨀①🆎(su+visuddha) 🟢⨀🤟⏮(hoti) ⏏️(atha) *️⃣👆⚧⨀①(ahaṁ) 🚹⨂⓪(bhikkhu) 🚹⨀⑦(sadevaka) 🚹⨀⑦(loka) 🚹⨀⑦(samāraka) 🚹⨀⑦(sabrahmaka) 🚺⨀⑦🆎(sa+samaṇa+brāhmaṇa) 🚺⨀⑦(pajā) 🚺⨀⑦🆎(sa+deva+manussa) 🚺⨀②🆎(na+uttara) 🚺⨀②🆎(sammā+sambodhi) 🚹⨀①🔽(ta)(abhisambuddha) ⏏️(iti) 🟢⨀👆⏮(paṭijānāti)  
-but when | and | indeed | my | bhikkhave | in these | four | realisations | thus | with three phases | with twelve aspects | in reality | total understanding | totally purified | was | then | I | bhikkhave | with its devas | in the world | with Māra | with Brahmā | with its ascetics and brahmins | among living beings | with kings and commoners | unsurpassed | perfect understanding | fully awakened | thus | claimed  
-But when, bhikkhave, I had `yathābhūta` (in reality) `ñāṇadassana` (total understanding) and `suvisuddha` (total purification) in these four realisations with `tiparivaṭṭa` (three phases) and `dvādasākāra` (twelve aspects), then, bhikkhave, I claimed to have `abhisambuddha anuttara sammāsambodhi` (woken up to perfect understanding unsurpassed by anything) in this world having devas, Māra, Brahmā, ascetics and brahmins, `pajā` (living beings), `sadevamanussa` (kings and commoners).
+but when | and | indeed | my | bhikkhave | in these | four | realisations | thus | with three phases | with twelve aspects | in reality | total understanding | totally purified | was | then | I | bhikkhave | with its devas | in the world | with Māra | with Brahmā | with its ascetics and brahmins | among living beings | with kings and commoners | unsurpassed | perfect awakening | fully awakened | thus | claimed  
+But when, bhikkhave, I had `yathābhūta` (in reality) `ñāṇadassana` (total understanding) and `suvisuddha` (total purification) in these four realisations with `tiparivaṭṭa` (three phases) and `dvādasākāra` (twelve aspects), then, bhikkhave, I claimed to have `abhisambuddha anuttara sammāsambodhi` (fully awakened to the perfect awakening unsurpassed by anything) in this world having devas, Māra, Brahmā, ascetics and brahmins, `pajā` (living beings), `sadevamanussa` (kings and commoners).
 
 <a id="u10-2"></a>10.2 Ñāṇañca pana me dassanaṁ udapādi— ‘akuppā me vimutti, ayamantimā jāti, natthi dāni punabbhavo’”ti.  
 🚻⨀①(ñāṇa) ⏏️(ca) ⏏️(pana) *️⃣👆⚧⨀④(ahaṁ) 🚻⨀①(dassana) 🟢⨀🤟⏮(uppajjati) 🚺⨀①🆎(na+kuppa) *️⃣👆⚧⨀⑥(ahaṁ) 🚺⨀①(vimutti) *️⃣🤟🚺⨀①(ima) 🚺⨀①(antima) 🚺⨀①(jāti) ⏏️(na) 🟢⨀🤟▶️(atthi) ⏏️(dāni) 🚹⨀①🆎(puna+bhava) ⏏️(iti)  
