@@ -707,7 +707,7 @@ However, there are quite a few `nipāta` that can be placed before some verbs or
 | `sacchikaroti` | `sacchi` | `karoti` | (he) realizes, i.e. attains |
 | `vinābhāvo` | `vinā` | `bhāvo` | separation, being apart |
 | `sahacārī` | `saha` | `cārī` | the one who used be together, a friend |
-| `punabbhavo` | `puna` | `bhavo` | appearing again, renewed becoming |
+| `punabbhavo` | `puna` | `bhavo` | appearing again, reoccurring existence |
 
 ## 🔼 `upasagga` (prefixes)
 

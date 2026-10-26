@@ -430,13 +430,13 @@ The body (faculty of touch) is a dependency of physical sensation causing consci
 mind (faculty of thought) | and | dependency | in mental states | arise | consciousness | just mental-consciousness | categorisation | becomes  
 The nose (faculty of thought) is a dependency of mental states causing consciousness to arise, to become categorised as “mental-consciousness”
 
-## 15. CONSCIOUSNESS AND REBIRTH
+## 15. CONSCIOUSNESS AND REOCCURRENCE (OF SUFFERING)
 
 [Paṭhamabhavasutta AN 3.76 PTS 1.224](https://suttacentral.net/an3.76) (Anguttara Nikaya I 223):
 
 <a id="s15-u1-2"></a>1.2 “bhavo, bhavoti, bhante, vuccati.  
 🚹⨀①(bhava) 🚹⨀①(bhava) 🚹⨀⓪(bhavant) ▶️🤟⨀(vuccati)  
-bhava | becoming | Bhante | is said to be  
+bhava | existence | Bhante | is said to be  
 Existence is called ‘bhava’, Bhante.
 
 <a id="s15-u1-3"></a>1.3 Kittāvatā nu kho, bhante, bhavo hotī”ti?  
@@ -446,8 +446,8 @@ What is the nature of ‘bhava,’ Bhante?
 
 <a id="s15-u2-1"></a>2.1 “Kāmadhātuvepakkañca, ānanda, kammaṁ nābhavissa, api nu kho kāmabhavo paññāyethā”ti?  
 🚻⨀①(kāmadhātuvepakka) 🔼(ca) 🚹⨀⓪(ānanda) 🚻⨀①(kamma) 🔀🤟⨀(nābhavissa) 🔼(apinu kho) 🚹⨀①(kāmabhava) 🔵⏯🤟⨀(paññāyati) 🔼(ti)  
-ripening in the realm of sensual desire | Ānanda | volitional action | would not exist | what | indeed | desire for becoming | is evident | quote  
-“It is a fruit ripening in the realm of sensual desire, Ānanda. If there is no volitional action,  would desire for becoming be evident?”
+ripening in the realm of sensual desire | Ānanda | volitional action | would not exist | what | indeed | existence in the realm of sensual desire | is evident | quote  
+“If, Ānanda, there were no volitional action ripening in the realm of sensual desire, would existence (of suffering) in the realm of sensual desire be evident?”
 
 <a id="s15-u2-2"></a>2.2 “No hetaṁ, bhante”.  
 🔼(no hetaṁ) 🚹⨀⓪(bhavant)  
@@ -461,8 +461,8 @@ It is like this, Ānanda. Action is the field, consciousness is the seed, and cr
 
 <a id="s15-u2-4"></a>2.4 Avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ hīnāya dhātuyā viññāṇaṁ patiṭṭhitaṁ evaṁ āyatiṁ punabbhavābhinibbatti hoti.  
 🚻⨂⑥(avijjānīvaraṇa) 🚹⨂⑥(satta) 🚹⨂⑥(taṇhāsaṁyojana) 🚺⨀⑥(hīna) 🚺⨀⑥(dhātu) 🚻⨀①(viññāṇa) 🚻⨀①(patiṭṭhita) 🔼(evaṁ) 🚻⨀①(āyati) 🚺⨀①(punabbhavābhinibbatti) ▶️🤟⨀(hoti)  
-of impeded by ignorance; obstructed by not understanding | of beings | of bound by craving | of fallen away | of root | consciousness | well established | thus | future | production of renewed existence | is  
-While beings are impeded by ignorance, bound by craving, fallen away from their roots, consciousness is well established and in the future produces renewed existence.
+of impeded by ignorance; obstructed by not understanding | of beings | of bound by craving | of fallen away | of root | consciousness | well established | thus | future | production of reoccurring existence | is  
+While beings are impeded by ignorance, bound by craving, fallen away from their roots, consciousness is well established and in the future produces reoccurrence (of suffering).
 
 <a id="s15-u4-5"></a>4.5 Evaṁ kho, ānanda, bhavo hotī”ti.  
 🔼(evaṁ) 🔼(kho) 🚹⨀⓪(ānanda) 🚹⨀①(bhava) ▶️🤟⨀(hoti) 🔼(ti)  
@@ -684,17 +684,17 @@ Dependent on vedanā (feelings), taṇhā (craving).
 <a id="s19-u2-5"></a>2.5 Tassāyeva taṇhāya asesavirāganirodhā upādānanirodho;  
 🔼(tassāyeva) 🚺⨀⑥(taṇhā) 🚹⨂①(asesavirāganirodha) 🚹⨀①(upādānanirodha)  
 of that very | of craving | complete fading away and ending | cessation of fuel  
-While completely fading away and ending of craving, cessation of fuel.
+While completely fading away and ending of craving, cessation of fuel for suffering.
 
 <a id="s19-u2-6"></a>2.6 upādānanirodhā bhavanirodho;  
 🚹⨀⑤(upādānanirodha) 🚹⨀①(bhavanirodha)  
-from cessation of fuel | cessation of becoming  
-From cessation of fuel, cessation of becoming.
+from cessation of fuel | cessation of existence  
+From cessation of fuel, cessation of the existence of suffering.
 
 <a id="s19-u2-7"></a>2.7 bhavanirodhā jātinirodho;  
 🚹⨀⑤(bhavanirodha) 🚹⨀①(jātinirodha)  
-from cessation of becoming | cessation of birth  
-From cessation of becoming, cessation of birth.
+from cessation of existence | cessation of birth  
+From cessation of existence, cessation of the birth of suffering.
 
 <a id="s19-u2-8"></a>2.8 jātinirodhā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā nirujjhanti.  
 🚹⨀⑤(jātinirodha) 🚻⨀①(jarāmaraṇa) 🚹⨂①(sokaparidevadukkhadomanassupāyāsā) ▶️🤟⨂(nirujjhati)  
@@ -1845,9 +1845,9 @@ The following prerequisites or dependencies cause consciousness to arise, and be
 
 ### bhava (Existence)
 
-It is a fruit ripening in the realm of sensual desire. If there is no volitional action,  there would not be desire for existence.  
+If there were no volitional action ripening in the realm of sensual desire, there would be no existence (of suffering) in the realm of sensual desire.  
 Action is the field, consciousness is the seed, and craving is the moisture.  
-While beings are impeded by ignorance, bound by craving, fallen away from their roots, consciousness is well established and in the future produces renewed existence.
+While beings are impeded by ignorance, bound by craving, fallen away from their roots, consciousness is well established and in the future produces reoccurrence (of suffering).
 
 ### Consciousness May Be Calmed
 
@@ -1910,9 +1910,9 @@ This characteristic, one personally realises understanding and insight into libe
 Visual consciousness (cakkhuviññāṇa) arises dependent on rūpa (form) and the faculty of seeing. The three combined together is phassa (contact).  
 Dependent on phassa (contact), vedanā (feelings).  
 Dependent on vedanā (feelings), taṇhā (craving).  
-While completely fading away and ending of craving, cessation of fuel.  
-From cessation of fuel, cessation of becoming.  
-From cessation of becoming, cessation of birth.  
+While completely fading away and ending of craving, cessation of fuel for suffering.  
+From cessation of fuel, cessation of the existence of suffering.  
+From cessation of existence, cessation of the birth of suffering.  
 From cessation of birth, aging and death, sorrow, lamentation, pain, displeasure and despair cease.  
 Thus of this whole lot, there is cessation of mass of suffering.  
 This is disappearance of dukkha (suffering).

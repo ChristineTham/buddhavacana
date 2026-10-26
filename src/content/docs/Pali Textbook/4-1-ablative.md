@@ -21,7 +21,7 @@ point of departure). The ⑤ ending is the ending of "from": the place one
 leaves, the thief one fears, the teacher one learns from {271}, and the cause
 something arises from {296}. The Bodhikathā of [chapter 3](../3-awakening/)
 shows it at each step of its chain of cessation: `bhavanirodhā jātinirodho`,
-"with the cessation of becoming comes the cessation of birth" ([3: 4.10](../3-awakening/#u4-10)).
+"with the cessation of existence comes the cessation of the birth of suffering" ([3: 4.10](../3-awakening/#u4-10)).
 
 You know the ⑤ ending by its shape, ⨀ `-smā` (`buddhasmā`), or `-ā` {108} or
 `-mhā` {99} in its place (`gāmā`, `anavatattamhā`), 🚺⨀ `-āya` (`sālāya`), ⨂
@@ -48,7 +48,7 @@ or a word beside it such as `vinā` ("without") or `pubbe` ("before").
 | the time or reason "since which", `yato` | `yato sarāmi attānaṁ`, since I remember myself | {272} |
 | what something is kept away from, with a verb of guarding | `kāke rakkhanti taṇḍulā`, they keep the crows from the rice | {273} |
 | the one hidden from; also ⑦ | `upajjhāyā antaradhāyati sisso`, the pupil vanishes from the preceptor | {274} |
-| the cause of what follows | `avijjāpaccayā saṅkhārā`, with ignorance as condition, mental constructions [arise] ([3: 3.1](../3-awakening/#u3-1)); `bhavanirodhā jātinirodho`, with the cessation of becoming comes the cessation of birth ([3: 4.10](../3-awakening/#u4-10)) | {296} |
+| the cause of what follows | `avijjāpaccayā saṅkhārā`, with ignorance as condition, mental constructions [arise] ([3: 3.1](../3-awakening/#u3-1)); `bhavanirodhā jātinirodho`, with the cessation of existence comes the cessation of the birth of suffering ([3: 4.10](../3-awakening/#u4-10)) | {296} |
 
 Kaccāyana defines the `apādāna` in four rules {271}–{274} and gives it the ⑤
 ending in two {295}–{296}; a fifth rule {275} adds twenty rarer senses, mostly
@@ -123,8 +123,8 @@ deconstruction.
 1. > **upādānanirodhā** bhavanirodho
 
 🚹⨀⑤(upādānanirodha) 🚹⨀①(bhavanirodha)  
-from cessation of fuel / cessation of becoming  
-*From cessation of fuel, cessation of becoming.*  
+from cessation of fuel / cessation of existence  
+*From cessation of fuel, cessation of the existence of suffering.*  
 `upādānanirodhā`: the cause of what follows {296}.
 
 2. > **virāgā** vimuccati
