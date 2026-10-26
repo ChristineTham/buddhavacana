@@ -102,7 +102,7 @@ And indeed here, bhikkhave, if `saṅkhārā` were `attā` (self), these `saṅk
 
 <a id="u4-6"></a>4.6 Yasmā ca kho, bhikkhave, saṅkhārā anattā, tasmā saṅkhārā ābādhāya saṁvattanti, na ca labbhati saṅkhāresu— ‘evaṁ me saṅkhārā hontu, evaṁ me saṅkhārā mā ahesun’ti.  
 ⏏️(yasmā) ⏏️(ca) ⏏️(kho) 🚹⨂⓪(bhikkhu) 🚹⨂①(saṅkhāra) 🚹⨂①🆎(na+atta) ⏏️(tasmā) 🚹⨂①(saṅkhāra) 🚹⨀④(ābādha) 🟢⨂🤟▶️(saṁvattati) ⏏️(na) ⏏️(ca) 🔵⨀🤟▶️(labhati) 🚹⨂⑦(saṅkhāra) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨂①(saṅkhāra) 🟢⨂🤟⏹(hoti) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨂①(saṅkhāra) ⏏️(mā) 🟢⨂🤟⏮(hoti) ⏏️(iti)  
-because | and | indeed | bhikkhave | mental constructions | not-self | therefore | mental constructions | to affliction | leads | not | and | is obtained | in mental constructions | thus | my | mental constructions | let be | thus | my | mental constructions | not | be | (end quote)  
+because | and | indeed | bhikkhave | mental constructions | not-self | therefore | mental constructions | to affliction | lead | not | and | is obtained | in mental constructions | thus | my | mental constructions | let be | thus | my | mental constructions | not | be | (end quote)  
 And because indeed, bhikkhave, `saṅkhārā` are `anattā`, therefore `saṅkhārā` lead to affliction, and they cannot be obtained: ‘May my `saṅkhārā` be thus, may my `saṅkhārā` not be thus.’
 
 <a id="u5-1"></a>[5.1](https://tipitaka2500.github.io/tipitaka/13S3/1/1.2/1.2.1/1.2.1.7.html#p_13S3_301) Viññāṇaṁ anattā.  

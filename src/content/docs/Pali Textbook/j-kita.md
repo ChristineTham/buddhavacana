@@ -57,7 +57,7 @@ Kaccāyana - consult the book for a full set of examples.
 | {532} | piyaṁ pasaṁsituṁ sīlaṁ yassa rañño, so hoti rājā | piya | saṁsa | ṇī | piya + pa + saṁs~~a~~ + ~~ṇ~~ī | piyapasaṁsī | the king who used to praise the loved ones |
 | {532} | pasayha pavattituṁ sīlaṁ yassa rañño, so hoti rājā | pasayha | vatu | tu | pasayha + pa + vat~~u~~ + t~~u~~ (ā) | pasayhapavattā | the king who used to behave overbearingly |
 | {532} | bhayaṁ passituṁ sīlaṁ yassa samaṇassa so hoti samaṇo | bhaya | disa | āvī | bhaya + d~~i~~(as)s~~a~~ + āvī | bhayadassāvī | the monk who used to see dangers (of unwholesome actions) |
-| {534} | bhavapāraṁ gantuṁ sīlaṁ yassa purisassa, so hoti puriso | pāra | gamu | rū | bhavapāra + g~~amu~~ + ~~r~~ū | bhavapāragū | the man whose habit is to go the other shore of life, i.e. an arahant, a liberated one |
+| {534} | bhavapāraṁ gantuṁ sīlaṁ yassa purisassa, so hoti puriso | pāra | gamu | rū | bhavapāra + g~~amu~~ + ~~r~~ū | bhavapāragū | the man whose habit is to go to the other shore of life, i.e. an arahant, a liberated one |
 
 | rule | phrase | dhātu | affix | transformation | word | meaning |
 | :-: | --- | :-: | :-: | --- | :-: | --- |
@@ -69,7 +69,7 @@ Kaccāyana - consult the book for a full set of examples.
 
 These affixes are associated with passive-voice (`kamma`) verbal nouns or
 middle-voice (`bhāva`) verbs. Some Pali grammar books refer to them as "future
-passive particles" but this only describes the `kamma` sense of these words.
+passive participles" but this only describes the `kamma` sense of these words.
 
 | rule | phrase | dhātu | affix | transformation | word | meaning |
 | :-: | --- | :-: | :-: | --- | :-: | --- |
@@ -140,9 +140,9 @@ past perfect verbs and verbal nouns (also referred to as past participles)
 
 | rule | sense | phrase | dhātu | affix | transformation | word | meaning |
 | :-: | :-: | --- | :-: | :-: | --- | :-: | --- |
-| {556} | bhāva | tassa | ge | ta | g~~e~~(ī) + t~~a~~ + (ṁ) | gītaṁ | singing, i.e. The singing act of that person |
+| {556} | bhāva | tassa | ge | ta | g~~e~~(ī) + t~~a~~ + (ṁ) | gītaṁ | singing, i.e. the singing act of that person |
 | {556} | kamma | tena | bhāsa | ta | bhās~~a~~(i) + ta + (ṁ) | bhāsitaṁ | is said, i.e. said by that person |
-| {557} | kattā | sabbe saṅkhatā’saṅkhate dhamme bujjhati, abujjhi, bujjhissatī’ti | budha | ta | bud(d)h~~a~~ + t~~a~~ + (o) | buddho | the one who knows, who knew and who will know all conditioned and uncondi- tioned phenomena, the Buddha |
+| {557} | kattā | sabbe saṅkhatā’saṅkhate dhamme bujjhati, abujjhi, bujjhissatī’ti | budha | ta | bud(d)h~~a~~ + t~~a~~ + (o) | buddho | the one who knows, who knew and who will know all conditioned and unconditioned phenomena, the Buddha |
 
 ## `ina` affix
 

@@ -198,5 +198,5 @@ since / knows / phenomena with their causes / (end quote)
 7. > Kiṁ nu sattoti paccesi,
 
 🚻⨀①(ka) 🔼(nu) 🚹⨀①(satta) 🔼(iti) ▶️🤘⨀(pacceti)  
-what / ? / being / like this / you believes to be  
+what / ? / being / like this / you believe to be  
 *`nu` asks; `sattoti` is `satto` + `iti` {13}, quoting; the bonus chapter marks particles 🔼.*

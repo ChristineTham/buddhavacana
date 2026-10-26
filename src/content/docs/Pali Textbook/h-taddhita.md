@@ -69,9 +69,9 @@ Kaccāyana - consult the book for a full set of examples.
 | {352} | different meaning from above | sāgarehi nibbatto | sāgara | ṇa | sāgar~~a~~ + ~~ṇa~~ + ~~si~~ (o) | sāgaro | the place made by Sāgara, i.e. ocean |
 | {352} | "being resident and chief" | sāgala’massa nivāso | sāgala | ṇa | sāgal~~a~~ + ~~ṇa~~ + ~~si~~ (o) | sāgalo | the resident of Sāgala |
 | {353} | "when and where it happens" | pacchā jāto | pacchā | ima | pacch~~ā~~ + im~~a~~ + ~~si~~ (o) | pacchimo | that which happens later, the latter, the last |
-| {353} | "in which species one is born into etc." | bodhisattajātiyā jāto | bodhisattajāti | iya | bodhisattajāt~~i~~ + iy~~a~~ + ~~si~~ (o) | bodhisattajātiyo | he one who was born as a Bodhisatta |
+| {353} | "in which species one is born into etc." | bodhisattajātiyā jāto | bodhisattajāti | iya | bodhisattajāt~~i~~ + iy~~a~~ + ~~si~~ (o) | bodhisattajātiyo | the one who was born as a Bodhisatta |
 | {353} | "pertaining to" | ante niyutto | anta | ima | ant~~a~~ + im~~a~~ + ~~si~~ (o) | antimo | that which is related to the end, i.e. the end, the final |
-| {353} | "having something as an inherent quality etc" | putto assa atthi, tasmiṁ vā vijjatī’ti | putta | ima | putt~~a~~ + im~~a~~ + ~~si~~ (o) | puttimo | is so called, the one who has son (child) |
+| {353} | "having something as an inherent quality etc" | putto assa atthi, tasmiṁ vā vijjatī’ti | putta | ima | putt~~a~~ + im~~a~~ + ~~si~~ (o) | puttimo | is so called, the one who has a son (child) |
 | {353} | "pertaining to" | jātiyaṁ niyutto | jāti | kiya | jāti + kiy~~a~~ + ~~si~~ (o) | jātikiyo | birth-related, inborn, innate |
 
 ## `samūha` (collective grouping/assembly)
@@ -97,12 +97,12 @@ a simile or a metaphoric likeness
 
 | sutta | phrase | base | affix | transformation | word | meaning |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| {357} | dhūmo viya dissati aduṁ vanaṁ ta’didaṁ | dhūma | āyitatta | dhūm~~a~~ + āyitatta + ~~si~~ (ṁ) | dhūmāyitattaṁ | the smoky forest (whose color is like green-greyish when seen from a distant) |
+| {357} | dhūmo viya dissati aduṁ vanaṁ ta’didaṁ | dhūma | āyitatta | dhūm~~a~~ + āyitatta + ~~si~~ (ṁ) | dhūmāyitattaṁ | the smoky forest (whose color is like green-greyish when seen from a distance) |
 | {357} | timiraṁ viya dissati aduṁ vanaṁ ta’didaṁṁ | timira | āyitatta | timir~~a~~ + āyitatta + ~~si~~ (ṁ) | timirāyitattaṁ | the darkish-looking forest |
 
 ## `tannissita` (“dependent nature and source”)
 
-"on which something depends or being as- sociated to or being the source of"
+"on which something depends or being associated to or being the source of"
 
 | sutta | phrase | base | affix | transformation | word | meaning |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -119,7 +119,7 @@ a simile or a metaphoric likeness
 ## `bhāva` (the abstract condition)
 
 condition or state or a qualitative character of someone or something
-(a state of being so and so, a sit- uation, or a qualitative character of
+(a state of being so and so, a situation, or a qualitative character of
 someone or something)
 
 | sutta | phrase | base | affix | transformation | word | meaning |

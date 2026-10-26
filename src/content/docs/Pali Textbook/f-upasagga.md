@@ -28,8 +28,8 @@ Sometimes, certain `upasagga` words shown by the ◊ mark can also be used indep
 | away, abroad, far away | `pakkamati` | `pa` + `kamati` | (He) goes away |
 | | `pakkanto` | `pa` + `kanto` | gone away |
 | | `pavāsaṁ` | `pa` + `vāsaṁ` | living abroad, the distant place |
-| | `pavāsī` | `pa` + `vāsī` | lresident abroad, one who lives at a distant region or country |
-| the source | `pabhavati` | `pa` + `bhavati` | (It) originates. i.e. it starts to happen |
+| | `pavāsī` | `pa` + `vāsī` | resident abroad, one who lives at a distant region or country |
+| the source | `pabhavati` | `pa` + `bhavati` | (It) originates, i.e. it starts to happen |
 | | `pabhavo` | `pa` + `bhavo` | origin |
 | successively | `papitāmaho` | `pa` + `pitāmaho` | great-grandfather |
 | | `panattā` | `pa` + `nattā` | great-grandchildren |
@@ -72,7 +72,7 @@ Sometimes, certain `upasagga` words shown by the ◊ mark can also be used indep
 | | `nihito` | `ni` + `hito` | having kept down |
 | | `nikkhipati` | `ni` + `khipati` | (He) drops down |
 | | `nikkhitto` | `ni` + `khitto` | having dropped |
-| | `nisīdati` | `ni` + `sīdati` | (He) settles down. i.e. sits |
+| | `nisīdati` | `ni` + `sīdati` | (He) settles down, i.e. sits |
 | | `nisinno` | `ni` + `sinno` | having sat |
 | | `niggaṇhāti` | `ni` + `gaṇhāti` | (he) takes down, i.e. censures (compare `paggaṇhāti` - lifts up by praise etc.) |
 | | `niggaha` | `ni` + `gaha` | censure (compare `paggaha` - encouragement and support) |
@@ -121,7 +121,7 @@ Both Ni and Nī are not different from each other except the fact that one is a 
 |  without, lack of | `dubbhikkhaṁ` | `du` + `bhikhaṁ` | without food, famine |
 | | `dussīlo` | `du` + `sīlo` | without morality |
 | | `duppañño` | `du` + `pañño` | without wisdom, ignorant |
-| | `dusassaṁ` | `du` + `sassaṁ` | lack of paddy, having poor crops of rice due to draught or pests etc. |
+| | `dusassaṁ` | `du` + `sassaṁ` | lack of paddy, having poor crops of rice due to drought or pests etc. |
 |  being difficult of | `dukkaraṁ` | `du` + `karaṁ` | hard to do |
 | | `dullabhaṁ` | `du` + `labhaṁ` | hard to get |
 | | `dujjānaṁ` | `du` + `jānaṁ` | hard to know |
@@ -158,9 +158,9 @@ Both Ni and Nī are not different from each other except the fact that one is a 
 | meaning | example | combination | example meaning |
 | --- | --- | --- | --- |
 | specially | `vipassati` | `vi` + `passati` | (He) sees specially |
-| | `vipassanā` | `vi` + `passanā` | act of seeing in a special way. i.e. insight meditation |
+| | `vipassanā` | `vi` + `passanā` | act of seeing in a special way, i.e. insight meditation |
 | transformed | `vikaroti` | `vi` + `karoti` | (He) makes so that it becomes something else |
-| | `vikati` | `vi` + `kati` | such an act, a non-natural state (Compare  `pakati` "natural" with `vikati` "non-natural") |
+| | `vikati` | `vi` + `kati` | such an act, a non-natural state (Compare `pakati` "natural" with `vikati` "non-natural") |
 | | `vimukho` | `vi` + `mukho` | face being changed, the changed face due to unhappiness or anger etc. |
 | | `vipatisāro` | `vi` + `patisāro` | thinking with guilt, regret |
 | variously, in different ways | `vimati` | `vi` + `mati` | various thought, different view, doubt |
@@ -308,7 +308,7 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | | `pativacanaṁ` | `pati` + `vacanaṁ` | reply word, response |
 | instead of, in exchange for* | `telasmā pati ghataṁ dadāti` | `pati` | Instead of sesame oil, (he) gives ghee |
 | | `tilehi pati māse dadāti` | `pati` | Instead of sesame, (he) gives beans |
-| opposite of, against, contrary to | `pativirujjhati` | `pati` + `virujjhati` | (It) counteracts. opposes |
+| opposite of, against, contrary to | `pativirujjhati` | `pati` + `virujjhati` | (It) counteracts, opposes |
 | | `pativirodho` | `pati` + `virodho` | opposition, disfavor |
 | | `patipakkho` | `pati` + `pakkho` | opposite party |
 | | `patimukhaṁ` | `pati` + `mukhaṁ` | facing against, face to face |
@@ -338,7 +338,7 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | | `Sujano` | `su` + `jano` | good person |
 | | `sugati` | `su` + `gati` | good rebirth |
 | auspicious | `sukhaṇo` | `su` + `khaṇo` | auspicious moment |
-| | `svāgataṁ` | `su` + `ā` + `gataṁ` | auspicious coming, good coming. i.e. Welcome! |
+| | `svāgataṁ` | `su` + `ā` + `gataṁ` | auspicious coming, good coming, i.e. Welcome! |
 | being easy of | `sukaraṁ` | `su` + `karaṁ` | easy to do |
 | | `sulabhaṁ` | `su` + `labhaṁ` | easy to obtain |
 | | `sujjānaṁ` | `su` + `jānaṁ` | easy to know |
@@ -379,8 +379,7 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | --- | --- | --- | --- |
 | also, too | `Dhammaṁ api` | `api` | to the Dhamma also |
 | even though, although, even if, despite | `Api dibbesu kāmesu-even in divine pleasures` | `api` | he does not enjoy |
-| introducing a question | `Api bhante bhikkham labhittha?` | `api` | Have you got food
-Venerable Sir? |
+| introducing a question | `Api bhante bhikkham labhittha?` | `api` | Have you got food, Venerable Sir? |
 | above, cover up, close on (used as prefix) | `pidahati` | `api` + `dahati` | (He) closes, covers (Here, `a` is to be elided always) |
 | | `apidhānaṁ` | `api` + `dhānaṁ` | cover of a pot etc. |
 
@@ -410,7 +409,7 @@ Venerable Sir? |
 | | `Upapatti` | `upa` + `patti` | conception or birth |
 | firmly, intensifier | `upādānaṁ` | `upa` + `ā` + `dānaṁ` | clinging |
 | up, high (as in good-willed act, attaining a high condition etc.) | `upakaroti` | `upa` + `karoti` | highly acts, i.e. helps |
-| | `upakāro` | `upa` + `karo` | such an act, a good-willed help (done usually by parents, good friends etc. |
+| | `upakāro` | `upa` + `karo` | such an act, a good-willed help (done usually by parents, good friends etc.) |
 | | `upasampajjati`* | `upa` + `saṁ` + `pajjati` | attains higher state |
 | | `upasampanno`* | `upa` + `saṁ` + `panno` | having attained a higher state |
 | allegation | `upavadati` | `upa` + `vadati` | (He) speaks closely, i.e. accuses |

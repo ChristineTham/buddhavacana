@@ -46,7 +46,7 @@ This appendix summarises Kaccāyana's Nāmakappa {52}–{270}, the chapter that 
 | {76} | `Āvassu vā` | Optionally, from `āva` to `u` | `gāvuṁ`, `gāvaṁ` — not `gāvo` |
 | {77} | `Tato namaṁ patimhā lutte ca samāse` | From that, `naṁ` becomes `aṁ` before `pati` when inflections are not elided in a compound | `gavaṁpati` — not `gopati`, `gavaṁ` |
 | {78} | `O sare ca` | And `o` before vowel | `gavassakaṁ`, `gaveḷakaṁ`, `gavājinaṁ` — not `bhuvi`, `pasavo` |
-| {79} | `Tabbiparītūpapade byañjane ca` | And inverse of that in `upapada` [auxilliary word] before consonant | `uggate sūriye`, `uggacchati`, `uggahetvā` — not `avasāne`, `avakiraṇe` |
+| {79} | `Tabbiparītūpapade byañjane ca` | And inverse of that in `upapada` [auxiliary word] before consonant | `uggate sūriye`, `uggacchati`, `uggahetvā` — not `avasāne`, `avakiraṇe` |
 | {80} | `Goṇa naṁmhi vā` | Optionally, `goṇa` before `naṁ` inflections | `goṇānaṁ sattannaṁ` — not `goṇabhūtānaṁ` |
 | {81} | `Suhināsu ca` | And in `su`, `hi`, `nā` [inflections] | `goṇesu`, `goṇehi`, `goṇebhi`, `goṇena` — not `gosu`, `gohi` |
 | {82} | `Aṁmo niggahitaṁ jhalapehi` | `aṁ`, `ma` become `ṁ` for `jha`, `la`, `pa` | `aggiṁ`, `isiṁ`, `gahapatiṁ`, `daṇḍiṁ` — not `agginā`, `pāṇinā` |
