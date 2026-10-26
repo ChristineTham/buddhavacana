@@ -48,7 +48,7 @@ after a long vowel (`jetavane`, `pāpasmiṁ`, `ajaramhi`, `velāyaṁ`,
 The first four rows are the uses on every page; the rest are rare. A time is
 often in the ③ ending instead, `tena samayena` ("at that time"), the words the
 Bodhikathā opens with ([3: 2.1](../3-awakening/#u2-1)) {290}; two uses ⑦
-shares with ⑥, "among" {304} and "despite" {305}, are in [4.7](../4-7-genitive/).
+shares with ⑥, "among" {304} and "despite" {305}, are in [4.7](../4-7-sami/).
 
 Kaccāyana names four kinds of support {278}: pervading (`byāpika`), `jalesu
 khīraṁ tiṭṭhati`, milk stands in water; by contact (`opasilesika`),

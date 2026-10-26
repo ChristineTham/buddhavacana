@@ -277,7 +277,7 @@ Some lemmas, however, are words borrowed from other languages, possibly indigeno
 
 | type | example | meaning |
 | --- | --- | --- |
-| single stem or one-syllable roots | `vā` | to move |
+| one-syllable roots | `vā` | to move |
 || `yā` | to go |
 || `pā` | to drink
 || `ji` | to conquer |
@@ -287,7 +287,7 @@ Some lemmas, however, are words borrowed from other languages, possibly indigeno
 | dual-syllable roots | `gamu` | to go |
 || `paca` | to cook |
 || `vada` |to speak |
-| multiple-stem or three syllable roots | `vāyama` | to attempt |
+| three-syllable roots | `vāyama` | to attempt |
 || `araha` | to deserve|
 || `kilisa` | to torment |
 
@@ -588,11 +588,11 @@ lead to confusion. However, these terms are common in Pāḷi-English dictionari
 so I encourage you to substitute the vibhatti number when you see these terms.
 :::
 
-### ⓪ `ālapana` (vocative) {57}
+### ⓪ `ālapana` (the calling form) {57}
 
 English Pāḷi textbooks often refer to a "vocative" "case", but this is not
 recognised as a separate inflection form but a variant of the 1st vibhatti. The usual vibhatti
-ending `si` (for 1st case singular) is instead called `ga` but the
+ending `si` (for the first form ① singular) is instead called `ga` but the
 transformation rules are similar to `si`.
 
 Examples:
@@ -601,7 +601,7 @@ Examples:
 > `bhoti kaññe`! (Oh girl!)  
 > `bhoti kharādiye`!  (Oh the girl named Kharādiya!)
 
-Contrast this to the normal 1st case form of `ayyā` (🚺⨀①):
+Contrast this to the normal first form ① of `ayyā` (🚺⨀①):
 
 > `sā ayyā` (that lady)
 
@@ -673,18 +673,18 @@ to temple / tomorrow / should approach (optative)
 *(He) should come to the temple tomorrow.*
 
 The following is a brief descriptive list of some nipāta words. Some are plain
-nipātas without any affix, while some are with indeclinable affixes. Some may
+nipātas without any affix, while some carry an affix that takes no ending. Some may
 even have a sort of vibhatti-ending in them or may still have traces of
 vibhattis. Please note that the implied meaning of elided vibhatti still remains
 in effect for some nipāta words such as `yathā`, `tathā` and `evaṁ` etc.
 
 | `nipāta` | meaning | note |
 | --- | --- | --- |
-| `yathā`, `tathā` | in a manner that, in such a way as | combination of `sabbanāma` `ya` `ta` with indeclinable affix `thā`. The affix itself is expressive of manner or mood. |
+| `yathā`, `tathā` | in a manner that, in such a way as | combination of `sabbanāma` `ya` `ta` with the uninflected affix `thā`. The affix itself is expressive of manner or mood. |
 | `evaṁ` | thus, in this way, true as it is said, yes (many meanings) | dutiyāvibhatti, very frequently used in Pāli texts |
 | khalu | used mostly in a reported narrative | |
 | `kho` | mostly meaningless, but sometimes it may mean “only, really” | a plain nipāta, found often in main Buddhist texts. Used together with `atha` `evaṁ` `taṁ` etc. |
-| `tatra` | there | a combination of `sabbanāma` `ta` with indeclinable affix `tra` |
+| `tatra` | there | a combination of `sabbanāma` `ta` with the uninflected affix `tra` |
 | `atho` | in addition, besides | |
 | `atha` | now, then, later on, if | Sometimes used in the beginning of a chapter or an episode, as an introductory or initiating word |
 | `hi` | really, for, only | Sometimes a meaningless particle |
@@ -693,10 +693,10 @@ in effect for some nipāta words such as `yathā`, `tathā` and `evaṁ` etc.
 | `vā` | similar to either or, in other ways | In grammatical texts, sometimes it is used to express other option or method or inconsistency of a function. Sometimes with no particular meaning |
 | `vo` | you | It is sometimes a meaningless expletive |
 | `haṁ`, `ahaṁ` | I | the use of these two nipāta are seldom found in texts unless it means “I” |
-| `alaṁ` | (a) enough, (b) suitable, (c) worthiness, (d) appropriateness, (e) ability | Also, (f) sometimes used as a prohibition or rejection, usually used in combination with (1) a noun in instrumental case, or (2) tuṁ-infinitive Kita verbs or (3) an āya-infinitive in dative case nouns |
+| `alaṁ` | (a) enough, (b) suitable, (c) worthiness, (d) appropriateness, (e) ability | Also, (f) sometimes used as a prohibition or rejection, usually used in combination with (1) a noun in the third form ③, or (2) a `tuṁ` infinitive, or (3) an `āya` infinitive, a noun in the fourth form ④ |
 | `eva` | equal to “only” | used next to the word it wants to modify or restrict or confirm in its implied meaning. A plain nipāta. |
 | `ho!`, `aho!` | | these are expression of interjection or surprise. No vibhatti |
-| `he!`, `ahe!`, `re!`, `are!` | “hey” | Vocative nipāta particles, similar to “hey” in English. Usually vocative case vibhatti is applicable, but to be elided |
+| `he!`, `ahe!`, `re!`, `are!` | “hey” | Calling particles, similar to “hey” in English; the calling form ⓪ applies, but its ending is elided |
 
 ### `nipāta` as prefixes
 
@@ -910,9 +910,9 @@ Pāḷi numbers have their own set of `taddhita` affixes (to denote "first",
  9 | `nava` | `navama` |
  10 | `dasa`, `rasa`, `lasa`, `ḷasa` | `dasama` |
 
-### `Abyaya` (indeclinable affixes)
+### `Abyaya` (uninflected affixes)
 
-These are undeclinable (and no `liṅga`), and often used as adverbs or
+These take no inflection (and have no `liṅga`), and often used as adverbs or
 adjectives.
 
 | affix | rule |
@@ -926,8 +926,8 @@ adjectives.
 
 ### Abyaya affixes applied after Sabbanāma-nouns
 
-These are often used as a substitute or replacement for case endings
-(particularly ⑤ and ⑦), since they are indeclinable. They also have no
+These are often used as a substitute or replacement for inflection endings
+(particularly ⑤ and ⑦), since they take no inflection. They also have no
 `liṅga` (gender).
 
 | use | affix | rule |
@@ -1125,7 +1125,7 @@ The plural form `bahuvacana` (⨂) undergoes a similar transformation:
 
 Note that some of the terminations are the same so in practice we will need
 to distinguish which tense is being used from context. Note also the irregular
-forms, particularly the aorist ones. The irregular aorists tend to be more
+forms, particularly the `ajjatanī` ones. The irregular `ajjatanī` forms tend to be more
 commonly used than the regular forms. This is so prevalent other grammar books
 such as **Moggallāna Vyākaraṇa** and **Rūpasiddhi** created rules to accommodate
 them.
@@ -1457,8 +1457,8 @@ they / if / that / vehicle / should have got / might have gone already
 An active voice sentence is a subject-principal sentence where Kattā (the agent,
 doer subject) is much more dominant.
 
-1. `kattu` (subject) - `Kathita Kattā` or `Vutta-kattā` (predominant-subject) must be in 1st case (①)
-2. `kamma` (object) - `Akathita-kamma` or `Avutta-kamma` (non-principal object)  must be in 2nd case (②)
+1. `kattu` (subject) - `Kathita Kattā` or `Vutta-kattā` (predominant-subject) must be in the first form (①)
+2. `kamma` (object) - `Akathita-kamma` or `Avutta-kamma` (non-principal object) must be in the second form (②)
 3. The verb must be either in the `parassapada` termination (🟢) in most cases or in the `attanopada` termination (🔵) with or without an affix of `kattu` sense. [Affixes of `kamma` sense such as `ya`, or `kita` affixes e.g. `tabba`, `ta`, etc. cannot be used]
 4. The persons (subjects) and verbs should be concordant.
 
@@ -1475,13 +1475,13 @@ doer subject) is much more dominant.
 ### `Kamma-vācaka Vākya` (passive voice sentences)
 
 A passive voice sentence is an object-principal sentence where the Kamma (the
-thing being done, the object) is more visibly dominant by being in the 1st case
+thing being done, the object) is more visibly dominant by being in the first form
 (①).
 
 The rules in a passive voice sentence are:
 
-1. `kamma` (object) - `Kathita Kamma` or `Vutta-kamma` (predominant-object) must be in 1st case (①)
-2. `kattā` (subject) - `Akathita-kattā` or an `Avutta-kattā` (non-principal subject)  must be in 3rd case (③)
+1. `kamma` (object) - `Kathita Kamma` or `Vutta-kamma` (predominant-object) must be in the first form (①)
+2. `kattā` (subject) - `Akathita-kattā` or an `Avutta-kattā` (non-principal subject) must be in the third form (③)
 3. The verb should be mainly in the `attanopada` termination (🔵) or it can be in a reversed `parassapada` form (🟢) with an affix which has a Kamma-sense only. {440}-{443}.
 4. The object (not the subject!) and verb should be in agreement.
 
@@ -1500,7 +1500,7 @@ The rules in a passive voice sentence are:
 It's like a passive voice sentence except the focus is purely on the action
 and does not focus on either the subject or object. Therefore the verb tends to
 be in ⨀ (`ekavacana`) 🤟 (`paṭhama purisa`) form. If there is a subject, it can
-be (but not always) in 3rd (③) or 6th case (⑥).
+be (but not always) in the third (③) or the sixth form (⑥).
 
 | Subject (③) | Verb | Meaning |
 | :-: | :-: | --- |
@@ -1549,13 +1549,13 @@ absolutive (also called gerund), the present participle and past participle.
 | | `kha` | {560} | 🔴 (sometimes 🔵) | 🚻 (sometimes variable) |
 | | `ta` | {555}, {556}, {557} |🟢🔴🔵 | variable |
 
-### gerund or auxiliary verbs
+### absolutive and other verb-like affixes
 
 | use | affix | rule | voice | `liṅga` |
 | --- | :-: | :-: | --- | :-: |
 | to-infinitive | `tave` | {561} | - | - |
 | | `tuṁ` | {561}, {562}, {563} | - | - |
-| gerund | `tuna`, `tvāna`, `tvā` | {564} | no voice, but sense of "active" | - |
+| absolutive | `tuna`, `tvāna`, `tvā` | {564} | no voice, but sense of "active" | - |
 | Present participle or adjective or adverb | `māna`, `anta` | {565} | 🟢 (or 🔴 with `ya` affix) | variable |
 
 ### Individual noun affixes
@@ -1659,7 +1659,7 @@ Examples:
 ## `sādhana`
 
 The process of attaching either `kita` or `uṇādi` affixes to create new words
-is called `sādhana`. Like `kāraka` (the syntax of case or `vibhatti` endings),
+is called `sādhana`. Like `kāraka` (the syntax of the `vibhatti` endings),
 `sādhana` affixed words can be associated with specific usage meanings.
 
 `sādhana`-affixed words can be associated with a voice (`kattu`, `kamma`,
@@ -1717,7 +1717,7 @@ lying down, to be done (future passive participle) / by Your Honourable
 
 ### `sādhana` associated meanings and usage
 
-The associated meanings are rather weak compared to case endings (`vibhatti`)
+The associated meanings are rather weak compared to the inflection endings (`vibhatti`)
 and can sometimes have no significant role.
 
 | association | example | meaning | rule | usage |
@@ -1838,7 +1838,7 @@ an absolutive in `-ya` | 5 | `paṭicca`, `upasampajja`
 <a id="e-assa"></a>
 
 ```endings
--assa · 32.3 in every thousand words · see [2.2](../2-2-nouns/), [4.7](../4-7-genitive/) · see also [`-issa`](#e-issa), [`-ino`](#e-ino)
+-assa · 32.3 in every thousand words · see [2.2](../2-2-nouns/), [4.7](../4-7-sami/) · see also [`-issa`](#e-issa), [`-ino`](#e-ino)
 🚹⨀④ or ⑥ | 35 | `dhammassa`, `kāyassa`
 the pronouns `tassa`, `yassa`, `imassa` | 20 |
 🚻⨀④ or ⑥ | 20 | `cittassa`, `kammassa`
@@ -1848,7 +1848,7 @@ an adjective or a participle agreeing with its noun | 15 | `purejātassa`, `sama
 <a id="e-ena"></a>
 
 ```endings
--ena · 29.2 in every thousand words · see [4.4](../4-4-instrumental/) · see also [`-inā`](#e-inā)
+-ena · 29.2 in every thousand words · see [4.4](../4-4-karana/) · see also [`-inā`](#e-inā)
 🚹⨀③, "with", "by" | 45 | `samayena`, `kāyena`
 🚻⨀③ | 20 | `dassanena`, `cittena`
 the pronouns `tena`, `yena`, `kena` | 15 |
@@ -1858,7 +1858,7 @@ an adjective or a participle agreeing with its noun | 15 | `dibbena`, `samannāg
 <a id="e-āya"></a>
 
 ```endings
--āya · 17.4 in every thousand words · see [4.2](../4-2-dative/), [2.2](../2-2-nouns/), [8.8](../8-8-verb-like-forms/)
+-āya · 17.4 in every thousand words · see [4.2](../4-2-sampadana/), [2.2](../2-2-nouns/), [8.8](../8-8-verb-like-forms/)
 ⨀④ of a lemma in `-a`, "to", "for" | 35 | `dukkhāya`, `pahānāya`, `pasādāya`
 🚺⨀③, ④, ⑤, ⑥ or ⑦ by the sense | 30 | `vedanāya`, `bhāvanāya`
 an adjective agreeing with its noun | 15 | `sañcetanikāya`
@@ -2005,7 +2005,7 @@ an adjective or a participle agreeing with its noun | 10 | `mahantā`, `kantā`
 <a id="e-asmā"></a>
 
 ```endings
--asmā, -amhā · 2.8 in every thousand words · see [2.3](../2-3-irregular/), [2.7](../2-7-nipata/), [4.1](../4-1-ablative/) · see also [`-ato`](#e-ato)
+-asmā, -amhā · 2.8 in every thousand words · see [2.3](../2-3-irregular/), [2.7](../2-7-nipata/), [4.1](../4-1-apadana/) · see also [`-ato`](#e-ato)
 `āyasmā`, the ⨀① of `āyasmant` ("the venerable") | 45 |
 the pronouns `tasmā`, `yasmā` ("therefore", "because") | 30 |
 ⨀⑤ of a lemma in `-a`, "from" | 15 | `agārasmā`, `lokamhā`
@@ -2015,7 +2015,7 @@ a sandhi join with `āyasmā` inside | 10 | `yenāyasmā`
 <a id="e-inā"></a>
 
 ```endings
--inā, -unā · 2 in every thousand words · see [2.2](../2-2-nouns/), [4.4](../4-4-instrumental/) · see also [`-ena`](#e-ena)
+-inā, -unā · 2 in every thousand words · see [2.2](../2-2-nouns/), [4.4](../4-4-karana/) · see also [`-ena`](#e-ena)
 🚹⨀③ | 50 | `bhikkhunā`, `brahmunā`
 🚻⨀③ | 15 | `cakkhunā`, `kammunā`
 the pronoun `iminā` | 15 |
@@ -2082,7 +2082,7 @@ a participle with `iti` joined on | 5 | `avigatanti`
 <a id="e-ehi"></a>
 
 ```endings
--ehi, -īhi, -ūhi, -āhi · 9.9 in every thousand words · see [4.4](../4-4-instrumental/), [4.1](../4-1-ablative/), [8.3](../8-3-commands/) · see also [`-ānaṁ`](#e-ānaṁ), [`-esu`](#e-esu)
+-ehi, -īhi, -ūhi, -āhi · 9.9 in every thousand words · see [4.4](../4-4-karana/), [4.1](../4-1-apadana/), [8.3](../8-3-commands/) · see also [`-ānaṁ`](#e-ānaṁ), [`-esu`](#e-esu)
 🚹⨂③ or ⑤ | 30 | `dhammehi`, `kāmehi`
 the pronouns `tehi`, `imehi` | 15 |
 🚻⨂③ or ⑤ | 15 | `aṅgehi`, `ṭhānehi`
@@ -2142,7 +2142,7 @@ a sandhi join with `asmi` ("I am") inside | 5 | `esohamasmi`
 <a id="e-amhi"></a>
 
 ```endings
--amhi · 0.6 in every thousand words · see [2.2](../2-2-nouns/), [4.3](../4-3-locative/) · see also [`-asmiṁ`](#e-asmiṁ)
+-amhi · 0.6 in every thousand words · see [2.2](../2-2-nouns/), [4.3](../4-3-okasa/) · see also [`-asmiṁ`](#e-asmiṁ)
 🚹⨀⑦, "in", "at" | 30 | `saggamhi`, `kappamhi`
 the pronouns `tamhi`, `imamhi`, ⨀⑦ | 25 |
 🚻⨀⑦ | 20 | `kappasatasahassamhi`
@@ -2185,7 +2185,7 @@ a sandhi join with `assu` inside | 5 | `kudāssu`
 <a id="e-esu"></a>
 
 ```endings
--esu, -īsu, -ūsu, -āsu · 5.1 in every thousand words · see [4.3](../4-3-locative/) · see also [`-ehi`](#e-ehi), [`-ānaṁ`](#e-ānaṁ)
+-esu, -īsu, -ūsu, -āsu · 5.1 in every thousand words · see [4.3](../4-3-okasa/) · see also [`-ehi`](#e-ehi), [`-ānaṁ`](#e-ānaṁ)
 🚹⨂⑦, "in", "among" | 40 | `dhammesu`, `kāmesu`
 🚻⨂⑦ | 15 | `indriyesu`, `sikkhāpadesu`
 an adjective or a participle agreeing with its noun | 15 | `aṇumattesu`, `sattesu`
@@ -2292,7 +2292,7 @@ the pronouns `so`, `yo`, `ko` | 10 |
 <a id="e-ato"></a>
 
 ```endings
--ato, -to · 13.4 in every thousand words · see [2.3](../2-3-irregular/), [4.1](../4-1-ablative/) · see also [`-asmā`](#e-asmā)
+-ato, -to · 13.4 in every thousand words · see [2.3](../2-3-irregular/), [4.1](../4-1-apadana/) · see also [`-asmā`](#e-asmā)
 a participle or an adjective in `-ata` with the plain `-o` | 35 | `samannāgato`, `sato`
 ⨀④ or ⑥ of an `-ant` word | 15 | `bhagavato`, `āyasmato`
 the pronouns `tato`, `yato`, "from that" | 15 |
@@ -2383,7 +2383,7 @@ flowchart TD
 <a id="e-ānaṁ"></a>
 
 ```endings
--ānaṁ, -īnaṁ, -ūnaṁ · 22.8 in every thousand words · see [2.2](../2-2-nouns/), [4.7](../4-7-genitive/) · see also [`-ehi`](#e-ehi), [`-esu`](#e-esu)
+-ānaṁ, -īnaṁ, -ūnaṁ · 22.8 in every thousand words · see [2.2](../2-2-nouns/), [4.7](../4-7-sami/) · see also [`-ehi`](#e-ehi), [`-esu`](#e-esu)
 🚹⨂④ or ⑥ | 30 | `khandhānaṁ`, `devānaṁ`
 an adjective or a participle agreeing with its noun | 30 | `sampayuttakānaṁ`, `upapajjantānaṁ`
 🚻⨀① or ② of a lemma in `-āna` | 15 | `jhānaṁ`, `nibbānaṁ`
@@ -2444,7 +2444,7 @@ an adjective agreeing with its noun | 5 | `bahuṁ`
 <a id="e-asmiṁ"></a>
 
 ```endings
--asmiṁ · 2.8 in every thousand words · see [2.4](../2-4-pronouns/), [4.3](../4-3-locative/) · see also [`-amhi`](#e-amhi)
+-asmiṁ · 2.8 in every thousand words · see [2.4](../2-4-pronouns/), [4.3](../4-3-okasa/) · see also [`-amhi`](#e-amhi)
 the pronouns `tasmiṁ`, `yasmiṁ`, `imasmiṁ`, ⨀⑦ | 75 |
 🚹⨀⑦, "in", "at" | 15 | `lokasmiṁ`, `kāyasmiṁ`
 🚻⨀⑦ | 10 | `rūpasmiṁ`, `viññāṇasmiṁ`
@@ -2512,7 +2512,7 @@ Translating each word into English yields:
 
 > Buddha / refuge / (I) go
 
-Note that in Pali, all words in the same case refer to the same entity, so
+Note that in Pāḷi, all words in the same inflection form refer to the same entity, so
 both "Buddha" and "refuge" refer to the same entity. In other words, the Buddha
 is the refuge and the refuge is the Buddha. In English, we can regard the
 equality as "Buddha as refuge".

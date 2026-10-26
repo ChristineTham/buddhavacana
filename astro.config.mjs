@@ -20,6 +20,14 @@ export default defineConfig({
     "/pali-textbook/2-6-numbers": "/buddhavacana/pali-textbook/2-5-numbers/",
     "/pali-textbook/2-7-upasagga": "/buddhavacana/pali-textbook/2-6-upasagga/",
     "/pali-textbook/2-8-nipata": "/buddhavacana/pali-textbook/2-7-nipata/",
+    "/pali-textbook/4-1-ablative": "/buddhavacana/pali-textbook/4-1-apadana/",
+    "/pali-textbook/4-2-dative": "/buddhavacana/pali-textbook/4-2-sampadana/",
+    "/pali-textbook/4-3-locative": "/buddhavacana/pali-textbook/4-3-okasa/",
+    "/pali-textbook/4-4-instrumental": "/buddhavacana/pali-textbook/4-4-karana/",
+    "/pali-textbook/4-5-accusative": "/buddhavacana/pali-textbook/4-5-kamma/",
+    "/pali-textbook/4-6-agent": "/buddhavacana/pali-textbook/4-6-katta/",
+    "/pali-textbook/4-7-genitive": "/buddhavacana/pali-textbook/4-7-sami/",
+    "/pali-textbook/4-8-nominative": "/buddhavacana/pali-textbook/4-8-lingattha/",
   },
   markdown: {
     // `{344}` in the Pāḷi Textbook links to Kaccāyana §344 on kaccayana.github.io

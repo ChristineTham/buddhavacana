@@ -50,12 +50,12 @@ plural `-ehi`, `-ebhi` or `-hi` (`viññūhi`, "by the wise");
 | the distinguishing attribute (`visesana`): the clan or quality someone is known by | a ③ noun beside a name or a word of praise | `gottena gotamo nātho` ("the Protector [is] a Gotama by clan") | {292} |
 
 Three rules elsewhere touch the same ground. The ② ending is sometimes found
-where ③ is expected {307} ([4.5](../4-5-accusative/)); with `maṇḍita`
+where ③ is expected {307} ([4.5](../4-5-kamma/)); with `maṇḍita`
 ("gladdened") and `ussukka` ("zealous") either ③ or ⑦ is used {315}
-([4.3](../4-3-locative/)); and the doer of a passive verb sometimes takes the
+([4.3](../4-3-okasa/)); and the doer of a passive verb sometimes takes the
 ⑥ ending instead, `kato me kalyāṇo` ("good has been done by me") {308}
-([4.7](../4-7-genitive/)). With an active verb the doer takes the ① ending
-{284} ([4.6](../4-6-agent/)).
+([4.7](../4-7-sami/)). With an active verb the doer takes the ① ending
+{284} ([4.6](../4-6-katta/)).
 
 ### Examples
 

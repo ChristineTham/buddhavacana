@@ -38,7 +38,7 @@ before the main verb, or its purpose?
 | `-ta` on the root, whose last letter changes with it | `abhisambuddhā` (fully awakened) {576}, `vuttaṁ` (said) {579}, `gato` (gone) {586}, `ādittaṁ` (burning, [9: 2.1](../9-fire/#u2-1)) | {555} |
 | `-na` for `-ta` after some roots | `nisinno` (seated), `pahīnaṁ` (given up) | {582} |
 
-"Has been X-ed", the doer in the ③ ([4.6](../4-6-agent/)): `tathāgatena
+"Has been X-ed", the doer in the ③ ([4.6](../4-6-katta/)): `tathāgatena
 abhisambuddhā` {556}; after roots meaning go, know or awaken, the one who did
 it: `gato`, `buddho` {557}. It agrees with its noun, `paṭipadā … abhisambuddhā`
 🚺⨀①, or stands alone as one, `pabbajitena` 🚹⨀③.
@@ -91,8 +91,8 @@ spiritual path".
 
 | what you see | example | rule |
 | --- | --- | :-: |
-| a noun and a participle, both ⑦, outside the main sentence: "when", "while" ([4.3](../4-3-locative/)) | `pavattite … dhammacakke` ([5: 12.1](../5-dhammacakka/#u12-1)), `veyyākaraṇasmiṁ bhaññamāne` ([5: 11.1](../5-dhammacakka/#u11-1), [7: 12.3](../7-anatta/#u12-3), [9: 10.3](../9-fire/#u10-3)) | {313} |
-| both ⑥, for a person whose doing is disregarded: "though" ([4.7](../4-7-genitive/)) | `rudato dārakassa pabbaji` (though the boy wept, he went forth) | {305} |
+| a noun and a participle, both ⑦, outside the main sentence: "when", "while" ([4.3](../4-3-okasa/)) | `pavattite … dhammacakke` ([5: 12.1](../5-dhammacakka/#u12-1)), `veyyākaraṇasmiṁ bhaññamāne` ([5: 11.1](../5-dhammacakka/#u11-1), [7: 12.3](../7-anatta/#u12-3), [9: 10.3](../9-fire/#u10-3)) | {313} |
+| both ⑥, for a person whose doing is disregarded: "though" ([4.7](../4-7-sami/)) | `rudato dārakassa pabbaji` (though the boy wept, he went forth) | {305} |
 
 :::note[`sutvā` or `sutaṁ`?]
 Both say the hearing is over. `sutvā` keeps one shape, has no ending and
