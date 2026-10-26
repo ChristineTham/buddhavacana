@@ -124,7 +124,7 @@ deconstruction.
 
 🚹⨀⑤🆎(upādāna+nirodha) 🚹⨀①🆎(bhava+nirodha)  
 with the cessation of fuel / the cessation of existence  
-*With the cessation of fuel comes the cessation of the existence of suffering.*  
+*With the cessation of fuel comes the cessation of existence (of a false perception of an eternal independent "self" (`atta`)).*  
 `upādānanirodhā`: the cause of what follows {296}.
 
 2. > **virāgā** vimuccati
