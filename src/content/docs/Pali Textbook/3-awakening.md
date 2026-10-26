@@ -81,7 +81,7 @@ With craving as cause, `upādānaṁ` (fuel for suffering) [arises];
 <a id="u3-9"></a>3.9 upādānapaccayā bhavo,  
 🚹⨀⑤🆎(upādāna+paccaya) 🚹⨀①(bhava)  
 with fuel as cause | existence  
-With fuel as cause, `bhavo` (existence of suffering) [arises];
+With fuel as cause, `bhavo` (existence of a false perception of an eternal independent "self" (`atta`))[^bhava] [arises];
 
 <a id="u3-10"></a>3.10 bhavapaccayā jāti,  
 🚹⨀⑤🆎(bhava+paccaya) 🚺⨀①(jāti)  
@@ -141,7 +141,7 @@ with the cessation of craving comes the cessation of fuel for suffering;
 <a id="u4-9"></a>4.9 upādānanirodhā bhavanirodho,  
 🚹⨀⑤🆎(upādāna+nirodha) 🚹⨀①🆎(bhava+nirodha)  
 with the cessation of fuel | the cessation of existence  
-with the cessation of fuel comes the cessation of the existence of suffering;
+with the cessation of fuel comes the cessation of existence (of a false perception of an eternal independent "self" (`atta`));
 
 <a id="u4-10"></a>4.10 bhavanirodhā jātinirodho,  
 🚹⨀⑤🆎(bhava+nirodha) 🚹⨀①🆎(jāti+nirodha)  
@@ -234,7 +234,7 @@ With craving as cause, fuel for suffering [arises];
 <a id="u7-10"></a>7.10 upādānapaccayā bhavo,  
 🚹⨀⑤🆎(upādāna+paccaya) 🚹⨀①(bhava)  
 with fuel as cause | existence  
-With fuel as cause, the existence of suffering [arises];
+With fuel as cause, existence (of a false perception of an eternal independent "self" (`atta`)) [arises];
 
 <a id="u7-11"></a>7.11 bhavapaccayā jāti,  
 🚹⨀⑤🆎(bhava+paccaya) 🚺⨀①(jāti)  
@@ -294,7 +294,7 @@ with the cessation of craving comes the cessation of fuel for suffering;
 <a id="u7-22"></a>7.22 upādānanirodhā bhavanirodho,  
 🚹⨀⑤🆎(upādāna+nirodha) 🚹⨀①🆎(bhava+nirodha)  
 with the cessation of fuel | the cessation of existence  
-with the cessation of fuel comes the cessation of the existence of suffering;
+with the cessation of fuel comes the cessation of existence (of a false perception of an eternal independent "self" (`atta`));
 
 <a id="u7-23"></a>7.23 bhavanirodhā jātinirodho,  
 🚹⨀⑤🆎(bhava+nirodha) 🚹⨀①🆎(jāti+nirodha)  
@@ -387,7 +387,7 @@ With craving as cause, fuel for suffering [arises];
 <a id="u10-10"></a>10.10 upādānapaccayā bhavo,  
 🚹⨀⑤🆎(upādāna+paccaya) 🚹⨀①(bhava)  
 with fuel as cause | existence  
-With fuel as cause, the existence of suffering [arises];
+With fuel as cause, existence (of a false perception of an eternal independent "self" (`atta`)) [arises];
 
 <a id="u10-11"></a>10.11 bhavapaccayā jāti,  
 🚹⨀⑤🆎(bhava+paccaya) 🚺⨀①(jāti)  
@@ -447,7 +447,7 @@ with the cessation of craving comes the cessation of fuel for suffering;
 <a id="u10-22"></a>10.22 upādānanirodhā bhavanirodho,  
 🚹⨀⑤🆎(upādāna+nirodha) 🚹⨀①🆎(bhava+nirodha)  
 with the cessation of fuel | the cessation of existence  
-with the cessation of fuel comes the cessation of the existence of suffering;
+with the cessation of fuel comes the cessation of existence (of a false perception of an eternal independent "self" (`atta`));
 
 <a id="u10-23"></a>10.23 bhavanirodhā jātinirodho,  
 🚹⨀⑤🆎(bhava+nirodha) 🚹⨀①🆎(jāti+nirodha)  
@@ -496,3 +496,5 @@ like the sun illuminating the sky.”
 🚺⨀①🆎(bodhi+kathā) 🚺⨀①🔽(ta)(niṭṭhita)  
 the Bodhikathā | finished  
 The Bodhikathā is finished.
+
+[^bhava]: `bhava` (existence) is read here, in the chain of the awakening, as the existence of a false perception of an eternal, independent self, the `atta` of the note at [7: 2.1](../7-anatta/#u2-1). The Buddha traced the cause of suffering back to existence, "to live is to suffer", and then understood that our existence is due to our self-awareness, and that this self-awareness is traced all the way back to ignorance: ignorance of the constructed nature of consciousness. The cessation of existence is therefore not the end of life but the end of a false perception of the self. The reading belongs to this chain alone; elsewhere `bhava` keeps its ordinary sense of existence, as in `bhavataṇhā` ([5: 4.2](../5-dhammacakka/#u4-2)). The gloss line keeps the bare word and the translation adds the parenthesis, as it does for `jāti` (the note at [5: 10.2](../5-dhammacakka/#u10-2)); the bonus chapter reads the same chain the same way ([Bonus: 19, 2.6](../11-pbt/#s19-u2-6)).

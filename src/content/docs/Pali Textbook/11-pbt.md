@@ -13,10 +13,10 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
 :::note[How this chapter fits]
-This bonus chapter is the last of the interlinear translations: fifty-two short passages on the core teachings, chosen after Rune Johansson's *Pali Buddhist Texts*, each read word by word as the earlier text chapters are. It is my earliest translation effort, made in 2023 before the rest of this book existed, and it has since been updated to my latest understanding. Chapter 1 is enough to read it; the grammar chapters take many of their examples and exercises from these passages.
+This bonus chapter is the last of the interlinear translations: fifty-two short passages on the core teachings, chosen after Rune Johansson's *Pali Buddhist Texts*, each read word by word as the earlier text chapters are. It is my earliest translation effort, made in 2023 before the rest of this book existed, and it has since been updated to my latest understanding.
 :::
 
-I translated these excerpts immediately after attending the Pali course held by Bhante Sujato and John Kelly in 2023, so the approach here reflects a labour intensive approach to translate each word and manually determining the inflection form by looking up the Digital Pali Dictionary. These days I have a Python program that automatically looks up the word definition and inflection form from machine readable text.
+I translated these excerpts immediately after attending the Pali course held by Bhante Sujato and John Kelly in 2023, so the approach here reflects a labour intensive approach to translate each word and manually determining the inflection form by looking up the Digital Pali Dictionary. These days I have a Python program that automatically looks up the word definition and inflection form from machine readable text (that I intend to publish one day).
 
 To this day, I like to credit these excerpts as my first serious attempt at translating Pali texts, which resulted in my finally understanding and appreciating these texts.
 
@@ -48,8 +48,8 @@ Thus knowing and thus seeing, bhikkhave, would you say -
 
 <a id="s1-u24-8"></a>24.8 samaṇo evamāha, samaṇā ca nāma mayaṁ evaṁ vademā”ti?  
 🚹⨀①(samaṇa) ⏏️(evaṁ) 🟢⨀🤟🔄(āha) 🚹⨂①(samaṇa) ⏏️(ca) ⏏️(nāma) *️⃣👆⚧⨂①(ahaṁ) ⏏️(evaṁ) 🟢⨂👆⏯(vadati) ⏏️(iti)  
-renunciant | thus | said | ascetics | and | called | we | thus | would say | (end quote)  
-A renunciant said thus, and (those) renunciants named ..., (so) we say thus.
+wanderer | thus | said | ascetics | and | called | we | thus | would say | (end quote)  
+A wanderer said thus, and (those) wanderers named ..., (so) we say thus.
 
 <a id="s1-u24-9"></a>24.9 “No hetaṁ, bhante”.  
 ⏏️(no) ⏏️(hi) *️⃣🤟🚻⨀①(eta) 🚹⨀⓪(bhavant)  
@@ -89,7 +89,7 @@ Yes, Bhante.
 <a id="s1-u25-1"></a>25.1 “Sādhu, bhikkhave, upanītā kho me tumhe, bhikkhave, iminā sandiṭṭhikena dhammena akālikena ehipassikena opaneyyikena paccattaṁ veditabbena viññūhi.  
 ⏏️(sādhu) 🚹⨂⓪(bhikkhu) 🚹⨂①🔽(ta)(upanīta) ⏏️(kho) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) *️⃣🤟🚹⨀③(ima) 🚹⨀③(sandiṭṭhika) 🚹⨀③(dhamma) 🚹⨀③(akālika) 🚹⨀③(ehipassika) 🚹⨀③(opaneyyika) ⏏️(paccattaṁ) 🚹⨀③🔽(tabba)(veditabba) 🚹⨂③(viññū)  
 Excellent | bhikkhave | instructed | indeed | by me | you | bhikkhave | by this | by evident | by the principle | by immediate | by verifiable | by leading onward | personally | by should be experienced | by intelligent  
-Excellent, bhikkhave. Bhikkhave, you have indeed been instructed by me with an evident principle that is verifiable and should be personally experienced by those who are intelligent.
+Excellent, bhikkhave. Bhikkhave, you have indeed been instructed by me with an evident `dhamma` (principle interpreting the essential nature of existence and experience) that is verifiable and should be personally experienced by those who are intelligent.
 
 ## 2. DEFINITION OF SUFFERING
 
@@ -117,7 +117,7 @@ And what, bhikkhave, is the realisation of the source of dukkha?
 <a id="s3-u19-2"></a>19.2 Yāyaṁ taṇhā ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī, seyyathidaṁ  
 *️⃣🤟🚺⨀①(ya) *️⃣🤟🚺⨀①(ima) 🚺⨀①(taṇhā) 🚺⨀①(ponobbhavika) 🚺⨀①🆎(nandī+rāga+sahagata) 🚺⨀①🆎(tatra+tatra+abhinandī) ⏏️(seyyathidaṁ)  
 whatever | this | craving | leading to renewed existence | accompanied by delight and desire | who takes delight here and there; thoroughly enjoying this and that | as follows  
-Whatever craving, leading to renewed existence, accompanied by delight and desire, experienced by one who takes delight here and there; thoroughly enjoying this and that, as follows:
+Whatever craving, leading to renewed existence (of suffering), accompanied by delight and desire, experienced by one who takes delight here and there; thoroughly enjoying this and that, as follows:
 
 <a id="s3-u19-3"></a>19.3 kāmataṇhā bhavataṇhā vibhavataṇhā.  
 🚺⨀①🆎(kāma+taṇhā) 🚺⨀①🆎(bhava+taṇhā) 🚺⨀①🆎(vibhava+taṇhā)  
@@ -177,7 +177,7 @@ of streams | like | water | (end quote)
 Time passes,  
 life is finished;  
 the life energy of mortal men is exhausted,  
-water of stream.
+like water in stream.
 
 ## 7. THERE IS NO SOUL
 
@@ -241,7 +241,7 @@ This is merely a pile of `saṅkhāra` (mental constructions),
 No being is found in here.  
 Like a collection of parts,  
 Is (referred by) the word “chariot”.  
-Thus in the collection of the `khandhā`,  
+Thus the collection (`khandhā`),  
 Is generally regarded as a “being.”
 
 ## 9. THE FACTORS OF PERSONALITY
@@ -400,7 +400,7 @@ Bhikkhave, these are said to be mental constructions.
 <a id="s14-u8-1"></a>8.1 “Yaṁ yadeva, bhikkhave, paccayaṁ paṭicca uppajjati viññāṇaṁ, tena teneva viññāṇantveva saṅkhyaṁ gacchati.  
 *️⃣🤟🚹⨀②(ya) *️⃣🤟🚹⨀②(ya) ⏏️(eva) 🚹⨂⓪(bhikkhu) 🚹⨀②(paccaya) 🔽(ya)(paṭicceti) 🟢⨀🤟▶️(uppajjati) 🚻⨀①(viññāṇa) *️⃣🤟🚹⨀③(ta) *️⃣🤟🚹⨀③(ta) ⏏️(eva) 🚻⨀①(viññāṇa) ⏏️(iti) ⏏️(eva) 🚺⨀②(saṅkhyā) 🟢⨀🤟▶️(gacchati)  
 whichever | whatever | just | bhikkhave | cause | dependent on | arise | consciousness | by that | by that | alone | consciousness | (end quote) | just | definition | becomes  
-“Whenever any prerequisite or dependency causing consciousness arises, just by that alone “consciousness” becomes defined.
+“Whenever any prerequisite or dependency causing consciousness arises, just by that alone “consciousness” becomes constructed.
 
 <a id="s14-u8-2"></a>8.2 Cakkhuñca paṭicca rūpe ca uppajjati viññāṇaṁ, cakkhuviññāṇantveva saṅkhyaṁ gacchati;  
 🚻⨀②(cakkhu) ⏏️(ca) 🔽(ya)(paṭicceti) 🚻⨂②(rūpa) ⏏️(ca) 🟢⨀🤟▶️(uppajjati) 🚻⨀①(viññāṇa) 🚻⨀①🆎(cakkhu+viññāṇa) ⏏️(iti) ⏏️(eva) 🚺⨀②(saṅkhyā) 🟢⨀🤟▶️(gacchati)  
@@ -509,7 +509,7 @@ There is no birth of suffering.
 Having known this danger,  
 suffering is caused by consciousness;  
 The bhikkhu stills the consciousness,  
-And so attained final extinguishment satisfied.
+Satisfied, attained final extinguishment.
 
 ## 17. THE PSYCHOLOGICAL LAW OF CAUSALITY AND ITS USE
 
@@ -691,7 +691,7 @@ While completely fading away and ending of craving, cessation of fuel for suffer
 <a id="s19-u2-6"></a>2.6 upādānanirodhā bhavanirodho;  
 🚹⨀⑤🆎(upādāna+nirodha) 🚹⨀①🆎(bhava+nirodha)  
 from cessation of fuel | cessation of existence  
-From cessation of fuel, cessation of the existence of suffering.
+From cessation of fuel, cessation of existence (of a false perception of an eternal independent "self" (`atta`)).
 
 <a id="s19-u2-7"></a>2.7 bhavanirodhā jātinirodho;  
 🚹⨀⑤🆎(bhava+nirodha) 🚹⨀①🆎(jāti+nirodha)  
@@ -797,7 +797,7 @@ Thickens quickly like milk;
 Smouldering, heedlessly follows,  
 Like fire covered with ashes.
 
-## 23. HOW REBIRTH IS INFLUENCED BY ACTIONS 
+## 23. HOW REOCCURRENCE (OF SUFFERING) IS INFLUENCED BY ACTIONS 
 
 [Saṅkhārasutta AN 3.23 PTS 1.123](https://suttacentral.net/an3.23)(Anguttara Nikaya I 122):
 
@@ -808,20 +808,20 @@ Here, a certain person generates harmful intentions resulting in bodily, verbal 
 
 <a id="s23-u1-4"></a>1.4 So sabyābajjhaṁ kāyasaṅkhāraṁ abhisaṅkharitvā, sabyābajjhaṁ vacīsaṅkhāraṁ abhisaṅkharitvā, sabyābajjhaṁ manosaṅkhāraṁ abhisaṅkharitvā sabyābajjhaṁ lokaṁ upapajjati.  
 *️⃣🤟🚹⨀①(ta) 🚹⨀②🆎(sa+byābajjha) 🚹⨀②🆎(kāya+saṅkhāra) 🔽(tvā)(abhisaṅkharoti) 🚹⨀②🆎(sa+byābajjha) 🚹⨀②🆎(vacī+saṅkhāra) 🔽(tvā)(abhisaṅkharoti) 🚹⨀②🆎(sa+byābajjha) 🚹⨀②🆎(mano+saṅkhāra) 🔽(tvā)(abhisaṅkharoti) 🚹⨀②🆎(sa+byābajjha) 🚹⨀②(loka) 🟢⨀🤟▶️(upapajjati)  
-he | harmful | intention which results in bodily action | having generated | harmful | intention which results in verbal action | having generated | harmful | intention which results in mental action | having generated | harmful | world | is reborn in  
-Having generated harmful intentions resulting in bodily, verbal and mental actions, he is reborn in a harmful world.
+he | harmful | intention which results in bodily action | having generated | harmful | intention which results in verbal action | having generated | harmful | intention which results in mental action | having generated | harmful | world | goes towards  
+Having generated harmful intentions resulting in bodily, verbal and mental actions, he goes towards a harmful world (of experience).
 
 <a id="s23-u1-5"></a>1.5 Tamenaṁ sabyābajjhaṁ lokaṁ upapannaṁ samānaṁ sabyābajjhā phassā phusanti.  
 *️⃣🤟🚹⨀②(ta) *️⃣🤟🚹⨀②(eta) 🚹⨀②🆎(sa+byābajjha) 🚹⨀②(loka) 🚹⨀②🔽(ta)(upapanna) 🚹⨀②🔽(māna)(samāna) 🚹⨂①🆎(sa+byābajjha) 🚹⨂①(phassa) 🟢⨂🤟▶️(phusati)  
-that | this one | harmful | world | is reborn in | being | harmful | contacts | afflict  
-That being, who is reborn in a harmful world, is afflicted with harmful contact.
+that | this one | harmful | world | went towards | being | harmful | contacts | afflict  
+That being, who went towards a harmful world, is afflicted with harmful contact.
 
 <a id="s23-u1-6"></a>1.6 So sabyābajjhehi phassehi phuṭṭho samāno sabyābajjhaṁ vedanaṁ vedayati ekantadukkhaṁ, seyyathāpi sattā nerayikā.  
 *️⃣🤟🚹⨀①(ta) 🚹⨂③🆎(sa+byābajjha) 🚹⨂③(phassa) 🚹⨀①🔽(ta)(phuṭṭha) 🚹⨀①🔽(māna)(samāna) 🚺⨀②🆎(sa+byābajjha) 🚺⨀②(vedanā) 🟢⨀🤟▶️(vedayati) 🚺⨀②🆎(ekanta+dukkha) ⏏️(seyyathāpi) 🚹⨂①(satta) 🚹⨂①(nerayika)  
 that | with harmful | with contact | afflicted with | being | harmful | feeling | experiences | totally painful | just like | beings | living in hell  
 That being, who is afflicted with harmful contact, experiences totally painful harmful feelings just like beings living in hell.
 
-## 24. A STRONG WISH MAY INFLUENCE REBIRTH
+## 24. A STRONG WISH MAY INFLUENCE REOCCURRENCE (OF SUFFERING)
 
 [Saṅkhārupapattisutta MN 120 PTS 3.100–3.103](https://suttacentral.net/mn120) (Majjhima Nikaya III 99 f):
 
@@ -848,12 +848,12 @@ He takes his mind, focuses and cultivates it.
 <a id="s24-u3-5"></a>3.5 Tassa te saṅkhārā ca vihārā ca evaṁ bhāvitā evaṁ bahulīkatā tatrupapattiyā saṁvattanti.  
 *️⃣🤟🚹⨀⑥(ta) *️⃣🤟🚹⨂①(ta) 🚹⨂①(saṅkhāra) ⏏️(ca) 🚹⨂①(vihāra) ⏏️(ca) ⏏️(evaṁ) 🚹⨂①🔽(ta)(bhāvita) ⏏️(evaṁ) 🚹⨂①🆎(bahula+kata) 🚺⨀④🆎(tatra+upapatti) 🟢⨂🤟▶️(saṁvattati)  
 of that | those | mental constructions | and | states of mind | and | thus | cultivated | thus | practised often | to rebirth there | lead to  
-Regarding that, those mental constructions and state of mind, thus cultivated and practised often, leads to rebirth.
+Regarding that, those mental constructions and state of mind, thus cultivated and practised often, leads to reoccurrence (of suffering).
 
 <a id="s24-u3-6"></a>3.6 Ayaṁ, bhikkhave, maggo ayaṁ paṭipadā tatrupapattiyā saṁvattati.  
 *️⃣🤟🚹⨀①(ima) 🚹⨂⓪(bhikkhu) 🚹⨀①(magga) *️⃣🤟🚺⨀①(ima) 🚺⨀①(paṭipadā) 🚺⨀④🆎(tatra+upapatti) 🟢⨀🤟▶️(saṁvattati)  
 this | bhikkhave | way | this | path of progress | to rebirth there | leads to  
-This way, Bhikkhave, this path of progress leads to rebirth.
+This way, Bhikkhave, this path of progress leads to reoccurrence (of suffering).
 
 ## 25. A SUMMARY OF THE WAY
 
@@ -1499,7 +1499,7 @@ Experience comfort, suffering miserably.
 
 From that, having taken a rope,  
 Entered into the inner forest;  
-My wish is now suicide,  
+Better for me to commit suicide,  
 But whatever deficiencies will repeat again.
 
 Having made a strong noose,  
@@ -1622,7 +1622,7 @@ Peaceful and unobstructed,
 Free from stumbling and fear.
 
 This is achieved by many,  
-Obtainable now this freedom from death;  
+Obtainable now this freedom from (fear of) death;  
 Whoever applies properly,  
 Not able without striving.
 
@@ -1638,7 +1638,7 @@ there exists | Bhikkhave | not born | not become | not made | not formed
 <a id="s51-u3-2"></a>3.2 No cetaṁ, bhikkhave, abhavissa ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ, nayidha jātassa bhūtassa katassa saṅkhatassa nissaraṇaṁ paññāyetha.  
 ⏏️(no) ⏏️(ce) *️⃣🤟🚻⨀①(eta) 🚹⨂⓪(bhikkhu) 🟢⨀🤟🔀(bhavati) 🚻⨀①🔽(ta)🆎(na+jāta) 🚻⨀①🔽(ta)🆎(na+bhūta) 🚻⨀①🔽(ta)🆎(na+kata) 🚻⨀①🔽(ta)🆎(na+saṅkhata) ⏏️(na) ⏏️(idha) 🚻⨀⑥🔽(ta)(jāta) 🚻⨀⑥🔽(ta)(bhūta) 🚻⨀⑥🔽(ta)(kata) 🚻⨀⑥🔽(ta)(saṅkhata) 🚻⨀①(nissaraṇa) 🔵⨀🤟⏯(paññāyati)  
 not | if | this | Bhikkhave | could have been | not born | not become | not made | not formed | not | here | of born | of becoming | of made | of formed | way out of | would be clearly known  
-"Surely if this could have been, Bhikkhave, wouldn't there be a way out of being born, becoming, made, formed be clearly known?"
+"Surely if this is possible, Bhikkhave, wouldn't there be a way out of being born, becoming, made, formed be clearly known?"
 
 <a id="s51-u3-3"></a>3.3 Yasmā ca kho, bhikkhave, atthi ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ, tasmā jātassa bhūtassa katassa saṅkhatassa nissaraṇaṁ paññāyatī”ti.  
 ⏏️(yasmā) ⏏️(ca) ⏏️(kho) 🚹⨂⓪(bhikkhu) 🟢⨀🤟▶️(atthi) 🚻⨀①🔽(ta)🆎(na+jāta) 🚻⨀①🔽(ta)🆎(na+bhūta) 🚻⨀①🔽(ta)🆎(na+kata) 🚻⨀①🔽(ta)🆎(na+saṅkhata) ⏏️(tasmā) 🚻⨀⑥🔽(ta)(jāta) 🚻⨀⑥🔽(ta)(bhūta) 🚻⨀⑥🔽(ta)(kata) 🚻⨀⑥🔽(ta)(saṅkhata) 🚻⨀①(nissaraṇa) 🔴⨀🤟▶️(paññāyati) ⏏️(iti)  
@@ -1912,9 +1912,9 @@ This characteristic, one personally realises understanding and insight into libe
 Visual consciousness (cakkhuviññāṇa) arises dependent on rūpa (form) and the faculty of seeing. The three combined together is phassa (contact).  
 With phassa (contact) as cause, vedanā (feelings).  
 With vedanā (feelings) as cause, taṇhā (craving).  
-While completely fading away and ending of craving, cessation of fuel for suffering.  
-From cessation of fuel, cessation of the existence of suffering.  
-From cessation of existence, cessation of the birth of suffering.  
+While completely fading away and ending of craving, cessation of fuel (the will to survive).  
+From cessation of fuel, cessation of the existence (of false perception of `atta` - an eternal independent self).  
+From cessation of existence, cessation of the birth (of suffering).  
 From cessation of birth, aging and death, sorrow, lamentation, pain, displeasure and despair cease.  
 Thus of this whole lot, there is cessation of mass of suffering.  
 This is disappearance of dukkha (suffering).
@@ -1945,21 +1945,21 @@ Thickens quickly like milk;
 Smouldering, heedlessly follows,  
 Like fire covered with ashes.
 
-### How Rebirth Is Influenced By Actions
+### How Reoccurrence (of suffering) Is Influenced By Actions
 
 Here, a certain person generates harmful intentions resulting in bodily, verbal and mental actions.  
-Having generated harmful intentions resulting in bodily, verbal and mental actions, he is reborn in a harmful world.  
-That being, who is reborn in a harmful world, is afflicted with harmful contact.  
+Having generated harmful intentions resulting in bodily, verbal and mental actions, he goes towards a harmful world (of experience).  
+That being, who went towards a harmful world, is afflicted with harmful contact.  
 That being, who is afflicted with harmful contact, experiences totally painful harmful feelings just like beings living in hell.
 
-### A Strong Wish May Influence Rebirth
+### A Strong Wish May Influence Reoccurrence (of suffering)
 
 Here, a bhikkhu is endowed with faith, virtue, learning, generosity and wisdom.  
 It occurred to him:  
 “Oh dear, oh no, death (of my) body, following death, I should be reborn in company of wealthy men of the ruling caste.”  
 He takes his mind, focuses and cultivates it.  
-Regarding that, those mental constructions and state of mind, thus cultivated and practised often, leads to rebirth.  
-This way, this path of progress leads to rebirth.
+Regarding that, those mental constructions and state of mind, thus cultivated and practised often, leads to reoccurrence (of suffering).  
+This way, this path of progress leads to reoccurrence (of suffering).
 
 ### A Summary Of The Way
 
@@ -2144,7 +2144,7 @@ Experience comfort, suffering miserably.
 
 From that, having taken a rope,  
 Entered into the inner forest;  
-My wish is now suicide,  
+Better for me to commit suicide,  
 But whatever deficiencies will repeat again.
 
 Having made a strong noose,  
