@@ -19,11 +19,11 @@ This is the third of the interlinear translations, placed after chapter 6 becaus
 
 ## Anattalakkhaṇasutta
 
-The text is the World Tipiṭaka Edition's [Anattalakkhaṇasutta, Saṁyutta Nikāya 22.59](https://tipitaka2500.github.io/tipitaka/13S3/1/1.2/1.2.1/1.2.1.7.html), paragraphs 297–309, numbered 1–13 here; the paragraph numbers link to it, and the edition's abbreviations (`…pe…`) are written out in full. This is the Buddha's second discourse to the five bhikkhū, five days after the first, and the one that made them `arahanto`. The Vinaya tells it again in the Mahākhandhaka, and the translation line of each sentence follows my translation of that telling at [tidipa.github.io](https://tidipa.github.io/Khandhaka/1.6). Read it after chapters 4 and 6: the sentences turn on the endings the `kāraka` chapter explains, the ⑦ of `rūpe`, the ③ of `āsavehi`, the ⑥ of `me`, and on compounds of the kinds chapter 6 sorts, `atītānāgatapaccuppannaṁ`, `vipariṇāmadhammaṁ`, `ariyasāvako`; and its catechism repeats one pattern five times, so the forms can be read off by the fourth.
+The text is the World Tipiṭaka Edition's [Anattalakkhaṇasutta, Saṁyutta Nikāya 22.59](https://tipitaka2500.github.io/tipitaka/13S3/1/1.2/1.2.1/1.2.1.7.html), paragraphs 297–309, numbered 1–13 here; the paragraph numbers link to it, and the edition's abbreviations (`…pe…`) are written out in full. This is the Buddha's second discourse to the five bhikkhū, five days after the first, and the one that made them `arahanto`. The Vinaya tells it again in the Mahākhandhaka, and the translation line of each sentence follows my translation of that telling at [tidipa.github.io](https://tidipa.github.io/Khandhaka/1.6). It reads most easily after chapters 4 and 6: the sentences turn on the endings the `kāraka` chapter explains, the ⑦ of `rūpe`, the ⑤ of `āsavehi`, the ⑥ of `me`, and on compounds of the kinds chapter 6 sorts, `atītānāgatapaccuppannaṁ`, `vipariṇāmadhammaṁ`, `ariyasāvako`; and its catechism repeats one pattern five times, so the forms can be read off by the fourth.
 
 The analysis line gives, for every word, its gender, number and ending (or voice, number, person and tense for a verb) and the lemma to look up; the gloss line gives one gloss per word; the fourth line is the translation.
 
-### 1. The five collections are not self
+### 1. The five collections are not-self
 
 <a id="u1-1"></a>[1.1](https://tipitaka2500.github.io/tipitaka/13S3/1/1.2/1.2.1/1.2.1.7.html#p_13S3_297) Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye.  
 *️⃣🤟🚹⨀②(eka) 🚹⨀②(samaya) 🚹⨀①(bhagavant) 🚺⨀⑦(bārāṇasī) 🟢⨀🤟▶️(viharati) 🚻⨀⑦(isipatana) 🚹⨀⑦(migadāya)  
@@ -56,7 +56,7 @@ form | and | indeed | this | bhikkhave | self | would be | not | this | form | t
 And indeed here, bhikkhave, if `rūpa` were `attā` (self), this `rūpa` would not lead to `ābādha` (affliction), and `rūpa` could be obtained: ‘May my `rūpa` be thus, may my `rūpa` not be thus.’
 
 <a id="u2-3"></a>2.3 Yasmā ca kho, bhikkhave, rūpaṁ anattā, tasmā rūpaṁ ābādhāya saṁvattati, na ca labbhati rūpe— ‘evaṁ me rūpaṁ hotu, evaṁ me rūpaṁ mā ahosī’ti.  
-⏏️(yasmā) ⏏️(ca) ⏏️(kho) 🚹⨂⓪(bhikkhu) 🚻⨀①(rūpa) 🚹⨀①🆎(na+atta) ⏏️(tasmā) 🚻⨀①(rūpa) 🚹⨀④(ābādha) 🟢⨀🤟▶️(saṁvattati) ⏏️(na) ⏏️(ca) 🔵⨀🤟▶️(labhati) 🚻⨀⑦(rūpa) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(rūpa) 🟢⨀🤟⏹(hoti) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(rūpa) ⏏️(mā) 🟢⨀🤟⏮(hoti) ⏏️(iti)  
+⏏️(yasmā) ⏏️(ca) ⏏️(kho) 🚹⨂⓪(bhikkhu) 🚻⨀①(rūpa) 🚹⨀①🆎(na+atta) ⏏️(tasmā) 🚻⨀①(rūpa) 🚹⨀④(ābādha) 🟢⨀🤟▶️(saṁvattati) ⏏️(na) ⏏️(ca) 🔴⨀🤟▶️(labhati) 🚻⨀⑦(rūpa) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(rūpa) 🟢⨀🤟⏹(hoti) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(rūpa) ⏏️(mā) 🟢⨀🤟⏮(hoti) ⏏️(iti)  
 because | and | indeed | bhikkhave | form | not-self | therefore | form | to affliction | leads | not | and | is obtained | in form | thus | my | form | let be | thus | my | form | not | be | (end quote)  
 And because indeed, bhikkhave, `rūpa` is `anattā`, therefore `rūpa` leads to affliction, and it cannot be obtained: ‘May my `rūpa` be thus, may my `rūpa` not be thus.’
 
@@ -71,7 +71,7 @@ feeling | and | indeed | this | bhikkhave | self | would be | not | this | feeli
 And indeed here, bhikkhave, if `vedanā` were `attā` (self), this `vedanā` would not lead to `ābādha` (affliction), and `vedanā` could be obtained: ‘May my `vedanā` be thus, may my `vedanā` not be thus.’
 
 <a id="u3-3"></a>3.3 Yasmā ca kho, bhikkhave, vedanā anattā, tasmā vedanā ābādhāya saṁvattati, na ca labbhati vedanāya— ‘evaṁ me vedanā hotu, evaṁ me vedanā mā ahosī’ti.  
-⏏️(yasmā) ⏏️(ca) ⏏️(kho) 🚹⨂⓪(bhikkhu) 🚺⨀①(vedanā) 🚹⨀①🆎(na+atta) ⏏️(tasmā) 🚺⨀①(vedanā) 🚹⨀④(ābādha) 🟢⨀🤟▶️(saṁvattati) ⏏️(na) ⏏️(ca) 🔵⨀🤟▶️(labhati) 🚺⨀⑦(vedanā) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚺⨀①(vedanā) 🟢⨀🤟⏹(hoti) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚺⨀①(vedanā) ⏏️(mā) 🟢⨀🤟⏮(hoti) ⏏️(iti)  
+⏏️(yasmā) ⏏️(ca) ⏏️(kho) 🚹⨂⓪(bhikkhu) 🚺⨀①(vedanā) 🚹⨀①🆎(na+atta) ⏏️(tasmā) 🚺⨀①(vedanā) 🚹⨀④(ābādha) 🟢⨀🤟▶️(saṁvattati) ⏏️(na) ⏏️(ca) 🔴⨀🤟▶️(labhati) 🚺⨀⑦(vedanā) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚺⨀①(vedanā) 🟢⨀🤟⏹(hoti) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚺⨀①(vedanā) ⏏️(mā) 🟢⨀🤟⏮(hoti) ⏏️(iti)  
 because | and | indeed | bhikkhave | feeling | not-self | therefore | feeling | to affliction | leads | not | and | is obtained | in feeling | thus | my | feeling | let be | thus | my | feeling | not | be | (end quote)  
 And because indeed, bhikkhave, `vedanā` is `anattā`, therefore `vedanā` leads to affliction, and it cannot be obtained: ‘May my `vedanā` be thus, may my `vedanā` not be thus.’
 
@@ -86,7 +86,7 @@ apperception | and | indeed | this | bhikkhave | self | would be | not | this | 
 And indeed here, bhikkhave, if `saññā` were `attā` (self), this `saññā` would not lead to `ābādha` (affliction), and `saññā` could be obtained: ‘May my `saññā` be thus, may my `saññā` not be thus.’
 
 <a id="u4-3"></a>4.3 Yasmā ca kho, bhikkhave, saññā anattā, tasmā saññā ābādhāya saṁvattati, na ca labbhati saññāya— ‘evaṁ me saññā hotu, evaṁ me saññā mā ahosī’ti.  
-⏏️(yasmā) ⏏️(ca) ⏏️(kho) 🚹⨂⓪(bhikkhu) 🚺⨀①(saññā) 🚹⨀①🆎(na+atta) ⏏️(tasmā) 🚺⨀①(saññā) 🚹⨀④(ābādha) 🟢⨀🤟▶️(saṁvattati) ⏏️(na) ⏏️(ca) 🔵⨀🤟▶️(labhati) 🚺⨀⑦(saññā) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚺⨀①(saññā) 🟢⨀🤟⏹(hoti) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚺⨀①(saññā) ⏏️(mā) 🟢⨀🤟⏮(hoti) ⏏️(iti)  
+⏏️(yasmā) ⏏️(ca) ⏏️(kho) 🚹⨂⓪(bhikkhu) 🚺⨀①(saññā) 🚹⨀①🆎(na+atta) ⏏️(tasmā) 🚺⨀①(saññā) 🚹⨀④(ābādha) 🟢⨀🤟▶️(saṁvattati) ⏏️(na) ⏏️(ca) 🔴⨀🤟▶️(labhati) 🚺⨀⑦(saññā) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚺⨀①(saññā) 🟢⨀🤟⏹(hoti) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚺⨀①(saññā) ⏏️(mā) 🟢⨀🤟⏮(hoti) ⏏️(iti)  
 because | and | indeed | bhikkhave | apperception | not-self | therefore | apperception | to affliction | leads | not | and | is obtained | in apperception | thus | my | apperception | let be | thus | my | apperception | not | be | (end quote)  
 And because indeed, bhikkhave, `saññā` is `anattā`, therefore `saññā` leads to affliction, and it cannot be obtained: ‘May my `saññā` be thus, may my `saññā` not be thus.’
 
@@ -101,7 +101,7 @@ mental constructions | and | indeed | this | bhikkhave | self | would be | not |
 And indeed here, bhikkhave, if `saṅkhārā` were `attā` (self), these `saṅkhārā` would not lead to `ābādha` (affliction), and `saṅkhārā` could be obtained: ‘May my `saṅkhārā` be thus, may my `saṅkhārā` not be thus.’
 
 <a id="u4-6"></a>4.6 Yasmā ca kho, bhikkhave, saṅkhārā anattā, tasmā saṅkhārā ābādhāya saṁvattanti, na ca labbhati saṅkhāresu— ‘evaṁ me saṅkhārā hontu, evaṁ me saṅkhārā mā ahesun’ti.  
-⏏️(yasmā) ⏏️(ca) ⏏️(kho) 🚹⨂⓪(bhikkhu) 🚹⨂①(saṅkhāra) 🚹⨂①🆎(na+atta) ⏏️(tasmā) 🚹⨂①(saṅkhāra) 🚹⨀④(ābādha) 🟢⨂🤟▶️(saṁvattati) ⏏️(na) ⏏️(ca) 🔵⨀🤟▶️(labhati) 🚹⨂⑦(saṅkhāra) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨂①(saṅkhāra) 🟢⨂🤟⏹(hoti) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨂①(saṅkhāra) ⏏️(mā) 🟢⨂🤟⏮(hoti) ⏏️(iti)  
+⏏️(yasmā) ⏏️(ca) ⏏️(kho) 🚹⨂⓪(bhikkhu) 🚹⨂①(saṅkhāra) 🚹⨂①🆎(na+atta) ⏏️(tasmā) 🚹⨂①(saṅkhāra) 🚹⨀④(ābādha) 🟢⨂🤟▶️(saṁvattati) ⏏️(na) ⏏️(ca) 🔴⨀🤟▶️(labhati) 🚹⨂⑦(saṅkhāra) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨂①(saṅkhāra) 🟢⨂🤟⏹(hoti) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨂①(saṅkhāra) ⏏️(mā) 🟢⨂🤟⏮(hoti) ⏏️(iti)  
 because | and | indeed | bhikkhave | mental constructions | not-self | therefore | mental constructions | to affliction | lead | not | and | is obtained | in mental constructions | thus | my | mental constructions | let be | thus | my | mental constructions | not | be | (end quote)  
 And because indeed, bhikkhave, `saṅkhārā` are `anattā`, therefore `saṅkhārā` lead to affliction, and they cannot be obtained: ‘May my `saṅkhārā` be thus, may my `saṅkhārā` not be thus.’
 
@@ -116,11 +116,11 @@ consciousness | and | indeed | this | bhikkhave | self | would be | not | this |
 And indeed here, bhikkhave, if `viññāṇa` were `attā` (self), this `viññāṇa` would not lead to `ābādha` (affliction), and `viññāṇa` could be obtained: ‘May my `viññāṇa` be thus, may my `viññāṇa` not be thus.’
 
 <a id="u5-3"></a>5.3 Yasmā ca kho, bhikkhave, viññāṇaṁ anattā, tasmā viññāṇaṁ ābādhāya saṁvattati, na ca labbhati viññāṇe— ‘evaṁ me viññāṇaṁ hotu, evaṁ me viññāṇaṁ mā ahosī’ti.  
-⏏️(yasmā) ⏏️(ca) ⏏️(kho) 🚹⨂⓪(bhikkhu) 🚻⨀①(viññāṇa) 🚹⨀①🆎(na+atta) ⏏️(tasmā) 🚻⨀①(viññāṇa) 🚹⨀④(ābādha) 🟢⨀🤟▶️(saṁvattati) ⏏️(na) ⏏️(ca) 🔵⨀🤟▶️(labhati) 🚻⨀⑦(viññāṇa) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(viññāṇa) 🟢⨀🤟⏹(hoti) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(viññāṇa) ⏏️(mā) 🟢⨀🤟⏮(hoti) ⏏️(iti)  
+⏏️(yasmā) ⏏️(ca) ⏏️(kho) 🚹⨂⓪(bhikkhu) 🚻⨀①(viññāṇa) 🚹⨀①🆎(na+atta) ⏏️(tasmā) 🚻⨀①(viññāṇa) 🚹⨀④(ābādha) 🟢⨀🤟▶️(saṁvattati) ⏏️(na) ⏏️(ca) 🔴⨀🤟▶️(labhati) 🚻⨀⑦(viññāṇa) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(viññāṇa) 🟢⨀🤟⏹(hoti) ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(viññāṇa) ⏏️(mā) 🟢⨀🤟⏮(hoti) ⏏️(iti)  
 because | and | indeed | bhikkhave | consciousness | not-self | therefore | consciousness | to affliction | leads | not | and | is obtained | in consciousness | thus | my | consciousness | let be | thus | my | consciousness | not | be | (end quote)  
 And because indeed, bhikkhave, `viññāṇa` is `anattā`, therefore `viññāṇa` leads to affliction, and it cannot be obtained: ‘May my `viññāṇa` be thus, may my `viññāṇa` not be thus.’
 
-### 2. Impermanent, suffering, not self
+### 2. Impermanent, suffering, not-self
 
 <a id="u6-1"></a>[6.1](https://tipitaka2500.github.io/tipitaka/13S3/1/1.2/1.2.1/1.2.1.7.html#p_13S3_302) Taṁ kiṁ maññatha, bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā”ti?  
 *️⃣🤟🚻⨀②(ta) *️⃣🤟🚻⨀②(kiṁ) 🟢⨂🤘▶️(maññati) 🚹⨂⓪(bhikkhu) 🚻⨀①(rūpa) 🚻⨀①(nicca) ⏏️(vā) 🚻⨀①🆎(na+nicca) ⏏️(vā) ⏏️(iti)  
@@ -275,27 +275,27 @@ not | indeed | this | bhante
 ### 3. Whatever there is
 
 <a id="u7-1"></a>[7.1](https://tipitaka2500.github.io/tipitaka/13S3/1/1.2/1.2.1/1.2.1.7.html#p_13S3_303) “Tasmātiha, bhikkhave, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ— ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.  
-⏏️(tasmā) ⏏️(iha) 🚹⨂⓪(bhikkhu) *️⃣🤟🚻⨀①(ya) *️⃣🤟🚻⨀①(kaci) 🚻⨀①(rūpa) 🚻⨀①🆎(atīta+anāgata+paccuppanna) ⏏️(ajjhattaṁ) ⏏️(vā) ⏏️(bahiddhā) ⏏️(vā) 🚻⨀①(oḷārika) ⏏️(vā) 🚻⨀①(sukhuma) ⏏️(vā) 🚻⨀①(hīna) ⏏️(vā) 🚻⨀①(paṇīta) ⏏️(vā) *️⃣🤟🚻⨀①(ya) ⏏️(dūre) ⏏️(santike) ⏏️(vā) *️⃣🤟🚻⨀①(sabba) 🚻⨀①(rūpa) ⏏️(na) *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) ⏏️(na) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) ⏏️(na) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) 🚹⨀①(atta) ⏏️(iti) ⏏️(evaṁ) *️⃣🤟🚻⨀①(eta) ⏏️(yathābhūtaṁ) 🚺⨀③🆎(sammā+paññā) 🚻⨀①🔽(tabba)(daṭṭhabba)  
+⏏️(tasmā) ⏏️(iha) 🚹⨂⓪(bhikkhu) *️⃣🤟🚻⨀①(ya) *️⃣🤟🚻⨀①(kaci) 🚻⨀①(rūpa) 🚻⨀①🆎(atīta+anāgata+paccuppanna) ⏏️(ajjhattaṁ) ⏏️(vā) ⏏️(bahiddhā) ⏏️(vā) 🚻⨀①(oḷārika) ⏏️(vā) 🚻⨀①(sukhuma) ⏏️(vā) 🚻⨀①(hīna) ⏏️(vā) 🚻⨀①(paṇīta) ⏏️(vā) *️⃣🤟🚻⨀①(ya) ⏏️(dūre) ⏏️(santike) ⏏️(vā) *️⃣🤟🚻⨀①(sabba) 🚻⨀①(rūpa) ⏏️(na) *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) ⏏️(na) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) ⏏️(na) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) 🚹⨀①(atta) ⏏️(iti) ⏏️(evaṁ) *️⃣🤟🚻⨀①(eta) ⏏️🆎(yathā+bhūta) 🚺⨀③🆎(sammā+paññā) 🚻⨀①🔽(tabba)(daṭṭhabba)  
 therefore | here | bhikkhave | whatever | any | form | past, future or present | internal | or | external | or | coarse | or | fine | or | inferior | or | superior | or | which | far | near | or | all | form | not | this | mine | not | this | I | am | not | my | this | self | (end quote) | thus | this | in reality | with correct understanding | should be regarded  
 “Therefore, bhikkhave, whatever `rūpa` there is, `atītānāgatapaccuppanna` (past, future, or present), `ajjhatta` (internal) or `bahiddhā` (external), `oḷārika` (coarse) or `sukhuma` (fine), `hīna` (inferior) or `paṇīta` (superior), far or near, all `rūpa` should be regarded `yathābhūta` (in reality), with `sammappaññā` (correct understanding), thus: ‘This is not mine, this I am not, this is not my `attā`.’
 
 <a id="u8-1"></a>[8.1](https://tipitaka2500.github.io/tipitaka/13S3/1/1.2/1.2.1/1.2.1.7.html#p_13S3_304) Yā kāci vedanā atītānāgatapaccuppannā ajjhattā vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā yā dūre santike vā, sabbā vedanā— ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.  
-*️⃣🤟🚺⨀①(ya) *️⃣🤟🚺⨀①(kaci) 🚺⨀①(vedanā) 🚺⨀①🆎(atīta+anāgata+paccuppanna) 🚺⨀①(ajjhatta) ⏏️(vā) ⏏️(bahiddhā) ⏏️(vā) 🚺⨀①(oḷārika) ⏏️(vā) 🚺⨀①(sukhuma) ⏏️(vā) 🚺⨀①(hīna) ⏏️(vā) 🚺⨀①(paṇīta) ⏏️(vā) *️⃣🤟🚺⨀①(ya) ⏏️(dūre) ⏏️(santike) ⏏️(vā) *️⃣🤟🚺⨀①(sabba) 🚺⨀①(vedanā) ⏏️(na) *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) ⏏️(na) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) ⏏️(na) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) 🚹⨀①(atta) ⏏️(iti) ⏏️(evaṁ) *️⃣🤟🚻⨀①(eta) ⏏️(yathābhūtaṁ) 🚺⨀③🆎(sammā+paññā) 🚻⨀①🔽(tabba)(daṭṭhabba)  
+*️⃣🤟🚺⨀①(ya) *️⃣🤟🚺⨀①(kaci) 🚺⨀①(vedanā) 🚺⨀①🆎(atīta+anāgata+paccuppanna) 🚺⨀①(ajjhatta) ⏏️(vā) ⏏️(bahiddhā) ⏏️(vā) 🚺⨀①(oḷārika) ⏏️(vā) 🚺⨀①(sukhuma) ⏏️(vā) 🚺⨀①(hīna) ⏏️(vā) 🚺⨀①(paṇīta) ⏏️(vā) *️⃣🤟🚺⨀①(ya) ⏏️(dūre) ⏏️(santike) ⏏️(vā) *️⃣🤟🚺⨀①(sabba) 🚺⨀①(vedanā) ⏏️(na) *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) ⏏️(na) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) ⏏️(na) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) 🚹⨀①(atta) ⏏️(iti) ⏏️(evaṁ) *️⃣🤟🚻⨀①(eta) ⏏️🆎(yathā+bhūta) 🚺⨀③🆎(sammā+paññā) 🚻⨀①🔽(tabba)(daṭṭhabba)  
 whatever | any | feeling | past, future or present | internal | or | external | or | coarse | or | fine | or | inferior | or | superior | or | which | far | near | or | all | feeling | not | this | mine | not | this | I | am | not | my | this | self | (end quote) | thus | this | in reality | with correct understanding | should be regarded  
 Whatever `vedanā` there is, past, future, or present, internal or external, coarse or fine, inferior or superior, far or near, all `vedanā` should be regarded as it really is, with correct understanding, thus: ‘This is not mine, this I am not, this is not my `attā`.’
 
 <a id="u9-1"></a>[9.1](https://tipitaka2500.github.io/tipitaka/13S3/1/1.2/1.2.1/1.2.1.7.html#p_13S3_305) Yā kāci saññā atītānāgatapaccuppannā ajjhattā vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā yā dūre santike vā, sabbā saññā— ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.  
-*️⃣🤟🚺⨀①(ya) *️⃣🤟🚺⨀①(kaci) 🚺⨀①(saññā) 🚺⨀①🆎(atīta+anāgata+paccuppanna) 🚺⨀①(ajjhatta) ⏏️(vā) ⏏️(bahiddhā) ⏏️(vā) 🚺⨀①(oḷārika) ⏏️(vā) 🚺⨀①(sukhuma) ⏏️(vā) 🚺⨀①(hīna) ⏏️(vā) 🚺⨀①(paṇīta) ⏏️(vā) *️⃣🤟🚺⨀①(ya) ⏏️(dūre) ⏏️(santike) ⏏️(vā) *️⃣🤟🚺⨀①(sabba) 🚺⨀①(saññā) ⏏️(na) *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) ⏏️(na) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) ⏏️(na) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) 🚹⨀①(atta) ⏏️(iti) ⏏️(evaṁ) *️⃣🤟🚻⨀①(eta) ⏏️(yathābhūtaṁ) 🚺⨀③🆎(sammā+paññā) 🚻⨀①🔽(tabba)(daṭṭhabba)  
+*️⃣🤟🚺⨀①(ya) *️⃣🤟🚺⨀①(kaci) 🚺⨀①(saññā) 🚺⨀①🆎(atīta+anāgata+paccuppanna) 🚺⨀①(ajjhatta) ⏏️(vā) ⏏️(bahiddhā) ⏏️(vā) 🚺⨀①(oḷārika) ⏏️(vā) 🚺⨀①(sukhuma) ⏏️(vā) 🚺⨀①(hīna) ⏏️(vā) 🚺⨀①(paṇīta) ⏏️(vā) *️⃣🤟🚺⨀①(ya) ⏏️(dūre) ⏏️(santike) ⏏️(vā) *️⃣🤟🚺⨀①(sabba) 🚺⨀①(saññā) ⏏️(na) *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) ⏏️(na) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) ⏏️(na) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) 🚹⨀①(atta) ⏏️(iti) ⏏️(evaṁ) *️⃣🤟🚻⨀①(eta) ⏏️🆎(yathā+bhūta) 🚺⨀③🆎(sammā+paññā) 🚻⨀①🔽(tabba)(daṭṭhabba)  
 whatever | any | apperception | past, future or present | internal | or | external | or | coarse | or | fine | or | inferior | or | superior | or | which | far | near | or | all | apperception | not | this | mine | not | this | I | am | not | my | this | self | (end quote) | thus | this | in reality | with correct understanding | should be regarded  
 Whatever `saññā` there is, past, future, or present, internal or external, coarse or fine, inferior or superior, far or near, all `saññā` should be regarded as it really is, with correct understanding, thus: ‘This is not mine, this I am not, this is not my `attā`.’
 
 <a id="u9-2"></a>9.2 Ye keci saṅkhārā atītānāgatapaccuppannā ajjhattaṁ vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā ye dūre santike vā, sabbe saṅkhārā— ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.  
-*️⃣🤟🚹⨂①(ya) *️⃣🤟🚹⨂①(kaci) 🚹⨂①(saṅkhāra) 🚹⨂①🆎(atīta+anāgata+paccuppanna) ⏏️(ajjhattaṁ) ⏏️(vā) ⏏️(bahiddhā) ⏏️(vā) 🚹⨂①(oḷārika) ⏏️(vā) 🚹⨂①(sukhuma) ⏏️(vā) 🚹⨂①(hīna) ⏏️(vā) 🚹⨂①(paṇīta) ⏏️(vā) *️⃣🤟🚹⨂①(ya) ⏏️(dūre) ⏏️(santike) ⏏️(vā) *️⃣🤟🚹⨂①(sabba) 🚹⨂①(saṅkhāra) ⏏️(na) *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) ⏏️(na) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) ⏏️(na) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) 🚹⨀①(atta) ⏏️(iti) ⏏️(evaṁ) *️⃣🤟🚻⨀①(eta) ⏏️(yathābhūtaṁ) 🚺⨀③🆎(sammā+paññā) 🚻⨀①🔽(tabba)(daṭṭhabba)  
+*️⃣🤟🚹⨂①(ya) *️⃣🤟🚹⨂①(kaci) 🚹⨂①(saṅkhāra) 🚹⨂①🆎(atīta+anāgata+paccuppanna) ⏏️(ajjhattaṁ) ⏏️(vā) ⏏️(bahiddhā) ⏏️(vā) 🚹⨂①(oḷārika) ⏏️(vā) 🚹⨂①(sukhuma) ⏏️(vā) 🚹⨂①(hīna) ⏏️(vā) 🚹⨂①(paṇīta) ⏏️(vā) *️⃣🤟🚹⨂①(ya) ⏏️(dūre) ⏏️(santike) ⏏️(vā) *️⃣🤟🚹⨂①(sabba) 🚹⨂①(saṅkhāra) ⏏️(na) *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) ⏏️(na) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) ⏏️(na) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) 🚹⨀①(atta) ⏏️(iti) ⏏️(evaṁ) *️⃣🤟🚻⨀①(eta) ⏏️🆎(yathā+bhūta) 🚺⨀③🆎(sammā+paññā) 🚻⨀①🔽(tabba)(daṭṭhabba)  
 whatever | any | mental constructions | past, future or present | internal | or | external | or | coarse | or | fine | or | inferior | or | superior | or | which | far | near | or | all | mental constructions | not | this | mine | not | this | I | am | not | my | this | self | (end quote) | thus | this | in reality | with correct understanding | should be regarded  
 Whatever `saṅkhārā` there is, past, future, or present, internal or external, coarse or fine, inferior or superior, far or near, all `saṅkhārā` should be regarded as it really is, with correct understanding, thus: ‘This is not mine, this I am not, this is not my `attā`.’
 
 <a id="u10-1"></a>[10.1](https://tipitaka2500.github.io/tipitaka/13S3/1/1.2/1.2.1/1.2.1.7.html#p_13S3_306) Yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ viññāṇaṁ— ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.  
-*️⃣🤟🚻⨀①(ya) *️⃣🤟🚻⨀①(kaci) 🚻⨀①(viññāṇa) 🚻⨀①🆎(atīta+anāgata+paccuppanna) ⏏️(ajjhattaṁ) ⏏️(vā) ⏏️(bahiddhā) ⏏️(vā) 🚻⨀①(oḷārika) ⏏️(vā) 🚻⨀①(sukhuma) ⏏️(vā) 🚻⨀①(hīna) ⏏️(vā) 🚻⨀①(paṇīta) ⏏️(vā) *️⃣🤟🚻⨀①(ya) ⏏️(dūre) ⏏️(santike) ⏏️(vā) *️⃣🤟🚻⨀①(sabba) 🚻⨀①(viññāṇa) ⏏️(na) *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) ⏏️(na) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) ⏏️(na) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) 🚹⨀①(atta) ⏏️(iti) ⏏️(evaṁ) *️⃣🤟🚻⨀①(eta) ⏏️(yathābhūtaṁ) 🚺⨀③🆎(sammā+paññā) 🚻⨀①🔽(tabba)(daṭṭhabba)  
+*️⃣🤟🚻⨀①(ya) *️⃣🤟🚻⨀①(kaci) 🚻⨀①(viññāṇa) 🚻⨀①🆎(atīta+anāgata+paccuppanna) ⏏️(ajjhattaṁ) ⏏️(vā) ⏏️(bahiddhā) ⏏️(vā) 🚻⨀①(oḷārika) ⏏️(vā) 🚻⨀①(sukhuma) ⏏️(vā) 🚻⨀①(hīna) ⏏️(vā) 🚻⨀①(paṇīta) ⏏️(vā) *️⃣🤟🚻⨀①(ya) ⏏️(dūre) ⏏️(santike) ⏏️(vā) *️⃣🤟🚻⨀①(sabba) 🚻⨀①(viññāṇa) ⏏️(na) *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) ⏏️(na) *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀①(ahaṁ) 🟢⨀👆▶️(atthi) ⏏️(na) *️⃣👆⚧⨀⑥(ahaṁ) *️⃣🤟🚹⨀①(eta) 🚹⨀①(atta) ⏏️(iti) ⏏️(evaṁ) *️⃣🤟🚻⨀①(eta) ⏏️🆎(yathā+bhūta) 🚺⨀③🆎(sammā+paññā) 🚻⨀①🔽(tabba)(daṭṭhabba)  
 whatever | any | consciousness | past, future or present | internal | or | external | or | coarse | or | fine | or | inferior | or | superior | or | which | far | near | or | all | consciousness | not | this | mine | not | this | I | am | not | my | this | self | (end quote) | thus | this | in reality | with correct understanding | should be regarded  
 Whatever `viññāṇa` there is, past, future, or present, internal or external, coarse or fine, inferior or superior, far or near, all `viññāṇa` should be regarded as it really is, with correct understanding, thus: ‘This is not mine, this I am not, this is not my `attā`.’
 
@@ -307,7 +307,7 @@ thus | seeing | bhikkhave | learned | awakened disciple | form | too | gives up 
 Thus seeing, bhikkhave, the `sutavā` (learned) `ariyasāvaka` (awakened disciple) `nibbindati` (gives up) `rūpa`, gives up `vedanā`, gives up `saññā`, gives up `saṅkhārā`, gives up `viññāṇa`.
 
 <a id="u11-2"></a>11.2 Nibbindaṁ virajjati; virāgā vimuccati.  
-🚹⨀①🔽(anta)(nibbindanta) 🟢⨀🤟▶️(virajjati) 🚹⨀⑤(virāga) 🔵⨀🤟▶️(vimuccati)  
+🚹⨀①🔽(anta)(nibbindanta) 🟢⨀🤟▶️(virajjati) 🚹⨀⑤(virāga) 🔴⨀🤟▶️(vimuccati)  
 giving up | becomes detached | from detachment | is liberated  
 Giving up, he `virajjati` (becomes detached); from detachment he `vimuccati` (becomes liberated).
 
@@ -332,16 +332,16 @@ delighted | of the group of five | bhikkhū | of the Bhagavā | what was spoken 
 The group of five bhikkhū, delighted, rejoiced in the Bhagavā’s words.
 
 <a id="u12-3"></a>12.3 Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsūti.  
-*️⃣🤟🚻⨀⑦(ima) ⏏️(ca) ⏏️(pana) 🚻⨀⑦(veyyākaraṇa) 🚻⨀⑦🔽(māna)(bhaññamāna) 🚹⨂⑥🆎(pañca+vaggiya) 🚹⨂⑥(bhikkhu) 🔽(ya)(anupādiyati) 🚹⨂⑤(āsava) 🚻⨂①(citta) 🔵⨂🤟⏮(vimuccati) ⏏️(iti)  
+*️⃣🤟🚻⨀⑦(ima) ⏏️(ca) ⏏️(pana) 🚻⨀⑦(veyyākaraṇa) 🚻⨀⑦🔽(māna)(bhaññamāna) 🚹⨂⑥🆎(pañca+vaggiya) 🚹⨂⑥(bhikkhu) 🔽(ya)(anupādiyati) 🚹⨂⑤(āsava) 🚻⨂①(citta) 🔴⨂🤟⏮(vimuccati) ⏏️(iti)  
 in this | and | moreover | detailed exposition | being spoken | of the group of five | bhikkhū | not grasping | from the defilements | minds | were liberated | (end quote)  
 And while this detailed exposition was being spoken, the `cittāni` (minds) of the group of five bhikkhū, `anupādāya` (not grasping), were liberated from the `āsavā` (defilements).
 
 
 ### The colophon
 
-[13.1](https://tipitaka2500.github.io/tipitaka/13S3/1/1.2/1.2.1/1.2.1.7.html#p_13S3_309) Sattamaṁ.
-🚻⨀①(sattama)
-the seventh
+<a id="u13-1"></a>[13.1](https://tipitaka2500.github.io/tipitaka/13S3/1/1.2/1.2.1/1.2.1.7.html#p_13S3_309) Sattamaṁ.  
+🚻⨀①(sattama)  
+the seventh  
 The seventh [discourse of the chapter].
 
 [^jati]: `jāti` here is the birth of suffering, as in the Dhammacakka's "this is the final birth": see the note at [5: 10.2](../5-dhammacakka/#u10-2).

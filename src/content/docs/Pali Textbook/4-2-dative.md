@@ -1,5 +1,5 @@
 ---
-title: "4.2: sampadāna (Dative)"
+title: "4.2: sampadāna (the recipient, ④)"
 sidebar:
   label: "4.2: `sampadāna`"
   order: 525

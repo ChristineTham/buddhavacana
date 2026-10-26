@@ -42,11 +42,11 @@ Mostly from the texts of chapters [3](../3-awakening/), [7](../7-anatta/),
 | `saddhā` | faith | `saṁ` + `√dhā` + `a` | {638} |
 | `vijjā` | knowledge | `√vida` + `ṇya` | {638} |
 | `saccaṁ` | truth | `√sata` + `ya` | {638} |
-| `buddho` | the Awakened One | `√budha` + `tta` | {643} |
+| `buddho` | the Awakened One | `√budha` + `tta`; the book derives it by `ta` {557} | {643} |
 | `cittaṁ` | the mind | `√citi` + `ta` | {656} |
 | `ratti` | night | `√ranja` + `tti` | {658} |
 | `attho` | meaning | `√asa` + `tha`, `asa` → `at` | {660} |
-| `khandho` | an aggregate | `√khāda` → `khandha` | {664} |
+| `khandho` | a collection | `√khāda` → `khandha` | {664} |
 | `kusalaṁ` | wholesome | `√kusa` + `ala` | {665} |
 | `cīvaraṁ` | a robe | `√ci` + `īvara` | {668} |
 | `hetu` | a cause | `√hi` + `tu` | {671} |

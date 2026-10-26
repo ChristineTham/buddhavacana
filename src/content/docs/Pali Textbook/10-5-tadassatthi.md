@@ -25,7 +25,7 @@ thing, the affix adds "having that" (`tadassatthi`, "he has that"), and the
 new word names whoever has it. `sīlavā` is one who has `sīla` (ethical
 conduct), virtuous; `satimā` one who has `sati` (mindfulness), mindful;
 `āyasmā` one who has `āyu` (life), venerable. Kaccāyana explains each by the
-phrase `X yassa atthi` ("of whom there is X") and lists nine affixes
+phrase `X yassa atthi` ("of whom there is X") and lists eight affixes
 {364}–{371}. When you meet such a word, ask what noun is left when the `-vā`,
 `-mā` or `-ī` is taken away, and who has it.
 

@@ -39,9 +39,9 @@ Kaccāyana - consult the book for a full set of examples.
 | rule | phrase | dhātu | affix | transformation | word | meaning |
 | :-: | --- | :-: | :-: | --- | :-: | --- |
 | {528} | pavisatī’ti | visa | ṇa | pa + v~~i~~(e)s~~a~~ + ~~ṇa~~ (o) | paveso | the one who enters |
-| {528} | rujatī’ti | ruja | ṇa | r~~uja~~(og) + + ~~ṇa~~ (o) | rogo | that which afflicts, pain or disease |
-| {528} | uppajjatī’ti | pada | ṇa | u + (p)p~~a~~(ā)d~~a~~ + + ~~ṇa~~ (o) | uppādo | that which arises, the process of arising |
-| {529} | paccate, pacanaṁ vā | paca | ṇa | pa~~ca~~(k) + + ~~ṇa~~ (o) | pāko | act of cooking (bhāva) |
+| {528} | rujatī’ti | ruja | ṇa | r~~uja~~(og) + ~~ṇa~~ (o) | rogo | that which afflicts, pain or disease |
+| {528} | uppajjatī’ti | pada | ṇa | u + (p)p~~a~~(ā)d~~a~~ + ~~ṇa~~ (o) | uppādo | that which arises, the process of arising |
+| {529} | paccate, pacanaṁ vā | paca | ṇa | pa~~ca~~(k) + ~~ṇa~~ (o) | pāko | act of cooking (bhāva) |
 | {530} | sambhavatī’ti | bhū | kvi | saṁ + bhū + ~~kvi~~ | sambhū | the one which happens or arises well |
 | {531} | dharati tenā’ti | dhara | ramma | dha~~ra~~ + ~~ra~~mm~~a~~ (o) | dhammo | the wholesome righteous Dhamma by which good-result are carried |
 | {538} | samaggaṁ kammaṁ sa’mupagacchatī’ti | hana | ra | saṁ + ~~hana~~gh + ~~ra~~ (o) | saṁgho | the community of brethren who congregates to (conduct) the sacred activities unitedly |
@@ -96,7 +96,7 @@ passive participles" but this only describes the `kamma` sense of these words.
 | {551} | kamma | paṭhamaṁ ādīyatī’ti | dā | i | ā + d~~ā~~ + i | ādi | something taken initially, a beginning, an inception, a starting point |
 | {551} | | udakaṁ dadhātī’ti | dhā | i | uda~~ka~~ + dh~~ā~~ + i | udadhi | that which carries water, an ocean |
 | {551} | kattu | maho’dakāni dadhātī’ti | dhā | i | mahoda~~ka~~ + dh~~ā~~ + i | mahodadhi | that which carries great (amount of) water, an ocean |
-| {551} | adhikaraṇa | vālāni dadhāti tasmin’ti | dhā | i | vāla + dh~~ā~~ + i | vāladhi | that which carries great (amount of) water, an ocean |
+| {551} | adhikaraṇa | vālāni dadhāti tasmin’ti | dhā | i | vāla + dh~~ā~~ + i | vāladhi | that which carries the hairs, a tail |
 | {551} | kamma | sammā dhīyatī’ti | dhā | i | sa~~ṁ~~(n) + dh~~ā~~ + i | sandhi | act of combining well |
 
 ## `sañña` (well wishes)
@@ -106,7 +106,7 @@ passive participles" but this only describes the `kamma` sense of these words.
 | {552} | jino enaṁ bujjhatū’ti | budha | ti | jina + bud(d)h~~a~~ + ~~t~~i | jinabuddhi | may the Buddha know him |
 | {552} | dhanaṁ assa bhavatū’ti  | bhū | ti | dhana + bhū + ti | dhanabhūti | may he be prosperous or wealthy |
 | {552} | bhavatū’ti  | bhū | ta | bhū + t~~a~~ (o) | bhūto | may be, i.e. grow |
-| {552} | bhavatū’ti  | bhū | ṇa | bh~~ū~~(a) + ~~ṇa~~(v) (o) | bhāvo | bhāvo |
+| {552} | bhavatū’ti  | bhū | ṇa | bh~~ū~~(a) + ~~ṇa~~(v) (o) | bhāvo | being, a state |
 | {552} | dhammo enaṁ dadātū’ti  | dā | ta | dhamma + d~~ā~~(i) + ~~ta~~(nn) (o) | dhammadinno | may the Dhamma give him (happiness) |
 | {552} | vaḍḍhatū’ti  | vaḍḍha | māna | vaḍḍha + mān~~a~~ (o) | vaḍḍhamāno | prosperous |
 
@@ -142,7 +142,7 @@ past perfect verbs and verbal nouns (also referred to as past participles)
 | :-: | :-: | --- | :-: | :-: | --- | :-: | --- |
 | {556} | bhāva | tassa | ge | ta | g~~e~~(ī) + t~~a~~ + (ṁ) | gītaṁ | singing, i.e. the singing act of that person |
 | {556} | kamma | tena | bhāsa | ta | bhās~~a~~(i) + ta + (ṁ) | bhāsitaṁ | is said, i.e. said by that person |
-| {557} | kattā | sabbe saṅkhatā’saṅkhate dhamme bujjhati, abujjhi, bujjhissatī’ti | budha | ta | bud(d)h~~a~~ + t~~a~~ + (o) | buddho | the one who knows, who knew and who will know all conditioned and unconditioned phenomena, the Buddha |
+| {557} | kattā | sabbe saṅkhatā’saṅkhate dhamme bujjhati, abujjhi, bujjhissatī’ti | budha | ta | bud(d)h~~a~~ + t~~a~~ + (o) | buddho | the one who knows, who knew and who will know all constructed and unconstructed phenomena, the Buddha |
 
 ## `ina` affix
 
@@ -156,9 +156,9 @@ past perfect verbs and verbal nouns (also referred to as past participles)
 
 | rule | dhātu | affix | transformation | word | meaning |
 | :-: | :-: | :-: | --- | :-: | --- |
-| {560} | si | a | īsa~~ṁ~~(s) + s~~i~~ + a (yo) | īsassayo | little-sleeping, a nap (bhavatā) |
-| {560} | si | a | du(s) + s~~i~~ + a (yo) | dussayo | badly-sleeping, bad sleep (bhavatā) |
-| {560} | si | a | su(s) + s~~i~~ + a (yo) | sussayo | well-sleeping sleep (bhavatā) |
+| {560} | si | kha | īsa~~ṁ~~(s) + s~~i~~ + a (yo) | īsassayo | little-sleeping, a nap (bhavatā) |
+| {560} | si | kha | du(s) + s~~i~~ + a (yo) | dussayo | badly-sleeping, bad sleep (bhavatā) |
+| {560} | si | kha | su(s) + s~~i~~ + a (yo) | sussayo | well-sleeping sleep (bhavatā) |
 
 ## `tuṁ` affix
 
@@ -170,9 +170,9 @@ past perfect verbs and verbal nouns (also referred to as past participles)
 | {563} | “appropriateness” to do something | ala’meva dānāni | dā | tuṁ | dā + tuṁ | dātuṁ  | to offer, i.e. It is only appropriate to offer alms (as it can enrich one in many ways) |
 | {563} | “appropriateness” to do something | ala’meva puññāni | kara | tuṁ | ka~~ra~~ + tuṁ | kātuṁ  | to do, i.e. It is fitting or suitable to do meritorious deeds (as it can lead to wholesome results) |
 
-*in a sentence having one same Kattā (subject)
+\*in a sentence having one same Kattā (subject)
 
-## `tuna`, `tvāna`, `tvā` (gerund or absolutive)
+## `tuna`, `tvāna`, `tvā` (the absolutive)
 
 To express concurrent actions of a single doer, one being a
 preceding action and the other being next subsequent action.
@@ -180,11 +180,11 @@ preceding action and the other being next subsequent action.
 | rule | phrase | dhātu | affix | transformation | word | meaning |
 | :-: | --- | :-: | :-: | --- | :-: | --- |
 | {564} | kātuna kammaṁ gacchati | kara | tuna | k~~ara~~(ā) + tuna | kātuna | He goes (after) having done work |
-| {564} | akātuna puññaṁ kilissanti | kara | tuna | na + k~~ara~~(ā) + tuna | kātuna | (He) will suffer for not having done meritorious deeds |
+| {564} | akātuna puññaṁ kilissanti | kara | tuna | na + k~~ara~~(ā) + tuna | akātuna | (He) will suffer for not having done meritorious deeds |
 | {564} | sattā sutvāna dhammaṁ modanti | su | tvāna |su + tvāna | sutvāna | having heard Dhamma, the living beings are delighted |
 | {564} | jitvāna vasati | ji | tvāna | ji + tvāna | jitvāna | Having conquered the enemy (`ripuṁ`), (he) lives |
 | {564} | sutvāna’ssa eta’dahosi | su | tvāna | su + tvāna | sutvāna | having heard Dhamma, this thought arose in him (in his mind) |
-| {564} | sutvāna amutra kathayanti | su | tuna | su + tvāna | sutvāna | having heard here, they say there (what they heard) |
+| {564} | sutvāna amutra kathayanti | su | tvāna | su + tvāna | sutvāna | having heard here, they say there (what they heard) |
 | {564} | sutvā jānissāma | su | tvā | su + tvā | sutvā | We must know (how to respond) (only after) having heard (from you) |
 
 ## `māna`, `anta` (present participle)
@@ -206,9 +206,9 @@ To express an on-going action being done or still taking place at present,
 | {567} | pāti puttan’ti | pā | ritu | p~~ā~~ + ~~r~~it~~u~~ (ā) | pitā | the one who protects one’s offspring, the father |
 | {568} | dhammena puttaṁ mānetī’ti | māna | rātu | mā~~na~~ + ~~rā~~t~~u~~ (ā) | mātā | the one who justly adores (her) offspring, the mother |
 | {568} | pubbe bhāsatī’ti | bhāsa | rātu | bhā~~sa~~ + ~~rā~~t~~u~~ (ā) | bhātā | the one who speaks (first before other young siblings) i.e. Brother. |
-| {568} | mātāpitūhi dhārīyatī’ti | dhara | ritu | dh~~ara~~ + ~~ri~~(ī)t~~u~~ (ā) | dhītā | the one who speaks (first before other young siblings) i.e. Brother |
+| {568} | mātāpitūhi dhārīyatī’ti | dhara | ritu | dh~~ara~~ + ~~ri~~(ī)t~~u~~ (ā) | dhītā | the one who is borne by mother and father, i.e. the daughter |
 | {569} | āgacchatī’ti | gamu | tuka | ā + ga~~mu~~(n) + tuk~~a~~ (o) | āgantuko | the one who comes (to visit) (bhikkhu) |
-| {570} | gamissati, gantuṁ bhabbo’ti | gamu | ika | gam~~u~~ + ik~~a~~ (o) | gamiko | the one who will go or who is likely (be going on a trip). the would-be-traveler, the tourist (bhikkhu) |
+| {570} | gamissati, gantuṁ bhabbo’ti | gamu | ika | gam~~u~~ + ik~~a~~ (o) | gamiko | the one who will go or who is likely (be going on a trip). the would-be-traveller, the tourist (bhikkhu) |
 
 ## The `niṭṭhā` forms and the changes of the root {571}–{623}
 

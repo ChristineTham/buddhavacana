@@ -129,7 +129,7 @@ two / these / bhikkhave / extremes
 
 *️⃣🤟🚹⨀①(ya) *️⃣🤟🚺⨀⑥(ta) ⏏️(eva) 🚺⨀⑥(taṇhā) 🚹⨀①🆎(asesa+virāga+nirodha)  
 which / of that / very / craving / remainderless fading away and cessation  
-*"Which is the … cessation of that very craving" ([5: 4.3](../5-dhammacakka/#u4-3)): `tassāyeva` is `tassā` + `eva`; `tassā`, `ta` ⑥⨀ 🚺 {179}, goes with `taṇhāya`, and `yo` {104} with `nirodho`.*
+*"… it is the remainderless fading away and cessation of that same `taṇhā`" ([5: 4.3](../5-dhammacakka/#u4-3)): `tassāyeva` is `tassā` + `eva`; `tassā`, `ta` ⑥⨀ 🚺 {179}, goes with `taṇhāya`, and `yo` {104} with `nirodho`.*
 
 > **etaṁ mama**
 
@@ -141,7 +141,7 @@ this / mine
 
 *️⃣🤟🚻⨀①(ya) *️⃣🤟🚻⨀①(kaci) 🚻⨀①🆎(samudaya+dhamma) *️⃣🤟🚻⨀①(sabba) *️⃣🤟🚻⨀①(ta) 🚻⨀①🆎(nirodha+dhamma) ⏏️(iti)  
 whatever / anything / subject to origination / all / that / subject to cessation / (end quote)  
-*"Whatever is subject to origination, all that is subject to cessation" ([5: 11.1](../5-dhammacakka/#u11-1)): the pair `yaṁ … taṁ`, neuter ① {219}; `kiñci` is `kiṁ` + `ci`, "any" {31}; `sabbaṁ` {219} agrees with `taṁ`.*
+*"Whatever phenomenon is subject to origination is completely subject to cessation" ([5: 11.1](../5-dhammacakka/#u11-1)): the pair `yaṁ … taṁ`, neuter ① {219}; `kiñci` is `kiṁ` + `ci`, "any" {31} (the dictionary's lemma `kaci`); `sabbaṁ` {219} agrees with `taṁ`.*
 
 ### Exercises
 

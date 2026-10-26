@@ -60,12 +60,12 @@ flowchart TD
 | [2.3](../2-3-irregular/) | the irregular inflections: `rājā`, `attā`, `satthā`, `bhagavā`, `kamma`, `mano` | {126}–{138}, {181}–{214}, {243} | [G](../g-vibhatti/) |
 | [2.4](../2-4-pronouns/) | `sabbanāma`: `so`, `ayaṁ`, `yo`, `ko`, `sabba`, `ahaṁ`, `tvaṁ`, and the adverbs made from them | {139}–{151}, {161}–{177}, {247}–{260}, {398}–{399} | [L](../l-sabbanama/) |
 | [2.5](../2-5-numbers/) | `saṅkhyā`: one to a hundred thousand, and the ordinals | {67}–{90}, {131}–{134}, {205}, {373}–{394} | [H](../h-taddhita/) |
-| [2.6](../2-6-upasagga/) | `upasagga`: the twenty prefixes and what they do to a word | {221}, {12}–{50} | [F](../f-upasagga/) |
+| [2.6](../2-6-upasagga/) | `upasagga`: the twenty prefixes and what they do to a word | {221}, {12}–{51} | [F](../f-upasagga/) |
 | [2.7](../2-7-nipata/) | `nipāta`: the particles that join, stress, negate, quote and ask | {221}, {248}–{259}, {398}–{399} | — |
 
 Every section is built the same way: a short explanation, a table of the
 shapes to recognise with the rule that makes each, a few worked examples from
-the texts of chapters 3 and 5 and the bonus chapter, and one block of exercises on sentences from
+the texts of chapters 3, 5, 7 and 9 and the bonus chapter, and one block of exercises on sentences from
 those texts. Kaccāyana's own account of each form, the derivation, stays behind
 the rule number, which links to it.
 

@@ -47,7 +47,7 @@ chapter [4](../4-0-karaka/) gives the first word for its work in the sentence:
 | ④ `catutthī` | the one it is for {293} | `kathinassa dussaṁ` → `kathinadussaṁ` | cloth for the `kathina` | {327} |
 | ⑤ `pañcamī` | the source, "from" {295}, or the thing feared {271} | `corā bhayaṁ` → `corabhayaṁ` | fear of thieves | {327} |
 | ⑥ `chaṭṭhī` | the owner, "of" {301} | `rañño putto` → `rājaputto` | the king's son | {327} |
-| ⑦ `sattamī` | the place or time, "in", "at" {302} | `rūpe saññā` → `rūpasaññā`; `saṁsāre dukkhaṁ` → `saṁsāradukkhaṁ` | perception of form; suffering in `saṁsāra` | {327} |
+| ⑦ `sattamī` | the place or time, "in", "at" {302} | `rūpe saññā` → `rūpasaññā`; `saṁsāre dukkhaṁ` → `saṁsāradukkhaṁ` | apperception of form; suffering in `saṁsāra` | {327} |
 
 The rule's other examples, `sabbarattisobhaṇo` ("beautiful the whole night",
 ② of a stretch of time {298}), `issarakataṁ` ("made by a lord", ③) and
@@ -61,7 +61,7 @@ tappurisa` the ②.
 In each the ending of the first member is dropped {317} and the member
 stands in its lemma form, the form a word has before its ending,
 `rañño` as `rāja`, `bhūmiṁ` as `bhūmi` {318}; the whole compound then takes an
-ending of its own, as `bodhirukkhamūle` ("at the foot of the Bodhi tree") in
+ending of its own, as `bodhirukkhamūle` ("at the root of the Bodhi tree") in
 [3: 2.1](../3-awakening/#u2-1) carries the ⑦.
 
 ### The `kammadhāraya` and the `digu` count as `tappurisa` too
@@ -122,7 +122,7 @@ deconstruction.
 1. > bodhirukkhassa mūle → **bodhirukkhamūle**
 
 🚹⨀⑥🆎(bodhi+rukkha) 🚻⨀⑦(mūle) → 🚻⨀⑦🆎(bodhirukkha+mūla)  
-of the Bodhi tree / at the foot → at the foot of the Bodhi tree  
+of the Bodhi tree / at the root → at the root of the Bodhi tree  
 *⑥ {327}: two compounds in one, `bodhirukkha` being itself `bodhiyā rukkho`; the whole takes the ⑦ ending.*
 
 2. > saṅkhārānaṁ nirodho → **saṅkhāranirodho**

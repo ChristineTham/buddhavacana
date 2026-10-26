@@ -55,10 +55,10 @@ texts', each linked to its sentence, except `parābhavo` (Kaccāyana's own) and 
 | `ava` | down, off | `obhāso`, radiance ([5: 13.2](../5-dhammacakka/#u13-2)) | {50} |
 | `anu` | along, after | `ananussutesu`, not heard before ([5: 5.1](../5-dhammacakka/#u5-1)) | {28} |
 | `pari` | all round; fully | `pariññeyyaṁ`, to be fully understood ([5: 5.2](../5-dhammacakka/#u5-2)) | {28} |
-| `adhi` | over; in | `ajjhattaṁ`, inwardly ([7: 7.1](../7-anatta/#u7-1)) | {45} |
+| `adhi` | over; in | `ajjhattaṁ`, internal ([7: 7.1](../7-anatta/#u7-1)) | {45} |
 | `abhi` | towards; fully | `abhiññā`, experiential understanding ([5: 2.4](../5-dhammacakka/#u2-4)) | {221} |
 | `pati` | back, against | `paṭipadā`, the way ([5: 2.4](../5-dhammacakka/#u2-4)) | {48} |
-| `su` | well | `suvisuddhaṁ`, fully purified ([5: 9.1](../5-dhammacakka/#u9-1)) | {221} |
+| `su` | well | `suvisuddhaṁ`, totally purified ([5: 9.1](../5-dhammacakka/#u9-1)) | {221} |
 | `ā` | to; the reverse | `āmantesi`, addressed ([9: 1.2](../9-fire/#u1-2)); `ādittaṁ`, burning ([9: 2.1](../9-fire/#u2-1)) | {221} |
 | `ati` | beyond | `atikkamma`, surpassing ([5: 13.2](../5-dhammacakka/#u13-2)) | {28} |
 | `api` | over, on | `pidahati`, closes | {221} |
@@ -186,7 +186,7 @@ way out of
 
 ⏏️(ajjhattaṁ)  
 internal  
-*`adhi` ("in") + `atta` ("self"): `adhi` becomes `ajjh` before a vowel {45}; "in oneself", inwardly ([7: 7.1](../7-anatta/#u7-1)).*
+*`adhi` ("in") + `atta` ("self"): `adhi` becomes `ajjh` before a vowel {45}; "in oneself", internal ([7: 7.1](../7-anatta/#u7-1)).*
 
 8. > **uppajjati**
 

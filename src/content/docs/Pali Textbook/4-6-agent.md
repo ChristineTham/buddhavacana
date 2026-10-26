@@ -26,7 +26,7 @@ causer is an agent as well, which is why the Basics chapter calls it the
 `hetu-kattā`.
 
 The agent does not always stand in ①, so the question to ask of such a
-sentence is what kind of verb it has: active (🟢), passive (🔵) or a past
+sentence is what kind of verb it has: active (🟢), passive (🔴) or a past
 participle (🔽(ta)), or causative (🟠). The three sentence patterns are set out
 in the Basics chapter under
 [Example sentence constructions](../1-basics/#example-sentence-constructions),
@@ -38,7 +38,7 @@ translation.
 | what the noun is doing | what you see | example | rule |
 | --- | --- | --- | :-: |
 | the agent (`kattā`) of an active verb 🟢 | the ① ending; the verb agrees with it in number and person | `bhagavā … nisīdi`, "the Bhagavā sat down" ([3: 2.2](../3-awakening/#u2-2)) | {281}, {284} |
-| the agent of a passive verb 🔵 or of a past participle 🔽(ta) | the ③ ending, "by"; the thing done takes ① and the verb agrees with that | `ahinā daṭṭho naro`, "the man [is] bitten by a snake" | {281}, {288} |
+| the agent of a passive verb 🔴 or of a past participle 🔽(ta) | the ③ ending, "by"; the thing done takes ① and the verb agrees with that | `ahinā daṭṭho naro`, "the man [is] bitten by a snake" | {281}, {288} |
 | the causer (`hetu`), who makes the agent act | the ① ending with a causative verb 🟠 (`-eti`, `-āpeti`, "makes someone do"): `kāreti`, `hāreti`, `pāṭheti`, `pāceti`, `dhāreti` | `so puriso … kāreti`, "that man makes … do" | {282}, {438} |
 | the one made to act by the causer | the ② ending, or ③, or ⑥ | `taṁ purisaṁ`, `tena purisena`, `tassa purisassa` | {282}, {300} |
 
@@ -111,8 +111,8 @@ The agent `dhammā` is plural and in ①; the verb `pātubhavanti` agrees with i
 3. > Vuttaṁ kho panetaṁ **bhagavatā** kakacūpamovāde
 
 🚻⨀①(vutta) 🔼(kho) 🔼(panetaṁ) 🚹⨀③(bhagavant) 🚹⨀⑦(kakacūpamovāda)  
-said / indeed / but this / by Bhagavant / exhortation with the simile of the saw  
-*But this is indeed said by the Bhagavant in the exhortation with the simile of the saw:*
+said / indeed / but this / by the Bhagavā / exhortation with the simile of the saw  
+*But this is indeed said by the Bhagavā in the exhortation with the simile of the saw:*
 
 `vuttaṁ` ("said") is a past participle, so the agent `bhagavatā`, the ③ of `bhagavant` (section [2.3](../2-3-irregular/)), is "by" {288}.
 

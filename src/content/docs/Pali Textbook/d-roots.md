@@ -4,7 +4,7 @@ sidebar:
   label: "D: `dhātu`"
   order: 566
 description: >
-  A listing of Pali roots and conjugations
+  A listing of Pāḷi roots by class, with the sense and the verbs of each
 categories: ["palibook"]
 tags: ["dhātu"]
 ---
@@ -83,7 +83,7 @@ The roots in the order of their classes, with the sense Kaccāyana's examples gi
 | `tanu` | `tanu` | to stretch, to extend | `tanoti` |
 | `kara` | `tanu` | to do, to make | `karoti`, `kubbati`, `kayirati` |
 | `saka` | `tanu` | to be able | `sakkoti` |
-| `apa` | `tanu` | to attain (with `pa`) | `pāpuṇāti` |
+| `apa` | `su` | to attain (with `pa`) | `pāpuṇāti` |
 | `cura` | `cura` | to steal | `coreti`, `corayati` |
 | `cinta` | `cura` | to think | `cinteti`, `cintayati` |
 | `tija` | `bhū` | to endure (with `kha`) | `titikkhati` |

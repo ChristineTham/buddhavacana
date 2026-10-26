@@ -26,7 +26,7 @@ front of it: "which of this word's few shapes is this?" The shapes recur:
 `-ā` is ① (`rājā`, `bhagavā`), `-ānaṁ` is ② (`attānaṁ`), `-no` and `-to` are
 ④⑥ (`rañño`, `bhagavato`), `-nā` and `-tā` are ③ (`brahmunā`, `bhagavatā`),
 `-ni` and `-i` are ⑦ (`attani`, `manasi`). The texts' symbol lines use the
-dictionary's lemmas, `bhagavant`, `satthar`, `pitar`, `manas`; Kaccāyana's
+dictionary's lemmas, `bhagavant`, `satthar`, `pitar`, `mano`; Kaccāyana's
 are `bhagavantu`, `satthu`, `pitu`, `mana`. [Appendix G](../g-vibhatti/)
 tables every rule cited below.
 

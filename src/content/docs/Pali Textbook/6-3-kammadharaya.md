@@ -46,7 +46,7 @@ becomes `a` or `an` {333}–{334}, and `ku` ("bad") becomes `kad` or `kā`
 | what you see | what it means | example | rule |
 | --- | --- | --- | :-: |
 | an adjective, then its noun | the noun as described: a snake that is black | `kaṇhasappo` ("a black snake", `kaṇha` + `sappa`) | {324} |
-| a noun, then another noun for the same person or thing | both names at once: a brahmin woman who is a girl | `brāhmaṇadārikā` ("a brahmin girl", `brāhmaṇī` + `dārikā`) | {324} |
+| a noun, then another noun for the same person or thing | both names at once: a brahmin woman who is a girl | `brāhmaṇadārikā` ("a brahmin girl", `brāhmaṇī` + `dārikā`) | {324}, {331}–{332} |
 | `mahā-`, or `maha-` with the next consonant doubled | "great": `mahanta` in its compound shape | `mahāpuriso` ("a great man"), `mahapphalaṁ` ("of great fruit"), `mahabbhayaṁ` ("great danger") | {330} |
 | a feminine word in its masculine shape, then a feminine noun | the first word describes the second | `khattiyakaññā` ("a khattiya maiden", `khattiyā` + `kaññā`) | {331}, {332} |
 | `a-` before a consonant, `an-` before a vowel | "not": the word `na` | `abrāhmaṇo` ("a non-brahmin"), `aniccaṁ` ("impermanent"); `anariyo` ("ignoble"), `anattā` ("not-self") | {333}, {334} |

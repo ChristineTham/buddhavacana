@@ -1,5 +1,5 @@
 ---
-title: "4.3: okāsa (Locative)"
+title: "4.3: okāsa (the place or time, ⑦)"
 sidebar:
   label: "4.3: `okāsa`"
   order: 526

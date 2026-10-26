@@ -4,7 +4,7 @@ sidebar:
   label: "8.7: Common verbs"
   order: 550
 description: >
-  The ten verbs a reader meets on every page, `atthi` and `hoti` (to be),
+  The eleven verbs a reader meets on every page, `atthi` and `hoti` (to be),
   `karoti`, `gacchati`, `dadāti`, `jānāti`, `vadati`, `passati`, `suṇāti`,
   `tiṭṭhati` and `nisīdati`, with the present, past, absolutive and past
   participle of each, the irregular shapes flagged, and the rule that makes
@@ -28,7 +28,7 @@ and `dadāti`. Each shape has its rule in Kaccāyana, linked by its number; the
 reader's question is simpler: which verb (`ākhyāta`) is hiding here, and is
 this its present, its past, its absolutive or its participle?
 
-The tables answer it for the ten verbs, each with its root (`dhātu`) as
+The tables answer it for the eleven verbs, each with its root (`dhātu`) as
 Kaccāyana names it; [Appendix D](../d-roots/) lists the roots with their
 classes. The forms in bold do not show their root plainly and are learnt as
 words.
@@ -141,7 +141,7 @@ since / knows / phenomena with their causes / (end quote)
 
 ### Exercises
 
-Each of the following, from the texts, contains a form of one of the ten
+Each of the following, from the texts, contains a form of one of the eleven
 verbs. Name the verb and its root, say whether the form is the present, the
 past, the absolutive or the past participle, and for a finite form give the
 person and number. Check the shape against the tables above.

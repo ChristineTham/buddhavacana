@@ -20,7 +20,7 @@ taught by Aleix Ruiz-Falqués, Shan State Buddhist University, Taunggyi, Myanmar
 ## Genesis of Kaccāyana
 There are actually two components of Kaccāyana:
 
-* *Kaccāyana-byājkarana* (circa 6th century CE) and the author is not known
+* *Kaccāyana-byākaraṇa* (circa 6th century CE) and the author is not known
   (but ascribed to Mahā Kaccāyana Thera) -
   this contains the concisely stated rules (called `sutta`) that form the
   basis of Pali grammar; and
@@ -30,13 +30,13 @@ There are actually two components of Kaccāyana:
 Kaccāyana itself draws from multiple earlier sources such as:
 
 * Prātiśākya treatises, Vedic phonetics (various authors)
-* Pānini's Aṣṭādhyāyī ("Eight Lessons")
-* Kātantravyākarana by Šarvavarman
+* Pāṇini's Aṣṭādhyāyī ("Eight Lessons")
+* Kātantravyākaraṇa by Śarvavarman
 
 So, Kaccāyana draws and inherits from a long tradition of Sanskrit grammar
 and technical terms. According to Pind (2012) approximately 215 `sutta` from
-Kaccāyana are based on Kātantravyākarana, and approximately 300 `sutta` are
-modifications from Panini. However, more than half the `sutta`
+Kaccāyana are based on Kātantravyākaraṇa, and approximately 300 `sutta` are
+modifications from Pāṇini. However, more than half the `sutta`
 in Kaccāyana are not derived from Sanskrit, so the grammar as a whole does
 not reflect Sanskrit usage and vocabulary.
 
@@ -52,24 +52,24 @@ mindmap
       Iiv("iv. niggahīta (ṁ) sandhi")
       v. Miscellanea
     II. Nāma
-      i. Definitions, Internal sandhis, Default Declensions
-      ii. Pronominal declension, an-stems
-      iii. Pronominal dec. continued, mano-gaṇa, an-stems, tar-stems.
-      iv. an-stems cont., feminine stems, adv. pronouns, nta-stems
+      i. Definitions, Internal sandhis, Default inflections
+      ii. Pronoun inflections, lemmas in -an
+      iii. Pronoun inflections continued, mano-gaṇa, lemmas in -an and -tar
+      iv. lemmas in -an continued, feminine lemmas, adverbs from pronouns, lemmas in -nta
       v. Adverbial affixes
       vi. KĀRAKA
       vii. SAMĀSA
       viii. TADDHITA
     III. Ākhyāta
       i. Definitions
-      ii. Special stems, causatives, bhāva, vb. classes
-      iii. Reduplication, Special stems
-      iv. Special affixes and stems
+      ii. Special verb bases, causatives, bhāva, verb classes
+      iii. Reduplication, special verb bases
+      iv. Special affixes and verb bases
     IV. Kibbidhāna
       i. Definition of kicca and kit affixes
       ii. Use of affixes with tenses, voices, etc.
       iii. niṭṭhā affixes
-      iv. Modification of vb. stems in primary derivation
+      iv. Modification of roots in primary derivation
       v. UṆĀDI
 ```
 
@@ -81,7 +81,7 @@ derive words or sentences.
 
 ```plantuml
 @startebnf
-grammar (* Kaccāyana *) = 675 * rule (* sutta *);
+grammar (* Kaccāyana *) = 673 * rule (* sutta *);
 rule =
   technical_term (* saññā *) |
   domain (* adhikāra *) |
@@ -134,30 +134,30 @@ vidhi:
 
 Most vidhi “operational” rules teach paccaya “affixation” or ādesa “replacement” using previous definitions (saññā-s). It is all about adding particles to a base, and then replacing them if/when needed.
 
-To understand vidhi-s, we should keep in mind the following code of case endings:
+To understand vidhi-s, we should keep in mind the following code of inflection forms:
 
-* ABL. = “after X”
-* GEN. = “instead of X”
-* NOM., ACC. = “X”, ādesa ("replacement")
-* LOCATIVE1: “before X”
-* LOCATIVE2: “in the sense of X”
+* ⑤ = “after X”
+* ⑥ = “instead of X”
+* ①, ② = “X”, ādesa ("replacement")
+* ⑦ (1): “before X”
+* ⑦ (2): “in the sense of X”
 
 #### Affixation (`paccaya`)
 
 ```mermaid
 timeline
-  Left : Ablative
+  Left : ⑤
     : After X
-  A : Nominative
+  A : ①
     : Affix A is inserted
 ```
 
 ```plantuml
 @startebnf
-affixation = ablative (* After X *), nominative (* A is inserted *);
-ablative =
-  (nominal_base (* liṅga *) |
-  verbal_base (* dhātu *)), "smā" ;
+affixation = fifth (* ⑤, after X *), first (* ①, A is inserted *);
+fifth =
+  (lemma (* liṅga *) |
+  root (* dhātu *)), "smā" ;
 @endebnf
 ```
 
@@ -165,21 +165,21 @@ ablative =
 
 ```mermaid
 timeline
-  Left : Ablative
-    : Ablative
-    : Ablative
+  Left : ⑤
+    : ⑤
+    : ⑤
     : After X
-  A : Genitive
-    : Nominative
-    : Nominative
+  A : ⑥
+    : ①
+    : ①
     : Replace A
-  B : Nominative
-    : Nominative
-    : Accusative
+  B : ①
+    : ①
+    : ②
     : With B
-  Right : Locative
-    : Locative
-    : Locative
+  Right : ⑦
+    : ⑦
+    : ⑦
     : Before Y
   Marker : ca (and)
     : api (also)
@@ -187,28 +187,28 @@ timeline
     : kvaci (sometimes)
     : na (not)
     : niccam (required)
-  Semantic : Locative
+  Semantic : ⑦
     : "in the sense of ..."
 ```
 
 ```plantuml
 @startebnf
-replacement = [ablative (* After X *)],
+replacement = [fifth (* ⑤, after X *)],
   (
     (
-      genitive (* Instead of A *),
-      nominative (* replace with B *)
+      sixth (* ⑥, instead of A *),
+      first (* ①, replace with B *)
     ) |
     (
-      nominative (* Replace A *),
-      nominative (* with B *)
+      first (* ①, replace A *),
+      first (* ①, with B *)
     ) |
     (
-      nominative (* A *),
-      accusative (* becomes B *)
+      first (* ①, A *),
+      second (* ②, becomes B *)
     )
   ),
-  [locative (* Before Y *)], [marker], [semantic (* "in the sense of" *)];
+  [seventh (* ⑦, before Y *)], [marker], [semantic (* "in the sense of" *)];
 marker =
   "ca" (* and *) |
   "api" (* also *) |
@@ -223,23 +223,23 @@ marker =
 
 ```mermaid
 timeline
-  Left : Ablative
+  Left : ⑤
     : After X
-  A : Nominative
+  A : ①
     : Instead of A
-  lopaṁ: Accusative
+  lopaṁ: ②
     : elision
-  Right : Locative
+  Right : ⑦
     : Before Y
 ```
 
 ```plantuml
 @startebnf
 elision =
-  [ablative (* After X *)],
-  genitive (* Instead of A *),
+  [fifth (* ⑤, after X *)],
+  sixth (* ⑥, instead of A *),
   "lopaṁ" (* elision *),
-  [locative (* Before Y *)];
+  [seventh (* ⑦, before Y *)];
 @endebnf
 ```
 

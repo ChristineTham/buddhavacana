@@ -44,7 +44,7 @@ present "you" ending (`gacchasi` {423}), `-iṁ`, `-uṁ` also noun endings
 
 ### The `a` before the root
 
-An `a` is "sometimes" put before the root in the three pasts, `agamī` {519}:
+An `a` is "sometimes" put before the root in the `hiyyattanī`, the `ajjatanī` and the `kālātipatti`, `agamī` {519}:
 `avoca`, `ahosi`, `aññāsi` have it, `nisīdi`, `āmantesi`, `abhinanduṁ` do not.
 After a prefix it sits between prefix and root: `ud-a-pādi`.
 
@@ -69,7 +69,7 @@ other past, adjectives tabled in [8.8](../8-8-verb-like-forms/).
 
 | set | symbol | endings (same order) | example | rule |
 | --- | :-: | --- | --- | :-: |
-| `hiyyattanī` | ↩️ | `-ā`, `-ū`, `-o`, `-ttha`, `-aṁ`, `-mhā` | `agamā`, "[he] went"; `ajjhagamaṁ`, "I reached" | {418}, {427}, {519} |
+| `hiyyattanī` | ↩️ | `-ā`, `-ū`, `-o`, `-ttha`, `-aṁ`, `-mhā` | `agamā`, "[he] went"; `ajjhagamaṁ`, "I achieved" | {418}, {427}, {519} |
 | `parokkhā` | 🔄 | `-a`, `-u`, `-e`, `-ttha`, `-aṁ`, `-mha` | `āha`, "[he] said"; `āhu`, "they said" | {417}, {426}, {475} |
 
 ### Examples

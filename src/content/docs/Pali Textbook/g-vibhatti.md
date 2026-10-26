@@ -83,7 +83,7 @@ This appendix summarises Kaccāyana's Nāmakappa {52}–{270}, the chapter that 
 | {113} | `Sakhato gasse vā` | Optionally, from `sakha` in `ga` | `bho sakha`, `bho sakhā`, `bho sakhi`, `bho sakhī` |
 | {114} | `Ghate ca` | And from `gha` | `bhoti ayye`, `bhoti kaññe`, `bhoti kharādiye` |
 | {115} | `Na ammādito` | Not for `amma` etc. | `bhoti ammā`, `bhoti annā`, `bhoti ambā`, `bhoti tātā` — not `bhoti kaññe` |
-| {116} | `Akatarassā lato yvālapanassa vevo` | From `la`-words not made short `yo` vocative inflections become `ve`, `vo` | `bhikkhave`, `bhikkhavo`, `hetave`, `hetavo` — not `sayambhuvo`, `nāgiyo` |
+| {116} | `Akatarassā lato yvālapanassa vevo` | From `la`-words not made short, the `yo` of the calling form ⓪ becomes `ve`, `vo` | `bhikkhave`, `bhikkhavo`, `hetave`, `hetavo` — not `sayambhuvo`, `nāgiyo` |
 | {117} | `Jhalato sassano vā` | `jha`, `la`: `sa` to `no` | `aggino`, `aggissa`, `sakhino`, `sakhissa` — not `isinā`, `bhikkhunā` |
 | {118} | `Ghapato ca yonaṁ lopo` | And `gha`, `pa`: elision of `yo` | `kaññā`, `kaññāyo`, `rattī`, `rattiyo` |
 | {119} | `Lato vokāro ca` | And from `la`: becomes `vo` | `bhikkhavo`, `bhikkhū`, `sayambhuvo`, `sayambhū` — not `jantuno` |
@@ -125,7 +125,7 @@ This appendix summarises Kaccāyana's Nāmakappa {52}–{270}, the chapter that 
 | {150} | `Vā tatiye ca` | and optionally in the third [singular] | `kataṁ me saraṇamattano`, `kataṁ te pāpaṁ`, `kataṁ me pāpaṁ`, `kataṁ tayā pāpaṁ` — not `tayā kataṁ`, `mayā kataṁ` |
 | {151} | `Bahuvacanesu vo no` | `vo`, `no` in the plural [of the third] | `kataṁ vo kammaṁ`, `kataṁ no kammaṁ`, `gāmaṁ vo gaccheyyātha` — not `tumhehi kataṁ`, `amhehi kataṁ` |
 | {152} | `Pumantassā simhi` | `ā` for the final of `puma` before `si` | `nevitthī na pumā āsiṁ`, `pumā tiṭṭhati`, `idaṁ vatvāna maghavā devarājā sujampati` — not `pumāno tiṭṭhanti` |
-| {153} | `Amālapanekavacane` | `aṁ` in the vocative singular | `he pumaṁ` — not `pumā`, `he pumāno` |
+| {153} | `Amālapanekavacane` | `aṁ` in the calling form ⓪ singular | `he pumaṁ` — not `pumā`, `he pumāno` |
 | {154} | `Samāse ca vibhāsā` | and optionally in a compound | `itthipumannapuṁsakāni`, `itthipumannapuṁsakasamūho` — not `itthipumanapuṁsakāni` |
 | {155} | `Yosvāno` | `āno` before `yo` | `pumāno`, `he pumāno` — not `pumā` |
 | {156} | `Āne smiṁmhi vā` | optionally `āne` before `smiṁ` | `pumāne`, `pume` |

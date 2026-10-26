@@ -31,14 +31,14 @@ is to be done, the purpose.
 | what you see | what it means | affix | example | rule |
 | --- | --- | :-: | --- | :-: |
 | `-aka`, first vowel lengthened | the doer | `ṇvu` | `kārako` "a doer", `dāyako` "a giver" | {624}, {527}, {622} |
-| `-tā` in ① (the affix is `-tu`) | the doer | `tu` | `kattā` "a doer", `satthā` "the teacher" | {624}, {527}, {566} |
-| `-ī`, first vowel lengthened | one whose habit, duty or future it is to do it | `ṇī` | `brahmacārī` "living the holy life", `kārī` "bound to do", `gāmī` "about to go" | {532}, {636}, {651} |
+| `-tā` in ① (the affixes `-tu`, `-ratthu`) | the doer | `tu`, `ratthu` | `kattā` "a doer", `satthā` "the teacher" | {624}, {527}, {566} |
+| `-ī`, first vowel lengthened | one whose habit, duty or future it is to do it | `ṇī` | `brahmacārī` "living the pure life", `kārī` "bound to do", `gāmī` "about to go" | {532}, {636}, {651} |
 | `-ana`, `-aṇa`, neuter | the act, its means or its place | `yu` | `ñāṇaṁ` "knowing", `ṭhānaṁ` "a place" | {547}, {548}, {549}, {622}, {641} |
 | `-anā`, `-ti`, feminine | the act | `yu`, `ti` | `vedanā` "feeling", `jāti` "birth" | {553}, {585} |
 | `-tabba`, `-anīya` | to be done; must, should, may be done | `tabba`, `anīya` | `kattabbaṁ`, `karaṇīyaṁ` "to be done" | {540}, {625}, {635} |
 | `-iya`, `-eyya`, `-ya`, first vowel lengthened | the same | `ṇya` | `kāriyaṁ` "to be done", `neyyaṁ` "to be led" | {541}, {636} |
 | `-tuṁ`, no ending after it | to do: the purpose, beside "wish", "fit", "able" | `tuṁ` | `sotuṁ` "to hear", `vattuṁ` "to speak" | {561}, {562}, {637} |
-| `-ta` | done, or the thing done; the doer, when the thing done keeps ② | `tta` | `pacito` "cooked"; `bhāsitaṁ` "what was spoken" ([9: 10.2](../9-fire/#u10-2)); `dānaṁ dinno devadatto` "Devadatta has given a gift" | {625}, {626} |
+| `-ta` | done, or the thing done; the doer, when the thing done keeps ② | `ta`, `tta` | `pacito` "cooked"; `bhāsitaṁ` "what was spoken" ([9: 10.2](../9-fire/#u10-2)); `dānaṁ dinno devadatto` "Devadatta has given a gift" | {625}, {626} |
 
 A word in `-tabba`, `-anīya` or `-ya` agrees with the thing to be done, and
 the one who must do it stands in ③: `bhottabbo odano bhavatā`, "the rice is
@@ -136,9 +136,9 @@ deconstruction.
 
 1. > **satthā**
 
-🚹⨀①🔽(tu)(satthā)  
+🚹⨀①🔽(ratthu)(satthā)  
 teacher  
-*`tu` {566}: `-tu` on `√sāsa` (instruct), the root shaped `satth-` before it: the one who instructs.*
+*`ratthu` {566}: on `√sāsa` (instruct), root and affix shaped together to `satth-`: the one who instructs.*
 
 2. > **sāvako**
 

@@ -1,5 +1,5 @@
 ---
-title: "4.4: karaṇa (Instrumental)"
+title: "4.4: karaṇa (the means, ③)"
 sidebar:
   label: "4.4: `karaṇa`"
   order: 527

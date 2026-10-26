@@ -97,7 +97,7 @@ The passive with the ending of the active {518}:
 
 > virāgā **vimuccati**
 
-🚹⨀⑤(virāga) 🔵⨀🤟▶️(vimuccati)  
+🚹⨀⑤(virāga) 🔴⨀🤟▶️(vimuccati)  
 from detachment / is liberated → from detachment he `vimuccati` (becomes liberated)  
 *`vimuccati`, "is liberated", the passive: `muca` + `ya` as `-cc-` {441}, with the active ending {518}; [9: 9.1](../9-fire/#u9-1).*
 

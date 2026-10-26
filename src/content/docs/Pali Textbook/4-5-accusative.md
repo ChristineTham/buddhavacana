@@ -1,5 +1,5 @@
 ---
-title: "4.5: kamma (Accusative)"
+title: "4.5: kamma (the object, ②)"
 sidebar:
   label: "4.5: `kamma`"
   order: 528
@@ -41,7 +41,7 @@ to? If neither, look down the table.
 | the one made to act by a "makes someone do" verb (`kārita` {438}) | a verb in `-eti`, `-ayati`, `-āpeti` or `-āpayati`; the person may take ③ or ⑥ instead | `purisaṁ gāmayati`, he makes the man go | {300} |
 | standing in for ⑥ | `maṁ` where `mama`, "of me, to me", is expected | `maṁ … upamā paṭibhaṁsu`, similes occurred to me | {306} |
 | standing in for ③ | `maṁ` where `mayā`, "with me", is expected | `sace maṁ … ālapissati`, if he will converse with me | {307} |
-| standing in for ⑦: a point of time | a time word in ② where `-e` or `-smiṁ` is expected | `ekaṁ samayaṁ bhagavā`, at one time the Blessed One | {307} |
+| standing in for ⑦: a point of time | a time word in ② where `-e` or `-smiṁ` is expected | `ekaṁ samayaṁ bhagavā`, at one time the Bhagavā | {307} |
 
 Every rule number links to the full rule in the Kaccāyana translation;
 [chapter 1](../1-basics/) tables the typical meanings of every ending. The last
@@ -73,7 +73,7 @@ The goal of motion, what the going forth reaches {297} ([Bonus: 26, 12.8](../11-
 
 🚻⨀⑤(agāra) 🚻⨀②(anagāriya) 🔵⏯👆⨀(pabbajati) 🔼(ti)  
 from household life / to homeless state / renounce / quote  
-*[I would] renounce from household life to homeless state.*
+*What if I were to renounce from household life to homeless state, …*
 
 Duration, the month that the eating fills {298}:
 

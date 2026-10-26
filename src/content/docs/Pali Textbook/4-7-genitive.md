@@ -1,5 +1,5 @@
 ---
-title: "4.7: sāmī (Genitive)"
+title: "4.7: sāmī (the owner, ⑥)"
 sidebar:
   label: "4.7: `sāmī`"
   order: 530

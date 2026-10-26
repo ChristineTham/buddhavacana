@@ -14,7 +14,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
 :::note[How this chapter fits]
-Chapter 1 introduced compounds in one section; this chapter deepens it, with the kinds and the changes from my translation of Kaccāyana's Samāsakappa. Its examples and exercises are compounds from the texts of chapters 3, 5, 7 and 9 and the bonus chapter. The text that follows it is chapter 7, the second discourse.
+Chapter 1 introduced compounds in one section; this chapter deepens it, with the kinds and the changes from my translation of Kaccāyana's Samāsakappa. Its worked examples are Kaccāyana's own, and its exercises are compounds from the texts of chapters 3, 5, 7 and 9 and the bonus chapter. The text that follows it is chapter 7, the second discourse.
 :::
 
 Like German, Pāḷi joins nouns into compound words: `rājaputto` ("the king's
@@ -41,9 +41,9 @@ Kaccāyana names six kinds of compound by the relation between the members
 ```mermaid
 flowchart TD
   S["two words made into one"] --> A{"is the first member a prefix or a particle?"}
-  A -->|"yes"| AB["abyayībhāva: upanagaraṁ, near the city"]
+  A -->|"yes"| AB["abyayībhāva: upanagaraṁ, near the town"]
   A -->|"no"| B{"does it mean X and Y?"}
-  B -->|"yes"| DV["dvanda: samaṇabrāhmaṇā, recluses and brahmins"]
+  B -->|"yes"| DV["dvanda: samaṇabrāhmaṇā, ascetics and brahmins"]
   B -->|"no"| C{"does it name a third thing?"}
   C -->|"yes"| BV["bahubbīhi: chinnahattho, one whose hand is cut off"]
   C -->|"no"| D{"do both members name the same thing?"}

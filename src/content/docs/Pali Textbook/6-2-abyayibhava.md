@@ -75,7 +75,7 @@ of the town / in the vicinity / goes on / talk → near the town
 
 > kumārīsu adhikicca pavattati kathā → **adhikumāri**
 
-🚺⨂⑦(kumārīsu) 🔽(ya)(adhikicca) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(adhi+kumārī)  
+🚺⨂⑦(kumārīsu) 🔽(ya)(adhikaroti) 🟢⨀🤟▶️(pavattati) 🚺⨀①(kathā) → 🚻⨀①🆎(adhi+kumārī)  
 girls / with reference to / goes on / talk → concerning girls  
 *`kumārī` ("girl") is feminine, but the compound is neuter {320}: its `ī` is shortened {342} and it takes no ending {343}.*
 
@@ -105,7 +105,7 @@ deconstruction.
 
 1. > **yathābhūtaṁ**
 
-🚻⨀①🆎(yathā+bhūta)  
+⏏️🆎(yathā+bhūta)  
 as it truly is  
 *`yathā` ("as") with `bhūta` ("true", "real"): an `abyayībhāva` {319} in `-aṁ` {341}; [Bonus: 18, 1.21](../11-pbt/#s18-u1-21), `samāhito yathābhūtaṁ jānāti passati`, and [7: 7.1](../7-anatta/#u7-1).*
 

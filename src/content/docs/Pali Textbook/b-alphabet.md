@@ -29,7 +29,7 @@ Pali consists of 8 vowels (sara) and 33 consonants (vyañjana), arranged in the 
 >sakāra: s
 >hakāra: h
 
-[^1]: ṁ (niggahīta) can be written η, ṁ or ṁ
+[^1]: ṁ (niggahīta) can also be written ŋ or ṃ
 
 ## Alphabet Groups
 
@@ -37,9 +37,10 @@ Pali consists of 8 vowels (sara) and 33 consonants (vyañjana), arranged in the 
 |---------|:---:|:--:|:-------:|:-------:|:---------:|:------:|:---------:|:------:|:---:|:-----:|:-----:|:------:|
 |kaṇṭhaja |  a  |  ā |         |         |     k     |   kh   |     g     |    gh  |  ṅ  |       |    h  |        |
 |tāluja   |  i  |  ī |    e    |         |     c     |   ch   |     j     |    jh  |  ñ  |   y   |       |        |
-|muddhaja |     |    |    o    |    ṁ    |     ṭ     |   ṭh   |     ḍ     |    ḍh  |  ṇ  |  r ḷ  |       |        |
+|muddhaja |     |    |         |         |     ṭ     |   ṭh   |     ḍ     |    ḍh  |  ṇ  |  r ḷ  |       |        |
 |dantaja  |     |    |         |         |     t     |   th   |     d     |    dh  |  n  |  v l  |       |    s   |
-|oṭṭhaja  |  u  |  ū |         |         |     p     |   ph   |     b     |    bh  |  m  |       |       |        |
+|oṭṭhaja  |  u  |  ū |    o    |         |     p     |   ph   |     b     |    bh  |  m  |       |       |        |
+|nāsikā   |     |    |         |    ṁ    |           |        |           |        |     |       |       |        |
 
 ## How to form sounds
 

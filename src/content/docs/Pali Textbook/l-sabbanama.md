@@ -32,8 +32,8 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 | 4 | `ubhaya` | “both” |
 | 5 | `itara` | “other [of two]” |
 | 6 | `añña` | “other [of many]” |
-| 7 | `aññatara` | “other [of many]” |
-| 8 | `aññatama` | “a certain [of two]” |
+| 7 | `aññatara` | “a certain [one of two]” |
+| 8 | `aññatama` | “a certain [one of many]” |
 | 9 | `pubba` | “former” |
 | 10 | `para` | “another” |
 | 11 | `apara` | “another” |
@@ -54,31 +54,33 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 | 26 | `tumha` | “you” |
 | 27 | `amha` | “I,” “we” |
 
-## `ma(d)`, `mam`
+## `amha` (I, we)
 
 This is used as the pronoun for `uttama purisa` (in English, "1st" person)
 
 | `vibhatti` | ⨀ | ⨂ |
 | :-: | --- | --- |
-| ① | ahaṁ (amhi, asmi, mhi) | amhā, amhe, mayaṁ, mayhaṁ, no, vayaṁ |
-| ② | maṁ, mamaṁ, mayhaṁ, mām-, me | amhākaṁ, amhe, asmākaṁ, asme, no |
+| ① | ahaṁ (amhi, asmi, mhi) | amhā, amhe, mayaṁ, vayaṁ |
+| ② | maṁ, mamaṁ, mām- | amhākaṁ, amhe, asmākaṁ, asme, no |
 | ③ | mayā, me | amhebhi, amhehi, asmāhi, asmābhi, no |
 | ⑤ | mamato, mayā, me | amhebhi, amhehi, asmāhi, asmābhi, no |
 | ④⑥ | amhaṁ, mama(ṁ), mamā, maṁ, mayha(ṁ), me | amhaṁ, amhāka(ṁ), asmākaṁ, no (ne) |
 | ⑦ | mayi, me | amhesu, asmāsu, asmesu |
 
-## `ta(d)`
+## `tumha` (you)
 
 This is used as the pronoun for `majjhima purisa` (in English, "2nd" person)
 
 | `vibhatti` | ⨀ | ⨂ |
 | :-: | --- | --- |
-| ① | taṁ, tuvaṁ, tvaṁ | tumhe, vo |
-| ② | taṁ, tavaṁ, tuvaṁ, tvaṁ, tyaṁ, te | tumhākaṁ, tumhe, vaṁ, ve, vo |
+| ① | taṁ, tuvaṁ, tvaṁ | tumhe |
+| ② | taṁ, tavaṁ, tuvaṁ, tvaṁ, tyaṁ | tumhākaṁ, tumhe, vaṁ, ve, vo |
 | ③ | tayā, te, tvāya | tumhebhi, tumhehi, vaṁ, ve, vo |
 | ⑤ | tayā, te, tvāya | tumhebhi, tumhehi |
-| ④⑥ | tava(ṁ), tayā, te, tumhaṁ, tuyha(ṁ) | tumhaṁ, tumhāka(ṁ), tuyhaṁ (possibly), vaṁ, ve, vo |
+| ④⑥ | tava(ṁ), te, tumhaṁ, tuyha(ṁ) | tumhaṁ, tumhāka(ṁ), tuyhaṁ (possibly), vaṁ, ve, vo |
 | ⑦ | tayi, tvayi | tumhesu |
+
+## `ta` (he, she, it; that)
 
 This is used as the pronoun for `paṭhama purisa` (in English, "3rd" person)
 
@@ -89,9 +91,9 @@ This is used as the pronoun for `paṭhama purisa` (in English, "3rd" person)
 | ① | sa, se, so, sū | tad-, tadaṁ, taṁ (naṁ), se | sā |
 | ② | taṁ (naṁ), te | tad-, taṁ (naṁ), se | taṁ |
 | ③ | tena (nena) | tena (nena) | tāya (nāya) |
-| ⑤ | tamhā, tasmā (nasmā), tato, tāto | tamhā, tasmā (nasmā), tato, tāto | tāya (nāya) |
-| ④⑥ | asmā, assa, tassa (nassa), tāya (④) | asmā, assa, tassa (nassa), tāya (④) | assā, tassā (nassā), tassāya (nassāya), tāya, tissā, tissāya |
-| ⑦ | asmiṁ, tamhi, tamhī, tasmiṁ (nasmiṁ) | asmiṁ, tamhi, tamhī, tasmiṁ (nasmiṁ) | assaṁ, tassaṁ, tāsaṁ (nassaṁ), tāya(ṁ) (nāyaṁ), tissaṁ |
+| ⑤ | asmā, tamhā, tasmā (nasmā), tato, tāto | asmā, tamhā, tasmā (nasmā), tato, tāto | tāya (nāya) |
+| ④⑥ | assa, tassa (nassa) | assa, tassa (nassa) | assā, tassā (nassā), tassāya (nassāya), tāya, tissā, tissāya |
+| ⑦ | asmiṁ, tamhi, tamhī, tasmiṁ (nasmiṁ) | asmiṁ, tamhi, tamhī, tasmiṁ (nasmiṁ) | assaṁ, tassaṁ (nassaṁ), tāya(ṁ) (nāyaṁ), tissaṁ |
 
 ### ⨂ `bahuvacana`
 
@@ -181,7 +183,7 @@ The rest as the masculine. `para`, `apara`, `dakkhiṇa`, `uttara` and `adhara` 
 
 ### `ta`
 
-The forms of `ta` (that), 🚹(ta), derived in rules 211–214; there is no vocative (rule 210); each form links to the rule that derives it.
+The forms of `ta` (that), 🚹(ta), derived in rules 211–214; there is no calling form ⓪ (rule 210); each form links to the rule that derives it.
 
 | | ⨀ | ⨂ |
 | --- | --- | --- |
@@ -268,7 +270,7 @@ The forms of `imā` (this), 🚺(imā), stated in rule 221:
 | ② | imaṁ | imā, imāyo |
 | ③ | imāya | imāhi, imābhi |
 | ④ | assāya, imissāya, assā, imissā, imāya | imāsaṁ, imāsānaṁ |
-| ⑦ | assaṁ, imissaṁ, imissā, imāyaṁ | imāsu |
+| ⑦ | assaṁ, imissaṁ, imāyaṁ | imāsu |
 
 The rest is to be understood (rule 221).
 
@@ -352,7 +354,7 @@ The rest as the masculine.
 
 ### `ubha`
 
-The forms of `ubha` (both), ⚧️(ubha), plural only, derived in rules 226–227; each form links to the rule that derives it.
+The forms of `ubha` (both), ⚧(ubha), plural only, derived in rules 226–227; each form links to the rule that derives it.
 
 | | ⨂ |
 | --- | --- |
@@ -366,7 +368,7 @@ The forms of `ubha` (both), ⚧️(ubha), plural only, derived in rules 226–22
 
 ### `dvi`
 
-The forms of `dvi` (two), ⚧️(dvi), plural only, derived in rules 228–229; each form links to the rule that derives it.
+The forms of `dvi` (two), ⚧(dvi), plural only, derived in rules 228–229; each form links to the rule that derives it.
 
 | | ⨂ |
 | --- | --- |

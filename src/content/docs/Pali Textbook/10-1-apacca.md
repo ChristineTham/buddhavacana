@@ -131,11 +131,13 @@ of Vasudeva / descendant → Vasudeva's descendant
 🚹⨀⑥(moggallassa) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇāna)(moggallāno)  
 of Moggalla / descendant → Moggalla's descendant  
 *`ṇāna` {345}: `-āna` added; `gg` keeps the first vowel short.*
+
 4. > kaccassa apaccaṁ → **kaccāyano**
 
 🚹⨀⑥(kaccassa) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇāyana)(kaccāyano)  
 of Kacca / descendant → Kacca's descendant  
 *`ṇāyana` {345}: `-āyana` added; `cc` keeps the first vowel short.*
+
 5. > gaṅgāya apaccaṁ → **gaṅgeyyo**
 
 🚺⨀⑥(gaṅgāya) 🚻⨀①(apaccaṁ) → 🚹⨀①🔽(ṇeyya)(gaṅgeyyo)  

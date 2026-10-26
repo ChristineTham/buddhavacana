@@ -18,24 +18,24 @@ I have created a standalone dictionary of Pali grammatical inflections with gram
 | 5th inflection form (ablative) | ⑤ |
 | 6th inflection form (genitive) | ⑥ |
 | 7th inflection form (locative) | ⑦ |
-| vocative | ⓪ |
+| calling form (vocative) | ⓪ |
 | masculine | 🚹 |
 | feminine | 🚺 |
 | neuter | 🚻 |
-| all genders | ⚧️ |
+| all genders | ⚧ |
 | singular | ⨀ |
 | plural | ⨂ |
 | dual | ⨁ |
 | active | 🟢 |
-| reflexive | 🔵 |
+| `attanopada` (reflexive) | 🔵 |
 | present | ▶️ |
 | future | ⏭ |
-| aorist | ⏮ |
-| optative | ⏯ |
-| imperative | ⏹ |
+| near past (aorist) | ⏮ |
+| permission or supposition (optative) | ⏯ |
+| command or wish (imperative) | ⏹ |
 | conditional | 🔀 |
-| imperfect | ↩️ |
-| perfect | 🔄 |
+| past before today (imperfect) | ↩️ |
+| unwitnessed past (perfect) | 🔄 |
 | 1st person | 👆 |
 | 2nd person | 🤘 |
 | 3rd person | 🤟 |

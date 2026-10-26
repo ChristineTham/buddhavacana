@@ -48,7 +48,7 @@ And what, bhikkhave, is the all that is burning?
 <a id="u2-3"></a>2.3 Cakkhu, bhikkhave, ādittaṁ, rūpā ādittā, cakkhuviññāṇaṁ ādittaṁ, cakkhusamphasso āditto.  
 🚻⨀①(cakkhu) 🚹⨂⓪(bhikkhu) 🚻⨀①🔽(ta)(āditta) 🚻⨂①(rūpa) 🚻⨂①🔽(ta)(āditta) 🚻⨀①🆎(cakkhu+viññāṇa) 🚻⨀①🔽(ta)(āditta) 🚹⨀①🆎(cakkhu+samphassa) 🚹⨀①🔽(ta)(āditta)  
 the eye | bhikkhave | burning | forms | burning | eye-consciousness | burning | eye-contact | burning  
-The `cakkhu` (eye) is burning, `rūpā` (things) are burning, `cakkhuviññāṇaṁ` (eye-consciousness) is burning, `cakkhusamphasso` (eye-contact) is burning.
+The `cakkhu` (eye) is burning, `rūpā` (forms) are burning, `cakkhuviññāṇaṁ` (eye-consciousness) is burning, `cakkhusamphasso` (eye-contact) is burning.
 
 <a id="u2-4"></a>2.4 Yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi ādittaṁ.  
 *️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(cakkhu+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita) 🚻⨀①(sukha) ⏏️(vā) 🚻⨀①(dukkha) ⏏️(vā) 🚻⨀①🆎(na+dukkha+na+sukha) ⏏️(vā) *️⃣🤟🚻⨀①(ta) ⏏️(api) 🚻⨀①🔽(ta)(āditta)  
@@ -89,8 +89,8 @@ Burning with the fire of passion, with the fire of hatred, with the fire of delu
 
 <a id="u4-1"></a>[4.1](https://tipitaka2500.github.io/tipitaka/13S4/1/1.1/1.1.3/1.1.3.6.html#p_13S4_75) Ghānaṁ ādittaṁ, gandhā ādittā, ghānaviññāṇaṁ ādittaṁ, ghānasamphasso āditto.  
 🚻⨀①(ghāna) 🚻⨀①🔽(ta)(āditta) 🚹⨂①(gandha) 🚹⨂①🔽(ta)(āditta) 🚻⨀①🆎(ghāna+viññāṇa) 🚻⨀①🔽(ta)(āditta) 🚹⨀①🆎(ghāna+samphassa) 🚹⨀①🔽(ta)(āditta)  
-the nose | burning | odors | burning | nose-consciousness | burning | nose-contact | burning  
-The nose is burning, odors are burning, nose-consciousness is burning, nose-contact is burning.
+the nose | burning | odours | burning | nose-consciousness | burning | nose-contact | burning  
+The nose is burning, odours are burning, nose-consciousness is burning, nose-contact is burning.
 
 <a id="u4-2"></a>4.2 Yampidaṁ ghānasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi ādittaṁ.  
 *️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(ghāna+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita) 🚻⨀①(sukha) ⏏️(vā) 🚻⨀①(dukkha) ⏏️(vā) 🚻⨀①🆎(na+dukkha+na+sukha) ⏏️(vā) *️⃣🤟🚻⨀①(ta) ⏏️(api) 🚻⨀①🔽(ta)(āditta)  
@@ -181,8 +181,8 @@ He gives up the ear, gives up sounds, gives up ear-consciousness, gives up ear-c
 
 <a id="u8-3"></a>8.3 Ghānasmimpi nibbindati, gandhesupi nibbindati, ghānaviññāṇepi nibbindati, ghānasamphassepi nibbindati, yampidaṁ ghānasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.  
 🚻⨀⑦(ghāna) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨂⑦(gandha) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚻⨀⑦🆎(ghāna+viññāṇa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨀⑦🆎(ghāna+samphassa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) *️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(ghāna+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita) 🚻⨀①(sukha) ⏏️(vā) 🚻⨀①(dukkha) ⏏️(vā) 🚻⨀①🆎(na+dukkha+na+sukha) ⏏️(vā) *️⃣🤟🚻⨀⑦(ta) ⏏️(api) 🟢⨀🤟▶️(nibbindati)  
-the nose | too | gives up | odors | too | gives up | nose-consciousness | too | gives up | nose-contact | too | gives up | what | too | this | with nose-contact as cause | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | gives up  
-He gives up the nose, gives up odors, gives up nose-consciousness, gives up nose-contact, and whatever feeling arises with nose-contact as cause, whether pleasant or painful or neutral, that too he gives up.
+the nose | too | gives up | odours | too | gives up | nose-consciousness | too | gives up | nose-contact | too | gives up | what | too | this | with nose-contact as cause | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | gives up  
+He gives up the nose, gives up odours, gives up nose-consciousness, gives up nose-contact, and whatever feeling arises with nose-contact as cause, whether pleasant or painful or neutral, that too he gives up.
 
 <a id="u8-4"></a>8.4 Jivhāyapi nibbindati, rasesupi nibbindati, jivhāviññāṇepi nibbindati, jivhāsamphassepi nibbindati, yampidaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.  
 🚺⨀⑦(jivhā) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨂⑦(rasa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚻⨀⑦🆎(jivhā+viññāṇa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨀⑦🆎(jivhā+samphassa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) *️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(jivhā+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita) 🚻⨀①(sukha) ⏏️(vā) 🚻⨀①(dukkha) ⏏️(vā) 🚻⨀①🆎(na+dukkha+na+sukha) ⏏️(vā) *️⃣🤟🚻⨀⑦(ta) ⏏️(api) 🟢⨀🤟▶️(nibbindati)  
@@ -200,7 +200,7 @@ the mind | too | gives up | mental phenomena | too | gives up | mind-consciousne
 He gives up the mind, gives up mental phenomena (`dhammā`), gives up mind-consciousness, gives up mind-contact, and whatever feeling arises with mind-contact as cause, whether pleasant or painful or neutral, that too he gives up.
 
 <a id="u9-1"></a>[9.1](https://tipitaka2500.github.io/tipitaka/13S4/1/1.1/1.1.3/1.1.3.6.html#p_13S4_75) Nibbindaṁ virajjati; virāgā vimuccati; vimuttasmiṁ vimuttamiti ñāṇaṁ hoti.  
-🚹⨀①🔽(anta)(nibbindanta) 🟢⨀🤟▶️(virajjati) 🚹⨀⑤(virāga) 🔵⨀🤟▶️(vimuccati) 🚻⨀⑦🔽(ta)(vimutta) 🚻⨀①🔽(ta)(vimutta) ⏏️(iti) 🚻⨀①(ñāṇa) 🟢⨀🤟▶️(hoti)  
+🚹⨀①🔽(anta)(nibbindanta) 🟢⨀🤟▶️(virajjati) 🚹⨀⑤(virāga) 🔴⨀🤟▶️(vimuccati) 🚻⨀⑦🔽(ta)(vimutta) 🚻⨀①🔽(ta)(vimutta) ⏏️(iti) 🚻⨀①(ñāṇa) 🟢⨀🤟▶️(hoti)  
 giving up | becomes detached | from detachment | is liberated | in liberation | liberated | (end quote) | knowledge | there is  
 Giving up, he `virajjati` (becomes detached); from detachment he `vimuccati` (becomes liberated); in liberation there is the `ñāṇa` (knowledge): ‘liberated’.
 
@@ -220,16 +220,16 @@ delighted | those | bhikkhū | of the Bhagavā | what was spoken | rejoiced in
 Those bhikkhū, delighted, rejoiced in the Bhagavā’s words.
 
 <a id="u10-3"></a>10.3 Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne tassa bhikkhusahassassa anupādāya āsavehi cittāni vimucciṁsūti.  
-*️⃣🤟🚻⨀⑦(ima) ⏏️(ca) ⏏️(pana) 🚻⨀⑦(veyyākaraṇa) 🚻⨀⑦🔽(māna)(bhaññamāna) *️⃣🤟🚻⨀⑥(ta) 🚻⨀⑥🆎(bhikkhu+sahassa) 🔽(ya)(anupādiyati) 🚹⨂⑤(āsava) 🚻⨂①(citta) 🔵⨂🤟⏮(vimuccati) ⏏️(iti)  
+*️⃣🤟🚻⨀⑦(ima) ⏏️(ca) ⏏️(pana) 🚻⨀⑦(veyyākaraṇa) 🚻⨀⑦🔽(māna)(bhaññamāna) *️⃣🤟🚻⨀⑥(ta) 🚻⨀⑥🆎(bhikkhu+sahassa) 🔽(ya)(anupādiyati) 🚹⨂⑤(āsava) 🚻⨂①(citta) 🔴⨂🤟⏮(vimuccati) ⏏️(iti)  
 in this | and | moreover | detailed exposition | being spoken | of that | thousand bhikkhū | not grasping | from the defilements | minds | were liberated | (end quote)  
 And while this detailed exposition was being spoken, the `cittāni` (minds) of that thousand bhikkhū, `anupādāya` (not grasping), were liberated from the `āsavā` (defilements).
 
 
 ### The colophon
 
-[11.1](https://tipitaka2500.github.io/tipitaka/13S4/1/1.1/1.1.3/1.1.3.6.html#p_13S4_77) Chaṭṭhaṁ.
-🚻⨀①(chaṭṭha)
-the sixth
+<a id="u11-1"></a>[11.1](https://tipitaka2500.github.io/tipitaka/13S4/1/1.1/1.1.3/1.1.3.6.html#p_13S4_77) Chaṭṭhaṁ.  
+🚻⨀①(chaṭṭha)  
+the sixth  
 The sixth [discourse of the chapter].
 
 [^jati]: `jāti` here is the birth of suffering, as in the Dhammacakka's "this is the final birth": see the note at [5: 10.2](../5-dhammacakka/#u10-2).

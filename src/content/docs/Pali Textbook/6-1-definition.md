@@ -71,8 +71,8 @@ of Māra / army → the army of Māra
 2. > jarā ca maraṇaṁ ca → **jarāmaraṇaṁ**
 
 🚺⨀①(jarā) ⏏️(ca) 🚻⨀①(maraṇaṁ) ⏏️(ca) → 🚻⨀①🆎(jarā+maraṇa)  
-old age / and / death / and → aging and death  
-*`jarā` (old age) and `maraṇa` (death), joined as "and"; ① on the whole.*
+aging / and / death / and → aging and death  
+*`jarā` (aging) and `maraṇa` (death), joined as "and"; ① on the whole.*
 
 3. > eko pallaṅko → **ekapallaṅkena**
 
@@ -80,10 +80,10 @@ old age / and / death / and → aging and death
 one / cross-legged posture → in one cross-legged posture  
 *`eka` (one) and `pallaṅka` (cross-legged posture): endings dropped; ③ on the whole.*
 
-4. > bodhirukkhassa mūlaṁ → **bodhirukkhamūle**
+4. > bodhirukkhassa mūle → **bodhirukkhamūle**
 
-🚹⨀⑥🆎(bodhi+rukkha) 🚻⨀①(mūlaṁ) → 🚻⨀⑦🆎(bodhirukkha+mūla)  
-of the Bodhi tree / foot → at the root of the bodhi tree  
+🚹⨀⑥🆎(bodhi+rukkha) 🚻⨀⑦(mūle) → 🚻⨀⑦🆎(bodhirukkha+mūla)  
+of the Bodhi tree / at the root → at the root of the Bodhi tree  
 *`bodhirukkha` (Bodhi tree, itself `bodhi` + `rukkha`) and `mūla` (root): ⑦ on the whole.*
 
 5. > saṅkhārānaṁ nirodho → **saṅkhāranirodho**
