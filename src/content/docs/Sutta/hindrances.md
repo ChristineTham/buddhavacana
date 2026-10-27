@@ -24,7 +24,7 @@ description: Giving up hindrances
 classDiagram
   class sentence["nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā kāmacchando uppajjati [n'] uppanno vā kāmacchando [bhiyyobhāvāya vepullāya/pahīyati] saṃvattati yathayidaṃ, bhikkhave, [subhanimittaṃ/asubhanimittaṃ]"] {
     <<vākya>>
-    english(I don't perceive, bhikkhus, yet another thing which [does not] leads to sensual desire arising [from nonexistence] when it appears, or sensual desire [increasing when it grows/ceasing], as this, bhikkhus, [beauty/repulsiveness].)
+    english(I do not see, Bhikkhave, even one other thing by which unarisen sensual desire [arises/does not arise] or arisen sensual desire [leads to increase and expansion/is given up], as this, Bhikkhave, the sign of [beauty/repulsiveness].)
   }
   class na {
     <<nipāta>>
@@ -50,17 +50,17 @@ classDiagram
   }
   class pi {
     <<nipāta>>
-    english(too)
+    english(even)
   }
   class samanupassāmi {
     <<ākhyāta>>
     ⨀👆vattamāna
-    english(I perceive)
+    english(I see)
   }
   class yena {
     <<anvayīnāma>>
     🚻⨀②
-    english(by when)
+    english(by which)
   }
   namespace result {
     class kāmacchando {
@@ -77,7 +77,7 @@ classDiagram
     class anuppanno {
       <<atītakiriya>>
       🚹⨀①
-      english(nonexistent)
+      english(unarisen)
     }
     class uppajjati {
       <<ākhyāta>>
@@ -87,17 +87,17 @@ classDiagram
     class uppanno {
       <<atītakiriya>>
       🚹⨀①
-      english(appeared)
+      english(arisen)
     }
     class bhiyyobhāvāya {
       <<nāma>>
       🚹⨀④
-      english(increase of)
+      english(increase)
     }
     class vepullāya {
       <<nāma>>
       🚻⨀④
-      english(growth of)
+      english(expansion)
     }
   }
   class saṃvattati {
@@ -118,12 +118,12 @@ classDiagram
     class subhanimittaṃ {
       <<nāma>>
       🚻⨀②
-      english(beauty)
+      english(sign of beauty)
     }
     class asubhanimittaṃ {
       <<nāma>>
       🚻⨀①
-      english(repulsiveness)
+      english(sign of repulsiveness)
     }
   }
   sentence *-- na
@@ -169,13 +169,13 @@ classDiagram
 classDiagram
   class sentence["[subhanimittaṃ/asubhanimittaṃ], bhikkhave, ayoniso manasi karoto anuppanno ceva kāmacchando [n'] uppajjati uppanno ca kāmacchando [bhiyyobhāvāya vepullāya/pahīyati] saṃvattatī"] {
     <<vākya>>
-    english([Beauty/Repulsiveness], bhikkhus, when [a person] dwells on it imprudently, [does not] leads to sensual desire arising [from nonexistence] when it appears, and sensual desire [increasing when it grows/ceasing].)
+    english(When [a person] attends [improperly/properly] to the sign of [beauty/repulsiveness], Bhikkhave, both unarisen sensual desire [arises/does not arise] and arisen sensual desire [leads to increase and expansion/is given up].)
   }
   namespace trigger {
     class subhanimittaṃ {
       <<nāma>>
       🚻⨀①
-      english(beauty)
+      english(sign of beauty)
     }
   }
   class bhikkhave {
@@ -184,12 +184,12 @@ classDiagram
   }
   class ayoniso {
     <<kriyā>>
-    english(imprudently)
+    english(improperly)
   }
   class manasi {
     <<nāma>>
     🚹⨀①
-    english(mind)
+    english(in mind)
   }
   class karoto {
     <<missakiriya>>
@@ -205,7 +205,7 @@ classDiagram
   }
   class ceva {
     <<nipāta>>
-    english(but then)
+    english(both)
   }
   namespace conjunction {
     class ca {
@@ -215,7 +215,7 @@ classDiagram
     class anuppanno {
       <<atītakiriya>>
       🚹⨀①
-      english(nonexistent)
+      english(unarisen)
     }
     class uppajjati {
       <<ākhyāta>>
@@ -225,17 +225,17 @@ classDiagram
     class uppanno {
       <<atītakiriya>>
       🚹⨀①
-      english(appeared)
+      english(arisen)
     }
     class bhiyyobhāvāya {
       <<nāma>>
       🚹⨀④
-      english(increase of)
+      english(increase)
     }
     class vepullāya {
       <<nāma>>
       🚻⨀④
-      english(growth of)
+      english(expansion)
     }
   }
   class saṃvattati {
@@ -276,41 +276,41 @@ classDiagram
 classDiagram
   class līnacitta["arati tandī vijambhitā bhattasammado cetaso ca līnattaṃ"] {
     <<pada>>
-    english(thoughts of boredom, laziness, sleepiness, food coma and sluggishness)
+    english(boredom, laziness, yawning, drowsiness after eating and sluggishness of mind)
   }
   class avūpasantacitta["cetaso avūpasamo"] {
     <<pada>>
-    english(thoughts of agitation)
+    english(agitation of mind)
   }
   class ayonisomanasikāro {
     <<nāma>>
     🚹⨀①
-    english(imprudent use of mind)
+    english(improper attention)
   }
   namespace trigger {
     class subhanimittaṃ {
       <<nāma>>
       🚻⨀①
-      english(beauty)
+      english(sign of beauty)
     }
     class paṭighanimittaṃ {
       <<nāma>>
       🚻⨀①
-      english(dislike)
+      english(sign of aversion)
     }
     class līnacittassa {
       <<nāma>>
       🚻⨀⑥
-      english(of sluggish mind)
+      english(of one with a sluggish mind)
     }
     class avūpasantacittassa {
       <<nāma>>
       🚻⨀⑥
-      english(of agitated mind)
+      english(of one with an agitated mind)
     }
     class ayoniso {
       <<kriyā>>
-      english(imprudently)
+      english(improperly)
     }
   }
   namespace result {
@@ -332,7 +332,7 @@ classDiagram
     class uddhaccakukkuccaṃ {
       <<nāma>>
       🚻⨀①
-      english(restlessness and fidgetiness)
+      english(restlessness and remorse)
     }
     class vicikicchā {
       <<nāma>>
@@ -344,26 +344,26 @@ classDiagram
     class asubhanimittaṃ {
       <<nāma>>
       🚻⨀①
-      english(repulsiveness)
+      english(sign of repulsiveness)
     }
     class mettaṃ {
       <<nāma>>
       🚻⨀①
-      english(benevolence)
+      english(goodwill)
     }
     class āraddhavīriyassa {
       <<nāma>>
       🚻⨀⑥
-      english(who is energetic)
+      english(of one who is energetic)
     }
     class vūpasantacittassa {
       <<nāma>>
       🚻⨀⑥
-      english(of calm mind)
+      english(of one with a calm mind)
     }
     class yoniso {
       <<kriyā>>
-      english(prudently)
+      english(properly)
     }
   }
   subhanimittaṃ .. kāmacchando
