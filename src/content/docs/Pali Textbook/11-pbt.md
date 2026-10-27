@@ -1114,7 +1114,7 @@ Bhikkhave, and what is “sammāvāyāma” (right effort)?
 <a id="s35-u21-20"></a>21.20 Idha, bhikkhave, bhikkhu anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati;  
 ⏏️(idha) 🚹⨂⓪(bhikkhu) 🚹⨀①(bhikkhu) 🚹⨂⑥🔽(ta)🆎(na+uppanna) 🚹⨂⑥(pāpaka) 🚹⨂⑥🆎(na+kusala) 🚹⨂⑥(dhamma) 🚹⨀④🆎(na+uppāda) 🚹⨀②(chanda) 🟠⨀🤟▶️(janeti) 🟢⨀🤟▶️(vāyamati) 🚻⨀②(vīriya) 🟢⨀🤟▶️(ārabhati) 🚻⨀②(citta) 🟢⨀🤟▶️(paggaṇhāti) 🟢⨀🤟▶️(padahati)  
 here | Bhikkhave | bhikkhu | of unarisen | of evil | of unwholesome | of characteristics | for non-arising | desire | generates | tries to make an effort to | effort | start | mind | strives on | exerts oneself  
-Here, Bhikkhave, a bhikkhu, for the non-arising of unarisen evil and unwholesome characteristics, generates a desire for non-arising, tries to make an effort, starts effort, strives on with the mind, and exerts himself.
+Here, Bhikkhave, a bhikkhu, for the non-arising of unarisen evil and unwholesome characteristics, generates a desire, tries to make an effort, starts effort, strives on with the mind, and exerts himself.
 
 <a id="s35-u21-21"></a>21.21 uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati;  
 🚹⨂⑥🔽(ta)(uppanna) 🚹⨂⑥(pāpaka) 🚹⨂⑥🆎(na+kusala) 🚹⨂⑥(dhamma) 🚻⨀④(pahāna) 🚹⨀②(chanda) 🟠⨀🤟▶️(janeti) 🟢⨀🤟▶️(vāyamati) 🚻⨀②(vīriya) 🟢⨀🤟▶️(ārabhati) 🚻⨀②(citta) 🟢⨀🤟▶️(paggaṇhāti) 🟢⨀🤟▶️(padahati)  
@@ -1124,7 +1124,7 @@ He generates a desire for the giving up of the arisen evil and unwholesome chara
 <a id="s35-u21-22"></a>21.22 anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati;  
 🚹⨂⑥🔽(ta)🆎(na+uppanna) 🚹⨂⑥(kusala) 🚹⨂⑥(dhamma) 🚹⨀④(uppāda) 🚹⨀②(chanda) 🟠⨀🤟▶️(janeti) 🟢⨀🤟▶️(vāyamati) 🚻⨀②(vīriya) 🟢⨀🤟▶️(ārabhati) 🚻⨀②(citta) 🟢⨀🤟▶️(paggaṇhāti) 🟢⨀🤟▶️(padahati)  
 of unarisen | of wholesome | of characteristics | for arising of | desire | generates | tries to make an effort to | effort | start | mind | strives on | exerts oneself  
-For the arising of unarisen wholesome characteristics, he generates a desire for arising, tries to make an effort, starts effort, strives on with the mind, and exerts himself.
+For the arising of unarisen wholesome characteristics, he generates a desire, tries to make an effort, starts effort, strives on with the mind, and exerts himself.
 
 <a id="s35-u21-23"></a>21.23 uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati.  
 🚹⨂⑥🔽(ta)(uppanna) 🚹⨂⑥(kusala) 🚹⨂⑥(dhamma) 🚺⨀④(ṭhiti) 🚹⨀④🆎(na+sammosa) 🚹⨀④🆎(bhiyyo+bhāva) 🚻⨀④(vepulla) 🚺⨀④(bhāvanā) 🚺⨀④(pāripūri) 🚹⨀②(chanda) 🟠⨀🤟▶️(janeti) 🟢⨀🤟▶️(vāyamati) 🚻⨀②(vīriya) 🟢⨀🤟▶️(ārabhati) 🚻⨀②(citta) 🟢⨀🤟▶️(paggaṇhāti) 🟢⨀🤟▶️(padahati)  
@@ -2054,9 +2054,9 @@ Wrong livelihood:
 
 ### sammāvāyāma (Right Effort)
 
-* For the non-arising of unarisen evil and unwholesome characteristics, he generates a desire for non-arising, tries to make an effort, starts effort, strives on with the mind, and exerts himself.
+* For the non-arising of unarisen evil and unwholesome characteristics, he generates a desire, tries to make an effort, starts effort, strives on with the mind, and exerts himself.
 * He generates a desire for the giving up of the arisen evil and unwholesome characteristics, tries to make an effort, starts effort, strives on with the mind, and exerts himself.
-* For the arising of unarisen wholesome characteristics, he generates a desire for arising, tries to make an effort, starts effort, strives on with the mind, and exerts himself.
+* For the arising of unarisen wholesome characteristics, he generates a desire, tries to make an effort, starts effort, strives on with the mind, and exerts himself.
 * He generates a desire for the persistence of, non-confusion of, increase of, maturity of, developing of, fulfilment of arisen wholesome characteristics, tries to make an effort, starts effort, strives on with the mind, and exerts himself.
 
 ### sammāsati (Right Awareness)
