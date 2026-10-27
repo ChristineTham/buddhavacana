@@ -45,7 +45,7 @@ tags:
 * The author contrasts this with Western Buddhism, which is presented as a well-preserved edifice that stands fortified against the very impermanence it teaches.
 * This creates an illusion that Western Buddhism is separate from nature's inevitable ruin, offering an escape from it rather than an integration with it.
 * The author argues that Western Buddhism must be "ruined" to bring it closer to "the Real" (nature), allowing its core ideas to be more impactful, much like a physical ruin reveals its original plan more clearly.
-* This belief is informed by the author's forty years of studying and practicing Buddhism, as well as by the concept of ruin as a catalyst for love and insight, as seen in the works of the poet Rūmī and the songwriter Leonard Cohen.
+* This belief is informed by the author's forty years of studying and practising Buddhism, as well as by the concept of ruin as a catalyst for love and insight, as seen in the works of the poet Rūmī and the songwriter Leonard Cohen.
 * The author's personal history, including forming a punk rock band named "Ruin," has also shaped this perspective.
 
 # Part One - Recognition
@@ -62,8 +62,8 @@ tags:
 ### Why Western Buddhism?
 
 * "Western Buddhism" is a form of "Buddhist modernism" that originated in 19th-century Asia (specifically Sri Lanka) as a response to Western colonial influence.
-* It reformed traditional Buddhism by adopting values from the Enlightenment (reason, science), Romanticism (emotion, the individual), and Protestantism (laicization, individual effort).
-* This modernized form is now international, not just confined to the West.
+* It reformed traditional Buddhism by adopting values from the Enlightenment (reason, science), Romanticism (emotion, the individual), and Protestantism (laicisation, individual effort).
+* This modernised form is now international, not just confined to the West.
 * A defining feature is the "Easy-Easy Principle," which holds that if a practice is simple, its theory must also be simple, often leading to anti-intellectualism.
 * The author argues this critique of Western Buddhism applies to all forms of Buddhism because they share a common underlying factor.
 
@@ -73,15 +73,15 @@ tags:
 * The author compares the primal, challenging origins of Buddhism to Antonin Artaud's "Theater of Cruelty," which aimed to expose audiences to harsh realities rather than comfort them.
 * The book's premise is that Buddhism has failed to unleash its own radical potential, instead becoming a conservative institution that protects the status quo.
 * A second premise is that critical procedures are needed to salvage Buddhist materials from the self-help industry.
-* The critique will use concepts from the thinker François Laruelle, favor immanence over transcendence, and function as both theory and performance.
+* The critique will use concepts from the thinker François Laruelle, favour immanence over transcendence, and function as both theory and performance.
 * The focus is not on specific doctrines or texts, but on the underlying "problematic" or "environment" that produces all Buddhist phenomena.
 
 ## 1 The Snares of Wisdom
 
 * The author questions what Western Buddhism offers beyond its conventional focus on "Wisdom."
 * "Wisdom" is popularly conceived as a pure, simple truth, free from ideology, which aligns with the idea of a *philosophia perennis* (perennial philosophy).
-* This notion is challenged by the Buddhist concept of dependent origination, which posits that nothing exists independently but arises from entangling causes and conditions.
-* The author proposes engaging with Buddhism through the concept of "the Real"—that which is beyond symbolic representation and conceptual delusion, as hinted at by terms like emptiness (śūnyatā), impermanence (anicca), and no-self (anātman).
+* This notion is challenged by the Buddhist concept of dependent origination, which posits that nothing exists independently but arises from entangling causes.
+* The author proposes engaging with Buddhism through the concept of "the Real"—that which is beyond symbolic representation and conceptual delusion, as hinted at by terms like emptiness (śūnyatā), impermanence (anicca), and not-self (anātman).
 * The absence of "the Real" in Western Buddhist discourse allows it to correspond with New Age self-help and the pursuit of wellbeing.
 
 ### Wisdom
@@ -105,18 +105,18 @@ tags:
 * This transformation is attributed to the influence of neoliberal ideology on contemporary subjectivity.
 * For example, the classical concept of "dependent origination" as an imprisoning web has been repurposed into a joyous "celebration of this interwoven world."
 * Neoliberalism shapes a subject who feels powerless and must adapt to an unknowable world, a view reinforced by Western Buddhist teachings that advocate for accepting suffering and letting go of control.
-* Both Western Buddhism and neoliberalism emphasize "technologies of the self," shifting the focus of change from external social and economic conditions to the individual's inner life, which helps preserve the status quo.
+* Both Western Buddhism and neoliberalism emphasise "technologies of the self," shifting the focus of change from external social and economic conditions to the individual's inner life, which helps preserve the status quo.
 
 ## 2 Specters of the Real
 
 ### The rhetorical unconscious
 
 * Establishing a concept of "the Real" in Western Buddhism allows it to be treated as a viable form of thought, beyond its popular self-help character.
-* While Buddhism has no explicit term for "the Real," it is haunted by it through concepts like no-self, suffering, and especially *śūnyatā* (emptiness).
+* While Buddhism has no explicit term for "the Real," it is haunted by it through concepts like not-self, suffering, and especially *śūnyatā* (emptiness).
 * *Śūnyatā* functions as a "master signifier" that also points to the Buddhist system's own incompleteness—a conceptual "black hole."
 * Western Buddhism actively represses the devastating implications of emptiness (i.e., nullity), instead reframing it as fullness and abundance to avoid nihilism.
 * This repression is traced back to the Buddha's historical anxiety about being accused of "annihilationism" (the view that a being is nullified at death).
-* The disavowal of emptiness-as-nullity constitutes a "rhetorical unconscious," an act of repression whose symptoms include anxious denials of nihilism and labyrinthine philosophical maneuvers.
+* The disavowal of emptiness-as-nullity constitutes a "rhetorical unconscious," an act of repression whose symptoms include anxious denials of nihilism and labyrinthine philosophical manoeuvres.
 
 ### The principle of sufficient Buddhism
 
@@ -135,18 +135,18 @@ tags:
 
 ### First names
 
-* Key Western Buddhist concepts like no-self (anātman), suffering-desire (dukkha-taṇhā), and emptiness (śūnyatā) are identified as "first names" of the Real.
-* Following François Laruelle, "first names" are fundamental terms that symbolize the Real's radical immanence.
-* The central critique is that Western Buddhism uses these terms not just to symbolize the Real, but to determine its constitution, a move Laruelle considers a "violent" and "hallucinated" form of knowledge.
-* This approach prioritizes a "buddhistic" system of thought over a direct understanding of human interest.
+* Key Western Buddhist concepts like not-self (anātman), suffering-desire (dukkha-taṇhā), and emptiness (śūnyatā) are identified as "first names" of the Real.
+* Following François Laruelle, "first names" are fundamental terms that symbolise the Real's radical immanence.
+* The central critique is that Western Buddhism uses these terms not just to symbolise the Real, but to determine its constitution, a move Laruelle considers a "violent" and "hallucinated" form of knowledge.
+* This approach prioritises a "buddhistic" system of thought over a direct understanding of human interest.
 
 ### Self-void (anātman)
 
-* Western Buddhism initially presents *anātman* (no-self) as a socially constructed self, a "void at the heart of the symbolic order."
+* Western Buddhism initially presents *anātman* (not-self) as a socially constructed self, a "void at the heart of the symbolic order."
 * However, teachers like David Loy perform a "parapraxis" or "misturning" by invoking *parāvṛtti* ("turning around").
-* This turn shifts the concept away from its radical social implications (a "social awakening") and back toward a mystical, essentialized self, described as a "life-healing flow."
+* This turn shifts the concept away from its radical social implications (a "social awakening") and back toward a mystical, essentialised self, described as a "life-healing flow."
 * Similarly, Ken Jones is critiqued for his "social fallacy," which dismisses the primacy of social conditions in shaping consciousness in order to reassert the necessity of "inner work" and Dharma.
-* This reversal depotentializes the radical force of *anātman* and re-establishes the self-referential authority of Buddhism.
+* This reversal depotentialises the radical force of *anātman* and re-establishes the self-referential authority of Buddhism.
 
 ### Suffering-desire (dukkha-taṇhā)
 
@@ -170,9 +170,9 @@ tags:
 
 * While Buddhism is a magnificent creation, something is amiss within Western Buddhism, which the author terms a "perversion" or "reversal."
 * This reversal happens at the level of core concepts, transforming Buddhism from a materialist theory of experience into an idealist "worldview."
-* The author calls this a "conceptual parapraxis," where Western Buddhism recoils from the full implications of its own concepts (like no-self and emptiness).
+* The author calls this a "conceptual parapraxis," where Western Buddhism recoils from the full implications of its own concepts (like not-self and emptiness).
 * Unlike psychoanalysis, which follows evidence into its difficult conclusions, Western Buddhism replaces the Buddhist "Real" with more consoling ideas, leading to collusion with the status quo.
-* The author's project is to analyze Western Buddhism as "raw human cultural material" using an "extra-Buddhist supplement," namely the work of François Laruelle.
+* The author's project is to analyse Western Buddhism as "raw human cultural material" using an "extra-Buddhist supplement," namely the work of François Laruelle.
 
 ### François Laruelle and non-philosophy
 
@@ -196,7 +196,7 @@ tags:
 * Laruelle calls the key operation behind this "buddhistic decision," an unconscious, circular process where Buddhist postulates are substituted for the Real.
 * Decision is an internal, structural invariant of Western Buddhism that allows the system to produce its concepts, practices, and subjects.
 * "The Dharma" is identified as the pivot for this decision, functioning as both an empirical teaching and a transcendental cosmic law.
-* This creates a "Dyad + One" structure: the dyad of *saṃsāra* (the world) and *pratītyasamutpāda* (contingency) is synthesized and guaranteed by the "+One" of The Dharma.
+* This creates a "Dyad + One" structure: the dyad of *saṃsāra* (the world) and *pratītyasamutpāda* (contingency) is synthesised and guaranteed by the "+One" of The Dharma.
 * This structure is circular and leads to "specularity," where Western Buddhism looks at the world and sees only a reflection of its own theories.
 
 ## 5 Immanent Practice
@@ -217,7 +217,7 @@ tags:
 
 ### Interlude: The immanence of an actual suffering
 
-* The Buddhist concept of *dukkha* (suffering) is examined as a case study, noting its characterization as a fundamental structure of life, or an "existentiale."
+* The Buddhist concept of *dukkha* (suffering) is examined as a case study, noting its characterisation as a fundamental structure of life, or an "existentiale."
 * The critique questions whether a "fundamental structure" can truly be "solved" by a cognitive "reorientation," as Buddhism claims.
 * It is argued that Western Buddhism creates a conceptual confusion (an amphiboly) by mistaking its own concept, *dukkha*, for the Real of actual human pain.
 * This Buddhist approach is contrasted with Emily Dickinson's poem on "an actual suffering," which represents thinking *from* the Real of pain rather than applying a system *to* it.
@@ -226,7 +226,7 @@ tags:
 
 * "Immanence" is defined as a position rejecting any separation between the ultimate structure of reality and its actual content.
 * It is argued that while Buddhism claims to be a practice of immanence, it often establishes a transcendent principle (like "The Dharma") to guarantee its own sufficiency, thereby undermining immanence.
-* The Buddhist parable of the poisoned arrow is used as an example of how Buddhism itself prioritizes immediate, immanent practice over metaphysical speculation.
+* The Buddhist parable of the poisoned arrow is used as an example of how Buddhism itself prioritises immediate, immanent practice over metaphysical speculation.
 * The critique contends that Western Buddhism ultimately fails to preserve this principle of immanence, instead transforming it into a transcendent and illusory system.
 
 ### Axiomatic Real
@@ -240,8 +240,8 @@ tags:
 ### The stranger subject
 
 * The "stranger subject" is introduced as an alternative to the subject constructed by Western Buddhism.
-* It argues that Western Buddhism often dilutes radical concepts like *anātman* (no-self) by reintroducing an essential self under a different name.
-* The idealized Buddhist subject (the "instructed noble disciple") is contrasted with the "uninstructed worldling" and deemed a fantastical and undesirable goal.
+* It argues that Western Buddhism often dilutes radical concepts like *anātman* (not-self) by reintroducing an essential self under a different name.
+* The idealised Buddhist subject (the "instructed noble disciple") is contrasted with the "uninstructed worldling" and deemed a fantastical and undesirable goal.
 * The stranger subject resists all ideological determinations. It is determined *by* the Real but does not attempt to determine, define, or access the Real.
 * This subject uses Buddhist materials without being captured by the system, exercising a "force (of) thought" that remains faithful to the Real by refusing to turn it into a representation.
 
@@ -251,7 +251,7 @@ tags:
 
 ### The deliverance of fiction
 
-* Buddhism views the world as a fiction, a "magical illusion" or a dream fabricated by perception (samskāra). The story of the Buddha awakening from this is also a fabrication.
+* Buddhism views the world as a fiction, a "magical illusion" or a dream fabricated by mental construction (samskāra). The story of the Buddha awakening from this is also a fabrication.
 * The term "Buddhism" is itself a fiction, a singular identity that requires plural modifications (e.g., "Zen Buddhism"), which are also ambiguous and create further fictions.
 * The most consequential fictions are the invisible ones that give a particular tradition (x-buddhism) its air of legitimacy.
 * Since Buddhism is already a genre of fabulation, the author proposes a "buddhofiction"—a new form of fiction that openly declares itself as such.
@@ -267,7 +267,7 @@ tags:
 * The author chooses meditation as the central practice for this exercise, as it is the primary identity marker of Western Buddhism.
 * Contemporary Western meditation is critiqued for several reasons:
     *   It is presented as a scientific or psychological method, detached from tradition.
-    *   It assumes an integral self (atman), contradicting the core Buddhist principle of anātman (non-self).
+    *   It assumes an integral self (atman), contradicting the core Buddhist principle of anātman (not-self).
     *   It is detachable from the ethical and philosophical framework of Buddhism.
     *   It is detachable from societal structures, allowing practitioners to participate in capitalism while retaining a sense of mental sanity.
     *   It opportunistically uses Buddhist concepts for legitimacy while simultaneously distancing itself from the tradition.
@@ -330,7 +330,7 @@ tags:
 ### 10
 
 * The "anthropotechnic" of the organon involves applying the calculus to shatter comforting beliefs, inducing "incurable disenchantment."
-* Since human formation (ideology, habit) is inevitable, one must engage in continuous "self-forming" behavior.
+* Since human formation (ideology, habit) is inevitable, one must engage in continuous "self-forming" behaviour.
 * This is an "anthropotechnic of verticality"—an impossible, monstrous, and terrifying striving for a sublime self-mastery suspended in a void.
 
 ### 11
@@ -356,7 +356,7 @@ tags:
 ### 14
 
 * The calculus is composed of "ruins of the buddhist Real," which are recast as "decimated first names" (e.g., disenchantment, vanishing, contingency).
-* A list of these concepts is provided in English and their Pali "x-buddhist" progenitors (*nibbida*, *anicca*, *paticcasamuppāda*).
+* A list of these concepts is provided in English and their Pāḷi "x-buddhist" progenitors (*nibbida*, *anicca*, *paticcasamuppāda*).
 * The process for using this genealogy involves three steps: approbation, annihilation, and appropriation.
 
 ### 15
@@ -368,7 +368,7 @@ tags:
 
 ### 16
 
-* The resulting concepts are "first names" that symbolize "the Real"—the "sheer lived" experience that is a condition for thought but cannot be adequately represented.
+* The resulting concepts are "first names" that symbolise "the Real"—the "sheer lived" experience that is a condition for thought but cannot be adequately represented.
 * The goal is to achieve a proper (non)relation to this Real.
 
 ### 17
