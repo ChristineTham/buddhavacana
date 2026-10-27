@@ -90,7 +90,7 @@ voiced = "ga" | "gha" | "ṅa" | "ja" | "jha" | "ña" | "ḍa" | "ḍha" | "ṇa
 
 ## Sentence structure
 
-Pāḷi text consists of sentences which contain one or more words. Words can be nouns, verbs, prefixes and particles. There is no strictly defined word order in sentences, but is proto-typically subject-object-verb.
+Pāḷi text consists of sentences which contain one or more words. Words can be nouns, verbs, prefixes and particles. There is no strictly defined word order in sentences, but it is proto-typically subject-object-verb.
 
 ```plantuml
 @startebnf
@@ -274,7 +274,7 @@ particle = conjunction | preposition | adverb | uninflected ;
 
 ## References
 
-This appendix draws upon information provided in the following sources
+This appendix draws upon information provided in the following sources:
 
 * *Kaccāyana Pāli Vyākaraṇaṁ (Kaccāyana Pāli Grammar)*, Vols I and II, A. Thitzana, Pariyatti Press (2018)
 * *Technical Terms and Technique of the Pali and the Sanskrit Grammars*, Mahesh A Deokar, Central Institute of Higher Tibetan Studies (2008)

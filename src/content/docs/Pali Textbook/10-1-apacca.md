@@ -159,5 +159,5 @@ of Bhaggu / descendant → Bhaggu's descendant
 8. > samaṇassa apaccaṁ → **sāmaṇero**
 
 🚹⨀⑥(samaṇa) 🚻⨀①(apacca) → 🚹⨀①🔽(ṇera)(sāmaṇera)  
-of a recluse / descendant → a recluse's "son", a novice  
+of a wanderer / descendant → a wanderer's "son", a novice  
 *`ṇera` {349}: the first `a` lengthened, `-era` added.*

@@ -40,9 +40,9 @@ where the full set is tabled.
 | {350} | `carati` “mode of travel or practice” | sakaṭena caratī’ti | sakaṭa | ṇika | sakaṭ~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | sākaṭiko | bullock-cart-traveller |
 | {350} | `vahati` “mode of carriage” | sīsena vahatī’ti | sīsa | ṇika | sīs~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | sīsiko | one who carries (something) on head |
 | {350} | `vasatī` "residency" | rājagahe vasatī’ti | rājagaha | ṇika | rājagah~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | rājagahiko | resident/native of Rājagaha city |
-| {351} | `adhīte` “learning or subject of study” | vinaya’madhīte | vinaya | ṇika | v~~i~~(e)nay~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | venayiko (i>e vuddhi) | Vinaya-learner. i.e. the student of Vinaya texts |
+| {351} | `adhīte` “learning or subject of study” | vinaya’madhīte | vinaya | ṇika | v~~i~~(e)nay~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | venayiko (i>e vuddhi) | Vinaya-learner, i.e. the student of Vinaya texts |
 | {351} | `tena kataṁ` “modes of action” | kāyena kataṁ kammaṁ | kāya | ṇika | kāy~~a~~ + ~~ṇ~~ika + ~~si~~ (ṁ) | kāyikaṁ | bodily action |
-| {351} | `sannidhāna` “originated in” | sarīre sannidhānā vedanā | sarīra | ṇika | sarīr~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (ā) | sārīrikā | the bodily feeling. i.e. bodily pain etc. |
+| {351} | `sannidhāna` “originated in” | sarīre sannidhānā vedanā | sarīra | ṇika | sarīr~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (ā) | sārīrikā | the bodily feeling, i.e. bodily pain etc. |
 | {351} | `niyutta` “being involved in or related to” | dvāre niyutto | dvāra | ṇika | d(o)vār~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | dovāriko | the door-keeper, guard |
 | {351} | `sippa` “profession or knowledge” | vīṇā assa sippaṁ | vīṇā | ṇika | v~~ī~~(e)ṇ~~ā~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | veṇiko (i>e vuddhi) | the harp-professional, the harpist |
 | {351} | `bhaṇḍaṁ` “merchandise” | gandho assa bhaṇḍaṁ | gandha | ṇika | gandh~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | gandhiko | the perfume-trader, perfumer |
@@ -50,7 +50,7 @@ where the full set is tabled.
 | {351} | `hata` "mode of killing for a living" | jālena hato | jāla | ṇika | jāl~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | jāliko | fisherman |
 | {351} | `āvudha` "weapon" | cāpo assa āvudho | cāpa | ṇika | cāp~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | cāpiko | archer |
 | {351} | `ābādha` "disease or pain" | vāto assa ābādho | vāta | ṇika | vāt~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | vātiko | gas-pain sufferer |
-| {351} | `pasanna` "being pleased with or being devoted to" | buddhe pasanno | buddha | ṇika | buddh~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | buddhiko | the one who is pleased in Buddha. i.e. a devotee of Buddha |
+| {351} | `pasanna` "being pleased with or being devoted to" | buddhe pasanno | buddha | ṇika | buddh~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | buddhiko | the one who is pleased in Buddha, i.e. a devotee of Buddha |
 | {351} | `santakaṁ` "possession, being owned by" | buddhassa santakaṁ | buddha | ṇika | buddh~~a~~ + ~~ṇ~~ika + ~~si~~ (ṁ) | buddhikaṁ | Buddha’s possession such as funds meant for shrine-renovation etc. |
 | {351} | `kītaṁ` "mode of purchase, being bartered with" | vatthena kītaṁ bhaṇḍaṁ | vattha | ṇika | vatth~~a~~ + ~~ṇ~~ika + ~~si~~ (ṁ) | vatthikaṁ | the thing bought by means of bartering with cloth |
 | {351} | `parimāṇa` "measurement" | kumbho assa parimāṇaṁ | kumbha | ṇika | kumbh~~a~~ + ~~ṇ~~ika + ~~si~~ (ṁ) | kumbhikaṁ | a thing of one Kumbha measure of grain |
@@ -142,7 +142,7 @@ a comparative comparison for the superlative
 
 | sutta | expression | phrase | base | affix | transformation | word | meaning |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| {363} | more | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | tara | pāpa + tar~~a~~ + ~~si~~ (o) | pāpataro | specially bad among the bad. i.e. especially bad of the bad |
+| {363} | more | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | tara | pāpa + tar~~a~~ + ~~si~~ (o) | pāpataro | specially bad among the bad, i.e. especially bad of the bad |
 | {363} | most | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | tama | pāpa + tam~~a~~ + ~~si~~ (o) | pāpatamo | the most bad, the worst |
 | {363} | more | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | isika | pāp~~a~~ + isik~~a~~ + ~~si~~ (o) | pāpisiko | specially bad |
 | {363} | more | sabbe ime pāpā, aya’mimesaṁ visesena pāpo’ti | pāpa | iya | pāp~~a~~ + iy~~a~~ + ~~si~~ (o) | pāpiyo | more bad |
@@ -157,8 +157,8 @@ a quality being possessed by someone (or something)
 | {364} | medhā yassa atthi, tasmiṁ vā vijjatī’ti | medhā | vī | medhā + vī + ~~si~~ | medhāvī | the one who has intellect or wisdom, the wise |
 | {364} | sumedhā yassa atthi, tasmiṁ vā vijjatī’ti  | sumedhā | so | sumedh~~ā~~(a) + so + ~~si~~ | sumedhaso | the one who has good intellect |
 | {365} | tapo yassa atthi tasmiṁ vā vijjatī’ti  | tapa | sī | tapa + (s)sī + ~~si~~ | tapassī | the one having austerity practices, an ascetic, a hermit |
-| {366} | daṇḍo yassa atthi, tasmiṁ vā vijjatī’ti | daṇḍa | ika | daṇḍ~~a~~ + ik~~a~~ + ~~si~~ (o) | daṇḍiko | the one having stick |
-| {366} | daṇḍo yassa atthi, tasmiṁ vā vijjatī’ti | daṇḍa | ī | daṇḍ~~a~~ + ī + ~~si~~ | daṇḍī | the one having stick |
+| {366} | daṇḍo yassa atthi, tasmiṁ vā vijjatī’ti | daṇḍa | ika | daṇḍ~~a~~ + ik~~a~~ + ~~si~~ (o) | daṇḍiko | the one having a stick |
+| {366} | daṇḍo yassa atthi, tasmiṁ vā vijjatī’ti | daṇḍa | ī | daṇḍ~~a~~ + ī + ~~si~~ | daṇḍī | the one having a stick |
 | {367} | madhu yassa atthi, tasmiṁ vā vijjatī’ti | madhu | ra | madhu + r~~a~~ + ~~si~~ (o) | madhuro | something having sweet taste, sweet |
 | {368} | guṇo yassa atthi, tasmiṁ vā vijjatī’ti | guṇa | vantu | guṇa + v~~antu~~ + ~~si~~ (ā) | guṇavā | virtuous or a dignitary |
 | {369} | sati yassa atthi, tasmiṁ vā vijjatī’ti | sati | mantu | sati + m~~antu~~ + ~~si~~ (ā) | satimā | the one having awareness, aware |

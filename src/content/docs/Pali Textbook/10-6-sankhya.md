@@ -24,7 +24,7 @@ the number with an affix: `dvinnaṁ pūraṇo` ("the completer of two") and the
 `dutiyo` ("second") say the same thing {385}. A word of division or manner
 is a number or a pronoun with an affix meaning "in so many ways" or "in that
 way", `ekadhā` ("in one way"), `tathā` ("so"); it never changes its ending,
-being a particle (`nipāta`), marked ⏏️ in this book](../11-pbt/).
+being a particle (`nipāta`), marked ⏏️ in this book.
 
 The question to ask is what ends the word: `-ma`, `-tiya` or `-ttha` makes
 an ordinal; `-dhā`, `-so`, `-thā` or `-thaṁ` a word of division or manner;

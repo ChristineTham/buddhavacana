@@ -168,7 +168,7 @@ this / my / self
 
 ⏏️🆎(yāva+jīva) 🚹⨂①(arahant) 🚻⨀②🆎(na+brahma+cariya) 🔽(ya)(pajahati)  
 life-long / liberated ones / uncelibacy / giving up  
-*"Life long arahants (liberated ones) give up uncelibacy": `arahanto`, ① plural of `arahanta` {122}, singular `arahaṁ` {186}; [Bonus: 32, 21.1](../11-pbt/#s32-u21-1).*
+*"Life-long arahants (liberated ones) give up uncelibacy": `arahanto`, ① plural of `arahanta` {122}, singular `arahaṁ` {186}; [Bonus: 32, 21.1](../11-pbt/#s32-u21-1).*
 
 7. > Evaṁ **passaṁ**, bhikkhave, **sutavā** ariyasāvako
 

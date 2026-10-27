@@ -57,10 +57,10 @@ Pāḷi consists of 8 vowels (sara) and 33 consonants (vyañjana), arranged in t
 |aghosa|Voiceless (Surds, stops)|hard, flat, and toneless|
 |ghosa|Voiced (Sonants)|soft and uttered with a checked tone|
 |dhanita|Aspirates|pronounced with a strong breathing or h sound added to them|
-|sithila|Nonaspirates|pronounced naturally, without effort and without the h sound|
+|sithila|Non-aspirates|pronounced naturally, without effort and without the h sound|
 |nāsika|Nasals|sounded through the nose|
 |antaṭṭha|Liquids (Resonants, semi-vowels)|readily combine with other consonants: (except, perhaps, ḷ)|
-|-|Mutes (Nonsurds)|not being readily pronounced without the aid of a vowel|
+|-|Mutes (Non-surds)|not being readily pronounced without the aid of a vowel|
 
 ## Pronunciation
 
