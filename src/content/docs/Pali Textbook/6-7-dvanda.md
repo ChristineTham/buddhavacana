@@ -5,7 +5,7 @@ sidebar:
   order: 540
 description: >
   A `dvanda` ("pair") joins nouns that English strings together with "and":
-  `samaṇabrāhmaṇā` ("ascetics and brahmins"). It has two shapes, plural when
+  `samaṇabrāhmaṇā` ("wanderers and brahmins"). It has two shapes, plural when
   its members are counted {329} and singular neuter when they are taken as one
   set, `cakkhusotaṁ` ("eye and ear") {322}; some kinds of things take either
   {323}.
@@ -17,11 +17,11 @@ tags: ["samāsa", "dvanda"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-Many compounds in the texts are simply lists. `samaṇabrāhmaṇā` is "ascetics
+Many compounds in the texts are simply lists. `samaṇabrāhmaṇā` is "wanderers
 and brahmins", `candimasūriyā` "moon and sun", `jarāmaraṇaṁ` "ageing and
 death". Kaccāyana calls such a compound a `dvanda` ("pair"): a combination of
 nouns that would all carry the same ending if they stood apart {329}, so that
-`samaṇo ca brāhmaṇo ca` ("an ascetic and a brahmin") and the one word
+`samaṇo ca brāhmaṇo ca` ("a wanderer and a brahmin") and the one word
 `samaṇabrāhmaṇā` say the same thing. The test is to put "and" between the
 members: if each keeps its own meaning and the compound means all of them
 together, it is a `dvanda`. There may be more than two members:
@@ -41,7 +41,7 @@ grasses, animals, wealth, grain and countries the texts use either shape,
 
 | what you see | what it means | example | rule |
 | --- | --- | --- | :-: |
-| nouns run together, "and" between them, a plural ending | each member counted: X and Y | `samaṇabrāhmaṇā` (ascetics and brahmins) | {329} |
+| nouns run together, "and" between them, a plural ending | each member counted: X and Y | `samaṇabrāhmaṇā` (wanderers and brahmins) | {329} |
 | the same, but singular and neuter in `-aṁ`, for the kinds of things in the table below | the members as one set | `cakkhusotaṁ` (eye and ear), `pattacīvaraṁ` (bowl and robe) | {322} |
 | the same, in either shape, for trees, animals, countries and the like | counted, or as one set | `ajeḷakaṁ` or `ajeḷakā` (goats and sheep) | {323} |
 
@@ -81,7 +81,7 @@ becomes `ñ` before `ca` {31}.
 > samaṇo ca brāhmaṇo ca → **samaṇabrāhmaṇā**
 
 🚹⨀①(samaṇa) ⏏️(ca) 🚹⨀①(brāhmaṇa) ⏏️(ca) → 🚹⨂①🆎(samaṇa+brāhmaṇa)  
-an ascetic / and / a brahmin / and → ascetics and brahmins  
+a wanderer / and / a brahmin / and → wanderers and brahmins  
 *`dvanda` {329}: nouns joined with "and", plural because each member is counted.*
 
 > cakkhu ca sotañca → **cakkhusotaṁ**

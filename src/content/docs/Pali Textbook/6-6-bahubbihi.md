@@ -39,8 +39,8 @@ The vutti of {328} first shows the outside word in each ending from ② to ⑦:
 
 | the outside word is | example | the phrase it stands for |
 | --- | --- | --- |
-| ② the thing reached | `āgatasamaṇo` | `āgatā samaṇā imaṁ saṅghārāmaṁ`: a monastery to which ascetics have come |
-| ③ the doer | `jitindriyo` | `jitāni indriyāni anena samaṇena`: an ascetic by whom the senses are conquered |
+| ② the thing reached | `āgatasamaṇo` | `āgatā samaṇā imaṁ saṅghārāmaṁ`: a monastery to which wanderers have come |
+| ③ the doer | `jitindriyo` | `jitāni indriyāni anena samaṇena`: a wanderer by whom the senses are conquered |
 | ④ the receiver | `dinnasuṅko` | `dinno suṅko yassa rañño`: a king to whom tax is paid |
 | ⑤ the starting point | `niggatajano` | `niggatā janā asmā gāmā`: a village from which the people have gone out |
 | ⑥ the owner | `chinnahattho` | `chinno hattho yassa purisassa`: a man whose hand is cut off |
@@ -73,7 +73,7 @@ cut off / hand / of whom / of the man / that [one] → whose hand is cut off / m
 > jitāni indriyāni anena samaṇena so → **jitindriyo** samaṇo
 
 🚻⨂①🔽(ta)(jita) 🚻⨂①(indriya) *️⃣🤟🚹⨀③(ima) 🚹⨀③(samaṇa) *️⃣🤟🚹⨀①(ta) → 🚹⨀①🆎(jita+indriya) 🚹⨀①(samaṇa)  
-conquered / senses / by this / by the ascetic / that [one] → by whom the senses have been conquered / ascetic  
+conquered / senses / by this / by the wanderer / that [one] → by whom the senses have been conquered / wanderer  
 *{328}: the outside word is the doer, ③; `jita` + `indriya` gives `jitindriya`, `a` dropped before `i` {12}.*
 
 > vipariṇāmo dhammo yassa taṁ → yaṁ … **vipariṇāmadhammaṁ**

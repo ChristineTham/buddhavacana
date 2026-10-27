@@ -43,7 +43,7 @@ flowchart TD
   S["two words made into one"] --> A{"is the first member a prefix or a particle?"}
   A -->|"yes"| AB["abyayībhāva: upanagaraṁ, near the town"]
   A -->|"no"| B{"does it mean X and Y?"}
-  B -->|"yes"| DV["dvanda: samaṇabrāhmaṇā, ascetics and brahmins"]
+  B -->|"yes"| DV["dvanda: samaṇabrāhmaṇā, wanderers and brahmins"]
   B -->|"no"| C{"does it name a third thing?"}
   C -->|"yes"| BV["bahubbīhi: chinnahattho, one whose hand is cut off"]
   C -->|"no"| D{"do both members name the same thing?"}
