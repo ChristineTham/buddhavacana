@@ -7,7 +7,7 @@ description: >
   Grammar guide (evolving) based on Warder "Introduction to Pali". Currently based on Lessons 1-12.
 ---
 
-This is a summary of Pali Grammar based on Warder "Introduction to Pali" (Lessons 1-12).
+This is a summary of Pāḷi Grammar based on Warder "Introduction to Pali" (Lessons 1-12).
 
 :::danger
 The information in this page has been superseded by the information in my [Pali Textbook](/buddhavacana/pali-textbook/0-status/)
@@ -146,60 +146,60 @@ Instrumental:
   - tuṇhī bhāvena
 - accompaniment
   - brāhmaṇena saddhim
-  - "Talking”, “discussing” (`mant`) with a person need not take saddhim
+  - “Talking”, “discussing” (`mant`) with a person need not take saddhim
 - possession (endowment)
   - sīlehi samannāgato
-- "filled" ("with water/happiness/noise/...”)
+- “filled” (“with water/happiness/noise/...”)
   - saddena
 - cause
   - but in scientific/philosophical discourse the ablative case is used to express causal connections
   - bhagavatā vādena kupito
-    - “angry at (with) the fortunate one’s statement ”
+    - “angry at (with) the fortunate one’s statement”
   - cīvarena santuṭṭho
-    - "satisfied with the robe ”
+    - “satisfied with the robe”
   - atthena
     - "because of that business/matter"
   - karaniyena
     - “(engaged in some) business”
   - iminā p' aṅgena
-    - "(you shouldn’t go) for this reason”
-    - aṅgaṃ = "limb”, "characteristic”, ”factor”
-      - used in “because of this” (”endowment”)
+    - “(you shouldn’t go) for this reason”
+    - aṅgaṃ = “limb”, “characteristic”, “factor”
+      - used in “because of this” (“endowment”)
 - equality
   - samasamo vannena
-    - "quite equal in beauty”
+    - “quite equal in beauty”
 - comparison
   - generally and indefinitely
     - purisena purisam
       - “(comparing) a man with a man”
-  - for a specific, conclusive comparison, “this is better than that" the ablative case is used
+  - for a specific, conclusive comparison, “this is better than that” the ablative case is used
   - price
     - sahassena
       - “for a thousand”
       - (i.e. sell for 1,000 kahāpaṇas, the standard silver coin)
 - way (which way, direction)
   - “by one way”
-  - “by another way“
+  - “by another way”
   - dvārena
     - “by the gate” (entering, leaving)
 - direction, orientation
-  - “from West to East“ (both in instrumental) and each followed by the indeclinable ca
+  - “from West to East” (both in instrumental) and each followed by the indeclinable ca
   - from North to South
 - manner
   - iminā
     - “in this way”
   - iminā pariyāyena
-    - “through this course (procedure)"
+    - “through this course (procedure)”
     - “in this manner”
   - kāyena paṭisaṃvedeti
     - “he experiences through his body”
   - santena
-    - “calmly“ (used like “adverbs of manner”)
-  - “ on his right side ” (manner of lying)
+    - “calmly” (used like “adverbs of manner”)
+  - “on his right side” (manner of lying)
   - kicchena adhigntaṃ
     - “understood with difficulty”
-  - “he sat practising a certain kind of meditation“
-  - (instrumental, as if “ manner ” of sitting)
+  - “he sat practising a certain kind of meditation”
+  - (instrumental, as if “manner” of sitting)
   - adjacent to the ordinary “instrument” sense
     - serving with actions (kammena), whether physical or mental, or with speech
     - honouring, entertaining, etc., with music, dancing, garlands, etc.
@@ -233,40 +233,40 @@ Instrumental:
     - “it (a city) was twelve leagues in length”
   - sattayojanāni vitthārena
     - “seven leagues in breadth”
-  - compounds ending in the word matta meaning “ measure ”
+  - compounds ending in the word matta meaning “measure”
     - jannumattena
-      - ”knee deep”
+      - “knee deep”
 - classification
   - birth, clan, family, kind, and similar relations
     - Gotamo gottena
-      - "a Gotama by clan”
+      - “a Gotama by clan”
   - jalivadena
-    - "in respect of class (station by birth)”
+    - “in respect of class (station by birth)”
 - dissociation (cf. accompaniment)
   - adaṇḍena
     - “without force” (negative prefix a-)
   - instrumental used with the indeclinable aññatra
-    - "except for”
+    - “except for”
     - aññatra brahmanena
-      - “ except for the priest"
+      - “except for the priest”
     - “apart from”
 - other idioms with the instrumental
   - āsanena nimanteti
-    - "he invites to sit down”
-    - "he offers a seat”
+    - “he invites to sit down”
+    - “he offers a seat”
   - kalena kālaṃ
-    - "from time to time”
-    - ”regularly”
+    - “from time to time”
+    - “regularly”
   - lābhena lābhaṃ
     - “from gain to gain”
     - (wishing always for more gain, with one gain on to another)
   - aññena aññnaṃ
-    - ”one with another”
+    - “one with another”
       - literally “other with other”
-    - "irrelevantly”
+    - “irrelevantly”
   - sabbena sabbaṃ
-    - “all with all", i.e. "completely”
-    - "absolutely thoroughly” (as in knowing some doctrine)
+    - “all with all”, i.e. “completely”
+    - “absolutely thoroughly” (as in knowing some doctrine)
 
 ### 4. sampadānavacana
 
@@ -330,7 +330,7 @@ Dative case:
 - yassa dāni kālaṃ maññasi
   - "for which you think it is now (dāni) the right time"
   - extremely common in saying (formally) goodbye (spoken by the host, not the guest - who for his part has made the excuse of pressure of work), being roughly equivalent to "well, if you really must go … "
-  - used also by servants reporting to their master that preparations are completed, implying "you can start whenever you wish", etc
+  - used also by servants reporting to their master that preparations are completed, implying "you can start whenever you wish", etc.
 
 ### 6. sāmivacana
 
@@ -387,7 +387,7 @@ Adjective:
 - When an adjective is common to two or more nouns it may agree with the sum of these (and be plural) or with the nearest. Thirdly the qualified words may be taken as collective and singular and the adjective be singular. Where the genders conflict, the masculine takes precedence over the feminine, the neuter over both.
 - An adjective usually precedes the noun it qualifies, but when there are several adjectives with one noun very often only one adjective precedes and the rest follow the noun.
 - A demonstrative pronoun relating to the same noun will precede the whole group.
-- When an adjective, or (all the) adjectives, follows its noun this usually indicates that it is being "predicated" of the noun, or in other words that the attribute in question is being emphasized.
+- When an adjective, or (all the) adjectives, follows its noun this usually indicates that it is being "predicated" of the noun, or in other words that the attribute in question is being emphasised.
 
 ## sabbanāma
 
@@ -399,11 +399,11 @@ Personal and Demonstrative (incomplete TBD)
 
 - Although the person is expressed by the inflection of the verb, the pronouns of the first and second persons are frequently used, giving a slight emphasis to the subject. The third person pronoun is less often used in this way.
 - The third personal pronoun is used also as a demonstrative, meaning "that", "it", in three genders.
-- It is generally used as what is known as an "anaphoric " pronoun, that is to say it refers back to someone or something previously mentioned in a narrative.
-- As opposed to the use in conversation and other direct speech of "pronouns of presence" referring to someone or something present ("this man", "that jar"), these pronouns are called "pronouns of absence" because it is most often used to speak of someone or something in a story and therefore not present to the listeners.
-- It may serve to connect the sentences of a narrative into a continuous paragraph or longer section. It is used also as an emphatic pronoun (in combination with another pronoun or occasionally with 1st person, for example in the expression so 'haṃ "I" (literally "that I").
+- It is generally used as what is known as an "anaphoric" pronoun, that is to say it refers back to someone or something previously mentioned in a narrative.
+- As opposed to the use in conversation and other direct speech of "pronouns of presence" referring to someone or something present ("this man", "that jar"), these pronouns are called "pronouns of absence" because they are most often used to speak of someone or something in a story and therefore not present to the listeners.
+- It may serve to connect the sentences of a narrative into a continuous paragraph or longer section. It is used also as an emphatic pronoun (in combination with another pronoun or occasionally with 1st person, for example in the expression so 'haṃ "I" (literally "that I")).
 - In combination with a noun it is again emphatic and may sometimes be translated "the"
-- There being no "definite article" in Pali the demonstrative pronouns are sometimes used where English would use the definite article, and may sometimes be translated "the" rather than "he", "that", "this", etc.
+- There being no "definite article" in Pāḷi the demonstrative pronouns are sometimes used where English would use the definite article, and may sometimes be translated "the" rather than "he", "that", "this", etc.
 - Demonstrative pronouns must agree in number and gender (and case) with the nouns to which they refer.
 
 ## ākhyāta

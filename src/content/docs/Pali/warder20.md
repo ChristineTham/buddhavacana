@@ -18,12 +18,12 @@ description: >
 Atha kho, bhikkhave, Vipassī kumāro bahūnaṁ vassānaṁ bahūnaṁ vassasatānaṁ bahūnaṁ vassasahassānaṁ accayena sārathiṁ āmantesi: ‘yojehi, samma sārathi, bhaddāni bhaddāni yānāni uyyānabhūmiṁ gacchāma subhūmidassanāyā’ti.  
 🔼(atha kho) 🚹⓪⨂(bhikkhu) 🚹①⨂(vipassī) 🚹①⨀(kumāra) 🚹⑥⨂(bahu) 🚹⑥⨂(vassa) 🚹⑥⨂(bahu) 🚻⑥⨂(vassasata) 🚹⑥⨂(bahu) 🚻⑥⨂(vassasahassa) 🚹③⨀(accaya) 🚹②⨀(sārathi) ⏮🤟⨀(āmantesi) : ⏹🤘⨀(yojeti) 🔼(samma) 🚹⓪⨀(sārathi) 🚻②⨂(bhadda) 🚻②⨂(bhadda) 🚻②⨂(yāna) 🚺②⨀(uyyānabhūmi) ▶️👆⨂(gacchati) 🚻④⨀(subhūmidassana) 🔼(ti)  
 after that | monks | Vipassī | Prince | of many | of rain | of many | of centuries | of many | of millenniums |  of time | driver/leader | addressed : please attach/yoke | brother | charioteer | luxurious | carriage | pleasure grounds | we wander | for sightseeing | quote  
-Monks, after the passing of many rains (years), centuries and milleniums, Prince Vipassī addressed his charioteer: “Brother charioteer, attach the yoke to the luxurious carriage, we wander to the pleasure grounds for sightseeing.”
+Monks, after the passing of many rains (years), centuries and millenniums, Prince Vipassī addressed his charioteer: “Brother charioteer, attach the yoke to the luxurious carriage, we wander to the pleasure grounds for sightseeing.”
 
 ‘Evaṁ, devā’ti kho, bhikkhave, sārathi Vipassissa kumārassa paṭissutvā bhaddāni bhaddāni yānāni yojetvā vipassissa kumārassa paṭivedesi: ‘yuttāni kho te, deva, bhaddāni bhaddāni yānāni, yassadāni kālaṁ maññasī’ti.  
 🔼(evaṃ) 🚹⓪⨀(deva) 🔼(ti kho) 🚹⓪⨂(bhikkhu) 🚹①⨀(sārathi) 🚹⑥⨀(vipassī) 🚹⑥⨀(kumāra) 🔼(paṭissutvā) 🚻②⨂(bhadda) 🚻②⨂(bhadda) 🚻②⨂(yāna) 🔼(yojetvā) 🚹⑥⨀(vipassī) 🚹⑥⨀(kumāra) ⏮🤟⨀(paṭivedesi) 🚻①⨂(yutta) 🔼(ti)🤘④⨀(tvaṃ) 🚹⓪⨀(deva) 🚻①⨂(bhadda) 🚻①⨂(bhadda) 🚻①⨂(yāna) , 🔼(yassadāni) 🚹②⨀(kāla) ▶️🤘⨀(maññati)  
 yes | Lord | quote | 💡| monks | charioteer | of Vipassī | of Prince | having agreed | luxurious | carriage | yoked | announced : Harnessed | 💡|  for you | Lord | luxurious | carriage , now for whatever | time | regard as  
-Monks, “Yes, Lord” the charioteer of Prince Vipassī responded in agreement. Having yoked the luxurious carriage, he announced “The luxurious carriage is yoked for you, my Lord, consider it ready now.”
+Monks, “Yes, Lord”, the charioteer of Prince Vipassī responded in agreement. Having yoked the luxurious carriage, he announced “The luxurious carriage is yoked for you, my Lord, consider it ready now.”
 
 Atha kho, bhikkhave, vipassī kumāro bhaddaṁ bhaddaṁ yānaṁ abhiruhitvā bhaddehi bhaddehi yānehi uyyānabhūmiṁ niyyāsi.  
 🔼(atha kho) 🚹⓪⨂(bhikkhu) 🚹①⨂(vipassī) 🚹①⨀(kumāra) 🚻②⨂(bhadda) 🚻②⨂(bhadda) 🚻②⨂(yāna) 🔼(abhiruhitvā) 🚻③⨂(bhadda) 🚻③⨂(bhadda) 🚻③⨂(yāna) 🚺②⨀(uyyānabhūmi) ⏮🤟⨀(niyyāsi)  
@@ -33,12 +33,12 @@ After that, monks, Prince Vipassī, having boarded the luxurious carriage, depar
 Addasā kho, bhikkhave, Vipassī kumāro uyyānabhūmiṁ niyyanto purisaṁ jiṇṇaṁ gopānasivaṅkaṁ bhoggaṁ daṇḍaparāyanaṁ pavedhamānaṁ gacchantaṁ āturaṁ gatayobbanaṁ.  
 ↩️🤟⨀(addasā) 🔼(kho) 🚹⓪⨂(bhikkhu) 🚹①⨂(vipassī) 🚹①⨀(kumāra) 🚺②⨀(uyyānabhūmi) 🚹①⨀(niyyanta) 🚻①⨀(purisa) 🚻①⨀(jiṇṇa) 🚻①⨀(gopānasivaṅka) 🚻①⨀(bhogga) 🚻①⨀(daṇḍaparāyana) 🚻①⨀(pavedhamāna) 🚻②⨀(gacchanta) 🚻①⨀(ātura) 🚻①⨀(gatayobbana)  
 saw | 💡| monks | Vipassī | Prince | pleasure grounds | departing | person | old | as crooked as a rafter | bent | leaning on a staff | trembling | walking | sick | passed prime  
-Monks, as Prince Vipassī was departing to the pleasure grounds, he saw an person who was old, crooked as a rafter, bent, leaning on a staff, trembling, walking, sick and well passed his prime.
+Monks, as Prince Vipassī was departing to the pleasure grounds, he saw a person who was old, crooked as a rafter, bent, leaning on a staff, trembling, walking, sick and well past his prime.
 
 Disvā sārathiṁ āmantesi: ‘ayaṁ pana, samma sārathi, puriso kiṅkato? Kesāpissa na yathā aññesaṁ, kāyopissa na yathā aññesan’ti.  
 🔼(disvā) 🚹②⨀(sārathi) ⏮🤟⨀(āmantesi) 🚹①⨀(ima) 🔼(pana) 🔼(samma) 🚹⓪⨀(sārathi) 🚹①⨀(purisa) 🚹①⨀(kiṅkata) ? 🔼(kesāpissa) 🔼(na) 🔼(yathā) 🚹⑥⨂(añña) 🔼(kāyopissa) 🔼(na) 🔼(yathā) 🚹⑥⨂(añña) 🔼(ti)  
 having seen | charioteer | addressed | this | but | brother | charioteer | person | done what? | this hair | no | like | different | this body | no | like | different ?  
-Having seen, he addressed his charioteer: “Brother charioteer, what has this person done? The hair and the body is unlike anyone I have ever seen.”
+Having seen, he addressed his charioteer: “Brother charioteer, what has this person done? The hair and the body are unlike anyone I have ever seen.”
 
 ‘Eso kho, deva, jiṇṇo nāmā’ti.  
 🚹①⨀(eta) 🔼(kho) 🚹⓪⨀(deva) 🚹①⨀(jiṇṇa) 🔼(nāma) 🔼(ti)  
@@ -73,7 +73,7 @@ and you | Lord | I | and | we will | all | liable to grow old | old | not exempt
 ‘Tena hi, samma sārathi, alaṁ dānajja uyyānabhūmiyā.  
 🔼(tena hi) 🔼(samma) 🚹⓪⨀(sārathi) 🔼(alaṃ) 🔼(dānajja) 🚺⑥⨀(uyyānabhūmi)  
 in that case | brother | charioteer | it is enough | for now | of pleasure grounds  
-“in that case, brother charioteer, I’ve had enough of the pleasure grounds for now.”
+“In that case, brother charioteer, I’ve had enough of the pleasure grounds for now.”
 
 Itova antepuraṁ paccaniyyāhī’ti.  
 🔼(itova) 🚻②⨀(antepura) ⏹🤘⨀(paccaniyyāti) 🔼(ti)  
@@ -87,8 +87,8 @@ Monks, “Yes, Lord”, the charioteer of Prince Vipassī responded in agreement
 
 Tatra sudaṁ, bhikkhave, Vipassī kumāro antepuraṁ gato dukkhī dummano pajjhāyati: ‘dhiratthu kira, bho, jāti nāma, yatra hi nāma jātassa jarā paññāyissatī’ti.  
 🔼(tatra) 🔼(sudaṃ) 🚹⓪⨂(bhikkhu) 🚹①⨂(vipassī) 🚹①⨀(kumāra) 🚻②⨀(antepura) 🚹①⨀(gata) 🚹①⨀(dukkhī) 🚹①⨀(dummana) ▶️🤟⨀(pajjhāyati) 🔼(dhiratthu) 🔼(kira) , 🚹⓪⨀(bhavant) , 🚺①⨀(jāti) 🔼(nāma) , 🔼(yatra) 🔼(hi) 🔼(nāma) 🚹⑥⨀(jāta) 🚹①⨂(jara) ⏭🤟⨀(paññāyati) 🔼(ti)  
-in that case | surely indeed | monks | Vipassī | Prince | King’s palace | went | dejected | sad | is overcome : curse you | truly | sir | birth | named | n which case | indeed | name | of being born | odl age | is evident | quote  
-In that case, monks, Prince Vipassī surely went to the king’s palace overcome with dejection and sadness: “Curse you truly, sir, that which is named “birth”, when born, old age is inevitable.”
+in that case | surely indeed | monks | Vipassī | Prince | King’s palace | went | dejected | sad | is overcome : curse you | truly | sir | birth | named | in which case | indeed | name | of being born | old age | is evident | quote  
+In that case, monks, Prince Vipassī surely went to the king’s palace overcome with dejection and sadness: “Curse you truly, sir, that which is named ‘birth’, when born, old age is inevitable.”
 
 ## Passage 2
 
@@ -112,7 +112,7 @@ Thus heard by me - at one time the Blessed One stays at Sāvatthī, at Pubbārā
 Tena kho pana samayena vāseṭṭhabhāradvājā bhikkhūsu parivasanti bhikkhubhāvaṁ ākaṅkhamānā.  
 🚹③⨀(ta) 🔼(kho pana) 🚹③⨀(samaya) 🚹①⨂(vāseṭṭhabhāradvājā) 🚹⑦⨂(bhikkhu) ▶️🤟⨂(parivasati) 🚹②⨀(bhikkhubhāva) 🚹①⨂(ākaṅkhamāna)  
 by that | and next | occasion | Vāseṭṭha and Bhāradvāja | at monks | stays for a trial period | monkhood | seeking  
-And in that occasion, Vāseṭṭha and Bhāradvāja are staying for a trial period with monks, seeking monkhood.
+And on that occasion, Vāseṭṭha and Bhāradvāja are staying for a trial period with monks, seeking monkhood.
 
 Atha kho bhagavā sāyanhasamayaṁ paṭisallānā vuṭṭhito pāsādā orohitvā pāsādapacchāyāyaṁ abbhokāse caṅkamati.  
 🔼(atha kho) 🚹①⨀(bhagavant) 🚹②⨀(sāyanhasamaya) 🚻①⨂(paṭisallāna) 🚹①⨀(vuṭṭhita) 🚹⑤⨀(pāsāda) 🔼(orohitvā) 🚺⑦⨀(pāsādapacchāyā) 🚹⑦⨀(abbhokāsa) ▶️🤟⨀(caṅkamati)  
@@ -127,7 +127,7 @@ Vāseṭṭha saw the Blessed One emerged from seclusion in the late afternoon, 
 Disvāna bhāradvājaṁ āmantesi: “ayaṁ, āvuso bhāradvāja, bhagavā sāyanhasamayaṁ paṭisallānā vuṭṭhito pāsādā orohitvā pāsādapacchāyāyaṁ abbhokāse caṅkamati.  
 🔼(disvāna) 🚹②⨀(bhāradvāja) ⏮🤟⨀(āmantesi) : 🚹①⨀(ima) 🔼(āvuso) 🚹⓪⨀(bhāradvāja) , 🚹①⨀(bhagavant) 🚹②⨀(sāyanhasamaya) 🚻①⨂(paṭisallāna) 🚹①⨀(vuṭṭhita) 🚹⑤⨀(pāsāda) 🔼(orohitvā) 🚺⑦⨀(pāsādapacchāyā) 🚹⑦⨀(abbhokāsa) ▶️🤟⨀(caṅkamati)  
 having seen | Bhāradvāja | addressed : friend | Bhāradvāja , the Blessed One | late afternoon | seclusion | emerged from | from mansion | having descended from | at shaded part of the mansion | open space | walks up and down
-having seen, he addressed Bhāradvāja: “This, friend Bhāradvāja, Blessed One emerged from seclusion in the late afternoon, having descended from the mansion, and walking up and down in the shade of the mansion.”
+Having seen, he addressed Bhāradvāja: “This, friend Bhāradvāja, Blessed One emerged from seclusion in the late afternoon, having descended from the mansion, and walking up and down in the shade of the mansion.”
 
 Āyāmāvuso bhāradvāja, yena bhagavā tenupasaṅkamissāma; appeva nāma labheyyāma bhagavato santikā dhammiṁ kathaṁ savanāyā”ti. 
 🚹①⨂(āyāma) 🔼(āvuso) 🚹⓪⨀(bhāradvāja) , 🚹③⨀(ya) 🚹①⨀(bhagavant) 🚹③⨀(ta) ⏭👆⨂(upasaṅkamati) ; 🔼(appeva) 🔼(nāma) ⏯👆⨂(labhati) 🚹⑤⨀(bhagavant) 🚻①⨂(santika) 🚻①⨀(dhammī) 🚻①⨀(katha) 🚻④⨀(savana) 🔼(ti)
@@ -159,7 +159,7 @@ surely | not , Bhante , brahmans | insult | abuse | personally | for insult | fo
 “Yathā kathaṁ pana vo, vāseṭṭha, brāhmaṇā akkosanti paribhāsanti attarūpāya paribhāsāya paripuṇṇāya, no aparipuṇṇāyā”ti?  
 🔼(yathā) 🚻①⨀(katha) 🔼(pana vo) 🚹⓪⨀(vāseṭṭha) 🚹①⨂(brāhmaṇa) ▶️🤟⨂(akkosati) ▶️🤟⨂(paribhāsati) 🚹⑥⨀(attarūpa) 🚺⑥⨀(paribhāsā) 🚺⑥⨀(paripuṇṇa) 🔼(no) 🚺⑥⨀(aparipuṇṇa) 🔼(ti)  
 because/since/like | words | but | surely , Vāseṭṭha , brahmans | insult | abuse | personally | for insult | for abuse | for completely | no | for incompletely | quote  
-But how indeed, Vāseṭṭha, in what words do the brahmans insult and abuse, personally and completely insulting and abusing, leaving nothing behind?”
+“But how indeed, Vāseṭṭha, in what words do the brahmans insult and abuse, personally and completely insulting and abusing, leaving nothing behind?”
 
 “Brāhmaṇā, bhante, evamāhaṁsu: ‘brāhmaṇova seṭṭho vaṇṇo, hīnā aññe vaṇṇā.
 🚹①⨂(brāhmaṇa) , 🚹⓪⨀(bhavant) , 🔼(evamāhaṃsu) : 🚹①⨀(brāhmaṇa) 🔼(eva) 🚹①⨀(seṭṭha) 🚹①⨀(vaṇṇa) , 🚹①⨂(hīna) 🚹①⨂(añña) 🚹①⨂(vaṇṇa)  
@@ -174,7 +174,7 @@ brahman | only | good | caste , bad | other | castes
 Brāhmaṇāva sujjhanti, no abrāhmaṇā.  
 🚹①⨀(brāhmaṇa) ▶️🤟⨂(sujjhati) 🔼(no) 🚹①⨂(abrāhmaṇa)  
 brahman | only | is purified , not | non-Brahmans  
-“Only the brahman is is purified, not non-Brahmans.”
+“Only the brahman is purified, not non-Brahmans.”
 
 Brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā.  
 🚹①⨀(brāhmaṇa) 🚹⑥⨀(brahma) 🚹①⨂(putta) 🚹①⨂(orasa) 🚹⑤⨀(mukha) 🚹①⨂(jāta) 🚹①⨂(brahmaja) 🚹①⨂(brahmanimmita) 🚹①⨂(brahmadāyāda)  
@@ -183,13 +183,13 @@ brahman | only | of Brahma | son | natural | from foremost | born | born from Br
 
 Te tumhe seṭṭhaṁ vaṇṇaṁ hitvā hīnamattha vaṇṇaṁ ajjhupagatā, yadidaṁ muṇḍake samaṇake ibbhe kaṇhe bandhupādāpacce.  
 🚹①⨂(ta) 🤘①⨂(tvaṃ) 🚹②⨀(seṭṭha) 🚹②⨀(vaṇṇa) 🔼(hitvā) ▶️🤘⨂(hīnaatthi) 🚹②⨀(vaṇṇa) 🚹①⨂(ajjhupagata) , 🔼(yadidaṃ) 🚹②⨂(muṇḍaka) 🚹②⨂(samaṇaka) 🚹②⨂(ibbha) 🚹②⨂(kaṇha) 🚹②⨂(bandhupādāpacca)  
-that | youse | best | caste | having left behind | become inferior | caste | entered , namely | bald | low ascetics | low caste | dark | born from Brahma's foot  
-“You, having left the best caste, adopted an inferior caste, namely a low caste of bald, dark, lowly ascetics born from Brahma’s foot.”
+that | youse | best | caste | having left behind | become inferior | caste | entered , namely | bald | low wanderers | low caste | dark | born from Brahma's foot  
+“You, having left the best caste, adopted an inferior caste, namely a low caste of bald, dark, lowly wanderers born from Brahma’s foot.”
 
 Tayidaṁ na sādhu, tayidaṁ nappatirūpaṁ, yaṁ tumhe seṭṭhaṁ vaṇṇaṁ hitvā hīnamattha vaṇṇaṁ ajjhupagatā yadidaṁ muṇḍake samaṇake ibbhe kaṇhe bandhupādāpacce’ti.  
 🔼(tayidaṃ) 🔼(na) 🚹①⨀(sādhu) , 🔼(tayidaṃ) 🔼(na) 🚻①⨀(nappatirūpa) , 🚻①⨀(ya) 🤘①⨂(tvaṃ) 🚹②⨀(seṭṭha) 🚹②⨀(vaṇṇa) 🔼(hitvā) ▶️🤘⨂(hīnaatthi) 🚹②⨀(vaṇṇa) 🚹①⨂(ajjhupagata) , 🔼(yadidaṃ) 🚹②⨂(muṇḍaka) 🚹②⨂(samaṇaka) 🚹②⨂(ibbha) 🚹②⨂(kaṇha) 🚹②⨂(bandhupādāpacca) 🔼(ti)  
-exactly that | no | excellent , exactly | improper , best | caste | having left behind | become inferior | caste | entered , namely | bald | low ascetics | low caste | dark | born from Brahma's foot | quote  
-“Not exactly excellent, but improper, having left the best caste, adopted an inferior caste, namely a low caste of bald, dark, lowly ascetics born from Brahma’s foot.”
+exactly that | no | excellent , exactly | improper , best | caste | having left behind | become inferior | caste | entered , namely | bald | low wanderers | low caste | dark | born from Brahma's foot | quote  
+“Not exactly excellent, but improper, having left the best caste, adopted an inferior caste, namely a low caste of bald, dark, lowly wanderers born from Brahma’s foot.”
 
 Evaṁ kho no, bhante, brāhmaṇā akkosanti paribhāsanti attarūpāya paribhāsāya paripuṇṇāya, no aparipuṇṇāyā”ti.  
 🔼(evaṃ) 🔼(kho no) 🚹⓪⨀(bhavant) 🚹①⨂(brāhmaṇa) ▶️🤟⨂(akkosati) ▶️🤟⨂(paribhāsati) 🚹⑥⨀(attarūpa) 🚺⑥⨀(paribhāsā) 🚺⑥⨀(paripuṇṇa) 🔼(no) 🚺⑥⨀(aparipuṇṇa) 🔼(ti)  
@@ -199,7 +199,7 @@ thus | indeed | no | Bhante | brahmans | insult | abuse | personally | for insul
 “Taggha vo, vāseṭṭha, brāhmaṇā porāṇaṁ assarantā evamāhaṁsu: ‘brāhmaṇova seṭṭho vaṇṇo, hīnā aññe vaṇṇā; brāhmaṇova sukko vaṇṇo, kaṇhā aññe vaṇṇā; brāhmaṇāva sujjhanti, no abrāhmaṇā; brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’ti.  
 🔼(taggha) 🔼(vo) 🚹⓪⨀(vāseṭṭha) , 🚹①⨂(brāhmaṇa) 🚻①⨀(porāṇa) 🚹①⨂(assaranta) 🔼(evaṁ) 🔄🤟⨂(āha) : 🚹①⨀(brāhmaṇa) 🔼(eva) 🚹①⨀(seṭṭha) 🚹①⨀(vaṇṇa) , 🚹①⨂(hīna) 🚹①⨂(añña) 🚹①⨂(vaṇṇa) , 🚹①⨀(brāhmaṇa) 🔼(eva) 🚹①⨀(sukka) 🚹①⨀(vaṇṇa) , 🚹①⨂(kaṇha) 🚹①⨂(añña) 🚹①⨂(vaṇṇa) , 🚹①⨀(brāhmaṇa) ▶️🤟⨂(sujjhati) 🔼(no) 🚹①⨂(abrāhmaṇa) ,  🚹①⨀(brāhmaṇa) 🚹⑥⨀(brahma) 🚹①⨂(putta) 🚹①⨂(orasa) 🚹⑤⨀(mukha) 🚹①⨂(jāta) 🚹①⨂(brahmaja) 🚹①⨂(brahmanimmita) 🚹①⨂(brahmadāyāda) 🔼(ti)  
 surely | indeed , Vāseṭṭha , brahmans | ancient | not recollecting | thus | said : brahmans | Bhante | spoke thus : brahman | only | best of | caste , inferior | other | castes , brahman | only | good | caste , bad | other | castes , brahman | only | is purified , not | non-Brahmans , brahman | only | of Brahma | son | natural | from foremost | born | born from Brahma | created by Brahma | heir of Brahma | quote  
-“Surely indeed, Vāseṭṭha, the brahmans are not recollecting their origins when they said thus: “Only the brahman is the best caste, other castes are inferior, only the brahman is a good caste, other castes are bad, only the brahman is is purified, not non-Brahmans, only the brahman is a natural foremost son of Brahma, born from Brahma, created by Brahma, heir of Brahma.”
+“Surely indeed, Vāseṭṭha, the brahmans are not recollecting their origins when they said thus: ‘Only the brahman is the best caste, other castes are inferior, only the brahman is a good caste, other castes are bad, only the brahman is purified, not non-Brahmans, only the brahman is a natural foremost son of Brahma, born from Brahma, created by Brahma, heir of Brahma.’”
 
 Dissanti kho pana, vāseṭṭha, brāhmaṇānaṁ brāhmaṇiyo utuniyopi gabbhiniyopi vijāyamānāpi pāyamānāpi.  
 ▶️🤟⨂(dissati) 🔼(kho pana) 🚹⓪⨀(vāseṭṭha)  , 🚹⑥⨂(brāhmaṇa) 🚺①⨂(brāhmaṇī) 🚻①⨀(utunī) 🚹①⨀(aya) 🔼(pi) 🚺①⨂(gabbhinī) 🔼(api) 🚻①⨀(vijāyamāna) 🔼(api)  
@@ -209,7 +209,7 @@ And yet, Vāseṭṭha, we observe of the Brahmans brahman women menstruating, p
 Te ca brāhmaṇā yonijāva samānā evamāhaṁsu:  ‘brāhmaṇova seṭṭho vaṇṇo, hīnā aññe vaṇṇā; brāhmaṇova sukko vaṇṇo, kaṇhā aññe vaṇṇā; brāhmaṇāva sujjhanti, no abrāhmaṇā; brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’ti.  
 🚹①⨂(ta) 🔼(ca) 🚹①⨂(brāhmaṇa) 🚹①⨂(yonija) 🔼(eva) 🚹①⨂(samāna) 🔼(evaṁ) 🔄🤟⨂(āha) : 🚹①⨀(brāhmaṇa) 🔼(eva) 🚹①⨀(seṭṭha) 🚹①⨀(vaṇṇa) , 🚹①⨂(hīna) 🚹①⨂(añña) 🚹①⨂(vaṇṇa) , 🚹①⨀(brāhmaṇa) 🔼(eva) 🚹①⨀(sukka) 🚹①⨀(vaṇṇa) , 🚹①⨂(kaṇha) 🚹①⨂(añña) 🚹①⨂(vaṇṇa) , 🚹①⨀(brāhmaṇa) ▶️🤟⨂(sujjhati) 🔼(no) 🚹①⨂(abrāhmaṇa) ,  🚹①⨀(brāhmaṇa) 🚹⑥⨀(brahma) 🚹①⨂(putta) 🚹①⨂(orasa) 🚹⑤⨀(mukha) 🚹①⨂(jāta) 🚹①⨂(brahmaja) 🚹①⨂(brahmanimmita) 🚹①⨂(brahmadāyāda) 🔼(ti)  
 those | and | brahmans | born from a womb | even | just like | thus | said : brahmans | Bhante | spoke thus : brahman | only | best of | caste , inferior | other | castes , brahman | only | good | caste , bad | other | castes , brahman | only | is purified , not | non-Brahmans , brahman | only | of Brahma | son | natural | from foremost | born | born from Brahma | created by Brahma | heir of Brahma | quote  
-And those brahmans that are born from a womb said like thus: “Only the brahman is the best caste, other castes are inferior, only the brahman is a good caste, other castes are bad, only the brahman is is purified, not non-Brahmans, only the brahman is a natural foremost son of Brahma, born from Brahma, created by Brahma, heir of Brahma.”
+And those brahmans that are born from a womb said like thus: ‘Only the brahman is the best caste, other castes are inferior, only the brahman is a good caste, other castes are bad, only the brahman is purified, not non-Brahmans, only the brahman is a natural foremost son of Brahma, born from Brahma, created by Brahma, heir of Brahma.’”
 
 Te brahmānañceva abbhācikkhanti, musā ca bhāsanti, bahuñca apuññaṁ pasavanti.  
 🚹①⨂(ta) 🚹⑥⨂(brahma) 🔼(eva) ▶️🤟⨂(abbhācikkhati) , 🔼(musā) 🔼(ca) ▶️🤟⨂(bhāsati) , 🚹②⨀(bahu) 🔼(ca) 🚹②⨀(apuñña) ▶️🤟⨂(pasavati)  
@@ -224,7 +224,7 @@ these four | Vāseṭṭha | castes - the ruling/warrior caste, the religious ca
 Khattiyopi kho, vāseṭṭha, idhekacco pāṇātipātī hoti adinnādāyī kāmesumicchācārī musāvādī pisuṇavāco pharusavāco samphappalāpī abhijjhālu byāpannacitto micchādiṭṭhī.  
 🚹①⨀(khattiya) 🔼(api) 🚹⓪⨀(vāseṭṭha) 🚹①⨀(idhekacca) 🚹①⨀(pāṇātipātī) ▶️🤟⨀(hoti) 🚹①⨀(adinnādāyī) 🚹①⨀(kāmesumicchācārī) 🚹①⨀(musāvādī) 🚹①⨀(pisuṇavāca) 🚹①⨀(pharusavāca) 🚹①⨀(samphappalāpī) 🚹①⨀(abhijjhālu) 🚹①⨀(byāpannacitta) 🚹①⨂(micchādiṭṭhi)  
 khattiya | only | Vāseṭṭha | in this case some | who kill living beings | is | who steal | who engage in sexual misconduct | who lie | who sow discord | who speak harshly | who gossip | greedy | evil minded | have wrong views  
-“As for Khattiyas, Vāseṭṭha, there are some who kill living beings, who steal, who engage in sexual misconduct, who lie, who sow discord, who speak harshly, who gossip , greedy, evil minded, have wrong views.”
+“As for Khattiyas, Vāseṭṭha, there are some who kill living beings, who steal, who engage in sexual misconduct, who lie, who sow discord, who speak harshly, who gossip, greedy, evil minded, have wrong views.”
 
 Iti kho, vāseṭṭha, yeme dhammā akusalā akusalasaṅkhātā sāvajjā sāvajjasaṅkhātā asevitabbā asevitabbasaṅkhātā naalamariyā naalamariyasaṅkhātā kaṇhā kaṇhavipākā viññugarahitā, khattiyepi te idhekacce sandissanti.  
 🔼(iti) 🔼(kho) 🚹⓪⨀(vāseṭṭha) 🔼(yeme) 🚹①⨂(dhamma) 🚹①⨂(akusala) 🚹①⨂(akusalasaṅkhāta) 🚹①⨂(sāvajja) 🚹①⨂(sāvajjasaṅkhāta) 🚹①⨂(asevitabba) 🚹①⨂(asevitabbasaṅkhāta) 🚹①⨂(naalamariya) 🚹①⨂(naalamariyasaṅkhāta) 🚹①⨂(kaṇha) 🚹①⨂(kaṇhavipāka) 🚹①⨂(viññugarahita) , 🚹②⨂(khattiya) 🔼(api) 🚹①⨂(ta) 🚹①⨂(idhekacca) ▶️🤟⨂(sandissati)  
@@ -240,7 +240,7 @@ Vessa | only | Vāseṭṭha … ditto …
 Ditto for the Vessas …  
 🚹①⨀(sudda) 🔼(api) 🚹⓪⨀(vāseṭṭha) 🚹①⨀(idhekacca) 🚹①⨀(pāṇātipātī) ▶️🤟⨀(hoti) 🚹①⨀(adinnādāyī) 🚹①⨀(kāmesumicchācārī) 🚹①⨀(musāvādī) 🚹①⨀(pisuṇavāca) 🚹①⨀(pharusavāca) 🚹①⨀(samphappalāpī) 🚹①⨀(abhijjhālu) 🚹①⨀(byāpannacitta) 🚹①⨂(micchādiṭṭhi)  
 Sudda | only | Vāseṭṭha | in this case some | who kill living beings | is | who steal | who engage in sexual misconduct | who lie | who sow discord | who speak harshly | who gossip | greedy | evil minded | have wrong views  
-“As for Suddas, Vāseṭṭha, there are some who kill living beings, who steal, who engage in sexual misconduct, who lie, who sow discord, who speak harshly, who gossip , greedy, evil minded, have wrong views.”
+“As for Suddas, Vāseṭṭha, there are some who kill living beings, who steal, who engage in sexual misconduct, who lie, who sow discord, who speak harshly, who gossip, greedy, evil minded, have wrong views.”
 
 Iti kho, vāseṭṭha, yeme dhammā akusalā akusalasaṅkhātā …pe… kaṇhā kaṇhavipākā viññugarahitā; suddepi te idhekacce sandissanti.  
 🔼(iti) 🔼(kho) 🚹⓪⨀(vāseṭṭha) 🔼(yeme) 🚹①⨂(dhamma) 🚹①⨂(akusala) 🚹①⨂(akusalasaṅkhāta) … 🔼(pe) …  
@@ -279,7 +279,7 @@ like this | 💡| Vāseṭṭha | whatever | nature | wholesome | considered goo
 Imesu kho, vāseṭṭha, catūsu vaṇṇesu evaṁ ubhayavokiṇṇesu vattamānesu kaṇhasukkesu dhammesu viññugarahitesu ceva viññuppasatthesu ca yadettha brāhmaṇā evamāhaṁsu: ‘brāhmaṇova seṭṭho vaṇṇo, hīnā aññe vaṇṇā; brāhmaṇova sukko vaṇṇo, kaṇhā aññe vaṇṇā; brāhmaṇāva sujjhanti, no abrāhmaṇā; brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’ti.  
 🚹⑦⨂(ima) 🔼(kho) 🚹⓪⨀(vāseṭṭha) 🚹⑦⨂(catu) 🚹⑦⨂(vaṇṇa) 🔼(evaṃ) 🚹⑦⨂(ubhayavokiṇṇa) 🚹⑦⨂(vattamāna) 🚹⑦⨂(kaṇhasukka) 🚹⑦⨂(dhamma) 🚹⑦⨂(viññugarahita) 🔼(ceva) 🚹⑦⨂(viññuppasattha) 🔼(ca) 🔼(yadettha) 🚹①⨂(brāhmaṇa) 🔼(evaṁ) 🔄🤟⨂(āha) : 🚹①⨀(brāhmaṇa) 🔼(eva) 🚹①⨀(seṭṭha) 🚹①⨀(vaṇṇa) , 🚹①⨂(hīna) 🚹①⨂(añña) 🚹①⨂(vaṇṇa) , 🚹①⨀(brāhmaṇa) 🔼(eva) 🚹①⨀(sukka) 🚹①⨀(vaṇṇa) , 🚹①⨂(kaṇha) 🚹①⨂(añña) 🚹①⨂(vaṇṇa) , 🚹①⨀(brāhmaṇa) ▶️🤟⨂(sujjhati) 🔼(no) 🚹①⨂(abrāhmaṇa) ,  🚹①⨀(brāhmaṇa) 🚹⑥⨀(brahma) 🚹①⨂(putta) 🚹①⨂(orasa) 🚹⑤⨀(mukha) 🚹①⨂(jāta) 🚹①⨂(brahmaja) 🚹①⨂(brahmanimmita) 🚹①⨂(brahmadāyāda) 🔼(ti)  
 in this | 💡| Vāseṭṭha | at four | at castes | thus | at both mixed up | at taking place | at bad and good | at nature | at criticised by wise | as well as | praised by the wise | and | that here | brahmans | thus | said : brahmans | Bhante | spoke thus : brahman | only | best of | caste , inferior | other | castes , brahman | only | good | caste , bad | other | castes , brahman | only | is purified , not | non-Brahmans , brahman | only | of Brahma | son | natural | from foremost | born | born from Brahma | created by Brahma | heir of Brahma | quote  
-In this, Vāseṭṭha, both good and bad nature are mixed up and taking place in all four castes, as well as both criticised and praised by the wise, and yet here those brahmans said like thus: “Only the brahman is the best caste, other castes are inferior, only the brahman is a good caste, other castes are bad, only the brahman is is purified, not non-Brahmans, only the brahman is a natural foremost son of Brahma, born from Brahma, created by Brahma, heir of Brahma.”
+In this, Vāseṭṭha, both good and bad nature are mixed up and taking place in all four castes, as well as both criticised and praised by the wise, and yet here those brahmans said like thus: ‘Only the brahman is the best caste, other castes are inferior, only the brahman is a good caste, other castes are bad, only the brahman is purified, not non-Brahmans, only the brahman is a natural foremost son of Brahma, born from Brahma, created by Brahma, heir of Brahma.’”
 
 Taṁ tesaṁ viññū nānujānanti.
 🚻①⨀(ta) 🚹⑥⨂(ta) 🚹①⨂(viññū) ▶️🤟⨂(nānujānāti)
@@ -293,8 +293,8 @@ that | for what | cause
 
 Imesañhi, vāseṭṭha, catunnaṁ vaṇṇānaṁ yo hoti bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto, so nesaṁ aggamakkhāyati dhammeneva, no adhammena.  
 🚹⑥⨂(ima) 🔼(hi) 🚹⓪⨀(vāseṭṭha) 🚹⑥⨂(catu) 🚹⑥⨂(vaṇṇa) 🚹①⨀(ya) ▶️🤟⨀(hoti) 🚹①⨀(bhikkhu) 🚻①⨀(araha) 🚹①⨀(khīṇāsava) 🚹①⨀(vusitavant) 🚹①⨀(katakaraṇīya) 🚹①⨀(ohitabhāra) 🚹①⨀(anuppattasadattha) 🚹①⨀(parikkhīṇabhavasaṃyojana) 🚹①⨀(sammadaññāvimutta) , 🚹①⨀(ta) 🚹⑥⨂(ta) ▶️🤟⨀(aggamakkhāyati) 🚹③⨀(dhamma) 🔼(eva) 🔼(no) 🚹③⨀(adhamma)  
-of this | indeed | Vāseṭṭha | of four | of castes | whoever | is | monk | deserving of | destroyed the effluents | perfected | who has done what needs to be done | who has put down the burden | who has achieved the highest goal | who has exhausted the fetters of existence | who is liberated by perfect understanding , he | of that | is considered the highest of | with morality | just | not | with immorality  
-“Of this, Vāseṭṭha, whichever monk amongst the four castes is deserving has destroyed the effluents, perfected, has done what needs to be done, has put down the burden, has achieved the highest goal, has exhausted the fetters of existence, is liberated by perfect understanding , he is considered the highest in morality, not immorality.”
+of this | indeed | Vāseṭṭha | of four | of castes | whoever | is | monk | deserving of | destroyed the defilements | perfected | who has done what needs to be done | who has put down the burden | who has achieved the highest goal | who has exhausted the fetters of existence | who is liberated by perfect understanding , he | of that | is considered the highest of | with morality | just | not | with immorality  
+“Of this, Vāseṭṭha, whichever monk amongst the four castes is deserving has destroyed the defilements, perfected, has done what needs to be done, has put down the burden, has achieved the highest goal, has exhausted the fetters of existence, is liberated by perfect understanding, he is considered the highest in morality, not immorality.”
 
 Dhammo hi, vāseṭṭha, seṭṭho janetasmiṁ, diṭṭhe ceva dhamme abhisamparāyañca.  
 🚹①⨀(dhamma) 🔼(hi) 🚹⓪⨀(vāseṭṭha) 🚹①⨀(seṭṭha) 🚹⑦⨀(janeta) , 🚹②⨂(diṭṭha) 🔼(ceva) 🚹②⨂(dhamma) 🚹②⨀(abhisamparāya)  
@@ -340,9 +340,9 @@ single mass of water | and next | Vāseṭṭha | by that | by time | is | darkn
 
 Na candimasūriyā paññāyanti, na nakkhattāni tārakarūpāni paññāyanti, na rattindivā paññāyanti, na māsaḍḍhamāsā paññāyanti, na utusaṁvaccharā paññāyanti, na itthipumā paññāyanti, sattā sattātveva saṅkhyaṁ gacchanti.  
 🔼(na) 🚹①⨂(candimasūriya) ▶️🤟⨂(paññāyati) , 🔼(na) 🚻①⨂(nakkhatta) 🚻①⨂(tārakarūpa) ▶️🤟⨂(paññāyati) , 🔼(na) 🚻①⨂(rattindiva) ▶️🤟⨂(paññāyati) , 🔼(na) 🚹①⨂(māsaḍḍhamāsa) ▶️🤟⨂(paññāyati) , 🔼(na) 🚻①⨂(utusaṃvacchara) ▶️🤟⨂(paññāyati) , 🔼(na) 🚹①⨂(itthipumā) ▶️🤟⨂(paññāyati) , 🚹①⨂(satta) 🚹①⨂(satta) 🔼(iti eva) 🚺②⨀(saṅkhyā) ▶️🤟⨂(gacchati)  
-no | moon and sun | are evident , no | stars | twinkling | are evident , no | day and night | are evident , no | month and fortnight | are evident , no seasons and years | are evident , no | men and women | are evident , living beings | like this | just | conceptualization | becomes  
+no | moon and sun | are evident , no | stars | twinkling | are evident , no | day and night | are evident , no | month and fortnight | are evident , no seasons and years | are evident , no | men and women | are evident , living beings | like this | just | conceptualisation | becomes  
 “No moon and sun are evident, no twinkling stars are evident, no day and night are evident, no month and fortnight are evident, no 
-seasons and years are evident, no men and women are evident , living beings become conceptualized.
+seasons and years are evident, no men and women are evident, living beings become conceptualised.”
 
 Atha kho tesaṁ, vāseṭṭha, sattānaṁ kadāci karahaci dīghassa addhuno accayena rasapathavī udakasmiṁ samatani;  seyyathāpi nāma payaso tattassa nibbāyamānassa upari santānakaṁ hoti;  evameva pāturahosi.  
 🔼(atha kho) 🚹⑥⨂(ta) 🚹⓪⨀(vāseṭṭha) 🚹⑥⨂(satta) 🔼(kadāci) 🔼(karahaci) 🚹⑥⨀(dīgha) 🚹⑥⨀(addha) 🚹③⨀(accaya) 🚺①⨀(rasapathavī) 🚻⑦⨀(udaka) ⏮🤟⨀(samatani) , 🔼(seyyathāpi) 🔼(nāma) 🚹⑥⨀(payas) 🚻⑥⨀(tatta) 🚹⑥⨀(nibbāyamāna) 🔼(upari)  🚻①⨀(santānaka) ▶️🤟⨀(hoti) ; 🔼(evameva) ⏮🤟⨀(pāturahosi)  
@@ -399,7 +399,7 @@ then | of those | of being | self radiance | disappeared
 Sayaṁpabhāya antarahitāya candimasūriyā pāturahesuṁ.  
 🚺③⨀(sayaṃpabha) 🚺③⨀(antarahita) 🚹①⨂(candimasūriya) ⏮🤟⨂(pāturahosi  )
 with self-radiance | with disappeared | the sun and the moon | appeared  
-“With the disappearence of self-radiance, the sun and the moon appeared.”
+“With the disappearance of self-radiance, the sun and the moon appeared.”
 
 Candimasūriyesu pātubhūtesu nakkhattāni tārakarūpāni pāturahesuṁ.  
 🚹⑦⨂(candimasūriya) 🚹⑦⨂(pātubhūta) 🚻①⨂(nakkhatta) ⏮🤟⨂(pāturahosi)  

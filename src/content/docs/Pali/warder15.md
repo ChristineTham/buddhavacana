@@ -28,11 +28,11 @@ In that place they saw considerable hemp thread discarded.
 disvā sahāyako sahāyakaṃ āmantesi: yassa kho samma atthāya iccheyyāma sāṇaṃ, idaṃ pahūtaṃ sāṇasuttaṃ chaḍḍitaṃ.  
 🔼(disvā) 🚹①⨀(sahāyaka) 🚹②⨀(sahāyaka) ⏮🤟⨀(āmantesi): 🚹④⨀(ya) 🔼(kho) 🔼(samma) 🚹④⨀(attha) ⏯👆⨂(icchati) 🚹②⨀(sāṇa) , 🔼(idaṃ) 🚻①⨀(pahūta) 🚻①⨀(sāṇasutta) 🚻①⨀(chaḍḍita)  
 having seen | friend | friend | discussed : for whatever | indeed | friend | for purpose | we will desire | hemp , here | considerable | hemp thread | discarded  
-Having seen, friend discussed to friend: “Mate, for whatever purpose we will wish for hemp, here is considerable hemp thread discarded.”
+Having seen, friend discussed with friend: “Mate, for whatever purpose we will wish for hemp, here is considerable hemp thread discarded.”
 
 tena hi samma tvañ ca sāṇabhāraṃ chaḍḍehi, ahañ ca sāṇabhāraṃ chaḍḍessāmi.  
 🔼(tenahi) 🔼(samma) 🔼(tvañca) 🚹②⨀(sāṇabhāra) ⏹🤘⨀(chaḍḍeti) 🔼(ahañca) 🚹②⨀(sāṇabhāra) ⏭👆⨀(chaḍḍeti)  
-therefore / mate / and you / load of hemp / you must dischard / and I / load of hemp / I will discard  
+therefore / mate / and you / load of hemp / you must discard / and I / load of hemp / I will discard  
 “Therefore, mate, you must discard (your) load of hemp, and I will discard (my) load of hemp.”
 
 ubho sāṇasuttabhāraṃ ādāya gamissāmā ti.  
@@ -53,7 +53,7 @@ that’s enough | for me ; you | must understand | quote
 atha kho so sahāyako sāṇabhāraṃ chaḍḍetvā sāṇasuttabhāraṃ ādiyi.  
 🔼(atha kho) 🚹①⨀(ta) 🚹①⨀(sahāyaka) 🚹②⨀(sāṇabhāra) 🔼(chaḍḍetvā) 🚹②⨀(sāṇasuttabhāra) ⏮🤟⨀(ādiyi)  
 after that | that | friend | load of hemp | having discarded | load of hemp thread | took  
-After that, that friend. having discarded (his) load of hemp. took a load of hemp thread.
+After that, that friend, having discarded (his) load of hemp, took a load of hemp thread.
 
 ## Translate from Pali
 
@@ -64,7 +64,7 @@ Therefore, o Brahman, you must listen!
 
 na tvaṃ imaṃ dhammavinayaṃ ājānāsi. ahaṃ imaṃ dhammavinayaṃ ājānāmi (D III 117,7-9)  
 🔼(na) 🤘①⨀(tvaṃ) 🚹②⨀(ima) 🚹②⨀(dhammavinaya) ▶️🤘⨀(ājānāti) . 👆①⨀(ahaṃ) 🚹②⨀(ima) 🚹②⨀(dhammavinaya) ▶️👆⨀(ājānāti)  
-no | you | this | teaching and training | understand . i | this | teaching and training | understand  
+no | you | this | teaching and training | understand . I | this | teaching and training | understand  
 You do not understand this teaching and training. I understand this teaching and training.
 
 idha tathāgato jāto (D II 140,20)  
@@ -74,13 +74,13 @@ Here the Tathāgata was born.
 
 ko imaṃ dhammaṃ khippam eva ājānissati (D II 40,5-6)  
 🚹①⨀(ka) 🚹②⨀(ima) 🚹②⨀(dhamma) 🚻①⨀(khippa) 🔼(eva) ⏭🤟⨀(ājānāti)  
-who? | this | doctrine | quickly | just | will understand  
-Who will understand this doctrine quickly?
+who? | this | teaching | quickly | just | will understand  
+Who will understand this teaching quickly?
 
 ekacco dānaṃ deti samaṇassa vā brāhmaṇassa vā annaṃ pānaṃ vatthaṃ yānaṃ mālāgandhavilepanaṃ seyyāvasathapadīpeyyaṃ (D III 259,3-5)  
 🚹①⨀(ekacca) 🚻①⨀(dāna) ▶️🤟⨀(deti) 🚹④⨀(samaṇa) 🔼(vā) 🚹④⨀(brāhmaṇa) 🔼(vā) 🚻②⨀(anna) 🚻②⨀(pāna) 🚻②⨀(vattha) 🚹②⨀(mālāgandhavilepana) 🚻②⨀(seyyāvasathapadīpeyya)  
-some/certain |  alms/gift | he gave | for ascetic | or | for brahmin | or | food | drink | cloth | footwear | garlands/perfumes/oils | bedding/housing/lighting  
-A certain person gave some gifts for ascetics or brahmins: food, drink, clothing, footwear, garlands, perfumes, oils, bedding, housing, lighting.
+some/certain |  alms/gift | he gave | for wanderer | or | for brahmin | or | food | drink | cloth | footwear | garlands/perfumes/oils | bedding/housing/lighting  
+A certain person gave some gifts for wanderers or brahmins: food, drink, clothing, footwear, garlands, perfumes, oils, bedding, housing, lighting.
 
 ko nu kho papa bho jānāti. madanīyā kāmā (D II 234,10-11)  
 🔼(ko nu kho) 🚻①⨂(papa) 🚹⓪⨀(bhavant) ▶️🤟⨀(jānāti) . 🚹①⨂(madanīya) 🚹①⨂(kāma)  
@@ -94,13 +94,13 @@ You must understand whether that reputation that has spread regarding Venerable 
 
 tassa evaṃ jānato evaṃ passato kāmāsavā pi cittaṃ vimuccati bhavāsavā pi cittaṃ vimuccati avijjāsavā pi cittaṃ vimuccati (D I 84,8- 10)  
 🚹⑥⨀(ta) 🔼(evaṃ) 🚻⑥⨀(jānanta) 🔼(evaṃ) 🚹⑥⨀(passanta) 🚹⑤⨀(kāmāsava) 🔼(pi) 🚻①⨀(citta) ▶️🤟⨀(vimuccati) 🚹⑤⨀(bhavāsava) 🔼(pi) 🚻①⨀(citta) ▶️🤟⨀(vimuccati) 🚹⑤⨀(avijjāsava) 🔼(pi) 🚻①⨀(citta) ▶️🤟⨀(vimuccati)  
-of that | thus | of knowing | thus | of seeing | from effluent of sensual pleasure | too | mind | released from | from effluent of being | too | mind | released from | from effluent of ignorance | too | mind | released from  
-When knowing and seeing thus, the mind is released from the effluents of sensual pleasures, being and ignorance.
+of that | thus | of knowing | thus | of seeing | from defilement of sensual pleasure | too | mind | released from | from defilement of existence | too | mind | released from | from defilement of ignorance | too | mind | released from  
+When knowing and seeing thus, the mind is released from the defilements of sensual pleasures, existence and ignorance.
 
 yaṃ kiñ ci samudayadhammaṃ, sabban taṃ nirodhadhammaṃ (D II 41,20-21)
 🚻①⨀(ya) 🔼(kiñci) | 🚻①⨀(samudayadhamma) , 🚻①⨀(sabbanta) 🚻①⨀(nirodhadhamma)  
 whatever | something | subject to arising, entire |  subject to ceasing  
-Whatever arises, will cease completely.
+Whatever arises will cease completely.
 
 n' atthi jātassa amaraṇaṃ (D II 246,16)  
 ▶️🤟⨀(natthi) 🚹⑥⨀(jāta) 🚻①⨀(amaraṇa)  

@@ -56,13 +56,13 @@ There exists indeed, sir, a knowledge called Maṇika.
 
 saññā ca vedanā ca niruddhā honti (D III 266,16-17)  
 🚺①⨂(sañña) 🔼(ca) 🚺①⨂(vedanā) 🔼(ca) 🚺①⨀(niruddha) ▶️🤟⨂(hoti)  
-perceptions | and | feelings | and | ceased | are  
-Perceptions and feelings are ceased.
+apperceptions | and | feelings | and | ceased | are  
+Apperceptions and feelings are ceased.
 
 Sujātā nāma bhante upāsikā kālakatā (D II 92,2-3)  
 🚺①⨀(sujāta) 🔼(nāma) 🚹⓪⨀(bhavant) 🚺①⨀(upāsikā) 🚺①⨀(kālakata)  
 Sujāta | named | Bhante | female disciple | dead  
-Bhante, the female disciple named Sujāta is dead.
+Bhante, the female disciple named Sujātā is dead.
 
 evaṃ pi kho Sunakkhatto mayā  vuccamāno apakkami (D III 6,1-2)  
 🔼(evaṃ pi kho) 🚹①⨀(sunakkhatta) 👆③⨀(ahaṃ) 🚹①⨀(vuccamāna) ⏮🤟⨀(apakkami)  
@@ -71,8 +71,8 @@ Indeed, even spoken thus by me, Sunakkhatta departed.
 
 samaṇo Gotamo imaṃ parisaṃ āgacchati (Cf. D I 179,8 and D III 38,17-18)  
 🚹①⨀(samaṇa) 🚹①⨀(gotama) 🚺②⨀(ima) 🚺②⨀(parisā) ▶️🤟⨀(āgacchati)  
-ascetic | Gotama | this | assembly | comes to  
-The ascetic Gotama comes to this assembly.
+wanderer | Gotama | this | assembly | comes to  
+The wanderer Gotama comes to this assembly.
 
 ## Translate into Pali
 

@@ -28,26 +28,26 @@ In that place they saw considerable linen discarded.
 disvā. pe. pahūtaṃ khomasuttaṃ chaḍḍitaṃ.  
 🔼(disvā) … 🔼(pe) … 🚻①⨀(pahūta) 🚻①⨀(khomasutta) 🚻①⨀(chaḍḍita)  
 having seen … ditto … considerable | flax thread | discarded  
-Having seen, … ditto …. considerable flax thread discarded.
+Having seen, … ditto … considerable flax thread discarded.
 
 disvā. pe. (a whole range of commodities of increasing value is enumerated) pe. pahūtaṃ suvaṇṇaṃ chaḍḍiṭaṃ.  
 🔼(disvā) … 🔼(pe) … 🚻①⨀(pahūta) 🚻①⨀(suvaṇṇa) 🚻①⨀(chaḍḍita)  
 having seen … ditto … considerable | gold | discarded  
-Having seen, … ditto …. considerable gold discarded.
+Having seen, … ditto … considerable gold discarded.
 
 disvā sahāyako sahāyakaṃ āmantesi: yassa kho samma atthāya iccheyyāma sāṅaṃ vā sāṇasuttaṃ vā ...  
 🔼(disvā) 🚹①⨀(sahāyaka) 🚹②⨀(sahāyaka) ⏮🤟⨀(āmantesi): 🚹④⨀(ya) 🔼(kho) 🔼(samma) 🚹④⨀(attha) ⏯👆⨂(icchati) 🚹②⨀(sāṇa) 🔼(vā) 🚻②⨀(sāṇasutta) 🔼(vā) …  
 having seen | friend | friend | discussed : for whatever | indeed | friend | for purpose | we will desire | hemp | or | hemp thread | or …  
-Having seen, friend discussed to friend: “Mate, for whatever purpose we will wish for hemp, or hemp thread, or …”
+Having seen, friend discussed with friend: “Mate, for whatever purpose we will wish for hemp, or hemp thread, or …”
 
 sīsaṃ vā sajjhuṃ vā, idaṃ pahūtaṃ suvaṇṇaṃ chaḍḍitaṃ.  
 🚻②⨀(sīsa) 🔼(vā) 🚻②⨀(sajjhu) 🔼(vā) , 🔼(idaṃ) 🚻①⨀(pahūta) 🚻①⨀(suvaṇṇa)  🚻①⨀(chaḍḍita)  
 ear of corn | or | silver | or , here | considerable | gold | discarded  
-“… or ear of corn, or silver, here is considerable gold discarded.
+“… or ear of corn, or silver, here is considerable gold discarded.”
 
 tena hi samma tvañ ca sāṇabhāraṃ chaḍḍehi, ahañ ca sajjhubhāraṃ chaḍḍessāmi.  
 🔼(tenahi) 🔼(samma) 🔼(tvañca) 🚹②⨀(sāṇabhāra) ⏹🤘⨀(chaḍḍeti) 🔼(ahañca) 🚹②⨀(sajjhubhāra) ⏭👆⨀(chaḍḍeti)  
-therefore / mate / and you / load of hemp / you must dischard / and I / load of silver / I will discard  
+therefore / mate / and you / load of hemp / you must discard / and I / load of silver / I will discard  
 “Therefore, mate, you must discard (your) load of hemp, and I will discard (my) load of silver.”
 
 ubho suvaṇṇabhāraṃ ādāya gamissāmā ti.  
@@ -85,8 +85,8 @@ In that place he saw a lot of dry dung discarded.
 
 disvān' assa etad ahosi: ayaṃ me bahuko sukkhagūtho chaḍḍito, mamañ ca sūkarabhattaṃ.  
 🔼(disvā) 🚹④⨀(ta)🔼(etadahosi) : 🚹①⨀(ima) 👆④⨀(ahaṃ) 🚹①⨀(bahuka) 🚹①⨀(sukkhagūtha) 🚹①⨀(chaḍḍita) , 👆④⨀(ahaṃ) 🔼(ca) 🚻①⨀(sūkarabhatta)  
-having seen | for him | this thought occured : this | for me | a lot of | dry dung | discarded . for me | and | pig feed  
-Having seen this thought occurred for him: “There is plenty of dry dung discarded for me: feed for my pigs.”
+having seen | for him | this thought occurred : this | for me | a lot of | dry dung | discarded . for me | and | pig feed  
+Having seen, this thought occurred for him: “There is plenty of dry dung discarded for me: feed for my pigs.”
 
 yan nūnāhaṃ ito sukkhagūthaṃ hareyyan ti.  
 🔼(yannūnāhaṃ) 🔼(ito) 🚹②⨀(sukkhagūtha) 🔵⏯👆⨀(harati) 🔼(ti)  
@@ -95,7 +95,7 @@ what if I were to | from here | dry dung | take | quote
 
 so uttarāsaṅgaṃ pattharitvā pahūtaṃ sukkhagūthaṃ āharitvā bhaṇḍikaṃ bandhitvā sīse ubbāhetvā agamāsi.  
 🚹①⨀(ta) 🚹②⨀(uttarāsaṅga) 🔼(pattharitvā) 🚹②⨀(pahūta) 🚹②⨀(sukkhagūtha) 🔼(āharitvā) 🚺②⨀(bhaṇḍikā) 🔼(bandhitvā) 🚻⑦⨀(sīsa) 🔼(ubbāhetvā) ⏮🤟⨀(agamāsi)  
-he | upper robe | having spread out | a lot of | dry dung | havng brought | bundle | having tied up | on head | having lifted up  
+he | upper robe | having spread out | a lot of | dry dung | having brought | bundle | having tied up | on head | having lifted up  
 He left, having spread out upper robe, having fetched dry dung, having tied up bundle, having lifted up on head.
 
 tassa antarā magge mahā akālamegho pāvassi.  
@@ -123,7 +123,7 @@ you | indeed | in this case | mad | actually | but | for me | pig feed | quote
 Bhagavā Rājagahe viharati (D I 47,1-2)  
 🚹①⨀(bhagavant) 🚹⑦⨀(rājagaha) ▶️🤟⨀(viharati)  
 Blessed One | in Rājagaha | dwells  
-Bhagava dwells in Rājagaha.
+The Bhagavā dwells in Rājagaha.
 
 ime candimasuriyā parasmiṃ loke na imasmiṃ D II 319,23-24)  
 🚹①⨂(ima) 🚹①⨂(candimasuriya) 🚹⑦⨀(para) 🚹⑦⨀(loka) 🔼(na) 🚹⑦⨀(ima)  
@@ -138,7 +138,7 @@ What is the quarrel amongst you, what is the dispute?
 evaṃ vutte aññataro rājāmacco rājānaṃ etad avoca (D I 47,14-15)  
 🔼(evaṃ) 🚹⑦⨀(vutta) 🚹①⨀(aññatara) 🚹①⨀(rājāmacca) 🚹②⨀(rāja) 🔵⏮🤟⨀(etadavoca)  
 thus | of spoken | a certain | royal minister | king | said this  
-when thus was spoken, a certain royal minister said this to the king.
+When thus was spoken, a certain royal minister said this to the king.
 
 na dāni tena ciraṃ jīvitabbaṃ bhavissati (future passive participle) (D II 138,16)  
 🔼(na) 🔼(dāni) 🚹③⨀(ta) 🚹②⨀(cira) 🚹②⨀(jīvitabba) ⏭🤟⨀(bhavati)  
@@ -157,7 +157,7 @@ However, Poṭṭhapāda, this should not be seen thus.
 
 kiñ cid eva karaṇīyaṃ uppajji (D II 340,14)  
 🔼(kiñcideva) 🚻①⨀(karaṇīya) ⏮🤟⨀(uppajji)  
-someone | budiness | arose  
+someone | business | arose  
 Some business came up.
 
 idaṃ sevitabbaṃ, idaṃ na sevitabbaṃ (future passive participle) (D II 223,1-2)  

@@ -74,7 +74,7 @@ description: >
   [DN 9 5.6](https://suttacentral.net/dn9/pli/ms#5.6):  
   (Nisīdatu, bhante, bhagavā), idaṁ āsanaṁ paññattan”ti.  
   ⏹🤟⨀(nisīdati) 🚹⓪⨀(bhavant) 🚹①⨀(bhagavant) 🚻①⨀(ima) 🚻①⨀(āsana) 🚻①⨀(paññatta) 🔼(ti)  
-  Please sit down | bhante | Blessed One | this | chair | prepared  
+  Please sit down | Bhante | Blessed One | this | chair | prepared  
   “(Please sit down, Bhante, o Blessed One), this chair has been prepared.”
 
 8. ete manussā gehaṃ pavisanti (D I 83,7-8)

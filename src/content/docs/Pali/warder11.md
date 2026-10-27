@@ -76,8 +76,8 @@ This India is wealthy as well as will become successful.
 
 micchā paṭipanno tvam asi, aham asmi sammā paṭipanno (D III 117,10-11)  
 🔼(micchā) 🚹①⨀(paṭipanna) 🤘①⨀(tvaṃ) ▶️🤘⨀(atthi) , 👆①⨀(ahaṃ) ▶️👆⨀(atthi) 🔼(sammā)  🚹①⨀(paṭipanna)  
-wrong | practicing | you | are , I | am | correct | practising  
-You are practicing wrongly, I am practising correctly.
+wrong | practising | you | are , I | am | correct | practising  
+You are practising wrongly, I am practising correctly.
 
 so tato cuto idhūpapanno (D I 81,23)  
 🚹①⨀(ta) 🚹⑤⨀(ta) 🚹①⨀(cuta) 🔼(idhūpapanno)  
@@ -91,8 +91,8 @@ The wandering ascetic saw the Blessed One coming.
 
 saññā uppajjanti pi nirujjhanti pi (D I 180,3)  
 🚹①⨂(sañña) ▶️🤟⨂(uppajjati) 🔼(pi) ▶️🤟⨂(nirujjhati)  🔼(pi)  
-perceptions | arise | too | cease | too  
-Perceptions arise and cease.
+apperceptions | arise | too | cease | too  
+Apperceptions arise and cease.
 
 bhagavato ābādho uppajji (D II 127,34-35)  
 🚹④⨀(bhagavant) 🚹①⨀(ābādha) ⏮🤟⨀(uppajji)  
@@ -106,7 +106,7 @@ He becomes restrained.
 
 ahaṃ kho kammaṃ akāsiṃ. kammaṃ kho pana me karontassa kāyo kilanto, handāhaṃ nipajjāmi (D III 255,15-16)  
 👆①⨀(ahaṃ) 🔼(kho) 🚻②⨀(kamma) ⏮👆⨀(akāsi) . 🚻②⨀(kamma) 🔼(kho pana) 👆⑥⨀(ahaṃ) 🚹⑥⨀(karonta) 🚺①⨂(ka) 🚹①⨀(kilanta) , 🔼(handāhaṃ) ▶️👆⨀(nipajjati)  
-I | indeed | work | did . work | indeed | but | of I | of doing | body | became tired , now I must | rest  
+I | indeed | work | did . work | indeed | but | of me | of doing | body | became tired , now I must | rest  
 Indeed I did work. However, while I was doing work, the body became tired, now I must rest.
 
 imaṃ mayaṃ addasāma idha upapannaṃ (D I 18,17-18)  

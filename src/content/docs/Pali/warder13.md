@@ -17,8 +17,8 @@ description: >
 
 te taṃ saṅkhaṃ uttānaṃ nipātesuṃ:  
 🚹①⨂(ta) 🚹②⨀(ta) 🚹②⨀(saṅkha) 🚹②⨀(uttāna) ⏮🤟⨂(nipātesi)  
-they | that | conch shell | lying on it’s back | placed down  
-They placed down that conch shell lying on it’s back.
+they | that | conch shell | lying on its back | placed down  
+They placed down that conch shell lying on its back.
 
 vadehi bho saṅkha, vadehi bho saṅkhā ti.  
 ⏹🤘⨀(vadeti) 🚹⓪⨀(bhavant) 🚹⓪⨀(saṅkha) ⏹🤘⨀(vadeti) 🚹⓪⨀(bhavant) 🚹⓪⨀(saṅkha) 🔼(ti)  
@@ -33,7 +33,7 @@ That conch did not even make any sound.
 te taṃ saṅkhaṃ passena nipātesuṃ … uddhaṃ ṭhapesuṃ … daṇḍena ākoṭesuṃ … sandhuniṃsu:  
 🚹①⨂(ta) 🚹②⨀(ta) 🚹②⨀(saṅkha) 🚻③⨀(passa) ⏮🤟⨂(nipātesi) … 🚹②⨀(uddha) ⏮🤟⨂(ṭhapesi) … 🚹③⨀(daṇḍa) ⏮🤟⨂(ākoṭesi) … ⏮🤟⨂(sandhuni)  
 they | that | conch shell | side | placed down … upright | placed … with stick | tapped … shook together  
-they lied down the conch on its side … placed upright … tapped with stick … shook [it].
+They laid down the conch on its side … placed upright … tapped with stick … shook [it].
 
 vadehi bho saṅkha, vadehi bho saṅkhā ti.  
 ⏹🤘⨀(vadeti) 🚹⓪⨀(bhavant) 🚹⓪⨀(saṅkha) 🔼(ti)  
@@ -47,8 +47,8 @@ That conch did not even make any sound.
 
 atha kho tassa saṅkhadhamassa etad ahosi:  
 🔼(atha kho) 🚹④⨀(ta) 🚹④⨀(saṅkhadhama) 🔼(etadahosi) :  
-after that | for that | for conchblower | this thought occured  
-after that this thought occured for the conch blower:
+after that | for that | for conchblower | this thought occurred  
+After that this thought occurred for the conch blower:
 
 yāva bālā ime paccantajā manussā.  
 🔼(yāva) 🚹①⨂(bāla) 🚹①⨂(ima) 🔼(paccantajā) 🚹①⨂(manussa)  
@@ -80,7 +80,7 @@ He cultivates the mind.
 na taṃ (2nd. person) deva paccatthikānaṃ demi (D I 50,9)  
 🔼(na) 🤘②⨀(tvaṃ) 🚹⓪⨀(deva) 🚹④⨂(paccatthika) ▶️👆⨀(deti)  
 no | you | o Lord | for hostile | must give  
-i am not giving you up to the enemy, Your Highness
+I am not giving you up to the enemy, Your Highness.
 
 ayaṃ dukkhasamudayo (D I 84,1)  
 🚹①⨀(ima) 🚹①⨀(dukkhasamudaya)  
@@ -90,12 +90,12 @@ This is the arising of suffering.
 rājā kumārassa (dative) pāsāde kārāpesi (D II 21,6-7)  
 🚹①⨀(rāja) | 🚹④⨀(kumāra) 🚹②⨂(pāsāda) ▶️🤘⨀(kārāpeti)  
 king | for boy | palace | caused to make  
-The king caused palaces to be built for son.
+The king caused palaces to be built for the son.
 
 so iminā ca ariyena sīlakkhandhena samannāgato iminā ariyena indriyasaṃvarena samannāgato … vivittaṃ senāsanaṃ bhajati: araññaṃ rukkhamūlaṃ, pabbataṃ, ... abbhokāsaṃ palālapuñjaṃ (D I 71,12-17)  
 🚹①⨀(ta) 🚹③⨀(ima) 🔼(ca) 🚹③⨀(ariya) 🚹③⨀(sīlakkhandha) 🚹①⨀(samannāgata) 🚹③⨀(ima) 🚹③⨀(ariya) 🚹③⨀(indriyasaṃvara) … 🚺②⨀(vivittā) 🚻②⨀(senāsana) ▶️🤟⨀(bhajati) : 🚻②⨀(arañña) 🚻②⨀(rukkhamūla) 🚻②⨀(pabbata) … 🚹②⨀(abbhokāsa) 🚹②⨀(palālapuñja)  
 he | by this | and | by noble | by virtuous conduct | endowed with | by noble | by sense restraint | endowed with … seclusion | housing | retires to : forest | base of a tree | mountain … open air | heap of straw  
-And he, endowed by this noble virtuous conduct, endowed by noble sense restraint … he retires to a secluded dwelling: forest, tree root, mountain …. open air, heap of straw.
+And he, endowed by this noble virtuous conduct, endowed by noble sense restraint … he retires to a secluded dwelling: forest, tree root, mountain … open air, heap of straw.
 
 idha tathāgatena anuttaraṃ dhammacakkaṃ pavattitaṃ (D II 140,25-26)  
 🔼(idha) 🚹③⨀(tathāgata) 🚻①⨀(anuttara) 🚻①⨀(dhammacakka) 🚻①⨀(pavattita)  
@@ -115,12 +115,12 @@ Whoever will place a garland on top, that will be for their happiness.
 tvaṃ pana samma Jīvaka kiṃ tuṇhī (D I 49,11-12)  
 🤘①⨀(tvaṃ) 🔼(pana) 🔼(samma) 🚹⓪⨀(jīvaka) 🚻①⨀(ka) 🔼(tuṇhī)  
 you | but | friend | Jīvaka | what? | silence  
-But why are you silent, friend Jivaka?
+But why are you silent, friend Jīvaka?
 
 kacci maṃ samma Jīvaka na paccatthikānaṃ desi (D I 50,4-5)  
 🔼(kacci) 👆②⨀(ahaṃ) 🔼(samma) 🚹⓪⨀(jīvaka) 🔼(na) 🚹④⨂(paccatthika) ▶️🤘⨀(deti)  
 I hope | me | friend | Jīvaka | for hostile | you give to  
-i hope you are not giving me to the enemy, friend Jivaka?
+I hope you are not giving me to the enemy, friend Jīvaka?
 
 ## Translate into Pali
 

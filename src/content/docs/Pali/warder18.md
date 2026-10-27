@@ -43,17 +43,17 @@ Having seen, the gambler said this: “Friend, you will conclusively win by givi
 evaṃ sammā ti kho so akkhadhutto tassa akkhadhuttassa akkhe pādāsi.  
 🔼(evaṃ) 🔼(samma) 🔼(ti kho) 🚹①⨀(ta) ①⨀(akkhadhutta) 🚹⑥⨀(ta) 🚹⑥⨀(akkhadhutta) 🚹②⨂(akkha) ⏮🤟⨀(pādāsi)  
 yes / friend / quote / that / gambler / of that / of gambler / dice / presented  
-“Yes, friend” that gambler of the gambler presented the dice.
+“Yes, friend”, that gambler of the gambler presented the dice.
 
 atha kho so akkhadhutto akkhe visena paribhāvetvā taṃ akkhadhuttaṃ etad avoca: ehi kho samma akkhehi dibbissāmā ti.  
 🔼(atha kho) 🚹①⨀(ta) ①⨀(akkhadhutta) ②⨂(akkha) 🚻③⨀(visa) 🔼(paribhāvetvā) 🚹②⨀(ta) 🚹②⨀(akkhadhutta) 🚻②⨀(eta) 🔵⏮🤟⨀(avoca) : 🚹③⨂(ima) 🔼(kho) 🔼(samma) 🚹③⨂(akkha) ⏭👆⨂(dibbati) 🔼(ti)  
 after that / that / gambler / dice / with poison / having treated / that / gambler / this / said : with this / indeed / friend / with dice / (I) will play  
-After that, that gambler having treated the dice with poison, that gambler said this: I will play with this dice, friend.
+After that, that gambler having treated the dice with poison, that gambler said this: “I will play with this dice, friend.”
 
 evaṃ sammā ti kho so akkhadhutto tassa akkhadhuttassa paccassosi.  
 🔼(evaṃ) 🔼(samma) 🔼(ti) 🚹①⨀(ta) ①⨀(akkhadhutta) 🚹⑥⨀(ta) 🚹⑥⨀(akkhadhutta) ⏮🤟⨀(paccassosi)  
 yes / friend / quote / that / gambler / of that / of gambler / agreed  
-“Yes, friend” that gambler of the gambler agreed.
+“Yes, friend”, that gambler of the gambler agreed.
 
 dutiyam pi kho te akkhadhuttā akkhehi dibbiṃsu, dutiyam pi kho so akkhadhutto āgatāgataṃ kaliṃ gilati.  
 🚻①⨀(dutiya) 🔼(pi kho) 🚹①⨂(ta) 🚹①⨂(akkhadhutta) ⏮🤟⨂(dibbi) , 🚻①⨀(dutiya) 🔼(pi kho) 🚹①⨀(ta) ①⨀(akkhadhutta) 🚹②⨀(āgatāgata) 🚹②⨀(kali) ▶️🤟⨀(gilati)  
@@ -117,17 +117,17 @@ After the passing of a thousand years, King Daḷhanemi addressed a certain man.
 yadā tvaṃ ambho purisa passeyyāsi dibbaṃ cakkaratanaṃ osakkitaṃ ṭhānā cutaṃ, atha me āroceyyāsī ti.  
 🔼(yadā) 🤘①⨀(tvaṃ) 🔼(ambho) 🚹⓪⨀(purisa) ⏯🤘⨀(passati) 🚹②⨀(dibba) 🚻②⨀(cakkaratana) 🚹②⨀(osakkita) 🚻⑤⨀(ṭhāna) 🚹②⨀(cuta) 🔼(atha) 👆②⨀(ahaṃ) ⏯🤘⨀(āroceti)  
 whenever / you / hey / person / should see / celestial / jewelled wheel / slipped down / from place / fallen / me / should inform  
-“Hey my man, whenever you should see a comet (celestial jewelled wheel) slipped down and falling from it’s place, you should inform me.”
+“Hey my man, whenever you should see a comet (celestial jewelled wheel) slipped down and falling from its place, you should inform me.”
 
 evaṃ devā ti kho so puriso rañño Daḷhanemissa paccassosi.  
 🔼(evaṃ devā ti kho) 🚹①⨀(ta purisa) 🚹④⨀(rāja Daḷhanemi) ⏮🤟⨀(paccassosi)  
 yes / Lord / quote / indeed / that / man / for king Daḷhanemi / replied to  
-“Yes, Lord”, the man replied to king Daḷhanemi.
+“Yes, Lord”, the man replied to King Daḷhanemi.
 
 addasā kho so puriso vassasahassānaṃ accayena dibbaṃ cakkaratanaṃ osakkitaṃ ṭhānā cutaṃ.  
 ↩️🤟⨀(addasā) 🔼(kho) 🚹①⨀(ta purisa) 🚻④⨂(vassasahassa) 🚹③⨀(accaya) 🚹②⨀(dibba) 🚻②⨀(cakkaratana) 🚹②⨀(osakkita) 🚻⑤⨀(ṭhāna) 🚹②⨀(cuta)  
 saw / indeed / that / man / for a thousand years / after the passing of / celestial / jewelled wheel / slipped down / from place / fallen  
-After the passing of a thousand years, that man saw a comet slipped down and falling from it’s place.
+After the passing of a thousand years, that man saw a comet slipped down and falling from its place.
 
 disvā yena rājā Daḷhanemi ten’ upasaṃkami, upasaṃkamitvā rājānaṃ Daḷhanemiṃ etad avoca.  
 🔼(disvā) 🚹③⨀(ya) 🚹①⨀(rāja Daḷhanemi) 🚹③⨀(ta) ⏮🤟⨀(upasaṃkami) 🔼(upasaṃkamitvā) 🚹②⨀(rāja Daḷhanemi) 🚻②⨀(eta) 🔵⏮🤟⨀(avoca)  
@@ -137,7 +137,7 @@ Having seen, (the person) approached King Daḷhanemi, and having approached, sa
 yagghe deva jāneyyāsi dibbaṃ te cakkaratanaṃ osakkitaṃ ṭhānā cutan ti.  
 🔼(yagghe) 🚹⓪⨀(deva) ⏯🤘⨀(jānāti) 🚹②⨀(dibba) 🤘④⨀(tvaṃ) 🚻②⨀(cakkaratana) 🚹②⨀(osakkita) 🚻⑤⨀(ṭhāna) 🚹②⨀(cuta)  
 see now! / Lord / should know / celestial / there / jewelled wheel / slipped down / from place / fallen  
-“See now, Lord, you should know the comet has slipped down and falling from it’s place for you.”
+“See now, Lord, you should know the comet has slipped down and falling from its place for you.”
 
 atha kho rājā Daḷhanemi jeṭṭhaputtaṃ kumāraṃ āmantāpetvā etad avoca.  
 🔼(atha kho) 🚹①⨀(rāja Daḷhanemi) 🚹②⨀(jeṭṭhaputta) 🚹②⨀(kumāra) 🔼(āmantāpetvā) 🚻②⨀(eta) 🔵⏮🤟⨀(avoca)  
@@ -147,12 +147,12 @@ After that, King Daḷhanemi, having sent for his first born son, the prince, sa
 dibbaṃ kira me tāta kumāra cakkaratanaṃ osakkitaṃ ṭhānā cutaṃ.  
 🚹②⨀(dibba) 🔼(kira) 👆⑥⨀(ahaṃ) 🚹⓪⨀(tāta) 🚹①⨂(ta) 🚻②⨀(cakkaratana) 🚹②⨀(osakkita) 🚻⑤⨀(ṭhāna) 🚹②⨀(cuta)  
 celestial / really / of my / son / jewelled wheel / slipped down / from place / fallen  
-“My son, the comet has slipped down and falling from it’s place.”
+“My son, the comet has slipped down and falling from its place.”
 
 sutaṃ kho pana m’etaṃ, yassa rañño cakkavattissa dibbaṃ cakkaratanaṃ osakkati ṭhānā cavati, na dāni tena rañña ciraṃ jīvitabbaṃ hotī ti.  
 🚻①⨀(suta) 🔼(kho pana) 👆⑥⨀(ahaṃ) 🚻①⨀(eta) 🚹④⨀(ya) 🚹④⨀(rāja) 🚹④⨀(cakkavattī)🚹②⨀(dibba) 🚻②⨀(cakkaratana) 🚹②⨀(osakkita) 🚻⑤⨀(ṭhāna) ▶️🤟⨀(cavati) 🔼(na) 🔼(dāni) 🚹③⨀(ta) 🚹⑤⨀(rāja) 🚹②⨀(cira) 🚹②⨀(jīvitabba) ▶️🤟⨀(hoti) 🔼(ti)  
 heard / however /  by me / this , for whoever / for king / for wheel turning monarch / celestial / jewelled wheel / slipped down / from place / fall / no / now / by there / from king / long time / should be lived by / is / quote  
-But I have heard this, for whichever wheel turning monarch the comet slips down and fall from it’s place, then for that king there is now not long to live.
+But I have heard this, for whichever wheel turning monarch the comet slips down and falls from its place, then for that king there is now not long to live.
 
 bhuttā kho pana me mānusakā kāmā, samayo dibbe kāme pariyesituṃ.  
 🚹①⨂(bhutta) 🔼(kho pana) 👆⑥⨀(ahaṃ) 🚹①⨂(mānusaka) 🚹①⨂(kāma) 🚹①⨀(samaya) 🚹②⨂(dibba) 🚹②⨂(kāma) 🔼(pariyesituṃ)  
@@ -166,7 +166,7 @@ From now, my son the prince, may you follow a path in this world
 
 ahaṃ pana kesamassuṃ, ohāretvā, kāsāyāni vatthāni acchādetvā, agārasmā anagāriyaṃ pabbajissāmi ti.  
 👆①⨀(ahaṃ) 🔼(pana) 🚻②⨀(kesamassu) 🔼(ohāretvā) 🚻②⨂(kāsāya) 🚻②⨂(vattha) 🔼(acchādetvā) 🚻⑤⨀(agāra) 🚺②⨀(anagāriyā) ⏭👆⨀(pabbajati)  
-I / however / hair and beard / haviong shaved off , ochre / robe / having put on ,  from household life / to homeless state / I will renounce  
+I / however / hair and beard / having shaved off , ochre / robe / having put on ,  from household life / to homeless state / I will renounce  
 I, however, having shaved off hair   and beard, having put on ochre robe, will renounce from household life to homeless state.
 
 atha kho rājā Daḷhanemi jeṭṭhaputtaṃ kumāraṃ sādhukaṃ rajje samanusāsitvā, kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā, agārasmā anagāriyaṃ pabbaji.  
@@ -223,12 +223,12 @@ what / and this / Lord / noble / duty / quote
 
 tena hi tvaṃ tāta dhammaṃ yeva nissāya dhammaṃ mānento dhammaṃ pūjento dhammikaṃ rakkhāvaraṇaguttiṃ saṃvidahassu khattiyesu anuyuttesu brāhmaṇagahapatikesu negamajānapadesu samaṇabrāhmaṇesu migapakkhīsu.  
 🔼(tenahi) 🤘①⨀(tvaṃ) 🚹⓪⨀(tāta) 🚹②⨀(dhamma) 🔼(yeva) 🔼(nissāya) 🚹②⨀(dhamma) 🚹①⨀(mānenta) 🚹②⨀(dhamma)  🚹①⨀(pūjenta) 🚻①⨀(dhammika) 🚺②⨀(rakkhāvaraṇagutti) 🔵⏹🤘⨀(saṃvidahati) 🚹⑦⨂(khattiya) 🚹⑦⨂(anuyutta) 🚹⑦⨂(brāhmaṇagahapatikā) 🚹⑦⨂(negamajānapada) 🚹⑦⨂(samaṇabrāhmaṇa) 🚹⑦⨂(migapakkhī)  
-well then / you / son / law / only / supporting / law / honouring / law / worshipping / justly / protection / organise / ruling caste / vassal / brahmins and householders / town and country people / ascetics and brahmans / beasts and birds  
+well then / you / son / law / only / supporting / law / honouring / law / worshipping / justly / protection / organise / ruling caste / vassal / brahmins and householders / town and country people / religious practitioners / beasts and birds  
 “Well then, my son, only by you supporting, honouring and worshipping the law, and you must organise the safety and security of vassal warriors, brahmins and householders, town and country people, religious practitioners, beasts and birds.”
 
 mā ca te tāta vijite adhammakāro pavattittha.  
 🔼(mā ca) 🤘②⨀(tvaṃ) 🚹⓪⨀(tāta) 🚻⑦⨀(vijita) 🚹①⨀(adhammakāra) 🔵⏮🤟⨀(pavatti)  
-dont / and / to you / son / in kingdom / injustice / gave rise to  
+don’t / and / to you / son / in kingdom / injustice / gave rise to  
 “And, my son, don’t give rise to injustice in the kingdom.”
 
 ye ca te tāta vijite adhanā assu, tesañ ca dhanaṃ anuppadeyyāsi.  
@@ -239,11 +239,11 @@ whoever / and / that / son / in kingdom / poor, destitute / should be / and of t
 ye ca te tāta vijite samaṇabrāhmaṇā madappamādā paṭiviratā, te kālena kālaṃ upasaṃkamitvā paripuccheyyāsi: kiṃ bhante kusalaṃ kiṃ akusalaṃ, kiṃ me kayiramānaṃ dīgharattaṃ ahitāya dukkhāya assa, kiṃ vā pana me kayiramānaṃ dīgharattaṃ hitāya sukhāya assa ti.  
 🚹①⨂(ya) 🔼(ca) 🚹①⨂(ta) 🚹⓪⨀(tāta) 🚻⑦⨀(vijita) 🚹①⨂(samaṇabrāhmaṇa) 🚹①⨂(madappamāda) 🚹①⨂(paṭivirata) 🚹①⨂(ta) 🔼(kālena kālaṃ) 🔼(upasaṃkamitvā) ⏯🤘⨀(paripucchati) : 🚻①⨀(ka) 🚹⓪⨀(bhavant) 🚻①⨀(kusala) 🚻①⨀(ka) 🚻①⨀(akusala) 🚻①⨀(ka)  👆③⨀(ahaṃ) 🚻①⨀(kayiramāna) 🚻①⨀(dīgharatta) 🚺⑥⨀(ahita) 🚺⑥⨀(dukkha) 🚹⑥⨀(ima)  👆③⨀(ahaṃ) 🚻①⨀(kayiramāna) 🚻①⨀(dīgharatta) 🚺⑥⨀(hita) 🚺⑥⨀(sukha) 🚹⑥⨀(ima) 🔼(ti)  
 whoever / and / that / son / religious practitioners / intoxication and heedlessness / abstained from / they / from time to time / having approached / you should ask about : what / venerable sir / skilful / what / unskilful / what / by me / being done / for a long time / of harm / of unpleasant / of this, what / or however / by me / being done / for a long time / of beneficial / of pleasant / of this / quote  
-And, my son, having approached, from time to time, whichever religious practioners that have abstained from intoxication and heedlessness, you should ask them about: “What, Venerable Sir, is skilful? What is unskilful? What have been done by me for a long time that is harmful and unpleasant? Or moreover what have been done by me for a long time that is beneficial and pleasant?”
+And, my son, having approached, from time to time, whichever religious practitioners that have abstained from intoxication and heedlessness, you should ask them about: “What, Venerable Sir, is skilful? What is unskilful? What has been done by me for a long time that is harmful and unpleasant? Or moreover what has been done by me for a long time that is beneficial and pleasant?”
 
 tesaṃ sutvā yaṃ akusalaṃ taṃ abhinivajjeyyāsi, yaṃ kusalaṃ taṃ samādāya vatteyyāsi.  
 🚹⑥⨂(ta) 🔼(sutvā) 🚻①⨀(ya) 🚻①⨀(akusala) 🚻①⨀(ta) ⏯🤘⨀(abhinivajjeti) 🚻①⨀(ya) 🚻①⨀(kusala) 🚻①⨀(ta) 🔼(samādāya) ⏯🤘⨀(vattati) 🚹⑥⨀(ima)  
-of that / having heard / whatever / unskilful / that / will be removed / whatever / skilful / that / will be taken up / will be practiced/continued  
+of that / having heard / whatever / unskilful / that / will be removed / whatever / skilful / that / will be taken up / will be practised/continued  
 “Having heard that (response), you should remove anything unskilful and continue or take up anything skilful.”
 
 idaṃ kho tāta taṃ ariyaṃ cakkavattivattan ti.  
@@ -264,7 +264,7 @@ While (the noble king) was performing the noble duty, the comet manifested.
 disvā rañño khattiyassa etad ahosi: sutaṃ kho pana m’etaṃ: yassa rañño khattiyassa dibbaṃ cakkaratanaṃ pātubhavati, so hoti cakkavattī ti.  
 🔼(disvā) 🚹④⨀(rāja) 🚹④⨀(khattiya) 🚻①⨀(eta) ⏮🤟⨀(ahosi) : 🚹②⨀(suta) 🔼(kho pana) 👆③⨀(ahaṃ) 🚻①⨀(eta) : 🚹④⨀(ya) 🚹④⨀(rāja) 🚹④⨀(khattiya) 🚻①⨀(dibba) 🚻 ①⨀(cakkaratana) ▶️🤟⨀(pātubhavati) 🚹①⨀(ta) ▶️🤟⨀(hoti) 🚹①⨀(cakkavattī)  
 having seen / for king / for noble / this / was: for whichever / for king / for noble / celestial / jewelled wheel / manifests , he / becomes / wheel turning monarch  
-Having seen, the thought occured for the noble king: “And so thus have I heard: ‘For whichever noble king the comet manifests, he becomes the wheel turning monarch.’”
+Having seen, the thought occurred for the noble king: “And so thus have I heard: ‘For whichever noble king the comet manifests, he becomes the wheel turning monarch.’”
 
 assaṃ nu kho ahaṃ rājā cakkavattī ti.  
 🚺⑦⨀(ima) 🔼(nu kho) 👆①⨀(ahaṃ) 🚹①⨀(rāja) 🚹①⨀(cakkavattī) 🔼(ti)  
@@ -276,17 +276,17 @@ at this / ? / indeed / I / king / wheel turning monarch
 atha kho taṃ cakkaratanaṃ puratthimaṃ disaṃ pavatti, anvad eva rājā cakkavattī saddhiṃ caturaṅginiyā senāya.  
 🔼(atha kho) 🚻①⨀(ta) 🚻①⨀(cakkaratana) 🚺②⨀(puratthima) 🚺②⨀(disā) 🚺①⨀(pavatti) 🔼(anvadeva) 🚹①⨀(rāja) 🚹①⨀(cakkavattī) 🔼(saddhiṃ) 🚺③⨀(caturaṅgī) 🚺③⨀(sena)  
 after that / that / jewelled wheel / Eastern / direction / manifests / following behind / king / wheel turning monarch / together with / an army of four divisions, elephants, chariots and infantry / by army  
-After that, the comet manifests in the Eastern direction, following behind the wheel turning monarch together with an an army of four divisions, elephants, chariots and infantry.
+After that, the comet manifests in the Eastern direction, following behind the wheel turning monarch together with an army of four divisions, elephants, chariots and infantry.
 
 yasmiṃ kho pana padese cakkaratanaṃ patiṭṭhāsi, tattha rājā cakkavatti vāsaṃ upagacchi saddhiṃ caturaṅginiyā senāya.  
 🚹⑦⨀(ya) 🔼(kho pana) 🚹⑦⨀(padesa) 🚻①⨀(cakkaratana) ⏮🤟⨀(patiṭṭhāsi) 🔼(tattha) 🚹①⨀(rāja) 🚹①⨀(cakkavattī) 🚹②⨀(vāsa) ⏮🤟⨀(upagacchi) 🔼(saddhiṃ) 🚺③⨀(caturaṅgī) 🚺③⨀(sena)  
-at whatever / and next / at place / jewelled wheel / planted itself /  in that place / king / wheel turning monach / residence / went towards / together with / an army of four divisions, elephants, chariots and infantry / by army  
+at whatever / and next / at place / jewelled wheel / planted itself /  in that place / king / wheel turning monarch / residence / went towards / together with / an army of four divisions, elephants, chariots and infantry / by army  
 And next, at whatever place the comet planted itself, in that place the wheel turning king went towards and took residence, together with an army of four divisions, elephants, chariots and infantry.
 
 ye kho pana puratthimāya disāya paṭirājāno, te rājānaṃ cakkavattiṃ upasaṃkamitvā evam āhaṃsu: ehi kho mahārāja, svāgataṃ te mahārāja, sakan te mahārāja, anusāsa mahārājā ti.  
 🚹①⨂(ya) 🔼(kho pana) 🚺⑤⨀(puratthima) 🚺⑤⨀(disā) 🚹①⨂(paṭirāja) 🚹①⨂(ta) 🚹②⨀(rāja) 🚹②⨀(cakkavattī) 🔼(upasaṃkamitvā) 🔼(evaṃ) 🔄🤟⨂(āha) : ⏹🤘⨀(eti) 🔼(kho)  🚹⓪⨀(mahārāja) 🚻①⨀(svāgata) 🤘④⨀(tvaṃ) 🚹⓪⨀(mahārāja) 🚻①⨀(saka) 🤘④⨀(tvaṃ) 🚹⓪⨀(mahārāja) ⏹🤘⨀(anusāsati) 🚹⓪⨀(mahārāja)  🔼(ti)  
 whichever / and next / Eastern / direction / other kings / wheel turning monarch / having approached / they said : may you come / indeed / o great king / welcome / for you / o great king / my own / for you / o great king / may you advise / o great king / quote  
-And next, whichever other kings, having approached the wheel turning monarch from the Eastern direction, they said this: May you come, O Mahārāja, welcome to you, my own for you, may you advise (us).”
+And next, whichever other kings, having approached the wheel turning monarch from the Eastern direction, they said this: “May you come, O Mahārāja, welcome to you, my own for you, may you advise (us).”
 
 rājā cakkavatti evam āha: pāṇo na hantabbo.  
 🚹①⨀(rāja) 🚹①⨀(cakkavattī) 🔼(evaṃ) 🔄🤟⨀(āha) 🚹①⨀(pāṇa) 🔼(na) 🚹①⨀(hantabba)  
@@ -347,8 +347,8 @@ And next, whichever other kings from Northern direction became vassals of the wh
 
 3. na c' etarahi vijjati añño samaṇo vā brāhmaṇo vā bhagavatā bhiyyo 'bhiññataro (D III 99,8-9)  
   🔼(na ca etarahi) ▶️🤟⨀(vijjati) 🚹①⨀(añña) 🚹①⨀(samaṇa) 🔼(vā) 🚹①⨀(brāhmaṇa) 🔼(vā) 🚹⑤⨀(bhagavant) 🔼(bhiyyo abhiññataro)  
-  not / but / presently / is present/exists / another / ascetic / or / brahmin / from the Blessed One / greater than / more learned  
-  But presently there does not exist another ascetic or brahmin more learned than the Blessed One
+  not / but / presently / is present/exists / another / wanderer / or / brahmin / from the Blessed One / greater than / more learned  
+  But presently there does not exist another wanderer or brahmin more learned than the Blessed One.
 
 4. tiṇhena satthena sīsam chindati (D I 56,32)  
   🚹③⨀(tiṇha) 🚹③⨀(sattha) 🚻①⨀(sīsa) ▶️🤟⨀(chindati)  
@@ -358,7 +358,7 @@ And next, whichever other kings from Northern direction became vassals of the wh
 5. na odanakummāsaṃ bhuñjeyyaṃ (D III 9,21-22)  
   🔼(na) 🚹②⨀(odanakummāsa) 🔵⏯👆⨀(bhuñjati)  
   no / rice and barley bread / consumes  
-  I should not consume rice and barley bread
+  I should not consume rice and barley bread.
 
 6. aggo 'ham asmi lokassa, jeṭṭho 'ham asmi lokassa, seṭṭho 'ham asmi lokassa (D II 15,10-12)  
   🚹①⨀(agga) 👆①⨀(ahaṃ) ▶️👆⨀(atthi) 🚹⑥⨀(loka) 🚹①⨀(jeṭṭha) ▶️👆⨀(atthi) 🚹⑥⨀(loka)  🚹①⨀(seṭṭha) ▶️👆⨀(atthi) 🚹⑥⨀(loka)    
@@ -377,8 +377,8 @@ And next, whichever other kings from Northern direction became vassals of the wh
 
 9. sañña nu kho bhante paṭhamaṃ uppajjati pacchā ñāṇaṃ, udāhu paṭhamaṃ ñāṇaṃ uppajjati pacchā saññā, udāhu sañña ca ñāṇaṃ ca apubbaṃ acarimaṃ uppajjanti. (D I 185,21-24)  
   🔼(sañña nu kho) 🚹⓪⨀(bhavant) 🚻①⨀(paṭhama) ▶️🤟⨀(uppajjati) 🚹①⨂(paccha) 🚻①⨀(ñāṇa) 🔼(udāhu) 🚻①⨀(paṭhama) ①⨀(ñāṇa) ▶️🤟⨀(uppajjati) 🚻①⨀(apubba) 🚻①⨀(acarima) ▶️🤟⨂(uppajjati)  
-  perceiving / ? / indeed / Sir / first / arises / afterwards / understanding / or / first / understanding / arises / afterwards / perceiving / or / perceiving / and / understanding / and / not before / not later / arise  
-  Does perception arise before understanding, or understanding arise before perception, or do they arise simultaneously?
+  apperceiving / ? / indeed / Sir / first / arises / afterwards / understanding / or / first / understanding / arises / afterwards / apperceiving / or / apperceiving / and / understanding / and / not before / not later / arise  
+  Does apperception arise before understanding, or understanding arise before apperception, or do they arise simultaneously?
 
 ## Translate into Pali
 

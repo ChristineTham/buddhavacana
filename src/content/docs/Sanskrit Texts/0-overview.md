@@ -1,5 +1,5 @@
 ---
-title: "Sankrit Texts"
+title: "Sanskrit Texts"
 sidebar:
   label: "Introduction"
   order: 301

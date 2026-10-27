@@ -18,7 +18,7 @@ description: >
 bhūtapubbaṃ mahā sakaṭasattho sakaṭasahassaṃ puratthimā janapadā pacchimaṃ janapadam agamāsi.  
 🔼(bhūtapubbaṃ) 🚹①⨂(maha) 🚹①⨀(sakaṭasattha) 🚻①⨀(sakaṭasahassa) 🚹⑤⨀(puratthima) 🚹⑤⨀(janapada) 🚹②⨀(pacchima) 🚹②⨀(janapada) ⏮🤟⨀(agamāsi)  
 once upon a time / great / caravan / one thousand cars / from eastern / from country / to western / to country / left for  
-Once upon a time, a great caravan with a thousand carts went to the western country from eastern country.
+Once upon a time, a great caravan with a thousand carts went to the western country from the eastern country.
 
 so yena yena gacchati khippam eva pariyādiyati tiṇakaṭṭhodakaṃ haritakavaṇṇaṃ.  
 🚹①⨀(ta) 🔼(yena yena) ▶️🤟⨀(gacchati) 🔼(khippaṃ) 🔼(eva) ▶️🤟⨀(pariyādiyati) 🚻②⨀(tiṇakaṭṭhodaka) 🔼(haritaka) 🚹②⨀(vaṇṇa)  
@@ -64,8 +64,8 @@ Therefore, O Brahman, please listen for I will speak.
 
 dīghaṃ assasāmi (D II 291,7)  
 🔼(dīghaṃ) ▶️👆⨀(assasati)  
-deeply / I breath  
-I breath deeply.
+deeply / I breathe  
+I breathe deeply.
 
 mā ekena dve agamittha (D II 45,32)  
 🔼(mā) 🚹③⨀(eka) ⚧②⨂(dvi) ⏮🤘⨂(agami)  
@@ -95,7 +95,7 @@ However, I will renounce from household life to a homeless state.
 katame pañca (D II 85,14)  
 🚹①⨂(katama) ⚧①⨂(pañca)  
 what/which / five  
-Which Five?
+Which five?
 
 kāmesu micchā na caritabbā (D III 62,18)  
 🚹⑦⨂(kāma) 🔼(micchā na) 🚹①⨂(caritabba)  

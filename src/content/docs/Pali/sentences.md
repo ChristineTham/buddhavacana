@@ -412,7 +412,7 @@ classDiagram
   sentence *-- avocuṃha: dvikammaka
 ```
 
-### "Diectic" demonstrative pronoun
+### "Deictic" demonstrative pronoun
 
 "this", "it": Refers to present object or person.
 
@@ -759,7 +759,7 @@ classDiagram
 
 ### Quotation
 
-Short vowel preceeding `ti` is lengthened, and `ṃ` changed to `n`
+Short vowel preceding `ti` is lengthened, and `ṃ` changed to `n`
 
 ```mermaid
 classDiagram

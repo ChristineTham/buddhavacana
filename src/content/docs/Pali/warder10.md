@@ -27,7 +27,7 @@ Brahmans are children of Brahma.
 dukkhass' antaṃ karissanti (D I 54,21)  
 🚹②⨀(dukkhassanta) ⏭🤟⨂(karoti)  
 end of suffering | will make  
-There will make end of suffering.
+They will make an end of suffering.
 
 āropito te vādo (D I 8,15)  
 🚹①⨀(āropita) 🤘②⨀(tvaṃ) 🚹①⨀(vāda)  
@@ -54,7 +54,7 @@ tena kho pana samayena Ānando bhagavato piṭṭhito ṭhito hoti bhagavantaṃ
 by that | indeed | now | by time | Ānanda | of Blessed one | from back | standing | is | Blessed One | fanning  
 Now by that time, Ānanda is standing behind the Blessed One, fanning the Blessed One.
 
-kammaṃ kho pana me karontassa kāyo kilamissati (DIII255,9-10)  
+kammaṃ kho pana me karontassa kāyo kilamissati (D III 255,9-10)  
 🚻①⨀(kamma) 🔼(kho pana) 👆⑥⨀(ahaṃ) 🚻⑥⨀(karonta) 🚹①⨀(kāya) ⏭🤟⨀(kilamati)  
 work | indeed | but | of me | of performing | body | gets fatigued  
 But while I was performing work, the body gets fatigued.

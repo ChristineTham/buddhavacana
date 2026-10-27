@@ -43,7 +43,7 @@ thus / mate / indeed / friend / for friend / agreed
 te yena so janapado yen' aññataraṃ gāmapaṭṭaṃ ten' upasaṃkamiṃsu.
 🚹①⨂(ta) 🔼(yena) 🚹①⨀(ta) 🚹①⨀(janapada) 🔼(yena) 🚻①⨀(aññatara) 🚻①⨀(gāmapaṭṭa) 🔼(tena) ⏮🤟⨀(upasaṃkami)
 they | by there | that | country | by there | a certain | site of a village | by there | approached
-They approached to a certain site of a village in that country.
+They approached a certain site of a village in that country.
 
 tatth' addasaṃsu pahūtaṃ sāṇaṃ chaḍḍitaṃ.
 🔼(tattha) ⏮🤟⨂(addasa) 🚻①⨀(pahūta) 🚻①⨀(sāṇa) 🚻①⨀(chaḍḍita)
@@ -84,8 +84,8 @@ Gods fall away from that group (of beings).
 
 upādānapaccayā bhavo (D II 56,5)  
 🔼(upādānapaccayā) 🚹①⨀(bhava)  
-due to clinging | existence  
-Existence is due to clinging.
+due to fuel | existence  
+Existence is due to fuel.
 
 yan nūma mayaṃ kusalaṃ kareyyāma (D III 73,21)  
 🔼(yannūnāhaṃ) 🚹②⨀(kusala) ⏯👆⨂(karoti)  
@@ -119,8 +119,8 @@ And friend, whatever isn’t completely experienced, perhaps in that case there 
 
 khīṇā me āsavā (D III 283,21)  
 🚹①⨂(khīṇa) 👆③⨀(ahaṃ) 🚹①⨂(āsava)  
-exhausted | by me | effluent  
-Effluents were exhausted by me.
+exhausted | by me | defilement  
+Defilements were exhausted by me.
 
 na maṃ ko ci āsanena pi nimantesi (D I 91,18-19)  
 🔼(na) 👆②⨀(ahaṃ) 🔼(koci) 🚻③⨀(āsana) 🔼(pi) ⏮🤟⨀(nimantesi)  
@@ -134,8 +134,8 @@ Venerables, may you approach.
 
 idha samaṇo vā brāhmaṇo vā kusalaṃ dhammaṃ adhigaccheyya. kusalaṃ dhammaṃ adhigantvā na parassa āroceyya. kiṃ hi paro parassa karissati. seyyathā pi nāma purāṇaṁ bandhanaṃ chinditvā aññaṃ navaṃ bandhanaṃ kareyya. (D I 224, 9-13)  
 🔼(idha) 🚹①⨀(samaṇa) 🔼(vā) 🚹①⨀(brāhmaṇa) 🔼(vā) 🚹②⨀(kusala) 🚹②⨀(dhamma) ⏯🤟⨀(adhigacchati) . 🚹②⨀(kusala) 🚹②⨀(dhamma) 🔼(adhigantvā) 🔼(na) 🚹④⨀(para) ⏯🤟⨀(āroceti) . 🚹⑦⨀(ka) 🔼(paro) 🚻④⨀(para) ⏭🤟⨀(karoti) . 🔼(seyyathā pi nāma) 🚻①⨀(purāṇa) 🚻①⨀(bandhana) 🔼(chinditvā) 🚻①⨀(añña) 🚻①⨀(nava) 🚻①⨀(bandhana) ⏯🤟⨀(karoti)  
-here | ascetic | or | brahmin | or | good | thing | will find. good | thing | having found | no | for other | will inform another. in what? | more | for other | will do . imagine if | too | certainly | old | connection | having cut off | another | new | connection | should be made  
-Here an ascetic or brahmin may find a good thing. Having found a good thing, he will not inform another. What more will it do for another? Imagine having cut off an old connection, another new connection will be made.
+here | wanderer | or | brahmin | or | good | thing | will find. good | thing | having found | no | for other | will inform another. in what? | more | for other | will do . imagine if | too | certainly | old | connection | having cut off | another | new | connection | should be made  
+Here a wanderer or brahmin may find a good thing. Having found a good thing, he will not inform another. What more will it do for another? Imagine having cut off an old connection, another new connection will be made.
 
 ## Translate into Pali
 
