@@ -155,8 +155,8 @@ another / teacher / appoint / (end quote)
 4. > **āyasmantaṁ** sāriputtaṁ bhagavā etadavoca
 
 🚹⨀②(āyasmant) 🚹⨀②(sāriputta) 🚹⨀①(bhagavant) *️⃣🤟🚻⨀②(eta) 🟢⨀🤟⏮(vadati)  
-Venerable / Sāriputta / Bhagavant / this / said  
-*"The Bhagavant said this to Venerable Sāriputta": `āyasmantaṁ`, ② singular of `āyasmantu`, `-antaṁ` {92}; `sāriputtaṁ` agrees with it; [Bonus: 44, 1.3](../11-pbt/#s44-u1-3).*
+Venerable / Sāriputta / the Bhagavā / this / said  
+*"The Bhagavā said this to Venerable Sāriputta": `āyasmantaṁ`, ② singular of `āyasmantu`, `-antaṁ` {92}; `sāriputtaṁ` agrees with it; [Bonus: 44, 1.3](../11-pbt/#s44-u1-3).*
 
 5. > eso me **attā**
 

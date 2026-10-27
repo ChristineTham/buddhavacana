@@ -22,7 +22,7 @@ Ask what it does to the words around it: joins (`ca`), offers a choice
 (`vā`), adds (`pi`), stresses (`eva`), denies (`na`), closes a quotation (`ti`),
 asks (`nu`), or sets time, place and manner (`dāni`, `idha`, `evaṁ`). `kho`,
 `pana` and `hi` sit second in the sentence (`atha kho`, `idaṁ kho pana`), often
-untranslated. A particle often merges with the next word, `yo cāyaṁ` ([5: 2.3](../5-dhammacakka/#u2-3)) is `yo ca
+untranslated. A particle often merges with the next word: `yo cāyaṁ` ([5: 2.3](../5-dhammacakka/#u2-3)) is `yo ca
 ayaṁ` ([2.1](../2-1-sandhi/)).
 
 ### Joining and negating
@@ -180,7 +180,7 @@ this / very / noble / eightfold / path / that is to say
 4. > samaṇena vā brāhmaṇena vā
 
 🚹⨀③(samaṇa) ⏏️(vā) 🚹⨀③(brāhmaṇa) ⏏️(vā)  
-by an ascetic / or / by a brahmin / or  
+by a wanderer / or / by a brahmin / or  
 *`vā` after each word joins the alternatives, "or … or".*
 
 5. > evaṁ me rūpaṁ mā ahosī’ti

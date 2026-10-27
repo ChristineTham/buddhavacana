@@ -95,7 +95,7 @@ from thief / fear / arises
 
 🚹⨂⑤🆎(ācariya+upajjhāya) 🚺⨀②(sikkhā) 🟢⨀🤟▶️(gaṇhāti) 🚹⨀①(sissa)  
 teacher and preceptor / lesson / takes / pupil  
-*The pupil takes lesson from the teacher/preceptor.*
+*The pupil takes the lesson from the teacher/preceptor.*
 
 ### Exercises
 

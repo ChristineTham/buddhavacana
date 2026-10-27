@@ -5,7 +5,7 @@ sidebar:
   order: 525
 description: >
   The one something is given to, done for, said to or wished for takes the
-  ④ ending: `samaṇassa cīvaraṁ dadāti`, "[he] gives a robe to the ascetic".
+  ④ ending: `samaṇassa cīvaraṁ dadāti`, "[he] gives a robe to the wanderer".
   Kaccāyana's definition of the recipient (`sampadāna`) {276}–{277}, the uses
   of its ending {293}–{294}, and the ⑦ ending used in its place {311}.
 categories: ["palibook"]
@@ -18,7 +18,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 
 A noun that something is given to, done for or said to is the `sampadāna`
 (the recipient), and it takes the ④ ending {293}: `samaṇassa cīvaraṁ dadāti`,
-"[he] gives a robe to the ascetic". Kaccāyana defines the recipient as the one
+"[he] gives a robe to the wanderer". Kaccāyana defines the recipient as the one
 someone wishes to give to, the one something is pleasing to and the one
 something is owed to {276}, then lists some twenty other words that go with it
 {277}, and adds `namo` (homage) and its like {294}. The question to ask of a
@@ -71,8 +71,8 @@ The one given to {276}, {293}:
 > **samaṇassa** cīvaraṁ dadāti
 
 🚹⨀④(samaṇa) 🚻⨀②(cīvara) 🟢⨀🤟▶️(dadāti)  
-to the ascetic / a robe / [he] gives  
-*[He] gives a robe to the ascetic.*
+to the wanderer / a robe / [he] gives  
+*[He] gives a robe to the wanderer.*
 
 The purpose, "for the sake of" {277}:
 
