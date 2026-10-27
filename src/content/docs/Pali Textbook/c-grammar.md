@@ -4,7 +4,7 @@ sidebar:
   label: "C: Grammar"
   order: 565
 description: >
-  A concise diagrammatic representation of Pali Grammar
+  A concise diagrammatic representation of Pāḷi Grammar
 categories: ["palibook"]
 tags: ["grammar"]
 ---
@@ -13,14 +13,14 @@ tags: ["grammar"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-This chapter presents a concise summary of the structure of Pali grammar
+This chapter presents a concise summary of the structure of Pāḷi grammar
 and the technical terms used in Kaccāyana. It is structured using EBNF notation and presented as Syntax Diagrams (also known as "Railroad" diagrams).
 
-## The Pali Alphabet or Orthography (saññā)
+## The Pāḷi Alphabet or Orthography (saññā)
 
 ### Phonemes {2}
 
-Pali is an oral language consisting of sounds, but can be transcribed in written form using a combination of phonemes. Overall, there are 41 phonemes, which are grouped as consonants and vowels. These phonemes can be rendered in various scripts, or using Roman letters.
+Pāḷi is an oral language consisting of sounds, but can be transcribed in written form using a combination of phonemes. Overall, there are 41 phonemes, which are grouped as consonants and vowels. These phonemes can be rendered in various scripts, or using Roman letters.
 
 ```plantuml
 @startebnf
@@ -90,7 +90,7 @@ voiced = "ga" | "gha" | "ṅa" | "ja" | "jha" | "ña" | "ḍa" | "ḍha" | "ṇa
 
 ## Sentence structure
 
-Pali text consists of sentences which contain one or more words. Words can be nouns, verbs, prefixes and particles. There is no strictly defined word order in sentences, but is proto-typically subject-object-verb.
+Pāḷi text consists of sentences which contain one or more words. Words can be nouns, verbs, prefixes and particles. There is no strictly defined word order in sentences, but is proto-typically subject-object-verb.
 
 ```plantuml
 @startebnf
@@ -176,9 +176,9 @@ role =
 
 ## Verbs
 
-Technically, verbs in Pali are finite verbs, inflected by applying verb endings which represent the perspective and voice of the actor, multiplicity, and the mood/tense of the action.
+Technically, verbs in Pāḷi are finite verbs, inflected by applying verb endings which represent the perspective and voice of the actor, multiplicity, and the mood/tense of the action.
 
-Infinitives, participles (past, present, future), absolutives and other forms of words considered as verbs in other languages are technically nouns in Pali - they are created by combining a root with an affix (`kita` or `kicca`) and then inflected by adding a noun ending.
+Infinitives, participles (past, present, future), absolutives and other forms of words considered as verbs in other languages are technically nouns in Pāḷi - they are created by combining a root with an affix (`kita` or `kicca`) and then inflected by adding a noun ending.
 
 ```plantuml
 @startebnf

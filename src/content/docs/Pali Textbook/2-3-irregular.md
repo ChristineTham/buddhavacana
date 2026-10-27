@@ -166,14 +166,14 @@ this / my / self
 
 6. > Yāvajīvaṁ **arahanto** abrahmacariyaṁ pahāya
 
-⏏️🆎(yāva+jīva) 🚹⨂①(arahant) 🚻⨀②🆎(na+brahmacariya) 🔽(ya)(pajahati)  
+⏏️🆎(yāva+jīva) 🚹⨂①(arahant) 🚻⨀②🆎(na+brahma+cariya) 🔽(ya)(pajahati)  
 life-long / liberated ones / uncelibacy / giving up  
 *"Life long arahants (liberated ones) give up uncelibacy": `arahanto`, ① plural of `arahanta` {122}, singular `arahaṁ` {186}; [Bonus: 32, 21.1](../11-pbt/#s32-u21-1).*
 
 7. > Evaṁ **passaṁ**, bhikkhave, **sutavā** ariyasāvako
 
 ⏏️(evaṁ) 🚹⨀①🔽(anta)(passanta) 🚹⨂⓪(bhikkhu) 🚹⨀①(sutavant) 🚹⨀①🆎(ariya+sāvaka)  
-thus / seeing / bhikkhave / learned / awakened disciple  
+thus / seeing / Bhikkhave / learned / awakened disciple  
 *"Thus seeing, the learned awakened disciple": `passaṁ`, ① singular of the participle `passanta` {186}; `sutavā`, ① singular of a `ntu` word, as `bhagavā` {124}; [7: 11.1](../7-anatta/#u11-1).*
 
 8. > **Mano** āditto, dhammā ādittā, **manoviññāṇaṁ** ādittaṁ, manosamphasso āditto.

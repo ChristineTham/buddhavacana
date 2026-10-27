@@ -165,7 +165,7 @@ deconstruction.
 1. > Ayaṁ **vuccati**, bhikkhave, sammāvāyāmo.
 
 *️⃣🤟🚹⨀①(ima) 🔴⨀🤟▶️(vuccati) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(sammā+vāyāma)  
-this / is said / bhikkhave / right effort  
+this / is said / Bhikkhave / right effort  
 *Bhikkhave, this is said to be "sammāvāyāma" (right effort).*  
 *Passive 🔴: `vaca` + `ya` as `-cc-` {441}, with the active ending {518}; `sammāvāyāmo`, the thing said, in ①; [Bonus: 35, 21.24](../11-pbt/#s35-u21-24).*
 
@@ -200,6 +200,6 @@ leading to the cessation of suffering / path / realisation / to be developed / t
 6. > Taṁ kiṁ **maññatha**, bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā”ti?
 
 *️⃣🤟🚻⨀②(ta) *️⃣🤟🚻⨀②(kiṁ) 🟢⨂🤘▶️(maññati) 🚹⨂⓪(bhikkhu) 🚻⨀①(rūpa) 🚻⨀①(nicca) ⏏️(vā) 🚻⨀①🆎(na+nicca) ⏏️(vā) ⏏️(iti)  
-that / what / do you think / bhikkhave / form / permanent / or / impermanent / or / (end quote)  
+that / what / do you think / Bhikkhave / form / permanent / or / impermanent / or / (end quote)  
 *“Bhikkhave, what do you consider: is `rūpa` (form) `nicca` (permanent) or `anicca` (impermanent)?”*  
 *Neither: `-ññ-` is the `divu` class's own `ya` {447}, {444}, `√man (3, ya)`, and the dictionary glosses it "think", not "is …": active; [7: 6.1](../7-anatta/#u6-1).*

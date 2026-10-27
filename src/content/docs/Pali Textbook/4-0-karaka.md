@@ -18,7 +18,7 @@ Chapter 1 gave the typical meanings of the endings in one table; this chapter de
 :::
 
 `kāraka` means the "cause" or "participants" of actions, and the relationship
-between various words in a Pali sentence. The following are descriptions of
+between various words in a Pāḷi sentence. The following are descriptions of
 various `kāraka` categories, and the typical `vibhatti` endings that are
 applied to words belonging to those categories.
 

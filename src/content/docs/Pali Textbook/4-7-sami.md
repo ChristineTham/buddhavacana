@@ -87,7 +87,7 @@ weeping / of the boy / [he] went forth
 
 ### Exercises
 
-Translate the following from Pali to English and find the ⑥ word in each. Look
+Translate the following from Pāḷi to English and find the ⑥ word in each. Look
 up the words in a dictionary, do any sandhi and compound deconstruction needed,
 and take note of the `vibhatti` endings to deduce the meaning. All four are
 from the texts, each linked to its sentence.

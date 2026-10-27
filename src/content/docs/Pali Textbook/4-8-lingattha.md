@@ -121,8 +121,8 @@ not `visākho`; `saṅkhārā` simply names, ① plural {284}.
 3. > Rūpaṁ, **bhikkhave**, anattā.
 
 🚻⨀①(rūpa) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(na+atta)  
-form / bhikkhave / not-self  
-*`rūpa` (form), bhikkhave, is `anattā` (not-self).*
+form / Bhikkhave / not-self  
+*`rūpa` (form), Bhikkhave, is `anattā` (not-self).*
 
 `rūpaṁ` and `anattā` simply name, in ① {284}, with no verb between them;
 `bhikkhave` calls the listeners, ⓪ {285}.
@@ -130,7 +130,7 @@ form / bhikkhave / not-self
 4. > Cakkhu, **bhikkhave**, ādittaṁ, rūpā ādittā, cakkhuviññāṇaṁ ādittaṁ, cakkhusamphasso āditto.
 
 🚻⨀①(cakkhu) 🚹⨂⓪(bhikkhu) 🚻⨀①🔽(ta)(āditta) 🚻⨂①(rūpa) 🚻⨂①🔽(ta)(āditta) 🚻⨀①🆎(cakkhu+viññāṇa) 🚻⨀①🔽(ta)(āditta) 🚹⨀①🆎(cakkhu+samphassa) 🚹⨀①🔽(ta)(āditta)  
-the eye / bhikkhave / burning / forms / burning / eye-consciousness / burning / eye-contact / burning  
+the eye / Bhikkhave / burning / forms / burning / eye-consciousness / burning / eye-contact / burning  
 *The `cakkhu` (eye) is burning, `rūpā` (forms) are burning, `cakkhuviññāṇaṁ` (eye-consciousness) is burning, `cakkhusamphasso` (eye-contact) is burning.*
 
 Every word but `bhikkhave` (⓪ {285}) is in ① {284}: `cakkhu`, `rūpā`,

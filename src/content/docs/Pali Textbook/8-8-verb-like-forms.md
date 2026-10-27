@@ -112,7 +112,7 @@ set in motion / and / now / by the Bhagavā / the wheel of the Dhamma
 > Dveme, bhikkhave, antā pabbajitena na **sevitabbā**
 
 ⚧⨂①(dvi) *️⃣🤟🚹⨂①(ima) 🚹⨂⓪(bhikkhu) 🚹⨂①(anta) 🚹⨀③🔽(ta)(pabbajita) ⏏️(na) 🚹⨂①🔽(tabba)(sevitabba)  
-two / these / bhikkhave / extremes / by one gone forth / not / should be cultivated  
+two / these / Bhikkhave / extremes / by one gone forth / not / should be cultivated  
 *`sevitabbā`, "should be cultivated": `tabba` {540}, agreeing with `antā` 🚹⨂①, the doer `pabbajitena` in the ③; [5: 2.1](../5-dhammacakka/#u2-1).*
 
 > saddaṁ **sutvā** cātumahārājikā devā saddamanussāvesuṁ
@@ -188,5 +188,5 @@ in this / and / moreover / detailed exposition / being spoken
 5. > Evaṁ **passaṁ**, bhikkhave, sutavā ariyasāvako
 
 ⏏️(evaṁ) 🚹⨀①🔽(anta)(passanta) 🚹⨂⓪(bhikkhu) 🚹⨀①(sutavant) 🚹⨀①🆎(ariya+sāvaka)  
-thus / seeing / bhikkhave / learned / awakened disciple  
+thus / seeing / Bhikkhave / learned / awakened disciple  
 *`passaṁ`, "seeing": `anta` {565}, its `-nta` become `-aṁ` before the ① ending {186}, agreeing with `ariyasāvako` 🚹⨀①; [9: 8.1](../9-fire/#u8-1).*

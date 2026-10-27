@@ -4,7 +4,7 @@ sidebar:
   label: "B: Alphabet"
   order: 564
 description: >
-  Concise summary of the romanised Pali Alphabet
+  Concise summary of the romanised Pāḷi Alphabet
 ---
 
 :::tip[Info]
@@ -13,7 +13,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 
 ## Alphabet Order
 
-Pali consists of 8 vowels (sara) and 33 consonants (vyañjana), arranged in the following order (the letters in round brackets are unused in the dictionary):
+Pāḷi consists of 8 vowels (sara) and 33 consonants (vyañjana), arranged in the following order (the letters in round brackets are unused in the dictionary):
 
 >sara: a, ā, i, ī, u, ū
 >kaṇṭhatāluja: e

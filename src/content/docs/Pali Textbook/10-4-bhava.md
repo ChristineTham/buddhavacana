@@ -143,7 +143,7 @@ like / a certain / seed
 4. > **Katame** ca, bhikkhave, saṅkhārā?
 
 *️⃣🤟🚹⨂①(katama) ⏏️(ca) 🚹⨂⓪(bhikkhu) 🚹⨂①(saṅkhāra)  
-what / and / bhikkhave / mental constructions  
+what / and / Bhikkhave / mental constructions  
 *`tama` {363}: `-tama` on the question word `ka` (who? what?) asks "which of the many?"; [Bonus: 13, 10.1](../11-pbt/#s13-u10-1).*
 
 5. > **anuttaraṁ** yogakkhemaṁ nibbānaṁ

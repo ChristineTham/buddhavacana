@@ -97,7 +97,7 @@ surely? / if / this / Bhikkhave / could have been / not born / not become / not 
 > Saṅkhārā ca hidaṁ, bhikkhave, attā **abhavissaṁsu**
 
 🚹⨂①(saṅkhāra) ⏏️(ca) ⏏️(hi) *️⃣🤟🚻⨀①(ima) 🚹⨂⓪(bhikkhu) 🚹⨀①(atta) 🟢⨂🤟🔀(bhavati)  
-mental constructions / and / indeed / this / bhikkhave / self / would be  
+mental constructions / and / indeed / this / Bhikkhave / self / would be  
 *`abhavissaṁsu`, "would be": `-ssaṁsu`, the conditional, third person plural {430}, with the `a-` {519} and no "if" spoken; [7: 4.5](../7-anatta/#u4-5).*
 
 ### Exercises
@@ -126,7 +126,7 @@ deconstruction.
 1. > Rūpañca hidaṁ, bhikkhave, attā **abhavissa**
 
 🚻⨀①(rūpa) ⏏️(ca) ⏏️(hi) *️⃣🤟🚻⨀①(ima) 🚹⨂⓪(bhikkhu) 🚹⨀①(atta) 🟢⨀🤟🔀(bhavati)  
-form / and / indeed / this / bhikkhave / self / would be  
+form / and / indeed / this / Bhikkhave / self / would be  
 *`abhavissa`, "would be": the conditional, third person singular, `a-` {519}, `-ssa` for `-ssā` {430}, with no "if" spoken; [7: 2.2](../7-anatta/#u2-2).*
 
 2. > kilanto addhānaṁ **gamissati**

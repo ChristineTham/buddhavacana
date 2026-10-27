@@ -27,7 +27,7 @@ follow the root's meaning, those that reverse it (`gacchati` "goes",
 "knows clearly").
 
 Ask of such a word: what is left when the prefix is taken off, and what did it
-add? The Digital Pali Dictionary's `construction` field answers the first
+add? The Digital Pāḷi Dictionary's `construction` field answers the first
 (`vi + hara + ti`), the first table below the second. A prefix may change
 shape at the join, and two or three may stand together (`abhisambuddho`); the
 second table gives the shapes. The texts' analysis lines and the dictionary treat a prefixed word as

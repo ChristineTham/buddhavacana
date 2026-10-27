@@ -4,7 +4,7 @@ sidebar:
   label: "1: Pali Essentials"
   order: 503
 description: >
-  A concise overview of the Pali language covering key features
+  A concise overview of the Pāḷi language covering key features
 categories: ["palibook"]
 tags:
   - sandhi
@@ -118,7 +118,7 @@ An "abugida" is a segmental writing system in which consonant–vowel sequences 
 Pāḷi is generally written in various Brahmic scripts (also known as Indic scripts), which are abugida writing systems. Brahmic scripts are used throughout the Indian subcontinent, Southeast Asia and parts of East Asia. They are descended from the Brahmi script of ancient India. Brahmi is clearly attested from the 3rd century BCE during the reign of Ashoka, who used the script for imperial edicts.
 :::
 
-In Roman script, Pali consists of 8 vowels (`sara`) and 33 consonants (`vyañjana`), arranged in the following order (the letters in round brackets are not commonly encountered):
+In Roman script, Pāḷi consists of 8 vowels (`sara`) and 33 consonants (`vyañjana`), arranged in the following order (the letters in round brackets are not commonly encountered):
 
 >sara: a, ā, i, ī, u, ū  \
 >kaṇṭhatāluja: e  \
@@ -708,7 +708,7 @@ However, there are quite a few `nipāta` that can be placed before some verbs or
 | `antaradhāyati` | `antara` | `dhāyati` | (he) disappears |
 | `āvikaroti` | `āvi` | `karoti` | (he) makes it openly, displays clearly |
 | `pātubhavati` | `pātu` | `bhavati` | (it) arises visibly, i.e. appears |
-| `sacchikaroti` | `sacchi` | `karoti` | (he) realizes, i.e. attains |
+| `sacchikaroti` | `sacchi` | `karoti` | (he) realises, i.e. attains |
 | `vinābhāvo` | `vinā` | `bhāvo` | separation, being apart |
 | `sahacārī` | `saha` | `cārī` | the one who used to be together, a friend |
 | `punabbhavo` | `puna` | `bhavo` | appearing again, reoccurring existence |
@@ -2641,11 +2641,11 @@ stateDiagram-v2
 ## Conclusion
 
 Congratulations on finishing this chapter! It is compact and dense, and not
-every feature of Pali explained here will sink in initially. It may be
+every feature of Pāḷi explained here will sink in initially. It may be
 worthwhile revisiting this chapter from time to time to check your understanding
-as you progress in your journey in learning Pali.
+as you progress in your journey in learning Pāḷi.
 
-The good news is you now know enough of the basics of Pali to start reading
+The good news is you now know enough of the basics of Pāḷi to start reading
 the `Tipiṭaka` with the aid of a good dictionary, and looking up every word
 as you go along. You may encounter sentences that you can't interpret very
 well, but that's okay. Leave it for now, and study the next chapters, which

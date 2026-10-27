@@ -90,8 +90,8 @@ With existence as cause, `jāti` (birth of suffering) [arises];
 
 <a id="u3-11"></a>3.11 jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.  
 🚹⨀⑤🆎(jāti+paccaya) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🟢⨂🤟▶️(sambhavati)  
-with birth as cause | aging and death | sorrow, lamentation, pain, displeasure and despair | come into being  
-With birth as cause, `jarāmaraṇaṁ` (aging and death), `soka` (sorrow), `parideva` (lamentation), `dukkha` (pain), `domanassa` (displeasure), and `upāyāsā` (despair) come into being.
+with birth as cause | ageing and death | sorrow, lamentation, pain, displeasure and despair | come into being  
+With birth as cause, `jarāmaraṇaṁ` (ageing and death), `soka` (sorrow), `parideva` (lamentation), `dukkha` (pain), `domanassa` (displeasure), and `upāyāsā` (despair) come into being.
 
 <a id="u3-12"></a>3.12 Evametassa kevalassa dukkhakkhandhassa samudayo hoti.  
 ⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(samudaya) 🟢⨀🤟▶️(hoti)  
@@ -150,8 +150,8 @@ with the cessation of existence comes the cessation of the birth of suffering;
 
 <a id="u4-11"></a>4.11 jātinirodhā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā nirujjhanti.  
 🚹⨀⑤🆎(jāti+nirodha) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🔴⨂🤟▶️(nirujjhati)  
-with the cessation of birth | aging and death | sorrow, lamentation, pain, displeasure and despair | cease  
-with the cessation of birth, aging and death, sorrow, lamentation, pain, displeasure, and despair cease.
+with the cessation of birth | ageing and death | sorrow, lamentation, pain, displeasure and despair | cease  
+with the cessation of birth, ageing and death, sorrow, lamentation, pain, displeasure, and despair cease.
 
 <a id="u4-12"></a>4.12 Evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti.  
 ⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(nirodha) 🟢⨀🤟▶️(hoti) ⏏️(iti)  
@@ -243,8 +243,8 @@ With existence as cause, the birth (of suffering) [arises];
 
 <a id="u7-12"></a>7.12 jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.  
 🚹⨀⑤🆎(jāti+paccaya) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🟢⨂🤟▶️(sambhavati)  
-with birth as cause | aging and death | sorrow, lamentation, pain, displeasure and despair | come into being  
-With birth as cause, `jarāmaraṇaṁ` (aging and death), `soka` (sorrow), `parideva` (lamentation), `dukkha` (pain), `domanassa` (displeasure), and `upāyāsā` (despair) come into being.
+with birth as cause | ageing and death | sorrow, lamentation, pain, displeasure and despair | come into being  
+With birth as cause, `jarāmaraṇaṁ` (ageing and death), `soka` (sorrow), `parideva` (lamentation), `dukkha` (pain), `domanassa` (displeasure), and `upāyāsā` (despair) come into being.
 
 <a id="u7-13"></a>7.13 Evametassa kevalassa dukkhakkhandhassa samudayo hoti.  
 ⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(samudaya) 🟢⨀🤟▶️(hoti)  
@@ -303,8 +303,8 @@ with the cessation of existence comes the cessation of the birth (of suffering);
 
 <a id="u7-24"></a>7.24 jātinirodhā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā nirujjhanti.  
 🚹⨀⑤🆎(jāti+nirodha) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🔴⨂🤟▶️(nirujjhati)  
-with the cessation of birth | aging and death | sorrow, lamentation, pain, displeasure and despair | cease  
-with the cessation of birth, aging and death, sorrow, lamentation, pain, displeasure, and despair cease.
+with the cessation of birth | ageing and death | sorrow, lamentation, pain, displeasure and despair | cease  
+with the cessation of birth, ageing and death, sorrow, lamentation, pain, displeasure, and despair cease.
 
 <a id="u7-25"></a>7.25 Evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti.  
 ⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(nirodha) 🟢⨀🤟▶️(hoti) ⏏️(iti)  
@@ -396,8 +396,8 @@ With existence as cause, the birth (of suffering) [arises];
 
 <a id="u10-12"></a>10.12 jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti.  
 🚹⨀⑤🆎(jāti+paccaya) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🟢⨂🤟▶️(sambhavati)  
-with birth as cause | aging and death | sorrow, lamentation, pain, displeasure and despair | come into being  
-With birth as cause, `jarāmaraṇaṁ` (aging and death), `soka` (sorrow), `parideva` (lamentation), `dukkha` (pain), `domanassa` (displeasure), and `upāyāsā` (despair) come into being.
+with birth as cause | ageing and death | sorrow, lamentation, pain, displeasure and despair | come into being  
+With birth as cause, `jarāmaraṇaṁ` (ageing and death), `soka` (sorrow), `parideva` (lamentation), `dukkha` (pain), `domanassa` (displeasure), and `upāyāsā` (despair) come into being.
 
 <a id="u10-13"></a>10.13 Evametassa kevalassa dukkhakkhandhassa samudayo hoti.  
 ⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(samudaya) 🟢⨀🤟▶️(hoti)  
@@ -456,8 +456,8 @@ with the cessation of existence comes the cessation of the birth (of suffering);
 
 <a id="u10-24"></a>10.24 jātinirodhā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā nirujjhanti.  
 🚹⨀⑤🆎(jāti+nirodha) 🚻⨀①🆎(jarā+maraṇa) 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa) 🔴⨂🤟▶️(nirujjhati)  
-with the cessation of birth | aging and death | sorrow, lamentation, pain, displeasure and despair | cease  
-with the cessation of birth, aging and death, sorrow, lamentation, pain, displeasure, and despair cease.
+with the cessation of birth | ageing and death | sorrow, lamentation, pain, displeasure and despair | cease  
+with the cessation of birth, ageing and death, sorrow, lamentation, pain, displeasure, and despair cease.
 
 <a id="u10-25"></a>10.25 Evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti.  
 ⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(nirodha) 🟢⨀🤟▶️(hoti) ⏏️(iti)  

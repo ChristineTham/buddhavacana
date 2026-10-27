@@ -57,7 +57,7 @@ where the full set is tabled.
 | {351} | `rāsi` "heap" | kumbhassa rāsi | kumbha | ṇika | kumbh~~a~~ + ~~ṇ~~ika + ~~si~~ (ṁ) | kumbhikaṁ | one-kumbha-measured heap of grains |
 | {351} | `arahati` "deserve" | kumbhaṁ arahatī’ti | kumbha | ṇika | kumbh~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | kumbhiko | someone deserving one-Kumbha of grains |
 | {351} | `dibbati` "to play a game of luck" | akkhena dibbatī’ti | akkha | ṇika | akkh~~a~~ + ~~ṇ~~ik~~a~~ + ~~si~~ (o) | akkhiko | dice-player, gambler |
-| {352} | `rāga` "dye" | kasāvena rattaṁ vatthaṁ | kasāva | ṇa | kasāv~~a~~ + ~~ṇ~~a + ~~si~~ (ṁ) | kāsāvaṁ | yellow-colored robe |
+| {352} | `rāga` "dye" | kasāvena rattaṁ vatthaṁ | kasāva | ṇa | kasāv~~a~~ + ~~ṇ~~a + ~~si~~ (ṁ) | kāsāvaṁ | yellow-coloured robe |
 | {352} | `idaṁ` "(this) belongs to" | sūkarassa idaṁ maṁsaṁ | sūkara | ṇa | s~~ū~~(o)kar~~a~~ + ~~ṇ~~a + ~~si~~ (ṁ) | sokaraṁ | pig’s meat, i.e. pork |
 | {352} | `avidūra` "not far off, in proximity" | udumbarassa avidūre pavattaṁ vimānaṁ | udumbara | ṇa | udumbar~~a~~ + ~~ṇ~~a + ~~si~~ (ṁ) | odumbaraṁ | the mansion near fig tree |
 | {352} | `jāta` "native" | mathurāya jāto | mathurā | ṇa | mathur~~ā~~ + ~~ṇa~~ + ~~si~~ (o) | māthuro | the native of Mathurā |
@@ -100,7 +100,7 @@ a simile or a metaphoric likeness
 
 | sutta | phrase | base | affix | transformation | word | meaning |
 | --- | --- | --- | --- | --- | --- | --- |
-| {357} | dhūmo viya dissati aduṁ vanaṁ ta’didaṁ | dhūma | āyitatta | dhūm~~a~~ + āyitatta + ~~si~~ (ṁ) | dhūmāyitattaṁ | the smoky forest (whose color is like green-greyish when seen from a distance) |
+| {357} | dhūmo viya dissati aduṁ vanaṁ ta’didaṁ | dhūma | āyitatta | dhūm~~a~~ + āyitatta + ~~si~~ (ṁ) | dhūmāyitattaṁ | the smoky forest (whose colour is like green-greyish when seen from a distance) |
 | {357} | timiraṁ viya dissati aduṁ vanaṁ ta’didaṁ | timira | āyitatta | timir~~a~~ + āyitatta + ~~si~~ (ṁ) | timirāyitattaṁ | the darkish-looking forest |
 
 ## `tannissita` (“dependent nature and source”)
@@ -130,7 +130,7 @@ someone or something)
 | --- | --- | --- | --- | --- | --- | --- |
 | {360} | alasassa bhāvo | alasa | ṇya | alas~~a~~ + ~~ṇ~~ya + ~~si~~ (ṁ) | ālasyaṁ | the state of being lazy, the laziness |
 | {360} | paṁsukūlikassa bhāvo | paṁsukūlika | tta | paṁsukūlika + tta + ~~si~~ (ṁ) | paṁsukūlikattaṁ | practitioner-hood of Paṁsukūlika austerity-practice |
-| {360} | saṅgaṇikā’rāmassa bhāvo | saṅgaṇikārāma | tā | saṅgaṇikārāma + tā + ~~si~~ | saṅgaṇikā’rāmatā | gregariousness, being fond of socializing |
+| {360} | saṅgaṇikā’rāmassa bhāvo | saṅgaṇikārāma | tā | saṅgaṇikārāma + tā + ~~si~~ | saṅgaṇikā’rāmatā | gregariousness, being fond of socialising |
 | {360} | puthujjanassa bhāvo | puthujjana | ttana | puthujjana + ttana + ~~si~~ (ṁ) | puthujjanattanaṁ | the state of an ordinary person, still subject to the defilements |
 | {361} | visamassa bhāvo | visama | ṇa | visama + ~~ṇa~~ + ~~si~~ (ṁ) | vesamaṁ | state of being uneven, ruggedness, uneven-ness, non-level place of the earth |
 | {361} | sucissa bhāvo | suci | ṇa | s~~u~~(o)c~~i~~ + ~~ṇ~~a + ~~si~~ (ṁ) | socaṁ | the state of what is pure, purity |

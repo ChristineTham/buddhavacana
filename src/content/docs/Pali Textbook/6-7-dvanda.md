@@ -18,7 +18,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
 Many compounds in the texts are simply lists. `samaṇabrāhmaṇā` is "ascetics
-and brahmins", `candimasūriyā` "moon and sun", `jarāmaraṇaṁ` "aging and
+and brahmins", `candimasūriyā` "moon and sun", `jarāmaraṇaṁ` "ageing and
 death". Kaccāyana calls such a compound a `dvanda` ("pair"): a combination of
 nouns that would all carry the same ending if they stood apart {329}, so that
 `samaṇo ca brāhmaṇo ca` ("an ascetic and a brahmin") and the one word

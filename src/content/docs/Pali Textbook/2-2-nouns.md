@@ -133,7 +133,7 @@ in short / the five collections of fuel / suffering
 > jātipi **dukkhā**, jarāpi **dukkhā**, byādhipi **dukkho**, maraṇampi **dukkhaṁ**
 
 🚺⨀①(jāti) ⏏️(api) 🚺⨀①(dukkha) 🚺⨀①(jarā) ⏏️(api) 🚺⨀①(dukkha) 🚹⨀①(byādhi) ⏏️(api) 🚹⨀①(dukkha) 🚻⨀①(maraṇa) ⏏️(api) 🚻⨀①(dukkha)  
-birth / too / suffering / aging / too / suffering / illness / too / suffering / death / too / suffering  
+birth / too / suffering / ageing / too / suffering / illness / too / suffering / death / too / suffering  
 *One adjective, three shapes: `dukkhā` with the 🚺 `jāti` and `jarā` {237}, `dukkho` with the 🚹 `byādhi` {104}, `dukkhaṁ` with the 🚻 `maraṇa` {219}; [5: 4.1](../5-dhammacakka/#u4-1).*
 
 > **upasamāya abhiññāya sambodhāya nibbānāya** saṁvattati
@@ -228,5 +228,5 @@ of the group of five / bhikkhū / not grasping / from the defilements / minds / 
 8. > **Rāgagginā**, dosagginā, mohagginā ādittaṁ, **jātiyā** jarāya maraṇena
 
 🚹⨀③🆎(rāga+aggi) 🚹⨀③🆎(dosa+aggi) 🚹⨀③🆎(moha+aggi) 🚻⨀①🔽(ta)(āditta) 🚺⨀③(jāti) 🚺⨀③(jarā) 🚻⨀③(maraṇa)  
-with the fire of passion / with the fire of hatred / with the fire of delusion / burning / with birth / with aging / with death  
-*Burning with the fire of passion (`rāgaggi`), with the fire of hatred (`dosaggi`), with the fire of delusion (`mohaggi`); burning with birth, aging, death*  
+with the fire of passion / with the fire of hatred / with the fire of delusion / burning / with birth / with ageing / with death  
+*Burning with the fire of passion (`rāgaggi`), with the fire of hatred (`dosaggi`), with the fire of delusion (`mohaggi`); burning with birth, ageing, death*  

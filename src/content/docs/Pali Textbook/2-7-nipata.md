@@ -115,7 +115,7 @@ there / indeed / the Bhagavā
 > **jātipi** dukkhā, **jarāpi** dukkhā
 
 🚺⨀①(jāti) ⏏️(api) 🚺⨀①(dukkha) 🚺⨀①(jarā) ⏏️(api) 🚺⨀①(dukkha)  
-birth / too / suffering / aging / too / suffering  
+birth / too / suffering / ageing / too / suffering  
 *`pi` ("too") after each item adds it to the list ([5: 4.1](../5-dhammacakka/#u4-1)).*
 
 > ‘Idaṁ dukkhaṁ **ariyasaccan’ti**
@@ -127,13 +127,13 @@ this / suffering / realisation / thus
 > **Kiñca**, bhikkhave, sabbaṁ ādittaṁ?
 
 *️⃣🤟🚻⨀①(kiṁ) ⏏️(ca) 🚹⨂⓪(bhikkhu) *️⃣🤟🚻⨀①(sabba) 🚻⨀①🔽(ta)(āditta)  
-what / and / bhikkhave / all / burning  
+what / and / Bhikkhave / all / burning  
 *`kiñca` is `kiṁ` + `ca`, the `ṁ` turned into `ñ` before `c` {31}: `ca` carries the question on, "and what …?" ([9: 2.2](../9-fire/#u2-2)).*
 
 > “**No hetaṁ**, bhante”.
 
 ⏏️(no) ⏏️(hi) *️⃣🤟🚻⨀①(eta) 🚹⨀⓪(bhavant)  
-not / indeed / this / bhante  
+not / indeed / this / Bhante  
 *`no` denies; `hetaṁ` is `hi` + `etaṁ` {12} ([7: 6.6](../7-anatta/#u6-6)).*
 
 ### Exercises
@@ -168,7 +168,7 @@ then / his / doubts / vanish / all
 2. > Idaṁ kho pana, bhikkhave,
 
 *️⃣🤟🚻⨀①(ima) ⏏️(kho) ⏏️(pana) 🚹⨂⓪(bhikkhu)  
-this / indeed / now / bhikkhave  
+this / indeed / now / Bhikkhave  
 *`kho pana`, second in the sentence: `kho` stresses `idaṁ`, `pana` ("now") joins on.*
 
 3. > Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—

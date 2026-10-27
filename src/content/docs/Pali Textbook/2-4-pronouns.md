@@ -122,7 +122,7 @@ them with the rule that drops their endings {221}.
 > **Dveme**, bhikkhave, antā
 
 ⚧⨂①(dvi) *️⃣🤟🚹⨂①(ima) 🚹⨂⓪(bhikkhu) 🚹⨂①(anta)  
-two / these / bhikkhave / extremes  
+two / these / Bhikkhave / extremes  
 *"These two extremes" ([5: 2.1](../5-dhammacakka/#u2-1)): `dveme` is `dve` + `ime` ([2.1](../2-1-sandhi/)); `ime`, `ima` ①⨂ 🚹 {164}, agrees with `antā`.*
 
 > yo **tassāyeva** taṇhāya asesavirāganirodho
@@ -178,15 +178,15 @@ with what / burning
 2. > Ete kho, bhikkhave, ubho ante anupagamma.
 
 *️⃣🤟🚹⨂②(eta) ⏏️(kho) 🚹⨂⓪(bhikkhu) *️⃣🤟🚹⨂②(ubha) 🚹⨂②(anta) 🔽(ya)(anupagacchati)  
-these / indeed / bhikkhave / both / extremes / not approaching  
-*Without veering towards either of these two extremes, bhikkhave, …*  
+these / indeed / Bhikkhave / both / extremes / not approaching  
+*Without veering towards either of these two extremes, Bhikkhave, …*  
 `ete`, `eta` ②⨂ 🚹 {107}, and `ubho`, `ubha` ②⨂ {205}, both agree with `ante`.
 
 3. > Katamā ca sā, bhikkhave, majjhimā paṭipadā?
 
 *️⃣🤟🚺⨀①(katama) ⏏️(ca) *️⃣🤟🚺⨀①(ta) 🚹⨂⓪(bhikkhu) 🚺⨀①(majjhima) 🚺⨀①(paṭipadā)  
-which / and / that / bhikkhave / middle / way  
-*And what, bhikkhave, is that middle way?*  
+which / and / that / Bhikkhave / middle / way  
+*And what, Bhikkhave, is that middle way?*  
 `katamā` and `sā` {174}: 🚺⨀① like `paṭipadā`; the question word is a pronoun and agrees like one.
 
 4. > Yo cāyaṁ kāmesu kāmasukhallikānuyogo.
@@ -206,8 +206,8 @@ in this / and / moreover / detailed exposition / being spoken
 6. > neva tāvāhaṁ, bhikkhave
 
 ⏏️(na) ⏏️(eva) ⏏️(tāva) *️⃣👆⚧⨀①(ahaṁ) 🚹⨂⓪(bhikkhu)  
-not / indeed / so long / I / bhikkhave  
-*so long, bhikkhave, I did not …*  
+not / indeed / so long / I / Bhikkhave  
+*so long, Bhikkhave, I did not …*  
 `tāvāhaṁ` is `tāva` + `ahaṁ` ([2.1](../2-1-sandhi/)): `ahaṁ`, `amha` ①⨀ {140}, the subject of `paccaññāsiṁ`; `tāva` answers the `yāva` before it.
 
 7. > Yadā have pātubhavanti dhammā

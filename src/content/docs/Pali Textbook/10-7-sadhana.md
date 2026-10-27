@@ -89,7 +89,7 @@ he does → a doer
 
 > **ñāṇaṁ**
 
-🚻⨀①🔽(yu)(ñāṇa)  
+🚻⨀①(ñāṇa)  
 knowing, knowledge  
 *`yu` {641}: `-ana` on `√ñā` (know), neuter: the act of knowing, `ñāṇaṁ hoti` ([7: 11.3](../7-anatta/#u11-3)).*
 

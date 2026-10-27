@@ -85,7 +85,7 @@ by the yakkha / given / the boon
 
 ### Exercises
 
-Translate the following from Pali to English. Each has a word with the ③
+Translate the following from Pāḷi to English. Each has a word with the ③
 ending: find it and say which row of the table it belongs to. Look up the
 words in a dictionary, perform the necessary sandhi and compound word
 deconstruction, and take note of the `vibhatti` endings to deduce the meaning
@@ -119,8 +119,8 @@ Accompanied by {287}: `saddhiṁ` ("together with") goes with a ③ noun.
 2. > Dveme, bhikkhave, antā **pabbajitena** na sevitabbā.
 
 ⚧⨂①(dvi) *️⃣🤟🚹⨂①(ima) 🚹⨂⓪(bhikkhu) 🚹⨂①(anta) 🚹⨀③🔽(ta)(pabbajita) ⏏️(na) 🚹⨂①🔽(tabba)(sevitabba)  
-two / these / bhikkhave / extremes / by one gone forth / not / should be cultivated  
-*“These two extremes, bhikkhave, should not be cultivated by one who has gone forth.*
+two / these / Bhikkhave / extremes / by one gone forth / not / should be cultivated  
+*“These two extremes, Bhikkhave, should not be cultivated by one who has gone forth.*
 
 The doer of a passive verb {288}: `sevitabbā` ("should be cultivated") is passive; the one who would cultivate them stands in ③.
 

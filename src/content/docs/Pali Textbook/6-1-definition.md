@@ -71,8 +71,8 @@ of Māra / army → the army of Māra
 2. > jarā ca maraṇaṁ ca → **jarāmaraṇaṁ**
 
 🚺⨀①(jarā) ⏏️(ca) 🚻⨀①(maraṇa) ⏏️(ca) → 🚻⨀①🆎(jarā+maraṇa)  
-aging / and / death / and → aging and death  
-*`jarā` (aging) and `maraṇa` (death), joined as "and"; ① on the whole.*
+ageing / and / death / and → ageing and death  
+*`jarā` (ageing) and `maraṇa` (death), joined as "and"; ① on the whole.*
 
 3. > eko pallaṅko → **ekapallaṅkena**
 
