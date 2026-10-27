@@ -130,7 +130,7 @@ Alaṃ Ānanda, mā paridevesi.
 He understands that (use direct speech) these beings (are) endowed with bad-conduct-of-the-body (D I 82,25-29)  
 So pajānāti: 'ime sattā kāyaduccaritena samannāgatā'.
 
-Not-memorizing that speech, I left (D I 53,13-14)  
+Not-memorising that speech, I left (D I 53,13-14)  
 Taṃ vācam (or bhāsitam or vacanam) anuggaṇhanto pakkāmiṃ.
 
 Why (is) this unexplained by the philosopher Gotama? (Cf. D I 188,32)  
