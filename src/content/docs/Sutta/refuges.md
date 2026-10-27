@@ -24,7 +24,7 @@ sidebar:
 classDiagram
   class sentence["dutiyampi/tatiyampi buddhaṃ/dhammaṃ/saṅghaṃ saraṇaṃ gacchāmi"] {
     <<vākya>>
-    english((For the second/third time) I go to the Buddha/Dhamma/Sangha as refuge)
+    english([For the second/third time too,] I go to the Buddha/Dhamma/Saṅgha as refuge.)
   }
   namespace saṅkhyāpūraṇa {
     class dutiyaṃ {
