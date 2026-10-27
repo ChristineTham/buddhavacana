@@ -89,7 +89,7 @@ same class, so the rest of each column reads as `purisa`, `aggi` and
 | ⓪ | `citta` | `cittāni` | `aṭṭhi` | `aṭṭhīni` | `cakkhu` | `cakkhūni` |
 
 Two habits of the tables are worth fixing in the eye. The plural ③ to ⑦ of
-every class are the same three shapes, `-hi`, `-naṁ`, `-hi`, `-su`, on the
+every class are the same three shapes, `-hi` (③ and ⑤), `-naṁ` (④ and ⑥) and `-su` (⑦), on the
 lemma's final vowel, long in `i` and `u` words (`bhikkhūhi`, `rattīnaṁ`,
 `aggīsu`) and `e` for `a` (`purisehi`, `purisesu`). And a feminine has one
 singular shape for ③ to ⑦, `-āya` after `ā` {111} and `-iyā` after `i` or `ī`

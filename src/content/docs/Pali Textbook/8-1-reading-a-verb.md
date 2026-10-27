@@ -67,7 +67,7 @@ met below.
 | symbol | set | the ending says | rule | in the texts |
 | :-: | --- | --- | :-: | --- |
 | ▶️ | `vattamānā` ("going on") | the present (`paccuppanna`): what is happening now | {414} | `viharati` |
-| ⏹ | `pañcamī` ("the fifth") | a command (`āṇatti`) or a wish (`āsīsa`), no time stated | {415} | `uppajjatu` |
+| ⏹ | `pañcamī` ("the fifth") | a command (`āṇatti`) or a wish or blessing (`āsīsa`), no time stated | {415} | `uppajjatu` |
 | ⏯ | `sattamī` ("the seventh") | permission (`anumati`) or supposition (`parikappa`): may, should, would | {416} | `vadeyyātha` |
 | 🔄 | `parokkhā` ("beyond the eye") | a past the speaker did not witness (`apaccakkha`): "they say" | {417} | `āha` (in `evamāha`) |
 | ↩️ | `hiyyattanī` ("of yesterday") | the past from yesterday back, witnessed or not | {418} | `ajjhagamaṁ` |

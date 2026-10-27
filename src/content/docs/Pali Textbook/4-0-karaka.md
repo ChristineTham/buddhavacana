@@ -38,7 +38,7 @@ flowchart TD
   Q -->|"it is spoken to"| K0["the one addressed: ⓪ ālapana"]
 ```
 
-Kaccāyana first defines the `kāraka` {271}–{283}, in the order below, and then states which `vibhatti` ending each takes and the other senses each ending carries {284}–{315}. The chapter follows that order, one section for each `kāraka`, and ends with the two uses of the ① ending that name no `kāraka`.
+Kaccāyana first defines the `kāraka` {271}–{283}, in the order below, and then states which `vibhatti` ending each takes and the other senses each ending carries {284}–{315}. The chapter follows that order, one section for each `kāraka`, and ends with the two uses of the ① ending that name no `kāraka`. The tradition counts six `kāraka`: `apādāna`, `sampadāna`, `okāsa`, `karaṇa`, `kamma` and `kattā`, with the `hetu` of {282} a kind of `kattā`; `sāmī` {283} is defined in the same run but is not a `kāraka`, since the owner has no direct connection with the action (Buddhappiya's comment on [Rūpasiddhi 316](https://kaccayana.github.io/rupasiddhi/3-karakakanda#r316)), and the chapter gives it a section of its own all the same.
 
 :::tip[Reading path]
 On a first reading take the first use or two of each section, the ones the diagram names,

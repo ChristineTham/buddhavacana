@@ -144,7 +144,7 @@ the Cātumahārājikā / devas
 
 🚹⨀①(hīna) 🚹⨀①(gamma) 🚹⨀①(pothujjanika)  
 low / vulgar / worldly  
-*`ṇika` {351}, "the property of": `-ika` on `puthujjana` ("an ordinary person"), the first `u` becoming `o`; worldly; [5: 2.3](../5-dhammacakka/#u2-3).*
+*`ṇika` {351}, "belonging to", one of the further senses the rule's "and the like" admits: `-ika` on `puthujjana` ("an ordinary person"), the first `u` becoming `o`; worldly; [5: 2.3](../5-dhammacakka/#u2-3).*
 
 5. > majjhe jātaṁ → **majjhimaṁ**
 

@@ -75,7 +75,7 @@ is rare in the texts.
 
 They have no gender, so no noun agrees with them: ⚧ in the symbol line. The
 short `me`, `te`, `no`, `vo` never open a sentence but lean on the word before
-them, `kho me`, `…saccan’ti me` {147}–{151}. Rarer: `mayhaṁ`, `tuyhaṁ` ④ ⑥
+them, `kho me`, `…saccan’ti me` {147}–{151}; this `no`, "us", "our", is a different word from the particle `no`, "not", of [2.7](../2-7-nipata/). Rarer: `mayhaṁ`, `tuyhaṁ` ④ ⑥
 {142}, `tumhākaṁ` ② {162}, `tumhaṁ` ④ ⑥ {163}.
 
 :::note[`te` and `taṁ`: two words each]

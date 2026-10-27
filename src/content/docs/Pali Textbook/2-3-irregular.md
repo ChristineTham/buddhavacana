@@ -87,7 +87,7 @@ The `s` of `manasā` is inserted before a vowel ending {184}.
 | `kamma` 🚻 (action) | `kammunā`, `kammanā`, `kammena`; `kammani`, `kamme`; the rest as `citta` | ③⨀; ⑦⨀ | {160}; {197}, {108} |
 | `mana` (mind), `ceta`, `vaca`, `tapa`, `teja`, `yasa`, `sira`: the `mano` group | `mano`, `ceto`, `tejo`; `mano-` in a compound | ①⨀ | {104}; {183} |
 | | `manasā`, `cetasā`, `vacasā`; `manaso`, `cetaso`; `manasi`, `vacasi` | ③⨀; ④⑥⨀; ⑦⨀ | {181}, {184}; {182} |
-| `go` (cow) | `go`; `gāvo`; `gāvaṁ`, `gavaṁ`; `gāvena`; `gāvassa`; `gunnaṁ`; `gosu` | ①⨀; ①②⨂; ②⨀; ③⨀; ④⑥⨀; ④⑥⨂; ⑦⨂ | {220}; {74}; {75}; {73}; {81} |
+| `go` (cow) | `go`; `gāvo`; `gāvaṁ`, `gavaṁ`; `gāvena`; `gāvassa`; `gunnaṁ`; `gosu` | ①⨀; ①②⨂; ②⨀; ③⨀; ④⑥⨀; ④⑥⨂; ⑦⨂ | {220}; {74}; {75}; {74}; {73}; {81}; {81} |
 
 ### Examples
 
@@ -167,8 +167,8 @@ this / my / self
 6. > Yāvajīvaṁ **arahanto** abrahmacariyaṁ pahāya
 
 ⏏️🆎(yāva+jīva) 🚹⨂①(arahant) 🚻⨀②🆎(na+brahmacariya) 🔽(ya)(pajahati)  
-life-long / liberated ones / incelibacy / giving up  
-*"Life long arahants (liberated ones) give up incelibacy": `arahanto`, ① plural of `arahanta` {122}, singular `arahaṁ` {186}; [Bonus: 32, 21.1](../11-pbt/#s32-u21-1).*
+life-long / liberated ones / uncelibacy / giving up  
+*"Life long arahants (liberated ones) give up uncelibacy": `arahanto`, ① plural of `arahanta` {122}, singular `arahaṁ` {186}; [Bonus: 32, 21.1](../11-pbt/#s32-u21-1).*
 
 7. > Evaṁ **passaṁ**, bhikkhave, **sutavā** ariyasāvako
 

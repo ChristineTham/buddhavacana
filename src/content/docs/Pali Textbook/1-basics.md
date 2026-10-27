@@ -299,13 +299,13 @@ to a root before it becomes a lemma, thus creating multi-syllabic
 lemmas. The result is a lemma that can be transformed into a word
 (through inflection forms - more later) used in a sentence.
 
-Altogether there are around 1700 roots in Pāḷi. However, many many lemmas can
+Altogether there are around 1700 roots in Pāḷi (the Digital Pāḷi Dictionary derives its words from about 750 of them; appendix [D](../d-roots/) sets out their classes). However, many many lemmas can
 be made from them by attaching `upasagga` (prefixes) and various affixes
 (`paccaya`). In theory, fresh lemmas can be formed by new combinations of roots
 with different prefixes so the adventurous Pāḷi student can attempt to create
 Pāḷi lemmas for "modern" terms such as "computer" or "phone".
 
-It is not really necessary to memorise the 1700 roots, although it will be
+It is not really necessary to memorise the roots, although it will be
 very useful if the reader chooses to do so. Knowing all the roots and the
 various prefixes and affixes will allow the reader to sometimes (not always)
 "guess" the meaning of a lemma not previously encountered, and will also help
@@ -538,7 +538,7 @@ It is also possible that a word in an inflection form from a different
 Middle Indo Aryan dialect can be mistaken as a different inflection form in
 Pāḷi. For example, in what Norman calls the "Eastern" dialect the first vibhatti forms
 for nouns often end in `-e` whereas in the "Western" dialect they end with `-o`.
-As an example, the vocative `bhikkhave` typically encountered in Pāḷi texts should probably be `bhikkhavo`, although Pind (2021) disputes this and argues `bhikkhavo` represents an emphatic usage compared to `bhikkhave`.
+As an example, the calling form ⓪ `bhikkhave` typically encountered in Pāḷi texts should probably be `bhikkhavo`, although Pind (2021) disputes this and argues `bhikkhavo` represents an emphatic usage compared to `bhikkhave`.
 
 ### Vibhatti usage typical meanings {271}-{315}
 
@@ -547,28 +547,28 @@ vibhatti. However, as noted above, these are conventions only, and the author of
 sentence may choose to associate an unconventional vibhatti ending to a word to
 (perhaps for emphatic or stylistic reasons).
 
-| vibhatti | number | role | usage | Pāḷi term | sutta |
-| :-: | :-: | --- | --- | --- | :-: |
-| ① | ⨀/⨂ | subject (active) | subject, doer | `kattu`/`kattā` | {284} |
-| ⓪ | ⨀/⨂ | address | to address, to call | `ālapana` | {285} |
-| ② | ⨀/⨂ | to (object) | object | `kamma` | {297} |
-| ② | ⨀/⨂ | till | continuity for a certain period or distance | `accantasaṁyoga` | {298} |
-| ③ | ⨀/⨂ | by (subject) (passive) | subject | `kattu`/`kattā` | {288} |
-| ③ | ⨀/⨂ | by/with | supporting cause | `karaṇa` | {286} |
-| ③ | ⨀/⨂ | with/together | company | `sahayoga` | {287} |
-| ③ | ⨀/⨂ | by means of/in regard of | aspect or adjective | `visesana` | {292} |
-| ③ | ⨀/⨂ | due to/for | reason | `hetu` | {289} |
-| ④ | ⨀/⨂ | receivership/purpose | recipient of action | `sampadāna` | {293} |
-| ⑤ | ⨀/⨂ | from | source from which it occurs | `apādāna` | {295} |
-| ⑤ | ⨀/⨂ | for/due to | reason | `kāraṇa` | {296} |
-| ⑥ | ⨀/⨂ | (possessive) of | owner | `sāmī` | {301} |
-| ⑥ | ⨀/⨂ | among/out of | selection for comparison | `niddhāraṇa` | {304} |
-| ⑥ | ⨀/⨂ | while/despite | two concurrent actions | `anādara` | {305} |
-| ⑦ | ⨀/⨂ | at, in, on | location/position | `adhikaraṇa`/`okāsa` | {302} |
-| ⑦ | ⨀/⨂ | among/out of | selection for comparison | `niddhāraṇa` | {304} |
-| ⑦ | ⨀/⨂ | for/due to | cause | `nimitta` | {310} |
-| ⑦ | ⨀/⨂ | while/when | two concurrent actions | `lakkhaṇa` | {313} |
-| ⑦ | ⨀/⨂ | despite/while | two concurrent actions | `anādara` | {305} |
+| vibhatti | role | usage | Pāḷi term | sutta |
+| :-: | --- | --- | --- | :-: |
+| ① | subject (active) | subject, doer | `kattu`/`kattā` | {284} |
+| ⓪ | address | to address, to call | `ālapana` | {285} |
+| ② | to (object) | object | `kamma` | {297} |
+| ② | till | continuity for a certain period or distance | `accantasaṁyoga` | {298} |
+| ③ | by (subject) (passive) | subject | `kattu`/`kattā` | {288} |
+| ③ | by/with | supporting cause | `karaṇa` | {286} |
+| ③ | with/together | company | `sahayoga` | {287} |
+| ③ | by means of/in regard of | aspect or adjective | `visesana` | {292} |
+| ③ | due to/for | reason | `hetu` | {289} |
+| ④ | receivership/purpose | recipient of action | `sampadāna` | {293} |
+| ⑤ | from | source from which it occurs | `apādāna` | {295} |
+| ⑤ | for/due to | reason | `kāraṇa` | {296} |
+| ⑥ | (possessive) of | owner | `sāmī` | {301} |
+| ⑥ | among/out of | selection for comparison | `niddhāraṇa` | {304} |
+| ⑥ | while/despite | two concurrent actions | `anādara` | {305} |
+| ⑦ | at, in, on | location/position | `adhikaraṇa`/`okāsa` | {302} |
+| ⑦ | among/out of | selection for comparison | `niddhāraṇa` | {304} |
+| ⑦ | for/due to | cause | `nimitta` | {310} |
+| ⑦ | while/when | two concurrent actions | `lakkhaṇa` | {313} |
+| ⑦ | despite/while | two concurrent actions | `anādara` | {305} |
 
 :::note
 In Pāḷi grammar books written in English the following nomenclature
@@ -941,7 +941,7 @@ These are often used as a substitute or replacement for inflection endings
 | | `ha`, `dha` | {254} |
 | To express time | `dā`, `dācanaṁ` | {257} |
 | | `dāni` | {258}, {259} |
-| To express day | `jja`, `jju` | {571} |
+| To express day | `jja`, `jju` | {571}, by direct statement: Kaccāyana has no rule of their own |
 
 ## `ākhyāta` (verbs) {406}-{523}
 
@@ -965,7 +965,7 @@ depend on:
   * 👆 = `uttama purisa` (primary person, equivalent to 'first person' in English)
 * tense/mood {413}-{422}
   * ▶️ = `vattamānā` (present)*
-  * ⏹ = `pañcamī` (imperative) - (used to express) āṇatti (command), āsīsa (wish) at a non-specific time-frame mode (anuttakāla)*
+  * ⏹ = `pañcamī` (imperative) - (used to express) āṇatti (command), āsīsa (wish or blessing) at a non-specific time-frame mode (anuttakāla)*
   * ⏯ = `sattamī` (potential/optative)*
   * 🔄 = `parokkhā` (past perfect)
   * ↩️ = `hiyyattanī` (past imperfect)*
@@ -1316,7 +1316,7 @@ Sāvatthi (city) / he enters
 (used to express)
 
 * `āṇatti` (command)
-* `āsīsa` (wish)
+* `āsīsa` (wish or blessing)
 
 at a non-specific time-frame mode (`anuttakāla`)
 
@@ -1609,7 +1609,7 @@ Here is another example based on `budha` (to know):
 
 `budha` "to know"  
 → `budh`~~`a`~~ {521}  
-→ `budh` + `ta` {557}  
+→ `budh` + `ta` {557} (Kaccāyana also derives it with `tta` {643}; see [10.8](../10-8-unadi-words/))  
 → `budh` + ~~`ta`~~(`dha`) {576}  
 → `bu`~~`dh`~~(`d`) + `dha` {611}  
 → `buddha` (noun) {601}  
@@ -1813,7 +1813,7 @@ flowchart LR
 
 A compound, a derived word and a participle all end as a noun does, so the
 noun readings cover them; a prefix sits at the front of a noun or a verb and
-changes nothing at the end. The shares are rounded to the nearest five and
+changes nothing at the end. The shares are rounded to the nearest five from the full run in [appendix P](../p-endings/) and
 count every word of the Tipiṭaka that ends so, each read by the dictionary's
 commonest headword for it. They count what the eye meets, letters rather than
 analyses: a word in `-āna` with the ending `-aṁ` stands among the words in
@@ -1882,7 +1882,7 @@ flowchart TD
 
 ```endings
 -tha, -ttha · 13 in every thousand words · see [2.7](../2-7-nipata/), [8.2](../8-2-present/)
-the adverbs `tattha`, `yattha`, `ettha`, `atha` | 80 |
+the adverbs `tattha`, `yattha`, `ettha` and the particle `atha` | 80 |
 ⏮🤘⨂ `-ittha` | 10 | `uppajjittha`
 ▶️ or ⏹ 🤘⨂, "you …" | 5 | `suṇātha`, `maññatha`
 ```
@@ -1996,7 +1996,7 @@ the adverbs `yāvatā`, `ettāvatā` | 5 |
 
 ```endings
 -ntā · 3.1 in every thousand words · see [2.7](../2-7-nipata/), [8.8](../8-8-verb-like-forms/) · see also [`-nto`](#e-nto), [`-ntaṁ`](#e-ntaṁ), [`-nte`](#e-nte)
-the adverbs `āmantā`, `samantā` | 70 |
+the particle `āmantā` and the adverb `samantā` | 70 |
 a present participle ⨂① | 10 | `santā`, `kukkuccāyantā`
 an adjective or a participle agreeing with its noun | 10 | `mahantā`, `kantā`
 🚹⨂① of a lemma in `-anta` | 5 | `kammantā`
@@ -2266,7 +2266,7 @@ the `attanopada` ▶️🤟⨀ | 5 | `labhate`, `vuccate`
 -nte · 4 in every thousand words · see [2.3](../2-3-irregular/), [8.8](../8-8-verb-like-forms/) · see also [`-nto`](#e-nto), [`-ntā`](#e-ntā), [`-ntaṁ`](#e-ntaṁ)
 `bhante`, the ⓪, "venerable sir" | 85 |
 a present participle ⨀⑦ or ⨂② | 5 | `karonte`, `viharante`
-⨀⑦ or ⨂② of an `-ant` word | 5 | `āyasmante`, `ante`
+⨀⑦ or ⨂② of an `-ant` word, or of a lemma in `-anta` | 5 | `āyasmante`, `ante`
 ```
 
 <a id="e-māne"></a>
@@ -2316,7 +2316,7 @@ an adjective or an ordinal with the plain `-o` | 15 | `tatiyo`, `lokiyo`
 -nto · 3.1 in every thousand words · see [8.8](../8-8-verb-like-forms/), [2.3](../2-3-irregular/) · see also [`-ntā`](#e-ntā), [`-ntaṁ`](#e-ntaṁ), [`-nte`](#e-nte)
 a present participle 🚹⨀①, "…ing" | 60 | `passanto`, `santo`
 a lemma in `-anta` with the plain `-o` | 15 | `anto`, `nikkhanto`
-⨀① or ⨂① of an `-ant` word | 10 | `arahanto`, `āyasmanto`
+⨂① or ⨂⓪ of an `-ant` word | 10 | `arahanto`, `āyasmanto`
 an adjective agreeing with its noun | 10 | `piṇḍapātapaṭikkanto`
 ```
 

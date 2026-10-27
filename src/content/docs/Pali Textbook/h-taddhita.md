@@ -13,8 +13,9 @@ tags: ["taddhita"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-This appendix contains a subset of the examples provided in
-Kaccāyana - consult the book for a full set of examples.
+This appendix contains a subset of the examples Kaccāyana gives; every rule
+number links to the rule on [kaccayana.github.io](https://kaccayana.github.io),
+where the full set is tabled.
 
 ## `tassā’pacca` ("the son or descendant of someone")
 
@@ -27,6 +28,7 @@ Kaccāyana - consult the book for a full set of examples.
 | {347} | dakkhassa apaccaṁ vā | dakkha | ṇi | dakkh~~a~~ + ~~ṇ~~i + ~~si~~ (o) | dakkhi | Dakkha's son or descendant |
 | {347} | sakyaputtassa apaccaṁ | sakyaputta | ṇika | sakyaputt~~a~~ + ~~ṇ~~ika + ~~si~~ (o) | sakyaputtiko | Sakyaputta's son or descendant |
 | {348} | upakussa apaccaṁ vā | upaku | ṇava | ~~u~~(o)pak~~u~~ + ~~ṇ~~ava + ~~si~~ (o) | opakavo | Upaku's son or descendant |
+| {348} | manuno apaccaṁ | manu | ṇava | m~~a~~(ā)n~~u~~ + ~~ṇ~~ava + ~~si~~ (o) | mānavo | Manu's son or descendant: a young man, a brahmin youth |
 | {349} | vidhavāya apaccaṁ vā | vidhavā | ṇera | v~~i~~(e)dhav~~ā~~ + ~~ṇ~~era + ~~si~~ (o) | vedhavero | widow's son or descendant |
 
 ## `ane’ka’ttha` (various meanings)
@@ -90,6 +92,7 @@ an instigating source or a cause for passion, arrest, release, joy, etc.
 | --- | --- | --- | --- | --- | --- | --- |
 | {356} | madanassa ṭhānaṁ | madana | iya | madan~~a~~ + iya + ~~si~~ (ṁ) | madaniyaṁ | the source of infatuation or inebriation, something alluring or extremely tempting or attractive thus causing lust or madness etc. |
 | {356} | bandhanassa ṭhānaṁ | bandana | iya | bandan~~a~~ + iya + ~~si~~ (ṁ) | bandhaniyaṁ | the cause of imprisonment |
+| {356} | dassanassa ṭhānaṁ | dassana | iya | dassan~~a~~ + iya + ~~si~~ (ṁ) | dassaniyaṁ | an occasion of seeing: worth seeing, beautiful |
 
 ## `upamā` (analogous similitude)
 
@@ -107,6 +110,7 @@ a simile or a metaphoric likeness
 | sutta | phrase | base | affix | transformation | word | meaning |
 | --- | --- | --- | --- | --- | --- | --- |
 | {358} | duṭṭhu nissitaṁ | duṭṭhu | la | duṭṭhu + (l)la + ~~si~~ (ṁ) | duṭṭhullaṁ | related to bad nature, indecent, obscene |
+| {358} | vedaṁ nissitaṁ | veda | la | veda + (l)la + ~~si~~ (ṁ) | vedallaṁ | resting on knowledge: a `vedalla`, a discourse of questions and answers |
 
 ## `tabbahula` (the prominent nature)
 
@@ -129,6 +133,7 @@ someone or something)
 | {360} | saṅgaṇikā’rāmassa bhāvo | saṅgaṇikārāma | tā | saṅgaṇikārāma + tā + ~~si~~ | saṅgaṇikā’rāmatā | gregariousness, being fond of socializing |
 | {360} | puthujjanassa bhāvo | puthujjana | ttana | puthujjana + ttana + ~~si~~ (ṁ) | puthujjanattanaṁ | the state of an ordinary person, still subject to the defilements |
 | {361} | visamassa bhāvo | visama | ṇa | visama + ~~ṇa~~ + ~~si~~ (ṁ) | vesamaṁ | state of being uneven, ruggedness, uneven-ness, non-level place of the earth |
+| {361} | sucissa bhāvo | suci | ṇa | s~~u~~(o)c~~i~~ + ~~ṇ~~a + ~~si~~ (ṁ) | socaṁ | the state of what is pure, purity |
 | {362} | ramaṇīyassa bhāvo | ramaṇīya | kaṇ | ramaṇīya + ka~~ṇ~~ + ~~si~~ (ṁ) | rāmaṇīyakaṁ | pleasantness |
 
 ## `visesa` (superlative-comparison)
