@@ -53,7 +53,7 @@ The purpose of this chapter is to explore the usage of archaeological evidence, 
 
 *   The origins of Mahayana Buddhism, which represents about two-thirds of the world's Buddhist population, are not completely understood.
 *   This chapter challenges older theories that Mahayana was a separate, lay-inspired movement and instead uses recent archaeological discoveries from Gandhara to provide a more evidence-based assessment.
-*   The goal is to analyze Mahayana-related manuscripts and sculptures to determine which Sectarian Buddhist schools the movement evolved from.
+*   The goal is to analyse Mahayana-related manuscripts and sculptures to determine which Sectarian Buddhist schools the movement evolved from.
 
 ## 2. BACKGROUND ON MAHAYANA MOVEMENT
 
@@ -64,15 +64,15 @@ The purpose of this chapter is to explore the usage of archaeological evidence, 
 ### 2.1. Buddhist Schisms and Chronology of Buddhism
 
 *   After the second Buddhist council, the Sangha split into two major schools: the Mahasamghika and the Sthaviravada.
-*   Many scholars believe Mahayana Buddhism grew out of the Mahasamghika school, partly due to a dispute over the fallibility of arhats (enlightened beings).
+*   Many scholars believe Mahayana Buddhism grew out of the Mahasamghika school, partly due to a dispute over the fallibility of arhats (liberated ones).
 *   Further schisms resulted in about twenty traditional schools, referred to as Sectarian or Nikaya Buddhism.
 
 ### 2.2. Three Paths of Enlightenment
 
-*   Buddhism outlines three paths (yanas) to enlightenment: Śrāvakayāna (Path of Listeners), Pratyekabuddhayāna (Path of Lone Buddhas), and Bodhisattvayāna (Path of Bodhisattvas).
-*   The first two paths were primarily for monastics, while the Bodhisattvayāna, pursued by Mahayanists, emphasizes selfless concern for all beings and is accessible to laity.
+*   Buddhism outlines three paths (yanas) to awakening: Śrāvakayāna (Path of Listeners), Pratyekabuddhayāna (Path of Lone Buddhas), and Bodhisattvayāna (Path of Bodhisattvas).
+*   The first two paths were primarily for monastics, while the Bodhisattvayāna, pursued by Mahayanists, emphasises selfless concern for all beings and is accessible to laity.
 *   Mahayanists refer to their path as the "Great Vehicle" and sometimes denigrate the other two as "Lesser Vehicles."
-*   Some Mahayana sutras, like the Lotus Sutra, teach a single "One Buddha Vehicle" that can lead anyone to final enlightenment.
+*   Some Mahayana sutras, like the Lotus Sutra, teach a single "One Buddha Vehicle" that can lead anyone to final awakening.
 
 ### 2.3. Current Status of Mahayana Population
 
@@ -104,7 +104,7 @@ The purpose of this chapter is to explore the usage of archaeological evidence, 
 
 *   Discovered in 1999, this collection of birch-bark scrolls dates to the 1st-2nd century CE.
 *   It contains the largest known Mahayana sutra manuscript in the Gandhari language, which shares elements with several important sutras but appears to be a previously unknown text.
-*   The presence of a Sarvastivada Vinaya text in the collection suggests that Mahayanists may have lived and practiced alongside Sarvastivadins.
+*   The presence of a Sarvastivada Vinaya text in the collection suggests that Mahayanists may have lived and practised alongside Sarvastivadins.
 
 ### 3.5. Split Collection
 
@@ -155,12 +155,12 @@ The purpose of this chapter is to explore the usage of archaeological evidence, 
 
 ## 5. Mahayana Footprints on Sectarian Buddhist SCHOOLS IN GANDHARA
 
-*   This section analyzes the archaeological evidence to determine the degree of linkage between early Mahayanists and specific Nikaya schools in Gandhara.
+*   This section analyses the archaeological evidence to determine the degree of linkage between early Mahayanists and specific Nikaya schools in Gandhara.
 *   The main schools present in the region were the Kasyapiyas, Dharmaguptakas, Sarvastivadins, and Mahasamghikas (including its sub-schools).
 
 ### 5.1. The Kāśyapīyas
 
-*   The Kasyapiyas held views similar to the Mahasamghikas, such as the fallibility of arhats, which created a favorable environment for Mahayana ideas.
+*   The Kasyapiyas held views similar to the Mahasamghikas, such as the fallibility of arhats, which created a favourable environment for Mahayana ideas.
 *   Epigraphical evidence links the Kasyapiya school to the Takht-i-Bahi monastery, where numerous bodhisattva sculptures were found, suggesting Mahayanists were active in their communities.
 
 ### 5.2. The Dharmaguptakas
@@ -171,7 +171,7 @@ The purpose of this chapter is to explore the usage of archaeological evidence, 
 
 ### 5.3. The Sarvastivadins
 
-*   The Sarvastivadins were a dominant school in Gandhara, and evidence like the Kanishka Casket shows that Mahayanists lived and practiced within their monasteries.
+*   The Sarvastivadins were a dominant school in Gandhara, and evidence like the Kanishka Casket shows that Mahayanists lived and practised within their monasteries.
 *   Their doctrines also influenced Mahayana texts, and like the Mahasamghikas, they viewed arhats as fallible.
 
 ### 5.4. The Mahasaṃghikas
@@ -192,7 +192,7 @@ The purpose of this chapter is to explore the usage of archaeological evidence, 
 ### 5.7. The Bahusrutiyas
 
 *   This school was known for accepting both Mahayana and non-Mahayana teachings.
-*   The *Tattvasiddhi Shastra*, a text associated with this school, became highly influential in Chinese Mahayana Buddhism, but no specific Gandharan artifacts have been affiliated with them.
+*   The *Tattvasiddhi Shastra*, a text associated with this school, became highly influential in Chinese Mahayana Buddhism, but no specific Gandharan artefacts have been affiliated with them.
 
 ## 6. CONCLUSION
 
