@@ -27,7 +27,7 @@ Restraining, Guarding and Protecting the Mind
 classDiagram
   class sentence["nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ adantaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ"] {
     <<vākya>>
-    english(I don't perceive, bhikkhus, yet another thing which untrained leads to great harm as this, bhikkhus, the mind.)
+    english(I do not see, Bhikkhave, even one other thing which, untamed, leads to such great harm as this, Bhikkhave, the mind.)
   }
   class na {
     <<nipāta>>
@@ -53,12 +53,12 @@ classDiagram
   }
   class pi {
     <<nipāta>>
-    english(too)
+    english(even)
   }
   class samanupassāmi {
     <<ākhyāta>>
     ⨀👆vattamāna
-    english(I perceive)
+    english(I see)
   }
   class yaṃ {
     <<anvayīnāma>>
@@ -67,25 +67,25 @@ classDiagram
   }
   class evaṃ {
     <<nipāta>>
-    english(thus)
+    english(such)
   }
   namespace adjective {
     class adantaṃ {
       <<atītakiriya>>
       ⨀②
-      english(unrestrained)
+      english(untamed)
     }
   }
   class mahato {
     <<guṇanāma>>
      ⨀⑥
-    english(of great)
+    english(great)
   }
   namespace result {
     class anatthāya {
       <<nāma>>
       🚹⨀⑥
-      english(of harm)
+      english(harm)
     }
   }
   class saṃvattati {
@@ -144,7 +144,7 @@ classDiagram
 classDiagram
   class sentence["cittaṃ, bhikkhave, adantaṃ mahato anatthāya saṃvattatī"] {
     <<vākya>>
-    english(The mind, bhikkhus, untrained, leads to great harm.)
+    english(The mind, Bhikkhave, untamed, leads to great harm.)
   }
   class cittaṃ {
     <<sabbanāma>>
@@ -159,19 +159,19 @@ classDiagram
     class adantaṃ {
       <<atītakiriya>>
       ⨀②
-      english(unrestrained)
+      english(untamed)
     }
   }
   class mahato {
     <<guṇanāma>>
      ⨀⑥
-    english(of great)
+    english(great)
   }
   namespace result {
     class anatthāya {
       <<nāma>>
       🚹⨀⑥
-      english(of harm)
+      english(harm)
     }
   }
   class saṃvattati {
@@ -197,12 +197,12 @@ classDiagram
     class adantaṃ {
       <<atītakiriya>>
       ⨀②
-      english(unrestrained)
+      english(untamed)
     }
     class dantaṃ {
       <<atītakiriya>>
       ⨀②
-      english(restrained)
+      english(tamed)
     }
     class aguttaṃ {
       <<atītakiriya>>
@@ -229,12 +229,12 @@ classDiagram
     class anatthāya {
       <<nāma>>
       🚹⨀⑥
-      english(of harm)
+      english(harm)
     }
     class atthāya {
       <<nāma>>
       🚹⨀⑥
-      english(of benefit)
+      english(benefit)
     }
   }
   adantaṃ .. anatthāya
