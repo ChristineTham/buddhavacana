@@ -10,7 +10,7 @@ tags: ["awakening"]
 ---
 
 :::tip[Info]
-Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
+Part of “A Beginner (Non-Linguist) Guide to Learning Pali”
 :::
 
 :::note[How this chapter fits]
@@ -81,7 +81,7 @@ With craving as cause, `upādānaṁ` (fuel for existence: the will to live) [ar
 <a id="u3-9"></a>3.9 upādānapaccayā bhavo,  
 🚹⨀⑤🆎(upādāna+paccaya) 🚹⨀①(bhava)  
 with fuel as cause | existence  
-With fuel as cause, `bhavo` (existence of a false perception of an eternal independent "self" (`atta`))[^bhava] [arises];
+With fuel as cause, `bhavo` (existence of a false perception of an eternal independent “self” (`atta`))[^bhava] [arises];
 
 <a id="u3-10"></a>3.10 bhavapaccayā jāti,  
 🚹⨀⑤🆎(bhava+paccaya) 🚺⨀①(jāti)  
@@ -141,7 +141,7 @@ with the cessation of craving comes the cessation of fuel for existence;
 <a id="u4-9"></a>4.9 upādānanirodhā bhavanirodho,  
 🚹⨀⑤🆎(upādāna+nirodha) 🚹⨀①🆎(bhava+nirodha)  
 with the cessation of fuel | the cessation of existence  
-with the cessation of fuel comes the cessation of existence (of a false perception of an eternal independent "self" (`atta`));
+with the cessation of fuel comes the cessation of existence (of a false perception of an eternal independent “self” (`atta`));
 
 <a id="u4-10"></a>4.10 bhavanirodhā jātinirodho,  
 🚹⨀⑤🆎(bhava+nirodha) 🚹⨀①🆎(jāti+nirodha)  
@@ -497,4 +497,4 @@ like the sun illuminating the sky.”
 the Bodhikathā | finished  
 The Bodhikathā is finished.
 
-[^bhava]: `bhava` (existence) is read here, in the chain of the Buddha's awakening process, as the existence of a constructed self and a false perception of an eternal, independent self, the `atta` of the note at [7: 2.1](../7-anatta/#u2-1). The Buddha traced the cause of suffering back to existence, "to live is to suffer", and then understood that our existence is due to our self-awareness, and that this self-awareness is traced all the way back to ignorance: ignorance of the constructed nature of consciousness. The cessation of existence is therefore not the end of life but the end of a false perception of the self.
+[^bhava]: `bhava` (existence) is read here, in the chain of the Buddha's awakening process, as the existence of a constructed self and a false perception of an eternal, independent self, the `atta` of the note at [7: 2.1](../7-anatta/#u2-1). The Buddha traced the cause of suffering back to existence, “to live is to suffer”, and then understood that our existence is due to our self-awareness, and that this self-awareness is traced all the way back to ignorance: ignorance of the constructed nature of consciousness. The cessation of existence is therefore not the end of life but the end of a false perception of the self.

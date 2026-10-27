@@ -37,7 +37,7 @@ The vowels can be short (1 mora in length) or long (2 morae). Some vowels can be
 @startebnf
 title Vowels (sarā)
 vowel =
-  short (* rassaṁ, light (lahu), one mora (mattā) in length  *) |
+  short (* rassaṁ, light (lahu), one mora (mattā) in length *) |
   long (* dīghaṁ, heavy (garu), two mattā in length *) |
   variable (* can be long or short *);
 short = "a" | "i" | "u";

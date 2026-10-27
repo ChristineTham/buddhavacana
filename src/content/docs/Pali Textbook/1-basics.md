@@ -528,7 +528,7 @@ vibhatti and so on.
 
 In many sentences, the 1st vibhatti would usually refer to the entity or actor
 "performing" or "doing" the action (or, the "subject" of the sentence), and
-the 2nd vibhatti refers to the entity being impacted by the action  (the "object")
+the 2nd vibhatti refers to the entity being impacted by the action (the "object")
 of the sentence. Although this is a very common pattern, it is by no means
 rigid, and in theory (almost) any vibhatti ending can be used for any purpose. There are
 many examples in the Pāḷi canon where the vibhatti are used in unconventional
@@ -599,7 +599,7 @@ Examples:
 
 > `bhoti ayye`! (Oh madam!)  
 > `bhoti kaññe`! (Oh girl!)  
-> `bhoti kharādiye`!  (Oh the girl named Kharādiya!)
+> `bhoti kharādiye`! (Oh the girl named Kharādiya!)
 
 Contrast this to the normal first form ① of `ayyā` (🚺⨀①):
 
@@ -1156,7 +1156,7 @@ and cannot be transformed this way.
 Example transformation (based on the root `paca` (to cook)):
 
 `paca` + `ya` + `te` {440}  
-→ `pa`~~`ca`~~  + ~~`y`~~(`cc`)`a` + `te` {441}  
+→ `pa`~~`ca`~~ + ~~`y`~~(`cc`)`a` + `te` {441}  
 → `paccate` ("is cooked")
 
 The full set of `attanopada` (🔵) endings in the present tense `vattamānā`
@@ -1627,7 +1627,7 @@ recognise the affix and associated meaning if you can.
 ## 🔽 `uṇādi` (`uṇādi`-affixed nouns) {624}–{673}
 
 :::tip[Going deeper]
-Sections [10.7](../10-7-sadhana/) and [10.8](../10-8-unadi-words/) treat the `uṇādi` affixes and the words worth knowing.
+The Uṇādikappa {624}–{673} opens with the senses the `kita` affixes carry {624}–{641}; the `uṇādi` affixes proper are {642}–{673}. Sections [10.7](../10-7-sadhana/) and [10.8](../10-8-unadi-words/) treat them and the words worth knowing.
 :::
 
 These are also derivative nouns that can behave like verbs or auxiliary verbs or

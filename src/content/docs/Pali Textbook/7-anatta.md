@@ -10,7 +10,7 @@ tags: ["anattā"]
 ---
 
 :::tip[Info]
-Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
+Part of “A Beginner (Non-Linguist) Guide to Learning Pali”
 :::
 
 :::note[How this chapter fits]
@@ -332,7 +332,7 @@ delighted | of the group of five | bhikkhū | of the Bhagavā | what was spoken 
 The group of five bhikkhū, delighted, rejoiced in the Bhagavā’s words.
 
 <a id="u12-3"></a>12.3 Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsūti.  
-*️⃣🤟🚻⨀⑦(ima) ⏏️(ca) ⏏️(pana) 🚻⨀⑦(veyyākaraṇa) 🚻⨀⑦🔽(māna)(bhaññamāna) 🚹⨂⑥🆎(pañca+vaggiya) 🚹⨂⑥(bhikkhu) 🔽(ya)(anupādiyati) 🚹⨂⑤(āsava) 🚻⨂①(citta) 🔴⨂🤟⏮(vimuccati) ⏏️(iti)  
+*️⃣🤟🚻⨀⑦(ima) ⏏️(ca) ⏏️(pana) 🚻⨀⑦(veyyākaraṇa) 🚻⨀⑦🔽(māna)(bhaññamāna) 🚹⨂⑥🆎(pañca+vaggiya) 🚹⨂⑥(bhikkhu) 🔽(ya)🆎(na+upādiyati) 🚹⨂⑤(āsava) 🚻⨂①(citta) 🔴⨂🤟⏮(vimuccati) ⏏️(iti)  
 in this | and | moreover | detailed exposition | being spoken | of the group of five | bhikkhū | not grasping | from the defilements | minds | were liberated | (end quote)  
 And while this detailed exposition was being spoken, the `cittāni` (minds) of the group of five bhikkhū, `anupādāya` (not grasping), were liberated from the `āsavā` (defilements).
 
@@ -344,6 +344,6 @@ And while this detailed exposition was being spoken, the `cittāni` (minds) of t
 the seventh  
 The seventh [discourse of the chapter].
 
-[^jati]: `jāti` here is the birth of suffering, as in the Dhammacakka's "this is the final birth": see the note at [5: 10.2](../5-dhammacakka/#u10-2).
+[^jati]: `jāti` here is the birth of suffering, as in the Dhammacakka's “this is the final birth”: see the note at [5: 10.2](../5-dhammacakka/#u10-2).
 
-[^atta]: `atta` is not just "self" but the concept of an eternal, permanent self independent of the body (the DPD gives self, soul, spirit, essence). The Buddha is repudiating the concept of Ātman (/ˈɑːtmən/; Sanskrit आत्मन्) in Hinduism, the true, innermost essence or self of a living being, conceived as eternal and unchanging. According to the Buddha, our sense of self is impermanent and constructed, and therefore has no independent existence: `anattā` (not-self) says of each of the five collections in turn that it is not such a self.
+[^atta]: `atta` is not just “self” but the concept of an eternal, permanent self independent of the body (the DPD gives self, soul, spirit, essence). The Buddha is repudiating the concept of Ātman (/ˈɑːtmən/; Sanskrit आत्मन्) in Hinduism, the true, innermost essence or self of a living being, conceived as eternal and unchanging. According to the Buddha, our sense of self is impermanent and constructed, and therefore has no independent existence: `anattā` (not-self) says of each of the five collections in turn that it is not such a self.

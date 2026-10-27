@@ -76,7 +76,7 @@ other past, adjectives tabled in [8.8](../8-8-verb-like-forms/).
 
 > Ayañca dasasahassilokadhātu **saṅkampi sampakampi sampavedhi**,
 
-*️⃣🤟🚺⨀①(ima) ⏏️(ca) 🚺⨀①🆎(dasa+sahassi+loka+dhātu) 🟢⨀🤟⏮(saṅkampati) 🟢⨀🤟⏮(sampakampati) 🟢⨀🤟⏮(sampavedhati)  
+*️⃣🤟🚺⨀①(ima) ⏏️(ca) 🚺⨀①🆎(dasa+sahassī+loka+dhātu) 🟢⨀🤟⏮(saṅkampati) 🟢⨀🤟⏮(sampakampati) 🟢⨀🤟⏮(sampavedhati)  
 this / and / ten-thousand-fold world system / trembled / shook / quaked  
 *"And this `dasasahassilokadhātu` (ten-thousand-fold world system) trembled, shook, quaked;" ([5: 13.2](../5-dhammacakka/#u13-2)) `saṅkampi`, `sampakampi`, `sampavedhi`: `-i` third person singular {428}, the subject `lokadhātu`; no `a` before the root, no `s`.*
 

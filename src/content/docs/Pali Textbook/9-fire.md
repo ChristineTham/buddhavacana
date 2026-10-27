@@ -10,7 +10,7 @@ tags: ["āditta"]
 ---
 
 :::tip[Info]
-Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
+Part of “A Beginner (Non-Linguist) Guide to Learning Pali”
 :::
 
 :::note[How this chapter fits]
@@ -220,7 +220,7 @@ delighted | those | bhikkhū | of the Bhagavā | what was spoken | rejoiced in
 Those bhikkhū, delighted, rejoiced in the Bhagavā’s words.
 
 <a id="u10-3"></a>10.3 Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne tassa bhikkhusahassassa anupādāya āsavehi cittāni vimucciṁsūti.  
-*️⃣🤟🚻⨀⑦(ima) ⏏️(ca) ⏏️(pana) 🚻⨀⑦(veyyākaraṇa) 🚻⨀⑦🔽(māna)(bhaññamāna) *️⃣🤟🚻⨀⑥(ta) 🚻⨀⑥🆎(bhikkhu+sahassa) 🔽(ya)(anupādiyati) 🚹⨂⑤(āsava) 🚻⨂①(citta) 🔴⨂🤟⏮(vimuccati) ⏏️(iti)  
+*️⃣🤟🚻⨀⑦(ima) ⏏️(ca) ⏏️(pana) 🚻⨀⑦(veyyākaraṇa) 🚻⨀⑦🔽(māna)(bhaññamāna) *️⃣🤟🚻⨀⑥(ta) 🚻⨀⑥🆎(bhikkhu+sahassa) 🔽(ya)🆎(na+upādiyati) 🚹⨂⑤(āsava) 🚻⨂①(citta) 🔴⨂🤟⏮(vimuccati) ⏏️(iti)  
 in this | and | moreover | detailed exposition | being spoken | of that | thousand bhikkhū | not grasping | from the defilements | minds | were liberated | (end quote)  
 And while this detailed exposition was being spoken, the `cittāni` (minds) of that thousand bhikkhū, `anupādāya` (not grasping), were liberated from the `āsavā` (defilements).
 
@@ -232,4 +232,4 @@ And while this detailed exposition was being spoken, the `cittāni` (minds) of t
 the sixth  
 The sixth [discourse of the chapter].
 
-[^jati]: `jāti` here is the birth of suffering, as in the Dhammacakka's "this is the final birth": see the note at [5: 10.2](../5-dhammacakka/#u10-2).
+[^jati]: `jāti` here is the birth of suffering, as in the Dhammacakka's “this is the final birth”: see the note at [5: 10.2](../5-dhammacakka/#u10-2).

@@ -221,7 +221,7 @@ unshakeable / my / liberation / this / final / birth
 
 7. > pañcavaggiyānaṁ **bhikkhūnaṁ** anupādāya āsavehi cittāni vimucciṁsūti
 
-🚹⨂⑥🆎(pañca+vaggiya) 🚹⨂⑥(bhikkhu) 🔽(ya)(anupādiyati) 🚹⨂⑤(āsava) 🚻⨂①(citta) 🔴⨂🤟⏮(vimuccati) ⏏️(iti)  
+🚹⨂⑥🆎(pañca+vaggiya) 🚹⨂⑥(bhikkhu) 🔽(ya)🆎(na+upādiyati) 🚹⨂⑤(āsava) 🚻⨂①(citta) 🔴⨂🤟⏮(vimuccati) ⏏️(iti)  
 of the group of five / bhikkhū / not grasping / from the defilements / minds / were liberated / (end quote)  
 *the `cittāni` (minds) of the group of five bhikkhū, `anupādāya` (not grasping), were liberated from the `āsavā` (defilements).*  
 
