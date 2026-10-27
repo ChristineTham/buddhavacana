@@ -24,7 +24,7 @@ This appendix summarises Kaccāyana's Nāmakappa {52}–{270}, the chapter that 
 | {54} | `Tato ca vibhattiyo` | And their inflections |  |
 | {55} | `Si yo, aṁ yo, nā hi, sa naṁ, smā hi, sa naṁ, smiṁ su` | inflection forms |  |
 | {56} | `Tadanuparodhena` | Without contradicting them |  |
-| {57} | `Ālapane si ga sañño` | for vocatives `si` is called `ga` |  |
+| {57} | `Ālapane si ga sañño` | for the calling form ⓪ `si` is called `ga` |  |
 | {58} | `Ivaṇṇuvaṇṇā jhalā` | `jha`: `i`-words, `la`: `u`-words |  |
 | {59} | `Te itthikhyā po` | Those [sounds] are called `pa` for feminine words |  |
 | {60} | `Ā gho` | `gha`: feminine `ā`-words |  |

@@ -134,8 +134,8 @@ The `-aya-` causative:
 > Attānaṁ **damayanti** paṇḍitā.
 
 🚹⨀②(atta) 🟠⨂🤟▶️(damayati) 🚹⨂①(paṇḍita)  
-self / tames / the wise  
-*The wise tames the self.*  
+self / tame / the wise  
+*The wise tame the self.*  
 *`damayanti` 🟠: `dama` ("be tame") + `aya` {438}, "make tame"; the one made tame, `attānaṁ`, is the object in ② {297}; [Bonus: 21, 4](../11-pbt/#s21-u4).*
 
 ### Exercises
@@ -186,7 +186,7 @@ could be obtained / and / in form
 4. > Usukārā **namayanti** tejanaṁ;
 
 🚹⨂①🆎(usu+kāra) 🟠⨂🤟▶️(namayati) 🚻⨀②(tejana)  
-arrow-maker / straighten / arrow  
+arrow-makers / straighten / arrow  
 *Arrow makers straighten arrow;*  
 *Causative 🟠: `nama` ("bend") + `aya` {438}, "make bend"; the arrow, `tejanaṁ`, in ② {297}; [Bonus: 21, 2](../11-pbt/#s21-u2).*
 

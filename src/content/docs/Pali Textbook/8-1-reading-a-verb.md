@@ -120,7 +120,7 @@ impersonal {453}, sometimes to the active {454}; but the passive of the texts
 mostly takes the `parassapada` endings instead {518}, as `nirujjhanti`
 ("cease", 🔴) in chapter [3](../3-awakening/) does, so these endings are rare. The texts show
 three, all `sattamī`, marked 🔵: `-eyyaṁ` in `pabbajeyyaṁ` ("I would go
-forth", 🔵⏯👆⨀) `-etha` in `paññāyetha` ("it would be evident", 🔵⏯🤟⨀) and in `labbhetha` ("could be obtained", [7: 2.2](../7-anatta/#u2-2)).
+forth", 🔵⏯👆⨀), `-etha` in `paññāyetha` ("it would be evident", 🔵⏯🤟⨀) and in `labbhetha` ("could be obtained", [7: 2.2](../7-anatta/#u2-2)).
 
 | set | the six `attanopada` endings: third, second, first person, each singular then plural | rule |
 | --- | --- | :-: |

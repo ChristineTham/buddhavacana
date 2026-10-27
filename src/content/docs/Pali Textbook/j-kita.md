@@ -21,15 +21,15 @@ where the full set is tabled.
 ## Kita’ntogadha dutiyā Tappurisa
 
 `saddūpapada` ②
-(nearby noun eg. `kamma`-work, `kumbha`-pot, `mālā`-flower) +
-`dhātu` (eg. `kara`, `gaha`) + affix (eg. `ṇa`)
+(nearby noun e.g. `kamma`-work, `kumbha`-pot, `mālā`-flower) +
+`dhātu` (e.g. `kara`, `gaha`) + affix (e.g. `ṇa`)
 
 | rule | phrase | saddūpapada | dhātu | affix | transformation | word | meaning |
 | :-: | --- | :-: | :-: | :-: | --- | :-: | --- |
-| {524} | kammaṁ karotī’ti | kamma | kara | ṇa | kamma + kar~~a~~ + ~~ṇa~~ (o) | kammakāro | the one who does work ie. "worker", "labourer" |
-| {525} | ariṁ dametī’ti | ari | damu | a | ari(n) + dam~~u~~ + ~~a~~ (o) | arindamo | the one who subdues enemies (eg. rājā) |
-| {525} | taṇhaṁ karotī’ti | taṇhā | kara | a | taṇh~~ā~~(an) + kar~~a~~ + ~~a~~ (o) | taṇhaṅkaro | the one who overcomes cravings (eg. bhagavā) |
-| {526} | pure dānaṁ adāsī’ti | pura | dada | a | pur~~a~~(in) + dad~~a~~ + ~~a~~ (o) | purindado | the one who gave alms in the previous past lives (eg. devarājā) |
+| {524} | kammaṁ karotī’ti | kamma | kara | ṇa | kamma + kar~~a~~ + ~~ṇa~~ (o) | kammakāro | the one who does work i.e. "worker", "labourer" |
+| {525} | ariṁ dametī’ti | ari | damu | a | ari(n) + dam~~u~~ + ~~a~~ (o) | arindamo | the one who subdues enemies (e.g. rājā) |
+| {525} | taṇhaṁ karotī’ti | taṇhā | kara | a | taṇh~~ā~~(an) + kar~~a~~ + ~~a~~ (o) | taṇhaṅkaro | the one who overcomes cravings (e.g. bhagavā) |
+| {526} | pure dānaṁ adāsī’ti | pura | dada | a | pur~~a~~(in) + dad~~a~~ + ~~a~~ (o) | purindado | the one who gave alms in the previous past lives (e.g. devarājā) |
 | {527} | taṁ karotī’ti | ta | kara | a | ta(k) + kar~~a~~ + ~~a~~ (o) | takkaro | the one who does that deed |
 | {527} | rathaṁ karotī’ti | ratha | kara | ṇvu | ratha + k~~a~~(ā)ra(k) + ~~ṇvu~~ (o) | rathakārako | the one who makes chariot, the chariot-maker |
 | {527} | taṁ karotī’ti | ta | kara | tu | ta(k) + ka~~ra~~(t) + t~~u~~ (ā) | takkattā | the one who does that deed |
@@ -44,8 +44,8 @@ where the full set is tabled.
 | {528} | uppajjatī’ti | pada | ṇa | u + (p)p~~a~~(ā)d~~a~~ + ~~ṇa~~ (o) | uppādo | that which arises, the process of arising |
 | {529} | paccate, pacanaṁ vā | paca | ṇa | pa~~ca~~(k) + ~~ṇa~~ (o) | pāko | act of cooking (bhāva) |
 | {530} | sambhavatī’ti | bhū | kvi | saṁ + bhū + ~~kvi~~ | sambhū | the one which happens or arises well |
-| {531} | dharati tenā’ti | dhara | ramma | dha~~ra~~ + ~~ra~~mm~~a~~ (o) | dhammo | the wholesome righteous Dhamma by which good-result are carried |
-| {538} | samaggaṁ kammaṁ sa’mupagacchatī’ti | hana | ra | saṁ + ~~hana~~gh + ~~ra~~ (o) | saṁgho | the community of brethren who congregates to (conduct) the sacred activities unitedly |
+| {531} | dharati tenā’ti | dhara | ramma | dha~~ra~~ + ~~ra~~mm~~a~~ (o) | dhammo | the wholesome righteous Dhamma by which good results are carried |
+| {538} | samaggaṁ kammaṁ sa’mupagacchatī’ti | hana | ra | saṁ + ~~hana~~gh + ~~ra~~ (o) | saṁgho | the community of brethren who congregate to (conduct) the sacred activities unitedly |
 
 ## `tassīlā` (habitual pattern)
 
@@ -115,7 +115,7 @@ passive participles" but this only describes the `kamma` sense of these words.
 
 | rule | phrase | dhātu | affix | transformation | word | meaning |
 | :-: | --- | :-: | :-: | --- | :-: | --- |
-| {553} | jīratī’ti | jara | a | jar~~a~~ + ~~a~~ (ā) | jarā | that which degenerates, decaying, the old-age |
+| {553} | jīratī’ti | jara | a | jar~~a~~ + ~~a~~ (ā) | jarā | that which degenerates, decaying, ageing |
 | {553} | maññatī’ti | mana | ti | ma~~na~~ + ti | mati | that which thinks, thought, view, opinion |
 | {553} | cetayatī’ti | citi | yu | c~~i(e)t~~i~~(a) + ~~yu~~n (ā) | cetanā | that which motivates, motive, volition, intent |
 | {553} | vedayatī’ti | vida | yu | v~~i~~(e)da + ~~yu~~n (ā) | vedanā | that which feels, feeling |

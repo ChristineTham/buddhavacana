@@ -56,7 +56,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 
 ## `amha` (I, we)
 
-This is used as the pronoun for `uttama purisa` (in English, "1st" person)
+This is used as the pronoun for `uttama purisa` (in English, "1st" person).
 
 | `vibhatti` | ⨀ | ⨂ |
 | :-: | --- | --- |
@@ -69,7 +69,7 @@ This is used as the pronoun for `uttama purisa` (in English, "1st" person)
 
 ## `tumha` (you)
 
-This is used as the pronoun for `majjhima purisa` (in English, "2nd" person)
+This is used as the pronoun for `majjhima purisa` (in English, "2nd" person).
 
 | `vibhatti` | ⨀ | ⨂ |
 | :-: | --- | --- |
@@ -82,7 +82,7 @@ This is used as the pronoun for `majjhima purisa` (in English, "2nd" person)
 
 ## `ta` (he, she, it; that)
 
-This is used as the pronoun for `paṭhama purisa` (in English, "3rd" person)
+This is used as the pronoun for `paṭhama purisa` (in English, "3rd" person).
 
 ### ⨀ `ekavacana`
 

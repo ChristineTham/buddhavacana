@@ -222,7 +222,7 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | inferior or lower in rank, sub-standard | `anutherā` | `anu` + `therā` | those below senior monks, i.e. less-senior monks |
 | | `anunāyakā` | `anu` + `nāyakā` | those below senior leaders, i.e. less-senior leaders |
 | in compliance with, suitable, being appropriate, favourable, agreeable, according to | `anurūpaṁ` | `anu` + `rūpaṁ` | suitable, appropriate (compare `patirūpaṁ` "suitable") |
-| | `anukūlaṁ` | `anu` + `kūlaṁ` | suitable, agreeable. following (the bank of a river etc. a figurative expression, compare `paṭikūlaṁ` "disagreeable, unlikable" - also a figurative expression) |
+| | `anukūlaṁ` | `anu` + `kūlaṁ` | suitable, agreeable; following (the bank of a river etc. a figurative expression, compare `paṭikūlaṁ` "disagreeable, unlikable" - also a figurative expression) |
 | | `anulomaṁ` | `anu` + `lomaṁ`| in sequential order ("following the hair", a figurative expression, compare `paṭilomaṁ` "in reverse order", also a figurative expression) |
 | | `anurujjhati` | `anu` + `rujjhati`| (he) favours, likes |
 | | `anurodho` | `anu` + `rodho`| favour, agreement (compare `virodho` "disfavour, dislike") |
@@ -369,7 +369,7 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | | `aticchā` | `ati` + `icchā` | such an act |
 | | `atirocati` | `ati` + `rocati` | (It) looks very much beautiful |
 | | `atipaṇītaṁ` | `ati` + `paṇītaṁ` | very noble, the best. |
-| beyond, transgress, across | `atikkamati` | `ati` + `kamati` | (He) moves beyond, transgress |
+| beyond, transgress, across | `atikkamati` | `ati` + `kamati` | (He) moves beyond, transgresses |
 | | `atikkanto` | `ati` + `kanto` | gone beyond |
 | | `accayo` | `ati` + `ayo` | act of going beyond, i.e. offence, fault |
 
@@ -405,7 +405,7 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | | `upanisinno` | `upa` + `ni` + `sinno` | having sat closely |
 | | `upanagaraṁ` | `upa` + `nagaraṁ` | near the city |
 | | `upagacchati` | `upa` + `gacchati` | approaches, i.e. goes near, toward |
-| | `upapajjati` | `upa` + `pajjati` | closely happens, i.e. conceives or born |
+| | `upapajjati` | `upa` + `pajjati` | closely happens, i.e. conceives or is born |
 | | `Upapatti` | `upa` + `patti` | conception or birth |
 | firmly, intensifier | `upādānaṁ` | `upa` + `ā` + `dānaṁ` | fuel: what is taken up and burns |
 | up, high (as in good-willed act, attaining a high condition etc.) | `upakaroti` | `upa` + `karoti` | highly acts, i.e. helps |

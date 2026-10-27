@@ -54,7 +54,7 @@ every `uṇādi` rule, [Appendix J](../j-kita/) every `kita` rule.
 | --- | --- | --- | :-: |
 | a bare root after a word, its last consonant gone | the doer: the affix `kvi` leaves no trace | `sayambhū` "self-become", `bhujago` "a snake" | {639}, {615} |
 | `k`, `g` for the root's `c`, `j`, vowel lengthened | the act, masculine in `-o` | `pāko` "cooking", `rāgo` "passion" | {640} |
-| `-ana`, `-aka` after `nuda`, `su`, `ñā`, `samu` and the like | the doer, the act or the means | `samaṇo` "an ascetic", `sāvako` "a hearer" | {641} |
+| `-ana`, `-aka` after `nuda`, `su`, `ñā`, `samu` and the like | the doer, the act or the means | `samaṇo` "a wanderer", `sāvako` "a hearer" | {641} |
 | a lengthened pronoun before `-disa`, `-risa`, `-dikkha`, `-dī` | "such as …" | `īdiso` "such as this", `kīdiso` "of what kind?" | {642} |
 | `-u`, `-ana`, `-ta` | the doer or the act, now or before | `kāru` "a craftsman", `bhūtaṁ` "what has come to be" | {650} |
 | `-ī`, `-i` after `gamu`, `bhaja`, `su`, `ṭhā` | the one who will do it | `gāmī` "about to go", `passāvi` "about to flow forth" | {651} |

@@ -37,11 +37,11 @@ Here the question runs the other way, which reading a form most likely has, and 
    join).
 2. Where a form belongs to several headwords, its count is divided among them in proportion to the Tipiṭaka
    frequency of each headword's *other* forms. A rare homograph cannot then borrow the frequency of the very
-   form in dispute: `bhante` goes to the address form, not to `bhanta` ("wavering"), and `āyasmā` to
+   form in dispute: `bhante` goes to the calling form ⓪, not to `bhanta` ("wavering"), and `āyasmā` to
    `āyasmant`, not to the ⑤ of `āya` ("income").
 3. The dictionary's entries for letters, roots, suffixes and verb endings, and its entries for grammatical terms (the "(gram)" headwords), are not candidates; a word the dictionary itself lists as a pronoun is read as one, and so is a particle, unless the particle is a frozen inflected form of a noun (`dukkhaṁ` "painfully", `tato` "from that"), which is read as that noun; a noun's own
    adjectival homonym, its sense as the last member of a compound, is not a candidate for a free-standing
-   form; and an address form the dictionary lists as a headword of its own (`bhikkhave`, `bhante`) takes the
+   form; and a calling form ⓪ the dictionary lists as a headword of its own (`bhikkhave`, `bhante`) takes the
    reading of that headword's grammar note.
 
 The shares are therefore estimates, not counts of readings in context, and they have four known limits.

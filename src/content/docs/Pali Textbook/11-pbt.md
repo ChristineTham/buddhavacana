@@ -235,7 +235,7 @@ thus | in collections | existing
 🟢⨀🤟▶️(hoti) 🚹⨀①(satta) ⏏️(iti) 🚺⨀①(sammuti)  
 is | being | (end quote) | general consensus  
 
-What you refer as a “being”,  
+What you refer to as a “being”,  
 Māra, a misconception of yours?  
 This is merely a pile of `saṅkhāra` (mental constructions),  
 No being is found in here.  
@@ -333,7 +333,7 @@ Apperception of form, apperception of sound, apperception of smells, apperceptio
 <a id="s11-u8-3"></a>8.3 “‘Sañjānāti sañjānātī’ti kho, āvuso, tasmā saññāti vuccati.  
 🟢⨀🤟▶️(sañjānāti) 🟢⨀🤟▶️(sañjānāti) ⏏️(iti) ⏏️(kho) ⏏️(āvuso) ⏏️(tasmā) 🚺⨀①(saññā) ⏏️(iti) 🔴⨀🤟▶️(vuccati)  
 perceives | perceives | (end quote) | indeed | friend | therefore | apperception | (end quote) | is said to be  
-Perceiving perception” indeed, friend, from that is said to be “saññā” (apperception).
+“Perceiving perception” indeed, friend, from that is said to be “saññā” (apperception).
 
 <a id="s11-u8-4"></a>8.4 Kiñca sañjānāti?  
 *️⃣🤟🚻⨀②(kiṁ) ⏏️(ca) 🟢⨀🤟▶️(sañjānāti)  
@@ -343,7 +343,7 @@ And what is “apperception”?
 <a id="s11-u8-5"></a>8.5 Nīlakampi sañjānāti, pītakampi sañjānāti, lohitakampi sañjānāti, odātampi sañjānāti.  
 🚻⨀②(nīlaka) ⏏️(api) 🟢⨀🤟▶️(sañjānāti) 🚻⨀②(pītaka) ⏏️(api) 🟢⨀🤟▶️(sañjānāti) 🚻⨀②(lohitaka) ⏏️(api) 🟢⨀🤟▶️(sañjānāti) 🚻⨀②🔽(ta)(odāta) ⏏️(api) 🟢⨀🤟▶️(sañjānāti)  
 blue | too | recognise | yellow | too | recognise | red | too | recognise | white | too | recognise  
-The apperception of “blue”, “yellow”, “red”, “white”, (etc.)
+The apperception of “blue”, “yellow”, “red”, “white”, (etc.).
 
 ## 12. THREE TYPES OF MENTAL CONSTRUCTIONS
 
@@ -356,8 +356,8 @@ Friend Visākha, there are three types of “saṅkhārā” (mental constructio
 
 <a id="s12-u13-3"></a>13.3 kāyasaṅkhāro, vacīsaṅkhāro, cittasaṅkhāro”ti.  
 🚹⨀①🆎(kāya+saṅkhāra) 🚹⨀①🆎(vacī+saṅkhāra) 🚹⨀①🆎(citta+saṅkhāra) ⏏️(iti)  
-intention which results in bodily action | intention which results in verbal action | intention which result in thought formation | (end quote)  
-“Bodily thought process (intention which result in bodily action), verbal thought process (intention which result in verbal action), mental thought process (intention which result in thought formation).”
+intention which results in bodily action | intention which results in verbal action | intention which results in thought formation | (end quote)  
+“Bodily thought process (intention which results in bodily action), verbal thought process (intention which results in verbal action), mental thought process (intention which results in thought formation).”
 
 <a id="s12-u14-1"></a>14.1 “Katamo panāyye, kāyasaṅkhāro, katamo vacīsaṅkhāro, katamo cittasaṅkhāro”ti?  
 *️⃣🤟🚹⨀①(katama) ⏏️(pana) 🚺⨀⓪(ayyā) 🚹⨀①🆎(kāya+saṅkhāra) *️⃣🤟🚹⨀①(katama) 🚹⨀①🆎(vacī+saṅkhāra) *️⃣🤟🚹⨀①(katama) 🚹⨀①🆎(citta+saṅkhāra) ⏏️(iti)  
@@ -637,7 +637,7 @@ This characteristic, Bhikkhave, reality as it is, is seen and known for whoever 
 <a id="s18-u1-22"></a>1.22 Yathābhūtaṁ, bhikkhave, jānato passato na cetanāya karaṇīyaṁ:  
 ⏏️🆎(yathā+bhūta) 🚹⨂⓪(bhikkhu) 🚹⨀④🔽(anta)(jānanta) 🚹⨀④🔽(anta)(passanta) ⏏️(na) 🚺⨀③(cetanā) 🚻⨀①🔽(anīya)(karaṇīya)  
 reality as it is | Bhikkhave | for knowing | for seeing | no | with intention | ought to be done  
-One who sees and know reality as it is, Bhikkhave, has nothing that ought to be done with intention.
+One who sees and knows reality as it is, Bhikkhave, has nothing that ought to be done with intention.
 
 <a id="s18-u1-23"></a>1.23 ‘nibbindāmi virajjāmī’ti.  
 🟢⨀👆⏹(nibbindati) 🟢⨀👆⏹(virajjati) ⏏️(iti)  
@@ -750,8 +750,8 @@ and moisture, both of these.
 
 Thus, the collections and elements,  
 And these six sense bases;  
-Arisen dependent on a cause,
-They cease with the breakup of the cause
+Arisen dependent on a cause,  
+They cease with the breakup of the cause.
 
 ## 21. MAN FORMS HIS OWN DESTINY
 
@@ -799,7 +799,7 @@ Like fire covered with ashes.
 
 ## 23. HOW REOCCURRENCE (OF SUFFERING) IS INFLUENCED BY ACTIONS
 
-[Saṅkhārasutta AN 3.23 PTS 1.123](https://suttacentral.net/an3.23)(Anguttara Nikaya I 122):
+[Saṅkhārasutta AN 3.23 PTS 1.123](https://suttacentral.net/an3.23) (Anguttara Nikaya I 122):
 
 <a id="s23-u1-3"></a>1.3 Idha, ekacco puggalo sabyābajjhaṁ kāyasaṅkhāraṁ abhisaṅkharoti, sabyābajjhaṁ vacīsaṅkhāraṁ abhisaṅkharoti, sabyābajjhaṁ manosaṅkhāraṁ abhisaṅkharoti.  
 ⏏️(idha) *️⃣🤟🚹⨀①(ekacca) 🚹⨀①(puggala) 🚹⨀②(sabyābajjha) 🚹⨀②🆎(kāya+saṅkhāra) 🟢⨀🤟▶️(abhisaṅkharoti) 🚹⨀②(sabyābajjha) 🚹⨀②🆎(vacī+saṅkhāra) 🟢⨀🤟▶️(abhisaṅkharoti) 🚹⨀②(sabyābajjha) 🚹⨀②🆎(mano+saṅkhāra) 🟢⨀🤟▶️(abhisaṅkharoti)  
@@ -822,7 +822,7 @@ that | with harmful | with contact | afflicted with | being | harmful | feeling 
 That being, who is afflicted with harmful contact, experiences totally painful harmful feelings just like beings living in hell.
 
 :::note
-The word `loka` (world) does not mean a "planet" or "physical world". `loka` is what we experience around us, based on our senses and perceptions, so it is necessarily subjective. What the Buddha is trying to say is that our actions shapes our perception of the world, if we commit harmful acts than the world will appear harmful to us.
+The word `loka` (world) does not mean a "planet" or "physical world". `loka` is what we experience around us, based on our senses and perceptions, so it is necessarily subjective. What the Buddha is trying to say is that our actions shape our perception of the world; if we commit harmful acts then the world will appear harmful to us.
 :::
 
 ## 24. A DESIRE FOR REBIRTH MAY CAUSE REARISING (OF SUFFERING)
@@ -852,7 +852,7 @@ He sets that thought, focuses and cultivates it.
 <a id="s24-u3-5"></a>3.5 Tassa te saṅkhārā ca vihārā ca evaṁ bhāvitā evaṁ bahulīkatā tatrupapattiyā saṁvattanti.  
 *️⃣🤟🚹⨀⑥(ta) *️⃣🤟🚹⨂①(ta) 🚹⨂①(saṅkhāra) ⏏️(ca) 🚹⨂①(vihāra) ⏏️(ca) ⏏️(evaṁ) 🚹⨂①🔽(ta)(bhāvita) ⏏️(evaṁ) 🚹⨂①🆎(bahula+kata) 🚺⨀④🆎(tatra+upapatti) 🟢⨂🤟▶️(saṁvattati)  
 of that | those | mental constructions | and | states of mind | and | thus | cultivated | thus | practised often | to rearising in that place | lead to  
-Regarding that, those mental constructions and state of mind, thus cultivated and practised often, leads to rearising (of suffering).
+Regarding that, those mental constructions and state of mind, thus cultivated and practised often, lead to rearising (of suffering).
 
 <a id="s24-u3-6"></a>3.6 Ayaṁ, bhikkhave, maggo ayaṁ paṭipadā tatrupapattiyā saṁvattati.  
 *️⃣🤟🚹⨀①(ima) 🚹⨂⓪(bhikkhu) 🚹⨀①(magga) *️⃣🤟🚺⨀①(ima) 🚺⨀①(paṭipadā) 🚺⨀④🆎(tatra+upapatti) 🟢⨀🤟▶️(saṁvattati)  
@@ -860,7 +860,7 @@ this | Bhikkhave | way | this | path of progress | to rearising in that place | 
 This way, Bhikkhave, this path of progress leads to rearising (of suffering).
 
 :::note
-The Buddha is not necessarily supporting the idea of rebirth. Indeed, the Buddha is implying thinking or acting in the belief that one can be reborn in a more advantageous life will itself lead to more suffering. Be careful,`tatrupapattiyā` (re-arising in that place) should not be translated as "rebirth" but as "rearising" (of suffering). This is important, because otherwise the Buddha is implying focusing on an advantageous rebirth will lead to it occurring, which is contrary to the Buddha's philosophy (the soteriological goal is to eradicate suffering, not to be able to live amongst the wealthy in the next life).
+The Buddha is not necessarily supporting the idea of rebirth. Indeed, the Buddha is implying thinking or acting in the belief that one can be reborn in a more advantageous life will itself lead to more suffering. Be careful, `tatrupapattiyā` (re-arising in that place) should not be translated as "rebirth" but as "rearising" (of suffering). This is important, because otherwise the Buddha is implying focusing on an advantageous rebirth will lead to it occurring, which is contrary to the Buddha's philosophy (the soteriological goal is to eradicate suffering, not to be able to live amongst the wealthy in the next life).
 :::
 
 ## 25. A SUMMARY OF THE WAY
@@ -998,7 +998,7 @@ Giving up false speech, abstaining from false speech, being truthful, true to on
 <a id="s30-u15-1"></a>15.1 Pisuṇaṁ vācaṁ pahāya pisuṇāya vācāya paṭivirato hoti, ito sutvā na amutra akkhātā imesaṁ bhedāya, amutra vā sutvā na imesaṁ akkhātā amūsaṁ bhedāya. Iti bhinnānaṁ vā sandhātā sahitānaṁ vā anuppadātā, samaggārāmo samaggarato samagganandī; samaggakaraṇiṁ vācaṁ bhāsitā hoti.  
 🚺⨀②(pisuṇa) 🚺⨀②(vācā) 🔽(ya)(pajahati) 🚺⨀⑤(pisuṇa) 🚺⨀⑤(vācā) 🚹⨀①🔽(ta)(paṭivirata) 🟢⨀🤟▶️(hoti) ⏏️(ito) 🔽(tvā)(suṇāti) ⏏️(na) ⏏️(amutra) 🚹⨀①(akkhātar) *️⃣🤟🚹⨂⑥(ima) 🚹⨀④(bheda) ⏏️(amutra) ⏏️(vā) 🔽(tvā)(suṇāti) ⏏️(na) *️⃣🤟🚹⨂⑥(ima) 🚹⨀①(akkhātar) *️⃣🤟🚹⨂⑥(amu) 🚹⨀④(bheda)  
 slanderous | speech | giving up | from slanderous | from speech | abstaining from | is | here | having listened | not | in such-and-such a place | one who tells | of these | for disturbing/upsetting | in such-and-such a place | or | having listened | not | of these | one who tells | of so-and-so | for disturbing  
-Giving up slanderous speech, abstaining from slanderous speech. Having listened here, does not tell in such-and-such place for the purposes of disturbance, or having listened in such and such place, does not tell here for the purposes of disturbance.  
+Giving up slanderous speech, abstaining from slanderous speech. Having listened here, does not tell in such-and-such place for the purposes of disturbance, or having listened in such-and-such place, does not tell here for the purposes of disturbance.  
 ⏏️(iti) 🚹⨂⑥🔽(ta)(bhinna) ⏏️(vā) 🚹⨀①(sandhātar) 🚹⨂⑥🔽(ta)(sahita) ⏏️(vā) 🚹⨀①(anuppadātar) 🚹⨀①🆎(samagga+ārāma) 🚹⨀①🆎(samagga+rata) 🚹⨀①🆎(samagga+nandī) 🚺⨀②🆎(samagga+karaṇa) 🚺⨀②(vācā) 🚹⨀①(bhāsitar) 🟢⨀🤟▶️(hoti)  
 like this | of the broken | or | conciliator | of those on friendly terms | or | provider | enjoying concord | liking harmony | delighting in unity | peace-making | speech | speaker | is  
 Conciliator of the broken, provider of friendly terms, enjoying concord, liking harmony, delighting in unity, talking peace-making speech.
@@ -1042,27 +1042,27 @@ Bhikkhave, this is said to be “sammākammanta” (right action).
 <a id="s32-u21-1"></a>21.1 Yāvajīvaṁ arahanto abrahmacariyaṁ pahāya brahmacārī ārācārī viratā methunā gāmadhammā;  
 ⏏️🆎(yāva+jīva) 🚹⨂①(arahant) 🚻⨀②🆎(na+brahma+cariya) 🔽(ya)(pajahati) 🚹⨂①🆎(brahma+cārī) 🚹⨂①🆎(ārā+cārī) 🚹⨂①🔽(ta)(virata) 🚻⨀⑤(methuna) 🚹⨀⑤🆎(gāma+dhamma)  
 life-long | liberated ones | uncelibacy | giving up | celibate spiritual practitioner | keeping far away from | abstained from | from sexual intercourse | from vulgar practice  
-Life long arahants (liberated ones) give up uncelibacy, practise celibacy, keep far away from sexual intercourse, abstain from vulgar practice.
+Life-long arahants (liberated ones) give up uncelibacy, practise celibacy, keep far away from sexual intercourse, abstain from vulgar practice.
 
 <a id="s32-u23-1"></a>23.1 Yāvajīvaṁ arahanto surāmerayamajjapamādaṭṭhānaṁ pahāya surāmerayamajjapamādaṭṭhānā paṭiviratā;  
 ⏏️🆎(yāva+jīva) 🚹⨂①(arahant) 🚻⨀②🆎(surā+meraya+majja+pamāda+ṭhāna) 🔽(ya)(pajahati) 🚻⨀⑤🆎(surā+meraya+majja+pamāda+ṭhāna) 🚹⨂①🔽(ta)(paṭivirata)  
 life-long | liberated ones | wine, spirits, drugs and states of intoxication | giving up | from wine, spirits, drugs and states of intoxication | abstained from  
-Life long arahants (liberated ones) give up and abstain from wine, spirits, drugs and states of intoxication.  
+Life-long arahants (liberated ones) give up and abstain from wine, spirits, drugs and states of intoxication.  
 
 <a id="s32-u24-1"></a>24.1 Yāvajīvaṁ arahanto ekabhattikā rattūparatā viratā vikālabhojanā;\
 ⏏️🆎(yāva+jīva) 🚹⨂①(arahant) 🚹⨂①🆎(eka+bhattika) 🚹⨂①🆎(ratti+uparata) 🚹⨂①🔽(ta)(virata) 🚻⨀⑤🆎(vikāla+bhojana)  
 life-long | liberated ones | who eats one meal a day | abstaining from eating at night | stopped | from eating between midday and dawn  
-Life long arahants (liberated ones) eat one meal a day, abstain from eating at night, and between midday and dawn.
+Life-long arahants (liberated ones) eat one meal a day, abstain from eating at night, and between midday and dawn.
 
 <a id="s32-u25-1"></a>25.1 Yāvajīvaṁ arahanto naccagītavāditavisūkadassanamālāgandhavilepanadhāraṇamaṇḍanavibhūsanaṭṭhānā paṭiviratā;  
 ⏏️🆎(yāva+jīva) 🚹⨂①(arahant) 🚻⨀⑤🆎(nacca+gīta+vādita+visūka+dassana+mālā+gandha+vilepana+dhāraṇa+maṇḍana+vibhūsana+ṭhāna) 🚹⨂①🔽(ta)(paṭivirata)  
 life-long | liberated ones | from dancing, singing, instrumental music, watching shows, using garlands, perfumes, oils, adornments and decorations | abstained from  
-Life long arahants (liberated ones) abstain from dancing, singing, instrumental music, watching shows, using garlands, perfumes, oils, adornments and decorations.
+Life-long arahants (liberated ones) abstain from dancing, singing, instrumental music, watching shows, using garlands, perfumes, oils, adornments and decorations.
 
 <a id="s32-u26-1"></a>26.1 Yāvajīvaṁ arahanto uccāsayanamahāsayanaṁ pahāya uccāsayanamahāsayanā paṭiviratā nīcaseyyaṁ kappenti mañcake vā tiṇasanthārake vā;  
 ⏏️🆎(yāva+jīva) 🚹⨂①(arahant) 🚻⨀②🆎(uccā+sayana+mahā+sayana) 🔽(ya)(pajahati) 🚻⨀⑤🆎(uccā+sayana+mahā+sayana) 🚹⨂①🔽(ta)(paṭivirata) 🚺⨀②🆎(nīca+seyyā) 🟠⨂🤟▶️(kappeti) 🚹⨀⑦(mañcaka) ⏏️(vā) 🚹⨀⑦🆎(tiṇa+santhāraka) ⏏️(vā)  
 life-long | liberated ones | large and luxurious beds | giving up | from large and luxurious beds | abstained from | low bed | prepare | on a small bed | or | on a spread of grass | or  
-Life long arahants (liberated ones) give up and abstain from large and luxurious beds, prepare low or small beds, or spread of grass.
+Life-long arahants (liberated ones) give up and abstain from large and luxurious beds, prepare low or small beds, or spread of grass.
 
 ## 33. RIGHT LIVELIHOOD
 
@@ -1261,7 +1261,7 @@ Of that, whatever past refined and true apperception of felicity and satisfactio
 
 <a id="s39-u11-3"></a>11.3 Samādhijapītisukhasukhumasaccasaññā tasmiṁ samaye hoti, samādhijapītisukhasukhumasaccasaññīyeva tasmiṁ samaye hoti.  
 🚺⨀①🆎(samādhi+ja+pīti+sukha+sukhuma+sacca+saññā) *️⃣🤟🚹⨀⑦(ta) 🚹⨀⑦(samaya) 🟢⨀🤟▶️(hoti) 🚹⨀①🆎(samādhi+ja+pīti+sukha+sukhuma+sacca+saññī) ⏏️(eva) *️⃣🤟🚹⨀⑦(ta) 🚹⨀⑦(samaya) 🟢⨀🤟▶️(hoti)  
-refined and true apperception of the delight and ease born from focus | in that | occasion | is | with a refined and true apperception of the delight and ease born from focus | only | in that | occasion | is  
+refined and true apperception of the felicity and satisfaction born from focus | in that | occasion | is | with a refined and true apperception of the felicity and satisfaction born from focus | only | in that | occasion | is  
 In that occasion, there is refined and true apperception of the felicity and satisfaction born from focus, and in that occasion there is only a refined and true apperception of the felicity and satisfaction born from focus.
 
 ## 40. THE THIRD LEVEL OF FOCUS
@@ -1309,17 +1309,17 @@ In that occasion, there is refined and true apperception of neither unpleasant n
 <a id="s42-u14-1"></a>14.1 “Puna caparaṁ, poṭṭhapāda, bhikkhu sabbaso rūpasaññānaṁ samatikkamā paṭighasaññānaṁ atthaṅgamā nānattasaññānaṁ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṁ upasampajja viharati.  
 ⏏️(puna) ⏏️(ca) ⏏️(paraṁ) 🚹⨀⓪(poṭṭhapāda) 🚹⨀①(bhikkhu) ⏏️(sabbaso) 🚺⨂⑥🆎(rūpa+saññā) 🚹⨀⑤(samatikkama) 🚺⨂⑥🆎(paṭigha+saññā) 🚹⨀⑤🆎(attha+gama) 🚺⨂⑥🆎(nānatta+saññā) 🚹⨀⑤🆎(na+manasikāra) 🚹⨀①🆎(na+anta) 🚹⨀①(ākāsa) ⏏️(iti) 🚻⨀②🆎(ākāsa+ānañca+āyatana) 🔽(ya)(upasampajjati) 🟢⨀🤟▶️(viharati)  
 again | and | further | Poṭṭhapāda | bhikkhu | altogether | of apperception of form | going beyond | of apperception of sense impression | disappearance of | of apperception of multiplicity/diversity | ignoring | infinite | space | (end quote) | base of infinity of space | entering | remains in  
-And furthermore, Poṭṭhapāda, a bhikkhu, going beyond apperception of form altogether, with the disappearance of apperception of sense impressions, ignoring the apperception of multiple/diverse things, enters and remains in the base of the infinity of space, ie. “infinite space”.
+And furthermore, Poṭṭhapāda, a bhikkhu, going beyond apperception of form altogether, with the disappearance of apperception of sense impressions, ignoring the apperception of multiple/diverse things, enters and remains in the base of the infinity of space, i.e. “infinite space”.
 
 <a id="s42-u15-1"></a>15.1 “Puna caparaṁ, poṭṭhapāda, bhikkhu sabbaso ākāsānañcāyatanaṁ samatikkamma ‘anantaṁ viññāṇan’ti viññāṇañcāyatanaṁ upasampajja viharati.  
 ⏏️(puna) ⏏️(ca) ⏏️(paraṁ) 🚹⨀⓪(poṭṭhapāda) 🚹⨀①(bhikkhu) ⏏️(sabbaso) 🚻⨀②🆎(ākāsa+ānañca+āyatana) 🔽(ya)(samatikkamati) 🚻⨀①🆎(na+anta) 🚻⨀①(viññāṇa) ⏏️(iti) 🚻⨀②🆎(viññāṇa+ānañca+āyatana) 🔽(ya)(upasampajjati) 🟢⨀🤟▶️(viharati)  
 again | and | further | Poṭṭhapāda | bhikkhu | altogether | base of infinity of space | going beyond | infinite | consciousness | (end quote) | base of infinity of consciousness | entering | remains in  
-And furthermore, Poṭṭhapāda, a bhikkhu, going beyond the base of infinite space altogether, enters and remains in the base of the infinite consciousness, ie. “infinite consciousness”.
+And furthermore, Poṭṭhapāda, a bhikkhu, going beyond the base of infinite space altogether, enters and remains in the base of the infinite consciousness, i.e. “infinite consciousness”.
 
 <a id="s42-u16-1"></a>16.1 “Puna caparaṁ, poṭṭhapāda, bhikkhu sabbaso viññāṇañcāyatanaṁ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṁ upasampajja viharati.  
 ⏏️(puna) ⏏️(ca) ⏏️(paraṁ) 🚹⨀⓪(poṭṭhapāda) 🚹⨀①(bhikkhu) ⏏️(sabbaso) 🚻⨀②🆎(viññāṇa+ānañca+āyatana) 🔽(ya)(samatikkamati) ⏏️(na) 🟢⨀🤟▶️(atthi) *️⃣🤟🚻⨀①(kaci) ⏏️(iti) 🚻⨀②🆎(ākiñcañña+āyatana) 🔽(ya)(upasampajjati) 🟢⨀🤟▶️(viharati)  
 again | and | further | Poṭṭhapāda | bhikkhu | altogether | base of infinity of consciousness | going beyond | not | there is | anything | (end quote) | base of nothingness | entering | remains in  
-And furthermore, Poṭṭhapāda, a bhikkhu, going beyond the base of infinite consciousness altogether, enters and remains in the base of nothingness, ie. “there is nothing”.
+And furthermore, Poṭṭhapāda, a bhikkhu, going beyond the base of infinite consciousness altogether, enters and remains in the base of nothingness, i.e. “there is nothing”.
 
 ## 43. THE EIGHTH AND NINTH LEVELS OF FOCUS
 
@@ -1619,7 +1619,7 @@ whoever | properly | applies
 ⏏️(na) ⏏️(ca) ⏏️(sakkā) 🚹⨀③🔽(māna)🆎(na+ghaṭamāna)  
 no | and | able | by one not striving
 
-When the unaging exists,  
+When the unageing exists,  
 What are sensual pleasures to you, in which there is ageing?  
 Seized by death and illness,  
 All classes of beings wherever.
@@ -1748,7 +1748,7 @@ Life, and everything that is experienced, is impermanent. Time passes, beings di
 
 ### No permanent “self” or “soul”
 
-What we regard as a sense of “self” is also impermanent. Our conception of a “being” is nothing more than the five collections of fuel, there is no “sum” that is greater than the “parts.” (In other words, our sense of “self” is constructed, there is no eternal, independent, “self”)
+What we regard as a sense of “self” is also impermanent. Our conception of a “being” is nothing more than the five collections of fuel; there is no “sum” that is greater than the “parts.” (In other words, our sense of “self” is constructed; there is no eternal, independent, “self”)
 
 There is suffering, but no “self” is suffering  
 There is action, but no “self” is performing  
@@ -1808,18 +1808,18 @@ There are six types of apperceptions:
 5. apperception of touch,
 6. apperception of mental characteristics.
 
-Saññā is the process of “apperception.” And what is “apperception”? It is the ability to classify perceptions and representations, for example colour (“blue”, “yellow”, “red”, “white”, etc.)
+Saññā is the process of “apperception.” And what is “apperception”? It is the ability to classify perceptions and representations, for example colour (“blue”, “yellow”, “red”, “white”, etc.).
 
 ### saṅkhārā (mental constructions)
 
 Mental constructions are things (such as thoughts) created in our minds. There are three types of mental constructions:
 
-1. bodily thought process (intention which result in bodily action),  
-   eg. breathing in and out
-2. verbal thought process (intention which result in verbal action),  
-   eg. inner dialogue
-3. mental thought process (intention which result in thought formation).  
-   eg. saññā (apperceptions) and vedanā (feelings)
+1. bodily thought process (intention which results in bodily action),  
+   e.g. breathing in and out
+2. verbal thought process (intention which results in verbal action),  
+   e.g. inner dialogue
+3. mental thought process (intention which results in thought formation).  
+   e.g. saññā (apperceptions) and vedanā (feelings)
 
 There are six classes of volitional thoughts (intentions):
 
@@ -1906,7 +1906,7 @@ One who is composed, has nothing that ought to be done with intention.
 
 “May I see and know reality as it is.”  
 This characteristic, reality as it is, is seen and known for whoever is composed.  
-One who sees and know reality as it is, has nothing that ought to be done with intention.
+One who sees and knows reality as it is, has nothing that ought to be done with intention.
 
 “May I be dispassionate and detached.”  
 This characteristic, one becomes dispassionate and detached for whoever seeing and knowing reality as it is.  
@@ -1966,7 +1966,7 @@ Here, a bhikkhu is endowed with faith, virtue, learning, generosity and wisdom.
 It occurred to him:  
 “Oh, indeed! After the breakup of the body at death, may I be reborn in the company of the wealthy ruling class.”  
 He sets that thought, focuses and cultivates it.  
-Regarding that, those mental constructions and state of mind, thus cultivated and practised often, leads to rearising (of suffering).  
+Regarding that, those mental constructions and state of mind, thus cultivated and practised often, lead to rearising (of suffering).  
 This way, this path of progress leads to rearising (of suffering).
 
 ### A Summary Of The Way
@@ -2015,7 +2015,7 @@ Abstinence from:
 
 Giving up false speech, abstaining from false speech, being truthful, true to one's word, honest, reliable, keeping promises for everyone in the world.
 
-Giving up slanderous speech, abstaining from slanderous speech. Having listened here, does not tell in such-and-such place for the purposes of disturbance, or having listened in such and such place, does not tell here for the purposes of disturbance.
+Giving up slanderous speech, abstaining from slanderous speech. Having listened here, does not tell in such-and-such place for the purposes of disturbance, or having listened in such-and-such place, does not tell here for the purposes of disturbance.
 Conciliator of the broken, provider of friendly terms, enjoying concord, liking harmony, delighting in unity, talking peace-making speech.
 
 Giving up harsh speech, abstaining from harsh speech.
@@ -2031,7 +2031,7 @@ Abstinence from:
 * theft,
 * sexual misconduct.
 
-Life long arahants (liberated ones):
+Life-long arahants (liberated ones):
 
 * give up uncelibacy, practise celibacy, keep far away from sexual intercourse, abstain from vulgar practice.
 * give up and abstain from wine, spirits, drugs and states of intoxication.
@@ -2115,15 +2115,15 @@ Nine levels of focus:
 1. Secluding oneself from sensual pleasures, detaching from unwholesome characteristics, one enters and remains in the first jhāna, accompanied by reflection and consideration, secluded from defilements, with felicity and satisfaction. Of that, whatever past apperception of sensual pleasure ceases. In that occasion, there is refined and true apperception of felicity and satisfaction born from seclusion, and in that occasion there is only a refined and true apperception of felicity and satisfaction born from seclusion.
 2. With the conclusion of reflection and consideration, one enters and remains in the second jhāna, accompanied by an inner calming of intention, focused and free of thought or inner dialogue, born from focus, with felicity and satisfaction. Of that, whatever past refined and true apperception of felicity and satisfaction born from seclusion ceases. In that occasion, there is refined and true apperception of the felicity and satisfaction born from focus, and in that occasion there is only a refined and true apperception of the felicity and satisfaction born from focus.
 3. With the detachment from felicity, one enters and remains in the third jhāna, remains mentally balanced, is fully aware and being present, experiences body comfort, as the liberated ones describe: “equanimous, aware, living at ease.” Of that, whatever past refined and true apperception of the felicity and satisfaction born from focus ceases. In that occasion, there is refined and true apperception of equanimity, and in that occasion there is only a refined and true apperception of equanimity.
-4. Just before the giving up of the pleasant and the unpleasant and the disappearance of mental pleasure and displeasure, satisfaction and dissatisfaction, one enters and remains in the fourth jhāna, in a neutral state, and possessing purification of awareness by equanimity. Of that, whatever past refined and true apperception of equanimity ceases. In that occasion, there is refined and true apperception of neither unpleasant nor pleasant sensation, and in that occasion there is only a refined and true apperception of neither unpleasant nor pleasant sensation.
-5. Going beyond apperception of form altogether, with the disappearance of apperception of sense impressions, ignoring the apperception of multiple/diverse things, one enters and remains in the base of the infinity of space, ie. “infinite space”.
-6. Going beyond the base of infinite space altogether, one enters and remains in the base of the infinite consciousness, ie. “infinite consciousness”.
-7. Going beyond the base of infinite consciousness altogether, one enters and remains in the base of nothingness, ie. “there is nothing”.
+4. Just before the giving up of the pleasant and the unpleasant and the disappearance of mental pleasure and displeasure, satisfaction and dissatisfaction, one enters and remains in the fourth jhāna, in a neutral state, and possessing purification of awareness by equanimity. Of that, whatever past refined and true apperception of equanimity ceases. In that occasion, there is refined and true apperception of neither unpleasant nor pleasant feeling, and in that occasion there is only a refined and true apperception of neither unpleasant nor pleasant feeling.
+5. Going beyond apperception of form altogether, with the disappearance of apperception of sense impressions, ignoring the apperception of multiple/diverse things, one enters and remains in the base of the infinity of space, i.e. “infinite space”.
+6. Going beyond the base of infinite space altogether, one enters and remains in the base of the infinite consciousness, i.e. “infinite consciousness”.
+7. Going beyond the base of infinite consciousness altogether, one enters and remains in the base of nothingness, i.e. “there is nothing”.
 8. Having seen the inadequacy of the base of neither apperception nor non-apperception that is practised often, one applies oneself to expecting and attaining the ending of apperception and feeling.
 9. Going beyond the base of neither apperception nor non-apperception altogether, one enters and remains in the ending of apperception and feeling, having seen by that knowledge, one arrives at the exhaustion of the defilements.
 
 :::note
-Originally, the Buddha may only mentioned 4 stages of jhāna (mental dispositions) - various scholars such as Johannes Bronkhorst have hypothesised that additional states may have been added by latter disciples to align with meditative practices. For more information, see [Did the Buddha teach meditation?](/buddhavacana/articles/meditation)
+Originally, the Buddha may only have mentioned 4 stages of jhāna (mental dispositions) - various scholars such as Johannes Bronkhorst have hypothesised that additional states may have been added by later disciples to align with meditative practices. For more information, see [Did the Buddha teach meditation?](/buddhavacana/articles/meditation)
 :::
 
 >And from whatever indeed, I entered and emerged from these nine attainments of the successive stages in focus forwards and backwards, then I claimed to the deities in the world, Māra, Brahmas, religious practitioners, general population, devas and humans: “I am fully awakened to the unsurpassed, perfect awakening!”
@@ -2196,7 +2196,7 @@ Whenever dukkha ceases.
 
 ### Extinguishment is within reach
 
-When the unaging exists,  
+When the unageing exists,  
 What are sensual pleasures to you, in which there is ageing?  
 Seized by death and illness,  
 All classes of beings wherever.
