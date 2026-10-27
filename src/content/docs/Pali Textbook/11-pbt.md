@@ -1432,8 +1432,8 @@ with double-handled | if | even | Bhikkhave | with saw | robbers | lowlife | all
 
 <a id="s45-u9-7"></a>9.7 Āraddhaṁ kho pana me vīriyaṁ bhavissati asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṁ cittaṁ ekaggaṁ.  
 🚻⨀①🔽(ta)(āraddha) ⏏️(kho) ⏏️(pana) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(vīriya) 🟢⨀🤟⏭(bhavati) 🚻⨀①🔽(ta)🆎(na+sallīna) 🚺⨀①🔽(ta)(upaṭṭhita) 🚺⨀①(sati) 🚺⨀①🔽(ta)🆎(na+sammuṭṭha) 🚹⨀①🔽(ta)(passaddha) 🚹⨀①(kāya) 🚹⨀①🔽(ta)🆎(na+sāraddha) 🚻⨀①🔽(ta)(samāhita) 🚻⨀①(citta) 🚻⨀①🆎(eka+agga)  
-applied | and | now | my | determination | will become | active | presence | awareness | unmuddled | tranquility | body | unagitated | composed | mind | focused  
-And now applied with me there will be active determination, presence and awareness, unmuddled, tranquility, unagitated body, composed and focused mind.
+applied | and | now | my | determination | will become | active | presence | awareness | unmuddled | tranquillity | body | unagitated | composed | mind | focused  
+And now applied with me there will be active determination, presence and awareness, unmuddled, tranquillity, unagitated body, composed and focused mind.
 
 <a id="s45-u9-8"></a>9.8 Kāmaṁ dāni imasmiṁ kāye pāṇisamphassāpi kamantu, leḍḍusamphassāpi kamantu, daṇḍasamphassāpi kamantu, satthasamphassāpi kamantu, karīyati hidaṁ buddhānaṁ sāsanan’ti.  
 ⏏️(kāmaṁ) ⏏️(dāni) *️⃣🤟🚹⨀⑦(ima) 🚹⨀⑦(kāya) 🚹⨂①🆎(pāṇi+samphassa) ⏏️(api) 🟢⨂🤟⏹(kamati) 🚹⨂①🆎(leḍḍu+samphassa) ⏏️(api) 🟢⨂🤟⏹(kamati) 🚹⨂①🆎(daṇḍa+samphassa) ⏏️(api) 🟢⨂🤟⏹(kamati) 🚹⨂①🆎(sattha+samphassa) ⏏️(api) 🟢⨂🤟⏹(kamati) 🔴⨀🤟▶️(karīyati) ⏏️(hi) *️⃣🤟🚻⨀①(ima) 🚹⨂⑥(buddha) 🚻⨀①(sāsana) ⏏️(iti)  
@@ -2141,7 +2141,7 @@ Originally, the Buddha may only mentioned 4 stages of jhāna (mental disposition
 
 Friend, if others behave with unpleasantness, disagreeableness, dislikeableness to that bhikkhu - even hitting him with hands, stones, sticks, weapons. Thus he knows: This body is of such nature that it is possible to physically hit it with hands, stones, sticks, weapons.
 
-But this is indeed said by the Bhagavā in the exhortation with the simile of the saw: “Bhikkhave, even if lowlife robbers cut off all the limbs with a double-handled saw, even in that case whoever will corrupt his mind is not practising the teaching of mine. And now applied with me there will be active determination, presence and awareness, unmuddled, tranquility, unagitated body, composed and focused mind. And now certainly, even when hit by hands, stones, sticks, weapons in the body, surely in this case the teaching of the Buddha is practised.”
+But this is indeed said by the Bhagavā in the exhortation with the simile of the saw: “Bhikkhave, even if lowlife robbers cut off all the limbs with a double-handled saw, even in that case whoever will corrupt his mind is not practising the teaching of mine. And now applied with me there will be active determination, presence and awareness, unmuddled, tranquillity, unagitated body, composed and focused mind. And now certainly, even when hit by hands, stones, sticks, weapons in the body, surely in this case the teaching of the Buddha is practised.”
 
 ### A nun tells her story
 
