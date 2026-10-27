@@ -33,13 +33,13 @@ graph
 * `dukkhaṃ ariyasaccaṃ` (Realisation of Suffering)
   * `jāti` (birth)
     * `jāti` (birth)
-    * `sañjāti` (beneration)
+    * `sañjāti` (generation)
     * `okkanti` (descent)
     * `abhinibbatti` (production)
     * `khandhānaṃ pātubhāvo` (appearance of the collections)
     * `āyatanānaṃ paṭilābho` (acquisition of the senses)
-  * `jarā` (aging)
-    * `jarā` (aging)
+  * `jarā` (ageing)
+    * `jarā` (ageing)
     * `jīraṇatā` (decrepitude)
     * `khaṇḍiccaṃ` (brokenness of teeth)
     * `pāliccaṃ` (greyness of hair)
@@ -56,7 +56,7 @@ graph
     * `kālakiriyā` (making an end of time)
     * `khandhānaṃ bhedo` (the breaking up of the collections)
     * `kaḷevarassa nikkhepo` (the casting off of the body)
-    * "`jīvitindriyassupacchedo` (the cutting off of the life faculty)
+    * `jīvitindriyassupacchedo` (the cutting off of the life faculty)
   * `sokaparidevadukkhadomanassupāyāsā` (sorrow, lamentation, pain, grief, despair)
     * `soko` (sorrow)
       * `Ñātibyasanena phuṭṭhassa` (afflicted by loss of relatives)
@@ -125,7 +125,7 @@ graph
     * `yā tehi asaṅgati asamāgamo asamodhānaṃ amissībhāvo` (whatever non-meeting, non-coming together, non-conjoining, non-mixing with them)
   * `yampicchaṃ na labhati taṃ` (not getting what one wishes)
     * `Jātidhammānaṃ sattānaṃ evaṃ icchā uppajjati—  “aho vata, mayaṃ na jātidhammā assāma; na ca, vata, no jāti āgaccheyyā”ti. Na kho panetaṃ icchāya pattabbaṃ. Idampi “yampicchaṃ na labhati tampi dukkhaṃ”` (For beings subject to birth, such a wish arises: “Oh, may we not be subject to birth; and may birth not come to us!” But this is indeed not to be obtained by wishing. This too is “not getting what one wishes is also dukkha (suffering)”)
-    * `Jarādhammānaṃ sattānaṃ…pe…` (For beings subject to aging etc.)
+    * `Jarādhammānaṃ sattānaṃ…pe…` (For beings subject to ageing etc.)
     * `byādhidhammānaṃ sattānaṃ…pe…` (For beings subject to sickness etc.)
     * `maraṇadhammānaṃ sattānaṃ…pe…` (For beings subject to death etc.)
     * `sokaparidevadukkhadomanassupāyāsadhammānaṃ sattānaṃ…pe…` (For beings subject to sorrow, lamentation, pain, grief, despair etc.)
@@ -192,12 +192,12 @@ Whatever in the world is likable and pleasant
 * *Vedanā* (feeling) born of Body-contact in the world
 * *Vedanā* (feeling) born of Mind-contact in the world
 
-* *Saññā* (perception) of Forms in the world
-* *Saññā* (perception) of Sounds in the world
-* *Saññā* (perception) of Odours in the world
-* *Saññā* (perception) of Tastes in the world
-* *Saññā* (perception) of Tangibles in the world
-* *Saññā* (perception) of Mental objects in the world
+* *Saññā* (apperception) of Forms in the world
+* *Saññā* (apperception) of Sounds in the world
+* *Saññā* (apperception) of Odours in the world
+* *Saññā* (apperception) of Tastes in the world
+* *Saññā* (apperception) of Tangibles in the world
+* *Saññā* (apperception) of Mental objects in the world
 
 * *Sañcetanā* (volition) regarding Forms in the world
 * *Sañcetanā* (volition) regarding Sounds in the world
@@ -251,10 +251,10 @@ Whatever in the world is pleasant and agreeable.
   * knowledge of the origin of dukkha (suffering),
   * knowledge of the cessation of dukkha (suffering),
   * knowledge of the path leading to the cessation of dukkha (suffering)
-* `sammāsaṅkappo` (Right Intention)
-  * Intention for nekkhamma (renunciation),
-  * Intention for abyāpāda (non-ill will),
-  * Intention for avihiṃsā (non-harming)
+* `sammāsaṅkappo` (Right Resolve)
+  * Resolve for nekkhamma (renunciation),
+  * Resolve for abyāpāda (non-ill will),
+  * Resolve for avihiṃsā (non-harming)
 * `sammāvācā` (Right Speech)
   * Veramaṇī (abstinence) from false speech,
   * veramaṇī (abstinence) from slanderous speech,
@@ -264,8 +264,8 @@ Whatever in the world is pleasant and agreeable.
   * Veramaṇī (abstinence) from pāṇātipātā (taking life),
   * veramaṇī (abstinence) from adinnādāna (taking what is not given),
   * veramaṇī (abstinence) from kāmesumicchācāra (sexual misconduct)
-* `sammāājīvo` (Right Way of Living)
-  * an ariyasāvako (noble disciple), having abandoned micchāājīvaṃ (wrong way of living), maintains his life by sammāājīvena (right way of living)
+* `sammāājīvo` (Right Livelihood)
+  * an ariyasāvako (awakened disciple), having abandoned micchāājīvaṃ (wrong livelihood), maintains his life by sammāājīvena (right livelihood)
 * `sammāvāyāmo` (Right Effort)
   * For the non-arising of unarisen evil, akusalānaṃ dhammānaṃ (unwholesome states)
     * generates chandaṃ (desire),
@@ -283,7 +283,7 @@ Whatever in the world is pleasant and agreeable.
   * In kāye kāyānupassī (contemplating the body in the body) he dwells:
     * ātāpī (ardent),
     * sampajāno (clearly comprehending),
-    * satimā (mindful),
+    * satimā (aware),
     * having removed abhijjhādomanassaṃ (covetousness and displeasure) in the world.
   * In vedanāsu (feelings)… (etc.)… 
     * ...
@@ -292,28 +292,28 @@ Whatever in the world is pleasant and agreeable.
   * in dhammesu dhammānupassī (contemplating mental phenomena in dhammas)… (etc.)…
     * ...
 * `sammāsamādhi` (Right Focus)
-  * Quite secluded from sensual pleasures, secluded from akusalehi dhammehi (unwholesome states), enters and dwells in the first jhāna (meditative absorption), which is accompanied by:
+  * Quite secluded from sensual pleasures, secluded from akusalehi dhammehi (unwholesome states), enters and dwells in the first jhāna (mental disposition), which is accompanied by:
     * vitakka (initial application of mind) and
     * vicāra (sustained application of mind),
     * with pīti (rapture) and
     * with sukha (happiness) born of seclusion.
-  * With the stilling of vitakka (initial application of mind) and vicāra (sustained application of mind), by gaining internal confidence and unification of mind, he enters and dwells in the second jhāna (meditative absorption), which is
+  * With the stilling of vitakka (initial application of mind) and vicāra (sustained application of mind), by gaining internal confidence and unification of mind, he enters and dwells in the second jhāna (mental disposition), which is
     * without vitakka (initial application of mind) and
     * without vicāra (sustained application of mind),
     * with pīti (rapture) and
-    * with sukha (happiness) born of samādhi (concentration).
-  * With the fading away of pīti (rapture), he dwells in upekkhā (equanimity), and is sato (mindful) and sampajāno (clearly comprehending), and experiences sukha (happiness) with the body; he enters and dwells in the third jhāna (meditative absorption), of which the noble ones declare:
-    * 'upekkhako satimā sukhavihārī (Equanimous and mindful, he has a pleasant abiding)'.
-  * With the abandoning of sukha (happiness) and dukkha (pain), and with the previous disappearance of somanassa (joy) and domanassa (displeasure), he enters and dwells in the fourth jhāna (meditative absorption), which is
+    * with sukha (happiness) born of samādhi (focus).
+  * With the fading away of pīti (rapture), he dwells in upekkhā (equanimity), and is sato (aware) and sampajāno (clearly comprehending), and experiences sukha (happiness) with the body; he enters and dwells in the third jhāna (mental disposition), of which the noble ones declare:
+    * 'upekkhako satimā sukhavihārī (Equanimous and aware, he has a pleasant abiding)'.
+  * With the abandoning of sukha (happiness) and dukkha (pain), and with the previous disappearance of somanassa (joy) and domanassa (displeasure), he enters and dwells in the fourth jhāna (mental disposition), which is
     * without sukha (happiness) and
     * without dukkha (pain),
-    * a purity of mindfulness due to upekkhā (equanimity).
+    * a purity of awareness due to upekkhā (equanimity).
 
 ## According to Abhidhamma
 
 Cattāri saccāni— 
 
-* ``dukkhaṃ` (suffering),
+* `dukkhaṃ` (suffering),
   * the remaining `kilesā` (defilements), and
   * the remaining `akusalā dhammā` (unwholesome states), and
   * the three `kusalamūlāni sāsavāni` (wholesome roots that are tainted), and
@@ -323,26 +323,26 @@ Cattāri saccāni— 
     * `kiriyā` (functional),
     * neither wholesome nor unwholesome nor kamma (action)-result, and
     * all `rūpa` (material form)
-* ``dukkhasamudayo` (the origin of suffering),
+* `dukkhasamudayo` (the origin of suffering),
   * Taṇhā (craving) and,
   * the remaining kilesā (defilements), and
   * the remaining akusalā dhammā (unwholesome states), and
   * the three kusalamūlāni sāsavāni (wholesome roots that are tainted), and
   * the remaining sāsavā kusalā dhammā (tainted wholesome states)
-* ``dukkhanirodho` (the cessation of suffering),
+* `dukkhanirodho` (the cessation of suffering),
   * The abandonment of taṇhā (craving),
   * and of the remaining kilesā (defilements),
   * and of the remaining akusalānaṃ dhammānaṃ (unwholesome states),
   * and of the three kusalamūlānaṃ sāsavānaṃ (wholesome roots that are tainted),
   * and of the remaining sāsavānaṃ kusalānaṃ dhammānaṃ (tainted wholesome states)
-* ``dukkhanirodhagāminī paṭipadā` (the path leading to the cessation of suffering)
-  * at the time when he develops lokuttaraṃ jhānaṃ (supramundane absorption) that is:
+* `dukkhanirodhagāminī paṭipadā` (the path leading to the cessation of suffering)
+  * at the time when he develops lokuttaraṃ jhānaṃ (supramundane mental disposition) that is:
     * niyyānikaṃ (leading out),
     * apacayagāmiṃ (not accumulating),
   * for the abandoning of diṭṭhigatānaṃ (wrong views),
   * for the attainment of the paṭhamāya bhūmiyā (first stage),
   * quite secluded from sensual pleasures… (etc.)…
-  * he enters and abides in the paṭhamaṃ jhānaṃ (first absorption), which is
+  * he enters and abides in the paṭhamaṃ jhānaṃ (first mental disposition), which is
     * dukkhapaṭipadaṃ (painful practice) and
     * dandhābhiññaṃ (slowly comprehending),
   * at that time the aṭṭhaṅgiko maggo (eightfold path) arises:
@@ -357,13 +357,13 @@ aṭṭhaṅgiko maggo (eightfold path):
   * amoho (non-delusion),
   * dhammavicayo (investigation of phenomena),
   * sammādiṭṭhi (right view),
-  * dhammavicayasambojjhaṅgo (enlightenment factor of investigation of phenomena),
+  * dhammavicayasambojjhaṅgo (awakening factor of investigation of phenomena),
   * maggaṅgaṃ (path factor),
   * maggapariyāpannaṃ (included in the path)
-* `sammāsaṅkappo` (Right Intention)
+* `sammāsaṅkappo` (Right Resolve)
   * takko (reasoning),
   * vitakko (thought)… (etc.)…
-  * sammāsaṅkappo (right intention),
+  * sammāsaṅkappo (right resolve),
   * maggaṅgaṃ (path factor),
   * maggapariyāpannaṃ (included in the path)
 * `sammāvācā` (Right Speech)
@@ -394,8 +394,8 @@ aṭṭhaṅgiko maggo (eightfold path):
   * sammākammanto (right action),
   * maggaṅgaṃ (path factor),
   * maggapariyāpannaṃ (included in the path)
-* `sammāājīvo` (Right Way of Living)
-  * micchā ājīvā (wrong way of living):
+* `sammāājīvo` (Right Livelihood)
+  * micchā ājīvā (wrong livelihood):
     * ārati (abstinence),
     * virati (abstention),
     * paṭivirati (refraining),
@@ -405,27 +405,27 @@ aṭṭhaṅgiko maggo (eightfold path):
   * anajjhāpatti (non-transgression),
   * velāanatikkamo (not overstepping the boundary),
   * setughāto (demolishing the connection),
-  * sammāājīvo (right way of living),
+  * sammāājīvo (right livelihood),
   * maggaṅgaṃ (path factor),
   * maggapariyāpannaṃ (included in the path)
 * `sammāvāyāmo` (Right Effort)
   * cetasiko
   * vīriyārambho (mental instigation of energy) … (etc.)…
   * sammāvāyāmo (right effort),
-  * vīriyasambojjhaṅgo (enlightenment factor of energy),
+  * vīriyasambojjhaṅgo (awakening factor of energy),
   * maggaṅgaṃ (path factor),
   * maggapariyāpannaṃ (included in the path)
 * `sammāsati` (Right Awareness)
   * sati (memory), anussati (recollection)… (etc.)…
   * sammāsati (right awareness),
-  * satisambojjhaṅgo (enlightenment factor of awareness),
+  * satisambojjhaṅgo (awakening factor of awareness),
   * maggaṅgaṃ (path factor),
   * maggapariyāpannaṃ (included in the path)
 * `sammāsamādhi` (Right Focus)
   * cittassa ṭhiti (stability of mind),
   * saṇṭhiti (steadfastness)… (etc.)…
-  * sammāsamādhi (right awareness),
-  * samādhisambojjhaṅgo (enlightenment factor of awareness),
+  * sammāsamādhi (right focus),
+  * samādhisambojjhaṅgo (awakening factor of focus),
   * maggaṅgaṃ (path factor),
   * maggapariyāpannaṃ (included in the path)
 

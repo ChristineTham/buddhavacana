@@ -42,7 +42,7 @@ Thank heavens, honourable being, (you) live!
 jayaṃ veraṃ pasavati (D III 183,17)  
 🚻①⨀(jaya) 🚻②⨀(vera) ▶️🤟⨀(pasavati)  
 winning | hatred | he produces  
-Winning, (he) produces hatred
+Winning, (he) produces hatred.
 
 brāhmaṇo brahmunā manteti (D II 237,4-5)  
 🚹①⨀(brāhmaṇa) 🚹③⨀(brahma) ▶️🤟⨀(manteti)  

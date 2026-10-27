@@ -32,8 +32,8 @@ Having approached, and played the conch shell, and placed down the conch shell, 
 
 atha kho tesaṃ paccantajānaṃ manussānaṃ etad ahosi: kissa nu kho eso saddo evaṃ rajanīyo evaṃ kamanīyo evaṃ madanīyo ti.  
 🔼(atha kho) 🚹④⨂(ta) 🚹④⨂(paccantaja) 🚹④⨂(manussa) 🔼(etadahosi) : 🚹⑥⨀(ka) 🔼(nu kho) 🚹①⨀(eta) 🚹①⨀(sadda) 🔼(evaṃ) 🚹①⨀(rajanīya) 🔼(evaṃ) 🚹①⨀(kamanīya) 🔼(evaṃ) 🚹①⨀(madanīya) 🔼(ti)  
-after that | for those | for frontier | for people | this thought occured : of what? | surely? | indeed | this | sound | thus | enticing | thus | beautiful | thus | intoxicating | quote  
-After that the thought occured for those frontier people: “What is this sound that is so enticing, beautiful and intoxicating?”
+after that | for those | for frontier | for people | this thought occurred : of what? | surely? | indeed | this | sound | thus | enticing | thus | beautiful | thus | intoxicating | quote  
+After that the thought occurred for those frontier people: “What is this sound that is so enticing, beautiful and intoxicating?”
 
 sannipatitvā taṃ saṅkhadhamaṃ etad avocuṃ: ambho kissa nu kho eso saddo evaṃ rajanīyo evaṃ kamanīyo evaṃ madanīyo ti.  
 🔼(sannipatitvā) 🚹②⨀(ta) 🚹②⨀(saṅkhadhama) ⏮🤟⨂(etadavoca) : 🔼(ambho) 🚹⑥⨀(ka) 🔼(nu kho) 🚹①⨀(eta) 🚹①⨀(sadda) 🔼(evaṃ) 🚹①⨀(rajanīya) 🔼(evaṃ) 🚹①⨀(kamanīya) 🔼(evaṃ) 🚹①⨀(madanīya) 🔼(ti)  
@@ -49,8 +49,8 @@ this | indeed | sir | conch shell | named | for whatever | this | sound | thus |
 
 yen' ajja samaṇo Gotamo dvārena nikkhamissati taṃ Gotama dvaraṃ nāma bhavissati (D II 89,7-8)  
 🚹③⨀(ya) 🔼(ajja) 🚹①⨀(samaṇa) 🚹①⨀(gotama) 🚻③⨀(dvāra) ⏭🤟⨀(nikkhamati) 🚻①⨀(ta) 🚻①⨀(gotamadvāra) 🔼(nāma) ⏭🤟⨀(bhavati)  
-by whichever | today | ascetic | Gotama | by gateway | will exit | that | Gotama Gate | named | will be  
-By whichever gate the ascetic Gotama will exit today, that will be named the “Gotama Gate”.
+by whichever | today | wanderer | Gotama | by gateway | will exit | that | Gotama Gate | named | will be  
+By whichever gate the wanderer Gotama will exit today, that will be named the “Gotama Gate”.
 
 vatthāni pi 'ssa na yathā aññesaṃ (D II 28,27-28)  
 🚻①⨂(vattha) 🔼(pi) 🚹⑥⨀(ima) 🔼(na) 🔼(yathā) 🚹⑥⨂(añña)  
@@ -89,8 +89,8 @@ Who are you, friend?
 
 kiṃ kusalaṃ kiṃ akusalaṃ (D III 61,14-15)  
 🚻①⨀(ka) 🚻①⨀(kusala) 🚻①⨀(ka) 🚻①⨀(akusala)  
-what | skillful | what | unskillful  
-What is skillful, what is unskillful?
+what | skilful | what | unskilful  
+What is skilful, what is unskilful?
 
 ke tumhe (D III 84,16)  
 🚹①⨀(ka) 🤘①⨂(tvaṃ)  
