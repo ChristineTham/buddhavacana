@@ -120,9 +120,9 @@ a simile or a metaphoric likeness
 | --- | --- | --- | --- | --- | --- | --- |
 | {359} | abhijjhā assa pakati | abhijjhā | ālu | abhijjh~~ā~~ + ālu + ~~si~~ | abhijjhālu | the one whose nature is covetousness |
 
-## `bhāva` (the abstract condition)
+## `bhāva` (the abstract state)
 
-condition or state or a qualitative character of someone or something
+the state or a qualitative character of someone or something
 (a state of being so and so, a situation, or a qualitative character of
 someone or something)
 
@@ -161,7 +161,7 @@ a quality being possessed by someone (or something)
 | {366} | daṇḍo yassa atthi, tasmiṁ vā vijjatī’ti | daṇḍa | ī | daṇḍ~~a~~ + ī + ~~si~~ | daṇḍī | the one having stick |
 | {367} | madhu yassa atthi, tasmiṁ vā vijjatī’ti | madhu | ra | madhu + r~~a~~ + ~~si~~ (o) | madhuro | something having sweet taste, sweet |
 | {368} | guṇo yassa atthi, tasmiṁ vā vijjatī’ti | guṇa | vantu | guṇa + v~~antu~~ + ~~si~~ (ā) | guṇavā | virtuous or a dignitary |
-| {369} | sati yassa atthi, tasmiṁ vā vijjatī’ti | sati | mantu | sati + m~~antu~~ + ~~si~~ (ā) | satimā | the one having mindfulness, mindful |
+| {369} | sati yassa atthi, tasmiṁ vā vijjatī’ti | sati | mantu | sati + m~~antu~~ + ~~si~~ (ā) | satimā | the one having awareness, aware |
 | {370} | saddhā yassa atthi, tasmiṁ vā vijjatī’ti | saddhā | ṇa | saddh~~ā~~ + ṇ~~a~~ + ~~si~~ (o) | saddho | the one having faith, the faithful |
 | {371} | āyu assa atthi, tasmiṁ vā vijjatī’ti  | āyu | mantu | āy~~u~~(as) + m~~antu~~ + ~~si~~ (ā) | āyasmā | the one having life |
 

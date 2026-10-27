@@ -89,4 +89,4 @@ The roots in the order of their classes, with the sense Kaccāyana's examples gi
 | `tija` | `bhū` | to endure (with `kha`) | `titikkhati` |
 | `bhuja` | `bhū` | to eat (with `kha`, "to wish to eat") | `bubhukkhati` |
 
-The forms of each root in every tense, mood and person are worked through rule by rule in the Padarūpasiddhi's Ākhyātakaṇḍa: <https://kaccayana.github.io/rupasiddhi/6-akhyatakanda>. For the full list of roots see the `Dhātupāṭha` entries of the [Digital Pāḷi Dictionary](https://dpdict.net/), which gives every root with its class, its sense and its conjugation.
+The forms of each root in every tense, mood and person are worked through rule by rule in the Padarūpasiddhi's Ākhyātakaṇḍa: <https://kaccayana.github.io/rupasiddhi/6-akhyatakanda>. For the full list of roots see the `Dhātupāṭha` entries of the [Digital Pāḷi Dictionary](https://dpdict.net/), which gives every root with its class, its sense and its verb forms.

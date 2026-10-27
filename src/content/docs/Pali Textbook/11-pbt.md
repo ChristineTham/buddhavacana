@@ -838,7 +838,7 @@ It occurred to him:
 <a id="s24-u3-3"></a>3.3 ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā khattiyamahāsālānaṁ sahabyataṁ upapajjeyyan’ti.  
 ⏏️(aho) ⏏️(vata) *️⃣👆⚧⨀①(ahaṁ) 🚹⨀⑥(kāya) 🚹⨀⑤(bheda) ⏏️(paraṁ) 🚻⨀⑤(maraṇa) 🚹⨂⑥🆎(khattiya+mahā+sāla) 🚺⨀②(sahabyatā) 🔵⨀👆⏯(upapajjati) ⏏️(iti)  
 oh! | indeed | I | of body | from the breakup | after | from death | of wealthy men of the ruling caste | company | should be reborn | (end quote)  
-"Oh, indeed! After the breakup of the body at death, may I be reborn in the company of the wealthy ruling class."
+“Oh, indeed! After the breakup of the body at death, may I be reborn in the company of the wealthy ruling class.”
 
 <a id="s24-u3-4"></a>3.4 So taṁ cittaṁ dahati, taṁ cittaṁ adhiṭṭhāti, taṁ cittaṁ bhāveti.  
 *️⃣🤟🚹⨀①(ta) *️⃣🤟🚻⨀②(ta) 🚻⨀②(citta) 🟢⨀🤟▶️(dahati) *️⃣🤟🚻⨀②(ta) 🚻⨀②(citta) 🟢⨀🤟▶️(adhiṭṭhāti) *️⃣🤟🚻⨀②(ta) 🚻⨀②(citta) 🟠⨀🤟▶️(bhāveti)  
@@ -1177,7 +1177,7 @@ similarly | the third
 similarly | the fourth  
 ⏏️(iti) ⏏️(uddhaṁ) ⏏️(adho) ⏏️(tiriyaṁ) ⏏️(sabbadhi) ⏏️🆎(sabba+attatā) 🚹⨀②(sabbāvant) 🚹⨀②(loka) 🚹⨀③🆎(mettā+sahagata) 🚹⨀③(cetas) 🚹⨀③(vipula) 🚹⨀③🆎(mahā+gata) 🚹⨀③🆎(na+pamāṇa) 🚹⨀③🆎(na+vera) 🚹⨀③🆎(na+byāpajja) 🔽(tvā)(pharati) 🟢⨀🤟▶️(viharati)  
 like this | above | below | horizontally | everywhere | to all beings | entire | universe | filled with goodwill/friendliness | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | stays aware  
-Here, friend, a bhikkhu, with intent, stays aware having filled an entire compass direction with goodwill/friendliness. Similarly in a second, third, fourth compass directions. Thus, with intent, he stays aware having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, goodwill/friendliness.
+Here, friend, a bhikkhu, with intent, stays aware having filled an entire compass direction with goodwill/friendliness. Similarly in second, third, fourth compass directions. Thus, with intent, he stays aware having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, goodwill/friendliness.
 
 <a id="s37-u1-11-53"></a>1.11.53 Karuṇāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ karuṇāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
 🚹⨀③🆎(karuṇā+sahagata) 🚹⨀③(cetas) *️⃣🤟🚺⨀②(eka) 🚺⨀②(disā) 🔽(tvā)(pharati) 🟢⨀🤟▶️(viharati)  
@@ -1190,7 +1190,7 @@ similarly | the third
 similarly | the fourth  
 ⏏️(iti) ⏏️(uddhaṁ) ⏏️(adho) ⏏️(tiriyaṁ) ⏏️(sabbadhi) ⏏️🆎(sabba+attatā) 🚹⨀②(sabbāvant) 🚹⨀②(loka) 🚹⨀③🆎(karuṇā+sahagata) 🚹⨀③(cetas) 🚹⨀③(vipula) 🚹⨀③🆎(mahā+gata) 🚹⨀③🆎(na+pamāṇa) 🚹⨀③🆎(na+vera) 🚹⨀③🆎(na+byāpajja) 🔽(tvā)(pharati) 🟢⨀🤟▶️(viharati)  
 like this | above | below | horizontally | everywhere | to all beings | entire | universe | filled with compassion/pity | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | stays aware  
-Here, friend, a bhikkhu, with intent, stays aware having filled an entire compass direction with compassion/pity. Similarly in a second, third, fourth compass directions. Thus, with intent, he stays aware having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, compassion/pity.
+Here, friend, a bhikkhu, with intent, stays aware having filled an entire compass direction with compassion/pity. Similarly in second, third, fourth compass directions. Thus, with intent, he stays aware having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, compassion/pity.
 
 <a id="s37-u1-11-54"></a>1.11.54 muditāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ muditāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
 🚹⨀③🆎(muditā+sahagata) 🚹⨀③(cetas) *️⃣🤟🚺⨀②(eka) 🚺⨀②(disā) 🔽(tvā)(pharati) 🟢⨀🤟▶️(viharati)  
@@ -1203,7 +1203,7 @@ similarly | the third
 similarly | the fourth  
 ⏏️(iti) ⏏️(uddhaṁ) ⏏️(adho) ⏏️(tiriyaṁ) ⏏️(sabbadhi) ⏏️🆎(sabba+attatā) 🚹⨀②(sabbāvant) 🚹⨀②(loka) 🚹⨀③🆎(muditā+sahagata) 🚹⨀③(cetas) 🚹⨀③(vipula) 🚹⨀③🆎(mahā+gata) 🚹⨀③🆎(na+pamāṇa) 🚹⨀③🆎(na+vera) 🚹⨀③🆎(na+byāpajja) 🔽(tvā)(pharati) 🟢⨀🤟▶️(viharati)  
 like this | above | below | horizontally | everywhere | to all beings | entire | universe | filled with happiness for others | with intent | with expansive | with grand | with infinite | with peaceful | without ill will | having filled | stays aware  
-Here, friend, a bhikkhu, with intent, stays aware having filled an entire compass direction with happiness for others. Similarly in a second, third, fourth compass directions. Thus, with intent, he stays aware having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, happiness for others.
+Here, friend, a bhikkhu, with intent, stays aware having filled an entire compass direction with happiness for others. Similarly in second, third, fourth compass directions. Thus, with intent, he stays aware having filled above and below, horizontally, everywhere, to all beings in the universe, with expansive, grand, infinite, peaceful, without ill will, happiness for others.
 
 <a id="s37-u1-11-55"></a>1.11.55 upekkhāsahagatena cetasā ekaṁ disaṁ pharitvā viharati. Tathā dutiyaṁ. Tathā tatiyaṁ. Tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.  
 🚹⨀③🆎(upekkhā+sahagata) 🚹⨀③(cetas) *️⃣🤟🚺⨀②(eka) 🚺⨀②(disā) 🔽(tvā)(pharati) 🟢⨀🤟▶️(viharati)  
@@ -1386,7 +1386,7 @@ Sāriputta, this is the internal dwelling of an illustrious being:
 <a id="s44-u2-7"></a>2.7 suññatā.  
 🚺⨀①(suññatā)  
 emptiness
-“That is the internal dwelling of an illustrious being, Sāriputta, this emptiness.”
+“emptiness.”
 
 ## 45. HOW TO MEET PERSECUTION AND DEATH
 
@@ -1689,7 +1689,7 @@ All ways of speaking eradicated too.
 
 This is a restatement of the above extracts from the words of the Buddha, with minor rearrangement, edits and clarifications to make the text flow better, and eliminating vocatives and repetition.
 
-If you know and understand the Buddha’s teachings, you will not need to rely on the authority of teachers, repeat what they say, dependent on teachers, or engage in customs and rituals. Instead, your knowledge and understanding is known by yourself, seen by yourself, experienced by yourself, and the teaching of the Buddha is verifiable and should be personally experienced by those who are able to do so.
+If you know and understand the Buddha’s teachings, you will not need to rely on the authority of teachers, repeat what they say, dependent on teachers, or engage in customs and rituals. Instead, your knowledge and understanding is known by yourself, seen by yourself, experienced by yourself, and the `dhamma` (principle interpreting the essential nature of existence and experience) is verifiable and should be personally experienced by those who are able to do so.
 
 The Buddha’s teaching can be encapsulated as the four realisations (`ariyasacca`):
 
@@ -1714,7 +1714,7 @@ In summary, the dukkha is analogous to a continuously burning fire fed by the fi
 
 ### The five collections of fuel
 
-These are five processes:
+These are five "collections" (processes, akin to fuel for the "self"):
 
 1. rūpa (form),
 2. vedanā (feelings),
@@ -1740,7 +1740,7 @@ Life, and everything that is experienced, is impermanent. Time passes, beings di
 
 ### No permanent “self” or “soul”
 
-What we regard as a sense of “self” is also impermanent. Our conception of a “being” is nothing more than the collection of the five collections of fuel, there is no “sum” that is greater than the “parts.”
+What we regard as a sense of “self” is also impermanent. Our conception of a “being” is nothing more than the five collections of fuel, there is no “sum” that is greater than the “parts.” (In other words, our sense of "self" is constructed, there is no eternal, independent, "self")
 
 There is suffering, but no “self” is suffering  
 There is action, but no “self” is performing  
@@ -1749,7 +1749,7 @@ There is a path, but no “self” is travelling.
 
 ### The source of dukkha
 
-Dukkha is caused by craving, leading to renewed existence, accompanied by delight and desire, and experienced by one who takes delight here and there; thoroughly enjoying this and that:
+Dukkha is caused by craving, leading to renewed suffering, accompanied by delight and desire, and experienced by one who takes delight here and there; thoroughly enjoying this and that:
 
 * craving for sensual pleasure,
 * craving for existence,
@@ -1800,11 +1800,11 @@ There are six types of apperceptions:
 5. apperception of touch,
 6. apperception of mental characteristics.
 
-Saññā is the process of apperceiving “apperception.” And what is “apperception”? It is the ability to classify representations, for example colour (“blue”, “yellow”, “red”, “white”, etc.)
+Saññā is the process of “apperception.” And what is “apperception”? It is the ability to classify perceptions and representations, for example colour (“blue”, “yellow”, “red”, “white”, etc.)
 
 ### saṅkhārā (mental constructions)
 
-There are three types of mental constructions:
+Mental constructions are things (such as thoughts) created in our minds. There are three types of mental constructions:
 
 1. bodily thought process (intention which result in bodily action),  
    eg. breathing in and out
@@ -1849,7 +1849,7 @@ The following prerequisites or dependencies cause consciousness to arise, and be
 
 If there were no volitional action ripening in the realm of sensual desire, there would be no existence (of suffering) in the realm of sensual desire.  
 Action is the field, consciousness is the seed, and craving is the moisture.  
-While beings are impeded by ignorance, bound by craving, fallen away from their roots, consciousness is well established and in the future produces reoccurrence (of suffering).
+While beings are impeded by ignorance, bound by craving, in a low realm, consciousness is well established and in the future produces reoccurrence (of suffering).
 
 ### Consciousness May Be Calmed
 
@@ -1861,7 +1861,7 @@ There is no birth of suffering.
 Having known this danger,  
 suffering is caused by consciousness;  
 The bhikkhu stills the consciousness,  
-And so attained final extinguishment satisfied.
+Satisfied, attained final extinguishment.
 
 ### The Psychological Law Of Causality And Its Use
 
@@ -1912,9 +1912,9 @@ This characteristic, one personally realises understanding and insight into libe
 Visual consciousness (cakkhuviññāṇa) arises dependent on rūpa (form) and the faculty of seeing. The three combined together is phassa (contact).  
 With phassa (contact) as cause, vedanā (feelings).  
 With vedanā (feelings) as cause, taṇhā (craving).  
-While completely fading away and ending of craving, cessation of fuel (the will to survive).  
-From cessation of fuel, cessation of the existence (of false perception of `atta` - an eternal independent self).  
-From cessation of existence, cessation of the birth (of suffering).  
+While completely fading away and ending of craving, cessation of fuel for existence.  
+From cessation of fuel, cessation of existence (of a false perception of an eternal independent "self" (`atta`)).  
+From cessation of existence, cessation of the birth of suffering.  
 From cessation of birth, aging and death, sorrow, lamentation, pain, displeasure and despair cease.  
 Thus of this whole lot, there is cessation of mass of suffering.  
 This is disappearance of dukkha (suffering).
@@ -1928,8 +1928,8 @@ and moisture, both of these.
 
 Thus, the collections and elements,  
 And these six sense bases;  
-Reason for arise of dependence,  
-Disintegration of dependence, ceases
+Arisen dependent on a cause,  
+They cease with the breakup of the cause.
 
 ### Man Forms His Own Destiny
 
@@ -1942,7 +1942,7 @@ The wise tame the self.
 
 By no means completed wrong action,  
 Thickens quickly like milk;  
-Smouldering, heedlessly follows,  
+Smouldering, simmering,  
 Like fire covered with ashes.
 
 ### How Reoccurrence (of suffering) Is Influenced By Actions
@@ -1956,8 +1956,8 @@ That being, who is afflicted with harmful contact, experiences totally painful h
 
 Here, a bhikkhu is endowed with faith, virtue, learning, generosity and wisdom.  
 It occurred to him:  
-“Oh dear, oh no, death (of my) body, following death, I should be reborn in company of wealthy men of the ruling caste.”  
-He takes his mind, focuses and cultivates it.  
+“Oh, indeed! After the breakup of the body at death, may I be reborn in the company of the wealthy ruling class.”  
+He sets that thought, focuses and cultivates it.  
 Regarding that, those mental constructions and state of mind, thus cultivated and practised often, leads to reoccurrence (of suffering).  
 This way, this path of progress leads to reoccurrence (of suffering).
 
@@ -1966,16 +1966,16 @@ This way, this path of progress leads to reoccurrence (of suffering).
 Non-doing of all wrongdoing,  
 Taking up of wholesome;  
 Purifying one's own mind,  
-This is the teaching of the Buddha.
+This is the teaching of the Buddhas.
 
 ### Bhikkhu or not?
 
-Formerly, I was similar to an ignorant being, living as a layman.  
+Formerly, living as a layman, I was ignorant.  
 Because of that, the Tathāgata and his disciples taught the Dhamma to me.  
 Having heard that Dhamma, I acquired faith in the Tathāgata.  
 I reflected like that, endowed with the gaining of that faith.  
 Household life is crowded and dirty, renunciation is open space.  
-It is not easy from being settled in domestic living to living a completely perfect and flawless spiritual path.  
+It is not easy from being settled in domestic living to living a completely perfect, completely pure, and flawless spiritual path.  
 What if I were to renounce from household life to homeless state, having shaved off hair and beard, and having put on ochre robe.  
 Indeed, friend, after some time, having left behind a small or large pile of wealth, and a small or large family circle, I renounced from household life to homeless state, having shaved off hair and beard, and having put on ochre robe.
 
@@ -2025,7 +2025,7 @@ Abstinence from:
 
 Life long arahants (liberated ones):
 
-* give up incelibacy, practice celibacy, keep far away from sexual intercourse, abstain from vulgar practice.
+* give up uncelibacy, practice celibacy, keep far away from sexual intercourse, abstain from vulgar practice.
 * give up and abstain from wine, spirits, drugs and states of intoxication.
 * eat one meal a day, abstain from eating at night, and between midday and dawn.
 * abstain from dancing, singing, instrumental music, watching shows, using garlands, perfumes, oils, adornments and decorations.
@@ -2194,7 +2194,7 @@ Peaceful and unobstructed,
 Free from stumbling and fear.
 
 This is achieved by many,  
-Obtainable now this freedom from death;  
+Obtainable now this freedom from (fear of) death;  
 Whoever applies properly,  
 Not able without striving.
 

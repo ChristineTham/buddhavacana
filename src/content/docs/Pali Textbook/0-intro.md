@@ -9,7 +9,7 @@ categories: ["palibook"]
 ---
 
 :::tip[Info]
-Part of "A Beginner (Non-Linguist) Guide to Learning Pāḷi"
+Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
 ## Motivation

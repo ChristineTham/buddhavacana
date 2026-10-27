@@ -8,7 +8,7 @@ description: >
 categories: ["palibook"]
 tags:
   - sandhi
-  - nāmā
+  - nāma
   - liṅga
   - vibhatti
   - alapana
@@ -311,14 +311,14 @@ various prefixes and affixes will allow the reader to sometimes (not always)
 "guess" the meaning of a lemma not previously encountered, and will also help
 when applying the various transformation rules (see below).
 
-## `nāmā` (nouns) {52}
+## `nāma` (nouns) {52}
 
 :::tip[Going deeper]
 Chapter [2](../2-0-nama/) tables the endings of every kind of noun, and chapter [4](../4-0-karaka/) what each ending says a noun is doing in the sentence.
 :::
 
-`nāmā` are the most common type of words in Pāḷi, and roughly (but not exactly)
-correspond to the term "noun" in English. `nāmā` also means "name", so these
+`nāma` are the most common type of words in Pāḷi, and roughly (but not exactly)
+correspond to the term "noun" in English. `nāma` also means "name", so these
 words represent things that we can "name" - including people, places, things,
 numbers, feelings and many other objects or concepts.
 
@@ -860,7 +860,7 @@ The rules for constructing a `taddhita` affixed noun can be rather daunting:
 | `upamā` | analogous similitude | `āyitatta` | {357} | 🚻 |
 | `tanʼnissitattha` | dependent nature and source | `la` | {358} | 🚻 (mostly) |
 | `bahula` | prominent nature | `ālu`* | {359} | variable |
-| `bhāva` | abstract conditions | `ṇya`, `tta` | {360} | 🚻 |
+| `bhāva` | the abstract state | `ṇya`, `tta` | {360} | 🚻 |
 | | | `ttana` | by `tu` of {360} | 🚻 |
 | | | `tā` | {360} | 🚺 |
 | | | `ṇa` | {361} | 🚻 |
