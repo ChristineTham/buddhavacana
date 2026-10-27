@@ -149,8 +149,8 @@ And what, Bhikkhave, is the realisation of the path of progress leading to the e
 
 <a id="s5-u21-2"></a>21.2 Ayameva ariyo aṭṭhaṅgiko maggo seyyathidaṁ—  
 *️⃣🤟🚹⨀①(ima) ⏏️(eva) 🚹⨀①(ariya) 🚹⨀①🆎(aṭṭha+aṅgika) 🚹⨀①(magga) ⏏️(seyyathidaṁ)  
-this | just | noble | 8-part | path | as follows  
-It is just this, the noble path in eight parts, as follows:
+this | just | noble (liberated ones) | 8-part | path | as follows  
+It is just this, the path of the liberated in eight parts, as follows:
 
 <a id="s5-u21-3"></a>21.3 sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi.  
 🚺⨀①🆎(sammā+diṭṭhi) 🚹⨀①🆎(sammā+saṅkappa) 🚺⨀①🆎(sammā+vācā) 🚹⨀①🆎(sammā+kammanta) 🚹⨀①🆎(sammā+ājīva) 🚹⨀①🆎(sammā+vāyāma) 🚺⨀①🆎(sammā+sati) 🚹⨀①🆎(sammā+samādhi)  
@@ -321,7 +321,7 @@ in happy | indeed | friend | Visākha | in feeling | underlying tendency towards
 <a id="s11-u21-3"></a>21.3 Chayimā, bhikkhave, saññā—  
 ⚧⨂①(cha) *️⃣🤟🚺⨂①(ima) 🚹⨂⓪(bhikkhu) 🚺⨂①(saññā)  
 six | these | Bhikkhave | apperceptions  
-Bhikkhave, these six saññā (apperceptions) -
+“Bhikkhave, these six saññā (apperceptions) -
 
 <a id="s11-u21-4"></a>21.4 rūpasaññā, saddasaññā, gandhasaññā, rasasaññā, phoṭṭhabbasaññā, dhammasaññā.  
 🚺⨀①🆎(rūpa+saññā) 🚺⨀①🆎(sadda+saññā) 🚺⨀①🆎(gandha+saññā) 🚺⨀①🆎(rasa+saññā) 🚺⨀①🆎(phoṭṭhabba+saññā) 🚺⨀①🆎(dhamma+saññā)  
@@ -797,7 +797,7 @@ Thickens quickly like milk;
 Smouldering, simmering,  
 Like fire covered with ashes.
 
-## 23. HOW REOCCURRENCE (OF SUFFERING) IS INFLUENCED BY ACTIONS 
+## 23. HOW REOCCURRENCE (OF SUFFERING) IS INFLUENCED BY ACTIONS
 
 [Saṅkhārasutta AN 3.23 PTS 1.123](https://suttacentral.net/an3.23)(Anguttara Nikaya I 122):
 
@@ -821,7 +821,11 @@ That being, who went towards a harmful world, is afflicted with harmful contact.
 that | with harmful | with contact | afflicted with | being | harmful | feeling | experiences | totally painful | just like | beings | living in hell  
 That being, who is afflicted with harmful contact, experiences totally painful harmful feelings just like beings living in hell.
 
-## 24. A STRONG WISH MAY INFLUENCE REOCCURRENCE (OF SUFFERING)
+:::note
+The word `loka` (world) does not mean a "planet" or "physical world". `loka` is what we experience around us, based on our senses and perceptions, so it is necessarily subjective. What the Buddha is trying to say is that our actions shapes our perception of the world, if we commit harmful acts than the world will appear harmful to us.
+:::
+
+## 24. A DESIRE FOR REBIRTH MAY CAUSE REARISING (OF SUFFERING)
 
 [Saṅkhārupapattisutta MN 120 PTS 3.100–3.103](https://suttacentral.net/mn120) (Majjhima Nikaya III 99 f):
 
@@ -847,13 +851,17 @@ He sets that thought, focuses and cultivates it.
 
 <a id="s24-u3-5"></a>3.5 Tassa te saṅkhārā ca vihārā ca evaṁ bhāvitā evaṁ bahulīkatā tatrupapattiyā saṁvattanti.  
 *️⃣🤟🚹⨀⑥(ta) *️⃣🤟🚹⨂①(ta) 🚹⨂①(saṅkhāra) ⏏️(ca) 🚹⨂①(vihāra) ⏏️(ca) ⏏️(evaṁ) 🚹⨂①🔽(ta)(bhāvita) ⏏️(evaṁ) 🚹⨂①🆎(bahula+kata) 🚺⨀④🆎(tatra+upapatti) 🟢⨂🤟▶️(saṁvattati)  
-of that | those | mental constructions | and | states of mind | and | thus | cultivated | thus | practised often | to rebirth there | lead to  
-Regarding that, those mental constructions and state of mind, thus cultivated and practised often, leads to reoccurrence (of suffering).
+of that | those | mental constructions | and | states of mind | and | thus | cultivated | thus | practised often | to rearising in that place | lead to  
+Regarding that, those mental constructions and state of mind, thus cultivated and practised often, leads to rearising (of suffering).
 
 <a id="s24-u3-6"></a>3.6 Ayaṁ, bhikkhave, maggo ayaṁ paṭipadā tatrupapattiyā saṁvattati.  
 *️⃣🤟🚹⨀①(ima) 🚹⨂⓪(bhikkhu) 🚹⨀①(magga) *️⃣🤟🚺⨀①(ima) 🚺⨀①(paṭipadā) 🚺⨀④🆎(tatra+upapatti) 🟢⨀🤟▶️(saṁvattati)  
-this | Bhikkhave | way | this | path of progress | to rebirth there | leads to  
-This way, Bhikkhave, this path of progress leads to reoccurrence (of suffering).
+this | Bhikkhave | way | this | path of progress | to rearising in that place | leads to  
+This way, Bhikkhave, this path of progress leads to rearising (of suffering).
+
+:::note
+The Buddha is not necessarily supporting the idea of rebirth. Indeed, the Buddha is implying thinking or acting in the belief that one can be reborn in a more advantageous life will itself lead to more suffering. Be careful,`tatrupapattiyā` (re-arising in that place) should not be translated as "rebirth" but as "rearising" (of suffering). This is important, because otherwise the Buddha is implying focusing on an advantageous rebirth will lead to it occurring, which is contrary to the Buddha's philosophy (the soteriological goal is to eradicate suffering, not to be able to live amongst the wealthy in the next life).
+:::
 
 ## 25. A SUMMARY OF THE WAY
 
@@ -873,7 +881,7 @@ purifying one's own mind
 this | of the Buddhas | teaching
 
 Non-doing of all wrongdoing,  
-Taking up of wholesome;  
+Taking up wholesome (thoughts);  
 Purifying one's own mind,  
 This is the teaching of the Buddhas.
 
@@ -1225,7 +1233,7 @@ Here, friend, a bhikkhu, with intent, stays aware having filled an entire compas
 <a id="s38-u10-1"></a>10.1 So vivicceva kāmehi, vivicca akusalehi dhammehi, savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.  
 *️⃣🤟🚹⨀①(ta) 🔽(ya)(viviccati) ⏏️(eva) 🚹⨂⑤(kāma) 🔽(ya)(viviccati) 🚹⨂⑤🆎(na+kusala) 🚹⨂⑤(dhamma) 🚻⨀②🆎(sa+vitakka) 🚻⨀②🆎(sa+vicāra) 🚻⨀②🆎(viveka+ja) 🚻⨀②🆎(pīti+sukha) 🚻⨀②(paṭhama) 🚻⨀②(jhāna) 🔽(ya)(upasampajjati) 🟢⨀🤟▶️(viharati)  
 he | secluding oneself from | just | sensual pleasures | detaching from | unwholesome | characteristics | accompanied by reflection | with consideration | secluded from defilements | with felicity and satisfaction | first | jhāna | entering | remains in  
-Secluding oneself from sensual pleasures, detaching from unwholesome characteristics, one enters and remains in the first jhāna, accompanied by reflection and consideration, secluded from defilements, with felicity and satisfaction.
+Secluding oneself from sensual pleasures, detaching from unwholesome characteristics, one enters and remains in the first jhāna (contemplative state), accompanied by reflection and consideration, secluded from defilements, with felicity and satisfaction.
 
 <a id="s38-u10-2"></a>10.2 Tassa yā purimā kāmasaññā, sā nirujjhati.  
 *️⃣🤟🚹⨀⑥(ta) *️⃣🤟🚺⨀①(ya) 🚺⨀①(purima) 🚺⨀①🆎(kāma+saññā) *️⃣🤟🚺⨀①(ta) 🔴⨀🤟▶️(nirujjhati)  
@@ -1263,7 +1271,7 @@ In that occasion, there is refined and true apperception of the felicity and sat
 <a id="s40-u12-1"></a>12.1 “Puna caparaṁ, poṭṭhapāda, bhikkhu pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena paṭisaṁvedeti, yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti, tatiyaṁ jhānaṁ upasampajja viharati.  
 ⏏️(puna) ⏏️(ca) ⏏️(paraṁ) 🚹⨀⓪(poṭṭhapāda) 🚹⨀①(bhikkhu) 🚺⨀⑥(pīti) ⏏️(ca) 🚹⨀⑤(virāga) 🚹⨀①(upekkhaka) ⏏️(ca) 🟢⨀🤟▶️(viharati) 🚹⨀①🔽(ta)(sata) ⏏️(ca) 🚹⨀①(sampajāna) 🚻⨀②(sukha) ⏏️(ca) 🚹⨀③(kāya) 🟢⨀🤟▶️(paṭisaṁvedeti) *️⃣🤟🚻⨀②(ya) *️⃣🤟🚻⨀②(ta) 🚹⨂①(ariya) 🟢⨂🤟▶️(ācikkhati) 🚹⨀①(upekkhaka) 🚹⨀①(satimant) 🚹⨀①🆎(sukha+vihārī) ⏏️(iti) 🚻⨀②(tatiya) 🚻⨀②(jhāna) 🔽(ya)(upasampajjati) 🟢⨀🤟▶️(viharati)  
 again | and | further | Poṭṭhapāda | bhikkhu | of felicity | and | with detachment | mentally balanced, equanimous | and | continues in | being present | and | purposeful/fully aware | pleasant | and | with body | experiences | which | that | noble ones | describe | mentally balanced, equanimous | attentive | living at ease | (end quote) | third | jhāna | entering | remains in  
-And furthermore, Poṭṭhapāda, a bhikkhu, with the detachment from felicity, enters and remains in the third jhāna, remains mentally balanced, is fully aware and being present, experiences body comfort, as the noble ones describe: “equanimous, attentive, living at ease.”
+And furthermore, Poṭṭhapāda, a bhikkhu, with the detachment from felicity, enters and remains in the third jhāna, remains mentally balanced, is fully aware and being present, experiences body comfort, as the liberated ones describe: “equanimous, attentive, living at ease.”
 
 <a id="s40-u12-2"></a>12.2 Tassa yā purimā samādhijapītisukhasukhumasaccasaññā, sā nirujjhati.  
 *️⃣🤟🚹⨀⑥(ta) *️⃣🤟🚺⨀①(ya) 🚺⨀①(purima) 🚺⨀①🆎(samādhi+ja+pīti+sukha+sukhuma+sacca+saññā) *️⃣🤟🚺⨀①(ta) 🔴⨀🤟▶️(nirujjhati)  
@@ -1514,7 +1522,7 @@ Then my mind was liberated.
 <a id="s47-u18-1"></a>18.1 (So kho ahaṁ, bhikkhave, attanā jātidhammo samāno jātidhamme ādīnavaṁ viditvā ajātaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesamāno ajātaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ ajjhagamaṁ, attanā jarādhammo samāno jarādhamme ādīnavaṁ viditvā ajaraṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesamāno ajaraṁ anuttaraṁ yogakkhemaṁ nibbānaṁ ajjhagamaṁ, attanā byādhidhammo samāno byādhidhamme ādīnavaṁ viditvā abyādhiṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesamāno abyādhiṁ anuttaraṁ yogakkhemaṁ nibbānaṁ ajjhagamaṁ, attanā maraṇadhammo samāno maraṇadhamme ādīnavaṁ viditvā amataṁ anuttaraṁ yogakkhemaṁ nibbānaṁ ajjhagamaṁ, attanā sokadhammo samāno sokadhamme ādīnavaṁ viditvā asokaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ ajjhagamaṁ), attanā saṅkilesadhammo samāno saṅkilesadhamme ādīnavaṁ viditvā asaṅkiliṭṭhaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesamāno asaṅkiliṭṭhaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ ajjhagamaṁ.  
 *️⃣🤟🚹⨀①(ta) ⏏️(kho) *️⃣👆⚧⨀①(ahaṁ) 🚹⨂⓪(bhikkhu) 🚹⨀③(atta) 🚹⨀①🆎(jāti+dhamma) 🚹⨀①🔽(māna)(samāna) 🚹⨀⑦🆎(jāti+dhamma) 🚹⨀②(ādīnava) 🔽(tvā)(vidati) 🚻⨀②🔽(ta)🆎(na+jāta) 🚻⨀②🆎(na+uttara) 🚹⨀②🆎(yoga+khema) 🚻⨀②(nibbāna) 🚹⨀①🔽(māna)(pariyesamāna) 🚻⨀②🔽(ta)🆎(na+jāta) 🚻⨀②🆎(na+uttara) 🚹⨀②🆎(yoga+khema) 🚻⨀②(nibbāna) 🟢⨀👆↩️(adhigacchati) 🚹⨀③(atta) 🚹⨀①🆎(jarā+dhamma) 🚹⨀①🔽(māna)(samāna) 🚹⨀⑦🆎(jarā+dhamma) 🚹⨀②(ādīnava) 🔽(tvā)(vidati) 🚻⨀②🆎(na+jara) 🚻⨀②🆎(na+uttara) 🚹⨀②🆎(yoga+khema) 🚻⨀②(nibbāna) 🚹⨀①🔽(māna)(pariyesamāna) 🚻⨀②🆎(na+jara) 🚻⨀②🆎(na+uttara) 🚹⨀②🆎(yoga+khema) 🚻⨀②(nibbāna) 🟢⨀👆↩️(adhigacchati) 🚹⨀③(atta) 🚹⨀①🆎(byādhi+dhamma) 🚹⨀①🔽(māna)(samāna) 🚹⨀⑦🆎(byādhi+dhamma) 🚹⨀②(ādīnava) 🔽(tvā)(vidati) 🚻⨀②🆎(na+byādhi) 🚻⨀②🆎(na+uttara) 🚹⨀②🆎(yoga+khema) 🚻⨀②(nibbāna) 🚹⨀①🔽(māna)(pariyesamāna) 🚻⨀②🆎(na+byādhi) 🚻⨀②🆎(na+uttara) 🚹⨀②🆎(yoga+khema) 🚻⨀②(nibbāna) 🟢⨀👆↩️(adhigacchati) 🚹⨀③(atta) 🚹⨀①🆎(maraṇa+dhamma) 🚹⨀①🔽(māna)(samāna) 🚹⨀⑦🆎(maraṇa+dhamma) 🚹⨀②(ādīnava) 🔽(tvā)(vidati) 🚻⨀②🔽(ta)🆎(na+mata) 🚻⨀②🆎(na+uttara) 🚹⨀②🆎(yoga+khema) 🚻⨀②(nibbāna) 🟢⨀👆↩️(adhigacchati) 🚹⨀③(atta) 🚹⨀①🆎(soka+dhamma) 🚹⨀①🔽(māna)(samāna) 🚹⨀⑦🆎(soka+dhamma) 🚹⨀②(ādīnava) 🔽(tvā)(vidati) 🚻⨀②🆎(na+soka) 🚻⨀②🆎(na+uttara) 🚹⨀②🆎(yoga+khema) 🚻⨀②(nibbāna) 🟢⨀👆↩️(adhigacchati) 🚹⨀③(atta) 🚹⨀①🆎(saṅkilesa+dhamma) 🚹⨀①🔽(māna)(samāna) 🚹⨀⑦🆎(saṅkilesa+dhamma) 🚹⨀②(ādīnava) 🔽(tvā)(vidati) 🚻⨀②🔽(ta)🆎(na+saṅkiliṭṭha) 🚻⨀②🆎(na+uttara) 🚹⨀②🆎(yoga+khema) 🚻⨀②(nibbāna) 🚹⨀①🔽(māna)(pariyesamāna) 🚻⨀②🔽(ta)🆎(na+saṅkiliṭṭha) 🚻⨀②🆎(na+uttara) 🚹⨀②🆎(yoga+khema) 🚻⨀②(nibbāna) 🟢⨀👆↩️(adhigacchati)  
 that | indeed | I | Bhikkhave | by myself | liable to birth | being | in liable to birth | unsatisfactoriness | having perceived | unborn | unsurpassed | sanctuary | extinguishment | searching for | unborn | unsurpassed | sanctuary | extinguishment | achieved | by myself | liable to old age | being | in liable to old age | unsatisfactoriness | having perceived | not ageing | unsurpassed | sanctuary | extinguishment | searching for | not ageing | unsurpassed | sanctuary | extinguishment | achieved | by myself | liable to get sick | being | in liable to get sick | unsatisfactoriness | having perceived | healthy | unsurpassed | sanctuary | extinguishment | searching for | healthy | unsurpassed | sanctuary | extinguishment | achieved | by myself | liable to death | being | in liable to death | unsatisfactoriness | having perceived | non-death | unsurpassed | sanctuary | extinguishment | achieved | by myself | liable to sorrow | being | in liable to sorrow | unsatisfactoriness | having perceived | non-sorrow | unsurpassed | sanctuary | extinguishment | achieved | by myself | liable to defilement | being | in liable to defilement | unsatisfactoriness | having perceived | undefiled | unsurpassed | sanctuary | extinguishment | searching for | undefiled | unsurpassed | sanctuary | extinguishment | achieved  
-(That indeed, Bhikkhave, from my own doing I was liable to birth, and having perceived the unsatisfactoriness of being liable to birth, searching for the unsurpassed sanctuary of extinguishment from being born, achieved the unsurpassed sanctuary of extinguishment from being born. From my own doing I was liable to old age, and having perceived the unsatisfactoriness of being liable to old age, searching for the unsurpassed sanctuary of non-ageing through extinguishment, achieved the unsurpassed sanctuary of non-ageing through extinguishment. From my own doing I was liable to sickness, and having perceived the unsatisfactoriness of being liable to sickness, searching for the unsurpassed sanctuary of health through extinguishment, achieved the unsurpassed sanctuary of health through extinguishment. From my own doing I was liable to death, and having perceived the unsatisfactoriness of being liable to death, achieved the unsurpassed sanctuary of non-death through extinguishment. From my own doing I was liable to sorrow, and having perceived the unsatisfactoriness of being liable to sorrow, achieved the unsurpassed sanctuary of non-sorrow through extinguishment.)[^mn26] From my own doing I was liable to defilement, and having perceived the unsatisfactoriness of being liable to defilement, searching for the unsurpassed sanctuary of undefilement through extinguishment, achieved the unsurpassed sanctuary of undefilement through extinguishment.
+(That indeed, Bhikkhave, from my own doing I was liable to birth, and having perceived the unsatisfactoriness of being liable to birth, searching for the unsurpassed sanctuary of extinguishment from being born, achieved the unsurpassed sanctuary of extinguishment from being born. From my own doing I was liable to old age, and having perceived the unsatisfactoriness of being liable to old age, searching for the unsurpassed sanctuary of non-ageing through extinguishment, achieved the unsurpassed sanctuary of non-ageing through extinguishment. From my own doing I was liable to sickness, and having perceived the unsatisfactoriness of being liable to sickness, searching for the unsurpassed sanctuary of health through extinguishment, achieved the unsurpassed sanctuary of health through extinguishment. From my own doing I was liable to death, and having perceived the unsatisfactoriness of being liable to death, achieved the unsurpassed sanctuary of non-death through extinguishment. From my own doing I was liable to sorrow, and having perceived the unsatisfactoriness of being liable to sorrow, achieved the unsurpassed sanctuary of non-sorrow through extinguishment.) From my own doing I was liable to defilement, and having perceived the unsatisfactoriness of being liable to defilement, searching for the unsurpassed sanctuary of undefilement through extinguishment, achieved the unsurpassed sanctuary of undefilement through extinguishment.[^4]
 
 <a id="s47-u18-2"></a>18.2 Ñāṇañca pana me dassanaṁ udapādi:  
 🚻⨀①(ñāṇa) ⏏️(ca) ⏏️(pana) *️⃣👆⚧⨀④(ahaṁ) 🚻⨀①(dassana) 🟢⨀🤟⏮(uppajjati)  
@@ -1645,7 +1653,7 @@ not | if | this | Bhikkhave | could have been | not born | not become | not made
 because | and | indeed | Bhikkhave | there exists | not born | not become | not made | not formed | therefore | of born | of becoming | of made | of formed | way out of | is clearly known | (end quote)  
 “And indeed, Bhikkhave, from that which is not born, not become, not made, not formed, a way out of being born, becoming, made, formed is clearly known.”
 
-## 52. EXTINGUISHMENT
+## 52. EXTINGUISHMENT HAS NO QUALITIES
 
 [Upasīvamāṇavapucchā Snp 5.7 PTS 206–207 Verse 1076–1083](https://suttacentral.net/snp5.7) (Sutta Nipata, verses 1074, 1076):
 
@@ -1766,7 +1774,7 @@ Dukkha is ended by completely fading away and ending craving, and:
 
 ### The path of progress leading to the end of dukkha
 
-Also known as the Noble Path in Eight Parts (“ariyo aṭṭhaṅgiko maggo”), consisting of:
+Also known as the eightfold path (“ariyo aṭṭhaṅgiko maggo”), consisting of:
 
 1. sammādiṭṭhi (right view),
 2. sammāsaṅkappa (right resolve),
@@ -1777,7 +1785,7 @@ Also known as the Noble Path in Eight Parts (“ariyo aṭṭhaṅgiko maggo”)
 7. sammāsati (right awareness),
 8. sammāsamādhi (right focus).
 
-The basis of the Noble Path is the mind pulling away from the five collections of fuel, which causes the fuel to be spent and the fire to stop burning. Let us examine some of these collections in greater detail.
+The basis of the eightfold path is the mind pulling away from the five collections of fuel, which causes the fuel to be spent and the fire to stop burning. Let us examine some of these collections in greater detail.
 
 ### vedanā (Feelings)
 
@@ -1952,19 +1960,19 @@ Having generated harmful intentions resulting in bodily, verbal and mental actio
 That being, who went towards a harmful world, is afflicted with harmful contact.  
 That being, who is afflicted with harmful contact, experiences totally painful harmful feelings just like beings living in hell.
 
-### A Strong Wish May Influence Reoccurrence (of suffering)
+### A Desire for Rebirth May Cause Rearising (of suffering)
 
 Here, a bhikkhu is endowed with faith, virtue, learning, generosity and wisdom.  
 It occurred to him:  
 “Oh, indeed! After the breakup of the body at death, may I be reborn in the company of the wealthy ruling class.”  
 He sets that thought, focuses and cultivates it.  
-Regarding that, those mental constructions and state of mind, thus cultivated and practised often, leads to reoccurrence (of suffering).  
-This way, this path of progress leads to reoccurrence (of suffering).
+Regarding that, those mental constructions and state of mind, thus cultivated and practised often, leads to rearising (of suffering).  
+This way, this path of progress leads to rearising (of suffering).
 
 ### A Summary Of The Way
 
 Non-doing of all wrongdoing,  
-Taking up of wholesome;  
+Taking up wholesome (thoughts);  
 Purifying one's own mind,  
 This is the teaching of the Buddhas.
 
@@ -2106,13 +2114,17 @@ Nine levels of focus:
 
 1. Secluding oneself from sensual pleasures, detaching from unwholesome characteristics, one enters and remains in the first jhāna, accompanied by reflection and consideration, secluded from defilements, with felicity and satisfaction. Of that, whatever past apperception of sensual pleasure ceases. In that occasion, there is refined and true apperception of felicity and satisfaction born from seclusion, and in that occasion there is only a refined and true apperception of felicity and satisfaction born from seclusion.
 2. With the conclusion of reflection and consideration, one enters and remains in the second jhāna, accompanied by an inner calming of intention, focused and free of thought or inner dialogue, born from focus, with felicity and satisfaction. Of that, whatever past refined and true apperception of felicity and satisfaction born from seclusion ceases. In that occasion, there is refined and true apperception of the felicity and satisfaction born from focus, and in that occasion there is only a refined and true apperception of the felicity and satisfaction born from focus.
-3. With the detachment from felicity, one enters and remains in the third jhāna, remains mentally balanced, is fully aware and being present, experiences body comfort, as the noble ones describe: “equanimous, attentive, living at ease.” Of that, whatever past refined and true apperception of the felicity and satisfaction born from focus ceases. In that occasion, there is refined and true apperception of equanimity, and in that occasion there is only a refined and true apperception of equanimity.
+3. With the detachment from felicity, one enters and remains in the third jhāna, remains mentally balanced, is fully aware and being present, experiences body comfort, as the liberated ones describe: “equanimous, attentive, living at ease.” Of that, whatever past refined and true apperception of the felicity and satisfaction born from focus ceases. In that occasion, there is refined and true apperception of equanimity, and in that occasion there is only a refined and true apperception of equanimity.
 4. Just before the giving up of the pleasant and the unpleasant and the disappearance of mental pleasure and displeasure, satisfaction and dissatisfaction, one enters and remains in the fourth jhāna, in a neutral state, and possessing purification of awareness by equanimity. Of that, whatever past refined and true apperception of equanimity ceases. In that occasion, there is refined and true apperception of neither unpleasant nor pleasant sensation, and in that occasion there is only a refined and true apperception of neither unpleasant nor pleasant sensation.
 5. Going beyond apperception of form altogether, with the disappearance of apperception of sense impressions, ignoring the apperception of multiple/diverse things, one enters and remains in the base of the infinity of space, ie. “infinite space”.
 6. Going beyond the base of infinite space altogether, one enters and remains in the base of the infinite consciousness, ie. “infinite consciousness”.
 7. Going beyond the base of infinite consciousness altogether, one enters and remains in the base of nothingness, ie. “there is nothing”.
 8. Having seen the inadequacy of the base of neither apperception nor non-apperception that is practised often, one applies oneself to expecting and attaining the ending of apperception and feeling.
 9. Going beyond the base of neither apperception nor non-apperception altogether, one enters and remains in the ending of apperception and feeling, having seen by that knowledge, one arrives at the exhaustion of the defilements.
+
+:::note
+Originally, the Buddha may only mentioned 4 stages of jhāna (contemplative states or dispositions) - various scholars such as Johannes Bronkhorst have hypothesised that additional states may have been added by latter disciples to align with meditative practices. For more information, see [Did the Buddha teach meditation?](/buddhavacana/articles/meditation)
+:::
 
 >And from whatever indeed, I entered and emerged from these nine attainments of the successive stages in focus forwards and backwards, then I claimed to the deities in the world, Māra, Brahmas, religious practitioners, general population, devas and humans: “I am fully awakened to the unsurpassed, perfect awakening!”
 >
@@ -2204,7 +2216,7 @@ Not able without striving.
 There exists, that which is not born, not become, not made, not formed.  
 From that, a way out of being born, becoming, made, formed can be clearly known.
 
-### Extinguishment
+### Extinguishment has no qualities
 
 Like a flame blown by a gust of wind,  
 Goes to rest and eludes definition;  
@@ -2222,4 +2234,4 @@ All ways of speaking eradicated too.
 
 [^3]: `jāti` and `punabbhava` here are the birth and the appearing again of suffering, not a birth into future lives: see the note at [5: 10.2](../5-dhammacakka/#u10-2).
 
-[^mn26]: The Chaṭṭha Saṅgāyana text abbreviates the death and sorrow clauses, leaving out `pariyesamāno amataṁ anuttaraṁ yogakkhemaṁ nibbānaṁ` and `pariyesamāno asokaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ`, the “searching for” that the other four clauses carry. The Pāḷi line and its tokens follow the printed text, and the translation says only what the line says; the summary below gives all six in full.
+[^4]: The Chaṭṭha Saṅgāyana text abbreviates the death and sorrow clauses, leaving out `pariyesamāno amataṁ anuttaraṁ yogakkhemaṁ nibbānaṁ` and `pariyesamāno asokaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ`, the “searching for” that the other four clauses carry. The Pāḷi line and its tokens follow the printed text, and the translation says only what the line says; the summary below gives all six in full.
