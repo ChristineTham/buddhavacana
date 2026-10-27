@@ -1233,7 +1233,7 @@ Here, friend, a bhikkhu, with intent, stays aware having filled an entire compas
 <a id="s38-u10-1"></a>10.1 So vivicceva kāmehi, vivicca akusalehi dhammehi, savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.  
 *️⃣🤟🚹⨀①(ta) 🔽(ya)(viviccati) ⏏️(eva) 🚹⨂⑤(kāma) 🔽(ya)(viviccati) 🚹⨂⑤🆎(na+kusala) 🚹⨂⑤(dhamma) 🚻⨀②🆎(sa+vitakka) 🚻⨀②🆎(sa+vicāra) 🚻⨀②🆎(viveka+ja) 🚻⨀②🆎(pīti+sukha) 🚻⨀②(paṭhama) 🚻⨀②(jhāna) 🔽(ya)(upasampajjati) 🟢⨀🤟▶️(viharati)  
 he | secluding oneself from | just | sensual pleasures | detaching from | unwholesome | characteristics | accompanied by reflection | with consideration | secluded from defilements | with felicity and satisfaction | first | jhāna | entering | remains in  
-Secluding oneself from sensual pleasures, detaching from unwholesome characteristics, one enters and remains in the first jhāna (contemplative state), accompanied by reflection and consideration, secluded from defilements, with felicity and satisfaction.
+Secluding oneself from sensual pleasures, detaching from unwholesome characteristics, one enters and remains in the first jhāna (mental disposition), accompanied by reflection and consideration, secluded from defilements, with felicity and satisfaction.
 
 <a id="s38-u10-2"></a>10.2 Tassa yā purimā kāmasaññā, sā nirujjhati.  
 *️⃣🤟🚹⨀⑥(ta) *️⃣🤟🚺⨀①(ya) 🚺⨀①(purima) 🚺⨀①🆎(kāma+saññā) *️⃣🤟🚺⨀①(ta) 🔴⨀🤟▶️(nirujjhati)  
@@ -2123,7 +2123,7 @@ Nine levels of focus:
 9. Going beyond the base of neither apperception nor non-apperception altogether, one enters and remains in the ending of apperception and feeling, having seen by that knowledge, one arrives at the exhaustion of the defilements.
 
 :::note
-Originally, the Buddha may only mentioned 4 stages of jhāna (contemplative states or dispositions) - various scholars such as Johannes Bronkhorst have hypothesised that additional states may have been added by latter disciples to align with meditative practices. For more information, see [Did the Buddha teach meditation?](/buddhavacana/articles/meditation)
+Originally, the Buddha may only mentioned 4 stages of jhāna (mental dispositions) - various scholars such as Johannes Bronkhorst have hypothesised that additional states may have been added by latter disciples to align with meditative practices. For more information, see [Did the Buddha teach meditation?](/buddhavacana/articles/meditation)
 :::
 
 >And from whatever indeed, I entered and emerged from these nine attainments of the successive stages in focus forwards and backwards, then I claimed to the deities in the world, Māra, Brahmas, religious practitioners, general population, devas and humans: “I am fully awakened to the unsurpassed, perfect awakening!”
