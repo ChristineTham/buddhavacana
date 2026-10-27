@@ -80,8 +80,8 @@ great / and / he / a man / and → a great man
 > Rūpaṁ, bhikkhave, **anattā**.
 
 🚻⨀①(rūpa) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(na+atta)  
-form / bhikkhave / not-self  
-*"`rūpa` (form), bhikkhave, is `anattā` (not-self)." [7: 2.1](../7-anatta/#u2-1): `an` for `na` before a vowel {334}; before a consonant `a`, `aniccaṁ` ("impermanent").*
+form / Bhikkhave / not-self  
+*"`rūpa` (form), Bhikkhave, is `anattā` (not-self)." [7: 2.1](../7-anatta/#u2-1): `an` for `na` before a vowel {334}; before a consonant `a`, `aniccaṁ` ("impermanent").*
 
 ### Exercises
 
@@ -134,6 +134,6 @@ not + belonging to a house → to homeless state
 
 5. > na + mata → **amataṁ**
 
-🚻⨀①🆎(na+mata)  
+🚻⨀①🔽(ta)🆎(na+mata)  
 not + dead → free from death  
 *`a` for `na` {333}: "not dead", the deathless, a name of nibbāna; [Bonus: 50, 66.2](../11-pbt/#s50-u66-2), `amataṁ ajjāpi ca labhanīyamidaṁ`.*

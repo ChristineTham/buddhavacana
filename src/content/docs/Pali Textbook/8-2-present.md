@@ -91,7 +91,7 @@ when / indeed / appear / phenomena
 > Taṁ kiṁ **maññatha**, bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā”ti?
 
 *️⃣🤟🚻⨀②(ta) *️⃣🤟🚻⨀②(kiṁ) 🟢⨂🤘▶️(maññati) 🚹⨂⓪(bhikkhu) 🚻⨀①(rūpa) 🚻⨀①(nicca) ⏏️(vā) 🚻⨀①🆎(na+nicca) ⏏️(vā) ⏏️(iti)  
-that / what / do you think / bhikkhave / form / permanent / or / impermanent / or / (end quote)  
+that / what / do you think / Bhikkhave / form / permanent / or / impermanent / or / (end quote)  
 *"Bhikkhave, what do you consider: is `rūpa` (form) `nicca` (permanent) or `anicca` (impermanent)?" ([7: 6.1](../7-anatta/#u6-1)) `maññatha`: `-tha`, second person plural {423}, the subject `tumhe` unsaid {411}; `-ññ-` is `ya` of the `divu` class fused with the root `mana` (to think) {447}.*
 
 > bhikkhu gacchanto vā ‘**gacchāmī**’ti **pajānāti**
@@ -143,8 +143,8 @@ faculty of seeing / and / dependent on / forms / and / arises / visual-conscious
 4. > Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako cakkhusmimpi **nibbindati**,
 
 ⏏️(evaṁ) 🚹⨀①🔽(anta)(passanta) 🚹⨂⓪(bhikkhu) 🚹⨀①(sutavant) 🚹⨀①🆎(ariya+sāvaka) 🚻⨀⑦(cakkhu) ⏏️(api) 🟢⨀🤟▶️(nibbindati)  
-thus / seeing / bhikkhave / learned / awakened disciple / the eye / too / gives up  
-*"Thus seeing, bhikkhave, the `sutavā` (learned) `ariyasāvaka` (awakened disciple) `nibbindati` (gives up) the eye" ([9: 8.1](../9-fire/#u8-1)) `nibbindati`: `-nd-` before `-ati`, the `rudha` class's `ṁ` put into the root `vida` (to feel) {446}; the prefix `ni`.*
+thus / seeing / Bhikkhave / learned / awakened disciple / the eye / too / gives up  
+*"Thus seeing, Bhikkhave, the `sutavā` (learned) `ariyasāvaka` (awakened disciple) `nibbindati` (gives up) the eye" ([9: 8.1](../9-fire/#u8-1)) `nibbindati`: `-nd-` before `-ati`, the `rudha` class's `ṁ` put into the root `vida` (to feel) {446}; the prefix `ni`.*
 
 5. > sabyābajjhaṁ vedanaṁ **vedayati** ekantadukkhaṁ,
 
@@ -155,5 +155,5 @@ harmful / feelings / experiences / totally painful
 6. > Dhammatā esā, bhikkhave, yaṁ nibbinno viratto vimuttiñāṇadassanaṁ **sacchikaroti**.
 
 🚺⨀①(dhammatā) *️⃣🤟🚺⨀①(eta) 🚹⨂⓪(bhikkhu) *️⃣🤟🚻⨀①(ya) 🚹⨀①🔽(ta)(nibbinna) 🚹⨀①🔽(ta)(viratta) 🚻⨀②🆎(vimutti+ñāṇa+dassana) 🟢⨀🤟▶️(sacchikaroti)  
-characteristic / this / bhikkhave / whoever / one who is dispassionate / one who is detached / understanding and insight into liberation / personally realises  
+characteristic / this / Bhikkhave / whoever / one who is dispassionate / one who is detached / understanding and insight into liberation / personally realises  
 *"This characteristic, Bhikkhave, one personally realises understanding and insight into liberation for whoever is dispassionate and detached." ([Bonus: 18, 1.27](../11-pbt/#s18-u1-27)) `sacchikaroti`: `-oti`, `o` of the `tanu` class {451}; `sacchi` + `kar`, the root `kara` (to do).*

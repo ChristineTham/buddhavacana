@@ -35,7 +35,7 @@ says that any vowel (vowel) in the environment before another vowel (/ __ vowel)
 | {12} | Vowel → ∅ / __ vowel | yassa+indriyāni | yass’indriyāni samathaṅ’gatāni |
 | | | hi+etaṁ | no he’taṁ bhante |
 | | | sametu+āyasmā | sametā’yasmā saṁghena |
-| {13} | Vowel / __ dissimilar vowel, dissimilar vowel → ∅ | cattāro+ime | cattāro’me bhikkhave dhammā |
+| {13} | Vowel / __ dissimilar vowel, dissimilar vowel → ∅ | cattāro+ime | cattāro’me Bhikkhave dhammā |
 | | | kinnu+imā+eva | kinʼnu’mā’va samaṇiyo |
 | | (exception) | pañca+indriyāni | pañci’ndriyāni |
 | | (exception) | tayo+assu | taya’ssu dhammā jahitā bhavanti |
@@ -67,7 +67,7 @@ says that any vowel (vowel) in the environment before another vowel (/ __ vowel)
 | | | pati+uttaritvā | paccu’ttaritvā |
 | | | pati+āharati | paccā’harati |
 | | (exception) | iti+assa muhuttaṁ+api | iti’ssa muhuttam’pi |
-| {20} | dh → d [occasionally] / after elision of a vowel (and dh → h) | ekaṁ+idha+ahaṁ | ekam’idā’haṁ bhikkhave samayaṁ |
+| {20} | dh → d [occasionally] / after elision of a vowel (and dh → h) | ekaṁ+idha+ahaṁ | ekam’idā’haṁ Bhikkhave samayaṁ |
 | | | sādhu | sāhu dassanam’ariyānaṁ |
 | | (exception) | idha+eva | idh’eva (me) maraṇaṁ bhavissati |
 | {21} | i or ī → y [occasionally] / __ dissimilar vowel | vutti+assa | vuty’assa |

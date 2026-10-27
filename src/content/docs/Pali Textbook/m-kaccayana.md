@@ -23,7 +23,7 @@ There are actually two components of Kaccāyana:
 * *Kaccāyana-byākaraṇa* (circa 6th century CE) and the author is not known
   (but ascribed to Mahā Kaccāyana Thera) -
   this contains the concisely stated rules (called `sutta`) that form the
-  basis of Pali grammar; and
+  basis of Pāḷi grammar; and
 * *Kaccāyana-vutti* (circa 8th century CE) by Saṅghanandin, which represents a
   commentary and explanation of the rules together with examples.
 

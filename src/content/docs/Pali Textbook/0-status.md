@@ -4,7 +4,7 @@ sidebar:
   label: "Status and contents"
   order: 501
 description: >
-  My textbook on learning Pali, based on Kaccāyana Pali Vyākaraṇam, the oldest extant Pali grammar book: its status, its contents and the order to read it in
+  My textbook on learning Pāḷi, based on Kaccāyana Pāḷi Vyākaraṇam, the oldest extant Pāḷi grammar book: its status, its contents and the order to read it in
 ---
 
 The current status of this work is **Early Draft for Review**: every chapter is
@@ -17,7 +17,7 @@ like this work and wish to show your appreciation, please consider
 [sponsoring me](https://github.com/sponsors/hellotham).
 :::
 
-This is a textbook meant for those who wish to learn Pali as quickly as possible, without prior knowledge of linguistics or grammar terminology. It is based on **Kaccāyana Pali Vyākaraṇam**, the oldest extant Pali grammar book, and aims to provide a comprehensive understanding of Pali grammar and syntax.
+This is a textbook meant for those who wish to learn Pāḷi as quickly as possible, without prior knowledge of linguistics or grammar terminology. It is based on **Kaccāyana Pāḷi Vyākaraṇam**, the oldest extant Pāḷi grammar book, and aims to provide a comprehensive understanding of Pāḷi grammar and syntax.
 
 ## Contents
 
@@ -29,7 +29,7 @@ first arahants to a selection of the core teachings.
 
 | chapter | kind | what it covers |
 | :-: | :-: | --- |
-| [0](../0-intro/) | | why this book, and how it differs from other Pali textbooks |
+| [0](../0-intro/) | | why this book, and how it differs from other Pāḷi textbooks |
 | [1](../1-basics/) | grammar | an overview of the whole language in one chapter: the writing system and sounds, the shape of a sentence, every part of speech, the symbols the book uses |
 | [2](../2-0-nama/) | grammar | `nāma` and `sandhi`: how words join and split, the endings of nouns, pronouns, numbers, prefixes and particles |
 | [3](../3-awakening/) | text | the Bodhikathā: the night of the awakening and dependent origination (Vinaya Mahāvagga 1.1) |

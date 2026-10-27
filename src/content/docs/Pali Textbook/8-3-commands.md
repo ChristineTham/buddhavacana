@@ -114,9 +114,9 @@ reality as it is / must know / must see / (end quote)
 
 > “Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā evaṁ **vadeyyātha**—
 
-⏏️(api) ⏏️(nu) *️⃣🤘⚧⨂①(tumhe) 🚹⨂⓪(bhikkhu) ⏏️(evaṁ) 🚹⨂①🔽(anta)(jānanta) ⏏️(evaṁ) 🚹⨂①🔽(anta)(passanta) ⏏️(evaṁ) 🟢⨂🤘⏯(vadati)  
-perhaps? / surely? / youse / bhikkhave / thus / knowing / thus / seeing / thus / will say  
-*"Thus knowing and thus seeing, bhikkhave, will you say -" ([Bonus: 1, 24.4](../11-pbt/#s1-u24-4)) `vadeyyātha`: ⏯ `-eyyātha`, second person ⨂ {425}; a supposition, "would you say" {416}.*
+⏏️(api) ⏏️(nu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) ⏏️(evaṁ) 🚹⨂①🔽(anta)(jānanta) ⏏️(evaṁ) 🚹⨂①🔽(anta)(passanta) ⏏️(evaṁ) 🟢⨂🤘⏯(vadati)  
+perhaps? / surely? / youse / Bhikkhave / thus / knowing / thus / seeing / thus / will say  
+*"Thus knowing and thus seeing, Bhikkhave, will you say -" ([Bonus: 1, 24.4](../11-pbt/#s1-u24-4)) `vadeyyātha`: ⏯ `-eyyātha`, second person ⨂ {425}; a supposition, "would you say" {416}.*
 
 > nayidaṁ saṅkhārā ābādhāya **saṁvatteyyuṁ**,
 

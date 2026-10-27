@@ -106,7 +106,7 @@ hell", the 🚹①⨂ of `satta` ("a being").
 > **Dveme**, bhikkhave, antā pabbajitena na sevitabbā.
 
 ⚧⨂①(dvi) *️⃣🤟🚹⨂①(ima) 🚹⨂⓪(bhikkhu) 🚹⨂①(anta) 🚹⨀③🔽(ta)(pabbajita) ⏏️(na) 🚹⨂①🔽(tabba)(sevitabba)  
-two / these / bhikkhave / extremes / by one gone forth / not / should be cultivated  
+two / these / Bhikkhave / extremes / by one gone forth / not / should be cultivated  
 *`dve` ([5: 2.1](../5-dhammacakka/#u2-1)): ①⨂ of `dvi` {132}, one shape for all genders; `dveme` is `dve ime` joined ([2.1](../2-1-sandhi/)).*
 
 > **Tisso** kho imā, āvuso visākha, vedanā—

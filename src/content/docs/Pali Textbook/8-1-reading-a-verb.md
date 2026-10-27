@@ -170,9 +170,9 @@ thus / my / form / let be
 
 > “Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā evaṁ **vadeyyātha**—
 
-⏏️(api) ⏏️(nu) *️⃣🤘⚧⨂①(tumhe) 🚹⨂⓪(bhikkhu) ⏏️(evaṁ) 🚹⨂①🔽(anta)(jānanta) ⏏️(evaṁ) 🚹⨂①🔽(anta)(passanta) ⏏️(evaṁ) 🟢⨂🤘⏯(vadati)  
-perhaps? / surely? / youse / bhikkhave / thus / knowing / thus / seeing / thus / will say  
-*"Thus knowing and thus seeing, bhikkhave, will you say -" ([Bonus: 1, 24.4](../11-pbt/#s1-u24-4)) `vadeyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, the subject `tumhe` {411}; "would you say", a supposition {416}.*
+⏏️(api) ⏏️(nu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) ⏏️(evaṁ) 🚹⨂①🔽(anta)(jānanta) ⏏️(evaṁ) 🚹⨂①🔽(anta)(passanta) ⏏️(evaṁ) 🟢⨂🤘⏯(vadati)  
+perhaps? / surely? / youse / Bhikkhave / thus / knowing / thus / seeing / thus / will say  
+*"Thus knowing and thus seeing, Bhikkhave, will you say -" ([Bonus: 1, 24.4](../11-pbt/#s1-u24-4)) `vadeyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, the subject `tumhe` {411}; "would you say", a supposition {416}.*
 
 > Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena **nisīdi** vimuttisukhapaṭisaṁvedī.
 
@@ -189,8 +189,8 @@ applied / indeed / now / my / determination / will become / active
 > Rūpañca hidaṁ, bhikkhave, attā **abhavissa**,
 
 🚻⨀①(rūpa) ⏏️(ca) ⏏️(hi) *️⃣🤟🚻⨀①(ima) 🚹⨂⓪(bhikkhu) 🚹⨀①(atta) 🟢⨀🤟🔀(bhavati)  
-form / and / indeed / this / bhikkhave / self / would be  
-*"And indeed here, bhikkhave, if `rūpa` were `attā` (self)," ([7: 2.2](../7-anatta/#u2-2)) `abhavissa`: the `a` put before the root {519} and the ending `-ssā` {430}, here short {517}; `kālātipatti` 🔀, third person singular, "if it were".*
+form / and / indeed / this / Bhikkhave / self / would be  
+*"And indeed here, Bhikkhave, if `rūpa` were `attā` (self)," ([7: 2.2](../7-anatta/#u2-2)) `abhavissa`: the `a` put before the root {519} and the ending `-ssā` {430}, here short {517}; `kālātipatti` 🔀, third person singular, "if it were".*
 
 ### Exercises
 
@@ -227,8 +227,8 @@ when / indeed / appear / phenomena
 2. > jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan’ti **vadāmi**.
 
 🚺⨀③(jāti) 🚺⨀③(jarā) 🚻⨀③(maraṇa) 🚹⨂③(soka) 🚹⨂③(parideva) 🚻⨂③(dukkha) 🚻⨂③(domanassa) 🚹⨂③(upāyāsa) 🚻⨀①🔽(ta)(āditta) ⏏️(iti) 🟢⨀👆▶️(vadati)  
-with birth / with aging / with death / with sorrows / with lamentations / with pains / with griefs / with despairs / burning / (end quote) / I say  
-*"burning with birth, aging, death, with sorrows, lamentations, pains, griefs, and despairs, I say." ([9: 2.6](../9-fire/#u2-6)) `vadāmi`: `-mi`, `vattamānā` ▶️, first person singular {423}, the `a` before it lengthened {478}; the subject `ahaṁ` is not said {412}.*
+with birth / with ageing / with death / with sorrows / with lamentations / with pains / with griefs / with despairs / burning / (end quote) / I say  
+*"burning with birth, ageing, death, with sorrows, lamentations, pains, griefs, and despairs, I say." ([9: 2.6](../9-fire/#u2-6)) `vadāmi`: `-mi`, `vattamānā` ▶️, first person singular {423}, the `a` before it lengthened {478}; the subject `ahaṁ` is not said {412}.*
 
 3. > Tatra kho bhagavā pañcavaggiye bhikkhū **āmantesi**—
 
@@ -244,9 +244,9 @@ delighted / those / bhikkhū / of the Bhagavā / what was spoken / rejoiced in
 
 5. > Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā aññaṁ satthāraṁ **uddiseyyāthā**”ti?
 
-⏏️(api) ⏏️(nu) *️⃣🤘⚧⨂①(tumhe) 🚹⨂⓪(bhikkhu) ⏏️(evaṁ) 🚹⨂①🔽(anta)(jānanta) ⏏️(evaṁ) 🚹⨂①🔽(anta)(passanta) *️⃣🤟🚹⨀②(añña) 🚹⨀②(satthar) 🟢⨂🤘⏯(uddisati) ⏏️(iti)  
-perhaps? / surely? / youse / bhikkhave / thus / knowing / thus / seeing / another / teacher / appoint / (end quote)  
-*"Thus knowing and thus seeing, bhikkhave, will you appoint another teacher?" ([Bonus: 1, 24.10](../11-pbt/#s1-u24-10)) `uddiseyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, "would you appoint"; the `-ā` before `”ti` is the join.*
+⏏️(api) ⏏️(nu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) ⏏️(evaṁ) 🚹⨂①🔽(anta)(jānanta) ⏏️(evaṁ) 🚹⨂①🔽(anta)(passanta) *️⃣🤟🚹⨀②(añña) 🚹⨀②(satthar) 🟢⨂🤘⏯(uddisati) ⏏️(iti)  
+perhaps? / surely? / youse / Bhikkhave / thus / knowing / thus / seeing / another / teacher / appoint / (end quote)  
+*"Thus knowing and thus seeing, Bhikkhave, will you appoint another teacher?" ([Bonus: 1, 24.10](../11-pbt/#s1-u24-10)) `uddiseyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, "would you appoint"; the `-ā` before `”ti` is the join.*
 
 6. > evaṁ me saṅkhārā **hontu**
 

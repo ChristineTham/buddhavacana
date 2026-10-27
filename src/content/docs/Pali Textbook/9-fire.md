@@ -37,17 +37,17 @@ There the Bhagavā addressed the bhikkhū:
 
 <a id="u2-1"></a>[2.1](https://tipitaka2500.github.io/tipitaka/13S4/1/1.1/1.1.3/1.1.3.6.html#p_13S4_75) “sabbaṁ, bhikkhave, ādittaṁ.  
 *️⃣🤟🚻⨀①(sabba) 🚹⨂⓪(bhikkhu) 🚻⨀①🔽(ta)(āditta)  
-all | bhikkhave | burning  
-“All, bhikkhave, is `ādittaṁ` (burning).
+all | Bhikkhave | burning  
+“All, Bhikkhave, is `ādittaṁ` (burning).
 
 <a id="u2-2"></a>2.2 Kiñca, bhikkhave, sabbaṁ ādittaṁ?  
 *️⃣🤟🚻⨀①(kiṁ) ⏏️(ca) 🚹⨂⓪(bhikkhu) *️⃣🤟🚻⨀①(sabba) 🚻⨀①🔽(ta)(āditta)  
-what | and | bhikkhave | all | burning  
-And what, bhikkhave, is the all that is burning?
+what | and | Bhikkhave | all | burning  
+And what, Bhikkhave, is the all that is burning?
 
 <a id="u2-3"></a>2.3 Cakkhu, bhikkhave, ādittaṁ, rūpā ādittā, cakkhuviññāṇaṁ ādittaṁ, cakkhusamphasso āditto.  
 🚻⨀①(cakkhu) 🚹⨂⓪(bhikkhu) 🚻⨀①🔽(ta)(āditta) 🚻⨂①(rūpa) 🚻⨂①🔽(ta)(āditta) 🚻⨀①🆎(cakkhu+viññāṇa) 🚻⨀①🔽(ta)(āditta) 🚹⨀①🆎(cakkhu+samphassa) 🚹⨀①🔽(ta)(āditta)  
-the eye | bhikkhave | burning | forms | burning | eye-consciousness | burning | eye-contact | burning  
+the eye | Bhikkhave | burning | forms | burning | eye-consciousness | burning | eye-contact | burning  
 The `cakkhu` (eye) is burning, `rūpā` (forms) are burning, `cakkhuviññāṇaṁ` (eye-consciousness) is burning, `cakkhusamphasso` (eye-contact) is burning.
 
 <a id="u2-4"></a>2.4 Yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi ādittaṁ.  
@@ -62,8 +62,8 @@ Burning with what?
 
 <a id="u2-6"></a>2.6 ‘Rāgagginā, dosagginā, mohagginā ādittaṁ, jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan’ti vadāmi.  
 🚹⨀③🆎(rāga+aggi) 🚹⨀③🆎(dosa+aggi) 🚹⨀③🆎(moha+aggi) 🚻⨀①🔽(ta)(āditta) 🚺⨀③(jāti) 🚺⨀③(jarā) 🚻⨀③(maraṇa) 🚹⨂③(soka) 🚹⨂③(parideva) 🚻⨂③(dukkha) 🚻⨂③(domanassa) 🚹⨂③(upāyāsa) 🚻⨀①🔽(ta)(āditta) ⏏️(iti) 🟢⨀👆▶️(vadati)  
-with the fire of passion | with the fire of hatred | with the fire of delusion | burning | with birth | with aging | with death | with sorrows | with lamentations | with pains | with griefs | with despairs | burning | (end quote) | I say  
-Burning with the fire of passion (`rāgaggi`), with the fire of hatred (`dosaggi`), with the fire of delusion (`mohaggi`); burning with birth, aging, death, with sorrows, lamentations, pains, griefs, and despairs, I say.
+with the fire of passion | with the fire of hatred | with the fire of delusion | burning | with birth | with ageing | with death | with sorrows | with lamentations | with pains | with griefs | with despairs | burning | (end quote) | I say  
+Burning with the fire of passion (`rāgaggi`), with the fire of hatred (`dosaggi`), with the fire of delusion (`mohaggi`); burning with birth, ageing, death, with sorrows, lamentations, pains, griefs, and despairs, I say.
 
 ### 2. The other five senses
 
@@ -84,8 +84,8 @@ Burning with what?
 
 <a id="u3-4"></a>3.4 ‘Rāgagginā, dosagginā, mohagginā ādittaṁ, jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan’ti vadāmi.  
 🚹⨀③🆎(rāga+aggi) 🚹⨀③🆎(dosa+aggi) 🚹⨀③🆎(moha+aggi) 🚻⨀①🔽(ta)(āditta) 🚺⨀③(jāti) 🚺⨀③(jarā) 🚻⨀③(maraṇa) 🚹⨂③(soka) 🚹⨂③(parideva) 🚻⨂③(dukkha) 🚻⨂③(domanassa) 🚹⨂③(upāyāsa) 🚻⨀①🔽(ta)(āditta) ⏏️(iti) 🟢⨀👆▶️(vadati)  
-with the fire of passion | with the fire of hatred | with the fire of delusion | burning | with birth | with aging | with death | with sorrows | with lamentations | with pains | with griefs | with despairs | burning | (end quote) | I say  
-Burning with the fire of passion, with the fire of hatred, with the fire of delusion; burning with birth, aging, death, with sorrows, lamentations, pains, griefs, and despairs, I say.
+with the fire of passion | with the fire of hatred | with the fire of delusion | burning | with birth | with ageing | with death | with sorrows | with lamentations | with pains | with griefs | with despairs | burning | (end quote) | I say  
+Burning with the fire of passion, with the fire of hatred, with the fire of delusion; burning with birth, ageing, death, with sorrows, lamentations, pains, griefs, and despairs, I say.
 
 <a id="u4-1"></a>[4.1](https://tipitaka2500.github.io/tipitaka/13S4/1/1.1/1.1.3/1.1.3.6.html#p_13S4_75) Ghānaṁ ādittaṁ, gandhā ādittā, ghānaviññāṇaṁ ādittaṁ, ghānasamphasso āditto.  
 🚻⨀①(ghāna) 🚻⨀①🔽(ta)(āditta) 🚹⨂①(gandha) 🚹⨂①🔽(ta)(āditta) 🚻⨀①🆎(ghāna+viññāṇa) 🚻⨀①🔽(ta)(āditta) 🚹⨀①🆎(ghāna+samphassa) 🚹⨀①🔽(ta)(āditta)  
@@ -104,8 +104,8 @@ Burning with what?
 
 <a id="u4-4"></a>4.4 ‘Rāgagginā, dosagginā, mohagginā ādittaṁ, jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan’ti vadāmi.  
 🚹⨀③🆎(rāga+aggi) 🚹⨀③🆎(dosa+aggi) 🚹⨀③🆎(moha+aggi) 🚻⨀①🔽(ta)(āditta) 🚺⨀③(jāti) 🚺⨀③(jarā) 🚻⨀③(maraṇa) 🚹⨂③(soka) 🚹⨂③(parideva) 🚻⨂③(dukkha) 🚻⨂③(domanassa) 🚹⨂③(upāyāsa) 🚻⨀①🔽(ta)(āditta) ⏏️(iti) 🟢⨀👆▶️(vadati)  
-with the fire of passion | with the fire of hatred | with the fire of delusion | burning | with birth | with aging | with death | with sorrows | with lamentations | with pains | with griefs | with despairs | burning | (end quote) | I say  
-Burning with the fire of passion, with the fire of hatred, with the fire of delusion; burning with birth, aging, death, with sorrows, lamentations, pains, griefs, and despairs, I say.
+with the fire of passion | with the fire of hatred | with the fire of delusion | burning | with birth | with ageing | with death | with sorrows | with lamentations | with pains | with griefs | with despairs | burning | (end quote) | I say  
+Burning with the fire of passion, with the fire of hatred, with the fire of delusion; burning with birth, ageing, death, with sorrows, lamentations, pains, griefs, and despairs, I say.
 
 <a id="u5-1"></a>[5.1](https://tipitaka2500.github.io/tipitaka/13S4/1/1.1/1.1.3/1.1.3.6.html#p_13S4_75) Jivhā ādittā, rasā ādittā, jivhāviññāṇaṁ ādittaṁ, jivhāsamphasso āditto.  
 🚺⨀①(jivhā) 🚺⨀①🔽(ta)(āditta) 🚹⨂①(rasa) 🚹⨂①🔽(ta)(āditta) 🚻⨀①🆎(jivhā+viññāṇa) 🚻⨀①🔽(ta)(āditta) 🚹⨀①🆎(jivhā+samphassa) 🚹⨀①🔽(ta)(āditta)  
@@ -124,8 +124,8 @@ Burning with what?
 
 <a id="u5-4"></a>5.4 ‘Rāgagginā, dosagginā, mohagginā ādittaṁ, jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan’ti vadāmi.  
 🚹⨀③🆎(rāga+aggi) 🚹⨀③🆎(dosa+aggi) 🚹⨀③🆎(moha+aggi) 🚻⨀①🔽(ta)(āditta) 🚺⨀③(jāti) 🚺⨀③(jarā) 🚻⨀③(maraṇa) 🚹⨂③(soka) 🚹⨂③(parideva) 🚻⨂③(dukkha) 🚻⨂③(domanassa) 🚹⨂③(upāyāsa) 🚻⨀①🔽(ta)(āditta) ⏏️(iti) 🟢⨀👆▶️(vadati)  
-with the fire of passion | with the fire of hatred | with the fire of delusion | burning | with birth | with aging | with death | with sorrows | with lamentations | with pains | with griefs | with despairs | burning | (end quote) | I say  
-Burning with the fire of passion, with the fire of hatred, with the fire of delusion; burning with birth, aging, death, with sorrows, lamentations, pains, griefs, and despairs, I say.
+with the fire of passion | with the fire of hatred | with the fire of delusion | burning | with birth | with ageing | with death | with sorrows | with lamentations | with pains | with griefs | with despairs | burning | (end quote) | I say  
+Burning with the fire of passion, with the fire of hatred, with the fire of delusion; burning with birth, ageing, death, with sorrows, lamentations, pains, griefs, and despairs, I say.
 
 <a id="u6-1"></a>[6.1](https://tipitaka2500.github.io/tipitaka/13S4/1/1.1/1.1.3/1.1.3.6.html#p_13S4_75) Kāyo āditto, phoṭṭhabbā ādittā, kāyaviññāṇaṁ ādittaṁ, kāyasamphasso āditto.  
 🚹⨀①(kāya) 🚹⨀①🔽(ta)(āditta) 🚻⨂①(phoṭṭhabba) 🚻⨂①🔽(ta)(āditta) 🚻⨀①🆎(kāya+viññāṇa) 🚻⨀①🔽(ta)(āditta) 🚹⨀①🆎(kāya+samphassa) 🚹⨀①🔽(ta)(āditta)  
@@ -144,8 +144,8 @@ Burning with what?
 
 <a id="u6-4"></a>6.4 ‘Rāgagginā, dosagginā, mohagginā ādittaṁ, jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan’ti vadāmi.  
 🚹⨀③🆎(rāga+aggi) 🚹⨀③🆎(dosa+aggi) 🚹⨀③🆎(moha+aggi) 🚻⨀①🔽(ta)(āditta) 🚺⨀③(jāti) 🚺⨀③(jarā) 🚻⨀③(maraṇa) 🚹⨂③(soka) 🚹⨂③(parideva) 🚻⨂③(dukkha) 🚻⨂③(domanassa) 🚹⨂③(upāyāsa) 🚻⨀①🔽(ta)(āditta) ⏏️(iti) 🟢⨀👆▶️(vadati)  
-with the fire of passion | with the fire of hatred | with the fire of delusion | burning | with birth | with aging | with death | with sorrows | with lamentations | with pains | with griefs | with despairs | burning | (end quote) | I say  
-Burning with the fire of passion, with the fire of hatred, with the fire of delusion; burning with birth, aging, death, with sorrows, lamentations, pains, griefs, and despairs, I say.
+with the fire of passion | with the fire of hatred | with the fire of delusion | burning | with birth | with ageing | with death | with sorrows | with lamentations | with pains | with griefs | with despairs | burning | (end quote) | I say  
+Burning with the fire of passion, with the fire of hatred, with the fire of delusion; burning with birth, ageing, death, with sorrows, lamentations, pains, griefs, and despairs, I say.
 
 <a id="u7-1"></a>[7.1](https://tipitaka2500.github.io/tipitaka/13S4/1/1.1/1.1.3/1.1.3.6.html#p_13S4_75) Mano āditto, dhammā ādittā, manoviññāṇaṁ ādittaṁ, manosamphasso āditto.  
 🚹⨀①(mano) 🚹⨀①🔽(ta)(āditta) 🚹⨂①(dhamma) 🚹⨂①🔽(ta)(āditta) 🚻⨀①🆎(mano+viññāṇa) 🚻⨀①🔽(ta)(āditta) 🚹⨀①🆎(mano+samphassa) 🚹⨀①🔽(ta)(āditta)  
@@ -164,15 +164,15 @@ Burning with what?
 
 <a id="u7-4"></a>7.4 ‘Rāgagginā, dosagginā, mohagginā ādittaṁ, jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan’ti vadāmi.  
 🚹⨀③🆎(rāga+aggi) 🚹⨀③🆎(dosa+aggi) 🚹⨀③🆎(moha+aggi) 🚻⨀①🔽(ta)(āditta) 🚺⨀③(jāti) 🚺⨀③(jarā) 🚻⨀③(maraṇa) 🚹⨂③(soka) 🚹⨂③(parideva) 🚻⨂③(dukkha) 🚻⨂③(domanassa) 🚹⨂③(upāyāsa) 🚻⨀①🔽(ta)(āditta) ⏏️(iti) 🟢⨀👆▶️(vadati)  
-with the fire of passion | with the fire of hatred | with the fire of delusion | burning | with birth | with aging | with death | with sorrows | with lamentations | with pains | with griefs | with despairs | burning | (end quote) | I say  
-Burning with the fire of passion, with the fire of hatred, with the fire of delusion; burning with birth, aging, death, with sorrows, lamentations, pains, griefs, and despairs, I say.
+with the fire of passion | with the fire of hatred | with the fire of delusion | burning | with birth | with ageing | with death | with sorrows | with lamentations | with pains | with griefs | with despairs | burning | (end quote) | I say  
+Burning with the fire of passion, with the fire of hatred, with the fire of delusion; burning with birth, ageing, death, with sorrows, lamentations, pains, griefs, and despairs, I say.
 
 ### 3. Disenchantment, and liberation
 
 <a id="u8-1"></a>[8.1](https://tipitaka2500.github.io/tipitaka/13S4/1/1.1/1.1.3/1.1.3.6.html#p_13S4_75) Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako cakkhusmimpi nibbindati, rūpesupi nibbindati, cakkhuviññāṇepi nibbindati, cakkhusamphassepi nibbindati, yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.  
 ⏏️(evaṁ) 🚹⨀①🔽(anta)(passanta) 🚹⨂⓪(bhikkhu) 🚹⨀①(sutavant) 🚹⨀①🆎(ariya+sāvaka) 🚻⨀⑦(cakkhu) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚻⨂⑦(rūpa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚻⨀⑦🆎(cakkhu+viññāṇa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨀⑦🆎(cakkhu+samphassa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) *️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(cakkhu+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita) 🚻⨀①(sukha) ⏏️(vā) 🚻⨀①(dukkha) ⏏️(vā) 🚻⨀①🆎(na+dukkha+na+sukha) ⏏️(vā) *️⃣🤟🚻⨀⑦(ta) ⏏️(api) 🟢⨀🤟▶️(nibbindati)  
-thus | seeing | bhikkhave | learned | awakened disciple | the eye | too | gives up | forms | too | gives up | eye-consciousness | too | gives up | eye-contact | too | gives up | what | too | this | with eye-contact as cause | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | gives up  
-Thus seeing, bhikkhave, the `sutavā` (learned) `ariyasāvaka` (awakened disciple) `nibbindati` (gives up) the eye, gives up forms, gives up eye-consciousness, gives up eye-contact, and whatever feeling arises with eye-contact as cause, whether pleasant or painful or neutral, that too he gives up.
+thus | seeing | Bhikkhave | learned | awakened disciple | the eye | too | gives up | forms | too | gives up | eye-consciousness | too | gives up | eye-contact | too | gives up | what | too | this | with eye-contact as cause | arises | feeling | pleasant | or | painful | or | neither painful nor pleasant | or | that | too | gives up  
+Thus seeing, Bhikkhave, the `sutavā` (learned) `ariyasāvaka` (awakened disciple) `nibbindati` (gives up) the eye, gives up forms, gives up eye-consciousness, gives up eye-contact, and whatever feeling arises with eye-contact as cause, whether pleasant or painful or neutral, that too he gives up.
 
 <a id="u8-2"></a>8.2 Sotasmimpi nibbindati, saddesupi nibbindati, sotaviññāṇepi nibbindati, sotasamphassepi nibbindati, yampidaṁ sotasamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati.  
 🚻⨀⑦(sota) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨂⑦(sadda) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚻⨀⑦🆎(sota+viññāṇa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨀⑦🆎(sota+samphassa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) *️⃣🤟🚻⨀①(ya) ⏏️(api) *️⃣🤟🚻⨀①(ima) 🚹⨀⑤🆎(sota+samphassa+paccaya) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(vedayita) 🚻⨀①(sukha) ⏏️(vā) 🚻⨀①(dukkha) ⏏️(vā) 🚻⨀①🆎(na+dukkha+na+sukha) ⏏️(vā) *️⃣🤟🚻⨀⑦(ta) ⏏️(api) 🟢⨀🤟▶️(nibbindati)  

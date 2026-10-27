@@ -26,7 +26,7 @@ where the full set is tabled.
 
 | rule | phrase | saddūpapada | dhātu | affix | transformation | word | meaning |
 | :-: | --- | :-: | :-: | :-: | --- | :-: | --- |
-| {524} | kammaṁ karotī’ti | kamma | kara | ṇa | kamma + kar~~a~~ + ~~ṇa~~ (o) | kammakāro | the one who does work ie. "worker", "laborer" |
+| {524} | kammaṁ karotī’ti | kamma | kara | ṇa | kamma + kar~~a~~ + ~~ṇa~~ (o) | kammakāro | the one who does work ie. "worker", "labourer" |
 | {525} | ariṁ dametī’ti | ari | damu | a | ari(n) + dam~~u~~ + ~~a~~ (o) | arindamo | the one who subdues enemies (eg. rājā) |
 | {525} | taṇhaṁ karotī’ti | taṇhā | kara | a | taṇh~~ā~~(an) + kar~~a~~ + ~~a~~ (o) | taṇhaṅkaro | the one who overcomes cravings (eg. bhagavā) |
 | {526} | pure dānaṁ adāsī’ti | pura | dada | a | pur~~a~~(in) + dad~~a~~ + ~~a~~ (o) | purindado | the one who gave alms in the previous past lives (eg. devarājā) |
@@ -69,7 +69,7 @@ where the full set is tabled.
 ## `kicca` affixes {545}
 
 These affixes are associated with passive-voice (`kamma`) verbal nouns or
-middle-voice (`bhāva`) verbs. Some Pali grammar books refer to them as "future
+middle-voice (`bhāva`) verbs. Some Pāḷi grammar books refer to them as "future
 passive participles" but this only describes the `kamma` sense of these words.
 
 | rule | phrase | dhātu | affix | transformation | word | meaning |

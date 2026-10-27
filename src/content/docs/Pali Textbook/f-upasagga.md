@@ -263,7 +263,7 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | | `adhipati` | `adhi` + `pati` | lord |
 | | `ajjhāvasati` | `adhi` + `ā` + `vasati` | (He) lives as a lord or being dominant, reigns. (as a king or chief authority of a location) |
 | | `ajjhāvāso` | `adhi` + `ā` + `vāso` | such an act |
-| attain, reach | `adhigacchati` | `adhi` + `gacchati` | realizes, knows, attains |
+| attain, reach | `adhigacchati` | `adhi` + `gacchati` | realises, knows, attains |
 | | `adhigamo` | `adhi` + `gamo` | such an act |
 | deeply | `adhimuccati` | `adhi` + `muccati` | (One) keeps in depth (such as tendencies, thoughts etc.) |
 | | `adhimutti` | `adhi` + `mutti` | such a mental condition, inner tendency or preferences |
@@ -371,7 +371,7 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | | `atipaṇītaṁ` | `ati` + `paṇītaṁ` | very noble, the best. |
 | beyond, transgress, across | `atikkamati` | `ati` + `kamati` | (He) moves beyond, transgress |
 | | `atikkanto` | `ati` + `kanto` | gone beyond |
-| | `accayo` | `ati` + `ayo` | act of going beyond, i.e. offense, fault |
+| | `accayo` | `ati` + `ayo` | act of going beyond, i.e. offence, fault |
 
 ## ◊ `api`
 
@@ -395,7 +395,7 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | | `apakaroti` | `apa` + `karoti` | (He) does ungratefully or does away with other's good deed, ignores good-deed received from friends |
 | | `apakāro` | `apa` + `karo` | improper deed, wrong action, act of ingratitude |
 | | `aparajjhati` | `apa` + `rajjhati` | (He) offends, or sometimes (it) fails to hit the target |
-| | `aparādho` | `apa` + `rādho` | Fault, offense, failure |
+| | `aparādho` | `apa` + `rādho` | Fault, offence, failure |
 
 ## `upa`
 
