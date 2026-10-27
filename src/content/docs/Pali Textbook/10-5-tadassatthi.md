@@ -23,7 +23,7 @@ who has good fortune": `bhaga` ("good fortune") with the affix
 `vantu` {368}. A whole family of words is built this way: a noun names a
 thing, the affix adds "having that" (`tadassatthi`, "he has that"), and the
 new word names whoever has it. `sīlavā` is one who has `sīla` (ethical
-conduct), virtuous; `satimā` one who has `sati` (mindfulness), mindful;
+conduct), virtuous; `satimā` one who has `sati` (awareness), aware;
 `āyasmā` one who has `āyu` (life), venerable. Kaccāyana explains each by the
 phrase `X yassa atthi` ("of whom there is X") and lists eight affixes
 {364}–{371}. When you meet such a word, ask what noun is left when the `-vā`,
@@ -37,7 +37,7 @@ wood" {372}.
 | affix | what you see | example | meaning | rule |
 | :-: | --- | --- | --- | :-: |
 | `vantu` | `-vā` on a word in `a` or `ā` | `guṇavā`, `bhagavā` | has `guṇa` (virtue), `bhaga` (good fortune): virtuous, the Blessed One | {368} |
-| `mantu` | `-mā` on a word in `i` or `u`; `āyu` becomes `āyas-` before it | `satimā`, `āyasmā` | has `sati` (mindfulness), `āyu` (life): mindful, venerable | {369}, {371} |
+| `mantu` | `-mā` on a word in `i` or `u`; `āyu` becomes `āyas-` before it | `satimā`, `āyasmā` | has `sati` (awareness), `āyu` (life): aware, venerable | {369}, {371} |
 | `ī`, `ika` | `-ī` or `-iko` in place of the final vowel | `daṇḍī`, `daṇḍiko` | has a `daṇḍa` (staff) | {366} |
 | `vī` | `-vī` on a word in `ā`; the rule's `ca` adds `sa`, `-so` | `medhāvī`, `sumedhaso` | has `medhā` (wisdom): wise | {364} |
 | `sī` | `-ssī`, the `s` doubled | `tapassī` | has `tapa` (austerity): an ascetic | {365} |
@@ -132,7 +132,7 @@ life / his / there is → one who has life, venerable
 3. > sati yassa atthi → **satimā**
 
 🚺⨀①(sati) *️⃣🤟🚹⨀⑥(ya) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(mantu)(satimant)  
-mindfulness / of whom / there is → one who has mindfulness, mindful  
+awareness / of whom / there is → one who has awareness, aware  
 *`mantu` {369}: `sati` + `-mā`; [Bonus: 40, 12.1](../11-pbt/#s40-u12-1) has it in `upekkhako satimā sukhavihārī`.*
 
 4. > **sutavā** ariyasāvako

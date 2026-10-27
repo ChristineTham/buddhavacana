@@ -11,14 +11,14 @@ I have created a standalone dictionary of Pali grammatical inflections with gram
 
 | Meaning | Symbol |
 |---------|--------|
-| 1st inflection form (nominative) | ① |
-| 2nd inflection form (accusative) | ② |
-| 3rd inflection form (instrumental) | ③ |
-| 4th inflection form (dative) | ④ |
-| 5th inflection form (ablative) | ⑤ |
-| 6th inflection form (genitive) | ⑥ |
-| 7th inflection form (locative) | ⑦ |
-| calling form (vocative) | ⓪ |
+| 1st inflection form | ① |
+| 2nd inflection form | ② |
+| 3rd inflection form | ③ |
+| 4th inflection form | ④ |
+| 5th inflection form | ⑤ |
+| 6th inflection form | ⑥ |
+| 7th inflection form | ⑦ |
+| calling form | ⓪ |
 | masculine | 🚹 |
 | feminine | 🚺 |
 | neuter | 🚻 |

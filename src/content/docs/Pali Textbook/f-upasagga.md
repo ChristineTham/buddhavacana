@@ -115,7 +115,7 @@ Sometimes, certain `upasagga` words shown by the ◊ mark can also be used indep
 | --- | --- | --- | --- |
 | bad, unwholesome, poor in nature | `duccarati` | `du` + `carati` | (He) acts badly or unethically |
 | | `dukkaṭaṁ` | `du` + `kataṁ` | bad deed |
-| | `duggati` | `du` + `gati` | bad rebirth, bad destiny |
+| | `duggati` | `du` + `gati` | bad destination, bad destiny |
 | ill, inauspicious | `dumaṅgalaṁ` | `du` + `maṅgalaṁ` | inauspiciousness |
 | | `dunnimittaṁ` | `du` + `nimittaṁ` | bad omen |
 |  without, lack of | `dubbhikkhaṁ` | `du` + `bhikhaṁ` | without food, famine |
@@ -336,7 +336,7 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | well, good | `sucaritaṁ` | `su` + `caritaṁ` | good conduct or action |
 | | `sugandho` | `su` + `gandho` | good smell |
 | | `Sujano` | `su` + `jano` | good person |
-| | `sugati` | `su` + `gati` | good rebirth |
+| | `sugati` | `su` + `gati` | good destination |
 | auspicious | `sukhaṇo` | `su` + `khaṇo` | auspicious moment |
 | | `svāgataṁ` | `su` + `ā` + `gataṁ` | auspicious coming, good coming, i.e. Welcome! |
 | being easy of | `sukaraṁ` | `su` + `karaṁ` | easy to do |
@@ -357,7 +357,7 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | | `ādānaṁ` | `ā` + `dānaṁ` | taking (compare `dānaṁ` "giving") |
 | | `āneti` | `ā` + `neti` | (He) brings (compare `neti` "(he) carries") |
 | upward | `āruhati` | `ā` + `ruhati` | (He) climbs up |
-| intensely, firmly, intensifier | `ādānaṁ` | `ā` + `dānaṁ` | intensely grabbing, clinging |
+| intensely, firmly, intensifier | `ādānaṁ` | `ā` + `dānaṁ` | intensely grabbing, taking hold |
 | intensely, firmly, intensifier | `āhaññati` | `ā` + `haññati` | (It) hurts intensely |
 | | `āghāto` | `ā` + `ghāto` | hurt feelings, grudge |
 

@@ -7,7 +7,7 @@ description: >
   The two uses of the ① ending that name no `kāraka`: a word that simply
   names its thing, `puriso` ("a man") {284}, and a word that calls the person
   spoken to, `bho purisa` ("sir, man!"), which this book marks ⓪ {285}.
-  English Pali grammar books call them the nominative and the vocative.
+  Chapter 1 gives the names other grammars use for them.
 categories: ["palibook"]
 tags: ["kāraka", "liṅgattha", "ālapana"]
 ---

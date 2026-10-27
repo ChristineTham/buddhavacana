@@ -84,18 +84,18 @@ vimutta
 
 ## The inflection forms in other books
 
-English grammars of Pāḷi name the inflection forms after Latin, and the commentaries have names of their own:
+The commentaries have names of their own for the inflection forms; the Latin names that English grammars use are given in [chapter 1](../1-basics/):
 
-Symbol | in English grammars | in the commentaries
-:-: | :-: | :-:
-① | nominative | paccatta
-② | accusative | upayoga
-③ | instrumental | karaṇa
-④ | dative | sampadāna
-⑤ | ablative | nissakka
-⑥ | genitive | sāmī
-⑦ | locative | bhumma
-⓪ | vocative | ālapana
+Symbol | in the commentaries
+:-: | :-:
+① | paccatta
+② | upayoga
+③ | karaṇa
+④ | sampadāna
+⑤ | nissakka
+⑥ | sāmī
+⑦ | bhumma
+⓪ | ālapana
 
 ## Types of nominals
 
