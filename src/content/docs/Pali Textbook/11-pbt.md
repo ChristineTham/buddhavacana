@@ -686,7 +686,7 @@ With vedanā (feelings) as cause, taṇhā (craving).
 <a id="s19-u2-5"></a>2.5 Tassāyeva taṇhāya asesavirāganirodhā upādānanirodho;  
 *️⃣🤟🚺⨀⑥(ta) ⏏️(eva) 🚺⨀⑥(taṇhā) 🚹⨀⑤🆎(asesa+virāga+nirodha) 🚹⨀①🆎(upādāna+nirodha)  
 of that | very | of craving | with the complete fading away and ending | cessation of fuel  
-While completely fading away and ending of craving, cessation of fuel for suffering.
+While completely fading away and ending of craving, cessation of fuel for existence.
 
 <a id="s19-u2-6"></a>2.6 upādānanirodhā bhavanirodho;  
 🚹⨀⑤🆎(upādāna+nirodha) 🚹⨀①🆎(bhava+nirodha)  
