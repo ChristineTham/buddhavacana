@@ -3,18 +3,18 @@ title: "How to type Pāli characters on a macOS keyboard"
 sidebar:
   label: "Pāli keyboard"
 description: >
-  Enter romanised Pāli alphabet characters in macOS.
+  Enter romanised Pāḷi alphabet characters in macOS.
 ---
 
 This post is based on a helpful article written in Vietnamese: [Gõ chữ Pāḷi và Sanskrit trên máy tính MacOS & Windows](https://theravada.vn/danh-pali-va-sanskrit-tren-may-macos/) by Dhamma Nanda.
 
-First of all, install the "ABC Extended input source in macOS. Open **System Preferences**, then click on **Language & Region** icon, then select the **Keyboard Preferences** button at the bottom. Click on the **Input Sources** tab, then click on the **+** button to add a new input source.
+First of all, install the "ABC Extended" input source in macOS. Open **System Preferences**, then click on **Language & Region** icon, then select the **Keyboard Preferences** button at the bottom. Click on the **Input Sources** tab, then click on the **+** button to add a new input source.
 
 Select the **ABC Extended** Input source for the English language as per the following screenshot:
 
 ![ABC Extended input source](../../../assets/images/ABC-extended.png)
 
-Make sure **ABC Extended** is the selected (or default) input source when you want to enter Pāli characters.
+Make sure **ABC Extended** is the selected (or default) input source when you want to enter Pāḷi characters.
 
 If you wish to enter a specific diacritic mark with a character, prefix the character with one of the following keystrokes (letter together with Opt/Alt/⌥ key):
 

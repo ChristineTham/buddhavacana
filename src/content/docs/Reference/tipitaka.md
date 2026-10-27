@@ -3,7 +3,7 @@ title: "Tipitaka"
 sidebar:
   label: "Tipitaka"
 description: >
-  Online sources for the Tipitaka.
+  Online sources for the Tipiṭaka.
 ---
 
 [SuttaCentral](https://suttacentral.net)

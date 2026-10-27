@@ -3,7 +3,7 @@ title: "Pāli"
 sidebar:
   label: "Pāli"
 description: >
-  Resources for learning Pāli.
+  Resources for learning Pāḷi.
 ---
 
 [Resources for Learning Pali](http://pali.pratyeka.org)
