@@ -4,7 +4,7 @@ sidebar:
   label: Theory of Planned Behaviour
 ---
 
-The Buddha's phenomenological framework and subsequent liberation is consistent with modern theories of perception and behavioural science. For example in **Pessoa - The Entangled Brain: How Perception, Cognition, and Emotion Are Woven Together (2022)** [^EntangledBrain], the Theory of Planned Behaviour (TPB) says that:
+The Buddha's phenomenological framework and subsequent liberation are consistent with modern theories of perception and behavioural science. For example in **Pessoa - The Entangled Brain: How Perception, Cognition, and Emotion Are Woven Together (2022)** [^EntangledBrain], the Theory of Planned Behaviour (TPB) says that:
 
 [^EntangledBrain]: Pessoa, L. (2022). The Entangled Brain: How Perception, Cognition, and Emotion Are Woven Together. The MIT Press. http://direct.mit.edu/books/oa-monograph-pdf/2231824/book_9780262372107.pdf
 

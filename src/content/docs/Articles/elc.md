@@ -8,7 +8,7 @@ The eightfold path can be regarded as a guide towards reflective thinking, and c
 
 As such, the eightfold path can be compared to Kolb's Experiential Learning Theory [^Kolb1984].
 
-Kolb & Kolb in **The Kolb Learning Style Inventory 4.0 - A Comprehensive Guide to the Theory, Psychometrics, Research on Validity and Educational Applications**[^Kolb2013] states:
+Kolb & Kolb in **The Kolb Learning Style Inventory 4.0 - A Comprehensive Guide to the Theory, Psychometrics, Research on Validity and Educational Applications**[^Kolb2013] state:
 
 > The ELT model portrays two dialectically related modes of grasping experience — Concrete Experience (CE) and Abstract Conceptualization (AC) — and two dialectically related modes of transforming experience — Reflective Observation (RO) and Active Experimentation (AE). Learning arises from the resolution of creative tension among these four learning modes. This process is portrayed as an idealized learning cycle or spiral where the learner “touches all the bases” — experiencing (CE), reflecting (RO), thinking (AC), and acting (AE)—in a recursive process that is sensitive to the learning situation and what is being learned. Immediate or concrete experiences are the basis for observations and reflections. These reflections are assimilated and distilled into abstract concepts from which new implications for action can be drawn. These implications can be actively tested and serve as guides in creating new experiences.
 
