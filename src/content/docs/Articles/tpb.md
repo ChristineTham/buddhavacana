@@ -1,5 +1,5 @@
 ---
-title: The Buddha's liberation as an case study of Theory of Planned Behaviour (TPB)
+title: The Buddha's liberation as a case study of Theory of Planned Behaviour (TPB)
 sidebar:
   label: Theory of Planned Behaviour
 ---
