@@ -71,7 +71,7 @@ Without veering towards either of these two extremes, Bhikkhave, the `majjhimā 
 <a id="u3-1"></a>[3.1](https://tipitaka2500.github.io/tipitaka/14S5/12/12.2/12.2.1.html#p_14S5_2208) Katamā ca sā, bhikkhave, majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati?  
 *️⃣🤟🚺⨀①(katama) ⏏️(ca) *️⃣🤟🚺⨀①(ta) 🚹⨂⓪(bhikkhu) 🚺⨀①(majjhima) 🚺⨀①(paṭipadā) 🚹⨀③🆎(tathā+gata) 🚺⨀①🔽(ta)(abhisambuddha) 🚺⨀①🆎(cakkhu+karaṇa) 🚺⨀①🆎(ñāṇa+karaṇa) 🚹⨀④(upasama) 🚺⨀④(abhiññā) 🚹⨀④(sambodha) 🚻⨀④(nibbāna) 🟢⨀🤟▶️(saṁvattati)  
 which | and | that | Bhikkhave | middle | way | by the Tathāgata | fully awakened | producing vision | producing knowledge | to calm | to experiential understanding | to full awakening | to extinguishment | leads  
-And what, Bhikkhave, is that `majjhimā paṭipadā` (Middle Way) by the Tathāgata, which produces vision, produces knowledge, leads to calm, to `abhiññā`, to `sambodhi`, to `nibbāna`?
+And what, Bhikkhave, is that `majjhimā paṭipadā` (Middle Way), fully awakened by the Tathāgata, which produces vision, produces knowledge, leads to calm, to `abhiññā`, to `sambodhi`, to `nibbāna`?
 
 <a id="u3-2"></a>3.2 Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ— sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi.  
 *️⃣🤟🚹⨀①(ima) ⏏️(eva) 🚹⨀①(ariya) 🚹⨀①🆎(aṭṭha+aṅgika) 🚹⨀①(magga) ⏏️(seyyathidaṁ) 🚺⨀①🆎(sammā+diṭṭhi) 🚹⨀①🆎(sammā+saṅkappa) 🚺⨀①🆎(sammā+vācā) 🚹⨀①🆎(sammā+kammanta) 🚹⨀①🆎(sammā+ājīva) 🚹⨀①🆎(sammā+vāyāma) 🚺⨀①🆎(sammā+sati) 🚹⨀①🆎(sammā+samādhi)  
