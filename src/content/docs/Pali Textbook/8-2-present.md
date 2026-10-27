@@ -136,7 +136,7 @@ not / there is / now / appearing again
 
 3. > Cakkhuñca paṭicca rūpe ca **uppajjati** cakkhuviññāṇaṁ.
 
-🚻⨀②(cakkhu) ⏏️(ca) 🔽(ya)(paṭicceti) 🚻⨂②(rūpa) ⏏️(ca) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🆎(cakkhu+viññāṇa)  
+🚻⨀②(cakkhu) ⏏️(ca) 🔽(ya)(pacceti) 🚻⨂②(rūpa) ⏏️(ca) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🆎(cakkhu+viññāṇa)  
 faculty of seeing / and / dependent on / forms / and / arises / visual-consciousness  
 *"Visual consciousness (`cakkhuviññāṇa`) arises dependent on `rūpa` (form) and the faculty of seeing." ([Bonus: 19, 2.2](../11-pbt/#s19-u2-2)) `uppajjati`: `-jj-` before `-ati`, `ya` of the `divu` class fused with the root `pada` (to go) {447}.*
 
@@ -148,7 +148,7 @@ thus / seeing / Bhikkhave / learned / awakened disciple / the eye / too / gives 
 
 5. > sabyābajjhaṁ vedanaṁ **vedayati** ekantadukkhaṁ,
 
-🚺⨀②🆎(sa+byābajjha) 🚺⨀②(vedanā) 🟢⨀🤟▶️(vedayati) 🚺⨀②🆎(ekanta+dukkha)  
+🚺⨀②(sabyābajjha) 🚺⨀②(vedanā) 🟢⨀🤟▶️(vedayati) 🚺⨀②🆎(ekanta+dukkha)  
 harmful / feelings / experiences / totally painful  
 *"experiences totally painful harmful feelings" ([Bonus: 23, 1.6](../11-pbt/#s23-u1-6)) `vedayati`: `-ayati`, `ṇaya` of the `cura` class, its `ṇ` dropped {452}, {523}; the root `vida` (to feel).*
 

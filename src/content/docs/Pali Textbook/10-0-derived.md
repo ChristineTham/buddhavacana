@@ -4,7 +4,7 @@ sidebar:
   label: "10: Derived words"
   order: 553
 description: >
-  How new nouns are made from other nouns with the `taddhita` affixes {344}–{405} and from roots with the `uṇādi` affixes {624}–{673}, and the senses the affixes carry
+  How new nouns are made from other nouns with the `taddhita` affixes {344}–{405} and from roots with the `kita` and `uṇādi` affixes of the Uṇādikappa {624}–{673}, and the senses the affixes carry
 categories: ["palibook"]
 tags: ["taddhita", "uṇādi"]
 ---
@@ -88,7 +88,7 @@ affixes that form individual words. The chapter follows that order.
 | [10.4](../10-4-bhava/) | the abstract state, and comparison | `ṇya`, `tta`, `tā`, `ttana`, `ṇa`, `kaṇ`; `tara`, `tama`, `isika`, `iya`, `iṭṭha` | {360}–{363} |
 | [10.5](../10-5-tadassatthi/) | "having that", and "made of that" | `vī`, `sī`, `ika`, `ī`, `ra`, `vantu`, `mantu`, `ṇa`; `maya` | {364}–{372} |
 | [10.6](../10-6-sankhya/) | the numerals: ordinals, the forms of the numbers, division and manner | `ma`, `tha`, `ṭha`, `tiya`, `ī`, `ka`; `dhā`, `so`, `thā`, `thaṁ` | {373}–{399} |
-| [10.7](../10-7-sadhana/) | `uṇādi`: the agent, the action and the purpose | `kita`, `kicca`, `tta`, `yu`, `ṇvu`, `ṇī`, `tuṁ` and the rest | {624}–{626}, {635}–{637}, {639}–{642}, {650}–{655} |
+| [10.7](../10-7-sadhana/) | `kita` and `uṇādi` senses: the agent, the action and the purpose | `kita`, `kicca`, `tta`, `yu`, `ṇvu`, `ṇī`, `tuṁ` and the rest | {624}–{626}, {635}–{637}, {639}–{642}, {650}–{655} |
 | [10.8](../10-8-unadi-words/) | `uṇādi`: the affixes that form individual words | `tha`, `ma`, `la`, `ya`, `tti`, `īvara`, `ūra`, `ṭha` and the rest | {627}–{634}, {638}, {643}–{649}, {656}–{673} |
 
 :::tip[Reading path]

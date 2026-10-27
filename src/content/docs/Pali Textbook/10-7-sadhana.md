@@ -1,7 +1,7 @@
 ---
-title: "10.7: `uṇādi` affixes: the agent, the action and the purpose"
+title: "10.7: The senses of the `kita` and `uṇādi` affixes: the agent, the action and the purpose"
 sidebar:
-  label: "10.7: `uṇādi` senses"
+  label: "10.7: `kita` and `uṇādi` senses"
   order: 560
 description: >
   A noun built on a verb's root carries one of a few senses: the doer

@@ -85,7 +85,7 @@ The `s` of `manasā` is inserted before a vowel ending {184}.
 | lemma | what you see | ending | rule |
 | --- | --- | :-: | :-: |
 | `kamma` 🚻 (action) | `kammunā`, `kammanā`, `kammena`; `kammani`, `kamme`; the rest as `citta` | ③⨀; ⑦⨀ | {160}; {197}, {108} |
-| `mana` (mind), `ceta`, `vaca`, `tapa`, `teja`, `yasa`, `sira`: the `mano` group | `mano`, `ceto`, `tejo`; `mano-` in a compound | ①⨀ | {104}; {183} |
+| `mano` (mind), `cetas`, `vacas`, `tapas`, `tejo`, `yasas`, `siro`: the `mano` group | `mano`, `ceto`, `tejo`; `mano-` in a compound | ①⨀ | {104}; {183} |
 | | `manasā`, `cetasā`, `vacasā`; `manaso`, `cetaso`; `manasi`, `vacasi` | ③⨀; ④⑥⨀; ⑦⨀ | {181}, {184}; {182} |
 | `go` (cow) | `go`; `gāvo`; `gāvaṁ`, `gavaṁ`; `gāvena`; `gāvassa`; `gunnaṁ`; `gosu` | ①⨀; ①②⨂; ②⨀; ③⨀; ④⑥⨀; ④⑥⨂; ⑦⨂ | {220}; {74}; {75}; {74}; {73}; {81}; {81} |
 
@@ -180,4 +180,4 @@ thus / seeing / Bhikkhave / learned / awakened disciple
 
 🚹⨀①(mano) 🚹⨀①🔽(ta)(āditta) 🚹⨂①(dhamma) 🚹⨂①🔽(ta)(āditta) 🚻⨀①🆎(mano+viññāṇa) 🚻⨀①🔽(ta)(āditta) 🚹⨀①🆎(mano+samphassa) 🚹⨀①🔽(ta)(āditta)  
 the mind / burning / mental phenomena / burning / mind-consciousness / burning / mind-contact / burning  
-*"The mind is burning, mind-consciousness is burning": `mano`, ① singular of `mana`, `-o` {104}; `mano-` kept before `viññāṇa` and `samphassa` in a compound {183}; [9: 7.1](../9-fire/#u7-1).*
+*"The mind is burning, mind-consciousness is burning": `mano`, the ① singular of the lemma `mano`, `-o` {104}; `mano-` kept before `viññāṇa` and `samphassa` in a compound {183}; [9: 7.1](../9-fire/#u7-1).*

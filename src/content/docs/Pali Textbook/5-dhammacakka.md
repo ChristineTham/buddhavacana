@@ -10,7 +10,7 @@ tags: ["dhammacakka"]
 ---
 
 :::tip[Info]
-Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
+Part of “A Beginner (Non-Linguist) Guide to Learning Pali”
 :::
 
 :::note[How this chapter fits]
@@ -33,7 +33,7 @@ Buddhists often use the word `dhamma` to refer to the Buddha's teachings, but th
 > - (ii) the (stages to) freedom from the world of experience, culminating in nibbāna; 
 > - (iii) (sg.) the behaviour, conduct, practice required to realise and understand the way the world of experience works; the way to arahatship;
 
-According to the Buddha, this insight into the world of experience has "never been heard before" (`pubbe ananussutesu dhammesu cakkhuṁ`). Hence the "wheel of Dhamma" is the four realisations across three phases (arising, actioning, actioned).
+According to the Buddha, this insight into the world of experience has “never been heard before” (`pubbe ananussutesu dhammesu cakkhuṁ`). Hence the “wheel of Dhamma” is the four realisations across three phases (arising, actioning, actioned).
 :::
 
 ### 1. The two extremes and the middle way
@@ -247,7 +247,7 @@ thus | indeed | in that | moment | in that | instant | in that | flash | up to |
 Thus indeed, in that moment, in that instant, in that flash, the sound arose up to `brahmalokā` (the Brahma world).
 
 <a id="u13-2"></a>13.2 Ayañca dasasahassilokadhātu saṅkampi sampakampi sampavedhi, appamāṇo ca uḷāro obhāso loke pāturahosi atikkamma devānaṁ devānubhāvanti.  
-*️⃣🤟🚺⨀①(ima) ⏏️(ca) 🚺⨀①🆎(dasa+sahassi+loka+dhātu) 🟢⨀🤟⏮(saṅkampati) 🟢⨀🤟⏮(sampakampati) 🟢⨀🤟⏮(sampavedhati) 🚹⨀①🆎(na+pamāṇa) ⏏️(ca) 🚹⨀①(uḷāra) 🚹⨀①(obhāsa) 🚹⨀⑦(loka) 🟢⨀🤟⏮(pātubhavati) 🔽(ya)(atikkamati) 🚹⨂⑥(deva) 🚹⨀②🆎(deva+ānubhāva) ⏏️(iti)  
+*️⃣🤟🚺⨀①(ima) ⏏️(ca) 🚺⨀①🆎(dasa+sahassī+loka+dhātu) 🟢⨀🤟⏮(saṅkampati) 🟢⨀🤟⏮(sampakampati) 🟢⨀🤟⏮(sampavedhati) 🚹⨀①🆎(na+pamāṇa) ⏏️(ca) 🚹⨀①(uḷāra) 🚹⨀①(obhāsa) 🚹⨀⑦(loka) 🟢⨀🤟⏮(pātubhavati) 🔽(ya)(atikkamati) 🚹⨂⑥(deva) 🚹⨀②🆎(deva+ānubhāva) ⏏️(iti)  
 this | and | ten-thousand-fold world system | trembled | shook | quaked | immeasurable | and | excellent | radiance | in the world | appeared | surpassing | of the devas | divine majesty | (end quote)  
 And this `dasasahassilokadhātu` (ten-thousand-fold world system) trembled, shook, quaked; and an immeasurable and excellent `obhāso` (radiance) appeared in the world, surpassing the divine majesty of the devas.
 
@@ -270,4 +270,4 @@ Thus it was that `āyasmā` Koṇḍañña came to be known as Aññāsikoṇḍ
 the first  
 The first [discourse of the chapter].
 
-[^jati]: `jāti` (birth) and `punabbhava` (appearing again, literally "being again") are often translated here as birth and rebirth, as if the sentence were about future lives. But the discourse has been about suffering all along: the four realisations are of suffering, its origin, its ending and the way to its ending, and it is the knowledge and insight into them that the Buddha has just described. The birth that is final is therefore the birth of suffering, and what will not appear again is suffering. The gloss line keeps the bare words and the translation adds "(of suffering)". The same reading applies to the formula that closes the Anattalakkhaṇa and the Ādittapariyāya, `khīṇā jāti`, "birth (of suffering) is finished" ([7: 11.4](../7-anatta/#u11-4), [9: 9.2](../9-fire/#u9-2)), and to the sentence as the bonus chapter quotes it ([Bonus: 43, 16.4](../11-pbt/#s43-u16-4), [Bonus: 47, 18.3](../11-pbt/#s47-u18-3)); the Dvayatānupassanāsutta says the same outright: `natthi dukkhassa sambhavo`, "there is no birth of suffering" ([Bonus: 16, 19.4](../11-pbt/#s16-u19-4)).
+[^jati]: `jāti` (birth) and `punabbhava` (appearing again, literally “being again”) are often translated here as birth and rebirth, as if the sentence were about future lives. But the discourse has been about suffering all along: the four realisations are of suffering, its origin, its ending and the way to its ending, and it is the knowledge and insight into them that the Buddha has just described. The birth that is final is therefore the birth of suffering, and what will not appear again is suffering. The gloss line keeps the bare words and the translation adds “(of suffering)”. The same reading applies to the formula that closes the Anattalakkhaṇa and the Ādittapariyāya, `khīṇā jāti`, “birth (of suffering) is finished” ([7: 11.4](../7-anatta/#u11-4), [9: 9.2](../9-fire/#u9-2)), and to the sentence as the bonus chapter quotes it ([Bonus: 43, 16.4](../11-pbt/#s43-u16-4), [Bonus: 47, 18.3](../11-pbt/#s47-u18-3)); the Dvayatānupassanāsutta says the same outright: `natthi dukkhassa sambhavo`, “there is no birth of suffering” ([Bonus: 16, 19.4](../11-pbt/#s16-u19-4)).
