@@ -69,7 +69,7 @@ tags:
 * The Vinaya (monastic rules) texts are crucial for studying early Buddhism, with the Vinayas of six schools being preserved: Sarvāstivādin, Dharmaguptaka, Mahīśāsaka, Pāli, Mūlasarvāstivādin, and Mahāsāṃghika.
 * A close relationship exists in the Skandhaka (a section of the Vinaya) of four of these schools: Sarvāstivādin, Dharmaguptaka, Mahīśāsaka, and the Pāli school, suggesting they derive from a common original text.
 * The text argues that the spread of the Vinaya is linked to the founding of new monastic communities, particularly through missions, rather than to the formation of dogmatic schools.
-* The schools with the closely related Vinayas (Sarvāstivādin, Dharmaguptaka, Mahīśāsaka, Pāli, plus Haimavata and Kāśyapīya) form a distinct group of well-individualized schools, unlike the Mahāsāṃghika and Vātsīputrīya groups.
+* The schools with the closely related Vinayas (Sarvāstivādin, Dharmaguptaka, Mahīśāsaka, Pāli, plus Haimavata and Kāśyapīya) form a distinct group of well-individualised schools, unlike the Mahāsāṃghika and Vātsīputrīya groups.
 * The origin of these distinct communities is traced back to the great missionary enterprise during the reign of Emperor Aśoka (c. 250 B.C.).
 * Evidence for these missions comes from Singhalese chronicles, Aśoka's own rock edicts, and archaeological discoveries of missionaries' relics near Vidiśā, which was likely the starting point for the missions.
 * The text connects specific schools to Aśoka's missions:
@@ -77,7 +77,7 @@ tags:
   * **Haimavata & Kāśyapīya:** Mission to the Himālaya region.
   * **Dharmaguptaka:** Mission to Aparantaka (Western India).
   * **Mahīśāsaka:** Mission to the Mahisa country.
-  * **Pāli school:** Mission to Ceylon (Lañkā).
+  * **Pāli school:** Mission to Ceylon (Laṅkā).
 * The conclusion is that the shared Vinaya of these schools is the one that was current in Vidiśā around 250 B.C. and was carried by Aśoka's missionaries to the new communities they founded.
 
 ## 2. - Sarvāstivādin and Mūlasarvāstivādin.
@@ -234,7 +234,7 @@ tags:
 ### 17. - Śayanāsanavastu.
 
 * This chapter contains rules concerning dwelling huts and furniture for the community.
-* It includes the legend of the merchant Anāthapiṇ̣ada donating the Jetavana monastery to the community.
+* It includes the legend of the merchant Anāthapiṇḍada donating the Jetavana monastery to the community.
 * It establishes rules of seniority for assigning rooms and prescribes the appointment of monks to offices such as allocator of dwellings and superintendent of building (*navakarmika*).
 
 ### 18. - Ācāravastu.
@@ -266,7 +266,7 @@ tags:
 ## 5. - The sources of the old Skandhaka text and the earliest Buddhist tradition.
 
 * The old Skandhaka text, dating from the first half of the 4th century B.C., is a well-structured work that arranges monastic rules within the framework of a biography of the Buddha, demonstrating the author's artistic rather than systematic approach.
-* The author utilized older materials, including an account of the Buddha's fundamental instructions to his first five disciples, which was broken up and inserted into relevant chapters.
+* The author utilised older materials, including an account of the Buddha's fundamental instructions to his first five disciples, which was broken up and inserted into relevant chapters.
 * Stories were drawn from commentaries on the Prātimokṣa (similar to the Vibhanga), such as the tales of Dabbo Mallaputto, Aśvaka and Punarvasuka, and Ariṣṭa.
 * The author also incorporated and adapted existing Sutras, as seen in the legend of Śrona Koṭiviṁśa and the sermon on the "8 marvellous qualities of the sea."
 * At the time of its composition, a Buddhist tradition with a canon of sacred scriptures (Dharma and Vinaya) already existed, transmitted through a regulated system of recitation and learning.
@@ -278,7 +278,7 @@ tags:
 * Much of what is known about the Buddha's life comes from the biography within the old Skandhaka work, which is the source for later texts like the *Mahāparinirvānasūtra*.
 * An analysis of the sermon on the causes of earthquakes in the *Mahāparinirvānasūtra* reveals it is a later, legendary modification of an older, more archaic sermon found in the *Sutrapiṭaka*.
 * This modification is attributed to the "author of the Skandhaka work," who freely manipulated older traditions, created a unified narrative, and lowered the status of the disciple Ānanda.
-* The biography of the Buddha in the Skandhaka is therefore not an authentic tradition but a legendary tale created about 100 years after the Nirvāna, making primary sources for his life less reliable than previously believed.
+* The biography of the Buddha in the Skandhaka is therefore not an authentic tradition but a legendary tale created about 100 years after the Nirvāṇa, making primary sources for his life less reliable than previously believed.
 * Early Buddhist church histories, such as those of the Sarvāstivādin and Pāli schools, are also considered unhistorical constructions.
 * These histories begin with the account of the first council (an invention of the Skandhaka author) and create artificial lineages connecting their school heads back to the Buddha's direct disciples.
 * The Sarvāstivādin history incorrectly presents its patriarchs as pupils of Ānanda, contradicting other sources.
@@ -296,14 +296,14 @@ tags:
 
 * Translated into Chinese in 404-405, it consists of the Bhikṣuvibhanga, Skandhaka, Bhikṣunīvibhanga, and Appendixes.
 * The Skandhaka is uniquely inserted between the two Vibhangas.
-* Its tradition is characterized by the loss of most "bye-sections," while main sections and legends are well-preserved.
+* Its tradition is characterised by the loss of most "bye-sections," while main sections and legends are well-preserved.
 * It shows points of contact with the Mūlasarvāstivādin Vinaya, likely due to secondary adaptation.
 
 ### The Vinaya of the Dharmaguptaka
 
 * Translated into Chinese in 408, it consists of the Bhikṣuvibhańga, Bhikṣuñ̄vibhańga, Skandhaka, and two Appendixes.
 * It is one of the most complete Vinayas, with its "bye-sections" being well preserved.
-* Its style is characterized by circumstantial exposition and verbosity.
+* Its style is characterised by circumstantial exposition and verbosity.
 * It shares remarkable elements of agreement with the Vinaya of the Mahīśāsaka, suggesting a close relationship between the two schools.
 
 ### The Vinaya of the Mahisāsaka

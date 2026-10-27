@@ -58,19 +58,19 @@ Scholarship has not so far raised the question whether the so-called Buddhist no
 
 *   The article proposes to study the truth claims of the four noble truths independently from their religious context, something modern scholarship has not done.
 *   Unlike unverifiable religious dogmas, the four noble truths are presented as psychological claims that can be evaluated in light of scientific evidence from psychology and neuroscience.
-*   The four noble truths are summarized as: suffering, its origin (thirst/desire), its cessation, and the path leading to its cessation (the eightfold path).
+*   The four noble truths are summarised as: suffering, its origin (thirst/desire), its cessation, and the path leading to its cessation (the eightfold path).
 
 ## 2. Suffering
 
 *   The article examines whether the first noble truth—that life is suffering—can be considered objectively true.
 *   Using Mark Solms's theory, it posits that consciousness is fundamentally feeling (affect) and arises when an organism's automatic responses are insufficient to maintain homeostasis.
-*   Unpleasure is felt when deviating from homeostasis, and pleasure when returning to it. We are only conscious of a limited number of prioritized needs at any time.
+*   Unpleasure is felt when deviating from homeostasis, and pleasure when returning to it. We are only conscious of a limited number of prioritised needs at any time.
 *   Sensitive people may be conscious of more conflicting needs simultaneously, leading to a greater overall experience of suffering.
 *   Mental concentration, particularly the state of "flow," offers a temporary escape by suspending awareness of unresolved needs and their resulting unpleasure.
 
 ## 3. Cessation of Suffering
 
-*   Suffering can be minimized if the conflict between our needs is reduced. Many of these needs are not innate but are acquired through emotional learning and become automatized predictions based on memories.
+*   Suffering can be minimised if the conflict between our needs is reduced. Many of these needs are not innate but are acquired through emotional learning and become automatised predictions based on memories.
 *   These entrenched predictions, which form our personality, can be seen as "mini-addictions" and "mini-traumas."
 *   Recent research shows that the emotional charge of these memories can be permanently modified or erased through a process called *memory reconsolidation*.
 *   This requires reactivating the original memory and then confronting it with a "mismatch" or "prediction error" during a short reconsolidation window.
@@ -78,7 +78,7 @@ Scholarship has not so far raised the question whether the so-called Buddhist no
 ## 4. Cessation of Thirst
 
 *   The cessation of desire ("thirst") is a direct consequence of the process that ends suffering.
-*   Psychology distinguishes between "wanting" (motivation) and "liking" (pleasure). Addictions and "mini-addictions" are characterized by excessive "wanting."
+*   Psychology distinguishes between "wanting" (motivation) and "liking" (pleasure). Addictions and "mini-addictions" are characterised by excessive "wanting."
 *   Since these "mini-addictions" are based on memories, resolving them through memory reconsolidation would reduce not only suffering but also "wanting."
 *   This aligns with the second and third noble truths, which link suffering to thirst and its cessation to the cessation of thirst.
 

@@ -63,7 +63,7 @@ tags:
 *   **Georgios T. Halkias:** Associate Professor of Tibetan and Himalayan Buddhism, researching the transmission of Buddhism.
 *   **Oren Hanner:** Research fellow focusing on Indian and Buddhist thought and ethics.
 *   **Adrian Kuzminski:** Independent scholar and author on Pyrrhonism and its connection to Buddhism.
-*   **Ethan Mills:** Assistant Professor of Philosophy, specializing in Indian scepticism.
+*   **Ethan Mills:** Assistant Professor of Philosophy, specialising in Indian scepticism.
 *   **James Mark Shields:** Professor of Comparative Humanities and Asian Thought, researching modern Buddhist thought and Japanese philosophy.
 *   **Mark Siderits:** Scholar in analytic Asian philosophy, focusing on classical Indian philosophy and analytic metaphysics.
 
@@ -100,7 +100,7 @@ tags:
 
 # Beyond Reasonable Doubt? A Note on Dharmakīrti and Scepticism
 
-*   The Indian Madhyamaka tradition is comparable to scepticism, as it rejects philosophical positions and criticizes dogmatics.
+*   The Indian Madhyamaka tradition is comparable to scepticism, as it rejects philosophical positions and criticises dogmatics.
 *   In contrast, the philosopher Dharmakīrti's epistemological tradition is more akin to Stoicism, adopting an optimistic attitude towards the possibility of knowledge and certainty.
 
 # Contrasting Epistemologies
@@ -117,9 +117,9 @@ tags:
 *   Dharmakīrti, while not a sceptic, addressed the problem of acting when results are uncertain, such as in farming or religious practice.
 *   He argued that rational people act based on both certainty and doubt, especially concerning future or imperceptible matters.
 *   For intrinsically imperceptible religious matters, one must rely on scripture, but Dharmakīrti proposed methods to critically evaluate its reliability.
-*   One method is to verify a scripture's claims about the empirical world and check for internal contradictions. Another is to confirm its central doctrines (like the Four Noble Truths) and infer its overall reliability.
+*   One method is to verify a scripture's claims about the empirical world and check for internal contradictions. Another is to confirm its central doctrines (like the four realisations) and infer its overall reliability.
 *   Dharmakīrti acknowledged that this inferential method is formally flawed and does not provide absolute certainty, concluding that scripture is not a perfect means of valid cognition.
-*   However, he maintained that this critical evaluation is the most reasonable strategy available for making decisions in situations of doubt, as it maximizes the probability of success.
+*   However, he maintained that this critical evaluation is the most reasonable strategy available for making decisions in situations of doubt, as it maximises the probability of success.
 
 # Nāgārjuna's Scepticism about Philosophy
 
@@ -147,12 +147,12 @@ tags:
 
 *   Nāgārjuna's critique of causation in Chapter 1 of the *Mūlamadhyamakakārikā* (MMK) is used as a case study.
 *   He uses a tetralemma (catuṣkoṭi) to reject the four possible theories of how things arise: from itself, from another, from both, or from no cause.
-*   These arguments are not meant to establish an alternative theory of causation but to uproot the very impulse to theorize about it.
+*   These arguments are not meant to establish an alternative theory of causation but to uproot the very impulse to theorise about it.
 *   The argument follows the two-phase model: MMK Chapter 1 undermines causal theories, Chapter 24 presents a provisional view of emptiness, and Chapter 27 shows how this view undermines itself and all others.
 
 ## Buddhist Scepticism: Religiosity Without Belief
 
-*   This interpretation is compatible with Buddhism because Nāgārjuna synthesizes two existing strands of Buddhist thought: the "analysis-insight" tendency (phase one) and the "quietist" tendency (phase two).
+*   This interpretation is compatible with Buddhism because Nāgārjuna synthesises two existing strands of Buddhist thought: the "analysis-insight" tendency (phase one) and the "quietist" tendency (phase two).
 *   Nāgārjuna's scepticism serves a religious purpose as a practice of non-attachment, particularly for intellectuals prone to grasping at theories.
 *   This leads to a "religiosity without belief," similar to how Pyrrhonian sceptics could participate in religious rituals without holding religious beliefs, making piety a matter of practice rather than creed.
 
@@ -195,7 +195,7 @@ tags:
 ## The View: [Q1] What Is the Nature of "Things" (πράγματα)?
 
 *   This section corresponds to the "View" or "Base" of the soteriological system.
-*   Pyrrho's answer to Q1 is that things (pragmata) are undifferentiable (ἀδιάφορα), without measure (ἀστάθμητα), and beyond judgment (ἀνεπίκριτα). This is compared to the Buddhist concept of emptiness, where phenomena lack a fixed, inherent essence.
+*   Pyrrho's answer to Q1 is that things (pragmata) are undifferentiable (ἀδιάφορα), without measure (ἀστάθμητα), and beyond judgement (ἀνεπίκριτα). This is compared to the Buddhist concept of emptiness, where phenomena lack a fixed, inherent essence.
 *   Consequently, our sense perceptions and views are neither true nor false. This aligns with the Buddhist position that our understanding is conditioned and we cannot make definitive claims about reality.
 
 ## The Path: [Q2] What Disposition Ought We to Cultivate in Order to Relate to Pragmata?
@@ -227,15 +227,15 @@ tags:
 ## 1.
 
 *   Pyrrhonism is an ancient Greek philosophy founded by Pyrrho of Elis, who accompanied Alexander the Great to India.
-*   Influenced by Indian Gymnosophists, Pyrrho's philosophy involved agnosticism and the suspension of judgment.
-*   He held that nothing is inherently honorable or just, and that human actions are governed by custom and convention.
-*   Suspending judgment about one's immediate experiences (sensations and thoughts) leads to *ataraxia*, or peace of mind.
+*   Influenced by Indian Gymnosophists, Pyrrho's philosophy involved agnosticism and the suspension of judgement.
+*   He held that nothing is inherently honourable or just, and that human actions are governed by custom and convention.
+*   Suspending judgement about one's immediate experiences (sensations and thoughts) leads to *ataraxia*, or peace of mind.
 *   The historical record is sparse, with the most comprehensive texts written by Sextus Empiricus nearly 500 years after Pyrrho.
 
 ## 2.
 
-*   Ancient Pyrrhonism differs from modern skepticism; its followers were "sceptics" in the original Greek sense of being inquirers, not doubters.
-*   Pyrrhonists distinguished between "evident" things (immediate thoughts and sensations, which they accepted) and "non-evident" things (about which they suspended judgment).
+*   Ancient Pyrrhonism differs from modern scepticism; its followers were "sceptics" in the original Greek sense of being inquirers, not doubters.
+*   Pyrrhonists distinguished between "evident" things (immediate thoughts and sensations, which they accepted) and "non-evident" things (about which they suspended judgement).
 *   They rejected both positive dogmatism (e.g., Platonists, Stoics) and negative dogmatism (denying all knowledge).
 *   According to Sextus Empiricus, appearances (*pragmata*) are involuntary and cannot be in error; error only arises when we interpret them, which means taking something evident as a sign for something non-evident.
 
@@ -248,21 +248,21 @@ tags:
     *   Inherently non-evident (e.g., God, the Soul, the Void), which can be imagined but are never experienced as sensations.
 *   Pyrrhonists observe that we only experience the absence of inherently non-evident things.
 *   Beliefs about these unprovable concepts (God, Soul, Justice, Nation) are a source of conflict.
-*   By suspending judgment on all such beliefs, Pyrrhonists found relief from conflict and achieved peace of mind (*ataraxia*).
+*   By suspending judgement on all such beliefs, Pyrrhonists found relief from conflict and achieved peace of mind (*ataraxia*).
 
 ## 4.
 
 *   The author argues that Pyrrhonism is a Greek adaptation of ideas Pyrrho encountered in India, a claim supported by Diogenes Laertius.
 *   Many Western scholars have tried to trace Pyrrhonism to Greek precedents like Democritus or the Cyrenaics.
 *   These scholars note that Democritus discussed the "nondifference of phenomena" and used terms like *ataraxia*, and that the Cyrenaics also took appearances as their guide.
-*   However, Sextus Empiricus explicitly rejected these connections, labelling Democritus a dogmatist for his belief in atoms and the void, and criticizing the Cyrenaics for their dogmatic claims about pleasure and external reality.
+*   However, Sextus Empiricus explicitly rejected these connections, labelling Democritus a dogmatist for his belief in atoms and the void, and criticising the Cyrenaics for their dogmatic claims about pleasure and external reality.
 
 ## 5.
 
 *   The author proposes that Pyrrhonism is a "phenomenalistic atomism," which transforms Democritus's physical atomism.
 *   In this view, the "atoms" are not physical particles but the thoughts and sensations that combine to form our experience (*pragmata*).
 *   This unique perspective, which no other Greek school held, was likely an insight Pyrrho gained from Indian gymnosophists, specifically Buddhists.
-*   Pyrrho may have translated the Buddhist principle of dependent origination—which explains experience without an external organizing power—into the Greek language of atomism.
+*   Pyrrho may have translated the Buddhist principle of dependent origination—which explains experience without an external organising power—into the Greek language of atomism.
 
 ## 6.
 
@@ -278,9 +278,9 @@ tags:
     2.  **Pyrrhonian rejection of dogmatic belief** matches **Buddhist rejection of clinging/attachment**.
     3.  **Pyrrhonian rejection of positive and negative dogmatism** matches **Buddhist rejection of eternalism and annihilationism**.
     4.  **Pyrrhonian open inquiry** matches the **Buddhist Middle Path**.
-    5.  **Pyrrhonian suspension of judgment** matches the **Buddha's "unanswered questions."**
+    5.  **Pyrrhonian suspension of judgement** matches the **Buddha's "unanswered questions."**
     6.  **Pyrrhonian refusal to interpret appearances** matches the **Buddhist concept of "emptiness" (*śūnyatā*)**.
-    7.  **Pyrrhonian *ataraxia*** matches **Buddhist enlightenment or liberation**.
+    7.  **Pyrrhonian *ataraxia*** matches **Buddhist awakening or liberation**.
 *   Both philosophies advocate living according to what is apparent, without interpretation, as the path to peace of mind.
 
 # Scripture and Scepticism in Vasubandhu's Exegetical Method
@@ -343,9 +343,9 @@ tags:
 
 ## Batchelor's Secular Buddhism
 
-*   Stephen Batchelor proposes a demythologized "secular Buddhism" suited for the 21st century.
-*   His approach seeks a middle way between dogmatic religion and unreflective atheism, emphasizing a "re-enchantment of the world."
-*   He argues for a Buddhism that is critical, "goes against the stream" of reactivity, and prioritizes practical knowledge over metaphysics.
+*   Stephen Batchelor proposes a demythologised "secular Buddhism" suited for the 21st century.
+*   His approach seeks a middle way between dogmatic religion and unreflective atheism, emphasising a "re-enchantment of the world."
+*   He argues for a Buddhism that is critical, "goes against the stream" of reactivity, and prioritises practical knowledge over metaphysics.
 *   The author critiques Batchelor for attributing negative traits like greed and hatred primarily to biological evolution, arguing this overlooks social and economic conditioning.
 
 ## Critical Buddhism: "Buddhism is Criticism"
@@ -358,7 +358,7 @@ tags:
 ## Radical Buddhism
 
 *   Builds on a critique of Critical Buddhism's "uncritical liberalism" by examining more politically engaged forms of Japanese Buddhism.
-*   "New Buddhist" movements in Meiji Japan emphasized being "this-worldly" and engaging with social, economic, and political causes of suffering.
+*   "New Buddhist" movements in Meiji Japan emphasised being "this-worldly" and engaging with social, economic, and political causes of suffering.
 *   Some groups were influenced by anarchism and Marxism, showing little concern for metaphysics and focusing on a pragmatic approach.
 *   This is compared to the Western Epicurean tradition, which is not apolitical but critical of dogmatic political and religious practices that cause fear and unhappiness.
 
