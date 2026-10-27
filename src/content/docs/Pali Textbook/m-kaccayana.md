@@ -75,7 +75,7 @@ mindmap
 
 ### Types of rules in Kaccāyana
 
-Several saññā “technical terms”, within an adhikāra “domain”, following
+Several saññā “technical terms”, within an adhikāra “governing rule”, following
 paribhāsā “metarules”, will be subject to vidhi “operations” in order to
 derive words or sentences.
 
@@ -84,15 +84,15 @@ derive words or sentences.
 grammar (* Kaccāyana *) = 673 * rule (* sutta *);
 rule =
   technical_term (* saññā *) |
-  domain (* adhikāra *) |
+  governing_rule (* adhikāra *) |
   metarule (* paribhāsā *) |
   operation (* vidhi *) ;
 technical_term =
   meaningful (* anvattha *) |
   artificial (* rūḷhī *) ;
-domain =
-  lion_way (* sīhagatika *) |
-  frog_way (* maṇḍūkagatika *) |
+governing_rule =
+  comprehensive (* sīhagatika *) |
+  selective (* maṇḍūkagatika *) |
   progressive (* yathānupubbika *) ;
 metarule =
   meta_definition (* saññaṅga *) |

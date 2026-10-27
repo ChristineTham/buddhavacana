@@ -14,8 +14,9 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
 `kita` affixed nouns {546} usually have a sense of a "doer" (someone who does
-something). This appendix contains a subset of the examples provided in
-Kaccāyana - consult the book for a full set of examples.
+something). This appendix contains a subset of the examples Kaccāyana gives; every rule
+number links to the rule on [kaccayana.github.io](https://kaccayana.github.io),
+where the full set is tabled.
 
 ## Kita’ntogadha dutiyā Tappurisa
 
@@ -142,7 +143,7 @@ past perfect verbs and verbal nouns (also referred to as past participles)
 | :-: | :-: | --- | :-: | :-: | --- | :-: | --- |
 | {556} | bhāva | tassa | ge | ta | g~~e~~(ī) + t~~a~~ + (ṁ) | gītaṁ | singing, i.e. the singing act of that person |
 | {556} | kamma | tena | bhāsa | ta | bhās~~a~~(i) + ta + (ṁ) | bhāsitaṁ | is said, i.e. said by that person |
-| {557} | kattā | sabbe saṅkhatā’saṅkhate dhamme bujjhati, abujjhi, bujjhissatī’ti | budha | ta | bud(d)h~~a~~ + t~~a~~ + (o) | buddho | the one who knows, who knew and who will know all constructed and unconstructed phenomena, the Buddha |
+| {557} | kattā | sabbe saṅkhatā’saṅkhate dhamme bujjhati, abujjhi, bujjhissatī’ti | budha | ta | bud(d)h~~a~~ + t~~a~~ + (o) | buddho | the one who knows, who knew and who will know all constructed and unconstructed phenomena, the Buddha (also derived with `tta` {643}: [10.8](../10-8-unadi-words/)) |
 
 ## `ina` affix
 
@@ -208,7 +209,7 @@ To express an on-going action being done or still taking place at present,
 | {568} | pubbe bhāsatī’ti | bhāsa | rātu | bhā~~sa~~ + ~~rā~~t~~u~~ (ā) | bhātā | the one who speaks (first before other young siblings) i.e. Brother. |
 | {568} | mātāpitūhi dhārīyatī’ti | dhara | ritu | dh~~ara~~ + ~~ri~~(ī)t~~u~~ (ā) | dhītā | the one who is borne by mother and father, i.e. the daughter |
 | {569} | āgacchatī’ti | gamu | tuka | ā + ga~~mu~~(n) + tuk~~a~~ (o) | āgantuko | the one who comes (to visit) (bhikkhu) |
-| {570} | gamissati, gantuṁ bhabbo’ti | gamu | ika | gam~~u~~ + ik~~a~~ (o) | gamiko | the one who will go or who is likely (be going on a trip). the would-be-traveller, the tourist (bhikkhu) |
+| {570} | gamissati, gantuṁ bhabbo’ti | gamu | ika | gam~~u~~ + ik~~a~~ (o) | gamiko | the one who will go, who is able to go: a traveller |
 
 ## The `niṭṭhā` forms and the changes of the root {571}–{623}
 

@@ -44,7 +44,7 @@ plural `-ehi`, `-ebhi` or `-hi` (`viññūhi`, "by the wise");
 | the instrument: the thing the action is done, seen or heard with | a ③ noun beside the verb, "with", "by" | `dattena vīhiṁ lunāti` ("[he] reaps the rice with a sickle") | {279}, {286} |
 | accompanied by: the companion of `saha` or `saddhiṁ` ("together with"), `vinā` ("without") or `samaṁ` ("equal to") | one of those words next to a ③ noun | `mahatā bhikkhusaṅghena saddhiṁ` ("together with a great community of monks") | {287} |
 | the doer (`kattā`) of a passive verb: the one by whom the thing was done | a ③ noun with a passive verb, often a word in `-ta` such as `hato` ("killed") | `yakkhena dinno varo` ("the boon [was] given by the yakkha") | {288} |
-| the cause (`hetu`): the reason for the action | a ③ noun that answers "why?", "because of" | `annena vasati` ("[he] stays because of food") | {289} |
+| the cause (`hetu`): the reason for the action (the same word names the causer of [4.6](../4-6-katta/) {282}) | a ③ noun that answers "why?", "because of" | `annena vasati` ("[he] stays because of food") | {289} |
 | the time, in the sense of the ⑦ ending | `tena samayena`, the opening of countless passages ([3: 2.1](../3-awakening/#u2-1)) | `tena kālena` ("at that time") | {290} |
 | the limb a defect sits in | a part of the body in ③ beside the word for the defect | `akkhinā kāṇo` ("one-eyed in the eye") | {291} |
 | the distinguishing attribute (`visesana`): the clan or quality someone is known by | a ③ noun beside a name or a word of praise | `gottena gotamo nātho` ("the Protector [is] a Gotama by clan") | {292} |

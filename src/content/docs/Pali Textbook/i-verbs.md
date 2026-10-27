@@ -52,7 +52,7 @@ Each row gives the sutta number `{N}`, the sutta's own words, a one-line summary
 | {412} | `Amhe uttamo` | With `amha`: the highest person | not `mayā ijjate buddho` |
 | {413} | `Kāle` | `kāle`, "in [the sense of] time": a governing rule |  |
 | {414} | `Vattamānā paccuppanne` | The `vattamānā` in the present | `yo koci avītarāgo taṁ vanasaṇḍaṁ pavisati`, `aggiṁ āharissāmīti gāmaṁ gacchati` |
-| {415} | `Āṇatyā siṭṭhe’nuttakāle pañcamī` | In command and blessing, time unstated: the `pañcamī` | `vacanīyamevāyasmā attānaṁ karotu`, `sukhī hotu, brāhmaṇa, ambaṭṭho māṇavo` |
+| {415} | `Āṇatyā siṭṭhe’nuttakāle pañcamī` | In command and in a wish or blessing, time unstated: the `pañcamī` | `vacanīyamevāyasmā attānaṁ karotu`, `sukhī hotu, brāhmaṇa, ambaṭṭho māṇavo` |
 | {416} | `Anumatiparikappatthesu sattamī` | In the senses of permission and supposition: the `sattamī` | `gaccheyyāsi pana tvaṁ, mārisa, tassa bhagavato upaṭṭhānaṁ`, `na cāpi appiyaṁ tuyhaṁ, kareyyāmi ahaṁ puna` |
 | {417} | `Apaccakkhe parokkhātīte` | In the unwitnessed past: the `parokkhā` | `saccaṁ, bhikkhave, moggallāno āha`, `āhu sabbagihibandhanacchidaṁ` |
 | {418} | `Hiyyopabhuti paccakkhe hiyyattanī` | From yesterday back, [witnessed or not]: the `hiyyattanī` | `agamā rājagahaṁ buddho, magadhānaṁ giribbajaṁ` |
@@ -61,7 +61,7 @@ Each row gives the sutta number `{N}`, the sutta's own words, a one-line summary
 | {421} | `Anāgate bhavissantī` | In the future: the `bhavissantī` | `bhikkhunī ekā gāmantaraṁ gacchissati`, `moghapuriso sabbamattikāmayaṁ kuṭikaṁ karissati` |
 | {422} | `Kriyātipanne’tīte kālātipatti` | In the past, when the action has lapsed: the `kālātipatti` | `so ce taṁ yānaṁ alabhissā, agacchissā`, `te ce taṁ yānaṁ alabhissaṁsu, agacchissaṁsu` |
 | {423} | `Vattamānā ti anti, si tha, mi ma, te ante, se vhe, e mhe` | `vattamānā`: the twelve endings of the present |  |
-| {424} | `Pañcamī tu antu, hitha, mima, taṁ antaṁ, ssu vho, e āmase` | `pañcamī`: the twelve endings of command and blessing |  |
+| {424} | `Pañcamī tu antu, hitha, mima, taṁ antaṁ, ssu vho, e āmase` | `pañcamī`: the twelve endings of command and of a wish or blessing |  |
 | {425} | `Sattamī eyya eyyuṁ, eyyā si eyyā tha, eyyāmi eyyāma, etha eraṁ, etho eyyāvho, eyyaṁ eyyāmhe` | `sattamī`: the twelve endings of permission and supposition |  |
 | {426} | `Parokkhā au ettha, aṁmha, tthare, ttho vho, iṁ mhe` | `parokkhā`: the twelve endings of the unwitnessed past |  |
 | {427} | `Hiyyattanī āū, ottha, aṁmhā, tthatthuṁ, se vhaṁ, iṁ mhase` | `hiyyattanī`: the twelve endings of the past before today |  |

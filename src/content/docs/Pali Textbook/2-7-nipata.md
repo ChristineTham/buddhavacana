@@ -37,7 +37,7 @@ ayaṁ` ([2.1](../2-1-sandhi/)).
 | `tu` | however; but | `avijjāya tveva` (`tu eva`) ([3: 4.1](../3-awakening/#u4-1)) |
 | `saddhiṁ` | together with (the ③) | `saddhiṁ bhikkhusahassena` ([9: 1.1](../9-fire/#u1-1)) |
 | `na` | not | `na sevitabbā` ([5: 2.1](../5-dhammacakka/#u2-1)), `natthi` (`na atthi`, {12}) ([5: 10.2](../5-dhammacakka/#u10-2)) |
-| `no` | not; no | `no hetaṁ, bhante` ([7: 6.6](../7-anatta/#u6-6)) |
+| `no` | not; no (the pronoun `no`, "us", "our", is a different word: [2.4](../2-4-pronouns/)) | `no hetaṁ, bhante` ([7: 6.6](../7-anatta/#u6-6)) |
 | `mā` | do not; may … not | `evaṁ me rūpaṁ mā ahosī’ti` ([7: 2.2](../7-anatta/#u2-2)) |
 
 `na` and `mā` precede their word, the others follow theirs; `mā` stands

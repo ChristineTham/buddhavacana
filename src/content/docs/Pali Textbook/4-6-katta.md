@@ -18,7 +18,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 
 This section covers the two `kāraka` (participants in the action) that bring
 the action about: the `kattā` (the agent), the one who does the action {281},
-and the `hetu` (the causer), the one who makes the agent do it {282}. In
+and the `hetu` (the causer), the one who makes the agent do it {282}; the same word names the cause in ③ of [4.4](../4-4-karana/) {289}, the reason for an action. In
 `atha kho bhagavā … nisīdi` ("then the Bhagavā sat down",
 [3: 2.2](../3-awakening/#u2-2)) the agent is
 `bhagavā`: it carries the ① ending, and the verb `nisīdi` agrees with it. The

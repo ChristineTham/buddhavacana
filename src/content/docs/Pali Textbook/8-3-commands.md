@@ -5,7 +5,7 @@ sidebar:
   order: 546
 description: >
   The two sets of verb endings that state no time: the `pañcamī`, for a
-  command or a blessing (`hotu`, "may it be"), and the `sattamī`, for what
+  command or a wish or blessing (`hotu`, "may it be"), and the `sattamī`, for what
   may, should or would happen (`kareyya`, "he would do"); how to recognise
   each and tell both from the present {415}–{416}, {424}–{425}.
 categories: ["palibook"]
@@ -18,7 +18,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 
 Two of the eight sets of endings in [8.1](../8-1-reading-a-verb/) state no
 time; they state what the speaker wants. The `pañcamī` (the fifth set, ⏹) is
-for a command (`āṇatti`) and a blessing (`āsīsa`) {415}: `karotu kusalaṁ`
+for a command (`āṇatti`) and a wish or blessing (`āsīsa`) {415}: `karotu kusalaṁ`
 ("let him do good"), `sukhaṁ te hotu` ("may there be happiness for you"). The
 `sattamī` (the seventh set, ⏯) is for permission (`anumati`) and supposition
 (`parikappa`) {416}: `tvaṁ gaccheyyāsi` ("you may go"), `kimahaṁ kareyyāmi`
