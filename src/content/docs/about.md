@@ -43,13 +43,13 @@ From [7D/3.12 Veḷuvagāmavassūpagamana #351](https://tipitaka2500.github.io/t
 
 ## The World Tipiṭaka Edition
 
-All references to the Pāli Tipiṭaka in this website are links to the [The World Tipiṭaka Edition](https://tipitaka2500.github.io/) - “The Buddhist Era 2500 Great International Council Pāḷi Tipiṭaka, Roman Script 2005” (Mahāsaṅgīti Tipiṭaka Buddhavasse 2500).
+All references to the Pāḷi Tipiṭaka in this website are links to [The World Tipiṭaka Edition](https://tipitaka2500.github.io/) - “The Buddhist Era 2500 Great International Council Pāḷi Tipiṭaka, Roman Script 2005” (Mahāsaṅgīti Tipiṭaka Buddhavasse 2500).
 
-The **World Tipiṭaka Edition** is a complete 40-volume Roman-script edition of the 25-century old teaching of the Buddhist Theravāda tradition in the Pāḷi language from the B.E. 2500 (1957) Great Internatonal Buddhist Council.
+The **World Tipiṭaka Edition** is a complete 40-volume Roman-script edition of the 25-century old teaching of the Buddhist Theravāda tradition in the Pāḷi language from the B.E. 2500 (1957) Great International Buddhist Council.
 
 It is derived from the Chaṭṭhasaṅgīti Council Edition, the Pāḷi-language text in Burmese Script, the result of the Great International Tipiṭaka Council convened in B.E. 2500 (1957) at Yangon by 2,500 erudite Theravāda Buddhist monks from all over the world.
 
-There was initially a website version of the The World Tipiṭaka Edition that was sadly decommissioned, but fortunately an archive of the contents was preserved as a [Github repository](https://github.com/yuttadhammo/World-Tipitaka) by [Yuttadhammo Bhikkhu](https://yuttadhammo.sirimangalo.org/). I have converted this archive into a modern website in 2025 and it can now be accessed [here](https://tipitaka2500.github.io/).
+There was initially a website version of The World Tipiṭaka Edition that was sadly decommissioned, but fortunately an archive of the contents was preserved as a [Github repository](https://github.com/yuttadhammo/World-Tipitaka) by [Yuttadhammo Bhikkhu](https://yuttadhammo.sirimangalo.org/). I have converted this archive into a modern website in 2025 and it can now be accessed [here](https://tipitaka2500.github.io/).
 
 ## Who Am I?
 
@@ -58,27 +58,27 @@ There was initially a website version of the The World Tipiṭaka Edition that w
 
 My name is Chris Tham. I discovered Buddhism in my early teens, whilst visiting Singapore during a school vacation. An uncle took us to a Buddhist temple, and afterwards gave me a book called **"What Buddhists Believe"** by *Dr K Sri Dhammananda*. I read the whole book overnight and it all made sense to me, so I informally became a Buddhist after that.
 
-Much later on, I stumbled upon another book called **"The Buddha's Explanation of the Universe"** by *C.P. Ranasinghe* which purports to explain in greater explain "Life, the Universe, and Everything" from a Buddhist perspective. These were taken from the Abhidhamma section of the Tipiṭaka. I wanted to study the original texts directly but at that time translations to English were not easily available. For years, I asked anyone who was visiting India or Sri Lanka to buy me books on the Abhidhamma and over the years I have a collected a few works but never the discourses themselves.
+Much later on, I stumbled upon another book called **"The Buddha's Explanation of the Universe"** by *C.P. Ranasinghe* which purports to explain in greater detail "Life, the Universe, and Everything" from a Buddhist perspective. These were taken from the Abhidhamma section of the Tipiṭaka. I wanted to study the original texts directly but at that time translations to English were not easily available. For years, I asked anyone who was visiting India or Sri Lanka to buy me books on the Abhidhamma and over the years I have collected a few works but never the discourses themselves.
 
-I have spent the last several years learning Pāḷi and are now finally able to read the Pāḷi canon and translate them into English. I have created a brand new translation of selections from the Tipiṭaka now available on [tidipa.github.io](https://tidipa.github.io). I have also started reading Buddhist texts in Sanskrit from other traditions outside the Pāḷi canon. As I am not a Buddhist, I don't feel compelled to only follow texts from one tradition and I feel I will have a better understanding of the Buddha's teachings by sampling from multiple traditions.
+I have spent the last several years learning Pāḷi and am now finally able to read the Pāḷi canon and translate it into English. I have created a brand new translation of selections from the Tipiṭaka now available on [tidipa.github.io](https://tidipa.github.io). I have also started reading Buddhist texts in Sanskrit from other traditions outside the Pāḷi canon. As I am not a Buddhist, I don't feel compelled to only follow texts from one tradition and I feel I will have a better understanding of the Buddha's teachings by sampling from multiple traditions.
 
 :::note
 
 ## On the writing and translation style
 
-These days, we are increasingly becoming inundated with AI-generated content. It is important to preserve and maintain a human "authenticity" in what gets published. Most of the content on this website are handcrafted by me, so the writing reflects my personal style and there may likely be spelling and grammatical errors. I wish to apologise for that in advance.
+These days, we are increasingly becoming inundated with AI-generated content. It is important to preserve and maintain a human "authenticity" in what gets published. Most of the content on this website is handcrafted by me, so the writing reflects my personal style and there may likely be spelling and grammatical errors. I wish to apologise for that in advance.
 
-I often mix singular and plural forms in the same sentence by mistake, as well as present and past tenses, which annoys me and I suspect it annoys you too. I am often careless with getting diacritics correct with Pāḷi and Sanskrit words, and it doesn't help that some of these words have also entered the English vocabulary without the diacritics, for example "nirvana" vs [S]`nirvāṇa`, "sutra" vs [S]`sūtra` etc. I also sometimes present Pāḷi and Sanskrit [S] words in first inflection (nominative form), and sometimes in so called "plain form" or as "lemmas". My preference is for the nominative form, but this is not common practice and sometimes I bow to using the plain form, especially in cases where I am not translating but presenting the words representing themselves. I apologise for the inconsistency.
+I often mix singular and plural forms in the same sentence by mistake, as well as present and past tenses, which annoys me and I suspect it annoys you too. I am often careless with getting diacritics correct with Pāḷi and Sanskrit words, and it doesn't help that some of these words have also entered the English vocabulary without the diacritics, for example "nirvana" vs [S]`nirvāṇa`, "sutra" vs [S]`sūtra` etc. I also sometimes present Pāḷi and Sanskrit [S] words in first inflection (nominative form), and sometimes in so-called "plain form" or as "lemmas". My preference is for the nominative form, but this is not common practice and sometimes I bow to using the plain form, especially in cases where I am not translating but presenting the words representing themselves. I apologise for the inconsistency.
 
 I sometimes use AI to assist me in summarising other people's content - when I do so I will put in a disclaimer that the text has been generated by an AI model.
 
 With regards to translations, I have a unique translation style which I have not seen elsewhere. First of all, I tend to retain Buddhist technical terms (and I provide the nearest English equivalent within parentheses after the technical term). I also use my own English equivalents rather than relying on popular renditions.
 
-For example, instead of "four noble truths" I will use `cattāri ariyasaccāni` (four realisations). As explained by K. R. Norman and Peter Harvey, the four "truths" are not "noble", but they are the truths of the Noble Ones (who are awakened, liberated, etc.). Also, these are not "universal" or "self-evident" truths but experienced realisations. Rather than using the long winded term "four realisations of the awakened ones" I simply say "four realisations."
+For example, instead of "four noble truths" I will use `cattāri ariyasaccāni` (four realisations). As explained by K. R. Norman and Peter Harvey, the four "truths" are not "noble", but they are the truths of the Noble Ones (who are awakened, liberated, etc.). Also, these are not "universal" or "self-evident" truths but experienced realisations. Rather than using the long-winded term "four realisations of the awakened ones" I simply say "four realisations."
 
 Also, rather than saying "five grasping aggregates" I will use `pañcupādānakkhandhā` ("five collections acting as fuel", or simply, "five collections"). The word `upādāna` means "fuel" and according to Richard Gombrich was intended as a reference to the Third Discourse (the parable on burning).
 
-I also dislike some terms used by other translators, such as "cankers", "taints", "defilements"  for `āsavā` (I use "non optimal flows") - I feel it is important not to use emotive or ethicised words to refer to thoughts and mental conditions, however some flows will lead to extinguishment, others lead away from extinguishment. I also dislike the words "conditioned" and "unconditioned" and prefer to refer to `saṅkhato` as "constructed" and `asaṅkhato` as "unconstructed" since the literal meaning of `saṅkhato` is "put together." In any case, `āsavā` and `saṅkhato` are probably late concepts as they are not mentioned in the early discourses.
+I also dislike some terms used by other translators, such as "cankers", "taints", "defilements" for `āsavā` (I use "non-optimal flows") - I feel it is important not to use emotive or ethicised words to refer to thoughts and mental conditions, however some flows will lead to extinguishment, others lead away from extinguishment. I also dislike the words "conditioned" and "unconditioned" and prefer to refer to `saṅkhato` as "constructed" and `asaṅkhato` as "unconstructed" since the literal meaning of `saṅkhato` is "put together." In any case, `āsavā` and `saṅkhato` are probably late concepts as they are not mentioned in the early discourses.
 
 I understand that you may find my translation irritating and you may disagree with my rendition of various Buddhist terms. I do not apologise for this. At the very least, I hope you will appreciate that my translations are not generated by AI and not reliant on other translations but represent my unique perspective and understanding of the Buddha's teachings.
 :::
@@ -93,9 +93,9 @@ I understand that you may find my translation irritating and you may disagree wi
 
 ## History of this website
 
-This website was originally a single page on my personal website. Over time, I decided I should really make it a sub-site with it's own content and navigation.
+This website was originally a single page on my personal website. Over time, I decided I should really make it a sub-site with its own content and navigation.
 
-The website was originally written in Markdown using the Hugo static site generator and the Docsy framework. At the time, I was fairly new to web development, and chose a stack that I thought would be relatively easy to learn and maintain..
+The website was originally written in Markdown using the Hugo static site generator and the Docsy framework. At the time, I was fairly new to web development, and chose a stack that I thought would be relatively easy to learn and maintain.
 
 How wrong I was! Hugo was a nightmare to learn, and difficult to create content in. Any customisation required understanding the inner workings of Docsy and mastering Hugo intricacies.
 
