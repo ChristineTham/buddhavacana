@@ -62,7 +62,7 @@ classDiagram
   }
   class yaṃ {
     <<anvayīnāma>>
-    🚻⨀②
+    🚻⨀①
     english(which)
   }
   class evaṃ {
@@ -72,19 +72,19 @@ classDiagram
   namespace adjective {
     class adantaṃ {
       <<atītakiriya>>
-      ⨀②
+      🚻⨀①
       english(untamed)
     }
   }
   class mahato {
     <<guṇanāma>>
-     ⨀⑥
+     🚹⨀④
     english(great)
   }
   namespace result {
     class anatthāya {
       <<nāma>>
-      🚹⨀⑥
+      🚹⨀④
       english(harm)
     }
   }
@@ -99,11 +99,11 @@ classDiagram
   }
   class idaṃ {
     <<puggalanāma>>
-    🚻⨀②
+    🚻⨀①
     english(this)
   }
   class cittaṃ {
-    <<sabbanāma>>
+    <<nāma>>
     🚻⨀①
     english(mind)
   }
@@ -147,7 +147,7 @@ classDiagram
     english(The mind, Bhikkhave, untamed, leads to great harm.)
   }
   class cittaṃ {
-    <<sabbanāma>>
+    <<nāma>>
     🚻⨀①
     english(mind)
   }
@@ -158,19 +158,19 @@ classDiagram
   namespace adjective {
     class adantaṃ {
       <<atītakiriya>>
-      ⨀②
+      🚻⨀①
       english(untamed)
     }
   }
   class mahato {
     <<guṇanāma>>
-     ⨀⑥
+     🚹⨀④
     english(great)
   }
   namespace result {
     class anatthāya {
       <<nāma>>
-      🚹⨀⑥
+      🚹⨀④
       english(harm)
     }
   }
@@ -196,44 +196,44 @@ classDiagram
   namespace adjective {
     class adantaṃ {
       <<atītakiriya>>
-      ⨀②
+      🚻⨀①
       english(untamed)
     }
     class dantaṃ {
       <<atītakiriya>>
-      ⨀②
+      🚻⨀①
       english(tamed)
     }
     class aguttaṃ {
       <<atītakiriya>>
-      ⨀②
+      🚻⨀①
       english(unguarded)
     }
     class guttaṃ {
       <<atītakiriya>>
-      ⨀②
+      🚻⨀①
       english(guarded)
     }
     class arakkhitaṃ {
       <<atītakiriya>>
-      ⨀②
+      🚻⨀①
       english(unprotected)
     }
     class rakkhitaṃ {
       <<atītakiriya>>
-      ⨀②
+      🚻⨀①
       english(protected)
     }
   }
   namespace result {
     class anatthāya {
       <<nāma>>
-      🚹⨀⑥
+      🚹⨀④
       english(harm)
     }
     class atthāya {
       <<nāma>>
-      🚹⨀⑥
+      🚹⨀④
       english(benefit)
     }
   }

@@ -2241,7 +2241,7 @@ an adjective agreeing with its noun | 5 |
 ```mermaid
 flowchart TD
   A["-e"] --> Q1{"bhikkhave, or me, te, ye, ime, tumhe?"}
-  Q1 -->|"yes"| P["⓪ 'bhikkhus!', or a pronoun (2.4)"]
+  Q1 -->|"yes"| P["⓪ 'bhikkhū!', or a pronoun (2.4)"]
   Q1 -->|"no"| Q2{"the lemma 🚺 in -ā?"}
   Q2 -->|"yes"| F["⓪, calling someone (kaññe)"]
   Q2 -->|"no"| Q3{"'in', 'at', 'on': a place or a time?"}
@@ -2495,7 +2495,7 @@ formally declares oneself a Buddhist.
 Let's start by examining only the first line. Analysing each word by
 identifying the form of the `vibhatti` ending yields:
 
-> 🚹⨀②(buddha) 🚹⨀②(saraṇa) 🟢⨀👆▶️(gacchati)
+> 🚹⨀②(buddha) 🚻⨀②(saraṇa) 🟢⨀👆▶️(gacchati)
 
 :::note
 The notation used here is inspired by functional programming conventions.
@@ -2547,7 +2547,7 @@ UML class diagram:
 classDiagram
   class sentence["dutiyampi/tatiyampi buddhaṁ/dhammaṁ/saṅghaṁ saraṇaṁ gacchāmi"] {
     <<vākya>>
-    english((For the second/third time) I go to the Buddha/Dhamma/Sangha as refuge)
+    english([For the second/third time too,] I go to the Buddha/Dhamma/Saṅgha as refuge.)
   }
   namespace saṅkhyāpūraṇa {
     class dutiyaṁ {
@@ -2581,7 +2581,7 @@ classDiagram
   }
   class saraṇaṁ {
     <<nāma>>
-     🚹⨀②
+     🚻⨀②
     english(as refuge)
   }
   class gacchāmi {

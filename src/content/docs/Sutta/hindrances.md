@@ -24,7 +24,7 @@ description: Giving up hindrances
 classDiagram
   class sentence["nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā kāmacchando uppajjati [n'] uppanno vā kāmacchando [bhiyyobhāvāya vepullāya/pahīyati] saṃvattati yathayidaṃ, bhikkhave, [subhanimittaṃ/asubhanimittaṃ]"] {
     <<vākya>>
-    english(I do not see, Bhikkhave, even one other thing by which unarisen sensual desire [arises/does not arise] or arisen sensual desire [leads to increase and expansion/is given up], as this, Bhikkhave, the sign of [beauty/repulsiveness].)
+    english(I do not see, Bhikkhave, even one other thing by which unarisen sensual desire [arises/does not arise] or arisen sensual desire [leads to increase and maturity/is given up], as this, Bhikkhave, the sign of [beauty/repulsiveness].)
   }
   class na {
     <<nipāta>>
@@ -59,7 +59,7 @@ classDiagram
   }
   class yena {
     <<anvayīnāma>>
-    🚻⨀②
+    🚻⨀③
     english(by which)
   }
   namespace result {
@@ -97,7 +97,7 @@ classDiagram
     class vepullāya {
       <<nāma>>
       🚻⨀④
-      english(expansion)
+      english(maturity)
     }
   }
   class saṃvattati {
@@ -111,13 +111,13 @@ classDiagram
   }
   class idaṃ {
     <<puggalanāma>>
-    🚻⨀②
+    🚻⨀①
     english(this)
   }
   namespace trigger {
     class subhanimittaṃ {
       <<nāma>>
-      🚻⨀②
+      🚻⨀①
       english(sign of beauty)
     }
     class asubhanimittaṃ {
@@ -162,19 +162,19 @@ classDiagram
   uppanno <-- saṃvattati
   vepullāya <-- saṃvattati
   idaṃ -- subhanimittaṃ
-  subhanimittaṃ --> saṃvattati
+  kāmacchando --> saṃvattati : kattar
 ```
 
 ```mermaid
 classDiagram
-  class sentence["[subhanimittaṃ/asubhanimittaṃ], bhikkhave, ayoniso manasi karoto anuppanno ceva kāmacchando [n'] uppajjati uppanno ca kāmacchando [bhiyyobhāvāya vepullāya/pahīyati] saṃvattatī"] {
+  class sentence["[subhanimittaṃ/asubhanimittaṃ], bhikkhave, [ayoniso/yoniso] manasi karoto anuppanno ceva kāmacchando [n'] uppajjati uppanno ca kāmacchando [bhiyyobhāvāya vepullāya/pahīyati] saṃvattatī"] {
     <<vākya>>
-    english(When [a person] attends [improperly/properly] to the sign of [beauty/repulsiveness], Bhikkhave, both unarisen sensual desire [arises/does not arise] and arisen sensual desire [leads to increase and expansion/is given up].)
+    english(When [a person] attends [improperly/properly] to the sign of [beauty/repulsiveness], Bhikkhave, both unarisen sensual desire [arises/does not arise] and arisen sensual desire [leads to increase and maturity/is given up].)
   }
   namespace trigger {
     class subhanimittaṃ {
       <<nāma>>
-      🚻⨀①
+      🚻⨀②
       english(sign of beauty)
     }
   }
@@ -188,12 +188,12 @@ classDiagram
   }
   class manasi {
     <<nāma>>
-    🚹⨀①
+    🚹⨀⑦
     english(in mind)
   }
   class karoto {
     <<missakiriya>>
-    ⨀①
+    🚹⨀⑥
     english(doing)
   }
   namespace result {
@@ -235,7 +235,7 @@ classDiagram
     class vepullāya {
       <<nāma>>
       🚻⨀④
-      english(expansion)
+      english(maturity)
     }
   }
   class saṃvattati {
@@ -268,7 +268,7 @@ classDiagram
   anuppanno <-- saṃvattati
   uppanno <-- saṃvattati
   vepullāya <-- saṃvattati
-  subhanimittaṃ --> saṃvattati
+  kāmacchando --> saṃvattati : kattar
   subhanimittaṃ --> karoto
 ```
 
@@ -300,12 +300,12 @@ classDiagram
     }
     class līnacittassa {
       <<nāma>>
-      🚻⨀⑥
+      🚹⨀⑥
       english(of one with a sluggish mind)
     }
     class avūpasantacittassa {
       <<nāma>>
-      🚻⨀⑥
+      🚹⨀⑥
       english(of one with an agitated mind)
     }
     class ayoniso {
@@ -346,19 +346,19 @@ classDiagram
       🚻⨀①
       english(sign of repulsiveness)
     }
-    class mettaṃ {
+    class mettā {
       <<nāma>>
-      🚻⨀①
+      🚺⨀①
       english(goodwill)
     }
     class āraddhavīriyassa {
       <<nāma>>
-      🚻⨀⑥
+      🚹⨀⑥
       english(of one who is energetic)
     }
     class vūpasantacittassa {
       <<nāma>>
-      🚻⨀⑥
+      🚹⨀⑥
       english(of one with a calm mind)
     }
     class yoniso {
@@ -369,7 +369,7 @@ classDiagram
   subhanimittaṃ .. kāmacchando
   kāmacchando .. asubhanimittaṃ
   paṭighanimittaṃ .. byāpādo
-  byāpādo .. mettaṃ
+  byāpādo .. mettā
   līnacitta .. līnacittassa
   līnacittassa .. thinamiddhaṃ
   thinamiddhaṃ .. āraddhavīriyassa

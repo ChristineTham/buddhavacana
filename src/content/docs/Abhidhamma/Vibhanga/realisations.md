@@ -302,7 +302,7 @@ Whatever in the world is pleasant and agreeable.
     * without vicāra (sustained application of mind),
     * with pīti (rapture) and
     * with sukha (happiness) born of samādhi (focus).
-  * With the fading away of pīti (rapture), he dwells in upekkhā (equanimity), and is sato (aware) and sampajāno (clearly comprehending), and experiences sukha (happiness) with the body; he enters and dwells in the third jhāna (mental disposition), of which the noble ones declare:
+  * With the fading away of pīti (rapture), he dwells in upekkhā (equanimity), and is sato (aware) and sampajāno (clearly comprehending), and experiences sukha (happiness) with the body; he enters and dwells in the third jhāna (mental disposition), of which the liberated ones declare:
     * 'upekkhako satimā sukhavihārī (Equanimous and aware, he has a pleasant abiding)'.
   * With the abandoning of sukha (happiness) and dukkha (pain), and with the previous disappearance of somanassa (joy) and domanassa (displeasure), he enters and dwells in the fourth jhāna (mental disposition), which is
     * without sukha (happiness) and

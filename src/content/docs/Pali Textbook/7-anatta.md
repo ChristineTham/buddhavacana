@@ -32,7 +32,7 @@ At one time the Bhagavā was dwelling at Bārāṇasī, at Isipatana in the Deer
 
 <a id="u1-2"></a>1.2 Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi— “bhikkhavo”ti.  
 ⏏️(tatra) ⏏️(kho) 🚹⨀①(bhagavant) 🚹⨂②🆎(pañca+vaggiya) 🚹⨂②(bhikkhu) 🟢⨀🤟⏮(āmanteti) 🚹⨂⓪(bhikkhu) ⏏️(iti)  
-there | indeed | the Bhagavā | of the group of five | bhikkhū | addressed | bhikkhus | (end quote)  
+there | indeed | the Bhagavā | of the group of five | bhikkhū | addressed | Bhikkhavo | (end quote)  
 There the Bhagavā addressed the group of five bhikkhū: “Bhikkhavo!”
 
 <a id="u1-3"></a>1.3 “Bhadante”ti te bhikkhū bhagavato paccassosuṁ.  
