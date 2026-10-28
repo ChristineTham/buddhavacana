@@ -265,7 +265,7 @@ Whatever in the world is pleasant and agreeable.
   * veramaṇī (abstinence) from adinnādāna (taking what is not given),
   * veramaṇī (abstinence) from kāmesumicchācāra (sexual misconduct)
 * `sammāājīvo` (Right Livelihood)
-  * an ariyasāvako (awakened disciple), having abandoned micchāājīvaṃ (wrong livelihood), maintains his life by sammāājīvena (right livelihood)
+  * an ariyasāvako (disciple of the liberated), having abandoned micchāājīvaṃ (wrong livelihood), maintains his life by sammāājīvena (right livelihood)
 * `sammāvāyāmo` (Right Effort)
   * For the non-arising of unarisen evil, akusalānaṃ dhammānaṃ (unwholesome states)
     * generates chandaṃ (desire),

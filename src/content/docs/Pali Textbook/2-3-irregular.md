@@ -173,8 +173,8 @@ life-long / liberated ones / uncelibacy / giving up
 7. > Evaṁ **passaṁ**, bhikkhave, **sutavā** ariyasāvako
 
 ⏏️(evaṁ) 🚹⨀①🔽(anta)(passanta) 🚹⨂⓪(bhikkhu) 🚹⨀①(sutavant) 🚹⨀①🆎(ariya+sāvaka)  
-thus / seeing / Bhikkhave / learned / awakened disciple  
-*"Thus seeing, the learned awakened disciple": `passaṁ`, ① singular of the participle `passanta` {186}; `sutavā`, ① singular of a `ntu` word, as `bhagavā` {124}; [7: 11.1](../7-anatta/#u11-1).*
+thus / seeing / Bhikkhave / learned / disciple of the liberated  
+*"Thus seeing, the learned disciple of the liberated": `passaṁ`, ① singular of the participle `passanta` {186}; `sutavā`, ① singular of a `ntu` word, as `bhagavā` {124}; [7: 11.1](../7-anatta/#u11-1).*
 
 8. > **Mano** āditto, dhammā ādittā, **manoviññāṇaṁ** ādittaṁ, manosamphasso āditto.
 

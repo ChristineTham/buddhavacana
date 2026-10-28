@@ -143,8 +143,8 @@ faculty of seeing / and / dependent on / forms / and / arises / visual-conscious
 4. > Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako cakkhusmimpi **nibbindati**,
 
 ⏏️(evaṁ) 🚹⨀①🔽(anta)(passanta) 🚹⨂⓪(bhikkhu) 🚹⨀①(sutavant) 🚹⨀①🆎(ariya+sāvaka) 🚻⨀⑦(cakkhu) ⏏️(api) 🟢⨀🤟▶️(nibbindati)  
-thus / seeing / Bhikkhave / learned / awakened disciple / the eye / too / gives up  
-*"Thus seeing, Bhikkhave, the `sutavā` (learned) `ariyasāvaka` (awakened disciple) `nibbindati` (gives up) the eye" ([9: 8.1](../9-fire/#u8-1)) `nibbindati`: `-nd-` before `-ati`, the `rudha` class's `ṁ` put into the root `vida` (to feel) {446}; the prefix `ni`.*
+thus / seeing / Bhikkhave / learned / disciple of the liberated / the eye / too / gives up  
+*"Thus seeing, Bhikkhave, the `sutavā` (learned) `ariyasāvaka` (disciple of the liberated) `nibbindati` (gives up) the eye" ([9: 8.1](../9-fire/#u8-1)) `nibbindati`: `-nd-` before `-ati`, the `rudha` class's `ṁ` put into the root `vida` (to feel) {446}; the prefix `ni`.*
 
 5. > sabyābajjhaṁ vedanaṁ **vedayati** ekantadukkhaṁ,
 

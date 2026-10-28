@@ -188,5 +188,5 @@ in this / and / moreover / detailed exposition / being spoken
 5. > Evaṁ **passaṁ**, bhikkhave, sutavā ariyasāvako
 
 ⏏️(evaṁ) 🚹⨀①🔽(anta)(passanta) 🚹⨂⓪(bhikkhu) 🚹⨀①(sutavant) 🚹⨀①🆎(ariya+sāvaka)  
-thus / seeing / Bhikkhave / learned / awakened disciple  
+thus / seeing / Bhikkhave / learned / disciple of the liberated  
 *`passaṁ`, "seeing": `anta` {565}, its `-nta` become `-aṁ` before the ① ending {186}, agreeing with `ariyasāvako` 🚹⨀①; [9: 8.1](../9-fire/#u8-1).*
