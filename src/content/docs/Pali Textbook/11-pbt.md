@@ -1075,8 +1075,8 @@ Bhikkhave, and what is “sammāājīva” (right livelihood)?
 
 <a id="s33-u21-17"></a>21.17 Idha, bhikkhave, ariyasāvako micchāājīvaṁ pahāya sammāājīvena jīvitaṁ kappeti.  
 ⏏️(idha) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(ariya+sāvaka) 🚹⨀②🆎(micchā+ājīva) 🔽(ya)(pajahati) 🚹⨀③🆎(sammā+ājīva) 🚻⨀②(jīvita) 🟠⨀🤟▶️(kappeti)  
-here | Bhikkhave | awakened disciple | wrong livelihood | giving up | with right livelihood | way of life | prepares  
-Here, Bhikkhave, an awakened disciple, giving up wrong livelihood, prepares for a way of life with right livelihood.
+here | Bhikkhave | disciple of the liberated | wrong livelihood | giving up | with right livelihood | way of life | prepares  
+Here, Bhikkhave, a disciple of the liberated, giving up wrong livelihood, prepares for a way of life with right livelihood.
 
 <a id="s33-u21-18"></a>21.18 Ayaṁ vuccati, bhikkhave, sammāājīvo.  
 *️⃣🤟🚹⨀①(ima) 🔴⨀🤟▶️(vuccati) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(sammā+ājīva)  

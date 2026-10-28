@@ -138,7 +138,7 @@ awareness / of whom / there is → one who has awareness, aware
 4. > **sutavā** ariyasāvako
 
 🚹⨀①(sutavant) 🚹⨀①🆎(ariya+sāvaka)  
-learned / awakened disciple  
+learned / disciple of the liberated  
 *`vantu` {368}: `suta` (learning, what is heard) + `-vā`, "one who has learning"; the lemma `sutavant` ends in `-vā` in the ① {124}.*
 
 5. > paññā yassa atthi → **paññavā**

@@ -303,8 +303,8 @@ Whatever `viññāṇa` there is, past, future, or present, internal or external
 
 <a id="u11-1"></a>[11.1](https://tipitaka2500.github.io/tipitaka/13S3/1/1.2/1.2.1/1.2.1.7.html#p_13S3_307) Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi nibbindati, saññāyapi nibbindati, saṅkhāresupi nibbindati, viññāṇasmimpi nibbindati.  
 ⏏️(evaṁ) 🚹⨀①🔽(anta)(passanta) 🚹⨂⓪(bhikkhu) 🚹⨀①(sutavant) 🚹⨀①🆎(ariya+sāvaka) 🚻⨀⑦(rūpa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚺⨀⑦(vedanā) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚺⨀⑦(saññā) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨂⑦(saṅkhāra) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚻⨀⑦(viññāṇa) ⏏️(api) 🟢⨀🤟▶️(nibbindati)  
-thus | seeing | Bhikkhave | learned | awakened disciple | form | too | gives up | feeling | too | gives up | apperception | too | gives up | mental constructions | too | gives up | consciousness | too | gives up  
-Thus seeing, Bhikkhave, the `sutavā` (learned) `ariyasāvaka` (awakened disciple) `nibbindati` (gives up) `rūpa`, gives up `vedanā`, gives up `saññā`, gives up `saṅkhārā`, gives up `viññāṇa`.
+thus | seeing | Bhikkhave | learned | disciple of the liberated | form | too | gives up | feeling | too | gives up | apperception | too | gives up | mental constructions | too | gives up | consciousness | too | gives up  
+Thus seeing, Bhikkhave, the `sutavā` (learned) `ariyasāvaka` (disciple of the liberated) `nibbindati` (gives up) `rūpa`, gives up `vedanā`, gives up `saññā`, gives up `saṅkhārā`, gives up `viññāṇa`.
 
 <a id="u11-2"></a>11.2 Nibbindaṁ virajjati; virāgā vimuccati.  
 🚹⨀①🔽(anta)(nibbindanta) 🟢⨀🤟▶️(virajjati) 🚹⨀⑤(virāga) 🔴⨀🤟▶️(vimuccati)  
