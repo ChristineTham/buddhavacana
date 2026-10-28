@@ -149,7 +149,7 @@ And what, Bhikkhave, is the realisation of the path of progress leading to the e
 
 <a id="s5-u21-2"></a>21.2 Ayameva ariyo aṭṭhaṅgiko maggo seyyathidaṁ—  
 *️⃣🤟🚹⨀①(ima) ⏏️(eva) 🚹⨀①(ariya) 🚹⨀①🆎(aṭṭha+aṅgika) 🚹⨀①(magga) ⏏️(seyyathidaṁ)  
-this | just | noble (liberated ones) | 8-part | path | as follows  
+this | just | of the liberated | 8-part | path | as follows  
 It is just this, the path of the liberated in eight parts, as follows:
 
 <a id="s5-u21-3"></a>21.3 sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi.  
@@ -1167,8 +1167,8 @@ And for him awareness is established that “there is a body”, and he stays aw
 
 <a id="s36-u4-1"></a>4.1 (Puna caparaṁ, bhikkhave, bhikkhu abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, uccārapassāvakamme sampajānakārī hoti), gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti.  
 ⏏️(puna) ⏏️(ca) ⏏️(paraṁ) 🚹⨂⓪(bhikkhu) 🚹⨀①(bhikkhu) 🚻⨀⑦🔽(ta)(abhikkanta) 🚻⨀⑦🔽(ta)(paṭikkanta) 🚹⨀①🆎(sampajāna+kārī) 🟢⨀🤟▶️(hoti) 🚻⨀⑦🔽(ta)(ālokita) 🚻⨀⑦🔽(ta)(vilokita) 🚹⨀①🆎(sampajāna+kārī) 🟢⨀🤟▶️(hoti) 🚻⨀⑦🔽(ta)(samiñjita) 🚻⨀⑦🔽(ta)(pasārita) 🚹⨀①🆎(sampajāna+kārī) 🟢⨀🤟▶️(hoti) 🚻⨀⑦🆎(saṅghāṭi+patta+cīvara+dhāraṇa) 🚹⨀①🆎(sampajāna+kārī) 🟢⨀🤟▶️(hoti) 🚻⨀⑦🔽(ta)(asita) 🚻⨀⑦🔽(ta)(pīta) 🚻⨀⑦🔽(ta)(khāyita) 🚻⨀⑦🔽(ta)(sāyita) 🚹⨀①🆎(sampajāna+kārī) 🟢⨀🤟▶️(hoti) 🚻⨀⑦🆎(uccāra+passāva+kamma) 🚹⨀①🆎(sampajāna+kārī) 🟢⨀🤟▶️(hoti) 🚻⨀⑦🔽(ta)(gata) 🚻⨀⑦🔽(ta)(ṭhita) 🚻⨀⑦🔽(ta)(nisinna) 🚻⨀⑦🔽(ta)(sutta) 🚻⨀⑦🔽(ta)(jāgarita) 🚻⨀⑦🔽(ta)(bhāsita) 🚹⨀⑦🆎(tuṇhī+bhāva) 🚹⨀①🆎(sampajāna+kārī) 🟢⨀🤟▶️(hoti)  
-again | and | what is more | Bhikkhave | bhikkhu | going forward | coming back | attentive to | is | looking ahead | looking around | attentive to | is | flexing | stretching | attentive to | is | carrying the outer robe, bowl and robe | attentive to | is | eating | drinking | chewing | tasting | attentive to | is | going to the toilet | attentive to | is | walking | standing | sitting | sleeping | being awake | talking | keeping quiet | attentive to | is  
-And what is more, Bhikkhave, the bhikkhu is attentive to going forward, coming back, looking ahead, looking around, flexing, stretching, carrying the outer robe, bowl and robe, eating, drinking, chewing, tasting, going to the toilet, walking, standing, sitting, sleeping, being awake, talking, keeping quiet.
+again | and | what is more | Bhikkhave | bhikkhu | going forward | coming back | acting with clear comprehension | is | looking ahead | looking around | acting with clear comprehension | is | flexing | stretching | acting with clear comprehension | is | carrying the outer robe, bowl and robe | acting with clear comprehension | is | eating | drinking | chewing | tasting | acting with clear comprehension | is | going to the toilet | acting with clear comprehension | is | walking | standing | sitting | sleeping | being awake | talking | keeping quiet | acting with clear comprehension | is  
+And what is more, Bhikkhave, the bhikkhu acts with clear comprehension when going forward, coming back, looking ahead, looking around, flexing, stretching, carrying the outer robe, bowl and robe, eating, drinking, chewing, tasting, going to the toilet, walking, standing, sitting, sleeping, being awake, talking, keeping quiet.
 
 ## 37. IRRADIATION OF FRIENDLINESS, COMPASSION, HAPPINESS FOR OTHERS, AND EQUANIMITY
 
@@ -1270,7 +1270,7 @@ In that occasion, there is refined and true apperception of the felicity and sat
 
 <a id="s40-u12-1"></a>12.1 “Puna caparaṁ, poṭṭhapāda, bhikkhu pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena paṭisaṁvedeti, yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti, tatiyaṁ jhānaṁ upasampajja viharati.  
 ⏏️(puna) ⏏️(ca) ⏏️(paraṁ) 🚹⨀⓪(poṭṭhapāda) 🚹⨀①(bhikkhu) 🚺⨀⑥(pīti) ⏏️(ca) 🚹⨀⑤(virāga) 🚹⨀①(upekkhaka) ⏏️(ca) 🟢⨀🤟▶️(viharati) 🚹⨀①🔽(ta)(sata) ⏏️(ca) 🚹⨀①(sampajāna) 🚻⨀②(sukha) ⏏️(ca) 🚹⨀③(kāya) 🟢⨀🤟▶️(paṭisaṁvedeti) *️⃣🤟🚻⨀②(ya) *️⃣🤟🚻⨀②(ta) 🚹⨂①(ariya) 🟢⨂🤟▶️(ācikkhati) 🚹⨀①(upekkhaka) 🚹⨀①(satimant) 🚹⨀①🆎(sukha+vihārī) ⏏️(iti) 🚻⨀②(tatiya) 🚻⨀②(jhāna) 🔽(ya)(upasampajjati) 🟢⨀🤟▶️(viharati)  
-again | and | further | Poṭṭhapāda | bhikkhu | of felicity | and | with detachment | mentally balanced, equanimous | and | continues in | being present | and | purposeful/fully aware | pleasant | and | with body | experiences | which | that | noble ones | describe | mentally balanced, equanimous | aware | living at ease | (end quote) | third | jhāna | entering | remains in  
+again | and | further | Poṭṭhapāda | bhikkhu | of felicity | and | with detachment | mentally balanced, equanimous | and | continues in | being present | and | purposeful/fully aware | pleasant | and | with body | experiences | which | that | liberated ones | describe | mentally balanced, equanimous | aware | living at ease | (end quote) | third | jhāna | entering | remains in  
 And furthermore, Poṭṭhapāda, a bhikkhu, with the detachment from felicity, enters and remains in the third jhāna, remains mentally balanced, is fully aware and being present, experiences body comfort, as the liberated ones describe: “equanimous, aware, living at ease.”
 
 <a id="s40-u12-2"></a>12.2 Tassa yā purimā samādhijapītisukhasukhumasaccasaññā, sā nirujjhati.  
@@ -2077,7 +2077,7 @@ He is aware of:
 
 And for him awareness is established that “there is a body”, and he stays aware and independent, just to the extent of understanding and continuous awareness, and he does not cling to anything in the world.
 
-The bhikkhu is attentive to:
+The bhikkhu acts with clear comprehension when:
 
 * going forward,
 * coming back,

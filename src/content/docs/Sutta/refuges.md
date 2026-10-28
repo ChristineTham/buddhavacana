@@ -58,7 +58,7 @@ classDiagram
   }
   class saraṇaṃ {
     <<nāma>>
-     🚹⨀②
+     🚻⨀②
     english(as refuge)
   }
   class gacchāmi {

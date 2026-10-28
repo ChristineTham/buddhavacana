@@ -205,7 +205,7 @@ Thus was heard by me.
 Ekaṁ samayaṁ bhagavā Magadhesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ yena Khāṇumataṁ nāma Magadhānaṁ brāhmaṇagāmo tad avasari.  
 🚹②⨀(eka) 🚹②⨀(samaya) 🚹①⨀(bhagavant) 🚹⑦⨂(magadha) 🚺②⨀(cārikā) 🚹①⨀(caramāna) 🚹③⨀(mahanta) 🚹③⨀(bhikkhusaṅgha) 🔼(saddhiṃ) 🚹③⨀(ya) 🚻①⨀(khāṇumata) 🔼(nāma) 🚹①⨂(magadha) 🚹①⨀(brāhmaṇagāma) 🚻①⨀(ta) ⏮🤟⨀(avasari)  
 one | time | the Blessed One | at Magadha | walking journey | walking in | with a large | community of monastics | by where | Khāṇumata | named | Magadha | village |  that | arrived  
-On one occasion the Blessed One was doing a walking journey in Magadha together with a large retinue of bhikkhus and arrived where a Magadhan holy village named Khāṇumata was.
+On one occasion the Blessed One was doing a walking journey in Magadha together with a large retinue of bhikkhū and arrived where a Magadhan holy village named Khāṇumata was.
 
 Tatra sudaṁ bhagavā Khāṇumate viharati Ambalaṭṭhikāyaṁ.  
 🔼(tatra) 🔼(sudaṃ) 🚹①⨀(bhagavant) 🚻⑦⨀(khāṇumata) ▶️🤟⨀(viharati) 🚺⑦⨀(ambalaṭṭhikā)  
@@ -242,7 +242,7 @@ there exists | sir | wanderer | Gotama | young Sakyan | of the Sakyan clan | ren
 Magadhesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ Khāṇumataṁ anuppatto Khāṇumate viharati Ambalaṭṭhikāyaṁ.  
 🚹⑦⨂(magadha) 🚺②⨀(cārikā) 🚹①⨀(caramāna) 🚹③⨀(mahanta) 🚹③⨀(bhikkhusaṅgha) 🔼(saddhiṃ) 🚻②⨀(khāṇumata) 🚹①⨀(anuppatta) 🚻②⨂(khāṇumata) ▶️🤟⨀(viharati) 🚺②⨂(ambalaṭṭhikā)  
 at Magadha | walking journey | walking in | with a large | community of monastics | Khāṇumata | arrived | Khāṇumata | dwells in | Ambalaṭṭhikā  
-He was doing a walking journey in Magadha together with a large retinue of bhikkhus, arrived at Khāṇumata and is dwelling in Ambalaṭṭhikā in Khāṇumata.
+He was doing a walking journey in Magadha together with a large retinue of bhikkhū, arrived at Khāṇumata and is dwelling in Ambalaṭṭhikā in Khāṇumata.
 
 Tam ete bhavantaṁ Gotamaṁ dassanāya upasaṅkamantī ti.  
 🚻①⨀(ta) 🚻①⨂(eta) 🚹②⨀(bhavant) 🚹②⨀(gotama) 🚻④⨀(dassana) ▶️🤟⨂(upasaṅkamati) 🔼(ti)  

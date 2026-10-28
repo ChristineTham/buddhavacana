@@ -109,7 +109,7 @@ dhammā` ([3: 6.1](../3-awakening/#u6-1)) has a plural verb, so `dhammā` is ①
 
 An adjective (`guṇanāma`, "a quality-word") has no gender of its own: it
 takes the gender, number and ending of its noun, so the two wear one shape:
-`ariyo aṭṭhaṅgiko maggo` ("the noble eightfold path", [5: 3.2](../5-dhammacakka/#u3-2)),
+`ariyo aṭṭhaṅgiko maggo` ("the path of the liberated in eight parts", [5: 3.2](../5-dhammacakka/#u3-2)),
 🚹⨀① on all three words; `bhummā devā` ([5: 12.1](../5-dhammacakka/#u12-1)), 🚹⨂①;
 `pañcavaggiye bhikkhū` ([5: 1.2](../5-dhammacakka/#u1-2)), 🚹⨂② in two shapes, `-e`
 on the `a` lemma and `-ū` on the `u` lemma. An `a` lemma used of a feminine

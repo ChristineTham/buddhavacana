@@ -75,7 +75,7 @@ And what, Bhikkhave, is that `majjhimā paṭipadā` (Middle Way), fully awakene
 
 <a id="u3-2"></a>3.2 Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ— sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi.  
 *️⃣🤟🚹⨀①(ima) ⏏️(eva) 🚹⨀①(ariya) 🚹⨀①🆎(aṭṭha+aṅgika) 🚹⨀①(magga) ⏏️(seyyathidaṁ) 🚺⨀①🆎(sammā+diṭṭhi) 🚹⨀①🆎(sammā+saṅkappa) 🚺⨀①🆎(sammā+vācā) 🚹⨀①🆎(sammā+kammanta) 🚹⨀①🆎(sammā+ājīva) 🚹⨀①🆎(sammā+vāyāma) 🚺⨀①🆎(sammā+sati) 🚹⨀①🆎(sammā+samādhi)  
-this | very | noble | eightfold | path | that is to say | right view | right resolve | right speech | right action | right livelihood | right effort | right awareness | right focus  
+this | very | of the liberated | eightfold | path | that is to say | right view | right resolve | right speech | right action | right livelihood | right effort | right awareness | right focus  
 It is this very `ariyo aṭṭhaṅgiko maggo` (Eightfold Path), that is to say: `sammādiṭṭhi` (right view), `sammāsaṅkappa` (right resolve), `sammāvācā` (right speech), `sammākammanta` (right action), `sammāājīva` (right livelihood), `sammāvāyāma` (right effort), `sammāsati` (right awareness), `sammāsamādhi` (right focus).
 
 <a id="u3-3"></a>3.3 Ayaṁ kho sā, bhikkhave, majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.  
@@ -102,7 +102,7 @@ Now this, Bhikkhave, is the `dukkhanirodha ariyasacca` (realisation of the cessa
 
 <a id="u4-4"></a>4.4 Idaṁ kho pana, bhikkhave, dukkhanirodhagāminī paṭipadā ariyasaccaṁ— ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ— sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi.  
 *️⃣🤟🚻⨀①(ima) ⏏️(kho) ⏏️(pana) 🚹⨂⓪(bhikkhu) 🚺⨀①🆎(dukkha+nirodha+gāmī) 🚺⨀①(paṭipadā) 🚻⨀①🆎(ariya+sacca) *️⃣🤟🚹⨀①(ima) ⏏️(eva) 🚹⨀①(ariya) 🚹⨀①🆎(aṭṭha+aṅgika) 🚹⨀①(magga) ⏏️(seyyathidaṁ) 🚺⨀①🆎(sammā+diṭṭhi) 🚹⨀①🆎(sammā+saṅkappa) 🚺⨀①🆎(sammā+vācā) 🚹⨀①🆎(sammā+kammanta) 🚹⨀①🆎(sammā+ājīva) 🚹⨀①🆎(sammā+vāyāma) 🚺⨀①🆎(sammā+sati) 🚹⨀①🆎(sammā+samādhi)  
-this | indeed | now | Bhikkhave | leading to the cessation of suffering | path | realisation | this | very | noble | eightfold | path | that is to say | right view | right resolve | right speech | right action | right livelihood | right effort | right awareness | right focus  
+this | indeed | now | Bhikkhave | leading to the cessation of suffering | path | realisation | this | very | of the liberated | eightfold | path | that is to say | right view | right resolve | right speech | right action | right livelihood | right effort | right awareness | right focus  
 Now this, Bhikkhave, is the `dukkhanirodhagāminī paṭipadā ariyasacca` (realisation of the path leading to the cessation of suffering): it is this very `ariyo aṭṭhaṅgiko maggo`, that is to say: `sammādiṭṭhi`, `sammāsaṅkappa`, `sammāvācā`, `sammākammanta`, `sammāājīva`, `sammāvāyāma`, `sammāsati`, `sammāsamādhi`.
 
 ### 3. Three phases, twelve aspects
@@ -255,8 +255,8 @@ And this `dasasahassilokadhātu` (ten-thousand-fold world system) trembled, shoo
 
 <a id="u14-1"></a>[14.1](https://tipitaka2500.github.io/tipitaka/14S5/12/12.2/12.2.1.html#p_14S5_2219) Atha kho bhagavā imaṁ udānaṁ udānesi— “aññāsi vata bho, koṇḍañño, aññāsi vata bho, koṇḍañño”ti.  
 ⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) *️⃣🤟🚻⨀②(ima) 🚻⨀②(udāna) 🟠⨀🤟⏮(udāneti) 🟢⨀🤟⏮(ājānāti) ⏏️(vata) 🚹⨀⓪(bhavant) 🚹⨀①(koṇḍañña) 🟢⨀🤟⏮(ājānāti) ⏏️(vata) 🚹⨀⓪(bhavant) 🚹⨀①(koṇḍañña) ⏏️(iti)  
-then | indeed | the Bhagavā | this | inspired utterance | uttered | has understood | indeed | bho | Koṇḍañña | has understood | indeed | bho | Koṇḍañña | (end quote)  
-Then the Bhagavā uttered this inspired utterance: “Indeed, bho Koṇḍañña has understood! Indeed, bho Koṇḍañña has understood!”
+then | indeed | the Bhagavā | this | inspired utterance | uttered | has understood | indeed | Bho | Koṇḍañña | has understood | indeed | Bho | Koṇḍañña | (end quote)  
+Then the Bhagavā uttered this inspired utterance: “Indeed, Bho Koṇḍañña has understood! Indeed, Bho Koṇḍañña has understood!”
 
 <a id="u14-2"></a>14.2 Iti hidaṁ āyasmato koṇḍaññassa “aññāsikoṇḍañño” tveva nāmaṁ ahosīti.  
 ⏏️(iti) ⏏️(hi) *️⃣🤟🚻⨀①(ima) 🚹⨀⑥(āyasmant) 🚹⨀⑥(koṇḍañña) 🚹⨀①(aññāsikoṇḍañña) ⏏️(tu) ⏏️(eva) 🚻⨀①(nāma) 🟢⨀🤟⏮(hoti) ⏏️(iti)  

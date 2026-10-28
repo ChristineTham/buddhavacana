@@ -174,7 +174,7 @@ this / indeed / now / Bhikkhave
 3. > Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—
 
 *️⃣🤟🚹⨀①(ima) ⏏️(eva) 🚹⨀①(ariya) 🚹⨀①🆎(aṭṭha+aṅgika) 🚹⨀①(magga) ⏏️(seyyathidaṁ)  
-this / very / noble / eightfold / path / that is to say  
+this / very / of the liberated / eightfold / path / that is to say  
 *`ayameva` is `ayaṁ` + `eva` {34}, stressing; `seyyathidaṁ` opens the list, manner.*
 
 4. > samaṇena vā brāhmaṇena vā

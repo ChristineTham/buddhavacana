@@ -180,7 +180,7 @@ scattering / stands / the army of Māra
 3. > **aññāsi** vata bho, koṇḍañño
 
 🟢⨀🤟⏮(ājānāti) ⏏️(vata) 🚹⨀⓪(bhavant) 🚹⨀①(koṇḍañña)  
-has understood / indeed / bho / Koṇḍañña  
+has understood / indeed / Bho / Koṇḍañña  
 *`aññāsi`, "he understood": the past of `ājānāti`, `ā` + `jānāti`, made like `akāsi`: `a-` {519}, `-si` {491}, the `nā` gone {509}; [5: 14.1](../5-dhammacakka/#u14-1).*
 
 4. > Bhummānaṁ devānaṁ saddaṁ **sutvā**
