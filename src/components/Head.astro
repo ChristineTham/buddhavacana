@@ -1,8 +1,21 @@
 ---
+// Starlight's head (which includes the SEO tags from src/route-data.ts), plus the fonts, reader mode
+// and link popovers.
 import DefaultHead from "@astrojs/starlight/components/Head.astro";
 import { Font } from "astro:assets";
+import Popover from "./Popover.astro";
 ---
 
 <DefaultHead />
+<script is:inline>
+	// Reader mode (ReaderMode.astro): hide the sidebars the reader hid, before the page paints.
+	try {
+		if (sessionStorage.getItem("hideLeftSidebar")) document.documentElement.setAttribute("data-hide-left-sidebar", "");
+		if (sessionStorage.getItem("hideRightSidebar")) document.documentElement.setAttribute("data-hide-right-sidebar", "");
+	} catch {
+		// Storage can be unavailable, e.g. in private browsing.
+	}
+</script>
 <Font cssVariable="--sl-font" preload />
 <Font cssVariable="--sl-font-mono" />
+<Popover />

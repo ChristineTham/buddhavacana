@@ -1,0 +1,182 @@
+---
+// The graph view panel: Quartz v5's Graph component (quartz-community/graph, src/components/Graph.tsx).
+// Copyright (c) 2021 jackyzha0, MIT License (see LICENSE-QUARTZ.txt). The drawing code is src/lib/graph-view.ts.
+import type { D3Config } from "../lib/graph-view";
+
+// Quartz's default options.
+const localGraph: D3Config = {
+	drag: true,
+	zoom: true,
+	depth: 1,
+	scale: 1.1,
+	repelForce: 0.5,
+	centerForce: 0.3,
+	linkDistance: 30,
+	fontSize: 0.6,
+	opacityScale: 1,
+	showTags: true,
+	removeTags: [],
+	focusOnHover: false,
+	enableRadial: false,
+};
+const globalGraph: D3Config = {
+	drag: true,
+	zoom: true,
+	depth: -1,
+	scale: 0.9,
+	repelForce: 0.5,
+	centerForce: 0.2,
+	linkDistance: 30,
+	fontSize: 0.6,
+	opacityScale: 1,
+	showTags: true,
+	removeTags: [],
+	focusOnHover: true,
+	enableRadial: true,
+};
+---
+
+<div class="graph sl-hidden lg:sl-block">
+	<h2>Graph View</h2>
+	<div class="graph-outer">
+		<div class="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
+		<button class="global-graph-icon" aria-label="Global Graph" title="Global Graph (Ctrl+G)">
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 55" fill="currentColor">
+				<path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17 s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4 c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562 C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829 c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91 v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4 s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665 C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2 S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4 s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2 s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path>
+			</svg>
+		</button>
+	</div>
+	<div class="global-graph-outer">
+		<div class="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
+	</div>
+</div>
+
+<script>
+	// Records each visit (the graph colours visited pages), then loads the graph code, which bundles
+	// D3 and PixiJS, only when the panel is displayed: Starlight hides it on narrow screens.
+	const path = decodeURIComponent(location.pathname).normalize("NFC");
+	const slug = path.endsWith("/") ? path : path + "/";
+	try {
+		const visited = new Set(JSON.parse(localStorage.getItem("graph-visited") || "[]"));
+		visited.add(slug);
+		localStorage.setItem("graph-visited", JSON.stringify([...visited]));
+	} catch {
+		// Storage can be unavailable, e.g. in private browsing.
+	}
+
+	const panel = document.querySelector<HTMLElement>(".graph");
+	if (panel) {
+		let module: Promise<typeof import("../lib/graph-view")> | undefined;
+		const graphView = () => (module ??= import("../lib/graph-view"));
+
+		// Not an IntersectionObserver: during a cross-page view transition its first report can say
+		// "not visible" for a panel that is on screen, and it then never fires again.
+		const showLocalGraph = () => {
+			if (panel.getClientRects().length === 0) return; // hidden: narrow screen
+			window.removeEventListener("resize", showLocalGraph);
+			const render = () => void graphView().then((view) => view.showLocalGraph(panel, slug));
+			if ("requestIdleCallback" in window) requestIdleCallback(render, { timeout: 2000 });
+			else setTimeout(render, 200);
+		};
+		showLocalGraph();
+		window.addEventListener("resize", showLocalGraph);
+
+		const toggleGlobalGraph = () => void graphView().then((view) => view.toggleGlobalGraph(panel, slug));
+		panel.querySelector(".global-graph-icon")?.addEventListener("click", toggleGlobalGraph);
+		document.addEventListener("keydown", (e) => {
+			if (e.key === "g" && (e.ctrlKey || e.metaKey) && !e.shiftKey) {
+				e.preventDefault();
+				toggleGlobalGraph();
+			}
+		});
+	}
+</script>
+
+<style>
+	/* Quartz v5's graph.scss, in Starlight's right-sidebar panel style. Starlight's right sidebar is a
+	   fixed element as wide as the window, so panels take the sidebar's width, as its own TOC does. */
+	.graph {
+		box-sizing: content-box;
+		width: calc(var(--sl-sidebar-width) - 2 * var(--sl-sidebar-pad-x));
+		padding: 1rem var(--sl-sidebar-pad-x);
+	}
+	@media (min-width: 72rem) {
+		.graph {
+			max-width: calc(
+				(100vw - var(--sl-sidebar-width) - 2 * var(--sl-content-pad-x) - 2 * var(--sl-sidebar-pad-x)) * 0.25
+			);
+		}
+	}
+	h2 {
+		color: var(--sl-color-white);
+		font-size: var(--sl-text-h5);
+		font-weight: 600;
+		line-height: var(--sl-line-height-headings);
+		margin-bottom: 0.5rem;
+	}
+	.graph-outer {
+		border-radius: 5px;
+		border: 1px solid var(--sl-color-hairline);
+		box-sizing: border-box;
+		height: 250px;
+		margin: 0.5em 0;
+		position: relative;
+		overflow: hidden;
+	}
+	.graph-container {
+		width: 100%;
+		height: 100%;
+	}
+	.global-graph-icon {
+		cursor: pointer;
+		background: none;
+		border: none;
+		color: var(--sl-color-white);
+		opacity: 0.5;
+		width: 24px;
+		height: 24px;
+		position: absolute;
+		padding: 0.2rem;
+		margin: 0.3rem;
+		top: 0;
+		right: 0;
+		border-radius: 4px;
+		background-color: transparent;
+		transition: background-color 0.5s ease;
+	}
+	.global-graph-icon:hover {
+		background-color: var(--sl-color-gray-5);
+	}
+	/* Moved to <body> when first opened (see graph-view.ts), so these selectors don't nest. */
+	.global-graph-outer {
+		position: fixed;
+		z-index: 9999;
+		left: 0;
+		top: 0;
+		width: 100vw;
+		height: 100%;
+		backdrop-filter: blur(4px);
+		display: none;
+		overflow: hidden;
+	}
+	.global-graph-outer.active {
+		display: inline-block;
+	}
+	.global-graph-container {
+		border: 1px solid var(--sl-color-hairline);
+		background-color: var(--sl-color-bg);
+		border-radius: 5px;
+		box-sizing: border-box;
+		position: fixed;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		height: 80vh;
+		width: 80vw;
+	}
+	@media (max-width: 800px) {
+		.global-graph-container {
+			width: 90%;
+		}
+	}
+</style>
