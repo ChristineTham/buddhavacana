@@ -1,0 +1,112 @@
+---
+// Backlinks: Quartz v5's Backlinks component (quartz-community/backlinks), rendered at build time
+// from the link graph in src/lib/graph-data.ts, with its OverflowList fade for long lists.
+// Copyright (c) 2021 jackyzha0, MIT License (see LICENSE-QUARTZ.txt).
+import { getBacklinks, pageUrl } from "../lib/graph-data";
+
+interface Props {
+	/** "sidebar": the right sidebar on wide screens; "footer": under the page on narrow screens. */
+	variant: "sidebar" | "footer";
+}
+
+const { variant } = Astro.props;
+const route = Astro.locals.starlightRoute;
+const backlinks = await getBacklinks(pageUrl(route.entry.id || "index"));
+---
+
+{
+	backlinks.length > 0 && (
+		<div class:list={["backlinks", variant, variant === "sidebar" ? "sl-hidden lg:sl-block" : "lg:sl-hidden"]}>
+			<h2>Backlinks</h2>
+			<ul class="overflow">
+				{backlinks.map(({ href, title }) => (
+					<li>
+						<a href={href}>{title}</a>
+					</li>
+				))}
+				<li class="overflow-end" />
+			</ul>
+		</div>
+	)
+}
+
+<script>
+	// Fades the bottom of a list that scrolls, until the reader reaches its end (Quartz's OverflowList).
+	const observer = new IntersectionObserver((entries) => {
+		for (const entry of entries) {
+			entry.target.parentElement?.classList.toggle("gradient-active", !entry.isIntersecting);
+		}
+	});
+	document.querySelectorAll(".backlinks .overflow-end").forEach((end) => observer.observe(end));
+</script>
+
+<style>
+	h2 {
+		color: var(--sl-color-white);
+		font-weight: 600;
+		line-height: var(--sl-line-height-headings);
+		margin-bottom: 0.5rem;
+	}
+	ul.overflow {
+		list-style: none;
+		padding: 0;
+		margin: 0.5rem 0;
+		overflow-y: auto;
+		overscroll-behavior: contain;
+	}
+	ul.overflow.gradient-active {
+		mask-image: linear-gradient(to bottom, black calc(100% - 50px), transparent 100%);
+	}
+	li.overflow-end {
+		height: 0.5rem;
+		margin: 0;
+	}
+
+	/* In the right sidebar, styled and sized like Starlight's "On this page" panel (the sidebar itself
+	   is a fixed element as wide as the window). */
+	.sidebar {
+		box-sizing: content-box;
+		width: calc(var(--sl-sidebar-width) - 2 * var(--sl-sidebar-pad-x));
+		padding: 1rem var(--sl-sidebar-pad-x);
+	}
+	@media (min-width: 72rem) {
+		.sidebar {
+			max-width: calc(
+				(100vw - var(--sl-sidebar-width) - 2 * var(--sl-content-pad-x) - 2 * var(--sl-sidebar-pad-x)) * 0.25
+			);
+		}
+	}
+	.sidebar h2 {
+		font-size: var(--sl-text-h5);
+	}
+	.sidebar ul.overflow {
+		max-height: 20rem;
+	}
+	.sidebar a {
+		display: block;
+		padding: 0.25rem 0;
+		font-size: var(--sl-text-xs);
+		text-decoration: none;
+		color: var(--sl-color-gray-3);
+		overflow-wrap: anywhere;
+	}
+	.sidebar a:hover {
+		color: var(--sl-color-white);
+	}
+
+	/* Under the page on narrow screens, where Starlight hides the right sidebar. */
+	.footer {
+		margin-top: 3rem;
+		padding-top: 1.5rem;
+		border-top: 1px solid var(--sl-color-hairline);
+	}
+	.footer h2 {
+		font-size: var(--sl-text-h4);
+	}
+	.footer li + li {
+		margin-top: 0.5rem;
+	}
+	.footer a {
+		color: var(--sl-color-text-accent);
+	}
+</style>

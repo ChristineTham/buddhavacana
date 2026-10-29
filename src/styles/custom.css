@@ -97,3 +97,27 @@
     gap: 0.1rem;
   }
 }
+
+/* Cross-fade between pages in browsers that support cross-document view transitions. */
+@view-transition {
+    navigation: auto;
+}
+
+/* Graph view colours (src/lib/graph-view.ts): the old Quartz theme's palette, dark then light. */
+:root {
+    --graph-light: #27272a;
+    --graph-lightgray: #b565a7;
+    --graph-gray: #85677b;
+    --graph-dark: #f4dede;
+    --graph-secondary: #be9cc1;
+    --graph-tertiary: #ec809e;
+}
+
+:root[data-theme="light"] {
+    --graph-light: #f4eee8;
+    --graph-lightgray: #f8d7dd;
+    --graph-gray: #ec809e;
+    --graph-dark: #27272a;
+    --graph-secondary: #b565a7;
+    --graph-tertiary: #be9cc1;
+}

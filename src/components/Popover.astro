@@ -1,0 +1,240 @@
+---
+// Popover previews of internal links: Quartz v5's popover (quartz/components/scripts/popover.inline.ts
+// and styles/popover.scss). Copyright (c) 2021 jackyzha0, MIT License (see LICENSE-QUARTZ.txt).
+//
+// Changes from Quartz v5: links are found by where they lead (Starlight content has no a.internal
+// class), so root-relative, base-relative and relative links all get previews; the preview is the
+// page's title and content (Quartz's .popover-hint elements); Mermaid diagrams are hidden in previews
+// (they only render on their own page); setup runs once per page load.
+---
+
+<script>
+	import { computePosition, flip, inline, shift } from "@floating-ui/dom";
+
+	const p = new DOMParser();
+	let activeAnchor: HTMLAnchorElement | null = null;
+
+	// Quartz's normalizeRelativeURLs (util/path.ts).
+	function normalizeRelativeURLs(el: Element | Document, destination: string | URL) {
+		const rebase = (el: Element, attr: string, newBase: string | URL) => {
+			const rebased = new URL(el.getAttribute(attr)!, newBase);
+			el.setAttribute(attr, rebased.pathname + rebased.hash);
+		};
+		el.querySelectorAll('[href=""], [href^="./"], [href^="../"]').forEach((item) => rebase(item, "href", destination));
+		el.querySelectorAll('[src=""], [src^="./"], [src^="../"]').forEach((item) => rebase(item, "src", destination));
+	}
+
+	async function mouseEnterHandler(this: HTMLAnchorElement, { clientX, clientY }: MouseEvent) {
+		const link = (activeAnchor = this);
+		if (link.dataset.noPopover === "true") {
+			return;
+		}
+
+		async function setPosition(popoverElement: HTMLElement) {
+			const { x, y } = await computePosition(link, popoverElement, {
+				strategy: "fixed",
+				middleware: [inline({ x: clientX, y: clientY }), shift(), flip()],
+			});
+			Object.assign(popoverElement.style, {
+				transform: `translate(${x.toFixed()}px, ${y.toFixed()}px)`,
+			});
+		}
+
+		function showPopover(popoverElement: HTMLElement) {
+			clearActivePopover();
+			popoverElement.classList.add("active-popover");
+			setPosition(popoverElement);
+
+			if (hash !== "") {
+				const inner = popoverElement.querySelector<HTMLElement>(".popover-inner");
+				if (inner) {
+					const heading = inner.querySelector<HTMLElement>(`[id="popover-internal-${CSS.escape(hash.slice(1))}"]`);
+					if (heading) {
+						// leave ~12px of buffer when scrolling to a heading
+						inner.scroll({ top: heading.offsetTop - 12, behavior: "instant" });
+					}
+				}
+			}
+		}
+
+		const targetUrl = new URL(link.href);
+		const hash = decodeURIComponent(targetUrl.hash);
+		targetUrl.hash = "";
+		targetUrl.search = "";
+		const popoverId = `popover-${link.pathname}`;
+		const prevPopoverElement = document.getElementById(popoverId);
+
+		// dont refetch if there's already a popover
+		if (prevPopoverElement) {
+			showPopover(prevPopoverElement);
+			return;
+		}
+
+		const response = await fetch(targetUrl).catch((err) => {
+			console.error(err);
+		});
+
+		if (!response?.ok) return;
+		const rawContentType = response.headers.get("Content-Type");
+		if (!rawContentType) return;
+		const [contentType] = rawContentType.split(";");
+		const [contentTypeCategory, typeInfo] = contentType.split("/");
+
+		const popoverElement = document.createElement("div");
+		popoverElement.id = popoverId;
+		popoverElement.classList.add("popover");
+		const popoverInner = document.createElement("div");
+		popoverInner.classList.add("popover-inner");
+		popoverInner.dataset.contentType = contentType ?? undefined;
+		popoverElement.appendChild(popoverInner);
+
+		switch (contentTypeCategory) {
+			case "image": {
+				const img = document.createElement("img");
+				img.src = targetUrl.toString();
+				img.alt = targetUrl.pathname;
+
+				popoverInner.appendChild(img);
+				break;
+			}
+			case "application":
+				if (typeInfo === "pdf") {
+					const pdf = document.createElement("iframe");
+					pdf.src = targetUrl.toString();
+					popoverInner.appendChild(pdf);
+				}
+				break;
+			default: {
+				const contents = await response.text();
+				const html = p.parseFromString(contents, "text/html");
+				normalizeRelativeURLs(html, targetUrl);
+				// prepend all IDs inside popovers to prevent duplicates
+				html.querySelectorAll("[id]").forEach((el) => {
+					el.id = `popover-internal-${el.id}`;
+				});
+				// Quartz previews its .popover-hint elements; in Starlight, the title and the content.
+				const elts = [html.querySelector("main h1"), html.querySelector("main .sl-markdown-content")].filter(
+					(elt): elt is Element => elt !== null,
+				);
+				if (elts.length === 0) return;
+
+				elts.forEach((elt) => popoverInner.appendChild(elt));
+			}
+		}
+
+		if (document.getElementById(popoverId)) {
+			return;
+		}
+
+		document.body.appendChild(popoverElement);
+		if (activeAnchor !== this) {
+			return;
+		}
+
+		showPopover(popoverElement);
+	}
+
+	function clearActivePopover() {
+		activeAnchor = null;
+		document.querySelectorAll(".popover").forEach((popoverElement) => popoverElement.classList.remove("active-popover"));
+	}
+
+	// Links to other pages of the site, in the content and in the backlinks, however they are written
+	// (/page, ../page/, with the base path or without); links to files such as PDFs get no preview.
+	const base = import.meta.env.BASE_URL.replace(/\/?$/, "/");
+	const links = document.querySelectorAll<HTMLAnchorElement>(".sl-markdown-content a[href], .backlinks a");
+	for (const link of links) {
+		if (link.origin !== location.origin || !link.pathname.startsWith(base)) continue;
+		if (link.pathname === location.pathname || /\.\w+$/.test(link.pathname)) continue;
+		link.addEventListener("mouseenter", mouseEnterHandler);
+		link.addEventListener("mouseleave", clearActivePopover);
+	}
+</script>
+
+<style is:global>
+	@keyframes dropin {
+		0% {
+			opacity: 0;
+			visibility: hidden;
+		}
+		1% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+			visibility: visible;
+		}
+	}
+
+	.popover {
+		z-index: 999;
+		position: fixed;
+		overflow: visible;
+		padding: 1rem;
+		left: 0;
+		top: 0;
+		will-change: transform;
+		visibility: hidden;
+		opacity: 0;
+		transition:
+			opacity 0.3s ease,
+			visibility 0.3s ease;
+	}
+
+	.popover > .popover-inner {
+		position: relative;
+		width: 30rem;
+		max-height: 20rem;
+		padding: 0 1rem 1rem 1rem;
+		font-weight: initial;
+		font-style: initial;
+		line-height: normal;
+		font-size: initial;
+		font-family: var(--sl-font);
+		border: 1px solid var(--sl-color-hairline);
+		background-color: var(--sl-color-bg);
+		border-radius: 5px;
+		box-shadow: 6px 6px 36px 0 rgba(0, 0, 0, 0.25);
+		overflow: auto;
+		overscroll-behavior: contain;
+		white-space: normal;
+		user-select: none;
+		cursor: default;
+	}
+
+	.popover > .popover-inner[data-content-type*="pdf"],
+	.popover > .popover-inner[data-content-type*="image"] {
+		padding: 0;
+		max-height: 100%;
+	}
+	.popover > .popover-inner[data-content-type*="image"] img {
+		margin: 0;
+		border-radius: 0;
+		display: block;
+	}
+	.popover > .popover-inner[data-content-type*="pdf"] iframe {
+		width: 100%;
+	}
+
+	.popover h1 {
+		font-size: 1.5rem;
+	}
+
+	/* Mermaid diagrams render client-side, and only on their own page. */
+	.popover .mermaid {
+		display: none;
+	}
+
+	@media all and (max-width: 800px) {
+		.popover {
+			display: none !important;
+		}
+	}
+
+	.active-popover,
+	.popover:hover {
+		animation: dropin 0.3s ease;
+		animation-fill-mode: forwards;
+		animation-delay: 0.2s;
+	}
+</style>

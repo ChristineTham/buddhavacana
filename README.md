@@ -40,3 +40,7 @@ All commands are run from the root of the project, from a terminal:
 | `pnpm preview`         | Preview your build locally, before deploying     |
 | `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `pnpm astro -- --help` | Get help using the Astro CLI                     |
+
+## 📜 Licence
+
+The site is open source under the [Apache licence](LICENSE). The graph view, backlinks, link previews, reader mode and generated page descriptions are adapted from [Quartz](https://github.com/jackyzha0/quartz) (© 2021 jackyzha0) under the MIT licence, in [LICENSE-QUARTZ.txt](LICENSE-QUARTZ.txt).

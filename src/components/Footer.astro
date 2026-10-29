@@ -1,0 +1,25 @@
+---
+// After the text: the page's tags, then the backlinks on narrow screens (where Starlight hides the
+// right sidebar), then Starlight's own footer.
+import Default from "@astrojs/starlight/components/Footer.astro";
+import { PageTags } from "starlight-tags/components";
+import Backlinks from "./Backlinks.astro";
+
+const hasTags = (Astro.locals.starlightRoute.entry.data.tags ?? []).length > 0;
+---
+
+{
+	hasTags && (
+		<div class="page-tags">
+			<PageTags />
+		</div>
+	)
+}
+<Backlinks variant="footer" />
+<Default />
+
+<style>
+	.page-tags {
+		margin-top: 3rem;
+	}
+</style>

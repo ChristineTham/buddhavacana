@@ -1,17 +1,25 @@
 // @ts-check
 import { defineConfig, fontProviders } from "astro/config";
 import starlight from "@astrojs/starlight";
-import starlightSiteGraph from "starlight-site-graph";
+import starlightTags from "starlight-tags";
 import mermaid from "astro-mermaid";
 import plantuml from "astro-plantuml";
 import { satteri } from "@astrojs/markdown-satteri";
 import kaccayanaLinks from "./src/plugins/remark-kaccayana-links.mjs";
 import endingsChart from "./src/plugins/remark-endings-chart.mjs";
+import { writeTagsConfig } from "./src/lib/tags.mjs";
+
+// starlight-tags reads its tag definitions (labels for the folded tag IDs) from this file.
+writeTagsConfig("./src/content/docs", "./.astro/tags.yml");
 
 // https://astro.build/config
 export default defineConfig({
   site: "https://christham.net",
   base: "/buddhavacana/",
+  // Fetch pages on hover so navigation is near-instant (with the cross-fade in custom.css).
+  prefetch: { prefetchAll: true },
+  // PixiJS, for the graph view, is one large chunk, loaded only when the graph is shown.
+  vite: { build: { chunkSizeWarningLimit: 1500 } },
   // the chapter 2 sections of the Pāḷi textbook were renumbered on 2026-10-18 (2.2–2.4 merged into 2.2 and 2.3)
   redirects: {
     "/pali-textbook/2-3-vowel-lemmas": "/buddhavacana/pali-textbook/2-2-nouns/",
@@ -77,57 +85,28 @@ export default defineConfig({
         },
       ],
       plugins: [
-        starlightSiteGraph({
-          // the plugin derives this path itself without its leading slash (main branch, 2026-10)
-          sitemapConfig: {
-            contentRoot: "./src/content/docs",
-            // draft pages are not built, but the plugin reads every file in the content folder
-            // (first matching rule wins, so the exclusions come before the catch-all)
-            pageInclusionRules: [
-              "!**/Pali/**",
-              "!**/Buddha/personality.md",
-              "!**/Sutta/pasarasi.mdx",
-              "!**/Sutta/recitation.mdx",
-              "!**/Sutta/refuges.md",
-              "!**/Sutta/restraining.md",
-              "!**/Sutta/template.mdx",
-              "**/*",
-            ],
-            // the pali.txt download is not a page (rules see the slugified link path)
-            linkInclusionRules: ["!**/palitxt", "!**/palitxt/**", "**/*"],
-          },
-        }),
+        // Tag badges, a tag index at /tags/ and a page per tag; labels come from .astro/tags.yml.
+        starlightTags({ configPath: ".astro/tags.yml", onInlineTagsNotFound: "error" }),
       ],
       components: {
-        // emits the <Font> tags for the fonts configured above
+        // the fonts configured above, reader mode and link popovers
         Head: "./src/components/Head.astro",
+        PageTitle: "./src/components/PageTitle.astro",
+        LastUpdated: "./src/components/LastUpdated.astro",
+        // Quartz v5's graph view and backlinks (src/components/Graph.astro, Backlinks.astro).
+        PageSidebar: "./src/components/PageSidebar.astro",
+        Footer: "./src/components/Footer.astro",
+        // Reader mode (Quartz v5) and a toggle for each sidebar, beside the theme picker.
+        ThemeSelect: "./src/components/ThemeSelect.astro",
       },
       customCss: ["./src/styles/custom.css"],
       logo: {
         src: "./public/favicon.svg",
       },
       favicon: "/favicon.svg",
-      head: [
-        {
-          tag: "meta",
-          attrs: {
-            property: "og:image",
-            // The absolute URL of the image to use.
-            content:
-              "https://christham.net/buddhavacana/featured-background.jpg",
-          },
-        },
-        {
-          tag: "meta",
-          attrs: {
-            property: "twitter:image",
-            // The absolute URL of the image to use.
-            content:
-              "https://christham.net/buddhavacana/featured-background.jpg",
-          },
-        },
-      ],
       lastUpdated: true,
+      // SEO tags (the social image among them) and JSON-LD for each page, from its frontmatter.
+      routeMiddleware: "./src/route-data.ts",
     }),
   ],
 });
