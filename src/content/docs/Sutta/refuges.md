@@ -109,3 +109,43 @@ stateDiagram-v2
   join_state --> saraṇaṃ
   saraṇaṃ --> fork_state : dutiyampi, tatiyampi
 ```
+
+## Interlinear translation
+
+1.1 buddhaṃ saraṇaṃ gacchāmi,  
+🚹⨀②(buddha) 🚻⨀②(saraṇa) 🟢⨀👆▶️(gacchati)  
+to the Buddha | as refuge | I go  
+1.2 dhammaṃ saraṇaṃ gacchāmi,  
+🚹⨀②(dhamma) 🚻⨀②(saraṇa) 🟢⨀👆▶️(gacchati)  
+to the Dhamma | as refuge | I go  
+1.3 saṅghaṃ saraṇaṃ gacchāmi.  
+🚹⨀②(saṅgha) 🚻⨀②(saraṇa) 🟢⨀👆▶️(gacchati)  
+to the Saṅgha | as refuge | I go  
+1.4 dutiyampi buddhaṃ saraṇaṃ gacchāmi,  
+🚻⨀②(dutiya) ⏏️(api) 🚹⨀②(buddha) 🚻⨀②(saraṇa) 🟢⨀👆▶️(gacchati)  
+second time | too | to the Buddha | as refuge | I go  
+1.5 dutiyampi dhammaṃ saraṇaṃ gacchāmi,  
+🚻⨀②(dutiya) ⏏️(api) 🚹⨀②(dhamma) 🚻⨀②(saraṇa) 🟢⨀👆▶️(gacchati)  
+second time | too | to the Dhamma | as refuge | I go  
+1.6 dutiyampi saṅghaṃ saraṇaṃ gacchāmi.  
+🚻⨀②(dutiya) ⏏️(api) 🚹⨀②(saṅgha) 🚻⨀②(saraṇa) 🟢⨀👆▶️(gacchati)  
+second time | too | to the Saṅgha | as refuge | I go  
+1.7 tatiyampi buddhaṃ saraṇaṃ gacchāmi,  
+🚻⨀②(tatiya) ⏏️(api) 🚹⨀②(buddha) 🚻⨀②(saraṇa) 🟢⨀👆▶️(gacchati)  
+third time | too | to the Buddha | as refuge | I go  
+1.8 tatiyampi dhammaṃ saraṇaṃ gacchāmi,  
+🚻⨀②(tatiya) ⏏️(api) 🚹⨀②(dhamma) 🚻⨀②(saraṇa) 🟢⨀👆▶️(gacchati)  
+third time | too | to the Dhamma | as refuge | I go  
+1.9 tatiyampi saṅghaṃ saraṇaṃ gacchāmi.  
+🚻⨀②(tatiya) ⏏️(api) 🚹⨀②(saṅgha) 🚻⨀②(saraṇa) 🟢⨀👆▶️(gacchati)  
+third time | too | to the Saṅgha | as refuge | I go  
+
+I go to the Buddha as refuge.  
+I go to the Dhamma as refuge.  
+I go to the Saṅgha as refuge.  
+For the second time too, I go to the Buddha as refuge.  
+For the second time too, I go to the Dhamma as refuge.  
+For the second time too, I go to the Saṅgha as refuge.  
+For the third time too, I go to the Buddha as refuge.  
+For the third time too, I go to the Dhamma as refuge.  
+For the third time too, I go to the Saṅgha as refuge.
