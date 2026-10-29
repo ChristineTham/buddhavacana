@@ -6,7 +6,8 @@ import { pageUrl } from "./graph-data";
 
 /** A folder without a page of its own has no href. */
 export type Crumb = { label: string; href?: string };
-// Folder pages that a plugin generates, outside the docs collection: starlight-tags' tag index.
+// Folders whose pages plugins generate, outside the docs collection, and so the folders under them too
+// (each tag's page is under the tag index): this site's starlight-tags pages.
 const generatedPages = new Set(["tags"]);
 type SidebarEntry = StarlightRouteData["sidebar"][number];
 
@@ -39,7 +40,7 @@ export async function getBreadcrumbs(route: StarlightRouteData): Promise<Crumb[]
 			const folderId = folders.slice(0, i + 1).join("/");
 			const title = titles.get(folderId);
 			const name = folder.charAt(0).toUpperCase() + folder.slice(1).replace(/-/g, " ");
-			const hasPage = title !== undefined || generatedPages.has(folderId);
+			const hasPage = title !== undefined || generatedPages.has(folders[0]);
 			return { label: title ?? sidebarLabels?.[i] ?? name, href: hasPage ? pageUrl(folderId) : undefined };
 		}),
 		{ label: route.entry.data.title, href: pageUrl(id) },
