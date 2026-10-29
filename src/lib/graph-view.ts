@@ -6,8 +6,9 @@
 //   and this module is only loaded when the graph is shown (see Graph.astro).
 // - The data comes from /graph.json (src/lib/graph-data.ts) and is keyed by page URL, so a click on
 //   a node is plain navigation. Tag nodes open the starlight-tags pages and show the tag's label.
-// - Colours come from the --graph-* custom properties in custom.css (Quartz's palette); a theme
-//   change is detected from Starlight's data-theme attribute rather than Quartz's events.
+// - Colours come from the site's Starlight theme (its --sl-color-* properties) rather than Quartz's
+//   palette, so the graph matches each site in light and dark mode; a theme change is detected from
+//   Starlight's data-theme attribute rather than Quartz's events.
 // - Quartz's nav/prenav/render handling is replaced by showLocalGraph() and toggleGlobalGraph().
 // - Labels ignore the pointer. In Quartz v5 they take the app's default event mode, "static", so the
 //   hidden labels, drawn above the nodes, block the hover on every node they overlap.
@@ -216,13 +217,15 @@ async function renderGraph(graph: HTMLElement, slug: string, renderGeneration?: 
 		}
 	}
 
+	// Quartz's colour roles, from the Starlight theme (whose "white" is the text and "black" the background).
 	const styles = getComputedStyle(document.documentElement);
-	const secondary = resolveColor(styles.getPropertyValue("--graph-secondary").trim(), "#c792ea");
-	const tertiary = resolveColor(styles.getPropertyValue("--graph-tertiary").trim(), "#82aaff");
-	const gray = resolveColor(styles.getPropertyValue("--graph-gray").trim(), "#6c6c6c");
-	const lightgray = resolveColor(styles.getPropertyValue("--graph-lightgray").trim(), "#d4d4d4");
-	const dark = resolveColor(styles.getPropertyValue("--graph-dark").trim(), "#1a1a1a");
-	const light = resolveColor(styles.getPropertyValue("--graph-light").trim(), "#f5f5f5");
+	const themeColor = (property: string, fallback: string) => resolveColor(styles.getPropertyValue(property).trim(), fallback);
+	const secondary = themeColor("--sl-color-accent", "#c792ea"); // the current page
+	const tertiary = themeColor("--sl-color-accent-high", "#82aaff"); // visited pages, and tags
+	const gray = themeColor("--sl-color-gray-3", "#6c6c6c"); // other pages; a hovered node's links
+	const lightgray = themeColor("--sl-color-gray-5", "#d4d4d4"); // links
+	const dark = themeColor("--sl-color-white", "#1a1a1a"); // labels
+	const light = themeColor("--sl-color-black", "#f5f5f5"); // the inside of a tag node
 	const bodyFont = styles.getPropertyValue("--sl-font").trim() || "inherit";
 
 	const app = new Application();
