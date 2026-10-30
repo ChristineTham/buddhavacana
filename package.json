@@ -22,14 +22,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "0.9.12",
     "@astrojs/starlight": "0.42.7",
-    "@cspell/dict-en-au": "^1.1.31",
     "@floating-ui/dom": "^1.8.0",
     "astro": "7.4.4",
     "astro-mermaid": "^2.2.0",
     "astro-plantuml": "^1.0.1",
-    "cspell": "^10.4.0",
     "d3-drag": "^3.0.0",
     "d3-force": "^3.0.0",
     "d3-selection": "^3.0.0",
@@ -39,15 +36,18 @@
     "reading-time": "^1.5.0",
     "sharp": "^0.35.5",
     "starlight-tags": "^2.0.0",
-    "typescript": "^7.0.2",
     "yaml": "^2.9.1"
   },
-  "packageManager": "pnpm@12.11.2+sha512.25a51652a196785af5f28bda6dfe8dc582ebefa4ac1d180221ce1390231c5fb76637822ea4b6e4633ce74acdcb0a77f725af11bad38177fdeddaee818a955cb9",
+  "packageManager": "pnpm@12.16.1+sha512.091d1dee7927575661b25dab3c2ae31cafc1c54d6b71ed6a6600cf0c1cb10434a447eae14015f1b23e2e6bedeed79df94a932e2164d2832280dce3fb32f656d1",
   "devDependencies": {
+    "@astrojs/check": "0.9.12",
     "@astrojs/markdown-satteri": "0.4.6",
+    "@cspell/dict-en-au": "^1.1.31",
     "@types/d3-drag": "^3.0.7",
     "@types/d3-force": "^3.0.10",
     "@types/d3-selection": "^3.0.12",
-    "@types/d3-zoom": "^3.0.9"
+    "@types/d3-zoom": "^3.0.9",
+    "@typescript/typescript6": "^6.0.2",
+    "cspell": "^10.4.0"
   }
 }
