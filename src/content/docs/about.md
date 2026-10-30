@@ -86,8 +86,13 @@ I understand that you may find my translation irritating and you may disagree wi
 ## Technical details regarding this website
 
 * This website is hosted on [Github](https://github.com) using [Github Pages](https://pages.github.com).
-* It was generated from Markdown and MDX using [Astro](https://astro.build) and the [Starlight](https://starlight.astro.build) documentation plugin.
-* Diagrams are created primarily using [Mermaid](https://mermaid.js.org). There is some use of other tools such as PlantUML and Observable.
+* It is built from Markdown and MDX using [Astro](https://astro.build) 7 and the [Starlight](https://starlight.astro.build) documentation theme, with [Sätteri](https://www.npmjs.com/package/@astrojs/markdown-satteri) as the Markdown processor. It is deployed by a GitHub Actions workflow on every push, and package management is by [pnpm](https://pnpm.io).
+* Search is provided by [Pagefind](https://pagefind.app), and pages are tagged using [starlight-tags](https://github.com/frostybee/starlight-tags). Each page's created and last updated dates come from its git history, and reading times are calculated with [reading-time](https://www.npmjs.com/package/reading-time).
+* Diagrams are created primarily using [Mermaid](https://mermaid.js.org), with some use of [PlantUML](https://plantuml.com).
+* Each page has a graph view of the links between pages (drawn with [PixiJS](https://pixijs.com) and [d3-force](https://d3js.org/d3-force)) and a list of backlinks, in the style of [Quartz](https://quartz.jzhao.xyz). Links show a preview popover on hover (positioned with [Floating UI](https://floating-ui.com)), and there is a reader mode that hides the sidebars.
+* The Pāḷi Textbook uses custom Markdown plugins: citations such as `{344}` become links to the corresponding rule of Kaccāyana on [kaccayana.github.io](https://kaccayana.github.io/kaccayana/), and `endings` code blocks are rendered as small bar charts of word-ending frequencies.
+* Pages are prefetched on hover for fast navigation, and social images, descriptions and JSON-LD for search engines are generated from each page's frontmatter.
+* The fonts are Noto Sans and Noto Sans Mono, loaded through Astro's font API. Spelling is checked with [cspell](https://cspell.org).
 * The website colour scheme is based on [Rosely](https://rosely.hellotham.com).
 * All photographs on this website are taken by me, or on behalf of me on my camera. Other images are credited to the sources.
 
