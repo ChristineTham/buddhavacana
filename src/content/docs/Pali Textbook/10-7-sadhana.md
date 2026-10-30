@@ -32,7 +32,7 @@ is to be done, the purpose.
 | --- | --- | :-: | --- | :-: |
 | `-aka`, first vowel lengthened | the doer | `ṇvu` | `kārako` "a doer", `dāyako` "a giver" | {624}, {527}, {622} |
 | `-tā` in ① (the affixes `-tu`, `-ratthu`) | the doer | `tu`, `ratthu` | `kattā` "a doer", `satthā` "the teacher" | {624}, {527}, {566} |
-| `-ī`, first vowel lengthened | one whose habit, duty or future it is to do it | `ṇī` | `brahmacārī` "living the pure life", `kārī` "bound to do", `gāmī` "about to go" | {532}, {636}, {651} |
+| `-ī`, first vowel lengthened | one whose habit, duty or future it is to do it | `ṇī` | `brahmacārī` "living the optimal life", `kārī` "bound to do", `gāmī` "about to go" | {532}, {636}, {651} |
 | `-ana`, `-aṇa`, neuter | the act, its means or its place | `yu` | `ñāṇaṁ` "knowing", `ṭhānaṁ` "a place" | {547}, {548}, {549}, {622}, {641} |
 | `-anā`, `-ti`, feminine | the act | `yu`, `ti` | `vedanā` "feeling", `jāti` "birth" | {553}, {585} |
 | `-tabba`, `-anīya` | to be done; must, should, may be done | `tabba`, `anīya` | `kattabbaṁ`, `karaṇīyaṁ` "to be done" | {540}, {625}, {635} |

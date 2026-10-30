@@ -732,7 +732,7 @@ moisture | and | both of those
 
 <a id="s20-u6-1"></a>6.1 Evaṁ khandhā ca dhātuyo,  
 ⏏️(evaṁ) 🚹⨂①(khandha) ⏏️(ca) 🚺⨂①(dhātu)  
-thus | collections | and | elements  
+thus | collections | and | components  
 <a id="s20-u6-2"></a>6.2 cha ca āyatanā ime;  
 ⚧⨂①(cha) ⏏️(ca) 🚹⨂①(āyatana) *️⃣🤟🚹⨂①(ima)  
 six | and | sense bases | these  
@@ -748,7 +748,7 @@ Sown in field, grows;
 Meeting with soil nutrients,  
 and moisture, both of these.
 
-Thus, the collections and elements,  
+Thus, the collections and components,  
 And these six sense bases;  
 Arisen dependent on a cause,  
 They cease with the breakup of the cause.
@@ -1934,7 +1934,7 @@ Sown in field, grows;
 Meeting with soil nutrients,  
 and moisture, both of these.
 
-Thus, the collections and elements,  
+Thus, the collections and components,  
 And these six sense bases;  
 Arisen dependent on a cause,  
 They cease with the breakup of the cause.

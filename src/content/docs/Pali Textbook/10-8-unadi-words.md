@@ -50,7 +50,7 @@ Mostly from the texts of chapters [3](../3-awakening/), [7](../7-anatta/),
 | `kusalaṁ` | wholesome | `√kusa` + `ala` | {665} |
 | `cīvaraṁ` | a robe | `√ci` + `īvara` | {668} |
 | `hetu` | a cause | `√hi` + `tu` | {671} |
-| `dhātu` | an element | `√dhā` + `tu` | {671} |
+| `dhātu` | a component | `√dhā` + `tu` | {671} |
 | `dhammo` | the teaching | `√dhara` + `ramma` | {531} |
 | `bhikkhu` | a monk | `√bhikkha` + `rū` | {535} |
 
