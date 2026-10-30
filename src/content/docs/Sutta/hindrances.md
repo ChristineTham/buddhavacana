@@ -455,8 +455,8 @@ When [a person] attends properly to the mental liberation of goodwill, Bhikkhave
 
 18.1 "nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannaṃ vā thinamiddhaṃ nuppajjati uppannaṃ vā thinamiddhaṃ pahīyati yathayidaṃ, bhikkhave, ārambhadhātu nikkamadhātu parakkamadhātu.  
 ⏏️(na) *️⃣👆⚧⨀①(ahaṃ) 🚹⨂⓪(bhikkhu) *️⃣🤟🚹⨀②(añña) 🚹⨀②🆎(eka+dhamma) ⏏️(api) 🟢⨀👆▶️(samanupassati) *️⃣🤟🚻⨀③(ya) 🚻⨀①🔽(ta)🆎(na+uppanna) ⏏️(vā) 🚻⨀①🆎(thina+middha) ⏏️(na) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(uppanna) ⏏️(vā) 🚻⨀①🆎(thina+middha) 🔴⨀🤟▶️(pahīyati) ⏏️(yathā) *️⃣🤟🚻⨀①(ima) 🚹⨂⓪(bhikkhu) 🚺⨀①🆎(ārambha+dhātu) 🚺⨀①🆎(nikkama+dhātu) 🚺⨀①🆎(parakkama+dhātu)  
-not | I | Bhikkhave | other | one thing | even | I see | by which | unarisen | or | sloth and torpor | not | arises | arisen | or | sloth and torpor | is given up | as | this | Bhikkhave | element of initiative | element of endurance | element of perseverance  
-“I do not see, Bhikkhave, even one other thing by which unarisen sloth and torpor does not arise or arisen sloth and torpor is given up, as this, Bhikkhave, the element of initiative, the element of endurance and the element of perseverance.
+not | I | Bhikkhave | other | one thing | even | I see | by which | unarisen | or | sloth and torpor | not | arises | arisen | or | sloth and torpor | is given up | as | this | Bhikkhave | component of initiative | component of endurance | component of perseverance  
+“I do not see, Bhikkhave, even one other thing by which unarisen sloth and torpor does not arise or arisen sloth and torpor is given up, as this, Bhikkhave, the component of initiative, the component of endurance and the component of perseverance.
 
 18.2 āraddhavīriyassa, bhikkhave, anuppannañceva thinamiddhaṃ nuppajjati uppannañca thinamiddhaṃ pahīyatī"ti.  
 🚹⨀⑥🆎(āraddha+vīriya) 🚹⨂⓪(bhikkhu) 🚻⨀①🔽(ta)🆎(na+uppanna) ⏏️(ca) ⏏️(eva) 🚻⨀①🆎(thina+middha) ⏏️(na) 🟢⨀🤟▶️(uppajjati) 🚻⨀①🔽(ta)(uppanna) ⏏️(ca) 🚻⨀①🆎(thina+middha) 🔴⨀🤟▶️(pahīyati) ⏏️(iti)  

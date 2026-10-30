@@ -111,7 +111,7 @@ members.
 1. > brahma + cariya → **brahmacariyaṁ**
 
 🚻⨀①🆎(brahma+cariya)  
-holy + conduct → pure life  
+holy + conduct → optimal life  
 *adjective + noun {324}: `brahma` ("holy", "highest") describes `cariya` ("conduct", "way of life"); [9: 9.2](../9-fire/#u9-2), `vusitaṁ brahmacariyaṁ`, and [7: 11.4](../7-anatta/#u11-4).*
 
 2. > sāyanha + samaya → **sāyanhasamayaṁ**
