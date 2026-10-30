@@ -74,7 +74,7 @@ function pagePicture(data: PageData): Picture | undefined {
 
 // The home page's picture is every other page's default social image.
 let homePicture: Promise<Picture | undefined> | undefined;
-const defaultPicture = () => (homePicture ??= getEntry("docs", "index").then((home) => home && pagePicture(home.data)));
+const defaultPicture = () => (homePicture ??= Promise.resolve(getEntry("docs", "index")).then((home) => home && pagePicture(home.data)));
 const socialImages = new Map<ImageMetadata, Promise<{ url: string; width: number; height: number }>>();
 function socialImage(image: ImageMetadata, site: URL) {
 	if (!socialImages.has(image)) {
