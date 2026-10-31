@@ -2230,8 +2230,10 @@ All ways of speaking eradicated too.
 
 [^1]: `ariyasacca` is rendered “realisation” rather than the usual “noble truth”: the four are things to be realised, suffering, its origin in craving, its cessation, and the path to its cessation. See [the four realisations](https://tidipa.github.io/Khandhaka/1.6#the-four-realisations).
 
-[^2]: `khandha` “collection” and `upādāna` “fuel” follow Richard Gombrich, *What the Buddha Thought* (Equinox, 2009), “Everything is burning: the centrality of fire in the Buddha’s thought”, pp. 111–128: `upādāna` literally means fuel, and the five `khandhā` are the bundles of fuel on which the fire of existence burns, a metaphor that “aggregates of clinging” loses.
+[^2]: `khandha` “collection” and `upādāna` “fuel” follow Richard Gombrich, *What the Buddha Thought*, “Everything is burning: the centrality of fire in the Buddha’s thought” [@WhatTheBuddhaThought, pp. 111-128]: `upādāna` literally means fuel, and the five `khandhā` are the bundles of fuel on which the fire of existence burns, a metaphor that “aggregates of clinging” loses.
 
 [^3]: `jāti` and `punabbhava` here are the birth and the appearing again of suffering, not a birth into future lives: see the note at [5: 10.2](../5-dhammacakka/#u10-2).
 
 [^4]: The Chaṭṭha Saṅgāyana text abbreviates the death and sorrow clauses, leaving out `pariyesamāno amataṁ anuttaraṁ yogakkhemaṁ nibbānaṁ` and `pariyesamāno asokaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ`, the “searching for” that the other four clauses carry. The Pāḷi line and its tokens follow the printed text, and the translation says only what the line says; the summary below gives all six in full.
+
+## References

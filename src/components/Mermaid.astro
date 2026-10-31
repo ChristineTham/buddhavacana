@@ -1,15 +1,109 @@
 ---
-// Zoom for Mermaid diagrams. Each rendered diagram gets a button that opens it full screen in a
-// <dialog>, where it can be scrolled, dragged, and zoomed with the toolbar, the keyboard (+ − 0 1,
-// arrows), Ctrl/⌘ + wheel or a trackpad pinch, a double-click, or a two-finger pinch on touch screens.
+// Mermaid diagrams: rendering, theming and zoom in one place.
 //
-// astro-mermaid renders the diagrams client-side into `pre.mermaid` and renders them again when the
-// theme changes, so the buttons are added by a MutationObserver, around the <pre> rather than inside
-// it. The SVG itself is moved into the dialog, not copied: its <style> and marker ids stay unique,
-// and it is put back where it came from when the dialog closes.
+// The build turns each ```mermaid fence into <pre class="mermaid"> holding the diagram's source
+// (src/plugins/mermaid.mjs). On a page with a diagram, this script loads Mermaid and renders every
+// diagram with Mermaid's light or dark theme, as Starlight has set on <html data-theme>, and renders
+// them again when that attribute changes. Mermaid's classes are mapped onto the site's --sl-color-*
+// tokens (THEME_CSS below), so the diagrams carry no colours of their own. A page without a diagram
+// never loads Mermaid.
+//
+// Each rendered diagram gets a button that opens it full screen in a <dialog>, where it can be
+// scrolled, dragged, and zoomed with the toolbar, the keyboard (+ − 0 1, arrows), Ctrl/⌘ + wheel or a
+// trackpad pinch, a double-click, or a two-finger pinch on touch screens. The SVG itself is moved into
+// the dialog, not copied: its <style> and marker ids stay unique, and it is put back where it came from
+// when the dialog closes. A diagram rendered again while the dialog shows it (a theme change) is
+// swapped in at the same zoom.
+//
+// Included from Head.astro; the same file is in the kaccayana, buddhavacana and tidipa repos.
 ---
 
 <script>
+	import type { MermaidConfig } from "mermaid";
+
+	// --- Rendering --------------------------------------------------------------------------------
+
+	// Mermaid's classes mapped onto Starlight's colour tokens; the font is the site's.
+	const THEME_CSS = `
+		.node rect, .node circle, .node ellipse, .node polygon, .node path { fill: var(--sl-color-gray-6); stroke: var(--sl-color-accent); stroke-width: 1.5px; }
+		.node polygon { fill: var(--sl-color-accent-low); }
+		.label, .nodeLabel, .edgeLabel, .cluster span, .cluster .label { color: var(--sl-color-text) !important; font-family: var(--sl-font, "Noto Sans"), sans-serif; }
+		.node polygon ~ .label .nodeLabel, .node polygon ~ .label span { color: var(--sl-color-white) !important; }
+		.edgeLabel, .edgeLabel p, .edgeLabel span, .labelBkg { background-color: var(--sl-color-bg) !important; }
+		.edgePath .path, .flowchart-link { stroke: var(--sl-color-gray-3); stroke-width: 1.5px; }
+		.arrowheadPath, marker path { fill: var(--sl-color-gray-3); stroke: var(--sl-color-gray-3); }
+		.cluster rect { fill: var(--sl-color-bg-nav); stroke: var(--sl-color-hairline); }
+	`;
+	const CONFIG: MermaidConfig = {
+		startOnLoad: false,
+		fontFamily: '"Noto Sans", sans-serif',
+		flowchart: { curve: "basis", useMaxWidth: true, padding: 8, nodeSpacing: 28, rankSpacing: 44 },
+		themeCSS: THEME_CSS,
+	};
+
+	const sources = new WeakMap<HTMLElement, string>();
+	let mermaidModule: Promise<typeof import("mermaid").default> | undefined;
+	let renderedTheme: string | undefined;
+	let counter = 0;
+	let queue = Promise.resolve();
+
+	const theme = () => (document.documentElement.dataset.theme === "dark" ? "dark" : "default");
+
+	// Diagrams inside a link preview (Popover.astro) are hidden there and left alone.
+	function diagrams(): HTMLElement[] {
+		return [...document.querySelectorAll<HTMLElement>("pre.mermaid")].filter((pre) => !pre.closest(".popover"));
+	}
+
+	async function renderAll() {
+		const current = theme();
+		if (current === renderedTheme) return;
+		const pres = diagrams();
+		if (pres.length === 0) return;
+		renderedTheme = current;
+		mermaidModule ??= import("mermaid").then((module) => module.default);
+		const mermaid = await mermaidModule;
+		mermaid.initialize({ ...CONFIG, theme: current });
+		for (const pre of pres) {
+			let source = sources.get(pre);
+			if (source === undefined) {
+				source = pre.textContent ?? "";
+				sources.set(pre, source);
+			}
+			try {
+				const { svg } = await mermaid.render(`mermaid-${++counter}`, source);
+				pre.innerHTML = svg;
+				pre.dataset.processed = "true";
+				decorate(pre);
+				refresh(pre);
+			} catch (error) {
+				pre.replaceChildren(errorBox(error));
+				pre.dataset.processed = "error";
+			}
+		}
+	}
+
+	// Renders run one after another: a theme change during a render waits for it to finish, then
+	// renders everything again with the new theme.
+	function schedule() {
+		queue = queue.then(renderAll).catch((error) => console.error("Mermaid:", error));
+	}
+
+	function errorBox(error: unknown): HTMLElement {
+		const box = document.createElement("div");
+		box.className = "mermaid-error";
+		const title = document.createElement("strong");
+		title.textContent = "The diagram could not be rendered.";
+		const message = document.createElement("span");
+		message.textContent = error instanceof Error ? error.message : String(error);
+		box.append(title, message);
+		return box;
+	}
+
+	schedule();
+	new MutationObserver(schedule).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+
+	// --- The button on each diagram ---------------------------------------------------------------
+
 	const WRAP = "mermaid-zoom";
 	const BUTTON = "mermaid-zoom-button";
 	const STEP = 1.25;
@@ -45,36 +139,22 @@
 	let scale = 1;
 	let fitted = true; // the diagram follows the window size until the reader zooms
 
-	// --- The button on each diagram ---------------------------------------------------------------
-
-	function decorate() {
-		for (const pre of document.querySelectorAll<HTMLElement>("pre.mermaid[data-processed]")) {
-			// Not a diagram (astro-mermaid's error box), a link preview, or already done.
-			if (!pre.querySelector("svg") || pre.closest(".popover") || pre.parentElement?.classList.contains(WRAP)) continue;
-			const wrap = document.createElement("div");
-			wrap.className = WRAP;
-			pre.replaceWith(wrap);
-			wrap.append(pre);
-			const button = document.createElement("button");
-			button.type = "button";
-			button.className = BUTTON;
-			button.title = "Open the diagram full screen";
-			button.setAttribute("aria-label", "Open the diagram full screen");
-			button.innerHTML = icons.open;
-			button.addEventListener("click", () => open(pre));
-			wrap.append(button);
-		}
+	// Wraps a rendered diagram and puts the button on it, once.
+	function decorate(pre: HTMLElement) {
+		if (pre.parentElement?.classList.contains(WRAP)) return;
+		const wrap = document.createElement("div");
+		wrap.className = WRAP;
+		pre.replaceWith(wrap);
+		wrap.append(pre);
+		const button = document.createElement("button");
+		button.type = "button";
+		button.className = BUTTON;
+		button.title = "Open the diagram full screen";
+		button.setAttribute("aria-label", "Open the diagram full screen");
+		button.innerHTML = icons.open;
+		button.addEventListener("click", () => open(pre));
+		wrap.append(button);
 	}
-
-	// astro-mermaid sets data-processed each time it renders a diagram (on load, after a theme change,
-	// after a view transition).
-	new MutationObserver(decorate).observe(document.body, {
-		subtree: true,
-		childList: true,
-		attributes: true,
-		attributeFilter: ["data-processed"],
-	});
-	decorate();
 
 	// --- The dialog -------------------------------------------------------------------------------
 
@@ -124,11 +204,10 @@
 		return dialog;
 	}
 
-	function open(pre: HTMLElement) {
+	// Moves the diagram's SVG onto the stage and remembers where it came from.
+	function take(pre: HTMLElement): boolean {
 		const source = pre.querySelector("svg");
-		if (!source) return;
-		const target = ensureDialog();
-		if (svg) restore();
+		if (!source) return false;
 		// The natural size of the drawing: Mermaid's viewBox is in CSS pixels.
 		const viewBox = source.viewBox.baseVal;
 		const rect = source.getBoundingClientRect();
@@ -142,9 +221,31 @@
 		};
 		svg = source;
 		stage.replaceChildren(source);
+		return true;
+	}
+
+	function open(pre: HTMLElement) {
+		const target = ensureDialog();
+		if (svg) restore();
+		if (!take(pre)) return;
 		document.documentElement.classList.add("mermaid-zoom-open");
 		target.showModal();
 		fit();
+	}
+
+	// The diagram on the stage was rendered again (a theme change): show the new drawing at the same zoom.
+	function refresh(pre: HTMLElement) {
+		if (!svg || !home || home.parent !== pre) return;
+		const view = { scale, fitted, left: viewport.scrollLeft, top: viewport.scrollTop };
+		svg = null; // the old drawing is not put back; the new one has its place
+		home = null;
+		if (!take(pre)) return;
+		if (view.fitted) {
+			fit();
+		} else {
+			setScale(view.scale);
+			viewport.scrollTo(view.left, view.top);
+		}
 	}
 
 	function restore() {
@@ -158,8 +259,7 @@
 			if (value === null) element.removeAttribute(name);
 			else element.setAttribute(name, value);
 		}
-		// Put it back, unless the diagram was rendered afresh meanwhile (a theme change) and no longer
-		// needs it.
+		// Put it back, unless its place has a drawing already.
 		const parent = place.parent;
 		if (!parent.isConnected || parent.querySelector(":scope > svg")) return;
 		parent.insertBefore(element, place.next && place.next.parentNode === parent ? place.next : null);
@@ -282,7 +382,44 @@
 </script>
 
 <style is:global>
-	/* The wrapper takes the <pre>'s margins, so the spacing is what astro-mermaid and Starlight gave it. */
+	/* The diagram's box: the source while it loads, the drawing once rendered. The second selector
+	   outweighs Starlight's own rules for <pre> in the page content. */
+	pre.mermaid,
+	.sl-markdown-content pre.mermaid {
+		position: relative;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		margin: 2rem 0;
+		padding: 1rem;
+		border: 0;
+		border-radius: 0.5rem;
+		background: color-mix(in srgb, var(--sl-color-text) 3%, transparent);
+		overflow: auto;
+	}
+	pre.mermaid:not([data-processed]),
+	.sl-markdown-content pre.mermaid:not([data-processed]) {
+		min-height: 200px;
+		color: var(--sl-color-gray-3);
+	}
+	pre.mermaid svg {
+		max-width: 100%;
+		height: auto;
+	}
+	.mermaid-error {
+		padding: 0.75rem 1rem;
+		border: 1px solid var(--sl-color-red);
+		border-radius: 0.5rem;
+		color: var(--sl-color-red-high);
+		font-family: var(--sl-font);
+		font-size: var(--sl-text-sm);
+		white-space: pre-wrap;
+	}
+	.mermaid-error strong {
+		display: block;
+	}
+
+	/* The wrapper takes the <pre>'s margins. */
 	.mermaid-zoom {
 		position: relative;
 		margin: 2rem 0;

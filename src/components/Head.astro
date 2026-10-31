@@ -1,10 +1,10 @@
 ---
 // Starlight's head (which includes the SEO tags from src/route-data.ts), plus the fonts, reader mode,
-// link popovers and the zoom button on Mermaid diagrams.
+// link popovers and the Mermaid diagrams.
 import DefaultHead from "@astrojs/starlight/components/Head.astro";
 import { Font } from "astro:assets";
 import Popover from "./Popover.astro";
-import MermaidZoom from "./MermaidZoom.astro";
+import Mermaid from "./Mermaid.astro";
 ---
 
 <DefaultHead />
@@ -20,4 +20,4 @@ import MermaidZoom from "./MermaidZoom.astro";
 <Font cssVariable="--sl-font" preload />
 <Font cssVariable="--sl-font-mono" />
 <Popover />
-<MermaidZoom />
+<Mermaid />

@@ -10,9 +10,7 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Cognitive_behavioral_ther
 
 The Buddha's phenomenological framework, definition of `dukkha` ("suffering"), and the subsequent path to liberation are consistent with the principles of CBT. According to dependent origination, our negative experience of `dukkha` is a form of [cognitive distortion](https://en.wikipedia.org/wiki/Cognitive_distortion) - our craving for pleasure and permanence, as well as our fear and loathing of physical pain, sickness, ageing and death are mental constructs, and moreover we are ignorant of the ephemeral and constructed nature of our consciousness. In "reality", living beings arising and dying are the result of natural processes, and the notion of "self" is a generated mental construct that is impermanent, perennially changing and unstable. Once that is understood, there is no necessity to crave for what we cannot have, or fear what is inevitable. By controlling and curating our mental constructions, we can achieve an optimal living experience devoid of `dukkha`.
 
-The main assumptions of cognitive therapy used in CBT [^Chaloult2008] align well with dependent origination, the four realisations and the structure of the `saṅgha`:
-
-[^Chaloult2008]: Chaloult L. (2008). La thérapie cognitivo-comportementale: théorie et pratique (pp. 68–80). Gaëtan Morin.
+The main assumptions of cognitive therapy used in CBT [@Chaloult2008] align well with dependent origination, the four realisations and the structure of the `saṅgha`:
 
 | Cognitive Behavioural Therapy assumptions | The Buddha's Teachings |
 | --- | --- |
@@ -31,9 +29,7 @@ The main assumptions of cognitive therapy used in CBT [^Chaloult2008] align well
 | Cognitive therapy is generally short. | although renunciation and ordination are seen as lifelong commitments, the Khandhaka generally describes liberation as something that is achievable in a relatively short period of time, certainly within a lifetime |
 | Cognitive therapy is based on predictable steps. | fourth realisation (eightfold path) |
 
-Typical phases of CBT [^Gatchel2008] also align well with the eightfold path:
-
-[^Gatchel2008]: Gatchel RJ, R. K. (2008). Evidence-informed management of chronic low back pain with cognitive behavioral therapy. The Spine Journal, 8(1), 40–44. https://doi.org/10.1016/j.spinee.2007.10.007
+Typical phases of CBT [@Gatchel2008] also align well with the eightfold path:
 
 | Phases of Cognitive Behavioural Therapy | Eightfold path |
 | --- | --- |
@@ -45,3 +41,5 @@ Typical phases of CBT [^Gatchel2008] also align well with the eightfold path:
 | Post-treatment assessment follow-up | Right Focus (sammāsamādhi) |
 
 Although the above alignment could seem artificial or even contrived, the two approaches are clearly different articulations of the same fundamental principles. The Buddha's teachings are more comprehensive and holistic, and the eightfold path is a more structured approach to achieving liberation. CBT is a more pragmatic approach to achieving mental well-being, and is more focused on specific techniques and strategies.
+
+## References

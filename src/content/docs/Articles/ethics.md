@@ -22,9 +22,7 @@ Obviously, these sub-optimal mental constructions would differ from individual t
 
 Some of the suttas augment the Buddha's early teachings by referring to a concept called `āsava`. This concept is often linked to negative or non-ethical behaviours, and the "destruction" of the `āsavā` is sometimes cited as a requirement before liberation. I suspect these suttas are later additions trying to link the Buddha's teachings to virtuous or moral conduct.
 
-`āsava` is quite difficult to translate. Norman in **A Philological Approach To Buddhism**[^Norman1997] notes:
-
-[^Norman1997]: Norman, K. R. (1997). A Philological Approach To Buddhism: The Bukkyō Dendō Kyōkai Lectures 1994: Vol. V.
+`āsava` is quite difficult to translate. @Norman1997 in **A Philological Approach To Buddhism** notes:
 
 > One such word is *āsava*, for the Buddhist usage does not fit the etymology of the word, while the Jain usage does. The etymology of this word (the preposition *ā* "towards" + the root *sru-* "to flow") implies something flowing in, and this suits the Jain usage well, since there the *āsava*s are influences which flow into a person, and discolour his soul. We find illustrations of this in Jain manuscripts, with people ranging from white, through yellow, red, blue and green to black, depending on the amount of *āsava*s which has flowed into them. This does not suit the Buddhist idea, where the *āsava*s are not attributes which are capable of flowing into a person. They are, in fact, identical with the four *ogha*s "floods", and it seems clear that in Buddhism the word has lost its original meaning. So, although the translation "influence" or "influx" suits the Jain usage well, on etymological and exegetical grounds, it is not entirely satisfactory for Buddhism. This accounts for the number of translations which have been suggested for the word, including "passions", "intoxicants", "cravings" and "cankers". The latter to me is a disease of dogs' ears and of roses, and I am always surprised when I find the arahat, the one whose *āsava*s have been destroyed (*khināsava*), being described as "canker-waned".
 
@@ -44,8 +42,10 @@ Strictly speaking, `brahmacariya` is a Vedic reference to leading a virtuous lif
 
 `brahmacariya` in the context of the Buddha's teaching refers to the disciplined way of living, or optimal conduct or state of existence, in order to eliminate `āsava`, or non-optimal mental flows that lead to non-optimal mental constructions and eventually `dukkha`. This is a lifetime commitment and "practice". Later on in [6. Pañcavaggiyakathā (The Account of the Group of Five)](https://tidipa.github.io/Khandhaka/1.6) the Buddha prescribes the Eightfold Path, a guide to this practice and establishes the `saṅgha`, a community of like-minded "practitioners" who will support each other in living the optimal life.
 
-Norman[^Norman1997] writes:
+@Norman1997 writes:
 
 > In its basic brahmanical sense *brahma-carya* means "the practice of a brāhmana", i.e. the living of a celibate life, learning the Vedas. The Buddha used the phrase in the more general sense of "to live the best life, i.e. a holy, celibate (or in the case of married couples, a chaste and moral) life". In the Upaniṣads *brahma-patha* means "the way to brahman or Brahmā". The Buddha used it in the sense of the way to the best, i.e. *nibbāna*, and it is explained as being the same as *brahmavihāra*.
 >
 > It is possible that *brahma-vihāra* was in origin a brahmanical term. It would literally mean "dwelling in brahman or with Brahmā", although it is not attested in that usage in Sanskrit. It perhaps shows a trace of its original meaning in a sutta in which the Buddha speaks to young brahmans who were disputing the correct way to obtain *brahma-sahavyatā*. In the context this would seem to mean "union with brahman", but the Buddha, perhaps jokingly, interprets it as meaning a state of union with the god Brahmā. He explains that someone who practises the four types of concentration called *brahma-vihāra* is reborn as a Brahmā in the Brahma-world. It is to be noted that this means only being born in the same heaven as Mahā Brahmā, not union with the Upaniṣadic brahman.
+
+## References
