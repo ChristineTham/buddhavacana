@@ -1,0 +1,422 @@
+---
+// Zoom for Mermaid diagrams. Each rendered diagram gets a button that opens it full screen in a
+// <dialog>, where it can be scrolled, dragged, and zoomed with the toolbar, the keyboard (+ − 0 1,
+// arrows), Ctrl/⌘ + wheel or a trackpad pinch, a double-click, or a two-finger pinch on touch screens.
+//
+// astro-mermaid renders the diagrams client-side into `pre.mermaid` and renders them again when the
+// theme changes, so the buttons are added by a MutationObserver, around the <pre> rather than inside
+// it. The SVG itself is moved into the dialog, not copied: its <style> and marker ids stay unique,
+// and it is put back where it came from when the dialog closes.
+---
+
+<script>
+	const WRAP = "mermaid-zoom";
+	const BUTTON = "mermaid-zoom-button";
+	const STEP = 1.25;
+	const MIN = 0.05;
+	const MAX = 16;
+	const PADDING = 16; // the viewport's padding on each side, as in the styles below
+
+	type Home = {
+		parent: ParentNode;
+		next: Node | null;
+		style: string | null;
+		width: string | null;
+		height: string | null;
+	};
+
+	const icon = (paths: string) =>
+		`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${paths}</svg>`;
+	const icons = {
+		open: icon('<path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/>'),
+		close: icon('<path d="M18 6 6 18M6 6l12 12"/>'),
+		plus: icon('<path d="M12 5v14M5 12h14"/>'),
+		minus: icon('<path d="M5 12h14"/>'),
+		fit: icon('<path d="M8 3H5a2 2 0 0 0-2 2v3M16 3h3a2 2 0 0 1 2 2v3M3 16v3a2 2 0 0 0 2 2h3M21 16v3a2 2 0 0 1-2 2h-3"/>'),
+	};
+
+	let dialog: HTMLDialogElement | undefined;
+	let viewport: HTMLDivElement;
+	let stage: HTMLDivElement;
+	let readout: HTMLSpanElement;
+	let svg: SVGSVGElement | null = null;
+	let home: Home | null = null;
+	let base = { width: 0, height: 0 };
+	let scale = 1;
+	let fitted = true; // the diagram follows the window size until the reader zooms
+
+	// --- The button on each diagram ---------------------------------------------------------------
+
+	function decorate() {
+		for (const pre of document.querySelectorAll<HTMLElement>("pre.mermaid[data-processed]")) {
+			// Not a diagram (astro-mermaid's error box), a link preview, or already done.
+			if (!pre.querySelector("svg") || pre.closest(".popover") || pre.parentElement?.classList.contains(WRAP)) continue;
+			const wrap = document.createElement("div");
+			wrap.className = WRAP;
+			pre.replaceWith(wrap);
+			wrap.append(pre);
+			const button = document.createElement("button");
+			button.type = "button";
+			button.className = BUTTON;
+			button.title = "Open the diagram full screen";
+			button.setAttribute("aria-label", "Open the diagram full screen");
+			button.innerHTML = icons.open;
+			button.addEventListener("click", () => open(pre));
+			wrap.append(button);
+		}
+	}
+
+	// astro-mermaid sets data-processed each time it renders a diagram (on load, after a theme change,
+	// after a view transition).
+	new MutationObserver(decorate).observe(document.body, {
+		subtree: true,
+		childList: true,
+		attributes: true,
+		attributeFilter: ["data-processed"],
+	});
+	decorate();
+
+	// --- The dialog -------------------------------------------------------------------------------
+
+	function ensureDialog(): HTMLDialogElement {
+		if (dialog) return dialog;
+		dialog = document.createElement("dialog");
+		dialog.className = "mermaid-zoom-dialog";
+		dialog.setAttribute("aria-label", "Diagram, full screen");
+		dialog.innerHTML = `
+			<div class="mermaid-zoom-toolbar" role="toolbar" aria-label="Zoom">
+				<button type="button" data-zoom="out" title="Zoom out (−)" aria-label="Zoom out">${icons.minus}</button>
+				<span class="mermaid-zoom-readout" aria-live="polite"></span>
+				<button type="button" data-zoom="in" title="Zoom in (+)" aria-label="Zoom in">${icons.plus}</button>
+				<button type="button" data-zoom="fit" title="Fit to the screen (0)" aria-label="Fit to the screen">${icons.fit}</button>
+				<button type="button" data-zoom="actual" title="Actual size (1)" aria-label="Actual size">1:1</button>
+				<button type="button" data-zoom="close" title="Close (Esc)" aria-label="Close" autofocus>${icons.close}</button>
+			</div>
+			<div class="mermaid-zoom-viewport" tabindex="0"><div class="mermaid-zoom-stage"></div></div>`;
+		viewport = dialog.querySelector<HTMLDivElement>(".mermaid-zoom-viewport")!;
+		stage = dialog.querySelector<HTMLDivElement>(".mermaid-zoom-stage")!;
+		readout = dialog.querySelector<HTMLSpanElement>(".mermaid-zoom-readout")!;
+
+		dialog.addEventListener("click", (event) => {
+			const button = (event.target as Element).closest<HTMLButtonElement>("[data-zoom]");
+			if (!button) return;
+			const [x, y] = centre();
+			switch (button.dataset.zoom) {
+				case "in": zoomAt(scale * STEP, x, y); break;
+				case "out": zoomAt(scale / STEP, x, y); break;
+				case "fit": fit(); break;
+				case "actual": zoomAt(1, x, y); break;
+				case "close": dialog!.close(); break;
+			}
+		});
+		dialog.addEventListener("keydown", onKeyDown);
+		dialog.addEventListener("close", restore);
+		viewport.addEventListener("wheel", onWheel, { passive: false });
+		viewport.addEventListener("dblclick", (event) => zoomAt(event.shiftKey ? scale / 2 : scale * 2, event.clientX, event.clientY));
+		viewport.addEventListener("pointerdown", onPointerDown);
+		viewport.addEventListener("pointermove", onPointerMove);
+		viewport.addEventListener("pointerup", onPointerEnd);
+		viewport.addEventListener("pointercancel", onPointerEnd);
+		window.addEventListener("resize", () => {
+			if (dialog?.open && fitted) fit();
+		});
+		document.body.append(dialog);
+		return dialog;
+	}
+
+	function open(pre: HTMLElement) {
+		const source = pre.querySelector("svg");
+		if (!source) return;
+		const target = ensureDialog();
+		if (svg) restore();
+		// The natural size of the drawing: Mermaid's viewBox is in CSS pixels.
+		const viewBox = source.viewBox.baseVal;
+		const rect = source.getBoundingClientRect();
+		base = { width: viewBox.width || rect.width || 300, height: viewBox.height || rect.height || 150 };
+		home = {
+			parent: source.parentNode!,
+			next: source.nextSibling,
+			style: source.getAttribute("style"),
+			width: source.getAttribute("width"),
+			height: source.getAttribute("height"),
+		};
+		svg = source;
+		stage.replaceChildren(source);
+		document.documentElement.classList.add("mermaid-zoom-open");
+		target.showModal();
+		fit();
+	}
+
+	function restore() {
+		document.documentElement.classList.remove("mermaid-zoom-open");
+		if (!svg || !home) return;
+		const element = svg;
+		const place = home;
+		svg = null;
+		home = null;
+		for (const [name, value] of [["style", place.style], ["width", place.width], ["height", place.height]] as const) {
+			if (value === null) element.removeAttribute(name);
+			else element.setAttribute(name, value);
+		}
+		// Put it back, unless the diagram was rendered afresh meanwhile (a theme change) and no longer
+		// needs it.
+		const parent = place.parent;
+		if (!parent.isConnected || parent.querySelector(":scope > svg")) return;
+		parent.insertBefore(element, place.next && place.next.parentNode === parent ? place.next : null);
+	}
+
+	// --- Zooming ----------------------------------------------------------------------------------
+
+	function setScale(next: number) {
+		scale = Math.min(MAX, Math.max(MIN, next));
+		if (svg) svg.setAttribute("style", `width:${base.width * scale}px;height:${base.height * scale}px;max-width:none;display:block`);
+		readout.textContent = `${Math.round(scale * 100)}%`;
+	}
+
+	function fit() {
+		fitted = true;
+		const width = viewport.clientWidth - 2 * PADDING;
+		const height = viewport.clientHeight - 2 * PADDING;
+		setScale(Math.min(width / base.width, height / base.height));
+		viewport.scrollTo(0, 0);
+	}
+
+	// Zoom so that the point of the diagram under (x, y) stays under (x, y).
+	function zoomAt(next: number, x: number, y: number) {
+		fitted = false;
+		const before = stage.getBoundingClientRect();
+		const px = (x - before.left) / scale;
+		const py = (y - before.top) / scale;
+		const previous = scale;
+		setScale(next);
+		if (scale === previous) return;
+		const after = stage.getBoundingClientRect();
+		viewport.scrollLeft += after.left + px * scale - x;
+		viewport.scrollTop += after.top + py * scale - y;
+	}
+
+	function centre(): [number, number] {
+		const rect = viewport.getBoundingClientRect();
+		return [rect.left + rect.width / 2, rect.top + rect.height / 2];
+	}
+
+	function onKeyDown(event: KeyboardEvent) {
+		if (event.altKey || event.ctrlKey || event.metaKey) return;
+		const [x, y] = centre();
+		const scroll = 48;
+		switch (event.key) {
+			case "+": case "=": zoomAt(scale * STEP, x, y); break;
+			case "-": case "_": zoomAt(scale / STEP, x, y); break;
+			case "0": fit(); break;
+			case "1": zoomAt(1, x, y); break;
+			case "ArrowLeft": viewport.scrollLeft -= scroll; break;
+			case "ArrowRight": viewport.scrollLeft += scroll; break;
+			case "ArrowUp": viewport.scrollTop -= scroll; break;
+			case "ArrowDown": viewport.scrollTop += scroll; break;
+			default: return;
+		}
+		event.preventDefault();
+	}
+
+	// A plain wheel scrolls; with Ctrl or ⌘ (which is also how a trackpad pinch arrives) it zooms.
+	function onWheel(event: WheelEvent) {
+		if (!(event.ctrlKey || event.metaKey)) return;
+		event.preventDefault();
+		const delta = event.deltaMode === 1 ? event.deltaY * 16 : event.deltaY;
+		zoomAt(scale * Math.exp(-delta * 0.0025), event.clientX, event.clientY);
+	}
+
+	// --- Dragging and pinching --------------------------------------------------------------------
+
+	const pointers = new Map<number, { x: number; y: number }>();
+	let pan: { x: number; y: number; left: number; top: number } | null = null;
+	let pinch: { distance: number; x: number; y: number } | null = null;
+
+	function gesture() {
+		const [a, b] = [...pointers.values()];
+		return { distance: Math.hypot(a.x - b.x, a.y - b.y) || 1, x: (a.x + b.x) / 2, y: (a.y + b.y) / 2 };
+	}
+
+	function startPan(x: number, y: number) {
+		pan = { x, y, left: viewport.scrollLeft, top: viewport.scrollTop };
+		viewport.classList.add("is-panning");
+	}
+
+	function onPointerDown(event: PointerEvent) {
+		if (event.button !== 0) return;
+		pointers.set(event.pointerId, { x: event.clientX, y: event.clientY });
+		viewport.setPointerCapture(event.pointerId);
+		if (pointers.size === 1) startPan(event.clientX, event.clientY);
+		else if (pointers.size === 2) {
+			pan = null;
+			pinch = gesture();
+		}
+	}
+
+	function onPointerMove(event: PointerEvent) {
+		if (!pointers.has(event.pointerId)) return;
+		pointers.set(event.pointerId, { x: event.clientX, y: event.clientY });
+		if (pointers.size === 2 && pinch) {
+			const now = gesture();
+			zoomAt((scale * now.distance) / pinch.distance, now.x, now.y);
+			viewport.scrollLeft -= now.x - pinch.x;
+			viewport.scrollTop -= now.y - pinch.y;
+			pinch = now;
+		} else if (pan) {
+			viewport.scrollLeft = pan.left - (event.clientX - pan.x);
+			viewport.scrollTop = pan.top - (event.clientY - pan.y);
+		}
+	}
+
+	function onPointerEnd(event: PointerEvent) {
+		pointers.delete(event.pointerId);
+		if (pointers.size < 2) pinch = null;
+		if (pointers.size === 1) {
+			const [remaining] = pointers.values();
+			startPan(remaining.x, remaining.y);
+		} else if (pointers.size === 0) {
+			pan = null;
+			viewport.classList.remove("is-panning");
+		}
+	}
+</script>
+
+<style is:global>
+	/* The wrapper takes the <pre>'s margins, so the spacing is what astro-mermaid and Starlight gave it. */
+	.mermaid-zoom {
+		position: relative;
+		margin: 2rem 0;
+	}
+	.mermaid-zoom > pre.mermaid {
+		margin: 0;
+	}
+	.mermaid-zoom-button {
+		position: absolute;
+		top: 0.5rem;
+		right: 0.5rem;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 2rem;
+		height: 2rem;
+		padding: 0.3rem;
+		border: 1px solid var(--sl-color-hairline);
+		border-radius: 0.25rem;
+		background: var(--sl-color-bg);
+		color: var(--sl-color-gray-2);
+		cursor: pointer;
+		opacity: 0.7;
+	}
+	.mermaid-zoom:hover .mermaid-zoom-button,
+	.mermaid-zoom-button:focus-visible {
+		opacity: 1;
+	}
+	.mermaid-zoom-button:hover {
+		color: var(--sl-color-white);
+		background: var(--sl-color-gray-6);
+	}
+	.mermaid-zoom-button svg,
+	.mermaid-zoom-toolbar svg {
+		width: 1.25rem;
+		height: 1.25rem;
+	}
+
+	.mermaid-zoom-dialog {
+		position: fixed;
+		inset: 0;
+		width: 100vw;
+		height: 100vh;
+		height: 100dvh;
+		max-width: none;
+		max-height: none;
+		margin: 0;
+		padding: 0;
+		border: 0;
+		background: var(--sl-color-bg);
+		color: var(--sl-color-text);
+		overflow: hidden;
+	}
+	.mermaid-zoom-dialog::backdrop {
+		background: rgb(0 0 0 / 0.5);
+	}
+	.mermaid-zoom-viewport {
+		position: absolute;
+		inset: 0;
+		display: flex;
+		padding: 1rem;
+		overflow: auto;
+		overscroll-behavior: contain;
+		touch-action: none;
+		cursor: grab;
+	}
+	.mermaid-zoom-viewport.is-panning {
+		cursor: grabbing;
+	}
+	.mermaid-zoom-viewport:focus-visible {
+		outline: 2px solid var(--sl-color-accent);
+		outline-offset: -2px;
+	}
+	/* Auto margins centre a small diagram and let a large one scroll from its top left corner. */
+	.mermaid-zoom-stage {
+		margin: auto;
+		-webkit-user-select: none;
+		user-select: none;
+	}
+	.mermaid-zoom-stage svg {
+		display: block;
+	}
+	.mermaid-zoom-toolbar {
+		position: absolute;
+		top: 0.75rem;
+		right: 0.75rem;
+		z-index: 1;
+		display: flex;
+		align-items: center;
+		gap: 0.125rem;
+		padding: 0.25rem;
+		border: 1px solid var(--sl-color-hairline);
+		border-radius: 0.5rem;
+		background: var(--sl-color-bg-nav);
+		box-shadow: var(--sl-shadow-md);
+	}
+	.mermaid-zoom-toolbar button {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		min-width: 2.25rem;
+		height: 2.25rem;
+		padding: 0.3rem;
+		border: 0;
+		border-radius: 0.25rem;
+		background: none;
+		color: var(--sl-color-gray-2);
+		font: inherit;
+		font-size: var(--sl-text-sm);
+		cursor: pointer;
+	}
+	.mermaid-zoom-toolbar button:hover {
+		color: var(--sl-color-white);
+		background: var(--sl-color-gray-6);
+	}
+	.mermaid-zoom-readout {
+		min-width: 3.25rem;
+		text-align: center;
+		font-size: var(--sl-text-sm);
+		font-variant-numeric: tabular-nums;
+		color: var(--sl-color-gray-2);
+	}
+	/* The page behind the dialog must not scroll under it. */
+	:root.mermaid-zoom-open {
+		overflow: hidden;
+	}
+	@media (hover: none) {
+		.mermaid-zoom-button {
+			opacity: 1;
+		}
+	}
+	@media print {
+		.mermaid-zoom-button {
+			display: none;
+		}
+	}
+</style>
