@@ -91,13 +91,13 @@ by boat / crosses → one who crosses by boat, a sailor
 
 🚹⨀③(kāya) 🚻⨀①🔽(ta)(kata) 🚻⨀①(kamma) → 🚻⨀①🔽(ṇika)(kāyika)  
 by the body / done / act → a bodily act  
-*`ṇika` {351}, "made by": `-ika` on `kāya`; `kāyikaṁ vā cetasikaṁ vā`, "relating to the body or to the mind", [Bonus: 10, 23.2](../11-pbt/#s10-u1616-1).*
+*`ṇika` {351}, "made by": `-ika` on `kāya`; `kāyikaṁ vā cetasikaṁ vā`, "relating to the body or to the mind", [Bonus: 10, 1616](../11-pbt/#s10-u1616-1).*
 
 > pacchā jāto → **pacchimo**
 
 ⏏️(pacchā) 🚹⨀①🔽(ta)(jāta) → 🚹⨀①🔽(ima)(pacchima)  
 after / born → born after, last  
-*`ima` {353}, "born": `-ima` added to `pacchā`, nothing lengthened; `pacchimaṁ yāmaṁ`, "the last watch", [3: 10.1](../3-awakening/#u10-1).*
+*`ima` {353}, "born": `-ima` added to `pacchā`, nothing lengthened; `pacchimaṁ yāmaṁ`, "the last watch", [3: 10](../3-awakening/#u10-1).*
 
 ### Exercises
 
@@ -126,28 +126,28 @@ deconstruction.
 
 🚹⨀③(cetas) 🚻⨀①🔽(ta)(kata) 🚻⨀①(kamma) → 🚻⨀①🔽(ṇika)(cetasika)  
 by the mind / done / act → a mental act  
-*`ṇika` {351}, "made by", as `kāyikaṁ`: `-ika` on `cetas` ("mind"), whose `e` is long already; `kāyikaṁ vā cetasikaṁ vā`, [Bonus: 10, 23.2](../11-pbt/#s10-u1616-1).*
+*`ṇika` {351}, "made by", as `kāyikaṁ`: `-ika` on `cetas` ("mind"), whose `e` is long already; `kāyikaṁ vā cetasikaṁ vā`, [Bonus: 10, 1616](../11-pbt/#s10-u1616-1).*
 
 2. > niraye jātā → **nerayikā**
 
 🚹⨀⑦(niraya) 🚹⨂①🔽(ta)(jāta) → 🚹⨂①🔽(ṇika)(nerayika)  
 in hell / born → born in hell, living in hell  
-*`ṇika` {350}, "born in", as `rājagahiko`: the first `i` becomes `e`, `-ika` added; `sattā nerayikā`, [Bonus: 23, 1.6](../11-pbt/#s23-u115-6).*
+*`ṇika` {350}, "born in", as `rājagahiko`: the first `i` becomes `e`, `-ika` added; `sattā nerayikā`, [Bonus: 23, 115](../11-pbt/#s23-u115-6).*
 
 3. > **cātumahārājikā** devā
 
 🚹⨂①(cātumahārājika) 🚹⨂①(deva)  
 the Cātumahārājikā / devas  
-*`ṇika` {350}, "lives in", as `rājagahiko`: `-ika` on `catumahārāja`, the first `a` lengthened; the devas of the four great kings' realm; [5: 12.2](../5-dhammacakka/#u12-2).*
+*`ṇika` {350}, "lives in", as `rājagahiko`: `-ika` on `catumahārāja`, the first `a` lengthened; the devas of the four great kings' realm; [5: 2217](../5-dhammacakka/#u12-2).*
 
 4. > hīno gammo **pothujjaniko**
 
 🚹⨀①(hīna) 🚹⨀①(gamma) 🚹⨀①(pothujjanika)  
 low / vulgar / worldly  
-*`ṇika` {351}, "belonging to", one of the further senses the rule's "and the like" admits: `-ika` on `puthujjana` ("an ordinary person"), the first `u` becoming `o`; worldly; [5: 2.3](../5-dhammacakka/#u2-3).*
+*`ṇika` {351}, "belonging to", one of the further senses the rule's "and the like" admits: `-ika` on `puthujjana` ("an ordinary person"), the first `u` becoming `o`; worldly; [5: 2207](../5-dhammacakka/#u2-3).*
 
 5. > majjhe jātaṁ → **majjhimaṁ**
 
 🚹⨀⑦(majjha) 🚹⨀②🔽(ta)(jāta) → 🚹⨀②🔽(ima)(majjhima)  
 in the middle / born → middle  
-*`ima` {353}, "born in": `-ima` added to `majjha`, nothing lengthened; `majjhimaṁ yāmaṁ`, "the middle watch", [3: 7.1](../3-awakening/#u7-1).*
+*`ima` {353}, "born in": `-ima` added to `majjha`, nothing lengthened; `majjhimaṁ yāmaṁ`, "the middle watch", [3: 7](../3-awakening/#u7-1).*

@@ -95,19 +95,19 @@ The `s` of `manasā` is inserted before a vowel ending {184}.
 
 🚹⨂①(bhikkhu) 🚹⨀⑥(bhagavant) 🚻⨀②🔽(ta)(bhāsita) 🟢⨂🤟⏮(abhinandati) ⏏️(iti)  
 bhikkhū / of the Bhagavā / what was spoken / rejoiced in / (end quote)  
-*"Rejoiced in the Bhagavā’s words": `bhagavato`, `-ato`, ④⑥ singular of a word in `ntu` {127}, here ⑥; [5: 10.4](../5-dhammacakka/#u10-4).*
+*"Rejoiced in the Bhagavā’s words": `bhagavato`, `-ato`, ④⑥ singular of a word in `ntu` {127}, here ⑥; [5: 2215](../5-dhammacakka/#u10-4).*
 
 > **satthā** no garu
 
 🚹⨀①(satthar) *️⃣👆⚧⨂⑥(ahaṁ) 🚹⨀①(garu)  
 teacher / of us / respected  
-*"Our teacher is respected": `satthā`, ① singular of `satthu` {199}, the `u` become `ā`; [Bonus: 1, 24.5](../11-pbt/#s1-u1362-2).*
+*"Our teacher is respected": `satthā`, ① singular of `satthu` {199}, the `u` become `ā`; [Bonus: 1, 1362](../11-pbt/#s1-u1362-2).*
 
 > mettāsahagatena **cetasā**
 
 🚹⨀③🆎(mettā+sahagata) 🚹⨀③(cetas)  
 filled with goodwill/friendliness / with intent  
-*"With intent": `cetasā`, ③ singular of the `mano` group, `ā` for `nā` with `s` inserted {181}, {184}; [Bonus: 37, 1.11.52](../11-pbt/#s37-u890-2).*
+*"With intent": `cetasā`, ③ singular of the `mano` group, `ā` for `nā` with `s` inserted {181}, {184}; [Bonus: 37, 890](../11-pbt/#s37-u890-2).*
 
 ### Exercises
 
@@ -138,46 +138,46 @@ deconstruction.
 
 🚻⨀⑦🔽(ta)(pavattita) ⏏️(ca) ⏏️(pana) 🚹⨀③(bhagavant) 🚻⨀⑦🆎(dhamma+cakka)  
 set in motion / and / now / by the Bhagavā / the wheel of the Dhamma  
-*"Set in motion by the Bhagavā": `bhagavatā`, `-atā`, ③ singular of `bhagavantu` {127}; [5: 12.1](../5-dhammacakka/#u12-1).*
+*"Set in motion by the Bhagavā": `bhagavatā`, `-atā`, ③ singular of `bhagavantu` {127}; [5: 2217](../5-dhammacakka/#u12-1).*
 
 2. > mārena vā **brahmunā** vā kenaci vā
 
 🚹⨀③(māra) ⏏️(vā) 🚹⨀③(brahma) ⏏️(vā) *️⃣🤟🚹⨀③(kaci) ⏏️(vā)  
 by Māra / or / by Brahmā / or / by anyone / or  
-*"Māra or Brahmā or by anyone": `brahmunā`, ③ singular of `brahma`, `a` become `u` before `nā` {198}; [5: 12.1](../5-dhammacakka/#u12-1).*
+*"Māra or Brahmā or by anyone": `brahmunā`, ③ singular of `brahma`, `a` become `u` before `nā` {198}; [5: 2217](../5-dhammacakka/#u12-1).*
 
 3. > aññaṁ **satthāraṁ** uddiseyyāthā”ti
 
 *️⃣🤟🚹⨀②(añña) 🚹⨀②(satthar) 🟢⨂🤘⏯(uddisati) ⏏️(iti)  
 another / teacher / appoint / (end quote)  
-*"Will you appoint another teacher?": `satthāraṁ`, ② singular of `satthu`, with `-ār-` {200}; [Bonus: 1, 24.10](../11-pbt/#s1-u1366-1).*
+*"Will you appoint another teacher?": `satthāraṁ`, ② singular of `satthu`, with `-ār-` {200}; [Bonus: 1, 1366](../11-pbt/#s1-u1366-1).*
 
 4. > **āyasmantaṁ** sāriputtaṁ bhagavā etadavoca
 
 🚹⨀②(āyasmant) 🚹⨀②(sāriputta) 🚹⨀①(bhagavant) *️⃣🤟🚻⨀②(eta) 🟢⨀🤟⏮(vadati)  
 Venerable / Sāriputta / the Bhagavā / this / said  
-*"The Bhagavā said this to Venerable Sāriputta": `āyasmantaṁ`, ② singular of `āyasmantu`, `-antaṁ` {92}; `sāriputtaṁ` agrees with it; [Bonus: 44, 1.3](../11-pbt/#s44-u1257-3).*
+*"The Bhagavā said this to Venerable Sāriputta": `āyasmantaṁ`, ② singular of `āyasmantu`, `-antaṁ` {92}; `sāriputtaṁ` agrees with it; [Bonus: 44, 1257](../11-pbt/#s44-u1257-3).*
 
 5. > eso me **attā**
 
 *️⃣🤟🚹⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨀①(atta)  
 this / my / self  
-*"This is my `attā` (self)": `attā`, ① singular of `atta`, `-ā` {189}, as `rājā`; [7: 6.5](../7-anatta/#u6-5).*
+*"This is my `attā` (self)": `attā`, ① singular of `atta`, `-ā` {189}, as `rājā`; [7: 302](../7-anatta/#u6-5).*
 
 6. > Yāvajīvaṁ **arahanto** abrahmacariyaṁ pahāya
 
 ⏏️🆎(yāva+jīva) 🚹⨂①(arahant) 🚻⨀②🆎(na+brahma+cariya) 🔽(ya)(pajahati)  
 life-long / liberated ones / uncelibacy / giving up  
-*"Life-long arahants (liberated ones) give up uncelibacy": `arahanto`, ① plural of `arahanta` {122}, singular `arahaṁ` {186}; [Bonus: 32, 21.1](../11-pbt/#s32-u634-1).*
+*"Life-long arahants (liberated ones) give up uncelibacy": `arahanto`, ① plural of `arahanta` {122}, singular `arahaṁ` {186}; [Bonus: 32, 634](../11-pbt/#s32-u634-1).*
 
 7. > Evaṁ **passaṁ**, bhikkhave, **sutavā** ariyasāvako
 
 ⏏️(evaṁ) 🚹⨀①🔽(anta)(passanta) 🚹⨂⓪(bhikkhu) 🚹⨀①(sutavant) 🚹⨀①🆎(ariya+sāvaka)  
 thus / seeing / Bhikkhave / learned / disciple of the liberated  
-*"Thus seeing, the learned disciple of the liberated": `passaṁ`, ① singular of the participle `passanta` {186}; `sutavā`, ① singular of a `ntu` word, as `bhagavā` {124}; [7: 11.1](../7-anatta/#u11-1).*
+*"Thus seeing, the learned disciple of the liberated": `passaṁ`, ① singular of the participle `passanta` {186}; `sutavā`, ① singular of a `ntu` word, as `bhagavā` {124}; [7: 307](../7-anatta/#u11-1).*
 
 8. > **Mano** āditto, dhammā ādittā, **manoviññāṇaṁ** ādittaṁ, manosamphasso āditto.
 
 🚹⨀①(mano) 🚹⨀①🔽(ta)(āditta) 🚹⨂①(dhamma) 🚹⨂①🔽(ta)(āditta) 🚻⨀①🆎(mano+viññāṇa) 🚻⨀①🔽(ta)(āditta) 🚹⨀①🆎(mano+samphassa) 🚹⨀①🔽(ta)(āditta)  
 the mind / burning / mental phenomena / burning / mind-consciousness / burning / mind-contact / burning  
-*"The mind is burning, mind-consciousness is burning": `mano`, the ① singular of the lemma `mano`, `-o` {104}; `mano-` kept before `viññāṇa` and `samphassa` in a compound {183}; [9: 7.1](../9-fire/#u7-1).*
+*"The mind is burning, mind-consciousness is burning": `mano`, the ① singular of the lemma `mano`, `-o` {104}; `mano-` kept before `viññāṇa` and `samphassa` in a compound {183}; [9: 75](../9-fire/#u7-1).*

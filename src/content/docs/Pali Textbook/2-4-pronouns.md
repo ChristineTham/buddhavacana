@@ -16,9 +16,9 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
 Every sentence of [chapter 5](../5-dhammacakka/) has one of these words: `idaṁ kho pana, bhikkhave,
-dukkhaṁ ariyasaccaṁ` ([5: 4.1](../5-dhammacakka/#u4-1)), `yo cāyaṁ` ([5: 2.3](../5-dhammacakka/#u2-3)),
-`me` ([5: 5.1](../5-dhammacakka/#u5-1)), and [chapter 7](../7-anatta/) turns on them: `etaṁ mama,
-esohamasmi, eso me attā` ([7: 6.5](../7-anatta/#u6-5)). Kaccāyana calls them `sabbanāma`
+dukkhaṁ ariyasaccaṁ` ([5: 2209](../5-dhammacakka/#u4-1)), `yo cāyaṁ` ([5: 2207](../5-dhammacakka/#u2-3)),
+`me` ([5: 2210](../5-dhammacakka/#u5-1)), and [chapter 7](../7-anatta/) turns on them: `etaṁ mama,
+esohamasmi, eso me attā` ([7: 302](../7-anatta/#u6-5)). Kaccāyana calls them `sabbanāma`
 (pronouns, literally "all-names"): a word that names nothing of its own but
 stands for any noun, and takes that noun's gender, number and ending. There
 are twenty-seven ([Appendix L](../l-sabbanama/)); the ones on every page are `ta` (that; he,
@@ -28,8 +28,8 @@ she, it), `eta` (this), `ima` (this), `ya` (which, whoever: the relative),
 
 Ask of a pronoun what you ask of a noun, "what gender, number and ending?",
 and one thing more: "which noun does it stand for?" Beside a noun it carries
-the noun's ending, `sā majjhimā paṭipadā` ([5: 3.3](../5-dhammacakka/#u3-3)), `ete ubho ante`
-([5: 2.4](../5-dhammacakka/#u2-4)); alone, its ending
+the noun's ending, `sā majjhimā paṭipadā` ([5: 2208](../5-dhammacakka/#u3-3)), `ete ubho ante`
+([5: 2207](../5-dhammacakka/#u2-4)); alone, its ending
 gives its job (chapter 4) and its noun is the one named before. The endings
 are those of `purisa`, `citta` and `kaññā` ([2.2](../2-2-nouns/)) with a few
 of their own {161}–{177}; the tables give each form's rule.
@@ -79,8 +79,8 @@ them, `kho me`, `…saccan’ti me` {147}–{151}; this `no`, "us", "our", is a 
 {142}, `tumhākaṁ` ② {162}, `tumhaṁ` ④ ⑥ {163}.
 
 :::note[`te` and `taṁ`: two words each]
-`te` is "they, those" (`ta` ①⨂ 🚹: `te bhikkhū`, [7: 1.3](../7-anatta/#u1-3)) and also "you, your" (`tumha`
-⨀, leaning on the word before it: `kho te, sāriputta, indriyāni`, [Bonus: 44, 2.1](../11-pbt/#s44-u1258-1)); `taṁ` is
+`te` is "they, those" (`ta` ①⨂ 🚹: `te bhikkhū`, [7: 297](../7-anatta/#u1-3)) and also "you, your" (`tumha`
+⨀, leaning on the word before it: `kho te, sāriputta, indriyāni`, [Bonus: 44, 1258](../11-pbt/#s44-u1258-1)); `taṁ` is
 "that" (`ta`, ① 🚻 or ② of any gender) and "you" (`tumha` ②⨀). A noun agreeing
 with it makes it `ta`; none agreeing (`indriyāni` is neuter) makes it `tumha`.
 :::
@@ -91,12 +91,12 @@ Pāḷi has no one word for "the one who" or "that which": a `ya` word opens the
 clause and a `ta` word of the same gender, number and ending picks it up, `yo …
 so`, `yaṁ … taṁ`, `yā … sā`, `ye … te`, and among the adverbs `yathā … tathā`
 (as … so), `yadā … tadā` (when … then), `yato … tato`, `yattha … tattha`,
-`yasmā … tasmā` (because … therefore: [7: 2.3](../7-anatta/#u2-3)).
+`yasmā … tasmā` (because … therefore: [7: 298](../7-anatta/#u2-3)).
 Find the `ya` word, then its `ta` partner; what lies between is the "which"
-clause: `yaṁ kiñci samudayadhammaṁ, sabbaṁ taṁ nirodhadhammaṁ` ([5: 11.1](../5-dhammacakka/#u11-1)). `ima`,
-`eta` or `sabba` may stand where `ta` would: `yo cāyaṁ` ([5: 2.3](../5-dhammacakka/#u2-3)), "and that which is this …";
-`yaṁ kiñci rūpaṁ … sabbaṁ rūpaṁ` ([7: 7.1](../7-anatta/#u7-1)), and in the other genders `yā kāci
-vedanā … sabbā vedanā` ([7: 8.1](../7-anatta/#u8-1)), `ye keci saṅkhārā … sabbe saṅkhārā` ([7: 9.2](../7-anatta/#u9-2)).
+clause: `yaṁ kiñci samudayadhammaṁ, sabbaṁ taṁ nirodhadhammaṁ` ([5: 2216](../5-dhammacakka/#u11-1)). `ima`,
+`eta` or `sabba` may stand where `ta` would: `yo cāyaṁ` ([5: 2207](../5-dhammacakka/#u2-3)), "and that which is this …";
+`yaṁ kiñci rūpaṁ … sabbaṁ rūpaṁ` ([7: 303](../7-anatta/#u7-1)), and in the other genders `yā kāci
+vedanā … sabbā vedanā` ([7: 304](../7-anatta/#u8-1)), `ye keci saṅkhārā … sabbe saṅkhārā` ([7: 305](../7-anatta/#u9-2)).
 
 ### The adverbs made from them
 
@@ -114,7 +114,7 @@ inflections {247}; the word made never changes.
 | how: `-thā`, `-thaṁ` | `tathā` so, thus {398} | `yathā` as, like {398} | `kathaṁ` how? {399} | `itthaṁ` in this way {399} |
 
 `evaṁ` (thus) and the pair `yāva … tāva` (as long as … so long: `tāvāhaṁ`,
-[5: 9.1](../5-dhammacakka/#u9-1)) are particles, not made by these rules; [2.7](../2-7-nipata/) lists
+[5: 2214](../5-dhammacakka/#u9-1)) are particles, not made by these rules; [2.7](../2-7-nipata/) lists
 them with the rule that drops their endings {221}.
 
 ### Examples
@@ -123,25 +123,25 @@ them with the rule that drops their endings {221}.
 
 ⚧⨂①(dvi) *️⃣🤟🚹⨂①(ima) 🚹⨂⓪(bhikkhu) 🚹⨂①(anta)  
 two / these / Bhikkhave / extremes  
-*"These two extremes" ([5: 2.1](../5-dhammacakka/#u2-1)): `dveme` is `dve` + `ime` ([2.1](../2-1-sandhi/)); `ime`, `ima` ①⨂ 🚹 {164}, agrees with `antā`.*
+*"These two extremes" ([5: 2207](../5-dhammacakka/#u2-1)): `dveme` is `dve` + `ime` ([2.1](../2-1-sandhi/)); `ime`, `ima` ①⨂ 🚹 {164}, agrees with `antā`.*
 
 > yo **tassāyeva** taṇhāya asesavirāganirodho
 
 *️⃣🤟🚹⨀①(ya) *️⃣🤟🚺⨀⑥(ta) ⏏️(eva) 🚺⨀⑥(taṇhā) 🚹⨀①🆎(asesa+virāga+nirodha)  
 which / of that / very / craving / remainderless fading away and cessation  
-*"… it is the remainderless fading away and cessation of that same `taṇhā`" ([5: 4.3](../5-dhammacakka/#u4-3)): `tassāyeva` is `tassā` + `eva`; `tassā`, `ta` ⑥⨀ 🚺 {179}, goes with `taṇhāya`, and `yo` {104} with `nirodho`.*
+*"… it is the remainderless fading away and cessation of that same `taṇhā`" ([5: 2209](../5-dhammacakka/#u4-3)): `tassāyeva` is `tassā` + `eva`; `tassā`, `ta` ⑥⨀ 🚺 {179}, goes with `taṇhāya`, and `yo` {104} with `nirodho`.*
 
 > **etaṁ mama**
 
 *️⃣🤟🚻⨀①(eta) *️⃣👆⚧⨀⑥(ahaṁ)  
 this / mine  
-*"This is mine" ([7: 6.5](../7-anatta/#u6-5)): `etaṁ`, `eta` ①⨀ 🚻 {219}, points to the `rūpaṁ` under discussion and takes its gender; `mama`, `amha` ⑥⨀ {141}.*
+*"This is mine" ([7: 302](../7-anatta/#u6-5)): `etaṁ`, `eta` ①⨀ 🚻 {219}, points to the `rūpaṁ` under discussion and takes its gender; `mama`, `amha` ⑥⨀ {141}.*
 
 > **yaṁ kiñci** samudayadhammaṁ **sabbaṁ taṁ** nirodhadhamman”ti
 
 *️⃣🤟🚻⨀①(ya) *️⃣🤟🚻⨀①(kaci) 🚻⨀①🆎(samudaya+dhamma) *️⃣🤟🚻⨀①(sabba) *️⃣🤟🚻⨀①(ta) 🚻⨀①🆎(nirodha+dhamma) ⏏️(iti)  
 whatever / anything / subject to origination / all / that / subject to cessation / (end quote)  
-*"Whatever phenomenon is subject to origination is completely subject to cessation" ([5: 11.1](../5-dhammacakka/#u11-1)): the pair `yaṁ … taṁ`, neuter ① {219}; `kiñci` is `kiṁ` + `ci`, "any" {31} (the dictionary's lemma `kaci`); `sabbaṁ` {219} agrees with `taṁ`.*
+*"Whatever phenomenon is subject to origination is completely subject to cessation" ([5: 2216](../5-dhammacakka/#u11-1)): the pair `yaṁ … taṁ`, neuter ① {219}; `kiñci` is `kiṁ` + `ci`, "any" {31} (the dictionary's lemma `kaci`); `sabbaṁ` {219} agrees with `taṁ`.*
 
 ### Exercises
 
@@ -155,14 +155,14 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. Kena ādittaṁ? ([9: 2.5](../9-fire/#u2-5))
-2. Ete kho, bhikkhave, ubho ante anupagamma. ([5: 2.4](../5-dhammacakka/#u2-4))
-3. Katamā ca sā, bhikkhave, majjhimā paṭipadā? ([5: 3.1](../5-dhammacakka/#u3-1))
-4. Yo cāyaṁ kāmesu kāmasukhallikānuyogo. ([5: 2.3](../5-dhammacakka/#u2-3))
-5. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne ([7: 12.3](../7-anatta/#u12-3))
-6. neva tāvāhaṁ, bhikkhave ([5: 9.1](../5-dhammacakka/#u9-1))
-7. Yadā have pātubhavanti dhammā ([3: 6.1](../3-awakening/#u6-1))
-8. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. ([9: 10.2](../9-fire/#u10-2))
+1. Kena ādittaṁ? ([9: 75](../9-fire/#u2-5))
+2. Ete kho, bhikkhave, ubho ante anupagamma. ([5: 2207](../5-dhammacakka/#u2-4))
+3. Katamā ca sā, bhikkhave, majjhimā paṭipadā? ([5: 2208](../5-dhammacakka/#u3-1))
+4. Yo cāyaṁ kāmesu kāmasukhallikānuyogo. ([5: 2207](../5-dhammacakka/#u2-3))
+5. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne ([7: 308](../7-anatta/#u12-3))
+6. neva tāvāhaṁ, bhikkhave ([5: 2214](../5-dhammacakka/#u9-1))
+7. Yadā have pātubhavanti dhammā ([3: 6](../3-awakening/#u6-1))
+8. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. ([9: 76](../9-fire/#u10-2))
 
 ### Answers
 
@@ -173,7 +173,7 @@ deconstruction.
 *️⃣🤟🚻⨀③(kiṁ) 🚻⨀①🔽(ta)(āditta)  
 with what / burning  
 *Burning with what?*  
-`kena`, `kiṁ` ③⨀ 🚻: `kiṁ` is `ka` before this ending {229}, and `-ena` is the ③ of `citta` {103}; the answer, `rāgagginā`, is in ③ too ([9: 2.6](../9-fire/#u2-6)).
+`kena`, `kiṁ` ③⨀ 🚻: `kiṁ` is `ka` before this ending {229}, and `-ena` is the ③ of `citta` {103}; the answer, `rāgagginā`, is in ③ too ([9: 75](../9-fire/#u2-6)).
 
 2. > Ete kho, bhikkhave, ubho ante anupagamma.
 
@@ -215,7 +215,7 @@ not / indeed / so long / I / Bhikkhave
 ⏏️(yadā) ⏏️(have) 🟢⨂🤟▶️(pātubhavati) 🚹⨂①(dhamma)  
 when / indeed / appear / phenomena  
 *When indeed `dhammā` (phenomena) become manifest*  
-`yadā`: `ya` + `dā` {257}, "when", opening the clause that `atha` ("then", [3: 6.3](../3-awakening/#u6-3)) answers.
+`yadā`: `ya` + `dā` {257}, "when", opening the clause that `atha` ("then", [3: 6](../3-awakening/#u6-3)) answers.
 
 8. > Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ.
 

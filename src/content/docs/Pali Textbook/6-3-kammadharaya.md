@@ -75,13 +75,13 @@ black / and / it / a snake / and → a black snake
 
 🚹⨀①(mahanta) ⏏️(ca) *️⃣🤟🚹⨀①(ta) 🚹⨀①(purisa) ⏏️(ca) → 🚹⨀①🆎(mahanta+purisa)  
 great / and / he / a man / and → a great man  
-*`mahā` for `mahanta` {330}: "great" + "man"; it is the first part of `mahāpurisavihāro` in [Bonus: 44, 2.6](../11-pbt/#s44-u1258-6).*
+*`mahā` for `mahanta` {330}: "great" + "man"; it is the first part of `mahāpurisavihāro` in [Bonus: 44, 1258](../11-pbt/#s44-u1258-6).*
 
 > Rūpaṁ, bhikkhave, **anattā**.
 
 🚻⨀①(rūpa) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(na+atta)  
 form / Bhikkhave / not-self  
-*"`rūpa` (form), Bhikkhave, is `anattā` (not-self)." [7: 2.1](../7-anatta/#u2-1): `an` for `na` before a vowel {334}; before a consonant `a`, `aniccaṁ` ("impermanent").*
+*"`rūpa` (form), Bhikkhave, is `anattā` (not-self)." [7: 298](../7-anatta/#u2-1): `an` for `na` before a vowel {334}; before a consonant `a`, `aniccaṁ` ("impermanent").*
 
 ### Exercises
 
@@ -112,28 +112,28 @@ members.
 
 🚻⨀①🆎(brahma+cariya)  
 holy + conduct → optimal life  
-*adjective + noun {324}: `brahma` ("holy", "highest") describes `cariya` ("conduct", "way of life"); [9: 9.2](../9-fire/#u9-2), `vusitaṁ brahmacariyaṁ`, and [7: 11.4](../7-anatta/#u11-4).*
+*adjective + noun {324}: `brahma` ("holy", "highest") describes `cariya` ("conduct", "way of life"); [9: 75](../9-fire/#u9-2), `vusitaṁ brahmacariyaṁ`, and [7: 307](../7-anatta/#u11-4).*
 
 2. > sāyanha + samaya → **sāyanhasamayaṁ**
 
 🚹⨀②🆎(sāyanha+samaya)  
 evening + time → in the late afternoon  
-*noun + noun {324}: `sāyanha` ("evening") and `samaya` ("time") name one time; [Bonus: 44, 1.3](../11-pbt/#s44-u1257-3), `sāyanhasamayaṁ paṭisallānā vuṭṭhito`.*
+*noun + noun {324}: `sāyanha` ("evening") and `samaya` ("time") name one time; [Bonus: 44, 1257](../11-pbt/#s44-u1257-3), `sāyanhasamayaṁ paṭisallānā vuṭṭhito`.*
 
 3. > na + uttara → **anuttaraṁ**
 
 🚻⨀①🆎(na+uttara)  
 not + higher → unsurpassed  
-*`an` for `na` before a vowel {334}: `uttara` ("higher"); [5: 12.1](../5-dhammacakka/#u12-1), `anuttaraṁ dhammacakkaṁ pavattitaṁ`.*
+*`an` for `na` before a vowel {334}: `uttara` ("higher"); [5: 2217](../5-dhammacakka/#u12-1), `anuttaraṁ dhammacakkaṁ pavattitaṁ`.*
 
 4. > na + agāriya → **anagāriyaṁ**
 
 🚻⨀②🆎(na+agāriya)  
 not + belonging to a house → to homeless state  
-*`an` for `na` before a vowel {334}: `agāriya` ("belonging to a house"); [Bonus: 26, 12.8](../11-pbt/#s26-u267-8), `agārasmā anagāriyaṁ`.*
+*`an` for `na` before a vowel {334}: `agāriya` ("belonging to a house"); [Bonus: 26, 267](../11-pbt/#s26-u267-8), `agārasmā anagāriyaṁ`.*
 
 5. > na + mata → **amataṁ**
 
 🚻⨀①🔽(ta)🆎(na+mata)  
 not + dead → free from death  
-*`a` for `na` {333}: "not dead", the deathless, a name of nibbāna; [Bonus: 50, 66.2](../11-pbt/#s50-u603-2), `amataṁ ajjāpi ca labhanīyamidaṁ`.*
+*`a` for `na` {333}: "not dead", the deathless, a name of nibbāna; [Bonus: 50, 603](../11-pbt/#s50-u603-2), `amataṁ ajjāpi ca labhanīyamidaṁ`.*

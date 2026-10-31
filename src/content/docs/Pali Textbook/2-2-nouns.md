@@ -94,27 +94,27 @@ lemma's final vowel, long in `i` and `u` words (`bhikkhūhi`, `rattīnaṁ`,
 `aggīsu`) and `e` for `a` (`purisehi`, `purisesu`). And a feminine has one
 singular shape for ③ to ⑦, `-āya` after `ā` {111} and `-iyā` after `i` or `ī`
 {112}, which the sentence alone sorts out: `taṇhāya` in
-[5: 4.3](../5-dhammacakka/#u4-3) is ⑥, "of craving", `rattiyā` in
-[3: 2.3](../3-awakening/#u2-3) ⑥, "of the night".
+[5: 2209](../5-dhammacakka/#u4-3) is ⑥, "of craving", `rattiyā` in
+[3: 2](../3-awakening/#u2-3) ⑥, "of the night".
 
 :::note[The same ending, three jobs]
 `-ā` is 🚹 ①⨂ (`dhammā`), 🚹 ⑤⨀ (`avijjāpaccayā`), 🚺 ①⨀ (`taṇhā`) and 🚺 ①⨂
 (`kaṅkhā`); `-e` is 🚹 ②⨂ (`ante`), 🚹 or 🚻 ⑦⨀ (`migadāye`, `isipatane`) and
 🚺 ⓪⨀ (`kaññe`); `-aṁ` is 🚹 ②⨀ (`samayaṁ`), 🚻 ①⨀ or ②⨀ (`viññāṇaṁ`) and 🚺
 ②⨀ (`mārasenaṁ`). Gender, agreeing words and the verb decide: `pātubhavanti
-dhammā` ([3: 6.1](../3-awakening/#u6-1)) has a plural verb, so `dhammā` is ①⨂.
+dhammā` ([3: 6](../3-awakening/#u6-1)) has a plural verb, so `dhammā` is ①⨂.
 :::
 
 ### Adjectives agree
 
 An adjective (`guṇanāma`, "a quality-word") has no gender of its own: it
 takes the gender, number and ending of its noun, so the two wear one shape:
-`ariyo aṭṭhaṅgiko maggo` ("the path of the liberated in eight parts", [5: 3.2](../5-dhammacakka/#u3-2)),
-🚹⨀① on all three words; `bhummā devā` ([5: 12.1](../5-dhammacakka/#u12-1)), 🚹⨂①;
-`pañcavaggiye bhikkhū` ([5: 1.2](../5-dhammacakka/#u1-2)), 🚹⨂② in two shapes, `-e`
+`ariyo aṭṭhaṅgiko maggo` ("the path of the liberated in eight parts", [5: 2208](../5-dhammacakka/#u3-2)),
+🚹⨀① on all three words; `bhummā devā` ([5: 2217](../5-dhammacakka/#u12-1)), 🚹⨂①;
+`pañcavaggiye bhikkhū` ([5: 2206](../5-dhammacakka/#u1-2)), 🚹⨂② in two shapes, `-e`
 on the `a` lemma and `-ū` on the `u` lemma. An `a` lemma used of a feminine
 noun takes the feminine `-ā` {237} and follows `kaññā`: `majjhimā paṭipadā`
-("the middle way", [5: 2.4](../5-dhammacakka/#u2-4)), 🚺⨀①.
+("the middle way", [5: 2207](../5-dhammacakka/#u2-4)), 🚺⨀①.
 
 ### Examples
 
@@ -122,39 +122,39 @@ noun takes the feminine `-ā` {237} and follows `kaññā`: `majjhimā paṭipad
 
 🚹⨀⑤🆎(avijjā+paccaya) 🚹⨂①(saṅkhāra)  
 with ignorance as cause / mental constructions  
-*Two `-ā`, two jobs: `avijjāpaccayā` is ⑤⨀, "from" {108}, `saṅkhārā` ①⨂ {107}; [3: 3.1](../3-awakening/#u3-1).*
+*Two `-ā`, two jobs: `avijjāpaccayā` is ⑤⨀, "from" {108}, `saṅkhārā` ①⨂ {107}; [3: 3](../3-awakening/#u3-1).*
 
 > **saṁkhittena pañcupādānakkhandhā dukkhā**
 
 🚹⨀③🔽(ta)(saṁkhitta) 🚹⨂①🆎(pañca+upādāna+khandha) 🚹⨂①(dukkha)  
 in short / the five collections of fuel / suffering  
-*`saṁkhittena`: ③⨀, `-ena` {103}; `pañcupādānakkhandhā`: ①⨂, `-ā` {107}, its adjective `dukkhā` agreeing; [5: 4.1](../5-dhammacakka/#u4-1).*
+*`saṁkhittena`: ③⨀, `-ena` {103}; `pañcupādānakkhandhā`: ①⨂, `-ā` {107}, its adjective `dukkhā` agreeing; [5: 2209](../5-dhammacakka/#u4-1).*
 
 > jātipi **dukkhā**, jarāpi **dukkhā**, byādhipi **dukkho**, maraṇampi **dukkhaṁ**
 
 🚺⨀①(jāti) ⏏️(api) 🚺⨀①(dukkha) 🚺⨀①(jarā) ⏏️(api) 🚺⨀①(dukkha) 🚹⨀①(byādhi) ⏏️(api) 🚹⨀①(dukkha) 🚻⨀①(maraṇa) ⏏️(api) 🚻⨀①(dukkha)  
 birth / too / suffering / ageing / too / suffering / illness / too / suffering / death / too / suffering  
-*One adjective, three shapes: `dukkhā` with the 🚺 `jāti` and `jarā` {237}, `dukkho` with the 🚹 `byādhi` {104}, `dukkhaṁ` with the 🚻 `maraṇa` {219}; [5: 4.1](../5-dhammacakka/#u4-1).*
+*One adjective, three shapes: `dukkhā` with the 🚺 `jāti` and `jarā` {237}, `dukkho` with the 🚹 `byādhi` {104}, `dukkhaṁ` with the 🚻 `maraṇa` {219}; [5: 2209](../5-dhammacakka/#u4-1).*
 
 > **upasamāya abhiññāya sambodhāya nibbānāya** saṁvattati
 
 🚹⨀④(upasama) 🚺⨀④(abhiññā) 🚹⨀④(sambodha) 🚻⨀④(nibbāna) 🟢⨀🤟▶️(saṁvattati)  
 to calm / to experiential understanding / to full awakening / to extinguishment / leads  
-*`-āya` on an `a` lemma is ④⨀, "to" {109}; on the 🚺 `abhiññā` the `-āya` of {111} is ④ too, as its three neighbours; [5: 2.4](../5-dhammacakka/#u2-4).*
+*`-āya` on an `a` lemma is ④⨀, "to" {109}; on the 🚺 `abhiññā` the `-āya` of {111} is ④ too, as its three neighbours; [5: 2207](../5-dhammacakka/#u2-4).*
 
 > Tatra kho bhagavā pañcavaggiye **bhikkhū** āmantesi—
 
 ⏏️(tatra) ⏏️(kho) 🚹⨀①(bhagavant) 🚹⨂②🆎(pañca+vaggiya) 🚹⨂②(bhikkhu) 🟢⨀🤟⏮(āmanteti)  
 there / indeed / the Bhagavā / of the group of five / bhikkhū / addressed  
 *There the Bhagavā addressed the group of five bhikkhū:*  
-*`bhikkhū`: `-ū`, the ② plural, `yo` dropped and the `u` lengthened {119}, {88}, the object of `āmantesi`; `pañcavaggiye` agrees with it; [5: 1.2](../5-dhammacakka/#u1-2).*
+*`bhikkhū`: `-ū`, the ② plural, `yo` dropped and the `u` lengthened {119}, {88}, the object of `āmantesi`; `pañcavaggiye` agrees with it; [5: 2206](../5-dhammacakka/#u1-2).*
 
 > **rattiyā** paṭhamaṁ yāmaṁ
 
 🚺⨀⑥(ratti) 🚹⨀②(paṭhama) 🚹⨀②(yāma)  
 of the night / first / watch  
 *during the first watch of the night*  
-*`rattiyā`: `-iyā`, the feminine singular shape for ③ to ⑦ {112}; here ⑥, "of the night"; [3: 2.3](../3-awakening/#u2-3).*
+*`rattiyā`: `-iyā`, the feminine singular shape for ③ to ⑦ {112}; here ⑥, "of the night"; [3: 2](../3-awakening/#u2-3).*
 
 ### Exercises
 
@@ -187,31 +187,31 @@ deconstruction.
 
 *️⃣🤟🚹⨀②(eka) 🚹⨀②(samaya) 🚹⨀①(bhagavant) 🚺⨀⑦(gayā) 🟢⨀🤟▶️(viharati) 🚻⨀⑦(gayāsīsa) ⏏️(saddhiṁ) 🚻⨀③🆎(bhikkhu+sahassa)  
 one / time / the Bhagavā / at Gayā / dwells / at Gayāsīsa / together / with a thousand bhikkhū  
-*`ekaṁ samayaṁ`: 🚹⨀②, `-aṁ` {83}; `gayāyaṁ`: 🚺⨀⑦, `-āyaṁ` {216}; `gayāsīse`: 🚻⨀⑦, `-e` {108}; `bhikkhusahassena`: 🚻⨀③, `-ena` {103}; [9: 1.1](../9-fire/#u1-1).*
+*`ekaṁ samayaṁ`: 🚹⨀②, `-aṁ` {83}; `gayāyaṁ`: 🚺⨀⑦, `-āyaṁ` {216}; `gayāsīse`: 🚻⨀⑦, `-e` {108}; `bhikkhusahassena`: 🚻⨀③, `-ena` {103}; [9: 75](../9-fire/#u1-1).*
 
 2. > Evametassa kevalassa dukkhakkhandhassa samudayo hoti.
 
 ⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(samudaya) 🟢⨀🤟▶️(hoti)  
 thus / of this / of the entire / of the mass of suffering / origin / is  
-*`kevalassa dukkhakkhandhassa`: 🚹⨀⑥, `-assa` {61}, "of", adjective and noun alike; `samudayo`: 🚹⨀①, `-o` {104}; [3: 3.12](../3-awakening/#u3-12).*
+*`kevalassa dukkhakkhandhassa`: 🚹⨀⑥, `-assa` {61}, "of", adjective and noun alike; `samudayo`: 🚹⨀①, `-o` {104}; [3: 3](../3-awakening/#u3-12).*
 
 3. > Athassa kaṅkhā vapayanti sabbā,
 
 ⏏️(atha) *️⃣🤟🚹⨀⑥(ima) 🚺⨂①(kaṅkhā) 🟢⨂🤟▶️(vapayāti) *️⃣🤟🚺⨂①(sabba)  
 then / his / doubts / vanish / all  
-*`kaṅkhā`: 🚺⨂①, `-ā` {118}, with a plural verb; `sabbā` agrees, 🚺⨂①; [3: 6.3](../3-awakening/#u6-3).*
+*`kaṅkhā`: 🚺⨂①, `-ā` {118}, with a plural verb; `sabbā` agrees, 🚺⨂①; [3: 6](../3-awakening/#u6-3).*
 
 4. > appiyehi sampayogo dukkho, piyehi vippayogo dukkho
 
 🚹⨂③🆎(na+piya) 🚹⨀①(sampayoga) 🚹⨀①(dukkha) 🚹⨂⑤(piya) 🚹⨀①(vippayoga) 🚹⨀①(dukkha)  
 with the unloved / association / suffering / from the loved / separation / suffering  
-*`appiyehi`, `piyehi`: 🚹⨂③, `-ehi` {101}; `sampayogo`, `vippayogo` and the agreeing `dukkho`: 🚹⨀①, `-o` {104}; [5: 4.1](../5-dhammacakka/#u4-1).*
+*`appiyehi`, `piyehi`: 🚹⨂③, `-ehi` {101}; `sampayogo`, `vippayogo` and the agreeing `dukkho`: 🚹⨀①, `-o` {104}; [5: 2209](../5-dhammacakka/#u4-1).*
 
 5. > Yato khayaṁ paccayānaṁ avedī”ti.
 
 ⏏️(yato) 🚹⨀②(khaya) 🚹⨂⑥(paccaya) 🟢⨀🤟⏮(vedeti) ⏏️(iti)  
 since / the destruction / of causes / knew / (end quote)  
-*`khayaṁ`: 🚹⨀②, `-aṁ` {83}, the object; `paccayānaṁ`: 🚹⨂⑥, `-ānaṁ` {89}, "of"; [3: 9.4](../3-awakening/#u9-4).*
+*`khayaṁ`: 🚹⨀②, `-aṁ` {83}, the object; `paccayānaṁ`: 🚹⨂⑥, `-ānaṁ` {89}, "of"; [3: 9](../3-awakening/#u9-4).*
 
 6. > akuppā me **vimutti**, ayamantimā **jāti**
 

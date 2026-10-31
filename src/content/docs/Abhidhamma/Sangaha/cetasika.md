@@ -66,7 +66,7 @@ Beautiful Factors;
 **:===sobhanasādhāraṇa
 ----
 Universals;
-***_ 28. Faith (saddhā)
+***_ 28. Confidence (saddhā)
 ***_ 29. Mindfulness (sati)
 ***_ 30. Shame (hiri)
 ***_ 31. fear of wrongdoing (ottappa)
@@ -210,7 +210,7 @@ class vicikicchā {
   doubt
 }
 class saddhā {
-  faith
+  confidence
 }
 vicikicchā <-> saddhā
 @endmindmap

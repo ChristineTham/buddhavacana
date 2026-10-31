@@ -53,7 +53,7 @@ The rule's other examples, `sabbarattisobhaṇo` ("beautiful the whole night",
 ② of a stretch of time {298}), `issarakataṁ` ("made by a lord", ③) and
 `dhaññarāsi` ("a heap of grain", ⑥, from the plural `dhaññānaṁ`) among them,
 run the same way, and so does the Fire Sermon's `rāgagginā` ("with the fire of
-passion", ⑥: `rāgassa aggi`, [9: 2.6](../9-fire/#u2-6)). The Digital Pāḷi
+passion", ⑥: `rāgassa aggi`, [9: 75](../9-fire/#u2-6)). The Digital Pāḷi
 Dictionary names the kind by this ending, in the Pāḷi of the first column: a
 `chaṭṭhī tappurisa` had the ⑥ ending on its first member, a `dutiyā
 tappurisa` the ②.
@@ -62,7 +62,7 @@ In each the ending of the first member is dropped {317} and the member
 stands in its lemma form, the form a word has before its ending,
 `rañño` as `rāja`, `bhūmiṁ` as `bhūmi` {318}; the whole compound then takes an
 ending of its own, as `bodhirukkhamūle` ("at the root of the Bodhi tree") in
-[3: 2.1](../3-awakening/#u2-1) carries the ⑦.
+[3: 2](../3-awakening/#u2-1) carries the ⑦.
 
 ### The `kammadhāraya` and the `digu` count as `tappurisa` too
 
@@ -108,12 +108,12 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. bodhirukkhamūle ([3: 2.1](../3-awakening/#u2-1))
-2. saṅkhāranirodho ([3: 4.1](../3-awakening/#u4-1))
-3. vimuttisukhapaṭisaṁvedī ([3: 2.2](../3-awakening/#u2-2))
-4. samādhijaṁ ([Bonus: 39, 11.1](../11-pbt/#s39-u698-1))
-5. tathāgatasāvako ([Bonus: 26, 12.3](../11-pbt/#s26-u267-3))
-6. sammāsambuddhadesitaṁ ([Bonus: 49, 3.2](../11-pbt/#s49-u444-2))
+1. bodhirukkhamūle ([3: 2](../3-awakening/#u2-1))
+2. saṅkhāranirodho ([3: 4](../3-awakening/#u4-1))
+3. vimuttisukhapaṭisaṁvedī ([3: 2](../3-awakening/#u2-2))
+4. samādhijaṁ ([Bonus: 39, 698](../11-pbt/#s39-u698-1))
+5. tathāgatasāvako ([Bonus: 26, 267](../11-pbt/#s26-u267-3))
+6. sammāsambuddhadesitaṁ ([Bonus: 49, 444](../11-pbt/#s49-u444-2))
 
 ### Answers
 

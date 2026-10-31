@@ -47,7 +47,7 @@ after a long vowel (`jetavane`, `pāpasmiṁ`, `ajaramhi`, `velāyaṁ`,
 
 The first four rows are the uses on every page; the rest are rare. A time is
 often in the ③ ending instead, `tena samayena` ("at that time"), the words the
-Bodhikathā opens with ([3: 2.1](../3-awakening/#u2-1)) {290}; two uses ⑦
+Bodhikathā opens with ([3: 2](../3-awakening/#u2-1)) {290}; two uses ⑦
 shares with ⑥, "among" {304} and "despite" {305}, are in [4.7](../4-7-sami/).
 
 Kaccāyana names four kinds of support {278}: pervading (`byāpika`), `jalesu
@@ -79,7 +79,7 @@ in the forenoon / gone (past participle)
 An event that sets the time {313}, the ⑦ absolute: a noun and a participle,
 both ⑦, agreeing with each other and belonging to no verb of the sentence.
 With a `-ta` word it is "when X had happened": `pavattite … dhammacakke`,
-"when the `Dhammacakka` had been set in motion" ([5: 12.1](../5-dhammacakka/#u12-1)):
+"when the `Dhammacakka` had been set in motion" ([5: 2217](../5-dhammacakka/#u12-1)):
 
 > **bhikkhūsu bhojīyamānesu** gato
 
@@ -100,11 +100,11 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī. ([3: 2.2](../3-awakening/#u2-2))
-2. Yathā aññataraṁ bījaṁ, khette vuttaṁ virūhati. ([Bonus: 20, 5.1–5.2](../11-pbt/#s20-u994-1))
-3. ariyasāvako rūpasmimpi nibbindati ([7: 11.1](../7-anatta/#u11-1))
-4. Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi. ([3: 5.1](../3-awakening/#u5-1))
-5. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne ([7: 12.3](../7-anatta/#u12-3))
+1. Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī. ([3: 2](../3-awakening/#u2-2))
+2. Yathā aññataraṁ bījaṁ, khette vuttaṁ virūhati. ([Bonus: 20, 994](../11-pbt/#s20-u994-1))
+3. ariyasāvako rūpasmimpi nibbindati ([7: 307](../7-anatta/#u11-1))
+4. Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi. ([3: 5](../3-awakening/#u5-1))
+5. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne ([7: 308](../7-anatta/#u12-3))
 
 ### Answers
 

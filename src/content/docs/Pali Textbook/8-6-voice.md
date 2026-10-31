@@ -30,7 +30,7 @@ passive the `attanopada` endings (🔵, `-te`, `-ante`) {453}, `vuccate`, but th
 texts nearly always swap them for the `parassapada` endings of 8.1 {518},
 `vuccati`: a passive verb usually ends exactly like an active one, and only
 the piece before the ending gives it away; chapter 7's `labbhetha` keeps an
-`attanopada` ending ([7: 2.2](../7-anatta/#u2-2)).
+`attanopada` ending ([7: 298](../7-anatta/#u2-2)).
 
 ### The passive piece `ya` {440}
 
@@ -51,7 +51,7 @@ Kaccāyana writes the four pieces `ṇe`, `ṇaya`, `ṇāpe`, `ṇāpaya` {438}
 is not a sound of the word: it is dropped {523}, and it signals that the
 root's vowel is strengthened {483}, `a` to `ā`, `i` to `e`, `u` to `o`:
 `kara` gives `kār-`, and `pabbajati` ("goes forth", the bonus chapter's
-`pabbajeyyaṁ`, [Bonus: 26, 12.8](../11-pbt/#s26-u267-8)) gives `pabbājeti` ("makes go forth", ordains). Before a vowel
+`pabbajeyyaṁ`, [Bonus: 26, 267](../11-pbt/#s26-u267-8)) gives `pabbājeti` ("makes go forth", ordains). Before a vowel
 that `o` or `e` opens out into `āv` or `āy` {515}: `su` ("hear") gives
 `sāveti` ("makes hear"). A root ending in two consonants keeps its vowel,
 `cinteti` {483}.
@@ -100,7 +100,7 @@ The passive with the ending of the active {518}:
 🚹⨀⑤(virāga) 🔴⨀🤟▶️(vimuccati)  
 from detachment / is liberated  
 *from detachment he `vimuccati` (becomes liberated)*  
-*`vimuccati`, "is liberated", the passive: `muca` + `ya` as `-cc-` {441}, with the active ending {518}; [9: 9.1](../9-fire/#u9-1).*
+*`vimuccati`, "is liberated", the passive: `muca` + `ya` as `-cc-` {441}, with the active ending {518}; [9: 75](../9-fire/#u9-1).*
 
 Kaccāyana's own example of the `ī` {442}, in the bonus chapter:
 
@@ -109,9 +109,9 @@ Kaccāyana's own example of the `ī` {442}, in the bonus chapter:
 🔴⨀🤟▶️(karīyati) ⏏️(hi) *️⃣🤟🚻⨀①(ima) 🚹⨂⑥(buddha) 🚻⨀①(sāsana) ⏏️(iti)  
 is practised / surely / in this case / of Buddha / teaching / (end quote)  
 *surely in this case the teaching of the Buddha is practised*  
-*`karīyati` 🔴: `kara` + `ī` + `ya` {442}; the teaching, `sāsanaṁ`, is the subject in ①; [Bonus: 45, 9.8](../11-pbt/#s45-u1061-8).*
+*`karīyati` 🔴: `kara` + `ī` + `ya` {442}; the teaching, `sāsanaṁ`, is the subject in ①; [Bonus: 45, 1061](../11-pbt/#s45-u1061-8).*
 
-The passive piece inside a participle of [8.8](../8-8-verb-like-forms/), with the ⑦ of "while" ([5: 11.1](../5-dhammacakka/#u11-1); the same words open [7: 12.3](../7-anatta/#u12-3) and [9: 10.3](../9-fire/#u10-3)):
+The passive piece inside a participle of [8.8](../8-8-verb-like-forms/), with the ⑦ of "while" ([5: 2216](../5-dhammacakka/#u11-1); the same words open [7: 308](../7-anatta/#u12-3) and [9: 76](../9-fire/#u10-3)):
 
 > Imasmiñca pana veyyākaraṇasmiṁ **bhaññamāne**
 
@@ -127,7 +127,7 @@ The causative in the past, with its lengthening:
 🚹⨂①(bhumma) 🚹⨂①(deva) 🟠⨂🤟⏮(saddamanussāveti)  
 earth-dwelling / devas / raised a cry  
 *`bhummā devā` (the earth-dwelling devas) raised a cry*  
-*`saddamanussāvesuṁ` 🟠, "made the cry heard": `saddaṁ` + `anussāvesuṁ`, causative `e` {438} on `su` strengthened to `sāv` {483}, {515}, before the past ending `-suṁ`; [5: 12.1](../5-dhammacakka/#u12-1).*
+*`saddamanussāvesuṁ` 🟠, "made the cry heard": `saddaṁ` + `anussāvesuṁ`, causative `e` {438} on `su` strengthened to `sāv` {483}, {515}, before the past ending `-suṁ`; [5: 2217](../5-dhammacakka/#u12-1).*
 
 The `-aya-` causative:
 
@@ -136,7 +136,7 @@ The `-aya-` causative:
 🚹⨀②(atta) 🟠⨂🤟▶️(damayati) 🚹⨂①(paṇḍita)  
 self / tame / the wise  
 *The wise tame the self.*  
-*`damayanti` 🟠: `dama` ("be tame") + `aya` {438}, "make tame"; the one made tame, `attānaṁ`, is the object in ② {297}; [Bonus: 21, 4](../11-pbt/#s21-u86-4).*
+*`damayanti` 🟠: `dama` ("be tame") + `aya` {438}, "make tame"; the one made tame, `attānaṁ`, is the object in ② {297}; [Bonus: 21, 86](../11-pbt/#s21-u86-4).*
 
 ### Exercises
 
@@ -167,39 +167,39 @@ deconstruction.
 *️⃣🤟🚹⨀①(ima) 🔴⨀🤟▶️(vuccati) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(sammā+vāyāma)  
 this / is said / Bhikkhave / right effort  
 *Bhikkhave, this is said to be "sammāvāyāma" (right effort).*  
-*Passive 🔴: `vaca` + `ya` as `-cc-` {441}, with the active ending {518}; `sammāvāyāmo`, the thing said, in ①; [Bonus: 35, 21.24](../11-pbt/#s35-u1079-3).*
+*Passive 🔴: `vaca` + `ya` as `-cc-` {441}, with the active ending {518}; `sammāvāyāmo`, the thing said, in ①; [Bonus: 35, 1079](../11-pbt/#s35-u1079-3).*
 
 2. > Tassa me tathāgato vā tathāgatasāvako vā dhammaṁ **desesi**.
 
 *️⃣🤟🚹⨀④(ta) *️⃣👆⚧⨀④(ahaṁ) 🚹⨀①🆎(tathā+gata) ⏏️(vā) 🚹⨀①🆎(tathā+gata+sāvaka) ⏏️(vā) 🚹⨀②(dhamma) 🟠⨀🤟⏮(deseti)  
 to that / to me / Tathāgata / or / disciple of the Buddha / or / Dhamma / taught  
 *Because of that, the Tathāgata and his disciples taught the Dhamma to me.*  
-*Causative 🟠: `disa` ("point out", the `bhū` class) + `e` {438} before the past ending `-si`; what is taught, `dhammaṁ`, in ② {297}; [Bonus: 26, 12.3](../11-pbt/#s26-u267-3).*
+*Causative 🟠: `disa` ("point out", the `bhū` class) + `e` {438} before the past ending `-si`; what is taught, `dhammaṁ`, in ② {297}; [Bonus: 26, 267](../11-pbt/#s26-u267-3).*
 
 3. > **labbhetha** ca rūpe
 
 🔵⨀🤟⏯(labhati) ⏏️(ca) 🚻⨀⑦(rūpa)  
 could be obtained / and / in form  
 *and `rūpa` could be obtained*  
-*Passive 🔴: `labha` + `ya` as `-bbh-` {443}, here with the `attanopada` ending `-etha` {425}, {453}; [7: 2.2](../7-anatta/#u2-2).*
+*Passive 🔴: `labha` + `ya` as `-bbh-` {443}, here with the `attanopada` ending `-etha` {425}, {453}; [7: 298](../7-anatta/#u2-2).*
 
 4. > Usukārā **namayanti** tejanaṁ;
 
 🚹⨂①🆎(usu+kāra) 🟠⨂🤟▶️(namayati) 🚻⨀②(tejana)  
 arrow-makers / straighten / arrow  
 *Arrow makers straighten arrow;*  
-*Causative 🟠: `nama` ("bend") + `aya` {438}, "make bend"; the arrow, `tejanaṁ`, in ② {297}; [Bonus: 21, 2](../11-pbt/#s21-u86-2).*
+*Causative 🟠: `nama` ("bend") + `aya` {438}, "make bend"; the arrow, `tejanaṁ`, in ② {297}; [Bonus: 21, 86](../11-pbt/#s21-u86-2).*
 
 5. > dukkhanirodhagāminī paṭipadā ariyasaccaṁ **bhāvetabban**’ti
 
 🚺⨀①🆎(dukkha+nirodha+gāmī) 🚺⨀①(paṭipadā) 🚻⨀①🆎(ariya+sacca) 🚻⨀①🔽(tabba)(bhāvetabba) ⏏️(iti)  
 leading to the cessation of suffering / path / realisation / to be developed / thus  
 *‘This `dukkhanirodhagāminī paṭipadā ariyasacca` should be `bhāvetabbaṁ` (developed)’: thus*  
-*Causative 🟠 under the `-tabba` of [8.8](../8-8-verb-like-forms/): `bhū` ("be") strengthened to `bhāv` {483}, {515} + `e` {438}, `bhāveti`, "makes be", develops; [5: 8.2](../5-dhammacakka/#u8-2).*
+*Causative 🟠 under the `-tabba` of [8.8](../8-8-verb-like-forms/): `bhū` ("be") strengthened to `bhāv` {483}, {515} + `e` {438}, `bhāveti`, "makes be", develops; [5: 2213](../5-dhammacakka/#u8-2).*
 
 6. > Taṁ kiṁ **maññatha**, bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā”ti?
 
 *️⃣🤟🚻⨀②(ta) *️⃣🤟🚻⨀②(kiṁ) 🟢⨂🤘▶️(maññati) 🚹⨂⓪(bhikkhu) 🚻⨀①(rūpa) 🚻⨀①(nicca) ⏏️(vā) 🚻⨀①🆎(na+nicca) ⏏️(vā) ⏏️(iti)  
 that / what / do you think / Bhikkhave / form / permanent / or / impermanent / or / (end quote)  
 *“Bhikkhave, what do you consider: is `rūpa` (form) `nicca` (permanent) or `anicca` (impermanent)?”*  
-*Neither: `-ññ-` is the `divu` class's own `ya` {447}, {444}, `√man (3, ya)`, and the dictionary glosses it "think", not "is …": active; [7: 6.1](../7-anatta/#u6-1).*
+*Neither: `-ññ-` is the `divu` class's own `ya` {447}, {444}, `√man (3, ya)`, and the dictionary glosses it "think", not "is …": active; [7: 302](../7-anatta/#u6-1).*

@@ -49,7 +49,7 @@ An `a` is "sometimes" put before the root in the `hiyyattanī`, the `ajjatanī` 
 After a prefix it sits between prefix and root: `ud-a-pādi`.
 
 After `mā` ("do not") a past form is a prohibition or a negative wish, not a
-past: `evaṁ me rūpaṁ mā ahosi`, "may my `rūpa` not be thus" ([7: 2.2](../7-anatta/#u2-2))
+past: `evaṁ me rūpaṁ mā ahosi`, "may my `rūpa` not be thus" ([7: 298](../7-anatta/#u2-2))
 {420}.
 
 ### Shapes to know by sight
@@ -78,25 +78,25 @@ other past, adjectives tabled in [8.8](../8-8-verb-like-forms/).
 
 *️⃣🤟🚺⨀①(ima) ⏏️(ca) 🚺⨀①🆎(dasa+sahassī+loka+dhātu) 🟢⨀🤟⏮(saṅkampati) 🟢⨀🤟⏮(sampakampati) 🟢⨀🤟⏮(sampavedhati)  
 this / and / ten-thousand-fold world system / trembled / shook / quaked  
-*"And this `dasasahassilokadhātu` (ten-thousand-fold world system) trembled, shook, quaked;" ([5: 13.2](../5-dhammacakka/#u13-2)) `saṅkampi`, `sampakampi`, `sampavedhi`: `-i` third person singular {428}, the subject `lokadhātu`; no `a` before the root, no `s`.*
+*"And this `dasasahassilokadhātu` (ten-thousand-fold world system) trembled, shook, quaked;" ([5: 2218](../5-dhammacakka/#u13-2)) `saṅkampi`, `sampakampi`, `sampavedhi`: `-i` third person singular {428}, the subject `lokadhātu`; no `a` before the root, no `s`.*
 
 > Tatra kho bhagavā pañcavaggiye bhikkhū **āmantesi**—
 
 ⏏️(tatra) ⏏️(kho) 🚹⨀①(bhagavant) 🚹⨂②🆎(pañca+vaggiya) 🚹⨂②(bhikkhu) 🟢⨀🤟⏮(āmanteti)  
 there / indeed / the Bhagavā / of the group of five / bhikkhū / addressed  
-*"There the Bhagavā addressed the group of five bhikkhū:" ([5: 1.2](../5-dhammacakka/#u1-2)) `āmantesi`: `-i` third person singular {428} after the `s` {491} and the `e` of the class {452}; the prefix `ā`, no `a` seen.*
+*"There the Bhagavā addressed the group of five bhikkhū:" ([5: 2206](../5-dhammacakka/#u1-2)) `āmantesi`: `-i` third person singular {428} after the `s` {491} and the `e` of the class {452}; the prefix `ā`, no `a` seen.*
 
 > Attamanā te bhikkhū bhagavato bhāsitaṁ **abhinanduṁ**.
 
 🚹⨂①🆎(atta+mana) *️⃣🤟🚹⨂①(ta) 🚹⨂①(bhikkhu) 🚹⨀⑥(bhagavant) 🚻⨀②🔽(ta)(bhāsita) 🟢⨂🤟⏮(abhinandati)  
 delighted / those / bhikkhū / of the Bhagavā / what was spoken / rejoiced in  
-*"Those bhikkhū, delighted, rejoiced in the Bhagavā’s words." ([9: 10.2](../9-fire/#u10-2)) `abhinanduṁ`: `-uṁ` third person plural {428}, the subject `bhikkhū`; no `a`, no `s`.*
+*"Those bhikkhū, delighted, rejoiced in the Bhagavā’s words." ([9: 76](../9-fire/#u10-2)) `abhinanduṁ`: `-uṁ` third person plural {428}, the subject `bhikkhū`; no `a`, no `s`.*
 
 > Yato khayaṁ paccayānaṁ **avedī**”ti.
 
 ⏏️(yato) 🚹⨀②(khaya) 🚹⨂⑥(paccaya) 🟢⨀🤟⏮(vedeti) ⏏️(iti)  
 since / the destruction / of causes / knew / (end quote)  
-*"since he has understood the destruction of causes.”" ([3: 9.4](../3-awakening/#u9-4)) `avedi`: the `a` put before the root {519}, `-i` third person singular {428}; the `ī` is the join with `ti` ([2.1](../2-1-sandhi/)).*
+*"since he has understood the destruction of causes.”" ([3: 9](../3-awakening/#u9-4)) `avedi`: the `a` put before the root {519}, `-i` third person singular {428}; the `ī` is the join with `ti` ([2.1](../2-1-sandhi/)).*
 
 ### Exercises
 
@@ -122,22 +122,22 @@ deconstruction.
 
 ⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚻⨀⑦🆎(bodhi+rukkha+mūla) 🚻⨀②🆎(satta+aha) 🚹⨀③🆎(eka+pallaṅka) 🟢⨀🤟⏮(nisīdati) 🚹⨀①🆎(vimutti+sukha+paṭisaṁvedī)  
 then / indeed / the Bhagavā / at the root of the bodhi tree / for seven days / in one cross-legged posture / sat down / experiencing the bliss of liberation  
-*"Then the Bhagavā sat at the root of the Bodhi tree for seven days in one cross-legged posture, experiencing the bliss of liberation (`vimuttisukhapaṭisaṁvedī`)." ([3: 2.2](../3-awakening/#u2-2)) `nisīdi`: `-i` third person singular {428}, the subject `bhagavā`; the prefix `ni`, no `a`, no `s`.*
+*"Then the Bhagavā sat at the root of the Bodhi tree for seven days in one cross-legged posture, experiencing the bliss of liberation (`vimuttisukhapaṭisaṁvedī`)." ([3: 2](../3-awakening/#u2-2)) `nisīdi`: `-i` third person singular {428}, the subject `bhagavā`; the prefix `ni`, no `a`, no `s`.*
 
 2. > Atha kho bhagavā imaṁ udānaṁ **udānesi**—
 
 ⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) *️⃣🤟🚻⨀②(ima) 🚻⨀②(udāna) 🟠⨀🤟⏮(udāneti)  
 then / indeed / the Bhagavā / this / inspired utterance / uttered  
-*"Then the Bhagavā uttered this inspired utterance:" ([5: 14.1](../5-dhammacakka/#u14-1)) `udānesi`: `-i` third person singular {428} after the `s` {491} and the `e` of `udāneti`; the prefix `ud`, no `a`.*
+*"Then the Bhagavā uttered this inspired utterance:" ([5: 2219](../5-dhammacakka/#u14-1)) `udānesi`: `-i` third person singular {428} after the `s` {491} and the `e` of `udāneti`; the prefix `ud`, no `a`.*
 
 3. > Tassa me tathāgato vā tathāgatasāvako vā dhammaṁ **desesi**.
 
 *️⃣🤟🚹⨀④(ta) *️⃣👆⚧⨀④(ahaṁ) 🚹⨀①🆎(tathā+gata) ⏏️(vā) 🚹⨀①🆎(tathā+gata+sāvaka) ⏏️(vā) 🚹⨀②(dhamma) 🟠⨀🤟⏮(deseti)  
 to that / to me / Tathāgata / or / disciple of the Buddha / or / Dhamma / taught  
-*"Because of that, the Tathāgata and his disciples taught the Dhamma to me." ([Bonus: 26, 12.3](../11-pbt/#s26-u267-3)) `desesi`: `-i` third person singular {428} after the `s` {491} and the `e` of `deseti`; no `a`.*
+*"Because of that, the Tathāgata and his disciples taught the Dhamma to me." ([Bonus: 26, 267](../11-pbt/#s26-u267-3)) `desesi`: `-i` third person singular {428} after the `s` {491} and the `e` of `deseti`; no `a`.*
 
 4. > Tāhaṁ dhammaṁ sutvā tathāgate saddhaṁ **paṭilabhiṁ**.
 
 *️⃣🤟🚹⨀②(ta) *️⃣👆⚧⨀①(ahaṁ) 🚹⨀②(dhamma) 🔽(tvā)(suṇāti) 🚹⨀⑦🆎(tathā+gata) 🚺⨀②(saddhā) 🟢⨀👆⏮(paṭilabhati)  
-that / I / Dhamma / having heard / in Tathāgata / faith / I acquired  
-*"Having heard that Dhamma, I acquired faith in the Tathāgata." ([Bonus: 26, 12.4](../11-pbt/#s26-u267-4)) `paṭilabhiṁ`: `-iṁ` first person singular {428}; the prefix `pati`, no `a`, no `s`.*
+that / I / Dhamma / having heard / in Tathāgata / confidence / I acquired  
+*"Having heard that Dhamma, I acquired confidence in the Tathāgata." ([Bonus: 26, 267](../11-pbt/#s26-u267-4)) `paṭilabhiṁ`: `-iṁ` first person singular {428}; the prefix `pati`, no `a`, no `s`.*

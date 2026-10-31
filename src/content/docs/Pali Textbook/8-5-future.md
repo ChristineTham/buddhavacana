@@ -58,8 +58,8 @@ so what you see is nearly always `-issa-`: `gam-i-ssati`, `kar-i-ssati`. That
 
 | what you see | person | number | example | rule |
 | --- | :-: | :-: | --- | :-: |
-| `a-` … `-ssā`, `-ssa` | third 🤟 | ⨀ | `agacchissā` ("he would have gone"), `alabhissā`; the texts' `abhavissa` ([7: 2.2](../7-anatta/#u2-2)) | {430}, {519} |
-| `a-` … `-ssaṁsu` | third 🤟 | ⨂ | `agacchissaṁsu`, `alabhissaṁsu`; the texts' `abhavissaṁsu` ([7: 4.5](../7-anatta/#u4-5)) | {430}, {519} |
+| `a-` … `-ssā`, `-ssa` | third 🤟 | ⨀ | `agacchissā` ("he would have gone"), `alabhissā`; the texts' `abhavissa` ([7: 298](../7-anatta/#u2-2)) | {430}, {519} |
+| `a-` … `-ssaṁsu` | third 🤟 | ⨂ | `agacchissaṁsu`, `alabhissaṁsu`; the texts' `abhavissaṁsu` ([7: 300](../7-anatta/#u4-5)) | {430}, {519} |
 | `-sse`, `-ssatha`, `-ssaṁ`, `-ssāmhā` | second 🤘, first 👆 | ⨀, ⨂ | none in the rules or the texts | {430} |
 
 The `a-` is the past's, from [8.4](../8-4-past/), and its rule names the
@@ -80,7 +80,7 @@ sits on a lemma; `passati` ("sees") is a present: no `i`.
 
 🚻⨀①🔽(ta)(āraddha) ⏏️(kho) ⏏️(pana) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(vīriya) 🟢⨀🤟⏭(bhavati) 🚻⨀①🔽(ta)🆎(na+sallīna)  
 applied / indeed / now / my / determination / will become / active  
-*`bhavissati`, "will become": `-ssati`, the future, third person singular {429}, with the `i` before `ssa` {516}; [Bonus: 45, 9.7](../11-pbt/#s45-u1061-7).*
+*`bhavissati`, "will become": `-ssati`, the future, third person singular {429}, with the `i` before `ssa` {516}; [Bonus: 45, 1061](../11-pbt/#s45-u1061-7).*
 
 > te **gacchissanti**, **karissanti**
 
@@ -92,13 +92,13 @@ they / will go / will do
 
 ⏏️(no) ⏏️(ce) *️⃣🤟🚻⨀①(eta) 🚹⨂⓪(bhikkhu) 🟢⨀🤟🔀(bhavati) 🚻⨀①🔽(ta)🆎(na+jāta) 🚻⨀①🔽(ta)🆎(na+bhūta) 🚻⨀①🔽(ta)🆎(na+kata) 🚻⨀①🔽(ta)🆎(na+saṅkhata)  
 surely? / if / this / Bhikkhave / could have been / not born / not become / not made / not formed  
-*`abhavissa`, "could have been": the conditional, third person singular, `a-` {519}, `-ssa` for `-ssā` {430}, after `no ce` ("if not"); [Bonus: 51, 3.2](../11-pbt/#s51-u671-2).*
+*`abhavissa`, "could have been": the conditional, third person singular, `a-` {519}, `-ssa` for `-ssā` {430}, after `no ce` ("if not"); [Bonus: 51, 671](../11-pbt/#s51-u671-2).*
 
 > Saṅkhārā ca hidaṁ, bhikkhave, attā **abhavissaṁsu**
 
 🚹⨂①(saṅkhāra) ⏏️(ca) ⏏️(hi) *️⃣🤟🚻⨀①(ima) 🚹⨂⓪(bhikkhu) 🚹⨀①(atta) 🟢⨂🤟🔀(bhavati)  
 mental constructions / and / indeed / this / Bhikkhave / self / would be  
-*`abhavissaṁsu`, "would be": `-ssaṁsu`, the conditional, third person plural {430}, with the `a-` {519} and no "if" spoken; [7: 4.5](../7-anatta/#u4-5).*
+*`abhavissaṁsu`, "would be": `-ssaṁsu`, the conditional, third person plural {430}, with the `a-` {519} and no "if" spoken; [7: 300](../7-anatta/#u4-5).*
 
 ### Exercises
 
@@ -127,7 +127,7 @@ deconstruction.
 
 🚻⨀①(rūpa) ⏏️(ca) ⏏️(hi) *️⃣🤟🚻⨀①(ima) 🚹⨂⓪(bhikkhu) 🚹⨀①(atta) 🟢⨀🤟🔀(bhavati)  
 form / and / indeed / this / Bhikkhave / self / would be  
-*`abhavissa`, "would be": the conditional, third person singular, `a-` {519}, `-ssa` for `-ssā` {430}, with no "if" spoken; [7: 2.2](../7-anatta/#u2-2).*
+*`abhavissa`, "would be": the conditional, third person singular, `a-` {519}, `-ssa` for `-ssā` {430}, with no "if" spoken; [7: 298](../7-anatta/#u2-2).*
 
 2. > kilanto addhānaṁ **gamissati**
 

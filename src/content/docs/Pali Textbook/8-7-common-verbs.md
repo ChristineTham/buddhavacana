@@ -58,9 +58,9 @@ prefer `hoti`.
 | `hoti` | is; becomes | 🟢⨀🤟▶️ | `hū` | {485}, {510} |
 | `honti` | are | 🟢⨂🤟▶️ | `hū` | {485} |
 | `hotu` | let it be; may it be | 🟢⨀🤟⏹ | `hū` | {415}, {485} |
-| `hontu` | let them be ([7: 4.5](../7-anatta/#u4-5)) | 🟢⨂🤟⏹ | `hū` | {415}, {485} |
+| `hontu` | let them be ([7: 300](../7-anatta/#u4-5)) | 🟢⨂🤟⏹ | `hū` | {415}, {485} |
 | **`ahosi`** | was; became | 🟢⨀🤟⏮ | `hū` | {519}, {491}, {517} |
-| **`ahesuṁ`** | they were; `mā ahesuṁ`, "let them not be" ([7: 4.5](../7-anatta/#u4-5)) | 🟢⨂🤟⏮ | `hū` | {519}, {491}, {517}, {420} |
+| **`ahesuṁ`** | they were; `mā ahesuṁ`, "let them not be" ([7: 300](../7-anatta/#u4-5)) | 🟢⨂🤟⏮ | `hū` | {519}, {491}, {517}, {420} |
 | `hutvā` | having been | 🔽(tvā) | `hū` | {564}, {26} |
 | `bhūta` | become; been | 🔽(ta) | `bhū` | {555} |
 
@@ -113,31 +113,31 @@ Three things to notice in the table:
 
 ⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(samudaya) 🟢⨀🤟▶️(hoti)  
 thus / of this / of the entire / of the mass of suffering / origin / is  
-*`hoti`: the present of the root `hū`, `ū` strengthened to `o` {485}; it joins `samudayo`, its ① subject, to what it is; [3: 3.12](../3-awakening/#u3-12).*
+*`hoti`: the present of the root `hū`, `ū` strengthened to `o` {485}; it joins `samudayo`, its ① subject, to what it is; [3: 3](../3-awakening/#u3-12).*
 
 > Iti hidaṁ āyasmato koṇḍaññassa “aññāsikoṇḍañño” tveva nāmaṁ **ahosī**ti.
 
 ⏏️(iti) ⏏️(hi) *️⃣🤟🚻⨀①(ima) 🚹⨀⑥(āyasmant) 🚹⨀⑥(koṇḍañña) 🚹⨀①(aññāsikoṇḍañña) ⏏️(tu) ⏏️(eva) 🚻⨀①(nāma) 🟢⨀🤟⏮(hoti) ⏏️(iti)  
 thus / indeed / this / of the venerable / Koṇḍañña / Aññāsikoṇḍañña / just / so / the name / was / (end quote)  
-*`ahosi`, "was": the past of `hoti`, the `a` before the root {519} and the `s` inserted {491}, its `-i` lengthened where `ti` joins; [5: 14.2](../5-dhammacakka/#u14-2).*
+*`ahosi`, "was": the past of `hoti`, the `a` before the root {519} and the `s` inserted {491}, its `-i` lengthened where `ti` joins; [5: 2219](../5-dhammacakka/#u14-2).*
 
 > evaṁ me rūpaṁ **hotu**
 
 ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(rūpa) 🟢⨀🤟⏹(hoti)  
 thus / my / form / let be  
-*`hotu`, "let it be": the command of `hoti`, `-tu` {424}, third person singular; [7: 2.2](../7-anatta/#u2-2).*
+*`hotu`, "let it be": the command of `hoti`, `-tu` {424}, third person singular; [7: 298](../7-anatta/#u2-2).*
 
 > Idam**avoca** bhagavā.
 
 *️⃣🤟🚻⨀②(ima) 🟢⨀🤟⏮(vadati) 🚹⨀①(bhagavant)  
 this / said / the Bhagavā  
-*`avoca`, "said": the past of `vadati`, the past's `a` {519}, `o` for the root's `a` {477}, joined to `idaṁ`; [5: 10.3](../5-dhammacakka/#u10-3), [7: 12.1](../7-anatta/#u12-1), [9: 10.1](../9-fire/#u10-1).*
+*`avoca`, "said": the past of `vadati`, the past's `a` {519}, `o` for the root's `a` {477}, joined to `idaṁ`; [5: 2215](../5-dhammacakka/#u10-3), [7: 308](../7-anatta/#u12-1), [9: 76](../9-fire/#u10-1).*
 
 > Yato **pajānāti** sahetudhamman”ti.
 
 ⏏️(yato) 🟢⨀🤟▶️(pajānāti) 🚹⨀②🆎(sahetu+dhamma) ⏏️(iti)  
 since / knows / phenomena with their causes / (end quote)  
-*`pajānāti`, "knows": `pa` + `jānāti`, the root `ñā` become `jā` {470} with the class's piece `nā` {449}; strip `pa-` and `-nāti` for the root; [3: 6.4](../3-awakening/#u6-4).*
+*`pajānāti`, "knows": `pa` + `jānāti`, the root `ñā` become `jā` {470} with the class's piece `nā` {449}; strip `pa-` and `-nāti` for the root; [3: 6](../3-awakening/#u6-4).*
 
 ### Exercises
 
@@ -169,46 +169,46 @@ deconstruction.
 
 🚹⨀③🆎(eka+pallaṅka) 🟢⨀🤟⏮(nisīdati)  
 in one cross-legged posture / sat down  
-*`nisīdi`, "sat down": the past of `nisīdati`, the ending `-i` {428}, {517} on the present's shape `nisīda-` {609}, without the `a-`; third person singular; [3: 2.2](../3-awakening/#u2-2).*
+*`nisīdi`, "sat down": the past of `nisīdati`, the ending `-i` {428}, {517} on the present's shape `nisīda-` {609}, without the `a-`; third person singular; [3: 2](../3-awakening/#u2-2).*
 
 2. > Vidhūpayaṁ **tiṭṭhati** mārasenaṁ
 
 🚹⨀①🔽(anta)(vidhūpayanta) 🟢⨀🤟▶️(tiṭṭhati) 🚺⨀②🆎(māra+senā)  
 scattering / stands / the army of Māra  
-*`tiṭṭhati`: the present of the root `ṭhā`, replaced by `tiṭṭha` {468}; third person singular; [3: 12.3](../3-awakening/#u12-3).*
+*`tiṭṭhati`: the present of the root `ṭhā`, replaced by `tiṭṭha` {468}; third person singular; [3: 12](../3-awakening/#u12-3).*
 
 3. > **aññāsi** vata bho, koṇḍañño
 
 🟢⨀🤟⏮(ājānāti) ⏏️(vata) 🚹⨀⓪(bhavant) 🚹⨀①(koṇḍañña)  
 has understood / indeed / Bho / Koṇḍañña  
-*`aññāsi`, "he understood": the past of `ājānāti`, `ā` + `jānāti`, made like `akāsi`: `a-` {519}, `-si` {491}, the `nā` gone {509}; [5: 14.1](../5-dhammacakka/#u14-1).*
+*`aññāsi`, "he understood": the past of `ājānāti`, `ā` + `jānāti`, made like `akāsi`: `a-` {519}, `-si` {491}, the `nā` gone {509}; [5: 2219](../5-dhammacakka/#u14-1).*
 
 4. > Bhummānaṁ devānaṁ saddaṁ **sutvā**
 
 🚹⨂⑥(bhumma) 🚹⨂⑥(deva) 🚹⨀②(sadda) 🔽(tvā)(suṇāti)  
 of the earth-dwelling / devas / the cry / having heard  
-*`sutvā`: the absolutive of `suṇāti`, the root `su` with `-tvā` {564}, "having heard"; not a finite verb, so no person or number; [5: 12.2](../5-dhammacakka/#u12-2).*
+*`sutvā`: the absolutive of `suṇāti`, the root `su` with `-tvā` {564}, "having heard"; not a finite verb, so no person or number; [5: 2217](../5-dhammacakka/#u12-2).*
 
 5. > ādittan’ti **vadāmi**
 
 🚻⨀①🔽(ta)(āditta) ⏏️(iti) 🟢⨀👆▶️(vadati)  
 burning / (end quote) / I say  
-*`vadāmi`, "I say": the present of `vadati` {445}, first person singular `-mi` {423}, the `a` before it lengthened {478}; [9: 2.6](../9-fire/#u2-6).*
+*`vadāmi`, "I say": the present of `vadati` {445}, first person singular `-mi` {423}, the `a` before it lengthened {478}; [9: 75](../9-fire/#u2-6).*
 
 6. > **kataṁ** karaṇīyaṁ
 
 🚻⨀①🔽(ta)(kata) 🚻⨀①🔽(anīya)(karaṇīya)  
 done / what had to be done  
-*`kataṁ`: the past participle of `karoti`, the `r` of `kara` dropped before `ta` {587}, agreeing with `karaṇīyaṁ` 🚻⨀①; [9: 9.2](../9-fire/#u9-2), [7: 11.4](../7-anatta/#u11-4).*
+*`kataṁ`: the past participle of `karoti`, the `r` of `kara` dropped before `ta` {587}, agreeing with `karaṇīyaṁ` 🚻⨀①; [9: 75](../9-fire/#u9-2), [7: 307](../7-anatta/#u11-4).*
 
 7. > **atthi** nibbuti, na nibbuto pumā
 
 🟢⨀🤟▶️(atthi) 🚺⨀①(nibbuti) ⏏️(na) 🚹⨀①🔽(ta)(nibbuta) 🚹⨀①(puma)  
 there is / extinguishment / not / extinguished / male  
-*`atthi`: the root `asa` with `ti` become `tthi` {494}, "there is"; `nibbuti`, what exists, takes ①; third person singular; [Bonus: 7, 1.3](../11-pbt/#s7-u1-3) (Visuddhimagga XVI).*
+*`atthi`: the root `asa` with `ti` become `tthi` {494}, "there is"; `nibbuti`, what exists, takes ①; third person singular; [Bonus: 7](../11-pbt/#s7-u1-3) (Visuddhimagga XVI).*
 
 8. > **nisinno** vā ‘nisinnomhī’ti pajānāti
 
 🚹⨀①🔽(ta)(nisinna) ⏏️(vā) 🚹⨀①🔽(ta)(nisinna) 🟢⨀👆▶️(atthi) ⏏️(iti) 🟢⨀🤟▶️(pajānāti)  
 sitting / or / sitting / I am / (end quote) / knows clearly  
-*`nisinno`, "sitting": the past participle of `nisīdati`, `-inna` for `-ta` {582}, agreeing with the bhikkhu 🚹⨀①; `nisinnomhi` is `nisinno` + `amhi`, "I am"; [Bonus: 36, 3.1](../11-pbt/#s36-u953-1).*
+*`nisinno`, "sitting": the past participle of `nisīdati`, `-inna` for `-ta` {582}, agreeing with the bhikkhu 🚹⨀①; `nisinnomhi` is `nisinno` + `amhi`, "I am"; [Bonus: 36, 953](../11-pbt/#s36-u953-1).*

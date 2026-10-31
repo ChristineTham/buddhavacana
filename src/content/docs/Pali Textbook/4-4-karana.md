@@ -28,7 +28,7 @@ goes with `saha` and `saddhiṁ` ("together with") {287}; and ③ can also give
 the reason for an action, the time at which it happens, the limb a defect
 sits in or the clan a person is known by {289}–{292}. The question to ask of
 a ③ noun is "with what, or by whom?" — the Fire Sermon asks it of itself, `kena
-ādittaṁ?`, "burning with what?" ([9: 2.5](../9-fire/#u2-5)) — and if neither
+ādittaṁ?`, "burning with what?" ([9: 75](../9-fire/#u2-5)) — and if neither
 fits, "why, or when?".
 
 The ③ ending looks like `-ena` (`kāyena`, "with the body"), `-āya`
@@ -45,7 +45,7 @@ plural `-ehi`, `-ebhi` or `-hi` (`viññūhi`, "by the wise");
 | accompanied by: the companion of `saha` or `saddhiṁ` ("together with"), `vinā` ("without") or `samaṁ` ("equal to") | one of those words next to a ③ noun | `mahatā bhikkhusaṅghena saddhiṁ` ("together with a great community of monks") | {287} |
 | the doer (`kattā`) of a passive verb: the one by whom the thing was done | a ③ noun with a passive verb, often a word in `-ta` such as `hato` ("killed") | `yakkhena dinno varo` ("the boon [was] given by the yakkha") | {288} |
 | the cause (`hetu`): the reason for the action (the same word names the causer of [4.6](../4-6-katta/) {282}) | a ③ noun that answers "why?", "because of" | `annena vasati` ("[he] stays because of food") | {289} |
-| the time, in the sense of the ⑦ ending | `tena samayena`, the opening of countless passages ([3: 2.1](../3-awakening/#u2-1)) | `tena kālena` ("at that time") | {290} |
+| the time, in the sense of the ⑦ ending | `tena samayena`, the opening of countless passages ([3: 2](../3-awakening/#u2-1)) | `tena kālena` ("at that time") | {290} |
 | the limb a defect sits in | a part of the body in ③ beside the word for the defect | `akkhinā kāṇo` ("one-eyed in the eye") | {291} |
 | the distinguishing attribute (`visesana`): the clan or quality someone is known by | a ③ noun beside a name or a word of praise | `gottena gotamo nātho` ("the Protector [is] a Gotama by clan") | {292} |
 
@@ -98,11 +98,11 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. Ekaṁ samayaṁ bhagavā gayāyaṁ viharati gayāsīse saddhiṁ bhikkhusahassena. ([9: 1.1](../9-fire/#u1-1))
-2. Dveme, bhikkhave, antā pabbajitena na sevitabbā. ([5: 2.1](../5-dhammacakka/#u2-1))
-3. Rāgagginā, dosagginā, mohagginā ādittaṁ ([9: 2.6](../9-fire/#u2-6))
-4. Viññāṇassa nirodhena, natthi dukkhassa sambhavo. ([Bonus: 16, 19.3–19.4](../11-pbt/#s16-u882-3))
-5. Tena samayena buddho bhagavā uruvelāyaṁ viharati ([3: 2.1](../3-awakening/#u2-1))
+1. Ekaṁ samayaṁ bhagavā gayāyaṁ viharati gayāsīse saddhiṁ bhikkhusahassena. ([9: 75](../9-fire/#u1-1))
+2. Dveme, bhikkhave, antā pabbajitena na sevitabbā. ([5: 2207](../5-dhammacakka/#u2-1))
+3. Rāgagginā, dosagginā, mohagginā ādittaṁ ([9: 75](../9-fire/#u2-6))
+4. Viññāṇassa nirodhena, natthi dukkhassa sambhavo. ([Bonus: 16, 882](../11-pbt/#s16-u882-3))
+5. Tena samayena buddho bhagavā uruvelāyaṁ viharati ([3: 2](../3-awakening/#u2-1))
 
 ### Answers
 
