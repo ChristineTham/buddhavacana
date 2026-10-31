@@ -9,7 +9,7 @@ description: >
 
 ## Passage for reading
 
-[**Pāyāsisutta** DN 23 PTS 2.316–2.358](https://suttacentral.net/dn23/pli/ms#19.3) 19.3-19.9 (D II 337,9-23):
+[**Pāyāsisutta** DN 23 PTS 2.316–2.358](https://tipitaka2500.github.io/tipitaka/7D/10/10.2/10.2.9.html#1114) 19.3-19.9 (D II 337,9-23):
 
 >bhūtapubbaṃ aññataro saṅkhadhamo saṅkhaṃ ādāya paccantimaṃ janapadaṃ agamāsi. so yen' aññataro gāmo ten' upasaṃkami. upasaṃkamitvā saṅkhaṃ upaḷāsitvā saṅkhaṃ nikkhipitvā nisīdi. atha kho tesaṃ paccantajānaṃ manussānaṃ etad ahosi: kissa nu kho eso saddo evaṃ rajanīyo evaṃ kamanīyo evaṃ madanīyo ti. sannipatitvā taṃ saṅkhadhamaṃ etad avocuṃ: ambho kissa nu kho eso saddo evaṃ rajanīyo evaṃ kamanīyo evaṃ madanīyo ti. eso kho bho saṅkho nāma yass' eso saddo evaṃ rajanīyo evaṃ kamanīyo evaṃ madanīyo ti.
 

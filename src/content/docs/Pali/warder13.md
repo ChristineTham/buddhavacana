@@ -9,7 +9,7 @@ description: >
 
 ## Passage for reading
 
-[**Pāyāsisutta** DN 23 PTS 2.316–2.358](https://suttacentral.net/dn23/pli/ms#19.10) 19.10-19.18 (D II 337,23 - 338,9):
+[**Pāyāsisutta** DN 23 PTS 2.316–2.358](https://tipitaka2500.github.io/tipitaka/7D/10/10.2/10.2.9.html#1114) 19.10-19.18 (D II 337,23 - 338,9):
 
 >te taṃ saṅkhaṃ uttānaṃ nipātesuṃ: vadehi bho saṅkha, vadehi bho saṅkhā ti. n'eva so saṅkho saddaṃ akāsi. te taṃ saṅkhaṃ passena nipātesuṃ … uddhaṃ ṭhapesuṃ … daṇḍena ākoṭesuṃ … sandhuniṃsu: vadehi bho saṅkha, vadehi bho saṅkhā ti. n'eva so saṅkho saddaṃ akāsi. atha kho tassa saṅkhadhamassa etad ahosi: yāva bālā. ime paccantajā manussā. kathaṃ hi nāma ayoniso saṅkhasaddaṃ gavesissantī ti. tesam pekkhamānānaṃ saṅkhaṃ gahetvā tikkhattuṃ saṅkhaṃ upaḷāsitvā saṅkhaṃ ādāya pakkāmi.
 

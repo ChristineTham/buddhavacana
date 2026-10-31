@@ -35,9 +35,9 @@ and a number from eleven upwards is two numbers run together, `dvā-dasa`
 
 | number | ordinal | what you see | rule |
 | :-: | --- | --- | :-: |
-| 1 `eka` | `paṭhamo`: `paṭhamaṁ yāmaṁ` ([3: 2.3](../3-awakening/#u2-3)), `paṭhamaṁ jhānaṁ` ([Bonus: 38, 10.1](../11-pbt/#s38-u10-1)) | no number inside it: a word of its own | {666} |
-| 2, 3 `dvi`, `ti` | `dutiyo`, `tatiyo`: `dutiyaṁ jhānaṁ` ([Bonus: 39, 11.1](../11-pbt/#s39-u11-1)) | `-tiya`; `dvi` and `ti` have become `du` and `ta` | {385}, {386} |
-| 4 `catu` | `catuttho`: `catutthaṁ jhānaṁ` ([Bonus: 41, 13.1](../11-pbt/#s41-u13-1)) | `-ttha` | {384} |
+| 1 `eka` | `paṭhamo`: `paṭhamaṁ yāmaṁ` ([3: 2.3](../3-awakening/#u2-3)), `paṭhamaṁ jhānaṁ` ([Bonus: 38, 10.1](../11-pbt/#s38-u697-6)) | no number inside it: a word of its own | {666} |
+| 2, 3 `dvi`, `ti` | `dutiyo`, `tatiyo`: `dutiyaṁ jhānaṁ` ([Bonus: 39, 11.1](../11-pbt/#s39-u698-1)) | `-tiya`; `dvi` and `ti` have become `du` and `ta` | {385}, {386} |
+| 4 `catu` | `catuttho`: `catutthaṁ jhānaṁ` ([Bonus: 41, 13.1](../11-pbt/#s41-u700-1)) | `-ttha` | {384} |
 | 5 `pañca` | `pañcamo` | `-ma` | {373} |
 | 6 `cha` | `chaṭṭho`, `saṭṭho` | `-ṭṭha`; `cha` may become `sa` | {384}, {374} |
 | 7 to 10 `satta`, `aṭṭha`, `nava`, `dasa` | `sattamo`, `aṭṭhamo`, `navamo`, `dasamo` | `-ma` | {373} |
@@ -101,10 +101,10 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. Tathā dutiyaṁ. ([Bonus: 37, 1.11.52](../11-pbt/#s37-u1-11-52))
+1. Tathā dutiyaṁ. ([Bonus: 37, 1.11.52](../11-pbt/#s37-u890-2))
 2. Tathā catutthaṁ. (the same sentence)
-3. sabbaso ([Bonus: 42, 14.1](../11-pbt/#s42-u14-1))
-4. yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti ([Bonus: 36, 3.2](../11-pbt/#s36-u3-2))
+3. sabbaso ([Bonus: 42, 14.1](../11-pbt/#s42-u701-1))
+4. yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti ([Bonus: 36, 3.2](../11-pbt/#s36-u953-1a))
 
 ### Answers
 

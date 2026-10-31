@@ -50,8 +50,8 @@ the [bonus chapter](../11-pbt/), `āvuso` in the bonus chapter:
 | --- | --- | --- |
 | `bho` | sir | `bho purisa`, `bho rāja`, with a singular {285} |
 | `bhavanto` | sirs | `bhavanto purisā`, `bhavanto rājāno`, with a plural {285} |
-| `bhante` | venerable sir, another ⓪ form of `bhavanta` | the monks answering the Buddha: `evaṁ, bhante` ("yes, Bhante", [Bonus: 1, 24.15](../11-pbt/#s1-u24-15)), `aniccaṁ, bhante` ([7: 6.2](../7-anatta/#u6-2)) |
-| `āvuso` | friend, a particle | one monk to another: `āvuso visākha` ("friend Visākha", [Bonus: 10, 22.2](../11-pbt/#s10-u22-2)) |
+| `bhante` | venerable sir, another ⓪ form of `bhavanta` | the monks answering the Buddha: `evaṁ, bhante` ("yes, Bhante", [Bonus: 1, 24.15](../11-pbt/#s1-u1371-1)), `aniccaṁ, bhante` ([7: 6.2](../7-anatta/#u6-2)) |
+| `āvuso` | friend, a particle | one monk to another: `āvuso visākha` ("friend Visākha", [Bonus: 10, 22.2](../11-pbt/#s10-u1614-1)) |
 | `he`, `ahe`, `re`, `are` | hey!; friend! (to an equal); hey, you! (in contempt); away with you! | `he sakhe` ("hey, friend!") {285}; alone they are particles under {284} |
 
 Every rule number links to the full rule in the Kaccāyana translation;
@@ -91,8 +91,8 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. Evaṁ, bhante. ([Bonus: 1, 24.15](../11-pbt/#s1-u24-15))
-2. Tayome, āvuso visākha, saṅkhārā— ([Bonus: 12, 13.2](../11-pbt/#s12-u13-2))
+1. Evaṁ, bhante. ([Bonus: 1, 24.15](../11-pbt/#s1-u1371-1))
+2. Tayome, āvuso visākha, saṅkhārā— ([Bonus: 12, 13.2](../11-pbt/#s12-u1596-1))
 3. Rūpaṁ, bhikkhave, anattā. ([7: 2.1](../7-anatta/#u2-1))
 4. Cakkhu, bhikkhave, ādittaṁ, rūpā ādittā, cakkhuviññāṇaṁ ādittaṁ, cakkhusamphasso āditto. ([9: 2.3](../9-fire/#u2-3))
 

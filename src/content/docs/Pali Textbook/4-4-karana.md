@@ -101,7 +101,7 @@ deconstruction.
 1. Ekaṁ samayaṁ bhagavā gayāyaṁ viharati gayāsīse saddhiṁ bhikkhusahassena. ([9: 1.1](../9-fire/#u1-1))
 2. Dveme, bhikkhave, antā pabbajitena na sevitabbā. ([5: 2.1](../5-dhammacakka/#u2-1))
 3. Rāgagginā, dosagginā, mohagginā ādittaṁ ([9: 2.6](../9-fire/#u2-6))
-4. Viññāṇassa nirodhena, natthi dukkhassa sambhavo. ([Bonus: 16, 19.3–19.4](../11-pbt/#s16-u19-3))
+4. Viññāṇassa nirodhena, natthi dukkhassa sambhavo. ([Bonus: 16, 19.3–19.4](../11-pbt/#s16-u882-3))
 5. Tena samayena buddho bhagavā uruvelāyaṁ viharati ([3: 2.1](../3-awakening/#u2-1))
 
 ### Answers

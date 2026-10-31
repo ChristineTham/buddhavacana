@@ -19,14 +19,14 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 The texts count on every page: `dveme antā` ("these two extremes",
 [5: 2.1](../5-dhammacakka/#u2-1)), `catūsu
 ariyasaccesu` ("in the four realisations", [5: 9.1](../5-dhammacakka/#u9-1)), `paṭhamaṁ jhānaṁ` ("the first
-jhāna", [Bonus: 38, 10.1](../11-pbt/#s38-u10-1)). A number
+jhāna", [Bonus: 38, 10.1](../11-pbt/#s38-u697-6)). A number
 (`saṅkhyā`) is a noun like any other: its ending tells you its job in the
 sentence ([chapter 4](../4-0-karaka/)). But the shape you meet (`dve`,
 `tayo`, `cattāri`) is often far from the lemma (`dvi`, `ti`, `catu`), so ask
 two questions: which number is it, and what ending is it carrying?
 
 `eka` ("one") is singular and takes a pronoun's endings in the gender of its
-noun, `ekaṁ samayaṁ` ([5: 1.1](../5-dhammacakka/#u1-1)), `ekā saññā` ([Bonus: 17, 7.5](../11-pbt/#s17-u7-5)) ([2.4](../2-4-pronouns/),
+noun, `ekaṁ samayaṁ` ([5: 1.1](../5-dhammacakka/#u1-1)), `ekā saññā` ([Bonus: 17, 7.5](../11-pbt/#s17-u696-5)) ([2.4](../2-4-pronouns/),
 [Appendix L](../l-sabbanama/)). `dvi` ("two") to `aṭṭhārasa` ("eighteen")
 are plural only, and `dvi` and the numbers from `pañca` ("five") on have one set
 of forms for all three genders (⚧). From `vīsati` ("twenty") upwards a number is a
@@ -45,7 +45,7 @@ noun.
 | 5 to 18 ⚧ | the bare number: `pañca`, `cha`, `satta`, `aṭṭha`, `nava`, `dasa` {134} | `pañcahi` {90} | `pañcannaṁ`, `dasannaṁ` {90}, {67} | `pañcasu` {90} |
 
 Only `ti` and `catu` change with their noun's gender, and only in ① and ②:
-`tisso … vedanā` ([Bonus: 10, 22.2](../11-pbt/#s10-u22-2)), `cattāri ariyasaccāni` {133}; from `pañca` on the shape
+`tisso … vedanā` ([Bonus: 10, 22.2](../11-pbt/#s10-u1614-1)), `cattāri ariyasaccāni` {133}; from `pañca` on the shape
 is the same beside any noun. `-nnaṁ` is a number's ④ and ⑥, an `n` put in
 before `naṁ` {67}, where a noun has `-ānaṁ`; before `-hi` and `-su` the
 final vowel is long {89}.
@@ -82,8 +82,8 @@ matter of [10.6](../10-6-sankhya/) and [Appendix H](../h-taddhita/).
 | a day of the fortnight | `cātuddasī`, `pañcadasī`; `pañcadasiṁ` | feminine `-ī` on `dasa`; `-iṁ`, "on the fifteenth" | {375}, {377} |
 
 An ordinal takes the gender, number and ending of its noun, `paṭhamaṁ
-jhānaṁ` ([Bonus: 38, 10.1](../11-pbt/#s38-u10-1)), or stands alone with the noun understood, `Tathā dutiyaṁ`
-("likewise the second [direction]", [Bonus: 37, 1.11.52](../11-pbt/#s37-u1-11-52)); the colophons of
+jhānaṁ` ([Bonus: 38, 10.1](../11-pbt/#s38-u697-6)), or stands alone with the noun understood, `Tathā dutiyaṁ`
+("likewise the second [direction]", [Bonus: 37, 1.11.52](../11-pbt/#s37-u890-2)); the colophons of
 [chapter 7](../7-anatta/#the-colophon) and [chapter 9](../9-fire/#the-colophon) count their discourses the same way, `Sattamaṁ`
 ("the seventh"), `Chaṭṭhaṁ` ("the sixth"). `paṭhamaṁ` also serves as a particle,
 "first, at first".
@@ -96,8 +96,8 @@ number stands bare and the ending belongs to the whole word; `dvi` appears as
 
 :::note
 How to tell `satta` from `sattā`: a number from `pañca` to `dasa` never ends
-in `-ā`. `satta vassāni` ([Bonus: 46, 3.2](../11-pbt/#s46-u3-2)) is "seven years", but `sattā nerayikā`
-([Bonus: 23, 1.6](../11-pbt/#s23-u1-6)) is "beings in
+in `-ā`. `satta vassāni` ([Bonus: 46, 3.2](../11-pbt/#s46-u123-2)) is "seven years", but `sattā nerayikā`
+([Bonus: 23, 1.6](../11-pbt/#s23-u115-6)) is "beings in
 hell", the 🚹①⨂ of `satta` ("a being").
 :::
 
@@ -113,7 +113,7 @@ two / these / Bhikkhave / extremes / by one gone forth / not / should be cultiva
 
 🚺⨂①(ti) ⏏️(kho) *️⃣🤟🚺⨂①(ima) ⏏️(āvuso) 🚹⨀⓪(visākha) 🚺⨂①(vedanā)  
 three / indeed / these / friend / Visākha / feelings  
-*`tisso` ([Bonus: 10, 22.2](../11-pbt/#s10-u22-2)): the feminine ①⨂ of `ti` {133}, agreeing with `vedanā`; `tayo` with a masculine noun, `tīṇi` with a neuter.*
+*`tisso` ([Bonus: 10, 22.2](../11-pbt/#s10-u1614-1)): the feminine ①⨂ of `ti` {133}, agreeing with `vedanā`; `tayo` with a masculine noun, `tīṇi` with a neuter.*
 
 > imesu **catūsu** ariyasaccesu
 
@@ -142,7 +142,7 @@ deconstruction.
 1. Katame dve? ([5: 2.2](../5-dhammacakka/#u2-2))
 2. Ekaṁ samayaṁ ([5: 1.1](../5-dhammacakka/#u1-1); also [7: 1.1](../7-anatta/#u1-1), [9: 1.1](../9-fire/#u1-1))
 3. pañcavaggiyānaṁ bhikkhūnaṁ ([7: 12.3](../7-anatta/#u12-3))
-4. Tiṇṇaṁ saṅgati phasso. ([Bonus: 19, 2.2](../11-pbt/#s19-u2-2))
+4. Tiṇṇaṁ saṅgati phasso. ([Bonus: 19, 2.2](../11-pbt/#s19-u575-4))
 5. tiparivaṭṭaṁ dvādasākāraṁ ([5: 9.1](../5-dhammacakka/#u9-1))
 6. Sattamaṁ. ([7: 13.1](../7-anatta/#u13-1))
 7. ubho ante anupagamma ([5: 2.4](../5-dhammacakka/#u2-4))

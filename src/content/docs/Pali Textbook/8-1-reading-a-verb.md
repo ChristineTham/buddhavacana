@@ -77,8 +77,8 @@ met below.
 
 `pañcamī` and `sattamī` are labels, shared with the ⑤ and ⑦ noun endings;
 the other names describe their time. The `hiyyattanī` occurs once in the
-texts (`ajjhagamaṁ`, "I achieved", [Bonus: 47, 18.1](../11-pbt/#s47-u18-1)) and the
-`parokkhā` once (`āha` inside `evamāha`, [Bonus: 1, 24.8](../11-pbt/#s1-u24-8)); the `ajjatanī` is on
+texts (`ajjhagamaṁ`, "I achieved", [Bonus: 47, 18.1](../11-pbt/#s47-u965-1)) and the
+`parokkhā` once (`āha` inside `evamāha`, [Bonus: 1, 24.8](../11-pbt/#s1-u1364-2)); the `ajjatanī` is on
 every page. Three more rules shape what you see: `vattamānā`, `pañcamī`,
 `sattamī` and `hiyyattanī` are grouped as `sabbadhātuka` {431}, and the other
 four put an `i` before the ending, the `i` of `bhav-i-ssati` {516}; the three
@@ -136,7 +136,7 @@ forth", 🔵⏯👆⨀), `-etha` in `paññāyetha` ("it would be evident", 🔵
 :::note[How to tell the lookalike endings apart]
 `-tha` is "you (plural)" in the present and in a command, `-ttha` in the past;
 `-mi` and `-ma` are "I" and "we" in the present and in a wish alike
-([Bonus: 18, 1.20](../11-pbt/#s18-u1-20) marks `jānāmi passāmi`, "may I know and see", ⏹); and `-ssa-` is the future
+([Bonus: 18, 1.20](../11-pbt/#s18-u14-20) marks `jānāmi passāmi`, "may I know and see", ⏹); and `-ssa-` is the future
 when the word ends `-ssati`, `-ssanti`, `-ssāmi`, but "would have" when an
 `a` stands before the root and the word ends in `-ssa` (`bhavissati`,
 `abhavissa`). Where the ending alone does not decide, the sentence does: a
@@ -172,7 +172,7 @@ thus / my / form / let be
 
 ⏏️(api) ⏏️(nu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) ⏏️(evaṁ) 🚹⨂①🔽(anta)(jānanta) ⏏️(evaṁ) 🚹⨂①🔽(anta)(passanta) ⏏️(evaṁ) 🟢⨂🤘⏯(vadati)  
 perhaps? / surely? / youse / Bhikkhave / thus / knowing / thus / seeing / thus / will say  
-*"Thus knowing and thus seeing, Bhikkhave, will you say -" ([Bonus: 1, 24.4](../11-pbt/#s1-u24-4)) `vadeyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, the subject `tumhe` {411}; "would you say", a supposition {416}.*
+*"Thus knowing and thus seeing, Bhikkhave, will you say -" ([Bonus: 1, 24.4](../11-pbt/#s1-u1362-1)) `vadeyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, the subject `tumhe` {411}; "would you say", a supposition {416}.*
 
 > Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena **nisīdi** vimuttisukhapaṭisaṁvedī.
 
@@ -184,7 +184,7 @@ then / indeed / the Bhagavā / at the root of the bodhi tree / for seven days / 
 
 🚻⨀①🔽(ta)(āraddha) ⏏️(kho) ⏏️(pana) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(vīriya) 🟢⨀🤟⏭(bhavati) 🚻⨀①🔽(ta)🆎(na+sallīna)  
 applied / indeed / now / my / determination / will become / active  
-*"And now applied with me there will be active determination" ([Bonus: 45, 9.7](../11-pbt/#s45-u9-7)) `bhavissati`: `-ssati`, `bhavissantī` ⏭, third person singular {429}; the `i` before `ssa` is the insertion every future takes {516}, `bhav-i-ssati`.*
+*"And now applied with me there will be active determination" ([Bonus: 45, 9.7](../11-pbt/#s45-u1061-7)) `bhavissati`: `-ssati`, `bhavissantī` ⏭, third person singular {429}; the `i` before `ssa` is the insertion every future takes {516}, `bhav-i-ssati`.*
 
 > Rūpañca hidaṁ, bhikkhave, attā **abhavissa**,
 
@@ -246,7 +246,7 @@ delighted / those / bhikkhū / of the Bhagavā / what was spoken / rejoiced in
 
 ⏏️(api) ⏏️(nu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) ⏏️(evaṁ) 🚹⨂①🔽(anta)(jānanta) ⏏️(evaṁ) 🚹⨂①🔽(anta)(passanta) *️⃣🤟🚹⨀②(añña) 🚹⨀②(satthar) 🟢⨂🤘⏯(uddisati) ⏏️(iti)  
 perhaps? / surely? / youse / Bhikkhave / thus / knowing / thus / seeing / another / teacher / appoint / (end quote)  
-*"Thus knowing and thus seeing, Bhikkhave, will you appoint another teacher?" ([Bonus: 1, 24.10](../11-pbt/#s1-u24-10)) `uddiseyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, "would you appoint"; the `-ā` before `”ti` is the join.*
+*"Thus knowing and thus seeing, Bhikkhave, will you appoint another teacher?" ([Bonus: 1, 24.10](../11-pbt/#s1-u1366-1)) `uddiseyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, "would you appoint"; the `-ā` before `”ti` is the join.*
 
 6. > evaṁ me saṅkhārā **hontu**
 

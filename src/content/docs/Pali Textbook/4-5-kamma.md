@@ -67,7 +67,7 @@ The object, what is heard {297}:
 the teaching / [he] hears  
 *He hears the teaching.*
 
-The goal of motion, what the going forth reaches {297} ([Bonus: 26, 12.8](../11-pbt/#s26-u12-8)):
+The goal of motion, what the going forth reaches {297} ([Bonus: 26, 12.8](../11-pbt/#s26-u267-8)):
 
 > agārasmā **anagāriyaṁ** pabbajeyyan”ti
 

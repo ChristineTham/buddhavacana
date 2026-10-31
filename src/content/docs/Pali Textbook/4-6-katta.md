@@ -84,7 +84,7 @@ deconstruction.
 
 1. Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī. ([3: 2.2](../3-awakening/#u2-2))
 2. Yadā have pātubhavanti dhammā ([3: 6.1](../3-awakening/#u6-1))
-3. Vuttaṁ kho panetaṁ bhagavatā kakacūpamovāde ([Bonus: 45, 9.5](../11-pbt/#s45-u9-5))
+3. Vuttaṁ kho panetaṁ bhagavatā kakacūpamovāde ([Bonus: 45, 9.5](../11-pbt/#s45-u1061-5))
 4. majjhimā paṭipadā tathāgatena abhisambuddhā ([5: 2.4](../5-dhammacakka/#u2-4))
 5. so puriso tena purisena kammaṁ kāreti
 

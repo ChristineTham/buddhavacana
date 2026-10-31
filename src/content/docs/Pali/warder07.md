@@ -12,7 +12,7 @@ description: >
 1. iminā mayaṃ nimmitā (D I 18,16)
 2. mayaṃ brahmunā nimmitā (D I 18,16)
 
-  [DN 1 2.5.10](https://suttacentral.net/dn1/pli/ms#2.5):  
+  [DN 1 2.5.10](https://tipitaka2500.github.io/tipitaka/6D/1/1.3/1.3.1/1.3.1.2.html#79):  
   Iminā mayaṁ (bhotā) brahmunā nimmitā.  
   🚹③⨀(ima) 👆①⨂(ahaṃ) 🚹③⨀(bhavant) 🚹③⨀(brahma) 🚹①⨂(nimmita)  
   By this | we | by sir | by God | created  
@@ -20,7 +20,7 @@ description: >
 
 3. desito Ānanda mayā dhammo (D II 100,2)
 
-  [DN 16 2.25.2](https://suttacentral.net/dn16/pli/ms#2.25.2):  
+  [DN 16 2.25.2](https://tipitaka2500.github.io/tipitaka/7D/3/3.12.html#351):  
   Desito, ānanda, mayā dhammo (anantaraṁ abāhiraṁ karitvā).  
   🚹①⨀(desita) 🚹⓪⨀(ānanda) 👆③⨀(ahaṃ) 🚹①⨀(dhamma) 🚻①⨀(anantara) 🚻①⨀(abāhira) 🔼(karitvā)  
   Taught by , Ānanda , by me | teaching | no secret teaching | no public teaching | having made  
@@ -28,7 +28,7 @@ description: >
 
 4. iminā tvaṃ purisa dhanena jivāhi (D III 66,2-3)
 
-  [DN 26 10.15](https://suttacentral.net/dn26/pli/ms#10.15):  
+  [DN 26 10.15](https://tipitaka2500.github.io/tipitaka/8D/3/3.4.html#202):  
   Atha kho, bhikkhave, rājā khattiyo muddhābhisitto tassa purisassa dhanamanuppadāsi:  
   ‘iminā tvaṁ, (ambho) purisa, dhanena (attanā ca) jīvāhi, mātāpitaro ca posehi, puttadārañca posehi, kammante ca payojehi, samaṇabrāhmaṇesu uddhaggikaṁ dakkhiṇaṁ patiṭṭhāpehi sovaggikaṁ sukhavipākaṁ saggasaṁvattanikan’ti.  
   🔼(atha kho) , 🚹⓪⨂(bhikkhu) , 🚹①⨀(rāja) 🚹①⨀(khattiya) 🚹①⨀(muddhābhisitta) 🚹④⨀(ta) 🚹④⨀(purisa) ⏮🤟⨀(dhanamanuppadāsi) :  
@@ -52,7 +52,7 @@ description: >
 
 5. vimutto tathāgato (D I 29,31)
 
-  [DN 1 1.36.4](https://suttacentral.net/dn1/pli/ms#1.36.4):  
+  [DN 1 1.36.4](https://tipitaka2500.github.io/tipitaka/6D/1/1.3/1.3.1/1.3.1.1.html#71):  
   Vedanānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ viditvā (anupādā)vimutto, bhikkhave, tathāgato.  
   🚺④⨂(vedanā) 🚹②⨀(samudaya) 🔼(ca) 🚹②⨀(atthaṅgama) 🔼(ca) 🚹②⨀(assāda) 🔼(ca) 🚹②⨀(ādīnava) 🔼(ca) 🚻①⨀(nissaraṇa) 🚻①⨀(yathābhūta) 🔼(viditvā)  
   For feelings | appearance | and | passing away | and | satisfaction | and | unsatisfactoriness | and | escape from | as it truly is | having perceived  
@@ -63,7 +63,7 @@ description: >
 
 6. te ca me evaṃ puṭṭhā āmā ti vadanti (Cf. D III 28,16 & D I 194,1)
 
-  [DN 24 2.20.2](https://suttacentral.net/dn24/pli/ms#2.20.2):  
+  [DN 24 2.20.2](https://tipitaka2500.github.io/tipitaka/8D/1/1.6.html#79):  
   Te ca me evaṁ puṭṭhā ‘āmo’ti paṭijānanti.  
   🚹①⨂(ta) 🔼(ca) 👆③⨀(ahaṃ) 🔼(evaṁ) 🚹①⨂(puṭṭha) 🔼(āmo) 🔼(ti) ▶️🤟⨂(paṭijānāti)  
   They | and | by me | thus | asked | quote | assent  
@@ -71,7 +71,7 @@ description: >
 
 7. idam āsanaṃ paññattaṃ (D III 39,22-23)
 
-  [DN 9 5.6](https://suttacentral.net/dn9/pli/ms#5.6):  
+  [DN 9 5.6](https://tipitaka2500.github.io/tipitaka/6D/9/9.1.html#689):  
   (Nisīdatu, bhante, bhagavā), idaṁ āsanaṁ paññattan”ti.  
   ⏹🤟⨀(nisīdati) 🚹⓪⨀(bhavant) 🚹①⨀(bhagavant) 🚻①⨀(ima) 🚻①⨀(āsana) 🚻①⨀(paññatta) 🔼(ti)  
   Please sit down | Bhante | Blessed One | this | chair | prepared  
@@ -79,7 +79,7 @@ description: >
 
 8. ete manussā gehaṃ pavisanti (D I 83,7-8)
 
-  [DN 2 96.1](https://suttacentral.net/dn2/pli/ms#96.1):  
+  [DN 2 96.1](https://tipitaka2500.github.io/tipitaka/6D/2/2.4/2.4.3/2.4.3.3/2.4.3.3.7.html#338):  
   Seyyathāpi, mahārāja, majjhe siṅghāṭake pāsādo. Tattha cakkhumā puriso ṭhito passeyya manusse gehaṁ pavisantepi nikkhamantepi rathikāyapi vīthiṁ sañcarante majjhe siṅghāṭake nisinnepi. Tassa evamassa: ‘ete manussā gehaṁ pavisanti, ete nikkhamanti, ete rathikāya vīthiṁ sañcaranti, ete majjhe siṅghāṭake nisinnā’ti.  
   🔼(seyyathāpi) 🚹⓪⨀(mahārāja) 🚹②⨂(majjha) 🚹②⨂(siṅghāṭaka) 🚹①⨀(pāsāda)  
   Just like | o great king | middle of | crossroads | palace  
@@ -99,7 +99,7 @@ description: >
 
 9. niggahīto 'si (D III 117,13-14)
 
-  [DN 29 1.5](https://suttacentral.net/dn29/pli/ms#1.5):  
+  [DN 29 1.5](https://tipitaka2500.github.io/tipitaka/8D/6/Niganthanataputtakalamkiriya.html#335):  
   “na tvaṁ imaṁ dhammavinayaṁ ājānāsi, ahaṁ imaṁ dhammavinayaṁ ājānāmi, kiṁ tvaṁ imaṁ dhammavinayaṁ ājānissasi? Micchāpaṭipanno tvamasi, ahamasmi sammāpaṭipanno. Sahitaṁ me, asahitaṁ te. Purevacanīyaṁ pacchā avaca, pacchāvacanīyaṁ pure avaca. Adhiciṇṇaṁ te viparāvattaṁ, āropito te vādo, niggahito tvamasi, cara vādappamokkhāya, nibbeṭhehi vā sace pahosī”ti.  
   🚻①⨀(adhiciṇṇa) 🤘③⨀(tvaṃ) 🚻①⨀(viparāvatta) 🚹①⨀(āropita) 🤘③⨀(tvaṃ) 🚹①⨀(vāda) 🚹①⨀(niggahita) 🤘①⨀(tvaṃ) ▶️🤘⨀(atthi) ⏹🤘⨀(carati) 🚹④⨀(vādappamokkha) ⏹🤘⨀(nibbeṭheti) 🔼(vā) 🔼(sace) ▶️🤘⨀(pahoti) 🔼(ti)  
   What one has prepared | by you | refuted | debunked | by you | statement | disproved | you | is , wandered | saving an argument , you must wriggle | or | if | you are able | quote  
@@ -107,7 +107,7 @@ description: >
 
 10. kilanto 'smi (D II 128,18)
 
-  [DN 16 4.39.3](https://suttacentral.net/dn16/pli/ms#4.39.3):  
+  [DN 16 4.39.3](https://tipitaka2500.github.io/tipitaka/7D/3/3.25.html#438):  
   “iṅgha me tvaṁ, cundaka, catugguṇaṁ saṅghāṭiṁ paññapehi, kilantosmi, cundaka, nipajjissāmī”ti.  
   🔼(iṅgha) 👆④⨀(ahaṃ) 🤘①⨀(tvaṃ) 🚹⓪⨀(cundaka) 🚺②⨀(catugguṇa) 🚺②⨀(saṅghāṭi) ⏹🤘⨀(paññapeti) 🚹①⨀(kilanta) ▶️👆⨀(atthi) 🚹⓪⨀(cundaka) ⏭👆⨀(nipajjati) 🔼(ti)  
   Please | by me | you | Cundaka | folded in four | outer robe | you prepare | tired | I am |  Cundaka | I will rest | quote  
@@ -115,7 +115,7 @@ description: >
 
 11. dānaṃ detha (D II 357,15)
 
-  [DN 23 33.14](https://suttacentral.net/dn23/pli/ms#33.14):  
+  [DN 23 33.14](https://tipitaka2500.github.io/tipitaka/7D/10/10.6.html#1144):  
   “sakkaccaṁ dānaṁ detha, sahatthā dānaṁ detha, cittīkataṁ dānaṁ detha, anapaviddhaṁ dānaṁ detha.  
   🔼(sakkaccaṃ) 🚹①⨂(da) ⏹🤘⨂(deti) , 🚹③⨀(sahattha) … 🚻①⨀(cittīkata) … 🚻①⨀(anapaviddha) …  
   Respectfully | offering | you please give , with your own hand … thoughtfully … without throwing  

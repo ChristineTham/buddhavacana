@@ -75,7 +75,7 @@ black / and / it / a snake / and → a black snake
 
 🚹⨀①(mahanta) ⏏️(ca) *️⃣🤟🚹⨀①(ta) 🚹⨀①(purisa) ⏏️(ca) → 🚹⨀①🆎(mahanta+purisa)  
 great / and / he / a man / and → a great man  
-*`mahā` for `mahanta` {330}: "great" + "man"; it is the first part of `mahāpurisavihāro` in [Bonus: 44, 2.6](../11-pbt/#s44-u2-6).*
+*`mahā` for `mahanta` {330}: "great" + "man"; it is the first part of `mahāpurisavihāro` in [Bonus: 44, 2.6](../11-pbt/#s44-u1258-6).*
 
 > Rūpaṁ, bhikkhave, **anattā**.
 
@@ -118,7 +118,7 @@ holy + conduct → optimal life
 
 🚹⨀②🆎(sāyanha+samaya)  
 evening + time → in the late afternoon  
-*noun + noun {324}: `sāyanha` ("evening") and `samaya` ("time") name one time; [Bonus: 44, 1.3](../11-pbt/#s44-u1-3), `sāyanhasamayaṁ paṭisallānā vuṭṭhito`.*
+*noun + noun {324}: `sāyanha` ("evening") and `samaya` ("time") name one time; [Bonus: 44, 1.3](../11-pbt/#s44-u1257-3), `sāyanhasamayaṁ paṭisallānā vuṭṭhito`.*
 
 3. > na + uttara → **anuttaraṁ**
 
@@ -130,10 +130,10 @@ not + higher → unsurpassed
 
 🚻⨀②🆎(na+agāriya)  
 not + belonging to a house → to homeless state  
-*`an` for `na` before a vowel {334}: `agāriya` ("belonging to a house"); [Bonus: 26, 12.8](../11-pbt/#s26-u12-8), `agārasmā anagāriyaṁ`.*
+*`an` for `na` before a vowel {334}: `agāriya` ("belonging to a house"); [Bonus: 26, 12.8](../11-pbt/#s26-u267-8), `agārasmā anagāriyaṁ`.*
 
 5. > na + mata → **amataṁ**
 
 🚻⨀①🔽(ta)🆎(na+mata)  
 not + dead → free from death  
-*`a` for `na` {333}: "not dead", the deathless, a name of nibbāna; [Bonus: 50, 66.2](../11-pbt/#s50-u66-2), `amataṁ ajjāpi ca labhanīyamidaṁ`.*
+*`a` for `na` {333}: "not dead", the deathless, a name of nibbāna; [Bonus: 50, 66.2](../11-pbt/#s50-u603-2), `amataṁ ajjāpi ca labhanīyamidaṁ`.*

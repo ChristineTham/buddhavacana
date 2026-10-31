@@ -9,7 +9,7 @@ description: >
 
 ## Passage for reading
 
-[**Pāyāsisutta** DN 23 PTS 2.316–2.358](https://suttacentral.net/dn23/pli/ms#23.3) 23.3-23.10 (D II 342,20 - 343,7):
+[**Pāyāsisutta** DN 23 PTS 2.316–2.358](https://tipitaka2500.github.io/tipitaka/7D/10/10.2/10.2.11.html#1121) 23.3-23.10 (D II 342,20 - 343,7):
 
 >bhutapubbaṃ mahā sakaṭasattho sakaṭasahassaṃ puratthimā janapadā pacchimaṃ janapadam agamāsi. so yena yena gacchati khippam eva pariyādiyati tiṇakaṭṭhodakaṃ haritakavaṇṇaṃ. tasmiṃ kho pana satthe dve satthavāhā ahesuṃ ; eko pañcannaṃ sakaṭasatānaṃ, eko pañcannaṃ sakaṭasatānaṃ. atha kho tesaṃ satthavāhānaṃ etad ahosi : ayaṃ kho mahā sakatasattho sakatasahassam. te mayaṃ yena yena gacchāma khippam eva pariyādiyati tiṇakaṭṭhodakaṃ haritakavaṇṇaṃ. yan nūna mayaṃ imaṃ satthaṃ dvidhā vibhajeyyāma ekato pañca sakatasatāni.
 
@@ -109,7 +109,7 @@ Whatever is pleasant your honourable, that is pleasant for us, whatever is unple
 
 ## Translate into Pali
 
-[**Soṇadaṇḍasutta** DN 4 PTS 1.111–1.126](https://suttacentral.net/dn4/pli/ms#13.2) 13.2, 16.4-16.5, 18.5-20.4, 21.5, 21.12 (D I 120,10 -124,10):
+[**Soṇadaṇḍasutta** DN 4 PTS 1.111–1.126](https://tipitaka2500.github.io/tipitaka/6D/4/4.5.html#478) 13.2, 16.4-16.5, 18.5-20.4, 21.5, 21.12 (D I 120,10 -124,10):
 
 Priests declare (one) endowed with these five characteristics a priest. (D I 120,10-11)  
 “pañcahi, (bho gotama), aṅgehi samannāgataṁ brāhmaṇā brāhmaṇaṁ paññapenti;

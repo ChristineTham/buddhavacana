@@ -211,4 +211,4 @@ there is / extinguishment / not / extinguished / male
 
 🚹⨀①🔽(ta)(nisinna) ⏏️(vā) 🚹⨀①🔽(ta)(nisinna) 🟢⨀👆▶️(atthi) ⏏️(iti) 🟢⨀🤟▶️(pajānāti)  
 sitting / or / sitting / I am / (end quote) / knows clearly  
-*`nisinno`, "sitting": the past participle of `nisīdati`, `-inna` for `-ta` {582}, agreeing with the bhikkhu 🚹⨀①; `nisinnomhi` is `nisinno` + `amhi`, "I am"; [Bonus: 36, 3.1](../11-pbt/#s36-u3-1).*
+*`nisinno`, "sitting": the past participle of `nisīdati`, `-inna` for `-ta` {582}, agreeing with the bhikkhu 🚹⨀①; `nisinnomhi` is `nisinno` + `amhi`, "I am"; [Bonus: 36, 3.1](../11-pbt/#s36-u953-1).*
