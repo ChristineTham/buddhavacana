@@ -98,3 +98,5 @@ Based on my current understanding, I do not consider myself a "Buddhist". I have
 
 ![Along the Path](../../../assets/images/path.jpg)
 *Along the path*, taken on a Nikon V3 with 1 Nikkor VR PD-Zoom 10-100mm lens, at a private garden in Robertson, NSW, Australia on 9 October 2016.
+
+## References

@@ -4,7 +4,6 @@ sidebar:
   label: "Determinism?"
 ---
 
-
 Did the Buddha's teachings imply a deterministic universe, where everything is "preordained" (and therefore the future can be foretold) or did it support the concept of free will, or the notion that individuals can shape their destinies?
 
 The answer is: It's complicated.
@@ -17,9 +16,7 @@ However, at the level of atomic particles, it would seem particles are subject t
 
 Could a hypothetical omniscient observer, who is able to observe the quantum states of all matter, be able to infer future state? In other words, does observing current and past state allow the future state to be completely inferred?
 
-The "one electron model of the universe", first proposed by John Wheeler and popularised by Richard Feynman[^Feynman1949], seems to imply a deterministic universe - everything in the universe is simply the manifestation of a single electron traversing backwards and forwards in time, interacting and combining with instances of itself to form all the other particles that make up matter. And hence the future has already happened, we are simply traversing through time along fixed paths.
-
-[^Feynman1949]: Feynman, Richard (1949). "The Theory of Positrons" (PDF). Physical Review. 76 (6): 749–759. Bibcode:1949PhRv...76..749F. doi:10.1103/PhysRev.76.749. S2CID 120117564.
+The "one electron model of the universe", first proposed by John Wheeler and popularised by Richard @Feynman1949, seems to imply a deterministic universe - everything in the universe is simply the manifestation of a single electron traversing backwards and forwards in time, interacting and combining with instances of itself to form all the other particles that make up matter. And hence the future has already happened, we are simply traversing through time along fixed paths.
 
 And yet this flies against conventional wisdom, and much of "ordinary" science.
 
@@ -57,10 +54,9 @@ But again, this would contradict the notion that we can make a volitional decisi
 
 So the Buddha seems to be implying that even though our notion of self is "constructed", we do have the agency to "unconstruct". Awakening is possible, by us consciously making a decision to cease production of non-optimal mental constructions. This would also agree with the common view that as individuals we do possess the power of free will.
 
-Many Buddhists believe the Buddha advocated the concept of "no self" but as some scholars[^Wynne2010] have pointed out `anatta` is more correctly interpreted as "not-self".[^Norman1997] The Buddha has not claimed that we have "no self" and therefore "no free will." The Buddha skirts around answering the question whether we do in fact have some notion of "self" that is beyond the five collections (`khandha`), and some have argued that there needs to be a concept of an "individual" possessing "free will" in order for the Buddha's teachings to be realised. This is a contentious view that has been argued against by many Buddhists who support the "no self" interpretation, but they have avoided answering the question: If there is no self beyond the five collections, then what is the "agent" responsible for ceasing mental constructions, since the Buddha has stated the five collections have no control over production?
+Many Buddhists believe the Buddha advocated the concept of "no self" but as some scholars [@Wynne2010] have pointed out `anatta` is more correctly interpreted as "not-self".[^notself] The Buddha has not claimed that we have "no self" and therefore "no free will." The Buddha skirts around answering the question whether we do in fact have some notion of "self" that is beyond the five collections (`khandha`), and some have argued that there needs to be a concept of an "individual" possessing "free will" in order for the Buddha's teachings to be realised. This is a contentious view that has been argued against by many Buddhists who support the "no self" interpretation, but they have avoided answering the question: If there is no self beyond the five collections, then what is the "agent" responsible for ceasing mental constructions, since the Buddha has stated the five collections have no control over production?
 
-[^Norman1997]: Norman, K. R. (1997). A Philological Approach To Buddhism: The Bukkyō Dendō Kyōkai Lectures 1994: Vol. V.: Translations such as “without self” and “having no soul” cannot be correct, because the grammar and syntax show that anattā is not a possessive adjective, which it would need to be to have such a meaning. It is a descriptive compound, and if the correct translation for attā is “soul”, then the word would mean that these various things are “not soul”. This, however, cannot be correct, because the Buddha sometimes exhorted his followers to regard these things as parato, i.e. “as other”. We cannot, however, co-relate “as other” and “not soul”. It is clear that the only translation which it is possible to co-relate to “as other” is “not self”.
-[^Wynne2010]: Wynne, A. (2010). The ātman and its negation - A conceptual and chronological analysis of early Buddhist thought. Journal of the International Association of Buddhist Studies, 33(1–2), 103–171.
+[^notself]: @Norman1997: Translations such as “without self” and “having no soul” cannot be correct, because the grammar and syntax show that anattā is not a possessive adjective, which it would need to be to have such a meaning. It is a descriptive compound, and if the correct translation for attā is “soul”, then the word would mean that these various things are “not soul”. This, however, cannot be correct, because the Buddha sometimes exhorted his followers to regard these things as parato, i.e. “as other”. We cannot, however, co-relate “as other” and “not soul”. It is clear that the only translation which it is possible to co-relate to “as other” is “not self”.
 
 ## The analogy of a Large Language Model
 
@@ -80,8 +76,8 @@ What is important is that we can use the "illusion of the self" as an agent of f
 
 If we think of a stylised view of the "self" or consciousness as that spark of flame that is wandering through a perhaps deterministic universe, then we have some agency or "free will" to direct where that "self" wanders to. And ultimately, this is the essence of the Buddha's teaching.
 
-For further discussion, Adam in **No self, no free will, no problem**[^Adam2010] argues perhaps it's not a question of "free will" but the degree of freedom in achieving awakening (due to the "burden" or kamma from past actions), and perhaps true freedom is not realised until after awakening. This is an interesting approach, but one that I ultimately reject since there is nothing in the Buddha's discourses in the Khandhaka that suggests that there are impediments (from past actions, current circumstances etc.) that inhibit the ability to achieve realisation and awakening, and the concept of "kamma" representing such impediments is not a concept articulated by the Buddha in these discourses (notwithstanding that the concept of "kamma" is extensively explored in the suttas and widely believed by Buddhists).
+For further discussion, @Adam2010 in **No self, no free will, no problem** argues perhaps it's not a question of "free will" but the degree of freedom in achieving awakening (due to the "burden" or kamma from past actions), and perhaps true freedom is not realised until after awakening. This is an interesting approach, but one that I ultimately reject since there is nothing in the Buddha's discourses in the Khandhaka that suggests that there are impediments (from past actions, current circumstances etc.) that inhibit the ability to achieve realisation and awakening, and the concept of "kamma" representing such impediments is not a concept articulated by the Buddha in these discourses (notwithstanding that the concept of "kamma" is extensively explored in the suttas and widely believed by Buddhists).
 
 I will take the same approach as the Buddha by deliberately avoiding an answer to whether there is a "self" or "no self" and therefore the question of "will" is also inconclusive. Clearly, however, "the individual" (no matter how we define such a notion) is capable of ceasing production of non-optimal mental constructions, according to the Buddha, so let's leave it at that.
 
-[^Adam2010]: Adam, M. T. (2010). No self, no free will, no problem: Implications of the Anattalakkhana Sutta for a perennial philosophical issue. Journal of the International Association of Buddhist Studies, 33(1–2), 239–265.
+## References

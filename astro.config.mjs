@@ -1,16 +1,35 @@
 // @ts-check
+import { createHash } from "node:crypto";
+import { readFileSync } from "node:fs";
 import { defineConfig, fontProviders } from "astro/config";
+import { satteri } from "@astrojs/markdown-satteri";
 import starlight from "@astrojs/starlight";
 import starlightTags from "starlight-tags";
-import mermaid from "astro-mermaid";
 import plantuml from "astro-plantuml";
-import { satteri } from "@astrojs/markdown-satteri";
 import kaccayanaLinks from "./src/plugins/remark-kaccayana-links.mjs";
 import endingsChart from "./src/plugins/remark-endings-chart.mjs";
+import { citations } from "./src/plugins/citations.mjs";
+import { mermaidFences } from "./src/plugins/mermaid.mjs";
 import { writeTagsConfig } from "./src/lib/tags.mjs";
 
 // starlight-tags reads its tag definitions (labels for the folded tag IDs) from this file.
 writeTagsConfig("./src/content/docs", "./.astro/tags.yml");
+
+// Sätteri, Astro 7's Markdown processor, with the Pāḷi Textbook's plugins (`{344}` links to Kaccāyana
+// §344 on kaccayana.github.io, an ```endings fence renders as a bar chart), Mermaid fences turned into
+// <pre class="mermaid"> for src/components/Mermaid.astro to render (src/plugins/mermaid.mjs) and
+// pandoc-style citations ([@Norman1997] or @Norman1997, resolved against bibliography.bib and rendered
+// in APA style under the page's `## References` heading; src/plugins/citations.mjs).
+const processor = satteri({
+  mdastPlugins: [kaccayanaLinks(), endingsChart(), mermaidFences()],
+  hastPlugins: [citations()],
+});
+// Astro caches each page's rendered Markdown until the page or the config digest changes, and the
+// digest skips functions, so the plugin alone would not notice an edit to bibliography.bib. The
+// file's hash here makes such an edit re-render every page.
+Object.assign(processor.options, {
+  bibliographyHash: createHash("sha1").update(readFileSync("./bibliography.bib")).digest("hex"),
+});
 
 // https://astro.build/config
 export default defineConfig({
@@ -18,8 +37,9 @@ export default defineConfig({
   base: "/buddhavacana/",
   // Fetch pages on hover so navigation is near-instant (with the cross-fade in custom.css).
   prefetch: { prefetchAll: true },
-  // PixiJS, for the graph view, is one large chunk, loaded only when the graph is shown.
-  vite: { build: { chunkSizeWarningLimit: 1500 } },
+  // PixiJS, for the graph view, is one large chunk, loaded only when the graph is shown. Mermaid is
+  // pre-bundled for the dev server; src/components/Mermaid.astro loads it on demand.
+  vite: { optimizeDeps: { include: ["mermaid"] }, build: { chunkSizeWarningLimit: 1500 } },
   // the chapter 2 sections of the Pāḷi textbook were renumbered on 2026-10-18 (2.2–2.4 merged into 2.2 and 2.3)
   redirects: {
     "/pali-textbook/2-3-vowel-lemmas": "/buddhavacana/pali-textbook/2-2-nouns/",
@@ -37,10 +57,7 @@ export default defineConfig({
     "/pali-textbook/4-7-genitive": "/buddhavacana/pali-textbook/4-7-sami/",
     "/pali-textbook/4-8-nominative": "/buddhavacana/pali-textbook/4-8-lingattha/",
   },
-  markdown: {
-    // `{344}` in the Pāḷi Textbook links to Kaccāyana §344 on kaccayana.github.io
-    processor: satteri({ mdastPlugins: [kaccayanaLinks(), endingsChart()] }),
-  },
+  markdown: { processor },
   fonts: [
     {
       provider: fontProviders.google(),
@@ -61,7 +78,6 @@ export default defineConfig({
     },
   ],
   integrations: [
-    mermaid(),
     plantuml(),
     starlight({
       title: "buddhavacana",

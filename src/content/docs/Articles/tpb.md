@@ -4,9 +4,7 @@ sidebar:
   label: Theory of Planned Behaviour
 ---
 
-The Buddha's phenomenological framework and subsequent liberation are consistent with modern theories of perception and behavioural science. For example in **Pessoa - The Entangled Brain: How Perception, Cognition, and Emotion Are Woven Together (2022)** [^EntangledBrain], the Theory of Planned Behaviour (TPB) says that:
-
-[^EntangledBrain]: Pessoa, L. (2022). The Entangled Brain: How Perception, Cognition, and Emotion Are Woven Together. The MIT Press. http://direct.mit.edu/books/oa-monograph-pdf/2231824/book_9780262372107.pdf
+The Buddha's phenomenological framework and subsequent liberation are consistent with modern theories of perception and behavioural science. For example in **Pessoa - The Entangled Brain: How Perception, Cognition, and Emotion Are Woven Together (2022)** [@EntangledBrain], the Theory of Planned Behaviour (TPB) says that:
 
 > ... only two things matter: our intentions and our control. When we have a strong intention to engage in a behavior and perceive that we have control over that behavior, then we will do it. Take smoking cessation as an example: people who intend to give up smoking and perceive that they have control over whether they smoke will give up, whereas those without either the intention or the perception of control (or both) will not. The theory in addition says that intentions come from three sources. First, we are very strongly influenced by subjective norms, our internalization of the views of other people whose opinions matter to us. If your partner's views matter to you and your partner takes a dim view of your smoking, you're more likely to form the intention to give up. Second, our attitudes to the behavior are important. The better you feel about giving up smoking, the more likely you are to form the intention to give up. Finally, your estimation of how easy or difficult it will be to give up will also influence your intention. This sense of control is the same factor mentioned above: it is assumed to have a direct impact on behavior as well as an indirect impact via intentions.
 >
@@ -20,3 +18,5 @@ Indeed, later on in following sections in the narrative, the Buddha espouses pre
 - The Buddha supports this intention by forming a community where members of the community can support each other by creating subjective norms around optimal behaviour.
 - The Buddha augments our attitude towards optimal behaviour by emphasising the positive aspects of achieving the outcome.
 - Lastly, the narrative stresses the achievability of the outcome by documenting case studies of more than a thousand people who were also able to achieve liberation within a short time of hearing the Buddha's teachings.
+
+## References
