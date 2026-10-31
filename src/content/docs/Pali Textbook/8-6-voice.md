@@ -51,7 +51,7 @@ Kaccāyana writes the four pieces `ṇe`, `ṇaya`, `ṇāpe`, `ṇāpaya` {438}
 is not a sound of the word: it is dropped {523}, and it signals that the
 root's vowel is strengthened {483}, `a` to `ā`, `i` to `e`, `u` to `o`:
 `kara` gives `kār-`, and `pabbajati` ("goes forth", the bonus chapter's
-`pabbajeyyaṁ`, [Bonus: 26, 12.8](../11-pbt/#s26-u12-8)) gives `pabbājeti` ("makes go forth", ordains). Before a vowel
+`pabbajeyyaṁ`, [Bonus: 26, 12.8](../11-pbt/#s26-u267-8)) gives `pabbājeti` ("makes go forth", ordains). Before a vowel
 that `o` or `e` opens out into `āv` or `āy` {515}: `su` ("hear") gives
 `sāveti` ("makes hear"). A root ending in two consonants keeps its vowel,
 `cinteti` {483}.
@@ -109,7 +109,7 @@ Kaccāyana's own example of the `ī` {442}, in the bonus chapter:
 🔴⨀🤟▶️(karīyati) ⏏️(hi) *️⃣🤟🚻⨀①(ima) 🚹⨂⑥(buddha) 🚻⨀①(sāsana) ⏏️(iti)  
 is practised / surely / in this case / of Buddha / teaching / (end quote)  
 *surely in this case the teaching of the Buddha is practised*  
-*`karīyati` 🔴: `kara` + `ī` + `ya` {442}; the teaching, `sāsanaṁ`, is the subject in ①; [Bonus: 45, 9.8](../11-pbt/#s45-u9-8).*
+*`karīyati` 🔴: `kara` + `ī` + `ya` {442}; the teaching, `sāsanaṁ`, is the subject in ①; [Bonus: 45, 9.8](../11-pbt/#s45-u1061-8).*
 
 The passive piece inside a participle of [8.8](../8-8-verb-like-forms/), with the ⑦ of "while" ([5: 11.1](../5-dhammacakka/#u11-1); the same words open [7: 12.3](../7-anatta/#u12-3) and [9: 10.3](../9-fire/#u10-3)):
 
@@ -136,7 +136,7 @@ The `-aya-` causative:
 🚹⨀②(atta) 🟠⨂🤟▶️(damayati) 🚹⨂①(paṇḍita)  
 self / tame / the wise  
 *The wise tame the self.*  
-*`damayanti` 🟠: `dama` ("be tame") + `aya` {438}, "make tame"; the one made tame, `attānaṁ`, is the object in ② {297}; [Bonus: 21, 4](../11-pbt/#s21-u4).*
+*`damayanti` 🟠: `dama` ("be tame") + `aya` {438}, "make tame"; the one made tame, `attānaṁ`, is the object in ② {297}; [Bonus: 21, 4](../11-pbt/#s21-u86-4).*
 
 ### Exercises
 
@@ -167,14 +167,14 @@ deconstruction.
 *️⃣🤟🚹⨀①(ima) 🔴⨀🤟▶️(vuccati) 🚹⨂⓪(bhikkhu) 🚹⨀①🆎(sammā+vāyāma)  
 this / is said / Bhikkhave / right effort  
 *Bhikkhave, this is said to be "sammāvāyāma" (right effort).*  
-*Passive 🔴: `vaca` + `ya` as `-cc-` {441}, with the active ending {518}; `sammāvāyāmo`, the thing said, in ①; [Bonus: 35, 21.24](../11-pbt/#s35-u21-24).*
+*Passive 🔴: `vaca` + `ya` as `-cc-` {441}, with the active ending {518}; `sammāvāyāmo`, the thing said, in ①; [Bonus: 35, 21.24](../11-pbt/#s35-u1079-3).*
 
 2. > Tassa me tathāgato vā tathāgatasāvako vā dhammaṁ **desesi**.
 
 *️⃣🤟🚹⨀④(ta) *️⃣👆⚧⨀④(ahaṁ) 🚹⨀①🆎(tathā+gata) ⏏️(vā) 🚹⨀①🆎(tathā+gata+sāvaka) ⏏️(vā) 🚹⨀②(dhamma) 🟠⨀🤟⏮(deseti)  
 to that / to me / Tathāgata / or / disciple of the Buddha / or / Dhamma / taught  
 *Because of that, the Tathāgata and his disciples taught the Dhamma to me.*  
-*Causative 🟠: `disa` ("point out", the `bhū` class) + `e` {438} before the past ending `-si`; what is taught, `dhammaṁ`, in ② {297}; [Bonus: 26, 12.3](../11-pbt/#s26-u12-3).*
+*Causative 🟠: `disa` ("point out", the `bhū` class) + `e` {438} before the past ending `-si`; what is taught, `dhammaṁ`, in ② {297}; [Bonus: 26, 12.3](../11-pbt/#s26-u267-3).*
 
 3. > **labbhetha** ca rūpe
 
@@ -188,7 +188,7 @@ could be obtained / and / in form
 🚹⨂①🆎(usu+kāra) 🟠⨂🤟▶️(namayati) 🚻⨀②(tejana)  
 arrow-makers / straighten / arrow  
 *Arrow makers straighten arrow;*  
-*Causative 🟠: `nama` ("bend") + `aya` {438}, "make bend"; the arrow, `tejanaṁ`, in ② {297}; [Bonus: 21, 2](../11-pbt/#s21-u2).*
+*Causative 🟠: `nama` ("bend") + `aya` {438}, "make bend"; the arrow, `tejanaṁ`, in ② {297}; [Bonus: 21, 2](../11-pbt/#s21-u86-2).*
 
 5. > dukkhanirodhagāminī paṭipadā ariyasaccaṁ **bhāvetabban**’ti
 

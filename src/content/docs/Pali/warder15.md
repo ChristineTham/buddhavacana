@@ -9,7 +9,7 @@ description: >
 
 ## Reading Passage
 
-[**Pāyāsisutta** DN 23 PTS 2.316–2.358](https://suttacentral.net/dn23/pli/ms#29.9) 29.9-29.14 (D II 349,25 - 350,7)
+[**Pāyāsisutta** DN 23 PTS 2.316–2.358](https://tipitaka2500.github.io/tipitaka/7D/10/10.2/10.2.14.html#1133) 29.9-29.14 (D II 349,25 - 350,7)
 
 >te ubho sāṇabhāraṃ ādāya yen' aññataraṃ gāmapadaṃ ten' upasaṃkamiṃsu. tatth' addasaṃsu pahūtaṃ sāṇasuttaṃ chaḍḍitaṃ. disvā sahāyako sahāyakaṃ āmantesi: yassa kho samma atthāya iccheyyāma sāṇaṃ, idaṃ pahūtaṃ sāṇasuttaṃ chaḍḍitaṃ. tena hi samma tvañ ca sāṇabhāraṃ chaḍḍehi, ahañ ca sāṇabhāraṃ chaḍḍessāmi. ubho sāṇasuttabhāraṃ ādāya gamissāmā ti. ayaṃ kho me samma sāṇabhāro dūrābhato ca susannaddho ca. alam1 me; tvaṃ pajānāhī ti. atha kho so sahāyako sāṇabhāraṃ chaḍḍetvā sāṇasuttabhāraṃ ādiyi.
 

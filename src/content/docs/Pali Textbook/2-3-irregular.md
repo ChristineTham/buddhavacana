@@ -101,13 +101,13 @@ bhikkhū / of the Bhagavā / what was spoken / rejoiced in / (end quote)
 
 🚹⨀①(satthar) *️⃣👆⚧⨂⑥(ahaṁ) 🚹⨀①(garu)  
 teacher / of us / respected  
-*"Our teacher is respected": `satthā`, ① singular of `satthu` {199}, the `u` become `ā`; [Bonus: 1, 24.5](../11-pbt/#s1-u24-5).*
+*"Our teacher is respected": `satthā`, ① singular of `satthu` {199}, the `u` become `ā`; [Bonus: 1, 24.5](../11-pbt/#s1-u1362-2).*
 
 > mettāsahagatena **cetasā**
 
 🚹⨀③🆎(mettā+sahagata) 🚹⨀③(cetas)  
 filled with goodwill/friendliness / with intent  
-*"With intent": `cetasā`, ③ singular of the `mano` group, `ā` for `nā` with `s` inserted {181}, {184}; [Bonus: 37, 1.11.52](../11-pbt/#s37-u1-11-52).*
+*"With intent": `cetasā`, ③ singular of the `mano` group, `ā` for `nā` with `s` inserted {181}, {184}; [Bonus: 37, 1.11.52](../11-pbt/#s37-u890-2).*
 
 ### Exercises
 
@@ -150,13 +150,13 @@ by Māra / or / by Brahmā / or / by anyone / or
 
 *️⃣🤟🚹⨀②(añña) 🚹⨀②(satthar) 🟢⨂🤘⏯(uddisati) ⏏️(iti)  
 another / teacher / appoint / (end quote)  
-*"Will you appoint another teacher?": `satthāraṁ`, ② singular of `satthu`, with `-ār-` {200}; [Bonus: 1, 24.10](../11-pbt/#s1-u24-10).*
+*"Will you appoint another teacher?": `satthāraṁ`, ② singular of `satthu`, with `-ār-` {200}; [Bonus: 1, 24.10](../11-pbt/#s1-u1366-1).*
 
 4. > **āyasmantaṁ** sāriputtaṁ bhagavā etadavoca
 
 🚹⨀②(āyasmant) 🚹⨀②(sāriputta) 🚹⨀①(bhagavant) *️⃣🤟🚻⨀②(eta) 🟢⨀🤟⏮(vadati)  
 Venerable / Sāriputta / the Bhagavā / this / said  
-*"The Bhagavā said this to Venerable Sāriputta": `āyasmantaṁ`, ② singular of `āyasmantu`, `-antaṁ` {92}; `sāriputtaṁ` agrees with it; [Bonus: 44, 1.3](../11-pbt/#s44-u1-3).*
+*"The Bhagavā said this to Venerable Sāriputta": `āyasmantaṁ`, ② singular of `āyasmantu`, `-antaṁ` {92}; `sāriputtaṁ` agrees with it; [Bonus: 44, 1.3](../11-pbt/#s44-u1257-3).*
 
 5. > eso me **attā**
 
@@ -168,7 +168,7 @@ this / my / self
 
 ⏏️🆎(yāva+jīva) 🚹⨂①(arahant) 🚻⨀②🆎(na+brahma+cariya) 🔽(ya)(pajahati)  
 life-long / liberated ones / uncelibacy / giving up  
-*"Life-long arahants (liberated ones) give up uncelibacy": `arahanto`, ① plural of `arahanta` {122}, singular `arahaṁ` {186}; [Bonus: 32, 21.1](../11-pbt/#s32-u21-1).*
+*"Life-long arahants (liberated ones) give up uncelibacy": `arahanto`, ① plural of `arahanta` {122}, singular `arahaṁ` {186}; [Bonus: 32, 21.1](../11-pbt/#s32-u634-1).*
 
 7. > Evaṁ **passaṁ**, bhikkhave, **sutavā** ariyasāvako
 

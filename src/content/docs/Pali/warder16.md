@@ -9,7 +9,7 @@ description: >
 
 ## Passage 1
 
-[**Pāyāsisutta** DN 23 PTS 2.316–2.358](https://suttacentral.net/dn23/pli/ms#29.15) 29.15-29.36 (D II 350,19 - 351,21)
+[**Pāyāsisutta** DN 23 PTS 2.316–2.358](https://tipitaka2500.github.io/tipitaka/7D/10/10.2/10.2.14.html#1134) 29.15-29.36 (D II 350,19 - 351,21)
 
 >te yen' aññataraṃ gāmapadaṃ ten' upasaṃkamiṃsu. tatth' addasaṃsu pahūtaṃ khomaṃ chaḍḍitaṃ. disvā. pe. pahūtaṃ khomasuttaṃ chaḍḍitaṃ. disvā. pe. (a whole range of commodities of increasing value is enumerated) pe. pahūtaṃ suvaṇṇaṃ chaḍḍiṭaṃ. disvā sahāyako sahāyakaṃ āmantesi: yassa kho samma atthāya iccheyyāma sāṅaṃ vā sāṇasuttaṃ vā ... sīsaṃ vā sajjhuṃ vā, idaṃ pahūtaṃ suvaṇṇaṃ chaḍḍitaṃ. tena hi samma tvañ ca sāṇabhāraṃ chaḍḍehi, ahañ ca sajjhubhāraṃ chaḍḍessāmi. ubho suvaṇṇabhāraṃ ādāya gamissāmā ti. ayaṃ kho me samma sāṇabhāro durābhato ca susannaddho ca. alam me; tvaṃ pajānāhi ti
 
@@ -67,7 +67,7 @@ that’s enough | for me ; you | must understand | quote
 
 ## Passage 2
 
-[**Pāyāsisutta** DN 23 PTS 2.316–2.358](https://suttacentral.net/dn23/pli/ms#25.3) 25.3-25.13 (D II 347,9 - 348,1)
+[**Pāyāsisutta** DN 23 PTS 2.316–2.358](https://tipitaka2500.github.io/tipitaka/7D/10/10.2/10.2.12.html#1127) 25.3-25.13 (D II 347,9 - 348,1)
 
 >bhūtapubbaṃ aññataro sūkaraposako puriso sakamhā gāmā aññaṃ gāmaṃ agamāsi. tatth' addasā pahūtaṃ sukkhagūthaṃ chaḍḍitaṃ. disvān' assa etad ahosi: ayaṃ me bahuko sukkhagūtho chaḍḍito, mamañ ca sūkarabhattaṃ. yan nūnāhaṃ ito sukkhagūthaṃ hareyyan ti. so uttarāsaṅgaṃ pattharitvā pahūtaṃ sukkhagūthaṃ āharitvā bhaṇḍikaṃ bandhitvā sīse ubbāhetvā agamāsi. tassa antarā magge mahā akālamegho pāvassi. so uggharantaṃ paggharantaṃ yāva agganakhā gūthena makkhito gūthabhāraṃ ādāya agamāsi. tam enaṃ manussā disvā evam āhaṃsu: kacci no tvaṃ bhaṇe ummatto, kacci veceto, kathaṃ hi nāma uggharantaṃ paggharantaṃ yāva, agganakhā gūthena makkhito gūthabhāraṃ harissasī ti. tumhe kho ettha bhaṇe ummattā tumhe vecetā tathā hi pana me sūkarabhattan ti.
 
@@ -167,7 +167,7 @@ This should be undertaken, this should not be undertaken.
 
 ## Translate into Pali
 
-[**Soṇadaṇḍasutta** DN 4 PTS 1.111–1.126](https://suttacentral.net/dn4/pli/ms#8.2) DN 4 8.2-8.5, 8.9-8.12 (D I 117,28 - 118,11):
+[**Soṇadaṇḍasutta** DN 4 PTS 1.111–1.126](https://tipitaka2500.github.io/tipitaka/6D/4/4.4.html#473) DN 4 8.2-8.5, 8.9-8.12 (D I 117,28 - 118,11):
 
 If (ce) now (va kho pana) I (put first) were to ask (optative) the philosopher Gotama a question, if (ce) in that connection the philosopher Gotama were to ask me thus: "Priest, this question, now (ca), should not be asked (future passive participle) thus, but (nāma) thus, priest, this question should be asked", this assembly would despise me for that (tena - place at beginning of clause): "The priest Soṇadaṇḍa is a fool (put first), unintelligent, he could (sak(k), aorist) not ask (pucchituṃ - infinitive of pucch, Lesson 19; place at end of clause) the philosopher Gotama a question consequently (precedes 'question')."  
 Ahaṃ ce va kho pana samaṇaṃ Gotamaṃ pañhaṃ puccheyyaṃ, tatra ce maṃ samaṇo Gotamo evaṃ vadeyya: "Na c'esa brāhmaṇa pañho evaṃ pucchitabbo, evaṃ nām'esa brāhmaṇa pañho pucchitabbo" ti, tena maṃ ayaṃ parisā paribhaveyya: "Bālo Soṇadaṇḍo brāhmaṇo avyatto, nāsakkhi samaṇaṃ Gotamaṃ yoniso pañhaṃ pucchitun" ti.

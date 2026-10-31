@@ -111,9 +111,9 @@ deconstruction.
 1. bodhirukkhamūle ([3: 2.1](../3-awakening/#u2-1))
 2. saṅkhāranirodho ([3: 4.1](../3-awakening/#u4-1))
 3. vimuttisukhapaṭisaṁvedī ([3: 2.2](../3-awakening/#u2-2))
-4. samādhijaṁ ([Bonus: 39, 11.1](../11-pbt/#s39-u11-1))
-5. tathāgatasāvako ([Bonus: 26, 12.3](../11-pbt/#s26-u12-3))
-6. sammāsambuddhadesitaṁ ([Bonus: 49, 3.2](../11-pbt/#s49-u3-2))
+4. samādhijaṁ ([Bonus: 39, 11.1](../11-pbt/#s39-u698-1))
+5. tathāgatasāvako ([Bonus: 26, 12.3](../11-pbt/#s26-u267-3))
+6. sammāsambuddhadesitaṁ ([Bonus: 49, 3.2](../11-pbt/#s49-u444-2))
 
 ### Answers
 

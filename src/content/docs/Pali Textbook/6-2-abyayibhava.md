@@ -107,13 +107,13 @@ deconstruction.
 
 ⏏️🆎(yathā+bhūta)  
 as it truly is  
-*`yathā` ("as") with `bhūta` ("true", "real"): an `abyayībhāva` {319} in `-aṁ` {341}; [Bonus: 18, 1.21](../11-pbt/#s18-u1-21), `samāhito yathābhūtaṁ jānāti passati`, and [7: 7.1](../7-anatta/#u7-1).*
+*`yathā` ("as") with `bhūta` ("true", "real"): an `abyayībhāva` {319} in `-aṁ` {341}; [Bonus: 18, 1.21](../11-pbt/#s18-u14-21), `samāhito yathābhūtaṁ jānāti passati`, and [7: 7.1](../7-anatta/#u7-1).*
 
 2. > jīvassa yattako paricchedo → **yāvajīvaṁ**
 
 🚻⨀⑥(jīva) 🚹⨀①(yattaka) 🚹⨀①(pariccheda) → 🚻⨀①🆎(yāva+jīva)  
 of life / however much / limit → as long as life lasts  
-*`yāva` ("as long as") stands for `yattako paricchedo` ("whatever the limit"): an `abyayībhāva` {319} in `-aṁ` {341}; [Bonus: 32, 21.1](../11-pbt/#s32-u21-1), `yāvajīvaṁ arahanto`.*
+*`yāva` ("as long as") stands for `yattako paricchedo` ("whatever the limit"): an `abyayībhāva` {319} in `-aṁ` {341}; [Bonus: 32, 21.1](../11-pbt/#s32-u634-1), `yāvajīvaṁ arahanto`.*
 
 3. > pabbatassa tiro → **tiropabbataṁ**
 

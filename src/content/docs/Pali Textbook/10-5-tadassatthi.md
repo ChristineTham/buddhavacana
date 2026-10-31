@@ -59,9 +59,9 @@ lemma `bhagavant`, `āyasmant`, as the symbol lines of chapters
 
 | ending | what you see | example | rule |
 | :-: | --- | --- | :-: |
-| ① | `-vā`, `-mā` | `bhagavā` ([3: 2.1](../3-awakening/#u2-1), [7: 1.1](../7-anatta/#u1-1)), `sutavā` ([9: 8.1](../9-fire/#u8-1)), `āyasmā` ([Bonus: 44, 1.3](../11-pbt/#s44-u1-3)), `satimā` ([Bonus: 40, 12.1](../11-pbt/#s40-u12-1)) | {124} |
-| ② | `-vantaṁ`, `-mantaṁ` | `bhagavantaṁ`, `āyasmantaṁ` ([Bonus: 44, 1.3](../11-pbt/#s44-u1-3)) | |
-| ③ | `-vatā`, `-matā` | `bhagavatā` ([5: 12.1](../5-dhammacakka/#u12-1), [Bonus: 45, 9.5](../11-pbt/#s45-u9-5)) | {127} |
+| ① | `-vā`, `-mā` | `bhagavā` ([3: 2.1](../3-awakening/#u2-1), [7: 1.1](../7-anatta/#u1-1)), `sutavā` ([9: 8.1](../9-fire/#u8-1)), `āyasmā` ([Bonus: 44, 1.3](../11-pbt/#s44-u1257-3)), `satimā` ([Bonus: 40, 12.1](../11-pbt/#s40-u699-1)) | {124} |
+| ② | `-vantaṁ`, `-mantaṁ` | `bhagavantaṁ`, `āyasmantaṁ` ([Bonus: 44, 1.3](../11-pbt/#s44-u1257-3)) | |
+| ③ | `-vatā`, `-matā` | `bhagavatā` ([5: 12.1](../5-dhammacakka/#u12-1), [Bonus: 45, 9.5](../11-pbt/#s45-u1061-5)) | {127} |
 | ④ ⑥ | `-vato`, `-mato` | `bhagavato` ([7: 1.3](../7-anatta/#u1-3): ④, [9: 10.2](../9-fire/#u10-2): ⑥) | {127} |
 | ① ⨂ | `-vanto`, `-manto` | `guṇavanto` | {122} |
 
@@ -107,8 +107,8 @@ deconstruction.
 :::
 
 1. bhagavā ([3: 2.1](../3-awakening/#u2-1), [7: 1.1](../7-anatta/#u1-1))
-2. āyasmā ([Bonus: 44, 1.3](../11-pbt/#s44-u1-3))
-3. satimā ([Bonus: 40, 12.1](../11-pbt/#s40-u12-1))
+2. āyasmā ([Bonus: 44, 1.3](../11-pbt/#s44-u1257-3))
+3. satimā ([Bonus: 40, 12.1](../11-pbt/#s40-u699-1))
 4. sutavā ([7: 11.1](../7-anatta/#u11-1): `sutavā ariyasāvako`; also [9: 8.1](../9-fire/#u8-1))
 5. paññavā
 6. medhāvī
@@ -133,7 +133,7 @@ life / his / there is → one who has life, venerable
 
 🚺⨀①(sati) *️⃣🤟🚹⨀⑥(ya) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(mantu)(satimant)  
 awareness / of whom / there is → one who has awareness, aware  
-*`mantu` {369}: `sati` + `-mā`; [Bonus: 40, 12.1](../11-pbt/#s40-u12-1) has it in `upekkhako satimā sukhavihārī`.*
+*`mantu` {369}: `sati` + `-mā`; [Bonus: 40, 12.1](../11-pbt/#s40-u699-1) has it in `upekkhako satimā sukhavihārī`.*
 
 4. > **sutavā** ariyasāvako
 

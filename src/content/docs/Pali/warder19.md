@@ -9,7 +9,7 @@ description: >
 
 ## Passage 1
 
-[**Pāyāsisutta** DN 23 PTS 2.316–2.358](https://suttacentral.net/dn23/pli/ms#23.11) 23.11-23.67 (D II 343,8 - 346,18):
+[**Pāyāsisutta** DN 23 PTS 2.316–2.358](https://tipitaka2500.github.io/tipitaka/7D/10/10.2/10.2.11.html#1121) 23.11-23.67 (D II 343,8 - 346,18):
 
 >te taṃ satthaṃ dvidhā vibhajiṃsu ekato pañca sakatasatāni ekato pañca sakaṭasatāni. eko tāva satthavāho bahuṃ tiṇañ ca kaṭṭhañ ca udakañ ca āropetvā satthaṃ payāpesi. dvīhatīhapāyāto kho pana so sattho addasā purisaṃ kalaṃ lohitakkhiṃ apanaddhakalāpaṃ kumudamālaṃ allavatthaṃ allakesaṃ kaddamamakkhitehi cakkehi gadrabharathena patipathaṃ āgacchantaṃ. disvā etad avoca : kuto bho āgacchasī ti. amukamhā janapadā ti. kuhiṃ gamissasī ti. amukaṃ nāma janapadan ti. kacci bho purato kantāre mahāmegho abhippavaṭṭo ti. evam kho bho purato kantāre mahāmegho abhippavaṭṭo, āsittodakāni vaṭumāni, bahuṃ tiṇañ ca kaṭṭhāñ ca udakañ ca, chaḍḍetha bho purāṇāni tiṇani katthāni udakāni, lahubhārehi sakaṭehi sīghaṃ sīghaṃ gacchatha, mā yoggāni kilamethā ti.
 >
@@ -183,7 +183,7 @@ thus | sir | quote | indeed | they | wagon driver | (for) caravan leader | havin
 
 ## Passage 2
 
-[**Kūṭadantasutta** DN 5 PTS 1.127–1.149](https://suttacentral.net/dn5/pli/ms#1.1) 1.1-1.4, 3.1-3.5, 4.1-4.13, 5.1-6.5, 7.36-11.13 (D I 127,1 - 135,28):
+[**Kūṭadantasutta** DN 5 PTS 1.127–1.149](https://tipitaka2500.github.io/tipitaka/6D/5.html) 1.1-1.4, 3.1-3.5, 4.1-4.13, 5.1-6.5, 7.36-11.13 (D I 127,1 - 135,28):
 
 >Evaṁ me sutaṁ. Ekaṁ samayaṁ bhagavā Magadhesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ yena Khāṇumataṁ nāma Magadhānaṁ brāhmaṇagāmo tad avasari. Tatra sudaṁ bhagavā Khāṇumate viharati Ambalaṭṭhikāyaṁ. Tena kho pana samayena Kūṭadanto brāhmaṇo Khāṇumataṁ ajjhāvasati sattussadaṁ satiṇakaṭṭhodakaṁ sadhaññaṁ rājabhoggaṁ raññā Māgadhena Seniyena Bimbisārena dinnaṁ rājadāyaṁ brahmadeyyaṁ.
 >
@@ -472,7 +472,7 @@ people | happy | rejoicing | hearts | children | dancing | living with open door
 
 ## Passage 3
 
-[**Mahāpadānasutta** DN 14 PTS 2.1–2.54](https://suttacentral.net/dn14/pli/ms#1.31.1) 1.31.1-1.31.6, 1.31.8, 1.33.9, 1.38.1-1.38.2 (D II 16+19+21):
+[**Mahāpadānasutta** DN 14 PTS 2.1–2.54](https://tipitaka2500.github.io/tipitaka/7D/1/1.3.html#50) 1.31.1-1.31.6, 1.31.8, 1.33.9, 1.38.1-1.38.2 (D II 16+19+21):
 
 >Jāte kho pana bhikkhave Vipassimhi kumāre Bandhumato rañño paṭivedesuṁ: putto te, deva, jāto, taṁ devo passatū ti. Addasā kho, bhikkhave, Bandhumā rājā Vipassikumāraṁ, disvā nemitte brāhmaṇe āmantāpetvā etad avoca: passantu bhonto nemittā brāhmaṇā kumāran ti. Addasaṁsu kho bhikkhave nemittā brāhmaṇā Vipassikumāraṁ, disvā Bandhumantaṁ rājānaṁ etad avocuṁ: attamano deva hohi, mahesakkho te deva putto uppanno. Sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā. Sace kho pana agārasmā anagāriyaṁ pabbajati, arahaṁ hoti sammāsambuddho ti. Atha kho bhikkhave Bandhumā rājā nemitte brāhmaṇe ahatehi vatthehi acchādāpetvā sabbakāmehi santappesi.  Atha kho bhikkhave Bandhumā rājā Vipassissa kumārassa tayo pāsāde kārāpesi, ekaṁ vassikaṁ ekaṁ hemantikaṁ ekaṁ gimhikaṁ; pañca kāmaguṇāni upaṭṭhāpesi.
 
@@ -515,7 +515,7 @@ After that, monks, King Bandhuma caused three palaces to be built for Prince Vip
 
 ## Translate from English
 
-[**Alagaddūpamasutta** MN 22 PTS 1.130–1.142](https://suttacentral.net/mn22/pli/ms#13.1) 13.1, 13.6-13.19, 13.26-14.1 (M I 134,30 - 135,26) 
+[**Alagaddūpamasutta** MN 22 PTS 1.130–1.142](https://tipitaka2500.github.io/tipitaka/9M/3/3.2.html#790) 13.1, 13.6-13.19, 13.26-14.1 (M I 134,30 - 135,26) 
 
 “0 monks, I will teach you the doctrine having-a-raft-as- simile, for-the-purpose-of-crossing-over, not for-the-purpose-of-keeping.  
 Kullūpamaṁ vo, bhikkhave, dhammaṁ desessāmi nittharaṇatthāya, no gahaṇatthāya.  

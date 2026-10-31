@@ -80,7 +80,7 @@ sits on a lemma; `passati` ("sees") is a present: no `i`.
 
 🚻⨀①🔽(ta)(āraddha) ⏏️(kho) ⏏️(pana) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(vīriya) 🟢⨀🤟⏭(bhavati) 🚻⨀①🔽(ta)🆎(na+sallīna)  
 applied / indeed / now / my / determination / will become / active  
-*`bhavissati`, "will become": `-ssati`, the future, third person singular {429}, with the `i` before `ssa` {516}; [Bonus: 45, 9.7](../11-pbt/#s45-u9-7).*
+*`bhavissati`, "will become": `-ssati`, the future, third person singular {429}, with the `i` before `ssa` {516}; [Bonus: 45, 9.7](../11-pbt/#s45-u1061-7).*
 
 > te **gacchissanti**, **karissanti**
 
@@ -92,7 +92,7 @@ they / will go / will do
 
 ⏏️(no) ⏏️(ce) *️⃣🤟🚻⨀①(eta) 🚹⨂⓪(bhikkhu) 🟢⨀🤟🔀(bhavati) 🚻⨀①🔽(ta)🆎(na+jāta) 🚻⨀①🔽(ta)🆎(na+bhūta) 🚻⨀①🔽(ta)🆎(na+kata) 🚻⨀①🔽(ta)🆎(na+saṅkhata)  
 surely? / if / this / Bhikkhave / could have been / not born / not become / not made / not formed  
-*`abhavissa`, "could have been": the conditional, third person singular, `a-` {519}, `-ssa` for `-ssā` {430}, after `no ce` ("if not"); [Bonus: 51, 3.2](../11-pbt/#s51-u3-2).*
+*`abhavissa`, "could have been": the conditional, third person singular, `a-` {519}, `-ssa` for `-ssā` {430}, after `no ce` ("if not"); [Bonus: 51, 3.2](../11-pbt/#s51-u671-2).*
 
 > Saṅkhārā ca hidaṁ, bhikkhave, attā **abhavissaṁsu**
 

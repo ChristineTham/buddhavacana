@@ -158,9 +158,6 @@ editions of the `Tipiṭaka`, including:
 [The World Tipiṭaka Edition](https://tipitaka2500.github.io)
 : The **World Tipiṭaka Edition** is a complete 40-volume Roman-script edition of the 25-century-old teaching of the Buddhist Theravāda tradition in the Pāḷi language from the B.E. 2500 (1957) Great International Buddhist Council. It is derived from the Chaṭṭhasaṅgīti Council Edition, the Pāḷi-language text in Burmese Script, the result of the Great International Tipiṭaka Council convened in B.E. 2500 (1957) at Yangon by 2,500 erudite Theravāda Buddhist monks from all over the world. The [Roman Edition](https://www.sajjhaya.org/node/66) is the result of the work of [The World Tipiṭaka Project](https://www.worldtipitaka.net) B.E. 2542–2554 (1999–2011), by the M.L. Maniratana Bunnag Dhamma Society Fund under the Patronage of His Holiness Somdet Phra Ñāṇasaṁvara, the Supreme Patriarch of Thailand. The website version of The World Tipiṭaka Edition was created by me in 2025: I converted an archive of the original website, which has sadly been decommissioned, into a modern website.
 
-[SuttaCentral](https://suttacentral.net)
-: SuttaCentral contains early Buddhist texts, known as the Tipiṭaka or “Three Baskets”. This is a large collection of teachings attributed to the Buddha or his earliest disciples, who were teaching in India around 2500 years ago. They are regarded as sacred canon in all schools of Buddhism.
-
 [Pāḷi Tipitaka](https://tipitaka.org)
 : This web site is based on the Chaṭṭha Saṅgāyana CD published by the Vipassana Research Institute. Based at Dhamma Giri, Igatpuri, near Mumbai, India, the Vipassana Research Institute also publishes literature & disseminates information related to Vipassana Meditation Technique as taught by S.N.Goenka in the tradition of Sayagyi U Ba Khin.
 

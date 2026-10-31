@@ -106,8 +106,8 @@ deconstruction.
 
 1. nāmarūpaṁ ([3: 3.3](../3-awakening/#u3-3))
 2. sokaparidevadukkhadomanassupāyāsā ([3: 3.11](../3-awakening/#u3-11))
-3. assāsapassāsā ([Bonus: 12, 14.2](../11-pbt/#s12-u14-2))
-4. kesamassuṁ ([Bonus: 26, 12.8](../11-pbt/#s26-u12-8))
+3. assāsapassāsā ([Bonus: 12, 14.2](../11-pbt/#s12-u1598-1))
+4. kesamassuṁ ([Bonus: 26, 12.8](../11-pbt/#s26-u267-8))
 
 ### Answers
 
@@ -129,7 +129,7 @@ sorrow / and / lamentation / and / pain / and / displeasure / and / despair / an
 
 🚹⨀①(assāsa) ⏏️(ca) 🚹⨀①(passāsa) ⏏️(ca) → 🚹⨂①🆎(assāsa+passāsa)  
 in-breath / and / out-breath / and → breathing in and out  
-*`dvanda` {329}, plural like `samaṇabrāhmaṇā`, each breath counted; in [Bonus: 12, 14.2](../11-pbt/#s12-u14-2) they are the `kāyasaṅkhāro`.*
+*`dvanda` {329}, plural like `samaṇabrāhmaṇā`, each breath counted; in [Bonus: 12, 14.2](../11-pbt/#s12-u1598-1) they are the `kāyasaṅkhāro`.*
 
 4. > kesā ca massu ca → **kesamassuṁ**
 

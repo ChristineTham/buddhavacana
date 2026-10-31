@@ -126,28 +126,28 @@ deconstruction.
 
 🚹⨀⑥(dhamma) 🚹⨀①(bhāva) → 🚺⨀①🔽(tā)(dhammatā)  
 of nature / the state → the natural state, a characteristic  
-*`tā` {360}: `-tā` on `dhamma` (nature); "Dhammatā esā", "this characteristic", [Bonus: 18, 1.3](../11-pbt/#s18-u1-3).*
+*`tā` {360}: `-tā` on `dhamma` (nature); "Dhammatā esā", "this characteristic", [Bonus: 18, 1.3](../11-pbt/#s18-u14-3).*
 
 2. > sahabyassa bhāvo → **sahabyatā**
 
 🚻⨀⑥(sahabya) 🚹⨀①(bhāva) → 🚺⨀①🔽(tā)(sahabyatā)  
 of fellowship / the state → companionship  
-*`tā` {360}: `-tā` on `sahabya` (fellowship); you met it in the ② ending, `sahabyataṁ`, [Bonus: 24, 3.3](../11-pbt/#s24-u3-3).*
+*`tā` {360}: `-tā` on `sahabya` (fellowship); you met it in the ② ending, `sahabyataṁ`, [Bonus: 24, 3.3](../11-pbt/#s24-u476-3).*
 
 3. > Yathā **aññataraṁ** bījaṁ
 
 ⏏️(yathā) *️⃣🤟🚻⨀①(aññatara) 🚻⨀①(bīja)  
 like / a certain / seed  
-*`tara` {363}: `-tara` on `añña` (other) singles one out of several, "a certain one"; [Bonus: 20, 5.1](../11-pbt/#s20-u5-1).*
+*`tara` {363}: `-tara` on `añña` (other) singles one out of several, "a certain one"; [Bonus: 20, 5.1](../11-pbt/#s20-u994-1).*
 
 4. > **Katame** ca, bhikkhave, saṅkhārā?
 
 *️⃣🤟🚹⨂①(katama) ⏏️(ca) 🚹⨂⓪(bhikkhu) 🚹⨂①(saṅkhāra)  
 what / and / Bhikkhave / mental constructions  
-*`tama` {363}: `-tama` on the question word `ka` (who? what?) asks "which of the many?"; [Bonus: 13, 10.1](../11-pbt/#s13-u10-1).*
+*`tama` {363}: `-tama` on the question word `ka` (who? what?) asks "which of the many?"; [Bonus: 13, 10.1](../11-pbt/#s13-u265-1).*
 
 5. > **anuttaraṁ** yogakkhemaṁ nibbānaṁ
 
 🚻⨀②🆎(na+uttara) 🚹⨀②🆎(yoga+khema) 🚻⨀②(nibbāna)  
 unsurpassed / sanctuary / extinguishment  
-*`tara` {363}: `ud` (up) with `-tara` is `uttaro` ("higher"); `an-` (not) in front, "with none higher"; [Bonus: 47, 18.1](../11-pbt/#s47-u18-1).*
+*`tara` {363}: `ud` (up) with `-tara` is `uttaro` ("higher"); `an-` (not) in front, "with none higher"; [Bonus: 47, 18.1](../11-pbt/#s47-u965-1).*

@@ -9,7 +9,7 @@ description: >
 
 ## Reading Passage
 
-[**Pāyāsisutta** DN 23 PTS 2.316–2.358](https://suttacentral.net/dn23/pli/ms#29.3) 29.3-29.9 (D II 349,25 - 350,7)
+[**Pāyāsisutta** DN 23 PTS 2.316–2.358](https://tipitaka2500.github.io/tipitaka/7D/10/10.2/10.2.14.html#1133) 29.3-29.9 (D II 349,25 - 350,7)
 
 >bhūtapubbaṃ aññataro janapado vuṭṭhāsi. atha kho sahāyako sahāyakaṃ āmantesi: āyāma samma. yena so janapado ten' upasaṅkamissāma. app eva nām' ettha kiñ ci dhanaṃ adhigaccheyyāmā ti. evaṃ sammā ti kho sahāyako sahāyakassa paccassosi. te yena so janapado yen' aññataraṃ gāmapaṭṭaṃ ten' upasaṃkamiṃsu. tatth' addasaṃsu pahūtaṃ sāṇaṃ chaḍḍitaṃ. disvā sahāyako sahāyakaṃ āmantesi: idaṃ kho samma pahūtaṃ sāṇaṃ chaḍḍitaṃ. tena hi samma tvañ1 ca sāṇabhāraṃ bandha, ahañ ca sāṇabhāraṃ bandhissāmi. ubho sāṇabhāraṃ ādāya gamissāmā ti. evaṃ sammā ti kho sahāyako sahāyakassa paṭissutvā sāṇabhāraṃ bandhi.
 

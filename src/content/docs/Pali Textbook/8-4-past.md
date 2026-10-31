@@ -134,10 +134,10 @@ then / indeed / the Bhagavā / this / inspired utterance / uttered
 
 *️⃣🤟🚹⨀④(ta) *️⃣👆⚧⨀④(ahaṁ) 🚹⨀①🆎(tathā+gata) ⏏️(vā) 🚹⨀①🆎(tathā+gata+sāvaka) ⏏️(vā) 🚹⨀②(dhamma) 🟠⨀🤟⏮(deseti)  
 to that / to me / Tathāgata / or / disciple of the Buddha / or / Dhamma / taught  
-*"Because of that, the Tathāgata and his disciples taught the Dhamma to me." ([Bonus: 26, 12.3](../11-pbt/#s26-u12-3)) `desesi`: `-i` third person singular {428} after the `s` {491} and the `e` of `deseti`; no `a`.*
+*"Because of that, the Tathāgata and his disciples taught the Dhamma to me." ([Bonus: 26, 12.3](../11-pbt/#s26-u267-3)) `desesi`: `-i` third person singular {428} after the `s` {491} and the `e` of `deseti`; no `a`.*
 
 4. > Tāhaṁ dhammaṁ sutvā tathāgate saddhaṁ **paṭilabhiṁ**.
 
 *️⃣🤟🚹⨀②(ta) *️⃣👆⚧⨀①(ahaṁ) 🚹⨀②(dhamma) 🔽(tvā)(suṇāti) 🚹⨀⑦🆎(tathā+gata) 🚺⨀②(saddhā) 🟢⨀👆⏮(paṭilabhati)  
 that / I / Dhamma / having heard / in Tathāgata / faith / I acquired  
-*"Having heard that Dhamma, I acquired faith in the Tathāgata." ([Bonus: 26, 12.4](../11-pbt/#s26-u12-4)) `paṭilabhiṁ`: `-iṁ` first person singular {428}; the prefix `pati`, no `a`, no `s`.*
+*"Having heard that Dhamma, I acquired faith in the Tathāgata." ([Bonus: 26, 12.4](../11-pbt/#s26-u267-4)) `paṭilabhiṁ`: `-iṁ` first person singular {428}; the prefix `pati`, no `a`, no `s`.*

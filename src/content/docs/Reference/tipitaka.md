@@ -6,8 +6,8 @@ description: >
   Online sources for the Tipiṭaka.
 ---
 
-[SuttaCentral](https://suttacentral.net)
-: SuttaCentral contains early Buddhist texts, known as the Tipiṭaka or “Three Baskets”. This is a large collection of teachings attributed to the Buddha or his earliest disciples, who were teaching in India around 2500 years ago. They are regarded as sacred canon in all schools of Buddhism.
+[The World Tipiṭaka Edition](https://tipitaka2500.github.io)
+: The **World Tipiṭaka Edition** is a complete 40-volume Roman-script edition of the 25-century-old teaching of the Buddhist Theravāda tradition in the Pāḷi language from the B.E. 2500 (1957) Great International Buddhist Council. It is derived from the Chaṭṭhasaṅgīti Council Edition, the Pāḷi-language text in Burmese Script, the result of the Great International Tipiṭaka Council convened in B.E. 2500 (1957) at Yangon by 2,500 erudite Theravāda Buddhist monks from all over the world. The [Roman Edition](https://www.sajjhaya.org/node/66) is the result of the work of [The World Tipiṭaka Project](https://www.worldtipitaka.net) B.E. 2542–2554 (1999–2011), by the M.L. Maniratana Bunnag Dhamma Society Fund under the Patronage of His Holiness Somdet Phra Ñāṇasaṁvara, the Supreme Patriarch of Thailand. The website version of The World Tipiṭaka Edition was created by me in 2025: I converted an archive of the original website, which has sadly been decommissioned, into a modern website.
 
 [Ancient Buddhist Texts](https://www.ancient-buddhist-texts.net)
 : Materials from the early and medieval Buddhist tradition covering texts in Pāli and Sanskrit; line by line (interlinear) texts and translations; translations in English only; studies of grammar, prosody and compilation; maps, reference works and audio files.

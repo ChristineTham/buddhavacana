@@ -104,7 +104,7 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. pahānāya chandaṁ janeti ([Bonus: 35, 21.21](../11-pbt/#s35-u21-21))
+1. pahānāya chandaṁ janeti ([Bonus: 35, 21.21](../11-pbt/#s35-u1079-2a))
 2. Yadā have pātubhavanti dhammā, ātāpino jhāyato brāhmaṇassa ([3: 6.1–6.2](../3-awakening/#u6-1))
 3. saṅghe gotami dehi
 4. namo karohi nāgassa

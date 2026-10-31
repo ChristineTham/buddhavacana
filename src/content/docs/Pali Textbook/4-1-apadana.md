@@ -111,10 +111,10 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. upādānanirodhā bhavanirodho ([Bonus: 19, 2.6](../11-pbt/#s19-u2-6), also [3: 4.9](../3-awakening/#u4-9))
+1. upādānanirodhā bhavanirodho ([Bonus: 19, 2.6](../11-pbt/#s19-u576-5a), also [3: 4.9](../3-awakening/#u4-9))
 2. virāgā vimuccati ([7: 11.2](../7-anatta/#u11-2))
-3. Pāṇātipātā veramaṇī adinnādānā veramaṇī kāmesumicchācārā veramaṇī ([Bonus: 31, 21.14](../11-pbt/#s31-u21-14))
-4. agārasmā anagāriyaṁ pabbajeyyan”ti ([Bonus: 26, 12.8](../11-pbt/#s26-u12-8))
+3. Pāṇātipātā veramaṇī adinnādānā veramaṇī kāmesumicchācārā veramaṇī ([Bonus: 31, 21.14](../11-pbt/#s31-u1077-2))
+4. agārasmā anagāriyaṁ pabbajeyyan”ti ([Bonus: 26, 12.8](../11-pbt/#s26-u267-8))
 
 ### Answers
 

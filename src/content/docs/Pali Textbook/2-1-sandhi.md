@@ -150,7 +150,7 @@ unsurpassed / perfect awakening / fully awakened / thus
 
 *️⃣🤟🚹⨀①(ta) 🔽(ya)(viviccati) ⏏️(eva) 🚹⨂⑤(kāma)  
 that / secluding oneself from / just / sensual pleasures  
-*`vivicceva` = `vivicca eva`: the `a` of `vivicca` dropped {12}; [Bonus: 38, 10.1](../11-pbt/#s38-u10-1).*
+*`vivicceva` = `vivicca eva`: the `a` of `vivicca` dropped {12}; [Bonus: 38, 10.1](../11-pbt/#s38-u697-6).*
 
 7. > piyehi **vippayogo** dukkho
 

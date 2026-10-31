@@ -9,7 +9,7 @@ description: >
 
 ## Passage 1
 
-[DN 23 27.3-27.17](https://suttacentral.net/dn23/pli/ms#27.3) (D II 348,19 - 349,7):
+[DN 23 27.3-27.17](https://tipitaka2500.github.io/tipitaka/7D/10/10.2/10.2.13.html#1129) (D II 348,19 - 349,7):
 
 >bhūtapubbaṃ dve akkhadhuttā akkhehi dibbiṃsu. eko akkhadhutto āgatāgataṃ kaliṃ gilati. addasā kho dutiyo akkhadhutto taṃ akkhadhuttaṃ āgatāgataṃ kaliṃ gilantaṃ disvā akkhadhuttaṃ etad avoca: tvaṃ kho samma ekantikena jināsi, dehi samma akkhe, pajohissāmi ti. evaṃ sammā ti kho so akkhadhutto tassa akkhadhuttassa akkhe pādāsi. atha kho so akkhadhutto akkhe visena paribhāvetvā taṃ akkhadhuttaṃ etad avoca: ehi kho samma akkhehi dibbissāmā ti. evaṃ sammā ti kho so akkhadhutto tassa akkhadhuttassa paccassosi. dutiyam pi kho te akkhadhuttā akkhehi dibbiṃsu, dutyam pi kho so akkhadhutto āgatāgataṃ kaliṃ gilati. addasā kho dutiyo akkhadhutto taṃ akkhadhuttaṃ dutiyam pi āgatāgataṃ kaliṃ gilantaṃ. disvā taṃ akkhadhuttaṃ etad avoca:
 >
@@ -94,7 +94,7 @@ Afterwards, there will be bitterness.”
 
 ## Passage 2
 
-[DN 26 2.1-7.16](https://suttacentral.net/dn26/pli/ms#2.1) (D III 59,1 - 63,16):
+[DN 26 2.1-7.16](https://tipitaka2500.github.io/tipitaka/8D/3/3.2.html#186) (D III 59,1 - 63,16):
 
 >bhūtapubbaṃ rājā Daḷhanemi nāma ahosi cakkavatti dhammiko dhammarājā ... atha kho rājā Daḷhanemi vassasahassānaṃ accayena aññataraṃ purisaṃ āmantesi. yadā tvaṃ ambho purisa passeyyāsi dibbaṃ cakkaratanaṃ osakkitaṃ ṭhānā cutaṃ, atha me āroceyyāsī ti. evaṃ devā ti kho so puriso rañño Daḷhanemissa paccassosi. addasā kho so puriso vassasahassānaṃ accayena dibbaṃ cakkaratanaṃ osakkitaṃ ṭhānā cutaṃ. disvā yena rājā Daḷhanemi ten’ upasaṃkami, upasaṃkamitvā rājānaṃ Daḷhanemiṃ etad avoca. yagghe deva jāneyyāsi dibbaṃ te cakkaratanaṃ osakkitaṃ ṭhānā cutan ti. atha kho rājā Daḷhanemi jeṭṭhaputtaṃ kumāraṃ āmantāpetvā etad avoca. dibbaṃ kira me tāta kumāra cakkaratanaṃ osakkitaṃ ṭhānā cutaṃ. sutaṃ kho pana m’etaṃ, yassa rañño cakkavattissa dibbaṃ cakkaratanaṃ osakkati ṭhānā cavati, na dāni tena rañña ciraṃ jīvitabbaṃ hotī ti. bhuttā kho pana me mānusakā kāmā, samayo dibbe kāme pariyesituṃ. ehi tvaṃ tāta kumāra imaṃ paṭhaviṃ paṭipajja. ahaṃ pana kesamassuṃ, ohāretvā, kāsāyāni vatthāni acchādetvā, agārasmā anagāriyaṃ pabbajissāmi ti. atha kho rājā Daḷhanemi jeṭṭhaputtaṃ kumāraṃ sādhukaṃ rajje samanusāsitvā, kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā, agārasmā anagāriyaṃ pabbaji. sattāhapabbajite kho pana rājisimhi dibbaṃ cakkaratanaṃ antaradhāyi. atha kho aññataro puriso yena rājā khattiyo ten’upasaṃkami, upasaṃkamitvā rājānaṃ khattiyaṃ etad avoca: yagghe deva jāneyyāsi dibbaṃ cakkaratanaṃ antarahitan ti.
 >
@@ -382,7 +382,7 @@ And next, whichever other kings from Northern direction became vassals of the wh
 
 ## Translate into Pali
 
-[MN 57 1.1-3.4](https://suttacentral.net/mn57/pli/ms#1.1) (M I 387,8-21 + 27-28 + 388,2-9):
+[MN 57 1.1-3.4](https://tipitaka2500.github.io/tipitaka/10M/1/1.7.html#210) (M I 387,8-21 + 27-28 + 388,2-9):
 
 >Once, the fortunate one was dwelling (use present tense, which in contexts like this expresses a continuing state in the past) among the Koḷiyas. Then (atha kho) Puṇṇa, a Koḷiyan (Koḷiyaputto) , a bovine, and a naked ascetic Seniya, a canine, approached (aorist : past event at a point of time) this way towards the fortunate one. Having approached, Punna(the) Koliyan (who was) a bovine, having saluted the fortunate one, sat down to one side ekam-antam : used as an indeclinable-compound). The naked ascetic Seniya, however, (the) canine, exchanged greetings with the fortunate one ; having made agreeable polite conversation (word order : agreeable conversa- tion polite), squatting (gerund) like a dog, he sat down to one side, Punna the Koliyan bovine, seated to one side (put this clause first) said this to the fortunate one: " Sir, this naked ascetic Seniya (is) a canine, a doer-of-hard-tasks. He eats (what is) thrown-on-the-ground. He (use genitive and past participle) has long (digharattam) conformed (to) that dog-vow. What (will be) his future state ? " " Enough, Punna, don't bother with this. Don't ask me this," [Punna asks a second and a third time : the convention being that, however reluctant, one must satisfy an inquirer who persists in asking up to three times. In the Pali of this story the question is repeated with abbreviation (pe) in place of the second statement. The fortunate one reluctantly answers.] ". . . Nevertheless I will explain to you (te). In this connection, Punna, someone develops the dog-vow perfectly (paripuṇṇam : accusative used as adverb) . . . Having developed the dog-vow perfectly, having developed the-virtue-of-a-dog perfectly, having developed the-mind-of-a-dog perfectly, having developed the-style-of-a- dog perfectly, after death he is reborn in the condition (acc.) of dogs. But if (sace) he has the opinion (diiṭṭhi, fem. : Lesson 20) : ‘By this virtue or vow I shall be a god,' that (fem.) is his wrong-opinion." (Wrong-opinion produces as future state either purgatory or birth as an animal.)
 

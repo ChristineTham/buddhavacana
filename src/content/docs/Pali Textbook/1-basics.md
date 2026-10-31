@@ -2459,7 +2459,7 @@ A `-t-` or `-it-` just before the ending marks a past participle 🔽(ta), "…e
 ## Exercise
 
 Our first exercise, and also a celebration for finishing this chapter, is to
-translate the [**Saraṇattaya** Kp 1 PTS 1](https://suttacentral.net/kp1/pli).
+translate the [**Saraṇattaya** Kp 1 PTS 1](https://tipitaka2500.github.io/tipitaka/18Kh/1.html).
 This is a very well known `sutta` commonly referred to as the **Three Jewels**
 (also known as the **Triple Gem** or **Three Refuges**) and traditionally
 recited by disciples of the Buddha as part of a ceremony by which one
