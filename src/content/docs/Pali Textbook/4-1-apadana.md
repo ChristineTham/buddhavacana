@@ -21,11 +21,11 @@ point of departure). The ⑤ ending is the ending of "from": the place one
 leaves, the thief one fears, the teacher one learns from {271}, and the cause
 something arises from {296}. The Bodhikathā of [chapter 3](../3-awakening/)
 shows it at each step of its chain of cessation: `bhavanirodhā jātinirodho`,
-"with the cessation of existence comes the cessation of the birth of suffering" ([3: 4.10](../3-awakening/#u4-10)).
+"with the cessation of existence comes the cessation of the birth of suffering" ([3: 4](../3-awakening/#u4-10)).
 
 You know the ⑤ ending by its shape, ⨀ `-smā` (`buddhasmā`), or `-ā` {108} or
 `-mhā` {99} in its place (`gāmā`, `anavatattamhā`), 🚺⨀ `-āya` (`sālāya`), ⨂
-`-ehi` (`āsavehi`, "from the defilements", [7: 12.3](../7-anatta/#u12-3)), and
+`-ehi` (`āsavehi`, "from the defilements", [7: 308](../7-anatta/#u12-3)), and
 by the affix `-to`, which carries the same sense (`ito`, `yato`, `tato`) {248};
 [Appendix G](../g-vibhatti/) tables the endings. Then ask: what is moving away
 from this word, coming out of it, or being kept apart from it? The verb answers,
@@ -48,7 +48,7 @@ or a word beside it such as `vinā` ("without") or `pubbe` ("before").
 | the time or reason "since which", `yato` | `yato sarāmi attānaṁ`, since I remember myself | {272} |
 | what something is kept away from, with a verb of guarding | `kāke rakkhanti taṇḍulā`, they keep the crows from the rice | {273} |
 | the one hidden from; also ⑦ | `upajjhāyā antaradhāyati sisso`, the pupil vanishes from the preceptor | {274} |
-| the cause of what follows | `avijjāpaccayā saṅkhārā`, with ignorance as cause, mental constructions [arise] ([3: 3.1](../3-awakening/#u3-1)); `bhavanirodhā jātinirodho`, with the cessation of existence comes the cessation of the birth of suffering ([3: 4.10](../3-awakening/#u4-10)) | {296} |
+| the cause of what follows | `avijjāpaccayā saṅkhārā`, with ignorance as cause, mental constructions [arise] ([3: 3](../3-awakening/#u3-1)); `bhavanirodhā jātinirodho`, with the cessation of existence comes the cessation of the birth of suffering ([3: 4](../3-awakening/#u4-10)) | {296} |
 
 Kaccāyana defines the `apādāna` in four rules {271}–{274} and gives it the ⑤
 ending in two {295}–{296}; a fifth rule {275} adds twenty rarer senses, mostly
@@ -111,10 +111,10 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. upādānanirodhā bhavanirodho ([Bonus: 19, 2.6](../11-pbt/#s19-u576-5a), also [3: 4.9](../3-awakening/#u4-9))
-2. virāgā vimuccati ([7: 11.2](../7-anatta/#u11-2))
-3. Pāṇātipātā veramaṇī adinnādānā veramaṇī kāmesumicchācārā veramaṇī ([Bonus: 31, 21.14](../11-pbt/#s31-u1077-2))
-4. agārasmā anagāriyaṁ pabbajeyyan”ti ([Bonus: 26, 12.8](../11-pbt/#s26-u267-8))
+1. upādānanirodhā bhavanirodho ([Bonus: 19, 576](../11-pbt/#s19-u576-5a), also [3: 4](../3-awakening/#u4-9))
+2. virāgā vimuccati ([7: 307](../7-anatta/#u11-2))
+3. Pāṇātipātā veramaṇī adinnādānā veramaṇī kāmesumicchācārā veramaṇī ([Bonus: 31, 1077](../11-pbt/#s31-u1077-2))
+4. agārasmā anagāriyaṁ pabbajeyyan”ti ([Bonus: 26, 267](../11-pbt/#s26-u267-8))
 
 ### Answers
 

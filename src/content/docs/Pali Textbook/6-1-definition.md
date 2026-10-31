@@ -51,12 +51,12 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. mārasenaṁ ([3: 12.3](../3-awakening/#u12-3))
-2. jarāmaraṇaṁ ([3: 3.11](../3-awakening/#u3-11))
-3. ekapallaṅkena ([3: 2.2](../3-awakening/#u2-2))
-4. bodhirukkhamūle ([3: 2.1](../3-awakening/#u2-1))
-5. saṅkhāranirodho ([3: 4.1](../3-awakening/#u4-1))
-6. cakkhuviññāṇaṁ ([9: 2.3](../9-fire/#u2-3))
+1. mārasenaṁ ([3: 12](../3-awakening/#u12-3))
+2. jarāmaraṇaṁ ([3: 3](../3-awakening/#u3-11))
+3. ekapallaṅkena ([3: 2](../3-awakening/#u2-2))
+4. bodhirukkhamūle ([3: 2](../3-awakening/#u2-1))
+5. saṅkhāranirodho ([3: 4](../3-awakening/#u4-1))
+6. cakkhuviññāṇaṁ ([9: 75](../9-fire/#u2-3))
 
 ### Answers
 

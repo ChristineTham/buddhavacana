@@ -29,7 +29,7 @@ What you see is most often `-ssa`, `-āya` or `-no` in the singular
 and `te`, `me`, `vo`, `no` ("to you", "to me", "to you all", "to us")
 {147}–{148}. Only `-āya` on a masculine or neuter word (`atthāya`, `hitāya`,
 and `ābādhāya`, "to affliction", which [chapter 7](../7-anatta/) repeats for
-each of the five collections, [7: 2.3](../7-anatta/#u2-3)) is ④ alone {109};
+each of the five collections, [7: 298](../7-anatta/#u2-3)) is ④ alone {109};
 the other forms also mean "of", the ⑥ of section 4.7, so the sentence decides:
 is there a giving, a saying, a purpose, a wish? The texts sometimes use the ⑦
 ending in its place {311}; [Appendix G](../g-vibhatti/) tables the endings.
@@ -104,8 +104,8 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. pahānāya chandaṁ janeti ([Bonus: 35, 21.21](../11-pbt/#s35-u1079-2a))
-2. Yadā have pātubhavanti dhammā, ātāpino jhāyato brāhmaṇassa ([3: 6.1–6.2](../3-awakening/#u6-1))
+1. pahānāya chandaṁ janeti ([Bonus: 35, 1079](../11-pbt/#s35-u1079-2a))
+2. Yadā have pātubhavanti dhammā, ātāpino jhāyato brāhmaṇassa ([3: 6](../3-awakening/#u6-1))
 3. saṅghe gotami dehi
 4. namo karohi nāgassa
 

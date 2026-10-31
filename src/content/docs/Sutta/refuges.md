@@ -12,17 +12,17 @@ sidebar:
 
 >buddhaṃ saraṇaṃ gacchāmi,  
 >dhammaṃ saraṇaṃ gacchāmi,  
->saṅghaṃ saraṇaṃ gacchāmi.  
+>saṃghaṃ saraṇaṃ gacchāmi.  
 >dutiyampi buddhaṃ saraṇaṃ gacchāmi,  
 >dutiyampi dhammaṃ saraṇaṃ gacchāmi,  
->dutiyampi saṅghaṃ saraṇaṃ gacchāmi.  
+>dutiyampi saṃghaṃ saraṇaṃ gacchāmi.  
 >tatiyampi buddhaṃ saraṇaṃ gacchāmi,  
 >tatiyampi dhammaṃ saraṇaṃ gacchāmi,  
->tatiyampi saṅghaṃ saraṇaṃ gacchāmi.
+>tatiyampi saṃghaṃ saraṇaṃ gacchāmi.
 
 ```mermaid
 classDiagram
-  class sentence["dutiyampi/tatiyampi buddhaṃ/dhammaṃ/saṅghaṃ saraṇaṃ gacchāmi"] {
+  class sentence["dutiyampi/tatiyampi buddhaṃ/dhammaṃ/saṃghaṃ saraṇaṃ gacchāmi"] {
     <<vākya>>
     english([For the second/third time too,] I go to the Buddha/Dhamma/Saṅgha as refuge.)
   }
@@ -112,31 +112,31 @@ stateDiagram-v2
 
 ## Interlinear translation
 
-1.1 buddhaṃ saraṇaṃ gacchāmi,  
+[2](https://tipitaka2500.github.io/tipitaka/18Kh/1.html#2) buddhaṃ saraṇaṃ gacchāmi,  
 🚹⨀②(buddha) 🚻⨀②(saraṇa) 🟢⨀👆▶️(gacchati)  
 to the Buddha | as refuge | I go  
-1.2 dhammaṃ saraṇaṃ gacchāmi,  
+dhammaṃ saraṇaṃ gacchāmi,  
 🚹⨀②(dhamma) 🚻⨀②(saraṇa) 🟢⨀👆▶️(gacchati)  
 to the Dhamma | as refuge | I go  
-1.3 saṅghaṃ saraṇaṃ gacchāmi.  
+saṃghaṃ saraṇaṃ gacchāmi.  
 🚹⨀②(saṅgha) 🚻⨀②(saraṇa) 🟢⨀👆▶️(gacchati)  
 to the Saṅgha | as refuge | I go  
-1.4 dutiyampi buddhaṃ saraṇaṃ gacchāmi,  
+[3](https://tipitaka2500.github.io/tipitaka/18Kh/1.html#3) dutiyampi buddhaṃ saraṇaṃ gacchāmi,  
 🚻⨀②(dutiya) ⏏️(api) 🚹⨀②(buddha) 🚻⨀②(saraṇa) 🟢⨀👆▶️(gacchati)  
 second time | too | to the Buddha | as refuge | I go  
-1.5 dutiyampi dhammaṃ saraṇaṃ gacchāmi,  
+dutiyampi dhammaṃ saraṇaṃ gacchāmi,  
 🚻⨀②(dutiya) ⏏️(api) 🚹⨀②(dhamma) 🚻⨀②(saraṇa) 🟢⨀👆▶️(gacchati)  
 second time | too | to the Dhamma | as refuge | I go  
-1.6 dutiyampi saṅghaṃ saraṇaṃ gacchāmi.  
+dutiyampi saṃghaṃ saraṇaṃ gacchāmi.  
 🚻⨀②(dutiya) ⏏️(api) 🚹⨀②(saṅgha) 🚻⨀②(saraṇa) 🟢⨀👆▶️(gacchati)  
 second time | too | to the Saṅgha | as refuge | I go  
-1.7 tatiyampi buddhaṃ saraṇaṃ gacchāmi,  
+[4](https://tipitaka2500.github.io/tipitaka/18Kh/1.html#4) tatiyampi buddhaṃ saraṇaṃ gacchāmi,  
 🚻⨀②(tatiya) ⏏️(api) 🚹⨀②(buddha) 🚻⨀②(saraṇa) 🟢⨀👆▶️(gacchati)  
 third time | too | to the Buddha | as refuge | I go  
-1.8 tatiyampi dhammaṃ saraṇaṃ gacchāmi,  
+tatiyampi dhammaṃ saraṇaṃ gacchāmi,  
 🚻⨀②(tatiya) ⏏️(api) 🚹⨀②(dhamma) 🚻⨀②(saraṇa) 🟢⨀👆▶️(gacchati)  
 third time | too | to the Dhamma | as refuge | I go  
-1.9 tatiyampi saṅghaṃ saraṇaṃ gacchāmi.  
+tatiyampi saṃghaṃ saraṇaṃ gacchāmi.  
 🚻⨀②(tatiya) ⏏️(api) 🚹⨀②(saṅgha) 🚻⨀②(saraṇa) 🟢⨀👆▶️(gacchati)  
 third time | too | to the Saṅgha | as refuge | I go  
 

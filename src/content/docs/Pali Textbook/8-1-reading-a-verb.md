@@ -77,8 +77,8 @@ met below.
 
 `pañcamī` and `sattamī` are labels, shared with the ⑤ and ⑦ noun endings;
 the other names describe their time. The `hiyyattanī` occurs once in the
-texts (`ajjhagamaṁ`, "I achieved", [Bonus: 47, 18.1](../11-pbt/#s47-u965-1)) and the
-`parokkhā` once (`āha` inside `evamāha`, [Bonus: 1, 24.8](../11-pbt/#s1-u1364-2)); the `ajjatanī` is on
+texts (`ajjhagamaṁ`, "I achieved", [Bonus: 47, 965](../11-pbt/#s47-u965-1)) and the
+`parokkhā` once (`āha` inside `evamāha`, [Bonus: 1, 1364](../11-pbt/#s1-u1364-2)); the `ajjatanī` is on
 every page. Three more rules shape what you see: `vattamānā`, `pañcamī`,
 `sattamī` and `hiyyattanī` are grouped as `sabbadhātuka` {431}, and the other
 four put an `i` before the ending, the `i` of `bhav-i-ssati` {516}; the three
@@ -120,7 +120,7 @@ impersonal {453}, sometimes to the active {454}; but the passive of the texts
 mostly takes the `parassapada` endings instead {518}, as `nirujjhanti`
 ("cease", 🔴) in chapter [3](../3-awakening/) does, so these endings are rare. The texts show
 three, all `sattamī`, marked 🔵: `-eyyaṁ` in `pabbajeyyaṁ` ("I would go
-forth", 🔵⏯👆⨀), `-etha` in `paññāyetha` ("it would be evident", 🔵⏯🤟⨀) and in `labbhetha` ("could be obtained", [7: 2.2](../7-anatta/#u2-2)).
+forth", 🔵⏯👆⨀), `-etha` in `paññāyetha` ("it would be evident", 🔵⏯🤟⨀) and in `labbhetha` ("could be obtained", [7: 298](../7-anatta/#u2-2)).
 
 | set | the six `attanopada` endings: third, second, first person, each singular then plural | rule |
 | --- | --- | :-: |
@@ -136,7 +136,7 @@ forth", 🔵⏯👆⨀), `-etha` in `paññāyetha` ("it would be evident", 🔵
 :::note[How to tell the lookalike endings apart]
 `-tha` is "you (plural)" in the present and in a command, `-ttha` in the past;
 `-mi` and `-ma` are "I" and "we" in the present and in a wish alike
-([Bonus: 18, 1.20](../11-pbt/#s18-u14-20) marks `jānāmi passāmi`, "may I know and see", ⏹); and `-ssa-` is the future
+([Bonus: 18, 14](../11-pbt/#s18-u14-20) marks `jānāmi passāmi`, "may I know and see", ⏹); and `-ssa-` is the future
 when the word ends `-ssati`, `-ssanti`, `-ssāmi`, but "would have" when an
 `a` stands before the root and the word ends in `-ssa` (`bhavissati`,
 `abhavissa`). Where the ending alone does not decide, the sentence does: a
@@ -160,37 +160,37 @@ flowchart TD
 
 *️⃣🤟🚹⨀②(eka) 🚹⨀②(samaya) 🚹⨀①(bhagavant) 🚺⨀⑦(bārāṇasī) 🟢⨀🤟▶️(viharati) 🚻⨀⑦(isipatana) 🚹⨀⑦(migadāya)  
 one / time / the Bhagavā / at Bārāṇasī / dwells / at Isipatana / in the Deer Park  
-*"At one time the Bhagavā was dwelling at Bārāṇasī, at Isipatana in the Deer Park." ([5: 1.1](../5-dhammacakka/#u1-1)) `viharati`: `-ti`, `vattamānā` ▶️, third person singular {423}; before it the `a` of the `bhū` class {445}, `vi-har-a-ti`; the texts' present often reads as an English past.*
+*"At one time the Bhagavā was dwelling at Bārāṇasī, at Isipatana in the Deer Park." ([5: 2206](../5-dhammacakka/#u1-1)) `viharati`: `-ti`, `vattamānā` ▶️, third person singular {423}; before it the `a` of the `bhū` class {445}, `vi-har-a-ti`; the texts' present often reads as an English past.*
 
 > evaṁ me rūpaṁ **hotu**
 
 ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(rūpa) 🟢⨀🤟⏹(hoti)  
 thus / my / form / let be  
-*"May my `rūpa` be thus" ([7: 2.3](../7-anatta/#u2-3)) `hotu`: `-tu`, `pañcamī` ⏹, third person singular {424}; a wish {415}.*
+*"May my `rūpa` be thus" ([7: 298](../7-anatta/#u2-3)) `hotu`: `-tu`, `pañcamī` ⏹, third person singular {424}; a wish {415}.*
 
 > “Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā evaṁ **vadeyyātha**—
 
 ⏏️(api) ⏏️(nu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) ⏏️(evaṁ) 🚹⨂①🔽(anta)(jānanta) ⏏️(evaṁ) 🚹⨂①🔽(anta)(passanta) ⏏️(evaṁ) 🟢⨂🤘⏯(vadati)  
 perhaps? / surely? / youse / Bhikkhave / thus / knowing / thus / seeing / thus / will say  
-*"Thus knowing and thus seeing, Bhikkhave, will you say -" ([Bonus: 1, 24.4](../11-pbt/#s1-u1362-1)) `vadeyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, the subject `tumhe` {411}; "would you say", a supposition {416}.*
+*"Thus knowing and thus seeing, Bhikkhave, will you say -" ([Bonus: 1, 1362](../11-pbt/#s1-u1362-1)) `vadeyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, the subject `tumhe` {411}; "would you say", a supposition {416}.*
 
 > Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena **nisīdi** vimuttisukhapaṭisaṁvedī.
 
 ⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚻⨀⑦🆎(bodhi+rukkha+mūla) 🚻⨀②🆎(satta+aha) 🚹⨀③🆎(eka+pallaṅka) 🟢⨀🤟⏮(nisīdati) 🚹⨀①🆎(vimutti+sukha+paṭisaṁvedī)  
 then / indeed / the Bhagavā / at the root of the bodhi tree / for seven days / in one cross-legged posture / sat down / experiencing the bliss of liberation  
-*"Then the Bhagavā sat at the root of the Bodhi tree for seven days in one cross-legged posture, experiencing the bliss of liberation (`vimuttisukhapaṭisaṁvedī`)." ([3: 2.2](../3-awakening/#u2-2)) `nisīdi`: `-i`, `ajjatanī` ⏮, third person singular {428}, the ending `ī` written short {517}; the subject `bhagavā`.*
+*"Then the Bhagavā sat at the root of the Bodhi tree for seven days in one cross-legged posture, experiencing the bliss of liberation (`vimuttisukhapaṭisaṁvedī`)." ([3: 2](../3-awakening/#u2-2)) `nisīdi`: `-i`, `ajjatanī` ⏮, third person singular {428}, the ending `ī` written short {517}; the subject `bhagavā`.*
 
 > Āraddhaṁ kho pana me vīriyaṁ **bhavissati** asallīnaṁ,
 
 🚻⨀①🔽(ta)(āraddha) ⏏️(kho) ⏏️(pana) *️⃣👆⚧⨀⑥(ahaṁ) 🚻⨀①(vīriya) 🟢⨀🤟⏭(bhavati) 🚻⨀①🔽(ta)🆎(na+sallīna)  
 applied / indeed / now / my / determination / will become / active  
-*"And now applied with me there will be active determination" ([Bonus: 45, 9.7](../11-pbt/#s45-u1061-7)) `bhavissati`: `-ssati`, `bhavissantī` ⏭, third person singular {429}; the `i` before `ssa` is the insertion every future takes {516}, `bhav-i-ssati`.*
+*"And now applied with me there will be active determination" ([Bonus: 45, 1061](../11-pbt/#s45-u1061-7)) `bhavissati`: `-ssati`, `bhavissantī` ⏭, third person singular {429}; the `i` before `ssa` is the insertion every future takes {516}, `bhav-i-ssati`.*
 
 > Rūpañca hidaṁ, bhikkhave, attā **abhavissa**,
 
 🚻⨀①(rūpa) ⏏️(ca) ⏏️(hi) *️⃣🤟🚻⨀①(ima) 🚹⨂⓪(bhikkhu) 🚹⨀①(atta) 🟢⨀🤟🔀(bhavati)  
 form / and / indeed / this / Bhikkhave / self / would be  
-*"And indeed here, Bhikkhave, if `rūpa` were `attā` (self)," ([7: 2.2](../7-anatta/#u2-2)) `abhavissa`: the `a` put before the root {519} and the ending `-ssā` {430}, here short {517}; `kālātipatti` 🔀, third person singular, "if it were".*
+*"And indeed here, Bhikkhave, if `rūpa` were `attā` (self)," ([7: 298](../7-anatta/#u2-2)) `abhavissa`: the `a` put before the root {519} and the ending `-ssā` {430}, here short {517}; `kālātipatti` 🔀, third person singular, "if it were".*
 
 ### Exercises
 
@@ -222,40 +222,40 @@ deconstruction.
 
 ⏏️(yadā) ⏏️(have) 🟢⨂🤟▶️(pātubhavati) 🚹⨂①(dhamma)  
 when / indeed / appear / phenomena  
-*"When indeed phenomena become manifest" ([3: 6.1](../3-awakening/#u6-1)) `pātubhavanti`: `-nti`, Kaccāyana's `anti`, `vattamānā` ▶️, third person plural {423}.*
+*"When indeed phenomena become manifest" ([3: 6](../3-awakening/#u6-1)) `pātubhavanti`: `-nti`, Kaccāyana's `anti`, `vattamānā` ▶️, third person plural {423}.*
 
 2. > jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi ādittan’ti **vadāmi**.
 
 🚺⨀③(jāti) 🚺⨀③(jarā) 🚻⨀③(maraṇa) 🚹⨂③(soka) 🚹⨂③(parideva) 🚻⨂③(dukkha) 🚻⨂③(domanassa) 🚹⨂③(upāyāsa) 🚻⨀①🔽(ta)(āditta) ⏏️(iti) 🟢⨀👆▶️(vadati)  
 with birth / with ageing / with death / with sorrows / with lamentations / with pains / with griefs / with despairs / burning / (end quote) / I say  
-*"burning with birth, ageing, death, with sorrows, lamentations, pains, griefs, and despairs, I say." ([9: 2.6](../9-fire/#u2-6)) `vadāmi`: `-mi`, `vattamānā` ▶️, first person singular {423}, the `a` before it lengthened {478}; the subject `ahaṁ` is not said {412}.*
+*"burning with birth, ageing, death, with sorrows, lamentations, pains, griefs, and despairs, I say." ([9: 75](../9-fire/#u2-6)) `vadāmi`: `-mi`, `vattamānā` ▶️, first person singular {423}, the `a` before it lengthened {478}; the subject `ahaṁ` is not said {412}.*
 
 3. > Tatra kho bhagavā pañcavaggiye bhikkhū **āmantesi**—
 
 ⏏️(tatra) ⏏️(kho) 🚹⨀①(bhagavant) 🚹⨂②🆎(pañca+vaggiya) 🚹⨂②(bhikkhu) 🟢⨀🤟⏮(āmanteti)  
 there / indeed / the Bhagavā / of the group of five / bhikkhū / addressed  
-*"There the Bhagavā addressed the group of five bhikkhū:" ([5: 1.2](../5-dhammacakka/#u1-2)) `āmantesi`: `-si`, the `s` + `-i` of the `ajjatanī` ⏮ on the verbs in `e` ([8.4](../8-4-past/)), third person singular {428}, the subject `bhagavā`; the `a` before the root is hidden by the prefix `ā`.*
+*"There the Bhagavā addressed the group of five bhikkhū:" ([5: 2206](../5-dhammacakka/#u1-2)) `āmantesi`: `-si`, the `s` + `-i` of the `ajjatanī` ⏮ on the verbs in `e` ([8.4](../8-4-past/)), third person singular {428}, the subject `bhagavā`; the `a` before the root is hidden by the prefix `ā`.*
 
 4. > Attamanā te bhikkhū bhagavato bhāsitaṁ **abhinanduṁ**.
 
 🚹⨂①🆎(atta+mana) *️⃣🤟🚹⨂①(ta) 🚹⨂①(bhikkhu) 🚹⨀⑥(bhagavant) 🚻⨀②🔽(ta)(bhāsita) 🟢⨂🤟⏮(abhinandati)  
 delighted / those / bhikkhū / of the Bhagavā / what was spoken / rejoiced in  
-*"Those bhikkhū, delighted, rejoiced in the Bhagavā’s words." ([9: 10.2](../9-fire/#u10-2)) `abhinanduṁ`: `-uṁ`, `ajjatanī` ⏮, third person plural {428}; the subject `bhikkhū`.*
+*"Those bhikkhū, delighted, rejoiced in the Bhagavā’s words." ([9: 76](../9-fire/#u10-2)) `abhinanduṁ`: `-uṁ`, `ajjatanī` ⏮, third person plural {428}; the subject `bhikkhū`.*
 
 5. > Api nu tumhe, bhikkhave, evaṁ jānantā evaṁ passantā aññaṁ satthāraṁ **uddiseyyāthā**”ti?
 
 ⏏️(api) ⏏️(nu) *️⃣🤘⚧⨂①(tvaṁ) 🚹⨂⓪(bhikkhu) ⏏️(evaṁ) 🚹⨂①🔽(anta)(jānanta) ⏏️(evaṁ) 🚹⨂①🔽(anta)(passanta) *️⃣🤟🚹⨀②(añña) 🚹⨀②(satthar) 🟢⨂🤘⏯(uddisati) ⏏️(iti)  
 perhaps? / surely? / youse / Bhikkhave / thus / knowing / thus / seeing / another / teacher / appoint / (end quote)  
-*"Thus knowing and thus seeing, Bhikkhave, will you appoint another teacher?" ([Bonus: 1, 24.10](../11-pbt/#s1-u1366-1)) `uddiseyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, "would you appoint"; the `-ā` before `”ti` is the join.*
+*"Thus knowing and thus seeing, Bhikkhave, will you appoint another teacher?" ([Bonus: 1, 1366](../11-pbt/#s1-u1366-1)) `uddiseyyātha`: `-eyyātha`, `sattamī` ⏯, second person plural {425}, "would you appoint"; the `-ā` before `”ti` is the join.*
 
 6. > evaṁ me saṅkhārā **hontu**
 
 ⏏️(evaṁ) *️⃣👆⚧⨀⑥(ahaṁ) 🚹⨂①(saṅkhāra) 🟢⨂🤟⏹(hoti)  
 thus / my / mental constructions / let be  
-*"May my `saṅkhārā` be thus" ([7: 4.6](../7-anatta/#u4-6)) `hontu`: `-ntu`, Kaccāyana's `antu`, `pañcamī` ⏹, third person plural {424}; a wish {415}.*
+*"May my `saṅkhārā` be thus" ([7: 300](../7-anatta/#u4-6)) `hontu`: `-ntu`, Kaccāyana's `antu`, `pañcamī` ⏹, third person plural {424}; a wish {415}.*
 
 7. > Evametassa kevalassa dukkhakkhandhassa samudayo **hoti**.
 
 ⏏️(evaṁ) *️⃣🤟🚹⨀⑥(eta) 🚹⨀⑥(kevala) 🚹⨀⑥🆎(dukkha+khandha) 🚹⨀①(samudaya) 🟢⨀🤟▶️(hoti)  
 thus / of this / of the entire / of the mass of suffering / origin / is  
-*"Thus is the origin of this whole mass of suffering." ([3: 3.12](../3-awakening/#u3-12)) `hoti`: `-ti`, `vattamānā` ▶️, third person singular {423}; the root `hū`, whose forms [8.7](../8-7-common-verbs/) tables.*
+*"Thus is the origin of this whole mass of suffering." ([3: 3](../3-awakening/#u3-12)) `hoti`: `-ti`, `vattamānā` ▶️, third person singular {423}; the root `hū`, whose forms [8.7](../8-7-common-verbs/) tables.*

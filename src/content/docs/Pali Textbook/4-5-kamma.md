@@ -26,7 +26,7 @@ tabled. So `dhammaṁ suṇāti` is "he hears the teaching": English shows the
 object by its place after the verb, with no preposition.
 
 The same ending measures a stretch of time or distance that an action fills,
-`sattāhaṁ nisīdi`, "he sat for seven days" ([3: 2.2](../3-awakening/#u2-2))
+`sattāhaṁ nisīdi`, "he sat for seven days" ([3: 2](../3-awakening/#u2-2))
 {298}. So ask of a ② word: what does the verb do to this, or where does it get
 to? If neither, look down the table.
 
@@ -46,8 +46,8 @@ to? If neither, look down the table.
 Every rule number links to the full rule in the Kaccāyana translation;
 [chapter 1](../1-basics/) tables the typical meanings of every ending. The last
 three uses are rare, `ekaṁ samayaṁ`, the opening of most suttas
-([5: 1.1](../5-dhammacakka/#u1-1), [7: 1.1](../7-anatta/#u1-1),
-[9: 1.1](../9-fire/#u1-1)), the one to remember.
+([5: 2206](../5-dhammacakka/#u1-1), [7: 297](../7-anatta/#u1-1),
+[9: 75](../9-fire/#u1-1)), the one to remember.
 
 ### Examples
 
@@ -67,7 +67,7 @@ The object, what is heard {297}:
 the teaching / [he] hears  
 *He hears the teaching.*
 
-The goal of motion, what the going forth reaches {297} ([Bonus: 26, 12.8](../11-pbt/#s26-u267-8)):
+The goal of motion, what the going forth reaches {297} ([Bonus: 26, 267](../11-pbt/#s26-u267-8)):
 
 > agārasmā **anagāriyaṁ** pabbajeyyan”ti
 
@@ -95,10 +95,10 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. Yato khayaṁ paccayānaṁ avedī”ti. ([3: 9.4](../3-awakening/#u9-4))
-2. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ. ([7: 12.2](../7-anatta/#u12-2))
-3. Tatra kho bhagavā bhikkhū āmantesi— ([9: 1.2](../9-fire/#u1-2))
-4. Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī. ([3: 2.2](../3-awakening/#u2-2))
+1. Yato khayaṁ paccayānaṁ avedī”ti. ([3: 9](../3-awakening/#u9-4))
+2. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ. ([7: 308](../7-anatta/#u12-2))
+3. Tatra kho bhagavā bhikkhū āmantesi— ([9: 75](../9-fire/#u1-2))
+4. Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī. ([3: 2](../3-awakening/#u2-2))
 
 ### Answers
 

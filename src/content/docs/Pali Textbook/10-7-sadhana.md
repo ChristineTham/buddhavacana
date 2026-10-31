@@ -38,7 +38,7 @@ is to be done, the purpose.
 | `-tabba`, `-anīya` | to be done; must, should, may be done | `tabba`, `anīya` | `kattabbaṁ`, `karaṇīyaṁ` "to be done" | {540}, {625}, {635} |
 | `-iya`, `-eyya`, `-ya`, first vowel lengthened | the same | `ṇya` | `kāriyaṁ` "to be done", `neyyaṁ` "to be led" | {541}, {636} |
 | `-tuṁ`, no ending after it | to do: the purpose, beside "wish", "fit", "able" | `tuṁ` | `sotuṁ` "to hear", `vattuṁ` "to speak" | {561}, {562}, {637} |
-| `-ta` | done, or the thing done; the doer, when the thing done keeps ② | `ta`, `tta` | `pacito` "cooked"; `bhāsitaṁ` "what was spoken" ([9: 10.2](../9-fire/#u10-2)); `dānaṁ dinno devadatto` "Devadatta has given a gift" | {625}, {626} |
+| `-ta` | done, or the thing done; the doer, when the thing done keeps ② | `ta`, `tta` | `pacito` "cooked"; `bhāsitaṁ` "what was spoken" ([9: 76](../9-fire/#u10-2)); `dānaṁ dinno devadatto` "Devadatta has given a gift" | {625}, {626} |
 
 A word in `-tabba`, `-anīya` or `-ya` agrees with the thing to be done, and
 the one who must do it stands in ③: `bhottabbo odano bhavatā`, "the rice is
@@ -91,13 +91,13 @@ he does → a doer
 
 🚻⨀①(ñāṇa)  
 knowing, knowledge  
-*`yu` {641}: `-ana` on `√ñā` (know), neuter: the act of knowing, `ñāṇaṁ hoti` ([7: 11.3](../7-anatta/#u11-3)).*
+*`yu` {641}: `-ana` on `√ñā` (know), neuter: the act of knowing, `ñāṇaṁ hoti` ([7: 307](../7-anatta/#u11-3)).*
 
 > vedayati → **vedanā**
 
 🟢⨀🤟▶️(vedayati) → 🚺⨀①🔽(yu)(vedanā)  
 one feels → feeling  
-*`yu` {553}: `-anā`, the feminine of `-ana`, on `√vida` (feel): the act of feeling; `vedanā anattā` ([7: 3.1](../7-anatta/#u3-1)).*
+*`yu` {553}: `-anā`, the feminine of `-ana`, on `√vida` (feel): the act of feeling; `vedanā anattā` ([7: 299](../7-anatta/#u3-1)).*
 
 > **bhottabbo** odano bhavatā
 
@@ -124,11 +124,11 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. satthā ([Bonus: 1, 24.5](../11-pbt/#s1-u1362-2): `satthā no garu`)
-2. sāvako (the last member of `ariyasāvako`, [Bonus: 33, 21.17](../11-pbt/#s33-u1078-2), [7: 11.1](../7-anatta/#u11-1), [9: 8.1](../9-fire/#u8-1))
-3. sāsanaṁ ([Bonus: 25, 4](../11-pbt/#s25-u197-4): `etaṁ buddhāna sāsanaṁ`)
-4. karaṇīyaṁ ([9: 9.2](../9-fire/#u9-2): `kataṁ karaṇīyaṁ`; also [7: 11.4](../7-anatta/#u11-4))
-5. jāti ([3: 3.10](../3-awakening/#u3-10): `bhavapaccayā jāti`)
+1. satthā ([Bonus: 1, 1362](../11-pbt/#s1-u1362-2): `satthā no garu`)
+2. sāvako (the last member of `ariyasāvako`, [Bonus: 33, 1078](../11-pbt/#s33-u1078-2), [7: 307](../7-anatta/#u11-1), [9: 75](../9-fire/#u8-1))
+3. sāsanaṁ ([Bonus: 25, 197](../11-pbt/#s25-u197-4): `etaṁ buddhāna sāsanaṁ`)
+4. karaṇīyaṁ ([9: 75](../9-fire/#u9-2): `kataṁ karaṇīyaṁ`; also [7: 307](../7-anatta/#u11-4))
+5. jāti ([3: 3](../3-awakening/#u3-10): `bhavapaccayā jāti`)
 
 ### Answers
 

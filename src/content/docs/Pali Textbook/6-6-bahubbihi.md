@@ -30,7 +30,7 @@ compound takes the gender, number and ending of that noun: `chinnahattho` is
 🚹⨀① because `puriso` is. When the members join, their endings are dropped
 {317} and each goes back to its lemma form {318}. The Buddha's epithets are
 full of such compounds (`dasabalo`, "who has the ten powers"), and so is the
-jhāna formula of [Bonus: 39, 11.1](../11-pbt/#s39-u698-1) (`avitakkaṁ avicāraṁ …
+jhāna formula of [Bonus: 39, 698](../11-pbt/#s39-u698-1) (`avitakkaṁ avicāraṁ …
 jhānaṁ`).
 
 ### How to recognise a `bahubbīhi`
@@ -80,7 +80,7 @@ conquered / senses / by this / by the wanderer / that [one] → by whom the sens
 
 🚹⨀①(vipariṇāma) 🚹⨀①(dhamma) *️⃣🤟🚻⨀⑥(ya) *️⃣🤟🚻⨀①(ta) → *️⃣🤟🚻⨀①(ya) 🚻⨀①🆎(vipariṇāma+dhamma)  
 change / nature / of which / that → what / subject to change  
-*{328}: `-dhamma`, "whose nature is …", as `maraṇadhammo` below; neuter like the `yaṁ` ("what") it describes, the `rūpaṁ` asked about in [7: 6.5](../7-anatta/#u6-5).*
+*{328}: `-dhamma`, "whose nature is …", as `maraṇadhammo` below; neuter like the `yaṁ` ("what") it describes, the `rūpaṁ` asked about in [7: 302](../7-anatta/#u6-5).*
 
 ### Exercises
 
@@ -96,10 +96,10 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. nirodhadhammaṁ ([5: 11.1](../5-dhammacakka/#u11-1))
-2. maraṇadhammo ([Bonus: 47, 18.1](../11-pbt/#s47-u965-1))
-3. avitakkaṁ (jhānaṁ) ([Bonus: 39, 11.1](../11-pbt/#s39-u698-1))
-4. avicāraṁ (jhānaṁ) ([Bonus: 39, 11.1](../11-pbt/#s39-u698-1))
+1. nirodhadhammaṁ ([5: 2216](../5-dhammacakka/#u11-1))
+2. maraṇadhammo ([Bonus: 47, 965](../11-pbt/#s47-u965-1))
+3. avitakkaṁ (jhānaṁ) ([Bonus: 39, 698](../11-pbt/#s39-u698-1))
+4. avicāraṁ (jhānaṁ) ([Bonus: 39, 698](../11-pbt/#s39-u698-1))
 
 ### Answers
 
@@ -109,19 +109,19 @@ deconstruction.
 
 🚹⨀①(nirodha) 🚹⨀①(dhamma) *️⃣🤟🚻⨀⑥(ya) *️⃣🤟🚻⨀①(ta) → 🚻⨀①🆎(nirodha+dhamma)  
 cessation / nature / of which / that → subject to cessation  
-*{328}: `-dhamma`, "whose nature is …", as `vipariṇāmadhammaṁ`; neuter like the `taṁ` it describes, "whatever is subject to origination" ([5: 11.1](../5-dhammacakka/#u11-1)).*
+*{328}: `-dhamma`, "whose nature is …", as `vipariṇāmadhammaṁ`; neuter like the `taṁ` it describes, "whatever is subject to origination" ([5: 2216](../5-dhammacakka/#u11-1)).*
 
 2. > maraṇaṁ dhammo yassa so → **maraṇadhammo**
 
 🚻⨀①(maraṇa) 🚹⨀①(dhamma) *️⃣🤟🚹⨀⑥(ya) *️⃣🤟🚹⨀①(ta) → 🚹⨀①🆎(maraṇa+dhamma)  
 death / nature / of whom / that [one] → whose nature is death, liable to death  
-*{328}: `-dhammo`, "whose nature is": so too `jātidhammo`, `jarādhammo`, `byādhidhammo`, `sokadhammo`, `saṅkilesadhammo` in [Bonus: 47, 18.1](../11-pbt/#s47-u965-1).*
+*{328}: `-dhammo`, "whose nature is": so too `jātidhammo`, `jarādhammo`, `byādhidhammo`, `sokadhammo`, `saṅkilesadhammo` in [Bonus: 47, 965](../11-pbt/#s47-u965-1).*
 
 3. > natthi vitakko yasmiṁ taṁ → **avitakkaṁ** jhānaṁ
 
 ⏏️(na) 🟢⨀🤟▶️(atthi) 🚹⨀①(vitakka) *️⃣🤟🚻⨀⑦(ya) *️⃣🤟🚻⨀①(ta) → 🚻⨀①🆎(na+vitakka) 🚻⨀①(jhāna)  
 not / there is / thinking / in which / that → free from thought / jhāna  
-*{328}: `a`- for `na` {333}, the outside word in the ⑦; neuter like the `jhānaṁ` it describes ([Bonus: 39, 11.1](../11-pbt/#s39-u698-1)).*
+*{328}: `a`- for `na` {333}, the outside word in the ⑦; neuter like the `jhānaṁ` it describes ([Bonus: 39, 698](../11-pbt/#s39-u698-1)).*
 
 4. > natthi vicāro yasmiṁ taṁ → **avicāraṁ** jhānaṁ
 

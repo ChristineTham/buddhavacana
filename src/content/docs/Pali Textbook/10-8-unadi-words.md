@@ -39,7 +39,7 @@ Mostly from the texts of chapters [3](../3-awakening/), [7](../7-anatta/),
 | `khemo` | safety | `√khi` + `mana` | {627} |
 | `samatho` | calm | `√samu` + `tha` | {628} |
 | `gehaṁ` | a house | `√gaha` + `a`, `a` → `e` | {629} |
-| `saddhā` | faith | `saṁ` + `√dhā` + `a` | {638} |
+| `saddhā` | confidence | `saṁ` + `√dhā` + `a` | {638} |
 | `vijjā` | knowledge | `√vida` + `ṇya` | {638} |
 | `saccaṁ` | truth | `√sata` + `ya` | {638} |
 | `buddho` | the Awakened One | `√budha` + `tta`; the book derives it by `ta` {557} | {643} |

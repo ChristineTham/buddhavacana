@@ -104,10 +104,10 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. nāmarūpaṁ ([3: 3.3](../3-awakening/#u3-3))
-2. sokaparidevadukkhadomanassupāyāsā ([3: 3.11](../3-awakening/#u3-11))
-3. assāsapassāsā ([Bonus: 12, 14.2](../11-pbt/#s12-u1598-1))
-4. kesamassuṁ ([Bonus: 26, 12.8](../11-pbt/#s26-u267-8))
+1. nāmarūpaṁ ([3: 3](../3-awakening/#u3-3))
+2. sokaparidevadukkhadomanassupāyāsā ([3: 3](../3-awakening/#u3-11))
+3. assāsapassāsā ([Bonus: 12, 1598](../11-pbt/#s12-u1598-1))
+4. kesamassuṁ ([Bonus: 26, 267](../11-pbt/#s26-u267-8))
 
 ### Answers
 
@@ -123,13 +123,13 @@ name / and / form / and → name and form
 
 🚹⨀①(soka) ⏏️(ca) 🚹⨀①(parideva) ⏏️(ca) 🚻⨀①(dukkha) ⏏️(ca) 🚻⨀①(domanassa) ⏏️(ca) 🚹⨀①(upāyāsa) ⏏️(ca) → 🚹⨂①🆎(soka+parideva+dukkha+domanassa+upāyāsa)  
 sorrow / and / lamentation / and / pain / and / displeasure / and / despair / and → sorrow, lamentation, pain, displeasure and despair  
-*`dvanda` {329} of five members, plural; the `a` of `domanassa` is dropped before `upāyāsa` {12}; in [9: 2.6](../9-fire/#u2-6) the five stand apart, each in the ③.*
+*`dvanda` {329} of five members, plural; the `a` of `domanassa` is dropped before `upāyāsa` {12}; in [9: 75](../9-fire/#u2-6) the five stand apart, each in the ③.*
 
 3. > assāso ca passāso ca → **assāsapassāsā**
 
 🚹⨀①(assāsa) ⏏️(ca) 🚹⨀①(passāsa) ⏏️(ca) → 🚹⨂①🆎(assāsa+passāsa)  
 in-breath / and / out-breath / and → breathing in and out  
-*`dvanda` {329}, plural like `samaṇabrāhmaṇā`, each breath counted; in [Bonus: 12, 14.2](../11-pbt/#s12-u1598-1) they are the `kāyasaṅkhāro`.*
+*`dvanda` {329}, plural like `samaṇabrāhmaṇā`, each breath counted; in [Bonus: 12, 1598](../11-pbt/#s12-u1598-1) they are the `kāyasaṅkhāro`.*
 
 4. > kesā ca massu ca → **kesamassuṁ**
 

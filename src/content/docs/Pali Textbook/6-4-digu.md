@@ -19,7 +19,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 Many words of the texts begin with a number: `tilokaṁ` ("the three worlds"),
 `saḷāyatanaṁ` ("the six sense bases"), `pañcindriyaṁ` ("the five faculties"),
 and in the Bodhikathā `sattāhaṁ` ("for seven days",
-[3: 2.2](../3-awakening/#u2-2)). Each is a numeral (`saṅkhyā`, a number word)
+[3: 2](../3-awakening/#u2-2)). Each is a numeral (`saṅkhyā`, a number word)
 and a noun made into one word: `tayo lokā` ("three worlds") becomes `tilokaṁ`.
 Kaccāyana calls such a word a `digu` ("numeral compound"): a `kammadhāraya`
 (the compound of section [6.3](../6-3-kammadharaya/), two words naming the
@@ -84,11 +84,11 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. saḷāyatanaṁ ([3: 3.4](../3-awakening/#u3-4))
-2. sattāhaṁ ([3: 2.2](../3-awakening/#u2-2))
+1. saḷāyatanaṁ ([3: 3](../3-awakening/#u3-4))
+2. sattāhaṁ ([3: 2](../3-awakening/#u2-2))
 3. pañcindriyaṁ
 4. tidaṇḍaṁ
-5. tiparivaṭṭaṁ ([5: 9.1](../5-dhammacakka/#u9-1))
+5. tiparivaṭṭaṁ ([5: 2214](../5-dhammacakka/#u9-1))
 
 ### Answers
 

@@ -20,7 +20,7 @@ This section covers the two `kāraka` (participants in the action) that bring
 the action about: the `kattā` (the agent), the one who does the action {281},
 and the `hetu` (the causer), the one who makes the agent do it {282}; the same word names the cause in ③ of [4.4](../4-4-karana/) {289}, the reason for an action. In
 `atha kho bhagavā … nisīdi` ("then the Bhagavā sat down",
-[3: 2.2](../3-awakening/#u2-2)) the agent is
+[3: 2](../3-awakening/#u2-2)) the agent is
 `bhagavā`: it carries the ① ending, and the verb `nisīdi` agrees with it. The
 causer is an agent as well, which is why the Basics chapter calls it the
 `hetu-kattā`.
@@ -37,14 +37,14 @@ translation.
 
 | what the noun is doing | what you see | example | rule |
 | --- | --- | --- | :-: |
-| the agent (`kattā`) of an active verb 🟢 | the ① ending; the verb agrees with it in number and person | `bhagavā … nisīdi`, "the Bhagavā sat down" ([3: 2.2](../3-awakening/#u2-2)) | {281}, {284} |
+| the agent (`kattā`) of an active verb 🟢 | the ① ending; the verb agrees with it in number and person | `bhagavā … nisīdi`, "the Bhagavā sat down" ([3: 2](../3-awakening/#u2-2)) | {281}, {284} |
 | the agent of a passive verb 🔴 or of a past participle 🔽(ta) | the ③ ending, "by"; the thing done takes ① and the verb agrees with that | `ahinā daṭṭho naro`, "the man [is] bitten by a snake" | {281}, {288} |
 | the causer (`hetu`), who makes the agent act | the ① ending with a causative verb 🟠 (`-eti`, `-āpeti`, "makes someone do"): `kāreti`, `hāreti`, `pāṭheti`, `pāceti`, `dhāreti` | `so puriso … kāreti`, "that man makes … do" | {282}, {438} |
 | the one made to act by the causer | the ② ending, or ③, or ⑥ | `taṁ purisaṁ`, `tena purisena`, `tassa purisassa` | {282}, {300} |
 
 ### Examples
 
-The agent of an active verb, in ① {281}, {284} ([9: 1.2](../9-fire/#u1-2)):
+The agent of an active verb, in ① {281}, {284} ([9: 75](../9-fire/#u1-2)):
 
 > Tatra kho **bhagavā** bhikkhū āmantesi—
 
@@ -82,10 +82,10 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī. ([3: 2.2](../3-awakening/#u2-2))
-2. Yadā have pātubhavanti dhammā ([3: 6.1](../3-awakening/#u6-1))
-3. Vuttaṁ kho panetaṁ bhagavatā kakacūpamovāde ([Bonus: 45, 9.5](../11-pbt/#s45-u1061-5))
-4. majjhimā paṭipadā tathāgatena abhisambuddhā ([5: 2.4](../5-dhammacakka/#u2-4))
+1. Atha kho bhagavā bodhirukkhamūle sattāhaṁ ekapallaṅkena nisīdi vimuttisukhapaṭisaṁvedī. ([3: 2](../3-awakening/#u2-2))
+2. Yadā have pātubhavanti dhammā ([3: 6](../3-awakening/#u6-1))
+3. Vuttaṁ kho panetaṁ bhagavatā kakacūpamovāde ([Bonus: 45, 1061](../11-pbt/#s45-u1061-5))
+4. majjhimā paṭipadā tathāgatena abhisambuddhā ([5: 2207](../5-dhammacakka/#u2-4))
 5. so puriso tena purisena kammaṁ kāreti
 
 ### Answers

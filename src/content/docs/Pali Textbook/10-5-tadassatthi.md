@@ -17,8 +17,8 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
 `bhagavā`, "the Blessed One", the word you meet on every page of the texts
-([3: 2.1](../3-awakening/#u2-1), [5: 1.1](../5-dhammacakka/#u1-1),
-[7: 1.1](../7-anatta/#u1-1), [9: 1.1](../9-fire/#u1-1)), is literally "one
+([3: 2](../3-awakening/#u2-1), [5: 2206](../5-dhammacakka/#u1-1),
+[7: 297](../7-anatta/#u1-1), [9: 75](../9-fire/#u1-1)), is literally "one
 who has good fortune": `bhaga` ("good fortune") with the affix
 `vantu` {368}. A whole family of words is built this way: a noun names a
 thing, the affix adds "having that" (`tadassatthi`, "he has that"), and the
@@ -42,7 +42,7 @@ wood" {372}.
 | `vī` | `-vī` on a word in `ā`; the rule's `ca` adds `sa`, `-so` | `medhāvī`, `sumedhaso` | has `medhā` (wisdom): wise | {364} |
 | `sī` | `-ssī`, the `s` doubled | `tapassī` | has `tapa` (austerity): an ascetic | {365} |
 | `ra` | `-ro` | `madhuro` | has `madhu` (honey): sweet | {367} |
-| `ṇa` | nothing you can see: the noun with `-o`; `ddh`, `ññ` keep the first vowel short ([10.1](../10-1-apacca/)) | `saddho`, `pañño` | has `saddhā` (faith), `paññā` (wisdom): faithful, wise | {370} |
+| `ṇa` | nothing you can see: the noun with `-o`; `ddh`, `ññ` keep the first vowel short ([10.1](../10-1-apacca/)) | `saddho`, `pañño` | has `saddhā` (confidence), `paññā` (wisdom): confident, wise | {370} |
 | `maya` | `-maya` after the name of a material | `dārumayaṁ` | made of `dāru` (wood) | {372} |
 
 The vutti gives every word in the masculine ①; the word takes the gender of
@@ -59,10 +59,10 @@ lemma `bhagavant`, `āyasmant`, as the symbol lines of chapters
 
 | ending | what you see | example | rule |
 | :-: | --- | --- | :-: |
-| ① | `-vā`, `-mā` | `bhagavā` ([3: 2.1](../3-awakening/#u2-1), [7: 1.1](../7-anatta/#u1-1)), `sutavā` ([9: 8.1](../9-fire/#u8-1)), `āyasmā` ([Bonus: 44, 1.3](../11-pbt/#s44-u1257-3)), `satimā` ([Bonus: 40, 12.1](../11-pbt/#s40-u699-1)) | {124} |
-| ② | `-vantaṁ`, `-mantaṁ` | `bhagavantaṁ`, `āyasmantaṁ` ([Bonus: 44, 1.3](../11-pbt/#s44-u1257-3)) | |
-| ③ | `-vatā`, `-matā` | `bhagavatā` ([5: 12.1](../5-dhammacakka/#u12-1), [Bonus: 45, 9.5](../11-pbt/#s45-u1061-5)) | {127} |
-| ④ ⑥ | `-vato`, `-mato` | `bhagavato` ([7: 1.3](../7-anatta/#u1-3): ④, [9: 10.2](../9-fire/#u10-2): ⑥) | {127} |
+| ① | `-vā`, `-mā` | `bhagavā` ([3: 2](../3-awakening/#u2-1), [7: 297](../7-anatta/#u1-1)), `sutavā` ([9: 75](../9-fire/#u8-1)), `āyasmā` ([Bonus: 44, 1257](../11-pbt/#s44-u1257-3)), `satimā` ([Bonus: 40, 699](../11-pbt/#s40-u699-1)) | {124} |
+| ② | `-vantaṁ`, `-mantaṁ` | `bhagavantaṁ`, `āyasmantaṁ` ([Bonus: 44, 1257](../11-pbt/#s44-u1257-3)) | |
+| ③ | `-vatā`, `-matā` | `bhagavatā` ([5: 2217](../5-dhammacakka/#u12-1), [Bonus: 45, 1061](../11-pbt/#s45-u1061-5)) | {127} |
+| ④ ⑥ | `-vato`, `-mato` | `bhagavato` ([7: 297](../7-anatta/#u1-3): ④, [9: 76](../9-fire/#u10-2): ⑥) | {127} |
 | ① ⨂ | `-vanto`, `-manto` | `guṇavanto` | {122} |
 
 Rule {127} is optional: `guṇavantassa`, `guṇavantena`, `guṇavantasmiṁ` occur
@@ -106,10 +106,10 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. bhagavā ([3: 2.1](../3-awakening/#u2-1), [7: 1.1](../7-anatta/#u1-1))
-2. āyasmā ([Bonus: 44, 1.3](../11-pbt/#s44-u1257-3))
-3. satimā ([Bonus: 40, 12.1](../11-pbt/#s40-u699-1))
-4. sutavā ([7: 11.1](../7-anatta/#u11-1): `sutavā ariyasāvako`; also [9: 8.1](../9-fire/#u8-1))
+1. bhagavā ([3: 2](../3-awakening/#u2-1), [7: 297](../7-anatta/#u1-1))
+2. āyasmā ([Bonus: 44, 1257](../11-pbt/#s44-u1257-3))
+3. satimā ([Bonus: 40, 699](../11-pbt/#s40-u699-1))
+4. sutavā ([7: 307](../7-anatta/#u11-1): `sutavā ariyasāvako`; also [9: 75](../9-fire/#u8-1))
 5. paññavā
 6. medhāvī
 
@@ -133,7 +133,7 @@ life / his / there is → one who has life, venerable
 
 🚺⨀①(sati) *️⃣🤟🚹⨀⑥(ya) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(mantu)(satimant)  
 awareness / of whom / there is → one who has awareness, aware  
-*`mantu` {369}: `sati` + `-mā`; [Bonus: 40, 12.1](../11-pbt/#s40-u699-1) has it in `upekkhako satimā sukhavihārī`.*
+*`mantu` {369}: `sati` + `-mā`; [Bonus: 40, 699](../11-pbt/#s40-u699-1) has it in `upekkhako satimā sukhavihārī`.*
 
 4. > **sutavā** ariyasāvako
 

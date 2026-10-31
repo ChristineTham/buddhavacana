@@ -63,7 +63,7 @@ tables every ending rule).
 | `-iyā`, `-uyā` | 🚺 lemmas in `i`, `ī`, `u` | `rattiyā`, `itthiyā`, `dhenuyā` | {112} |
 | `-ānaṁ`, `-īnaṁ`, `-ūnaṁ`: the plural, last vowel lengthened | every lemma | `purisānaṁ`, `aggīnaṁ`, `bhikkhūnaṁ` | {89} |
 | `-ssa`, and `assa` for `tassa`; `-esaṁ` in the plural | the pronouns `ta`, `eta`, `ima`, `ya`, `sabba` | `tassa`, `assa`, `etassa`, `imassa`, `yassa`, `tesaṁ`, `imesaṁ` | {176}–{177}, {168} |
-| `mama`, `mayhaṁ`, `me`, `amhākaṁ`, `no`; `tava`, `tuyhaṁ`, `te`, `tumhākaṁ`, `vo` | "I", "we", "you"; `me`, `te`, `no`, `vo` serve as ④ as well | `etaṁ mama` (this is mine, [7: 6.5](../7-anatta/#u6-5)) | {141}–{142}, {147}–{148}, {161} |
+| `mama`, `mayhaṁ`, `me`, `amhākaṁ`, `no`; `tava`, `tuyhaṁ`, `te`, `tumhākaṁ`, `vo` | "I", "we", "you"; `me`, `te`, `no`, `vo` serve as ④ as well | `etaṁ mama` (this is mine, [7: 302](../7-anatta/#u6-5)) | {141}–{142}, {147}–{148}, {161} |
 
 ### Examples
 
@@ -98,10 +98,10 @@ useful for looking up words, as well as doing the sandhi and compound word
 deconstruction.
 :::
 
-1. Evametassa kevalassa dukkhakkhandhassa samudayo hoti ([3: 3.12](../3-awakening/#u3-12))
-2. Bhummānaṁ devānaṁ saddaṁ sutvā ([5: 12.2](../5-dhammacakka/#u12-2))
-3. Ayaṁ dukkhassa atthaṅgamo ([Bonus: 19, 2.10](../11-pbt/#s19-u576-7))
-4. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. ([9: 10.2](../9-fire/#u10-2))
+1. Evametassa kevalassa dukkhakkhandhassa samudayo hoti ([3: 3](../3-awakening/#u3-12))
+2. Bhummānaṁ devānaṁ saddaṁ sutvā ([5: 2217](../5-dhammacakka/#u12-2))
+3. Ayaṁ dukkhassa atthaṅgamo ([Bonus: 19, 576](../11-pbt/#s19-u576-7))
+4. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ. ([9: 76](../9-fire/#u10-2))
 
 ### Answers
 
