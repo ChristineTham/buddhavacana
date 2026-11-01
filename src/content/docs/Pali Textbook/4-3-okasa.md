@@ -127,9 +127,9 @@ like / a certain / seed / in field / sown / grows
 3. > ariyasāvako **rūpasmimpi** nibbindati
 
 🚹⨀①🆎(ariya+sāvaka) 🚻⨀⑦(rūpa) ⏏️(api) 🟢⨀🤟▶️(nibbindati)  
-disciple of the liberated / form / too / gives up  
-*…the `ariyasāvaka` (disciple of the liberated) `nibbindati` (gives up) `rūpa`…*  
-`rūpasmiṁ`, with `pi` ("too") joined to it: what the giving up rests on {302}.
+disciple of the liberated / form / too / is disenchanted with  
+*…the `ariyasāvaka` (disciple of the liberated) `nibbindati` (is disenchanted with) `rūpa`…*  
+`rūpasmiṁ`, with `pi` ("too") joined to it: what the disenchantment rests on {302}.
 
 4. > Atha kho bhagavā etamatthaṁ viditvā **tāyaṁ velāyaṁ** imaṁ udānaṁ udānesi.
 

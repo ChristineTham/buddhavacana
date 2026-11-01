@@ -838,12 +838,12 @@ periphrastic: past participle followed by "to be" verb
 classDiagram
   class sentence["paribbājako santuṭṭho hoti"] {
     <<vākya>>
-    english(The wanderer is contented)
+    english(The renunciant is contented)
   }
   class paribbājako {
     <<nāma>>
     🚹⨀①
-    english(wanderer)
+    english(renunciant)
   }
   class santuṭṭho {
     <<past participle>>

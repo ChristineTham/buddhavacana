@@ -641,12 +641,12 @@ One who sees and knows reality as it is, Bhikkhave, has nothing that ought to be
 
 <a id="s18-u14-23"></a>‘nibbindāmi virajjāmī’ti.  
 🟢⨀👆⏹(nibbindati) 🟢⨀👆⏹(virajjati) ⏏️(iti)  
-I give up | I become detached | (end quote)  
+I am disenchanted | I become detached | (end quote)  
 “May I be dispassionate and detached.”
 
 <a id="s18-u14-24"></a>Dhammatā esā, bhikkhave, yaṁ yathābhūtaṁ jānaṁ passaṁ nibbindati virajjati.  
 🚺⨀①(dhammatā) *️⃣🤟🚺⨀①(eta) 🚹⨂⓪(bhikkhu) *️⃣🤟🚻⨀①(ya) ⏏️🆎(yathā+bhūta) 🚹⨀①🔽(anta)(jānanta) 🚹⨀①🔽(anta)(passanta) 🟢⨀🤟▶️(nibbindati) 🟢⨀🤟▶️(virajjati)  
-characteristic | this | Bhikkhave | that | reality as it is | knowing | seeing | gives up | becomes detached  
+characteristic | this | Bhikkhave | that | reality as it is | knowing | seeing | is disenchanted with | becomes detached  
 This characteristic, Bhikkhave, one becomes dispassionate and detached for whoever seeing and knowing reality as it is.
 
 <a id="s18-u14-25"></a>Nibbinnassa, bhikkhave, virattassa na cetanāya karaṇīyaṁ—  
