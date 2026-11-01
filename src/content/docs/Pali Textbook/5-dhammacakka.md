@@ -196,8 +196,8 @@ The group of five bhikkhū, delighted, rejoiced in the Bhagavā’s words.
 
 <a id="u11-1"></a>[2216](https://tipitaka2500.github.io/tipitaka/14S5/12/12.2/12.2.1.html#2216) Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne āyasmato koṇḍaññassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi— “yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti.  
 *️⃣🤟🚻⨀⑦(ima) ⏏️(ca) ⏏️(pana) 🚻⨀⑦(veyyākaraṇa) 🚻⨀⑦🔽(māna)(bhaññamāna) 🚹⨀⑥(āyasmant) 🚹⨀⑥(koṇḍañña) 🚻⨀①(viraja) 🚻⨀①🆎(vīta+mala) 🚻⨀①🆎(dhamma+cakkhu) 🟢⨀🤟⏮(uppajjati) *️⃣🤟🚻⨀①(ya) *️⃣🤟🚻⨀①(kaci) 🚻⨀①🆎(samudaya+dhamma) *️⃣🤟🚻⨀①(sabba) *️⃣🤟🚻⨀①(ta) 🚻⨀①🆎(nirodha+dhamma) ⏏️(iti)  
-in this | and | moreover | detailed exposition | being spoken | of the venerable | Koṇḍañña | pure | stainless | insight into the dhamma | arose | whatever | anything | subject to origination | all | that | subject to cessation | (end quote)  
-And while this detailed exposition was being spoken, there arose in `āyasmā` Koṇḍañña the `viraja` (pure), `vītamala` (stainless) `dhammacakkhu` (insight into the dhamma): “Whatever phenomenon is subject to origination is completely subject to cessation.”
+in this | and | moreover | detailed exposition | being spoken | of the venerable | Koṇḍañña | pure | stainless | Dhamma Eye | arose | whatever | anything | subject to origination | all | that | subject to cessation | (end quote)  
+And while this detailed exposition was being spoken, there arose in `āyasmā` Koṇḍañña the `viraja` (pure), `vītamala` (stainless) `dhammacakkhu` (Dhamma Eye): “Whatever phenomenon is subject to origination is completely subject to cessation.”
 
 ### 5. The devas take up the cry
 

@@ -299,17 +299,17 @@ Whatever `saṅkhārā` there are, past, future, or present, internal or externa
 whatever | any | consciousness | past, future or present | internal | or | external | or | coarse | or | fine | or | inferior | or | superior | or | which | far | near | or | all | consciousness | not | this | mine | not | this | I | am | not | my | this | self | (end quote) | thus | this | in reality | with correct understanding | should be regarded  
 Whatever `viññāṇa` there is, past, future, or present, internal or external, coarse or fine, inferior or superior, far or near, all `viññāṇa` should be regarded as it really is, with correct understanding, thus: ‘This is not mine, this I am not, this is not my `attā`.’
 
-### 4. Giving up, and liberation
+### 4. Disenchantment, and liberation
 
 <a id="u11-1"></a>[307](https://tipitaka2500.github.io/tipitaka/13S3/1/1.2/1.2.1/1.2.1.7.html#307) Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi nibbindati, saññāyapi nibbindati, saṅkhāresupi nibbindati, viññāṇasmimpi nibbindati.  
 ⏏️(evaṁ) 🚹⨀①🔽(anta)(passanta) 🚹⨂⓪(bhikkhu) 🚹⨀①(sutavant) 🚹⨀①🆎(ariya+sāvaka) 🚻⨀⑦(rūpa) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚺⨀⑦(vedanā) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚺⨀⑦(saññā) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚹⨂⑦(saṅkhāra) ⏏️(api) 🟢⨀🤟▶️(nibbindati) 🚻⨀⑦(viññāṇa) ⏏️(api) 🟢⨀🤟▶️(nibbindati)  
-thus | seeing | Bhikkhave | learned | disciple of the liberated | form | too | gives up | feeling | too | gives up | apperception | too | gives up | mental constructions | too | gives up | consciousness | too | gives up  
-Thus seeing, Bhikkhave, the `sutavā` (learned) `ariyasāvaka` (disciple of the liberated) `nibbindati` (gives up) `rūpa`, gives up `vedanā`, gives up `saññā`, gives up `saṅkhārā`, gives up `viññāṇa`.
+thus | seeing | Bhikkhave | learned | disciple of the liberated | form | too | is disenchanted with | feeling | too | is disenchanted with | apperception | too | is disenchanted with | mental constructions | too | is disenchanted with | consciousness | too | is disenchanted with  
+Thus seeing, Bhikkhave, the `sutavā` (learned) `ariyasāvaka` (disciple of the liberated) `nibbindati` (is disenchanted with) `rūpa`, is disenchanted with `vedanā`, is disenchanted with `saññā`, is disenchanted with `saṅkhārā`, is disenchanted with `viññāṇa`.
 
 <a id="u11-2"></a>Nibbindaṁ virajjati; virāgā vimuccati.  
 🚹⨀①🔽(anta)(nibbindanta) 🟢⨀🤟▶️(virajjati) 🚹⨀⑤(virāga) 🔴⨀🤟▶️(vimuccati)  
-giving up | becomes detached | from detachment | is liberated  
-Giving up, he `virajjati` (becomes detached); from detachment he `vimuccati` (becomes liberated).
+being disenchanted | becomes detached | from detachment | is liberated  
+Being disenchanted, he `virajjati` (becomes detached); from detachment he `vimuccati` (becomes liberated).
 
 <a id="u11-3"></a>Vimuttasmiṁ vimuttamiti ñāṇaṁ hoti.  
 🚻⨀⑦🔽(ta)(vimutta) 🚻⨀①🔽(ta)(vimutta) ⏏️(iti) 🚻⨀①(ñāṇa) 🟢⨀🤟▶️(hoti)  
