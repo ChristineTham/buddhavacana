@@ -34,11 +34,11 @@ first arahants to a selection of the core teachings.
 | [2](../2-0-nama/) | grammar | `nāma` and `sandhi`: how words join and split, the endings of nouns, pronouns, numbers, prefixes and particles |
 | [3](../3-awakening/) | text | the Bodhikathā: the night of the awakening and dependent origination (Vinaya Mahāvagga 1.1) |
 | [4](../4-0-karaka/) | grammar | `kāraka`: what each ending says a noun is doing in the sentence |
-| [5](../5-dhammacakka/) | text | the Dhammacakkappavattanasutta: the first discourse, the middle way and the four realisations (SN 56.11) |
+| [5](../5-dhammacakka/) | text | the Dhammacakkappavattanasutta: the first discourse, the middle way and the four realisations (14S5/12.2.1) |
 | [6](../6-0-samasa/) | grammar | `samāsa`: compounds, the six kinds and how to split them |
-| [7](../7-anatta/) | text | the Anattalakkhaṇasutta: the second discourse, the five collections are not self (SN 22.59) |
+| [7](../7-anatta/) | text | the Anattalakkhaṇasutta: the second discourse, the five collections are not self (13S3/1.2.1.7) |
 | [8](../8-0-akhyata/) | grammar | `ākhyāta`: verbs, the eight sets of endings, the voices, and the verb-like forms |
-| [9](../9-fire/) | text | the Ādittapariyāyasutta: the Fire Sermon, all is burning (SN 35.28) |
+| [9](../9-fire/) | text | the Ādittapariyāyasutta: the Fire Sermon, all is burning (13S4/1.1.3.6) |
 | [10](../10-0-derived/) | grammar | `taddhita` and `uṇādi`: words made from other words with affixes |
 | [Bonus](../11-pbt/) | text | Pali Buddhist Texts: fifty-two short passages on the core teachings, after Johansson; my earliest translation effort, since updated to my latest understanding |
 | A–P | reference | the symbols, the alphabet, a glossary of terms, the full rule tables of Kaccāyana (roots, sandhi, prefixes, endings, affixes, verbs, pronouns), an overview of Kaccāyana, the endings by frequency, and two downloads, a grammar dictionary and a spell-checker word list |
