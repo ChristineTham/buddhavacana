@@ -4,7 +4,7 @@ sidebar:
   label: "8: Verbs"
   order: 543
 description: >
-  How to read a verb form: the voice, the time, the person and the number its ending shows, the piece that sits between the root and the ending, and the verb-like forms, participles, absolutives and infinitives, that carry most of a Pāḷi sentence
+  The verb form: the voice, the time, the person and the number its ending, class suffix, and the verb-like forms, participles, absolutives and infinitives
 categories: ["palibook"]
 tags: ["ākhyāta", "kita"]
 ---
@@ -18,12 +18,11 @@ Chapter 1 introduced the verbs and the verb-like forms in two sections; this cha
 :::
 
 A verb (`ākhyāta`) is a root (`dhātu`) with an ending that says who acts, how
-many, when, and whether the subject acts or is acted on. Kaccāyana spends a
-hundred and twenty rules on how the endings are added; a reader needs only to
-tell them apart, and this chapter is the table of what each ending looks like,
-with the sentences of chapters 3, 5, 7 and 9 and the bonus chapter as its examples. Most of what does the
-work of a verb in a Pāḷi sentence is not a finite verb at all but a verb-like
-noun, a participle, an absolutive or an infinitive, so those end the chapter.
+many, when, and whether the subject acts or is acted on. Kaccāyana has a
+hundred and twenty rules on verb endings; a reader needs only to
+tell them apart, and this chapter has the table of what each ending looks like,
+with the sentences of chapters 3, 5, 7 and 9 and the bonus chapter as its examples. Often, a Pāḷi sentence may not contain a finite verb at all but a verb-like
+noun, a participle, an absolutive or an infinitive, so the chapter ends with those.
 
 ```mermaid
 flowchart LR
@@ -40,7 +39,7 @@ flowchart LR
   W --> W3["causative: deseti"]
 ```
 
-Reading a verb is three questions, asked of the end of the word first:
+How to read a verb, based on it's reading:
 
 ```mermaid
 flowchart TD
@@ -60,7 +59,7 @@ flowchart TD
 | [8.7](../8-7-common-verbs/) | the verbs met on every page: `atthi` and `hoti` (to be), `karoti`, `gacchati`, `dadāti`, `jānāti`, `vadati`, `passati`, `suṇāti`, `tiṭṭhati` and `nisīdati`, with their irregular forms | {454}–{523} selected | [D](../d-roots/) |
 | [8.8](../8-8-verb-like-forms/) | the verb-like forms: participles (`gato`, `vutto`, `viharanto`, `bhaññamāno`, `kātabbo`), absolutives (`sutvā`, `viditvā`, `anupagamma`), infinitives (`kātuṁ`), and the "when X had happened" construction | {524}–{623} selected | [J](../j-kita/) |
 
-Every section is built as the other chapters are: a short explanation, a table
+Every section has a short explanation, a table
 of the endings or shapes to recognise with the rule that makes each, worked
 examples from the texts, and one block of exercises on their sentences. The
 derivation of a form, the root's own changes and the rules for each of the
