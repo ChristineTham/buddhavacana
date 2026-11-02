@@ -94,7 +94,7 @@ flowchart TD
 ```
 
 All twelve endings of each set are in [Appendix I](../i-verbs/) and chapter
-1's [verb terminations](../1-basics/#verb-terminations-423-430).
+1's [verb endings](../1-basics/#verb-endings-423-430).
 
 ### Examples
 
