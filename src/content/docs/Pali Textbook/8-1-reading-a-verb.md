@@ -7,8 +7,7 @@ description: >
   A verb form is a root, the piece its class adds and an ending, and the
   ending says when, who and how many: the eight sets of endings and their
   times {414}–{422}, the twelve endings of each set {423}–{430}, the three
-  persons {408}–{412} and the symbols the book uses for them, as the master
-  table the rest of the chapter refers to.
+  persons {408}–{412} and the symbols the book uses for them.
 categories: ["palibook"]
 tags: ["ākhyāta"]
 ---
@@ -17,20 +16,21 @@ tags: ["ākhyāta"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-Every sentence of the texts turns on a verb (`ākhyāta`, "what is declared"),
-the word that changes shape most: `viharati` ("dwells"), `udapādi` ("arose"),
-`bhavissati` ("there will be"), `vadeyyātha` ("would you say"). Each is three
-pieces in a row. `labhati` ("gets") is the root (`dhātu`) `labh`, which
-carries the meaning {457}; the piece (`vikaraṇa`) `a` that its class puts
-after the root {445}; and the ending (`vibhatti`) `-ti` {423}, always last
-{455}. The root is what you look up ([Appendix D](../d-roots/) lists them,
-[8.2](../8-2-present/) the pieces); the ending carries everything else.
+`ākhyāta` ("verb") means "what is declared", i.e. what action is declared by the
+sentence: `viharati` ("dwells"), `udapādi` ("arose"),
+`bhavissati` ("there will be"), `vadeyyātha` ("would you say").
 
-The ending answers three questions at once: when, or in what mood; who; and
+A verb in a sentence has three parts: `labhati` ("gets") is the root (`dhātu`) `labh`, which
+carries the meaning {457}; the class suffix (`vikaraṇa`) `a` goes
+after the root {445}; and the ending (`vibhatti`) `-ti` {423}, always last
+{455}. ([Appendix D](../d-roots/) lists the roots,
+[8.2](../8-2-present/) the class suffixes); the ending describes when, or
+in what mood; who; and
 how many. Kaccāyana sorts the endings into eight sets of twelve, one for each
 time or mood {414}–{422}, and names them; the dictionary and this book use
-the names. So ask of every verb: what is its ending, and which set is it in?
-This section is the table that answers; the sections after it take the sets
+the names.
+
+This section is the table that describes the types of word endings and class suffixes; the sections after it take the sets
 one at a time.
 
 The book marks a verb with four symbols and the lemma to look up:
