@@ -33,7 +33,7 @@ present, the command, the wish and the `hiyyattanī` {431}; the other four
 sets, these two among them, take an `i` between the root and the ending {516},
 so what you see is nearly always `-issa-`: `gam-i-ssati`, `kar-i-ssati`. That
 `i` is the surest sign; each rule's `attanopada` six, rare in the texts, are in
-[chapter 1](../1-basics/#verb-terminations-423-430).
+[chapter 1](../1-basics/#verb-endings-423-430).
 
 ### The future: `bhavissantī` ⏭
 

@@ -13,7 +13,7 @@ tags: ["ākhyāta"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-Kaccāyana's Ākhyātakappa {406}–{523} is the chapter on verbs: the endings (`vibhatti`) that mark person, number, tense and mood, the suffixes that stand between root and ending, and the changes the root undergoes. The complete table of the ninety-six endings of the eight tenses and moods {423}–{431}, in both the `parassapada` (🟢) and the `attanopada` (🔵), is in the Basics chapter ([verb terminations](../1-basics/#verb-terminations-423-430)); this appendix gives the suffixes and the rules.
+Kaccāyana's Ākhyātakappa {406}–{523} is the chapter on verbs: the endings (`vibhatti`) that mark person, number, tense and mood, the suffixes that stand between root and ending, and the changes the root undergoes. The complete table of the ninety-six endings of the eight tenses and moods {423}–{431}, in both the `parassapada` (🟢) and the `attanopada` (🔵), is in the Basics chapter ([verb endings](../1-basics/#verb-endings-423-430)); this appendix gives the suffixes and the rules.
 
 ## Suffixes between root and ending
 

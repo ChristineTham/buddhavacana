@@ -966,7 +966,7 @@ these terms and rely on the Pāḷi terms instead and the usage of each category
 will be described later in this chapter.
 :::
 
-### verb terminations {423}-{430}
+### verb endings {423}-{430}
 
 | | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -1106,7 +1106,7 @@ The plural form `bahuvacana` (⨂) undergoes a similar transformation:
 | 🔵 | 👆 | ⨀ | 🔀 | `ssiṁ` | gacch + i + ssiṁ | {516} | `gacchissiṁ` | `agacchissiṁ` |
 | 🔵 | 👆 | ⨂ | 🔀 | `ssāmhase` | gacch + i + ssāmhase | {516} | `gacchissāmhase` | `agacchissāmhase` |
 
-Note that some of the terminations are the same so in practice we will need
+Note that some of the endings are the same so in practice we will need
 to distinguish which tense is being used from context. Note also the irregular
 forms, particularly the `ajjatanī` ones. The irregular `ajjatanī` forms tend to be more
 commonly used than the regular forms. This is so prevalent that other grammar books
@@ -1442,7 +1442,7 @@ doer subject) is much more dominant.
 
 1. `kattu` (subject) - `Kathita Kattā` or `Vutta-kattā` (predominant-subject) must be in the first form (①)
 2. `kamma` (object) - `Akathita-kamma` or `Avutta-kamma` (non-principal object) must be in the second form (②)
-3. The verb must be either in the `parassapada` termination (🟢) in most cases or in the `attanopada` termination (🔵) with or without an affix of `kattu` sense. [Affixes of `kamma` sense such as `ya`, or `kita` affixes e.g. `tabba`, `ta`, etc. cannot be used]
+3. The verb must take either the `parassapada` endings (🟢) in most cases or the `attanopada` endings (🔵) with or without an affix of `kattu` sense. [Affixes of `kamma` sense such as `ya`, or `kita` affixes e.g. `tabba`, `ta`, etc. cannot be used]
 4. The persons (subjects) and verbs should be concordant.
 
 | Subject (①) | Object (②) | Verb | Meaning |
@@ -1465,7 +1465,7 @@ The rules in a passive voice sentence are:
 
 1. `kamma` (object) - `Kathita Kamma` or `Vutta-kamma` (predominant-object) must be in the first form (①)
 2. `kattā` (subject) - `Akathita-kattā` or an `Avutta-kattā` (non-principal subject) must be in the third form (③)
-3. The verb should be mainly in the `attanopada` termination (🔵) or it can be in a reversed `parassapada` form (🟢) with an affix which has a Kamma-sense only. {440}-{443}.
+3. The verb should mainly take the `attanopada` endings (🔵), or it can be in a reversed `parassapada` form (🟢) with an affix which has a Kamma-sense only. {440}-{443}.
 4. The object (not the subject!) and verb should be in agreement.
 
 | Subject (③) | Object (①) | Verb | Meaning |

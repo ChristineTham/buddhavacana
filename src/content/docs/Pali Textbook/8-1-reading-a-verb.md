@@ -4,7 +4,7 @@ sidebar:
   label: "8.1: Reading a verb"
   order: 544
 description: >
-  A verb form is a root, the piece its class adds and an ending, and the
+  A verb form is a root, class suffix and an ending, and the
   ending says when, who and how many: the eight sets of endings and their
   times {414}–{422}, the twelve endings of each set {423}–{430}, the three
   persons {408}–{412} and the symbols the book uses for them.
@@ -20,10 +20,15 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 sentence: `viharati` ("dwells"), `udapādi` ("arose"),
 `bhavissati` ("there will be"), `vadeyyātha` ("would you say").
 
-A verb in a sentence has three parts: `labhati` ("gets") is the root (`dhātu`) `labh`, which
-carries the meaning {457}; the class suffix (`vikaraṇa`) `a` goes
-after the root {445}; and the ending (`vibhatti`) `-ti` {423}, always last
-{455}. ([Appendix D](../d-roots/) lists the roots,
+A verb in a sentence has three parts:
+
+- `labhati` ("gets") is the root (`dhātu`) `labh`, which
+carries the meaning {457};
+- the class suffix (`vikaraṇa`) `a` goes
+after the root {445}; and
+- the ending (`vibhatti`) `-ti` {423}, always last {455}.
+
+([Appendix D](../d-roots/) lists the roots,
 [8.2](../8-2-present/) the class suffixes); the ending describes when, or
 in what mood; who; and
 how many. Kaccāyana sorts the endings into eight sets of twelve, one for each
@@ -35,16 +40,16 @@ one at a time.
 
 The book marks a verb with four symbols and the lemma to look up:
 `🟢⨀🤟▶️(viharati)` is active, singular, third person, present, lemma
-`viharati`; the bonus chapter's lines, made earlier, order them time, person,
-number: `⏮👆⨀(paṭilabhi)`.
+`viharati`; the bonus chapter's lines use the same order, so `paṭilabhiṁ`
+([Bonus: 26, 267](../11-pbt/#s26-u267-4)) is `🟢⨀👆⏮(paṭilabhati)`.
 
 ### The three persons
 
 Kaccāyana's names for the persons are the reverse of the English ones: its
 "first person" (`paṭhamapurisa`) is the English third, "he, she, it, they";
-its "middle person" (`majjhimapurisa`) the second, "you"; its "highest
-person" (`uttamapurisa`) the first, "I, we" {408}. This book keeps the
-symbols and, from here on, the English names.
+its "middle person" (`majjhimapurisa`) the second, "you"; its "last
+person" (`uttamapurisa`), "I, we" {408}. This book keeps the
+symbols and, from here on, the English names (to avoid confusion).
 
 | person | Kaccāyana's name | symbol | the subject is | in the texts | rule |
 | --- | --- | :-: | --- | --- | :-: |
@@ -79,7 +84,7 @@ met below.
 the other names describe their time. The `hiyyattanī` occurs once in the
 texts (`ajjhagamaṁ`, "I achieved", [Bonus: 47, 965](../11-pbt/#s47-u965-1)) and the
 `parokkhā` once (`āha` inside `evamāha`, [Bonus: 1, 1364](../11-pbt/#s1-u1364-2)); the `ajjatanī` is on
-every page. Three more rules shape what you see: `vattamānā`, `pañcamī`,
+every page. Three more rules: `vattamānā`, `pañcamī`,
 `sattamī` and `hiyyattanī` are grouped as `sabbadhātuka` {431}, and the other
 four put an `i` before the ending, the `i` of `bhav-i-ssati` {516}; the three
 past sets put an `a` before the root, the `a` of `ud-a-pādi` and
@@ -109,7 +114,7 @@ an `s` before it (`āmantesi`, `ahosi`); its plural `uṁ` (`abhinanduṁ`) is
 also `-iṁsu` {504}; and the `a` before the root is not seen when the verb
 begins with the prefix `ā` (`āmantesi`). [8.4](../8-4-past/) takes these
 shapes one by one; chapter 1's
-[verb terminations](../1-basics/#verb-terminations-423-430) show every
+[verb endings](../1-basics/#verb-endings-423-430) show every
 ending on one verb, `gacchati`, and [Appendix I](../i-verbs/) the rules
 {406}–{523}.
 
