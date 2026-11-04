@@ -86,7 +86,7 @@ Little did I realise I was going to embark on a journey that eventually would le
 * Translate early Pāḷi grammars: [Kaccayana](https://kaccayana.github.io).
 * Write my own Pāḷi textbook: [Pāḷi Textbook](https://christham.net/buddhavacana/pali-textbook/0-status/).
 * Create a notation scheme for grammatical analysis of Pāḷi sentences [Pāḷi grammar symbols](https://christham.net/buddhavacana/pali-textbook/a-symbols/).
-* Adapt a well known Pāḷi dictionary to use my notation scheme: [Pāḷi grammar dictionary](https://github.com/ChristineTham/Pāḷi_grammar).
+* Adapt a well known Pāḷi dictionary to use my notation scheme: [Pāḷi grammar dictionary](https://github.com/ChristineTham/pali_grammar).
 * Create a framework for a Second Brain based on `pañcupādānakkhandhā` (the Buddha’s classification of the five key components of our mental process and consciousness): [khandhaja.github.io](https://khandhaja.github.io).
 * Embark on a philosophical study of the Buddha's teachings, and evaluate them using critical analysis.
 
