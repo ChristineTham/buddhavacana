@@ -19,7 +19,7 @@ A photo of me taken on 3 March 2023 using a Sony ⍺7R camera at the Spirit Hous
 
 My childhood is not important so I will mostly skip the details. Some have remarked to my parents (and to me when I was older) that they sensed an aura of spirituality in me even when I was young, that I had what some called "an old soul." I was not aware that I was different in any way, except I had a very strong sense of curiosity and loved learning new things and exploring places.
 
-My parents were agnostic, so I was not brought up with a strong sense or awareness of religion. My mother said (many years later) she avoided taking me to visit places of worship or participate in religious ceremonies as she said someone (a monk? a soothsayer?) once told her I had a strong mind and may anger gods and deities with my presence.
+My parents were agnostic, so I was not brought up with a strong sense or awareness of religion. My mother said (many years later) she avoided taking me to visit places of worship or participate in religious ceremonies. She explained this by saying someone (a monk? a soothsayer?) once told her I had a strong mind and may anger gods and deities with my presence.
 
 ## Discovery of Buddhism
 
@@ -39,11 +39,15 @@ By the end of the book, I had convinced myself that I wanted to be a Buddhist. I
 
 Sometime later, I also convinced my best friend in school, so I had a core set of people around me that were interested in Buddhism, gaining wisdom, and following the Eightfold Path. However, I had no desire to join the `Saṅgha` and devote the rest of my life towards attaining `nibbāna`. I was not ready to renounce a normal life, and from the perspective of a teenager still in school, it did not seem like a practical choice and certainly not one that I thought my parents would approve or support.
 
+I mentioned that my mother took the trouble to dissuade me from associating with religious practitioners or visiting religious places. Much later on she offered the true explanation, knowing that I was interested in the Buddha's teachings. She wanted me to find my own path, and not rely on what other religious practitioners believed in. As she explained, the monastics and disciples that I might meet at a temple or religious ceremony or festival are clearly not enlightened, or awakened, or liberated. They do not behave in accordance with what I read in the Buddha's teachings - they do not seem to be free of suffering, and they do not seem to be detached from worldly concerns. Therefore, my mother argued, whatever they believe in and whatever they practised cannot be correct, and cannot lead to liberation. My mother also pointed out that there are plenty of examples of corrupt monastics, and therefore the institutions and communities that support them cannot be blameless either. Finally, my mother reminded me the popular belief is that no one has achieved enlightenment for thousands of years, and indeed even Buddhists believe enlightenment is impossible in this day and age. So practising Buddhism and associating with Buddhists cannot possibly lead to success.
+
+My father also reminded me that I don't truly understand what renunciation means and the implications might be unless I have experienced the world. My childhood has been uneventful and perhaps sheltered. He urged me to live a normal life before making any decisions.
+
 ## Adulthood
 
-My interest in Buddhism faded as I continued my life journey, and other things took priority. Finishing school, then university, getting married, working, enjoying life and sensual pleasures, doing what people normally do and what society expects me to do just seemed like the path of least resistance.
+My interest in the Buddha's teachings faded as I continued my life journey, and other things took priority. Finishing school, then university, getting married, working, enjoying life and sensual pleasures, doing what people normally do and what society expects me to do just seemed like the path of least resistance.
 
-Although I still remembered my interest in Buddhism, and had a desire to one day study the `dhamma`, and perhaps even learn Pāḷi, I just did not have the time. Furthermore, it was difficult getting access to the `Tipiṭaka`, and many sections (including the `Abhidhamma`) have not been translated to English, and certainly not in book form.
+Although I still remembered my interest in the Buddha and his teachings, and had a desire to one day study the `dhamma`, and perhaps even learn Pāḷi, I just did not have the time. Furthermore, it was difficult getting access to the `Tipiṭaka`, and many sections (including the `Abhidhamma`) have not been translated to English, and certainly not in book form.
 
 For years, I would pester anyone I know visiting India or Sri Lanka to purchase Buddhism books for me, so I ended up amassing a collection that I have never read (until recently).
 
