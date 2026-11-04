@@ -13,6 +13,7 @@ const escape = (text) => text.replace(/[&<>"']/g, (character) => ESCAPES[charact
 export function mermaidFences() {
 	return {
 		name: "mermaid",
+		/** @returns {{ type: "html", value: string } | undefined} */
 		code(node) {
 			if (node.lang !== "mermaid") return;
 			return { type: "html", value: `<pre class="mermaid">${escape(node.value)}</pre>` };
