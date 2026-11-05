@@ -955,7 +955,7 @@ other readings, each under 0.5% | 0.9 |
 <a id="e-tabbaṁ"></a>
 
 ```endings
--tabbaṁ, -anīyaṁ · 9,485 words end so, 3.4 in every thousand · 96% of them classed · see also [`-tabbo`](#e-tabbo), [`-tabbā`](#e-tabbā)
+-tabbaṁ, -anīyaṁ, -aṇīyaṁ · 9,485 words end so, 3.4 in every thousand · 96% of them classed · see also [`-tabbo`](#e-tabbo), [`-tabbā`](#e-tabbā)
 a participle in -tabba, -anīya, -ya | 89.0 | `vattabbaṁ`, `pahātabbaṁ`, `kātabbaṁ`, `vitthāretabbaṁ`, `gaṇetabbaṁ`
 🚻⨀① or ② or ⓪ | 8.9 | `bhojanīyaṁ`, `kātabbaṁ`, `paccanīyaṁ`, `khādanīyaṁ`, `paribhojanīyaṁ`
 an adjective, agreeing with its noun | 2.1 | `diṭṭhadhammavedanīyaṁ`, `savacanīyaṁ`, `sukhavedanīyaṁ`, `dukkhavedanīyaṁ`, `apāyagamanīyaṁ`
