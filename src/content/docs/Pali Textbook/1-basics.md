@@ -1760,20 +1760,23 @@ Eventually, as reading proficiency increases, these changes will become easier t
 
 ## Recognising a word: the endings at a glance
 
-A beginner who meets a sentence has first to classify each word by its
-ending, with nothing but the letters to go on: is it a noun, and in which
-form, a verb, a particle? Everything above comes down to that one habit:
-look at the end of each word and read it.
+A Pāḷi reader reading a sentence has to first classify each word by its
+ending, with nothing but the letters to go on: is it a noun (and in which
+form), a verb, a particle?
 
-The chart gives the kinds of word; the charts that follow are a look-up of the endings, one chart for each
-ending a reader meets, its readings as bars in the order of how often they
-occur in the whole Tipiṭaka, the bar's length the share. They are grouped by
-what the eye meets first, the last letter of the word, and within a group
-the commonest endings come first; nouns, verbs and particles stand side by
-side in every chart, since nothing in the letters says which a word is. A
-share says which reading to try first, not which is right: the lemma's
-gender, an agreeing word and the verb settle it, and for the four endings
-that most need settling a chart gives the questions to ask. The full
+The chart below shows the different kinds of word; the following subsections
+enumerate the endings, one chart for each ending a reader meets, a
+frequency analysis bar chart of its readings based on how often they
+occur in the whole Tipiṭaka.
+
+The endings are grouped by the last letter of the word, and within a group
+the commonest endings come first. Note that a specific ending may represent a noun,
+verb or particle. The frequency analysis should help
+determine which reading is more likely. The sentence context, including the lemma's
+gender, an agreeing word and the verb settle it, and for the four most ambiguous endings
+a flowchart is provided to assist the reader.
+
+The full
 analysis, every reading of every ending with its share and how the shares
 were computed, is [Appendix P](../p-endings/); the index below jumps to any
 ending.
@@ -1796,14 +1799,16 @@ flowchart LR
 
 A compound, a derived word and a participle all end as a noun does, so the
 noun readings cover them; a prefix sits at the front of a noun or a verb and
-changes nothing at the end. The shares are rounded to the nearest five from the full run in [appendix P](../p-endings/) and
-count every word of the Tipiṭaka that ends so, each read by the dictionary's
-commonest headword for it. They count what the eye meets, letters rather than
-analyses: a word in `-āna` with the ending `-aṁ` stands among the words in
-`-ānaṁ`, and an adjective or a participle is counted as such, to be read as a
-noun of its noun's gender would be.
+changes nothing at the end.
 
-Find the ending you see: [`-a`](#e-a) · [`-amhi`](#e-amhi) · [`-asi`](#e-asi) · [`-asmiṁ`](#e-asmiṁ) · [`-asmā`](#e-asmā) · [`-aso`](#e-aso) · [`-assa`](#e-assa) · [`-asā`](#e-asā) · [`-ato`](#e-ato) · [`-atā`](#e-atā) · [`-aṁ`](#e-aṁ) · [`-e`](#e-e) · [`-ehi`](#e-ehi) · [`-ena`](#e-ena) · [`-esu`](#e-esu) · [`-etha`](#e-etha) · [`-eyya`](#e-eyya) · [`-eyyaṁ`](#e-eyyaṁ) · [`-eyyāsi`](#e-eyyāsi) · [`-i`](#e-i) · [`-ino`](#e-ino) · [`-inā`](#e-inā) · [`-issa`](#e-issa) · [`-iyā`](#e-iyā) · [`-iṁ`](#e-iṁ) · [`-iṁsu`](#e-iṁsu) · [`-ma`](#e-ma) · [`-mi`](#e-mi) · [`-māne`](#e-māne) · [`-māno`](#e-māno) · [`-mānā`](#e-mānā) · [`-ntaṁ`](#e-ntaṁ) · [`-nte`](#e-nte) · [`-nti`](#e-nti) · [`-nto`](#e-nto) · [`-ntā`](#e-ntā) · [`-o`](#e-o) · [`-si`](#e-si) · [`-ssati`](#e-ssati) · [`-ssāma`](#e-ssāma) · [`-tabbaṁ`](#e-tabbaṁ) · [`-tabbo`](#e-tabbo) · [`-tabbā`](#e-tabbā) · [`-te`](#e-te) · [`-tha`](#e-tha) · [`-ti`](#e-ti) · [`-tu`](#e-tu) · [`-tuṁ`](#e-tuṁ) · [`-tvā`](#e-tvā) · [`-u`](#e-u) · [`-uṁ`](#e-uṁ) · [`-ā`](#e-ā) · [`-ānaṁ`](#e-ānaṁ) · [`-āni`](#e-āni) · [`-āya`](#e-āya) · [`-āyaṁ`](#e-āyaṁ) · [`-āyo`](#e-āyo) · [`-ī`](#e-ī) · [`-ū`](#e-ū).
+The frequency analysis are rounded to the nearest 5\% from the full analysis in [appendix P](../p-endings/) and
+based on every word of the Tipiṭaka that with that ending, checked against the dictionary's
+commonest headword for it.
+
+Check the ending that you see: for example, a word in `-āna` with the ending `-aṁ` stands among the words in
+`-ānaṁ`, and an adjective or a participle needs to be distinguished, and it normally adopts the gender of the associated noun.
+
+Index of endings: [`-a`](#e-a) · [`-amhi`](#e-amhi) · [`-asi`](#e-asi) · [`-asmiṁ`](#e-asmiṁ) · [`-asmā`](#e-asmā) · [`-aso`](#e-aso) · [`-assa`](#e-assa) · [`-asā`](#e-asā) · [`-ato`](#e-ato) · [`-atā`](#e-atā) · [`-aṁ`](#e-aṁ) · [`-e`](#e-e) · [`-ehi`](#e-ehi) · [`-ena`](#e-ena) · [`-esu`](#e-esu) · [`-etha`](#e-etha) · [`-eyya`](#e-eyya) · [`-eyyaṁ`](#e-eyyaṁ) · [`-eyyāsi`](#e-eyyāsi) · [`-i`](#e-i) · [`-ino`](#e-ino) · [`-inā`](#e-inā) · [`-issa`](#e-issa) · [`-iyā`](#e-iyā) · [`-iṁ`](#e-iṁ) · [`-iṁsu`](#e-iṁsu) · [`-ma`](#e-ma) · [`-mi`](#e-mi) · [`-māne`](#e-māne) · [`-māno`](#e-māno) · [`-mānā`](#e-mānā) · [`-ntaṁ`](#e-ntaṁ) · [`-nte`](#e-nte) · [`-nti`](#e-nti) · [`-nto`](#e-nto) · [`-ntā`](#e-ntā) · [`-o`](#e-o) · [`-si`](#e-si) · [`-ssati`](#e-ssati) · [`-ssāma`](#e-ssāma) · [`-tabbaṁ`](#e-tabbaṁ) · [`-tabbo`](#e-tabbo) · [`-tabbā`](#e-tabbā) · [`-te`](#e-te) · [`-tha`](#e-tha) · [`-ti`](#e-ti) · [`-tu`](#e-tu) · [`-tuṁ`](#e-tuṁ) · [`-tvā`](#e-tvā) · [`-u`](#e-u) · [`-uṁ`](#e-uṁ) · [`-ā`](#e-ā) · [`-ānaṁ`](#e-ānaṁ) · [`-āni`](#e-āni) · [`-āya`](#e-āya) · [`-āyaṁ`](#e-āyaṁ) · [`-āyo`](#e-āyo) · [`-ī`](#e-ī) · [`-ū`](#e-ū).
 
 ### Words that end in `…a`
 
