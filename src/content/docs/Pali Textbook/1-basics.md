@@ -1817,7 +1817,7 @@ Index of endings: [`-a`](#e-a) · [`-amhi`](#e-amhi) · [`-asi`](#e-asi) · [`-a
 ```endings
 -a · 99.4 in every thousand words · see [2.7](../2-7-nipata/), [2.1](../2-1-sandhi/), [8.8](../8-8-verb-like-forms/)
 a particle or an adverb | 55 | `ca`, `na`, `pana`, `idha`
-an `-aṁ` whose `ṁ` has turned into the next word's nasal | 10 | `cakkhuñca`, `khandhañca`
+a word in `-aṁ`, `-iṁ` or `-uṁ` with `ca` joined on, its `ṁ` turned into `ñ` | 10 | `khandhañca` (`khandhaṁ` + `ca`), `cakkhuñca` (`cakkhuṁ` + `ca`)
 🚹⨀⓪ | 10 | `mahārāja`, `ānanda`
 a number | 5 | `pañca`, `cha`
 an absolutive in `-ya` | 5 | `paṭicca`, `upasampajja`
@@ -2094,7 +2094,7 @@ the pronouns `imāni`, `tāni` | 15 |
 ```endings
 -ssati, -ssanti, -ssāmi · 6.7 in every thousand words · see [8.5](../8-5-future/) · see also [`-ssāma`](#e-ssāma)
 ⏭🤟⨀, "will …" | 45 | `bhavissati`, `uppajjissati`
-⏭🤟⨂, "they will …" | 20 | `bhavissantī`
+⏭🤟⨂, "they will …" | 20 | `bhavissanti`
 `passati` and its compounds, present | 15 | `passati`, `samanupassati`
 ⏭👆⨀, "I will …" | 10 | `desessāmi`, `bhavissāmi`
 `passāmi`, present | 5 |
@@ -2424,7 +2424,7 @@ an adjective agreeing with its noun | 5 | `bahuṁ`
 <a id="e-tabbaṁ"></a>
 
 ```endings
--tabbaṁ, -anīyaṁ · 3.4 in every thousand words · see [8.8](../8-8-verb-like-forms/) · see also [`-tabbo`](#e-tabbo), [`-tabbā`](#e-tabbā)
+-tabbaṁ, -anīyaṁ, -aṇīyaṁ · 3.4 in every thousand words · see [8.8](../8-8-verb-like-forms/) · see also [`-tabbo`](#e-tabbo), [`-tabbā`](#e-tabbā)
 "to be …ed", "should be …", agreeing with a 🚻 noun in ① or ② or a 🚹 noun in ② | 90 | `pahātabbaṁ`, `karaṇīyaṁ`
 🚻⨀① or ② of a noun in `-anīya` | 10 | `bhojanīyaṁ`
 ```
