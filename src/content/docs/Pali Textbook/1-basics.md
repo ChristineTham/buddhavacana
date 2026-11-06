@@ -157,6 +157,8 @@ and how Pāḷi sentences would have been spoken, particularly with regard to
 tonality. Modern day Pāḷi pronunciation is based on how the Buddhist Pāḷi canon
 is chanted in various countries including Sri Lanka, Myanmar and Thailand.
 
+
+
 |Letter|Pronunciation|
 |:----:|:-----------:|
 |a|b<u>u</u>t, c<u>u</u>t|
