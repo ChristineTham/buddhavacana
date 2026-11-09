@@ -22,3 +22,36 @@ pnpm-debug.log*
 
 # Local Netlify folder
 .netlify
+
+# AI agent files: never tracked (at any depth)
+/tools/
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+INTRO.md
+README-HANDOFF.md
+AGENTS.md
+AGENT.md
+GEMINI.md
+.agents/
+.agent/
+.gemini/
+.codex/
+.cursor/
+.cursorrules
+.cursorignore
+.windsurf/
+.windsurfrules
+.clinerules
+.cline/
+.roo/
+.roomodes
+.kiro/
+.junie/
+.continue/
+.aider*
+.amazonq/
+.github/copilot-instructions.md
+.github/instructions/
+.github/prompts/
+.mcp.json
