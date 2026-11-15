@@ -4,7 +4,7 @@ sidebar:
   label: "2.1: `sandhi`"
   order: 514
 description: >
-  The joins a reader meets on every line, `cāyaṁ`, `natthi`, `kiñci`,
+  Euphonic joins of multple words, eg. `cāyaṁ`, `natthi`, `kiñci`,
   `evametassa`, `…dhamman”ti`, and how to undo each: a vowel dropped or
   lengthened {12}–{15}, a `ṁ` changed {31}–{40}, a consonant put in {35} or
   doubled {28}–{29}.
@@ -16,8 +16,12 @@ tags: ["sandhi"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-Pāḷi was spoken before it was written, and the texts print it as it was said:
-when a word ending in a vowel or in `ṁ` meets the next word, the two run
+Pāḷi was based on a spoken rather than written language, and when speakers speak
+the words they can seem joined together and sometimes the pronunciation of words may
+be altered to make the words blend into each other more seamlessly. These changes
+are preserved when Pāḷi texts were written down.
+
+When a word ending in a vowel or in `ṁ` meets the next word, the two run
 together and the seam changes shape. The joined form is a `sandhi` (a join),
 and the texts of chapters [3](../3-awakening/), [5](../5-dhammacakka/),
 [7](../7-anatta/), [9](../9-fire/) and the [bonus chapter](../11-pbt/) have one in almost
@@ -25,16 +29,15 @@ every line: `yo cāyaṁ` is `yo ca ayaṁ`, `natthi` is `na atthi`, `kiñci` is
 `kiṁ ci`, and the `”ti` that closes every quotation is `iti` with its vowel
 gone.
 
-So the first question to ask of a word the dictionary does not have is: is it
-two words? The table lists the joins the reader meets most, what each was
+So the first question to ask when looking up a word in the dictionary and not finding it: is it
+two words? The table lists the most common joins, what each was
 before it was joined, and the rule that makes it; the rule number links to
 Kaccāyana's statement with its examples, and [Appendix E](../e-sandhi/) tables
-all the rules {12}–{51}. Chapter 1 showed the joining once (`tatrāyamādi`);
-here the direction is reversed.
+all the rules {12}–{51}.
 
 ### The joins to recognise
 
-| what you see | what it was | examples from the texts | rule |
+| pattern | example before join | joined examples | rule |
 | --- | --- | --- | :-: |
 | the first word's final vowel missing | `pana idaṁ` | `panidaṁ`, `natthi` (`na atthi`), `vivicceva` | {12} |
 | a long vowel for two short ones: the first dropped, the second lengthened | `ca ayaṁ` | `cāyaṁ`, `tāvāhaṁ` (`tāva ahaṁ`), `yannūnāhaṁ` | {12}, {15} |

@@ -22,16 +22,16 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/starlight": "0.42.9",
+    "@astrojs/starlight": "0.43.1",
     "@floating-ui/dom": "^1.8.0",
-    "astro": "7.4.5",
+    "astro": "7.4.12",
     "astro-plantuml": "^1.0.1",
     "d3-drag": "^3.0.1",
     "d3-force": "^3.0.1",
     "d3-selection": "^3.0.1",
     "d3-zoom": "^3.0.1",
     "mermaid": "^12.3.0",
-    "pixi.js": "^8.22.0",
+    "pixi.js": "^8.23.0",
     "reading-time": "^1.5.0",
     "rehype-citation": "^2.3.2",
     "sharp": "^0.35.5",
@@ -41,13 +41,13 @@
   "packageManager": "pnpm@12.16.1+sha512.091d1dee7927575661b25dab3c2ae31cafc1c54d6b71ed6a6600cf0c1cb10434a447eae14015f1b23e2e6bedeed79df94a932e2164d2832280dce3fb32f656d1",
   "devDependencies": {
     "@astrojs/check": "0.9.12",
-    "@astrojs/markdown-satteri": "0.4.6",
+    "@astrojs/markdown-satteri": "0.4.10",
     "@cspell/dict-en-au": "^1.1.31",
     "@types/d3-drag": "^3.0.7",
     "@types/d3-force": "^3.0.10",
     "@types/d3-selection": "^3.0.12",
     "@types/d3-zoom": "^3.0.9",
     "@typescript/typescript6": "^6.0.2",
-    "cspell": "^10.4.0"
+    "cspell": "^10.5.0"
   }
 }

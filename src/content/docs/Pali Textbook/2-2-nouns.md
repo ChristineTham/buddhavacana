@@ -4,7 +4,7 @@ sidebar:
   label: "2.2: Nouns"
   order: 515
 description: >
-  How to read a noun's ending: gender (`liṅga`), number and the eight sets
+  Noun inflections: gender (`liṅga`), number and the eight sets
   of endings; the inflection tables of the major lemma classes in one view,
   `purisa`, `aggi`, `bhikkhu`, `kaññā`, `ratti`, `nadī`, `citta`, `aṭṭhi`,
   `cakkhu`; adjectives agree.
@@ -16,41 +16,42 @@ tags: ["nāma", "liṅga", "vibhatti"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-Every noun (`nāma`, "a name") carries an ending that tells what the noun is
-doing in its sentence. Once a word is split from its neighbours
-([2.1](../2-1-sandhi/)), ask "what is its ending?", then "what is it telling
-me?". This section answers the first question with the inflection tables of
-the lemma classes that fill the texts, in one view, the way the Bālāvatāra
-summarises them; the second question is [chapter 4](../4-0-karaka/)'s. The
+Every noun (`nāma`, "a name") used in a sentence is inflected to reflect it's role in the sentence.
+This section contains the inflection tables of various classes of
+lemma based on lemma endings. Once the inflection form is recognised, [chapter 4](../4-0-karaka/) can be used to determine the role of the word in the sentence. The
 master table of endings at the end of [chapter 1](../1-basics/#recognising-a-word-the-endings-at-a-glance)
-reads the same tables the other way round, from the ending to the form.
+is the same information presented the other way around (from inflected ending to lemma class).
 
-A noun has a gender (`liṅga`) {53}, which the Digital Pāḷi Dictionary writes
-as `masc`, `nt` or `fem` after the headword: it is looked up, not guessed from
-the lemma's last letter. A noun also has a number, singular (`ekavacana`) ⨀
-or plural (`bahuvacana`) ⨂, and one of eight endings {54}: ① to ⑦, the seven
-`vibhatti` of chapter 1, and ⓪, the calling form (`ālapana`). Which shape an
-ending takes depends on the lemma's last letter and gender, and nine nouns in
-ten that a reader meets belong to a handful of classes: by the dictionary's
-count of occurrences in the early discourses, masculines and neuters in `-a`
-(`purisa`, `citta`) come first by far, then feminines in `-ā` (`kaññā`),
-masculines in `-u` (`bhikkhu`), feminines in `-i` (`ratti`, `jāti`),
-masculines in `-i` (`aggi`), feminines in `-ī` (`nadī`), and the neuters in
-`-i` and `-u` (`aṭṭhi`, `cakkhu`). The few very common words that follow none
+A noun has a gender (`liṅga`) {53}, which can usually be recognised by
+the lemma's ending. An inflected noun also conveys multiplicity, ie. singular (`ekavacana`) ⨀
+or plural (`bahuvacana`) ⨂, and one of seven inflection forms {54}: ① to ⑦ (the
+`vibhatti` of chapter 1), together with ⓪, the calling form (`ālapana`). The shape of an
+inflected word is based on the lemma's last letter and gender, and 90% of nouns belong to a
+handful of classes (based on a frequency analysis of the Tipiṭaka):
+
+- masculines and neuters in `-a` (`purisa`, `citta`) come first by far, then
+- feminines in `-ā` (`kaññā`),
+- masculines in `-u` (`bhikkhu`),
+- feminines in `-i` (`ratti`, `jāti`),
+- masculines in `-i` (`aggi`),
+- feminines in `-ī` (`nadī`), and
+- the neuters in `-i` and `-u` (`aṭṭhi`, `cakkhu`).
+
+The few very common words that follow none
 of these, `bhagavā`, `satthā`, `rājā`, `attā`, `mano`, are the irregular
 inflections of [2.3](../2-3-irregular/).
 
 ### The major inflection tables
 
-Each table reads across: the ending, then for each model word its singular
+Each table describes: the inflection form, then for each model word its singular
 and plural shapes. Where a form has two shapes both are in use; the first is
-the commoner in the texts. Kaccāyana's rules for every shape are {55}–{119}
+more common. Kaccāyana's rules for every shape are {55}–{119}
 and {215}–{245}, tabled in [Appendix G](../g-vibhatti/).
 
 Masculine nouns: lemmas ending in `-a` (`purisa`, "man"), `-i` (`aggi`,
 "fire") and `-u` (`bhikkhu`):
 
-| ending | `purisa` ⨀ | `purisa` ⨂ | `aggi` ⨀ | `aggi` ⨂ | `bhikkhu` ⨀ | `bhikkhu` ⨂ |
+| inflection form | `purisa` ⨀ | `purisa` ⨂ | `aggi` ⨀ | `aggi` ⨂ | `bhikkhu` ⨀ | `bhikkhu` ⨂ |
 | :-: | --- | --- | --- | --- | --- | --- |
 | ① | `puriso` | `purisā` | `aggi` | `aggī`, `aggayo` | `bhikkhu` | `bhikkhū`, `bhikkhavo` |
 | ② | `purisaṁ` | `purise` | `aggiṁ` | `aggī`, `aggayo` | `bhikkhuṁ` | `bhikkhū`, `bhikkhavo` |
@@ -88,7 +89,7 @@ same class, so the rest of each column reads as `purisa`, `aggi` and
 | ③ to ⑦ | as `purisa` | as `purisa` | as `aggi` | as `aggi` | as `bhikkhu` | as `bhikkhu` |
 | ⓪ | `citta` | `cittāni` | `aṭṭhi` | `aṭṭhīni` | `cakkhu` | `cakkhūni` |
 
-Two habits of the tables are worth fixing in the eye. The plural ③ to ⑦ of
+A couple of things to note. The plural ③ to ⑦ of
 every class are the same three shapes, `-hi` (③ and ⑤), `-naṁ` (④ and ⑥) and `-su` (⑦), on the
 lemma's final vowel, long in `i` and `u` words (`bhikkhūhi`, `rattīnaṁ`,
 `aggīsu`) and `e` for `a` (`purisehi`, `purisesu`). And a feminine has one
@@ -97,18 +98,26 @@ singular shape for ③ to ⑦, `-āya` after `ā` {111} and `-iyā` after `i` or
 [5: 2209](../5-dhammacakka/#u4-3) is ⑥, "of craving", `rattiyā` in
 [3: 2](../3-awakening/#u2-3) ⑥, "of the night".
 
-:::note[The same ending, three jobs]
-`-ā` is 🚹 ①⨂ (`dhammā`), 🚹 ⑤⨀ (`avijjāpaccayā`), 🚺 ①⨀ (`taṇhā`) and 🚺 ①⨂
-(`kaṅkhā`); `-e` is 🚹 ②⨂ (`ante`), 🚹 or 🚻 ⑦⨀ (`migadāye`, `isipatane`) and
-🚺 ⓪⨀ (`kaññe`); `-aṁ` is 🚹 ②⨀ (`samayaṁ`), 🚻 ①⨀ or ②⨀ (`viññāṇaṁ`) and 🚺
-②⨀ (`mārasenaṁ`). Gender, agreeing words and the verb decide: `pātubhavanti
+:::note[Inflection similarities]
+
+Different inflection forms may sometimes result in the same inflected shape.
+
+- `-ā` is 🚹 ①⨂ (`dhammā`), 🚹 ⑤⨀ (`avijjāpaccayā`), 🚺 ①⨀ (`taṇhā`) and 🚺 ①⨂
+(`kaṅkhā`);
+- `-e` is 🚹 ②⨂ (`ante`), 🚹 or 🚻 ⑦⨀ (`migadāye`, `isipatane`) and
+🚺 ⓪⨀ (`kaññe`);
+- `-aṁ` is 🚹 ②⨀ (`samayaṁ`), 🚻 ①⨀ or ②⨀ (`viññāṇaṁ`) and 🚺
+②⨀ (`mārasenaṁ`).
+
+Gender, agreeing words and the verb can help resolve the correction inflection form: `pātubhavanti
 dhammā` ([3: 6](../3-awakening/#u6-1)) has a plural verb, so `dhammā` is ①⨂.
+
 :::
 
 ### Adjectives agree
 
 An adjective (`guṇanāma`, "a quality-word") has no gender of its own: it
-takes the gender, number and ending of its noun, so the two wear one shape:
+takes the gender, number and ending of its noun, so both are inflected consistently:
 `ariyo aṭṭhaṅgiko maggo` ("the path of the liberated in eight parts", [5: 2208](../5-dhammacakka/#u3-2)),
 🚹⨀① on all three words; `bhummā devā` ([5: 2217](../5-dhammacakka/#u12-1)), 🚹⨂①;
 `pañcavaggiye bhikkhū` ([5: 2206](../5-dhammacakka/#u1-2)), 🚹⨂② in two shapes, `-e`
