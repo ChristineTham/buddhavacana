@@ -15,11 +15,11 @@ tags: ["nāma", "upasagga"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-Most verbs and many nouns in the texts begin with one of twenty short words
+Some verbs and nouns in the texts begin with one of twenty short words
 that Kaccāyana calls `upasagga` (prefixes, 🔼): `viharati` ("dwells", [9: 75](../9-fire/#u1-1)) is `vi`
 before the root `√har`, `nirodho` ("cessation", [3: 4](../3-awakening/#u4-12)) `ni` before `√rudh`
 ("obstruct"), `abhisambuddho` ("fully awakened", [5: 2214](../5-dhammacakka/#u9-1)) `abhi` and `saṁ` before
-`√budh` ("wake"). A prefix carries no ending, since {221} drops every ending
+`√budh` ("wake"). A prefix is uninflected, since {221} drops every ending
 after a prefix or a particle, and keeps its place in every form of the
 word. [Chapter 1](../1-basics/) sorts the prefixes into those that
 follow the root's meaning, those that reverse it (`gacchati` "goes",

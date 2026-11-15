@@ -4,7 +4,7 @@ sidebar:
   label: "2.5: `saṅkhyā`"
   order: 518
 description: >
-  How to recognise a numeral and its inflection form: `dve`, `tayo`, `cattāri`, `pañca`
+  Numerals and inflection forms: `dve`, `tayo`, `cattāri`, `pañca`
   and the `-nnaṁ`, `-hi`, `-su` they carry {67}, {87}, {89}, {90},
   {131}–{134}; the teens in `-dasa`, the tens in `-ti`, `sataṁ` and
   `sahassaṁ`; and the ordinals `paṭhama`, `dutiya`, `tatiya` … {373}–{377}.
@@ -20,7 +20,7 @@ The texts count on every page: `dveme antā` ("these two extremes",
 [5: 2207](../5-dhammacakka/#u2-1)), `catūsu
 ariyasaccesu` ("in the four realisations", [5: 2214](../5-dhammacakka/#u9-1)), `paṭhamaṁ jhānaṁ` ("the first
 jhāna", [Bonus: 38, 697](../11-pbt/#s38-u697-6)). A numeral
-(`saṅkhyā`) is a noun like any other: its inflection form tells you its job in the
+(`saṅkhyā`) is a noun like any other: its inflection form tells you its role in the
 sentence ([chapter 4](../4-0-karaka/)). But the shape you meet (`dve`,
 `tayo`, `cattāri`) is often far from the lemma (`dvi`, `ti`, `catu`), so ask
 two questions: which numeral is it, and which inflection form does it take?

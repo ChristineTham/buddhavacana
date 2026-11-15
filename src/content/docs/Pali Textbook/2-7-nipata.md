@@ -4,7 +4,7 @@ sidebar:
   label: "2.7: `nipāta`"
   order: 520
 description: >
-  The small unchanging words that join, stress, negate, quote and ask (`ca`, `vā`, `pi`, `kho`, `eva`, `na`, `iti`, `nu`) and the ones that set time, place and manner, grouped by job with an example from the texts for each; what `ti` does to the word before it; the rule that drops their endings {221}.
+  Uninflected words that join, stress, negate, quote and ask (`ca`, `vā`, `pi`, `kho`, `eva`, `na`, `iti`, `nu`) and the ones that set time, place and manner, grouped by role with an example from the texts for each; what `ti` does to the word before it; the rule that drops their endings {221}.
 categories: ["palibook"]
 tags: ["nipāta"]
 ---
@@ -13,7 +13,7 @@ tags: ["nipāta"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-A `nipāta` (particle) is a small word that never changes: it has no gender,
+A `nipāta` (particle) is a small word that is always uninflected: it has no gender,
 multiplicity or inflection form, and takes no inflectional suffix. Kaccāyana's rule {221} drops every ending after a particle,
 as after an `upasagga` ([2.6](../2-6-upasagga/)) and after `āvuso` ("friend").
 The texts mark a particle ⏏️.
