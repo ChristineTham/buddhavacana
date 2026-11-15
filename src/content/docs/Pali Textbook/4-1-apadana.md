@@ -4,9 +4,9 @@ sidebar:
   label: "4.1: `apādāna`"
   order: 524
 description: >
-  A noun with the ⑤ ending names the point something moves away from, comes
-  from, is kept from or arises from: the `apādāna` {271}–{275}, which takes the
-  ⑤ ending {295}, and the cause of what follows {296}.
+  A noun in the ⑤ inflection form names the point something moves away from, comes
+  from, is kept from or arises from: the `apādāna` {271}–{275}, which takes that
+  inflection form {295}, and the cause of what follows {296}.
 categories: ["palibook"]
 tags: ["kāraka", "apādāna"]
 ---
@@ -16,14 +16,14 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
 When the sages leave a village, the village is `gāmā`, "from the village": the
-noun takes the ⑤ ending, and Kaccāyana calls what it names the `apādāna` (the
-point of departure). The ⑤ ending is the ending of "from": the place one
+noun takes the ⑤ inflection form, and Kaccāyana calls what it names the `apādāna` (the
+point of departure). The ⑤ form marks "from": the place one
 leaves, the thief one fears, the teacher one learns from {271}, and the cause
 something arises from {296}. The Bodhikathā of [chapter 3](../3-awakening/)
 shows it at each step of its chain of cessation: `bhavanirodhā jātinirodho`,
 "with the cessation of existence comes the cessation of the birth of suffering" ([3: 4](../3-awakening/#u4-10)).
 
-You know the ⑤ ending by its shape, ⨀ `-smā` (`buddhasmā`), or `-ā` {108} or
+You know the ⑤ inflection form by its endings, ⨀ `-smā` (`buddhasmā`), or `-ā` {108} or
 `-mhā` {99} in its place (`gāmā`, `anavatattamhā`), 🚺⨀ `-āya` (`sālāya`), ⨂
 `-ehi` (`āsavehi`, "from the defilements", [7: 308](../7-anatta/#u12-3)), and
 by the affix `-to`, which carries the same sense (`ito`, `yato`, `tato`) {248};
@@ -31,7 +31,7 @@ by the affix `-to`, which carries the same sense (`ito`, `yato`, `tato`) {248};
 from this word, coming out of it, or being kept apart from it? The verb answers,
 or a word beside it such as `vinā` ("without") or `pubbe` ("before").
 
-### The uses of the ⑤ ending
+### The uses of the ⑤ inflection form
 
 | the ⑤ noun is | example | rule |
 | --- | --- | :-: |
@@ -51,13 +51,13 @@ or a word beside it such as `vinā` ("without") or `pubbe` ("before").
 | the cause of what follows | `avijjāpaccayā saṅkhārā`, with ignorance as cause, mental constructions [arise] ([3: 3](../3-awakening/#u3-1)); `bhavanirodhā jātinirodho`, with the cessation of existence comes the cessation of the birth of suffering ([3: 4](../3-awakening/#u4-10)) | {296} |
 
 Kaccāyana defines the `apādāna` in four rules {271}–{274} and gives it the ⑤
-ending in two {295}–{296}; a fifth rule {275} adds twenty rarer senses, mostly
+inflection form in two {295}–{296}; a fifth rule {275} adds twenty rarer senses, mostly
 the same idea of a starting point or a separation. The examples below are its
 own, each translated at the rule; abstaining, seclusion and release are common
 in the texts of [the bonus chapter](../11-pbt/), release in those of chapters
 [7](../7-anatta/) and [9](../9-fire/) as well:
 
-### The further senses of the ⑤ ending
+### The further senses of the ⑤ inflection form
 
 | the ⑤ noun is | example | rule |
 | --- | --- | :-: |
@@ -100,7 +100,7 @@ teacher and preceptor / lesson / takes / pupil
 ### Exercises
 
 Each sentence or phrase is from the texts of chapters 3 and 7 and the bonus chapter, linked to its
-place there, and has a word with the ⑤ ending. Find it, match it to a row of the
+place there, and has a word in the ⑤ inflection form. Find it, match it to a row of the
 tables, and translate the sentence. Look the words up in a dictionary, do the
 necessary sandhi and compound word deconstruction, and take note of the
 `vibhatti` endings.

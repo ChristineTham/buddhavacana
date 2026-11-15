@@ -13,7 +13,7 @@ tags: ["vibhatti"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-This appendix summarises Kaccāyana's Nāmakappa {52}–{270}, the chapter that derives the inflected forms of nouns from their lemmas (`liṅga`). Each row gives the sutta number `{N}`, the sutta's own words, a one-line summary and the example words Kaccāyana cites; after "not" come the counter-examples, where the rule does not apply. The summaries use the book's symbols: ①–⑦ for the inflection forms, ⨀ singular, ⨂ plural, 🚹🚺🚻 for the genders. `jha`, `la`, `pa`, `gha` and `ga` are Kaccāyana's own technical names: `jha` and `la` are masculine or neuter lemma-endings in `i`/`ī` and `u`/`ū` {58}, `pa` the feminine endings in those vowels {59}, `gha` the feminine ending `ā` {60}, and `ga` the calling form's `si` {57}. The full rules, with Kaccāyana's vutti and the derivation of every form, are at <https://kaccayana.github.io/kaccayana/2-namakappa>.
+This appendix summarises Kaccāyana's Nāmakappa {52}–{270}, the chapter that derives the inflected forms of nouns from their lemmas (`liṅga`). Each row gives the sutta number `{N}`, the sutta's own words, a one-line summary and the example words Kaccāyana cites; after "not" come the counter-examples, where the rule does not apply. The summaries use the book's symbols: ①–⑦ for the inflection forms, ⨀ and ⨂ for multiplicity (singular and plural), 🚹🚺🚻 for the genders. `jha`, `la`, `pa`, `gha` and `ga` are Kaccāyana's own technical names: `jha` and `la` are masculine or neuter lemma-endings in `i`/`ī` and `u`/`ū` {58}, `pa` the feminine endings in those vowels {59}, `gha` the feminine ending `ā` {60}, and `ga` the calling form's `si` {57}. The full rules, with Kaccāyana's vutti and the derivation of every form, are at <https://kaccayana.github.io/kaccayana/2-namakappa>.
 
 ## Paṭhamakaṇḍa: definitions and the lemmas in `a`, `i`, `u`, `ā` {52}–{119}
 
@@ -34,7 +34,7 @@ This appendix summarises Kaccāyana's Nāmakappa {52}–{270}, the chapter that 
 | {64} | `Tassā vā` | Optionally, for `tā` | `tissaṁ`, `tissā`, `tassaṁ`, `tassā` |
 | {65} | `Tato sassa ssāya` | From those, of `sa` inflections there is `ssāya` | `tissāya`, `etissāya`, `imissāya` — not `tissā`, `etissā` |
 | {66} | `Gho rassaṁ` | `gha` becomes short | `tassaṁ`, `tassā`, `yassaṁ`, `yassā` — not `tāsaṁ`, `sabbāsaṁ` |
-| {67} | `No ca dvādito naṁmhi` | And for [numbers] such as `dvi` (2) etc. there is `n` before `naṁ` inflections | `dvinnaṁ`, `tinnaṁ`, `catunnaṁ`, `pañcannaṁ` — not `sahassānaṁ`, `dvīsu` |
+| {67} | `No ca dvādito naṁmhi` | And for [numerals] such as `dvi` (2) etc. there is `n` before `naṁ` inflections | `dvinnaṁ`, `tinnaṁ`, `catunnaṁ`, `pañcannaṁ` — not `sahassānaṁ`, `dvīsu` |
 | {68} | `Amā pato smiṁsmānaṁ vā` | `aṁ`, `ā` from `smiṁ`, `smā` [inflections] of `pa` [words] | `matyaṁ`, `matiyaṁ`, `matyā`, `matiyā` |
 | {69} | `Ādito o ca` | And `o` from `ādi` | `ādiṁ`, `ādo` — not `ādismiṁ`, `ādimhi nāthaṁ namassitvāna` |
 | {70} | `Jhalānamiyuvā sare vā` | Optionally, `iya`, `uva` for `jha`, `la` before vowel | `tiyantaṁ`, `pacchiyāgāre`, `aggiyāgāre`, `bhikkhuvāsane nisīdati` — not `timalaṁ`, `tiphalaṁ` |
@@ -44,7 +44,7 @@ This appendix summarises Kaccāyana's Nāmakappa {52}–{270}, the chapter that 
 | {74} | `Yosu ca` | And in `yo` inflections | `gāvo gacchanti`, `gāvo passanti`, `gāvī gacchanti`, `gāvī passanti` — not `gāvena`, `gāvā` |
 | {75} | `Avamhi ca` | And for `aṁ` inflections | `gāvaṁ`, `gavaṁ`, `gavassa`, `gavo` |
 | {76} | `Āvassu vā` | Optionally, from `āva` to `u` | `gāvuṁ`, `gāvaṁ` — not `gāvo` |
-| {77} | `Tato namaṁ patimhā lutte ca samāse` | From that, `naṁ` becomes `aṁ` before `pati` when inflections are not elided in a compound | `gavaṁpati` — not `gopati`, `gavaṁ` |
+| {77} | `Tato namaṁ patimhā lutte ca samāse` | From that, `naṁ` becomes `aṁ` before `pati` when the endings are not elided in a compound | `gavaṁpati` — not `gopati`, `gavaṁ` |
 | {78} | `O sare ca` | And `o` before vowel | `gavassakaṁ`, `gaveḷakaṁ`, `gavājinaṁ` — not `bhuvi`, `pasavo` |
 | {79} | `Tabbiparītūpapade byañjane ca` | And inverse of that in `upapada` [auxiliary word] before consonant | `uggate sūriye`, `uggacchati`, `uggahetvā` — not `avasāne`, `avakiraṇe` |
 | {80} | `Goṇa naṁmhi vā` | Optionally, `goṇa` before `naṁ` inflections | `goṇānaṁ sattannaṁ` — not `goṇabhūtānaṁ` |
@@ -54,7 +54,7 @@ This appendix summarises Kaccāyana's Nāmakappa {52}–{270}, the chapter that 
 | {84} | `Agho rassamekavacanayosvapi ca` | And not `gha` [vowels become] short in singular `yo` [inflections] also | `itthiṁ`, `itthiyo`, `itthiyā`, `vadhuṁ` — not `kaññaṁ`, `kaññāyo` |
 | {85} | `Na sismimanapuṁsakāni` | No [shortening] for non-neuter words before `si` | `itthī`, `bhikkhunī`, `vadhū`, `daṇḍī` — not `bhoti itthi`, `bhoti vadhu` |
 | {86} | `Ubhādito naminnaṁ` | `ubha` etc.: `naṁ` become `innaṁ` | `ubhinnaṁ`, `duvinnaṁ` — not `ubhayesaṁ` |
-| {87} | `Iṇṇamiṇṇannaṁ tīhi saṅkhyāhi` | From the number `ti` (3) there are `iṇṇaṁ` and `iṇṇannaṁ` [replacements] | `tiṇṇaṁ`, `tiṇṇannaṁ` — not `dvinnaṁ` |
+| {87} | `Iṇṇamiṇṇannaṁ tīhi saṅkhyāhi` | From the numeral `ti` (3) there are `iṇṇaṁ` and `iṇṇannaṁ` [replacements] | `tiṇṇaṁ`, `tiṇṇannaṁ` — not `dvinnaṁ` |
 | {88} | `Yosu katanikāralopesu dīghaṁ` | In `yo` [inflections] replaced with `ni` or elided, [end vowel] is lengthened | `aggī`, `bhikkhū`, `rattī`, `yāgū` — not `aggi`, `bhikkhu` |
 | {89} | `Sunaṁhisu ca` | And in `su`, `naṁ`, `hi` | `aggīsu`, `aggīnaṁ`, `aggīhi`, `rattīsu` — not `agginā`, `pāṇinā` |
 | {90} | `Pañcādīnamattaṁ` | 5 etc. becomes `a` | `pañcasu`, `pañcannaṁ`, `pañcahi`, `chasu` — not `dvīsu`, `dvinnaṁ` |
@@ -160,7 +160,7 @@ This appendix summarises Kaccāyana's Nāmakappa {52}–{270}, the chapter that 
 | {180} | `Netāhi smimāya yā` | No `āya`, `yā` for `smiṁ` after these | `imissaṁ parisāyaṁ`, `etissaṁ`, `etāyaṁ`, `imissaṁ` — not `tāya itthiyā mukhaṁ`, `kaññāya` |
 | {181} | `Manogaṇādito smiṁnānamiā` | `i`, `ā` for `smiṁ`, `nā` after the `mano`-group | `sādhukaṁ manasi karotha`, `manasā ce paduṭṭhena`, `paṭhamena vayasā`, `uttamaṅge sirasmiṁ` — not `mano`, `siro` |
 | {182} | `Sassa co` | `o` for `sa` [after the `mano`-group] | `manaso piyā hadayagāminiyo`, `thāmaso parāmāso na hoti`, `manaso`, `thāmaso` |
-| {183} | `Etesamo lope` | `o` for the final of these when the inflection is elided | `manomayaṁ kāyaṁ upapanno`, `tejosamena cetasā viharāmi`, `kena tapoguṇena`, `manomayaṁ` — not `āposamena cetasā viharāmi`, `āposamena` |
+| {183} | `Etesamo lope` | `o` for the final of these when the ending is elided | `manomayaṁ kāyaṁ upapanno`, `tejosamena cetasā viharāmi`, `kena tapoguṇena`, `manomayaṁ` — not `āposamena cetasā viharāmi`, `āposamena` |
 | {184} | `Sa sare vāgamo` | Optionally `s` inserted before a vowel | `vacasā paricitā manasā anupekkhitā`, `manasā`, `vacasā`, `manasi` — not `dibbena sukhena dibbena yasena`, `manena` |
 | {185} | `Santasaddassa so bhe bo cante` | `sa` for `santa` before `bh`, with `b` inserted | `sabbhireva samāsetha, sabbhi kubbetha santhavaṁ; sataṁ saddhammamaññāya, seyyo hoti na pāpiyo`, `jīranti ve rājarathā sucittā, atho sarīrampi jaraṁ upeti; satañca dhammo na jaraṁ upeti, santo have sabbhi pavedayanti`, `sabbhi`, `sabbhūto` — not `santehi pūjito bhagavā`, `santo santehi saha purāṇajaṭilehi` |
 | {186} | `Simhigacchantādīnaṁ ntasaddo aṁ` | `nta` of `gacchanta` and the like becomes `aṁ` before `si` | `gacchaṁ vadesi samaṇa ṭhitomhi`, `carañce nādhigaccheyya, seyyaṁ sadisamattano`, `khādaṁ nāgassa maṁsāni, pivaṁ bhāgīrathodakaṁ`, `gacchaṁ` — not `danto seṭṭho manussesu`, `anto` |

@@ -4,7 +4,7 @@ sidebar:
   label: "8: Verbs"
   order: 543
 description: >
-  The verb form: the voice, the time, the person and the number its ending, class suffix, and the verb-like forms, participles, absolutives and infinitives
+  The voice, time, person and multiplicity of a verb form; its ending and class suffix; and the verb-like forms, participles, absolutives and infinitives
 categories: ["palibook"]
 tags: ["ākhyāta", "kita"]
 ---
@@ -17,8 +17,8 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 Chapter 1 introduced the verbs and the verb-like forms in two sections; this chapter deepens them, with the endings and classes from Kaccāyana's Ākhyātakappa and Kibbidhānakappa. Its examples and exercises are sentences from the texts of chapters 3, 5, 7 and 9 and the bonus chapter. The text that follows it is chapter 9, the Fire Sermon.
 :::
 
-A verb (`ākhyāta`) is a root (`dhātu`) with an ending that says who acts, how
-many, when, and whether the subject acts or is acted on. Kaccāyana has a
+A verb (`ākhyāta`) is a root (`dhātu`) with an ending that marks its person,
+multiplicity, time and whether the subject acts or is acted on. Kaccāyana has a
 hundred and twenty rules on verb endings; a reader needs only to
 tell them apart, and this chapter has the table of what each ending looks like,
 with the sentences of chapters 3, 5, 7 and 9 and the bonus chapter as its examples. Often, a Pāḷi sentence may not contain a finite verb at all but a verb-like
@@ -27,7 +27,7 @@ noun, a participle, an absolutive or an infinitive, so the chapter ends with tho
 ```mermaid
 flowchart LR
   V["a verb form: root + vikaraṇa + ending"] --> T["the time or mood"]
-  V --> P["the person and number"]
+  V --> P["the person and multiplicity"]
   V --> W["the voice"]
   T --> T1["vattamānā: now, -ti"]
   T --> T2["pañcamī: command, -tu"]
@@ -43,14 +43,14 @@ How to read a verb, based on it's reading:
 
 ```mermaid
 flowchart TD
-  Q1["1. What is the ending? it gives the time, the person and the number (8.1–8.5)"] --> Q2["2. Is there -īya-, -e- or -āpe- before it? passive or causative (8.6)"]
+  Q1["1. What is the ending? it gives the time, the person and the multiplicity (8.1–8.5)"] --> Q2["2. Is there -īya-, -e- or -āpe- before it? passive or causative (8.6)"]
   Q2 --> Q3["3. What is left? the root, to look up in Appendix D (8.7)"]
   Q3 --> Q4["Not a finite ending at all? a participle, absolutive or infinitive (8.8)"]
 ```
 
 | section | covers | Kaccāyana | appendix |
 | :-: | --- | --- | :-: |
-| [8.1](../8-1-reading-a-verb/) | what a verb form tells you: the eight sets of endings and their times, person and number, the symbols the book uses | {406}–{431} | [I](../i-verbs/) |
+| [8.1](../8-1-reading-a-verb/) | what a verb form tells you: the eight sets of endings and their times, person and multiplicity, the symbols the book uses | {406}–{431} | [I](../i-verbs/) |
 | [8.2](../8-2-present/) | the present (`vattamānā`): `-ti`, `-nti`, `-si`, `-mi`, and the eight classes that put `a`, `ya`, `ṇā`, `o` or `e` before the ending | {414}, {423}, {445}–{453} | [I](../i-verbs/), [D](../d-roots/) |
 | [8.3](../8-3-commands/) | commands and wishes: `pañcamī` (`ehi`, `caratha`, `desetu`) and `sattamī` (`labheyyaṁ`, `pabbajeyyaṁ`, `kareyya`) | {415}–{416}, {424}–{425} | [I](../i-verbs/) |
 | [8.4](../8-4-past/) | the past: `ajjatanī` (`udapādi`, `nisīdi`, `āmantesi`, `ahosi`, `avoca`, `paccaññāsiṁ`), the `a-` put before the root, and the rarer `hiyyattanī` and `parokkhā` (`āha`) | {417}–{419}, {428}–{430}, {519} | [I](../i-verbs/) |

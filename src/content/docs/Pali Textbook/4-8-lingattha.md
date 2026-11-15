@@ -4,7 +4,7 @@ sidebar:
   label: "4.8: `liṅgattha`, `ālapana`"
   order: 531
 description: >
-  The two uses of the ① ending that name no `kāraka`: a word that simply
+  The two uses of the ① inflection form that name no `kāraka`: a word that simply
   names its thing, `puriso` ("a man") {284}, and a word that calls the person
   spoken to, `bho purisa` ("sir, man!"), which this book marks ⓪ {285}.
   Chapter 1 gives the names other grammars use for them.
@@ -16,12 +16,12 @@ tags: ["kāraka", "liṅgattha", "ālapana"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-Not every word with the ① ending is the doer of an action. A `kāraka` names
+Not every word in the ① inflection form is the doer of an action. A `kāraka` names
 what a noun is doing in relation to an action; the two uses in this section
 name none. In the `liṅgattha` ("the meaning of the lemma") use the word
 simply names its thing, `puriso` ("a man"); in the `ālapana` ("addressing")
 use it calls the person spoken to, `bho purisa` ("sir, man!"), before
-anything is asked of them. They open Kaccāyana's list of what each ending
+anything is asked of them. They open Kaccāyana's list of what each inflection form
 does {284}–{285}, and they close this chapter.
 
 The question to ask is whether the word is aimed at the listener. `rūpaṁ`
@@ -30,15 +30,15 @@ The question to ask is whether the word is aimed at the listener. `rūpaṁ`
 book marks the second kind ⓪, as chapter 1 does, since its singular usually
 differs from the ① form: `purisa` ("man!") beside `puriso` ("a man").
 
-### The two uses of the ① ending
+### The two uses of the ① inflection form
 
 | what the word is doing | what you see | example | rule |
 | --- | --- | --- | :-: |
-| it simply names its thing, and nothing more is said of it (`liṅgattha`) | the ① ending on a noun or a numeral; or a particle (`nipāta`), which has no gender, number or ending at all and stands under the same rule | `puriso` ("a man"), `purisā` ("men"), `eko` ("one"), `dve` ("two"), `ca` ("and"), `vā` ("or") | {284} |
-| it calls the person spoken to (`ālapana`); this book marks it ⓪ | the ① ending with the sense of calling added, usually after a word of address; the singular usually differs from the ① form, the plural is mostly the same | `bho purisa` ("sir, man!"), `bhavanto purisā` ("sirs, men!"), `he sakhe` ("hey, friend!"), `bhikkhave` ("monks!") | {285} |
+| it simply names its thing, and nothing more is said of it (`liṅgattha`) | the ① inflection form on a noun or a numeral; or a particle (`nipāta`), which has no gender, multiplicity or inflection form and takes no inflectional suffix, under the same rule | `puriso` ("a man"), `purisā` ("men"), `eko` ("one"), `dve` ("two"), `ca` ("and"), `vā` ("or") | {284} |
+| it calls the person spoken to (`ālapana`); this book marks it ⓪ | the ① inflection form with the sense of calling added, usually after a word of address; the singular usually differs from the ① form, the plural is mostly the same | `bho purisa` ("sir, man!"), `bhavanto purisā` ("sirs, men!"), `he sakhe` ("hey, friend!"), `bhikkhave` ("monks!") | {285} |
 
-The ⓪ has no ending of its own: its singular ending is the ① ending `si`,
-renamed `ga` for it {57}, which is why it counts as a use of the ① ending
+The ⓪ has no separate ending marker of its own: its singular uses the literal ending `si` of
+the ① inflection form, renamed `ga` for it {57}, which is why it counts as a use of the ① inflection form
 and why its singular looks different, `purisa`, `rāja`, `sakhe`. In the
 plural the two are usually one form, `purisā`, `rājāno`, `sakhino`, that
 only the sentence tells apart, though `bhikkhu` has `bhikkhave` {116}. The
@@ -64,7 +64,7 @@ among them {116}.
 
 🚹⨀①(purisa)  
 a man  
-*"A man" {284}: the ① ending names him, and nothing is said of what he does.*
+*"A man" {284}: the ① inflection form names him, and nothing is said of what he does.*
 
 > **bho purisa**
 
@@ -135,4 +135,4 @@ the eye / Bhikkhave / burning / forms / burning / eye-consciousness / burning / 
 
 Every word but `bhikkhave` (⓪ {285}) is in ① {284}: `cakkhu`, `rūpā`,
 `cakkhuviññāṇaṁ` and `cakkhusamphasso` name their things in four shapes of the
-ending, and each `āditta` takes the gender and number of its noun.
+ending, and each `āditta` takes the gender and multiplicity of its noun.

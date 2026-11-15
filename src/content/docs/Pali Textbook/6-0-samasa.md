@@ -74,7 +74,7 @@ full rule in the Kaccāyana translation.
 | [6.2](../6-2-abyayibhava/) | `abyayībhāva` | adverbial | a prefix or particle first | {319}–{320}, {341}–{343} |
 | [6.3](../6-3-kammadharaya/) | `kammadhāraya` | appositional | two words with the same referent | {324}, {330}–{336} |
 | [6.4](../6-4-digu/) | `digu` | numeral | a numeral first | {325}, {321} |
-| [6.5](../6-5-tappurisa/) | `tappurisa` | determinative | a word in the ② to ⑦ ending with the word that follows | {327}, {326} |
+| [6.5](../6-5-tappurisa/) | `tappurisa` | determinative | a word in one of the inflection forms ② to ⑦, joined to the word that follows | {327}, {326} |
 | [6.6](../6-6-bahubbihi/) | `bahubbīhi` | attributive | the compound names a third thing | {328} |
 | [6.7](../6-7-dvanda/) | `dvanda` | copulative | nouns combined with "and" | {329}, {322}–{323} |
 | [6.8](../6-8-samasanta/) | the end of a compound | — | — | {337}–{340} |

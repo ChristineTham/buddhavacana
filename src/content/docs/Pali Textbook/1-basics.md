@@ -299,7 +299,7 @@ when applying the various transformation rules (see below).
 ## `nāma` (nouns) {52}
 
 :::tip[Going deeper]
-Chapter [2](../2-0-nama/) tables the endings of every kind of noun, and chapter [4](../4-0-karaka/) what each ending says a noun is doing in the sentence.
+Chapter [2](../2-0-nama/) tables each kind of noun's inflection forms and their endings; chapter [4](../4-0-karaka/) explains what each inflection form says a noun is doing in the sentence.
 :::
 
 `nāma` are the most common type of words in Pāḷi, and roughly (but not exactly)
@@ -432,7 +432,7 @@ word then depends on:
 Here is a table of `purisa` transformed in all the 7 vibhattis and
 singular vs plural.
 
-| number | vibhatti | ending | transformation | sutta | result |
+| multiplicity | vibhatti | ending | transformation | sutta | result |
 | :-: | :-: | :-: | --- | --- | --- |
 | ⨀ | ① | `si` | puris~~a~~ + ~~si~~o | {104} | `puriso` |
 | ⨂ | ① | `yo` | puris~~a~~ + ~~yo~~ā | {107} | `purisā` |
@@ -465,7 +465,7 @@ use for a given sentence? It depends on the "sound" - a "native" Pāḷi speaker
 have chosen the version that sounded the most pleasing, depending on surrounding
 words.
 
-The multiple different variants of inflection forms can also be due to Pāḷi being an
+The variation among inflection forms can also come from Pāḷi being an
 amalgamation of different Middle Indo Aryan dialects. As @Norman1997 explains:
 
 > It is, for example, not always understood by non-specialists that an early Pāli canonical sutta is itself a translation, and forms which were left untranslated when the Pāli recension was made from some earlier version can sometimes be identified.
@@ -871,12 +871,12 @@ meanings.
 
 ### Numbers
 
-Pāḷi numbers have their own set of `taddhita` affixes (to denote "first",
+Pāḷi numerals have their own set of `taddhita` affixes (to denote "first",
 "second", "third" etc.)
 
 | type | name | affix | rule | `liṅga` | notes |
 | :-: | :-: | :-: | :-: | :-: | --- |
-| `Saṅkhyā Taddhita` | Numbers | `ma` | {373} | variable | |
+| `Saṅkhyā Taddhita` | Numerals | `ma` | {373} | variable | |
 | | | `ī` | {375} | 🚺 | |
 | | | `ti` | {378},{389} | 🚺 | derivative morpheme |
 | | | `tiya` | {385} | variable | |
@@ -911,8 +911,8 @@ adjectives.
 
 ### Abyaya affixes applied after Sabbanāma-nouns
 
-These are often used as a substitute or replacement for inflection endings
-(particularly ⑤ and ⑦), since they take no inflection. They also have no
+These often replace the literal word endings of the ⑤ and ⑦ inflection forms,
+since the affixes themselves take no inflection. They also have no
 `liṅga` (gender).
 
 | use | affix | rule |
@@ -941,7 +941,7 @@ depend on:
 * voice {406}-{407}
   * 🟢 = `parassapada` (active)
   * 🔵 = `attanopada` (middle) - impersonal
-* number
+* multiplicity
   * ⨀ = `ekavacana` (singular)
   * ⨂ = `bahuvacana` (plural)
 * person {408}-{412} (if more than one, the last applies)
@@ -1009,7 +1009,7 @@ The plural form `bahuvacana` (⨂) undergoes a similar transformation:
 → `gacch` + `a` + ~~`a`~~`nti` {510}  
 → `gacchanti`
 
-| voice | number | person | tense | ending | transformation | rule | result | irregular forms |
+| voice | multiplicity | person | tense | ending | transformation | rule | result | irregular forms |
 | :-: | :-: | :-: | :-: | :-: | --- | :-: | --- | --- |
 | 🟢 | 🤟 | ⨀ | ▶️ | `ti` | gacch + a + ti | {445} | `gacchati` | `gacche` |
 | 🟢 | 🤟 | ⨂ | ▶️ | `anti` | gacch + anti |  | `gacchanti` | `gacchare` |
@@ -1147,7 +1147,7 @@ Example transformation (based on the root `paca` (to cook)):
 The full set of `attanopada` (🔵) endings in the present tense `vattamānā`
 (▶️) across the 3 persons and plurality:
 
-| voice | number | person | tense | ending | transformation | result |
+| voice | multiplicity | person | tense | ending | transformation | result |
 | :-: | :-: | :-: | :-: | :-: | --- | --- |
 | 🔴 | 🤟 | ⨀ | ▶️ | `te` | pa~~ca~~  + ~~y~~(cc)a + te | `paccate` |
 | 🔴 | 🤟 | ⨂ | ▶️ | `ante` | pa~~ca~~  + ~~y~~(cc)a + ante | `paccante` |
@@ -1159,7 +1159,7 @@ The full set of `attanopada` (🔵) endings in the present tense `vattamānā`
 Because the middle voice is seldom used, rule {518} allows these verbs to be
 retransformed into "reversed" `parassapada` (🟢) endings:
 
-| voice | number | person | tense | ending | transformation | result |
+| voice | multiplicity | person | tense | ending | transformation | result |
 | :-: | :-: | :-: | :-: | :-: | --- | --- |
 | 🔴 | 🤟 | ⨀ | ▶️ | `ti` | pacca~~te~~ + ti | `paccati` |
 | 🔴 | 🤟 | ⨂ | ▶️ | `anti` | pacc~~ante~~ + anti | `paccanti` |
@@ -1218,7 +1218,7 @@ affix `ṇe`:
 The full set of causative versions of the `vattamānā` (▶️) forms of
 the root `paca` (to cook) using `parassapada` (🟢) endings:
 
-| voice | number | person | tense | ending | causative | transformation | result | irregular forms |
+| voice | multiplicity | person | tense | ending | causative | transformation | result | irregular forms |
 | :-: | :-: | :-: | :-: | :-: | :-: | --- | --- | --- |
 | 🟠 | 🤟 | ⨀ | ▶️ | `ti` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~e + ti | `pāceti` | |
 | 🟠 | 🤟 | ⨀ | ▶️ | `ti` | `ṇaya` | p~~a~~(ā)c~~a~~ + ~~ṇ~~aya + ti | `pācayati` | |
@@ -1265,7 +1265,7 @@ affix `ṇe` and the passive affix `ya`:
 → `pāc` + `i` + `ya` + `ti` {516}  
 → `pāciyati` ("is caused to be cooked")
 
-| voice | number | person | tense | ending | causative | transformation | result |
+| voice | multiplicity | person | tense | ending | causative | transformation | result |
 | :-: | :-: | :-: | :-: | :-: | :-: | --- | --- |
 | 🟠🔴 | 🤟 | ⨀ | ▶️ | `ti` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇe~~ + i + ya + ti | `pāciyati` |
 | 🟠🔴 | 🤟 | ⨀ | ▶️ | `ti` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āp~~e~~ + i + ya + ti | `pācāpiyati` |
@@ -1644,7 +1644,7 @@ Examples:
 ## `sādhana`
 
 The process of attaching either `kita` or `uṇādi` affixes to create new words
-is called `sādhana`. Like `kāraka` (the syntax of the `vibhatti` endings),
+is called `sādhana`. Like `kāraka` (the syntax of the inflection forms),
 `sādhana` affixed words can be associated with specific usage meanings.
 
 `sādhana`-affixed words can be associated with a voice (`kattu`, `kamma`,
@@ -1702,7 +1702,7 @@ lying down, to be done (future passive participle) / by Your Honourable
 
 ### `sādhana` associated meanings and usage
 
-The associated meanings are rather weak compared to the inflection endings (`vibhatti`)
+The associated meanings are rather weak compared to the inflection forms (`vibhatti`)
 and can sometimes have no significant role.
 
 | association | example | meaning | rule | usage |
@@ -1786,14 +1786,14 @@ ending.
 ```mermaid
 flowchart LR
   W["a word in a sentence"] --> A["abyaya: never changes"]
-  W --> N["nāma: carries a noun ending ①…⑦ ⓪, ⨀ or ⨂"]
+  W --> N["nāma: noun inflection form ①…⑦ or ⓪, multiplicity ⨀ or ⨂"]
   W --> V["ākhyāta: carries a verb ending (chapter 8)"]
   A --> A1["upasagga: a prefix (2.6)"]
   A --> A2["nipāta: a particle (2.7)"]
   A --> A3["an absolutive -tvā or an infinitive -tuṁ (8.8)"]
   N --> N1["a noun or an adjective (2.2, 2.3)"]
   N --> N2["sabbanāma: a pronoun (2.4)"]
-  N --> N3["saṅkhyā: a number (2.5)"]
+  N --> N3["saṅkhyā: a numeral (2.5)"]
   N --> N4["samāsa: a compound (chapter 6)"]
   N --> N5["taddhita, kita, uṇādi: a derived word (chapter 10)"]
   N --> N6["a participle -ta, -anta, -māna, -tabba (8.8)"]
@@ -1821,7 +1821,7 @@ Index of endings: [`-a`](#e-a) · [`-amhi`](#e-amhi) · [`-asi`](#e-asi) · [`-a
 a particle or an adverb | 55 | `ca`, `na`, `pana`, `idha`
 a word in `-aṁ`, `-iṁ` or `-uṁ` with `ca` joined on, its `ṁ` turned into `ñ` | 10 | `khandhañca` (`khandhaṁ` + `ca`), `cakkhuñca` (`cakkhuṁ` + `ca`)
 🚹⨀⓪ | 10 | `mahārāja`, `ānanda`
-a number | 5 | `pañca`, `cha`
+a numeral | 5 | `pañca`, `cha`
 an absolutive in `-ya` | 5 | `paṭicca`, `upasampajja`
 ```
 
@@ -2054,7 +2054,7 @@ a verb with `iti` joined on | 10 | `uppajjatīti`
 ```endings
 -i · 53.4 in every thousand words · see [2.7](../2-7-nipata/), [8.7](../8-7-common-verbs/), [2.2](../2-2-nouns/), [8.4](../8-4-past/)
 a particle | 45 | `ti`, `hi`, `pi`, `iti`
-a number | 10 | `tīṇi`, `cattāri`
+a numeral | 10 | `tīṇi`, `cattāri`
 `atthi`, `natthi` | 5 |
 ⨀① or ⓪ of a lemma in `-i` | 5 | `samādhi`, `jāti`
 ⏮🤟⨀, the past, when a root stands before it | 5 | `nisīdi`, `udapādi`
@@ -2077,7 +2077,7 @@ a participle with `iti` joined on | 5 | `avigatanti`
 the pronouns `tehi`, `imehi` | 15 |
 🚻⨂③ or ⑤ | 15 | `aṅgehi`, `ṭhānehi`
 an adjective agreeing with its noun | 10 | `dibbehi`
-a number | 10 | `catūhi`, `tīhi`
+a numeral | 10 | `catūhi`, `tīhi`
 🚺⨂③ or ⑤ | 5 | `dhātūhi`, `gāthāhi`
 ⏹🤘⨀, "you …!" | 5 | `dehi`, `jānāhi`
 ```
@@ -2180,7 +2180,7 @@ a sandhi join with `assu` inside | 5 | `kudāssu`
 🚻⨂⑦ | 15 | `indriyesu`, `sikkhāpadesu`
 an adjective or a participle agreeing with its noun | 15 | `aṇumattesu`, `sattesu`
 🚺⨂⑦ | 10 | `vedanāsu`
-a number | 10 | `dvīsu`, `catūsu`
+a numeral | 10 | `dvīsu`, `catūsu`
 the pronouns `tesu`, `imesu` | 5 |
 ```
 

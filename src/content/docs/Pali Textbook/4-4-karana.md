@@ -5,8 +5,8 @@ sidebar:
   order: 527
 description: >
   The thing an action is done with, `dattena` ("with a sickle"), is the
-  `karaṇa` (the instrument) and takes the ③ ending {279}, {286}. The same
-  ending marks the companion after `saha`, the doer of a passive verb, a
+  `karaṇa` (the instrument) and takes the ③ inflection form {279}, {286}. The same
+  form marks the companion after `saha`, the doer of a passive verb, a
   cause, a time, a defective limb and a distinguishing attribute {287}–{292}.
 categories: ["palibook"]
 tags: ["kāraka", "karaṇa"]
@@ -18,11 +18,11 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 
 Many sentences name the thing an action is done with: the sickle the rice is
 reaped with, the eye a form is seen with. Kaccāyana calls that thing the `karaṇa` ("the instrument") {279}, and the noun
-that names it takes the ③ ending {286}: `dattena` ("with a sickle") from
+that names it takes the ③ inflection form {286}: `dattena` ("with a sickle") from
 `datta`, `cakkhunā` ("with the eye") from `cakkhu`, `agginā` ("with fire") from
 `aggi`. English says "with" or "by".
 
-The ending does more work than this. When the verb is passive, "the boon
+This inflection form does more work than this. When the verb is passive, "the boon
 given by the yakkha", the one who did the giving stands in ③ {288}; a ③ noun
 goes with `saha` and `saddhiṁ` ("together with") {287}; and ③ can also give
 the reason for an action, the time at which it happens, the limb a defect
@@ -31,13 +31,13 @@ a ③ noun is "with what, or by whom?" — the Fire Sermon asks it of itself, `k
 ādittaṁ?`, "burning with what?" ([9: 75](../9-fire/#u2-5)) — and if neither
 fits, "why, or when?".
 
-The ③ ending looks like `-ena` (`kāyena`, "with the body"), `-āya`
+The literal word-endings that express ③ include `-ena` (`kāyena`, "with the body"), `-āya`
 (`vijjāya`, "by knowledge"), `-inā` and `-unā` (`agginā`, `cakkhunā`) or a
 bare `-ā` (`raññā`, "by the king"; `manasā`, "with the mind"), and in the
 plural `-ehi`, `-ebhi` or `-hi` (`viññūhi`, "by the wise");
 [Appendix G](../g-vibhatti/) tables them all.
 
-### The uses of the ③ ending
+### The uses of the ③ inflection form
 
 | what the noun is doing | what you see | example | rule |
 | --- | --- | --- | :-: |
@@ -45,16 +45,16 @@ plural `-ehi`, `-ebhi` or `-hi` (`viññūhi`, "by the wise");
 | accompanied by: the companion of `saha` or `saddhiṁ` ("together with"), `vinā` ("without") or `samaṁ` ("equal to") | one of those words next to a ③ noun | `mahatā bhikkhusaṅghena saddhiṁ` ("together with a great community of monks") | {287} |
 | the doer (`kattā`) of a passive verb: the one by whom the thing was done | a ③ noun with a passive verb, often a word in `-ta` such as `hato` ("killed") | `yakkhena dinno varo` ("the boon [was] given by the yakkha") | {288} |
 | the cause (`hetu`): the reason for the action (the same word names the causer of [4.6](../4-6-katta/) {282}) | a ③ noun that answers "why?", "because of" | `annena vasati` ("[he] stays because of food") | {289} |
-| the time, in the sense of the ⑦ ending | `tena samayena`, the opening of countless passages ([3: 2](../3-awakening/#u2-1)) | `tena kālena` ("at that time") | {290} |
+| the time, in the sense of the ⑦ inflection form | `tena samayena`, the opening of countless passages ([3: 2](../3-awakening/#u2-1)) | `tena kālena` ("at that time") | {290} |
 | the limb a defect sits in | a part of the body in ③ beside the word for the defect | `akkhinā kāṇo` ("one-eyed in the eye") | {291} |
 | the distinguishing attribute (`visesana`): the clan or quality someone is known by | a ③ noun beside a name or a word of praise | `gottena gotamo nātho` ("the Protector [is] a Gotama by clan") | {292} |
 
-Three rules elsewhere touch the same ground. The ② ending is sometimes found
+Three rules elsewhere touch the same ground. The ② inflection form is sometimes found
 where ③ is expected {307} ([4.5](../4-5-kamma/)); with `maṇḍita`
-("gladdened") and `ussukka` ("zealous") either ③ or ⑦ is used {315}
+("gladdened") and `ussukka` ("zealous") either the ③ or ⑦ inflection form is used {315}
 ([4.3](../4-3-okasa/)); and the doer of a passive verb sometimes takes the
-⑥ ending instead, `kato me kalyāṇo` ("good has been done by me") {308}
-([4.7](../4-7-sami/)). With an active verb the doer takes the ① ending
+⑥ inflection form instead, `kato me kalyāṇo` ("good has been done by me") {308}
+([4.7](../4-7-sami/)). With an active verb the doer takes the ① inflection form
 {284} ([4.6](../4-6-katta/)).
 
 ### Examples
@@ -85,8 +85,8 @@ by the yakkha / given / the boon
 
 ### Exercises
 
-Translate the following from Pāḷi to English. Each has a word with the ③
-ending: find it and say which row of the table it belongs to. Look up the
+Translate the following from Pāḷi to English. Each has a word in the ③
+inflection form: find it and say which row of the table it belongs to. Look up the
 words in a dictionary, perform the necessary sandhi and compound word
 deconstruction, and take note of the `vibhatti` endings to deduce the meaning
 of the sentence. Each is a sentence or phrase from the texts of chapters 3, 5 and 9

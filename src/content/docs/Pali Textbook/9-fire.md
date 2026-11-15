@@ -21,7 +21,7 @@ This is the fourth of the interlinear translations, placed after chapter 8 becau
 
 The text is the World Tipiṭaka Edition's [Ādittapariyāyasutta, Saṁyutta Nikāya 35.28](https://tipitaka2500.github.io/tipitaka/13S4/1/1.1/1.1.3/1.1.3.6.html), paragraphs 75–77. The edition gives the sermon as a single paragraph with the ear, nose and body sections and most of the closing passage abbreviated (`…pe…`); here every section is written out in full; the edition's number 75 stands once, on the sermon's first sentence, and the sections it abbreviates follow unnumbered, then 76 is the edition's closing paragraph and 77 its colophon. The discourse was given at Gayāsīsa to the thousand bhikkhū who had been fire-worshipping ascetics under the three Kassapa brothers; the Vinaya tells it in the Mahākhandhaka, and the translation line of each sentence follows my translation of that telling at [tidipa.github.io](https://tidipa.github.io/Khandhaka/1.12). Read it after chapter 8: the sermon is one sentence pattern repeated for six senses, so its verbs, `ādittaṁ`, `uppajjati`, `nibbindati`, `virajjati`, `vimuccati`, `pajānāti`, and its compounds can be read off by the second round.
 
-The analysis line gives, for every word, its gender, number and ending (or voice, number, person and tense for a verb) and the lemma to look up; the gloss line gives one gloss per word; the fourth line is the translation.
+The analysis line gives, for every word, its gender, multiplicity and inflection form (or voice, multiplicity, person and tense for a verb) and the lemma to look up; the gloss line gives one gloss per word; the fourth line is the translation.
 
 ### 1. All is burning
 

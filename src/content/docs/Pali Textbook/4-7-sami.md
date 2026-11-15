@@ -4,11 +4,11 @@ sidebar:
   label: "4.7: `sāmī`"
   order: 530
 description: >
-  The ⑥ ending marks the owner, the "of" or "'s" of English: `tassa bhikkhuno
-  patto` is "that monk's bowl" {283}, {301}. The same ending goes with words
+  The ⑥ inflection form marks the owner, the "of" or "'s" of English: `tassa bhikkhuno
+  patto` is "that monk's bowl" {283}, {301}. The same form goes with words
   such as `sāmī` (owner) and `kusala` (skilled) {303}, marks the group a thing
   is singled out from {304} and a person whose doing is disregarded {305}, and
-  in some places stands in for the ③, ⑦, ② and ⑤ endings {308}–{309}.
+  in some places stands in for the ③, ⑦, ② and ⑤ inflection forms {308}–{309}.
 categories: ["palibook"]
 tags: ["kāraka", "sāmī"]
 ---
@@ -17,14 +17,14 @@ tags: ["kāraka", "sāmī"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-Where English says "of" or adds "'s", Pāḷi puts the ⑥ ending on the owner and
-leaves the thing owned in the ending its own part in the sentence gives it.
+Where English says "of" or adds "'s", Pāḷi puts the ⑥ inflection form on the owner and
+leaves the thing owned to take the inflection form required by its own part in the sentence.
 Kaccāyana calls the one who has a thing as a possession (`pariggaha`) the
-`sāmī` (owner) {283}, and the ⑥ is the owner's ending {301}: in `tassa
+`sāmī` (owner) {283}, and the ⑥ is the owner's inflection form {301}: in `tassa
 bhikkhuno patto` ("that monk's bowl") the ⑥ sits on `tassa bhikkhuno` ("of
-that monk"), while `patto` (the bowl) keeps its ① ending.
+that monk"), while `patto` (the bowl) keeps its ① inflection form.
 
-The ⑥ is on nearly every page and mostly means no more than "of": the bank of
+The ⑥ inflection form appears on nearly every page and mostly means no more than "of": the bank of
 the river, the origin of suffering, the teaching of the Buddhas. The rule's `vā`
 ("or") lets the Padarūpasiddhi take `sāmī` beyond owning to every relation
 English renders with "of": a part and its whole, a group and its members. Ask
@@ -32,7 +32,7 @@ of a ⑥ word "whose, or of what?" and, when no "of" makes sense, which other
 use in the table it is; every rule number links to the full rule in the
 Kaccāyana translation.
 
-### The uses of the ⑥ ending
+### The uses of the ⑥ inflection form
 
 | what the noun is doing | what you see | example | rule |
 | --- | --- | --- | :-: |
@@ -49,9 +49,9 @@ The `kvaci` ("in some places") of {308}–{309} means the ⑥ does not always
 stand in: `mayā` keeps its ③ and `atthesu` its ⑦ in the rule's own
 counter-examples.
 
-### What the ⑥ ending looks like
+### What the ⑥ inflection form looks like
 
-The ⑥ endings are `sa` ⨀ and `naṁ` ⨂ {55}; these are their shapes on the
+The literal endings of the ⑥ inflection form are `sa` ⨀ and `naṁ` ⨂ {55}; these are their shapes on the
 words a beginner meets most ([Appendix G](../g-vibhatti/)
 tables every ending rule).
 
@@ -71,7 +71,7 @@ tables every ending rule).
 
 *️⃣🤟🚹⨀⑥(ta) 🚹⨀⑥(bhikkhu) 🚹⨀①(paṭivīsa)  
 of that / monk / the share  
-*The share of that monk: the owner takes the ⑥, the thing owned keeps its own ending {283}, {301}.*
+*The share of that monk: the owner takes the ⑥ inflection form, the thing owned keeps its own inflection form {283}, {301}.*
 
 > kaṇhā **gāvīnaṁ** sampannakhīratamā
 
@@ -142,4 +142,4 @@ delighted / those / bhikkhū / of the Bhagavā / what was spoken / rejoiced in
 
 `bhagavato`: the owner of the words, ⑥ {301}, the `-ato` of `bhagavant`
 (section [2.3](../2-3-irregular/)); `bhāsitaṁ`, the thing owned, keeps its own
-ending, ② as the object.
+inflection form, ② as the object.

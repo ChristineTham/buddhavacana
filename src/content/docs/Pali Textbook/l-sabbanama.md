@@ -412,7 +412,7 @@ In the feminine the rest is the same, and in the neuter the rest is as the mascu
 
 ## The `sabbanāma` rules in Kaccāyana
 
-Each row gives the sutta number `{N}`, the sutta's own words, a one-line summary and the example words Kaccāyana cites; after "not" come the counter-examples, where the rule does not apply. The summaries use the book's symbols: ①–⑦ for the inflection forms, ⨀ singular, ⨂ plural, 🚹🚺🚻 for the genders. The full rules are at <https://kaccayana.github.io/kaccayana/2-namakappa>.
+Each row gives the sutta number `{N}`, the sutta's own words, a one-line summary and the example words Kaccāyana cites; after "not" come the counter-examples, where the rule does not apply. The summaries use the book's symbols: ①–⑦ for the inflection forms, ⨀ and ⨂ for multiplicity (singular and plural), 🚹🚺🚻 for the genders. The full rules are at <https://kaccayana.github.io/kaccayana/2-namakappa>.
 
 ### `tumha`, `amha` and the pronominal endings {161}–{183}
 
@@ -440,7 +440,7 @@ Each row gives the sutta number `{N}`, the sutta's own words, a one-line summary
 | {180} | `Netāhi smimāya yā` | No `āya`, `yā` for `smiṁ` after these | `imissaṁ parisāyaṁ`, `etissaṁ`, `etāyaṁ`, `imissaṁ` — not `tāya itthiyā mukhaṁ`, `kaññāya` |
 | {181} | `Manogaṇādito smiṁnānamiā` | `i`, `ā` for `smiṁ`, `nā` after the `mano`-group | `sādhukaṁ manasi karotha`, `manasā ce paduṭṭhena`, `paṭhamena vayasā`, `uttamaṅge sirasmiṁ` — not `mano`, `siro` |
 | {182} | `Sassa co` | `o` for `sa` [after the `mano`-group] | `manaso piyā hadayagāminiyo`, `thāmaso parāmāso na hoti`, `manaso`, `thāmaso` |
-| {183} | `Etesamo lope` | `o` for the final of these when the inflection is elided | `manomayaṁ kāyaṁ upapanno`, `tejosamena cetasā viharāmi`, `kena tapoguṇena`, `manomayaṁ` — not `āposamena cetasā viharāmi`, `āposamena` |
+| {183} | `Etesamo lope` | `o` for the final of these when the ending is elided | `manomayaṁ kāyaṁ upapanno`, `tejosamena cetasā viharāmi`, `kena tapoguṇena`, `manomayaṁ` — not `āposamena cetasā viharāmi`, `āposamena` |
 
 ### `atta`, `ta`, `eta`, `ima`, `amu`, `kiṁ` and the rest {211}–{236}
 

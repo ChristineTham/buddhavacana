@@ -17,13 +17,13 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
 Section [8.1](../8-1-reading-a-verb/) read a verb from its ending: the time,
-the person and the number. Two pieces that sit between the root and that
+the person and the multiplicity. Two pieces that sit between the root and that
 ending change who the subject of the sentence is. With `ya` the verb is
 passive (`kamma`, 🔴): the subject is the thing acted on, `ayaṁ vuccati`
-("this is said"), and the one who acts, if named at all, takes the ③ ending
+("this is said"), and the one who acts, if named at all, takes the ③ inflection form
 {288}. With `e`, `aya`, `āpe` or `āpaya` it is causative (`kārita`, 🟠): the
 subject makes someone else act, `kāreti` ("makes [him] do"), and the one made
-to act takes the ② ending, or ③ {300}.
+to act takes the ② inflection form, or ③ {300}.
 
 So once the ending is read, ask what sits just before it. Kaccāyana gives the
 passive the `attanopada` endings (🔵, `-te`, `-ante`) {453}, `vuccate`, but the
@@ -118,7 +118,7 @@ The passive piece inside a participle of [8.8](../8-8-verb-like-forms/), with th
 *️⃣🤟🚻⨀⑦(ima) ⏏️(ca) ⏏️(pana) 🚻⨀⑦(veyyākaraṇa) 🚻⨀⑦🔽(māna)(bhaññamāna)  
 in this / and / moreover / detailed exposition / being spoken  
 *And while this detailed exposition was being spoken*  
-*`bhaññamāne`: `bhaṇa` + `ya`, `ṇ` and `ya` one `ññ` {441}, then `-māna` and the ⑦ ending; the exposition is what is spoken, not the speaker.*
+*`bhaññamāne`: `bhaṇa` + `ya`, `ṇ` and `ya` one `ññ` {441}, then `-māna` and the ⑦ inflection form; the exposition is what is spoken, not the speaker.*
 
 The causative in the past, with its lengthening:
 

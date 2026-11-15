@@ -26,7 +26,7 @@ the compound, which describes it as an adjective does.
 So the question to ask when you meet a compound is: does it name one of its
 own members, or something else? If something else, find the noun it agrees
 with and unfold the compound with "whose", "by whom" or "in which". The
-compound takes the gender, number and ending of that noun: `chinnahattho` is
+compound takes the gender, multiplicity and inflection form of that noun: `chinnahattho` is
 🚹⨀① because `puriso` is. When the members join, their endings are dropped
 {317} and each goes back to its lemma form {318}. The Buddha's epithets are
 full of such compounds (`dasabalo`, "who has the ten powers"), and so is the
@@ -35,7 +35,7 @@ jhānaṁ`).
 
 ### How to recognise a `bahubbīhi`
 
-The vutti of {328} first shows the outside word in each ending from ② to ⑦:
+The vutti of {328} first shows the outside word in each inflection form from ② to ⑦:
 
 | the outside word is | example | the phrase it stands for |
 | --- | --- | --- |
@@ -68,7 +68,7 @@ endings. Every rule number links to the full rule; the
 
 🚹⨀①🔽(ta)(chinna) 🚹⨀①(hattha) *️⃣🤟🚹⨀⑥(ya) 🚹⨀⑥(purisa) *️⃣🤟🚹⨀①(ta) → 🚹⨀①🆎(chinna+hattha) 🚹⨀①(purisa)  
 cut off / hand / of whom / of the man / that [one] → whose hand is cut off / man  
-*{328}: not a hand but the man whose hand it is; the compound takes the ending of `puriso`.*
+*{328}: not a hand but the man whose hand it is; the compound takes the inflection form of `puriso`.*
 
 > jitāni indriyāni anena samaṇena so → **jitindriyo** samaṇo
 

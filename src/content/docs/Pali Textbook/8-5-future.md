@@ -18,7 +18,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
 A verb that says what is still to come carries `ssa` before the ending that
-gives its person and number: `bhavissati`, `gacchissanti`. Kaccāyana names
+gives its person and multiplicity: `bhavissati`, `gacchissanti`. Kaccāyana names
 these endings `bhavissantī` (the rule spells it `bhavissantī`), the future, ⏭:
 one rule says when they are used, in time to come {421}, and one lists the
 twelve {429}. The same `ssa` with a past-looking tail and an `a-` before the
@@ -27,7 +27,7 @@ about: "if he had got the vehicle, he would have gone" {422}, {430}.
 
 So ask what follows the `ssa`: `-ti`, `-nti`, `-si`, `-tha`, `-mi`, `-ma` make
 the future, `-ā` and `-aṁsu` with the `a-` in front the conditional; person
-and number as in [8.1](../8-1-reading-a-verb/), the rules in
+and multiplicity as in [8.1](../8-1-reading-a-verb/), the rules in
 [Appendix I](../i-verbs/). Kaccāyana gives the name `sabbadhātuka` to the
 present, the command, the wish and the `hiyyattanī` {431}; the other four
 sets, these two among them, take an `i` between the root and the ending {516},
@@ -37,7 +37,7 @@ so what you see is nearly always `-issa-`: `gam-i-ssati`, `kar-i-ssati`. That
 
 ### The future: `bhavissantī` ⏭
 
-| what you see | person | number | example | rule |
+| what you see | person | multiplicity | example | rule |
 | --- | :-: | :-: | --- | :-: |
 | `-ssati` | third 🤟 | ⨀ | `bhavissati`, `gacchissati`, `karissati` | {429} |
 | `-ssanti` | third 🤟 | ⨂ | `gacchissanti`, `karissanti`, `bhavissantī` | {429} |
@@ -56,7 +56,7 @@ so what you see is nearly always `-issa-`: `gam-i-ssati`, `kar-i-ssati`. That
 
 ### The conditional: `kālātipatti` 🔀
 
-| what you see | person | number | example | rule |
+| what you see | person | multiplicity | example | rule |
 | --- | :-: | :-: | --- | :-: |
 | `a-` … `-ssā`, `-ssa` | third 🤟 | ⨀ | `agacchissā` ("he would have gone"), `alabhissā`; the texts' `abhavissa` ([7: 298](../7-anatta/#u2-2)) | {430}, {519} |
 | `a-` … `-ssaṁsu` | third 🤟 | ⨂ | `agacchissaṁsu`, `alabhissaṁsu`; the texts' `abhavissaṁsu` ([7: 300](../7-anatta/#u4-5)) | {430}, {519} |
@@ -104,7 +104,7 @@ mental constructions / and / indeed / this / Bhikkhave / self / would be
 
 The first is from [chapter 7](../7-anatta/); the rest are Kaccāyana's own,
 since the texts hold no future form but `bhavissati` and no conditional but
-`abhavissa` and its plural. Name the verb's set, person and number, and what
+`abhavissa` and its plural. Name the verb's set, person and multiplicity, and what
 stands before its ending; then look it up.
 
 :::tip[Hint]

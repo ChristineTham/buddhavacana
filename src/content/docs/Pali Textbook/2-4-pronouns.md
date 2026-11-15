@@ -5,7 +5,7 @@ sidebar:
   order: 517
 description: >
   `so`, `sā`, `taṁ`, `ayaṁ`, `idaṁ`, `yo`, `ko`, `sabbe`, `ahaṁ`, `tvaṁ`: the
-  pronouns, the endings only they take {161}–{177}, the pair `yo … so`, and
+  pronouns, the inflection forms unique to them {161}–{177}, the pair `yo … so`, and
   the adverbs made from them, `tato`, `tattha`, `tadā`, `tathā` {247}–{260}.
 categories: ["palibook"]
 tags: ["sabbanāma"]
@@ -15,28 +15,36 @@ tags: ["sabbanāma"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-Every sentence of [chapter 5](../5-dhammacakka/) has one of these words: `idaṁ kho pana, bhikkhave,
+Pronouns are very common in sentences. Every sentence of [chapter 5](../5-dhammacakka/) has one of these words: `idaṁ kho pana, bhikkhave,
 dukkhaṁ ariyasaccaṁ` ([5: 2209](../5-dhammacakka/#u4-1)), `yo cāyaṁ` ([5: 2207](../5-dhammacakka/#u2-3)),
 `me` ([5: 2210](../5-dhammacakka/#u5-1)), and [chapter 7](../7-anatta/) turns on them: `etaṁ mama,
 esohamasmi, eso me attā` ([7: 302](../7-anatta/#u6-5)). Kaccāyana calls them `sabbanāma`
-(pronouns, literally "all-names"): a word that names nothing of its own but
-stands for any noun, and takes that noun's gender, number and ending. There
-are twenty-seven ([Appendix L](../l-sabbanama/)); the ones on every page are `ta` (that; he,
-she, it), `eta` (this), `ima` (this), `ya` (which, whoever: the relative),
-`kiṁ` (who?, what?), `sabba` (all), `añña` (other), `katama` (which?), `eka`
-(one), `ubha` (both), and the two without gender, `amha` (I) and `tumha` (you).
+(pronouns, literally "all-names"): a generic word that literally
+stands for any noun, and takes that noun's gender, multiplicity and inflection form. There
+are twenty-seven ([Appendix L](../l-sabbanama/));
 
-Ask of a pronoun what you ask of a noun, "what gender, number and ending?",
-and one thing more: "which noun does it stand for?" Beside a noun it carries
-the noun's ending, `sā majjhimā paṭipadā` ([5: 2208](../5-dhammacakka/#u3-3)), `ete ubho ante`
-([5: 2207](../5-dhammacakka/#u2-4)); alone, its ending
-gives its job (chapter 4) and its noun is the one named before. The endings
-are those of `purisa`, `citta` and `kaññā` ([2.2](../2-2-nouns/)) with a few
-of their own {161}–{177}; the tables give each form's rule.
+- `ta` (that; he, she, it), `eta` (this), `ima` (this),
+- `ya` (which, whoever: the relative),
+- `kiṁ` (who?, what?),
+- `sabba` (all),
+- `añña` (other),
+- `katama` (which?),
+- `eka` (one),
+- `ubha` (both), and
+- the two without gender, `amha` (I) and `tumha` (you).
+
+When you see a pronoun, ask: "What gender, multiplicity and inflection form?",
+and one thing more: "Which noun does it stand for?"
+
+Beside a noun, the pronoun agrees in gender, multiplicity and inflection form: `sā majjhimā paṭipadā` ([5: 2208](../5-dhammacakka/#u3-3)), `ete ubho ante`
+([5: 2207](../5-dhammacakka/#u2-4)); alone, its inflection
+gives its role in the sentence (chapter 4), and it refers to the noun identified by the context. The inflection forms
+are similar to those of `purisa`, `citta` and `kaññā` ([2.2](../2-2-nouns/)) with a few
+irregularities {161}–{177}; the tables give each form's rule.
 
 ### The forms of `ta` (that; he, she, it)
 
-| ending | 🚹⨀ | 🚻⨀ | 🚺⨀ | 🚹⨂ | 🚻⨂ | 🚺⨂ |
+| inflection form | 🚹⨀ | 🚻⨀ | 🚺⨀ | 🚹⨂ | 🚻⨂ | 🚺⨂ |
 | :-: | --- | --- | --- | --- | --- | --- |
 | ① | `so` {174} | `taṁ` {219} | `sā` {174} | `te` {164} | `tāni` {218} | `tā` {118} |
 | ② | `taṁ` {55} | `taṁ` {219} | `taṁ` {55} | `te` {107} | `tāni` {218} | `tā` {118} |
@@ -54,7 +62,7 @@ is rare in the texts.
 
 ### The other pronouns: where they differ from `ta`
 
-| lemma | meaning | ① ⨀ 🚹, 🚻, 🚺 | shapes of its own | rule |
+| lemma | meaning | ① ⨀ 🚹, 🚻, 🚺 | irregular inflections | rule |
 | --- | --- | --- | --- | :-: |
 | `eta` | this (just spoken of) | `eso`, `etaṁ`, `esā` | the rest as `ta` with `et-`: `etena`, `etassa`, `ete`; 🚺 `etissā` | {174}, {219}, {63} |
 | `ima` | this (at hand) | `ayaṁ`, `idaṁ`, `ayaṁ` | `imaṁ`; `iminā`, `anena`; `imassa`, `assa`; `imasmiṁ`, `asmiṁ`; `ime`; `imesaṁ`, `esaṁ`; `imesu`, `esu`; 🚺 `imissā` | {172}, {129}, {171}, {177}, {170}, {63} |
@@ -65,7 +73,7 @@ is rare in the texts.
 
 ### `amha` (I, we) and `tumha` (you)
 
-| ending | `amha` ⨀ | `amha` ⨂ | `tumha` ⨀ | `tumha` ⨂ |
+| inflection form | `amha` ⨀ | `amha` ⨂ | `tumha` ⨀ | `tumha` ⨂ |
 | :-: | --- | --- | --- | --- |
 | ① | `ahaṁ` {140} | `mayaṁ` {121}, `amhe` {164} | `tvaṁ` {140} | `tumhe` {164} |
 | ② | `maṁ` {143} | `amhe` {107}, `no` {147} | `taṁ` {143} | `tumhe` {107}, `vo` {147} |
@@ -88,7 +96,7 @@ with it makes it `ta`; none agreeing (`indriyāni` is neuter) makes it `tumha`.
 ### `yo … so`: the pair that makes a clause
 
 Pāḷi has no one word for "the one who" or "that which": a `ya` word opens the
-clause and a `ta` word of the same gender, number and ending picks it up, `yo …
+clause and a `ta` word of the same gender, multiplicity and inflection form picks it up, `yo …
 so`, `yaṁ … taṁ`, `yā … sā`, `ye … te`, and among the adverbs `yathā … tathā`
 (as … so), `yadā … tadā` (when … then), `yato … tato`, `yattha … tattha`,
 `yasmā … tasmā` (because … therefore: [7: 298](../7-anatta/#u2-3)).
@@ -146,7 +154,7 @@ whatever / anything / subject to origination / all / that / subject to cessation
 ### Exercises
 
 Each is from the texts; the link beside it leads to the sentence. For each pronoun give its lemma,
-gender, number and ending, and the noun it agrees with or stands for; for an
+gender, multiplicity and inflection form, and the noun it agrees with or stands for; for an
 adverb, the pronoun and the affix.
 
 :::tip[Hint]
@@ -173,7 +181,7 @@ deconstruction.
 *️⃣🤟🚻⨀③(kiṁ) 🚻⨀①🔽(ta)(āditta)  
 with what / burning  
 *Burning with what?*  
-`kena`, `kiṁ` ③⨀ 🚻: `kiṁ` is `ka` before this ending {229}, and `-ena` is the ③ of `citta` {103}; the answer, `rāgagginā`, is in ③ too ([9: 75](../9-fire/#u2-6)).
+`kena`, `kiṁ` ③⨀ 🚻: `kiṁ` is `ka` before this inflection form {229}, and `-ena` is the ③ of `citta` {103}; the answer, `rāgagginā`, is in ③ too ([9: 75](../9-fire/#u2-6)).
 
 2. > Ete kho, bhikkhave, ubho ante anupagamma.
 

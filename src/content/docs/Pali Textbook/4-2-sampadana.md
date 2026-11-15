@@ -5,9 +5,9 @@ sidebar:
   order: 525
 description: >
   The one something is given to, done for, said to or wished for takes the
-  ④ ending: `samaṇassa cīvaraṁ dadāti`, "[he] gives a robe to the wanderer".
+  ④ inflection form: `samaṇassa cīvaraṁ dadāti`, "[he] gives a robe to the wanderer".
   Kaccāyana's definition of the recipient (`sampadāna`) {276}–{277}, the uses
-  of its ending {293}–{294}, and the ⑦ ending used in its place {311}.
+  of that form {293}–{294}, and the ⑦ inflection form used in its place {311}.
 categories: ["palibook"]
 tags: ["kāraka", "sampadāna"]
 ---
@@ -17,12 +17,12 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
 A noun that something is given to, done for or said to is the `sampadāna`
-(the recipient), and it takes the ④ ending {293}: `samaṇassa cīvaraṁ dadāti`,
+(the recipient), and it takes the ④ inflection form {293}: `samaṇassa cīvaraṁ dadāti`,
 "[he] gives a robe to the wanderer". Kaccāyana defines the recipient as the one
 someone wishes to give to, the one something is pleasing to and the one
 something is owed to {276}, then lists some twenty other words that go with it
 {277}, and adds `namo` (homage) and its like {294}. The question to ask of a
-word with this ending is "to whom, or for what?".
+word in this inflection form is "to whom, or for what?".
 
 What you see is most often `-ssa`, `-āya` or `-no` in the singular
 (`samaṇassa`, `atthāya`, `bhikkhuno`), `-naṁ` in the plural (`bhikkhūnaṁ`),
@@ -32,9 +32,9 @@ and `ābādhāya`, "to affliction", which [chapter 7](../7-anatta/) repeats for
 each of the five collections, [7: 298](../7-anatta/#u2-3)) is ④ alone {109};
 the other forms also mean "of", the ⑥ of section 4.7, so the sentence decides:
 is there a giving, a saying, a purpose, a wish? The texts sometimes use the ⑦
-ending in its place {311}; [Appendix G](../g-vibhatti/) tables the endings.
+inflection form in its place {311}; [Appendix G](../g-vibhatti/) tables the endings.
 
-### The uses of the ④ ending
+### The uses of the ④ inflection form
 
 | what the noun is doing | what you see | example | rule |
 | --- | --- | --- | :-: |
@@ -62,7 +62,7 @@ ending in its place {311}; [Appendix G](../g-vibhatti/) tables the endings.
 | the one something is taught to, needed by, or done for (`attha`, and many more) | `deseti`, `attho`, `hoti` | `dhammaṁ vo desessāmi`, `tassa phāsuvihārāya hoti` | {277} |
 | the one ruled over, and any other word with a recipient; ④ at times for ②–⑦ | `pabhū` | `desassa pabhū` | {277} |
 | the one homage, well-being or welcome is wished to | `namo`, `sotthi`, `svāgataṁ` | `namo te buddha` | {294} |
-| the recipient with a ⑦ ending instead | `-e`, `-esu` meaning "to" | `saṅghe dinnaṁ mahapphalaṁ` | {311} |
+| the recipient with a ⑦ inflection form instead | `-e`, `-esu` meaning "to" | `saṅghe dinnaṁ mahapphalaṁ` | {311} |
 
 ### Examples
 
@@ -92,7 +92,7 @@ homage / to you / O Buddha / O hero / let there be
 
 ### Exercises
 
-Translate the following from Pāḷi to English and say, for each word with the ④
+Translate the following from Pāḷi to English and say, for each word in the ④
 ending, which use of the table it shows. Look up the words in a dictionary, do
 the necessary sandhi and compound word deconstruction, and let the endings
 guide the meaning. Sentences 1 and 2 are from the texts of the bonus chapter and chapter 3,
@@ -132,7 +132,7 @@ when / indeed / appear / phenomena / to the ardent / meditating / brāhmaṇa
 🚹⨀⑦(saṅgha) 🚺⨀⓪(gotamī) 🟢⨀🤘⏹(deti)  
 to the Saṅgha / Gotamī / give  
 *Give to the Saṅgha, Gotamī.*  
-`saṅghe`: the recipient with a ⑦ ending instead {311}.
+`saṅghe`: the recipient with a ⑦ inflection form instead {311}.
 
 4. > namo karohi **nāgassa**
 

@@ -4,7 +4,7 @@ sidebar:
   label: "4: Noun roles"
   order: 523
 description: >
-  Various meanings and usage-rules of word endings in sentences after `vibhatti` has been applied {271}-{315}
+  The meanings and uses of the inflection forms in sentences after `vibhatti` has been applied {271}–{315}
 categories: ["palibook"]
 tags: ["kāraka"]
 ---
@@ -14,16 +14,15 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
 :::note[How this chapter fits]
-Chapter 1 gave the typical meanings of the endings in one table; this chapter deepens that table, with the uses from my translation of Kaccāyana's Kārakakappa. Its examples and exercises are sentences from the texts of chapters 3, 5, 7 and 9 and the bonus chapter. The text that follows it is chapter 5, the first discourse.
+Chapter 1 gave the typical meanings of the inflection forms in one table; this chapter deepens that table, with the uses from my translation of Kaccāyana's Kārakakappa. Its examples and exercises are sentences from the texts of chapters 3, 5, 7 and 9 and the bonus chapter. The text that follows it is chapter 5, the first discourse.
 :::
 
 `kāraka` means the "cause" or "participants" of actions, and the relationship
-between various words in a Pāḷi sentence. The following are descriptions of
-various `kāraka` categories, and the typical `vibhatti` endings that are
-applied to words belonging to those categories.
+The following are the `kāraka` categories and the inflection forms (`vibhatti`)
+that words in each category typically take.
 
 The question to ask of every noun in a sentence is what it is doing there, and the answer
-picks the ending:
+picks the inflection form:
 
 ```mermaid
 flowchart TD
@@ -38,16 +37,16 @@ flowchart TD
   Q -->|"it is spoken to"| K0["the one addressed: ⓪ ālapana"]
 ```
 
-Kaccāyana first defines the `kāraka` {271}–{283}, in the order below, and then states which `vibhatti` ending each takes and the other senses each ending carries {284}–{315}. The chapter follows that order, one section for each `kāraka`, and ends with the two uses of the ① ending that name no `kāraka`. The tradition counts six `kāraka`: `apādāna`, `sampadāna`, `okāsa`, `karaṇa`, `kamma` and `kattā`, with the `hetu` of {282} a kind of `kattā`; `sāmī` {283} is defined in the same run but is not a `kāraka`, since the owner has no direct connection with the action (Buddhappiya's comment on [Rūpasiddhi 316](https://kaccayana.github.io/rupasiddhi/3-karakakanda#r316)), and the chapter gives it a section of its own all the same.
+Kaccāyana first defines the `kāraka` {271}–{283}, in the order below, and then states which inflection form each takes and the other senses each form carries {284}–{315}. The chapter follows that order, one section for each `kāraka`, and ends with the two uses of the ① inflection form that name no `kāraka`. The tradition counts six `kāraka`: `apādāna`, `sampadāna`, `okāsa`, `karaṇa`, `kamma` and `kattā`, with the `hetu` of {282} a kind of `kattā`; `sāmī` {283} is defined in the same run but is not a `kāraka`, since the owner has no direct connection with the action (Buddhappiya's comment on [Rūpasiddhi 316](https://kaccayana.github.io/rupasiddhi/3-karakakanda#r316)), and the chapter gives it a section of its own all the same.
 
 :::tip[Reading path]
 On a first reading take the first use or two of each section, the ones the diagram names,
-and their examples; the later uses of each ending are rarer, and every rule number links to
+and their examples; the later uses of each inflection form are rarer, and every rule number links to
 the full rule in the Kaccāyana translation. Come back for the rest once the texts of
-chapters 3, 5, 7 and 9 and the bonus chapter have made the endings familiar.
+chapters 3, 5, 7 and 9 and the bonus chapter have made the inflection forms familiar.
 :::
 
-| section | `kāraka` | meaning | usual ending | definition | uses of the ending |
+| section | `kāraka` | meaning | usual inflection form | definition | uses of the inflection form |
 | :-: | --- | --- | :-: | :-: | --- |
 | [4.1](../4-1-apadana/) | `apādāna` | the source, "from" | ⑤ | {271}–{275} | {295}–{296} |
 | [4.2](../4-2-sampadana/) | `sampadāna` | the recipient, "to", "for" | ④ | {276}–{277} | {293}–{294}, {311} |

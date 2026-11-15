@@ -129,7 +129,7 @@ not / there is / now / appearing again
 
 *️⃣🤟🚻⨀⑦(ima) ⏏️(ca) ⏏️(pana) 🚻⨀⑦(veyyākaraṇa) 🚻⨀⑦🔽(māna)(bhaññamāna)  
 in this / and / moreover / detailed exposition / being spoken  
-*`imasmiñca` = `imasmiṁ ca`: the `ṁ` of the ⑦ ending becomes `ñ` before `c` {31}; [5: 2216](../5-dhammacakka/#u11-1).*
+*`imasmiñca` = `imasmiṁ ca`: the literal final `ṁ` in the ⑦ inflection form becomes `ñ` before `c` {31}; [5: 2216](../5-dhammacakka/#u11-1).*
 
 3. > **Yampidaṁ** cakkhusamphassapaccayā uppajjati vedayitaṁ
 

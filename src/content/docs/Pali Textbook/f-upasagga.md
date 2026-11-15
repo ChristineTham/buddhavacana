@@ -258,7 +258,7 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | specially, superior, supreme | `adhisīlaṁ` | `adhi` + `sīlaṁ` | superior Sīla |
 | | `adhirājā` | `adhi` + `rājā` | the supreme king |
 | | `adhidevatā` | `adhi` + `devatā` | the supreme deity |
-| being dominant of, the lord over (usually followed by a noun with the ⑦ ending when it means being “the lord over” as an independently used word) | `Adhi devesu Buddho` | `adhi` | The Buddha is supreme lord of deities |
+| being dominant of, the lord over (usually followed by a noun in the ⑦ inflection form when it means being “the lord over” as an independently used word) | `Adhi devesu Buddho` | `adhi` | The Buddha is supreme lord of deities |
 | | `adhigaṇhāti` | `adhi` + `gaṇhāti` | (It) takes up all, i.e. exceeds (as a prefix to a verb) |
 | | `adhipati` | `adhi` + `pati` | lord |
 | | `ajjhāvasati` | `adhi` + `ā` + `vasati` | (He) lives as a lord or being dominant, reigns. (as a king or chief authority of a location) |
@@ -327,7 +327,7 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | | `patigho` | `pati` + `gho` | anger, stress |
 | | `pativijjhati` | `pati` + `vijjhati` | knows penetratingly, sees through |
 
-\* *(usually preceded by a word with the ⑤ ending, used as independent word)*
+\* *(usually preceded by a word in the ⑤ inflection form, used as an independent word)*
 
 ## `su`
 
@@ -416,6 +416,6 @@ Note: “Ava” and “O” are two interchangeable upasagga words.
 | | `upavādo` | `upa` + `vado` | accusation |
 | deputy or assistant or the second in rank, subordinate | `uparājā` | `upa` + `rājā` | the crown prince |
 | | `ppaukkaṭho` | `upa` + `ukkaṭho` | vice-chairman |
-| over, exceeds (usually followed by a word with the ⑦ ending in its context denoting the lesser amount or value) | `Upa khāriyaṁ doṇo` | `upa` | A measure of `doṇa` is in excess of a `khāri` |
+| over, exceeds (usually followed by a word in the ⑦ inflection form denoting the lesser amount or value) | `Upa khāriyaṁ doṇo` | `upa` | A measure of `doṇa` is in excess of a `khāri` |
 
 \* *(`ṁ` becomes `m` as it precedes `p`)*

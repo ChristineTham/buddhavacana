@@ -38,7 +38,7 @@ words.
 Pāḷi has two verbs for "to be", from the roots `asa` and `hū`, with
 different jobs. `atthi` says that something exists, "there is": `atthi
 nibbuti` ("there is extinguishment"); with `na` before it, `natthi`, "there
-is not". What exists takes the ① ending, and the plural is `santi`. `hoti`
+is not". What exists takes the ① inflection form, and the plural is `santi`. `hoti`
 joins a subject to what it is or becomes: `samudayo hoti` ("[this] is the
 origin"), `nāmaṁ ahosi` ("the name was"), and with a past participle it makes
 a tense of its own, `samannāgato hoti` ("he is endowed"), on every page of
@@ -144,7 +144,7 @@ since / knows / phenomena with their causes / (end quote)
 Each of the following, from the texts, contains a form of one of the eleven
 verbs. Name the verb and its root, say whether the form is the present, the
 past, the absolutive or the past participle, and for a finite form give the
-person and number. Check the shape against the tables above.
+person and multiplicity. Check the shape against the tables above.
 
 :::tip[Hint]
 You may find the [Digital Pali Dictionary](https://digitalpalidictionary.github.io/)
@@ -187,7 +187,7 @@ has understood / indeed / Bho / Koṇḍañña
 
 🚹⨂⑥(bhumma) 🚹⨂⑥(deva) 🚹⨀②(sadda) 🔽(tvā)(suṇāti)  
 of the earth-dwelling / devas / the cry / having heard  
-*`sutvā`: the absolutive of `suṇāti`, the root `su` with `-tvā` {564}, "having heard"; not a finite verb, so no person or number; [5: 2217](../5-dhammacakka/#u12-2).*
+*`sutvā`: the absolutive of `suṇāti`, the root `su` with `-tvā` {564}, "having heard"; not a finite verb, so no person or multiplicity; [5: 2217](../5-dhammacakka/#u12-2).*
 
 5. > ādittan’ti **vadāmi**
 

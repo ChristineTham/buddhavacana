@@ -22,7 +22,7 @@ sets of past endings: the `ajjatanī` (from `ajja`, "today") {419}, the
 `hiyyattanī` (from `hiyyo`, "yesterday") {418} and the `parokkhā` (the
 "unseen", unwitnessed past) {417}; the texts use the first for any past event.
 
-Ask three things of a past form: its ending, which gives the person and number
+Ask three things of a past form: its ending, which gives the person and multiplicity
 as in [8.1](../8-1-reading-a-verb/); whether an `a` is put before the root,
 `a-gamī` {519}; and whether an `s` stands before the ending, `aho-s-i` {491}.
 
@@ -33,7 +33,7 @@ Kaccāyana's active endings are `ī uṁ, o ttha, iṁ mhā`, in the table's ord
 present "you" ending (`gacchasi` {423}), `-iṁ`, `-uṁ` also noun endings
 (`aggiṁ`, `bhikkhuṁ`). [Appendix I](../i-verbs/) tables the rules.
 
-| what you see | person | number | in the texts | rule |
+| what you see | person | multiplicity | in the texts | rule |
 | --- | --- | :-: | --- | :-: |
 | `-i` (`-ī`), `-si` | third | ⨀ | `nisīdi`, `udapādi`, `saṅkampi`; `ahosi` | {428}, {517} |
 | `-uṁ`, `-iṁsu`, `-aṁsu` | third | ⨂ | `abhinanduṁ`, `saddamanussāvesuṁ`, `vimucciṁsu`, `agamaṁsu` | {428}, {504}, {517} |
@@ -100,7 +100,7 @@ since / the destruction / of causes / knew / (end quote)
 
 ### Exercises
 
-Find the past verb in each sentence, name its ending, person and number, say
+Find the past verb in each sentence, name its ending, person and multiplicity, say
 whether it has the `a` before the root or an `s`, and translate.
 
 :::tip[Hint]

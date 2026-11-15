@@ -47,7 +47,7 @@ more, or most, than.
 | `kaṇ` | `-kaṁ`, the first vowel lengthened; neuter; after `ramaṇīya` and a few more | `rāmaṇīyakaṁ` ("delightfulness") | `ramaṇīya` (delightful) | {362} |
 
 `tā` and `tta` are the pair you will meet. A word in `tā` is feminine and
-stands complete in the ① ending, `dhammatā`; a word in `tta` is neuter,
+stands complete in the ① inflection form, `dhammatā`; a word in `tta` is neuter,
 `-ttaṁ`. The
 `ṇ` of `ṇya`, `ṇa` and `kaṇ` is the signal you met in [10.1](../10-1-apacca/):
 it is dropped and the first vowel is lengthened, `a` to `ā`, `i` to `e`, `u`
@@ -66,7 +66,7 @@ tables them all.
 | `isika` | `-isika-` in place of the final vowel; rare | more | `pāpisiko` ("worse") | {363} |
 | `iya`, `iṭṭha` on a changed base | `seyy-`, `jeṭṭh-`, `kaniṭṭh-` and the like | better, best; elder, eldest; younger, youngest | `seyyo`, `seṭṭho` for `pasattha` ("praised"); `jeyyo`, `jeṭṭho` for `vuḍḍha` ("old"); `kaniyo`, `kaniṭṭho` for `yuva` ("young") | {262}–{267} |
 
-The thing compared with stands in the ③ or the ⑤ ending: `pāpena pāpataro`
+The thing compared with stands in the ③ or ⑤ inflection form: `pāpena pāpataro`
 ("worse than the bad"), `jīvitā seyyo` ("better than life"). `tara` and
 `tama` are the pair you will meet, often with no comparison left in them:
 `aññataro`, `añña` ("other") with `tara`, is simply "a certain"; `katamo`,
@@ -85,7 +85,7 @@ of a rag-robe wearer / the state → the state of a rag-robe wearer
 
 🚹⨀⑥(niddārāma) 🚹⨀①(bhāva) → 🚺⨀①🔽(tā)(niddārāmatā)  
 of one who enjoys sleep / the state → enjoyment of sleep  
-*`tā` {360}: `-tā` on the whole word; a feminine noun, complete as it stands in the ① ending.*
+*`tā` {360}: `-tā` on the whole word; a feminine noun, complete as it stands in the ① inflection form.*
 
 > ayaṁ imesaṁ visesena pāpo → **pāpataro**
 
@@ -132,7 +132,7 @@ of nature / the state → the natural state, a characteristic
 
 🚻⨀⑥(sahabya) 🚹⨀①(bhāva) → 🚺⨀①🔽(tā)(sahabyatā)  
 of fellowship / the state → companionship  
-*`tā` {360}: `-tā` on `sahabya` (fellowship); you met it in the ② ending, `sahabyataṁ`, [Bonus: 24, 476](../11-pbt/#s24-u476-3).*
+*`tā` {360}: `-tā` on `sahabya` (fellowship); you met it in the ② inflection form, `sahabyataṁ`, [Bonus: 24, 476](../11-pbt/#s24-u476-3).*
 
 3. > Yathā **aññataraṁ** bījaṁ
 

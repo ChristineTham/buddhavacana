@@ -33,7 +33,7 @@ flowchart LR
   T --> T1["belonging, descent: ṇa, ṇika"]
   T --> T2["having: vantu, mantu, ī"]
   T --> T3["the abstract state: tā, tta"]
-  T --> T4["numbers and manner: ma, tiya, dhā, so"]
+  T --> T4["numerals and manner: ma, tiya, dhā, so"]
   K --> K1["the doer: aka, tu"]
   K --> K2["the act: ana, ti"]
   K --> K3["to be done: tabba, anīya, ya"]
@@ -87,7 +87,7 @@ affixes that form individual words. The chapter follows that order.
 | [10.3](../10-3-samuha/) | a collection, an occasion, a likeness, a dependence, an abundance | `kaṇ`, `ṇa`, `tā`, `iya`, `āyitatta`, `la`, `ālu` | {354}–{359} |
 | [10.4](../10-4-bhava/) | the abstract state, and comparison | `ṇya`, `tta`, `tā`, `ttana`, `ṇa`, `kaṇ`; `tara`, `tama`, `isika`, `iya`, `iṭṭha` | {360}–{363} |
 | [10.5](../10-5-tadassatthi/) | "having that", and "made of that" | `vī`, `sī`, `ika`, `ī`, `ra`, `vantu`, `mantu`, `ṇa`; `maya` | {364}–{372} |
-| [10.6](../10-6-sankhya/) | the numerals: ordinals, the forms of the numbers, division and manner | `ma`, `tha`, `ṭha`, `tiya`, `ī`, `ka`; `dhā`, `so`, `thā`, `thaṁ` | {373}–{399} |
+| [10.6](../10-6-sankhya/) | the numerals: ordinals, the forms of numerals, division and manner | `ma`, `tha`, `ṭha`, `tiya`, `ī`, `ka`; `dhā`, `so`, `thā`, `thaṁ` | {373}–{399} |
 | [10.7](../10-7-sadhana/) | `kita` and `uṇādi` senses: the agent, the action and the purpose | `kita`, `kicca`, `tta`, `yu`, `ṇvu`, `ṇī`, `tuṁ` and the rest | {624}–{626}, {635}–{637}, {639}–{642}, {650}–{655} |
 | [10.8](../10-8-unadi-words/) | `uṇādi`: the affixes that form individual words | `tha`, `ma`, `la`, `ya`, `tti`, `īvara`, `ūra`, `ṭha` and the rest | {627}–{634}, {638}, {643}–{649}, {656}–{673} |
 

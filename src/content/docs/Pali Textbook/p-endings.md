@@ -32,8 +32,8 @@ whose inflection table contains it, so that a headword's frequency is the sum of
 Here the question runs the other way, which reading a form most likely has, and three steps answer it:
 
 1. Every word that ends in one of the endings below is looked up in the dictionary, which lists the headwords
-   whose tables contain it and the reading each table gives it (gender, number and inflection form for a noun; tense,
-   person and number for a verb; a pronoun, a particle, a participle, an absolutive, an infinitive, a sandhi
+   whose tables contain it and the reading each table gives it (gender, multiplicity and inflection form for a noun; tense,
+   person and multiplicity for a verb; a pronoun, a particle, a participle, an absolutive, an infinitive, a sandhi
    join).
 2. Where a form belongs to several headwords, its count is divided among them in proportion to the Tipiṭaka
    frequency of each headword's *other* forms. A rare homograph cannot then borrow the frequency of the very
@@ -47,7 +47,7 @@ Here the question runs the other way, which reading a form most likely has, and 
 The shares are therefore estimates, not counts of readings in context, and they have four known limits.
 They count letters, not analyses: a word in `-āna` with the ending `-aṁ` (`jhānaṁ`) is among the words
 ending in `-ānaṁ`, and a verb with `iti` joined on (`uppajjatīti`) among those ending in `-ti`; the rows say
-so. Adjectives and participles are classed as such, not by the gender and ending they take from their noun,
+so. Adjectives and participles are classed as such, not by the gender and inflection form they take from their noun,
 since the noun is not in view; a reader meeting one reads it as a noun of that gender would be read. A word
 whose other forms are common but which rarely uses the form in question can be over-credited (`te` is partly
 counted as the numeral "three"). And where a dictionary table gives a form several readings of one headword
@@ -55,8 +55,8 @@ counted as the numeral "three"). And where a dictionary table gives a form sever
 both. The script that makes the charts, `tools/ending_shares.py` in the book's repository, can be rerun
 against a newer dictionary or another corpus.
 
-The symbols are those of the book: 🚹 🚺 🚻 the genders, ⨀ ⨂ singular and plural, ① to ⑦ and ⓪ the endings,
-▶️ ⏹ ⏯ ⏮ ⏭ 🔀 🔄 ↩️ the eight sets of verb endings, 👆 🤘 🤟 the persons, *️⃣ a pronoun.
+The symbols are those of the book: 🚹 🚺 🚻 the genders, ⨀ ⨂ singular and plural,
+① to ⑦ the inflection forms and ⓪ the calling form; ▶️ ⏹ ⏯ ⏮ ⏭ 🔀 🔄 ↩️ the eight sets of verb endings, 👆 🤘 🤟 the persons, *️⃣ a pronoun.
 
 ## Words that end in `…a`
 
@@ -66,7 +66,7 @@ The symbols are those of the book: 🚹 🚺 🚻 the genders, ⨀ ⨂ singular 
 -a · 274,086 words end so, 99.4 in every thousand · 97% of them classed
 a particle or adverb | 54.7 | `ca`, `na`, `pana`, `idha`, `ceva`
 🚹⨀⓪ | 9.4 | `nava`, `mahārāja`, `ānanda`, `satta`, `brāhmaṇa`
-a number | 5.8 | `pañca`, `nava`, `cha`, `terasa`, `ekādasa`
+a numeral | 5.8 | `pañca`, `nava`, `cha`, `terasa`, `ekādasa`
 an absolutive (-ya) | 4.1 | `paṭicca`, `upasampajja`, `ārabbha`, `abhibhuyya`, `paricca`
 🚻 a form its table does not list | 4.0 | `vatthuñca`, `cakkhundriyañca`, `cakkhāyatanañca`, `rūpāyatanañca`, `upekkhindriyañca`
 🚹 a form its table does not list | 3.9 | `kāmarāgānusayañca`, `paṭighānusayañca`, `khandhañca`, `mānānusayañca`, `vicikicchānusayañca`
@@ -95,7 +95,7 @@ a past participle (-ta) | 6.6 | `buddhassa`, `abyākatassa`, `samannāgatassa`, 
 a sandhi join, to be split | 3.5 | `yassa`, `evamassa`, `cassa`, `evametassa`, `panassa`
 a present participle (-anta, -māna) | 2.3 | `bhaṇantassa`, `upapajjantassa`, `paṭivijānantassa`, `ajānantassa`, `vuṭṭhahantassa`
 a particle or adverb | 1.2 | `tassa`, `divādivassa`
-a number | 0.5 | `paṭhamassa`, `catutthassa`, `ekassa`, `dutiyassa`, `tatiyassa`
+a numeral | 0.5 | `paṭhamassa`, `catutthassa`, `ekassa`, `dutiyassa`, `tatiyassa`
 a participle in -tabba, -anīya, -ya | 0.5 | `pahātabbassa`, `pāṭidesanīyassa`, `sakkassa`, `pabbājanīyassa`, `neyyassa`
 other readings, each under 0.5% | 0.6 |
 ```
@@ -110,7 +110,7 @@ other readings, each under 0.5% | 0.6 |
 an adjective, agreeing with its noun | 9.6 | `dibbena`, `duvidhena`, `atikkantamānusakena`, `aparena`, `paṭibalena`
 a past participle (-ta) | 3.8 | `saṁkhittena`, `samannāgatena`, `visuddhena`, `byattena`, `vippasannena`
 a particle or adverb | 3.4 | `tena`, `yena`, `tenaṅgena`, `assāsavasena`, `passāsavasena`
-a number | 0.9 | `ekena`, `paṭhamena`, `dutiyena`, `catutthena`, `tatiyena`
+a numeral | 0.9 | `ekena`, `paṭhamena`, `dutiyena`, `catutthena`, `tatiyena`
 🚹⨀⓪ | 0.9 | `nāgasena`, `upasena`, `udena`, `sena`
 a present participle (-anta, -māna) | 0.7 | `appaṭighaṁsantena`, `sampassamānena`, `nikkhipantena`, `asaṅghaṭṭentena`, `viharantena`
 other readings, each under 0.5% | 0.7 |
@@ -131,7 +131,7 @@ a past participle (-ta) | 3.1 | `appaṭicchannāya`, `hitāya`, `abhikkantāya`
 a participle in -tabba, -anīya, -ya | 1.1 | `pahāya`, `sākacchāya`, `anavajjāya`, `asaṁhāriyāya`, `laddhāya`
 a sandhi join, to be split | 0.9 | `pattacīvaramādāya`, `tāyevappāhāratāya`, `catthāya`, `dantebhidantamādhāya`, `saṁvāsamanvāya`
 🚺⨀③ | 0.9 | `sammappaññāya`, `paññāya`, `paṭisaṅkhāya`, `aññāya`
-a number | 0.8 | `ekāya`, `paṭhamāya`, `cattārīsāya`, `tiṁsāya`, `cattālīsāya`
+a numeral | 0.8 | `ekāya`, `paṭhamāya`, `cattārīsāya`, `tiṁsāya`, `cattālīsāya`
 ⏹🤘⨀ | 0.7 | `paññāya`, `viññāya`, `jhāya`, `pajāya`, `vihāya`
 *️⃣ a pronoun ⨀③ or ④ or ⑤ or ⑥ or ⑦ | 0.6 | `yāya`, `aññāya`, `sabbāya`, `anaññāya`, `kāya`
 other readings, each under 0.5% | 1.0 |
@@ -266,7 +266,7 @@ an adjective, agreeing with its noun | 31.2 | `hetuyā`, `adhipatiyā`, `naadhip
 🚺⨀① or ③; ⨂① or ② or ⓪ | 3.5 | `bhariyā`, `viññāṇacariyā`, `cariyā`, `kālakiriyā`, `aññāṇacariyā`
 a present participle (-anta, -māna) | 1.4 | `satiyā`, `bhuñjantiyā`, `vuṭṭhāpentiyā`, `atikkāmentiyā`, `phalantiyā`
 a participle in -tabba, -anīya, -ya | 1.2 | `upādāniyā`, `nīvaraṇiyā`, `ganthaniyā`, `anupādāniyā`, `aganthaniyā`
-a number | 0.8 | `vīsatiyā`, `tatiyā`, `asītiyā`, `dutiyā`, `dvāsaṭṭhiyā`
+a numeral | 0.8 | `vīsatiyā`, `tatiyā`, `asītiyā`, `dutiyā`, `dvāsaṭṭhiyā`
 other readings, each under 0.5% | 0.5 |
 ```
 
@@ -406,7 +406,7 @@ other readings, each under 0.5% | 1.6 |
 ```endings
 -i · 147,357 words end so, 53.4 in every thousand · 97% of them classed
 a particle or adverb | 46.2 | `ti`, `hi`, `api`, `yadi`, `tipi`
-a number | 12.4 | `tīṇi`, `cattāri`, `pañcahi`, `chahi`, `sattahi`
+a numeral | 12.4 | `tīṇi`, `cattāri`, `pañcahi`, `chahi`, `sattahi`
 ▶️🤟⨀ or ▶️🤟⨂ | 6.2 | `atthi`, `natthi`, `karaṇīyamatthi`
 🚹⨀① or ⓪ | 4.5 | `atthi`, `upāli`, `samādhi`, `sammāsamādhi`, `gāmaṇi`
 ⏮🤘⨀ or ⏮🤟⨀ | 4.1 | `nisīdi`, `udapādi`, `vigarahi`, `sammodi`, `uttari`
@@ -449,7 +449,7 @@ other readings, each under 0.5% | 2.0 |
 🚻⨂③ or ⑤ | 15.4 | `samuṭṭhānehi`, `aṅgehi`, `ṭhānehi`, `akusalehi`, `vatthūhi`
 *️⃣ a pronoun ⨂③ or ⑤ | 15.0 | `imehi`, `katamehi`, `tehi`, `yehi`, `imāhi`
 an adjective, agreeing with its noun | 8.7 | `dibbehi`, `ariyakantehi`, `mudutarehi`, `parehi`, `akhaṇḍehi`
-a number | 8.5 | `catūhi`, `tīhi`, `dvīhi`, `satasahassehi`, `soḷasāhi`
+a numeral | 8.5 | `catūhi`, `tīhi`, `dvīhi`, `satasahassehi`, `soḷasāhi`
 🚺⨂③ or ⑤ | 6.6 | `dhātūhi`, `bhikkhunīhi`, `gāthāhi`, `kammavācāhi`, `devatāhi`
 ⏹🤘⨀ | 6.3 | `brūhi`, `dehi`, `vadehi`, `jānāhi`, `kāmehi`
 a sandhi join, to be split | 2.7 | `pañcahaṅgehi`, `tīhaṅgehi`, `chahaṅgehi`, `aṭṭhahaṅgehi`, `dasahaṅgehi`
@@ -471,7 +471,7 @@ a sandhi join, to be split | 2.6 | `pañcimāni`, `cattārimāni`, `yassadāni`,
 a participle in -tabba, -anīya, -ya | 2.0 | `gahetabbāni`, `daṭṭhabbāni`, `dhāretabbāni`, `rajanīyāni`, `kātabbāni`
 🚺⨀① or ⓪ | 0.6 | `parihāni`, `saṁhāni`, `dhanajāni`, `hāni`, `yasoparihāni`
 a particle or adverb | 0.6 | `idāni`, `svedāni`
-a number | 0.5 | `uppalāni`, `cullāsītisahassāni`, `padumāni`, `satasahassāni`, `puṇḍarīkāni`
+a numeral | 0.5 | `uppalāni`, `cullāsītisahassāni`, `padumāni`, `satasahassāni`, `puṇḍarīkāni`
 other readings, each under 0.5% | 1.1 |
 ```
 
@@ -541,7 +541,7 @@ other readings, each under 0.5% | 1.1 |
 an adjective, agreeing with its noun | 10.0 | `paramhi`, `sappaṭighamhi`, `anidassanamhi`, `satasahassamhi`, `etadaggamhi`
 a past participle (-ta) | 4.9 | `anāgatamhi`, `payātamhi`, `padinnamhi`, `vuttamhi`, `vuṭṭhamhi`
 a sandhi join, to be split | 3.5 | `camhi`, `balavamhi`, `yāyamhi`, `vatamhi`, `ahamhi`
-a number | 2.6 | `satasahassamhi`, `ekamhi`, `catutthamhi`, `chattiṁsamhi`, `dvādasamhi`
+a numeral | 2.6 | `satasahassamhi`, `ekamhi`, `catutthamhi`, `chattiṁsamhi`, `dvādasamhi`
 a present participle (-anta, -māna) | 2.4 | `nibbattamānamhi`, `vattamānamhi`, `desiyamānamhi`, `ḍayhamānamhi`, `vilumpamānamhi`
 other readings, each under 0.5% | 1.4 |
 ```
@@ -586,7 +586,7 @@ a particle or adverb | 22.4 | `nu`, `nanu`, `sādhu`, `udāhu`, `khalu`
 a sandhi join, to be split | 4.7 | `evamāhaṁsu`, `kudāssu`, `yatthassu`, `evamassu`, `apissu`
 a verb form the table does not list | 2.9 | `ahu`, `assu`, `akaṁsu`, `adhibhaṁsu`, `avekkhassu`
 an adjective, agreeing with its noun | 2.7 | `bahu`, `anabhijjhālu`, `abhijjhālu`, `puthu`, `mudu`
-a number | 2.1 | `chasu`, `pañcasu`, `sattasu`, `dasasu`, `aṭṭhasu`
+a numeral | 2.1 | `chasu`, `pañcasu`, `sattasu`, `dasasu`, `aṭṭhasu`
 ⏮🤟⨂ | 1.9 | `akaṁsu`, `aṭṭhaṁsu`, `agamaṁsu`, `addasaṁsu`, `adaṁsu`
 ⏮🤟⨀ | 1.3 | `ahu`, `pāturahu`, `nāhu`
 🚹 a form its table does not list | 0.7 | `gotrabhu`, `sabbaññu`, `bhūnahu`, `vedagu`, `mittaddu`
@@ -602,7 +602,7 @@ other readings, each under 0.5% | 2.1 |
 🚹⨂⑦ | 40.1 | `dhammesu`, `kāmesu`, `manussesu`, `kusalesu`, `devesu`
 🚻⨂⑦ | 16.6 | `kusalesu`, `indriyesu`, `sikkhāpadesu`, `sīlesu`, `rūpesu`
 🚺⨂⑦ | 11.2 | `vedanāsu`, `bhūmīsu`, `āpadāsu`, `parisāsu`, `āpattīsu`
-a number | 9.4 | `dvīsu`, `catūsu`, `tīsu`, `duvesu`, `aṭṭhārasesu`
+a numeral | 9.4 | `dvīsu`, `catūsu`, `tīsu`, `duvesu`, `aṭṭhārasesu`
 an adjective, agreeing with its noun | 8.9 | `vedanāsu`, `aṇumattesu`, `paccantimesu`, `manāpiyesu`, `cakkhuviññeyyesu`
 *️⃣ a pronoun ⨂⑦ | 6.1 | `tesu`, `imesu`, `sabbesu`, `tāsu`, `etesu`
 a past participle (-ta) | 3.7 | `ananussutesu`, `uparuddhesu`, `sattesu`, `bhaggesu`, `paccuppannesu`
@@ -666,7 +666,7 @@ other readings, each under 0.5% | 0.7 |
 🚻⨀⑦; ⨂② | 12.8 | `ārammaṇe`, `anantare`, `jetavane`, `indriye`, `jhāne`
 *️⃣ a pronoun ⨀② or ③ or ④ or ⑤ or ⑥ | 4.2 | `me`
 an adjective, agreeing with its noun | 3.9 | `apariyāpanne`, `rūpāvacare`, `arūpāvacare`, `sadevake`, `aneke`
-a number | 3.7 | `dve`, `te`, `duve`, `ekattiṁse`, `catutthe`
+a numeral | 3.7 | `dve`, `te`, `duve`, `ekattiṁse`, `catutthe`
 *️⃣ a pronoun ⨀② or ③ or ④ or ⑥; ⨂① or ② | 3.5 | `te`
 a particle or adverb | 3.2 | `sace`, `ce`, `re`, `ve`, `ajjatagge`
 *️⃣ a pronoun ⨀② or ③ or ④ or ⑥ | 3.2 | `me`, `te`
@@ -739,7 +739,7 @@ an adjective, agreeing with its noun | 15.5 | `eko`, `akusalo`, `sampajāno`, `s
 a particle or adverb | 14.4 | `kho`, `āvuso`, `no`, `so`, `yoniso`
 *️⃣ a pronoun ⨀① | 8.6 | `so`, `yo`, `katamo`, `ko`, `aññataro`
 a past participle (-ta) | 7.4 | `nisinno`, `pahīno`, `buddho`, `ṭhito`, `sampayutto`
-a number | 2.9 | `tayo`, `cattāro`, `catasso`, `tisso`, `paṭhamo`
+a numeral | 2.9 | `tayo`, `cattāro`, `catasso`, `tisso`, `paṭhamo`
 *️⃣ a pronoun ⨂② or ③ or ④ or ⑥ | 2.7 | `no`, `vo`
 a participle in -tabba, -anīya, -ya | 0.8 | `abhiññeyyo`, `abhabbo`, `karaṇīyo`, `bhabbo`, `pāsaṁso`
 🚹⨀① or ⓪ | 0.7 | `bho`
@@ -774,7 +774,7 @@ other readings, each under 0.5% | 0.4 |
 🚺⨂① or ② or ⓪ | 47.5 | `bhikkhuniyo`, `āpattiyo`, `gāthāyo`, `jātiyo`, `itthiyo`
 🚹⨀① | 26.6 | `ariyo`, `kāyo`, `khattiyo`, `piyo`, `pariyāyo`
 an adjective, agreeing with its noun | 16.6 | `tatiyo`, `lokiyo`, `acchariyo`, `dvemāsappaṭicchannāyo`, `passaddhakāyo`
-a number | 2.7 | `tatiyo`, `dutiyo`, `asītikoṭiyo`, `koṭiyo`
+a numeral | 2.7 | `tatiyo`, `dutiyo`, `asītikoṭiyo`, `koṭiyo`
 a participle in -tabba, -anīya, -ya | 2.6 | `upādāniyo`, `avandiyo`, `ganthaniyo`, `nīvaraṇiyo`, `sakkāyo`
 *️⃣ a pronoun ⨂① or ② | 2.5 | `kāyo`, `tāyo`, `imāyo`, `sabbāyo`, `etāyo`
 a present participle (-anta, -māna) | 0.6 | `upanighaṁsantiyo`, `pariggaṇhantiyo`, `vosāsantiyo`, `savantiyo`, `apassantiyo`
@@ -855,7 +855,7 @@ an adjective, agreeing with its noun | 11.3 | `yathābhūtaṁ`, `paraṁ`, `ajj
 a past participle (-ta) | 7.1 | `saṁkhittaṁ`, `kataṁ`, `niṭṭhitaṁ`, `uppannaṁ`, `abyākataṁ`
 a sandhi join, to be split | 5.0 | `hevaṁ`, `etamatthaṁ`, `caparaṁ`, `yadidaṁ`, `evamevaṁ`
 a particle or adverb | 4.5 | `evaṁ`, `yaṁ`, `itthaṁ`, `idaṁ`, `sudaṁ`
-a number | 4.2 | `ekaṁ`, `paṭhamaṁ`, `catutthaṁ`, `dvinnaṁ`, `catunnaṁ`
+a numeral | 4.2 | `ekaṁ`, `paṭhamaṁ`, `catutthaṁ`, `dvinnaṁ`, `catunnaṁ`
 🚺⨀② | 3.6 | `kathaṁ`, `vedanaṁ`, `paṭhamaṁ`, `dhammaṁ`, `vācaṁ`
 *️⃣ a pronoun ⨂④ or ⑥ | 3.4 | `tesaṁ`, `imesaṁ`, `sabbesaṁ`, `itaresaṁ`, `tāsaṁ`
 *️⃣ a pronoun ⨀① | 2.8 | `ayaṁ`, `ahaṁ`
@@ -914,7 +914,7 @@ other readings, each under 0.5% | 0.5 |
 an adjective, agreeing with its noun | 7.1 | `tatiyaṁ`, `lokiyaṁ`, `yāvatatiyaṁ`, `vatāyaṁ`, `asappāyaṁ`
 🚺⨀② | 4.6 | `anagāriyaṁ`, `dutiyaṁ`, `tiriyaṁ`, `brahmacariyaṁ`, `tatiyaṁ`
 a sandhi join, to be split | 3.6 | `yvāyaṁ`, `cāyaṁ`, `panāyaṁ`, `myāyaṁ`, `khvāyaṁ`
-a number | 3.1 | `tatiyaṁ`, `dutiyaṁ`, `aṭṭhamiyaṁ`, `navamiyaṁ`, `catutthiyaṁ`
+a numeral | 3.1 | `tatiyaṁ`, `dutiyaṁ`, `aṭṭhamiyaṁ`, `navamiyaṁ`, `catutthiyaṁ`
 *️⃣ a pronoun ⨀⑦ | 2.6 | `kāyaṁ`, `tāyaṁ`, `yāyaṁ`, `nāyaṁ`, `sāyaṁ`
 a participle in -tabba, -anīya, -ya | 2.2 | `nissaggiyaṁ`, `asaṅkhiyaṁ`, `akappiyaṁ`, `appaṭivattiyaṁ`, `kappiyaṁ`
 a verb form the table does not list | 0.5 | `apāyaṁ`, `vāyaṁ`, `sajjhāyaṁ`, `jhāyaṁ`, `mamāyaṁ`

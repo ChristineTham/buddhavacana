@@ -5,7 +5,7 @@ sidebar:
   order: 545
 description: >
   The present (`vattamānā`): the endings `-ti`, `-nti`, `-si`, `-tha`, `-mi`,
-  `-ma` that show the person and the number {414}, {423}, and the piece each
+  `-ma` that show the person and the multiplicity {414}, {423}, and the piece each
   of Kaccāyana's eight root classes puts between the root and the ending
   {445}–{452}, so that a form such as `pajānāti` can be stripped to its root.
 categories: ["palibook"]
@@ -29,7 +29,7 @@ section takes the first six.
 
 ### The six endings of the present
 
-| what you see | person | number | ending | from the texts | rule |
+| what you see | person | multiplicity | ending | from the texts | rule |
 | :-: | :-: | :-: | :-: | --- | :-: |
 | `-ti` | third 🤟 | ⨀ | `ti` | `viharati`, `hoti`, `labhati` | {423} |
 | `-nti` | third 🤟 | ⨂ | `anti`, one `a` dropped {510} | `sambhavanti`, `pātubhavanti` | {423} |
@@ -102,7 +102,7 @@ bhikkhu / walking / or / I walk / (end quote) / knows clearly
 
 ### Exercises
 
-Name each bold verb's ending, person and number, then the piece and the
+Name each bold verb's ending, person and multiplicity, then the piece and the
 root.
 
 :::tip[Hint]

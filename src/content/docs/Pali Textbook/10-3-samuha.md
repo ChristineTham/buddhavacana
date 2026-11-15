@@ -44,7 +44,7 @@ an abundance of it. `tā` is the one you will meet; the others are rare, and
 The `ṇ` of `kaṇ` and `ṇa` is the signal of section [10.1](../10-1-apacca/):
 it is dropped {396} and the first vowel of the word is lengthened {400}, so
 `manussa` ("human being") gives `mānussako`. The new word's gender tells you
-the affix too: a word in `tā` is feminine and keeps its `-ā` as its ① ending,
+the affix too: a word in `tā` is feminine and keeps its `-ā` ending in the ① inflection form,
 the words in `iya`, `āyitatta` and `la` are neuter in Kaccāyana's examples and
 end in `-aṁ`, with the `l` of `la` doubled {404}, and a word in `ālu`
 describes a person and ends in `-u`.

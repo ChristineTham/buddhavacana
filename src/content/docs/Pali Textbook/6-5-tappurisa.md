@@ -5,9 +5,9 @@ sidebar:
   order: 538
 description: >
   `rājaputto` ("the king's son") is `rañño putto` made into one word: the
-  first member would carry the ⑥ ending if the two stood apart, and the
-  compound keeps the sense of that ending {327}. The six kinds of `tappurisa`
-  by the ending of the first member, ② to ⑦, and the rule that counts the
+  first member would be in the ⑥ inflection form if the two stood apart, and the
+  compound keeps the sense of that inflection form {327}. The six kinds of `tappurisa`
+  by the first member's inflection form, ② to ⑦, and the rule that counts the
   `kammadhāraya` and the `digu` as `tappurisa` as well {326}.
 categories: ["palibook"]
 tags: ["samāsa", "tappurisa"]
@@ -19,10 +19,10 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 
 `rājaputto` ("the king's son") is the two words `rañño putto` made into one.
 The second member, `putto`, names the thing; the first says whose son, and if
-the two stood apart it would carry the ⑥ ending, `rañño` ("of the king").
-Kaccāyana calls such a compound a `tappurisa` {327}: a word that would carry
-the ② ending or any later one, ③ to ⑦, is joined to the word that follows it,
-and the compound keeps the sense of the ending that was dropped. The name is
+the two stood apart it would be in the ⑥ inflection form, `rañño` ("of the king").
+Kaccāyana calls such a compound a `tappurisa` {327}: a word in any of the
+inflection forms ② to ⑦ is joined to the word that follows it; the compound
+keeps the sense of that form when its literal ending is dropped. The name is
 itself one: `tappuriso` is `tassa puriso`, "his man".
 
 With the `kammadhāraya`, these are the commonest compounds in the texts. When
@@ -32,15 +32,15 @@ member; a compound that names something else, `chinnahattho` ("one whose hand
 is cut off"), is the `bahubbīhi` of section [6.6](../6-6-bahubbihi/), and one
 whose members name the same thing, `mahāpuriso` ("a great man"), the
 `kammadhāraya` of [6.3](../6-3-kammadharaya/). And what small English word
-links the members, "of", "by", "for", "from", "in"? That word is the ending
-the first member has lost, and it names the kind.
+links the members, "of", "by", "for", "from", "in"? That meaning comes from
+the inflection form the first member would have used; it names the kind.
 
-### The six kinds, by the ending of the first member
+### The six kinds, by the inflection form of the first member
 
-One phrase and its compound for each ending, ② to ⑦; the ending is the one
-chapter [4](../4-0-karaka/) gives the first word for its work in the sentence:
+One phrase and its compound for each inflection form, ② to ⑦; chapter
+[4](../4-0-karaka/) explains the role that form gives the first word in the sentence:
 
-| ending | the first member is … | phrase → compound | meaning | rule |
+| inflection form | the first member is … | phrase → compound | meaning | rule |
 | :-: | --- | --- | --- | :-: |
 | ② `dutiyā` | the object, or the place gone to {297} | `bhūmiṁ gato` → `bhūmigato` | gone to the ground | {327} |
 | ③ `tatiyā` | the instrument {286}, or the doer {288} | `sallena viddho` → `sallaviddho` | pierced by an arrow | {327} |
@@ -54,9 +54,9 @@ The rule's other examples, `sabbarattisobhaṇo` ("beautiful the whole night",
 `dhaññarāsi` ("a heap of grain", ⑥, from the plural `dhaññānaṁ`) among them,
 run the same way, and so does the Fire Sermon's `rāgagginā` ("with the fire of
 passion", ⑥: `rāgassa aggi`, [9: 75](../9-fire/#u2-6)). The Digital Pāḷi
-Dictionary names the kind by this ending, in the Pāḷi of the first column: a
-`chaṭṭhī tappurisa` had the ⑥ ending on its first member, a `dutiyā
-tappurisa` the ②.
+Dictionary names the kind by this inflection form, in the Pāḷi of the first column: a
+`chaṭṭhī tappurisa` has its first member in the ⑥ inflection form, a `dutiyā
+tappurisa` in ②.
 
 In each the ending of the first member is dropped {317} and the member
 stands in its lemma form, the form a word has before its ending,
@@ -98,7 +98,7 @@ to the ground / gone → gone to the ground
 
 Each of the following is a `tappurisa` from chapters [3](../3-awakening/) and
 the [bonus chapter](../11-pbt/), in the form it has there, with a link to its sentence. Split
-it into its members, say which ending the first member would carry on its own,
+it into its members, say which inflection form the first member would be in on its own,
 and give the meaning. Look the word up in a dictionary and check the kind it is
 given.
 
@@ -123,7 +123,7 @@ deconstruction.
 
 🚹⨀⑥🆎(bodhi+rukkha) 🚻⨀⑦(mūla) → 🚻⨀⑦🆎(bodhi+rukkha+mūla)  
 of the Bodhi tree / at the root → at the root of the Bodhi tree  
-*⑥ {327}: two compounds in one, `bodhirukkha` being itself `bodhiyā rukkho`; the whole takes the ⑦ ending.*
+*⑥ {327}: two compounds in one, `bodhirukkha` being itself `bodhiyā rukkho`; the whole takes the ⑦ inflection form.*
 
 2. > saṅkhārānaṁ nirodho → **saṅkhāranirodho**
 

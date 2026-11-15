@@ -104,7 +104,7 @@ Symbol | in the commentaries
 | substantive | `nāmanāma` | a noun naming a thing, a being or a place: `purisa` ("man"), `citta` ("mind") |
 | common noun | `sādhāraṇanāma` | a name shared by a whole kind: `rukkha` ("tree") |
 | proper noun | `asādhāraṇanāma` | the name of one individual: `sāriputta` |
-| adjective | `guṇanāma`, `visesana` | a quality-word that takes the gender, number and inflection form of its noun: `nīla` ("blue") |
+| adjective | `guṇanāma`, `visesana` | a quality-word that takes the gender, multiplicity and inflection form of its noun: `nīla` ("blue") |
 | pronoun | `sabbanāma` | the twenty-seven words of Appendix L, which stand for any noun: `sabba`, `ya`, `ta`, `kiṁ`, `tumha`, `amha` |
 | numeral | `saṅkhyānāma` | a counting word (`eka`, `dvi`, `ti` …) or an ordinal (`paṭhama`, `dutiya` …) |
 | compound | `samāsanāma` | two or more words made into one {316}–{343}: `rājaputta` ("king's son") |

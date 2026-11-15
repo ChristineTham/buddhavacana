@@ -13,7 +13,7 @@ tags: ["uṇādi"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-The `uṇādi` suffixes {642}–{673} are the `kita` affixes "beginning with `uṇ`": a long tail of suffixes, each attached to a few named roots, that form individual nouns (`kāru` "craftsman", `samatha` "calm", `geha` "house", `vitaṇḍā` "sophistry" …). Kaccāyana's last chapter opens with the general rules for the sense of the `kita` suffixes {624}–{641} and then lists the `uṇādi` suffixes themselves. Each row gives the sutta number `{N}`, the sutta's own words, a one-line summary and the example words Kaccāyana cites; after "not" come the counter-examples, where the rule does not apply. The summaries use the book's symbols: ①–⑦ for the inflection forms, ⨀ singular, ⨂ plural, 🚹🚺🚻 for the genders. The full rules, with every derivation, are at <https://kaccayana.github.io/kaccayana/8-unadikappa>.
+The `uṇādi` suffixes {642}–{673} are the `kita` affixes "beginning with `uṇ`": a long tail of suffixes, each attached to a few named roots, that form individual nouns (`kāru` "craftsman", `samatha` "calm", `geha` "house", `vitaṇḍā` "sophistry" …). Kaccāyana's last chapter opens with the general rules for the sense of the `kita` suffixes {624}–{641} and then lists the `uṇādi` suffixes themselves. Each row gives the sutta number `{N}`, the sutta's own words, a one-line summary and the example words Kaccāyana cites; after "not" come the counter-examples, where the rule does not apply. The summaries use the book's symbols: ①–⑦ for the inflection forms, ⨀ and ⨂ for multiplicity (singular and plural), 🚹🚺🚻 for the genders. The full rules, with every derivation, are at <https://kaccayana.github.io/kaccayana/8-unadikappa>.
 
 ## The senses of the `kita` suffixes {624}–{641}
 

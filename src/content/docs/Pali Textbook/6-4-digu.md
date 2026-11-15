@@ -16,16 +16,16 @@ tags: ["samāsa", "digu"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-Many words of the texts begin with a number: `tilokaṁ` ("the three worlds"),
+Many words of the texts begin with a numeral: `tilokaṁ` ("the three worlds"),
 `saḷāyatanaṁ` ("the six sense bases"), `pañcindriyaṁ` ("the five faculties"),
 and in the Bodhikathā `sattāhaṁ` ("for seven days",
-[3: 2](../3-awakening/#u2-2)). Each is a numeral (`saṅkhyā`, a number word)
+[3: 2](../3-awakening/#u2-2)). Each is a numeral (`saṅkhyā`)
 and a noun made into one word: `tayo lokā` ("three worlds") becomes `tilokaṁ`.
 Kaccāyana calls such a word a `digu` ("numeral compound"): a `kammadhāraya`
 (the compound of section [6.3](../6-3-kammadharaya/), two words naming the
 same thing) whose first member is a numeral {325}.
 
-When you meet a word that begins with a number, ask what the number counts and
+When you meet a word that begins with a numeral, ask what the numeral counts and
 whether the set is taken as one thing. If it is, the compound is singular and
 neuter whatever its members were {321}, and so it ends in `-aṁ` in the ① and
 the ② like any neuter noun: `tayo lokā` is masculine and plural, `tilokaṁ`
@@ -36,7 +36,7 @@ neuter and singular.
 | what you see | what it means | example | rule |
 | --- | --- | --- | :-: |
 | a numeral as the first member, a noun as the second | a `kammadhāraya` beginning with a numeral is a `digu` | `tilokaṁ`, the three worlds (`tayo lokā`) | {325} |
-| the compound singular and neuter, in `-aṁ`, whatever its members | a `digu` is singular and neuter, so its ① ending is `-aṁ` | `catuddisaṁ`, the four directions (`catasso disā`) | {321}, {219} |
+| the compound singular and neuter, in `-aṁ`, whatever its members | a `digu` is singular and neuter, so its ① inflection form ends in `-aṁ` | `catuddisaṁ`, the four directions (`catasso disā`) | {321}, {219} |
 | a feminine last member with `-a-` before the `-ṁ` | in the neuter a final `ā` is shortened, and `a` replaces a final `ī` | `catuddisaṁ` from `disā`; `sattagodāvaraṁ`, the seven Godāvarī rivers, from `godāvarī` | {342}, {337} |
 
 A `digu` is also counted a `tappurisa` {326}, section
@@ -46,10 +46,10 @@ rule of the compounds.
 
 ### The numeral as a first member
 
-Whatever form a number has on its own (`tayo` with a masculine noun, `tīṇi`
+Whatever form a numeral has on its own (`tayo` with a masculine noun, `tīṇi`
 with a neuter one), as a first member it has one short form:
 
-| number | as a first member | examples, with the words they join |
+| numeral | as a first member | examples, with the words they join |
 | --- | --- | --- |
 | three | `ti` | `tilokaṁ` (`tayo lokā`); `tiparivaṭṭaṁ`, with three phases (`tayo parivaṭṭā`); `tidaṇḍaṁ`, the triple rod (`tayo daṇḍā`); `timalaṁ`, the three stains (`tīṇi malāni`); `tiphalaṁ`, the three fruits; `tinayanaṁ`, the three eyes; `tisiṅgaṁ`, a triangle |
 | four | `catu`, the consonant after it doubled {28} | `catuddisaṁ`, the four directions (`catasso disā`) |
@@ -75,7 +75,7 @@ four / directions → the four directions
 
 Each of the following is a `digu`. Say which numeral it holds and what the
 numeral counts, and give the meaning. The first two you met in the Bodhikathā of [chapter 3](../3-awakening/) and the last in the first discourse ([chapter 5](../5-dhammacakka/)); the other two are Kaccāyana's own. Look each
-word up in a dictionary and compare the number and gender of the members with
+word up in a dictionary and compare the multiplicity and gender of the members with
 the compound's.
 
 :::tip[Hint]
@@ -104,7 +104,7 @@ six / sense bases → the six sense bases
 
 ⚧⨂①(satta) 🚻⨂①(aha) → 🚻⨀②🆎(satta+aha)  
 seven / days → for seven days  
-*`satta` and `aha` ("day") run together as `sattāha`; neuter and singular {321}, here in the ② ending for how long.*
+*`satta` and `aha` ("day") run together as `sattāha`; neuter and singular {321}, here in the ② inflection form for how long.*
 
 3. > pañca indriyāni → **pañcindriyaṁ**
 

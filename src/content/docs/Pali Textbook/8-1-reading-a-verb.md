@@ -4,9 +4,9 @@ sidebar:
   label: "8.1: Reading a verb"
   order: 544
 description: >
-  A verb form is a root, class suffix and an ending, and the
-  ending says when, who and how many: the eight sets of endings and their
-  times {414}–{422}, the twelve endings of each set {423}–{430}, the three
+  A verb form is a root, class suffix and an ending; the ending marks its
+  time, person and multiplicity: the eight sets of endings and their times
+  {414}–{422}, the twelve endings of each set {423}–{430}, the three
   persons {408}–{412} and the symbols the book uses for them.
 categories: ["palibook"]
 tags: ["ākhyāta"]
@@ -29,9 +29,8 @@ after the root {445}; and
 - the ending (`vibhatti`) `-ti` {423}, always last {455}.
 
 ([Appendix D](../d-roots/) lists the roots,
-[8.2](../8-2-present/) the class suffixes); the ending describes when, or
-in what mood; who; and
-how many. Kaccāyana sorts the endings into eight sets of twelve, one for each
+[8.2](../8-2-present/) the class suffixes); the ending describes time or mood, person and
+multiplicity. Kaccāyana sorts the endings into eight sets of twelve, one for each
 time or mood {414}–{422}, and names them; the dictionary and this book use
 the names.
 
@@ -80,7 +79,7 @@ met below.
 | ⏭ | `bhavissantī` ("will be") | the future (`anāgata`) | {421} | `bhavissati` |
 | 🔀 | `kālātipatti` ("the time has passed") | a past that did not happen (`kriyātipanna`): "would have" | {422} | `abhavissa` |
 
-`pañcamī` and `sattamī` are labels, shared with the ⑤ and ⑦ noun endings;
+`pañcamī` and `sattamī` are labels, shared with the ⑤ and ⑦ noun inflection forms;
 the other names describe their time. The `hiyyattanī` occurs once in the
 texts (`ajjhagamaṁ`, "I achieved", [Bonus: 47, 965](../11-pbt/#s47-u965-1)) and the
 `parokkhā` once (`āha` inside `evamāha`, [Bonus: 1, 1364](../11-pbt/#s1-u1364-2)); the `ajjatanī` is on
@@ -201,7 +200,7 @@ form / and / indeed / this / Bhikkhave / self / would be
 
 Each of the following is a verb from the texts of chapters [3](../3-awakening/),
 [5](../5-dhammacakka/), [7](../7-anatta/), [9](../9-fire/) and the [bonus chapter](../11-pbt/), in
-the form it has there. Name its set, its ending, its person and its number,
+the form it has there. Name its set, its ending, its person and its multiplicity,
 and say what the sentence means. Look the word up in a dictionary and check
 the ending against the tables above.
 

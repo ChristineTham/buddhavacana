@@ -13,7 +13,7 @@ tags: ["ākhyāta"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-Kaccāyana's Ākhyātakappa {406}–{523} is the chapter on verbs: the endings (`vibhatti`) that mark person, number, tense and mood, the suffixes that stand between root and ending, and the changes the root undergoes. The complete table of the ninety-six endings of the eight tenses and moods {423}–{431}, in both the `parassapada` (🟢) and the `attanopada` (🔵), is in the Basics chapter ([verb endings](../1-basics/#verb-endings-423-430)); this appendix gives the suffixes and the rules.
+Kaccāyana's Ākhyātakappa {406}–{523} is the chapter on verbs: the endings (`vibhatti`) that mark person, multiplicity, tense and mood, the suffixes that stand between root and ending, and the changes the root undergoes. The complete table of the ninety-six endings of the eight tenses and moods {423}–{431}, in both the `parassapada` (🟢) and the `attanopada` (🔵), is in the Basics chapter ([verb endings](../1-basics/#verb-endings-423-430)); this appendix gives the suffixes and the rules.
 
 ## Suffixes between root and ending
 
@@ -37,13 +37,13 @@ The `attanopada` endings are used in the passive and the impersonal {453} and al
 
 ## Rules
 
-Each row gives the sutta number `{N}`, the sutta's own words, a one-line summary and the example words Kaccāyana cites; after "not" come the counter-examples, where the rule does not apply. The summaries use the book's symbols: ①–⑦ for the inflection forms, ⨀ singular, ⨂ plural, 🚹🚺🚻 for the genders. The full rules, with the vutti and every derivation, are at <https://kaccayana.github.io/kaccayana/6-akhyatakappa>.
+Each row gives the sutta number `{N}`, the sutta's own words, a one-line summary and the example words Kaccāyana cites; after "not" come the counter-examples, where the rule does not apply. The summaries use the book's symbols: ①–⑦ for the inflection forms, ⨀ and ⨂ for multiplicity (singular and plural), 🚹🚺🚻 for the genders. The full rules, with the vutti and every derivation, are at <https://kaccayana.github.io/kaccayana/6-akhyatakappa>.
 
 ### Paṭhamakaṇḍa: the endings, the persons, the tenses and moods {406}–{431}
 
 | sutta | rule | summary | examples |
 | :-: | --- | --- | --- |
-| {406} | `Atha pubbāni vibhattīnaṁ cha parassapadāni` | Now, the first six of the inflections are `parassapada` |  |
+| {406} | `Atha pubbāni vibhattīnaṁ cha parassapadāni` | Now, the first six endings are `parassapada` |  |
 | {407} | `Parāṇyattanopadāni` | The latter [six] are `attanopada` |  |
 | {408} | `Dve dve paṭhama majjhimuttamapurisā` | Two by two: first, middle and highest person |  |
 | {409} | `Sabbesamekābhidhāne paro puriso` | When all [persons] are expressed together, the later person | `so ca paṭhati, tvañca paṭhasi, tumhe paṭhatha`, `so ca pacati, tvañca pacasi, tumhe pacatha` |

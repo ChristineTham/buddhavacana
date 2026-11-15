@@ -51,13 +51,14 @@ the noun it describes. Every rule number links to the full rule;
 
 ### The shapes of a `-vantu` or `-mantu` word
 
-Only the ① shows `-vā` or `-mā`. Before the other endings you see `-vant-` or
-`-vat-`, `-mant-` or `-mat-`, and the dictionary lists the word under the
+A word in the ① inflection form ends in `-vā` or `-mā`. In other inflection
+forms, `-vant-` or `-vat-`, `-mant-` or `-mat-` appears before its ending,
+and the dictionary lists the word under the
 lemma `bhagavant`, `āyasmant`, as the symbol lines of chapters
 [3](../3-awakening/), [5](../5-dhammacakka/), [7](../7-anatta/),
 [9](../9-fire/) and the [bonus chapter](../11-pbt/) do:
 
-| ending | what you see | example | rule |
+| inflection form | what you see | example | rule |
 | :-: | --- | --- | :-: |
 | ① | `-vā`, `-mā` | `bhagavā` ([3: 2](../3-awakening/#u2-1), [7: 297](../7-anatta/#u1-1)), `sutavā` ([9: 75](../9-fire/#u8-1)), `āyasmā` ([Bonus: 44, 1257](../11-pbt/#s44-u1257-3)), `satimā` ([Bonus: 40, 699](../11-pbt/#s40-u699-1)) | {124} |
 | ② | `-vantaṁ`, `-mantaṁ` | `bhagavantaṁ`, `āyasmantaṁ` ([Bonus: 44, 1257](../11-pbt/#s44-u1257-3)) | |
@@ -74,7 +75,7 @@ beside `guṇavato`, `guṇavatā`, `guṇavati`.
 
 🚹⨀①(guṇa) *️⃣🤟🚹⨀⑥(ya) 🟢⨀🤟▶️(atthi) → 🚹⨀①🔽(vantu)(guṇavant)  
 virtue / of whom / there is → one who has virtue, virtuous  
-*`vantu` {368}: `guṇa` + `-vā`; the lemma is `guṇavant`, and the ① ends in `-vā` {124}.*
+*`vantu` {368}: `guṇa` + `-vā`; the lemma is `guṇavant`, and the word in the ① inflection form ends in `-vā` {124}.*
 
 > mati yassa atthi → **matimā**
 

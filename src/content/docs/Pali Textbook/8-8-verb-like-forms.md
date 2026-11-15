@@ -24,9 +24,9 @@ Bhagavā, the earth-dwelling devas raised a cry". Its one finite verb is
 and carries the rest of the action in verb-like words.
 
 Kaccāyana names the affixes `kicca` {545} and `kita` {546}; the words made with
-them count as nouns {601}, so a participle takes the gender, number and ending
+them count as nouns {601}, so a participle takes the gender, multiplicity and inflection form
 of its noun, as an adjective does, while an absolutive or an infinitive has no
-ending {221}. The texts mark them 🔽(affix)(word). Ask of each: which affix is
+noun inflection form {221}. The texts mark them 🔽(affix)(word). Ask of each: which affix is
 on the end, and does it say the action is done, going on, to be done, done
 before the main verb, or its purpose?
 
@@ -47,7 +47,7 @@ it: `gato`, `buddho` {557}. It agrees with its noun, `paṭipadā … abhisambud
 
 | what you see | example | rule |
 | --- | --- | :-: |
-| `-nto`, `-aṁ` ①, `-to` ④ ⑥: the endings of `bhagavā` ([2.3](../2-3-irregular/)) | `gacchanto` (walking), `icchaṁ` (wanting), `passaṁ` (seeing, [9: 75](../9-fire/#u8-1)), `jānato` (for one knowing) | {565}, {186}, {187}, {127} |
+| literal endings `-nto`, `-aṁ` (①), `-to` (④/⑥), as in `bhagavant` ([2.3](../2-3-irregular/)) | `gacchanto` (walking), `icchaṁ` (wanting), `passaṁ` (seeing, [9: 75](../9-fire/#u8-1)), `jānato` (for one knowing) | {565}, {186}, {187}, {127} |
 | `-māno`, `-māne`; on a passive ([8.6](../8-6-voice/)), "being X-ed" | `bhaññamāne` (being spoken), `pariyesamāno` (searching for) | {565} |
 
 At the same time as the main verb: `gacchanto … pajānāti`, "while walking, he
@@ -74,7 +74,7 @@ the word agreeing with the thing to be done, `antā … sevitabbā` 🚹⨂①; 
 
 The earlier of two actions by one doer {564}: `saddaṁ sutvā …
 saddamanussāvesuṁ`, "having heard the cry, they raised a cry"; a chain of them
-tells a story in order. It never changes shape, has no ending {221}, and takes
+tells a story in order. It never changes shape, has no noun inflection form {221}, and takes
 its object in the ②.
 
 ### In order to: the infinitive `-tuṁ`
@@ -84,7 +84,7 @@ its object in the ②.
 | `-tuṁ`, `-ituṁ`, with a verb of wishing or as the purpose of an action | `sotuṁ icchati` (wishes to hear), `gantuṁ` (to go) | {561}, {596} |
 | `-tuṁ` with `sakkā` (possible), `sukaraṁ` (easy), `arahati` (is fit), `alaṁ` (enough) | `carituṁ` (to live), `kātuṁ` (to do) | {562}, {563}, {595} |
 
-No ending {221}; the object in the ②: `brahmacariyaṁ carituṁ`, "to live the
+No noun inflection form {221}; the object in the ②: `brahmacariyaṁ carituṁ`, "to live the
 spiritual path".
 
 ### When X had happened: the ⑦ and the ⑥ absolute
@@ -95,10 +95,10 @@ spiritual path".
 | both ⑥, for a person whose doing is disregarded: "though" ([4.7](../4-7-sami/)) | `rudato dārakassa pabbaji` (though the boy wept, he went forth) | {305} |
 
 :::note[`sutvā` or `sutaṁ`?]
-Both say the hearing is over. `sutvā` keeps one shape, has no ending and
+Both say the hearing is over. `sutvā` keeps one shape, has no noun inflection form and
 belongs to the doer of the main verb; `sutaṁ`, `sutena` wear a noun's ending
 and agree with a noun. A `-ta` or `-māna` word in `-e`, `-smiṁ` or `-esu`
-beside a noun with the same ending, and no verb of its own, is the ⑦ absolute.
+beside a noun with the same inflection form, and no verb of its own, is the ⑦ absolute.
 :::
 
 ### Examples
@@ -119,7 +119,7 @@ two / these / Bhikkhave / extremes / by one gone forth / not / should be cultiva
 
 🚹⨀②(sadda) 🔽(tvā)(suṇāti) 🚹⨂①(cātumahārājika) 🚹⨂①(deva) 🟠⨂🤟⏮(saddamanussāveti)  
 the cry / having heard / the Cātumahārājikā / devas / raised a cry  
-*`sutvā`: `tvā` {564}, the hearing before the crying, both by the same devas; no ending {221}, the object `saddaṁ` in the ②; [5: 2217](../5-dhammacakka/#u12-2).*
+*`sutvā`: `tvā` {564}, the hearing before the crying, both by the same devas; no noun inflection form {221}, the object `saddaṁ` in the ②; [5: 2217](../5-dhammacakka/#u12-2).*
 
 > ubho ante **anupagamma**
 
@@ -189,4 +189,4 @@ in this / and / moreover / detailed exposition / being spoken
 
 ⏏️(evaṁ) 🚹⨀①🔽(anta)(passanta) 🚹⨂⓪(bhikkhu) 🚹⨀①(sutavant) 🚹⨀①🆎(ariya+sāvaka)  
 thus / seeing / Bhikkhave / learned / disciple of the liberated  
-*`passaṁ`, "seeing": `anta` {565}, its `-nta` become `-aṁ` before the ① ending {186}, agreeing with `ariyasāvako` 🚹⨀①; [9: 75](../9-fire/#u8-1).*
+*`passaṁ`, "seeing": `anta` {565}, its `-nta` become `-aṁ` before the ① inflection form {186}, agreeing with `ariyasāvako` 🚹⨀①; [9: 75](../9-fire/#u8-1).*

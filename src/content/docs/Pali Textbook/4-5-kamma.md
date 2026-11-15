@@ -4,10 +4,10 @@ sidebar:
   label: "4.5: `kamma`"
   order: 528
 description: >
-  The ② ending marks the `kamma`, the object: whatever is made, seen, heard or
-  reached {280}, {297}. The same ending measures a time or a distance that an
+  The ② inflection form marks the `kamma`, the object: whatever is made, seen, heard or
+  reached {280}, {297}. The same inflection form measures a time or a distance that an
   action fills {298}, goes with a governing particle {299} or a "makes someone
-  do" verb {300}, and in a few places stands where another ending is expected
+  do" verb {300}, and in a few places stands where another inflection form is expected
   {306}–{307}.
 categories: ["palibook"]
 tags: ["kāraka", "kamma"]
@@ -20,17 +20,17 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 Nearly every sentence has a word for what the action is done to:
 the teaching that is heard, the umbrella that is made, the village that is gone
 to. Kaccāyana names that word the `kamma` (the object): whatever one does, sees
-or hears {280}, and it takes the ② ending {297}, `aṁ` in the singular
+or hears {280}, and it takes the ② inflection form {297}, `aṁ` in the singular
 (`dhammaṁ`) and, for a lemma in `a`, `-e` in the plural (`dhamme`), as chapter 1
 tabled. So `dhammaṁ suṇāti` is "he hears the teaching": English shows the
 object by its place after the verb, with no preposition.
 
-The same ending measures a stretch of time or distance that an action fills,
+The same inflection form measures a stretch of time or distance that an action fills,
 `sattāhaṁ nisīdi`, "he sat for seven days" ([3: 2](../3-awakening/#u2-2))
 {298}. So ask of a ② word: what does the verb do to this, or where does it get
 to? If neither, look down the table.
 
-### The uses of the ② ending
+### The uses of the ② inflection form
 
 | what the ② word is doing | what you see | example | rule |
 | --- | --- | --- | :-: |
@@ -44,7 +44,7 @@ to? If neither, look down the table.
 | standing in for ⑦: a point of time | a time word in ② where `-e` or `-smiṁ` is expected | `ekaṁ samayaṁ bhagavā`, at one time the Bhagavā | {307} |
 
 Every rule number links to the full rule in the Kaccāyana translation;
-[chapter 1](../1-basics/) tables the typical meanings of every ending. The last
+[chapter 1](../1-basics/) tables the typical meanings of every inflection form. The last
 three uses are rare, `ekaṁ samayaṁ`, the opening of most suttas
 ([5: 2206](../5-dhammacakka/#u1-1), [7: 297](../7-anatta/#u1-1),
 [9: 75](../9-fire/#u1-1)), the one to remember.
@@ -86,7 +86,7 @@ for a month / rice with meat / [he] eats
 ### Exercises
 
 Translate these sentences, all met in the texts of chapters 3, 7 and 9 (each
-is linked to its sentence). Each has at least one word with the ② ending: find
+is linked to its sentence). Each has at least one word in the ② inflection form: find
 it and say from the table what it is doing.
 
 :::tip[Hint]

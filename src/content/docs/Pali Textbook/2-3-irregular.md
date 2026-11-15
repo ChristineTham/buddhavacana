@@ -4,9 +4,9 @@ sidebar:
   label: "2.3: Irregular inflections"
   order: 516
 description: >
-  The common nouns that do not follow `purisa`: `rājā`, `attā`, `brahmā`,
+  Nouns that do not inflect like `purisa`: `rājā`, `attā`, `brahmā`,
   `satthā`, `pitā`, `mātā`, `bhagavā`, `āyasmā`, `arahaṁ`, the participles in
-  `-ant`, `kamma`, the `mano` group and `go`; the shapes a reader meets, and
+  `-ant`, `kamma`, the `mano` group and `go`; the inflected shapes and
   the rule that makes each.
 categories: ["palibook"]
 tags: ["nāma", "vibhatti"]
@@ -17,11 +17,10 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
 Most nouns follow [2.2](../2-2-nouns/). A few
-dozen very common words do not. Their endings do the same jobs; what differs
-is the shape, and the lemma never shows itself: no text has `rāja`, only
-`rājā`, `rañño`.
+dozen very common words do not. Their inflected forms are irregular, and the lemma
+is seldom seen directly: no text has `rāja`, only `rājā`, `rañño`.
 
-So the question of 2.2, "which ending, and so which job?", gets one step in
+So the question of 2.2, "What is the inflected shape?", gets one step in
 front of it: "which of this word's few shapes is this?" The shapes recur:
 `-ā` is ① (`rājā`, `bhagavā`), `-ānaṁ` is ② (`attānaṁ`), `-no` and `-to` are
 ④⑥ (`rañño`, `bhagavato`), `-nā` and `-tā` are ③ (`brahmunā`, `bhagavatā`),
@@ -32,7 +31,7 @@ tables every rule cited below.
 
 ### `rājā`, `attā`, `brahmā`
 
-| lemma | what you see | ending | rule |
+| lemma | inflected forms | analysis | rule |
 | --- | --- | :-: | :-: |
 | `rāja` (king) | `rājā`; `rājānaṁ`; `rājāno` | ①⨀; ②⨀; ①②⨂ | {189}; {188}; {190} |
 | | `raññā`, `rājena`; `rañño`, `rājino`; `raññe`, `rājini` | ③⨀; ④⑥⨀; ⑦⨀ | {137}; {135}; {138} |
@@ -47,7 +46,7 @@ tables every rule cited below.
 The lemmas `satthu`, `pitu`, `mātu` 🚺 put `-ār-` or `-ar-` before most
 endings {209}; in a compound the lemma is bare: `satthugāravena`.
 
-| lemma | what you see | ending | rule |
+| lemma | inflected forms | analysis | rule |
 | --- | --- | :-: | :-: |
 | `satthu` (teacher), `pitu` (father), `mātu` (mother) | `satthā`, `pitā`, `mātā`; `satthāro`, `pitaro` | ①⨀; ①②⨂ | {199}; {205} |
 | | `satthāraṁ`, `pitaraṁ`, `mātaraṁ`; `satthārā`, `pitarā`, `mātarā` | ②⨀; ③⨀ | {200}; {207}, {209} |
@@ -60,7 +59,7 @@ endings {209}; in a compound the lemma is bare: `satthugāravena`.
 `bhagavā` and `āyasmā` end in the affix `ntu` ("having"); the participles in
 `-ant` and `mahanta` ("great") share these endings in every form but ① {187}.
 
-| lemma | what you see | ending | rule |
+| lemma | inflected forms | analysis | rule |
 | --- | --- | :-: | :-: |
 | `bhagavantu`, `āyasmantu` (words in `ntu`) | `bhagavā`, `āyasmā` | ①⨀, ⓪ | {124}, {126} |
 | | `bhagavantaṁ`, `āyasmantaṁ`, `mahantaṁ` | ②⨀ | {92} |
@@ -82,7 +81,7 @@ decides.
 
 The `s` of `manasā` is inserted before a vowel ending {184}.
 
-| lemma | what you see | ending | rule |
+| lemma | inflected forms | analysis | rule |
 | --- | --- | :-: | :-: |
 | `kamma` 🚻 (action) | `kammunā`, `kammanā`, `kammena`; `kammani`, `kamme`; the rest as `citta` | ③⨀; ⑦⨀ | {160}; {197}, {108} |
 | `mano` (mind), `cetas`, `vacas`, `tapas`, `tejo`, `yasas`, `siro`: the `mano` group | `mano`, `ceto`, `tejo`; `mano-` in a compound | ①⨀ | {104}; {183} |
@@ -111,7 +110,7 @@ filled with goodwill/friendliness / with intent
 
 ### Exercises
 
-Name the lemma, ending, number and rule of each word in bold; the sentences are
+Name the lemma, ending, multiplicity and inflection form of each word in bold; the sentences are
 from chapters [5](../5-dhammacakka/), [7](../7-anatta/), [9](../9-fire/) and
 the [bonus chapter](../11-pbt/).
 

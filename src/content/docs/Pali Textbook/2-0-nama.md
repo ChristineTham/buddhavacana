@@ -4,7 +4,7 @@ sidebar:
   label: "2: Nouns and more"
   order: 513
 description: >
-  The inflections of nouns and related words (pronouns, numbers, prefixes and particles). How to read words in a sentence: split the joined words, recognise the inflected ending, find the lemma.
+  The inflections of nouns and related words (pronouns, numerals, prefixes and particles). How to read words in a sentence: split the joined words, recognise the inflection form marked by the ending, find the lemma.
 categories: ["palibook"]
 tags: ["nāma", "sandhi", "sabbanāma", "saṅkhyā", "upasagga", "nipāta"]
 ---
@@ -14,14 +14,14 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
 :::note[How this chapter fits]
-Chapter 1 introduced nouns, pronouns, numbers, prefixes and particles in a few pages each; this chapter deepens them, with the forms from Kaccāyana's Nāmakappa and Sandhikappa. Its examples and exercises are sentences from the texts of chapters 3, 5, 7 and 9 and the bonus chapter. The text that follows it is chapter 3, the Buddha's account of his awakening.
+Chapter 1 introduced nouns, pronouns, numerals, prefixes and particles in a few pages each; this chapter deepens them, with the forms from Kaccāyana's Nāmakappa and Sandhikappa. Its examples and exercises are sentences from the texts of chapters 3, 5, 7 and 9 and the bonus chapter. The text that follows it is chapter 3, the Buddha's account of his awakening.
 :::
 
 Chapter 1 set out the parts of a Pāḷi sentence and, at its end, the master
 table of endings. This chapter is about the inflections of nouns (`nāma`), and noun subclasses such as:
 
 - the pronouns and their relatives (`sabbanāma`),
-- the numbers (`saṅkhyā`)
+- the numerals (`saṅkhyā`)
 
 Some words are typically uninflected:
 
@@ -42,7 +42,7 @@ flowchart LR
   A --> A3["an absolutive -tvā or an infinitive -tuṁ (8.8)"]
   N --> N1["a noun or an adjective (2.2, 2.3)"]
   N --> N2["sabbanāma: a pronoun (2.4)"]
-  N --> N3["saṅkhyā: a number (2.5)"]
+  N --> N3["saṅkhyā: a numeral (2.5)"]
   N --> N4["samāsa: a compound (chapter 6)"]
   N --> N5["taddhita, kita, uṇādi: a derived word (chapter 10)"]
   N --> N6["a participle -ta, -anta, -māna, -tabba (8.8)"]
@@ -53,7 +53,7 @@ this chapter describe the process in more detail:
 
 ```mermaid
 flowchart TD
-  S1["1. Is it two words joined? split them (2.1)"] --> S2["2. What is the ending, and therefore the gender, multiplicity and inflection form? (2.2, 2.3)"]
+  S1["1. Is it two words joined? split them (2.1)"] --> S2["2. What is the inflected shape, and therefore the gender, multiplicity and inflection form? (2.2, 2.3)"]
   S2 --> S3["3. What is the lemma? look it up in a dictionary"]
   S3 --> S4["4. What is role of the word in the sentence? Determined by inflection form - see chapter 4"]
 ```
@@ -61,7 +61,7 @@ flowchart TD
 | section | covers | Kaccāyana | appendix |
 | :-: | --- | --- | :-: |
 | [2.1](../2-1-sandhi/) | `sandhi`: how words can be joined together, and how to undo them | {12}–{51} | [E](../e-sandhi/) |
-| [2.2](../2-2-nouns/) | gender, number and the eight endings; the major inflection tables in one view, `purisa`, `aggi`, `bhikkhu`, `kaññā`, `ratti`, `nadī`, `citta`, `aṭṭhi`, `cakkhu`; adjectives agree | {55}–{119}, {215}–{245} | [G](../g-vibhatti/) |
+| [2.2](../2-2-nouns/) | gender, multiplicity and the eight inflection forms; the major inflection tables in one view, `purisa`, `aggi`, `bhikkhu`, `kaññā`, `ratti`, `nadī`, `citta`, `aṭṭhi`, `cakkhu`; adjectives agree | {55}–{119}, {215}–{245} | [G](../g-vibhatti/) |
 | [2.3](../2-3-irregular/) | the irregular inflections: `rājā`, `attā`, `satthā`, `bhagavā`, `kamma`, `mano` | {126}–{138}, {181}–{214}, {243} | [G](../g-vibhatti/) |
 | [2.4](../2-4-pronouns/) | `sabbanāma`: `so`, `ayaṁ`, `yo`, `ko`, `sabba`, `ahaṁ`, `tvaṁ`, and the adverbs made from them | {139}–{151}, {161}–{177}, {247}–{260}, {398}–{399} | [L](../l-sabbanama/) |
 | [2.5](../2-5-numbers/) | `saṅkhyā`: one to a hundred thousand, and the ordinals | {67}–{90}, {131}–{134}, {205}, {373}–{394} | [H](../h-taddhita/) |

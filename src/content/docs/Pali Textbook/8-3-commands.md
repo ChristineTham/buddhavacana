@@ -31,12 +31,12 @@ may, should or would? The ending answers: `-tu`, `-ntu`, `-hi` and `-eyy-`
 are unmistakable, while `-tha`, `-mi` and `-ma` are the present's too, and
 only the sense decides. Kaccāyana lists each set's twelve endings in {424} and
 {425}, the active `parassapada` (🟢) six, then the `attanopada` (🔵) six.
-`pañcamī` and `sattamī` are also the names of the ⑤ and ⑦ noun endings; the
+`pañcamī` and `sattamī` are also the names of the ⑤ and ⑦ noun inflection forms; the
 symbols ⏹ and ⏯ keep the verb sets apart.
 
 ### The `pañcamī` ⏹: commands and blessings {415}
 
-| what you see | person | number | example | rule |
+| what you see | person | multiplicity | example | rule |
 | --- | --- | :-: | --- | :-: |
 | `-tu` | third | ⨀ | `karotu`, `hotu` ([7: 298](../7-anatta/#u2-3)), `desetu` ("let him teach"), `uppajjatu` | {424} |
 | `-ntu` | third | ⨂ | `hontu` ("may they be", [7: 300](../7-anatta/#u4-6)), `kamantu` ("let them come") | {424} |
@@ -48,7 +48,7 @@ symbols ⏹ and ⏯ keep the verb sets apart.
 
 ### The `sattamī` ⏯: may, should, would {416}
 
-| what you see | person | number | example | rule |
+| what you see | person | multiplicity | example | rule |
 | --- | --- | :-: | --- | :-: |
 | `-eyya` | third | ⨀ | `kareyya` ("he would do"), `saṁvatteyya` ([7: 298](../7-anatta/#u2-2)), `padūseyya` | {425} |
 | `-eyyuṁ` | third | ⨂ | `saṁvatteyyuṁ` ([7: 300](../7-anatta/#u4-5)), `okanteyyuṁ` | {425} |
@@ -127,7 +127,7 @@ not / this / mental constructions / to affliction / would lead
 ### Exercises
 
 Each of the following is a verb from chapter [7](../7-anatta/) or the [bonus chapter](../11-pbt/), in
-the form it has there. Name the set, the ending, the person and the number, and say
+the form it has there. Name the set, the ending, the person and the multiplicity, and say
 whether it is a command, a wish or a supposition. Look each up in a
 dictionary and check its ending against the tables.
 

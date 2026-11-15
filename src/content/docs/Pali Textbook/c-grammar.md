@@ -125,7 +125,7 @@ substantive =
 
 Nouns are constructed from a base, the lemma. Kaccāyana refers to the nominal base as the `liṅga`, but this word is also used to refer to the grammatical gender of nouns. `liṅga` technically means defining "characteristic" or "attribute" and hence the term is appropriate for both, as the defining characteristic of a noun is the base together with the gender. Other words that can be used to represent the base are `pāṭipadika` or `sadda`.
 
-A fully formed noun-word is constructed by combining the base with optional prefixes, infixes, affixes and suffixes. The final suffix is the inflectional-ending and expresses the inflection form (the relationship of the noun to other parts of a sentence), number (singular or plural) and gender (masculine, feminine, or neuter).
+A fully formed noun-word is constructed by combining the base with optional prefixes, infixes, affixes and suffixes. The word-ending, the final suffix, expresses the inflection form (the relationship of the noun to other parts of a sentence), multiplicity (singular or plural) and gender (masculine, feminine, or neuter).
 
 ```plantuml
 @startebnf
@@ -138,8 +138,8 @@ noun =
 affixes =
   (primary_affix (* kitapaccaya *) |
   secondary_affix (* taddhitapaccaya *)),
-  noun_ending (* vibhatti *) ;
-noun_ending =
+  noun_form (* vibhatti *) ;
+noun_form =
   gender (* liṅga*),
   multiplicity (* vacana *),
   inflection_form (* vibhatti *) ;
@@ -196,8 +196,8 @@ verb =
   {root (* dhātu *)}-,
   [infix (* āgamo *)],
   voice_affixes (* paccaya *),
-  verb_ending (* vibhatti *) ;
-verb_ending =
+  verb_form (* vibhatti *) ;
+verb_form =
   kāraka_relation (* kāraka *),
   person (* purisa *),
   multiplicity (* vacana *),
@@ -251,8 +251,8 @@ compound =
   ?tappurisa : Determinative? |
   ?bahubbīhi : Relative? |
   ?dvandva : Copulative? ;
-verb_derivative = root (* dhātu *), primary_affix, noun_ending ;
-noun_derivative = lemma (* liṅga *), secondary_affix (* taddhita *), noun_ending ;
+verb_derivative = root (* dhātu *), primary_affix, noun_form ;
+noun_derivative = lemma (* liṅga *), secondary_affix (* taddhita *), noun_form ;
 primary_affix = kita | kicca | unadi;
 @endebnf
 ```

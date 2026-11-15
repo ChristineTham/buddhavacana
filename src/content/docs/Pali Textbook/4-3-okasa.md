@@ -4,9 +4,9 @@ sidebar:
   label: "4.3: `okāsa`"
   order: 526
 description: >
-  A word with the ⑦ ending names where, or when, an action happens:
+  A word in the ⑦ inflection form names where, or when, an action happens:
   `sāvatthiyaṁ viharati jetavane`, "[he] dwells at Sāvatthī, in Jeta's Grove".
-  The `okāsa` (location) and its four kinds {278}, the ⑦ ending for it {302},
+  The `okāsa` (location) and its four kinds {278}, the ⑦ inflection form for it {302},
   for a time and for an event that sets the time {313}, and its rarer senses
   {310}–{312}, {314}–{315}.
 categories: ["palibook"]
@@ -19,17 +19,17 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 
 Most suttas open by saying where the Buddha was staying: `sāvatthiyaṁ
 viharati jetavane`, "[he] dwells at Sāvatthī, in Jeta's Grove". The two words
-that name the place carry the ⑦ ending, and a word with that ending is the
+that name the place carry the ⑦ inflection form, and a word in that form is the
 `okāsa` (the location): the place, the thing or the time an action is set in,
 its support (`ādhāra`) {278}. Ask of it "in, on or at what does this happen?";
-the ending's other senses, listed below, the sentence itself makes plain.
+the form's other senses, listed below, the sentence itself makes plain.
 
-On the page the ending is `-e`, `-smiṁ`, `-mhi`, `-āyaṁ`, `-iyaṁ` or `-su`
+The literal word-endings for the ⑦ inflection form are `-e`, `-smiṁ`, `-mhi`, `-āyaṁ`, `-iyaṁ` or `-su`
 after a long vowel (`jetavane`, `pāpasmiṁ`, `ajaramhi`, `velāyaṁ`,
 `sāvatthiyaṁ`, `bhikkhūsu`), `smiṁ` and `su` in Kaccāyana's list {55};
 [Appendix G](../g-vibhatti/) tables the endings of every kind of word.
 
-### The uses of the ⑦ ending
+### The uses of the ⑦ inflection form
 
 | what the noun is doing | what you see | example | rule |
 | --- | --- | --- | :-: |
@@ -46,7 +46,7 @@ after a long vowel (`jetavane`, `pāpasmiṁ`, `ajaramhi`, `velāyaṁ`,
 | gladdened by, zealous in | ⑦, or ③, with `pasīdita`, `ussukka` | `ñāṇasmiṁ pasīdito` — gladdened in knowledge | {315} |
 
 The first four rows are the uses on every page; the rest are rare. A time is
-often in the ③ ending instead, `tena samayena` ("at that time"), the words the
+often in the ③ inflection form instead, `tena samayena` ("at that time"), the words the
 Bodhikathā opens with ([3: 2](../3-awakening/#u2-1)) {290}; two uses ⑦
 shares with ⑥, "among" {304} and "despite" {305}, are in [4.7](../4-7-sami/).
 

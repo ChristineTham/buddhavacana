@@ -4,9 +4,9 @@ sidebar:
   label: "4.6: `kattā`, `hetu`"
   order: 529
 description: >
-  The one who does the action (`kattā`, the agent) takes the ① ending with an
-  active verb and the ③ ending, "by", with a passive one {281}, {284}, {288};
-  the one who makes another act (`hetu`, the causer) takes the ① ending with a
+  The one who does the action (`kattā`, the agent) takes the ① inflection form with an
+  active verb and the ③ inflection form, "by", with a passive one {281}, {284}, {288};
+  the one who makes another act (`hetu`, the causer) takes the ① inflection form with a
   causative verb {282}.
 categories: ["palibook"]
 tags: ["kāraka", "kattā", "hetu"]
@@ -21,7 +21,7 @@ the action about: the `kattā` (the agent), the one who does the action {281},
 and the `hetu` (the causer), the one who makes the agent do it {282}; the same word names the cause in ③ of [4.4](../4-4-karana/) {289}, the reason for an action. In
 `atha kho bhagavā … nisīdi` ("then the Bhagavā sat down",
 [3: 2](../3-awakening/#u2-2)) the agent is
-`bhagavā`: it carries the ① ending, and the verb `nisīdi` agrees with it. The
+`bhagavā`: it carries the ① inflection form, and the verb `nisīdi` agrees with it. The
 causer is an agent as well, which is why the Basics chapter calls it the
 `hetu-kattā`.
 
@@ -37,10 +37,10 @@ translation.
 
 | what the noun is doing | what you see | example | rule |
 | --- | --- | --- | :-: |
-| the agent (`kattā`) of an active verb 🟢 | the ① ending; the verb agrees with it in number and person | `bhagavā … nisīdi`, "the Bhagavā sat down" ([3: 2](../3-awakening/#u2-2)) | {281}, {284} |
-| the agent of a passive verb 🔴 or of a past participle 🔽(ta) | the ③ ending, "by"; the thing done takes ① and the verb agrees with that | `ahinā daṭṭho naro`, "the man [is] bitten by a snake" | {281}, {288} |
-| the causer (`hetu`), who makes the agent act | the ① ending with a causative verb 🟠 (`-eti`, `-āpeti`, "makes someone do"): `kāreti`, `hāreti`, `pāṭheti`, `pāceti`, `dhāreti` | `so puriso … kāreti`, "that man makes … do" | {282}, {438} |
-| the one made to act by the causer | the ② ending, or ③, or ⑥ | `taṁ purisaṁ`, `tena purisena`, `tassa purisassa` | {282}, {300} |
+| the agent (`kattā`) of an active verb 🟢 | the ① inflection form; the verb agrees with it in multiplicity and person | `bhagavā … nisīdi`, "the Bhagavā sat down" ([3: 2](../3-awakening/#u2-2)) | {281}, {284} |
+| the agent of a passive verb 🔴 or of a past participle 🔽(ta) | the ③ inflection form, "by"; the thing done takes ① and the verb agrees with that | `ahinā daṭṭho naro`, "the man [is] bitten by a snake" | {281}, {288} |
+| the causer (`hetu`), who makes the agent act | the ① inflection form with a causative verb 🟠 (`-eti`, `-āpeti`, "makes someone do"): `kāreti`, `hāreti`, `pāṭheti`, `pāceti`, `dhāreti` | `so puriso … kāreti`, "that man makes … do" | {282}, {438} |
+| the one made to act by the causer | the ② inflection form, or ③, or ⑥ | `taṁ purisaṁ`, `tena purisena`, `tassa purisassa` | {282}, {300} |
 
 ### Examples
 
@@ -70,7 +70,7 @@ that / man / that / man / the work / makes do
 
 ### Exercises
 
-In each sentence find the agent or the causer and say which ending it carries
+In each sentence find the agent or the causer and say which inflection form it carries
 and why. Look up the words in a dictionary, perform the necessary sandhi and
 compound word deconstruction, and take note of the `vibhatti` endings to deduce
 the meaning of the sentence. The first four sentences are from the texts, each

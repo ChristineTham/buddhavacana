@@ -13,8 +13,8 @@ tags: ["nipāta"]
 Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
-A `nipāta` (particle) is a small word that never changes: no gender, no number,
-no ending to read. Kaccāyana's rule {221} drops every ending after a particle,
+A `nipāta` (particle) is a small word that never changes: it has no gender,
+multiplicity or inflection form, and takes no inflectional suffix. Kaccāyana's rule {221} drops every ending after a particle,
 as after an `upasagga` ([2.6](../2-6-upasagga/)) and after `āvuso` ("friend").
 The texts mark a particle ⏏️.
 

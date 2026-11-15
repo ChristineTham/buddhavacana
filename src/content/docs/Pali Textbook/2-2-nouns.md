@@ -4,8 +4,8 @@ sidebar:
   label: "2.2: Nouns"
   order: 515
 description: >
-  Noun inflections: gender (`liṅga`), number and the eight sets
-  of endings; the inflection tables of the major lemma classes in one view,
+  Noun inflections: gender (`liṅga`), multiplicity and the eight inflection forms;
+  the inflection tables of the major lemma classes in one view,
   `purisa`, `aggi`, `bhikkhu`, `kaññā`, `ratti`, `nadī`, `citta`, `aṭṭhi`,
   `cakkhu`; adjectives agree.
 categories: ["palibook"]
@@ -20,7 +20,8 @@ Every noun (`nāma`, "a name") used in a sentence is inflected to reflect it's r
 This section contains the inflection tables of various classes of
 lemma based on lemma endings. Once the inflection form is recognised, [chapter 4](../4-0-karaka/) can be used to determine the role of the word in the sentence. The
 master table of endings at the end of [chapter 1](../1-basics/#recognising-a-word-the-endings-at-a-glance)
-is the same information presented the other way around (from inflected ending to lemma class).
+is the same information presented the other way around (from the word's ending to its lemma class).
+An inflection form is the grammatical category of an inflected word; its ending is the literal final part of that word.
 
 A noun has a gender (`liṅga`) {53}, which can usually be recognised by
 the lemma's ending. An inflected noun also conveys multiplicity, ie. singular (`ekavacana`) ⨀
@@ -66,7 +67,7 @@ Feminine nouns: lemmas ending in `-ā` (`kaññā`, "girl"), `-i` (`ratti`,
 "night") and `-ī` (`nadī`, "river"); a lemma in `-u` or `-ū` (`dhenu`, "cow";
 `vadhū`, "young wife") goes like `ratti` and `nadī` with `u` for `i`:
 
-| ending | `kaññā` ⨀ | `kaññā` ⨂ | `ratti` ⨀ | `ratti` ⨂ | `nadī` ⨀ | `nadī` ⨂ |
+| inflection form | `kaññā` ⨀ | `kaññā` ⨂ | `ratti` ⨀ | `ratti` ⨂ | `nadī` ⨀ | `nadī` ⨂ |
 | :-: | --- | --- | --- | --- | --- | --- |
 | ① | `kaññā` | `kaññā`, `kaññāyo` | `ratti` | `rattī`, `rattiyo` | `nadī` | `nadī`, `nadiyo` |
 | ② | `kaññaṁ` | `kaññā`, `kaññāyo` | `rattiṁ` | `rattī`, `rattiyo` | `nadiṁ` | `nadī`, `nadiyo` |
@@ -82,7 +83,7 @@ and `-u` (`cakkhu`, "eye"); only ①, ② and ⓪ differ from the masculine of t
 same class, so the rest of each column reads as `purisa`, `aggi` and
 `bhikkhu`:
 
-| ending | `citta` ⨀ | `citta` ⨂ | `aṭṭhi` ⨀ | `aṭṭhi` ⨂ | `cakkhu` ⨀ | `cakkhu` ⨂ |
+| inflection form | `citta` ⨀ | `citta` ⨂ | `aṭṭhi` ⨀ | `aṭṭhi` ⨂ | `cakkhu` ⨀ | `cakkhu` ⨂ |
 | :-: | --- | --- | --- | --- | --- | --- |
 | ① | `cittaṁ` | `cittāni` | `aṭṭhi` | `aṭṭhīni`, `aṭṭhī` | `cakkhu` | `cakkhūni`, `cakkhū` |
 | ② | `cittaṁ` | `cittāni` | `aṭṭhiṁ` | `aṭṭhīni`, `aṭṭhī` | `cakkhuṁ` | `cakkhūni`, `cakkhū` |
@@ -117,7 +118,7 @@ dhammā` ([3: 6](../3-awakening/#u6-1)) has a plural verb, so `dhammā` is ①�
 ### Adjectives agree
 
 An adjective (`guṇanāma`, "a quality-word") has no gender of its own: it
-takes the gender, number and ending of its noun, so both are inflected consistently:
+takes the gender, multiplicity and inflection form of its noun, so both are inflected consistently:
 `ariyo aṭṭhaṅgiko maggo` ("the path of the liberated in eight parts", [5: 2208](../5-dhammacakka/#u3-2)),
 🚹⨀① on all three words; `bhummā devā` ([5: 2217](../5-dhammacakka/#u12-1)), 🚹⨂①;
 `pañcavaggiye bhikkhū` ([5: 2206](../5-dhammacakka/#u1-2)), 🚹⨂② in two shapes, `-e`
@@ -169,8 +170,8 @@ of the night / first / watch
 
 Each sentence or phrase is from chapter [3](../3-awakening/),
 [5](../5-dhammacakka/), [7](../7-anatta/), [9](../9-fire/) or the
-[bonus chapter](../11-pbt/), which translates it. Name the gender, number
-and ending of every noun or adjective; in the last three the word in bold
+[bonus chapter](../11-pbt/), which translates it. Name the gender, multiplicity
+and inflection form of every noun or adjective; in the last three the word in bold
 is a lemma in `i` or `u`. `bhagavā` belongs to [2.3](../2-3-irregular/).
 
 :::tip[Hint]

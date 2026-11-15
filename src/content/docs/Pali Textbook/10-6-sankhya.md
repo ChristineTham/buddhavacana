@@ -4,7 +4,7 @@ sidebar:
   label: "10.6: `saṅkhyā`, `abyaya`"
   order: 559
 description: >
-  `dutiyaṁ` ("second") is the number two with an ordinal affix {373}–{387};
+  `dutiyaṁ` ("second") is the numeral two with an ordinal affix {373}–{387};
   `vīsati` ("twenty") and `sataṁ` ("a hundred") are tens run together and
   reshaped {388}–{395}; `sabbaso` ("altogether") and `tathā` ("so") are a
   noun or a pronoun with an affix of division or manner {397}–{399}. How to
@@ -18,24 +18,24 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 :::
 
 The texts count things on every page: the first `jhāna`, the second, third
-and fourth directions. From a number (`saṅkhyā`) two kinds of word are made
+and fourth directions. From a numeral (`saṅkhyā`) two kinds of word are made
 with an affix. An ordinal (`saṅkhyāpūraṇa`, "the completer of a number") is
-the number with an affix: `dvinnaṁ pūraṇo` ("the completer of two") and the one word
+the numeral with an affix: `dvinnaṁ pūraṇo` ("the completer of two") and the one word
 `dutiyo` ("second") say the same thing {385}. A word of division or manner
-is a number or a pronoun with an affix meaning "in so many ways" or "in that
-way", `ekadhā` ("in one way"), `tathā` ("so"); it never changes its ending,
+is a numeral or a pronoun with an affix meaning "in so many ways" or "in that
+way", `ekadhā` ("in one way"), `tathā` ("so"); it does not inflect,
 being a particle (`nipāta`), marked ⏏️ in this book.
 
 The question to ask is what ends the word: `-ma`, `-tiya` or `-ttha` makes
 an ordinal; `-dhā`, `-so`, `-thā` or `-thaṁ` a word of division or manner;
-and a number from eleven upwards is two numbers run together, `dvā-dasa`
+and a numeral from eleven upwards is two numerals run together, `dvā-dasa`
 ("two-ten", twelve), with a few letters changed.
 
 ### How to recognise an ordinal
 
-| number | ordinal | what you see | rule |
+| numeral | ordinal | what you see | rule |
 | :-: | --- | --- | :-: |
-| 1 `eka` | `paṭhamo`: `paṭhamaṁ yāmaṁ` ([3: 2](../3-awakening/#u2-3)), `paṭhamaṁ jhānaṁ` ([Bonus: 38, 697](../11-pbt/#s38-u697-6)) | no number inside it: a word of its own | {666} |
+| 1 `eka` | `paṭhamo`: `paṭhamaṁ yāmaṁ` ([3: 2](../3-awakening/#u2-3)), `paṭhamaṁ jhānaṁ` ([Bonus: 38, 697](../11-pbt/#s38-u697-6)) | no numeral inside it: a word of its own | {666} |
 | 2, 3 `dvi`, `ti` | `dutiyo`, `tatiyo`: `dutiyaṁ jhānaṁ` ([Bonus: 39, 698](../11-pbt/#s39-u698-1)) | `-tiya`; `dvi` and `ti` have become `du` and `ta` | {385}, {386} |
 | 4 `catu` | `catuttho`: `catutthaṁ jhānaṁ` ([Bonus: 41, 700](../11-pbt/#s41-u700-1)) | `-ttha` | {384} |
 | 5 `pañca` | `pañcamo` | `-ma` | {373} |
@@ -44,9 +44,9 @@ and a number from eleven upwards is two numbers run together, `dvā-dasa`
 | a day of the fortnight | `ekādasī`, `cātuddasī`, `pañcadasī` | feminine `-ī` on `dasa`; `pañcadasiṁ` ("on the fifteenth") ends in `ṁ` | {375}, {377} |
 | one, two, three and a half | `diyaḍḍho` (`divaḍḍho`), `aḍḍhatiyo`, `aḍḍhuḍḍho` | `aḍḍha` ("half") with the ordinal: "the second with a half" is one and a half | {387} |
 
-### The numbers from eleven to a hundred thousand
+### The numerals from eleven to a hundred thousand
 
-| number | forms | what to notice | rule |
+| numeral | forms | what to notice | rule |
 | :-: | --- | --- | :-: |
 | 11, 13 | `ekādasa` (`ekārasa`), `terasa` | `eka`, `ti` + `dasa`, the first changed to `ekā`, `te`; the `d` may become `r` | {375}, {383}, {381} |
 | 12 | `dvādasa`, `bārasa` | `dvi` as `dvā` or `bā` | {383}, {380} |
@@ -57,16 +57,16 @@ and a number from eleven upwards is two numbers run together, `dvā-dasa`
 | 20, 30 | `vīsaṁ`, `vīsati`; `tiṁsaṁ`, `tiṁsati` | `dasa dasa` counted as one word and reshaped, `vī`, `ti` + `-saṁ`, or `-ti` on the end | {388}, {389}, {378} |
 | 40 to 90 | `cattālīsaṁ` (`tālīsaṁ`), `paññāsaṁ`, `saṭṭhi`, `sattati` (`sattari`), `asīti`, `navuti` | `cattā`, `paññā`, `sa`, `satta`, `asa`, `nava` with `-līsaṁ`, `-saṁ`, `-ṭṭhi`, `-ti`, `-īti`, `-uti`; forty, with `l` for `r`, may lose its `ca` | {389}, {379}, {390}, {374} |
 | 100 | `sataṁ` | ten tens, one neuter word | {393} |
-| 200 to 1,000 | `dvisataṁ` … `navasataṁ`, `dasasataṁ`, `sahassaṁ` | the number before `sata`; a thousand is ten hundreds; forms no rule reaches are simply stated | {392}, {393}, {391} |
+| 200 to 1,000 | `dvisataṁ` … `navasataṁ`, `dasasataṁ`, `sahassaṁ` | the numeral before `sata`; a thousand is ten hundreds; forms no rule reaches are simply stated | {392}, {393}, {391} |
 | 10,000 and up | `dasasahassaṁ`, `satasahassaṁ`; `koṭi` (ten million) … `asaṅkhyeyyaṁ` ("the incalculable") | each step ten times the last; beyond, names of their own | {394}, {395} |
-| a group | `dvikaṁ` ("a pair"), `tikaṁ`, `catukkaṁ` | `-ka` on a number | {392} |
+| a group | `dvikaṁ` ("a pair"), `tikaṁ`, `catukkaṁ` | `-ka` on a numeral | {392} |
 | `dvi` in a compound | `durattaṁ` ("two nights"), `diguṇaṁ` ("double") | `du` or `di` for `dvi` | {380}, {386} |
 
 ### The affixes of division and manner
 
 | affix | added to | the word means | examples | rule |
 | :-: | --- | --- | --- | :-: |
-| `dhā` | a number | "in so many ways", "into so many parts" | `ekadhā`, `dvidhā` ("into two"), `tidhā`, `catudhā` | {397} |
+| `dhā` | a numeral | "in so many ways", "into so many parts" | `ekadhā`, `dvidhā` ("into two"), `tidhā`, `catudhā` | {397} |
 | `so` | a noun | "one by one" | `suttaso` ("by the rule"), `padaso` ("word by word"), `sabbaso` ("altogether") | {397} |
 | `thā` | a pronoun | "in that way" | `tathā` ("so"), `yathā` ("as"), `sabbathā` ("in every way"), `aññathā` ("otherwise") | {398} |
 | `thattā` | a pronoun | the same | `tathattā` | {398} |
@@ -81,13 +81,13 @@ Every rule number links to the full rule in the Kaccāyana translation;
 
 ⚧⨂⑥(pañca) 🚹⨀①(pūraṇa) → 🚹⨀①🔽(ma)(pañcama)  
 of five / the completer → the fifth  
-*`ma` {373}: the number with `-ma`; the ordinal takes the gender, number and ending of its noun.*
+*`ma` {373}: the numeral with `-ma`; the ordinal takes the gender, multiplicity and inflection form of its noun.*
 
 > ekena vibhāgena → **ekadhā**
 
 *️⃣🤟🚹⨀③(eka) 🚹⨀③(vibhāga) → ⏏️🔽(dhā)(ekadhā)  
 by one / division → in one way  
-*`dhā` {397}: the number with `-dhā`, "in so many ways"; a particle, it never changes.*
+*`dhā` {397}: the numeral with `-dhā`, "in so many ways"; a particle, it never changes.*
 
 ### Exercises
 

@@ -108,9 +108,10 @@ So the book has a simple shape. Chapter 1 is the overview: it covers every
 key feature of the Pāḷi language, and a reader who has worked through it can
 start reading `sutta`s. The chapters after it are optional, and deepen what
 chapter 1 introduces. They alternate between grammar and texts. Each grammar
-chapter takes one part of the language, the nouns and their endings, what an
-ending says a noun is doing in a sentence, compounds, verbs, words derived
-from other words, with the information taken from my translation of
+chapter takes one part of the language: nouns and their inflection
+forms; how an inflection form marks a noun's role in a sentence; compounds;
+verbs; and words derived from other words. The information comes from my
+translation of
 Kaccāyana; every rule number in braces, `{104}`, links to the rule itself on
 [kaccayana.github.io](https://kaccayana.github.io). After each grammar
 chapter comes an interlinear translation, a text read word by word with its

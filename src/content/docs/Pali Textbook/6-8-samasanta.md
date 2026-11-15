@@ -20,7 +20,7 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 When words join into a compound their endings are dropped {317} and the whole
 takes one ending; the last member usually keeps its shape, as `aggi` ("fire")
 does in `rāgagginā` ("with the fire of passion", [9: 75](../9-fire/#u2-6)),
-which carries the ③ ending of `aggi` itself. Four rules let it
+which ends in `-inā`, the ending of `aggi` in the ③ inflection form. Four rules let it
 change at the `samāsanta` ("the end of a compound"), whatever the kind of
 compound. The first is the one you will meet everywhere: a word with endings of
 its own, such as `rāja` ("king": `rājā`, `rañño` {135}), closes a compound in
