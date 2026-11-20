@@ -5,12 +5,15 @@ import { defineConfig, fontProviders } from "astro/config";
 import { satteri } from "@astrojs/markdown-satteri";
 import starlight from "@astrojs/starlight";
 import starlightTags from "starlight-tags";
-import plantuml from "astro-plantuml";
+import { plantumlFences } from "./src/plugins/plantuml.mjs";
+import { plantumlWatch } from "./src/plugins/plantuml-watch.mjs";
 import kaccayanaLinks from "./src/plugins/remark-kaccayana-links.mjs";
 import endingsChart from "./src/plugins/remark-endings-chart.mjs";
 import { citations } from "./src/plugins/citations.mjs";
 import { mermaidFences } from "./src/plugins/mermaid.mjs";
 import { writeTagsConfig } from "./src/lib/tags.mjs";
+
+const SITE_BASE = "/buddhavacana/";
 
 // starlight-tags reads its tag definitions (labels for the folded tag IDs) from this file.
 writeTagsConfig("./src/content/docs", "./.astro/tags.yml");
@@ -21,7 +24,7 @@ writeTagsConfig("./src/content/docs", "./.astro/tags.yml");
 // pandoc-style citations ([@Norman1997] or @Norman1997, resolved against bibliography.bib and rendered
 // in APA style under the page's `## References` heading; src/plugins/citations.mjs).
 const processor = satteri({
-  mdastPlugins: [kaccayanaLinks(), endingsChart(), mermaidFences()],
+  mdastPlugins: [kaccayanaLinks(), endingsChart(), mermaidFences(), plantumlFences({ base: SITE_BASE })],
   hastPlugins: [citations()],
 });
 // Astro caches each page's rendered Markdown until the page or the config digest changes, and the
@@ -34,12 +37,16 @@ Object.assign(processor.options, {
 // https://astro.build/config
 export default defineConfig({
   site: "https://christham.net",
-  base: "/buddhavacana/",
+  base: SITE_BASE,
   // Fetch pages on hover so navigation is near-instant (with the cross-fade in custom.css).
   prefetch: { prefetchAll: true },
   // PixiJS, for the graph view, is one large chunk, loaded only when the graph is shown. Mermaid is
   // pre-bundled for the dev server; src/components/Mermaid.astro loads it on demand.
-  vite: { optimizeDeps: { include: ["mermaid"] }, build: { chunkSizeWarningLimit: 1500 } },
+  vite: {
+    plugins: [plantumlWatch()],
+    optimizeDeps: { include: ["mermaid"] },
+    build: { chunkSizeWarningLimit: 1500 },
+  },
   // the chapter 2 sections of the Pāḷi textbook were renumbered on 2026-10-18 (2.2–2.4 merged into 2.2 and 2.3)
   redirects: {
     "/pali-textbook/2-3-vowel-lemmas": "/buddhavacana/pali-textbook/2-2-nouns/",
@@ -78,7 +85,6 @@ export default defineConfig({
     },
   ],
   integrations: [
-    plantuml(),
     starlight({
       title: "buddhavacana",
       description:

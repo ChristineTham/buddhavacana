@@ -30,6 +30,26 @@
   --sl-color-black: #f4eee8;
 }
 
+/* PlantUML assets are rendered in both themes at build time. */
+.plantuml-diagram {
+  margin: 2rem 0;
+  text-align: center;
+}
+.plantuml-diagram img {
+  max-width: 100%;
+  height: auto;
+  margin-inline: auto;
+}
+.plantuml-diagram .plantuml-light {
+  display: none;
+}
+:root[data-theme="light"] .plantuml-diagram .plantuml-dark {
+  display: none;
+}
+:root[data-theme="light"] .plantuml-diagram .plantuml-light {
+  display: block;
+}
+
 /* The endings charts of the Pāḷi Textbook (src/plugins/remark-endings-chart.mjs): one bar per reading. */
 .endings {
   margin: 1.25rem 0 1.5rem;

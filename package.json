@@ -15,17 +15,17 @@
   "scripts": {
     "clean": "rm -rf dist .astro node_modules .netlify",
     "refresh": "pnpm dlx @astrojs/upgrade; pnpm up -L",
-    "dev": "astro dev",
-    "start": "astro dev",
-    "build": "astro build",
+    "dev": "pnpm run render:plantuml && astro dev",
+    "start": "pnpm run dev",
+    "build": "pnpm run render:plantuml && astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "render:plantuml": "node scripts/render-plantuml.mjs"
   },
   "dependencies": {
     "@astrojs/starlight": "0.43.1",
     "@floating-ui/dom": "^1.8.0",
     "astro": "7.4.12",
-    "astro-plantuml": "^1.0.1",
     "d3-drag": "^3.0.1",
     "d3-force": "^3.0.1",
     "d3-selection": "^3.0.1",
