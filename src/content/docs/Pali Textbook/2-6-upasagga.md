@@ -26,13 +26,13 @@ follow the root's meaning, those that reverse it (`gacchati` "goes",
 `āgacchati` "comes") and those that sharpen it (`jānāti` "knows", `pajānāti`
 "knows clearly").
 
-Ask of such a word: what is left when the prefix is taken off, and what did it
-add? The Digital Pāḷi Dictionary's `construction` field answers the first
-(`vi + hara + ti`), the first table below the second. A prefix may change
+To analyse am unknown word with a prefix (that is possibly not in the dictionary) - consider the meaning of the prefix together with the meaning of the root.
+The Digital Pāḷi Dictionary often breaks the construction of a word into components, eg.
+`vi + hara + ti`. A prefix may change
 shape at the join, and two or three may stand together (`abhisambuddho`); the
-second table gives the shapes. The texts' analysis lines and the dictionary treat a prefixed word as
-one lemma, `🟢⨀🤟▶️(viharati)`: the prefix is to be seen through, not looked
-up.
+second table gives the shapes. The texts' analysis lines and the dictionary often treat a prefixed word as
+one lemma, `🟢⨀🤟▶️(viharati)`: in which case the dictionary ready provides a meaning for the lemma so there no need
+to analyse the word by components (prefixes and root).
 
 ### The twenty prefixes
 

@@ -16,14 +16,22 @@ Part of "A Beginner (Non-Linguist) Guide to Learning Pali"
 A `nipāta` (particle) is a small word that is always uninflected: it has no gender,
 multiplicity or inflection form, and takes no inflectional suffix. Kaccāyana's rule {221} drops every ending after a particle,
 as after an `upasagga` ([2.6](../2-6-upasagga/)) and after `āvuso` ("friend").
-The texts mark a particle ⏏️.
+This text marks a particle using the symbol ⏏️.
 
-Ask what it does to the words around it: joins (`ca`), offers a choice
-(`vā`), adds (`pi`), stresses (`eva`), denies (`na`), closes a quotation (`ti`),
-asks (`nu`), or sets time, place and manner (`dāni`, `idha`, `evaṁ`). `kho`,
-`pana` and `hi` sit second in the sentence (`atha kho`, `idaṁ kho pana`), often
-untranslated. A particle often merges with the next word: `yo cāyaṁ` ([5: 2207](../5-dhammacakka/#u2-3)) is `yo ca
-ayaṁ` ([2.1](../2-1-sandhi/)).
+Some common particles and their meanings:
+
+- joins (`ca`),
+- offers a choice (`vā`),
+- adds (`pi`),
+- stresses (`eva`),
+- denies (`na`),
+- closes a quotation (`ti`),
+- asks (`nu`), or
+- sets time, place and manner (`dāni`, `idha`, `evaṁ`).
+
+`kho`, `pana` and `hi` often act as a stress when they come second in the sentence (`atha kho`, `idaṁ kho pana`),
+and these are often untranslated. A particle often merges with the next word:
+`yo cāyaṁ` ([5: 2207](../5-dhammacakka/#u2-3)) is `yo ca ayaṁ` ([2.1](../2-1-sandhi/)).
 
 ### Joining and negating
 

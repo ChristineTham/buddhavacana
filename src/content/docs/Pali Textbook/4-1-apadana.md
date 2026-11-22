@@ -23,7 +23,7 @@ something arises from {296}. The Bodhikathā of [chapter 3](../3-awakening/)
 shows it at each step of its chain of cessation: `bhavanirodhā jātinirodho`,
 "with the cessation of existence comes the cessation of the birth of suffering" ([3: 4](../3-awakening/#u4-10)).
 
-You know the ⑤ inflection form by its endings, ⨀ `-smā` (`buddhasmā`), or `-ā` {108} or
+The ⑤ inflection form can be recognised by its endings, ⨀ `-smā` (`buddhasmā`), or `-ā` {108} or
 `-mhā` {99} in its place (`gāmā`, `anavatattamhā`), 🚺⨀ `-āya` (`sālāya`), ⨂
 `-ehi` (`āsavehi`, "from the defilements", [7: 308](../7-anatta/#u12-3)), and
 by the affix `-to`, which carries the same sense (`ito`, `yato`, `tato`) {248};

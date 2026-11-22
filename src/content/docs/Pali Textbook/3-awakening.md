@@ -14,7 +14,7 @@ Part of “A Beginner (Non-Linguist) Guide to Learning Pali”
 :::
 
 :::note[How this chapter fits]
-This is the first of the interlinear translations: a text read word by word, with the analysis and a gloss beneath every sentence and the translation after it. Chapter 1 is enough to read it; chapter 2, the noun chapter before it, tables the forms it uses, and the grammar chapters take their examples from it.
+This is the first of the interlinear translations: a text read word by word, with the analysis and a gloss beneath every sentence and the translation after it. You should be able to attempt this after chapter 1, but chapter 2 will help you understand and recognise the noun inflections.
 :::
 
 ## Bodhikathā

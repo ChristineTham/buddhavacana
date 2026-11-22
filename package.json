@@ -25,7 +25,7 @@
   "dependencies": {
     "@astrojs/starlight": "0.43.1",
     "@floating-ui/dom": "^1.8.0",
-    "astro": "7.4.12",
+    "astro": "7.4.13",
     "d3-drag": "^3.0.1",
     "d3-force": "^3.0.1",
     "d3-selection": "^3.0.1",
@@ -48,6 +48,6 @@
     "@types/d3-selection": "^3.0.12",
     "@types/d3-zoom": "^3.0.9",
     "@typescript/typescript6": "^6.0.2",
-    "cspell": "^10.5.0"
+    "cspell": "^10.5.2"
   }
 }
