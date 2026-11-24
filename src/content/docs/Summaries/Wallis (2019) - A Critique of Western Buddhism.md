@@ -80,7 +80,7 @@ tags:
 
 * The author questions what Western Buddhism offers beyond its conventional focus on "Wisdom."
 * "Wisdom" is popularly conceived as a pure, simple truth, free from ideology, which aligns with the idea of a *philosophia perennis* (perennial philosophy).
-* This notion is challenged by the Buddhist concept of dependent origination, which posits that nothing exists independently but arises from entangling causes.
+* This notion is challenged by the Buddhist concept of contingent coarising, which posits that nothing exists independently but arises from entangling causes.
 * The author proposes engaging with Buddhism through the concept of "the Real"—that which is beyond symbolic representation and conceptual delusion, as hinted at by terms like emptiness (śūnyatā), impermanence (anicca), and not-self (anātman).
 * The absence of "the Real" in Western Buddhist discourse allows it to correspond with New Age self-help and the pursuit of wellbeing.
 
@@ -103,7 +103,7 @@ tags:
 
 * Ancient Buddhist teachings, originally developed in retreat from commerce, are now framed in ways that appeal to corporate interests.
 * This transformation is attributed to the influence of neoliberal ideology on contemporary subjectivity.
-* For example, the classical concept of "dependent origination" as an imprisoning web has been repurposed into a joyous "celebration of this interwoven world."
+* For example, the classical concept of "contingent coarising" as an imprisoning web has been repurposed into a joyous "celebration of this interwoven world."
 * Neoliberalism shapes a subject who feels powerless and must adapt to an unknowable world, a view reinforced by Western Buddhist teachings that advocate for accepting suffering and letting go of control.
 * Both Western Buddhism and neoliberalism emphasise "technologies of the self," shifting the focus of change from external social and economic conditions to the individual's inner life, which helps preserve the status quo.
 

@@ -22,7 +22,7 @@ tags:
 - Noble Eightfold Path
 - Non-self (anātman)
 - Five Aggregates (skandha)
-- Conditioned Origination (pratītyasamutpāda)
+- Contingent Coarising (pratītyasamutpāda)
 - Meditation (dhyāna)
 - Asceticism
 - Liberating knowledge (prajñā)

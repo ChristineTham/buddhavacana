@@ -35,8 +35,8 @@ Then the Bhagavā sat at the root of the Bodhi tree for seven days in one cross-
 
 <a id="u2-3"></a>Atha kho bhagavā rattiyā paṭhamaṁ yāmaṁ paṭiccasamuppādaṁ anulomapaṭilomaṁ manasākāsi—  
 ⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚺⨀⑥(ratti) 🚹⨀②(paṭhama) 🚹⨀②(yāma) 🚹⨀②🆎(paṭicca+samuppāda) 🚹⨀②🆎(anuloma+paṭiloma) 🟢⨀🤟⏮(manasikaroti)  
-then | indeed | the Bhagavā | of the night | first | watch | dependent origination | in forward and reverse order | attended to  
-Then the Bhagavā, during the first watch of the night, attended to `paṭiccasamuppādaṁ` (dependent origination) in forward and reverse order —
+then | indeed | the Bhagavā | of the night | first | watch | contingent coarising | in forward and reverse order | attended to  
+Then the Bhagavā, during the first watch of the night, attended to `paṭiccasamuppādaṁ` (contingent coarising) in forward and reverse order —
 
 <a id="u3-1"></a>[3](https://tipitaka2500.github.io/tipitaka/3V/1/1.1.html#3) “Avijjāpaccayā saṅkhārā,  
 🚹⨀⑤🆎(avijjā+paccaya) 🚹⨂①(saṅkhāra)  
@@ -188,8 +188,8 @@ since he understands the dependent nature of phenomena.”
 
 <a id="u7-1"></a>[7](https://tipitaka2500.github.io/tipitaka/3V/1/1.1.html#7) Atha kho bhagavā rattiyā majjhimaṁ yāmaṁ paṭiccasamuppādaṁ anulomapaṭilomaṁ manasākāsi—  
 ⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚺⨀⑥(ratti) 🚹⨀②(majjhima) 🚹⨀②(yāma) 🚹⨀②🆎(paṭicca+samuppāda) 🚹⨀②🆎(anuloma+paṭiloma) 🟢⨀🤟⏮(manasikaroti)  
-then | indeed | the Bhagavā | of the night | middle | watch | dependent origination | in forward and reverse order | attended to  
-Then the Bhagavā, during the middle watch of the night, attended to dependent origination in forward and reverse order —
+then | indeed | the Bhagavā | of the night | middle | watch | contingent coarising | in forward and reverse order | attended to  
+Then the Bhagavā, during the middle watch of the night, attended to contingent coarising in forward and reverse order —
 
 <a id="u7-2"></a>“avijjāpaccayā saṅkhārā,  
 🚹⨀⑤🆎(avijjā+paccaya) 🚹⨂①(saṅkhāra)  
@@ -341,8 +341,8 @@ since he has understood the destruction of causes.”
 
 <a id="u10-1"></a>[10](https://tipitaka2500.github.io/tipitaka/3V/1/1.1.html#10) Atha kho bhagavā rattiyā pacchimaṁ yāmaṁ paṭiccasamuppādaṁ anulomapaṭilomaṁ manasākāsi—  
 ⏏️(atha) ⏏️(kho) 🚹⨀①(bhagavant) 🚺⨀⑥(ratti) 🚹⨀②(pacchima) 🚹⨀②(yāma) 🚹⨀②🆎(paṭicca+samuppāda) 🚹⨀②🆎(anuloma+paṭiloma) 🟢⨀🤟⏮(manasikaroti)  
-then | indeed | the Bhagavā | of the night | last | watch | dependent origination | in forward and reverse order | attended to  
-Then the Bhagavā, during the last watch of the night, attended to dependent origination in forward and reverse order —
+then | indeed | the Bhagavā | of the night | last | watch | contingent coarising | in forward and reverse order | attended to  
+Then the Bhagavā, during the last watch of the night, attended to contingent coarising in forward and reverse order —
 
 <a id="u10-2"></a>“avijjāpaccayā saṅkhārā,  
 🚹⨀⑤🆎(avijjā+paccaya) 🚹⨂①(saṅkhāra)  

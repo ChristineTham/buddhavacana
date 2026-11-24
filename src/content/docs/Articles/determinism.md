@@ -34,11 +34,11 @@ Or, to paraphrase a popular movie,
 >
 > Roy Batty, *Blade Runner*
 
-## Dependent origination
+## Contingent coarising
 
-`Paṭiccasamuppāda` (dependent origination) was the Buddha's own thought process leading to awakening, and the framework for his phenomenological interpretation of the causes leading to `dukkha` (suffering). This seems to be arguing for both deterministic and volitional views of our ability to influence the future.
+`Paṭiccasamuppāda` (contingent coarising) was the Buddha's own thought process leading to awakening, and the framework for his phenomenological interpretation of the causes leading to `dukkha` (suffering). This seems to be arguing for both deterministic and volitional views of our ability to influence the future.
 
-On one hand, the causal links between the links in the dependent origination chain of causes strongly suggest a deterministic view of the future, that future consequences are determined by our past actions and behaviour. This is based on a phenomenological and causative view of consciousness - that our consciousness is an aggregation of past subjective experiences and volitional choices, which then determines our future experience of the world.
+On one hand, the causal links between the links in the contingent coarising chain of causes strongly suggest a deterministic view of the future, that future consequences are determined by our past actions and behaviour. This is based on a phenomenological and causative view of consciousness - that our consciousness is an aggregation of past subjective experiences and volitional choices, which then determines our future experience of the world.
 
 However, implicit in the above is the notion that we do have volitional choices, we can make decisions today that impact the future. In particular, a decision to cease production of non-optimal mental constructions will lead to an avoidance of `dukkha` in the future. This strongly suggests the Buddha believes in the notion of free will. Or does it?
 

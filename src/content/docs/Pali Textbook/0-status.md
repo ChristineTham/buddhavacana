@@ -32,7 +32,7 @@ first arahants to a selection of the core teachings.
 | [0](../0-intro/) | | why this book, and how it differs from other Pāḷi textbooks |
 | [1](../1-basics/) | grammar | an overview of the whole language in one chapter: the writing system and sounds, the shape of a sentence, every part of speech, the symbols the book uses |
 | [2](../2-0-nama/) | grammar | `nāma` and `sandhi`: how words join and split, the endings of nouns, pronouns, numerals, prefixes and particles |
-| [3](../3-awakening/) | text | the Bodhikathā: the night of the awakening and dependent origination (Vinaya Mahāvagga 1.1) |
+| [3](../3-awakening/) | text | the Bodhikathā: the night of the awakening and contingent coarising (Vinaya Mahāvagga 1.1) |
 | [4](../4-0-karaka/) | grammar | `kāraka`: what each inflection form says a noun is doing in the sentence |
 | [5](../5-dhammacakka/) | text | the Dhammacakkappavattanasutta: the first discourse, the middle way and the four realisations (14S5/12.2.1) |
 | [6](../6-0-samasa/) | grammar | `samāsa`: compounds, the six kinds and how to split them |

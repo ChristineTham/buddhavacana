@@ -32,7 +32,7 @@ tags:
 - Emptiness
 - śūnyatā
 - svabhāva
-- Dependent origination
+- Contingent coarising
 - pratītyasamutpāda
 - ataraxia
 - Suspension of judgement
@@ -262,7 +262,7 @@ tags:
 *   The author proposes that Pyrrhonism is a "phenomenalistic atomism," which transforms Democritus's physical atomism.
 *   In this view, the "atoms" are not physical particles but the thoughts and sensations that combine to form our experience (*pragmata*).
 *   This unique perspective, which no other Greek school held, was likely an insight Pyrrho gained from Indian gymnosophists, specifically Buddhists.
-*   Pyrrho may have translated the Buddhist principle of dependent origination—which explains experience without an external organising power—into the Greek language of atomism.
+*   Pyrrho may have translated the Buddhist principle of contingent coarising—which explains experience without an external organising power—into the Greek language of atomism.
 
 ## 6.
 
@@ -274,7 +274,7 @@ tags:
 ## 7.
 
 *   The author suggests seven parallels between Pyrrhonism and core Buddhist concepts:
-    1.  **Pyrrhonian fluctuating appearances** match **Buddhist dependent origination**.
+    1.  **Pyrrhonian fluctuating appearances** match **Buddhist contingent coarising**.
     2.  **Pyrrhonian rejection of dogmatic belief** matches **Buddhist rejection of clinging/attachment**.
     3.  **Pyrrhonian rejection of positive and negative dogmatism** matches **Buddhist rejection of eternalism and annihilationism**.
     4.  **Pyrrhonian open inquiry** matches the **Buddhist Middle Path**.
@@ -353,7 +353,7 @@ tags:
 *   A late 20th-century Japanese movement led by Matsumoto Shirō and Hakamaya Noriaki.
 *   Argued that early Buddhism was rational and sceptical, but these aspects had withered, particularly in Zen.
 *   Advocated for a reformation based on a distinction between "critical" thinking (making clear distinctions) and "topical" thinking (essentialism).
-*   The goal is not satori (awakening) but "the clear discrimination of phenomena" in the service of wisdom and compassion, founded on faith in key doctrines like dependent origination.
+*   The goal is not satori (awakening) but "the clear discrimination of phenomena" in the service of wisdom and compassion, founded on faith in key doctrines like contingent coarising.
 
 ## Radical Buddhism
 
