@@ -1,6 +1,10 @@
 ---
 title: James William Coleman - The New Buddhism - The Western Transformation of an Ancient Tradition
-description: A scholarly examination of "Greater Magadha" as a distinct cultural sphere in early India, separate from the Vedic-Brahmanical tradition. The text argues that key concepts like rebirth and karmic retribution originated in this region, which gave rise to Buddhism, Jainism, and Ājīvikism, and were only later absorbed by Brahmanism. It also offers a chronological re-evaluation of late-Vedic literature.
+description: >-
+  Summary of James William Coleman's sociological study of Western convert
+  Buddhism ("the new Buddhism") across Zen, Tibetan Vajrayāna, and Vipassanā
+  movements, examining its lay orientation, meditation focus, demographics,
+  and crises of sex, power, and authority.
 sidebar:
   label: Coleman - The New Buddhism
 hero:
