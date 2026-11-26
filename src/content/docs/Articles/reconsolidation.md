@@ -2,8 +2,8 @@
 title: Memory Reconsolidation and the Buddha's Teachings
 description: >-
   How the neuroscience of memory reconsolidation — beginning with Karim Nader's
-  landmark 2000 study — illuminates the Buddha's account of conditioned mental
-  constructions and the cessation of suffering.
+  landmark 2000 study — relates to the Buddha's soteriology by updating  mental
+  constructions in order to eliminate suffering.
 sidebar:
   label: Memory Reconsolidation
 tags:
@@ -66,9 +66,9 @@ Importantly, memory reconsolidation does **not** erase autobiographical facts (w
 
 Memory reconsolidation offers a compelling modern scientific lens through which to understand several core claims of the Buddha's soteriology.
 
-### Conditioned Mental Constructions (`saṅkhārā`) and Contingent Coarising
+### Mental Constructions (`saṅkhārā`) and Contingent Coarising
 
-In the Buddha's phenomenological framework of [contingent coarising (`paṭiccasamuppāda`)](/buddhavacana/sutta/deporig), `dukkha` (suffering) is not an intrinsic property of external events. Rather, it is constructed through a chain of conditioned responses: sensory contact gives rise to feelings (`vedanā`), which trigger craving (`taṇhā`) and fuel (`upādāna`), driven by deeply ingrained mental constructions (`saṅkhārā`) and ignorance (`avijjā`) of our constructed sense of self.
+In the Buddha's phenomenological framework of [contingent coarising (`paṭiccasamuppāda`)](/buddhavacana/sutta/deporig), `dukkha` (suffering) is not an intrinsic property of external events. Rather, it is constructed through a chain of contingent responses: sensory contact gives rise to feelings (`vedanā`), which trigger craving (`taṇhā`) and fuel (`upādāna`), driven by deeply ingrained mental constructions (`saṅkhārā`) and ignorance (`avijjā`) of our constructed sense of self.
 
 In neurobiological terms, those habitual `saṅkhārā` behave much like consolidated implicit emotional learnings — automatic predictive models built from past experience that dictate what we crave, fear, and resist. If consolidated emotional traces were truly permanent, as twentieth-century neuroscience once assumed, then the Buddha's claim that `dukkha` can be **uprooted permanently** (rather than merely coped with indefinitely) would look neurologically implausible. Memory reconsolidation shows that deep emotional learnings are *not* permanently fixed: under the right conditions, the original trace can be unlocked and transformed at its root [@Nader2000; @CoherenceTherapyMR].
 
