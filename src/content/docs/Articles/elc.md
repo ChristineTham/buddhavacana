@@ -4,7 +4,7 @@ sidebar:
   label: Experiential Learning Cycle
 ---
 
-The eightfold path can be regarded as a guide towards reflective thinking, and consciously revisiting past actions and mental constructs in order to perform "memory reconsolidation" with a view towards future optimal mental constructs and actions.
+The eightfold path can be regarded as a guide towards reflective thinking, and consciously revisiting past actions and mental constructs in order to perform **memory reconsolidation** with a view towards future optimal mental constructs and actions [@CoherenceTherapyMR]. In modern neuroscience, memory reconsolidation refers to the process by which a reactivated emotional memory temporarily enters a malleable window (lasting roughly five hours); when recalled alongside a vivid contradictory experience — a **prediction error** or mismatch — the original trace itself is updated during re-storage rather than merely suppressed by a competing habit [@CoherenceTherapyMR].
 
 As such, the eightfold path can be compared to Kolb's Experiential Learning Theory [@Kolb1984].
 
